@@ -37,14 +37,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **74** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **75** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-26 09:49 (UTC+8)
+- **最新归档时间**：2026-09-26 15:53 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-26 15:53 (UTC+8)" title="全球要闻情报简报 · 15:53" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-26 15:50 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？：你是否曾想要过一辆能轻松从乏味的城市沥青路面切换到砂石与泥土探险的电动自行车？这正是一类被称为“电动SUV”（eSUV）的电动自行车声称能做到的事情——凭借其宽大的全地形轮胎、前后避震系统，以及挡泥板和货架等实用配件。因此，我决定在Amflow最新推出的TL Carbon电动自行车上亲自测试这一点。Amflow是大疆（DJI）旗下的分支品牌，几年前曾凭借极其小巧且强大的Avinox电机颠覆了山地自行车行业。在阿姆斯特丹市中心进行了一个月；【undefined】乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）：一段视频展示了Valve旗下的热门掌机正被以一种极乎意料的方式使用。；【undefined】每日天文一图（APOD）：2026年9月26日——镜中流星与银河：每日天文一图（APOD）：2026年9月26日——…… 每日天文一图 探索宇宙！每天都会展示一张展现我们迷人宇宙的影像或照片，并由专业天文学家撰写简要说明。 镜中流星与银河 说明：8月15日，这颗英仙座流星划过了西班牙加那利群岛拉帕尔马岛罗克·德洛斯·穆查乔斯天文台（Observatorio del Roque de los Muchachos）上空的夜空。这道明亮且绚丽的流星余迹被定格在银河核心旁，银河中暗淡的星际尘埃云与璀璨的星光延；【undefined】日本11岁电竞神童栗原悠希斩获亚运会金牌：金牌得主栗原悠希（Yuki Kurihara）是一名小学生，也是东道主日本队亚运会历史上最年轻的运动员。；【undefined】美联储理事会宣布批准 Peoples Bancorp Inc. 的申请：美国政府官方网站 官方网站使用 .gov。一个 .gov 网站隶属于美国官方政府组织。 安全的 .gov 网站使用 HTTPS。锁形图标或 https:// 意味着您已安全连接到该 .gov 网站。请仅在官方、安全的网站上分享敏感信息。 作为美国的中央银行，美联储为国家提供安全、灵活且稳定的货币和金融体系。 联邦公开市场委员会 货币政策原则与实践 政策实施 货币政策策略、工具与沟通审议 并购及其他申请 监管与法规通函 监管与政策资源 银；【undefined】剑桥分析丑闻案：陪审团裁定Facebook欺诈用户罪名成立：更新于：2026年9月25日 / 美国东部时间下午6:26 / 哥伦比亚广播公司（CBS）/美联社；【undefined】Crusoe 放弃斥资 12.5 亿美元在 AI 数据中心使用 Boom 燃气轮机的计划：总部位于丹佛的 AI 数据中心初创公司 Crusoe 近期刚刚筹集了 39 亿美元，该公司现已终止采用同在丹佛的 Boom Supersonic 公司所研发的新系列固定式发电装置的计划。；【undefined】在罢免CEO未遂事件后，Automattic组建了新董事会：在Automattic前董事会成员试图罢免CEO马特·穆伦维格（Matt Mullenweg）失败仅数周后，穆伦维格便重组了公司董事会。据TechCrunch获悉且穆伦维格已证实，该董事会已于周五向全体员工公布，成员风格兼收并蓄，其中包括一名畅销科幻小说作家以及现已停运的社交应用IRL的两名联合创始人。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/krest-2120412337.html) <span class="news-meta-time">🕒 2026-09-26 15:41</span>
+- [The Verge (前沿数码科技)] [“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox) <span class="news-meta-time">🕒 2026-09-26 15:00</span>
+- [CNBC Markets (CNBC 市场官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) <span class="news-meta-time">🕒 2026-09-26 13:00</span>
+- [Lobste.rs (极客思想社区)] [乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/) <span class="news-meta-time">🕒 2026-09-26 14:10</span>
+- [NASA News (深空探索与航天)] [每日天文一图（APOD）：2026年9月26日——镜中流星与银河](https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/) <span class="news-meta-time">🕒 2026-09-26 12:05</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/germaniya-2120412172.html) <span class="news-meta-time">🕒 2026-09-26 15:37</span>
+:::
 :::timeline-item{start="2026-09-26 09:49 (UTC+8)" title="全球要闻情报简报 · 09:49" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-26 09:39 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -641,18 +654,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [gpg.fail事件的余波：论负责任披露、GPG以及2026年的安全现状 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026) <span class="news-meta-time">🕒 2026-09-13 01:24</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html) <span class="news-meta-time">🕒 2026-09-13 03:00</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2186819) <span class="news-meta-time">🕒 2026-09-13 03:21</span>
-:::
-:::timeline-item{start="2026-09-13 01:19 (UTC+8)" title="全球要闻情报简报 · 01:19" org="ARCHIVE"}
-**速报纪要：** 本小时内，突发灾难与国际政治社会动态备受关注：菲律宾巴拉望省附近海域客船起火事故已确认76人遇难，搜救工作持续进行；德国约20个城市爆发约15万人参与的游行抗议极右翼政党；同时，人工智能领域在自主化应用扩展与安全风险管控两方面持续引发讨论。
-
-**关键信号：** 菲律宾海岸警卫队通报巴拉望海域客船起火事故最新进展，遇难人数升至76人，13人失联，43人获救。；德国约20个城市约15万人走上街头，抗议德国选择党（AfD）在萨克森-安哈尔特州选举中获胜并寻求组建二战后首个极右翼州政府。；AI研发与应用前沿出现分化讨论：一方面企业借助Astra等模型提升编码与生产监控自动化，另一方面业内高管（如Amodei）对AI模型可能造成的严重全球危害表达担忧并发出呼吁。；塞尔维亚贝尔格莱德举行第二届“Mangia. Dona. Ama.”意大利美食与慈善节，意大利驻塞尔维亚大使与民间机构共同促进慈善合作。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/ukraina-2117338203.html) <span class="news-meta-time">🕒 2026-09-13 01:13</span>
-- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html) <span class="news-meta-time">🕒 2026-09-13 01:00</span>
-- [Lobste.rs (极客思想社区)] [除了写代码，AI智能体还能做哪些实用的事](https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code) <span class="news-meta-time">🕒 2026-09-12 23:56</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html) <span class="news-meta-time">🕒 2026-09-13 00:30</span>
-- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd) <span class="news-meta-time">🕒 2026-09-13 01:12</span>
 :::
 ::::

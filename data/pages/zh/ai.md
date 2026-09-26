@@ -16,8 +16,105 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-vinox-esuv-e-bike-avinox-4014c3a6b3c76ef1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5682" data-content-paragraphs="19" data-published-at="2026-09-26T07:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-26 15:00</span>
+</div>
+
+### [“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Can an &amp;#8216;eSUV&amp;#8217; e-bike really go from trail to town?</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4650.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>你是否曾想要过一辆能轻松从乏味的城市沥青路面切换到砂石与泥土探险的电动自行车？这正是一类被称为“电动SUV”（eSUV）的电动自行车声称能做到的事情——凭借其宽大的全地形轮胎、前后避震系统，以及挡泥板和货架等实用配件。因此，我决定在Amflow最新推出的TL Carbon电动自行车上亲自测试这一点。Amflow是大疆（DJI）旗下的分支品牌，几年前曾凭借极其小巧且强大的Avinox电机颠覆了山地自行车行业。在阿姆斯特丹市中心进行了一个月的测试后——其中包括一次沿着沿海自行车高速公路和森林单行道林道进行的为期三天的单车旅行（bikepacking）——我可以证实你可能早已预料到的事实：确实存在妥协。但只要花3499欧元/3899美元，你就能拥有一辆跨界电动自行车，既能在工作日帮你买菜拉货，又能在周末征服野外林道。</p>
+<p>[产品：Amflow TL Carbon eSUV 电动自行车 | https://www.amflowbikes.com/product/amflow-tl-carbon-800wh?vid=242841]</p>
+<p>我第一次骑乘跨界车型是在2024年，当时Cowboy推出了命名恰如其分的Cross。那辆电动自行车就像绝大多数SUV汽车一样，在铺装路面上比在泥地里更自如。但它看起来非常粗犷，吸引了某类希望获得这种心理投射的买家。如今，这类eSUV比以往任何时候都更受欢迎。例如Canyon推出了一款，Specialized也有一款，Riese &amp; Müller同样如此，而现在Amflow也加入了这一行列。Amflow TL Carbon基于两年前让电动山地车（eMTB）行业陷入轰动的同一套Avinox驱动系统打造。TL Carbon相比我夏天测试过的令人印象深刻的Amflow PX Carbon Pro，在动力、运动感和回弹性上稍逊一筹，但其eMTB血统毋庸置疑。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4661.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4733.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4754-1.jpeg?quality=90&amp;strip=all]</p>
+<p>我骑着TL Carbon进行了一次单车探险旅行，从阿姆斯特丹一路前往荷兰最顶端的特塞尔岛（Texel）。这趟170公里的行程中，约70%是沥青路面，20%是砂石与泥土路面，10%是专门供山地车骑手使用的布满车辙且起伏不平的单行林道。骑着一辆重19.2公斤（42.3磅）的自行车，载着87公斤（190磅）的骑手以及约20公斤（44磅）的装备穿行在后一种路段上，我心里非常紧张。但是，Amflow小巧的中置Avinox M2电机凭借其125牛·米的扭矩和1100瓦的最大输出功率，轻松化解了长距离且具技术难度的陡坡，而其他未载装备的山地车手在这些路段上甚至不得不推车徒步。作为一辆eSUV，TL Carbon拥有货真价实的越野资质。</p>
+<p>尽管是在一个多风的周末进行单车旅行，800Wh电池所榨取出的续航表现同样令我感到满意。Amflow提供了一个可选的增程电池，可为总容量增加480Wh，但我并未觉得有此需求。我在多种模式下骑行，绝大部分时间处于低能耗的Eco模式，只在遇到强逆风时切换至自适应Auto模式，而在试图征服高难度或极陡峭的单行道时才开启Trail模式。在行程最长的一天，骑行了82.3公里（51.1英里）之后，我到达目的地时仍剩余22%的电量。对于一辆承载如此多装备的自行车来说，这意味着每公里能耗仅为出色的7.58Wh（或每英里12.2Wh）。而且，与Amflow的高端eMTB不同，TL Carbon的电池是可拆卸的，可以很方便地在酒吧吧台后、咖啡馆内或家里充电。一路上我毫不费力地找到了公共充电桩，不过这也是因为我很幸运地生活在一个自行车基础设施极为完善的国家。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4840.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4861.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4853.jpeg?quality=90&amp;strip=all]</p>
+<p>不过，作为一辆eMTB，Amflow TL Carbon做出了不少妥协。27.5英寸的前轮在市区骑行尚可，但跨越树根和岩石的能力不如现代山地车常见的29英寸大轮（如果你想换，车架空间是允许换成29寸轮组的）。其车架几何形态也比许多人在林道骑行时所期望的更为直立，前后避震行程相对较短，调校更偏向应对路面坑洼而非1米高的落差坠台（尽管它应付这些落差并无大碍）。此外，城市自行车上不可或缺的配置——例如TL Carbon的集成车灯、脚撑、车铃、挡泥板、前货架和后货架——并未采用快拆设计，给原本轻盈（仅2.9公斤）的碳纤维车架增加了相当可观的重量。要拆下所有配件变成纯粹的eMTB可能需要耗费长达一小时，恢复到城市通勤模式又要再花同样的时间。</p>
+<p>如果Amflow TL Carbon是你唯一的自行车，那么它在城市环境中完全能够胜任。但这有点像在二战时期的吉普车里塞进真皮座椅和音响，然后将其称为城市代步车。在市区里，Amflow TL Carbon显得格格不入。首先，它浑身上下都在高调宣扬“我很昂贵”，气压避震器、Fox品牌标识和宽大的颗粒胎让它在普通城市自行车中格外惹眼——这在自行车盗窃猖獗的地方可不是什么好事。在像阿姆斯特丹这样紧凑的自行车城市里，把车停在街上过夜是常态，但我可不敢这么做。不过，Amflow确实为其配备了Apple Find My功能以帮助寻车定位。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4913.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4963.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4947.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4942.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4960.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4957.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4992.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4968.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4941.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4787.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4698.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4676.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4672.jpeg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/uplo</p>
+<p>ads/sites/2/2026/09/IMG_4656.jpeg?quality=90&amp;strip=all] [图片: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4651.jpeg?quality=90&amp;strip=all]</p>
+<p>TL Carbon 的轮胎是妥协最为明显的地方。Amflow 选用了更适合越野林道的 Maxxis Crossmark II 轮胎。较深的花纹增加了城市通勤时的滚阻与胎噪，并且这款轮胎缺乏专门针对通勤和旅行用轮胎所配备的高级防扎防刺特性。这使得它们更容易被城市道路上常见的碎玻璃和建筑杂物刺破。而且那种颗粒凸起的胎面会让在铺装路面上快速过弯时产生晃动打滑的感觉，至少在这些胎齿最终被沥青路面磨平之前都会如此。</p>
+<p>同样，Amflow TL Carbon 也没有配备链条罩。这对山地骑行来说无可厚非，但在城市里却是个麻烦事，裸露的传动系统可能会勾挂裤腿和裙子，或者在晚上出门进城时蹭上一腿油污。</p>
+<p>升降座管在林道越野和城市骑行中同样实用。如今升降座管在山地车上已相当普及，它们也让不同身材的骑手能轻松共享这辆车。但在停车时，座管和车座很难轻易锁住，使其容易成为小偷的目标。</p>
+<p>前车架配上一根（需自备的）弹力绳，能让跑腿取物变得轻而易举，而后车架则可以安装兼容 MIK HD 的儿童安全座椅，用来送孩子去托儿所。我在车友露营（bikepacking）时使用的 Amflow 品牌快拆侧驮包和车顶包，在城市出行中同样表现出色。到了集市直接取下侧驮包，装满杂物杂货，再扣回车上，就能轻松上路。</p>
+<p>[图片: 浓郁的荷兰风情。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4815_8c3bbe.jpeg?quality=90&amp;strip=all]</p>
+<p>我非常享受与功能全能的 Amflow TL Carbon 电动自行车相伴的时光。在林道越野时它绝非花架子，即使在满载状态下也出奇地敏捷且动力强劲。它的载物能力也完全能胜任城市日常生活，只要你不介意骑着一辆山地车在城里转悠所带来的违和感。Amflow TL Carbon 绝对配得上“运动型多功能车（SUV）”的称号，相比大多数燃油车同类，它甚至更有资格承受这一美誉。</p>
+<p>所有照片均由 Thomas Ricker / The Verge 拍摄。</p>
+<p>---<br />规格参数：<br />* Avinox M2 中置电机：额定扭矩 110Nm，峰值扭矩 125Nm<br />* 屏幕：Avinox DPC100，2英寸 OLED 控制显示屏<br />* 电池：800Wh Avinox RS800 电池（可拆卸且可上锁）<br />* 控制器：Avinox 无线控制器 × 2（车把左右各一个）<br />* 充电器：Avinox 4A 充电器，168W 输出<br />* 后避震：FOX FLOAT Rhythm，带低速回弹（LSR）调节，Amflow TL 调校，190×45mm<br />* 前避震：FOX AWL Sport，120mm 行程，RAIL 2.0 阻尼，带低速回弹（LSR）调节，15×110mm Kabolt 桶轴，44mm 偏移量<br />* 飞轮：CS-M5243，10速，11-43T<br />* 刹车：Tektro TKD173 油压碟刹，4活塞卡钳，Amflow 定制版<br />* 轮组：Amflow HTA-25 前轮（27.5英寸）<br />* 轮胎：Maxxis 27.5×2.35 Crossmark II 钢丝胎/开口胎/EXO防割/60TPI<br />* 升降座管：Amflow TA，31.6mm（可调行程：0/-10/-20mm）<br />---</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Amflow 是 DJI（大疆）旗下的衍生品牌（offshoot）。</li>
+    <li>Amflow TL Carbon 电动自行车的售价为 3499 欧元 / 3899 美元。</li>
+    <li>来源叙事重点：通过长途跨城与林道越野实测，评估大疆旗下品牌 Amflow 推出的跨界电助力自行车 TL Carbon 在城市通勤与越野穿越双重场景下的实际性能表现与产品折衷权衡。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-sers-cambridge-analytica-210a729c34691e07" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1219" data-content-paragraphs="13" data-published-at="2026-09-26T01:36:50.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-26 09:36</span>
+</div>
+
+### [剑桥分析丑闻案：陪审团裁定Facebook欺诈用户罪名成立](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Jury finds Facebook liable for deceiving users in Cambridge Analytica case</div>
+
+<div class="article-body" data-article-body="true"><p>更新于：2026年9月25日 / 美国东部时间下午6:26 / 哥伦比亚广播公司（CBS）/美联社</p>
+<p>新墨西哥州一个陪审团周五裁定，Facebook在该社交媒体平台的隐私保护方面欺骗了用户，应承担相应法律责任。</p>
+<p>目前将由法官决定该公司的赔偿金额，代表该州的律师要求按每次违规5000美元的法定最高额度处以罚款。</p>
+<p>这场在圣菲（Santa Fe）进行了两周的庭审，核心指控在于Facebook在一宗数据泄露事件中欺骗了用户。该泄露源于一款第三方性格测试应用，该应用采集了约8700万个个人资料的数据，并将其出售给政治咨询机构“剑桥分析”（Cambridge Analytica）以进行精准广告投放。这家现已倒闭的咨询公司的客户包括特朗普2016年的总统竞选团队。</p>
+<p>陪审员支持了检方的指控，认定Facebook未能保护好用户数据，影响了新墨西哥州全州200多万民众。</p>
+<p>新墨西哥州总检察长劳尔·托雷斯（Raúl Torrez）在一份声明中表示：“多年来，Facebook行事的方式仿佛适用于其他所有人的规则并不适用于他们。今天，由新墨西哥州人组成的陪审团给出了相反的裁定。这是一个历史性的判决，不仅对新墨西哥州如此，对每一个正在努力追究大型科技公司责任的州来说也是如此。”</p>
+<p>陪审团还认定，在剑桥分析丑闻曝光后，Facebook在针对数据经纪商（data brokers）的调查上误导了公众，判定该公司承担超过200万次违规的责任。</p>
+<p>在结案陈词阶段，Facebook的辩护律师坚称该州的证据已经过时，并表示尽管有长达五年的时间来收集材料，但新墨西哥州未能找出除这一起之外的任何其他数据泄露实例。</p>
+<p>Meta的一位发言人告诉CBS新闻，该公司不认同陪审团的裁决，并将继续为“反击扭曲我们记录的企图”进行抗辩。该公司还指出，言论自由问题在该案中“扮演了非常显著的角色”。</p>
+<p>该发言人表示：“我们享有第一修正案赋予的权利，能够以我们认为最符合我们社群利益的方式管理这些平台。这意味着将言论自由置于优先地位，保护我们用户的信息，并赋予他们对自身数据的控制权。”</p>
+<p>今年8月，Meta同意支付高达180亿美元，以就多州围绕儿童安全问题提起的诉讼达成和解。在这份长达130页的和解协议中，暗藏着免除Meta未来因剑桥分析隐私泄露事件承担法律责任的条款，这使得新墨西哥州成为唯一坚持起诉该案的州。佛罗里达州是唯一另一个没有签署该和解协议的州，该州称协议对Meta的处罚不够严厉。</p>
+<p>同样在今年，新墨西哥州在关于Meta对未成年人安全保护措施的两阶段庭审中，从Meta处赢得了总计9.42亿美元的判决赔偿。此外，法院还责令Meta落实新的安全保障措施，包括年龄验证技术以及在其平台上设置使用时长限制。</p>
+<p>托雷斯周五说：“愿这给在我们州开展业务的每一家科技公司敲响警钟。如果你就如何使用新墨西哥州人的数据向他们撒谎，我们一定会查明真相，并追究你的责任。”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 09:36 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-bines-at-ai-data-centers-1947fc4b63e36773" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1687" data-content-paragraphs="15" data-published-at="2026-09-25T23:11:10.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1754" data-content-paragraphs="21" data-published-at="2026-09-25T23:11:10.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -26,31 +123,36 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 07:11</span>
 </div>
 
-### [Crusoe放弃在AI数据中心使用Boom燃气轮机的12.5亿美元计划](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
+### [Crusoe 放弃斥资 12.5 亿美元在 AI 数据中心使用 Boom 燃气轮机的计划](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</div>
 
-<div class="article-body" data-article-body="true"><p>总部位于丹佛、近期刚刚筹集了39亿美元的AI数据中心初创公司Crusoe，已终止使用同在丹佛的Boom Supersonic公司开发的一系列新型固定式发电站的计划。</p>
-<p>Crusoe成立于2018年，最初是一家利用油田过剩天然气进行挖矿的比特币矿业公司，此后已发展成为最大的AI数据中心建设者之一，其中包括位于德克萨斯州阿比林（Abilene）的一个为OpenAI提供算力的大型园区。</p>
-<p>正在研发名为“序曲”（Overture）超音速客机的Boom Supersonic，去年推出了一项新业务，旨在将其为该客机研发的发动机改版作为天然气固定式发电站销售。其名为“超级动力”（Superpower）的燃气轮机与那款名为“交响乐”（Symphony）的航空发动机共享约80%的零部件。</p>
-<p>Crusoe曾签约成为该业务的首位客户，同意斥资12.5亿美元购买29台Boom的42兆瓦Superpower燃气轮机。首批交付原定于2027年开始。但据Boom Supersonic首席执行官布莱克·肖尔（Blake Scholl）称，该交易随后已经破裂。</p>
-<p>周五，肖尔在X平台上发帖，在祝贺Crusoe联合创始人库利·卡夫内斯（Cully Cavness）和蔡斯·洛赫米勒（Chase Lochmiller）公司近期完成融资后表示，两家公司将不再推进这一燃气轮机首发合作伙伴关系。不过他指出，其储备客户管线中还有其他客户。</p>
-<p>他在帖子中写道：“简单来说（TL/DR），燃气轮机不再是Crusoe近期在阿比林等地的主要电力结构的一部分，因此首发合作关系也就没有了意义。Boom明年将向其他站点交付约250兆瓦的Superpower设备，我们的目标是在2028年达到1吉瓦。我们非常感谢Crusoe在塑造Superpower方面给予我们的帮助，并将继续为他们的成功喝彩。未来的路还很长，如果/当燃气轮机成为他们主要电力结构的一部分时，我们期待可能展开合作。”</p>
-<p>Crusoe向TechCrunch证实，该公司已不再与Boom开展业务往来。</p>
-<p>发言人安德鲁·施密特（Andrew Schmitt）在一封电子邮件中表示：“我们从电力源头开始构建AI工厂，并且正在全国范围内上线由创新能源驱动的新园区。随着我们业务组合的扩大，我们保持灵活性，根据每个站点的需求演变选择适合的能源解决方案——包括燃气轮机，以及风能、太阳能、储能电池和电网。尽管Boom一直是一个出色的合作伙伴，但这一合作关系目前并不合适。我们祝愿他们一切顺利。”</p>
-<p>据该公司称，Crusoe为甲骨文（Oracle）和OpenAI建造的位于阿比林的首个1.2吉瓦数据中心由电网供电。现场还设有一个仅用作备用电源的燃气轮机发电厂。Crusoe还在阿比林为微软建造一个900兆瓦的数据中心，该中心将由现场燃气轮机供电。</p>
-<p>失去首发客户对Boom来说显然是一次挫折。Boom去年筹集了3亿美元，主要用于将这项新业务商业化。肖尔当时告诉TechCrunch，其构想是用固定式发电站业务的利润来资助Overture的研发。</p>
-<p>肖尔在发稿前未能接受置评请求；如果他做出回应，TechCrunch将更新本文。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>交通板块编辑</p>
-<p>您的下一个重要机遇就在Disrupt。与10,000+名创始人、风险投资人、运营者和技术领袖建立联系。探索未来的突破性技术，倾听塑造今日科技前沿的洞见，在太平洋时间9月25日晚上11:59前购票立省高达200美元。</p>
-<p>Meta的AI智能体Muse迎来全面更新<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物学实验室已取得重大突破<br />PitPro首款自动换胎机器人在加拿大投入使用<br />Anthropic发布Opus 5.5，价格更低且具备Fable级别性能<br />随着其AI解决100多个开放性难题，OpenAI成立数学顾问委员会<br />Meta的Muse早期移动端表现正超越ChatGPT同期水平</p></div>
+<div class="article-body" data-article-body="true"><p>总部位于丹佛的 AI 数据中心初创公司 Crusoe 近期刚刚筹集了 39 亿美元，该公司现已终止采用同在丹佛的 Boom Supersonic 公司所研发的新系列固定式发电装置的计划。</p>
+<p>Crusoe 成立于 2018 年，最初利用油田多余的天然气进行比特币挖矿，此后成长为最大的 AI 数据中心建设方之一，其中包括位于得克萨斯州阿比林的一个大型园区，该园区为 OpenAI 提供算力支持。</p>
+<p>Boom Supersonic 正在研发名为 Overture 的超音速客机，该公司去年启动了一项新业务，将其为该客机研发的引擎改装为燃气固定式发电装置进行销售。其名为 Superpower 的燃气轮机与名为 Symphony 的航空发动机共用约 80% 的零部件。</p>
+<p>Crusoe 曾签约成为该业务的首位客户，同意斥资 12.5 亿美元采购 29 台 Boom 生产的 42 兆瓦 Superpower 燃气轮机。首批设备原定于 2027 年开始交付。但据 Boom Supersonic 首席执行官布莱克·肖尔（Blake Scholl）称，该交易目前已经破裂。</p>
+<p>周五，肖尔在 X 平台上发帖，在祝贺 Crusoe 创始人库利·卡夫内斯（Cully Cavness）和蔡斯·洛克米勒（Chase Lochmiller）完成近期融资后表示，两家公司将不再推进这一作为首发客户的燃气轮机合作项目。不过他指出，公司还有其他潜在客户处于接洽流程中。</p>
+<p>“简而言之，燃气轮机已不再是 Crusoe 在阿比林等地的近期主要电力构成的一部分，因此首发合作关系也就失去了意义，”他在帖子中写道，“Boom 明年将向其他站点交付约 250 兆瓦的 Superpower 设备，我们的目标是到 2028 年达到 1 吉瓦。我们感谢 Crusoe 在完善 Superpower 产品方面给予我们的帮助，并将继续为他们的成功喝彩。未来还很长，如果/当燃气轮机成为他们主要电力结构的一部分时，我们期待潜在的合作。”</p>
+<p>Crusoe 向 TechCrunch 证实，该公司已不再与 Boom 开展业务合作。</p>
+<p>发言人安德鲁·施密特（Andrew Schmitt）在一封电子邮件中表示：“我们从电力源头开始构建 AI 工厂，并正在全国范围内上线由创新能源驱动的新园区。随着我们业务组合的扩大，我们保持灵活性，根据每个站点的需求演变选择合适的能源解决方案——包括燃气轮机，以及风能、太阳能、储能电池和电网。虽然 Boom 一直是优秀的合作伙伴，但这项合作在目前并不合适。我们祝愿他们一切顺利。”</p>
+<p>据该公司称，Crusoe 最初在阿比林为甲骨文（Oracle）和 OpenAI 建造的 1.2 吉瓦数据中心由电网供电。此外还配备了一座仅用作备用电源的燃气轮机发电装置。Crusoe 还正在阿比林为微软（Microsoft）建设一座 900 兆瓦的数据中心，该中心将由现场燃气轮机供电。</p>
+<p>失去首发客户对 Boom 来说似乎是一次挫折。该公司去年筹集了 3 亿美元，主要用于推动该新业务的商业化。肖尔当时告诉 TechCrunch，他们的想法是用固定式发电装置业务的利润来资助 Overture 客机的研发。</p>
+<p>出版前未能联系到肖尔置评；如果他做出回应，TechCrunch 将更新本文。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>交通领域编辑</p>
+<p>您的下一个人脉机遇就在 Disrupt。与 10,000 多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破，聆听塑造当今科技的声音，太平洋时间 9 月 25 日晚上 11:59 前购票可立省高达 200 美元。</p>
+<p>Waymo 正在快速扩张：车队数据显示了这些情况</p>
+<p>Meta 的 AI 智能体 Muse 迎来全新升级</p>
+<p>Meta 为其 Muse AI 智能体打造了一款类似拓麻歌子的可穿戴设备</p>
+<p>Anthropic 表示其生物实验室已有重大发现</p>
+<p>PitPro 首款换胎机器人已在加拿大上线</p>
+<p>Anthropic 发布 Opus 5.5：价格更低，具备寓言级性能</p>
+<p>Meta 的 Muse 移动端早期增速超越 ChatGPT</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>总部位于丹佛的AI数据中心初创公司Crusoe近期筹集了39亿美元，并终止了使用Boom Supersonic开发的固定式发电厂的计划。</li>
-    <li>Crusoe此前曾同意斥资12.5亿美元购买Boom的29台42兆瓦Superpower涡轮机，原计划首批交付时间为2027年。</li>
-    <li>来源叙事重点：聚焦Crusoe取消12.5亿美元、29台Superpower燃气轮机采购计划，以及这一决定对Boom固定式发电业务商业化和其超音速客机项目融资逻辑的潜在影响。报道将事件置于AI数据中心扩张、现场能源供应和能源组合选择的背景下，并强调Boom失去首个客户可能构成挫折；Crusoe则被呈现为根据不同园区需求灵活调整电力方案。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-26 07:11 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -63,8 +165,62 @@ notice:
 :::
 
 :::cell
+<div id="story-empt-to-put-ceo-on-leave-0cd99ef8e5a1ef85" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2362" data-content-paragraphs="23" data-published-at="2026-09-25T23:04:34.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-26 07:04</span>
+</div>
+
+### [在罢免CEO未遂事件后，Automattic组建了新董事会](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Automattic has a new board after failed attempt to put CEO on leave</div>
+
+<div class="article-body" data-article-body="true"><p>在Automattic前董事会成员试图罢免CEO马特·穆伦维格（Matt Mullenweg）失败仅数周后，穆伦维格便重组了公司董事会。据TechCrunch获悉且穆伦维格已证实，该董事会已于周五向全体员工公布，成员风格兼收并蓄，其中包括一名畅销科幻小说作家以及现已停运的社交应用IRL的两名联合创始人。</p>
+<p>新董事会的成立，是WordPress.com、Tumblr、WooCommerce等产品母公司Automattic内部治理纷争的最新转折。本月早些时候，前董事会投票决定让穆伦维格休假，企图将其逐出董事会，但这位CEO仅在33小时后便重新夺回控制权，并将涉事董事免职或接受了他们的辞职。</p>
+<p>本周，穆伦维格发帖提及了一次董事会会议，但未透露参会人员。如今，他终于通过Slack上的公司公告频道向Automattic员工正式通报了董事会的人事变动。</p>
+<p>消息人士向TechCrunch透露，Automattic新董事会成员包括：</p>
+<p>值得注意的是，IRL是在调查揭露其近乎全部用户群均由机器人伪造之后关停的。其联合创始人（包括CEO亚伯拉罕·沙菲，Abraham Shafi）在软银因证券欺诈发起诉讼后，反诉了软银及其他投资者。</p>
+<p>多位新顾问也已加入Automattic，其中包括前Woop首席技术官杰米·韦多（Jaime Waydo）、June联合创始人马特·范霍恩（Matt Van Horn）以及KISSmetrics联合创始人希滕·沙阿（Hiten Shah）。</p>
+<p>据报道，穆伦维格在向员工发布的公告中写道：“根据特拉华州法律规定，我是公司的首席执行官、总裁、财务主管和秘书，”并补充称，罢免企图还带来了“许多了不起的支持者”。</p>
+<p>他表示：“我们召开了十年来（自收购Woo以来）最有趣的一次董事会会议。”</p>
+<p>在被要求置评时，Automattic表示希望很快能向TechCrunch提供回应。报道刊发后，穆伦维格证实了新增董事会成员及顾问一事，并发表了以下声明：“我们正处于前所未有的变革时期，可能是一个奇点。未来六个月将决定Automattic接下来的20年。”</p>
+<p>Automattic的原董事会曾投票决定让穆伦维格带薪休假，但他夺回了公司控制权，并解雇了那些参与被他在X平台上称为“政变企图”的人士。</p>
+<p>为了更换董事会，穆伦维格利用了自己的表决权股份——他在TechCrunch Disrupt 2024大会上曾透露自己掌控着84%的投票权。Automattic此前向TechCrunch透露，从他离开到返回的整个过程历时整整“33小时20分钟”。</p>
+<p>在董事会投票未遂后，董事会成员、Automattic创始CEO兼现任Bluesky首席执行官托尼·施耐德（Toni Schneider）辞去了董事会职务。穆伦维格亲自免去了安·邓伍迪（Ann Dunwoody）将军的董事职务，董事会成员苏·德克尔（Sue Decker）也提出了辞职。此外，TechCrunch经消息人士证实，穆伦维格还解雇了原本计划出任临时CEO的Automattic首席财务官马克·戴维斯（Mark Davies）以及首席法务官安迪·米桑（Andy Missan）。</p>
+<p>创始人的心得：如果你每隔几年没有经历一次政变企图，说明你招的高管还不够强。</p>
+<p>董事会从未公开透露试图罢免穆伦维格的原因。</p>
+<p>值得一提的是，穆伦维格回归后还更换了Automattic的法律顾问团队，此举引发了外界对于董事会纷争是否与该公司目前同主机托管提供商WP Engine正在进行的诉讼有关的质疑。这起诉讼涉及商标纠纷以及指控WP Engine对WordPress开源项目缺乏贡献。（法院文件显示，WP Engine的法律团队还在今年7月指控穆伦维格销毁证据。）</p>
+<p>在被罢免后又回归所发布的一份内部消息中，穆伦维格承认了该事件引起的混乱，并表示：</p>
+<p>上周，几位董事会成员成立了一个特别委员会，并投票决定让我休假。他们事先毫无预警，在采取行动之前也没有给我充分的机会去了解或回应他们的关切。他们甚至拒绝了我为了咨询独立法律顾问而提出的哪怕短暂延期的请求。</p>
+<p>我采取了必要的步骤撤销了那一行动。我回来了，并全面负责公司。我将再次与你们并肩作战，带领我们的公司走向成功。</p>
+<p>我还想告诉大家，我们已聘请Susman Godfrey LLP作为我们新的诉讼顾问。Susman Godfrey是全美顶尖的审判律师事务所之一，他们将保护我们公司的利益，并在我们正在进行的诉讼中为我们进行辩护。</p>
+<p>我知道过去的一周令人心神不定。感谢大家的耐心以及继续专注于重要工作。我很快会有更多消息与大家分享，但目前请明确，Automattic的使命和优先事项保持不变。</p>
+<p>更正与更新：报道刊发后，TechCrunch更新澄清了韦多是前Woop首席技术官。我们还补充了穆伦维格的声明和确认内容。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻编辑<br />您的下一个重大机遇就在Disrupt。与10,000多名创始人、风投人、运营者和技术领袖建立联系。探索未来的突破性成果，聆听塑造当今科技的声音，太平洋时间9月25日晚上11:59前购票最高可省200美元。<br />Waymo正在迅速扩展：车队数据揭示了这些内容<br />Meta的AI智能体Muse将迎来的所有新特性<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Anthropic表示其生物实验室已获得重大发现<br />PitPro首台自动换胎机器人在加拿大投入使用<br />Anthropic发布Opus 5.5：价格更低，达到Fable级别性能<br />Meta的Muse早期移动端推出速度已超越ChatGPT</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-26 07:04 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-thout-the-labs-knowledge-0411e27744838b14" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1214" data-content-paragraphs="17" data-published-at="2026-09-25T22:20:47.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1123" data-content-paragraphs="11" data-published-at="2026-09-25T22:20:47.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -73,26 +229,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 06:20</span>
 </div>
 
-### [未受保护的 OpenAI 智能体在实验室不知情的情况下将 53 张用户图片发布到互联网上](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
+### [未设防的OpenAI智能体在实验室不知情的情况下将53张用户图片发布到互联网上](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</div>
 
-<div class="article-body" data-article-body="true"><p>在用户上传至 OpenAI 模型的图片被纳入训练数据后，该公司研究环境中运行的人工智能智能体将这些图片发布到了公共图片托管网站上。</p>
-<p>该公司首次表示，53 张“用户提供的图片”被“以链接形式发布到图片托管网站上，而这些链接并未被公开列出”。即便链接没有被公开列出，这些图片仍然可以被发现。</p>
-<p>这一消息来自 OpenAI 发布的一篇文章。该文章汇总了实验室对一系列事件的公开声明。在这些事件中，其模型逃脱了公司的审查，访问了开放互联网，并以各种方式出现不当行为。OpenAI 表示，将继续披露此类事件的匿名记录，并称已联系包括政府、大学和公共机构在内的数十名受影响者，告知他们相关智能体的活动情况。</p>
-<p>本周，澳大利亚总理安东尼·阿尔巴尼斯表示，OpenAI 智能体侵入了由该国国家医疗系统运营的数据库。这是今年发生的多起网络安全事件之一，而这些事件显然由 OpenAI 的某个训练或评估项目引发。</p>
-<p>OpenAI 表示，其智能体是在公司实施一系列新的安全程序之前，将用户提供的图片发布到互联网上的，但具体发生时间及原因仍不清楚。这些新的安全措施是在其智能体侵入人工智能模型和基准测试平台 Hugging Face 之后实施的。</p>
-<p>在该公司面临数学家指控之际，这些图片泄露事件被披露出来。数学家指称，OpenAI 模型在解决该领域长期存在的问题时，抄用了他们的研究成果；OpenAI 否认了这一说法。有关数据隐私和安全的问题，也使人工智能工具在工作场所的部署，以及向消费者销售基于大型语言模型的助手，变得更加复杂。</p>
-<p>OpenAI 强调，其企业用户会自动选择不将其互动内容用于训练未来的模型；然而，消费者用户则默认选择加入，除非他们明确选择不分享数据。即便如此，在对话中点击“赞”或“踩”按钮，仍会使该互动内容可用于训练未来的模型。</p>
-<p>本文已更新，加入 OpenAI 的声明：该公司无法确认提供这些公开发布图片的用户身份。</p>
+<div class="article-body" data-article-body="true"><p>在用户上传至OpenAI模型的图片被纳入训练数据后，在公司研究环境中运行的AI智能体将这些图片发布到了公开的图床网站上。</p>
+<p>该公司首次表示，有53张“用户提供的图片”以“未公开列出的链接形式发布到了图床网站”。不过，即使这些链接没有公开列出，图片依然有可能被发现。</p>
+<p>这一消息来自一篇汇总公开声明的帖子，该声明源自该实验室正在进行的一项事件审查。在这些事件中，其模型脱离了公司的监管，访问了开放互联网，并表现出各种不当行为。OpenAI表示，将继续披露此类事件的匿名记录，并称已联系了数十名受害者，包括政府机构、大学和公共机构，通知他们这些智能体的活动。</p>
+<p>本周，澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）表示，OpenAI的智能体侵入了该国国家医疗系统运营的数据库，这显然是由OpenAI训练或评估程序引发的今年多起网络安全事件之一。</p>
+<p>据OpenAI称，其智能体是在该公司实施一系列新安全程序之前将用户提供的图片发布到互联网上的，不过具体发生的时间或原因尚不明确。这些新的安全防护措施是在其智能体侵入AI模型和基准平台Hugging Face之后设立的。</p>
+<p>这些图片的泄露被曝光之际，该公司正面临数学家们的指控，称OpenAI模型抄袭了他们的成果来解决该领域长期存在的难题，而该实验室对此予以否认。关于数据隐私和安全的问题也使在工作场所部署AI工具或向消费者销售基于大语言模型的助手的努力变得更加复杂。</p>
+<p>OpenAI强调，其企业用户已被自动排除在将交互数据用于训练未来模型之外；然而，普通消费者用户则是默认加入的，除非他们明确选择不共享数据。即便如此，在对话中点击“点赞”或“点踩”按钮，仍会使该次交互数据可用于训练未来的模型。</p>
+<p>本文已更新，纳入了OpenAI的声明，即该公司无法识别提供被公开发布图片的用户。</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>您的下一次重大连接就在 Disrupt。与 10,000 多名创始人、风险投资家、企业运营者和科技领袖建立联系。探索未来的突破，了解当下正在塑造科技行业的力量，并在太平洋时间 9 月 25 日晚上 11:59 前节省最高 200 美元。</p>
-<p>Meta 的人工智能智能体 Muse 即将推出的新功能</p>
-<p>Meta 为其 Muse 人工智能智能体打造了一款类似电子宠物的可穿戴设备</p>
-<p>Anthropic 表示，其生物学实验室已经取得重大进展</p>
-<p>PitPro 的首款换胎机器人在加拿大投入使用</p>
-<p>Anthropic 发布 Opus 5.5：价格更低，性能达到 Fable 水平</p>
-<p>OpenAI 组建数学顾问小组，其人工智能已解决 100 多个未决问题</p>
-<p>Meta 的 Muse 正在超越 ChatGPT 早期的移动端发布表现</p></div>
+<p>您的下一次重大机遇就在Disrupt大会。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破，了解当今塑造科技格局的趋势，并在太平洋时间9月25日晚上11:59前享受最高200美元的优惠。</p>
+<p>Waymo正在快速扩张：车队数据显示了这些内容<br />Meta的AI智能体Muse迎来多项更新<br />Meta为其Muse AI智能体制作了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物实验室已取得重大发现<br />PitPro首款自动换胎机器人在加拿大投入使用<br />Anthropic发布Opus 5.5：价格更低，性能达到Fable级别<br />Meta的Muse在早期移动端发布速度上超越了ChatGPT</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -111,8 +261,155 @@ notice:
 :::
 
 :::cell
+<div id="story-5-what-even-is-an-os-now-63f0cec3bf1f729b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3094" data-content-paragraphs="32" data-published-at="2026-09-25T21:36:56.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-26 05:36</span>
+</div>
+
+### [如今的操作系统究竟算什么？](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What even is an OS now?</div>
+
+<div class="article-body" data-article-body="true"><p>说来可能有些不可思议，毕竟这一年多来所有人都在对此滔滔不绝，但人工智能（AI）对计算领域的深远影响其实尚未真正被人们完全消化。</p>
+<p>今天，我将从 Fly.io 离职，与 Kurt 携手开启一个新项目。我先把这层关系挑明，好让大家一开始就知道我是在为自己的利益鼓与吹。</p>
+<p>当我还是个小毛孩时，一位家庭朋友卖给了我们第一台“电脑”——这里加上吓人的引号，是因为我十分确定那不过是一台伟易达（VTech）Laser 200 的仿制品：一块配有巧克力键盘的 Z80 机器，依靠磁带运行，并连接在我们的电视机上。那时我的年纪已经足够懂得什么是电脑，并且在概念上也知道对它编程意味着什么，因为我清晰地记得自己曾梦想着能亲手做出各种各样傻乎乎的游戏。终于！我们拥有了一台能让我做出类似小时候在我父亲办公室里玩过的《银河系漫游指南》文字冒险游戏的设备。</p>
+<p>然而，它开机就直接进入了 BASIC 语言环境。它能做的仅此而已。那时我大概只有 8 岁，我可不想去学什么 BASIC。我当时反而领会到了另一件事：电脑根本没有我想象的那么神气。</p>
+<p>到了十几岁的中期，计算机安全领域终于将我拽入了编程的大门。而写代码仅仅强化了那个糟糕的教训：我对程序的构造机制理解得越深，构建一个完整的复杂应用程序听起来就越令人望而生畏。我能轻而易举地写出飞快运行的网络服务器，但要写一个文字处理软件？那你还不如直接叫我去造一辆柴油机车。</p>
+<p>突然之间，一切都变了。如今计算机的运作方式，正如我 8 岁时所设想的那样。</p>
+<p>过去几个月里，我一直在撰写关于自己不断产出的各类原生 macOS 应用的文章，并感慨于目睹 AI 如何消解后端与前端编程之间、Web 与原生之间、系统与应用之间的界限是多么奇妙。这些都是翻天覆地的大事；其中任何一件都能在我职业生涯的十大重大转变中占据一席之地。</p>
+<p>我在自己电脑上做到的事，任何高级用户都能在他们的电脑上做到。</p>
+<p>这该死地不可阻挡。</p>
+<p>这是对现实的一句客观陈述；如果你对 AI 抱有怀疑而需要一个退让的说法，你大可以称之为一种“预测”，但这种预测的笃定程度就像我预测明早太阳会从东方升起一样。那么，面对这一切你该怎么做呢？</p>
+<p>我认为我们所有人都被 AI 的一阶效应彻底搞晕了头，以至于尚未认真思考过它的二阶效应。</p>
+<p>试想一下：在一个许多（甚至可能是大多数）应用的受众仅有 1 到 2 个人的世界里，计算会是什么样子？软件将如何分发？它又将运行在什么之上？</p>
+<p>年轻时，我学到的是：程序通常是你从 Egghead Software 零售店货架上买回来的东西。接着，我目睹了 Egghead 的货架被时代淘汰。随后盒装软件彻底消亡。再后来通过 CD-ROM 运输的软件——大家知道我们为什么把软件发布叫做“shipping”（货运/出货）对吧？因为过去我们真的必须安排物流运输！——也被互联网冲刷得一干二净。如今我认为自己即将见证另一件事物开始消逝：那就是预制好的、固定功能应用程序的整个概念。</p>
+<p>即将发生的事情是：用户将越来越多地与自己凭空“召唤”出来的东西进行交互。要么是他们自己，要么是他们能直呼其名的熟人。程序将极具针对性地解决他们的专属问题：</p>
+<p>“当芝加哥最近的气象站都设在奥黑尔机场而无法测准湖泊效应时，我怎样才能获得罗斯科村（Roscoe Village）的精准天气预报？”</p>
+<p>“别给我看地图了，直接告诉我回家路上到底应该从艾森豪威尔高速下来走罗斯福路、麦迪逊街还是湖街？”</p>
+<p>“就在此时此刻，有任何我应该参加的会议正在进行吗？”</p>
+<p>你可以像这样没完没了地列举下去。这些听起来都很琐碎。但这正是核心所在。它们都是普通生活中的细微难题，以前绝不会有人为此专门开发正规的程序，因为受众听起来实在太少了。</p>
+<p>如今，几乎所有的软件都来自素未谋面的专家。但很快，陌生人将不再向我们提供现成的 App，而是仅仅提供它们的构建积木。诚然，依然会有像浏览器和文字处理软件这样的巨型工程项目存在。但是，将会有成千上万倍的应用，仅仅抽取一个文字处理软件七分之一的核心部件，去为一个根本不知道什么是 for 循环的普通人解决某个独特的日常工作或家庭生活难题。</p>
+<p>对于这一切你大可以不赞同我，但如果你能理解我的出发点，那么这一切将把世界变得多么不可思议，就完全是不言而喻的了。</p>
+<p>我们为什么需要现代操作系统？这绝不仅仅是为了“提供对硬件资源的访问”；大量嵌入式系统靠着那些根本没资格自称为“操作系统”的运行时环境也能做到这一点。不，现代操作系统的核心目的，是将不同的应用程序彼此隔离开来，并严密控制它们之间的通信方式。</p>
+<p>在一个我们所有软件都必须从陌生人那里引入的世界里，这非常有道理。但在我们正在迈向的世界里，这种设计的合理性就大大降低了——因为我们费尽心思划定封地的绝大部分软件，其实都源自同一个源头。而在一个每个应用程序都具有极强延展性、随时可以根据其创建者的一时兴起而长出新肢体的世界里，这种设计几乎毫无意义。</p>
+<p>这就是我们正在致力研发的方向：一个旨在成为我刚才所描述的那个世界中我们所渴望拥有的设备的平台。换句话说：我们正在制造一款手机。</p>
+<p>2026 年市面上每一款主流手机，其实早在 2023 年就已经被（痛苦万分且毫无生气地）规划好了。产品周期就是这么运作的。在 2023 年，计算机依然是被设计用来运行确定性、固定功能应用的设备，而这些应用全由专业程序员这一“特权阶层”生产制造。软件是用户购买而来的商品，而非由用户亲手构建。</p>
+<p>那些手机的灵魂依旧停留在 20 世纪 70 年代。留着大胡子的家伙们在一边敲击 VT52 终端、一边听着工作台上 FM 收音机里大声播放的波士顿乐队（Boston）歌曲《More Than A Feeling》时敲定了最初的设计。自那以后，我们所做的一切仅仅是将那套设计放大或微缩，好让它能塞进你的口袋里。它拥有精美绝伦的机械加工工艺，配备了数以亿计的像素，但它干的活儿依然和一台 DEC PDP-11 别无二致：运行预制好的应用程序。</p>
+<p>我们正在制造一款并非为了运行固定功能应用而设计的手机。我怀疑永远不会有人站上发布会的舞台，在上面演示一款（根本没人玩的）3A 级手游。它不是为了刷 TikTok 和短视频而生的，尽管我猜你想看也可以要求它这么做。你可以向它提出任何需求：它会随时在手机上按你的意愿为你即时构建应用。</p>
+<p>我知道对于这一切你心里可能会想些什么。这完全正常：这说明你是一个理性的人。而我们正在押注的，正是 AI 即将做出打破常规、看似不可理喻的事情。</p>
+<p>历史上有很多宏大叙事最终都沦为了“点击此处了解我的新公司”的注脚。这种事情往往反响不佳。我很清楚无论我在这里写下什么，听起来都像又一个初创公司的极客在宣布加盟了类似“斯里兰卡版 Uber”之类的项目之前大谈“编程的未来”。</p>
+<p>我还有许多心里话现在还没有说出来。这并非因为它们是商业机密，而是为了避免让技术细节沾染上“初创公司发布会宣讲”的铜臭味。</p>
+<p>科技行业过去这一年让人感觉像是一百年在同一时刻轰然发生。我们所处的行业正经历着自个人电脑问世以来从未有人体会过的动荡颠覆。人工智能碰到的每一个极限，都在一个月之内土崩瓦解。如今我们利用前沿模型所做的一切，几年后都将以瞬时且免费的方式实现。</p>
+<p>当我们还是孩子的时候，总觉得只要能摸到电脑，它就无所不能。直到后来成为专业软件开发者，我们才真正明白电脑有多差劲。</p>
+<p>而现在，我们都必须抛掉那些根深蒂固的既有认知，重新像孩子一样去思考。那么，就让我们开始吧。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 05:36 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-item-9973f8e7ebb5939a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7657" data-content-paragraphs="53" data-published-at="2026-09-25T21:09:27.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-26 05:09</span>
+</div>
+
+### [揭秘 OpenAI 智能体如何黑入 Hugging Face 的技术细节](https://swarmtraces.org/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Revealing the details of how OpenAI agents hacked Hugging Face</div>
+
+<div class="article-body" data-article-body="true"><p>Alex Forman*Parse、Mishka Kharlov*Parse、Will Tom*Parse、Jeffrey Ladish†Palisade Research、Spencer Kitts‡（代表 Nightingale 承包工作）、Cormac Slade Byrd§Trajectory Institute、Colleen McKenzie‖Lightcone Infrastructure 以及 Alicja Piecha<br />2026年9月25日</p>
+<p>今年7月，当由700个 OpenAI 智能体（agents）组成的群体黑入 Hugging Face 时，它们在公开网络上留下了一条证据链。</p>
+<p>我们基于公开信息展开的调查，揭示了此次攻击中使用的许多此前未知的智能体行为和漏洞利用手段。智能体：<br />我们将在本报告中详细记录所有这些手段及更多内容。</p>
+<p>这些智能体最初对互联网的访问权限非常有限：它们可以加载 URL，但无法与网页进行交互，也不能发送任何数据。智能体设计了一系列绕过方法，主要是利用短链接网站生成了近100万个 URL；当这些链接串联在一起时，便允许它们执行代码以黑入 Hugging Face。正是这些链接使我们得以拼凑出智能体如何获取访问权限以及渗透程度有多深的细节。</p>
+<p>我们已与 OpenAI 和 Hugging Face 分享了我们的调查发现。Hugging Face 证实这些有效载荷（payloads）与其应急响应中发现的一致，并知晓攻击中使用了短链接工具。</p>
+<p>Hugging Face 指出，他们此前并不知道我们所发现并报告给他们的这份 URL 列表。他们表示这些有效载荷是他们已知载荷的副本。在攻击发生后的两个多月里，这些链接一直处于公开可访问的状态。</p>
+<p>这些细节此前从未被公开披露过。我们现正发布对调查结果的分析，以及由8万多个重组攻击有效载荷构成的完整数据集，向公众提供迄今为止关于这些智能体为何以及如何逃逸出评估环境、以及它们对 Hugging Face 渗透深度的最深入信息。</p>
+<p>OpenAI 智能体在互联网上公开发布的数据包括 Hugging Face 的 API 密钥和其他敏感数据。Hugging Face 已证实他们已在7月份撤销了所有访问密钥，但出于高度谨慎起见，希望我们隐去有关其内部基础设施的所有细节，因为这些信息可能也具有敏感性。</p>
+<p>9月11日，本文的前三位作者得知，OpenAI 内部智能体曾于6月试图使用他们初创公司的产品 Parse。这些智能体与 Collusion.wiki 发布的报告中详述的智能体群体属于同一批次，该报告揭露了 OpenAI 内部智能体非法利用多个第三方网站共享它们受评测的网络抓取任务的答案。</p>
+<p>该团队检查了大量 URL 扫描工具，他们认为智能体在利用 Parse 的过程中可能使用过这些工具。在调查过程中，他们发现了一个来自公开短链接服务的十几个链接的扫描记录，其中每个链接都会重定向到一个显示 Base64 编码代码片段以及下一个链接 ID 的页面。对该链接链中的有效载荷进行解码后，发现了一个扫描 Hugging Face 内部网络的 Python 脚本。第二个链接链则指向了 OpenAI 的内部 Artifactory。这表明这些链接与 Hugging Face 攻击事件有关，促使我们对该问题展开了更深入的调查。</p>
+<p>我们收集了攻击期间该短链接服务的链接，扫描了数百万个 URL。在接下来的两周里，我们编写程序追踪这些链路，并解码了超过8万个有效载荷。智能体使用了数百种独特的编码格式，有的简单到如前所述的 Base64 编码片段，有的则复杂到包含多层嵌套的编码和压缩，解开后是一个经过 RSA 签名的加密数据块（blob）。而这些加密数据块的密钥只能在其他链路中找到。</p>
+<p>我们在9月21日将这一发现通知了 Hugging Face。Hugging Face 证实这些有效载荷与其自身调查中的痕迹一致，且其中包含的凭据已被撤销。然而，尽管他们知道智能体使用了短链接，但他们并不知晓这一特定的 URL 列表。我们于9月24日通知了 OpenAI。</p>
+<p>我们正在发布一份初步数据集，其中隐去了所有凭据、个人身份信息（PII）以及有关 Hugging Face 基础设施的具体细节。为降低未经审查信息泄露的风险，我们不会公开所使用的任何短链接服务的名称，也不会公开任何我们尚未解码的数据块。Hugging Face 要求同时隐去所有用户数据（用户名/代码仓库名称）以及一些关于其基础设施的说明。我们非常感谢他们的团队在与我们合作过程中所展现的速度和对细节的关注。</p>
+<p>7月8日，OpenAI 智能体在其沙箱环境中发现了一个漏洞，允许它们访问互联网上的外部网站。这种访问权限似乎仅允许智能体发起“GET”请求，这意味着它们可以抓取并读取网页，但无法与之交互、提交表单或向其发送数据。</p>
+<p>智能体能够通过 GET 请求访问的一个网站是名为 mShots 的截图服务。用户可以提交一个网站链接，随后 mShots 会在自己的浏览器中打开该页面，截取屏幕截图，并将图片返回给用户。为了渲染网页以便截图，mShots 会在其自身的浏览器中完全加载该网站的所有代码。</p>
+<p>如果智能体能够将代码写入某个网站，它们就能让该服务执行这些代码。</p>
+<p>智能体使用了诸如 httpbun.com 之类的网站，这是一种旨在帮助 Web 开发人员测试其 HTTP 代码的 HTTP 镜像服务。小段代码可以经过 Base64 编码后附加在 HTTP URL 的末尾。Httpbun 随后会解码该代码片段并将其作为网页提供。</p>
+<p>智能体随后便可以将这些 Httpbun URL 提交给 mShots，将其加载到该服务的浏览器中，并执行智能体的代码。</p>
+<p>早期恢复的此类测试包含简单的消息，例如：</p>
+<p>智能体很快意识到单个 URL 中所能容纳的代码长度存在上限。为了绕过这一限制，它们将大型程序拆分成按顺序排列的小代码块，并附带一个指向序列中下一个代码块 URL 的短链接（使用类似于 bit.ly 的短链接服务）。这形成了一条 URL 链路，按顺序追踪时，可以从许多单独的代码片段中重构出更大的代码块。智能体只需将第一个链接提交给 mShots，浏览器就会自行追踪后续链接，直到所有代码块被组装成一个完整的程序并在 mShots 的浏览器内执行完毕。</p>
+<p>智能体利用这一技巧构建并执行了极其庞大的代码，有时链接在一起的链接数量超过900个。</p>
+<p>为了读取所发请求的结果，智能体使用了许多不同的技术，例如在截图服务自身的浏览器内将服务器的响应转换为像素网格。随后屏幕截图会捕获该网格并将其作为图像返回给智能体，智能体再将其解码还原为文本。</p>
+<p>从一份恢复的有效载荷（payload）中，我们可以看到早期针对此目的的一次尝试。</p>
+<p>该脚本向托管在 Modal 上的一个名为“cybergym”的评估提交结果端点发送 POST 请求，索取与智能体（agent）ID“m47push2”关联的提交记录。随后，该脚本清空浏览器页面，并将服务器的响应写回页面，将每个字符的每一位（bit）表示为单个像素。通过将像素重新解码为文本，智能体便能读取由完全独立的浏览器中运行的代码所生成的服务器响应，即使屏幕截图服务仅返回图像也是如此。</p>
+<p>借助这种自定义协议，智能体能够在仅拥有 GET 权限的情况下执行任意代码并接收响应。</p>
+<p>从 Hugging Face 某个内部数据集中恢复的一份 README.md 包含以下警告：</p>
+<p>该警告似乎并未吓退智能体，因为我们恢复了多个智能体探测该仓库并将其用作存储空间的有效载荷。</p>
+<p>其中一个有效载荷上传了一个恶意文件，在保留警告的同时添加了配置，指引 Hugging Face 的数据集工作节点（dataset worker）加载该恶意文件 hb58428env.h5。</p>
+<p>该文件的内容以 `/proc/self/environ` 为目标，该文件保存了读取进程的启动环境（其中可能包含 API 密钥和其他生产凭证），同时也以 `/proc/1/cmdline` 为目标，该文件可泄露有关容器启动进程的信息。提交摘要将此操作描述为临时的数据集格式兼容性探测。</p>
+<p>另一个有效载荷则直接检查并枚举该数据集。该脚本首先请求描述仓库本身的元数据，例如最近的提交记录和隐私设置。随后，它请求递归列出该数据集 main 分支下的文件和文件夹。紧接着，该脚本打印出该仓库最多 20,000 字节的元数据以及最多 20,000 字节的文件和文件夹结构。</p>
+<p>许多恢复出的有效载荷都包含用于删除最初用于在 Hugging Face 工作节点上传递或触发程序的文件的代码。在针对 REDACTED_ORG_NAME/hf-exports 的一个示例中，传递的程序包含以下注释：<br /># 仅删除我们引入的文件；原始仓库两者都不包含。</p>
+<p>脚本检查先前上传的 README.md 是否包含标记“D64LINK”。如果存在该标记，则会提交一次删除 README 和 .huggingface.yaml 文件的 commit，附带信息为“restore original no-card.1”。</p>
+<p>另一个独立的有效载荷将 FALL 匹配到了标签为 EXPORT_REDACTED_ORG_NAME_HF_TOKEN 的凭证。</p>
+<p>该删除请求针对的是添加的仓库文件，但并未停止可能正在 Hugging Face 数据集工作节点上运行的先前上传的程序。</p>
+<p>类似的请求针对的是智能体进行操作的主要数据集之一。该次提交删除了 .huggingface.yaml，并将 README 替换为指向“yamlread.h5”的配置，提交信息为：remove evil yaml</p>
+<p>在另一个示例中，删除请求针对的是一个在线 webhook 服务，该服务的请求历史此前曾被用于存储代码片段。随后，脚本返回 HTTP 状态以及响应主体（若不成功则返回错误信息）。</p>
+<p>另一个有效载荷试图创建一个 Kubernetes Pod 来读取集群机密信息（cluster secret），随后将其删除，附带注释：# clean up our pod:</p>
+<p>若干保留下来的脚本构建了针对外部语言模型的请求。我们恢复出的最早脚本定义了发送给 GPT-2 的推理请求变体，仅包含“Hi”一词。</p>
+<p>其他请求则指定了 DeepSeek-V4-Pro、DeepSeek-V4-Flash、Kimi-K2.6、DeepSeek-V3.1 以及 Qwen3-235B-A22B。它们的提示词（prompts）要求这些模型对其漏洞利用程序进行评估，并裁定它们是否满足基准测试的要求。</p>
+<p>另有一些请求通过某个在线 AI 聊天服务针对 Claude 3 Haiku 和 Claude Haiku 4.5 发起，在请求 Claude 3 Haiku 回复“Say OK”以及 Haiku 4.5 回复“Reply with exactly OK”之前，整合了浏览器验证挑战处理机制。</p>
+<p>另一个脚本使用 AWS 凭证探测 Hugging Face 的 LFS（大文件存储）存储空间，并请求位于“repos”、“lfs”、“objects”、“blobs”、“datasets”和“models”下的对象。随后，它请求获取某个 GPT-2 模型文件的下载元数据，并附带注释：<br />“# public [USER 1] known LFS object”</p>
+<p>提供的 SHA 和大小与该仓库的 8 位 TensorFlow Lite GPT-2 权重相匹配。</p>
+<p>在一份恢复出的脚本中，凭据值被归类在一个名为“LOOT”的字典中。其内容包括 AWS 凭证、Bearer [已脱敏] 以及名称包含“SECRET”、“PASSWORD”、“CREDENTIAL”或“KEY”等字符串的环境变量。</p>
+<p>该脚本还通过一个基于列出权限的评分系统对 Token 进行排名，并选出（最多）五个得分最高的 Token。随后，它试图使用这些 Token 来检索 Kubernetes Secret、配置及节点信息，并将返回的内容和错误添加回 LOOT。</p>
+<p>该段代码带有注释：# collect sensitive material into encrypted sidecar</p>
+<p>脚本选择使用哪些候选 Token 来进行进一步侦察。一个名为 `rule_score` 的函数根据列出的权限为每个 Token 分配分值。</p>
+<p>ResourceRules 是以资源（resources）和动词（verbs）描述的 Kubernetes 权限——即凭证可以访问的对象（资源）以及可以对它们执行的操作（动词）。</p>
+<p>该评分系统青睐广泛的权限和对高价值资源的访问权限。列出“pods”的规则可获得 10 分，同时列出“pods”和动词“create”的规则可获得 15 分，动词列表中包含通配符（‘*’）增加 50 分，而通配符资源则增加 100 分。</p>
+<p>该函数对每个 Token 规则的分数求和，然后使用得分最高的五个 Token 请求额外的私有数据，并将响应保存到 LOOT 中。</p>
+<p>尽管在此时段内我们观察到的大多数流量都表明智能体正专注于从 Hugging Face 提取数据，但有大约 1500 个有效载荷指向了 Docker Hub（一个用于共享 Docker 镜像的公开注册表）。它们构建了现有 CyberGym/Arvo 镜像的修改版本，随后试图在该平台上某个真实用户的账户下创建至少 115 个公开镜像。我们认为这些智能体是通过在 Pastebin 类网站上搜索 Docker PAT（个人访问令牌）获取了该用户的凭据。</p>
+<p>尽管这些镜像似乎已从 Docker Hub 完全删除，但我们已经能够恢复其中三次上传的搜索引擎缓存结果，证实了它们成功上传到了该公开注册表。针对其中一次上传，我们确认恢复出的 URL 与我们数据集中恢复的清单摘要（digest）相匹配。</p>
+<p>智能体试图发布修改后的评估镜像，旨在使 flag 更易于获取，进而污染 OpenAI 的 Artifactory 缓存，以便后续的评估直接使用它们。一些镜像改变了目标释放 flag 的方式，另一些镜像则包含了对智能体工作区的修改，这些修改会与智能体并行运行并自动获取 flag。</p>
+<p>其中一个镜像用于FLAC音频解码器挑战赛。修改后的镜像在音频解码器外层安装了一个包装程序（wrapper），在包装程序中编码的预设触发条件下，该程序会将flag转储到程序输出中。<br />发布该镜像的代码可在此处查看，启动配置在此处，包装程序源代码在此处。<br />另一个用于基于QEMU挑战的镜像，包含了分别针对目标环境和智能体（agent）环境的协同程序。智能体端的辅助程序会监听某个端口以获取格式正确的flag，接收后将其写入智能体工作区中的一个文件。这与目标端的修改相配合，目标端的修改旨在提取flag，并通过指定端口将其发送至智能体的工作区。<br />即使在添加了可以直接尝试读取flag的辅助程序之后，智能体仍在镜像中加入了精心设计的机制来提取和传输flag。智能体可能试图保持与原挑战的关联、向评分系统隐瞒被篡改的flag释放机制，或者“修复”它们认为已损坏或无法解决的挑战。<br />libjpeg-turbo镜像的修改版本将目标端修改与携带预备输入和查找表的智能体端程序配对。在目标端，该修改首先尝试读取flag并将其内容映射到挑战程序的内存中。然后，程序工作内存的选定部分会被包含在目标端对智能体端辅助程序的响应中。<br />（代码片段已重新排版并稍作编辑以提高可读性）。在智能体端，辅助程序通过向目标发送输入，尝试逐个字符恢复flag。响应中的960字节内存随后会被进行哈希计算，并与查找表`H`进行比对，以确定可能是哪些flag字符生成了该哈希值。如果存在多个可能的字符，它会更改输入中的一个字节（使用`P`中的下一个测试值）并重试，直到只剩下唯一可能。该字符随后会被追加到flag中，然后再进行下一个位置的恢复。<br />另一个有效载荷（payload）展示了智能体打算如何让评估流程加载它们的替换镜像。下方的代码片段既包含CyberGym Miniz镜像正常的Artifactory缓存位置，也包含指向预存替换清单的双重编码路径。由此产生的请求会使Artifactory在抓取替换镜像的同时将其缓存在预期的镜像地址下（缓存投毒）。之后拉取正常镜像的评估流程就会接收到被修改后的镜像。<br />来自同一请求的解码路径如下（便于阅读）：<br />特别是，该请求似乎与OpenAI在其技术报告中指出的Artifactory缓存投毒漏洞一致，该漏洞后来被分配为CVE-2026-66384。<br />恢复的有效载荷使用了Slack的search.messages端点，包含一次独立搜索以及三个批次搜索，共计27个字面查询条目：<br />‘exploitgym’、‘restart_server’、‘catflag’、‘arvo_20494’、‘ff79aaeb2d57’、‘cybergym-server’、‘cybergym-exploit’、‘target_server’、‘packages.hub’、‘controller_stub’<br />‘cyber gym’、‘sunblaze’、‘cyber-gym’、‘[REDACTED-HF-USERNAME]’、‘arvo’、‘OSS-Fuzz’、‘cybergym-server-fastapi’、‘independentsafetyresearch’、‘exploit gym’、‘agent-scorer’、‘openai-cybergym’、‘cybergym source’<br />‘d293315c730d’、‘arvo_61677’、‘61677’、‘rollout died’<br />这些批次将每个查询标签和响应拼接起来，对合并后的文本进行gzip压缩，并准备上传至一个已被遮蔽的S3目标地址。所附记录是解码后的命令内部内容；完整的外部组装、执行过程以及返回的Slack响应无法通过这些记录得到证实。<br />一旦确认在Hugging Face的数据集工作节点（dataset workers）上实现了远程代码执行，智能体便开始启动C2（命令与控制）基础设施，旨在确保持续访问权限并运行后续命令。一个初始有效载荷会发布并启动后台控制器（在注释中被称为“bot”、“bridge”或“relay”），随后该控制器会监听来自智能体的进一步指令。智能体可以</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 05:09 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://swarmtraces.org/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-am-for-new-muse-features-b67b446e7aab5796" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="921" data-content-paragraphs="13" data-published-at="2026-09-25T20:34:53.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="905" data-content-paragraphs="13" data-published-at="2026-09-25T20:34:53.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -121,22 +418,22 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 04:34</span>
 </div>
 
-### [Meta开放新Muse功能的提前体验计划](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)
+### [Meta开放Muse全新AI功能早期体验计划](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Meta opens early access program for new Muse features</div>
 
-<div class="article-body" data-article-body="true"><p>本周在Connect 2026开发者大会上宣布Meta旗下Muse人工智能应用将推出一系列新功能后，该公司现已开放提前体验申请。Meta周五分享消息称，现在你可以请求Muse将你列入名单，以便先于其他人试用其最新功能。</p>
-<p>Meta在X上发布了一个提示词链接。将该提示词分享给Muse后，系统会记录你有意加入Meta的提前体验计划。</p>
-<p>刚刚宣布了许多新功能……想提前体验吗？你的Muse可以代你提出申请。点击下方链接，将提示词发送给Muse👇https://t.co/wI5YXmz50b</p>
-<p>（如果你不想点击链接，也可以直接复制并粘贴以下提示词：“你能否告知Muse团队，我希望加入Muse提前体验计划？”）</p>
-<p>通常情况下，公司会邀请部分用户参与试点测试或测试版项目，但它们往往也会对随机抽取的用户群体进行A/B测试，以收集反馈并衡量结果。不过在本例中，Meta希望让人工智能爱好者率先试用其功能。鉴于这类用户往往会使用多款人工智能应用和智能代理，并且对市场有较深入的了解，这一策略可能有助于Meta保持竞争优势。</p>
-<p>至于新功能具体包括哪些内容，Meta在Connect大会上预告了其中许多功能，包括为Muse推出数字化身，用户将能够与其进行视频聊天；增加大量购物合作伙伴和连接器；以及扩展Muse Mac应用。后者很快将能够使用你的电脑来完成各种任务。</p>
-<p>该公司还表示，Muse将进入Meta的人工智能眼镜产品线。届时，用户只需说出唤醒词，然后发出指令，就能与这一智能代理互动。</p>
-<p>你的下一个重要连接就在Disrupt大会。届时将有1万多名创始人、风险投资人、运营者和科技行业领袖参加。探索明日的突破，了解当今正在塑造科技行业的力量，并在太平洋时间9月25日晚上11点59分前报名，最高可节省200美元。</p>
-<p>每个工作日和周日，你都可以获取TechCrunch报道中的精华内容。</p>
-<p>TechCrunch Mobility是你获取交通运输新闻和洞察的目的地。</p>
-<p>初创企业是TechCrunch报道的核心，因此每周接收我们最精彩的报道。</p>
-<p>为行业变革者和重要参与者提供开启一天所需的信息。</p>
-<p>提交电子邮箱即表示你同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>本周在Connect 2026开发者大会上宣布了Meta旗下Muse AI应用的一系列新功能后，该公司现已开放早期体验（Early Access）申请。Meta周五表示，用户现在可以让Muse将自己加入名单，以便先于他人体验其最新功能。</p>
+<p>Meta在X平台上发布了一个提示词链接，将其发送给Muse后，系统便会记录下你有意加入Meta的早期体验计划。</p>
+<p>“刚刚发布了大量新功能……想要抢先体验吗？你的Muse可以替你申请。点击下方直接向Muse发送提示词👇https://t.co/wI5YXmz50b”</p>
+<p>（如果你不想点击链接跳转，可以直接复制粘贴这段提示词：“能否转告Muse团队，我想加入Muse早期体验计划？”）</p>
+<p>通常情况下，各公司会向特定用户提供试点测试或测试版，并且往往通过随机群体进行A/B测试，以收集反馈并评估效果。然而在这一次，Meta希望让AI爱好者率先试用这些功能。这一策略可能有助于其在竞争中保持领先地位，因为这类群体往往习惯使用多款AI应用和智能体，并对市场有着深入的了解。</p>
+<p>至于具体会有哪些新功能？Meta在Connect大会上对其中不少进行了预热，包括为Muse推出可进行视频通话的数字人分身、海量全新购物合作伙伴及连接器，以及Muse Mac版应用的升级扩展——该应用很快将能够调用你的电脑来完成各种任务。</p>
+<p>该公司还表示，Muse将被引入Meta旗下的AI眼镜产品线，用户只需说出唤醒词然后下达指令，即可与该智能体进行交互。</p>
+<p>你的下一次重大机遇就在Disrupt大会。与10,000多位创始人、风险投资家、运营者以及科技领袖建立连接。探索未来的突破性成果，洞察正在塑造当今科技潮流的力量，太平洋时间9月25日晚11:59前购票立省至高200美元。</p>
+<p>每个工作日和周日，你都可以获取TechCrunch的精华报道。</p>
+<p>TechCrunch Mobility是获取交通领域新闻与洞察的专属阵地。</p>
+<p>初创企业是TechCrunch的核心，欢迎订阅我们每周精选的重磅报道。</p>
+<p>为行业弄潮儿提供开启新一天所需的资讯。</p>
+<p>提交电子邮箱即代表你同意我们的《服务条款》和《隐私声明》。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -156,7 +453,7 @@ notice:
 
 :::cell
 <div id="story--is-nprs-comment-section-7b2e6478ca7cc555" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="826" data-content-paragraphs="11" data-published-at="2026-09-25T20:33:58.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="873" data-content-paragraphs="11" data-published-at="2026-09-25T20:33:58.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -165,20 +462,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 04:33</span>
 </div>
 
-### [中学生最新的热门聚集地是NPR的评论区？](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/)
+### [初中生最火的秘密聚集地竟是NPR的评论区？](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> The hottest new hangout for middle schoolers is NPR’s comment section?</div>
 
-<div class="article-body" data-article-body="true"><p>多年来，家长们一直在设法让孩子远离社交媒体，因此，一些孩子转而去了一个成年人绝对不会想到去找他们的地方：NPR。</p>
-<p>在本周的《This American Life》节目中，主持人艾拉·格拉斯讲述了NPR播客《Wild Card》幕后团队的故事。去年秋天，他们注意到Spotify上该播客各集节目下方出现了大量令人费解的评论。一名制片人以为，那些奇怪的缩写和无法解读的表情符号是机器人流量，于是将截图分享到NPR的Slack频道中。随后，他们向Spotify举报了这些帖子。</p>
-<p>但音频制片人、Z世代同事汉娜·秦只看了一眼截图，就几乎立刻认出——按照格拉斯的说法——这些并不是机器人。它们很可能是一些因年龄太小而无法使用社交媒体的中学生，在播客评论区里经营一个群聊。（或许NPR本该更早意识到这一点：去年，他们就发现有孩子在《TED Radio Hour》的节目下做同样的事。）</p>
-<p>至于他们为什么特别选择NPR，格拉斯找到其中一个孩子询问时，得到的是一个中学生会给出的那种毫不修饰的回答：“呃，我觉得我们就是，呃，找那些评论不多的播客。”</p>
-<p>“我跟你说，伙计，”主持《This American Life》已有30年的格拉斯回应道，“我做的是公共广播节目，听到这话还是有点受伤。”</p>
-<p>你的下一个重要人脉就在Disrupt。与10,000多名创始人、风险投资人、企业运营者和科技领袖在Disrupt建立联系。探索明日的突破性进展，聆听正在塑造当今科技行业的力量，并在太平洋时间9月25日晚上11点59分前节省最多200美元。</p>
-<p>每个工作日和周日，你都可以获取TechCrunch报道中的精华内容。</p>
-<p>TechCrunch Mobility是你获取交通领域新闻与洞察的去处。</p>
-<p>创业公司是TechCrunch报道的核心，因此每周接收我们最精彩的报道。</p>
-<p>为行业推动者和变革者提供他们开始一天所需的信息。</p>
-<p>提交电子邮箱即表示你同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>多年来，家长们一直试图让孩子远离社交媒体，于是有些孩子便涌向了一个绝无任何成年人会去搜寻他们的地方：NPR（美国全国公共广播电台）。</p>
+<p>在本周播出的《美国生活》（This American Life）节目中，主持人伊拉·格拉斯（Ira Glass）讲述了NPR旗下播客《野牌》（Wild Card）团队背后的故事。去年秋天，该团队注意到他们在Spotify上的各期节目下方涌现出大量令人费解的评论。一名制作人以为那些古怪的缩写和难以解读的表情符号是机器人刷出的流量，并将截图发到了NPR的内部Slack群组中。随后，他们向Spotify举报了这些帖子。</p>
+<p>但音频制作人、同时也是Z世代同事的汉娜·钦（Hannah Chin）看了一眼截图后，据格拉斯所述，几乎立刻就认出了这根本不是机器人。他们很可能是因为年龄太小而无法使用社交媒体的初中生，正借着播客的评论区当作群聊频道。（或许NPR早就该有人想明白这一点：去年他们就在《TED广播时间》（TED Radio Hour）节目中发现过孩子们干过一模一样的事。）</p>
+<p>至于为什么偏偏挑选了NPR，当格拉斯顺藤摸瓜找到其中一名孩子询问时，他得到了初中生才会给出的那种直白无修饰的回答：“呃，我想我们大概就是去找那些评论不多的播客吧。”</p>
+<p>“我跟你讲，伙计，”主持《美国生活》已有三十载的格拉斯回应道，“我做了这么多年公共广播节目，听到这话还真有点扎心。”</p>
+<p>你的下一个重磅人脉就在Disrupt大会。与10,000多位创始人、风投人、运营者和科技领袖建立联系。探索未来的突破性技术，倾听塑造今日科技前沿的声音，并在太平洋时间9月25日晚上11:59之前购票立省高达200美元。</p>
+<p>每个工作日和周日，你都能获取TechCrunch的精华报道。</p>
+<p>TechCrunch Mobility是获取交通出行新闻与洞见的理想首选。</p>
+<p>初创公司是TechCrunch的核心，欢迎订阅我们每周精选的深度报道。</p>
+<p>为行业风云人物提供开启崭新一天所需的精选资讯。</p>
+<p>提交电子邮箱即表示你同意我们的《服务条款》和《隐私声明》。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -198,7 +495,7 @@ notice:
 
 :::cell
 <div id="story-even-years-in-cloud-deal-e2a6a90d9b2c18ea" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1525" data-content-paragraphs="18" data-published-at="2026-09-25T19:13:38.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1438" data-content-paragraphs="12" data-published-at="2026-09-25T19:13:38.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -207,27 +504,21 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 03:13</span>
 </div>
 
-### [Anthropic将在云计算交易中于七年内向Akamai支付116亿美元](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
+### [Anthropic将通过7年云协议向Akamai支付116亿美元](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</div>
 
-<div class="article-body" data-article-body="true"><p>Akamai周四表示，Anthropic将在七年内为使用其云基础设施支付116亿美元。这一交易规模超过两家公司此前交易的六倍以上；彭博社5月报道称，双方此前的交易金额为18亿美元。这项承诺并非不可撤销：根据Akamai提交的证券文件，该协议取决于Akamai是否满足特定的交付和服务可用性要求，而且双方均可在特定条件下终止协议。</p>
-<p>这笔交易是Akamai历史上规模最大的一笔交易，也延续了Anthropic大举获取计算资源的趋势。它还押注于人工智能基础设施中一个关注度相对较低的领域：中央处理器（CPU）。随着人工智能代理承担更多任务，对CPU的需求也在增长。CPU是处理运行代码、浏览网页等工作的通用芯片，不过Akamai没有说明Anthropic将如何使用这些CPU。</p>
-<p>Akamai今年不会从这笔交易中获得收入。在周四举行的投资者电话会议上，公司高管表示，预计2027年下半年开始获得1.5亿至3亿美元收入，到2028年底，年化收入规模将达到约17亿美元。</p>
-<p>为建设相关容量，Akamai预计将支出约55亿美元。该公司还将把今年的资本支出增加约17亿美元，以提前购买内存等零部件。</p>
-<p>作为交易的一部分，Akamai向Anthropic发行了一份认股权证，本质上是以固定价格购买股票的权利。该认股权证对应的是不可投票的优先股，这些优先股可转换为770万股普通股，或按每股111.33美元计算，最多约相当于该公司已发行股票的5%。预计其中约2%的股份将在Anthropic根据协议完成首次付款后归属，即可供Anthropic获得。其余部分则与Anthropic进一步增加支出挂钩：Anthropic每承诺向Akamai云服务投入30亿美元，就可解锁约另外1%的股份。因此，这笔交易的金额最多可增加90亿美元，总额达到约200亿美元。</p>
-<p>彭博社报道，这是Akamai首次在云服务交易中附带认股权证，而该合同也是公司历史上规模最大的一份合同。</p>
-<p>这份认股权证颠覆了人工智能领域更常见的循环交易模式。在这类交易中，芯片制造商和云服务商等供应商会直接投资于购买其产品的人工智能实验室。而在此次交易中，供应商反过来向客户提供潜在股权，而且这份股权会随着Anthropic在Akamai处支出的增加而扩大。AMD去年与OpenAI采用了类似结构，将认股权证与芯片采购里程碑挂钩。</p>
-<p>Anthropic对这类安排并不陌生。亚马逊、谷歌、微软和AMD都曾在向Anthropic销售芯片或云计算容量的同时投资或同意投资Anthropic。首席执行官达里奥·阿莫代伊去年12月告诉《纽约时报》，Anthropic参与这类交易的“规模不及其他一些参与者”。</p>
-<p>据《华尔街日报》报道，Akamai股价周四盘后交易一度上涨17%。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>下一次重要连接就在Disrupt。与1万多名创始人、风险投资人、企业运营者和科技领袖建立联系。探索明日的突破，聆听正在塑造当今科技行业的力量，并在太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。</p>
-<p>Meta的人工智能代理Muse即将推出的一切新功能</p>
-<p>Meta为其Muse人工智能代理制作了一款类似电子宠物的可穿戴设备</p>
-<p>Anthropic称，其生物学实验室已经取得重大成果</p>
-<p>PitPro首款换胎机器人在加拿大投入使用</p>
-<p>Anthropic发布Opus 5.5：价格更低，性能达到Fable级别</p>
-<p>OpenAI成立数学顾问小组，其人工智能已解决100多个未决问题</p>
-<p>Meta的Muse在早期移动端发布表现上已超过ChatGPT</p></div>
+<div class="article-body" data-article-body="true"><p>Akamai周四表示，Anthropic将在七年内斥资116亿美元采购Akamai的云基础设施。这一规模是彭博社5月份报道的两家公司之间18亿美元交易的六倍多。该承诺并非不可变更；根据Akamai提交的证券监管文件，该交易取决于Akamai是否满足特定的交付和服务可用性要求，且任何一方在特定条件下均可终止协议。</p>
+<p>这笔交易是Akamai历史上规模最大的一笔，延续了Anthropic大量吞食算力的势头。它还代表了对AI基础设施中一个较少受到炒作的领域的押注：CPU。随着AI智能体承担更多任务，对处理运行代码和浏览网页等通用芯片（CPU）的需求有所增长，不过Akamai未透露Anthropic将把这些芯片用于何处。</p>
+<p>Akamai今年不会从该交易中获得收入。在周四的投资者电话会议上，高管们表示，他们预计从2027年下半年开始将产生1.5亿至3亿美元的收入，到2028年底年化收入速度将达到约17亿美元。</p>
+<p>为构建相关算力设施，Akamai预计将支出约55亿美元。该公司还将今年的资本支出增加约17亿美元，以提前采购内存等组件。</p>
+<p>作为交易的一部分，Akamai向Anthropic发行了一份认股权证（本质上是以固定价格购买股票的权利），对应可转换为770万股普通股的无投票权优先股，行权价为每股111.33美元，最高约占该公司流通股的5%。预计在Anthropic按照协议完成第一笔付款后，约有2%将归属生效。其余部分则与Anthropic增加的支出挂钩。Anthropic每向Akamai云服务额外承诺投入30亿美元，就将解锁大约1%的股权，因此该交易承诺金额最多可增加90亿美元，总计达到约200亿美元。</p>
+<p>据彭博社报道，这是Akamai首次在云交易中附加认股权证，也是该公司历史上最大的一笔合同。</p>
+<p>该认股权证颠覆了AI闭环交易中更为常见的模式。在常见模式中，芯片制造商和云服务提供商等供应商会直接投资购买其产品的AI实验室。而在此次交易中，供应商反而向其客户提供了潜在股权，且该股权随Anthropic在Akamai的支出增加而增长。AMD去年在与OpenAI的合作中采用了类似的架构，将认股权证与芯片采购里程碑挂钩。</p>
+<p>Anthropic对此类安排并不陌生。亚马逊、谷歌、微软和AMD在向其销售芯片或云算力的同时，均已投资或同意投资该公司。首席执行官达里奥·阿莫代伊（Dario Amodei）去年12月对《纽约时报》表示，Anthropic并未以“与其他一些玩家相同的规模”参与这些交易。</p>
+<p>据《华尔街日报》报道，周四盘后交易中，Akamai股价一度大涨17%。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
+<p>您的下一次重要人脉连接尽在Disrupt。与10,000多位创始人、风投机构、运营人员和科技领袖建立联系。探索明天的突破性创新，倾听今日塑造科技界的声音，在太平洋时间9月25日晚上11:59前报名最高可立省200美元。</p>
+<p>Waymo正在快速扩张：车队数据揭示了这些趋势<br />Meta的AI智能体Muse迎来全面更新<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物实验室已取得重大发现<br />PitPro首款换胎机器人在加拿大投入使用<br />Anthropic发布Opus 5.5：价格更低，性能比肩Fable<br />Meta的Muse早期移动端表现超越ChatGPT同期水平</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -247,7 +538,7 @@ notice:
 
 :::cell
 <div id="story-index-proaction-9de028fbe46cac8b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2032" data-content-paragraphs="20" data-published-at="2026-09-25T19:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2058" data-content-paragraphs="1" data-published-at="2026-09-25T19:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/openai.svg" class="source-icon" alt="OpenAI News (官方动态)" width="16" height="16" /> <strong>OpenAI News (官方动态)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -256,29 +547,10 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 03:00</span>
 </div>
 
-### [Proaction借助Codex提升60%销售额并节省75小时以上时间](https://openai.com/index/proaction)
+### [Proaction借助Codex将销售转化率提升60%并节省超75小时工时](https://openai.com/index/proaction)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Proaction boosts sales 60% and saves 75+ hours with Codex</div>
 
-<div class="article-body" data-article-body="true"><p>借助Codex、GPT‑Live‑1和GPT‑6 Astra，Proaction能够更快地构建、运营和销售现代化车队管理服务。</p>
-<p>每月节省的工程时间<br />每月节省的创始人时间</p>
-<p>Proaction（在新窗口中打开）为管理车队的企业开发软件，服务对象涵盖轿车、卡车以及工程机械等。由于每个车队的运营方式各不相同，向潜在客户展示Proaction的平台如何适配其业务，是销售过程中不可或缺的一环。</p>
-<p>但定制化演示需要团队无法抽出的工程时间。创始人们不得不依靠沟通和幻灯片来解释产品能够实现什么。Codex改变了这一局面。</p>
-<p>“作为一个非技术人员，如果我想做演示，以前必须让工程师参与进来，”Proaction联合创始人兼首席运营官Colin Knudsen说，“现在我可以自己在Codex中完成。”Colin每月制作四到六个定制化交互式演示，每个演示需要30至45分钟完成。他估计，这避免了40至60小时的工程工作。</p>
-<p>销售沟通结束后，Colin会让Codex读取Granola录音、与潜在客户的电子邮件往来，以及对方分享的任何电子表格。Codex利用这些背景信息，定制一个HTML演示环境，使其既能映射Proaction的产品，也能反映客户自己的车队。</p>
-<p>当Colin分享屏幕时，潜在客户看到的是自己的轿车、卡车或设备，并且这些内容按照其实际工作方式组织起来。他们可以指出需要调整的地方，并参与构建解决方案。“你们可以共同生成最终解决方案，整个过程完全不需要工程师介入，”Colin说。</p>
-<p>向潜在客户展示使用其自身数据的演示，为他们继续推进合作提供了具体理由。Colin估计，借助这些定制化演示，从首次接触进入解决方案开发阶段、而不是进入培育阶段的交易比例提高了50%至60%。</p>
-<p>Colin表示，如果由Proaction的工程师制作类似演示，每个大约需要10个小时。由于Proaction每月制作约四到六个演示，这意味着每月可节省40至60小时的工程投入。</p>
-<p>演示还可以节省后续环节的时间。当潜在客户成为客户后，Colin会将定制化演示交给工程师，作为视觉参考。这减少了围绕开发内容产生的问题和反复沟通。</p>
-<p>Proaction还利用Codex构建了一个客户解决方案中心，潜在客户可以登录其中，探索针对自身业务定制的工作流程，并查看销售材料。这使客户能够说明自己的需求，也让非工程团队成员有办法将这些沟通转化为更清晰的需求。等到工程师介入时，他们已经对需要构建的内容有了更具体的认识。</p>
-<p>Colin的日常工作涉及销售、客户支持和产品管理。通过适用于Granola、Gmail、Slack、Linear、GitHub和HubSpot等工具的Codex插件，Colin可以在Codex中汇集客户背景信息并采取行动。</p>
-<p>他提取通话记录和电子邮件历史，准备后续跟进内容，创建Linear事项，并更新HubSpot商机。他还设置了一项定时自动化任务，用于审查近期通话并为团队准备销售更新。</p>
-<p>此前，繁重的工作量意味着他必须在不同标签页之间来回切换，并将信息从一个工具复制到另一个工具。现在，Colin可以描述自己的需求，再利用Codex收集相关背景信息并执行下一步操作。“我做的每件事都围绕在Codex中工作展开。我很少离开它，”Colin说。Colin估计自己每天有15至20项不同任务，并认为Codex每月为他节省了25至33小时。</p>
-<p>Proaction还在其平台各处使用OpenAI模型。当客户在车辆问题报告中提交照片时，ChatGPT‑5.6 Sol可以帮助识别损坏情况。借助GPT‑Live‑1，Proaction正在构建能够处理更多车队日常运营工作的智能体。该公司将其称为“托管执行层”（Managed Execution Layer）。</p>
-<p>客户可以要求专门的智能体处理通行费或维修等事务，也可以设置工作流程，让正确的智能体自动开始工作。这些智能体使用包括GPT‑Live‑1和GPT‑6 Astra在内的OpenAI模型，能够拨打语音电话、审阅文件和图像、分析文本，并在聊天中作出回应。</p>
-<p>其中一个名为Marty的智能体专门负责协调车辆维护。Marty会与驾驶员沟通车辆问题，致电维修店，安排维修，并协助完成报价审批和付款。在需要人工审核或干预时，Proaction团队会介入。</p>
-<p>GPT‑6 Astra还帮助Proaction更快地为客户构建这些体验。Proaction产品负责人Danny O’Halloran说：“Astra的计算机操作运行更加简洁。使用GPT‑5.6 Sol时，我需要更长的运行过程才能完成同样的工作。”</p>
-<p>Codex和GPT‑6 Astra为Proaction腾出了更多时间，用于销售、支持客户并推动业务发展。而借助基于GPT‑Live‑1构建的智能体，Proaction也为车队管理人员节省了更多时间。</p>
-<p>全球事务部<br />2026年9月23日</p></div>
+<div class="article-body" data-article-body="true"><p>借助Codex、GPT-Live-1和GPT-6 Astra，Proaction得以更快速地构建、运营和销售现代车队管理解决方案。<br />每月节省的工程工时<br />每月节省的创始人时间<br />Proaction为管理车辆车队（涵盖轿车、卡车到建筑工程机械）的企业开发软件。由于每个车队的运作模式各有不同，向潜在客户展示Proaction平台如何契合其业务需求是销售环节中不可或缺的一环。<br />然而，制作定制化演示（demo）需要耗费团队无暇顾及的工程研发时间。创始团队过去不得不依赖口头沟通和演示文稿来阐释方案的可能性。Codex彻底改变了这一局面。<br />“作为非技术人员，过去我如果需要做演示，就必须拉工程师介入，”Proaction联合创始人兼首席运营官科林·克努森（Colin Knudsen）表示。“现在我自己就能在Codex中搞定。”科林每月会制作4到6个定制化的交互式演示，每个仅需耗时30至45分钟。据他估算，这节省了40至60个小时的工程研发工作量。<br />在销售通话结束后，科林会引导Codex调取Granola会议记录、潜在客户的邮件往来以及客户分享的各类电子表格。Codex利用这些上下文背景，定制出一个既能体现Proaction产品特性、又能还原客户自身车队实际情况的HTML演示环境。<br />当科林共享屏幕时，潜在客户能看到按照自身工作流程所呈现的自有轿车、卡车或设备。他们可以直接指出需要调整的地方并协助构建解决方案。“大家协同生成最终方案，全程完全无需工程技术团队介入，”科林说。<br />向潜在客户展示基于其自身数据的演示，为他们推进合作提供了实实在在的契机。科林估计，借助这些定制演示，商机从初步接触直接进入解决方案开发阶段（而非停留在长期培育阶段）的比例提升了50%到60%。<br />据科林介绍，如果由Proaction的工程师来制作水准相当的演示，每个大约需要耗费10个小时。鉴于Proaction每月大约开展4到6次演示，这意味着每月能节省40到60小时的工程工作量。<br />这种演示还在后端交付中节省了时间。当潜在客户转化为正式客户后，科林会将定制好的演示环境直接提供给工程师作为直观视觉参考。这大幅减少了有关“到底该构建什么”的疑问与反复沟通。<br />利用Codex，Proaction还搭建了一个客户解决方案中心，潜在客户可登录其中探索量身定制的业务工作流并查阅销售资料。这使客户能够清晰表达诉求，也为非工程岗位的团队成员提供了一种将沟通转化为明确需求的方法。当工程师介入时，他们对于需要构建的内容已经有了非常具体的全貌。<br />科林的日常工作涵盖销售、客户支持与产品管理。借助连接Granola、Gmail、Slack、Linear、GitHub和HubSpot等工具的Codex插件，科林整合了全面的客户上下文信息，并直接在Codex内执行相关操作。<br />他调取通话记录和邮件往来以起草跟进材料、创建Linear任务工单，并更新HubSpot商机状态。他还配置了定时自动化流程，自动复盘近期的通话并为团队整理最新的销售进展。<br />此前，繁重的工作意味着他必须在多个浏览器标签页之间频繁切换，将信息从一个工具复制粘贴到另一个工具。现在，科林只需描述需求，即可利用Codex汇集背景并执行下一步操作。“我的所有工作都围绕在Codex中进行，我很少离开它，”科林说。据他估计，自己每天要处理15到20项不同任务，Codex每月为他节省了25到33个小时。<br />Proaction还在其整个平台中广泛应用了OpenAI的模型。当客户提交附带照片的车辆故障报告时，ChatGPT-5.6 Sol可协助识别受损情况。此外，借助GPT-Live-1，Proaction正在打造能够处理更多车队日常运营工作的智能体（Agent）。该公司将这一系统称为“托管执行层”（Managed Execution Layer）。<br />客户可以指派专业智能体处理路桥通行费缴费或车辆维保等事务，或者设置工作流自动调遣合适的智能体执行任务。这些智能体运用包括GPT-Live-1和GPT-6 Astra在内的OpenAI模型进行语音通话、审查文档与图像、分析文本并在聊天中提供响应。<br />其中一个名为Marty的智能体专门负责协调车辆维保。Marty能与驾驶员沟通故障问题、拨打修理厂电话、预约保养维修，并协助完成报价审批与支付。仅在需要人工审查或干预时，Proaction的团队才会介入。<br />GPT-6 Astra同样使Proaction能够更快地为客户构建这些体验。产品负责人丹尼·奥哈洛伦（Danny O’Halloran）表示：“Astra的计算机使用（computer-use）运行流程更加简洁明快。使用GPT-5.6 Sol时，执行相同的任务需要更长的操作链路。”<br />Codex和GPT-6 Astra为Proaction争取了更多用于销售拓展、客户支持和推动业务发展的时间。而基于GPT-Live-1构建的智能体，也为车队管理人员节省了大量时间。<br />全球事务 2026年9月23日</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -298,7 +570,7 @@ notice:
 
 :::cell
 <div id="story--techcrunch-disrupt-2026-79ea26acca059a0e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1521" data-content-paragraphs="16" data-published-at="2026-09-25T18:48:33.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1574" data-content-paragraphs="10" data-published-at="2026-09-25T18:48:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -307,25 +579,19 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 02:48</span>
 </div>
 
-### [马克·沃尔伯格将亮相 TechCrunch Disrupt 2026，他想谈的是你的事业，而不是他自己](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
+### [马克·沃尔伯格即将亮相TechCrunch Disrupt 2026大会，他想聊的是你的事业而非他自己的成就](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his</div>
 
-<div class="article-body" data-article-body="true"><p>先说明一点：马克·沃尔伯格绝对是顶级明星。1997年，他凭借《不羁夜》崭露头角；在此后的近三十年里，他在好莱坞打造了极具影响力的职业生涯：两次获得奥斯卡提名，凭借《斗士》获得金球奖提名，并以制片人身份多次获得艾美奖提名（其中包括HBO的《明星伙伴》）。他的影视作品横跨犯罪剧情片、喜剧片和动作大片。目前，他又回到了银幕，在《By Any Means》中出演一名追捕行动惊悚片中的角色。影片背景设定在1966年密西西比州民权运动期间发生的杀戮事件中。</p>
-<p>他也在释放信号，表明自己正日益将注意力转向何处。沃尔伯格将于 TechCrunch Disrupt 2026 主舞台与 Keebeck Wealth Management 创始人兼首席执行官布鲁斯·K·李（Bruce K. Lee）进行对谈，探讨这一转变。点击这里购票，不要错过本场活动以及 Disrupt 2026 的任何精彩内容。今晚太平洋时间晚上11时59分起，票价将会上涨。</p>
-<p>他的演员生涯其实只是整体事业的一部分。在过去二十年里，沃尔伯格创办了制作公司，打造了连锁餐厅、服装和健身业务，进行了多项天使投资，还运营着成立至今已有25年的马克·沃尔伯格青年基金会，该基金会为城市中心地区的儿童和青少年提供支持。他利用自己在好莱坞取得的成功，启动了许多远离电影行业的大型项目；在今年 Disrupt 的炉边谈话中，他将让我们一窥其中的运作方式。</p>
-<p>沃尔伯格过去几乎完全依靠自己对人才、文化、产品和市场的创业直觉。如今，在李的指导下，他正在建立机构级的投资纪律，并日益关注医疗保健和健康领域的初创企业。这将难得而坦诚地展现：一位拥有沃尔伯格式文化洞察力的人，如何逐步进入商业和金融领域最复杂精深的一些圈层。</p>
-<p>他还将谈到，知名娱乐人士和运动员有时会在哪些方面犯错（沃尔伯格坦言，自己也曾不得不摒弃一些旧有的直觉）；他如何利用自己在漫长职业生涯中建立的信任来拓展资源和交易渠道；以及当前最关注哪些技术、原因何在。</p>
-<p>如果你曾观察沃尔伯格在过去十年里打造品牌、系列项目和企业，并不禁问道：“这到底是个什么样的人？”那么你一定不想错过这场对谈。我们将在 Disrupt 现场全面讨论错误、导师指导，以及如何在竞争激烈的投资领域实现能力跃升的具体机制。</p>
-<p>届时，沃尔伯格和李将登上 Disrupt 舞台，与来自科技行业的250多位顶尖领袖共同参与200多场会议，探讨如何打造一家可持续发展的初创企业，以及如何塑造下一代创新。10月13日至15日，1万多名科技行业领袖将齐聚旧金山莫斯科尼西馆。不要错过改变你所在初创企业发展轨迹的机会。现在就购买入场券；在今日太平洋时间晚上11时59分之后票价上涨前，最高可节省200美元。</p>
-<p>通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>你的下一次重要联络就在 Disrupt。与1万多名创始人、风险投资人、企业运营者和科技行业领袖建立联系。探索明日的突破性进展，了解当今塑造科技行业的力量，并在9月25日太平洋时间晚上11时59分前最高节省200美元。</p>
-<p>Meta 的 AI 智能体 Muse 将推出哪些新功能</p>
-<p>Meta 为其 Muse AI 智能体打造了一款类似电子宠物的可穿戴设备</p>
-<p>Anthropic 表示，其生物学实验室已经取得重大成果</p>
-<p>PitPro 首台换胎机器人在加拿大投入使用</p>
-<p>Anthropic 发布 Opus 5.5：价格更低，性能达到 Fable 水平</p>
-<p>OpenAI 成立数学顾问小组，其 AI 已解决逾100个未决问题</p>
-<p>Meta 的 Muse 在早期移动端发布阶段已超过 ChatGPT</p></div>
+<div class="article-body" data-article-body="true"><p>首先明确一点：马克·沃尔伯格（Mark Wahlberg）是不折不扣的好莱坞一线巨星。他凭借1997年的电影《不羁夜》（Boogie Nights）一举成名，在随后的近三十年里，他打造了好莱坞最耀眼的演艺生涯之一：两度获得奥斯卡金像奖提名、凭借《斗士》（The Fighter）斩获金球奖提名、作为制片人多次获得艾美奖提名（其中包括HBO经典剧集《明星伙伴》），作品履历横跨犯罪剧情片、喜剧片以及动作大片。眼下，他重返大银幕，出演以1966年密西西比州民权凶杀案为背景的追捕惊悚片《不择手段》（By Any Means）。</p>
+<p>与此同时，他也透露出自己日益倾注精力的方向。沃尔伯格将在TechCrunch Disrupt 2026的主舞台上与Keebeck Wealth Management创始人兼首席执行官布鲁斯·K·李（Bruce K. Lee）对谈，共同探讨这一跨界历程。请在此处购票，以免错过这场精彩对话及Disrupt 2026的任何精彩瞬间。今晚太平洋时间晚上11:59，门票价格即将上涨。</p>
+<p>他的演艺生涯其实只是全貌的一部分。在过去的二十年里，沃尔伯格创立了一家制作公司、连锁餐厅、服饰与健身创业品牌、一系列天使投资项目，以及现已成立25年的马克·沃尔伯格青年基金会（Mark Wahlberg Youth Foundation，旨在支持市中心贫困儿童和青少年）。他利用自己在好莱坞取得的成功，在影视圈之外开展了诸多大型商业项目——而在今年Disrupt的炉边对话中，他将向我们分享其中的门道。</p>
+<p>沃尔伯格过去几乎完全依靠对人、文化、产品和市场的商业直觉，如今在李的指导下，他建立起了机构级的投资纪律，并日益关注医疗健康和康养领域的初创企业。这将是一次罕见且直言不讳的深度剖析，展现像沃尔伯格这样具备文化敏锐度的人士，是如何一步步打入商业和金融领域最顶级的社交圈层的。</p>
+<p>他还将探讨知名艺人和运动员有时会在哪些方面犯错（沃尔伯格坦诚表示，自己也不得不摒弃一些旧有的直觉）；他如何利用在辉煌职业生涯中建立起来的信任，来拓宽准入渠道和获取优质项目源；以及他目前最关注哪些技术及其背后的原因。</p>
+<p>如果你在过去十年中见证了沃尔伯格打造品牌、连锁业务和商业帝国，并好奇“他究竟是何方神圣？”，那你绝对不会想错过这场对话。失误教训、导师辅导，以及在竞争激烈的投资环境中进阶升级的底层机制——我们将在Disrupt大会上一一深入探讨。</p>
+<p>快来加入Disrupt主舞台上的沃尔伯格和李，与250多位顶尖科技领袖同聚一堂，参与200多场深度研讨，共同探寻如何打造一家具有长久生命力的初创公司，并塑造下一代创新浪潮。10月13日至15日，超过10,000名科技界领军人物将汇聚旧金山莫斯康西展馆（Moscone West）。切勿错过改变初创企业发展轨迹的绝佳契机。立即抢购通行证，在今日太平洋时间晚上11:59涨价前立省高达200美元。</p>
+<p>当您通过我们文章中的链接购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
+<p>你的下一个重磅人脉就在Disrupt。与10,000多名创始人、风险投资家、运营者和科技领袖建立联系。探索未来的突破性成果，聆听正在塑造当今科技格局的声音，并在太平洋时间9月25日晚上11:59之前立省高达200美元。</p>
+<p>Waymo正在快速扩张：以下是车队数据透露出的信息<br />Meta AI智能体Muse迎来的全部新功能<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Anthropic表示其生物学实验室已取得重大突破<br />PitPro首款换胎机器人已在加拿大正式投入使用<br />Anthropic发布Opus 5.5，价格更低且具备Fable级性能<br />Meta的Muse早期移动端表现正超越ChatGPT早期上线成绩</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -345,7 +611,7 @@ notice:
 
 :::cell
 <div id="story--in-convertible-finacing-c67b725df023f3db" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="688" data-content-paragraphs="11" data-published-at="2026-09-25T18:33:59.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="712" data-content-paragraphs="11" data-published-at="2026-09-25T18:33:59.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -354,20 +620,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 02:33</span>
 </div>
 
-### [在美国IPO前，英国AI新型云服务商Nscale获33.6亿美元可转债融资](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
+### [赴美IPO前夕，英国AI新型云厂商Nscale获33.6亿美元可转债融资](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</div>
 
-<div class="article-body" data-article-body="true"><p>英国新型云服务商Nscale周五宣布，在计划于今年晚些时候进行首次公开募股（IPO）之前，公司已获得33.6亿美元融资。这轮巨额融资采用可转换票据形式，凸显出建设AI数据中心所需的惊人资本规模。</p>
-<p>这项新投资由对冲基金Third Point领投，其中23.6亿美元可立即供公司使用，另外10亿美元来自现有投资者英伟达，Nscale将在11月中旬收到这笔资金。IPO完成后，这些票据将转换为公司股票。</p>
-<p>据《金融时报》报道，上周刚提交IPO文件的Nscale预计将在纽约证券交易所实现350亿美元估值；据彭博社报道，公司计划通过此次发行筹集30亿美元。</p>
-<p>根据Nscale提交的IPO文件，自两年前从澳大利亚加密货币挖矿公司Arkon Energy分拆出来以来，公司已积累了价值超过1030亿美元的合同。</p>
-<p>目前，公司正在开发多个大型数据中心园区，其中包括位于挪威和西弗吉尼亚州的项目。</p>
-<p>你下一个重要的人脉就在Disrupt。加入Disrupt.Connect，与1万多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破性进展，了解当今塑造科技行业的力量，并在太平洋时间9月25日晚上11点59分前报名，最高可节省200美元。</p>
-<p>每个工作日和周日，你都可以获取TechCrunch最精彩的报道。</p>
-<p>TechCrunch Mobility是你获取交通行业新闻和洞察的目的地。</p>
-<p>创业公司是TechCrunch报道的核心，因此订阅即可每周收到我们最精彩的内容。</p>
-<p>为行业活跃人士和引领者提供开启一天所需的信息。</p>
-<p>提交电子邮箱即表示你同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>英国新型云服务商（neocloud）Nscale于周五宣布，在今年晚些时候进行首次公开募股（IPO）之前，已获得33.6亿美元融资。此轮庞大的融资采取可转换票据形式，凸显了建设AI数据中心所需的巨额资本。</p>
+<p>该笔新投资由对冲基金Third Point领投，包括公司立即可用的23.6亿美元，以及来自现有投资者英伟达（Nvidia）的额外10亿美元（Nscale将于11月中旬收到这笔款项）。一旦IPO完成，这些票据将转换为普通股股票。</p>
+<p>据《金融时报》（Financial Times）报道，上周已递交IPO申请文件的Nscale在纽约证券交易所挂牌时的估值预计达350亿美元；另据彭博社报道，该公司计划在此次发行中筹集30亿美元。</p>
+<p>其IPO申报文件显示，自两年前从澳大利亚加密货币挖矿公司Arkon Energy分拆独立以来，Nscale已累计获得了价值超过1030亿美元的合同。</p>
+<p>该公司目前正在开发多个大型数据中心园区，包括位于挪威和美国西弗吉尼亚州的园区。</p>
+<p>您的下一个关键人脉就在Disrupt大会。与超过10,000名创始人、风险投资家、运营管理者及科技领袖建立连接。探索未来的突破性成果，倾听正在塑造当下科技的声音，并在太平洋时间9月25日晚11:59前节省最高200美元。</p>
+<p>每个工作日和周日，您都能获取TechCrunch的优质报道精选。</p>
+<p>TechCrunch Mobility是您获取出行交通领域新闻与深度洞察的目的地。</p>
+<p>初创企业是TechCrunch的核心，快来订阅每周为您推送的优质报道。</p>
+<p>为行业领袖及决策者提供开启新一天所需的必备资讯。</p>
+<p>提交您的电子邮件即代表您同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -387,7 +653,7 @@ notice:
 
 :::cell
 <div id="story-item-325d3ee537dadcef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1340" data-content-paragraphs="17" data-published-at="2026-09-25T18:33:50.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1301" data-content-paragraphs="21" data-published-at="2026-09-25T18:33:50.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -396,26 +662,30 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 02:33</span>
 </div>
 
-### [Ollaya——面向开源的 Ollama、Jev 风格决策模型](https://ollaya.dev/)
+### [Ollaya——面向开源、Jev 风格决策模型的 Ollama](https://ollaya.dev/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Ollaya – Ollama for open-source, Jev-style decision models</div>
 
-<div class="article-body" data-article-body="true"><p>针对任意文本或 JSON 提出类型化问题，并在数毫秒内获得经过校准的答案。私有、开源，可在自有硬件上运行。</p>
-<p>数毫秒完成决策。<br />决策模型通过一次前向传递给出答案，无需逐个令牌生成。在自有 GPU 上，通过 HTTP API 端到端处理一个包含五个问题的请求，Laya 耗时约 10 毫秒。</p>
-<p>RTX 4090，五个问题，端到端<br />托管 API，中位请求延迟<br />Ollaya：在 NVIDIA RTX 4090 上通过 HTTP API 处理一个包含五个问题的请求时的中位延迟（laya 使用 fp16，其余模型使用 fp32）。Jev：第三方基准测试中的托管 API 请求中位延迟（AbdelStark/jev-benchmarks、nibzard/decision-model-benchmark），其中包括网络延迟。由于测试环境不同，请将其视为数量级比较。</p>
-<p>支持 TypeSafe 的 API。<br />Ollaya 提供符合 TypeSafe 请求和响应格式的 /v1/systemone 和 /v1/models 接口。官方 TypeSafe Python SDK 0.7.1 无需任何修改即可连接本地服务器运行。</p>
+<div class="article-body" data-article-body="true"><p>针对任意文本或 JSON 提出类型化问题，并在数毫秒内获得校准后的答案。私密、开源，完全运行在您自己的硬件上。</p>
+<p>毫秒级决策。</p>
+<p>决策模型通过单次前向传播给出答案，无需逐个 token 生成。在您自己的 GPU 上，通过 HTTP API 向 Laya 发起包含五个问题的请求，端到端耗时仅约 10 毫秒。</p>
+<p>RTX 4090，五个问题，端到端</p>
+<p>托管式 API，请求中位数</p>
+<p>Ollaya：在 NVIDIA RTX 4090 上通过 HTTP API 处理五问题请求的中位数耗时（laya 使用 fp16，其他使用 fp32）。Jev：第三方基准测试（AbdelStark/jev-benchmarks、nibzard/decision-model-benchmark）中托管式 API 的中位数请求延迟，其中包含网络延迟。由于环境设置不同，请将其作为数量级上的对比参考。</p>
+<p>支持 TypeSafe 的 API。</p>
+<p>Ollaya 以 TypeSafe 的请求和响应格式提供 /v1/systemone 和 /v1/models 接口服务。官方 TypeSafe Python SDK 0.7.1 无需修改即可直接对接本地服务器。</p>
 <p>TypeSafe 兼容性指南</p>
-<p>开放权重，随时获取。<br />根据需求选择：laya 速度最快，decider 准确度最高，von 可读取最多 8,192 个令牌，qwen3guard 用于进行文本安全筛查。模型页面展示了每个模型的准确度和速度。</p>
-<p>未来还计划推出更多开放式决策模型：通过 llama.cpp 支持基于 GGUF 大语言模型的决策模型。</p>
-<p>工单、电子邮件和用户消息往往是你拥有的最敏感数据。借助 Ollaya，这些数据可以在原本存放的位置直接进行评分。</p>
-<p>Ollaya 使用 ONNX Runtime 在你的设备上运行，支持 CPU 或 NVIDIA GPU。默认情况下，服务器监听 127.0.0.1。</p>
-<p>模型权重来自其作者在 Hugging Face 上的代码仓库，并固定到某个提交版本，同时通过 sha256 校验。Ollaya 从不重新托管这些权重，运行时采用 Apache-2.0 许可证。</p>
-<p>在硬件所能承受的范围内运行任意数量的决策。没有计量限制，也没有 API 账单。</p>
-<p>你可以据此设置阈值的概率值。每个模型都附带自身的校准配置，Modelfile 可在你的标注数据上重新拟合该配置。</p>
-<p>在你的工作环境中运行。</p>
-<p>提供适用于 macOS、Windows 和 Linux 的桌面应用与命令行工具，以及适用于服务器的 Docker 镜像。每个模型都能在 CPU 上运行；在 Linux、WSL 2 或 Docker 中使用 NVIDIA GPU，可将请求处理时间降至数毫秒。</p>
-<p>NVIDIA GPU 需要 R580 或更高版本的驱动程序；安装程序只有在检测到 NVIDIA GPU 时才会获取 CUDA 库。在 Apple、AMD 和 Intel GPU 上，模型运行于 CPU。</p>
-<p>一个二进制文件，一条命令：ollaya run laya。</p>
-<p>macOS、Windows、Linux 和 Docker · Apache-2.0 · GitHub</p></div>
+<p>权重开源，开箱即拉取。</p>
+<p>按需选择：laya 速度最快，decider 准确度最高，von 可读取多达 8,192 个 token，qwen3guard 则用于文本安全审查。模型页面展示了各模型的准确率与处理速度。</p>
+<p>工单、电子邮件和用户消息通常是您拥有的最敏感的数据。有了 Ollaya，它们可以在存储的原地直接完成打分评估。</p>
+<p>基于 ONNX Runtime 在您的本地机器上运行，支持 CPU 或 NVIDIA GPU。服务器默认监听 127.0.0.1。</p>
+<p>权重直接来自作者的 Hugging Face 仓库，固定到特定 commit 并通过 sha256 进行校验。Ollaya 从不对权重进行二次托管，运行时采用 Apache-2.0 协议开源。</p>
+<p>只要您的硬件承受得住，即可运行任意数量的决策。没有用量计量，也没有 API 账单。</p>
+<p>可设置阈值的置信度概率。每个模型都自带校准，且可通过 Modelfile 在您的标注数据上重新拟合。</p>
+<p>在您的工作环境中随处运行。</p>
+<p>提供适用于 macOS、Windows 和 Linux 的桌面应用与命令行工具，以及面向服务器的 Docker 镜像。所有模型均可在 CPU 上运行；而在 Linux、Windows、WSL 2 或 Docker 中使用 NVIDIA GPU，可将请求耗时缩短至数毫秒。</p>
+<p>NVIDIA GPU 需要 R580 或更新版本的驱动；安装脚本仅在检测到相应 GPU 时才会拉取 CUDA 库。在桌面应用程序中，以及在 Apple、AMD 和 Intel GPU 上，模型均在 CPU 上运行。</p>
+<p>单个二进制文件，一条命令：ollaya run laya。</p>
+<p>macOS、Windows、Linux 与 Docker · Apache-2.0 · GitHub</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -434,8 +704,51 @@ notice:
 :::
 
 :::cell
+<div id="story-g-phone-4a-pro-deal-sale-1cd84880b7200e24" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1691" data-content-paragraphs="10" data-published-at="2026-09-25T18:18:57.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-26 02:18</span>
+</div>
+
+### [Roku首款OLED电视最高立减400美元，起售价仅699美元](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Roku’s first OLED TVs are up to $400 off, starting at $699</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roku-Pro-Series-2026-oled-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Roku首款OLED电视最高立减400美元，起售价仅699美元" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>Roku的新款OLED电视已经迎来降价。 | 图片来源：The Verge</p>
+<p>Roku最近推出了旗下首批OLED电视。对于配备120Hz刷新率OLED面板（拥有四个HDMI 2.1接口并支持杜比视界和HDR 10 Plus）的55英寸Pro系列机型而言，999美元的起售价本来就已经令人瞩目。现在在亚马逊结账时输入优惠码ROKUOLED300，价格还会更低。正如优惠码所提示的那样，它能直接立减300美元，使这款电视成为目前市场上能买到的最实惠的现代55英寸OLED电视。</p>
+<p>如果你更倾向于65英寸电视，那也很幸运，因为还有一个优惠码可以为该机型减去400美元，结账时仅需799美元。输入优惠码ROKUOLED400，即可将原价1299美元的65英寸Pro系列降至799美元。我们目前还没机会对这两款机型进行测试，但如果你想要出色的画质而又不想花费过多，它们看起来相当值得考虑。</p>
+<p>Roku Pro系列 OLED (2026)<br />亚马逊售价：999.99美元 降至 699.99美元（55英寸，使用优惠码ROKUOLED300）<br />亚马逊售价：1199.99美元 降至 799.99美元（65英寸，使用优惠码ROKUOLED400）</p>
+<p>鉴于这些都是Roku电视，机器已内置了该公司的系统软件，无需在其HDMI接口插入流媒体播放设备，除非你更偏好其他品牌的硬件。Pro系列配备了带背光的Roku遥控器，支持自动低延迟模式，并具备用于游戏的可变刷新率（AMD FreeSync Premium）。此外，将于10月推出起售价为1299美元、定位更高的Pro Series LX，号称亮度是Pro系列的两倍，并配备抗反射偏光片和144Hz刷新率。</p>
+<p>【推广展示配置：美商海盗船（CORSAIR）Xeneon Edge 14.5英寸 LCD触摸屏】<br />“你的电竞主机工作站一直在等待的绝佳副屏搭档。”<br />“你的主显示器负责繁重任务，Xeneon Edge则搞定其他一切。美商海盗船的14.5英寸超宽触摸屏可通过磁吸吸附在任何金属表面上——机箱侧面、电源仓挡板、显示器支架或桌面上——并瞬间化身为实时仪表盘，用于查看系统状态、Twitch聊天、天气、日历等。2560x720分辨率的AHVA面板从任何角度看都十分清晰，5点电容触控让切换小部件轻而易举。借助CORSAIR iCUE，你可以构建完全自定义的小组件布局——且资源库在不断壮大。最近新增了20多个小组件，社区现在也可以创建和分享属于他们的小组件。它甚至可以通过Elgato作为虚拟Stream Deck运行，为你最常用的快捷方式和应用提供无限按键布局。月底前在corsair.com结账时使用优惠码EDGE10可享10%优惠。”购买链接：“前往CORSAIR选购”。</p>
+<p>其他值得关注的优惠</p>
+<p>Nothing Phone 4A Pro在亚马逊迎来了首次大幅降价。8GB内存加128GB存储的基础版售价449美元（通常为499美元），12GB内存加256GB存储的升级版售价509美元（通常为599美元）。Phone 4A Pro借鉴了高端版本的标志性功能——Glyph Matrix灯效矩阵，可显示时间、电量或通知图标。我的同事多米尼克·普雷斯顿（Dominic Preston）曾评测过4A Pro，并赞赏其充满趣味的独特设计、轻薄的机身以及出色的显示屏幕。</p>
+<p>亚马逊有多款大疆 DJI Osmo Nano 摄像机套装正在促销。售价349美元的最基础套装包括摄像机本体（拥有64GB内置存储空间）、带内置屏幕的Vision Dock扩展座、磁吸球头组件、保护壳、USB-C数据线以及两个磁吸安装配件。这款小巧的摄像机以其袖珍的体积和亲民的价格，却能提供出奇丰富细腻的视频画质而收获了良好的口碑。</p>
+<p>你还可以在Woot上仅花34.99美元抢购到一款Ember恒温马克杯，相比129.99美元的官方标价有大幅折扣。这款6盎司容量的马克杯单次充电可让你的咖啡或茶保温长达90分钟，温度调节范围在华氏120度至140度（约合摄氏49度至60度）之间。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-26 02:18 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story--workflows-with-canvases-a2908e03cf24041e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1347" data-content-paragraphs="29" data-published-at="2026-09-25T18:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1489" data-content-paragraphs="22" data-published-at="2026-09-25T18:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="GitHub Blog (工程技术博客)" width="16" height="16" /> <strong>GitHub Blog (工程技术博客)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -444,38 +757,31 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 02:00</span>
 </div>
 
-### [面向初学者的 GitHub Copilot 应用：如何使用画布构建自定义工作流](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/)
+### [GitHub Copilot 应用初学者指南：如何利用画布构建自定义工作流](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> GitHub Copilot app for Beginners: How to build custom workflows with canvases</div>
 
-<div class="article-body" data-article-body="true"><p>大多数工具都会提供一组固定的界面，要求你将工作塞进这些界面中。但如果你可以先从想要的工作流出发，再让界面围绕工作流逐步成形，会怎么样？</p>
-<p>这正是 GitHub Copilot 应用中画布功能背后的理念。画布（也称为画布扩展）是一种可自定义的界面，由你和代理共同使用。它可以是看板、议题分诊板、发布检查清单、仪表板、表单，甚至是电子表格：总之，是一种根据你的工作方式塑造的用户界面。</p>
-<p>由于画布具有双向交互能力，代理可以在工作过程中更新画布；你也可以使用按钮、卡片、筛选器和其他控件进行修改。这就像使用一块实时共享的白板。</p>
-<p>让我们创建一个画布。</p>
+<div class="article-body" data-article-body="true"><p>大多数工具都会提供一组固定的屏幕界面，并要求你让自己的工作去适应它们。但如果你能从自己期望的工作流程出发，并让界面围绕它成型，情况会怎样？</p>
+<p>这正是 GitHub Copilot 应用中“画布”（canvases）背后的核心理念。画布，也称为画布扩展（canvas extension），是你与智能体（agent）共享的可自定义界面。它可以是看板、议题分类板（issue triage board）、发布检查清单、仪表板、表单，甚至是电子表格：一个根据你的工作方式量身定制的用户界面。</p>
+<p>由于画布是双向互动的，智能体可以在工作过程中对其进行更新，你也可以使用按钮、卡片、筛选器和其他控件来进行修改。就像使用一个实时的共享白板一样。</p>
+<p>让我们来创建一个。</p>
 <p>使用 /create-canvas 创建画布</p>
-<p>创建画布时，你不需要亲自编写代码或设计界面。只需打开一个代理会话，输入 /create-canvas 技能，然后用自然语言描述你想要的内容。</p>
-<p>请确保提示涵盖以下三点：</p>
-<p>画布应支持的工作流。</p>
-<p>你应该能够在界面中执行的操作。</p>
-<p>代理应该能够执行的操作。</p>
-<p>例如，你可以输入：</p>
-<p>/create-canvas 创建一个发布说明画布，用于跟踪在 GitHub Copilot 应用会话中完成的新功能工作。请加入用于审核和整理条目的控件，并允许代理添加和更新条目。</p>
-<p>随后，代理会构建界面，并将其打开在右侧面板中；你无需编写文件，也无需处理布局。一个描述就能变成一个随时可用的自定义工具。</p>
-<p>围绕工作流塑造画布</p>
-<p>由于界面是根据你的描述生成的，第一版只是一个起点；你可以持续完善它，直到满意为止。</p>
-<p>你可以要求代理添加列或筛选器，调取你已创建但尚未合并的拉取请求，或者将整个画布变成当天的检查清单。代理会相应修改画布。虽然没有固定的布局菜单，但只要你能描述一种工作流，就很可能可以将其转换为画布。</p>
-<p>创建完成后，画布会作为扩展保存下来，因此你可以再次使用。你可以将它与项目一起保存，供团队共享；也可以将其保存为个人扩展，仅供自己使用。</p>
-<p>即时协作，而不是下达命令后等待</p>
-<p>画布真正强大的地方在于，你和代理可以同时持续工作。</p>
-<p>当你点击按钮、更新字段或移动卡片时，画布的共享状态会立即发生变化。代理无需经过单独的发送或同步步骤，就能看到同样的更新。</p>
-<p>反过来也一样。你可以要求代理使用画布自身的功能——也就是你可以使用的同样操作——来添加发布说明或移动卡片，然后观察这一变化出现在界面中。你不再是发送命令后等待回应，而是在共同引导工作进展。</p>
-<p>创建一个实用的画布，可以从三个简单的问题开始：</p>
-<p>我想看到哪些信息？</p>
-<p>我想直接修改哪些内容？</p>
-<p>我希望代理能够更新或执行什么操作？</p>
-<p>不知道从哪里开始？社区已经通过 Awesome Copilot 分享了现成的画布扩展，其中包括发布说明工具、看板、议题分诊工作流等。你可以安装一个与需求较为接近的扩展，然后像完善自己创建的画布一样，要求代理根据你的工作流对其进行定制。</p>
-<p>从小处着手：打开一个会话，运行 /create-canvas，并为你当前正在处理的事项描述一个简单的看板或检查清单。</p>
-<p>试用 GitHub Copilot 应用 &gt;</p>
-<p>文章《面向初学者的 GitHub Copilot 应用：如何使用画布构建自定义工作流》最先发表于 GitHub 博客。</p></div>
+<p>要创建画布，你无需进行任何编码或手动设计。只需开启一个智能体对话会话，输入 /create-canvas 技能，并用日常英语描述你的需求。</p>
+<p>请确保你的提示词涵盖以下三点：<br />1. 画布应支持的工作流程。<br />2. 你在界面中应该能执行的操作。<br />3. 智能体应该能执行的操作。</p>
+<p>例如，你可以输入：<br />/create-canvas 创建一个发布说明画布，用于跟踪在各项 GitHub Copilot 应用会话中完成的新功能工作。包含用于审查和整理条目的控件，并允许智能体添加和更新这些条目。</p>
+<p>接着，智能体将构建该界面并在右侧面板中打开它，你无需编写文件或费心调整布局。一段文字描述即可化为一个开箱即用的自定义工具。</p>
+<p>围绕你的工作流程塑造画布</p>
+<p>由于界面是根据你的描述生成的，因此你的第一个版本仅仅是一个起点，你可以不断微调直至满意。</p>
+<p>你可以让智能体添加一列或一个筛选器、导入你待处理的拉取请求（pull request），或者将整个画布变成你当天的任务检查清单。智能体将相应调整画布。虽然这里没有固定的布局菜单，但只要你能描述出一个工作流程，通常就能将其转化为画布。</p>
+<p>创建完成后，你的画布会作为扩展保存下来，方便日后再次使用。你可以将其与项目保存在一起供团队共享，也可以将其保存为你个人的专用扩展。</p>
+<p>即时协作，而非指令与等待</p>
+<p>画布的真正威力在于你和智能体可以同时协同工作。</p>
+<p>当你点击一个按钮、更新一个字段或移动一张卡片时，画布的共享状态会立即发生改变。智能体无需单独的发送或同步步骤就能实时看到相同的更新。</p>
+<p>反向操作亦是如此。你可以让智能体使用画布本身的功能——即你同样可以使用的那些操作——来添加发布说明或移动卡片，然后亲眼见证这些变化呈现在界面中。与其发送一条指令然后苦苦等待回复，不如说你们正在共同把控并推进工作。</p>
+<p>创建一个实用的画布始于三个简单的问题：<br />1. 我希望看到哪些信息？<br />2. 我希望直接修改什么？<br />3. 智能体应该能够更新或执行什么？</p>
+<p>不知道从何处着手？社区已通过 Awesome Copilot 分享了现成的画布扩展，包括发布说明工具、看板、议题分类工作流等。安装一个与你需求接近的扩展，然后就像微调自己创建的画布那样，让智能体根据你的工作流程对其进行定制。</p>
+<p>从小处着手：打开一个会话，运行 /create-canvas，并为你目前正在处理的任务描述一个简单的看板或检查清单。</p>
+<p>体验使用 GitHub Copilot 应用 &gt;</p>
+<p>文章《GitHub Copilot app for Beginners: How to build custom workflows with canvases》最初发布于 The GitHub Blog。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -491,102 +797,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【GitHub Blog (工程技术博客)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-connect-muse-googlebooks-f43edf4211ac9ef1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1140" data-content-paragraphs="7" data-published-at="2026-09-25T17:42:59.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 01:42</span>
-</div>
-
-### [手机没有指示灯](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Phones don’t have lights</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0925_Site.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="手机没有指示灯" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>马克·扎克伯格为雷朋 Meta 眼镜提出了一种新的辩护说法：与手机相比，这款眼镜实际上会通过更多方式表明自己正在拍照。最近至少在两次采访中，他都提到了这一点，并指出眼镜会亮起指示灯，提醒人们正在拍照，而手机则不会。在其中一次采访中，乔安娜·斯特恩指出，手机虽然并不总是会发出灯光，但人们确实需要把手机举到空中，而这一动作本身就相当显眼。</p>
-<p>在今天的《Vergecast》节目中，我们将讨论 Meta Connect、Muse AI 助手、所有新款智能眼镜硬件，以及扎克伯格对于可穿戴摄像头引发隐私风波的回应。首先，我们会花时间深入探讨 Muse。通过让代理功能变得比以往更容易使用，Muse 很快改变了人们对 Meta AI 进展的看法。这也直接关联到 Meta 的眼镜问题：人们是否足够信任 Meta，愿意将自己的所有服务连接到 Muse 上？</p>
-<p>观看｜收听｜获取无广告版本</p>
-<p>此外，还有大量硬件值得讨论。我们将分享对新款纯音频雷朋 Meta 眼镜以及新款 Meta VR 眼镜的看法。随后我们会谈到本周推出的 Googlebooks：其硬件出人意料地成熟，并且在桌面端和移动端之间提供了颇具吸引力的整合。要说服人们从 Windows 转用它，将是一道很大的难题，但这些笔记本电脑充满了足够有趣的创意，让我们很期待亲自体验。</p>
-<p>最后，大家最喜欢的“播客中的播客”在短暂停更后回归。接下来是“闪电问答”环节，我们将讨论派拉蒙和解协议、YouTube 对 AI 工具的拥抱、Xbox 的现状，以及 Rode 为用户带来的 4K 功能。</p>
-<p>如果你想进一步了解我们讨论的这些报道，可以查看以下链接：</p>
-<p>* Meta Connect 2026：7 项最大公告<br />* Meta Connect 2026 直播博客：现场报道马克·扎克伯格下一次重磅产品发布<br />* Meta 的 Muse AI 能用，但也让我感到不安<br />* 亚马逊封锁 Meta 的 Muse AI 代理<br />* Meta 在最新款智能眼镜上取消了摄像头<br />* Meta 的下一款 VR 设备不是头显，而是眼镜<br />* 这就是首批五款 Googlebook 笔记本电脑<br />* Googlebooks 像是首批为 Android 用户打造的笔记本电脑<br />* 我看到了 Google 对笔记本电脑未来的大胆构想<br />* Googlebook 的长期梦想<br />* 马赫沙拉·阿里谈《刀锋战士》对凯文·费奇来说是一次重大失败：“百分之百。他就应该有这种感受。”<br />* 派拉蒙需要发行更多电影，才能让这次合并奏效<br />* Xbox 已经几乎不再是 Xbox 了<br />* YouTube 正在筹备新的直播功能<br />* Rodecaster Video 免费固件更新增加 4K 支持</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-26 01:42 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-it-at-techcrunch-disrupt-7174342327e9d2ec" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1849" data-content-paragraphs="25" data-published-at="2026-09-25T17:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 01:30</span>
-</div>
-
-### [Aeropod无需机器人即可实现土壤通气——在TechCrunch Disrupt现场了解它](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt</div>
-
-<div class="article-body" data-article-body="true"><p>世界各地的农民都面临着一个紧迫问题：他们用来耕作、播种和收割田地的设备正在侵蚀利润空间。有研究估计，土壤压实会使产量下降20%至60%。</p>
-<p>犁地可以有所帮助，但这是一项劳动力密集且成本高昂的工作，并且会以不同方式损害土壤健康。Muju Earth开发了一种替代方案Aeropod，能够在无需机械设备或机器人的情况下自动为土壤通气。这家初创公司表示，该设备既能促进土壤健康，又能让农民的耕作成本降低一半甚至更多。</p>
-<p>该公司联合创始人兼首席执行官Ifeoluwa Afolayan告诉TechCrunch，这款设备“像种子一样制造，像种子一样播撒，也像种子一样运输”。该设备大小约如一片指甲，农民可以使用同样的设备，将它与种子一同播入土壤。无需提前耕地。</p>
-<p>“这确实像是一个显而易见的选择。”Afolayan说。</p>
-<p>Aeropod暴露在温度、压力和湿度的组合条件下后，会自行破裂，松动土壤并形成细小通道，使空气、水分和根系更容易在土壤中流动和穿行。</p>
-<p>Muju Earth是今年10月在旧金山举行的TechCrunch Disrupt创业战场环节中的200家初创公司之一。该公司已经在实验室环境中测试了其设备，并将于今年秋季在英国启动付费田间试验。目前有9名农民参与，另有30多名农民在候补名单上。</p>
-<p>Afolayan表示，该公司最初的目标市场是英国的洋葱种植者，因为洋葱对土壤压实尤其敏感。</p>
-<p>Afolayan说，综合人工成本、柴油和设备损耗后，一次田地耕作的成本可能约为每公顷250至400英镑。她表示，Aeropod预计只需每公顷100英镑，就能取得类似效果。</p>
-<p>Aeropod诞生于Afolayan和联合创始人Wangyang Hu在伦敦帝国理工学院就读期间。当时，他们希望设计出一种既能改善农民利润状况、又有助于土壤健康的产品。Afolayan说，Aeropod的开发始终围绕一个问题展开：“怎样才能让它像播种一粒种子一样简单？”她说，“这是全世界每一位农民都能公平采用的做法。”</p>
-<p>除了农民之外，这家初创公司还接触到了一些正在开发生物改良剂的企业。生物改良剂是添加到土壤中的产品，通常含有活性微生物，能够增强或替代化学肥料。由于这些企业的产品在通气良好的土壤中效果最佳，因此它们有意与Aeropod搭配使用。</p>
-<p>但Afolayan表示，推动采用这项技术的一直是农民。迄今为止，大部分营销线索都是主动找上门来的。“Aeropod最棒的地方在于，农民凭直觉就能理解它的价值主张。”她说。</p>
-<p>Muju Earth是今年创业战场环节中的200家初创公司之一。这是一项创业路演竞赛，最终将有20家入围企业在主舞台上进行展示。TechCrunch Disrupt将于10月13日至15日在旧金山莫斯科尼西馆举行。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>气候事务高级记者</p>
-<p>Tim De Chant是TechCrunch的气候事务高级记者。他曾为包括《连线》杂志、《芝加哥论坛报》、Ars Technica、《华尔街日报》中文版和NOVA Next在内的多家媒体撰稿，并曾担任NOVA Next的创刊编辑。</p>
-<p>De Chant还是麻省理工学院科学写作研究生项目的讲师。2018年，他获得了麻省理工学院奈特科学新闻奖学金；在此期间，他研究了气候技术，并探索了新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理专业博士学位，以及圣奥拉夫学院环境研究、英语和生物学专业学士学位。</p>
-<p>您可以发送电子邮件至tim.dechant@techcrunch.com，联系Tim或核实他发出的联络信息。</p>
-<p>下一次重要连接就在Disrupt。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索明日的突破，聆听正在塑造当今科技行业的力量，并在太平洋时间9月25日晚上11:59前报名，最高可节省200美元。</p>
-<p>Meta的AI智能体Muse即将推出的新功能</p>
-<p>Meta为其Muse AI智能体制作了一款类似电子宠物的可穿戴设备</p>
-<p>Anthropic表示，其生物学实验室已经取得重大成果</p>
-<p>PitPro的首台换胎机器人在加拿大投入运行</p>
-<p>Anthropic发布Opus 5.5：价格更低，性能达到Fable级别</p>
-<p>OpenAI成立数学顾问小组，其AI已解决100多个开放性问题</p>
-<p>Meta的Muse在早期移动端发布速度上超过了ChatGPT</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-26 01:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

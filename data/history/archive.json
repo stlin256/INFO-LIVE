@@ -1,5 +1,1568 @@
 [
   {
+    "timestamp": 1790409194829,
+    "timeDisplay": "2026-09-26 15:53 (UTC+8)",
+    "date": "2026-09-26",
+    "runId": "feed-20260926T075035270Z-ve0ysp",
+    "generatedAt": "2026-09-26T07:53:14.829Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 15:50",
+      "lead": "本轮抓取于 2026-09-26 15:50 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？：你是否曾想要过一辆能轻松从乏味的城市沥青路面切换到砂石与泥土探险的电动自行车？这正是一类被称为“电动SUV”（eSUV）的电动自行车声称能做到的事情——凭借其宽大的全地形轮胎、前后避震系统，以及挡泥板和货架等实用配件。因此，我决定在Amflow最新推出的TL Carbon电动自行车上亲自测试这一点。Amflow是大疆（DJI）旗下的分支品牌，几年前曾凭借极其小巧且强大的Avinox电机颠覆了山地自行车行业。在阿姆斯特丹市中心进行了一个月",
+        "【undefined】乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）：一段视频展示了Valve旗下的热门掌机正被以一种极乎意料的方式使用。",
+        "【undefined】每日天文一图（APOD）：2026年9月26日——镜中流星与银河：每日天文一图（APOD）：2026年9月26日——…… 每日天文一图 探索宇宙！每天都会展示一张展现我们迷人宇宙的影像或照片，并由专业天文学家撰写简要说明。 镜中流星与银河 说明：8月15日，这颗英仙座流星划过了西班牙加那利群岛拉帕尔马岛罗克·德洛斯·穆查乔斯天文台（Observatorio del Roque de los Muchachos）上空的夜空。这道明亮且绚丽的流星余迹被定格在银河核心旁，银河中暗淡的星际尘埃云与璀璨的星光延",
+        "【undefined】日本11岁电竞神童栗原悠希斩获亚运会金牌：金牌得主栗原悠希（Yuki Kurihara）是一名小学生，也是东道主日本队亚运会历史上最年轻的运动员。",
+        "【undefined】美联储理事会宣布批准 Peoples Bancorp Inc. 的申请：美国政府官方网站 官方网站使用 .gov。一个 .gov 网站隶属于美国官方政府组织。 安全的 .gov 网站使用 HTTPS。锁形图标或 https:// 意味着您已安全连接到该 .gov 网站。请仅在官方、安全的网站上分享敏感信息。 作为美国的中央银行，美联储为国家提供安全、灵活且稳定的货币和金融体系。 联邦公开市场委员会 货币政策原则与实践 政策实施 货币政策策略、工具与沟通审议 并购及其他申请 监管与法规通函 监管与政策资源 银",
+        "【undefined】剑桥分析丑闻案：陪审团裁定Facebook欺诈用户罪名成立：更新于：2026年9月25日 / 美国东部时间下午6:26 / 哥伦比亚广播公司（CBS）/美联社",
+        "【undefined】Crusoe 放弃斥资 12.5 亿美元在 AI 数据中心使用 Boom 燃气轮机的计划：总部位于丹佛的 AI 数据中心初创公司 Crusoe 近期刚刚筹集了 39 亿美元，该公司现已终止采用同在丹佛的 Boom Supersonic 公司所研发的新系列固定式发电装置的计划。",
+        "【undefined】在罢免CEO未遂事件后，Automattic组建了新董事会：在Automattic前董事会成员试图罢免CEO马特·穆伦维格（Matt Mullenweg）失败仅数周后，穆伦维格便重组了公司董事会。据TechCrunch获悉且穆伦维格已证实，该董事会已于周五向全体员工公布，成员风格兼收并蓄，其中包括一名畅销科幻小说作家以及现已停运的社交应用IRL的两名联合创始人。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录暂无可核实内容",
+      "lead": "当前证据包缺少文章标题、来源、正文、发布时间、链接及有效引用，相关条目也仅显示为待翻译占位标题，因此无法形成可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息不可用",
+          "analysis": "证据包中的文章主体状态为缺失，事实、引语、实体和引用均为空；关联文章大多只有待翻译占位标题，无法据此判断新闻主题、事件进展或影响。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 83,
+      "completedTasks": 83,
+      "succeeded": 65,
+      "degraded": 18,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 83,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 159507,
+      "byRole": {
+        "translator": {
+          "attempts": 52,
+          "succeeded": 35,
+          "degraded": 17
+        },
+        "fact-extractor": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "topic-classifier": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 83,
+          "succeeded": 65,
+          "degraded": 18
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-1",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-18-translator-0",
+      "article-34-translator-0",
+      "article-36-translator-2",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:19.537Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.130Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:19.751Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.114Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.801Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.877Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.830Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.329Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:22.025Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.526Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.985Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.257Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:23.526Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.780Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:19.995Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.709Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.951Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.334Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.924Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.344Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.397Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.924Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.194Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.893Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.130Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.801Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.139Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.687Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:23.282Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.826Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:23.009Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.799Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:23.257Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.311Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.181Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.578Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.709Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.844Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.687Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.830Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:19.974Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.139Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:18.765Z",
+        "lastSuccessAt": "2026-09-26T07:50:19.974Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.578Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.813Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.508Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.733Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.329Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.763Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.526Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.725Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.763Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.985Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.996Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.476Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:23.305Z",
+        "lastSuccessAt": "2026-09-26T07:50:24.955Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.637Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.759Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.820Z",
+        "lastSuccessAt": "2026-09-26T07:50:22.157Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-09-26T07:50:21.767Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.958Z",
+        "lastSuccessAt": "2026-09-26T07:50:22.172Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:23.311Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.988Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.844Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.996Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.186Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.767Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.476Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.637Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.859Z",
+        "lastSuccessAt": "2026-09-26T07:50:22.049Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-26T07:50:21.759Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.733Z",
+        "lastSuccessAt": "2026-09-26T07:50:22.025Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:18.763Z",
+        "lastSuccessAt": "2026-09-26T07:50:19.995Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-26T07:50:21.813Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:18.764Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.951Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:22.049Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.787Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.344Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.526Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.114Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.194Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.725Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.859Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:21.334Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.508Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:22.157Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.009Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:22.172Z",
+        "lastSuccessAt": "2026-09-26T07:50:23.305Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.893Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.186Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:20.877Z",
+        "lastSuccessAt": "2026-09-26T07:50:21.181Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:18.748Z",
+        "lastSuccessAt": "2026-09-26T07:50:19.537Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:18.761Z",
+        "lastSuccessAt": "2026-09-26T07:50:19.751Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T07:50:18.762Z",
+        "lastSuccessAt": "2026-09-26T07:50:20.397Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-26-krest-2120412337-html-f54c45edbfba5e77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Священник рассказал, где в России есть частицы Креста Господня",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T07:41:09.000Z",
+        "pubTime": "2026-09-26 15:41",
+        "url": "https://ria.ru/20260926/krest-2120412337.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/07/02/2102420431_0:256:2732:1793_650x0_80_0_0_d1ac13bc97c522a783ae661fb704dc4a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 15:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/krest-2120412337.html",
+            "publishedAt": "2026-09-26T07:41:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vinox-esuv-e-bike-avinox-4014c3a6b3c76ef1",
+        "title": "“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？",
+        "originalTitle": "Can an &#8216;eSUV&#8217; e-bike really go from trail to town?",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T07:00:00.000Z",
+        "pubTime": "2026-09-26 15:00",
+        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4650.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That’s what a subclass of so-called “electric SUV” (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that’s what I set out to test on a new TL Carbon e-bike from Amflow, the DJI offshoot that upended the mountain bike industry a few years ago with its incredibly small and powerful Avinox motors. After a month of testing in the heart of Amsterdam — including a three day bikepacking trip along coastal bicycle superhighways and single-track forest routes — I can confirm what you might already expect: there are compromises. But for €3499 / $3,899 you do get a crossover e-bike that can help you fetch groceries during the week and conquer trails on the weekend. [Product: Amflow TL Carbon eSUV e-bike | https://www.amflowbikes.com/product/amflow-tl-carbon-800wh?vid=242841] I rode my first crossover in 2024 when Cowboy launched its appropriately named Cross. That e-bike, like the vast majority of SUV automobiles, is more at home on pavement than dirt. But it looks burly, which attracts a certain kind of buyer hoping for transference. Today, these eSUVs are more popular than ever. Canyon, for example, makes one. Specialized, too. As does Riese & Müller and now Amflow. The Amflow TL Carbon is built upon the same Avinox drive system that threw the electric mountain bike (eMTB) industry into a tizzy two years ago. The TL Carbon is a bit less powerful, sporty, and springy than the impressive Amflow PX Carbon Pro I tested over the summer, but its eMTB roots are undeniable.  [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4661.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4733.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4754-1.jpeg?quality=90&strip=all] I tested the TL Carbon on a bikepacking adventure from Amsterdam to the island of Texel at the tip top of the Netherlands. The 170km trip was about 70 percent asphalt, 20 percent gravel and dirt, and 10 percent rutted, hilly, single-track dedicated to mountain bikers. I was more than a little nervous riding the latter on a 19.2kg (42.3lbs) bike loaded down with an 87kg (190lbs) rider and about 20kg (44lbs) of gear. But Amflow’s compact mid-drive Avinox M2 motor, with its 125Nm of torque and 1100W of max output, flattened long, technical hills that other mountain bikers (not loaded down with gear) had to hike. As an eSUV, the TL Carbon has bonafide off-road credentials. I was also pleased by the range I extracted from the 800Wh battery, despite bikepacking on a very windy weekend. Amflow offers an optional battery extender that adds 480Wh to the total capacity, but I didn’t miss it. I rode in a mix of modes, spending the vast majority of the time in battery-sipping Eco mode, only switching into the adaptive Auto mode when facing a strong headwind, and Trail only when trying to dominate a highly technical or steep single-track. On my longest day, I arrived at my destination with 22 percent charge remaining after riding 82.3km (51.1 miles). That works out to an exceptional 7.58Wh per km (or 12.2Wh per mile) for a bike carrying so much gear. And because the TL Carbon’s battery is removable unlike Amflow’s premium eMTB, it can be easily charged behind a bar, at a cafe, or inside a home. I had no problem finding public chargers along the way, but I’m blessed to live in a country with excellent bicycle infrastructure. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4840.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4861.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4853.jpeg?quality=90&strip=all] Still, as an eMTB, the Amflow TL Carbon makes plenty of compromises. The 27.5-inch front wheel is fine in town but it doesn’t roll over roots and rocks as well as 29-inch wheels found on modern mountain bikes (there’s clearance to swap a 29er in if you want). The geometry is also more upright than many would want on a trail, and the suspension travel at the front and rear is relatively short, tuned more for potholes than 1-meter drop-offs (yet it handled those fine). And the things you definitely want on a city bike — like the TL Carbon’s integrated lighting, kickstand, bell, mudguards, front rack, and rear rack — are not designed for quick removal and add considerable weight to the otherwise lightweight (just 2.9kg) carbon-fiber frame. Removing everything to go full eMTB could take up to an hour, and then again to return to city mode. If the Amflow TL Carbon is your only bike then it certainly gets the job done in urban environments. But it’s a little like putting leather seats and a stereo inside a WWII-era jeep and calling it a city car.  In town, the Amflow TL Carbon looks out of place. For one thing, it screams I’m expensive, and the gas shock, Fox branding, and wide knobby tires make it stand out from basic city bikes — not something you want in places where bicycle theft is a problem. I wouldn’t feel comfortable parking it on the street overnight which is otherwise the common thing to do in compact, bicycle cities like Amsterdam. Amflow does equip it with Apple Find My to help locate it. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4913.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4963.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4947.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4942.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4960.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4957.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4992.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4968.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4941.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4787.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4698.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4676.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4672.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4656.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4651.jpeg?quality=90&strip=all] The tires on the TL Carbon is where the compromises are most apparent. Amflow selected Maxxis Crossmark II tires which are better suited for trails. The deep tread adds rolling resistance and noise to city commutes and the tires lack advanced anti-puncture features found on tires made for commuting and touring. That makes them more vulnerable to flats caused by glass and construction debris commonly found on city streets. And that knobby tread makes fast cornering on pavement feel squirmy, at least until those nubs are eventually ground off by the asphalt. Likewise, there’s no chain guard on the Amflow TL Carbon. That’s fine for mountain biking but a nuisance in the city where that exposed drivetrain can snag trousers and skirts, or leave them stained with grease when heading out for a night on the town. The dropper seat post is as useful on trails as it is in the city. Droppers are pretty mainstream for mountain bikes these days, and they also make the bike easily shareable with riders of different sizes. But the seatpost and saddle can’t be easily locked when parked making them a target for thieves. The front rack paired with a (bring your own) bungee cord makes fetching errands a snap, and the rear rack can be equipped with an MIK HD-compatible bike seat to carry a kid to daycare. The quick-release Amflow-branded panniers and top bag I took bikepacking also work great for city trips. Just remove the panniers when you arrive at the market, fill them with groceries, snap them back to your bike, and away you go. [Image: Maximum Dutchness. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4815_8c3bbe.jpeg?quality=90&strip=all] I really enjoyed my time with the versatile Amflow TL Carbon e-bike. It’s no poseur on the trail where it feels surprisingly agile and powerful even when fully loaded. Its hauling capacity also makes it fine for daily life in the city, if you don’t mind the incongruity of riding a mountain bike around town. The Amflow TL Carbon definitely lives up to the title of “sport utility vehicle,” which is more than I can say for most of its gasoline-powered peers. All photos by Thomas Ricker / The Verge. --- Specifications: * Avinox M2 mid-drive motor: Nominal 110Nm, Peak 125Nm * Screen: Avinox DPC100, 2-inch OLED Control Display * Battery: 800Wh Avinox RS800 Battery (removable and lockable) * Controllers: Avinox Wireless Controller × 2 (one on each side of the handlebar) * Charger: Avinox 4A Charger, 168W Output * Rear shock: FOX FLOAT Rhythm, LSR adjustment, Amflow TL tuned, 190×45mm * Front shock: FOX AWL Sport, 120mm, RAIL 2.0 damper, LSR adjustment, 15×110mm Kabolt, 44mm offset * Cassette: CS-M5243, 10-Speed, 11-43T * Brakes: Tektro TKD173 Hydraulic Disc Brakes, 4-Piston Caliper, Customized for Amflow * Wheels: Amflow HTA-25 Front Wheel (27.5″) * Tires: Maxxis 27.5×2.35 Crossmark II Wire Bead/Clincher/EXO/60TPI * Dropper: Amflow TA, 31.6mm (Adjustable Travel: 0/-10/-20mm) ---",
+        "fullTranslation": "你是否曾想要过一辆能轻松从乏味的城市沥青路面切换到砂石与泥土探险的电动自行车？这正是一类被称为“电动SUV”（eSUV）的电动自行车声称能做到的事情——凭借其宽大的全地形轮胎、前后避震系统，以及挡泥板和货架等实用配件。因此，我决定在Amflow最新推出的TL Carbon电动自行车上亲自测试这一点。Amflow是大疆（DJI）旗下的分支品牌，几年前曾凭借极其小巧且强大的Avinox电机颠覆了山地自行车行业。在阿姆斯特丹市中心进行了一个月的测试后——其中包括一次沿着沿海自行车高速公路和森林单行道林道进行的为期三天的单车旅行（bikepacking）——我可以证实你可能早已预料到的事实：确实存在妥协。但只要花3499欧元/3899美元，你就能拥有一辆跨界电动自行车，既能在工作日帮你买菜拉货，又能在周末征服野外林道。\n\n[产品：Amflow TL Carbon eSUV 电动自行车 | https://www.amflowbikes.com/product/amflow-tl-carbon-800wh?vid=242841]\n\n我第一次骑乘跨界车型是在2024年，当时Cowboy推出了命名恰如其分的Cross。那辆电动自行车就像绝大多数SUV汽车一样，在铺装路面上比在泥地里更自如。但它看起来非常粗犷，吸引了某类希望获得这种心理投射的买家。如今，这类eSUV比以往任何时候都更受欢迎。例如Canyon推出了一款，Specialized也有一款，Riese & Müller同样如此，而现在Amflow也加入了这一行列。Amflow TL Carbon基于两年前让电动山地车（eMTB）行业陷入轰动的同一套Avinox驱动系统打造。TL Carbon相比我夏天测试过的令人印象深刻的Amflow PX Carbon Pro，在动力、运动感和回弹性上稍逊一筹，但其eMTB血统毋庸置疑。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4661.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4733.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4754-1.jpeg?quality=90&strip=all]\n\n我骑着TL Carbon进行了一次单车探险旅行，从阿姆斯特丹一路前往荷兰最顶端的特塞尔岛（Texel）。这趟170公里的行程中，约70%是沥青路面，20%是砂石与泥土路面，10%是专门供山地车骑手使用的布满车辙且起伏不平的单行林道。骑着一辆重19.2公斤（42.3磅）的自行车，载着87公斤（190磅）的骑手以及约20公斤（44磅）的装备穿行在后一种路段上，我心里非常紧张。但是，Amflow小巧的中置Avinox M2电机凭借其125牛·米的扭矩和1100瓦的最大输出功率，轻松化解了长距离且具技术难度的陡坡，而其他未载装备的山地车手在这些路段上甚至不得不推车徒步。作为一辆eSUV，TL Carbon拥有货真价实的越野资质。\n\n尽管是在一个多风的周末进行单车旅行，800Wh电池所榨取出的续航表现同样令我感到满意。Amflow提供了一个可选的增程电池，可为总容量增加480Wh，但我并未觉得有此需求。我在多种模式下骑行，绝大部分时间处于低能耗的Eco模式，只在遇到强逆风时切换至自适应Auto模式，而在试图征服高难度或极陡峭的单行道时才开启Trail模式。在行程最长的一天，骑行了82.3公里（51.1英里）之后，我到达目的地时仍剩余22%的电量。对于一辆承载如此多装备的自行车来说，这意味着每公里能耗仅为出色的7.58Wh（或每英里12.2Wh）。而且，与Amflow的高端eMTB不同，TL Carbon的电池是可拆卸的，可以很方便地在酒吧吧台后、咖啡馆内或家里充电。一路上我毫不费力地找到了公共充电桩，不过这也是因为我很幸运地生活在一个自行车基础设施极为完善的国家。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4840.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4861.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4853.jpeg?quality=90&strip=all]\n\n不过，作为一辆eMTB，Amflow TL Carbon做出了不少妥协。27.5英寸的前轮在市区骑行尚可，但跨越树根和岩石的能力不如现代山地车常见的29英寸大轮（如果你想换，车架空间是允许换成29寸轮组的）。其车架几何形态也比许多人在林道骑行时所期望的更为直立，前后避震行程相对较短，调校更偏向应对路面坑洼而非1米高的落差坠台（尽管它应付这些落差并无大碍）。此外，城市自行车上不可或缺的配置——例如TL Carbon的集成车灯、脚撑、车铃、挡泥板、前货架和后货架——并未采用快拆设计，给原本轻盈（仅2.9公斤）的碳纤维车架增加了相当可观的重量。要拆下所有配件变成纯粹的eMTB可能需要耗费长达一小时，恢复到城市通勤模式又要再花同样的时间。\n\n如果Amflow TL Carbon是你唯一的自行车，那么它在城市环境中完全能够胜任。但这有点像在二战时期的吉普车里塞进真皮座椅和音响，然后将其称为城市代步车。在市区里，Amflow TL Carbon显得格格不入。首先，它浑身上下都在高调宣扬“我很昂贵”，气压避震器、Fox品牌标识和宽大的颗粒胎让它在普通城市自行车中格外惹眼——这在自行车盗窃猖獗的地方可不是什么好事。在像阿姆斯特丹这样紧凑的自行车城市里，把车停在街上过夜是常态，但我可不敢这么做。不过，Amflow确实为其配备了Apple Find My功能以帮助寻车定位。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4913.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4963.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4947.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4942.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4960.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4957.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4992.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4968.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4941.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4787.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4698.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4676.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4672.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/uplo\n\nads/sites/2/2026/09/IMG_4656.jpeg?quality=90&strip=all] [图片: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4651.jpeg?quality=90&strip=all] \n\nTL Carbon 的轮胎是妥协最为明显的地方。Amflow 选用了更适合越野林道的 Maxxis Crossmark II 轮胎。较深的花纹增加了城市通勤时的滚阻与胎噪，并且这款轮胎缺乏专门针对通勤和旅行用轮胎所配备的高级防扎防刺特性。这使得它们更容易被城市道路上常见的碎玻璃和建筑杂物刺破。而且那种颗粒凸起的胎面会让在铺装路面上快速过弯时产生晃动打滑的感觉，至少在这些胎齿最终被沥青路面磨平之前都会如此。\n\n同样，Amflow TL Carbon 也没有配备链条罩。这对山地骑行来说无可厚非，但在城市里却是个麻烦事，裸露的传动系统可能会勾挂裤腿和裙子，或者在晚上出门进城时蹭上一腿油污。\n\n升降座管在林道越野和城市骑行中同样实用。如今升降座管在山地车上已相当普及，它们也让不同身材的骑手能轻松共享这辆车。但在停车时，座管和车座很难轻易锁住，使其容易成为小偷的目标。\n\n前车架配上一根（需自备的）弹力绳，能让跑腿取物变得轻而易举，而后车架则可以安装兼容 MIK HD 的儿童安全座椅，用来送孩子去托儿所。我在车友露营（bikepacking）时使用的 Amflow 品牌快拆侧驮包和车顶包，在城市出行中同样表现出色。到了集市直接取下侧驮包，装满杂物杂货，再扣回车上，就能轻松上路。\n\n[图片: 浓郁的荷兰风情。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4815_8c3bbe.jpeg?quality=90&strip=all]\n\n我非常享受与功能全能的 Amflow TL Carbon 电动自行车相伴的时光。在林道越野时它绝非花架子，即使在满载状态下也出奇地敏捷且动力强劲。它的载物能力也完全能胜任城市日常生活，只要你不介意骑着一辆山地车在城里转悠所带来的违和感。Amflow TL Carbon 绝对配得上“运动型多功能车（SUV）”的称号，相比大多数燃油车同类，它甚至更有资格承受这一美誉。\n\n所有照片均由 Thomas Ricker / The Verge 拍摄。\n\n---\n规格参数：\n* Avinox M2 中置电机：额定扭矩 110Nm，峰值扭矩 125Nm\n* 屏幕：Avinox DPC100，2英寸 OLED 控制显示屏\n* 电池：800Wh Avinox RS800 电池（可拆卸且可上锁）\n* 控制器：Avinox 无线控制器 × 2（车把左右各一个）\n* 充电器：Avinox 4A 充电器，168W 输出\n* 后避震：FOX FLOAT Rhythm，带低速回弹（LSR）调节，Amflow TL 调校，190×45mm\n* 前避震：FOX AWL Sport，120mm 行程，RAIL 2.0 阻尼，带低速回弹（LSR）调节，15×110mm Kabolt 桶轴，44mm 偏移量\n* 飞轮：CS-M5243，10速，11-43T\n* 刹车：Tektro TKD173 油压碟刹，4活塞卡钳，Amflow 定制版\n* 轮组：Amflow HTA-25 前轮（27.5英寸）\n* 轮胎：Maxxis 27.5×2.35 Crossmark II 钢丝胎/开口胎/EXO防割/60TPI\n* 升降座管：Amflow TA，31.6mm（可调行程：0/-10/-20mm）\n---",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "Amflow 是 DJI（大疆）旗下的衍生品牌（offshoot）。",
+          "Amflow TL Carbon 电动自行车的售价为 3499 欧元 / 3899 美元。",
+          "来源叙事重点：通过长途跨城与林道越野实测，评估大疆旗下品牌 Amflow 推出的跨界电助力自行车 TL Carbon 在城市通勤与越野穿越双重场景下的实际性能表现与产品折衷权衡。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T07:00:00.000Z",
+            "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"
+          }
+        ]
+      },
+      {
+        "id": "story-dides-trap-us-china-html-c855827933aad9ef",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T05:00:01.000Z",
+        "pubTime": "2026-09-26 13:00",
+        "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — China is embracing the idea of competition without confrontation, by invoking an academic concept.\n\n\"The Thucydides Trap can be overcome,\" Chinese President Xi Jinping said on arriving at the White House to meet U.S. President Donald Trump on Thursday, according to the Chinese side's official readout.\n\nThat framing contrasts with the rhetorical question he posed at the May summit of whether the two countries could avoid the Thucydides Trap.\n\nThe Thucydides Trap, popularized by Harvard professor Graham Allison in the early 2010s, refers to how tensions between a rising and ruling power have historically often resulted in a war.\n\nThucydides was an Athenian general in ancient Greece. His historical record of the Peloponnesian War described how Athens' rapid rise in power alarmed Sparta and made war between the two city-states inevitable.\n\nAllison has met Xi and visited China multiple times, including in June 2026 for a World Economic Forum event. Allison was founding dean of Harvard's Kennedy School, which for decades trained many of China's government officials.\n\nThe academic previously worked in the U.S. government as Assistant Secretary of Defense under President Bill Clinton in the 1990s and Special Advisor to the Secretary of Defense under President Ronald Reagan in the 1980s.\n\nXi referred to the Thucydides Trap during a rare interview published by HuffPost in 2014.\n\n\"We all need to work together to avoid the Thucydides Trap — destructive tensions between an emerging power and established powers, or between established powers themselves,\" Xi said.\n\nThe Chinese leader's state visit to the U.S. this week was his first in 11 years. A state media article following his 2015 visit noted Xi's interest in the Thucydides Trap reflected his view that it's major powers' suspicion of each other, rather than any sense of inevitability, that results in the conflict that the term predicted.\n\nXi's comment on Thursday about overcoming the Thucydides Trap followed remarks on peaceful coexistence — that the U.S. and China can have \"healthy\" competition without confrontation.\n\n\"It should be a race of catching up with one another, not a wrestle in which one either wins or loses,\" Xi said, adding the two countries' militaries should improve crisis communication and prevention.\n\nThis establishment of a bottom line — competing intensely without military conflict — is the \"most significant political outcome\" of the summit, Cui Shoujun, a professor at Renmin University of China's School of International Studies, said in Chinese, translated by CNBC. \"This injected certainty into the volatile bilateral relationship.\"\n\nTrump's comments on Xi's arrival at the White House only emphasized general collaboration.\n\nThe U.S. president has yet to comment on Taiwan around this summit, despite Xi calling on the U.S. to \"oppose 'Taiwan independence,'\" according to Beijing's readout of the two presidents' talks on Thursday.\n\n—CNBC's Anniek Bao contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "根据中方官方通报，中国国家主席习近平周四抵达白宫会晤美国总统唐纳德·特朗普时表示，“修昔底德陷阱是可以跨越的”。",
+          "习近平在5月的峰会上曾提出两国能否避免“修昔底德陷阱”的设问。",
+          "来源叙事重点：聚焦中国最高领导人在白宫会晤中提出“修昔底德陷阱是可以跨越的”这一核心叙事，梳理该学术概念的历史沿革与中方立场演变，解读中方借此传递“良性竞争、避免军事对抗”的战略底线，同时对比美方仅强调普遍合作与对涉台等敏感议题的沉默态度。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T05:00:01.000Z",
+            "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html"
+          }
+        ]
+      },
+      {
+        "id": "story-mote-control-gun-turrets-178f02b06b6dbb16",
+        "title": "乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）",
+        "originalTitle": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T06:10:13.000Z",
+        "pubTime": "2026-09-26 14:10",
+        "url": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
+        "imageUrl": null,
+        "fullContent": "A video showcases Valve's hit handheld being used in a very unexpected way.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nThe Steam Deck is a remarkably powerful piece of hardware, capable of doing all sorts of interesting things. But the Ukrainian military appears to have found one use that I'm pretty sure wasn't anticipated in any of Valve's design meetings: As a controller for a remote gun turret.\n\nPhotos of the Steam Deck purportedly being used to control a gun turret first turned up in mid-April, shared by TRO Media, but they looked a little suspect: There was nothing to indicate that the Steam Deck in question was being used as part of the weapon, and not just for a spot of Vampire Survivors during a reload.\n\nMore recently, though, video from what appears to be the same event has turned up, and a Steam Deck is clearly being used to control the turret.\n\nThe purpose of a remotely-controlled turret is obvious: Get a gun on the front line without exposing the people using it to enemy fire. The auto-translated closed captioning in this separate YouTube video (which also shows the Steam Deck in use as a turret controller, but doesn't have as clear an angle on it) makes that point explicitly: \"It removes a person from the line of fire, makes it possible to provide [fire] support without being a priority target and causing enemy fire on ourselves.\" But why use a Steam Deck for such a thing?\n\nIt actually makes a lot of sense, according to Bellingcat researcher Aric Toler, who helped uncover the leak of classified military documents on Discord in April.\n\n\"Steam Deck is pretty perfect when you think about it,\" Toler told PC Gamer. \"Totally native OS client, great controller you can use, touch screen, etc.\n\n\"It makes perfect sense for Steam Deck to be used, assuming the software is Linux-compatible (unless they went through the godawful process of dual-booting Windows on a Steam Deck).\"\n\nThere's a practical upside to using Steam Decks in this application too. $399 for a base model Steam Deck isn't cheap, but Toler said that control modules on systems like this can be \"insanely expensive,\" and are also subject to export controls, meaning they can be difficult for officially non-aligned nations to acquire. Steam Deck availability, on the other hand, all comes down to Valve's manufacturing capacity, and because it's an all-in-one solution rather than a controller plugged into a separate, discrete system, there are fewer headaches involved all around.\n\nFrom the video embedded up top, here's a look at the turret control UI on the Steam Deck:\n\nThe turrets, called Shablya—Ukrainian for \"saber\"—were actually developed some years ago by Ukrainian company Global Dynamics. They're equipped with thermal imaging and a range finder, and can handle a number of different weapons including machine guns and grenade launchers. In 2015, a crowdfunding campaign run through the Ukrainian military and civil crowdfunding site People's Project raised ₴445,000 ($12,000) to fund and maintain 10 Shablya turrets for the Ukrainian military.\n\nAccording to Ukrainian website Vikna.tv, a batch of Shablya turrets was recently deployed with Ukraine's 68th Jaeger Brigade. The unit recently posted its own video of the turret in use on Facebook.\n\nIronically, none of the Ukrainian sites that hosted or shared the images made any mention of the presence of a Steam Deck—instead, it was people who saw the videos and recognized the device that brought it to wider attention. Toler speculated that the Ukrainian forces \"probably just thought it was a standard control set\" and so didn't make a fuss about it.\n\nAndy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill.",
+        "fullTranslation": "一段视频展示了Valve旗下的热门掌机正被以一种极乎意料的方式使用。\n\n当您通过我们网站上的链接购买商品时，我们可能会获得联盟佣金。具体机制请参阅此处说明。\n\nSteam Deck是一款性能极其强劲的硬件设备，能够胜任各种有趣的任务。但乌克兰军方似乎发现了它的一种新用途，我很确定这在Valve的任何产品设计会议上都未曾被预料到：充当遥控机枪炮塔的控制器。\n\n据称使用Steam Deck控制机枪炮塔的照片最早于4月中旬由TRO Media发布，但当时这些照片看起来有些令人起疑：没有任何证据表明涉事的Steam Deck被作为武器系统的一部分使用，而非仅仅是在装弹间隙玩上一局《吸血鬼幸存者》（Vampire Survivors）。\n\n然而不久前，疑似记录同一事件的视频被曝光，画面中Steam Deck显然正被用来控制该炮塔。\n\n遥控炮塔的用途显而易见：将武器部署在前线，同时避免操作人员暴露在敌方火力之下。在另一段单独的YouTube视频中（该视频同样展示了被用作炮塔控制器的Steam Deck，但拍摄角度没有那么清晰），自动翻译的字幕明确指出了这一点：“它将人员从交火线撤下，使我们能够在不成为优先目标且不引来敌火攻击自身的情况下提供火力支援。”但为什么偏偏要用Steam Deck来做这件事呢？\n\n据曾在4月协助调查Discord涉密军事文件泄露事件的Bellingcat研究员阿里克·托勒（Aric Toler）表示，这其实非常合情合理。\n\n“仔细想想，Steam Deck几乎是完美的，”托勒对PC Gamer表示，“它有完全原生的操作系统客户端、出色的可用操控部件、触摸屏等。”\n\n“只要相关软件兼容Linux，使用Steam Deck是完全合理的（除非他们费尽周折在Steam Deck上搞了双系统安装Windows）。”\n\n在这一应用场景中使用Steam Deck还有实际的优势。基础款Steam Deck售价399美元虽然不便宜，但托勒表示，此类系统专用的控制模块可能会“极其昂贵”，而且还要受到出口管制，这意味着官方非结盟国家很难采购到。相比之下，Steam Deck的供应情况完全取决于Valve的产能；而且由于它是一个一体化解决方案，而非将控制器插入独立分立的系统中，总体上减少了许多令人头疼的麻烦。\n\n从上方嵌入的视频中，可以一窥Steam Deck上的炮塔控制界面UI：\n\n这款名为“Shablya”（乌克兰语意为“军刀”）的炮塔实际上是由乌克兰公司Global Dynamics在数年前研发的。它们配备了热成像仪和测距仪，可搭载包括机枪和榴弹发射器在内的多种不同武器。2015年，通过乌克兰军民众筹网站People's Project发起的一项众筹活动筹集了44.5万格里夫纳（约合1.2万美元），用于为乌克兰军队资助和维护10座Shablya炮塔。\n\n据乌克兰网站Vikna.tv报道，一批Shablya炮塔最近部署到了乌克兰第68猎兵旅。该部队最近在Facebook上发布了自身使用该炮塔的视频。\n\n颇具讽刺意味的是，发布或分享这些画面的乌克兰网站均未提及Steam Deck的存在——相反，是观看视频并认出该设备的网民将其推向了更广泛的公众视野。托勒推测，乌克兰部队“可能只是以为这是一套标准的控制装置”，因此并没有为此大惊小怪。\n\nAndy自始至终都在PC上玩游戏，最初是在基于磁带的TRS80电脑上玩文字冒险和简陋动作游戏的年轻人。随后，他历经了Sierra Online冒险游戏和Microprose模拟游戏的辉煌时期，运营过本地BBS，自学了组装PC，并对角色扮演游戏、沉浸式模拟游戏和射击游戏产生了长期的热爱。他于2007年开始为The Escapist撰写电子游戏新闻，并在2014年加入历史悠久的PC Gamer团队之前一直设法保住了饭碗。他的报道涵盖行业各个方面，从新游戏发布、补丁说明到法律纠纷、Twitch主播争端、电子竞技以及亨利·卡维尔（Henry Cavill）。大量的亨利·卡维尔。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "乌克兰军队被披露使用Valve公司的掌机Steam Deck作为遥控武器炮塔的控制器。",
+          "TRO Media于4月中旬首次发布了Steam Deck据称用于控制炮塔的照片，随后出现的视频明确显示Steam Deck被用于控制炮塔。",
+          "来源叙事重点：聚焦消费级游戏掌机 Steam Deck 被乌克兰军队用于遥控军用武器炮塔的意外场景，从软硬件适配性、开源 Linux 生态、低成本以及规避军规出口管制等角度，分析消费级电子产品向军事应用转化的合理性与实用价值。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T06:10:13.000Z",
+            "url": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/"
+          }
+        ]
+      },
+      {
+        "id": "story-red-meteor-and-milky-way-73ee972820088158",
+        "title": "每日天文一图（APOD）：2026年9月26日——镜中流星与银河",
+        "originalTitle": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:05:00.000Z",
+        "pubTime": "2026-09-26 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=2000&#038;h=1334&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 26 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nMirrored Meteor and Milky Way\n\nExplanation: On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype Large-Sized Telescope ( LST-1 ). LST-1 is the first telescope constructed at the northern hemisphere site of the innovative Cherenkov Telescope Array Observatory . With 198 hexagonal mirror segments and a large, high-efficiency, pixelized camera, LST-1 is designed to detect extremely brief, atmospheric visible light flashes . Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as distant active galaxies and gamma-ray bursts. Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.\n\nAPOD’s email for image submissions has changed. Please see: APOD Submissions .\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: before and after\n\nCredit &#038; Copyright:\n\nAuthors &#038; editors:\n\nJerry Bonnell, Cecilia Chirenti, Robert Nemiroff, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 25 – Globular Star Cluster Omega Centauri\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "每日天文一图（APOD）：2026年9月26日——……\n每日天文一图\n探索宇宙！每天都会展示一张展现我们迷人宇宙的影像或照片，并由专业天文学家撰写简要说明。\n镜中流星与银河\n说明：8月15日，这颗英仙座流星划过了西班牙加那利群岛拉帕尔马岛罗克·德洛斯·穆查乔斯天文台（Observatorio del Roque de los Muchachos）上空的夜空。这道明亮且绚丽的流星余迹被定格在银河核心旁，银河中暗淡的星际尘埃云与璀璨的星光延伸至地平线上方。在这幅迷人的天象前景中，是原型大型切伦科夫望远镜（LST-1）直径达23米的反射镜。LST-1是创新的切伦科夫望远镜阵列天文台（Cherenkov Telescope Array Observatory）在北半球台址建造的第一台望远镜。LST-1拥有198块六边形镜面拼接单元和一台大型高效率像素化相机，旨在探测极其短暂的大气可见光闪烁。这些可见光闪烁仅持续约十亿分之一秒，由来自遥远活动星系和伽马射线暴等宇宙源的高能伽马射线触发。当然，在那天夜里，LST-1的部分镜面单元也反射出了明亮英仙座流星划过大气层时的闪光。\nAPOD接收投稿的电子邮件地址已更改。详情请见：APOD投稿页面。\nAPOD的NASA主站点正在迁移：从 apod.nasa.gov 迁至 science.nasa.gov/apod\n明日图片预告：之前与之后（before and after）\n致谢与版权：\n作者与编辑：\n杰里·邦内尔（Jerry Bonnell）、塞西莉亚·奇伦蒂（Cecilia Chirenti）、罗伯特·内米罗夫（Robert Nemiroff）、凯斯利·罗克利夫（Keighley Rockcliffe）\nNASA科学激活计划（NASA Science Activation）与密歇根理工大学（Michigan Tech. U.）\n随机APOD生成器\n昨日图片\nAPOD：2026年9月25日——半人马座欧米伽球状星团（Globular Star Cluster Omega Centauri）\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "8月15日，一颗英仙座流星划过西班牙加那利群岛拉帕尔马岛穆查乔斯罗克天文台上空的夜空。",
+          "图像前景展示了原型大尺寸望远镜（LST-1）直径达23米的反射镜面。",
+          "来源叙事重点：通过天文摄影展示英仙座流星、银河与切伦科夫望远镜阵列原型镜面（LST-1）同框的景象，普及高能伽马射线天文学探测原理及地面观测设施建设进展。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
+          }
+        ]
+      },
+      {
+        "id": "story-ermaniya-2120412172-html-4bbcb8d140d13641",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Бунт немецкой молодежи против войны с Россией вызвал бурную реакцию в Сети",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T07:37:10.000Z",
+        "pubTime": "2026-09-26 15:37",
+        "url": "https://ria.ru/20260926/germaniya-2120412172.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 15:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/germaniya-2120412172.html",
+            "publishedAt": "2026-09-26T07:37:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--for-llms-including-html-0966d3f1308faae0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A single function Jev-like wrapper for LLMs, including vision models",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:20:58.000Z",
+        "pubTime": "2026-09-26 12:20",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 12:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+            "publishedAt": "2026-09-26T04:20:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-4b77-b5dd-384e39a95140-07a0082743f092ca",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The climate doom-mongers now dread sovereign debt blowouts",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:00:33.000Z",
+        "pubTime": "2026-09-26 12:00",
+        "url": "https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f001bf6-96fb-4305-b402-16ca9a0451e1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "The same people are gnashing the same teeth and making the same arguments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-26 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T04:00:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--firms-curacao-regulator-73357b05975ffd41",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T05:00:28.000Z",
+        "pubTime": "2026-09-26 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
+        "imageUrl": "https://i.guim.co.uk/img/media/7282bbb4e8d0a71d5ea7c5597dc3f3c06555c7bf/213_0_6373_5100/master/6373.jpg?width=140&quality=85&auto=format&fit=max&s=cb11134b959d13fd118214842f538b25",
+        "fullContent": "Files could have seismic consequences for online casinos, including those accused of illegally targeting consumers\n\nThe secrets of thousands of online casinos have been laid bare in a vast leak of data that could have seismic consequences for offshore gambling firms, including some accused of illegally targeting consumers around the world.\n\nThe Casino Secrets leak reveals tens of thousands of previously confidential files stored by the gambling regulator on the Caribbean island of Curaçao.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "名为“赌场机密”（Casino Secrets）的数据泄露事件曝光了加勒比海岛屿库拉索（Curaçao）博彩监管机构存储的数万份此前保密的文件。",
+          "本次数据泄露事件揭露了数千家在线赌场的机密数据与离岸博彩公司的运作信息。",
+          "来源叙事重点：聚焦加勒比海库拉索岛博彩监管机构的海量机密数据外泄事件（Casino Secrets），着重揭露离岸博彩行业的隐秘运作网络，以及部分在线赌场涉嫌面向全球消费者进行非法拓展所可能引发的监管与法律震荡。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T05:00:28.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator"
+          }
+        ]
+      },
+      {
+        "id": "story-es-harnessing-power-html-806815ea9907325d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T02:40:01.000Z",
+        "pubTime": "2026-09-26 10:40",
+        "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-library-of-bacteria.jpg",
+        "fullContent": "by University of Colorado School of Medicine\n\nedited by Sadie Harley, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nAn estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when they develop resistance to antibiotics.\n\nTo overcome drug resistance and fight severe, hard-to-treat infections, researchers are turning to a type of virus found in nature that infects only bacteria: bacteriophages, or \"phages\" for short.\n\nA team of University of Colorado Anschutz School of Medicine researchers has spent the last 15 years compiling a library of phages to target especially stubborn bacteria that naturally live in the intestines.\n\n\"Phages have been used historically for decades as tools to understand molecular biology, but there's been a resurgence in interest in them due to the rising incidence of antibiotic-resistant bacterial infections,\" says Breck Duerkop, Ph.D., associate professor in the Department of Immunology & Microbiology. \"We can isolate viruses against infections that are difficult to treat, and some of the viruses will kill the bacteria very readily.\"\n\nJust like human cells, bacterial cells can be infected by viruses. Duerkop says nearly all bacteria have viruses that infect them, so phages are found in practically any environment where bacteria live. Viruses generally aren't considered living things, but they contain genetic material (DNA or RNA), and they can use host cells to make copies of themselves.\n\nIn human cells, according to the National Human Genome Research Institute, a virus gets inside a host cell by binding to a receptor on the cell surface, much like a key unlocking a door. Once inside, DNA or RNA from virus particles takes over cellular functioning and uses materials in the cell to create more virus particles, which can then infect other cells. Viruses disrupt cell activity and damage their host cells, sometimes killing them.\n\nPhages can poke holes through cell walls and inject genetic material directly into bacterial cells. Importantly, phages can't infect human cells, but they can cause similar damage inside bacterial cells as other viruses do in human cells.\n\nDuerkop's research group finds and isolates phages to study how they kill bacteria, how bacteria may become resistant to them, and how the phages can be combined with FDA-approved drugs to treat people with serious bacterial infections.\n\nThese researchers are especially interested in treatment-resistant bacteria. They primarily study Enterococcus faecalis and Enterococcus faecium, two highly drug-resistant bacterial species that normally live in the human gut without causing problems but can cause severe infections, especially in people with compromised immunity.\n\nOther antibiotic-resistant bacteria, including emerging pathogens like Enterobacter hormaechei and Klebsiella oxytoca, have also piqued the team's interest.\n\nTo find the right phages, the team gathers viruses from untreated wastewater, which contains these and other types of bacteria that make up the gut microbiome. After exposing the bacteria they're trying to target to the wastewater, the researchers grow the bacteria on agar plates (known as bacterial lawns). They wait a little while, then extract phages directly from the round plaques that form within the bacterial lawns.\n\nFrom there, the team uses a centrifuge to purify the phage samples and stores the phages in buffers in the refrigerator, where they are stable and have long shelf lives.\n\nDuerkop says he aims to keep a variety of phages on hand that can infect the bacteria his team is interested in. His team currently has more than 30 different viruses that infect enterococcal bacteria and roughly 15 to 20 that infect Enterobacter and Klebsiella.\n\n\"The idea of generating a library is you want some diversity,\" says Duerkop. \"Not every phage infects every type of bacteria. They're very specific.\" Phages can broadly infect strains of a particular bacterial species or be specific to a single strain, making them very precise.\n\nPhages have shown promise as a treatment for these types of infections. They can be combined with standard antibiotics and delivered orally or directly into the bloodstream via an IV, especially if the patient has a blood infection (septicemia). Phages have even been used topically to treat infected burns and other skin injuries.\n\nPhages aren't a cure-all, and bacteria can develop resistance to the phages themselves, but they can be an effective option when traditional antibiotics aren't working on their own. Duerkop says antibiotic-resistant bacterial infections aren't going away anytime soon, so it's essential to continue researching what phages can do.\n\n\"It's imperative that we explore creative ways to use phages in combination with antibiotics to target antibiotic-resistant bacteria,\" says Duerkop.\n\n\"We are just beginning to scratch the surface on the diversity of phages that have therapeutic potential. By continuing to study the biology of these phages, we stand to learn more about our natural world and the role of phages in it.\"\n\nProvided by University of Colorado School of Medicine\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "人体内估计生活着38万亿个细菌，其中只有一小部分对健康有害。",
+          "科罗拉多大学安舒茨医学院的研究团队在过去15年中构建了一个针对肠道难治细菌的噬菌体库。",
+          "来源叙事重点：重点报道科罗拉多大学科研团队历时15年构建噬菌体库的成果，强调噬菌体应对多重耐药肠道细菌的机制、应用前景（如与抗生素联用及多样化给药途径），以及从废水中分离纯化特定噬菌体的科研进展与临床潜力。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T02:40:01.000Z",
+            "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html"
+          }
+        ]
+      },
+      {
+        "id": "story-60926-gd-2120412082-html-1479d2e981b57fa2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Госдуме девятого созыва образуют 34 комитета и четыре постоянные комиссии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T07:36:34.000Z",
+        "pubTime": "2026-09-26 15:36",
+        "url": "https://ria.ru/20260926/gd-2120412082.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/0b/14/2056248724_0:144:3131:1905_650x0_80_0_0_45d26dc8258d49f39bf321bd2e7102fa.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 15:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/gd-2120412082.html",
+            "publishedAt": "2026-09-26T07:36:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--lot-more-mathematicians-67c50f59b62251aa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We're gonna need a lot more mathematicians",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T02:46:54.000Z",
+        "pubTime": "2026-09-26 10:46",
+        "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "imageUrl": null,
+        "fullContent": "[This is a guest post by Amit Sahai. This blog post was initially written in a different file format and converted using AI. — T.]\n\nWhen I was an undergraduate student, I remember talking with several students who felt that the pace at which the top students could understand new math concepts was far too fast for them. They, too, could understand the ideas, but it would take them much longer. Eventually, almost all of these students gave up their dream of pursuing research mathematics and found something else to do. I have been thinking about those students a lot in the last few days.\n\nThe research mathematics community consists largely of those of us who either rarely felt that way, or who felt it and managed to overcome it through hard work. We have had the good fortune to find a place in mathematics where we could make progress. But we are now entering a time for humility: a time when all of us are going to know what it feels like to be unable to keep up.\n\nThe AI systems I have worked with are already producing beautiful new ideas. They are doing far more than impressive calculations or quickly carrying out arguments that a strong human researcher would already understand. And we probably can’t even imagine the wonderful ideas that future systems will be capable of producing.\n\nWhen we feel that we cannot keep up, will we take that as a reason to leave research mathematics, like the students I am remembering? As more of us experience this, there will undoubtedly be a temptation to draw the same conclusion as they did: If the machines can move so much faster than us, perhaps we should find something else to do.\n\nFor our community to give up the work of understanding would be a profound abdication of our responsibility to humanity. Each of us is entitled to choose a different life. The responsibility I am talking about belongs to us collectively: to build a future in which humans can understand and contribute to the discoveries that will change our world. A future with meaningful human agency.\n\nStruggle is essential to understanding difficult concepts. Fortunately, this struggle can be shared. I have been blessed to experience this time and time again with my students and collaborators. Imagine a multitude of research groups, each with sustained support, each spending a term or a year trying to understand an extraordinary set of ideas produced by an AI system, with the help of AI systems. [1]\n\nThis may very well be among the most important mathematical work in the years to come, and we should support and prioritize it accordingly. This enterprise will require a significant expansion in the number of mathematically sophisticated human researchers available world-wide, as major breakthrough ideas accumulate.\n\nWhy should society want this? So far, this might sound like a utopian fantasy for us – a civilization focused on depth of human understanding, awash with mathematicians and physicists and the like. I would certainly love to live in such a world. And indeed there are deep philosophical reasons for society to move in this direction. But I think society has a much more immediate stake in making this possible, too.\n\nImagine that a future AI system proposes a radically new design for a one terawatt nuclear fusion power plant. It has found a way to sustain and control fusion that no human had conceived of. The design promises abundant, inexpensive, clean electricity. Robots stand ready to manufacture the components and build the plant.\n\nA terawatt is an insane amount of electrical power. We would be deciding whether to construct a machine that handles extraordinary flows of energy using principles we have never conceived of, let alone put into practice. We would need to understand how failures can be contained, what happens to energy already stored in the system when it shuts down, how we can be sure that the materials that make up the power plant behave as expected, and what other questions we should ask before proceeding. The very novelty that makes the proposal exciting would mean that we cannot inherit confidence from decades of operating similar plants or experiments.\n\nBefore approving construction, I would want communities of humans to understand why the design works and what justifies confidence in its safety. I would hope that we all would.\n\nHuman involvement does not automatically improve a technical decision , and I see no reason to insist that humans manually repeat work an AI system might be able to perform more reliably, even including proving mathematical guarantees. But a theorem can only exist within a model. Understanding the guarantee means understanding the model, the experimental evidence for it, and our uncertainties about the accuracy of the model. This is demanding work, and mathematically sophisticated people must be available to engage with it.\n\nOne might respond that AI systems should handle those questions too, and ultimately decide whether the plant should be built. That is a serious position. But it asks us to accept a future in which decisions of enormous consequence rest on reasons that no human community understands.\n\nI do not want us to arrive at that future simply because we failed to invest in our own capacity to understand. Human agency is a value of fundamental importance. We must retain the ability to meaningfully consider alternatives and decide what kind of world we want to be a part of building. I think it is worth the effort. [2]\n\nTo take on this responsibility, we may need to broaden our view of what a mathematician can contribute. I have in mind something like a “deployable intellectual reserve”: communities of mathematically sophisticated people that humanity can call upon to help understand consequential AI-enabled breakthroughs.\n\nOur ability to understand difficult and unfamiliar ideas may become one of the most important contributions we can offer to society. We should be willing to bring that skill to problems far beyond our usual research interests. [3] Doing so asks us to expand our sense of our vocation.\n\nA counter-argument might be that AI systems will make each of us so much more effective that fewer people could do this work, even as the pace of discovery accelerates. But each of us is merely human. We have fundamental limitations based on our biology. Depth of understanding needs time and a pace of life that humans can sustain. Each individual human can only be asked to do so much, but through earnest cooperation we can accomplish much more.\n\nIf AI fulfills its promise, we will encounter more beautiful and consequential ideas than we have ever seen. We must respond by building thriving human communities that can understand them together.\n\nWe’re gonna need a lot more mathematicians.\n\nThe ideas and opinions presented here are entirely my own, but GPT 6 Astra was instrumental in helping me draft this note. I also thank my former student Dakshita Khurana, my current student Isaac Hair, my colleague Terence Tao, and my family members Anant Sahai and Gireeja Ranade for valuable feedback. Note that there is much more to be said here, but I tried to keep this relatively short to focus succinctly on my primary thoughts.\n\n[1] By this, I do not mean to imply that only AI-created results will be of interest in the future. But for major results generated by humans, we already have a tradition of spending extended periods of time studying them.\n\n[2] And the relevant understanding cannot belong only to the organization proposing the technology. Imagine a public hearing at which the company’s experts are the only people capable of following the technical argument. Independent expertise is critical.\n\n[3] Indeed, AI systems are likely to be very helpful in allowing researchers with diverse backgrounds to talk effectively with one another, and more generally understand unfamiliar concepts.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该博文为 Amit Sahai 在 Terence Tao 的博客上发表的客座文章（guest post）。",
+          "该博文最初以其他文件格式撰写，并使用 AI 进行了转换。",
+          "来源叙事重点：呼吁在 AI 驱动发现的时代大幅增加数学家储备。核心叙事在于：AI 正在产生超出单个人类直觉的新思想，人类不应因无法跟上节奏而放弃研究，而应组建由精通数学的研究人员构成的“可部署智力储备”，以深入理解和审验 AI 提出的突破性方案（如高风险的核聚变电厂设计），从而在重大科技决策中捍卫人类能动性与独立验证权。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T02:46:54.000Z",
+            "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4b1f-a737-504be06c7c5a-df1f5d2b6987db5a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cyber security stocks are pumped up on P(doom)",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:00:33.000Z",
+        "pubTime": "2026-09-26 12:00",
+        "url": "https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fedb83391-04b8-404a-9865-cab9de7996d1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Besieged by growing cyber threats, organisations are hurling money at the problem",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-26 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T04:00:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-c-arrests-study-suggests-367eade0afdc0e8d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T05:00:28.000Z",
+        "pubTime": "2026-09-26 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+        "imageUrl": "https://i.guim.co.uk/img/media/6ebd887ad6bdee1965137452cc6a501e61e00a2c/502_0_7562_6048/master/7562.jpg?width=140&quality=85&auto=format&fit=max&s=b1e107158d8709578bd1201cbeabaaba",
+        "fullContent": "New research suggests the technology could be used to increase out-of-hospital access to life-saving devices\n\nDrones could help cut the time it takes to get a defibrillator to people experiencing cardiac arrests when not in hospital, researchers have suggested.\n\nIn the UK alone, there are more than 30,000 out-of-hospital cardiac arrests a year where emergency medical services attempt to resuscitate the individual, according to the British Heart Foundation. However, fewer than one in 10 people survive such an event, and some who do are left with neurological problems.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "在英国，每年有超过30,000起院外心脏骤停事件中急救医疗人员会尝试进行复苏。",
+          "在院外心脏骤停事件中，生存率低于十分之一，部分幸存者会遗留神经系统问题。",
+          "来源叙事重点：以英国院外心脏骤停极低存活率为背景，聚焦前沿科研推论，将无人机配送除颤器塑造为缩短黄金急救时间的潜在突破性方案"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T05:00:28.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-26-krest-2120412337-html-f54c45edbfba5e77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Священник рассказал, где в России есть частицы Креста Господня",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T07:41:09.000Z",
+        "pubTime": "2026-09-26 15:41",
+        "url": "https://ria.ru/20260926/krest-2120412337.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/07/02/2102420431_0:256:2732:1793_650x0_80_0_0_d1ac13bc97c522a783ae661fb704dc4a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 15:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/krest-2120412337.html",
+            "publishedAt": "2026-09-26T07:41:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vinox-esuv-e-bike-avinox-4014c3a6b3c76ef1",
+        "title": "“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？",
+        "originalTitle": "Can an &#8216;eSUV&#8217; e-bike really go from trail to town?",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T07:00:00.000Z",
+        "pubTime": "2026-09-26 15:00",
+        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4650.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That’s what a subclass of so-called “electric SUV” (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that’s what I set out to test on a new TL Carbon e-bike from Amflow, the DJI offshoot that upended the mountain bike industry a few years ago with its incredibly small and powerful Avinox motors. After a month of testing in the heart of Amsterdam — including a three day bikepacking trip along coastal bicycle superhighways and single-track forest routes — I can confirm what you might already expect: there are compromises. But for €3499 / $3,899 you do get a crossover e-bike that can help you fetch groceries during the week and conquer trails on the weekend. [Product: Amflow TL Carbon eSUV e-bike | https://www.amflowbikes.com/product/amflow-tl-carbon-800wh?vid=242841] I rode my first crossover in 2024 when Cowboy launched its appropriately named Cross. That e-bike, like the vast majority of SUV automobiles, is more at home on pavement than dirt. But it looks burly, which attracts a certain kind of buyer hoping for transference. Today, these eSUVs are more popular than ever. Canyon, for example, makes one. Specialized, too. As does Riese & Müller and now Amflow. The Amflow TL Carbon is built upon the same Avinox drive system that threw the electric mountain bike (eMTB) industry into a tizzy two years ago. The TL Carbon is a bit less powerful, sporty, and springy than the impressive Amflow PX Carbon Pro I tested over the summer, but its eMTB roots are undeniable.  [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4661.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4733.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4754-1.jpeg?quality=90&strip=all] I tested the TL Carbon on a bikepacking adventure from Amsterdam to the island of Texel at the tip top of the Netherlands. The 170km trip was about 70 percent asphalt, 20 percent gravel and dirt, and 10 percent rutted, hilly, single-track dedicated to mountain bikers. I was more than a little nervous riding the latter on a 19.2kg (42.3lbs) bike loaded down with an 87kg (190lbs) rider and about 20kg (44lbs) of gear. But Amflow’s compact mid-drive Avinox M2 motor, with its 125Nm of torque and 1100W of max output, flattened long, technical hills that other mountain bikers (not loaded down with gear) had to hike. As an eSUV, the TL Carbon has bonafide off-road credentials. I was also pleased by the range I extracted from the 800Wh battery, despite bikepacking on a very windy weekend. Amflow offers an optional battery extender that adds 480Wh to the total capacity, but I didn’t miss it. I rode in a mix of modes, spending the vast majority of the time in battery-sipping Eco mode, only switching into the adaptive Auto mode when facing a strong headwind, and Trail only when trying to dominate a highly technical or steep single-track. On my longest day, I arrived at my destination with 22 percent charge remaining after riding 82.3km (51.1 miles). That works out to an exceptional 7.58Wh per km (or 12.2Wh per mile) for a bike carrying so much gear. And because the TL Carbon’s battery is removable unlike Amflow’s premium eMTB, it can be easily charged behind a bar, at a cafe, or inside a home. I had no problem finding public chargers along the way, but I’m blessed to live in a country with excellent bicycle infrastructure. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4840.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4861.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4853.jpeg?quality=90&strip=all] Still, as an eMTB, the Amflow TL Carbon makes plenty of compromises. The 27.5-inch front wheel is fine in town but it doesn’t roll over roots and rocks as well as 29-inch wheels found on modern mountain bikes (there’s clearance to swap a 29er in if you want). The geometry is also more upright than many would want on a trail, and the suspension travel at the front and rear is relatively short, tuned more for potholes than 1-meter drop-offs (yet it handled those fine). And the things you definitely want on a city bike — like the TL Carbon’s integrated lighting, kickstand, bell, mudguards, front rack, and rear rack — are not designed for quick removal and add considerable weight to the otherwise lightweight (just 2.9kg) carbon-fiber frame. Removing everything to go full eMTB could take up to an hour, and then again to return to city mode. If the Amflow TL Carbon is your only bike then it certainly gets the job done in urban environments. But it’s a little like putting leather seats and a stereo inside a WWII-era jeep and calling it a city car.  In town, the Amflow TL Carbon looks out of place. For one thing, it screams I’m expensive, and the gas shock, Fox branding, and wide knobby tires make it stand out from basic city bikes — not something you want in places where bicycle theft is a problem. I wouldn’t feel comfortable parking it on the street overnight which is otherwise the common thing to do in compact, bicycle cities like Amsterdam. Amflow does equip it with Apple Find My to help locate it. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4913.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4963.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4947.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4942.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4960.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4957.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4992.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4968.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4941.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4787.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4698.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4676.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4672.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4656.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4651.jpeg?quality=90&strip=all] The tires on the TL Carbon is where the compromises are most apparent. Amflow selected Maxxis Crossmark II tires which are better suited for trails. The deep tread adds rolling resistance and noise to city commutes and the tires lack advanced anti-puncture features found on tires made for commuting and touring. That makes them more vulnerable to flats caused by glass and construction debris commonly found on city streets. And that knobby tread makes fast cornering on pavement feel squirmy, at least until those nubs are eventually ground off by the asphalt. Likewise, there’s no chain guard on the Amflow TL Carbon. That’s fine for mountain biking but a nuisance in the city where that exposed drivetrain can snag trousers and skirts, or leave them stained with grease when heading out for a night on the town. The dropper seat post is as useful on trails as it is in the city. Droppers are pretty mainstream for mountain bikes these days, and they also make the bike easily shareable with riders of different sizes. But the seatpost and saddle can’t be easily locked when parked making them a target for thieves. The front rack paired with a (bring your own) bungee cord makes fetching errands a snap, and the rear rack can be equipped with an MIK HD-compatible bike seat to carry a kid to daycare. The quick-release Amflow-branded panniers and top bag I took bikepacking also work great for city trips. Just remove the panniers when you arrive at the market, fill them with groceries, snap them back to your bike, and away you go. [Image: Maximum Dutchness. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4815_8c3bbe.jpeg?quality=90&strip=all] I really enjoyed my time with the versatile Amflow TL Carbon e-bike. It’s no poseur on the trail where it feels surprisingly agile and powerful even when fully loaded. Its hauling capacity also makes it fine for daily life in the city, if you don’t mind the incongruity of riding a mountain bike around town. The Amflow TL Carbon definitely lives up to the title of “sport utility vehicle,” which is more than I can say for most of its gasoline-powered peers. All photos by Thomas Ricker / The Verge. --- Specifications: * Avinox M2 mid-drive motor: Nominal 110Nm, Peak 125Nm * Screen: Avinox DPC100, 2-inch OLED Control Display * Battery: 800Wh Avinox RS800 Battery (removable and lockable) * Controllers: Avinox Wireless Controller × 2 (one on each side of the handlebar) * Charger: Avinox 4A Charger, 168W Output * Rear shock: FOX FLOAT Rhythm, LSR adjustment, Amflow TL tuned, 190×45mm * Front shock: FOX AWL Sport, 120mm, RAIL 2.0 damper, LSR adjustment, 15×110mm Kabolt, 44mm offset * Cassette: CS-M5243, 10-Speed, 11-43T * Brakes: Tektro TKD173 Hydraulic Disc Brakes, 4-Piston Caliper, Customized for Amflow * Wheels: Amflow HTA-25 Front Wheel (27.5″) * Tires: Maxxis 27.5×2.35 Crossmark II Wire Bead/Clincher/EXO/60TPI * Dropper: Amflow TA, 31.6mm (Adjustable Travel: 0/-10/-20mm) ---",
+        "fullTranslation": "你是否曾想要过一辆能轻松从乏味的城市沥青路面切换到砂石与泥土探险的电动自行车？这正是一类被称为“电动SUV”（eSUV）的电动自行车声称能做到的事情——凭借其宽大的全地形轮胎、前后避震系统，以及挡泥板和货架等实用配件。因此，我决定在Amflow最新推出的TL Carbon电动自行车上亲自测试这一点。Amflow是大疆（DJI）旗下的分支品牌，几年前曾凭借极其小巧且强大的Avinox电机颠覆了山地自行车行业。在阿姆斯特丹市中心进行了一个月的测试后——其中包括一次沿着沿海自行车高速公路和森林单行道林道进行的为期三天的单车旅行（bikepacking）——我可以证实你可能早已预料到的事实：确实存在妥协。但只要花3499欧元/3899美元，你就能拥有一辆跨界电动自行车，既能在工作日帮你买菜拉货，又能在周末征服野外林道。\n\n[产品：Amflow TL Carbon eSUV 电动自行车 | https://www.amflowbikes.com/product/amflow-tl-carbon-800wh?vid=242841]\n\n我第一次骑乘跨界车型是在2024年，当时Cowboy推出了命名恰如其分的Cross。那辆电动自行车就像绝大多数SUV汽车一样，在铺装路面上比在泥地里更自如。但它看起来非常粗犷，吸引了某类希望获得这种心理投射的买家。如今，这类eSUV比以往任何时候都更受欢迎。例如Canyon推出了一款，Specialized也有一款，Riese & Müller同样如此，而现在Amflow也加入了这一行列。Amflow TL Carbon基于两年前让电动山地车（eMTB）行业陷入轰动的同一套Avinox驱动系统打造。TL Carbon相比我夏天测试过的令人印象深刻的Amflow PX Carbon Pro，在动力、运动感和回弹性上稍逊一筹，但其eMTB血统毋庸置疑。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4661.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4733.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4754-1.jpeg?quality=90&strip=all]\n\n我骑着TL Carbon进行了一次单车探险旅行，从阿姆斯特丹一路前往荷兰最顶端的特塞尔岛（Texel）。这趟170公里的行程中，约70%是沥青路面，20%是砂石与泥土路面，10%是专门供山地车骑手使用的布满车辙且起伏不平的单行林道。骑着一辆重19.2公斤（42.3磅）的自行车，载着87公斤（190磅）的骑手以及约20公斤（44磅）的装备穿行在后一种路段上，我心里非常紧张。但是，Amflow小巧的中置Avinox M2电机凭借其125牛·米的扭矩和1100瓦的最大输出功率，轻松化解了长距离且具技术难度的陡坡，而其他未载装备的山地车手在这些路段上甚至不得不推车徒步。作为一辆eSUV，TL Carbon拥有货真价实的越野资质。\n\n尽管是在一个多风的周末进行单车旅行，800Wh电池所榨取出的续航表现同样令我感到满意。Amflow提供了一个可选的增程电池，可为总容量增加480Wh，但我并未觉得有此需求。我在多种模式下骑行，绝大部分时间处于低能耗的Eco模式，只在遇到强逆风时切换至自适应Auto模式，而在试图征服高难度或极陡峭的单行道时才开启Trail模式。在行程最长的一天，骑行了82.3公里（51.1英里）之后，我到达目的地时仍剩余22%的电量。对于一辆承载如此多装备的自行车来说，这意味着每公里能耗仅为出色的7.58Wh（或每英里12.2Wh）。而且，与Amflow的高端eMTB不同，TL Carbon的电池是可拆卸的，可以很方便地在酒吧吧台后、咖啡馆内或家里充电。一路上我毫不费力地找到了公共充电桩，不过这也是因为我很幸运地生活在一个自行车基础设施极为完善的国家。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4840.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4861.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4853.jpeg?quality=90&strip=all]\n\n不过，作为一辆eMTB，Amflow TL Carbon做出了不少妥协。27.5英寸的前轮在市区骑行尚可，但跨越树根和岩石的能力不如现代山地车常见的29英寸大轮（如果你想换，车架空间是允许换成29寸轮组的）。其车架几何形态也比许多人在林道骑行时所期望的更为直立，前后避震行程相对较短，调校更偏向应对路面坑洼而非1米高的落差坠台（尽管它应付这些落差并无大碍）。此外，城市自行车上不可或缺的配置——例如TL Carbon的集成车灯、脚撑、车铃、挡泥板、前货架和后货架——并未采用快拆设计，给原本轻盈（仅2.9公斤）的碳纤维车架增加了相当可观的重量。要拆下所有配件变成纯粹的eMTB可能需要耗费长达一小时，恢复到城市通勤模式又要再花同样的时间。\n\n如果Amflow TL Carbon是你唯一的自行车，那么它在城市环境中完全能够胜任。但这有点像在二战时期的吉普车里塞进真皮座椅和音响，然后将其称为城市代步车。在市区里，Amflow TL Carbon显得格格不入。首先，它浑身上下都在高调宣扬“我很昂贵”，气压避震器、Fox品牌标识和宽大的颗粒胎让它在普通城市自行车中格外惹眼——这在自行车盗窃猖獗的地方可不是什么好事。在像阿姆斯特丹这样紧凑的自行车城市里，把车停在街上过夜是常态，但我可不敢这么做。不过，Amflow确实为其配备了Apple Find My功能以帮助寻车定位。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4913.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4963.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4947.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4942.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4960.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4957.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4992.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4968.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4941.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4787.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4698.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4676.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4672.jpeg?quality=90&strip=all]\n[图片：https://platform.theverge.com/uplo\n\nads/sites/2/2026/09/IMG_4656.jpeg?quality=90&strip=all] [图片: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4651.jpeg?quality=90&strip=all] \n\nTL Carbon 的轮胎是妥协最为明显的地方。Amflow 选用了更适合越野林道的 Maxxis Crossmark II 轮胎。较深的花纹增加了城市通勤时的滚阻与胎噪，并且这款轮胎缺乏专门针对通勤和旅行用轮胎所配备的高级防扎防刺特性。这使得它们更容易被城市道路上常见的碎玻璃和建筑杂物刺破。而且那种颗粒凸起的胎面会让在铺装路面上快速过弯时产生晃动打滑的感觉，至少在这些胎齿最终被沥青路面磨平之前都会如此。\n\n同样，Amflow TL Carbon 也没有配备链条罩。这对山地骑行来说无可厚非，但在城市里却是个麻烦事，裸露的传动系统可能会勾挂裤腿和裙子，或者在晚上出门进城时蹭上一腿油污。\n\n升降座管在林道越野和城市骑行中同样实用。如今升降座管在山地车上已相当普及，它们也让不同身材的骑手能轻松共享这辆车。但在停车时，座管和车座很难轻易锁住，使其容易成为小偷的目标。\n\n前车架配上一根（需自备的）弹力绳，能让跑腿取物变得轻而易举，而后车架则可以安装兼容 MIK HD 的儿童安全座椅，用来送孩子去托儿所。我在车友露营（bikepacking）时使用的 Amflow 品牌快拆侧驮包和车顶包，在城市出行中同样表现出色。到了集市直接取下侧驮包，装满杂物杂货，再扣回车上，就能轻松上路。\n\n[图片: 浓郁的荷兰风情。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4815_8c3bbe.jpeg?quality=90&strip=all]\n\n我非常享受与功能全能的 Amflow TL Carbon 电动自行车相伴的时光。在林道越野时它绝非花架子，即使在满载状态下也出奇地敏捷且动力强劲。它的载物能力也完全能胜任城市日常生活，只要你不介意骑着一辆山地车在城里转悠所带来的违和感。Amflow TL Carbon 绝对配得上“运动型多功能车（SUV）”的称号，相比大多数燃油车同类，它甚至更有资格承受这一美誉。\n\n所有照片均由 Thomas Ricker / The Verge 拍摄。\n\n---\n规格参数：\n* Avinox M2 中置电机：额定扭矩 110Nm，峰值扭矩 125Nm\n* 屏幕：Avinox DPC100，2英寸 OLED 控制显示屏\n* 电池：800Wh Avinox RS800 电池（可拆卸且可上锁）\n* 控制器：Avinox 无线控制器 × 2（车把左右各一个）\n* 充电器：Avinox 4A 充电器，168W 输出\n* 后避震：FOX FLOAT Rhythm，带低速回弹（LSR）调节，Amflow TL 调校，190×45mm\n* 前避震：FOX AWL Sport，120mm 行程，RAIL 2.0 阻尼，带低速回弹（LSR）调节，15×110mm Kabolt 桶轴，44mm 偏移量\n* 飞轮：CS-M5243，10速，11-43T\n* 刹车：Tektro TKD173 油压碟刹，4活塞卡钳，Amflow 定制版\n* 轮组：Amflow HTA-25 前轮（27.5英寸）\n* 轮胎：Maxxis 27.5×2.35 Crossmark II 钢丝胎/开口胎/EXO防割/60TPI\n* 升降座管：Amflow TA，31.6mm（可调行程：0/-10/-20mm）\n---",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "Amflow 是 DJI（大疆）旗下的衍生品牌（offshoot）。",
+          "Amflow TL Carbon 电动自行车的售价为 3499 欧元 / 3899 美元。",
+          "来源叙事重点：通过长途跨城与林道越野实测，评估大疆旗下品牌 Amflow 推出的跨界电助力自行车 TL Carbon 在城市通勤与越野穿越双重场景下的实际性能表现与产品折衷权衡。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T07:00:00.000Z",
+            "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox"
+          }
+        ]
+      },
+      {
+        "id": "story-dides-trap-us-china-html-c855827933aad9ef",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T05:00:01.000Z",
+        "pubTime": "2026-09-26 13:00",
+        "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — China is embracing the idea of competition without confrontation, by invoking an academic concept.\n\n\"The Thucydides Trap can be overcome,\" Chinese President Xi Jinping said on arriving at the White House to meet U.S. President Donald Trump on Thursday, according to the Chinese side's official readout.\n\nThat framing contrasts with the rhetorical question he posed at the May summit of whether the two countries could avoid the Thucydides Trap.\n\nThe Thucydides Trap, popularized by Harvard professor Graham Allison in the early 2010s, refers to how tensions between a rising and ruling power have historically often resulted in a war.\n\nThucydides was an Athenian general in ancient Greece. His historical record of the Peloponnesian War described how Athens' rapid rise in power alarmed Sparta and made war between the two city-states inevitable.\n\nAllison has met Xi and visited China multiple times, including in June 2026 for a World Economic Forum event. Allison was founding dean of Harvard's Kennedy School, which for decades trained many of China's government officials.\n\nThe academic previously worked in the U.S. government as Assistant Secretary of Defense under President Bill Clinton in the 1990s and Special Advisor to the Secretary of Defense under President Ronald Reagan in the 1980s.\n\nXi referred to the Thucydides Trap during a rare interview published by HuffPost in 2014.\n\n\"We all need to work together to avoid the Thucydides Trap — destructive tensions between an emerging power and established powers, or between established powers themselves,\" Xi said.\n\nThe Chinese leader's state visit to the U.S. this week was his first in 11 years. A state media article following his 2015 visit noted Xi's interest in the Thucydides Trap reflected his view that it's major powers' suspicion of each other, rather than any sense of inevitability, that results in the conflict that the term predicted.\n\nXi's comment on Thursday about overcoming the Thucydides Trap followed remarks on peaceful coexistence — that the U.S. and China can have \"healthy\" competition without confrontation.\n\n\"It should be a race of catching up with one another, not a wrestle in which one either wins or loses,\" Xi said, adding the two countries' militaries should improve crisis communication and prevention.\n\nThis establishment of a bottom line — competing intensely without military conflict — is the \"most significant political outcome\" of the summit, Cui Shoujun, a professor at Renmin University of China's School of International Studies, said in Chinese, translated by CNBC. \"This injected certainty into the volatile bilateral relationship.\"\n\nTrump's comments on Xi's arrival at the White House only emphasized general collaboration.\n\nThe U.S. president has yet to comment on Taiwan around this summit, despite Xi calling on the U.S. to \"oppose 'Taiwan independence,'\" according to Beijing's readout of the two presidents' talks on Thursday.\n\n—CNBC's Anniek Bao contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "根据中方官方通报，中国国家主席习近平周四抵达白宫会晤美国总统唐纳德·特朗普时表示，“修昔底德陷阱是可以跨越的”。",
+          "习近平在5月的峰会上曾提出两国能否避免“修昔底德陷阱”的设问。",
+          "来源叙事重点：聚焦中国最高领导人在白宫会晤中提出“修昔底德陷阱是可以跨越的”这一核心叙事，梳理该学术概念的历史沿革与中方立场演变，解读中方借此传递“良性竞争、避免军事对抗”的战略底线，同时对比美方仅强调普遍合作与对涉台等敏感议题的沉默态度。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T05:00:01.000Z",
+            "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html"
+          }
+        ]
+      },
+      {
+        "id": "story-mote-control-gun-turrets-178f02b06b6dbb16",
+        "title": "乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）",
+        "originalTitle": "Ukraine's army is experimenting with using Steam Decks to remote-control gun turrets (2023)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T06:10:13.000Z",
+        "pubTime": "2026-09-26 14:10",
+        "url": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/",
+        "imageUrl": null,
+        "fullContent": "A video showcases Valve's hit handheld being used in a very unexpected way.\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\nThe Steam Deck is a remarkably powerful piece of hardware, capable of doing all sorts of interesting things. But the Ukrainian military appears to have found one use that I'm pretty sure wasn't anticipated in any of Valve's design meetings: As a controller for a remote gun turret.\n\nPhotos of the Steam Deck purportedly being used to control a gun turret first turned up in mid-April, shared by TRO Media, but they looked a little suspect: There was nothing to indicate that the Steam Deck in question was being used as part of the weapon, and not just for a spot of Vampire Survivors during a reload.\n\nMore recently, though, video from what appears to be the same event has turned up, and a Steam Deck is clearly being used to control the turret.\n\nThe purpose of a remotely-controlled turret is obvious: Get a gun on the front line without exposing the people using it to enemy fire. The auto-translated closed captioning in this separate YouTube video (which also shows the Steam Deck in use as a turret controller, but doesn't have as clear an angle on it) makes that point explicitly: \"It removes a person from the line of fire, makes it possible to provide [fire] support without being a priority target and causing enemy fire on ourselves.\" But why use a Steam Deck for such a thing?\n\nIt actually makes a lot of sense, according to Bellingcat researcher Aric Toler, who helped uncover the leak of classified military documents on Discord in April.\n\n\"Steam Deck is pretty perfect when you think about it,\" Toler told PC Gamer. \"Totally native OS client, great controller you can use, touch screen, etc.\n\n\"It makes perfect sense for Steam Deck to be used, assuming the software is Linux-compatible (unless they went through the godawful process of dual-booting Windows on a Steam Deck).\"\n\nThere's a practical upside to using Steam Decks in this application too. $399 for a base model Steam Deck isn't cheap, but Toler said that control modules on systems like this can be \"insanely expensive,\" and are also subject to export controls, meaning they can be difficult for officially non-aligned nations to acquire. Steam Deck availability, on the other hand, all comes down to Valve's manufacturing capacity, and because it's an all-in-one solution rather than a controller plugged into a separate, discrete system, there are fewer headaches involved all around.\n\nFrom the video embedded up top, here's a look at the turret control UI on the Steam Deck:\n\nThe turrets, called Shablya—Ukrainian for \"saber\"—were actually developed some years ago by Ukrainian company Global Dynamics. They're equipped with thermal imaging and a range finder, and can handle a number of different weapons including machine guns and grenade launchers. In 2015, a crowdfunding campaign run through the Ukrainian military and civil crowdfunding site People's Project raised ₴445,000 ($12,000) to fund and maintain 10 Shablya turrets for the Ukrainian military.\n\nAccording to Ukrainian website Vikna.tv, a batch of Shablya turrets was recently deployed with Ukraine's 68th Jaeger Brigade. The unit recently posted its own video of the turret in use on Facebook.\n\nIronically, none of the Ukrainian sites that hosted or shared the images made any mention of the presence of a Steam Deck—instead, it was people who saw the videos and recognized the device that brought it to wider attention. Toler speculated that the Ukrainian forces \"probably just thought it was a standard control set\" and so didn't make a fuss about it.\n\nAndy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill.",
+        "fullTranslation": "一段视频展示了Valve旗下的热门掌机正被以一种极乎意料的方式使用。\n\n当您通过我们网站上的链接购买商品时，我们可能会获得联盟佣金。具体机制请参阅此处说明。\n\nSteam Deck是一款性能极其强劲的硬件设备，能够胜任各种有趣的任务。但乌克兰军方似乎发现了它的一种新用途，我很确定这在Valve的任何产品设计会议上都未曾被预料到：充当遥控机枪炮塔的控制器。\n\n据称使用Steam Deck控制机枪炮塔的照片最早于4月中旬由TRO Media发布，但当时这些照片看起来有些令人起疑：没有任何证据表明涉事的Steam Deck被作为武器系统的一部分使用，而非仅仅是在装弹间隙玩上一局《吸血鬼幸存者》（Vampire Survivors）。\n\n然而不久前，疑似记录同一事件的视频被曝光，画面中Steam Deck显然正被用来控制该炮塔。\n\n遥控炮塔的用途显而易见：将武器部署在前线，同时避免操作人员暴露在敌方火力之下。在另一段单独的YouTube视频中（该视频同样展示了被用作炮塔控制器的Steam Deck，但拍摄角度没有那么清晰），自动翻译的字幕明确指出了这一点：“它将人员从交火线撤下，使我们能够在不成为优先目标且不引来敌火攻击自身的情况下提供火力支援。”但为什么偏偏要用Steam Deck来做这件事呢？\n\n据曾在4月协助调查Discord涉密军事文件泄露事件的Bellingcat研究员阿里克·托勒（Aric Toler）表示，这其实非常合情合理。\n\n“仔细想想，Steam Deck几乎是完美的，”托勒对PC Gamer表示，“它有完全原生的操作系统客户端、出色的可用操控部件、触摸屏等。”\n\n“只要相关软件兼容Linux，使用Steam Deck是完全合理的（除非他们费尽周折在Steam Deck上搞了双系统安装Windows）。”\n\n在这一应用场景中使用Steam Deck还有实际的优势。基础款Steam Deck售价399美元虽然不便宜，但托勒表示，此类系统专用的控制模块可能会“极其昂贵”，而且还要受到出口管制，这意味着官方非结盟国家很难采购到。相比之下，Steam Deck的供应情况完全取决于Valve的产能；而且由于它是一个一体化解决方案，而非将控制器插入独立分立的系统中，总体上减少了许多令人头疼的麻烦。\n\n从上方嵌入的视频中，可以一窥Steam Deck上的炮塔控制界面UI：\n\n这款名为“Shablya”（乌克兰语意为“军刀”）的炮塔实际上是由乌克兰公司Global Dynamics在数年前研发的。它们配备了热成像仪和测距仪，可搭载包括机枪和榴弹发射器在内的多种不同武器。2015年，通过乌克兰军民众筹网站People's Project发起的一项众筹活动筹集了44.5万格里夫纳（约合1.2万美元），用于为乌克兰军队资助和维护10座Shablya炮塔。\n\n据乌克兰网站Vikna.tv报道，一批Shablya炮塔最近部署到了乌克兰第68猎兵旅。该部队最近在Facebook上发布了自身使用该炮塔的视频。\n\n颇具讽刺意味的是，发布或分享这些画面的乌克兰网站均未提及Steam Deck的存在——相反，是观看视频并认出该设备的网民将其推向了更广泛的公众视野。托勒推测，乌克兰部队“可能只是以为这是一套标准的控制装置”，因此并没有为此大惊小怪。\n\nAndy自始至终都在PC上玩游戏，最初是在基于磁带的TRS80电脑上玩文字冒险和简陋动作游戏的年轻人。随后，他历经了Sierra Online冒险游戏和Microprose模拟游戏的辉煌时期，运营过本地BBS，自学了组装PC，并对角色扮演游戏、沉浸式模拟游戏和射击游戏产生了长期的热爱。他于2007年开始为The Escapist撰写电子游戏新闻，并在2014年加入历史悠久的PC Gamer团队之前一直设法保住了饭碗。他的报道涵盖行业各个方面，从新游戏发布、补丁说明到法律纠纷、Twitch主播争端、电子竞技以及亨利·卡维尔（Henry Cavill）。大量的亨利·卡维尔。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "乌克兰军队被披露使用Valve公司的掌机Steam Deck作为遥控武器炮塔的控制器。",
+          "TRO Media于4月中旬首次发布了Steam Deck据称用于控制炮塔的照片，随后出现的视频明确显示Steam Deck被用于控制炮塔。",
+          "来源叙事重点：聚焦消费级游戏掌机 Steam Deck 被乌克兰军队用于遥控军用武器炮塔的意外场景，从软硬件适配性、开源 Linux 生态、低成本以及规避军规出口管制等角度，分析消费级电子产品向军事应用转化的合理性与实用价值。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T06:10:13.000Z",
+            "url": "https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/"
+          }
+        ]
+      },
+      {
+        "id": "story-red-meteor-and-milky-way-73ee972820088158",
+        "title": "每日天文一图（APOD）：2026年9月26日——镜中流星与银河",
+        "originalTitle": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:05:00.000Z",
+        "pubTime": "2026-09-26 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg?w=2000&#038;h=1334&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 26 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nMirrored Meteor and Milky Way\n\nExplanation: On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype Large-Sized Telescope ( LST-1 ). LST-1 is the first telescope constructed at the northern hemisphere site of the innovative Cherenkov Telescope Array Observatory . With 198 hexagonal mirror segments and a large, high-efficiency, pixelized camera, LST-1 is designed to detect extremely brief, atmospheric visible light flashes . Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as distant active galaxies and gamma-ray bursts. Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.\n\nAPOD’s email for image submissions has changed. Please see: APOD Submissions .\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: before and after\n\nCredit &#038; Copyright:\n\nAuthors &#038; editors:\n\nJerry Bonnell, Cecilia Chirenti, Robert Nemiroff, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 25 – Globular Star Cluster Omega Centauri\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "每日天文一图（APOD）：2026年9月26日——……\n每日天文一图\n探索宇宙！每天都会展示一张展现我们迷人宇宙的影像或照片，并由专业天文学家撰写简要说明。\n镜中流星与银河\n说明：8月15日，这颗英仙座流星划过了西班牙加那利群岛拉帕尔马岛罗克·德洛斯·穆查乔斯天文台（Observatorio del Roque de los Muchachos）上空的夜空。这道明亮且绚丽的流星余迹被定格在银河核心旁，银河中暗淡的星际尘埃云与璀璨的星光延伸至地平线上方。在这幅迷人的天象前景中，是原型大型切伦科夫望远镜（LST-1）直径达23米的反射镜。LST-1是创新的切伦科夫望远镜阵列天文台（Cherenkov Telescope Array Observatory）在北半球台址建造的第一台望远镜。LST-1拥有198块六边形镜面拼接单元和一台大型高效率像素化相机，旨在探测极其短暂的大气可见光闪烁。这些可见光闪烁仅持续约十亿分之一秒，由来自遥远活动星系和伽马射线暴等宇宙源的高能伽马射线触发。当然，在那天夜里，LST-1的部分镜面单元也反射出了明亮英仙座流星划过大气层时的闪光。\nAPOD接收投稿的电子邮件地址已更改。详情请见：APOD投稿页面。\nAPOD的NASA主站点正在迁移：从 apod.nasa.gov 迁至 science.nasa.gov/apod\n明日图片预告：之前与之后（before and after）\n致谢与版权：\n作者与编辑：\n杰里·邦内尔（Jerry Bonnell）、塞西莉亚·奇伦蒂（Cecilia Chirenti）、罗伯特·内米罗夫（Robert Nemiroff）、凯斯利·罗克利夫（Keighley Rockcliffe）\nNASA科学激活计划（NASA Science Activation）与密歇根理工大学（Michigan Tech. U.）\n随机APOD生成器\n昨日图片\nAPOD：2026年9月25日——半人马座欧米伽球状星团（Globular Star Cluster Omega Centauri）\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "8月15日，一颗英仙座流星划过西班牙加那利群岛拉帕尔马岛穆查乔斯罗克天文台上空的夜空。",
+          "图像前景展示了原型大尺寸望远镜（LST-1）直径达23米的反射镜面。",
+          "来源叙事重点：通过天文摄影展示英仙座流星、银河与切伦科夫望远镜阵列原型镜面（LST-1）同框的景象，普及高能伽马射线天文学探测原理及地面观测设施建设进展。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
+          }
+        ]
+      },
+      {
+        "id": "story-ermaniya-2120412172-html-4bbcb8d140d13641",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Бунт немецкой молодежи против войны с Россией вызвал бурную реакцию в Сети",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T07:37:10.000Z",
+        "pubTime": "2026-09-26 15:37",
+        "url": "https://ria.ru/20260926/germaniya-2120412172.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 15:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/germaniya-2120412172.html",
+            "publishedAt": "2026-09-26T07:37:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--for-llms-including-html-0966d3f1308faae0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A single function Jev-like wrapper for LLMs, including vision models",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:20:58.000Z",
+        "pubTime": "2026-09-26 12:20",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 12:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+            "publishedAt": "2026-09-26T04:20:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-4b77-b5dd-384e39a95140-07a0082743f092ca",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The climate doom-mongers now dread sovereign debt blowouts",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:00:33.000Z",
+        "pubTime": "2026-09-26 12:00",
+        "url": "https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f001bf6-96fb-4305-b402-16ca9a0451e1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "The same people are gnashing the same teeth and making the same arguments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-26 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T04:00:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--firms-curacao-regulator-73357b05975ffd41",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T05:00:28.000Z",
+        "pubTime": "2026-09-26 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
+        "imageUrl": "https://i.guim.co.uk/img/media/7282bbb4e8d0a71d5ea7c5597dc3f3c06555c7bf/213_0_6373_5100/master/6373.jpg?width=140&quality=85&auto=format&fit=max&s=cb11134b959d13fd118214842f538b25",
+        "fullContent": "Files could have seismic consequences for online casinos, including those accused of illegally targeting consumers\n\nThe secrets of thousands of online casinos have been laid bare in a vast leak of data that could have seismic consequences for offshore gambling firms, including some accused of illegally targeting consumers around the world.\n\nThe Casino Secrets leak reveals tens of thousands of previously confidential files stored by the gambling regulator on the Caribbean island of Curaçao.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "名为“赌场机密”（Casino Secrets）的数据泄露事件曝光了加勒比海岛屿库拉索（Curaçao）博彩监管机构存储的数万份此前保密的文件。",
+          "本次数据泄露事件揭露了数千家在线赌场的机密数据与离岸博彩公司的运作信息。",
+          "来源叙事重点：聚焦加勒比海库拉索岛博彩监管机构的海量机密数据外泄事件（Casino Secrets），着重揭露离岸博彩行业的隐秘运作网络，以及部分在线赌场涉嫌面向全球消费者进行非法拓展所可能引发的监管与法律震荡。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T05:00:28.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator"
+          }
+        ]
+      },
+      {
+        "id": "story-es-harnessing-power-html-806815ea9907325d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T02:40:01.000Z",
+        "pubTime": "2026-09-26 10:40",
+        "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-library-of-bacteria.jpg",
+        "fullContent": "by University of Colorado School of Medicine\n\nedited by Sadie Harley, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nAn estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when they develop resistance to antibiotics.\n\nTo overcome drug resistance and fight severe, hard-to-treat infections, researchers are turning to a type of virus found in nature that infects only bacteria: bacteriophages, or \"phages\" for short.\n\nA team of University of Colorado Anschutz School of Medicine researchers has spent the last 15 years compiling a library of phages to target especially stubborn bacteria that naturally live in the intestines.\n\n\"Phages have been used historically for decades as tools to understand molecular biology, but there's been a resurgence in interest in them due to the rising incidence of antibiotic-resistant bacterial infections,\" says Breck Duerkop, Ph.D., associate professor in the Department of Immunology & Microbiology. \"We can isolate viruses against infections that are difficult to treat, and some of the viruses will kill the bacteria very readily.\"\n\nJust like human cells, bacterial cells can be infected by viruses. Duerkop says nearly all bacteria have viruses that infect them, so phages are found in practically any environment where bacteria live. Viruses generally aren't considered living things, but they contain genetic material (DNA or RNA), and they can use host cells to make copies of themselves.\n\nIn human cells, according to the National Human Genome Research Institute, a virus gets inside a host cell by binding to a receptor on the cell surface, much like a key unlocking a door. Once inside, DNA or RNA from virus particles takes over cellular functioning and uses materials in the cell to create more virus particles, which can then infect other cells. Viruses disrupt cell activity and damage their host cells, sometimes killing them.\n\nPhages can poke holes through cell walls and inject genetic material directly into bacterial cells. Importantly, phages can't infect human cells, but they can cause similar damage inside bacterial cells as other viruses do in human cells.\n\nDuerkop's research group finds and isolates phages to study how they kill bacteria, how bacteria may become resistant to them, and how the phages can be combined with FDA-approved drugs to treat people with serious bacterial infections.\n\nThese researchers are especially interested in treatment-resistant bacteria. They primarily study Enterococcus faecalis and Enterococcus faecium, two highly drug-resistant bacterial species that normally live in the human gut without causing problems but can cause severe infections, especially in people with compromised immunity.\n\nOther antibiotic-resistant bacteria, including emerging pathogens like Enterobacter hormaechei and Klebsiella oxytoca, have also piqued the team's interest.\n\nTo find the right phages, the team gathers viruses from untreated wastewater, which contains these and other types of bacteria that make up the gut microbiome. After exposing the bacteria they're trying to target to the wastewater, the researchers grow the bacteria on agar plates (known as bacterial lawns). They wait a little while, then extract phages directly from the round plaques that form within the bacterial lawns.\n\nFrom there, the team uses a centrifuge to purify the phage samples and stores the phages in buffers in the refrigerator, where they are stable and have long shelf lives.\n\nDuerkop says he aims to keep a variety of phages on hand that can infect the bacteria his team is interested in. His team currently has more than 30 different viruses that infect enterococcal bacteria and roughly 15 to 20 that infect Enterobacter and Klebsiella.\n\n\"The idea of generating a library is you want some diversity,\" says Duerkop. \"Not every phage infects every type of bacteria. They're very specific.\" Phages can broadly infect strains of a particular bacterial species or be specific to a single strain, making them very precise.\n\nPhages have shown promise as a treatment for these types of infections. They can be combined with standard antibiotics and delivered orally or directly into the bloodstream via an IV, especially if the patient has a blood infection (septicemia). Phages have even been used topically to treat infected burns and other skin injuries.\n\nPhages aren't a cure-all, and bacteria can develop resistance to the phages themselves, but they can be an effective option when traditional antibiotics aren't working on their own. Duerkop says antibiotic-resistant bacterial infections aren't going away anytime soon, so it's essential to continue researching what phages can do.\n\n\"It's imperative that we explore creative ways to use phages in combination with antibiotics to target antibiotic-resistant bacteria,\" says Duerkop.\n\n\"We are just beginning to scratch the surface on the diversity of phages that have therapeutic potential. By continuing to study the biology of these phages, we stand to learn more about our natural world and the role of phages in it.\"\n\nProvided by University of Colorado School of Medicine\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "人体内估计生活着38万亿个细菌，其中只有一小部分对健康有害。",
+          "科罗拉多大学安舒茨医学院的研究团队在过去15年中构建了一个针对肠道难治细菌的噬菌体库。",
+          "来源叙事重点：重点报道科罗拉多大学科研团队历时15年构建噬菌体库的成果，强调噬菌体应对多重耐药肠道细菌的机制、应用前景（如与抗生素联用及多样化给药途径），以及从废水中分离纯化特定噬菌体的科研进展与临床潜力。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T02:40:01.000Z",
+            "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html"
+          }
+        ]
+      },
+      {
+        "id": "story-60926-gd-2120412082-html-1479d2e981b57fa2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Госдуме девятого созыва образуют 34 комитета и четыре постоянные комиссии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T07:36:34.000Z",
+        "pubTime": "2026-09-26 15:36",
+        "url": "https://ria.ru/20260926/gd-2120412082.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/0b/14/2056248724_0:144:3131:1905_650x0_80_0_0_45d26dc8258d49f39bf321bd2e7102fa.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 15:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/gd-2120412082.html",
+            "publishedAt": "2026-09-26T07:36:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--lot-more-mathematicians-67c50f59b62251aa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We're gonna need a lot more mathematicians",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T02:46:54.000Z",
+        "pubTime": "2026-09-26 10:46",
+        "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+        "imageUrl": null,
+        "fullContent": "[This is a guest post by Amit Sahai. This blog post was initially written in a different file format and converted using AI. — T.]\n\nWhen I was an undergraduate student, I remember talking with several students who felt that the pace at which the top students could understand new math concepts was far too fast for them. They, too, could understand the ideas, but it would take them much longer. Eventually, almost all of these students gave up their dream of pursuing research mathematics and found something else to do. I have been thinking about those students a lot in the last few days.\n\nThe research mathematics community consists largely of those of us who either rarely felt that way, or who felt it and managed to overcome it through hard work. We have had the good fortune to find a place in mathematics where we could make progress. But we are now entering a time for humility: a time when all of us are going to know what it feels like to be unable to keep up.\n\nThe AI systems I have worked with are already producing beautiful new ideas. They are doing far more than impressive calculations or quickly carrying out arguments that a strong human researcher would already understand. And we probably can’t even imagine the wonderful ideas that future systems will be capable of producing.\n\nWhen we feel that we cannot keep up, will we take that as a reason to leave research mathematics, like the students I am remembering? As more of us experience this, there will undoubtedly be a temptation to draw the same conclusion as they did: If the machines can move so much faster than us, perhaps we should find something else to do.\n\nFor our community to give up the work of understanding would be a profound abdication of our responsibility to humanity. Each of us is entitled to choose a different life. The responsibility I am talking about belongs to us collectively: to build a future in which humans can understand and contribute to the discoveries that will change our world. A future with meaningful human agency.\n\nStruggle is essential to understanding difficult concepts. Fortunately, this struggle can be shared. I have been blessed to experience this time and time again with my students and collaborators. Imagine a multitude of research groups, each with sustained support, each spending a term or a year trying to understand an extraordinary set of ideas produced by an AI system, with the help of AI systems. [1]\n\nThis may very well be among the most important mathematical work in the years to come, and we should support and prioritize it accordingly. This enterprise will require a significant expansion in the number of mathematically sophisticated human researchers available world-wide, as major breakthrough ideas accumulate.\n\nWhy should society want this? So far, this might sound like a utopian fantasy for us – a civilization focused on depth of human understanding, awash with mathematicians and physicists and the like. I would certainly love to live in such a world. And indeed there are deep philosophical reasons for society to move in this direction. But I think society has a much more immediate stake in making this possible, too.\n\nImagine that a future AI system proposes a radically new design for a one terawatt nuclear fusion power plant. It has found a way to sustain and control fusion that no human had conceived of. The design promises abundant, inexpensive, clean electricity. Robots stand ready to manufacture the components and build the plant.\n\nA terawatt is an insane amount of electrical power. We would be deciding whether to construct a machine that handles extraordinary flows of energy using principles we have never conceived of, let alone put into practice. We would need to understand how failures can be contained, what happens to energy already stored in the system when it shuts down, how we can be sure that the materials that make up the power plant behave as expected, and what other questions we should ask before proceeding. The very novelty that makes the proposal exciting would mean that we cannot inherit confidence from decades of operating similar plants or experiments.\n\nBefore approving construction, I would want communities of humans to understand why the design works and what justifies confidence in its safety. I would hope that we all would.\n\nHuman involvement does not automatically improve a technical decision , and I see no reason to insist that humans manually repeat work an AI system might be able to perform more reliably, even including proving mathematical guarantees. But a theorem can only exist within a model. Understanding the guarantee means understanding the model, the experimental evidence for it, and our uncertainties about the accuracy of the model. This is demanding work, and mathematically sophisticated people must be available to engage with it.\n\nOne might respond that AI systems should handle those questions too, and ultimately decide whether the plant should be built. That is a serious position. But it asks us to accept a future in which decisions of enormous consequence rest on reasons that no human community understands.\n\nI do not want us to arrive at that future simply because we failed to invest in our own capacity to understand. Human agency is a value of fundamental importance. We must retain the ability to meaningfully consider alternatives and decide what kind of world we want to be a part of building. I think it is worth the effort. [2]\n\nTo take on this responsibility, we may need to broaden our view of what a mathematician can contribute. I have in mind something like a “deployable intellectual reserve”: communities of mathematically sophisticated people that humanity can call upon to help understand consequential AI-enabled breakthroughs.\n\nOur ability to understand difficult and unfamiliar ideas may become one of the most important contributions we can offer to society. We should be willing to bring that skill to problems far beyond our usual research interests. [3] Doing so asks us to expand our sense of our vocation.\n\nA counter-argument might be that AI systems will make each of us so much more effective that fewer people could do this work, even as the pace of discovery accelerates. But each of us is merely human. We have fundamental limitations based on our biology. Depth of understanding needs time and a pace of life that humans can sustain. Each individual human can only be asked to do so much, but through earnest cooperation we can accomplish much more.\n\nIf AI fulfills its promise, we will encounter more beautiful and consequential ideas than we have ever seen. We must respond by building thriving human communities that can understand them together.\n\nWe’re gonna need a lot more mathematicians.\n\nThe ideas and opinions presented here are entirely my own, but GPT 6 Astra was instrumental in helping me draft this note. I also thank my former student Dakshita Khurana, my current student Isaac Hair, my colleague Terence Tao, and my family members Anant Sahai and Gireeja Ranade for valuable feedback. Note that there is much more to be said here, but I tried to keep this relatively short to focus succinctly on my primary thoughts.\n\n[1] By this, I do not mean to imply that only AI-created results will be of interest in the future. But for major results generated by humans, we already have a tradition of spending extended periods of time studying them.\n\n[2] And the relevant understanding cannot belong only to the organization proposing the technology. Imagine a public hearing at which the company’s experts are the only people capable of following the technical argument. Independent expertise is critical.\n\n[3] Indeed, AI systems are likely to be very helpful in allowing researchers with diverse backgrounds to talk effectively with one another, and more generally understand unfamiliar concepts.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该博文为 Amit Sahai 在 Terence Tao 的博客上发表的客座文章（guest post）。",
+          "该博文最初以其他文件格式撰写，并使用 AI 进行了转换。",
+          "来源叙事重点：呼吁在 AI 驱动发现的时代大幅增加数学家储备。核心叙事在于：AI 正在产生超出单个人类直觉的新思想，人类不应因无法跟上节奏而放弃研究，而应组建由精通数学的研究人员构成的“可部署智力储备”，以深入理解和审验 AI 提出的突破性方案（如高风险的核聚变电厂设计），从而在重大科技决策中捍卫人类能动性与独立验证权。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T02:46:54.000Z",
+            "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4b1f-a737-504be06c7c5a-df1f5d2b6987db5a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cyber security stocks are pumped up on P(doom)",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T04:00:33.000Z",
+        "pubTime": "2026-09-26 12:00",
+        "url": "https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fedb83391-04b8-404a-9865-cab9de7996d1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Besieged by growing cyber threats, organisations are hurling money at the problem",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-26 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T04:00:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-c-arrests-study-suggests-367eade0afdc0e8d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T05:00:28.000Z",
+        "pubTime": "2026-09-26 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+        "imageUrl": "https://i.guim.co.uk/img/media/6ebd887ad6bdee1965137452cc6a501e61e00a2c/502_0_7562_6048/master/7562.jpg?width=140&quality=85&auto=format&fit=max&s=b1e107158d8709578bd1201cbeabaaba",
+        "fullContent": "New research suggests the technology could be used to increase out-of-hospital access to life-saving devices\n\nDrones could help cut the time it takes to get a defibrillator to people experiencing cardiac arrests when not in hospital, researchers have suggested.\n\nIn the UK alone, there are more than 30,000 out-of-hospital cardiac arrests a year where emergency medical services attempt to resuscitate the individual, according to the British Heart Foundation. However, fewer than one in 10 people survive such an event, and some who do are left with neurological problems.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "在英国，每年有超过30,000起院外心脏骤停事件中急救医疗人员会尝试进行复苏。",
+          "在院外心脏骤停事件中，生存率低于十分之一，部分幸存者会遗留神经系统问题。",
+          "来源叙事重点：以英国院外心脏骤停极低存活率为背景，聚焦前沿科研推论，将无人机配送除颤器塑造为缩短黄金急救时间的潜在突破性方案"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T05:00:28.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790387385729,
     "timeDisplay": "2026-09-26 09:49 (UTC+8)",
     "date": "2026-09-26",
