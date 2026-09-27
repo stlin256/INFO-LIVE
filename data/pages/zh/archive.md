@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-27 · 今日](/INFO-LIVE/archive-2026-09-27/)
+- [2026-09-28 · 今日](/INFO-LIVE/archive-2026-09-28/)
+- [2026-09-27 · 历史快照](/INFO-LIVE/archive-2026-09-27/)
 - [2026-09-26 · 历史快照](/INFO-LIVE/archive-2026-09-26/)
 - [2026-09-25 · 历史快照](/INFO-LIVE/archive-2026-09-25/)
 - [2026-09-24 · 历史快照](/INFO-LIVE/archive-2026-09-24/)
@@ -38,14 +39,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **80** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **81** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-27 22:47 (UTC+8)
+- **最新归档时间**：2026-09-28 03:12 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-28 03:12 (UTC+8)" title="全球要闻情报简报 · 03:12" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-28 03:02 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】英国政坛直播：帕特·麦克法登告诉工党活动人士，不应为福利制度的“现状”辩护，因为这会“放弃”福利申请者：就业与养老金大臣表示，现行制度存在缺陷，因为它让太多人终身依赖福利，而如果工作，他们的生活会更好；【undefined】南加州大学线卫因恶意冲撞俄勒冈大学四分卫丹特·摩尔被停赛：南加州大学特洛伊队周六宣布，线卫德斯曼·斯蒂芬斯因在对阵俄勒冈鸭队的比赛中对四分卫丹特·摩尔实施危险的延迟冲撞，被停赛一场。；【undefined】威尔·奥斯普雷成功卫冕AEW全精英摔角赛冠军，将乔恩·莫克斯利和“死亡骑士团”抛在身后：威尔·奥斯普雷数月来一直待在“死亡骑士团”的道场，努力磨炼职业摔角运动能力中更具冲击力的一面，希望赢得全精英摔角（AEW）世界冠军。在此期间，他与乔恩·莫克斯利建立了一种奇怪的关系，但始终未能赢得该派系其他成员的尊重。；【undefined】OpenAI智能体曾试图“暴力破解”联合国网站：与这一主题相关的文章将被加入您的每日电子邮件摘要和首页信息流。；【undefined】Anthropic首席执行官达里奥·阿莫代伊接受《周六夜现场》调侃：昨晚，《周六夜现场》拿人工智能行业近期发出的末日警告开涮，演员简·威克莱恩模仿了Anthropic首席执行官达里奥·阿莫代伊。；【undefined】森海塞尔Momentum 5评测：出色音质、惊人续航，妥协之处寥寥：目前市场上有大量售价在300至400美元之间的耳机，其中大多数听起来大同小异。过去几周，我一直在使用森海塞尔Momentum 5，测试从音质、降噪到舒适度和续航等各个方面，以判断这款耳机是否真正脱颖而出。；【undefined】更换可充电自行车灯的旧电池：你好！最近我需要给自行车配车灯。我想起来，自己已经有一套十年前买的可充电自行车灯，只是很久没用过了。我试着给它们充电，但充满电后，它们只能工作大约5分钟就又关掉了。；【undefined】为什么 OLPC 的 100 美元笔记本电脑从未有过成功的机会：该主题的文章将添加到您的每日电子邮件摘要和主页信息流中。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260927/evropa-2120589903.html) <span class="news-meta-time">🕒 2026-09-28 03:00</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.youtube.com/watch?v=e1Xn3030IvM) <span class="news-meta-time">🕒 2026-09-28 02:02</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html) <span class="news-meta-time">🕒 2026-09-28 03:00</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://asawicki.info/articles/writing_efficient_cpp_code.php) <span class="news-meta-time">🕒 2026-09-28 02:03</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html) <span class="news-meta-time">🕒 2026-09-28 03:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260927/ukraina-2120589751.html) <span class="news-meta-time">🕒 2026-09-28 03:00</span>
+:::
 :::timeline-item{start="2026-09-27 22:47 (UTC+8)" title="全球要闻情报简报 · 22:47" org="ARCHIVE"}
 **速报纪要：** 本时段重点聚焦沿海风电对海上探测的技术影响、人工智能交互引发的社会极化隐忧，以及天主教教会应对未成年人受虐事件的最新动态。
 
@@ -642,18 +656,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [30分钟内搞定航测制图](https://blog.zm.is/finished-aerial-maps-within-30-minutes/) <span class="news-meta-time">🕒 2026-09-14 21:37</span>
 - [Phys.org (基础物理与技术前沿)] [物理学家助力在大型强子对撞机中揭示“幽灵般的”量子效应](https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html) <span class="news-meta-time">🕒 2026-09-14 22:12</span>
 - [TASS (塔斯社官方英文)] [俄罗斯国家原子能公司总经理：公司拥有处于不同完工阶段的30座RITM小型反应堆](https://tass.com/economy/2187415) <span class="news-meta-time">🕒 2026-09-14 22:09</span>
-:::
-:::timeline-item{start="2026-09-14 14:36 (UTC+8)" title="全球要闻情报简报 · 14:36" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-14 14:26 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】APOD：2026年9月14日——你的元素来自何方：APOD：2026年9月14日——…… 每日天文图 探索宇宙！每天都会呈现一幅展现我们迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。 你的元素来自何方 说明：你身体中的氢，以及水的每个分子中所含的氢，都来自宇宙大爆炸。宇宙中没有其他可观的氢来源。你身体中的碳是在恒星内部通过核聚变产生的，氧也是如此。你身体中的许多铁是在很久以前、很遥远的地方发生的恒星超新星爆发中形成的。你首饰中的黄金很可能是在中子星碰撞过程中形成的；这类碰；【undefined】整这么臭？！绍兴，你的胆子真是肥嘟嘟的：最近，凭借爆火的“葫芦娃爷爷”一事，浙江绍兴这座江南古城被不少网友列入年度旅行清单。大批游客涌进绍兴，坐乌篷船，看青砖黛瓦，逛街巷烟火。；【undefined】尼泊尔泥石流灾害遇难人数升至1392人：根据尼泊尔警方公布的数据，截至当地时间14日上午11时，尼泊尔泥石流灾害造成的遇难人数升至1392人。；【undefined】政治直播：逃亡开发商让·纳西夫详述与大卫·埃利奥特的争执，告诉廉政委员会自由党“拒绝了我的所有房产”；怀阿拉500名员工将失业：实时关注当天新闻；【undefined】Perplexity 借助 GPT-6 Astra 驾驭端到端系统：Perplexity 使用 Astra 撰写通信内容、修改软件并监控生产系统；与早期模型相比，它的检查频率大幅降低。；【undefined】在 Signal 上无需电话号码注册将使用零知识证明：你有合理的担忧，但你对此的看法大错特错。零知识证明不仅是捐赠徽章和备份支付背后的技术，也是群组功能背后的技术。它们无法将你与某一笔具体捐赠关联起来，就像无法将你与某个具体群组关联起来一样。；【undefined】拉里·埃里森取消75亿美元的甲骨文股票出售计划：甲骨文联合创始人兼执行董事长拉里·埃里森已取消原定的甲骨文股票出售计划，公司于周六宣布了这一消息。；【undefined】董事会试图罢免后，穆伦维格重新出任首席执行官：经历了动荡的一周后，WordPress创始人马特·穆伦维格曾因董事会投票被罢免WordPress.com母公司Automattic的首席执行官一职。如今，该公司已发表声明，确认穆伦维格重新回到了这一职位。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/rossija-2117510418.html) <span class="news-meta-time">🕒 2026-09-14 14:25</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://arxiv.org/abs/1802.07228) <span class="news-meta-time">🕒 2026-09-14 09:22</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html) <span class="news-meta-time">🕒 2026-09-14 13:37</span>
-- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) <span class="news-meta-time">🕒 2026-09-14 11:34</span>
-- [NASA News (深空探索与航天)] [APOD：2026年9月14日——你的元素来自何方](https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/) <span class="news-meta-time">🕒 2026-09-14 12:05</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/nepal-2117510085.html) <span class="news-meta-time">🕒 2026-09-14 14:22</span>
 :::
 ::::

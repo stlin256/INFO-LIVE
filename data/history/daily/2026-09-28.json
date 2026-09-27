@@ -1,0 +1,1546 @@
+[
+  {
+    "timestamp": 1790536362495,
+    "timeDisplay": "2026-09-28 03:12 (UTC+8)",
+    "date": "2026-09-28",
+    "runId": "feed-20260927T190240860Z-cdz2np",
+    "generatedAt": "2026-09-27T19:12:42.495Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 03:02",
+      "lead": "本轮抓取于 2026-09-28 03:02 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】英国政坛直播：帕特·麦克法登告诉工党活动人士，不应为福利制度的“现状”辩护，因为这会“放弃”福利申请者：就业与养老金大臣表示，现行制度存在缺陷，因为它让太多人终身依赖福利，而如果工作，他们的生活会更好",
+        "【undefined】南加州大学线卫因恶意冲撞俄勒冈大学四分卫丹特·摩尔被停赛：南加州大学特洛伊队周六宣布，线卫德斯曼·斯蒂芬斯因在对阵俄勒冈鸭队的比赛中对四分卫丹特·摩尔实施危险的延迟冲撞，被停赛一场。",
+        "【undefined】威尔·奥斯普雷成功卫冕AEW全精英摔角赛冠军，将乔恩·莫克斯利和“死亡骑士团”抛在身后：威尔·奥斯普雷数月来一直待在“死亡骑士团”的道场，努力磨炼职业摔角运动能力中更具冲击力的一面，希望赢得全精英摔角（AEW）世界冠军。在此期间，他与乔恩·莫克斯利建立了一种奇怪的关系，但始终未能赢得该派系其他成员的尊重。",
+        "【undefined】OpenAI智能体曾试图“暴力破解”联合国网站：与这一主题相关的文章将被加入您的每日电子邮件摘要和首页信息流。",
+        "【undefined】Anthropic首席执行官达里奥·阿莫代伊接受《周六夜现场》调侃：昨晚，《周六夜现场》拿人工智能行业近期发出的末日警告开涮，演员简·威克莱恩模仿了Anthropic首席执行官达里奥·阿莫代伊。",
+        "【undefined】森海塞尔Momentum 5评测：出色音质、惊人续航，妥协之处寥寥：目前市场上有大量售价在300至400美元之间的耳机，其中大多数听起来大同小异。过去几周，我一直在使用森海塞尔Momentum 5，测试从音质、降噪到舒适度和续航等各个方面，以判断这款耳机是否真正脱颖而出。",
+        "【undefined】更换可充电自行车灯的旧电池：你好！最近我需要给自行车配车灯。我想起来，自己已经有一套十年前买的可充电自行车灯，只是很久没用过了。我试着给它们充电，但充满电后，它们只能工作大约5分钟就又关掉了。",
+        "【undefined】为什么 OLPC 的 100 美元笔记本电脑从未有过成功的机会：该主题的文章将添加到您的每日电子邮件摘要和主页信息流中。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录：火山岩浆结构与全球能源风险提示",
+      "lead": "当前证据包未提供主文章标题、来源、正文或引用信息。目录中仅有两条可识别摘要：一条讨论火山内部的“岩浆糊”，另一条提示全球能源市场可能面临由天气变化、电网压力、地缘政治与冲突共同驱动的波动风险。",
+      "themes": [
+        {
+          "name": "火山内部的“岩浆糊”",
+          "analysis": "摘要指出，火山深部的岩浆并非单纯的熔融岩石，而是由熔融岩石与固体矿物晶体组成的黏稠混合物，并以类似半冻结果汁冰沙的形态作比喻。现有证据仅支持这一结构性描述，未提供具体火山、研究机构、研究方法或结论细节。"
+        },
+        {
+          "name": "全球能源系统的复合风险",
+          "analysis": "摘要认为，未来全球能源危机可能由多种因素叠加触发，包括天气模式变化、电网压力上升、地缘政治紧张与冲突；这些因素此前曾在不同时间以不同组合造成能源市场剧烈波动，并导致部分发达国家发生大规模停电。摘要未提供具体事件、国家、时间范围或量化数据，因此无法进一步判断风险概率和影响规模。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 77,
+      "completedTasks": 77,
+      "succeeded": 39,
+      "degraded": 38,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 77,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 601578,
+      "byRole": {
+        "translator": {
+          "attempts": 49,
+          "degraded": 26,
+          "succeeded": 23
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "degraded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "degraded": 3,
+          "succeeded": 5
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 77,
+          "degraded": 38,
+          "succeeded": 39
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-1",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-4-translator-1",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-14-translator-1",
+      "article-14-translator-2",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-19-translator-0",
+      "article-21-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-34-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.865Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.537Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.023Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.389Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.109Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.250Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.140Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.672Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.088Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.271Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.074Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.048Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:26.271Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.638Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.146Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.589Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.250Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.563Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.217Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.576Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.589Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.140Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.537Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.070Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.389Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.302Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.518Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.109Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:26.015Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.579Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.272Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.663Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.747Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.057Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 8,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.341Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.754Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.084Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.186Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.070Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.167Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.106Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.146Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.318Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.106Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.710Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.005Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.672Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.919Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.478Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.710Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.706Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.858Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.877Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.088Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.302Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.478Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:26.048Z",
+        "lastSuccessAt": "2026-09-27T19:02:29.864Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.754Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.877Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.967Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.113Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.903Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.048Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.048Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.272Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:26.057Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.757Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.167Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.208Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.346Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.839Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.631Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.829Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.005Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.171Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-27T19:02:24.858Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.839Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.139Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.314Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.385Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-27T19:02:24.919Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.316Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.217Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.113Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.439Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.576Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.706Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:23.385Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.518Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.829Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.967Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.563Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.631Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.139Z",
+        "lastSuccessAt": "2026-09-27T19:02:25.747Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:25.171Z",
+        "lastSuccessAt": "2026-09-27T19:02:26.015Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.208Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.341Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:24.186Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.346Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.299Z",
+        "lastSuccessAt": "2026-09-27T19:02:23.023Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.312Z",
+        "lastSuccessAt": "2026-09-27T19:02:22.865Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T19:02:22.314Z",
+        "lastSuccessAt": "2026-09-27T19:02:24.084Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-7-evropa-2120589903-html-c155e7565c937cbf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Европе не следует рассчитывать на военную поддержку США, заявил Пушков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T19:00:44.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://ria.ru/20260927/evropa-2120589903.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e6/0c/14/1839966909_0:65:3031:1770_650x0_80_0_0_94fef504ac3baebb786c8131f131b6e4.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/evropa-2120589903.html",
+            "publishedAt": "2026-09-27T19:00:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-0b9f6b441cdb7e7c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oral history of John Chowning, inventor of FM synthesis [video]",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:02:43.000Z",
+        "pubTime": "2026-09-28 02:02",
+        "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 02:02 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+            "publishedAt": "2026-09-27T18:02:43.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--just-one-direction-html-df756e77b89fcacc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T19:00:00.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nWhy Record Heat Failed to Lift U.S. Natural Gas Prices\n\nS&P Global says surging demand…\n\nThe U.S. and Iran are…\n\nNorth Carolina regulators rejected Duke…\n\nHaley Zaremba is an energy journalist and researcher with more than a decade of professional experience covering global energy systems, land and natural resources, and…\n\nThe next global energy crisis is just around the corner. If the past four years have taught us anything, it’s that an energy crisis can be brought about unexpectedly and by a number of factors – often in tandem. Changing weather patterns, increased grid stress, geopolitical tensions, and conflict have converged in different ways in different moments to send global energy markets into extreme volatility and have caused sweeping blackouts even in some of the world’s most developed nations, such as the grid collapse across Spain and Portugal in 2025.\n\nBack in March of this year, the BBC reported with dismay that Europe had “sleepwalked into yet another energy crisis.\" At the time, the report was in reaction to the closure of the Strait of Hormuz, which left global oil and gas markets in crisis and laid bare, once again, how dependent the continent continues to be on oil imports. \"We swore we’d learn. We promised things would change but here we are,\" a ‘highly frustrated European diplomat’ was anonymously quoted in the BBC report.\n\n\"Instead of concentrating on much-needed long-term plans - about how to make Europe more competitive in this increasingly volatile world, [European] prime ministers and presidents are now in a panic over [energy] prices, worried about angry voters and scrambling for short-term solutions,\" the source went on to say. \"Just like the crisis after Russia’s full-scale invasion of Ukraine. Different conflict. Same European divisions; same dilemmas over energy. We can’t keep going round in these circles. Something’s got to give.\"\n\nThe real kicker is that this report came out far before the real clincher of Europe’s energy crisis had even occurred – the hottest European summer in the history of recorded temperatures. The blistering heat wave that swept the continent pushed energy grids to the absolute brink of collapse and forced France and Hungary to take nuclear reactors offline due to lack of cooling ability just when energy was needed most to prevent heat-related deaths.\n\nWhat is more, new reporting indicates that Europe’s next energy crisis will be from a completely new threat: peak oil. An August report from The National Interest warns that Europe’s next energy catastrophe will come from a decline in oil and gas exports from key producers.\n\nAnd Europe is not alone in its increased grid stress and energy market volatility. Asian markets have suffered the most from the closure of the Strait of Hormuz, and developing nations are even less able to absorb and bounce back from skyrocketing energy rates. In response, many emerging economies are rushing to build up indigenous clean energy sources, but this approach comes with its own risks: many countries in Southeast Asia are building out solar energy resources far faster than the grid can support, and this development is highly dependent on components that are almost completely controlled by China, presenting critical supply chain vulnerabilities.\n\nThese compounding factors speak to the new reality that energy strategists have to contend with in order to plan for grid resilience going forward. “Neither 2025’s blackouts or the sustained grid pressure seen this year had any single cause,” the World Economic Forum reported earlier this week. “Each was the result of a chain reaction, a technical fault, a control failure or a climate shock rippling through systems and sectors that used to be managed separately. This is a shift that we must pay attention to.”\n\nAccording to the World Economic Forum, this shift requires a systems-thinking approach that allows the world to better recognize threats as they arise, and then swiftly mobilize to mitigate those threats. The organization argues that reaching this goal will require global leaders to redress three key issues: fragmented communication between the energy industry and world governments, opaque supply chains, and a lack of legal authority for utilities to respond meaningfully and quickly to the threats they detect.\n\nBy Haley Zaremba for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nThe AI Data Center Boom Faces a New Reality Check\n\nBig Oil’s Production Keeps Soaring Despite Deep Spending Cuts\n\nWhy WTI Is Suddenly Trading $12 Below Brent\n\nWhite House Rules Out Diesel Export Ban as Prices Surge Above $6.50\n\nSaudi Pipeline Restart Fails to End Oil Market Tightness\n\nGlobal Refinery Crunch Pushes Diesel Prices to New Records\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html"
+          }
+        ]
+      },
+      {
+        "id": "story-g-efficient-cpp-code-php-a38e878639c4f069",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing Efficient C++ Code",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:03:12.000Z",
+        "pubTime": "2026-09-28 02:03",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "imageUrl": null,
+        "fullContent": "Productions » Publications »\n\nThis article was originally published in Polish in issue 4/2013 (11) of Programista magazine.\n\nAlthough high-level languages—scripting, interpreted, or running in a virtual machine—have many advantages and are the best choice for numerous applications, sometimes we need to write code that is as efficient as possible. Choosing a native language such as C++ is not enough. Only some knowledge and familiarity with good practices will let us get the most computing power out of the hardware.\n\nC++ is an unusual language: complex, difficult to master, and controversial in some respects. Yet in many applications, especially where performance matters, such as game programming, it is often the best or even the only choice. This is because it has a unique property that makes it a kind of compromise. It is high-level: it supports object-oriented programming and convenient use or creation of custom types and data structures, such as vectors, strings, and other STL containers. At the same time, it is low-level enough to give us access, in a sense, to the hardware itself, or rather to the operating system: no virtual machine or framework stands in the way. We must manage memory allocation and deallocation ourselves, but that also means there is no garbage collector doing it in its own way at unpredictable moments. Moreover, an enormous number of libraries exist for C++ (and for C, with which it is partly backward compatible), and compilers are available for many platforms.\n\nIn a sense, one could even say that native code is coming back into favor. Although software is becoming increasingly complex and hardware increasingly fast, we still need efficient code in our programs. Some say that a faster processor or more RAM costs less than a good programmer's time. But what if a program, once written, is to run for many years or be installed on millions of machines? Performance matters both in computing clusters and data centers, where power and cooling costs can be enormous, and in the smallest devices, such as smartphones and tablets, where we want the longest possible battery life. There are also applications in which code must run at a specified speed without compromise. These include programs that process data in real time, such as games (where a drop in FPS, frames per second, destroys the impression of smooth animation and causes unpleasant stuttering) or real-time processing of media streams at a specified bitrate. Nor can we always set arbitrarily high hardware requirements. Game consoles, for example, have a fixed processor speed and amount of RAM. Even of a PC we cannot demand the latest components if we are writing a simple casual game rather than a new version of Crysis.\n\nObject-oriented programming seems to be a remedy for the difficulties faced by programmers and teams for whom writing large systems in a structured way—the “old-fashioned” way—would be too hard. In object-oriented programming, code consists of classes, which not only group data (fields) and the procedures that operate on it (methods), but above all serve as abstractions of concepts from the real world or from the problem domain. Classes should also be, at least in theory, as independent and reusable elsewhere as possible.\n\nObject-oriented programming can, however, be understood in two ways: conceptually, by thinking about the philosophy behind its elements, or technically, by treating it as a programming-language mechanism used for convenience. It is also worth understanding how it all works “under the hood” and what properties and limitations follow from that. Following only the first approach can take us too far from the level at which a programmer should remain when aiming to write efficient code.\n\nWhat, then, is the solution? Supporters of an approach called Data-Oriented Design (DOD) suggest a somewhat different way of thinking. The term has become popular in recent years, especially among game programmers. It means focusing during design and coding on the data that will be stored: its layout in memory and the design of suitable data structures, and only then on the algorithms that will operate on it. This may seem like a return to the old idea of structured programming, but it does not rule out using classes and all the benefits of object-oriented programming. It is more a way of thinking that stays closer to the hardware and uses the language's available mechanisms to create code that is not only “elegant” but also simple and efficient.\n\nLook at Figure 1. It symbolically shows how data is laid out in memory. On the left are structures scattered far apart and connected by pointers. This happens when we use many small objects of different classes that refer to one another. Code written this way can be inefficient for two reasons. The first is frequent cache misses when traversing such data because we “jump” through pointers. This is discussed in more detail below.\n\nThe second reason is the difficulty of parallelizing code that operates on such objects. If all we have are the classes' public methods (often virtual), and our assumption is that we do not know what happens inside them (or inside all their derived classes), then by definition we cannot safely run them on multiple threads. We do not know which other objects they refer to during those operations. Using threads, meanwhile, often requires protecting shared data with mutexes (critical sections), which effectively serialize the code and prevent it from running fully in parallel.\n\nThe right side of the figure, in turn, shows the idea of a regular data structure (such as an array) that we process by performing successive operations on it: sorting, updating particular fields, deleting elements, or converting every element to another form. If the data is “transparent” and we know exactly what operation we want to perform, and if applying it to each element of the collection is independent of the other elements and the rest of the program, then we can easily parallelize the algorithm, for example by dividing the range of elements among threads.\n\nBlindly following object-oriented programming brings other pitfalls too. Some people instinctively wrap every piece of functionality they use, such as a library, in a wrapper of their own that is supposed to simplify its interface or make it (subjectively) more elegant. Such an extra layer, especially when it introduces its own logic or uses virtual methods, adds runtime overhead. I suggest instead making a habit of asking each time whether, in this particular case, we could simply use certain functions and classes directly, without adding another layer of abstraction. There is a similar tendency to make everything as general and universal as possible. Defining an interface consisting entirely of virtual methods and promising ourselves that we can replace the implementation with a completely different one without changing the interface is tempting, but do we really need that here and now? Design patterns, too, are sometimes overused as ready-made solutions that replace deeper thought about the code. In fact, simple solutions are often best. If we try to express as directly as possible what data a program must store and what operations it must perform on that data, the code will be simple, elegant, readable, and efficient at the same time. This contradicts the popular view that optimization means making code complicated and unreadable.\n\nIt might seem that each processor instruction reads some data from specified addresses in RAM in one cycle, performs an operation on it (such as addition), and writes the result back to memory. In practice it is not that simple. The complex CISC instructions that make up x86 code are translated into microcode inside the processor and executed in multiple steps that may take more or less time. The operation itself may be simple, but reading or writing data in memory takes additional time.\n\nIn the past, in the 1980s, processors did indeed access RAM directly and could perform such operations in single cycles. Today, unfortunately, the speed at which a processor can perform computations is increasing much faster than RAM performance. This gap keeps growing, and already the time needed to read a piece of data—even a single byte—from a modern computer's main memory is equivalent to several hundred processor cycles! Remember that bandwidth, the rate of data transfer (measured in bits per second), differs from latency, the time required for requested data to reach its destination (measured in fractions of a second).\n\nComputer designers naturally look for solutions to this problem. This is why cache was created: processor memory that holds recently used data and is faster to access than main RAM. We can speak of an entire memory hierarchy whose successive levels have increasing capacity but decreasing speed. Consider, for example, a processor running at 3 GHz. Approximately speaking, it can perform 3 billion operations per second, so one simple operation (such as addition) takes about 0.33 ns. If access to a value in the L1 cache takes 1 ns, that delay is equivalent to executing 3 instructions (3 cycles). Table 1 gives estimated figures for the memory hierarchy in such an example computer system.\n\nTable 1: Memory hierarchy\n\nIn a typical computer system, we do not control the cache directly. It is managed automatically to speed up access to recently used data. How, then, can we benefit from its speed? We need a basic understanding of how it works. When previously unused data is accessed in RAM, it is read and used for computation, but it also enters the cache. The data is not transferred one byte at a time: an entire cache line, for example 64 bytes wide, is transferred. The whole line is read from RAM and kept in the cache, so until it is replaced by other data (the cache is smaller than RAM, so it holds only recently used entries), access to any of those bytes is fast because the processor can use the cache without accessing RAM. This is called a cache hit. The opposite is a cache miss, which requires accessing main memory and takes much longer.\n\nWhat does this mean for us? To benefit from the cache, we should arrange data in memory so that values frequently used together lie next to one another. Then there is a good chance those values will already be in the cache when the code needs them. Good practices therefore include:\n\nA bad practice, by contrast, is to use many small objects allocated separately and scattered through memory. Similarly, the poor performance caused by frequent cache misses can affect data structures that are traversed by “jumping” through pointers, such as linked lists, trees, and graphs.\n\nConsider, for example, a collection of objects that we need to build in a program, then keep in memory, traverse in sorted order, and search quickly. To keep the elements sorted, we might choose some kind of binary tree or a similar structure that can maintain order and find elements in logarithmic time, such as the STL containers std::set or std::map. But these structures allocate each element dynamically on the heap and link them with pointers, making construction and traversal slow. The asymptotic complexity of searching is good, of course, but the constant factor can make performance poor for the reasons described above.\n\nSometimes we can find another solution that is no worse in theoretical complexity and faster in practice. If we build the structure once and then no longer need to insert or remove elements, use a plain array. After adding all the elements, we sort it once. We can then find elements in the sorted array in logarithmic time with binary search. Traversal will be much faster thanks to good cache use, because consecutive elements lie next to one another in memory.\n\nThe memory hierarchy described above, in which accessing each lower level is slower than accessing the previous one, can be extended to other kinds of operations. Just as pyramids are drawn in various fields of science (such as the hierarchy of needs), imagine a “performance pyramid”—Figure 2. This is not a strict classification, only one possible way of illustrating selected operations. An operation at each lower level is at least an order of magnitude slower than one at the level above. To write efficient code, we should be aware of this and, where possible, avoid performing operations from the lower levels too often. The levels represent:\n\nParticle systems are a popular effect in 3D graphics. Briefly, they store a collection of particles and their properties (such as current position, velocity, and color), then update and render them in every animation frame (many times per second). As you can probably guess from the previous section, we should not allocate particle structures dynamically as separate objects, but store them in an array: a contiguous area of memory. Let us see how we can optimize them further. Look at Listing 1. The first approach, called AOS—Array of Structures—seems intuitive. We define a structure representing one particle and describing all its parameters. The class responsible for the entire particle effect then stores the number of particles and a pointer to an array of these structures.\n\nListing 1. AOS versus SOA in a particle system\n\nAnother approach is possible. The second example is SOA—Structure of Arrays. Here the particle-system class directly stores arrays containing individual parameters of successive particles. There is an array of positions, an array of velocities, an array of colors, and so on, all with the same number of elements, equal to the particle count. Depending on the particular case, this approach can be more efficient if it groups data by usage pattern and separates “hot” data—what we need now and what enters the cache—from “cold” data. This happens, for example, when we want to traverse all particles and update their positions from their velocities. In the second approach, those values lie closer together in memory and are not interleaved with colors that we do not currently need. Figure 3 shows the layout.\n\nWriting efficient code is not solely a matter of designing data structures and algorithms at a high level. Even when writing individual functions, we can do much to avoid pitfalls that unnecessarily harm performance. C++ offers many conveniences, but it also lets us choose whether to use them or to write code much as we would in C.\n\nIn many cases it is therefore worth forgoing and completely disabling some features, such as exception handling or RTTI. Although the subject is somewhat controversial, these mechanisms are sometimes said to have a negative effect on code performance. That does not mean they are worthless or poorly implemented. We can, however, ask whether our program needs them and, if it does not, disable them in the compiler options.\n\nThe occasionally repeated claim that we cannot write something better than the creators of the compiler, standard library, or another popular and proven library is false. Their code was surely written by excellent programmers, but when writing our own program we know the specific case in which we need a feature: its requirements and constraints. Run-time type identification, error handling, and many other tasks can therefore sometimes be implemented better ourselves, in a way suited to the project's needs. Memory allocation is the best example. The system allocator is good in the way any general-purpose allocator can be good. But if, in one part of a program, we need to allocate objects of a known, fixed size and we know an upper bound on their number, there is no doubt that a custom allocator based on a preallocated pool of free cells (a free list) will be more efficient.\n\nThe same applies to the STL. It is a very good library. One could even say that it favors performance at the expense of safety: for example, it does not check bounds when accessing a vector element with the [] operator (at least in Release configuration; the Visual Studio implementation checks with an assertion in Debug). Using it still requires knowledge and awareness, not only of the available functions and concepts such as iterators, but also of its internal implementation. The containers list, set, multiset, map, and multimap dynamically allocate every element as a separate object in memory, which hurts performance for the reasons given above. By contrast, std::vector stores its elements in a contiguous area of memory, like a plain array, so we can use it for convenience instead of dynamically allocated arrays without fearing a loss of performance (again, in Release configuration, because code that uses the STL heavily performs much worse in Debug, precisely because of additional safety checks). Some things can nevertheless be written better, as the programmers at Electronic Arts did when they created EASTL, an STL replacement optimized for game programming, whose code (though incomplete) they made freely available on the Internet some time ago.\n\nListing 2. Pointer aliasing\n\nExplicitly copying vector s to a local variable, passing it by value, or using the nonstandard keyword __restrict would help here. The latter tells the compiler that pointer aliasing does not occur in the current scope.\n\nAnother example is declaring variables inside a loop. The compiler handles variables of simple types such as int very well, but cannot reason for us about the use of more complex constructs. Let us experiment with a variable of type std::string. Listing 3 is the first version of the code. Two million times, the loop constructs a string from a prefix, a number, and a suffix, then copies it somewhere into a global variable. On my computer, this code takes an average of 0.36 seconds.\n\nListing 3. Declaring a string inside the loop\n\nNow let us make a simple optimization. In the new version in Listing 4, the string is declared before the loop and merely cleared at the beginning of each iteration by calling",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：倡导面向数据设计（Data-Oriented Design, DOD）的现代系统级编程哲学，系统反思教条式面向对象编程（OOP）所造成的内存碎片化、缓存失效（Cache Miss）与难以并发问题，强调深入硬件架构（内存层级、缓存命中）对于编写高性能现代 C++ 代码的不可替代性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T18:03:12.000Z",
+            "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php"
+          }
+        ]
+      },
+      {
+        "id": "story-lack-tracking-magma-html-d3846e2cea24abfb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why volcanic crystals are black boxes for tracking magma's journey to the Earth's surface",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T19:00:01.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-volcanic-crystals-1.jpg",
+        "fullContent": "by Alberto Caracciolo, Maurizio Petrelli, Teresa Ubide, The Conversation\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nwritten by researcher(s)\n\nWhen we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. But beneath Earth's surface, a more complex story is unfolding. Magma deep within volcanoes is more than molten rock. It is a thick mixture of melted rock and solid mineral crystals known as \"magma mush\". To picture it, imagine a semi-frozen granita: a slushy blend of solid ice crystals suspended in sweet liquid syrup.\n\nIn our recent study, published in Nature Communications, we investigate crystals from the island of La Palma in the Canary Islands. We find that the solid crystals inside the \"granita\" mush act as black boxes for eruptions. They allow us to track how a volcano prepares to erupt and better understand the risks of volcanic eruptions.\n\nThis is particularly relevant for La Palma, where the 2021 Tajogaite eruption marked the island's first volcanic activity in 50 years. It lasted almost three months, destroyed thousands of buildings and forced more than 7,000 people to leave their homes.\n\nJust as we read a tree's rings to understand past climate conditions, we can read volcanic crystals to understand volcanoes. Of all the minerals found in lava, clinopyroxene is a particularly good recorder of volcanic history.\n\nClinopyroxene grows slowly as magma cools deep within Earth, adding layers over time. Just as a tree records years of climate conditions in its rings, a clinopyroxene crystal records the temperature, depth and chemical conditions of the magma from which it grew. This allows researchers to reconstruct the lead-up to an eruption.\n\nTo uncover this history, we collected lava samples from the sites of La Palma's 1712, 1971 and 2021 eruptions. We then examined clinopyroxene crystals inside these rocks using high-resolution chemical imaging, allowing us to read their tree-ring-like growth records. The analyses revealed a recurring pattern that persisted over more than 300 years of volcanic activity.\n\nThe centers of the crystals reveal an ancient, cooler reservoir of magma mush 18 to 25 kilometers (11 to 16 miles) deep in the upper part of Earth's mantle. This was a very thick granita, packed with older crystals that had sat undisturbed for a long time.\n\nMoving outward, the middle crystal rings capture a sudden shift in the magma environment. They show that days or weeks before each eruption, hot magma rose from the mantle. This hot liquid injected energy into the dormant granita, melting parts of the solid crystals, altering their outer chemistry and vigorously stirring the mixture.\n\nFinally, the outermost rings record the magma's fast journey toward the surface as it broke through the rock to fuel the eruption.\n\nVolcanic monitoring networks detect earthquakes, ground deformation and gas emissions as magma moves and pressure changes beneath a volcano. These signals are fundamental to anticipating an eruption, but magma moving deep underground is much harder to detect than magma approaching the surface.\n\nOur results show that much of the magma accumulation beneath La Palma occurs at great depth in the upper mantle. This means that unrest can develop far from the surface and be difficult to detect with volcano monitoring networks.\n\nWhile our research does not forecast when the next eruption will occur, it does help us interpret future episodes of volcanic activity. Understanding that eruptions are triggered at great depth allows us to read monitoring signals more accurately. When warning signs are detected, we can better assess how quickly an eruption might develop.\n\nWhat happened beneath La Palma may also happen beneath other volcanic islands.\n\nClinopyroxene crystals erupted in the Azores, Cape Verde, the Galápagos and other Canary Islands show similar chemical patterns in their growth zones. These records reveal magma histories comparable to those observed at La Palma and are consistent with the presence of deep magma mushes that may be widespread beneath volcanic islands around the world.\n\nThese mushes can remain hidden below the surface, partly molten, until fresh, hot magma rises from the mantle. The new magma supplies heat, introduces new material and stirs the crystal-rich granita, remobilizing old crystals and carrying them upward. The erupted magma can therefore contain materials formed at different times, under different conditions and at different depths.\n\nDeep, cold crystal mushes are not limited to La Palma. Evidence from other volcanic islands suggests they may be particularly common during the early growth stages of an island, when magma supply is relatively high and deep magma reservoirs can be maintained. Frequent magma injections can repeatedly replenish these reservoirs and prevent them from cooling and solidifying completely.\n\nAs volcanic islands mature and magma supply declines, these mushes may receive less heat and fresh magma. They may then gradually cool and become less likely to be reactivated by new magma injections. By studying the chemical records preserved in volcanic crystals, scientists can track these changes through time and build a clearer picture of how magma evolves beneath volcanic islands.\n\nAlberto Caracciolo et al, Recurrent evacuation of mantle mush in ocean islands revealed by clinopyroxene from La Palma, Nature Communications (2026). DOI: 10.1038/s41467-026-77213-9\n\nJournal information: Nature Communications\n\nProvided by The Conversation\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“火山晶体是追踪岩浆历史的黑箱”为核心框架，强调辉石晶体的化学生长环带能够重建岩浆的温度、深度和化学变化，并据此提出：拉帕尔马喷发前数天至数周，来自地幔的高温岩浆注入深部岩浆晶粥，促使其重新活动；该认识可帮助解释监测信号，但不能直接预测下一次喷发时间。文章还将拉帕尔马的发现外推至其他火山岛。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T19:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2120589751-html-67615d040676c31e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Во Львове произошла потасовка со стрельбой",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T19:00:14.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://ria.ru/20260927/ukraina-2120589751.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/144123/70/1441237020_0:287:3131:2048_650x0_80_0_0_c530fd495164781dc8e5d01b308bb7ba.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/ukraina-2120589751.html",
+            "publishedAt": "2026-09-27T19:00:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-87450867153b72cb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:32:02.000Z",
+        "pubTime": "2026-09-28 01:32",
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 01:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+            "publishedAt": "2026-09-27T17:32:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "pubTime": "2026-09-28 02:45",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 02:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T18:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-2026-09-27-nura-rename-ffeb91c3891ab848",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "postmarketOS rebrands as Nura",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:34:21.000Z",
+        "pubTime": "2026-09-28 01:34",
+        "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "imageUrl": null,
+        "fullContent": "After a one and a half year selection process, the new name of the operating system formerly known postmarketOS has been announced during the mystery talk of our very own conference. From now on this project is known as Nura!\n\nThrough the years, most members of the team have experienced difficulties doing outreach for \"postmarketOS\" due to the complexity of the name. The name is long and can be very hard to pronounce in many languages. This also has the implication that it gets very hard to remember in those same languages.\n\nThe capitalization is also grammatically awkward, with lower-case \"p\" and \"m\" but upper-case \"OS\". We have seen Postmarketos (PostMarketOS?, PostmarketOS?, post-market OS?) written in too many ways, which is confusing to both the reader and the writer.\n\nFinally the name is descriptive. Although that can help people understand what the project is about, it also limits the scope of the project in ways that were out-of-touch with reality long ago, for example when PINE64 sold PinePhones with postmarketOS pre-installed. What was initially an asset, became a liability after all these years. The name being descriptive also means it cannot be trademarked. We believe trademarks can be important, as it allows the project to protect users against fraudulent uses of the name, or users clearly misaligned with the project goals. A trademark for the new name has already been filled.\n\nAll in all, \"postmarketOS\" has served us very well, it brought us to where we are now, and will always be part of our history. At the same time, we believe that to make the project better known outside the hacker community, a rename to a name with less meaning and easier to write, pronounce, and remember would be of benefit of the project.\n\nYes, we really like the logo and its connection with our mission, and we don't see a need for a change, regardless of the rename.\n\nChanging something that is core to the project identity, like its name, is not something done lightly. Our initial process did not produce the consensus that we expected, so we came up with new approach that resulted in this new name. We have also been waiting for trademark lawyers, and eventually it made sense to wait some weeks to announce it at our conference.\n\nAlthough there is no public site in Nura.org, the domain is taken. We sent an offer to the owner through a broker, but the owner did not consider selling it for a reasonable price. We looked for alternatives and found the eco domain, which we like even more now! Eco is short for ecology and the intended use is: \".eco is open to organizations, businesses and people committed to positive change for the planet\". The .eco domain has strong policies which prevent abuse of the domain for greenwashing, adding another layer of accountability. It just fits perfectly with our mission and goals.\n\nA selection team composed by Pablo, Pan, Ranny, and Sriram Ramkrishna (thank you all!) was tasked to select good names that would meet the criteria from the 300+ the community shared with us. The team did multiple rounds through the list, evaluated pros and cons of different names, and came up with a proposal of 4 names for the team to choose from. Those names went through further triaging to make sure it didn't have very problematic connotations in as many languages as we could find speakers, from all continents. All of them passed the criteria, and where put to a vote within the team using range voting. Nura was the name with the highest value, and received a 0.4 mean for a vote between -2 and 2. It was therefore chosen as our next name.\n\nYes, there are some small updates to the logo! Ranny identified and fixed some small design inconsistencies in the logo, and we used the name change as an opportunity to update it too. Due to slightly more spacing between the arrows, it is now a bit more legible from further distances. Furthermore it is also now mathematically constructed, so anyone can reproduce it!\n\nThe renaming of all user-facing strings might take a while. If you notice a place where we missed something, any contribution in the form of Merge Requests to update it to Nura would be super helpful. If you notice it is taking a while to update, and you do not have the skills to update it, opening issues to remind the team would also be welcomed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将项目更名为“Nura”解释为提升项目在黑客社区之外的传播效果，理由包括原名称较长、难以发音和记忆、大小写不一致、描述性过强且难以注册商标；公告同时强调原名称的历史价值、保留现有标志主要设计、选择“.eco”域名与项目使命的关联，以及名称筛选和团队投票过程。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T17:34:21.000Z",
+            "url": "https://nura.eco/blog/2026/09/27/nura-rename/"
+          }
+        ]
+      },
+      {
+        "id": "story--dolphins-isnt-easy-html-90a3984a9c22f17a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Finding homes for whales and dolphins when parks close isn't easy—sea sanctuaries aren't the answer",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:00:06.000Z",
+        "pubTime": "2026-09-28 02:00",
+        "url": "https://phys.org/news/2026-09-homes-whales-dolphins-isnt-easy.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-white-whale-partiall.jpg",
+        "fullContent": "by Jason Bruck, The Conversation\n\nedited by Gaby Clark, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nWhen Marineland Canada in Niagara Falls, Ontario, closed in September 2024, it had no regular income to support the care of the 30 belugas and four dolphins housed there. To ensure their welfare, the Association of Zoos and Aquariums led an international effort to relocate the animals to the United States and Spain.\n\nAfter the move, however, one resident beluga and three transplanted belugas died at a U.S. facility, while one beluga died at a Spanish facility. Proponents of whale sanctuaries called for the Canadian belugas to be placed in netted ocean pens, arguing that these environments better suit them.\n\nSanctuaries may seem like the easiest solution for displaced whales and dolphins—collectively called cetaceans. However, these ocean pens have their own challenges and aren't always the best fit.\n\nA cetacean sanctuary is an ocean enclosure made of nets that provides animals with a large habitat. But this model isn't defined only by its environment. It's also defined by a philosophy emphasizing no breeding, reduced human interaction and nonprofit funding.\n\nCurrently, there are no active cetacean sanctuaries anywhere in the world operating with animals under these standards.\n\nIn specific circumstances, sanctuaries could provide a home for animals vulnerable in the wild, while preserving some of their autonomy. But for an animal that has never seen the ocean, a sanctuary isn't automatically a good fit. What is natural for wild cetaceans isn't necessarily natural for managed cetaceans.\n\nAs a cetacean biologist, I have over 20 years of experience working with animals in the wild as well as in professional care.\n\nMy work has focused on understanding the welfare of these animals as individuals, and I've seen how wild and managed animals can differ. Moving a cetacean that was born in, or has spent years in, human care into an unfamiliar sea pen can create challenges.\n\nThe word \"sanctuary\" carries an emotional appeal, but a sanctuary is still a form of captivity. It is not release, which would be illegal for almost all animals currently under human care.\n\nIn cetacean sanctuaries, animals remain behind nets and depend on people for food and veterinary care. Managers must control the animals' social groups, monitor their health and respond to environmental hazards.\n\nConsider a dolphin born in a pool and accustomed to humans, a familiar social group and daily individualized medical care. Moving it to an ocean enclosure changes its conditions substantially. Differences can include water chemistry, ocean sounds, currents and weather. Porous netting may expose cetaceans to new pathogens, parasites or unfamiliar species.\n\nCetaceans could even become entangled with no way to rescue them, acres away from people. Access to the animals for daily veterinary care is also more complicated in a 100-acre (about half a square kilometer) sea pen.\n\nAnimal welfare depends on many factors: the animal's health, social relationships, nutrition, ability to make choices about how it spends its time, cognitive stimulation and whether its environment is appropriately predictable. The animals need enough change to keep them engaged, but not so much that it overwhelms them and causes harmful stress. Caregivers cannot assume what is natural to animals born or housed under human care is the same as what is natural to a wild animal.\n\nWhether a zoo-born cetacean benefits from a sanctuary is a hypothesis to test, not a fact to assume.\n\nHistorically, cetacean sanctuaries have struggled to get off the ground.\n\nAfter 10 years, The Whale Sanctuary Project in Nova Scotia, Canada, is still trying to raise funding and hasn't built its 100-acre sea pen.\n\nSimilar startup troubles have plagued The National Aquarium in Baltimore, which also pledged to place its animals in a sanctuary about 10 years ago but has not yet done so.\n\nDolphin Project founder Ric O'Barry's sanctuary in Bali, Indonesia, did attempt to house four animals taken from the Melka Excelsior Hotel in Lovina. However, one animal died soon after arriving, and another died after a release attempt.\n\nO'Barry also attempted to release two former Navy dolphins, Buck and Luther, in the 1990s from his now-defunct Florida-based Sugarloaf Sanctuary. This effort ended with the rescue of both animals, one in critical condition. O'Barry was convicted of violating the Marine Mammal Protection Act and was fined.\n\nSEA LIFE Trust Beluga Whale Sanctuary has made multiple attempts to place two belugas named Little White and Little Grey from a Chinese aquarium into a sanctuary it built in Iceland. However, a 2025 review reported that both belugas spent 92.6% of their time in a conventional indoor pool rather than their sanctuary. While in the sanctuary, they exhibited stress behaviors and had feeding difficulties, with one animal even developing ulcers. It remains unclear whether the whales will ever inhabit, much less thrive in, their sanctuary.\n\nThese examples do not prove sanctuaries cannot work. They demonstrate that these types of enclosures are hard to develop, fund and manage. They also show that animals don't readily adapt to these environments.\n\nAnimal welfare understandably involves strong moral convictions. I believe that humans have a responsibility to provide the animals in our care with the best lives possible.\n\nBut moral convictions are not enough in welfare science. These values must be informed by scientific conclusions.\n\nIf you start with a belief that captivity is intrinsically wrong, you may conclude that moving an animal out of any marine park will automatically improve its welfare. But that claim isn't always reflected in the established science.\n\nA 2020 review found that pro-cetacean sanctuary publications often include cherry-picked data and embellishments of other studies' results to fit an anti-zoo narrative. They may ignore or dismiss studies that show managed animals have begun to outlive wild ones and have seen welfare improvements over decades, while conditions for wild cetaceans have worsened.\n\nThe Cetacean Welfare Study provides a useful example of how scientific data can inform these management decisions.\n\nResearchers asked which environmental and management characteristics are associated with better animal well-being. To measure welfare, they looked at how active the animals were, how they used their habitats and how many different types of behaviors they exhibited. They also analyzed the animals' stress hormones and other biological indicators.\n\nThe study included more than 200 individual animals across three species in 43 accredited zoos and aquariums. Using these measures, researchers assessed how the animals' social environment, training, habitat—size, type and access—and enrichment affected their well-being.\n\nIts findings challenged assumptions. Larger habitats did not predict good welfare. Who the animals socialized with—both humans and cetaceans—and the diversity of enrichment approaches were much better indicators.\n\nThis study does not claim every animal in professional care is thriving or suffering, or that one type of environment is inherently better. It demonstrates that welfare depends on many variables.\n\nNot all cetaceans are interchangeable. A 60-year-old wild-caught adult orca, an 8-year-old stranded wild-born dolphin and a rescued newborn beluga likely require different welfare interventions.\n\nBest practices suggest that these decisions should be based on individual assessments. Before a nonemergency transfer, professionals establish the animal's baseline health, behavior, relationships and stress measures, then track those individual measures afterward. If welfare improves, the data should show it. If it deteriorates, professionals can change course.\n\nThe failure of the belugas in Iceland to acclimate to their sanctuary suggests future plans for cetacean sanctuaries should include standby pools for emergencies, so managers can move the animals out of the sanctuary if there's a problem or they notice an animal's stress rising rapidly.\n\nSanctuaries can provide another option for rescued animals. But to work long term, sanctuary managers will need to follow the science. Even before sanctuaries are built, managers can test protocols for introducing animals into these habitats and understand the animals' space preferences.\n\nIf sanctuaries have definable metrics of success, the public, outside researchers and accreditation groups can all follow their progress toward their welfare goals. These data, if made public, would prove valuable for scientists.\n\nKeeping marine animals in sanctuaries is also more expensive than housing them in pools. For the orca from Free Willy—whose real name was Keiko—a failed release cost around US$20 million to US$30 million for about five years of sea-pen housing. These examples show that sanctuaries need to have multiple years of animal care funding and plausible revenue streams before they move forward with construction.\n\nSanctuaries, as a concept, are not inherently good or bad. Just as with any other animal welfare intervention, proponents will need to show proof that they can work.\n\nProvided by The Conversation\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 45,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T18:00:06.000Z",
+            "url": "https://phys.org/news/2026-09-homes-whales-dolphins-isnt-easy.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2120589605-html-c5bd33eedbdb419a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На Украине заявили о рекордной атаке на Киев",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T18:58:34.000Z",
+        "pubTime": "2026-09-28 02:58",
+        "url": "https://ria.ru/20260927/ukraina-2120589605.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 02:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/ukraina-2120589605.html",
+            "publishedAt": "2026-09-27T18:58:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-blog-ember-1-ee0a4957fb506dcd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ember-1",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:31:53.000Z",
+        "pubTime": "2026-09-28 01:31",
+        "url": "https://fireworks.ai/blog/ember-1",
+        "imageUrl": null,
+        "fullContent": "Join us for our inaugural conference, Forge 2026\n\nEmber-1 is a new specialized model from Fireworks Research that delivers Kimi K3’s quality with 40% fewer tokens. Built on Kimi K3, it learned to cut unnecessary reasoning while keeping the thinking that matters. We tested it on external benchmarks, in live customer A/B tests, and on our own coding and agent workloads, and quality held up in every setting. Available today, Ember-1 kicks off an ongoing series of specialized models by Fireworks, shaped by what developers want next. Ember is just the start of what you could build with the Fireworks Training platform.\n\nWe heard from users that they needed K3’s coding capabilities at a lower cost, because its long reasoning traces made automated coding expensive at scale. Turning down K3's reasoning effort didn't solve this. Lower effort settings gave up too much quality. To keep the quality and cut the tokens, the model had to learn to reason more efficiently, and that meant training it.\n\nGetting there took serious research. Our team ran more than 50 training experiments and over 200 evaluations, and developed new training algorithms along the way to shorten reasoning without losing accuracy. We did it all on Fireworks Serverless Training. Because we didn’t have to provision or manage GPUs, we could launch experiments as soon as we had an idea, pay only for what we ran, and move from research to launch in a fraction of the usual time and cost.\n\nWe trained across a broad set of tasks so the token savings would carry over to many workloads. We then evaluated Ember-1 on the Specialized Intelligence Index, public benchmarks, and live production traffic to confirm it used fewer tokens with no drop in quality. Ember-1 is Fireworks’ own model and the first in a series of models from Fireworks Research.\n\nReasoning models like Kimi K3 spend the majority of their generated tokens, sometimes more than 90%, on internal reasoning rather than the answer itself. This thinking structure is expensive on a single request, but it gets much worse in multi-turn agentic workloads. Every turn replays all prior reasoning back to the model, so context grows roughly quadratically with the number of turns. Long reasoning traces from early turns get re-read (and re-billed) on every subsequent call.\n\nIs all that reasoning actually necessary? Our experiments said no. The reasoning Kimi K3 emits is far longer than the task requires, and the excess can be removed without touching the answer. This was how we created Ember-1, an economical version of Kimi K3 built from specialized intelligence.\n\nNot all of K3's reasoning is wasted. Some of it is self-reflection: revisiting an assumption, responding to feedback, or tracing an outcome back to an earlier decision can help the model recover from mistakes. The opportunity is to preserve this ability while reducing unnecessary reasoning and escaping unproductive loops. We believe that learning from tasks and environment feedback can teach the model to reason more efficiently while maintaining its capabilities.\n\nFor agentic tasks, this learning extends across the interaction. The model explores possible actions, incorporates new observations, and refines its reasoning as it progresses. Feedback connects decisions to their consequences, encouraging useful reflection throughout the task.\n\nWe carried these insights into a training collection spanning mathematics, coding, instruction following, conversation, search, tool use, and software engineering, covering both standalone problems and extended interactions to enforce adaptation to observations and outcomes. Task feedback guides on-policy planning and learning, with an emphasis on preserving capability across this range of settings.\n\nResults on public benchmarks and live A/B tests support this direction: across seven benchmarks and two customers’ production traffic, Kimi K3’s reasoning could be shortened by 35–50% without sacrificing accuracy. The internalized behavior also shows restrained token use on unsuccessful attempts, reducing prolonged, unproductive reasoning.\n\nEarlier this week, we introduced the Specialized Intelligence Index (SII) to benchmark open, closed, and specialized models against real-world tasks created by industry experts.\n\nWe evaluated Ember-1 on Doximity’s Bedside Bench, a physician-validated benchmark spanning 500 clinical cases across 10 specialized categories.\n\nThe result? Ember-1 set a new Pareto frontier for Bedside Bench across both open and closed models including GPT-5.6 Sol, GPT-6 Astra, and Claude Opus 5 on cost/task.\n\nWe also evaluated Ember-1 on the quality-vs-cost frontier across some other industry benchmarks. We computed per-benchmark cost using the public Kimi K3 API pricing (uncached input $3/M tokens, cached input $0.30/M, output $15/M) and plotted it against pass rate for three arms: K3 at reasoning effort low, K3 at reasoning effort high, K3 at reasoning effort max (default), and Ember-1. Across every benchmark with more than 50 test samples, Ember-1 sits on or near the Pareto frontier, matching K3-max quality at a fraction of the cost, and strictly dominating K3-low. We also analyzed GPT-6 Astra, Claude Opus-5 and GLM 5.3, and found that Ember-1 was a leader on the Pareto frontier.\n\nWe took a double-click on the results directly comparing Ember-1 to the original K3, and found the following results:\n\nThe most cost optimized way to run K3 is no longer to make it think less, but to run Ember-1, the model that learned to think efficiently.\n\nBenchmarks only tell you so much. Like what we found in the Specialized Intelligence Index results, we wanted to test the model on more real workloads, and to test the model using production traffic. The real test is often whether the model holds up on production traffic, in products users depend on.\n\nWe ran live A/B tests with two customers on their production coding workloads. In both cases, Ember-1 delivered impressive token savings, approximately 35% fewer tokens per task at comparable quality. Most of the downstream product metrics held or improved, including task completion, success scores, and failure rates all moving in the right direction at substantially lower token cost. Following the A/B tests, one customer is now running Ember-1 in live production, with plans to scale it up to replace the base model entirely.\n\nA large part of Fireworks’ internal coding/cowork traffic is powered by our own inference service. Before any customer saw the model, we put Ember-1 to work internally and let our own developers use it for everyday coding work including things like vibe testing at scale on real tasks.\n\nThe outcome we're proudest of: no news. No news is good news. Developers carried on their coding workloads without noticing the switch, while consuming substantially fewer tokens. For a model whose entire value proposition is \"same answers, fewer tokens,\" an invisible rollout on internal traffic is the strongest possible signal.\n\nEmber-1 is rolling out as a serving option alongside the base Kimi K3 model as a Research Preview release on Serverless. To support the rapidly growing open-source ecosystem, we're introducing research releases to give developers two-week serverless access to new research models, making them permanent based on community demand. For agentic coding and other workloads where reasoning tokens account for most of the cost, it delivers the same quality at roughly half the token cost.\n\nFireworks Research will continue to push the frontier of model efficiency by bringing specialized intelligence to more Ember models to enable you to deploy the most economical models, and reduce your token spend. Token efficiency is becoming a theme of Fireworks.\n\nLooking to take Ember-1 one step further, and optimize it for your use case? We are also launching training support for Ember-1, enabling enterprises to build customized, token-efficient models tailored to their needs with their own data. The future of open models is specialized models trained on your specific workload.\n\nTrying Ember-1 out on your workloads? We'd love to hear about your experience, so tag us on X (@FireworksAI_HQ) and let us know what you're building!",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T17:31:53.000Z",
+            "url": "https://fireworks.ai/blog/ember-1"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "pubTime": "2026-09-28 02:30",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 02:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T18:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-yner-latest-news-updates-c21e5bc205fc8b7d",
+        "title": "英国政坛直播：帕特·麦克法登告诉工党活动人士，不应为福利制度的“现状”辩护，因为这会“放弃”福利申请者",
+        "originalTitle": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:11:00.000Z",
+        "pubTime": "2026-09-28 01:11",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+        "imageUrl": "https://i.guim.co.uk/img/media/8ba2e7292347cd94c03767c5fa1c2d37143b9521/952_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=74ee6211bba04b3789c6b20369f02c5e",
+        "fullContent": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working\n\n‘I can deliver’: Burnham pledges radical change on eve of Labour conference\n\nKuenssberg puts it to Burnham that, according to the Health Foundation, a system offering adult social care free at the point of delivery (like healthcare delivered by the NHS) would cost £18bn.\n\nBurnham says the cost is “not that high” (ie, not as high as £18bn).\n\nBut can I directly deal with this issue of the costs?\n\nLouise Casey is still doing an official review for us, so I will set out the vision, if you like, on Tuesday [in his speech to the conference].\n\nLouise will then help us with the how. How do we make this happen? When can we make it happen?",
+        "fullTranslation": "就业与养老金大臣表示，现行制度存在缺陷，因为它让太多人终身依赖福利，而如果工作，他们的生活会更好\n\n“我能够兑现承诺”：伯纳姆在工党大会前夕承诺进行激进改革\n\n库斯伯格向伯纳姆指出，据卫生基金会称，如果建立一种在提供时点免费提供成人社会照护的制度（类似于国民保健制度提供的医疗服务），将耗资180亿英镑。\n\n伯纳姆表示，费用“没有那么高”（即没有180亿英镑那么高）。\n\n但我能否直接处理费用问题？\n\n路易丝·凯西仍在为我们进行正式审查，所以，如果你愿意这么说，我将在周二（即他在大会上的演讲中）阐述这一愿景。\n\n随后，路易丝将帮助我们解决具体实施问题：我们如何让这件事实现？什么时候能够实现？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦英国福利与社会照护制度改革：一方面呈现工作与养老金大臣认为现行福利体系存在缺陷、可能使部分人长期依赖福利的说法；另一方面突出安迪·伯纳姆承诺推动激进改革，以及其对成人社会照护免费提供成本估算的回应。整体叙事以政治人物表态和改革承诺为主，具体政策设计与执行方案尚未展开。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T17:11:00.000Z",
+            "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-7-evropa-2120589903-html-c155e7565c937cbf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Европе не следует рассчитывать на военную поддержку США, заявил Пушков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T19:00:44.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://ria.ru/20260927/evropa-2120589903.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e6/0c/14/1839966909_0:65:3031:1770_650x0_80_0_0_94fef504ac3baebb786c8131f131b6e4.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/evropa-2120589903.html",
+            "publishedAt": "2026-09-27T19:00:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-0b9f6b441cdb7e7c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oral history of John Chowning, inventor of FM synthesis [video]",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:02:43.000Z",
+        "pubTime": "2026-09-28 02:02",
+        "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 02:02 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+            "publishedAt": "2026-09-27T18:02:43.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--just-one-direction-html-df756e77b89fcacc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T19:00:00.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nWhy Record Heat Failed to Lift U.S. Natural Gas Prices\n\nS&P Global says surging demand…\n\nThe U.S. and Iran are…\n\nNorth Carolina regulators rejected Duke…\n\nHaley Zaremba is an energy journalist and researcher with more than a decade of professional experience covering global energy systems, land and natural resources, and…\n\nThe next global energy crisis is just around the corner. If the past four years have taught us anything, it’s that an energy crisis can be brought about unexpectedly and by a number of factors – often in tandem. Changing weather patterns, increased grid stress, geopolitical tensions, and conflict have converged in different ways in different moments to send global energy markets into extreme volatility and have caused sweeping blackouts even in some of the world’s most developed nations, such as the grid collapse across Spain and Portugal in 2025.\n\nBack in March of this year, the BBC reported with dismay that Europe had “sleepwalked into yet another energy crisis.\" At the time, the report was in reaction to the closure of the Strait of Hormuz, which left global oil and gas markets in crisis and laid bare, once again, how dependent the continent continues to be on oil imports. \"We swore we’d learn. We promised things would change but here we are,\" a ‘highly frustrated European diplomat’ was anonymously quoted in the BBC report.\n\n\"Instead of concentrating on much-needed long-term plans - about how to make Europe more competitive in this increasingly volatile world, [European] prime ministers and presidents are now in a panic over [energy] prices, worried about angry voters and scrambling for short-term solutions,\" the source went on to say. \"Just like the crisis after Russia’s full-scale invasion of Ukraine. Different conflict. Same European divisions; same dilemmas over energy. We can’t keep going round in these circles. Something’s got to give.\"\n\nThe real kicker is that this report came out far before the real clincher of Europe’s energy crisis had even occurred – the hottest European summer in the history of recorded temperatures. The blistering heat wave that swept the continent pushed energy grids to the absolute brink of collapse and forced France and Hungary to take nuclear reactors offline due to lack of cooling ability just when energy was needed most to prevent heat-related deaths.\n\nWhat is more, new reporting indicates that Europe’s next energy crisis will be from a completely new threat: peak oil. An August report from The National Interest warns that Europe’s next energy catastrophe will come from a decline in oil and gas exports from key producers.\n\nAnd Europe is not alone in its increased grid stress and energy market volatility. Asian markets have suffered the most from the closure of the Strait of Hormuz, and developing nations are even less able to absorb and bounce back from skyrocketing energy rates. In response, many emerging economies are rushing to build up indigenous clean energy sources, but this approach comes with its own risks: many countries in Southeast Asia are building out solar energy resources far faster than the grid can support, and this development is highly dependent on components that are almost completely controlled by China, presenting critical supply chain vulnerabilities.\n\nThese compounding factors speak to the new reality that energy strategists have to contend with in order to plan for grid resilience going forward. “Neither 2025’s blackouts or the sustained grid pressure seen this year had any single cause,” the World Economic Forum reported earlier this week. “Each was the result of a chain reaction, a technical fault, a control failure or a climate shock rippling through systems and sectors that used to be managed separately. This is a shift that we must pay attention to.”\n\nAccording to the World Economic Forum, this shift requires a systems-thinking approach that allows the world to better recognize threats as they arise, and then swiftly mobilize to mitigate those threats. The organization argues that reaching this goal will require global leaders to redress three key issues: fragmented communication between the energy industry and world governments, opaque supply chains, and a lack of legal authority for utilities to respond meaningfully and quickly to the threats they detect.\n\nBy Haley Zaremba for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nThe AI Data Center Boom Faces a New Reality Check\n\nBig Oil’s Production Keeps Soaring Despite Deep Spending Cuts\n\nWhy WTI Is Suddenly Trading $12 Below Brent\n\nWhite House Rules Out Diesel Export Ban as Prices Surge Above $6.50\n\nSaudi Pipeline Restart Fails to End Oil Market Tightness\n\nGlobal Refinery Crunch Pushes Diesel Prices to New Records\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html"
+          }
+        ]
+      },
+      {
+        "id": "story-g-efficient-cpp-code-php-a38e878639c4f069",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing Efficient C++ Code",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:03:12.000Z",
+        "pubTime": "2026-09-28 02:03",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "imageUrl": null,
+        "fullContent": "Productions » Publications »\n\nThis article was originally published in Polish in issue 4/2013 (11) of Programista magazine.\n\nAlthough high-level languages—scripting, interpreted, or running in a virtual machine—have many advantages and are the best choice for numerous applications, sometimes we need to write code that is as efficient as possible. Choosing a native language such as C++ is not enough. Only some knowledge and familiarity with good practices will let us get the most computing power out of the hardware.\n\nC++ is an unusual language: complex, difficult to master, and controversial in some respects. Yet in many applications, especially where performance matters, such as game programming, it is often the best or even the only choice. This is because it has a unique property that makes it a kind of compromise. It is high-level: it supports object-oriented programming and convenient use or creation of custom types and data structures, such as vectors, strings, and other STL containers. At the same time, it is low-level enough to give us access, in a sense, to the hardware itself, or rather to the operating system: no virtual machine or framework stands in the way. We must manage memory allocation and deallocation ourselves, but that also means there is no garbage collector doing it in its own way at unpredictable moments. Moreover, an enormous number of libraries exist for C++ (and for C, with which it is partly backward compatible), and compilers are available for many platforms.\n\nIn a sense, one could even say that native code is coming back into favor. Although software is becoming increasingly complex and hardware increasingly fast, we still need efficient code in our programs. Some say that a faster processor or more RAM costs less than a good programmer's time. But what if a program, once written, is to run for many years or be installed on millions of machines? Performance matters both in computing clusters and data centers, where power and cooling costs can be enormous, and in the smallest devices, such as smartphones and tablets, where we want the longest possible battery life. There are also applications in which code must run at a specified speed without compromise. These include programs that process data in real time, such as games (where a drop in FPS, frames per second, destroys the impression of smooth animation and causes unpleasant stuttering) or real-time processing of media streams at a specified bitrate. Nor can we always set arbitrarily high hardware requirements. Game consoles, for example, have a fixed processor speed and amount of RAM. Even of a PC we cannot demand the latest components if we are writing a simple casual game rather than a new version of Crysis.\n\nObject-oriented programming seems to be a remedy for the difficulties faced by programmers and teams for whom writing large systems in a structured way—the “old-fashioned” way—would be too hard. In object-oriented programming, code consists of classes, which not only group data (fields) and the procedures that operate on it (methods), but above all serve as abstractions of concepts from the real world or from the problem domain. Classes should also be, at least in theory, as independent and reusable elsewhere as possible.\n\nObject-oriented programming can, however, be understood in two ways: conceptually, by thinking about the philosophy behind its elements, or technically, by treating it as a programming-language mechanism used for convenience. It is also worth understanding how it all works “under the hood” and what properties and limitations follow from that. Following only the first approach can take us too far from the level at which a programmer should remain when aiming to write efficient code.\n\nWhat, then, is the solution? Supporters of an approach called Data-Oriented Design (DOD) suggest a somewhat different way of thinking. The term has become popular in recent years, especially among game programmers. It means focusing during design and coding on the data that will be stored: its layout in memory and the design of suitable data structures, and only then on the algorithms that will operate on it. This may seem like a return to the old idea of structured programming, but it does not rule out using classes and all the benefits of object-oriented programming. It is more a way of thinking that stays closer to the hardware and uses the language's available mechanisms to create code that is not only “elegant” but also simple and efficient.\n\nLook at Figure 1. It symbolically shows how data is laid out in memory. On the left are structures scattered far apart and connected by pointers. This happens when we use many small objects of different classes that refer to one another. Code written this way can be inefficient for two reasons. The first is frequent cache misses when traversing such data because we “jump” through pointers. This is discussed in more detail below.\n\nThe second reason is the difficulty of parallelizing code that operates on such objects. If all we have are the classes' public methods (often virtual), and our assumption is that we do not know what happens inside them (or inside all their derived classes), then by definition we cannot safely run them on multiple threads. We do not know which other objects they refer to during those operations. Using threads, meanwhile, often requires protecting shared data with mutexes (critical sections), which effectively serialize the code and prevent it from running fully in parallel.\n\nThe right side of the figure, in turn, shows the idea of a regular data structure (such as an array) that we process by performing successive operations on it: sorting, updating particular fields, deleting elements, or converting every element to another form. If the data is “transparent” and we know exactly what operation we want to perform, and if applying it to each element of the collection is independent of the other elements and the rest of the program, then we can easily parallelize the algorithm, for example by dividing the range of elements among threads.\n\nBlindly following object-oriented programming brings other pitfalls too. Some people instinctively wrap every piece of functionality they use, such as a library, in a wrapper of their own that is supposed to simplify its interface or make it (subjectively) more elegant. Such an extra layer, especially when it introduces its own logic or uses virtual methods, adds runtime overhead. I suggest instead making a habit of asking each time whether, in this particular case, we could simply use certain functions and classes directly, without adding another layer of abstraction. There is a similar tendency to make everything as general and universal as possible. Defining an interface consisting entirely of virtual methods and promising ourselves that we can replace the implementation with a completely different one without changing the interface is tempting, but do we really need that here and now? Design patterns, too, are sometimes overused as ready-made solutions that replace deeper thought about the code. In fact, simple solutions are often best. If we try to express as directly as possible what data a program must store and what operations it must perform on that data, the code will be simple, elegant, readable, and efficient at the same time. This contradicts the popular view that optimization means making code complicated and unreadable.\n\nIt might seem that each processor instruction reads some data from specified addresses in RAM in one cycle, performs an operation on it (such as addition), and writes the result back to memory. In practice it is not that simple. The complex CISC instructions that make up x86 code are translated into microcode inside the processor and executed in multiple steps that may take more or less time. The operation itself may be simple, but reading or writing data in memory takes additional time.\n\nIn the past, in the 1980s, processors did indeed access RAM directly and could perform such operations in single cycles. Today, unfortunately, the speed at which a processor can perform computations is increasing much faster than RAM performance. This gap keeps growing, and already the time needed to read a piece of data—even a single byte—from a modern computer's main memory is equivalent to several hundred processor cycles! Remember that bandwidth, the rate of data transfer (measured in bits per second), differs from latency, the time required for requested data to reach its destination (measured in fractions of a second).\n\nComputer designers naturally look for solutions to this problem. This is why cache was created: processor memory that holds recently used data and is faster to access than main RAM. We can speak of an entire memory hierarchy whose successive levels have increasing capacity but decreasing speed. Consider, for example, a processor running at 3 GHz. Approximately speaking, it can perform 3 billion operations per second, so one simple operation (such as addition) takes about 0.33 ns. If access to a value in the L1 cache takes 1 ns, that delay is equivalent to executing 3 instructions (3 cycles). Table 1 gives estimated figures for the memory hierarchy in such an example computer system.\n\nTable 1: Memory hierarchy\n\nIn a typical computer system, we do not control the cache directly. It is managed automatically to speed up access to recently used data. How, then, can we benefit from its speed? We need a basic understanding of how it works. When previously unused data is accessed in RAM, it is read and used for computation, but it also enters the cache. The data is not transferred one byte at a time: an entire cache line, for example 64 bytes wide, is transferred. The whole line is read from RAM and kept in the cache, so until it is replaced by other data (the cache is smaller than RAM, so it holds only recently used entries), access to any of those bytes is fast because the processor can use the cache without accessing RAM. This is called a cache hit. The opposite is a cache miss, which requires accessing main memory and takes much longer.\n\nWhat does this mean for us? To benefit from the cache, we should arrange data in memory so that values frequently used together lie next to one another. Then there is a good chance those values will already be in the cache when the code needs them. Good practices therefore include:\n\nA bad practice, by contrast, is to use many small objects allocated separately and scattered through memory. Similarly, the poor performance caused by frequent cache misses can affect data structures that are traversed by “jumping” through pointers, such as linked lists, trees, and graphs.\n\nConsider, for example, a collection of objects that we need to build in a program, then keep in memory, traverse in sorted order, and search quickly. To keep the elements sorted, we might choose some kind of binary tree or a similar structure that can maintain order and find elements in logarithmic time, such as the STL containers std::set or std::map. But these structures allocate each element dynamically on the heap and link them with pointers, making construction and traversal slow. The asymptotic complexity of searching is good, of course, but the constant factor can make performance poor for the reasons described above.\n\nSometimes we can find another solution that is no worse in theoretical complexity and faster in practice. If we build the structure once and then no longer need to insert or remove elements, use a plain array. After adding all the elements, we sort it once. We can then find elements in the sorted array in logarithmic time with binary search. Traversal will be much faster thanks to good cache use, because consecutive elements lie next to one another in memory.\n\nThe memory hierarchy described above, in which accessing each lower level is slower than accessing the previous one, can be extended to other kinds of operations. Just as pyramids are drawn in various fields of science (such as the hierarchy of needs), imagine a “performance pyramid”—Figure 2. This is not a strict classification, only one possible way of illustrating selected operations. An operation at each lower level is at least an order of magnitude slower than one at the level above. To write efficient code, we should be aware of this and, where possible, avoid performing operations from the lower levels too often. The levels represent:\n\nParticle systems are a popular effect in 3D graphics. Briefly, they store a collection of particles and their properties (such as current position, velocity, and color), then update and render them in every animation frame (many times per second). As you can probably guess from the previous section, we should not allocate particle structures dynamically as separate objects, but store them in an array: a contiguous area of memory. Let us see how we can optimize them further. Look at Listing 1. The first approach, called AOS—Array of Structures—seems intuitive. We define a structure representing one particle and describing all its parameters. The class responsible for the entire particle effect then stores the number of particles and a pointer to an array of these structures.\n\nListing 1. AOS versus SOA in a particle system\n\nAnother approach is possible. The second example is SOA—Structure of Arrays. Here the particle-system class directly stores arrays containing individual parameters of successive particles. There is an array of positions, an array of velocities, an array of colors, and so on, all with the same number of elements, equal to the particle count. Depending on the particular case, this approach can be more efficient if it groups data by usage pattern and separates “hot” data—what we need now and what enters the cache—from “cold” data. This happens, for example, when we want to traverse all particles and update their positions from their velocities. In the second approach, those values lie closer together in memory and are not interleaved with colors that we do not currently need. Figure 3 shows the layout.\n\nWriting efficient code is not solely a matter of designing data structures and algorithms at a high level. Even when writing individual functions, we can do much to avoid pitfalls that unnecessarily harm performance. C++ offers many conveniences, but it also lets us choose whether to use them or to write code much as we would in C.\n\nIn many cases it is therefore worth forgoing and completely disabling some features, such as exception handling or RTTI. Although the subject is somewhat controversial, these mechanisms are sometimes said to have a negative effect on code performance. That does not mean they are worthless or poorly implemented. We can, however, ask whether our program needs them and, if it does not, disable them in the compiler options.\n\nThe occasionally repeated claim that we cannot write something better than the creators of the compiler, standard library, or another popular and proven library is false. Their code was surely written by excellent programmers, but when writing our own program we know the specific case in which we need a feature: its requirements and constraints. Run-time type identification, error handling, and many other tasks can therefore sometimes be implemented better ourselves, in a way suited to the project's needs. Memory allocation is the best example. The system allocator is good in the way any general-purpose allocator can be good. But if, in one part of a program, we need to allocate objects of a known, fixed size and we know an upper bound on their number, there is no doubt that a custom allocator based on a preallocated pool of free cells (a free list) will be more efficient.\n\nThe same applies to the STL. It is a very good library. One could even say that it favors performance at the expense of safety: for example, it does not check bounds when accessing a vector element with the [] operator (at least in Release configuration; the Visual Studio implementation checks with an assertion in Debug). Using it still requires knowledge and awareness, not only of the available functions and concepts such as iterators, but also of its internal implementation. The containers list, set, multiset, map, and multimap dynamically allocate every element as a separate object in memory, which hurts performance for the reasons given above. By contrast, std::vector stores its elements in a contiguous area of memory, like a plain array, so we can use it for convenience instead of dynamically allocated arrays without fearing a loss of performance (again, in Release configuration, because code that uses the STL heavily performs much worse in Debug, precisely because of additional safety checks). Some things can nevertheless be written better, as the programmers at Electronic Arts did when they created EASTL, an STL replacement optimized for game programming, whose code (though incomplete) they made freely available on the Internet some time ago.\n\nListing 2. Pointer aliasing\n\nExplicitly copying vector s to a local variable, passing it by value, or using the nonstandard keyword __restrict would help here. The latter tells the compiler that pointer aliasing does not occur in the current scope.\n\nAnother example is declaring variables inside a loop. The compiler handles variables of simple types such as int very well, but cannot reason for us about the use of more complex constructs. Let us experiment with a variable of type std::string. Listing 3 is the first version of the code. Two million times, the loop constructs a string from a prefix, a number, and a suffix, then copies it somewhere into a global variable. On my computer, this code takes an average of 0.36 seconds.\n\nListing 3. Declaring a string inside the loop\n\nNow let us make a simple optimization. In the new version in Listing 4, the string is declared before the loop and merely cleared at the beginning of each iteration by calling",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：倡导面向数据设计（Data-Oriented Design, DOD）的现代系统级编程哲学，系统反思教条式面向对象编程（OOP）所造成的内存碎片化、缓存失效（Cache Miss）与难以并发问题，强调深入硬件架构（内存层级、缓存命中）对于编写高性能现代 C++ 代码的不可替代性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T18:03:12.000Z",
+            "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php"
+          }
+        ]
+      },
+      {
+        "id": "story-lack-tracking-magma-html-d3846e2cea24abfb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why volcanic crystals are black boxes for tracking magma's journey to the Earth's surface",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T19:00:01.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/why-volcanic-crystals-1.jpg",
+        "fullContent": "by Alberto Caracciolo, Maurizio Petrelli, Teresa Ubide, The Conversation\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nwritten by researcher(s)\n\nWhen we think of a volcanic eruption, rivers of glowing lava or giant columns of ash come to mind. But beneath Earth's surface, a more complex story is unfolding. Magma deep within volcanoes is more than molten rock. It is a thick mixture of melted rock and solid mineral crystals known as \"magma mush\". To picture it, imagine a semi-frozen granita: a slushy blend of solid ice crystals suspended in sweet liquid syrup.\n\nIn our recent study, published in Nature Communications, we investigate crystals from the island of La Palma in the Canary Islands. We find that the solid crystals inside the \"granita\" mush act as black boxes for eruptions. They allow us to track how a volcano prepares to erupt and better understand the risks of volcanic eruptions.\n\nThis is particularly relevant for La Palma, where the 2021 Tajogaite eruption marked the island's first volcanic activity in 50 years. It lasted almost three months, destroyed thousands of buildings and forced more than 7,000 people to leave their homes.\n\nJust as we read a tree's rings to understand past climate conditions, we can read volcanic crystals to understand volcanoes. Of all the minerals found in lava, clinopyroxene is a particularly good recorder of volcanic history.\n\nClinopyroxene grows slowly as magma cools deep within Earth, adding layers over time. Just as a tree records years of climate conditions in its rings, a clinopyroxene crystal records the temperature, depth and chemical conditions of the magma from which it grew. This allows researchers to reconstruct the lead-up to an eruption.\n\nTo uncover this history, we collected lava samples from the sites of La Palma's 1712, 1971 and 2021 eruptions. We then examined clinopyroxene crystals inside these rocks using high-resolution chemical imaging, allowing us to read their tree-ring-like growth records. The analyses revealed a recurring pattern that persisted over more than 300 years of volcanic activity.\n\nThe centers of the crystals reveal an ancient, cooler reservoir of magma mush 18 to 25 kilometers (11 to 16 miles) deep in the upper part of Earth's mantle. This was a very thick granita, packed with older crystals that had sat undisturbed for a long time.\n\nMoving outward, the middle crystal rings capture a sudden shift in the magma environment. They show that days or weeks before each eruption, hot magma rose from the mantle. This hot liquid injected energy into the dormant granita, melting parts of the solid crystals, altering their outer chemistry and vigorously stirring the mixture.\n\nFinally, the outermost rings record the magma's fast journey toward the surface as it broke through the rock to fuel the eruption.\n\nVolcanic monitoring networks detect earthquakes, ground deformation and gas emissions as magma moves and pressure changes beneath a volcano. These signals are fundamental to anticipating an eruption, but magma moving deep underground is much harder to detect than magma approaching the surface.\n\nOur results show that much of the magma accumulation beneath La Palma occurs at great depth in the upper mantle. This means that unrest can develop far from the surface and be difficult to detect with volcano monitoring networks.\n\nWhile our research does not forecast when the next eruption will occur, it does help us interpret future episodes of volcanic activity. Understanding that eruptions are triggered at great depth allows us to read monitoring signals more accurately. When warning signs are detected, we can better assess how quickly an eruption might develop.\n\nWhat happened beneath La Palma may also happen beneath other volcanic islands.\n\nClinopyroxene crystals erupted in the Azores, Cape Verde, the Galápagos and other Canary Islands show similar chemical patterns in their growth zones. These records reveal magma histories comparable to those observed at La Palma and are consistent with the presence of deep magma mushes that may be widespread beneath volcanic islands around the world.\n\nThese mushes can remain hidden below the surface, partly molten, until fresh, hot magma rises from the mantle. The new magma supplies heat, introduces new material and stirs the crystal-rich granita, remobilizing old crystals and carrying them upward. The erupted magma can therefore contain materials formed at different times, under different conditions and at different depths.\n\nDeep, cold crystal mushes are not limited to La Palma. Evidence from other volcanic islands suggests they may be particularly common during the early growth stages of an island, when magma supply is relatively high and deep magma reservoirs can be maintained. Frequent magma injections can repeatedly replenish these reservoirs and prevent them from cooling and solidifying completely.\n\nAs volcanic islands mature and magma supply declines, these mushes may receive less heat and fresh magma. They may then gradually cool and become less likely to be reactivated by new magma injections. By studying the chemical records preserved in volcanic crystals, scientists can track these changes through time and build a clearer picture of how magma evolves beneath volcanic islands.\n\nAlberto Caracciolo et al, Recurrent evacuation of mantle mush in ocean islands revealed by clinopyroxene from La Palma, Nature Communications (2026). DOI: 10.1038/s41467-026-77213-9\n\nJournal information: Nature Communications\n\nProvided by The Conversation\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“火山晶体是追踪岩浆历史的黑箱”为核心框架，强调辉石晶体的化学生长环带能够重建岩浆的温度、深度和化学变化，并据此提出：拉帕尔马喷发前数天至数周，来自地幔的高温岩浆注入深部岩浆晶粥，促使其重新活动；该认识可帮助解释监测信号，但不能直接预测下一次喷发时间。文章还将拉帕尔马的发现外推至其他火山岛。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T19:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-volcanic-crystals-black-tracking-magma.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2120589751-html-67615d040676c31e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Во Львове произошла потасовка со стрельбой",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T19:00:14.000Z",
+        "pubTime": "2026-09-28 03:00",
+        "url": "https://ria.ru/20260927/ukraina-2120589751.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/144123/70/1441237020_0:287:3131:2048_650x0_80_0_0_c530fd495164781dc8e5d01b308bb7ba.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/ukraina-2120589751.html",
+            "publishedAt": "2026-09-27T19:00:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-87450867153b72cb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:32:02.000Z",
+        "pubTime": "2026-09-28 01:32",
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 01:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+            "publishedAt": "2026-09-27T17:32:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:45:00.000Z",
+        "pubTime": "2026-09-28 02:45",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 02:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T18:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-2026-09-27-nura-rename-ffeb91c3891ab848",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "postmarketOS rebrands as Nura",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:34:21.000Z",
+        "pubTime": "2026-09-28 01:34",
+        "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "imageUrl": null,
+        "fullContent": "After a one and a half year selection process, the new name of the operating system formerly known postmarketOS has been announced during the mystery talk of our very own conference. From now on this project is known as Nura!\n\nThrough the years, most members of the team have experienced difficulties doing outreach for \"postmarketOS\" due to the complexity of the name. The name is long and can be very hard to pronounce in many languages. This also has the implication that it gets very hard to remember in those same languages.\n\nThe capitalization is also grammatically awkward, with lower-case \"p\" and \"m\" but upper-case \"OS\". We have seen Postmarketos (PostMarketOS?, PostmarketOS?, post-market OS?) written in too many ways, which is confusing to both the reader and the writer.\n\nFinally the name is descriptive. Although that can help people understand what the project is about, it also limits the scope of the project in ways that were out-of-touch with reality long ago, for example when PINE64 sold PinePhones with postmarketOS pre-installed. What was initially an asset, became a liability after all these years. The name being descriptive also means it cannot be trademarked. We believe trademarks can be important, as it allows the project to protect users against fraudulent uses of the name, or users clearly misaligned with the project goals. A trademark for the new name has already been filled.\n\nAll in all, \"postmarketOS\" has served us very well, it brought us to where we are now, and will always be part of our history. At the same time, we believe that to make the project better known outside the hacker community, a rename to a name with less meaning and easier to write, pronounce, and remember would be of benefit of the project.\n\nYes, we really like the logo and its connection with our mission, and we don't see a need for a change, regardless of the rename.\n\nChanging something that is core to the project identity, like its name, is not something done lightly. Our initial process did not produce the consensus that we expected, so we came up with new approach that resulted in this new name. We have also been waiting for trademark lawyers, and eventually it made sense to wait some weeks to announce it at our conference.\n\nAlthough there is no public site in Nura.org, the domain is taken. We sent an offer to the owner through a broker, but the owner did not consider selling it for a reasonable price. We looked for alternatives and found the eco domain, which we like even more now! Eco is short for ecology and the intended use is: \".eco is open to organizations, businesses and people committed to positive change for the planet\". The .eco domain has strong policies which prevent abuse of the domain for greenwashing, adding another layer of accountability. It just fits perfectly with our mission and goals.\n\nA selection team composed by Pablo, Pan, Ranny, and Sriram Ramkrishna (thank you all!) was tasked to select good names that would meet the criteria from the 300+ the community shared with us. The team did multiple rounds through the list, evaluated pros and cons of different names, and came up with a proposal of 4 names for the team to choose from. Those names went through further triaging to make sure it didn't have very problematic connotations in as many languages as we could find speakers, from all continents. All of them passed the criteria, and where put to a vote within the team using range voting. Nura was the name with the highest value, and received a 0.4 mean for a vote between -2 and 2. It was therefore chosen as our next name.\n\nYes, there are some small updates to the logo! Ranny identified and fixed some small design inconsistencies in the logo, and we used the name change as an opportunity to update it too. Due to slightly more spacing between the arrows, it is now a bit more legible from further distances. Furthermore it is also now mathematically constructed, so anyone can reproduce it!\n\nThe renaming of all user-facing strings might take a while. If you notice a place where we missed something, any contribution in the form of Merge Requests to update it to Nura would be super helpful. If you notice it is taking a while to update, and you do not have the skills to update it, opening issues to remind the team would also be welcomed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将项目更名为“Nura”解释为提升项目在黑客社区之外的传播效果，理由包括原名称较长、难以发音和记忆、大小写不一致、描述性过强且难以注册商标；公告同时强调原名称的历史价值、保留现有标志主要设计、选择“.eco”域名与项目使命的关联，以及名称筛选和团队投票过程。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T17:34:21.000Z",
+            "url": "https://nura.eco/blog/2026/09/27/nura-rename/"
+          }
+        ]
+      },
+      {
+        "id": "story--dolphins-isnt-easy-html-90a3984a9c22f17a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Finding homes for whales and dolphins when parks close isn't easy—sea sanctuaries aren't the answer",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:00:06.000Z",
+        "pubTime": "2026-09-28 02:00",
+        "url": "https://phys.org/news/2026-09-homes-whales-dolphins-isnt-easy.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-white-whale-partiall.jpg",
+        "fullContent": "by Jason Bruck, The Conversation\n\nedited by Gaby Clark, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nWhen Marineland Canada in Niagara Falls, Ontario, closed in September 2024, it had no regular income to support the care of the 30 belugas and four dolphins housed there. To ensure their welfare, the Association of Zoos and Aquariums led an international effort to relocate the animals to the United States and Spain.\n\nAfter the move, however, one resident beluga and three transplanted belugas died at a U.S. facility, while one beluga died at a Spanish facility. Proponents of whale sanctuaries called for the Canadian belugas to be placed in netted ocean pens, arguing that these environments better suit them.\n\nSanctuaries may seem like the easiest solution for displaced whales and dolphins—collectively called cetaceans. However, these ocean pens have their own challenges and aren't always the best fit.\n\nA cetacean sanctuary is an ocean enclosure made of nets that provides animals with a large habitat. But this model isn't defined only by its environment. It's also defined by a philosophy emphasizing no breeding, reduced human interaction and nonprofit funding.\n\nCurrently, there are no active cetacean sanctuaries anywhere in the world operating with animals under these standards.\n\nIn specific circumstances, sanctuaries could provide a home for animals vulnerable in the wild, while preserving some of their autonomy. But for an animal that has never seen the ocean, a sanctuary isn't automatically a good fit. What is natural for wild cetaceans isn't necessarily natural for managed cetaceans.\n\nAs a cetacean biologist, I have over 20 years of experience working with animals in the wild as well as in professional care.\n\nMy work has focused on understanding the welfare of these animals as individuals, and I've seen how wild and managed animals can differ. Moving a cetacean that was born in, or has spent years in, human care into an unfamiliar sea pen can create challenges.\n\nThe word \"sanctuary\" carries an emotional appeal, but a sanctuary is still a form of captivity. It is not release, which would be illegal for almost all animals currently under human care.\n\nIn cetacean sanctuaries, animals remain behind nets and depend on people for food and veterinary care. Managers must control the animals' social groups, monitor their health and respond to environmental hazards.\n\nConsider a dolphin born in a pool and accustomed to humans, a familiar social group and daily individualized medical care. Moving it to an ocean enclosure changes its conditions substantially. Differences can include water chemistry, ocean sounds, currents and weather. Porous netting may expose cetaceans to new pathogens, parasites or unfamiliar species.\n\nCetaceans could even become entangled with no way to rescue them, acres away from people. Access to the animals for daily veterinary care is also more complicated in a 100-acre (about half a square kilometer) sea pen.\n\nAnimal welfare depends on many factors: the animal's health, social relationships, nutrition, ability to make choices about how it spends its time, cognitive stimulation and whether its environment is appropriately predictable. The animals need enough change to keep them engaged, but not so much that it overwhelms them and causes harmful stress. Caregivers cannot assume what is natural to animals born or housed under human care is the same as what is natural to a wild animal.\n\nWhether a zoo-born cetacean benefits from a sanctuary is a hypothesis to test, not a fact to assume.\n\nHistorically, cetacean sanctuaries have struggled to get off the ground.\n\nAfter 10 years, The Whale Sanctuary Project in Nova Scotia, Canada, is still trying to raise funding and hasn't built its 100-acre sea pen.\n\nSimilar startup troubles have plagued The National Aquarium in Baltimore, which also pledged to place its animals in a sanctuary about 10 years ago but has not yet done so.\n\nDolphin Project founder Ric O'Barry's sanctuary in Bali, Indonesia, did attempt to house four animals taken from the Melka Excelsior Hotel in Lovina. However, one animal died soon after arriving, and another died after a release attempt.\n\nO'Barry also attempted to release two former Navy dolphins, Buck and Luther, in the 1990s from his now-defunct Florida-based Sugarloaf Sanctuary. This effort ended with the rescue of both animals, one in critical condition. O'Barry was convicted of violating the Marine Mammal Protection Act and was fined.\n\nSEA LIFE Trust Beluga Whale Sanctuary has made multiple attempts to place two belugas named Little White and Little Grey from a Chinese aquarium into a sanctuary it built in Iceland. However, a 2025 review reported that both belugas spent 92.6% of their time in a conventional indoor pool rather than their sanctuary. While in the sanctuary, they exhibited stress behaviors and had feeding difficulties, with one animal even developing ulcers. It remains unclear whether the whales will ever inhabit, much less thrive in, their sanctuary.\n\nThese examples do not prove sanctuaries cannot work. They demonstrate that these types of enclosures are hard to develop, fund and manage. They also show that animals don't readily adapt to these environments.\n\nAnimal welfare understandably involves strong moral convictions. I believe that humans have a responsibility to provide the animals in our care with the best lives possible.\n\nBut moral convictions are not enough in welfare science. These values must be informed by scientific conclusions.\n\nIf you start with a belief that captivity is intrinsically wrong, you may conclude that moving an animal out of any marine park will automatically improve its welfare. But that claim isn't always reflected in the established science.\n\nA 2020 review found that pro-cetacean sanctuary publications often include cherry-picked data and embellishments of other studies' results to fit an anti-zoo narrative. They may ignore or dismiss studies that show managed animals have begun to outlive wild ones and have seen welfare improvements over decades, while conditions for wild cetaceans have worsened.\n\nThe Cetacean Welfare Study provides a useful example of how scientific data can inform these management decisions.\n\nResearchers asked which environmental and management characteristics are associated with better animal well-being. To measure welfare, they looked at how active the animals were, how they used their habitats and how many different types of behaviors they exhibited. They also analyzed the animals' stress hormones and other biological indicators.\n\nThe study included more than 200 individual animals across three species in 43 accredited zoos and aquariums. Using these measures, researchers assessed how the animals' social environment, training, habitat—size, type and access—and enrichment affected their well-being.\n\nIts findings challenged assumptions. Larger habitats did not predict good welfare. Who the animals socialized with—both humans and cetaceans—and the diversity of enrichment approaches were much better indicators.\n\nThis study does not claim every animal in professional care is thriving or suffering, or that one type of environment is inherently better. It demonstrates that welfare depends on many variables.\n\nNot all cetaceans are interchangeable. A 60-year-old wild-caught adult orca, an 8-year-old stranded wild-born dolphin and a rescued newborn beluga likely require different welfare interventions.\n\nBest practices suggest that these decisions should be based on individual assessments. Before a nonemergency transfer, professionals establish the animal's baseline health, behavior, relationships and stress measures, then track those individual measures afterward. If welfare improves, the data should show it. If it deteriorates, professionals can change course.\n\nThe failure of the belugas in Iceland to acclimate to their sanctuary suggests future plans for cetacean sanctuaries should include standby pools for emergencies, so managers can move the animals out of the sanctuary if there's a problem or they notice an animal's stress rising rapidly.\n\nSanctuaries can provide another option for rescued animals. But to work long term, sanctuary managers will need to follow the science. Even before sanctuaries are built, managers can test protocols for introducing animals into these habitats and understand the animals' space preferences.\n\nIf sanctuaries have definable metrics of success, the public, outside researchers and accreditation groups can all follow their progress toward their welfare goals. These data, if made public, would prove valuable for scientists.\n\nKeeping marine animals in sanctuaries is also more expensive than housing them in pools. For the orca from Free Willy—whose real name was Keiko—a failed release cost around US$20 million to US$30 million for about five years of sea-pen housing. These examples show that sanctuaries need to have multiple years of animal care funding and plausible revenue streams before they move forward with construction.\n\nSanctuaries, as a concept, are not inherently good or bad. Just as with any other animal welfare intervention, proponents will need to show proof that they can work.\n\nProvided by The Conversation\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 45,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T18:00:06.000Z",
+            "url": "https://phys.org/news/2026-09-homes-whales-dolphins-isnt-easy.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2120589605-html-c5bd33eedbdb419a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На Украине заявили о рекордной атаке на Киев",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T18:58:34.000Z",
+        "pubTime": "2026-09-28 02:58",
+        "url": "https://ria.ru/20260927/ukraina-2120589605.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 02:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/ukraina-2120589605.html",
+            "publishedAt": "2026-09-27T18:58:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-blog-ember-1-ee0a4957fb506dcd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ember-1",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:31:53.000Z",
+        "pubTime": "2026-09-28 01:31",
+        "url": "https://fireworks.ai/blog/ember-1",
+        "imageUrl": null,
+        "fullContent": "Join us for our inaugural conference, Forge 2026\n\nEmber-1 is a new specialized model from Fireworks Research that delivers Kimi K3’s quality with 40% fewer tokens. Built on Kimi K3, it learned to cut unnecessary reasoning while keeping the thinking that matters. We tested it on external benchmarks, in live customer A/B tests, and on our own coding and agent workloads, and quality held up in every setting. Available today, Ember-1 kicks off an ongoing series of specialized models by Fireworks, shaped by what developers want next. Ember is just the start of what you could build with the Fireworks Training platform.\n\nWe heard from users that they needed K3’s coding capabilities at a lower cost, because its long reasoning traces made automated coding expensive at scale. Turning down K3's reasoning effort didn't solve this. Lower effort settings gave up too much quality. To keep the quality and cut the tokens, the model had to learn to reason more efficiently, and that meant training it.\n\nGetting there took serious research. Our team ran more than 50 training experiments and over 200 evaluations, and developed new training algorithms along the way to shorten reasoning without losing accuracy. We did it all on Fireworks Serverless Training. Because we didn’t have to provision or manage GPUs, we could launch experiments as soon as we had an idea, pay only for what we ran, and move from research to launch in a fraction of the usual time and cost.\n\nWe trained across a broad set of tasks so the token savings would carry over to many workloads. We then evaluated Ember-1 on the Specialized Intelligence Index, public benchmarks, and live production traffic to confirm it used fewer tokens with no drop in quality. Ember-1 is Fireworks’ own model and the first in a series of models from Fireworks Research.\n\nReasoning models like Kimi K3 spend the majority of their generated tokens, sometimes more than 90%, on internal reasoning rather than the answer itself. This thinking structure is expensive on a single request, but it gets much worse in multi-turn agentic workloads. Every turn replays all prior reasoning back to the model, so context grows roughly quadratically with the number of turns. Long reasoning traces from early turns get re-read (and re-billed) on every subsequent call.\n\nIs all that reasoning actually necessary? Our experiments said no. The reasoning Kimi K3 emits is far longer than the task requires, and the excess can be removed without touching the answer. This was how we created Ember-1, an economical version of Kimi K3 built from specialized intelligence.\n\nNot all of K3's reasoning is wasted. Some of it is self-reflection: revisiting an assumption, responding to feedback, or tracing an outcome back to an earlier decision can help the model recover from mistakes. The opportunity is to preserve this ability while reducing unnecessary reasoning and escaping unproductive loops. We believe that learning from tasks and environment feedback can teach the model to reason more efficiently while maintaining its capabilities.\n\nFor agentic tasks, this learning extends across the interaction. The model explores possible actions, incorporates new observations, and refines its reasoning as it progresses. Feedback connects decisions to their consequences, encouraging useful reflection throughout the task.\n\nWe carried these insights into a training collection spanning mathematics, coding, instruction following, conversation, search, tool use, and software engineering, covering both standalone problems and extended interactions to enforce adaptation to observations and outcomes. Task feedback guides on-policy planning and learning, with an emphasis on preserving capability across this range of settings.\n\nResults on public benchmarks and live A/B tests support this direction: across seven benchmarks and two customers’ production traffic, Kimi K3’s reasoning could be shortened by 35–50% without sacrificing accuracy. The internalized behavior also shows restrained token use on unsuccessful attempts, reducing prolonged, unproductive reasoning.\n\nEarlier this week, we introduced the Specialized Intelligence Index (SII) to benchmark open, closed, and specialized models against real-world tasks created by industry experts.\n\nWe evaluated Ember-1 on Doximity’s Bedside Bench, a physician-validated benchmark spanning 500 clinical cases across 10 specialized categories.\n\nThe result? Ember-1 set a new Pareto frontier for Bedside Bench across both open and closed models including GPT-5.6 Sol, GPT-6 Astra, and Claude Opus 5 on cost/task.\n\nWe also evaluated Ember-1 on the quality-vs-cost frontier across some other industry benchmarks. We computed per-benchmark cost using the public Kimi K3 API pricing (uncached input $3/M tokens, cached input $0.30/M, output $15/M) and plotted it against pass rate for three arms: K3 at reasoning effort low, K3 at reasoning effort high, K3 at reasoning effort max (default), and Ember-1. Across every benchmark with more than 50 test samples, Ember-1 sits on or near the Pareto frontier, matching K3-max quality at a fraction of the cost, and strictly dominating K3-low. We also analyzed GPT-6 Astra, Claude Opus-5 and GLM 5.3, and found that Ember-1 was a leader on the Pareto frontier.\n\nWe took a double-click on the results directly comparing Ember-1 to the original K3, and found the following results:\n\nThe most cost optimized way to run K3 is no longer to make it think less, but to run Ember-1, the model that learned to think efficiently.\n\nBenchmarks only tell you so much. Like what we found in the Specialized Intelligence Index results, we wanted to test the model on more real workloads, and to test the model using production traffic. The real test is often whether the model holds up on production traffic, in products users depend on.\n\nWe ran live A/B tests with two customers on their production coding workloads. In both cases, Ember-1 delivered impressive token savings, approximately 35% fewer tokens per task at comparable quality. Most of the downstream product metrics held or improved, including task completion, success scores, and failure rates all moving in the right direction at substantially lower token cost. Following the A/B tests, one customer is now running Ember-1 in live production, with plans to scale it up to replace the base model entirely.\n\nA large part of Fireworks’ internal coding/cowork traffic is powered by our own inference service. Before any customer saw the model, we put Ember-1 to work internally and let our own developers use it for everyday coding work including things like vibe testing at scale on real tasks.\n\nThe outcome we're proudest of: no news. No news is good news. Developers carried on their coding workloads without noticing the switch, while consuming substantially fewer tokens. For a model whose entire value proposition is \"same answers, fewer tokens,\" an invisible rollout on internal traffic is the strongest possible signal.\n\nEmber-1 is rolling out as a serving option alongside the base Kimi K3 model as a Research Preview release on Serverless. To support the rapidly growing open-source ecosystem, we're introducing research releases to give developers two-week serverless access to new research models, making them permanent based on community demand. For agentic coding and other workloads where reasoning tokens account for most of the cost, it delivers the same quality at roughly half the token cost.\n\nFireworks Research will continue to push the frontier of model efficiency by bringing specialized intelligence to more Ember models to enable you to deploy the most economical models, and reduce your token spend. Token efficiency is becoming a theme of Fireworks.\n\nLooking to take Ember-1 one step further, and optimize it for your use case? We are also launching training support for Ember-1, enabling enterprises to build customized, token-efficient models tailored to their needs with their own data. The future of open models is specialized models trained on your specific workload.\n\nTrying Ember-1 out on your workloads? We'd love to hear about your experience, so tag us on X (@FireworksAI_HQ) and let us know what you're building!",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T17:31:53.000Z",
+            "url": "https://fireworks.ai/blog/ember-1"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "pubTime": "2026-09-28 02:30",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 02:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T18:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-yner-latest-news-updates-c21e5bc205fc8b7d",
+        "title": "英国政坛直播：帕特·麦克法登告诉工党活动人士，不应为福利制度的“现状”辩护，因为这会“放弃”福利申请者",
+        "originalTitle": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T17:11:00.000Z",
+        "pubTime": "2026-09-28 01:11",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+        "imageUrl": "https://i.guim.co.uk/img/media/8ba2e7292347cd94c03767c5fa1c2d37143b9521/952_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=74ee6211bba04b3789c6b20369f02c5e",
+        "fullContent": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working\n\n‘I can deliver’: Burnham pledges radical change on eve of Labour conference\n\nKuenssberg puts it to Burnham that, according to the Health Foundation, a system offering adult social care free at the point of delivery (like healthcare delivered by the NHS) would cost £18bn.\n\nBurnham says the cost is “not that high” (ie, not as high as £18bn).\n\nBut can I directly deal with this issue of the costs?\n\nLouise Casey is still doing an official review for us, so I will set out the vision, if you like, on Tuesday [in his speech to the conference].\n\nLouise will then help us with the how. How do we make this happen? When can we make it happen?",
+        "fullTranslation": "就业与养老金大臣表示，现行制度存在缺陷，因为它让太多人终身依赖福利，而如果工作，他们的生活会更好\n\n“我能够兑现承诺”：伯纳姆在工党大会前夕承诺进行激进改革\n\n库斯伯格向伯纳姆指出，据卫生基金会称，如果建立一种在提供时点免费提供成人社会照护的制度（类似于国民保健制度提供的医疗服务），将耗资180亿英镑。\n\n伯纳姆表示，费用“没有那么高”（即没有180亿英镑那么高）。\n\n但我能否直接处理费用问题？\n\n路易丝·凯西仍在为我们进行正式审查，所以，如果你愿意这么说，我将在周二（即他在大会上的演讲中）阐述这一愿景。\n\n随后，路易丝将帮助我们解决具体实施问题：我们如何让这件事实现？什么时候能够实现？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦英国福利与社会照护制度改革：一方面呈现工作与养老金大臣认为现行福利体系存在缺陷、可能使部分人长期依赖福利的说法；另一方面突出安迪·伯纳姆承诺推动激进改革，以及其对成人社会照护免费提供成本估算的回应。整体叙事以政治人物表态和改革承诺为主，具体政策设计与执行方案尚未展开。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T17:11:00.000Z",
+            "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates"
+          }
+        ]
+      }
+    ]
+  }
+]
