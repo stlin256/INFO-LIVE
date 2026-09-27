@@ -1,5 +1,1554 @@
 [
   {
+    "timestamp": 1790548079646,
+    "timeDisplay": "2026-09-28 06:27 (UTC+8)",
+    "date": "2026-09-28",
+    "runId": "feed-20260927T221852820Z-alocvc",
+    "generatedAt": "2026-09-27T22:27:59.646Z",
+    "hourlyBriefing": {
+      "title": "本小时全球资讯动态梳理",
+      "lead": "本时段重点聚焦美伊外交局势博弈、加拿大总理接受专访，以及澳大利亚濒危物种迁徙动向。美国总统特朗普透露预计下周与伊朗恢复谈判，同时加总理长篇访谈实录与生态观察引发关注。",
+      "keySignals": [
+        "美国总统特朗普表示预计下周恢复与伊朗的谈判，尽管此前拒绝了德黑兰提出的7天停火并重新开放霍尔木兹海峡的提议；特朗普向Axios透露预期会有进一步会谈，同时保留了可能重启空袭的选项。",
+        "《纽约时报》（New York Times）记者就广泛议题对加拿大总理进行了长达一小时的深入专访并公布了对话实录。",
+        "澳大利亚东海岸居民近期密集目击濒危布冈蛾（bogong moths）向高山地区迁徙，该物种在2019年前两年内种群数量曾锐减高达99.5%。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-28",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】《全垒打棒球》让我即使在大都会队表现糟糕时，也能享受棒球的乐趣：该话题的内容将被添加到您的每日精选邮件和主页信息流中。 查看所有游戏评测 《全垒打棒球》（OOTP Baseball）是一款关注细节、高度逼真的棒球模拟游戏，让您亲身体验总经理（GM）的工作。 该作者的内容将被添加到您的每日精选邮件和主页信息流中。 查看特伦斯·奥布莱恩（Terrence O'Brien）的所有作品 如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德声明。；【undefined】月球晨昏线悖论：有一种视错觉被称为“月球晨昏线悖论”（lunar terminator paradox）等名称。网络上对此有很多讨论和描述，但在我脑海中都说不通，所以我写了这个程序来弄清楚到底是怎么回事。这个悖论是这样的：；【undefined】Engram 采样器：将破碎的 AI“幻觉”转化为音乐：该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐内容 Thoughtful Things 表示，Engram 是一个“用于潜在空间的实地录音机”，也是针对微型 AI 模型的“电路扰动”（circuit-bending）设备。 来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。 查看 Terrence O'Brien 的所有文章 音乐初创公司 Thoughtful Things 刚刚在 Kickstarte"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】别让你的 Go 代码与 GitHub 强耦合：首页 博客 分类；【undefined】英国政坛直播：帕特·麦克法登告诉工党活动人士，不应为福利制度的“现状”辩护，因为该制度“将申领者判定为无望之人”：工作与养老金大臣表示，现行制度存在缺陷，因为它让太多人一辈子依靠福利生活，而这些人如果工作，生活状况本可得到改善；【undefined】“他们根本没有对用户负有注意义务的概念。”：计算机科学家戴维·奇斯纳尔（David Chisnall）在 Mastodon 上发布了一篇帖子，开头很有 Unsung 的风格："
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】逆向工程 iPod Classic 内部未公开的 Mikey 芯片：我的 iPod Classic（第 7 代）运行着 Rockbox 系统，我非常喜欢这种搭配的一切。但是，苹果有线耳机上的线控（中间的播放/暂停按钮和音量调节键）完全不起作用。对于在这一系列 iPod 上运行 Rockbox 的任何人来说，从来就没有起作用过。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】苏茜·怀尔斯披露在管理特朗普白宫期间抗癌所承受的残酷煎熬：白宫幕僚长苏茜·怀尔斯谈及自己在担任华盛顿最具挑战性的职位之一期间抗击乳腺癌的艰难现实。她透露，有些日子，仅仅是起床、去上班就耗尽了她全部的力气。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 70,
+      "completedTasks": 70,
+      "succeeded": 39,
+      "degraded": 31,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 70,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 546786,
+      "byRole": {
+        "translator": {
+          "attempts": 48,
+          "succeeded": 25,
+          "degraded": 23
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 1,
+          "degraded": 5
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 4,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 70,
+          "succeeded": 39,
+          "degraded": 31
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-5-translator-0",
+      "article-5-translator-1",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-11-translator-1",
+      "article-11-translator-2",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-16-translator-0",
+      "article-18-translator-0",
+      "article-18-translator-1",
+      "article-19-translator-0",
+      "article-23-translator-0",
+      "article-25-translator-0",
+      "article-27-translator-0",
+      "article-30-translator-0",
+      "article-31-translator-0",
+      "article-33-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:36.867Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.735Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:36.873Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.689Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.466Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.687Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.480Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.993Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.709Z",
+        "lastSuccessAt": "2026-09-27T22:18:40.994Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.697Z",
+        "lastSuccessAt": "2026-09-27T22:18:40.772Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:40.994Z",
+        "lastSuccessAt": "2026-09-27T22:18:41.516Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.390Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.703Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.800Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.062Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.687Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.986Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.886Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.565Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.735Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.524Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.689Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.400Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.703Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.800Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:40.741Z",
+        "lastSuccessAt": "2026-09-27T22:18:41.682Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.953Z",
+        "lastSuccessAt": "2026-09-27T22:18:41.545Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:40.582Z",
+        "lastSuccessAt": "2026-09-27T22:18:40.915Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.979Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.329Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.400Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.466Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.914Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.480Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.360Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.390Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:35.760Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.360Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.255Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.424Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.189Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.564Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.993Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.255Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.196Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.373Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.428Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.697Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.908Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.011Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:40.772Z",
+        "lastSuccessAt": "2026-09-27T22:18:43.130Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.313Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.479Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.496Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.709Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.459Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.648Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.648Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.780Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:40.915Z",
+        "lastSuccessAt": "2026-09-27T22:18:41.823Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.524Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.680Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.986Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.428Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.168Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.313Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.564Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.953Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-27T22:18:39.424Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.373Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.715Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:35.757Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.678Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-27T22:18:39.479Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:35.758Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.914Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.710Z",
+        "lastSuccessAt": "2026-09-27T22:18:41.346Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.062Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.168Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:37.678Z",
+        "lastSuccessAt": "2026-09-27T22:18:37.886Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.329Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.459Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.011Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.196Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.715Z",
+        "lastSuccessAt": "2026-09-27T22:18:40.582Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:39.780Z",
+        "lastSuccessAt": "2026-09-27T22:18:40.741Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.680Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.979Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:38.565Z",
+        "lastSuccessAt": "2026-09-27T22:18:38.908Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:35.745Z",
+        "lastSuccessAt": "2026-09-27T22:18:36.873Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:35.755Z",
+        "lastSuccessAt": "2026-09-27T22:18:36.867Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T22:18:35.756Z",
+        "lastSuccessAt": "2026-09-27T22:18:39.189Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-0928-adg-2120600612-html-52baea699da76cbc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "АдГ поддерживает контакты со спецпредставителем президента Дмитриевым",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T22:13:26.000Z",
+        "pubTime": "2026-09-28 06:13",
+        "url": "https://ria.ru/20260928/adg-2120600612.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 06:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/adg-2120600612.html",
+            "publishedAt": "2026-09-27T22:13:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-zy-sim-video-game-review-8c713bebedaca020",
+        "title": "《全垒打棒球》让我即使在大都会队表现糟糕时，也能享受棒球的乐趣",
+        "originalTitle": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:59:57.000Z",
+        "pubTime": "2026-09-28 05:59",
+        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Games Review\n\nOOTP Baseball is a nitty gritty hyper-realistic baseball sim that puts you in the GMs office.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nIf you were to ask me what game or game series I’ve sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn’t like MLB The Show or Super Mega Baseball. It’s not graphically impressive. It’s not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It’s fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\n\nYou can play individual games and dig into play-by-play managing in OOTP if you want. But that becomes tedious. And frankly, it’s not where the game is the most fun. Instead, I think the game is at its best when you sit in the GM’s chair and maybe make some helpful “suggestions” about how to structure the lineup or bullpen.\n\nThe UI is complicated and dense. 90 percent of the time, you’re just looking at rows of stats and scouting reports. And the level of detail is deep. OOTP includes not just current MLB players, but historical MLB players, all minor league teams, Korea’s KBO League, and even the entire World Baseball Classic.\n\nThere’s something thrilling about digging through all this info and trying to find that diamond in the rough during a draft. Someone who might become the new franchise player for your favorite team in this alternate universe. Deciding whether to bet on that prospect developing into a superstar, or to trade them for an undeniable big-league All-Star is stressful. And you even have to worry about fans abandoning you if you fail to re-sign your favorite player.\n\nOn my Mets, Brandon Nimmo isn’t just a good player, he’s a damned superstar. Kodai Senga has won three Cy Young Awards. I signed Juan Soto, but also traded a raft of mid-tier prospects for Ronald Acuña Jr., made the playoffs four years in a row, and eventually won a World Series. (Look, as a Mets fan, I need this fantasy world, don’t harsh my vibe.)\n\nPerhaps the best part of OOTP Baseball, though, is that it kinda lets you play however you want. It’s deeply customizable. You can manually play every game if you want. Or you can speed-simulate entire seasons in a couple of hours. Want an easier experience where players don’t get hurt? Turn down or off injuries. Don’t want to worry about budgets? Play in commissioner mode and tell the team owner where to stick it. And because it mostly just sits there, statically waiting for you, it’s easy to just leave it running in the background and dip in and out when you’ve got a few spare minutes.\n\nOOTP Baseball is a cozy sim for a very particular brand of sports nerd. If you love fantasy baseball and wish you could play it year-round (and don’t want to deal with friends arguing about whether their bid for Alonso came in on time), or maybe you dig the idea of a cozy game like Tiny Bookshop, but wish they had a more Sabermetric bent, OOTP Baseball might be for you.\n\nThe current version, OOTP Baseball 27, is available now on Steam or directly from the developer.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题的内容将被添加到您的每日精选邮件和主页信息流中。\n查看所有游戏评测\n《全垒打棒球》（OOTP Baseball）是一款关注细节、高度逼真的棒球模拟游戏，让您亲身体验总经理（GM）的工作。\n该作者的内容将被添加到您的每日精选邮件和主页信息流中。\n查看特伦斯·奥布莱恩（Terrence O'Brien）的所有作品\n如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德声明。\n\n如果你问我投入时间最多的是哪款游戏或哪个游戏系列，答案显而易见：那就是《全垒打棒球》（Out of the Park Baseball，简称 OOTP）。根据 Steam 的记录，我在该游戏的各个版本中总共花费了大约 2300 个小时。OOTP 与《MLB The Show》或《超级棒球》（Super Mega Baseball）截然不同。它的画面并不惊艳，也不是那种能带来纯粹街机快感的爽游。本质上，它就是一个伪装成电子游戏的电子表格。它就像是梦幻棒球（Fantasy Baseball），但你无需苦等六个月去看选秀捡漏的“黑马”有多令人失望，因为在短短几个小时内，你就能飞速打完一整个赛季。\n\n如果你愿意，你可以在 OOTP 中亲自操控单场比赛，深入每一个回合的战术指挥。但这很快就会变得乏味。而且坦白说，这并不是该游戏最好玩的地方。相反，我认为这款游戏最精彩的时刻，是你坐在总经理的办公室里，顺便就球队阵容或牛棚的搭建提出一些有益的“建议”。\n\n游戏的用户界面复杂而密集。90% 的时间里，你都只是在盯着一排排的数据和球探报告。其详尽程度令人惊叹。OOTP 不仅包含现役的 MLB 球员，还收录了历史上的 MLB 传奇、所有小联盟球队、韩国职棒联赛（KBO），甚至包括整个世界棒球经典赛（WBC）。\n\n深入挖掘所有这些信息，并在选秀中努力发掘未被雕琢的璞玉，有一种令人激动的快感——那个人或许会在这个平行宇宙中成为你心爱球队的下一位当家球星。是该押注这位新秀能成长为超级巨星，还是将他们交易以换来一位无可挑剔的大联盟全明星？做这种抉择充满了压力。甚至，如果你没能续约心爱的球员，还得担心球迷会离你而去。\n\n在我掌管的大都会队中，布兰登·尼莫（Brandon Nimmo）不仅是个优秀球员，更是一位不折不扣的超级巨星。千贺滉大斩获了三座赛扬奖。我签下了胡安·索托（Juan Soto），同时用一大批中游新秀换来了罗纳德·阿库尼亚（Ronald Acuña Jr.），连续四年闯入季后赛，并最终夺得了世界大赛冠军。（听着，作为一名大都会队球迷，我需要这个幻想世界，别扫我的兴。）\n\n不过，OOTP Baseball 最棒的地方或许在于，它在某种程度上允许你随心所欲地去玩。它的自定义程度极高。如果你愿意，你可以手动打完每一场比赛；也可以在几个小时内快速模拟完数个赛季。想要更轻松、没有球员受伤的体验？调低或直接关闭伤病设置。不想为预算操心？开启联盟执行长模式（Commissioner Mode），让球队老板一边待着去。而且因为它大部分时间都是静止在那里等待你的指令，所以你完全可以把它放在后台运行，有空闲时间就切进来玩上几分钟。\n\n对于一类非常特殊的体育极客来说，OOTP Baseball 是一款令人惬意放松的模拟游戏。如果你热爱梦幻棒球，希望一整年都能玩上它（并且不想跟朋友为争论他们竞标阿隆索是否准时提交而扯皮）；又或者你很中意像《小小书店》（Tiny Bookshop）这种轻松舒缓的游戏理念，但希望它们带有一点棒球赛伯计量学（Sabermetrics）的硬核色彩，那么 OOTP Baseball 或许正是你的菜。\n\n当前最新版本《全垒打棒球 27》（OOTP Baseball 27）现已在 Steam 平台发售，亦可直接从开发商处购买。\n\n免费每日精选，汇聚最重要的新闻资讯。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "作者称自己根据 Steam 记录，游玩《Out of the Park Baseball》（OOTP）各个版本的累计时间约为2300小时。",
+          "文章称《Out of the Park Baseball》允许玩家在几小时内完成一个完整赛季。",
+          "来源叙事重点：报道将OOTP框定为面向特定体育数据爱好者的“舒适型”棒球经营模拟游戏，重点突出其高度真实、数据密集、可自定义、可快速模拟赛季以及涵盖多种棒球联赛和历史球员等特点。作者以约2300小时的个人游玩经历和纽约大都会队存档故事增强亲身体验感，同时承认其界面复杂、缺乏图形表现和即时街机乐趣，并将其与《MLB The Show》《Super Mega Baseball》等作品区分开来。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T21:59:57.000Z",
+            "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:00:00.000Z",
+        "pubTime": "2026-09-28 06:00",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-your-go-code-to-github-a3f87b429b1324d9",
+        "title": "别让你的 Go 代码与 GitHub 强耦合",
+        "originalTitle": "Don't couple your Go code to GitHub",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T20:17:42.000Z",
+        "pubTime": "2026-09-28 04:17",
+        "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "imageUrl": null,
+        "fullContent": "Home Blog Categories\n\nOne of the good features of Go is that you namespace your code with the location to fetch the code. This means if you host your Go code at http://github.com/thetrueares/boneclone then you have the line import “github.com/thetrueares/boneclone” and Go will fetch it using git. This makes it super easy to know where to go to report bugs for open source libraries and really easy to fetch and distribute go libraries without a centralised package management system. For many, it’s literally the location of the git hosting, but this has some downsides, and you should use your own custom domain, and I’ll explain why.\n\nThe main problem with using your git hosting location is that your code is now coupled to a hosting provider. That is, if you move your git hosting to GitLab then you have to change your code! Otherwise, you’ll be fetching the old verison. This can result in you being unable to change git hosting provider because the amount of overhead in switching. So you literally end up with your code coupled to GitHub. Which sounds completely nuts, but it’s something that is pretty much defacto in the Go community.\n\nI’ve seen this problem become such a huge issue for a company that were using GitLab, GitHub, and Azure Devops at the sametime because changing the location of the code was such a large task for them and they didn’t “have time” that it was easier for them to operate on three platforms. And is why I built Boneclone to handle skeleton code replication across multiple git hosting platforms at the same time. So this problem literally cost the company money since they had to pay for three hosting services at the same time.\n\nThe solution is to use custom domains such as go.iain.rocks, go.uber.org, go.mongodb.org, etc. This allows you to just change where those domains point to. For example, go.iain.rocks/boneclone points to github.com/thetrueares/boneclone and if I move to GitLab nothing will change for the end users the install command is the same.\n\nIn my opinion, every commerical software development team using Go should be using custom domains for namespacing their internal libraries and packages. As it’s an easy way to avoid any pointless coupling.\n\nHere is a copy of my configs so you can set it up for your projects too.",
+        "fullTranslation": "首页 博客 分类\n\nGo 语言的一大优秀特性在于，你可以通过拉取代码的路径位置来为代码定义命名空间。这意味着，如果你将 Go 代码托管在 http://github.com/thetrueares/boneclone，你的代码中就会包含 import “github.com/thetrueares/boneclone” 这一行，随后 Go 就会通过 Git 来拉取它。这使得寻找开源库的缺陷报告地址变得极其简单，而且在无需中心化包管理系统的情况下，拉取和分发 Go 库也变得轻而易举。对许多人来说，命名空间名副其实就是 Git 托管的具体地址，但这带来了一些弊端，你应该使用属于自己的自定义域名，下文我将阐述原因。\n\n直接使用 Git 托管地址的核心问题在于，你的代码自此便与某一家代码托管服务商绑定在了一起。也就是说，如果你把 Git 托管迁移到 GitLab，你就不得不修改你的代码！否则，你拉取的仍将是旧版本。这可能会导致你无法更换 Git 托管服务商，因为迁移带来的开销过于庞大。因此，你实际上落入了代码与 GitHub 深度绑定的境地。这听起来极其荒谬，但在 Go 社区中却几乎已成事实上的标准。\n\n我曾亲眼目睹这个问题给一家公司造成了巨大困扰：他们同时使用 GitLab、GitHub 和 Azure DevOps，因为对他们而言更改代码路径是一项极其繁重的任务，而且他们“腾不出时间”，以至于让他们在三个平台上同时运转反而显得更为省事。这也是我开发 Boneclone 来同时处理跨多个 Git 托管平台的骨架代码同步的原因。所以，该问题实打实地让公司耗费了真金白银，因为他们必须同时为三家托管服务付费。\n\n解决办法是采用自定义域名，例如 go.iain.rocks、go.uber.org、go.mongodb.org 等。这样一来，你只需修改这些域名的解析重定向目标即可。举例来说，go.iain.rocks/boneclone 指向 github.com/thetrueares/boneclone，哪怕我后续迁移到了 GitLab，对终端用户来说也不会有任何改变，安装命令依然一模一样。\n\n在我看来，任何使用 Go 的商业软件开发团队，都应当使用自定义域名来规划其内部库和内部包的命名空间。因为这是避免任何无谓耦合的一种极为轻松的途径。\n\n以下是我的配置副本，供你在自己的项目中参考并设置。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "来源叙事重点：文章将 Go 代码导入路径直接绑定 GitHub 等托管平台描述为一种架构耦合，强调迁移托管平台时可能需要修改代码、增加切换成本，甚至导致企业同时维护 GitLab、GitHub 和 Azure DevOps 等多个平台。作者提出使用 go.iain.rocks、go.uber.org、go.mongodb.org 等自定义域名作为稳定命名空间，通过调整域名指向来隐藏底层托管平台变化，并提供配置作为实践参考。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T20:17:42.000Z",
+            "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github"
+          }
+        ]
+      },
+      {
+        "id": "story-ble-limiting-global-html-a155197ede3a25b0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Who is responsible for limiting global warming to 1.5°?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:00:01.000Z",
+        "pubTime": "2026-09-28 05:00",
+        "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/global-warming-1.jpg",
+        "fullContent": "Even if industry rapidly becomes more sustainable, households will still need to change their lifestyles to meet climate targets. Industrial ecologist Stephanie Cap warns that households cannot do this alone: Businesses and governments must create the conditions to make these changes possible. Cap defends her dissertation titled \"Everything Must Change: 1.5°C decarbonisation scenarios across industries and households\" on Oct. 1.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+            "publishedAt": "2026-09-27T21:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nterview-transcript-html-2f112acb00b3882c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:11:12.000Z",
+        "pubTime": "2026-09-28 06:11",
+        "url": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-canada-carney-transcript-photo-hglz/27int-canada-carney-transcript-photo-hglz-mediumSquareAt3X.jpg",
+        "fullContent": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-28 06:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+            "publishedAt": "2026-09-27T22:11:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--terminator-paradox-html-cd821f5b175fded3",
+        "title": "月球晨昏线悖论",
+        "originalTitle": "Lunar Terminator Paradox",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:06:17.000Z",
+        "pubTime": "2026-09-28 05:06",
+        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "imageUrl": null,
+        "fullContent": "There's an optical illusion known by names like the \"lunar terminator paradox\". This has much discussion and descriptions online, but none made sense in my head, so I wrote this program to figure out what was going on. The paradox:\n\nI was camping in the mountains with a friend recently. We were looking up at the sky, just after the sun has set. The moon was clearly pointing up.\n\nAfter playing with this program, I have clarity: we're looking up at the moon from below. The most pathological case is a full moon. Let's say the moon is on the horizon: elevation=0. If we're looking at this low moon, and the moon is full, the sun is directly behind us. The moon is fully illuminated, and we see 100% of the moon disc lit up.\n\nNow, what happens if the moon is not at the horizon, but higher up at the sky? Effectively, the sun is infinitely far away, so the same part of the moon is lit up. But we're now looking at the moon from below, and we would see some of the dark side on the bottom edge. I.e. the moon appears bright at the top, but has a dark slice missing at the bottom: it points up! Even at sunset.\n\nThis is the most clearly weird case. A half-moon has no paradoxical behavior, and the more full the moon, the more clearly we can observe the bright moon pointing up despite the sun being down.\n\nI produce two plots. At 3/4-full moon at sunset we look at the moon as it rises from the horizon all the way up to the zenith:\n\nIf the moon is at the horizon (elevation = 0), we see the expected 3/4-lit disc. As the moon rises, we see more and more of its bottom, and thus more and more dark areas show up: It clearly points up at sunset!\n\nWe can also move the sun around. Let's say the moon is 60deg up; let's move the sun from new-moon to a full-moon:\n\nIn the darkest configuration, we can still see a lit crescent on the bottom: the illumination is all on the opposite side, but we can see a slice of the illuminated back side. As the sun swings around, we see more and more of the moon. At azimuth = 90deg, we have a half-lit moon. Past that, more and more of the moon is visible, always pointing up.\n\nThis was also a super interesting study of the current state of AI tools. As I was writing this and debugging, I would talk to Claude and Gemini about how this worked and what I should be seeing. They were both completely unable to comprehend this, and would make infinite circular arguments. Clearly they read some incomplete explanations on the internet (as I have), and lack the reasoning capability necessary to distill it into something resembling \"understanding\". AGI is not here yet.",
+        "fullTranslation": "有一种视错觉被称为“月球晨昏线悖论”（lunar terminator paradox）等名称。网络上对此有很多讨论和描述，但在我脑海中都说不通，所以我写了这个程序来弄清楚到底是怎么回事。这个悖论是这样的：\n\n最近我和一个朋友在山里露营。我们仰望天空，太阳刚刚落山。月亮明显朝上指着。\n\n在摆弄了这个程序之后，我终于明白了：我们是从下方仰视月球的。最极端的病态情况是满月。假设月亮在地平线上：仰角=0。如果我们看着这轮低垂的月亮，而此时正是满月，那么太阳就在我们正后方。月球被完全照亮，我们能看到100%被照亮的月盘。\n\n现在，如果月亮不在地平线上，而是在天空中更高的位置，会发生什么？实际上，由于太阳距离无限遥远，月球被照亮的部分仍然相同。但我们现在是从下方仰视月球，我们会看到其底边缘的一部分阴暗面。换句话说，月亮顶部看起来是明亮的，但底部缺失了一块阴暗的切片：它朝上指着！即使在日落时分也是如此。\n\n这是最明显诡异的情况。半月不会表现出任何悖论现象，而且月亮越圆，我们就越能清晰地观察到，尽管太阳已经落山，明亮的月亮依然朝上指着。\n\n我绘制了两张图表。在日落时分处于四分之三满月时，我们观察月亮从地平线一路升到天顶的过程：\n\n如果月亮在地平线上（仰角 = 0），我们会看到预期的四分之三明亮月盘。随着月亮升起，我们看到其底部越来越多的部分，因此出现越来越多的阴暗区域：在日落时分它明显朝上指着！\n\n我们也可以调整太阳的位置。假设月亮处于仰角60度；让我们把太阳从新月位置移动到满月位置：\n\n在最暗的构型下，我们依然能在底部看到一条明亮的新月牙：光照全部来自背面，但我们可以看到被照亮的背面边缘的一小截。随着太阳转动，我们看到的月亮面积越来越大。当方位角 = 90度时，我们看到半明半暗的月亮。超过这个角度后，月球可见的部分越来越多，并且始终朝上指着。\n\n这同时也是一次对当前AI工具现状非常有趣的研究。在我编写代码和调试的过程中，我曾与Claude和Gemini讨论过其运作原理以及我应该观察到什么现象。它们两者都完全无法理解这一点，并且陷入了无休止的循环论证。显然，它们在互联网上阅读了一些不完整的解释（就像我也读过一样），并且缺乏将其提炼为类似于“理解”所必需的推理能力。通用人工智能（AGI）尚未到来。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：报道重点是作者对月面受光与观察视角关系的个人建模：日落后从地面仰视月球时，观察者相当于从月球下方观看，月面底部可能显得更暗，使满月或接近满月的月牙形状看起来像“向上指”。文章还将作者与Claude、Gemini的交流作为案例，强调这些AI工具未能给出作者认为连贯的解释，并据此得出“AGI尚未到来”的判断。后者属于作者的评价性叙事，不是独立验证的技术结论。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T21:06:17.000Z",
+            "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:45:00.000Z",
+        "pubTime": "2026-09-28 05:45",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 05:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T21:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ipod-classic-mikey-chip-9f2d3e7375009da9",
+        "title": "逆向工程 iPod Classic 内部未公开的 Mikey 芯片",
+        "originalTitle": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T19:58:31.000Z",
+        "pubTime": "2026-09-28 03:58",
+        "url": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
+        "imageUrl": null,
+        "fullContent": "My iPod Classic (7th gen) runs Rockbox, and I love almost everything about that arrangement. But the inline remote on Apple’s wired earbuds (the center play/pause button and the volume clicker) did nothing. Never has, for anyone running Rockbox on this family of iPods.\n\nThe reason is sitting right there in the Rockbox source:\n\nAnd honestly, fair enough. Rockbox on this iPod exists because volunteers reverse engineered Apple hardware with zero documentation, for free, since January 2011. Music, clickwheel, recording, all of it figured out the hard way. The earbud remote just never made it to the top of anyone’s list: the 2014 commit that added the button-interrupt plumbing called remote events “work in progress”, and the TODO landed in the audio driver in 2017. Nobody picked it up since. So I did.\n\nIf you’re not here for the reverse engineering story and just want working earbud buttons: I’ve published a prebuilt Rockbox image with the remote driver as ipod6g-mikey-v1. It works on the iPod Classic 6G and 7th gen, and assumes your iPod already runs Rockbox (bootloader installed via the official Rockbox Utility).\n\nBonus: custom boot screen. While I was in there, I also built a Rockbox Boot Logo Patcher that swaps the Rockbox startup logo for any image you like, right in your browser. Works on every iPod Rockbox supports.\n\nBefore touching a wire, I went looking for anyone who had done this before. The search was thorough and completely empty:\n\nThat theory was wrong in every detail, and the E6 interrupt never fired once during the entire project. Not once.\n\nIf you’ve spent any time debugging obscure problems, you know xkcd 979. Ten years of searching, one forum thread with your exact problem, and the only reply is the author saying “never mind, fixed it.”\n\nxkcd 979 “Wisdom of the Ancients” by Randall Munroe, CC BY-NC 2.5\n\nSearching for the remote’s wire protocol surfaced exactly one thread to pull: a Hackaday post from February 2010 and a matching 16-year-old Reddit thread about David Carne reverse engineering the iPod shuffle 3G’s headphone remote. The same remote hardware my earbuds use.\n\nHis site? Dead. david.carne.ca/shuffle_hax doesn’t even load anymore. Of course it’s dead, it’s been 16 years.\n\nUnlike DenverCoder9, though, the wisdom of the ancients turned out to be recoverable. A tinymicros.com wiki mirror preserved the full writeup, and a GitHub repo (reverse-shuffle) still carries an Arduino re-implementation of the accessory handshake. The ancients left notes after all.\n\nCarne’s data detonated my serial-protocol theory on contact. The remote is much, much dumber than I assumed:\n\nThe chirp is identification, not DRM. Carne proved it by replicating the volume buttons with a plain resistor circuit of his own, no proprietary chip involved; the original remote just had to be attached at power-up to chirp its ID.\n\nA 5-second hold test confirmed the volume events are true edges: exactly one press event and one release event, 6.3 seconds apart, nothing in between.\n\nOne protocol test produced my favorite dumb moment of the project. My own test notes said “click the center button 3 times”, and mid-session I clicked the center of the iPod’s clickwheel three times instead of the earbud button. The log dutifully recorded three debug-screen resets and zero remote events. Turns out “center button” is a dangerous thing to write in your notes when there are two devices on the desk with center buttons.\n\nVolume and play/pause from the earbud remote, on hardware from 2009. Sped up 1.8x.\n\nThen came the cleanup for submission: different build configurations, edge cases around jack removal, what happens when recording wants the chip. That pass surfaced three bugs that daily use on my own iPod was never going to catch:\n\nA word on the developer experience, because it surprised me: Rockbox ships a script (rockboxdev.sh) that builds you the pinned cross-compiler, arm-elf-eabi-gcc 9.5.0, and from there it’s just make. Testing a change meant dropping the fresh rockbox.ipod into /.rockbox/ over disk mode and rebooting. For a volunteer project that’s been going since 2001 and targets dozens of different players, the tooling is in better shape than some products I’ve been paid to work on.\n\nSubmitted as Gerrit change 7677, “ipod6g: Add inline earphone remote support”. One clean commit, 8 files, 318 insertions.\n\nThen I actually lived with it for a day, and the best act of the whole project started: single clicks on the center button would sometimes toggle play/pause twice.\n\nThere’s no debouncing your way out of hardware that reports the past. So the center button is now click-only: every debounced rise emits a fixed 60ms click pulse, and there are no hold semantics at all, because the chip can’t reliably report press duration.\n\nWhile I had a build pipeline warmed up, my iPod also got a personalized boot screen: a neon “Hemant’s iPod” wordmark, downscaled to the 320x98 BMP that Rockbox compiles into the binary. The stock boot screen is white with the logo pinned near the top; a tiny patch clears to black and centers it:\n\nThat one stays personal, on my device only. Some patches are for upstream and some are just for you.\n\nChange 7677 is under review as I write this, so the ending of this post is “pending”, not “merged”.\n\nA caveat before I sign off: all of this was new to me. I’d never touched the Rockbox codebase before this project, and everything I know about how an iPod works on the inside I picked up along the way. So if something here is old news to the embedded crowd, or I’ve proudly reinvented a wheel that has had a proper name since 2005, pardon me.\n\nStill on the someday list: multi-click gestures (double-click for next track is the obvious one) and using the accessory-ID event to only power the mic line when a remote is actually attached, which would shave a little battery with plain headphones.\n\nThis is the same itch behind reviving a 10-year-old Kindle, jailbreaking one in a browser, and turning an iPhone 8 into a solar-powered OCR server: hardware this good shouldn’t be limited by abandoned software. A 2009 iPod with working earbud controls in 2026 feels right. And for a previous chapter of this kind of tinkering, there’s the desk toy that spins when Claude is thinking.\n\nLast updated: July 2026",
+        "fullTranslation": "我的 iPod Classic（第 7 代）运行着 Rockbox 系统，我非常喜欢这种搭配的一切。但是，苹果有线耳机上的线控（中间的播放/暂停按钮和音量调节键）完全不起作用。对于在这一系列 iPod 上运行 Rockbox 的任何人来说，从来就没有起作用过。\n\n原因就明明白白地写在 Rockbox 的源码里：\n\n坦白讲，这完全可以理解。Rockbox 之所以能在这款 iPod 上运行，是因为自 2011 年 1 月以来，志愿者们在毫无文档支持的情况下免费对苹果硬件进行了逆向工程。音乐播放、点击轮、录音功能，全都是历尽艰辛摸索出来的。耳机线控只是从未排进任何人的优先事项清单首位：2014 年添加按键中断底层架构的提交将线控事件称为“正在进行的工作”（work in progress），而该 TODO 待办项于 2017 年进入了音频驱动代码。此后便再无人接手。于是，我接手了。\n\n如果你不是来听逆向工程故事的，只是想让耳机按键正常工作：我已经发布了一个带有线控驱动的预构建 Rockbox 镜像，版本为 ipod6g-mikey-v1。它适用于 iPod Classic 6G 和第 7 代，前提是你的 iPod 已经运行了 Rockbox（通过官方 Rockbox Utility 安装了引导加载程序）。\n\n额外惊喜：自定义开机画面。在折腾的过程中，我还顺便制作了一个 Rockbox 开机 Logo 补丁工具（Rockbox Boot Logo Patcher），可以直接在浏览器中将 Rockbox 的开机标志替换成你喜欢的任何图片。支持 Rockbox 所适配的每一款 iPod。\n\n在动任何一根导线之前，我去寻找了是否有人曾经做过这件事。搜索十分彻底，但也彻底一无所获：\n\n那个理论在每一个细节上全都是错的，在整个项目期间，E6 中断连一次都没有触发过。一次都没有。\n\n如果你花时间排查过冷僻的问题，你一定会知道 xkcd 979。寻找了十年，只有一个论坛帖子和你遇到的问题一模一样，而唯一的回复却是作者本人的“算了，我自己修好了”。\n\nxkcd 979《远古智者的智慧》（Wisdom of the Ancients），作者 Randall Munroe，遵循 CC BY-NC 2.5 许可协议\n\n搜索线控的有线协议只找出了唯一一条有价值的线索：2010 年 2 月的一篇 Hackaday 文章，以及对应的一条发布于 16 年前的 Reddit 讨论帖，内容是关于 David Carne 逆向工程 iPod shuffle 3G 耳机线控的事迹。那正是我的耳机所使用的同一款线控硬件。\n\n他的网站呢？挂了。david.carne.ca/shuffle_hax 甚至已经无法打开。当然会挂，毕竟都过去 16 年了。\n\n不过，与 DenverCoder9 的故事不同，远古智者的智慧最终得以重见天日。一个 tinymicros.com 的 wiki 镜像完整保留了那篇技术报告，而一个 GitHub 仓库（reverse-shuffle）仍然保留着用 Arduino 重新实现的配件握手逻辑。智者们终究留下了笔记。\n\nCarne 的数据一触即溃地推翻了我的串口协议假设。这个线控的简单程度远远超出了我的预想：\n\n那段高频鸣叫信号（chirp）是用于身份识别，而不是 DRM。Carne 通过用自己的普通电阻电路复现音量按钮证明了这一点，其中完全不需要专有芯片参与；原始线控只需在上电时发出其 ID 的鸣叫即可。\n\n一次 5 秒的长按测试确认了音量事件是真正的边沿信号：正好是一次按下事件和一次释放事件，间隔 6.3 秒，中间没有任何多余信号。\n\n一次协议测试引发了我在该项目中经历的最喜欢的愚蠢时刻。我自己的测试笔记上写着“点击中心按钮 3 次”，在测试过程中，我顺手按了三次 iPod 自身的点击轮中心，而不是耳机的按钮。日志尽职尽责地记录了三次调试屏幕重置，而线控事件为零。事实证明，当桌上有两个设备都带有“中心按钮”时，在笔记里写“中心按钮”是一件非常危险的事。\n\n在 2009 年的硬件上，通过耳机线控实现音量调节和播放/暂停。视频加速了 1.8 倍。\n\n接下来是整理代码以便提交：不同的构建配置、耳机拔出时的边缘情况、录音需要使用该芯片时会发生什么。这轮清理揪出了在我的 iPod 上日常使用绝对无法发现的三个 Bug：\n\n顺便提一下开发体验，因为它让我感到惊喜：Rockbox 提供了一个脚本（rockboxdev.sh），可以为你构建固定版本的交叉编译器 arm-elf-eabi-gcc 9.5.0，之后就只需要运行 make 即可。测试代码修改只需要在磁盘模式下把新鲜出炉的 rockbox.ipod 放入 /.rockbox/ 并重启。对于一个自 2001 年启动、面向数十种不同播放器的志愿者项目而言，其工具链的状态比我拿报酬参与过的某些商业产品还要好。\n\n作为 Gerrit 变更 7677 提交，题为“ipod6g: 添加有线耳机线控支持”（ipod6g: Add inline earphone remote support）。一个干净利落的提交，修改了 8 个文件，新增 318 行代码。\n\n然后我实际使用了一天，整个项目最精彩的一幕开场了：单按中心按钮有时会触发两次播放/暂停切换。\n\n面对一个汇报过去状态的硬件，软件去抖动根本无能为力。因此，中心按钮现在改为仅支持点击操作：每次去抖动上升沿只发出固定的 60 毫秒点击脉冲，完全不设长按语义，因为该芯片无法可靠地报告按键时长。\n\n趁着构建流水线还是热乎的，我的 iPod 还获得了一个个性化开机画面：一个霓虹风格的“Hemant's iPod”文字标志，缩小为 Rockbox 编译进二进制文件所需的 320x98 BMP 格式。原版开机画面是白色的，标志固定在顶部附近；一个微小的补丁将其清空为全黑并使其居中：\n\n那个就留作私人用途了，只存在于我自己的设备上。有些补丁是献给上游社区的，而有些补丁只是为了你自己。\n\n在我写下这篇文章时，变更 7677 正在审核中，因此本文的结局是“待定”，而不是“已合并”。\n\n在文末作一个声明：所有这一切对我来说都是全新的。在此项目之前，我从未接触过 Rockbox 代码库，我对 iPod 内部运作机制的所有了解全都是一路摸索学来的。因此，如果这里提到的内容在嵌入式圈子里早已是老生常谈，或者我自豪地重复发明了自 2005 年以来就已有正式命名的轮子，还请多多包涵。\n\n待办愿望清单上仍然保留的内容：多次连击手势（双击切换下一曲显而易见属于此类），以及利用配件 ID 事件仅在实际连接线控时才给麦克风线路供电，这样在插入普通耳机时可以节省一点电量。\n\n这种冲动，与复活一台 10 年前的 Kindle、在浏览器中将其越狱，以及把一台 iPhone 8 改造成太阳能驱动的 OCR 服务器背后的冲动完全一致：如此优秀的硬件不应该被荒废的软件所限制。在 2026 年让一台 2009 年的 iPod 重新拥有可用的耳机线控，这种感觉刚刚好。至于这种折腾史的前一个章节，可以看看在 Claude 思考时会旋转的桌面玩具。\n\n最后更新时间：2026 年 7 月",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T19:58:31.000Z",
+            "url": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/"
+          }
+        ]
+      },
+      {
+        "id": "story-bridization-species-html-18dd279b8ee482d3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Japan's 2011 tsunami sparked fish hybridization, but species boundaries largely held",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T20:00:01.000Z",
+        "pubTime": "2026-09-28 04:00",
+        "url": "https://phys.org/news/2026-09-japan-tsunami-fish-hybridization-species.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-2011-tsunami-trigg.jpg",
+        "fullContent": "How are species boundaries maintained in the face of environmental disturbance? This is not only a fundamental question in evolutionary biology but also an increasingly important one as human activities and climate change alter habitats and bring previously separated species into contact.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-japan-tsunami-fish-hybridization-species.html",
+            "publishedAt": "2026-09-27T20:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-seven-day-truce-proposal-ec7a283e05ec7912",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:10:44.000Z",
+        "pubTime": "2026-09-28 06:10",
+        "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+        "imageUrl": "https://s.france24.com/media/display/4817a61c-ba8a-11f1-b4fe-8f3418d01115/w:1024/p:16x9/040b658896f965b502ca28b500bf7f44524d2c6c.jpg",
+        "fullContent": "US President Donald Trump said on Sunday he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump has raised the possibility of renewed air strikes on Iran, but told Axios he anticipated further negotiations.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-28 06:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+            "publishedAt": "2026-09-27T22:10:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-hallucinations-music-566a52e15e047c95",
+        "title": "Engram 采样器：将破碎的 AI“幻觉”转化为音乐",
+        "originalTitle": "Engram is a sampler that turns broken AI hallucinations into music",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T20:46:36.000Z",
+        "pubTime": "2026-09-28 04:46",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nThoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nMusic startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It’s a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn’t Suno in a box, though. This isn’t a “push-button, get-song” device, aimed at creating something that sounds ready for top-40 radio. It’s about creating experimental, uncanny sounds and pushing AI audio models beyond their limits.\n\nEngram isn’t connected to the internet. Instead, it runs a “tiny AI” locally. According to the Kickstarter listing, the model is designed in-house and custom-trained. The company says:\n\n“We’ve trained our audio models on open datasets that only contain audio licensed for commercial use (CC-BY or similar). We have not trained and will never train our models on non-commercial, pirated, or otherwise stolen data.”\n\nThe company also plans to open up Engram’s firmware so that others can tweak it or load their own custom models. In the campaign video, founder Evan King uses his voice to ask for “piano,” and Engram spits out something glitchy and vaguely piano-like. He says to think of Engram as a “field recorder for latent space.” It’s about exploring the world of AI hallucinations and experimental sound design. It even draws inspiration from circuit bending, allowing you to tweak and even break its tiny AI models.\n\nThoughtful Things is launching with a limited run of Engrams for the Kickstarter campaign, starting at $675. The company hasn’t said what the retail price will be, though it’s likely to be between $850 and $900, as the $675 pledge is listed as a 30 percent discount.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n查看所有娱乐内容\nThoughtful Things 表示，Engram 是一个“用于潜在空间的实地录音机”，也是针对微型 AI 模型的“电路扰动”（circuit-bending）设备。\n来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n查看 Terrence O'Brien 的所有文章\n音乐初创公司 Thoughtful Things 刚刚在 Kickstarter 上为其首款乐器 Engram 发起了众筹项目。这是一款采样器与律动工作站（groovebox），它利用人工智能来破环、重塑输入的音频，甚至能“幻觉”出全新的声音。不过，这并不是盒子里的 Suno。它并不是一款“一键生成歌曲”、旨在制作能直接登上四十强广播单曲榜音乐的设备。它的核心在于创造实验性的、不可思议的声音，并将 AI 音频模型推向极限。\nEngram 没有连接互联网。相反，它在本地运行一个“微型 AI”。根据 Kickstarter 页面介绍，该模型由内部自主设计并定制训练。该公司表示：\n“我们在仅包含已授权商业使用（CC-BY 或类似许可）音频的开放数据集上训练了我们的音频模型。我们没有、也绝不会使用非商业、盗版或以其他方式窃取的数据来训练我们的模型。”\n该公司还计划开源 Engram 的固件，以便其他人可以对其进行调整或加载他们自己的自定义模型。在宣传视频中，创始人埃文·金（Evan King）用声音发出指令要求“钢琴”，Engram 随即吐出了一种带有故障音（glitchy）、隐约像钢琴的声音。他表示，可以把 Engram 视为“潜在空间的实地录音机”。它旨在探索 AI 幻觉和实验性声音设计的世界。它甚至从“电路扰动”（circuit bending）中汲取灵感，允许你微调乃至破坏其微型 AI 模型。\nThoughtful Things 在 Kickstarter 众筹活动中限量发售 Engram，起售价为 675 美元。该公司尚未公布零售价，不过价格可能在 850 美元至 900 美元之间，因为 675 美元的认缴价格标注为七折优惠（降价 30%）。\n一份汇聚最重要新闻的免费每日文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：将Engram塑造成一种用于实验性声音探索的本地化AI乐器，而非一键生成流行歌曲的设备。报道突出其可将输入音频变形、生成陌生声音、在离线环境运行、支持固件和模型定制等特点，并采用公司“潜空间现场录音机”“电路弯曲”等概念强化探索性和实验性叙事。同时提及售价、众筹折扣及预计零售价。文中关于训练数据合规、模型能力和产品定位的部分主要是公司叙述，不应视为已独立验证的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T20:46:36.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+          }
+        ]
+      },
+      {
+        "id": "story-c-453e-b9db-92156107c5ce-2eed8d26674c05f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "UK to restart resettlement scheme, Mahmood to tell Labour conference",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:43:40.000Z",
+        "pubTime": "2026-09-28 05:43",
+        "url": "https://www.ft.com/content/878402a7-eeac-453e-b9db-92156107c5ce?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb18f9d37-78f2-4f53-af16-766123717bdf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Home secretary to portray the initiative as an opportunity for ‘genuine refugees’ to live in Britain",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-28 05:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/878402a7-eeac-453e-b9db-92156107c5ce?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T21:43:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-efficient-cpp-code-php-a38e878639c4f069",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing Efficient C++ Code",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:03:12.000Z",
+        "pubTime": "2026-09-28 02:03",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "imageUrl": null,
+        "fullContent": "Productions » Publications »\n\nThis article was originally published in Polish in issue 4/2013 (11) of Programista magazine.\n\nAlthough high-level languages—scripting, interpreted, or running in a virtual machine—have many advantages and are the best choice for numerous applications, sometimes we need to write code that is as efficient as possible. Choosing a native language such as C++ is not enough. Only some knowledge and familiarity with good practices will let us get the most computing power out of the hardware.\n\nC++ is an unusual language: complex, difficult to master, and controversial in some respects. Yet in many applications, especially where performance matters, such as game programming, it is often the best or even the only choice. This is because it has a unique property that makes it a kind of compromise. It is high-level: it supports object-oriented programming and convenient use or creation of custom types and data structures, such as vectors, strings, and other STL containers. At the same time, it is low-level enough to give us access, in a sense, to the hardware itself, or rather to the operating system: no virtual machine or framework stands in the way. We must manage memory allocation and deallocation ourselves, but that also means there is no garbage collector doing it in its own way at unpredictable moments. Moreover, an enormous number of libraries exist for C++ (and for C, with which it is partly backward compatible), and compilers are available for many platforms.\n\nIn a sense, one could even say that native code is coming back into favor. Although software is becoming increasingly complex and hardware increasingly fast, we still need efficient code in our programs. Some say that a faster processor or more RAM costs less than a good programmer's time. But what if a program, once written, is to run for many years or be installed on millions of machines? Performance matters both in computing clusters and data centers, where power and cooling costs can be enormous, and in the smallest devices, such as smartphones and tablets, where we want the longest possible battery life. There are also applications in which code must run at a specified speed without compromise. These include programs that process data in real time, such as games (where a drop in FPS, frames per second, destroys the impression of smooth animation and causes unpleasant stuttering) or real-time processing of media streams at a specified bitrate. Nor can we always set arbitrarily high hardware requirements. Game consoles, for example, have a fixed processor speed and amount of RAM. Even of a PC we cannot demand the latest components if we are writing a simple casual game rather than a new version of Crysis.\n\nObject-oriented programming seems to be a remedy for the difficulties faced by programmers and teams for whom writing large systems in a structured way—the “old-fashioned” way—would be too hard. In object-oriented programming, code consists of classes, which not only group data (fields) and the procedures that operate on it (methods), but above all serve as abstractions of concepts from the real world or from the problem domain. Classes should also be, at least in theory, as independent and reusable elsewhere as possible.\n\nObject-oriented programming can, however, be understood in two ways: conceptually, by thinking about the philosophy behind its elements, or technically, by treating it as a programming-language mechanism used for convenience. It is also worth understanding how it all works “under the hood” and what properties and limitations follow from that. Following only the first approach can take us too far from the level at which a programmer should remain when aiming to write efficient code.\n\nWhat, then, is the solution? Supporters of an approach called Data-Oriented Design (DOD) suggest a somewhat different way of thinking. The term has become popular in recent years, especially among game programmers. It means focusing during design and coding on the data that will be stored: its layout in memory and the design of suitable data structures, and only then on the algorithms that will operate on it. This may seem like a return to the old idea of structured programming, but it does not rule out using classes and all the benefits of object-oriented programming. It is more a way of thinking that stays closer to the hardware and uses the language's available mechanisms to create code that is not only “elegant” but also simple and efficient.\n\nLook at Figure 1. It symbolically shows how data is laid out in memory. On the left are structures scattered far apart and connected by pointers. This happens when we use many small objects of different classes that refer to one another. Code written this way can be inefficient for two reasons. The first is frequent cache misses when traversing such data because we “jump” through pointers. This is discussed in more detail below.\n\nThe second reason is the difficulty of parallelizing code that operates on such objects. If all we have are the classes' public methods (often virtual), and our assumption is that we do not know what happens inside them (or inside all their derived classes), then by definition we cannot safely run them on multiple threads. We do not know which other objects they refer to during those operations. Using threads, meanwhile, often requires protecting shared data with mutexes (critical sections), which effectively serialize the code and prevent it from running fully in parallel.\n\nThe right side of the figure, in turn, shows the idea of a regular data structure (such as an array) that we process by performing successive operations on it: sorting, updating particular fields, deleting elements, or converting every element to another form. If the data is “transparent” and we know exactly what operation we want to perform, and if applying it to each element of the collection is independent of the other elements and the rest of the program, then we can easily parallelize the algorithm, for example by dividing the range of elements among threads.\n\nBlindly following object-oriented programming brings other pitfalls too. Some people instinctively wrap every piece of functionality they use, such as a library, in a wrapper of their own that is supposed to simplify its interface or make it (subjectively) more elegant. Such an extra layer, especially when it introduces its own logic or uses virtual methods, adds runtime overhead. I suggest instead making a habit of asking each time whether, in this particular case, we could simply use certain functions and classes directly, without adding another layer of abstraction. There is a similar tendency to make everything as general and universal as possible. Defining an interface consisting entirely of virtual methods and promising ourselves that we can replace the implementation with a completely different one without changing the interface is tempting, but do we really need that here and now? Design patterns, too, are sometimes overused as ready-made solutions that replace deeper thought about the code. In fact, simple solutions are often best. If we try to express as directly as possible what data a program must store and what operations it must perform on that data, the code will be simple, elegant, readable, and efficient at the same time. This contradicts the popular view that optimization means making code complicated and unreadable.\n\nIt might seem that each processor instruction reads some data from specified addresses in RAM in one cycle, performs an operation on it (such as addition), and writes the result back to memory. In practice it is not that simple. The complex CISC instructions that make up x86 code are translated into microcode inside the processor and executed in multiple steps that may take more or less time. The operation itself may be simple, but reading or writing data in memory takes additional time.\n\nIn the past, in the 1980s, processors did indeed access RAM directly and could perform such operations in single cycles. Today, unfortunately, the speed at which a processor can perform computations is increasing much faster than RAM performance. This gap keeps growing, and already the time needed to read a piece of data—even a single byte—from a modern computer's main memory is equivalent to several hundred processor cycles! Remember that bandwidth, the rate of data transfer (measured in bits per second), differs from latency, the time required for requested data to reach its destination (measured in fractions of a second).\n\nComputer designers naturally look for solutions to this problem. This is why cache was created: processor memory that holds recently used data and is faster to access than main RAM. We can speak of an entire memory hierarchy whose successive levels have increasing capacity but decreasing speed. Consider, for example, a processor running at 3 GHz. Approximately speaking, it can perform 3 billion operations per second, so one simple operation (such as addition) takes about 0.33 ns. If access to a value in the L1 cache takes 1 ns, that delay is equivalent to executing 3 instructions (3 cycles). Table 1 gives estimated figures for the memory hierarchy in such an example computer system.\n\nTable 1: Memory hierarchy\n\nIn a typical computer system, we do not control the cache directly. It is managed automatically to speed up access to recently used data. How, then, can we benefit from its speed? We need a basic understanding of how it works. When previously unused data is accessed in RAM, it is read and used for computation, but it also enters the cache. The data is not transferred one byte at a time: an entire cache line, for example 64 bytes wide, is transferred. The whole line is read from RAM and kept in the cache, so until it is replaced by other data (the cache is smaller than RAM, so it holds only recently used entries), access to any of those bytes is fast because the processor can use the cache without accessing RAM. This is called a cache hit. The opposite is a cache miss, which requires accessing main memory and takes much longer.\n\nWhat does this mean for us? To benefit from the cache, we should arrange data in memory so that values frequently used together lie next to one another. Then there is a good chance those values will already be in the cache when the code needs them. Good practices therefore include:\n\nA bad practice, by contrast, is to use many small objects allocated separately and scattered through memory. Similarly, the poor performance caused by frequent cache misses can affect data structures that are traversed by “jumping” through pointers, such as linked lists, trees, and graphs.\n\nConsider, for example, a collection of objects that we need to build in a program, then keep in memory, traverse in sorted order, and search quickly. To keep the elements sorted, we might choose some kind of binary tree or a similar structure that can maintain order and find elements in logarithmic time, such as the STL containers std::set or std::map. But these structures allocate each element dynamically on the heap and link them with pointers, making construction and traversal slow. The asymptotic complexity of searching is good, of course, but the constant factor can make performance poor for the reasons described above.\n\nSometimes we can find another solution that is no worse in theoretical complexity and faster in practice. If we build the structure once and then no longer need to insert or remove elements, use a plain array. After adding all the elements, we sort it once. We can then find elements in the sorted array in logarithmic time with binary search. Traversal will be much faster thanks to good cache use, because consecutive elements lie next to one another in memory.\n\nThe memory hierarchy described above, in which accessing each lower level is slower than accessing the previous one, can be extended to other kinds of operations. Just as pyramids are drawn in various fields of science (such as the hierarchy of needs), imagine a “performance pyramid”—Figure 2. This is not a strict classification, only one possible way of illustrating selected operations. An operation at each lower level is at least an order of magnitude slower than one at the level above. To write efficient code, we should be aware of this and, where possible, avoid performing operations from the lower levels too often. The levels represent:\n\nParticle systems are a popular effect in 3D graphics. Briefly, they store a collection of particles and their properties (such as current position, velocity, and color), then update and render them in every animation frame (many times per second). As you can probably guess from the previous section, we should not allocate particle structures dynamically as separate objects, but store them in an array: a contiguous area of memory. Let us see how we can optimize them further. Look at Listing 1. The first approach, called AOS—Array of Structures—seems intuitive. We define a structure representing one particle and describing all its parameters. The class responsible for the entire particle effect then stores the number of particles and a pointer to an array of these structures.\n\nListing 1. AOS versus SOA in a particle system\n\nAnother approach is possible. The second example is SOA—Structure of Arrays. Here the particle-system class directly stores arrays containing individual parameters of successive particles. There is an array of positions, an array of velocities, an array of colors, and so on, all with the same number of elements, equal to the particle count. Depending on the particular case, this approach can be more efficient if it groups data by usage pattern and separates “hot” data—what we need now and what enters the cache—from “cold” data. This happens, for example, when we want to traverse all particles and update their positions from their velocities. In the second approach, those values lie closer together in memory and are not interleaved with colors that we do not currently need. Figure 3 shows the layout.\n\nWriting efficient code is not solely a matter of designing data structures and algorithms at a high level. Even when writing individual functions, we can do much to avoid pitfalls that unnecessarily harm performance. C++ offers many conveniences, but it also lets us choose whether to use them or to write code much as we would in C.\n\nIn many cases it is therefore worth forgoing and completely disabling some features, such as exception handling or RTTI. Although the subject is somewhat controversial, these mechanisms are sometimes said to have a negative effect on code performance. That does not mean they are worthless or poorly implemented. We can, however, ask whether our program needs them and, if it does not, disable them in the compiler options.\n\nThe occasionally repeated claim that we cannot write something better than the creators of the compiler, standard library, or another popular and proven library is false. Their code was surely written by excellent programmers, but when writing our own program we know the specific case in which we need a feature: its requirements and constraints. Run-time type identification, error handling, and many other tasks can therefore sometimes be implemented better ourselves, in a way suited to the project's needs. Memory allocation is the best example. The system allocator is good in the way any general-purpose allocator can be good. But if, in one part of a program, we need to allocate objects of a known, fixed size and we know an upper bound on their number, there is no doubt that a custom allocator based on a preallocated pool of free cells (a free list) will be more efficient.\n\nThe same applies to the STL. It is a very good library. One could even say that it favors performance at the expense of safety: for example, it does not check bounds when accessing a vector element with the [] operator (at least in Release configuration; the Visual Studio implementation checks with an assertion in Debug). Using it still requires knowledge and awareness, not only of the available functions and concepts such as iterators, but also of its internal implementation. The containers list, set, multiset, map, and multimap dynamically allocate every element as a separate object in memory, which hurts performance for the reasons given above. By contrast, std::vector stores its elements in a contiguous area of memory, like a plain array, so we can use it for convenience instead of dynamically allocated arrays without fearing a loss of performance (again, in Release configuration, because code that uses the STL heavily performs much worse in Debug, precisely because of additional safety checks). Some things can nevertheless be written better, as the programmers at Electronic Arts did when they created EASTL, an STL replacement optimized for game programming, whose code (though incomplete) they made freely available on the Internet some time ago.\n\nListing 2. Pointer aliasing\n\nExplicitly copying vector s to a local variable, passing it by value, or using the nonstandard keyword __restrict would help here. The latter tells the compiler that pointer aliasing does not occur in the current scope.\n\nAnother example is declaring variables inside a loop. The compiler handles variables of simple types such as int very well, but cannot reason for us about the use of more complex constructs. Let us experiment with a variable of type std::string. Listing 3 is the first version of the code. Two million times, the loop constructs a string from a prefix, a number, and a suffix, then copies it somewhere into a global variable. On my computer, this code takes an average of 0.36 seconds.\n\nListing 3. Declaring a string inside the loop\n\nNow let us make a simple optimization. In the new version in Listing 4, the string is declared before the loop and merely cleared at the beginning of each iteration by calling",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T18:03:12.000Z",
+            "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-0928-adg-2120600612-html-52baea699da76cbc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "АдГ поддерживает контакты со спецпредставителем президента Дмитриевым",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T22:13:26.000Z",
+        "pubTime": "2026-09-28 06:13",
+        "url": "https://ria.ru/20260928/adg-2120600612.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 06:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/adg-2120600612.html",
+            "publishedAt": "2026-09-27T22:13:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-zy-sim-video-game-review-8c713bebedaca020",
+        "title": "《全垒打棒球》让我即使在大都会队表现糟糕时，也能享受棒球的乐趣",
+        "originalTitle": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:59:57.000Z",
+        "pubTime": "2026-09-28 05:59",
+        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Games Review\n\nOOTP Baseball is a nitty gritty hyper-realistic baseball sim that puts you in the GMs office.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nIf you were to ask me what game or game series I’ve sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn’t like MLB The Show or Super Mega Baseball. It’s not graphically impressive. It’s not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It’s fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\n\nYou can play individual games and dig into play-by-play managing in OOTP if you want. But that becomes tedious. And frankly, it’s not where the game is the most fun. Instead, I think the game is at its best when you sit in the GM’s chair and maybe make some helpful “suggestions” about how to structure the lineup or bullpen.\n\nThe UI is complicated and dense. 90 percent of the time, you’re just looking at rows of stats and scouting reports. And the level of detail is deep. OOTP includes not just current MLB players, but historical MLB players, all minor league teams, Korea’s KBO League, and even the entire World Baseball Classic.\n\nThere’s something thrilling about digging through all this info and trying to find that diamond in the rough during a draft. Someone who might become the new franchise player for your favorite team in this alternate universe. Deciding whether to bet on that prospect developing into a superstar, or to trade them for an undeniable big-league All-Star is stressful. And you even have to worry about fans abandoning you if you fail to re-sign your favorite player.\n\nOn my Mets, Brandon Nimmo isn’t just a good player, he’s a damned superstar. Kodai Senga has won three Cy Young Awards. I signed Juan Soto, but also traded a raft of mid-tier prospects for Ronald Acuña Jr., made the playoffs four years in a row, and eventually won a World Series. (Look, as a Mets fan, I need this fantasy world, don’t harsh my vibe.)\n\nPerhaps the best part of OOTP Baseball, though, is that it kinda lets you play however you want. It’s deeply customizable. You can manually play every game if you want. Or you can speed-simulate entire seasons in a couple of hours. Want an easier experience where players don’t get hurt? Turn down or off injuries. Don’t want to worry about budgets? Play in commissioner mode and tell the team owner where to stick it. And because it mostly just sits there, statically waiting for you, it’s easy to just leave it running in the background and dip in and out when you’ve got a few spare minutes.\n\nOOTP Baseball is a cozy sim for a very particular brand of sports nerd. If you love fantasy baseball and wish you could play it year-round (and don’t want to deal with friends arguing about whether their bid for Alonso came in on time), or maybe you dig the idea of a cozy game like Tiny Bookshop, but wish they had a more Sabermetric bent, OOTP Baseball might be for you.\n\nThe current version, OOTP Baseball 27, is available now on Steam or directly from the developer.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题的内容将被添加到您的每日精选邮件和主页信息流中。\n查看所有游戏评测\n《全垒打棒球》（OOTP Baseball）是一款关注细节、高度逼真的棒球模拟游戏，让您亲身体验总经理（GM）的工作。\n该作者的内容将被添加到您的每日精选邮件和主页信息流中。\n查看特伦斯·奥布莱恩（Terrence O'Brien）的所有作品\n如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德声明。\n\n如果你问我投入时间最多的是哪款游戏或哪个游戏系列，答案显而易见：那就是《全垒打棒球》（Out of the Park Baseball，简称 OOTP）。根据 Steam 的记录，我在该游戏的各个版本中总共花费了大约 2300 个小时。OOTP 与《MLB The Show》或《超级棒球》（Super Mega Baseball）截然不同。它的画面并不惊艳，也不是那种能带来纯粹街机快感的爽游。本质上，它就是一个伪装成电子游戏的电子表格。它就像是梦幻棒球（Fantasy Baseball），但你无需苦等六个月去看选秀捡漏的“黑马”有多令人失望，因为在短短几个小时内，你就能飞速打完一整个赛季。\n\n如果你愿意，你可以在 OOTP 中亲自操控单场比赛，深入每一个回合的战术指挥。但这很快就会变得乏味。而且坦白说，这并不是该游戏最好玩的地方。相反，我认为这款游戏最精彩的时刻，是你坐在总经理的办公室里，顺便就球队阵容或牛棚的搭建提出一些有益的“建议”。\n\n游戏的用户界面复杂而密集。90% 的时间里，你都只是在盯着一排排的数据和球探报告。其详尽程度令人惊叹。OOTP 不仅包含现役的 MLB 球员，还收录了历史上的 MLB 传奇、所有小联盟球队、韩国职棒联赛（KBO），甚至包括整个世界棒球经典赛（WBC）。\n\n深入挖掘所有这些信息，并在选秀中努力发掘未被雕琢的璞玉，有一种令人激动的快感——那个人或许会在这个平行宇宙中成为你心爱球队的下一位当家球星。是该押注这位新秀能成长为超级巨星，还是将他们交易以换来一位无可挑剔的大联盟全明星？做这种抉择充满了压力。甚至，如果你没能续约心爱的球员，还得担心球迷会离你而去。\n\n在我掌管的大都会队中，布兰登·尼莫（Brandon Nimmo）不仅是个优秀球员，更是一位不折不扣的超级巨星。千贺滉大斩获了三座赛扬奖。我签下了胡安·索托（Juan Soto），同时用一大批中游新秀换来了罗纳德·阿库尼亚（Ronald Acuña Jr.），连续四年闯入季后赛，并最终夺得了世界大赛冠军。（听着，作为一名大都会队球迷，我需要这个幻想世界，别扫我的兴。）\n\n不过，OOTP Baseball 最棒的地方或许在于，它在某种程度上允许你随心所欲地去玩。它的自定义程度极高。如果你愿意，你可以手动打完每一场比赛；也可以在几个小时内快速模拟完数个赛季。想要更轻松、没有球员受伤的体验？调低或直接关闭伤病设置。不想为预算操心？开启联盟执行长模式（Commissioner Mode），让球队老板一边待着去。而且因为它大部分时间都是静止在那里等待你的指令，所以你完全可以把它放在后台运行，有空闲时间就切进来玩上几分钟。\n\n对于一类非常特殊的体育极客来说，OOTP Baseball 是一款令人惬意放松的模拟游戏。如果你热爱梦幻棒球，希望一整年都能玩上它（并且不想跟朋友为争论他们竞标阿隆索是否准时提交而扯皮）；又或者你很中意像《小小书店》（Tiny Bookshop）这种轻松舒缓的游戏理念，但希望它们带有一点棒球赛伯计量学（Sabermetrics）的硬核色彩，那么 OOTP Baseball 或许正是你的菜。\n\n当前最新版本《全垒打棒球 27》（OOTP Baseball 27）现已在 Steam 平台发售，亦可直接从开发商处购买。\n\n免费每日精选，汇聚最重要的新闻资讯。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "作者称自己根据 Steam 记录，游玩《Out of the Park Baseball》（OOTP）各个版本的累计时间约为2300小时。",
+          "文章称《Out of the Park Baseball》允许玩家在几小时内完成一个完整赛季。",
+          "来源叙事重点：报道将OOTP框定为面向特定体育数据爱好者的“舒适型”棒球经营模拟游戏，重点突出其高度真实、数据密集、可自定义、可快速模拟赛季以及涵盖多种棒球联赛和历史球员等特点。作者以约2300小时的个人游玩经历和纽约大都会队存档故事增强亲身体验感，同时承认其界面复杂、缺乏图形表现和即时街机乐趣，并将其与《MLB The Show》《Super Mega Baseball》等作品区分开来。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T21:59:57.000Z",
+            "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:00:00.000Z",
+        "pubTime": "2026-09-28 06:00",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-your-go-code-to-github-a3f87b429b1324d9",
+        "title": "别让你的 Go 代码与 GitHub 强耦合",
+        "originalTitle": "Don't couple your Go code to GitHub",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T20:17:42.000Z",
+        "pubTime": "2026-09-28 04:17",
+        "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "imageUrl": null,
+        "fullContent": "Home Blog Categories\n\nOne of the good features of Go is that you namespace your code with the location to fetch the code. This means if you host your Go code at http://github.com/thetrueares/boneclone then you have the line import “github.com/thetrueares/boneclone” and Go will fetch it using git. This makes it super easy to know where to go to report bugs for open source libraries and really easy to fetch and distribute go libraries without a centralised package management system. For many, it’s literally the location of the git hosting, but this has some downsides, and you should use your own custom domain, and I’ll explain why.\n\nThe main problem with using your git hosting location is that your code is now coupled to a hosting provider. That is, if you move your git hosting to GitLab then you have to change your code! Otherwise, you’ll be fetching the old verison. This can result in you being unable to change git hosting provider because the amount of overhead in switching. So you literally end up with your code coupled to GitHub. Which sounds completely nuts, but it’s something that is pretty much defacto in the Go community.\n\nI’ve seen this problem become such a huge issue for a company that were using GitLab, GitHub, and Azure Devops at the sametime because changing the location of the code was such a large task for them and they didn’t “have time” that it was easier for them to operate on three platforms. And is why I built Boneclone to handle skeleton code replication across multiple git hosting platforms at the same time. So this problem literally cost the company money since they had to pay for three hosting services at the same time.\n\nThe solution is to use custom domains such as go.iain.rocks, go.uber.org, go.mongodb.org, etc. This allows you to just change where those domains point to. For example, go.iain.rocks/boneclone points to github.com/thetrueares/boneclone and if I move to GitLab nothing will change for the end users the install command is the same.\n\nIn my opinion, every commerical software development team using Go should be using custom domains for namespacing their internal libraries and packages. As it’s an easy way to avoid any pointless coupling.\n\nHere is a copy of my configs so you can set it up for your projects too.",
+        "fullTranslation": "首页 博客 分类\n\nGo 语言的一大优秀特性在于，你可以通过拉取代码的路径位置来为代码定义命名空间。这意味着，如果你将 Go 代码托管在 http://github.com/thetrueares/boneclone，你的代码中就会包含 import “github.com/thetrueares/boneclone” 这一行，随后 Go 就会通过 Git 来拉取它。这使得寻找开源库的缺陷报告地址变得极其简单，而且在无需中心化包管理系统的情况下，拉取和分发 Go 库也变得轻而易举。对许多人来说，命名空间名副其实就是 Git 托管的具体地址，但这带来了一些弊端，你应该使用属于自己的自定义域名，下文我将阐述原因。\n\n直接使用 Git 托管地址的核心问题在于，你的代码自此便与某一家代码托管服务商绑定在了一起。也就是说，如果你把 Git 托管迁移到 GitLab，你就不得不修改你的代码！否则，你拉取的仍将是旧版本。这可能会导致你无法更换 Git 托管服务商，因为迁移带来的开销过于庞大。因此，你实际上落入了代码与 GitHub 深度绑定的境地。这听起来极其荒谬，但在 Go 社区中却几乎已成事实上的标准。\n\n我曾亲眼目睹这个问题给一家公司造成了巨大困扰：他们同时使用 GitLab、GitHub 和 Azure DevOps，因为对他们而言更改代码路径是一项极其繁重的任务，而且他们“腾不出时间”，以至于让他们在三个平台上同时运转反而显得更为省事。这也是我开发 Boneclone 来同时处理跨多个 Git 托管平台的骨架代码同步的原因。所以，该问题实打实地让公司耗费了真金白银，因为他们必须同时为三家托管服务付费。\n\n解决办法是采用自定义域名，例如 go.iain.rocks、go.uber.org、go.mongodb.org 等。这样一来，你只需修改这些域名的解析重定向目标即可。举例来说，go.iain.rocks/boneclone 指向 github.com/thetrueares/boneclone，哪怕我后续迁移到了 GitLab，对终端用户来说也不会有任何改变，安装命令依然一模一样。\n\n在我看来，任何使用 Go 的商业软件开发团队，都应当使用自定义域名来规划其内部库和内部包的命名空间。因为这是避免任何无谓耦合的一种极为轻松的途径。\n\n以下是我的配置副本，供你在自己的项目中参考并设置。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "来源叙事重点：文章将 Go 代码导入路径直接绑定 GitHub 等托管平台描述为一种架构耦合，强调迁移托管平台时可能需要修改代码、增加切换成本，甚至导致企业同时维护 GitLab、GitHub 和 Azure DevOps 等多个平台。作者提出使用 go.iain.rocks、go.uber.org、go.mongodb.org 等自定义域名作为稳定命名空间，通过调整域名指向来隐藏底层托管平台变化，并提供配置作为实践参考。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T20:17:42.000Z",
+            "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github"
+          }
+        ]
+      },
+      {
+        "id": "story-ble-limiting-global-html-a155197ede3a25b0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Who is responsible for limiting global warming to 1.5°?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:00:01.000Z",
+        "pubTime": "2026-09-28 05:00",
+        "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/global-warming-1.jpg",
+        "fullContent": "Even if industry rapidly becomes more sustainable, households will still need to change their lifestyles to meet climate targets. Industrial ecologist Stephanie Cap warns that households cannot do this alone: Businesses and governments must create the conditions to make these changes possible. Cap defends her dissertation titled \"Everything Must Change: 1.5°C decarbonisation scenarios across industries and households\" on Oct. 1.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+            "publishedAt": "2026-09-27T21:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nterview-transcript-html-2f112acb00b3882c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:11:12.000Z",
+        "pubTime": "2026-09-28 06:11",
+        "url": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-canada-carney-transcript-photo-hglz/27int-canada-carney-transcript-photo-hglz-mediumSquareAt3X.jpg",
+        "fullContent": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-28 06:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+            "publishedAt": "2026-09-27T22:11:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--terminator-paradox-html-cd821f5b175fded3",
+        "title": "月球晨昏线悖论",
+        "originalTitle": "Lunar Terminator Paradox",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:06:17.000Z",
+        "pubTime": "2026-09-28 05:06",
+        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "imageUrl": null,
+        "fullContent": "There's an optical illusion known by names like the \"lunar terminator paradox\". This has much discussion and descriptions online, but none made sense in my head, so I wrote this program to figure out what was going on. The paradox:\n\nI was camping in the mountains with a friend recently. We were looking up at the sky, just after the sun has set. The moon was clearly pointing up.\n\nAfter playing with this program, I have clarity: we're looking up at the moon from below. The most pathological case is a full moon. Let's say the moon is on the horizon: elevation=0. If we're looking at this low moon, and the moon is full, the sun is directly behind us. The moon is fully illuminated, and we see 100% of the moon disc lit up.\n\nNow, what happens if the moon is not at the horizon, but higher up at the sky? Effectively, the sun is infinitely far away, so the same part of the moon is lit up. But we're now looking at the moon from below, and we would see some of the dark side on the bottom edge. I.e. the moon appears bright at the top, but has a dark slice missing at the bottom: it points up! Even at sunset.\n\nThis is the most clearly weird case. A half-moon has no paradoxical behavior, and the more full the moon, the more clearly we can observe the bright moon pointing up despite the sun being down.\n\nI produce two plots. At 3/4-full moon at sunset we look at the moon as it rises from the horizon all the way up to the zenith:\n\nIf the moon is at the horizon (elevation = 0), we see the expected 3/4-lit disc. As the moon rises, we see more and more of its bottom, and thus more and more dark areas show up: It clearly points up at sunset!\n\nWe can also move the sun around. Let's say the moon is 60deg up; let's move the sun from new-moon to a full-moon:\n\nIn the darkest configuration, we can still see a lit crescent on the bottom: the illumination is all on the opposite side, but we can see a slice of the illuminated back side. As the sun swings around, we see more and more of the moon. At azimuth = 90deg, we have a half-lit moon. Past that, more and more of the moon is visible, always pointing up.\n\nThis was also a super interesting study of the current state of AI tools. As I was writing this and debugging, I would talk to Claude and Gemini about how this worked and what I should be seeing. They were both completely unable to comprehend this, and would make infinite circular arguments. Clearly they read some incomplete explanations on the internet (as I have), and lack the reasoning capability necessary to distill it into something resembling \"understanding\". AGI is not here yet.",
+        "fullTranslation": "有一种视错觉被称为“月球晨昏线悖论”（lunar terminator paradox）等名称。网络上对此有很多讨论和描述，但在我脑海中都说不通，所以我写了这个程序来弄清楚到底是怎么回事。这个悖论是这样的：\n\n最近我和一个朋友在山里露营。我们仰望天空，太阳刚刚落山。月亮明显朝上指着。\n\n在摆弄了这个程序之后，我终于明白了：我们是从下方仰视月球的。最极端的病态情况是满月。假设月亮在地平线上：仰角=0。如果我们看着这轮低垂的月亮，而此时正是满月，那么太阳就在我们正后方。月球被完全照亮，我们能看到100%被照亮的月盘。\n\n现在，如果月亮不在地平线上，而是在天空中更高的位置，会发生什么？实际上，由于太阳距离无限遥远，月球被照亮的部分仍然相同。但我们现在是从下方仰视月球，我们会看到其底边缘的一部分阴暗面。换句话说，月亮顶部看起来是明亮的，但底部缺失了一块阴暗的切片：它朝上指着！即使在日落时分也是如此。\n\n这是最明显诡异的情况。半月不会表现出任何悖论现象，而且月亮越圆，我们就越能清晰地观察到，尽管太阳已经落山，明亮的月亮依然朝上指着。\n\n我绘制了两张图表。在日落时分处于四分之三满月时，我们观察月亮从地平线一路升到天顶的过程：\n\n如果月亮在地平线上（仰角 = 0），我们会看到预期的四分之三明亮月盘。随着月亮升起，我们看到其底部越来越多的部分，因此出现越来越多的阴暗区域：在日落时分它明显朝上指着！\n\n我们也可以调整太阳的位置。假设月亮处于仰角60度；让我们把太阳从新月位置移动到满月位置：\n\n在最暗的构型下，我们依然能在底部看到一条明亮的新月牙：光照全部来自背面，但我们可以看到被照亮的背面边缘的一小截。随着太阳转动，我们看到的月亮面积越来越大。当方位角 = 90度时，我们看到半明半暗的月亮。超过这个角度后，月球可见的部分越来越多，并且始终朝上指着。\n\n这同时也是一次对当前AI工具现状非常有趣的研究。在我编写代码和调试的过程中，我曾与Claude和Gemini讨论过其运作原理以及我应该观察到什么现象。它们两者都完全无法理解这一点，并且陷入了无休止的循环论证。显然，它们在互联网上阅读了一些不完整的解释（就像我也读过一样），并且缺乏将其提炼为类似于“理解”所必需的推理能力。通用人工智能（AGI）尚未到来。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：报道重点是作者对月面受光与观察视角关系的个人建模：日落后从地面仰视月球时，观察者相当于从月球下方观看，月面底部可能显得更暗，使满月或接近满月的月牙形状看起来像“向上指”。文章还将作者与Claude、Gemini的交流作为案例，强调这些AI工具未能给出作者认为连贯的解释，并据此得出“AGI尚未到来”的判断。后者属于作者的评价性叙事，不是独立验证的技术结论。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T21:06:17.000Z",
+            "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:45:00.000Z",
+        "pubTime": "2026-09-28 05:45",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 05:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T21:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ipod-classic-mikey-chip-9f2d3e7375009da9",
+        "title": "逆向工程 iPod Classic 内部未公开的 Mikey 芯片",
+        "originalTitle": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T19:58:31.000Z",
+        "pubTime": "2026-09-28 03:58",
+        "url": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/",
+        "imageUrl": null,
+        "fullContent": "My iPod Classic (7th gen) runs Rockbox, and I love almost everything about that arrangement. But the inline remote on Apple’s wired earbuds (the center play/pause button and the volume clicker) did nothing. Never has, for anyone running Rockbox on this family of iPods.\n\nThe reason is sitting right there in the Rockbox source:\n\nAnd honestly, fair enough. Rockbox on this iPod exists because volunteers reverse engineered Apple hardware with zero documentation, for free, since January 2011. Music, clickwheel, recording, all of it figured out the hard way. The earbud remote just never made it to the top of anyone’s list: the 2014 commit that added the button-interrupt plumbing called remote events “work in progress”, and the TODO landed in the audio driver in 2017. Nobody picked it up since. So I did.\n\nIf you’re not here for the reverse engineering story and just want working earbud buttons: I’ve published a prebuilt Rockbox image with the remote driver as ipod6g-mikey-v1. It works on the iPod Classic 6G and 7th gen, and assumes your iPod already runs Rockbox (bootloader installed via the official Rockbox Utility).\n\nBonus: custom boot screen. While I was in there, I also built a Rockbox Boot Logo Patcher that swaps the Rockbox startup logo for any image you like, right in your browser. Works on every iPod Rockbox supports.\n\nBefore touching a wire, I went looking for anyone who had done this before. The search was thorough and completely empty:\n\nThat theory was wrong in every detail, and the E6 interrupt never fired once during the entire project. Not once.\n\nIf you’ve spent any time debugging obscure problems, you know xkcd 979. Ten years of searching, one forum thread with your exact problem, and the only reply is the author saying “never mind, fixed it.”\n\nxkcd 979 “Wisdom of the Ancients” by Randall Munroe, CC BY-NC 2.5\n\nSearching for the remote’s wire protocol surfaced exactly one thread to pull: a Hackaday post from February 2010 and a matching 16-year-old Reddit thread about David Carne reverse engineering the iPod shuffle 3G’s headphone remote. The same remote hardware my earbuds use.\n\nHis site? Dead. david.carne.ca/shuffle_hax doesn’t even load anymore. Of course it’s dead, it’s been 16 years.\n\nUnlike DenverCoder9, though, the wisdom of the ancients turned out to be recoverable. A tinymicros.com wiki mirror preserved the full writeup, and a GitHub repo (reverse-shuffle) still carries an Arduino re-implementation of the accessory handshake. The ancients left notes after all.\n\nCarne’s data detonated my serial-protocol theory on contact. The remote is much, much dumber than I assumed:\n\nThe chirp is identification, not DRM. Carne proved it by replicating the volume buttons with a plain resistor circuit of his own, no proprietary chip involved; the original remote just had to be attached at power-up to chirp its ID.\n\nA 5-second hold test confirmed the volume events are true edges: exactly one press event and one release event, 6.3 seconds apart, nothing in between.\n\nOne protocol test produced my favorite dumb moment of the project. My own test notes said “click the center button 3 times”, and mid-session I clicked the center of the iPod’s clickwheel three times instead of the earbud button. The log dutifully recorded three debug-screen resets and zero remote events. Turns out “center button” is a dangerous thing to write in your notes when there are two devices on the desk with center buttons.\n\nVolume and play/pause from the earbud remote, on hardware from 2009. Sped up 1.8x.\n\nThen came the cleanup for submission: different build configurations, edge cases around jack removal, what happens when recording wants the chip. That pass surfaced three bugs that daily use on my own iPod was never going to catch:\n\nA word on the developer experience, because it surprised me: Rockbox ships a script (rockboxdev.sh) that builds you the pinned cross-compiler, arm-elf-eabi-gcc 9.5.0, and from there it’s just make. Testing a change meant dropping the fresh rockbox.ipod into /.rockbox/ over disk mode and rebooting. For a volunteer project that’s been going since 2001 and targets dozens of different players, the tooling is in better shape than some products I’ve been paid to work on.\n\nSubmitted as Gerrit change 7677, “ipod6g: Add inline earphone remote support”. One clean commit, 8 files, 318 insertions.\n\nThen I actually lived with it for a day, and the best act of the whole project started: single clicks on the center button would sometimes toggle play/pause twice.\n\nThere’s no debouncing your way out of hardware that reports the past. So the center button is now click-only: every debounced rise emits a fixed 60ms click pulse, and there are no hold semantics at all, because the chip can’t reliably report press duration.\n\nWhile I had a build pipeline warmed up, my iPod also got a personalized boot screen: a neon “Hemant’s iPod” wordmark, downscaled to the 320x98 BMP that Rockbox compiles into the binary. The stock boot screen is white with the logo pinned near the top; a tiny patch clears to black and centers it:\n\nThat one stays personal, on my device only. Some patches are for upstream and some are just for you.\n\nChange 7677 is under review as I write this, so the ending of this post is “pending”, not “merged”.\n\nA caveat before I sign off: all of this was new to me. I’d never touched the Rockbox codebase before this project, and everything I know about how an iPod works on the inside I picked up along the way. So if something here is old news to the embedded crowd, or I’ve proudly reinvented a wheel that has had a proper name since 2005, pardon me.\n\nStill on the someday list: multi-click gestures (double-click for next track is the obvious one) and using the accessory-ID event to only power the mic line when a remote is actually attached, which would shave a little battery with plain headphones.\n\nThis is the same itch behind reviving a 10-year-old Kindle, jailbreaking one in a browser, and turning an iPhone 8 into a solar-powered OCR server: hardware this good shouldn’t be limited by abandoned software. A 2009 iPod with working earbud controls in 2026 feels right. And for a previous chapter of this kind of tinkering, there’s the desk toy that spins when Claude is thinking.\n\nLast updated: July 2026",
+        "fullTranslation": "我的 iPod Classic（第 7 代）运行着 Rockbox 系统，我非常喜欢这种搭配的一切。但是，苹果有线耳机上的线控（中间的播放/暂停按钮和音量调节键）完全不起作用。对于在这一系列 iPod 上运行 Rockbox 的任何人来说，从来就没有起作用过。\n\n原因就明明白白地写在 Rockbox 的源码里：\n\n坦白讲，这完全可以理解。Rockbox 之所以能在这款 iPod 上运行，是因为自 2011 年 1 月以来，志愿者们在毫无文档支持的情况下免费对苹果硬件进行了逆向工程。音乐播放、点击轮、录音功能，全都是历尽艰辛摸索出来的。耳机线控只是从未排进任何人的优先事项清单首位：2014 年添加按键中断底层架构的提交将线控事件称为“正在进行的工作”（work in progress），而该 TODO 待办项于 2017 年进入了音频驱动代码。此后便再无人接手。于是，我接手了。\n\n如果你不是来听逆向工程故事的，只是想让耳机按键正常工作：我已经发布了一个带有线控驱动的预构建 Rockbox 镜像，版本为 ipod6g-mikey-v1。它适用于 iPod Classic 6G 和第 7 代，前提是你的 iPod 已经运行了 Rockbox（通过官方 Rockbox Utility 安装了引导加载程序）。\n\n额外惊喜：自定义开机画面。在折腾的过程中，我还顺便制作了一个 Rockbox 开机 Logo 补丁工具（Rockbox Boot Logo Patcher），可以直接在浏览器中将 Rockbox 的开机标志替换成你喜欢的任何图片。支持 Rockbox 所适配的每一款 iPod。\n\n在动任何一根导线之前，我去寻找了是否有人曾经做过这件事。搜索十分彻底，但也彻底一无所获：\n\n那个理论在每一个细节上全都是错的，在整个项目期间，E6 中断连一次都没有触发过。一次都没有。\n\n如果你花时间排查过冷僻的问题，你一定会知道 xkcd 979。寻找了十年，只有一个论坛帖子和你遇到的问题一模一样，而唯一的回复却是作者本人的“算了，我自己修好了”。\n\nxkcd 979《远古智者的智慧》（Wisdom of the Ancients），作者 Randall Munroe，遵循 CC BY-NC 2.5 许可协议\n\n搜索线控的有线协议只找出了唯一一条有价值的线索：2010 年 2 月的一篇 Hackaday 文章，以及对应的一条发布于 16 年前的 Reddit 讨论帖，内容是关于 David Carne 逆向工程 iPod shuffle 3G 耳机线控的事迹。那正是我的耳机所使用的同一款线控硬件。\n\n他的网站呢？挂了。david.carne.ca/shuffle_hax 甚至已经无法打开。当然会挂，毕竟都过去 16 年了。\n\n不过，与 DenverCoder9 的故事不同，远古智者的智慧最终得以重见天日。一个 tinymicros.com 的 wiki 镜像完整保留了那篇技术报告，而一个 GitHub 仓库（reverse-shuffle）仍然保留着用 Arduino 重新实现的配件握手逻辑。智者们终究留下了笔记。\n\nCarne 的数据一触即溃地推翻了我的串口协议假设。这个线控的简单程度远远超出了我的预想：\n\n那段高频鸣叫信号（chirp）是用于身份识别，而不是 DRM。Carne 通过用自己的普通电阻电路复现音量按钮证明了这一点，其中完全不需要专有芯片参与；原始线控只需在上电时发出其 ID 的鸣叫即可。\n\n一次 5 秒的长按测试确认了音量事件是真正的边沿信号：正好是一次按下事件和一次释放事件，间隔 6.3 秒，中间没有任何多余信号。\n\n一次协议测试引发了我在该项目中经历的最喜欢的愚蠢时刻。我自己的测试笔记上写着“点击中心按钮 3 次”，在测试过程中，我顺手按了三次 iPod 自身的点击轮中心，而不是耳机的按钮。日志尽职尽责地记录了三次调试屏幕重置，而线控事件为零。事实证明，当桌上有两个设备都带有“中心按钮”时，在笔记里写“中心按钮”是一件非常危险的事。\n\n在 2009 年的硬件上，通过耳机线控实现音量调节和播放/暂停。视频加速了 1.8 倍。\n\n接下来是整理代码以便提交：不同的构建配置、耳机拔出时的边缘情况、录音需要使用该芯片时会发生什么。这轮清理揪出了在我的 iPod 上日常使用绝对无法发现的三个 Bug：\n\n顺便提一下开发体验，因为它让我感到惊喜：Rockbox 提供了一个脚本（rockboxdev.sh），可以为你构建固定版本的交叉编译器 arm-elf-eabi-gcc 9.5.0，之后就只需要运行 make 即可。测试代码修改只需要在磁盘模式下把新鲜出炉的 rockbox.ipod 放入 /.rockbox/ 并重启。对于一个自 2001 年启动、面向数十种不同播放器的志愿者项目而言，其工具链的状态比我拿报酬参与过的某些商业产品还要好。\n\n作为 Gerrit 变更 7677 提交，题为“ipod6g: 添加有线耳机线控支持”（ipod6g: Add inline earphone remote support）。一个干净利落的提交，修改了 8 个文件，新增 318 行代码。\n\n然后我实际使用了一天，整个项目最精彩的一幕开场了：单按中心按钮有时会触发两次播放/暂停切换。\n\n面对一个汇报过去状态的硬件，软件去抖动根本无能为力。因此，中心按钮现在改为仅支持点击操作：每次去抖动上升沿只发出固定的 60 毫秒点击脉冲，完全不设长按语义，因为该芯片无法可靠地报告按键时长。\n\n趁着构建流水线还是热乎的，我的 iPod 还获得了一个个性化开机画面：一个霓虹风格的“Hemant's iPod”文字标志，缩小为 Rockbox 编译进二进制文件所需的 320x98 BMP 格式。原版开机画面是白色的，标志固定在顶部附近；一个微小的补丁将其清空为全黑并使其居中：\n\n那个就留作私人用途了，只存在于我自己的设备上。有些补丁是献给上游社区的，而有些补丁只是为了你自己。\n\n在我写下这篇文章时，变更 7677 正在审核中，因此本文的结局是“待定”，而不是“已合并”。\n\n在文末作一个声明：所有这一切对我来说都是全新的。在此项目之前，我从未接触过 Rockbox 代码库，我对 iPod 内部运作机制的所有了解全都是一路摸索学来的。因此，如果这里提到的内容在嵌入式圈子里早已是老生常谈，或者我自豪地重复发明了自 2005 年以来就已有正式命名的轮子，还请多多包涵。\n\n待办愿望清单上仍然保留的内容：多次连击手势（双击切换下一曲显而易见属于此类），以及利用配件 ID 事件仅在实际连接线控时才给麦克风线路供电，这样在插入普通耳机时可以节省一点电量。\n\n这种冲动，与复活一台 10 年前的 Kindle、在浏览器中将其越狱，以及把一台 iPhone 8 改造成太阳能驱动的 OCR 服务器背后的冲动完全一致：如此优秀的硬件不应该被荒废的软件所限制。在 2026 年让一台 2009 年的 iPod 重新拥有可用的耳机线控，这种感觉刚刚好。至于这种折腾史的前一个章节，可以看看在 Claude 思考时会旋转的桌面玩具。\n\n最后更新时间：2026 年 7 月",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T19:58:31.000Z",
+            "url": "https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/"
+          }
+        ]
+      },
+      {
+        "id": "story-bridization-species-html-18dd279b8ee482d3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Japan's 2011 tsunami sparked fish hybridization, but species boundaries largely held",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T20:00:01.000Z",
+        "pubTime": "2026-09-28 04:00",
+        "url": "https://phys.org/news/2026-09-japan-tsunami-fish-hybridization-species.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-2011-tsunami-trigg.jpg",
+        "fullContent": "How are species boundaries maintained in the face of environmental disturbance? This is not only a fundamental question in evolutionary biology but also an increasingly important one as human activities and climate change alter habitats and bring previously separated species into contact.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-japan-tsunami-fish-hybridization-species.html",
+            "publishedAt": "2026-09-27T20:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-seven-day-truce-proposal-ec7a283e05ec7912",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:10:44.000Z",
+        "pubTime": "2026-09-28 06:10",
+        "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+        "imageUrl": "https://s.france24.com/media/display/4817a61c-ba8a-11f1-b4fe-8f3418d01115/w:1024/p:16x9/040b658896f965b502ca28b500bf7f44524d2c6c.jpg",
+        "fullContent": "US President Donald Trump said on Sunday he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump has raised the possibility of renewed air strikes on Iran, but told Axios he anticipated further negotiations.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-28 06:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+            "publishedAt": "2026-09-27T22:10:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-hallucinations-music-566a52e15e047c95",
+        "title": "Engram 采样器：将破碎的 AI“幻觉”转化为音乐",
+        "originalTitle": "Engram is a sampler that turns broken AI hallucinations into music",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T20:46:36.000Z",
+        "pubTime": "2026-09-28 04:46",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nThoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nMusic startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It’s a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn’t Suno in a box, though. This isn’t a “push-button, get-song” device, aimed at creating something that sounds ready for top-40 radio. It’s about creating experimental, uncanny sounds and pushing AI audio models beyond their limits.\n\nEngram isn’t connected to the internet. Instead, it runs a “tiny AI” locally. According to the Kickstarter listing, the model is designed in-house and custom-trained. The company says:\n\n“We’ve trained our audio models on open datasets that only contain audio licensed for commercial use (CC-BY or similar). We have not trained and will never train our models on non-commercial, pirated, or otherwise stolen data.”\n\nThe company also plans to open up Engram’s firmware so that others can tweak it or load their own custom models. In the campaign video, founder Evan King uses his voice to ask for “piano,” and Engram spits out something glitchy and vaguely piano-like. He says to think of Engram as a “field recorder for latent space.” It’s about exploring the world of AI hallucinations and experimental sound design. It even draws inspiration from circuit bending, allowing you to tweak and even break its tiny AI models.\n\nThoughtful Things is launching with a limited run of Engrams for the Kickstarter campaign, starting at $675. The company hasn’t said what the retail price will be, though it’s likely to be between $850 and $900, as the $675 pledge is listed as a 30 percent discount.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n查看所有娱乐内容\nThoughtful Things 表示，Engram 是一个“用于潜在空间的实地录音机”，也是针对微型 AI 模型的“电路扰动”（circuit-bending）设备。\n来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n查看 Terrence O'Brien 的所有文章\n音乐初创公司 Thoughtful Things 刚刚在 Kickstarter 上为其首款乐器 Engram 发起了众筹项目。这是一款采样器与律动工作站（groovebox），它利用人工智能来破环、重塑输入的音频，甚至能“幻觉”出全新的声音。不过，这并不是盒子里的 Suno。它并不是一款“一键生成歌曲”、旨在制作能直接登上四十强广播单曲榜音乐的设备。它的核心在于创造实验性的、不可思议的声音，并将 AI 音频模型推向极限。\nEngram 没有连接互联网。相反，它在本地运行一个“微型 AI”。根据 Kickstarter 页面介绍，该模型由内部自主设计并定制训练。该公司表示：\n“我们在仅包含已授权商业使用（CC-BY 或类似许可）音频的开放数据集上训练了我们的音频模型。我们没有、也绝不会使用非商业、盗版或以其他方式窃取的数据来训练我们的模型。”\n该公司还计划开源 Engram 的固件，以便其他人可以对其进行调整或加载他们自己的自定义模型。在宣传视频中，创始人埃文·金（Evan King）用声音发出指令要求“钢琴”，Engram 随即吐出了一种带有故障音（glitchy）、隐约像钢琴的声音。他表示，可以把 Engram 视为“潜在空间的实地录音机”。它旨在探索 AI 幻觉和实验性声音设计的世界。它甚至从“电路扰动”（circuit bending）中汲取灵感，允许你微调乃至破坏其微型 AI 模型。\nThoughtful Things 在 Kickstarter 众筹活动中限量发售 Engram，起售价为 675 美元。该公司尚未公布零售价，不过价格可能在 850 美元至 900 美元之间，因为 675 美元的认缴价格标注为七折优惠（降价 30%）。\n一份汇聚最重要新闻的免费每日文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：将Engram塑造成一种用于实验性声音探索的本地化AI乐器，而非一键生成流行歌曲的设备。报道突出其可将输入音频变形、生成陌生声音、在离线环境运行、支持固件和模型定制等特点，并采用公司“潜空间现场录音机”“电路弯曲”等概念强化探索性和实验性叙事。同时提及售价、众筹折扣及预计零售价。文中关于训练数据合规、模型能力和产品定位的部分主要是公司叙述，不应视为已独立验证的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T20:46:36.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+          }
+        ]
+      },
+      {
+        "id": "story-c-453e-b9db-92156107c5ce-2eed8d26674c05f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "UK to restart resettlement scheme, Mahmood to tell Labour conference",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:43:40.000Z",
+        "pubTime": "2026-09-28 05:43",
+        "url": "https://www.ft.com/content/878402a7-eeac-453e-b9db-92156107c5ce?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb18f9d37-78f2-4f53-af16-766123717bdf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Home secretary to portray the initiative as an opportunity for ‘genuine refugees’ to live in Britain",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-28 05:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/878402a7-eeac-453e-b9db-92156107c5ce?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T21:43:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-efficient-cpp-code-php-a38e878639c4f069",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing Efficient C++ Code",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T18:03:12.000Z",
+        "pubTime": "2026-09-28 02:03",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "imageUrl": null,
+        "fullContent": "Productions » Publications »\n\nThis article was originally published in Polish in issue 4/2013 (11) of Programista magazine.\n\nAlthough high-level languages—scripting, interpreted, or running in a virtual machine—have many advantages and are the best choice for numerous applications, sometimes we need to write code that is as efficient as possible. Choosing a native language such as C++ is not enough. Only some knowledge and familiarity with good practices will let us get the most computing power out of the hardware.\n\nC++ is an unusual language: complex, difficult to master, and controversial in some respects. Yet in many applications, especially where performance matters, such as game programming, it is often the best or even the only choice. This is because it has a unique property that makes it a kind of compromise. It is high-level: it supports object-oriented programming and convenient use or creation of custom types and data structures, such as vectors, strings, and other STL containers. At the same time, it is low-level enough to give us access, in a sense, to the hardware itself, or rather to the operating system: no virtual machine or framework stands in the way. We must manage memory allocation and deallocation ourselves, but that also means there is no garbage collector doing it in its own way at unpredictable moments. Moreover, an enormous number of libraries exist for C++ (and for C, with which it is partly backward compatible), and compilers are available for many platforms.\n\nIn a sense, one could even say that native code is coming back into favor. Although software is becoming increasingly complex and hardware increasingly fast, we still need efficient code in our programs. Some say that a faster processor or more RAM costs less than a good programmer's time. But what if a program, once written, is to run for many years or be installed on millions of machines? Performance matters both in computing clusters and data centers, where power and cooling costs can be enormous, and in the smallest devices, such as smartphones and tablets, where we want the longest possible battery life. There are also applications in which code must run at a specified speed without compromise. These include programs that process data in real time, such as games (where a drop in FPS, frames per second, destroys the impression of smooth animation and causes unpleasant stuttering) or real-time processing of media streams at a specified bitrate. Nor can we always set arbitrarily high hardware requirements. Game consoles, for example, have a fixed processor speed and amount of RAM. Even of a PC we cannot demand the latest components if we are writing a simple casual game rather than a new version of Crysis.\n\nObject-oriented programming seems to be a remedy for the difficulties faced by programmers and teams for whom writing large systems in a structured way—the “old-fashioned” way—would be too hard. In object-oriented programming, code consists of classes, which not only group data (fields) and the procedures that operate on it (methods), but above all serve as abstractions of concepts from the real world or from the problem domain. Classes should also be, at least in theory, as independent and reusable elsewhere as possible.\n\nObject-oriented programming can, however, be understood in two ways: conceptually, by thinking about the philosophy behind its elements, or technically, by treating it as a programming-language mechanism used for convenience. It is also worth understanding how it all works “under the hood” and what properties and limitations follow from that. Following only the first approach can take us too far from the level at which a programmer should remain when aiming to write efficient code.\n\nWhat, then, is the solution? Supporters of an approach called Data-Oriented Design (DOD) suggest a somewhat different way of thinking. The term has become popular in recent years, especially among game programmers. It means focusing during design and coding on the data that will be stored: its layout in memory and the design of suitable data structures, and only then on the algorithms that will operate on it. This may seem like a return to the old idea of structured programming, but it does not rule out using classes and all the benefits of object-oriented programming. It is more a way of thinking that stays closer to the hardware and uses the language's available mechanisms to create code that is not only “elegant” but also simple and efficient.\n\nLook at Figure 1. It symbolically shows how data is laid out in memory. On the left are structures scattered far apart and connected by pointers. This happens when we use many small objects of different classes that refer to one another. Code written this way can be inefficient for two reasons. The first is frequent cache misses when traversing such data because we “jump” through pointers. This is discussed in more detail below.\n\nThe second reason is the difficulty of parallelizing code that operates on such objects. If all we have are the classes' public methods (often virtual), and our assumption is that we do not know what happens inside them (or inside all their derived classes), then by definition we cannot safely run them on multiple threads. We do not know which other objects they refer to during those operations. Using threads, meanwhile, often requires protecting shared data with mutexes (critical sections), which effectively serialize the code and prevent it from running fully in parallel.\n\nThe right side of the figure, in turn, shows the idea of a regular data structure (such as an array) that we process by performing successive operations on it: sorting, updating particular fields, deleting elements, or converting every element to another form. If the data is “transparent” and we know exactly what operation we want to perform, and if applying it to each element of the collection is independent of the other elements and the rest of the program, then we can easily parallelize the algorithm, for example by dividing the range of elements among threads.\n\nBlindly following object-oriented programming brings other pitfalls too. Some people instinctively wrap every piece of functionality they use, such as a library, in a wrapper of their own that is supposed to simplify its interface or make it (subjectively) more elegant. Such an extra layer, especially when it introduces its own logic or uses virtual methods, adds runtime overhead. I suggest instead making a habit of asking each time whether, in this particular case, we could simply use certain functions and classes directly, without adding another layer of abstraction. There is a similar tendency to make everything as general and universal as possible. Defining an interface consisting entirely of virtual methods and promising ourselves that we can replace the implementation with a completely different one without changing the interface is tempting, but do we really need that here and now? Design patterns, too, are sometimes overused as ready-made solutions that replace deeper thought about the code. In fact, simple solutions are often best. If we try to express as directly as possible what data a program must store and what operations it must perform on that data, the code will be simple, elegant, readable, and efficient at the same time. This contradicts the popular view that optimization means making code complicated and unreadable.\n\nIt might seem that each processor instruction reads some data from specified addresses in RAM in one cycle, performs an operation on it (such as addition), and writes the result back to memory. In practice it is not that simple. The complex CISC instructions that make up x86 code are translated into microcode inside the processor and executed in multiple steps that may take more or less time. The operation itself may be simple, but reading or writing data in memory takes additional time.\n\nIn the past, in the 1980s, processors did indeed access RAM directly and could perform such operations in single cycles. Today, unfortunately, the speed at which a processor can perform computations is increasing much faster than RAM performance. This gap keeps growing, and already the time needed to read a piece of data—even a single byte—from a modern computer's main memory is equivalent to several hundred processor cycles! Remember that bandwidth, the rate of data transfer (measured in bits per second), differs from latency, the time required for requested data to reach its destination (measured in fractions of a second).\n\nComputer designers naturally look for solutions to this problem. This is why cache was created: processor memory that holds recently used data and is faster to access than main RAM. We can speak of an entire memory hierarchy whose successive levels have increasing capacity but decreasing speed. Consider, for example, a processor running at 3 GHz. Approximately speaking, it can perform 3 billion operations per second, so one simple operation (such as addition) takes about 0.33 ns. If access to a value in the L1 cache takes 1 ns, that delay is equivalent to executing 3 instructions (3 cycles). Table 1 gives estimated figures for the memory hierarchy in such an example computer system.\n\nTable 1: Memory hierarchy\n\nIn a typical computer system, we do not control the cache directly. It is managed automatically to speed up access to recently used data. How, then, can we benefit from its speed? We need a basic understanding of how it works. When previously unused data is accessed in RAM, it is read and used for computation, but it also enters the cache. The data is not transferred one byte at a time: an entire cache line, for example 64 bytes wide, is transferred. The whole line is read from RAM and kept in the cache, so until it is replaced by other data (the cache is smaller than RAM, so it holds only recently used entries), access to any of those bytes is fast because the processor can use the cache without accessing RAM. This is called a cache hit. The opposite is a cache miss, which requires accessing main memory and takes much longer.\n\nWhat does this mean for us? To benefit from the cache, we should arrange data in memory so that values frequently used together lie next to one another. Then there is a good chance those values will already be in the cache when the code needs them. Good practices therefore include:\n\nA bad practice, by contrast, is to use many small objects allocated separately and scattered through memory. Similarly, the poor performance caused by frequent cache misses can affect data structures that are traversed by “jumping” through pointers, such as linked lists, trees, and graphs.\n\nConsider, for example, a collection of objects that we need to build in a program, then keep in memory, traverse in sorted order, and search quickly. To keep the elements sorted, we might choose some kind of binary tree or a similar structure that can maintain order and find elements in logarithmic time, such as the STL containers std::set or std::map. But these structures allocate each element dynamically on the heap and link them with pointers, making construction and traversal slow. The asymptotic complexity of searching is good, of course, but the constant factor can make performance poor for the reasons described above.\n\nSometimes we can find another solution that is no worse in theoretical complexity and faster in practice. If we build the structure once and then no longer need to insert or remove elements, use a plain array. After adding all the elements, we sort it once. We can then find elements in the sorted array in logarithmic time with binary search. Traversal will be much faster thanks to good cache use, because consecutive elements lie next to one another in memory.\n\nThe memory hierarchy described above, in which accessing each lower level is slower than accessing the previous one, can be extended to other kinds of operations. Just as pyramids are drawn in various fields of science (such as the hierarchy of needs), imagine a “performance pyramid”—Figure 2. This is not a strict classification, only one possible way of illustrating selected operations. An operation at each lower level is at least an order of magnitude slower than one at the level above. To write efficient code, we should be aware of this and, where possible, avoid performing operations from the lower levels too often. The levels represent:\n\nParticle systems are a popular effect in 3D graphics. Briefly, they store a collection of particles and their properties (such as current position, velocity, and color), then update and render them in every animation frame (many times per second). As you can probably guess from the previous section, we should not allocate particle structures dynamically as separate objects, but store them in an array: a contiguous area of memory. Let us see how we can optimize them further. Look at Listing 1. The first approach, called AOS—Array of Structures—seems intuitive. We define a structure representing one particle and describing all its parameters. The class responsible for the entire particle effect then stores the number of particles and a pointer to an array of these structures.\n\nListing 1. AOS versus SOA in a particle system\n\nAnother approach is possible. The second example is SOA—Structure of Arrays. Here the particle-system class directly stores arrays containing individual parameters of successive particles. There is an array of positions, an array of velocities, an array of colors, and so on, all with the same number of elements, equal to the particle count. Depending on the particular case, this approach can be more efficient if it groups data by usage pattern and separates “hot” data—what we need now and what enters the cache—from “cold” data. This happens, for example, when we want to traverse all particles and update their positions from their velocities. In the second approach, those values lie closer together in memory and are not interleaved with colors that we do not currently need. Figure 3 shows the layout.\n\nWriting efficient code is not solely a matter of designing data structures and algorithms at a high level. Even when writing individual functions, we can do much to avoid pitfalls that unnecessarily harm performance. C++ offers many conveniences, but it also lets us choose whether to use them or to write code much as we would in C.\n\nIn many cases it is therefore worth forgoing and completely disabling some features, such as exception handling or RTTI. Although the subject is somewhat controversial, these mechanisms are sometimes said to have a negative effect on code performance. That does not mean they are worthless or poorly implemented. We can, however, ask whether our program needs them and, if it does not, disable them in the compiler options.\n\nThe occasionally repeated claim that we cannot write something better than the creators of the compiler, standard library, or another popular and proven library is false. Their code was surely written by excellent programmers, but when writing our own program we know the specific case in which we need a feature: its requirements and constraints. Run-time type identification, error handling, and many other tasks can therefore sometimes be implemented better ourselves, in a way suited to the project's needs. Memory allocation is the best example. The system allocator is good in the way any general-purpose allocator can be good. But if, in one part of a program, we need to allocate objects of a known, fixed size and we know an upper bound on their number, there is no doubt that a custom allocator based on a preallocated pool of free cells (a free list) will be more efficient.\n\nThe same applies to the STL. It is a very good library. One could even say that it favors performance at the expense of safety: for example, it does not check bounds when accessing a vector element with the [] operator (at least in Release configuration; the Visual Studio implementation checks with an assertion in Debug). Using it still requires knowledge and awareness, not only of the available functions and concepts such as iterators, but also of its internal implementation. The containers list, set, multiset, map, and multimap dynamically allocate every element as a separate object in memory, which hurts performance for the reasons given above. By contrast, std::vector stores its elements in a contiguous area of memory, like a plain array, so we can use it for convenience instead of dynamically allocated arrays without fearing a loss of performance (again, in Release configuration, because code that uses the STL heavily performs much worse in Debug, precisely because of additional safety checks). Some things can nevertheless be written better, as the programmers at Electronic Arts did when they created EASTL, an STL replacement optimized for game programming, whose code (though incomplete) they made freely available on the Internet some time ago.\n\nListing 2. Pointer aliasing\n\nExplicitly copying vector s to a local variable, passing it by value, or using the nonstandard keyword __restrict would help here. The latter tells the compiler that pointer aliasing does not occur in the current scope.\n\nAnother example is declaring variables inside a loop. The compiler handles variables of simple types such as int very well, but cannot reason for us about the use of more complex constructs. Let us experiment with a variable of type std::string. Listing 3 is the first version of the code. Two million times, the loop constructs a string from a prefix, a number, and a suffix, then copies it somewhere into a global variable. On my computer, this code takes an average of 0.36 seconds.\n\nListing 3. Declaring a string inside the loop\n\nNow let us make a simple optimization. In the new version in Listing 4, the string is declared before the loop and merely cleared at the beginning of each iteration by calling",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T18:03:12.000Z",
+            "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790536362495,
     "timeDisplay": "2026-09-28 03:12 (UTC+8)",
     "date": "2026-09-28",
