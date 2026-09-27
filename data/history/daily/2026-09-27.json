@@ -1,5 +1,1593 @@
 [
   {
+    "timestamp": 1790473603208,
+    "timeDisplay": "2026-09-27 09:46 (UTC+8)",
+    "date": "2026-09-27",
+    "runId": "feed-20260927T013342271Z-nsqizs",
+    "generatedAt": "2026-09-27T01:46:43.208Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:33",
+      "lead": "本轮抓取于 2026-09-27 09:33 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】三大运营商全面暂停“0元购机”，是何原因？：中国移动、中国电信、中国联通，集中叫停！",
+        "【undefined】谷歌在印度测试通过Gemini和AI Mode直接购买沃尔玛旗下Flipkart商品：谷歌已开始在印度测试一项新功能，允许购物者直接通过Gemini和AI Mode购买沃尔玛旗下的Flipkart商品。这家搜索巨头正寻求将其人工智能服务从商品发现拓展至交易环节。",
+        "【undefined】在 p5.js 中教授 GPU 编程：现已支持计算着色器：计算机图形学教育目前正处于一个微妙的境地。计算机的图形能力得到了极大拓展。在当下，甚至很难只去谈论“图形”能力：你的图形处理器（GPU）已不再仅仅是将三角形绘制到屏幕上，它更是一个通用的并行计算平台。这为拓展可能性带来了极好的前景！然而，有如此之多的潜在知识需要学习，大家又该如何入门呢？",
+        "【undefined】苹果因触觉专利侵权被判赔偿57亿美元：来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。 苹果公司的 Taptic Engine 被认定侵犯了 Taction 的两项专利。 来自该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。 查看 Terrence O'Brien 的全部文章 触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁决 Taction 获赔超过 57 亿美元的损害赔偿金。据 CN",
+        "【undefined】澳大利亚实时新闻：休姆对在OpenAI数据泄露事件后采取法律行动表示怀疑；航班取消让澳式橄榄球联赛（AFL）球迷心碎：订阅我们的突发新闻邮件、下载免费应用或收听每日新闻播客",
+        "【undefined】保险公司称人工智能已推高医疗保健成本：根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔申请时使用人工智能工具，在两年时间内导致医疗支出额外增加了9.42亿美元。",
+        "【undefined】全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作：近日，一条“闪身步”的切片视频爆火网络，引发大量网友和明星的模仿和二创。据了解，该视频片段来自一条安徽花鼓灯舞蹈的教学视频，而“闪身步”是其中的一个基本功动作。",
+        "【undefined】南部战区位黄岩岛周边海空域组织海空联合演训：中新网9月27日电 据“南部战区”微信公众号消息，9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "多领域每日动态：通信业务调整、科技产品灰度测试与国际安全事件汇总",
+      "lead": "根据最新监测资讯，国内三大通信运营商集中暂停相关购机优惠业务，同时国际科技产品灰度测试、地区社会系统与数据安全事件以及地缘冲突态势亦有最新进展。",
+      "themes": [
+        {
+          "name": "国内通信行业监管与业务调整",
+          "analysis": "中国移动、中国电信、中国联通三大运营商全面集中叫停“0元购机”业务，显示出通信行业在终端营销、合约机补贴或合规管理方面正在进行集中规范与策略调整。"
+        },
+        {
+          "name": "科技产品与系统数据安全",
+          "analysis": "科技领域有新产品正面向部分选定用户进行有限度测试，并计划于10月下旬进一步推广；同时，外部数据系统安全通报引发关注，涉及医疗数据归档系统漏洞及相关科技机构的信息披露。"
+        },
+        {
+          "name": "社会治理与地缘安全事件",
+          "analysis": "澳大利亚昆士兰州儿童保护系统记录的数据创下五年内新高；此外，扎波罗热地区的军事交火态势持续受到关注，冲突前线仍面临密集火力打击。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 89,
+      "completedTasks": 89,
+      "succeeded": 47,
+      "degraded": 42,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 89,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 780882,
+      "byRole": {
+        "translator": {
+          "attempts": 64,
+          "succeeded": 24,
+          "degraded": 40
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 6,
+          "degraded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 89,
+          "succeeded": 47,
+          "degraded": 42
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-14-translator-0",
+      "article-14-translator-1",
+      "article-16-translator-0",
+      "article-19-translator-0",
+      "article-19-translator-1",
+      "article-19-translator-2",
+      "article-20-translator-0",
+      "article-22-translator-0",
+      "article-24-translator-0",
+      "article-24-translator-1",
+      "article-25-translator-0",
+      "article-25-translator-1",
+      "article-26-translator-0",
+      "article-27-translator-0",
+      "article-27-translator-1",
+      "article-27-translator-3",
+      "article-27-translator-4",
+      "article-27-translator-5",
+      "article-27-translator-6",
+      "article-27-translator-7",
+      "article-27-translator-8",
+      "article-27-translator-9",
+      "article-27-translator-10",
+      "article-27-translator-11",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-31-translator-0",
+      "article-31-translator-1",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-33-translator-1",
+      "article-35-translator-0",
+      "article-37-translator-0",
+      "article-6-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.485Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.981Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.496Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.976Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.167Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.253Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.190Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.310Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.979Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.531Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.937Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.209Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:26.456Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.579Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.644Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.780Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.278Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.518Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.253Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.378Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.002Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.190Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.981Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.202Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.874Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.104Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.976Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.002Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:26.184Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.655Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:25.199Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.582Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:26.003Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.184Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.310Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.725Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.148Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.167Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.104Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.148Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.619Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.644Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:22.825Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.619Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.711Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.841Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.576Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.848Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.419Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.484Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.607Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.759Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.822Z",
+        "lastSuccessAt": "2026-09-27T01:33:25.199Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.284Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.521Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:26.199Z",
+        "lastSuccessAt": "2026-09-27T01:33:29.775Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.725Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.816Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.859Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.979Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.841Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.876Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.933Z",
+        "lastSuccessAt": "2026-09-27T01:33:25.009Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:26.209Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.456Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.202Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.242Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.378Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.822Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.521Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.711Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.876Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.985Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-27T01:33:24.816Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.776Z",
+        "lastSuccessAt": "2026-09-27T01:33:25.191Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:22.823Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.419Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-27T01:33:24.848Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:22.824Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.776Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.985Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.765Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.518Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.576Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:23.780Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.874Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.759Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.859Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.484Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.607Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:25.009Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.003Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:25.191Z",
+        "lastSuccessAt": "2026-09-27T01:33:26.199Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.242Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.284Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:24.219Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.278Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:22.807Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.496Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:22.821Z",
+        "lastSuccessAt": "2026-09-27T01:33:23.485Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T01:33:22.822Z",
+        "lastSuccessAt": "2026-09-27T01:33:24.219Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-026-09-27-10704341-shtml-3418a46e445ba12f",
+        "title": "三大运营商全面暂停“0元购机”，是何原因？",
+        "originalTitle": "三大运营商全面暂停“0元购机”，是何原因？",
+        "source": "中新网 (全球要闻原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-27T01:25:49.000Z",
+        "pubTime": "2026-09-27 09:25",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml",
+        "imageUrl": null,
+        "fullContent": "中国移动、中国电信、中国联通，集中叫停！\n\n在三大运营商线下营业厅，不少消费者都碰到过“免费领手机”“办宽带送礼品”的宣传。看似是办套餐就能白拿手机，实际是‌签了贷款合同‌，每月话费里包含还款金额。长期以来，这类分期业务一直是消费者投诉的集中领域。\n\n有消息称，9月24日起，三大运营商金融分期购机业务暂停，不能再新增办理这类0元拿手机业务。“0元购机”为什么在此时全面叫停？已经办理的用户该怎么办？\n\n近年来，关于分期购机的投诉从未间断。三年前，湖南株洲吴先生便遭遇过业务员上门承诺在网三年就送一部手机，几天后吴先生收到的却是一条“贷款成功”的短信。合同显示，他名下多了一笔1950元、36期的消费贷款。\n\n辽宁沈阳的夏先生上周在黑猫投诉反映，他办理“办宽带送手机”业务，事后才发现，自己的支付账户里多了一笔分期贷款，36期，每期49.9元，这笔钱就藏在他每月139元的话费里。\n\n浙江宁波王先生的遭遇则更为离奇，业务员以上门测网速为由进门，更换了他的宽带运营商，还给他办了一笔1500多元的全屋Wi-Fi设备，分36期。\n\n这类投诉都有共同点：用户以为自己办的是通信业务，签下的却是贷款合同；以为交的是话费，实际上是在还贷款。一旦手机欠费停机，贷款随即逾期，个人征信跟着受损。\n\n近日，有消息称，三大运营商已经暂停此类业务，总台记者致电电信、联通运营商客服以及移动“和包信用购”客服，对方都表示，此类分期购机项目已经暂停。\n\n沈阳电信：新业务目前是在做这一个系统优化升级，暂时停止受理新办理。您如果是现在要办理手机合约的话，您可以了解营业厅其他优惠购机活动。\n\n北京联通：分期的话这个产品都是在升级中，具体复开时间是等待通知。\n\n移动“和包信用购”：版本更替升级，现在暂时办理不了，什么时候能办还要等进一步通知。\n\n湖南移动公司则一度在官网发布《关于和包分期购机活动停售的公告》，称9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。‌‌\n\n也就是说，9月24日起，中国移动的“和包信用购”、中国电信的“橙分期”、中国联通的“沃分期”均已全面暂停新增办理分期购机，恢复时间未定。\n\n值得注意的是，9月30日，中国人民银行、工业和信息化部等部门联合发布的《金融产品网络营销管理办法》将正式施行，明确要求金融产品营销不得含有虚假或引人误解的内容。在这样的时间点，运营商叫停“办套餐送手机+分期”的模式是巧合还是必然？\n\n电信分析师付亮回顾，电信市场进入3G时代初期，智能手机迎来普及浪潮。为争夺用户，运营商曾大规模采用“预存话费送手机”的营销模式，要求用户缴纳一定额度话费即可获赠手机。\n\n举例来说，一台价值5000元的手机，用户可能需要一次性缴纳7000至8000余元，这笔费用包含手机价款与三年话费，整体让利幅度约30%。但运营商随后发现，一次性缴费门槛过高，不少用户难以接受。在此背景下，新的模式应运而生：用户无需预先支付全款，只需以信用承诺按月缴纳话费，就能参与活动。该模式确实有助于拉动相关消费，同时兼顾各方利益。\n\n这种在发展初期被视作降低门槛、促进手机消费的商业创新，在推行过程中逐渐走形变样。过去用户晚交几天话费，可能只是停机；而此类信用购模式，晚交话费甚至欠交话费会影响信用，成了金融违约。再加上在渠道利益的驱动下，一些线下业务员屡屡出现“选择性隐瞒风险”的行为。\n\n付亮认为，此次三大运营商集中叫停金融分期购机业务，除了规范相关业务行为外，更深层的背景是通信市场步入存量时代，依靠补贴手机硬件抢夺用户的运营逻辑已难持续。\n\n在运营商财报中，终端业务基本处于零利润甚至亏损状态。运营商的核心目标是销售通信服务，而非售卖手机终端。如今运营商获取新用户的难度持续加大，今年各家对新增用户增长的考核指标已明显下调，企业不再愿意贴钱通过终端业务拉新。叠加合规层面的考量，运营商选择叫停该业务也就不难理解。\n\n而在工业和信息化部信息通信经济专家委员会委员盘和林看来，三大运营商之所以全面暂停该业务，最直接的导火索是这套模式早已沦为典型的“负资产”——在经济账上得不偿失，在法律与声誉层面更是风险重重：\n\n分期购机业务市场表现不佳，用户不愿被运营商套餐长期捆绑，业务整体规模偏小。\n\n分期购机业务存在较高合规风险。部分营业厅会借助夸大宣传开展促销，不少用户办理后发现实际情况与宣传不符，例如需要承担高额分期利息，这项业务由此变成运营商的负资产。业务推广成功会损害品牌口碑，推广不力则可能因虚假宣传面临合规处罚，可谓得不偿失。\n\n盘和林介绍，数字化技术不断发展的背景下，线下实体营业厅的职能持续收缩。同时，常态化落地的“携号转网”政策，彻底打破了运营商依靠长周期合约深度锁定用户的运营壁垒。\n\n这里需要提醒，已经办了分期合约的老用户，不受这轮调整影响，原有合约继续生效，按之前的协议正常履约。合约到期后，可以换当期在售的其他套餐。如果之后有人打电话推销“分期购机”“内部渠道0元拿手机”，千万不能相信。\n\n▌本文来源：央视财经(ID：cctvyscj)综合\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中国移动、中国电信、中国联通，集中叫停！\n\n在三大运营商线下营业厅，不少消费者都碰到过“免费领手机”“办宽带送礼品”的宣传。看似是办套餐就能白拿手机，实际是‌签了贷款合同‌，每月话费里包含还款金额。长期以来，这类分期业务一直是消费者投诉的集中领域。\n\n有消息称，9月24日起，三大运营商金融分期购机业务暂停，不能再新增办理这类0元拿手机业务。“0元购机”为什么在此时全面叫停？已经办理的用户该怎么办？\n\n近年来，关于分期购机的投诉从未间断。三年前，湖南株洲吴先生便遭遇过业务员上门承诺在网三年就送一部手机，几天后吴先生收到的却是一条“贷款成功”的短信。合同显示，他名下多了一笔1950元、36期的消费贷款。\n\n辽宁沈阳的夏先生上周在黑猫投诉反映，他办理“办宽带送手机”业务，事后才发现，自己的支付账户里多了一笔分期贷款，36期，每期49.9元，这笔钱就藏在他每月139元的话费里。\n\n浙江宁波王先生的遭遇则更为离奇，业务员以上门测网速为由进门，更换了他的宽带运营商，还给他办了一笔1500多元的全屋Wi-Fi设备，分36期。\n\n这类投诉都有共同点：用户以为自己办的是通信业务，签下的却是贷款合同；以为交的是话费，实际上是在还贷款。一旦手机欠费停机，贷款随即逾期，个人征信跟着受损。\n\n近日，有消息称，三大运营商已经暂停此类业务，总台记者致电电信、联通运营商客服以及移动“和包信用购”客服，对方都表示，此类分期购机项目已经暂停。\n\n沈阳电信：新业务目前是在做这一个系统优化升级，暂时停止受理新办理。您如果是现在要办理手机合约的话，您可以了解营业厅其他优惠购机活动。\n\n北京联通：分期的话这个产品都是在升级中，具体复开时间是等待通知。\n\n移动“和包信用购”：版本更替升级，现在暂时办理不了，什么时候能办还要等进一步通知。\n\n湖南移动公司则一度在官网发布《关于和包分期购机活动停售的公告》，称9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。‌‌\n\n也就是说，9月24日起，中国移动的“和包信用购”、中国电信的“橙分期”、中国联通的“沃分期”均已全面暂停新增办理分期购机，恢复时间未定。\n\n值得注意的是，9月30日，中国人民银行、工业和信息化部等部门联合发布的《金融产品网络营销管理办法》将正式施行，明确要求金融产品营销不得含有虚假或引人误解的内容。在这样的时间点，运营商叫停“办套餐送手机+分期”的模式是巧合还是必然？\n\n电信分析师付亮回顾，电信市场进入3G时代初期，智能手机迎来普及浪潮。为争夺用户，运营商曾大规模采用“预存话费送手机”的营销模式，要求用户缴纳一定额度话费即可获赠手机。\n\n举例来说，一台价值5000元的手机，用户可能需要一次性缴纳7000至8000余元，这笔费用包含手机价款与三年话费，整体让利幅度约30%。但运营商随后发现，一次性缴费门槛过高，不少用户难以接受。在此背景下，新的模式应运而生：用户无需预先支付全款，只需以信用承诺按月缴纳话费，就能参与活动。该模式确实有助于拉动相关消费，同时兼顾各方利益。\n\n这种在发展初期被视作降低门槛、促进手机消费的商业创新，在推行过程中逐渐走形变样。过去用户晚交几天话费，可能只是停机；而此类信用购模式，晚交话费甚至欠交话费会影响信用，成了金融违约。再加上在渠道利益的驱动下，一些线下业务员屡屡出现“选择性隐瞒风险”的行为。\n\n付亮认为，此次三大运营商集中叫停金融分期购机业务，除了规范相关业务行为外，更深层的背景是通信市场步入存量时代，依靠补贴手机硬件抢夺用户的运营逻辑已难持续。\n\n在运营商财报中，终端业务基本处于零利润甚至亏损状态。运营商的核心目标是销售通信服务，而非售卖手机终端。如今运营商获取新用户的难度持续加大，今年各家对新增用户增长的考核指标已明显下调，企业不再愿意贴钱通过终端业务拉新。叠加合规层面的考量，运营商选择叫停该业务也就不难理解。\n\n而在工业和信息化部信息通信经济专家委员会委员盘和林看来，三大运营商之所以全面暂停该业务，最直接的导火索是这套模式早已沦为典型的“负资产”——在经济账上得不偿失，在法律与声誉层面更是风险重重：\n\n分期购机业务市场表现不佳，用户不愿被运营商套餐长期捆绑，业务整体规模偏小。\n\n分期购机业务存在较高合规风险。部分营业厅会借助夸大宣传开展促销，不少用户办理后发现实际情况与宣传不符，例如需要承担高额分期利息，这项业务由此变成运营商的负资产。业务推广成功会损害品牌口碑，推广不力则可能因虚假宣传面临合规处罚，可谓得不偿失。\n\n盘和林介绍，数字化技术不断发展的背景下，线下实体营业厅的职能持续收缩。同时，常态化落地的“携号转网”政策，彻底打破了运营商依靠长周期合约深度锁定用户的运营壁垒。\n\n这里需要提醒，已经办了分期合约的老用户，不受这轮调整影响，原有合约继续生效，按之前的协议正常履约。合约到期后，可以换当期在售的其他套餐。如果之后有人打电话推销“分期购机”“内部渠道0元拿手机”，千万不能相信。\n\n▌本文来源：央视财经(ID：cctvyscj)综合\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 42,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "中国移动“和包信用购”、中国电信“橙分期”、中国联通“沃分期”自9月24日起均已全面暂停新增办理金融分期购机业务，恢复时间未定。",
+          "湖南移动公司在官网发布公告，明确自9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。",
+          "来源叙事重点：揭示“0元购机”背后隐蔽的消费金融贷款套路及对消费者征信的损害，聚焦三大运营商全面暂停分期购机的真实诱因——直指《金融产品网络营销管理办法》合规强监管、通信存量时代补贴模式失效及声誉负资产问题，而非官方宣称的“系统升级”。"
+        ],
+        "citations": [
+          {
+            "source": "中新网 (全球要闻原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-27T01:25:49.000Z",
+            "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-ini-and-ai-mode-in-india-3e5c288472f5aa9b",
+        "title": "谷歌在印度测试通过Gemini和AI Mode直接购买沃尔玛旗下Flipkart商品",
+        "originalTitle": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T01:30:00.000Z",
+        "pubTime": "2026-09-27 09:30",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "imageUrl": null,
+        "fullContent": "Google has started testing a way for shoppers in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode, as the search giant looks to expand its AI services from product discovery into transactions.\n\nUsers in the test see a “Buy” button on select Flipkart product listings appearing in Gemini and Google’s AI Mode, which takes them directly to a Flipkart checkout flow without leaving the AI interface, according to people familiar with the matter and an experience seen by TechCrunch.\n\nThe early test is limited to some users and a small selection of products, including smartphones, electronics, and mobile accessories, the people told TechCrunch. Other users continue to see regular product listings from Flipkart in Gemini and AI Mode without the option to buy them directly from the AI interface.\n\nGoogle plans to roll out the experience more broadly later in October, ahead of India’s festive shopping season, one of the people said.\n\nThe test comes as Google and rivals including OpenAI are adding commerce capabilities to their AI offerings, striving to move beyond answering shopping queries and recommending products to playing a more direct role in online purchases.\n\nAsked about the Flipkart test, a Google spokesperson told TechCrunch the company is “always testing new features and experiences to help people discover and connect with businesses more easily.” The company regularly runs experiments and has no further details to share, the spokesperson added.\n\nGoogle has separately been building technology aimed at making purchases possible through its AI services. Earlier this year, it introduced the Universal Commerce Protocol (UCP) as an open standard designed to let AI agents interact with retailers across the shopping journey, including checkout. Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The company has since expanded UCP with other capabilities, including allowing shoppers to transfer items to a retailer’s site to complete a purchase.\n\nThe Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier. It brings up a Flipkart-branded checkout flow when a user taps the Buy button. It is not clear what technology powers the test.\n\nEarlier this month, Google said Flipkart was among the merchants partnering with it to bring what it calls “agentic” shopping experiences to consumers in India, but it had not disclosed details of the test or its rollout timeline.\n\nNotably, Google has a financial relationship with Flipkart — alongside its technology partnership with the e-commerce company. It invested about $350 million in the e-commerce company in 2024 as part of a funding round led by the U.S. retailer, taking a minority stake.\n\nFor now, the Buy option is not appearing across all retailers surfaced by Google’s AI services. In the experience seen by TechCrunch, listings from rivals including Amazon appeared alongside Flipkart products but did not offer the option to purchase directly through the AI interface.\n\nFlipkart did not immediately respond to an email requesting for comment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.\n\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nEverything new coming to Meta’s AI agent Muse\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "fullTranslation": "谷歌已开始在印度测试一项新功能，允许购物者直接通过Gemini和AI Mode购买沃尔玛旗下的Flipkart商品。这家搜索巨头正寻求将其人工智能服务从商品发现拓展至交易环节。\n\n据知情人士透露以及TechCrunch亲测体验，参与测试的用户会在Gemini和谷歌AI Mode中显示的部分Flipkart商品条目上看到一个“购买”（Buy）按钮，点击该按钮可直接进入Flipkart的结算流程，而无需离开AI界面。\n\n知情人士告诉TechCrunch，这项早期测试仅限于部分用户以及少数品类商品，包括智能手机、电子产品和移动配件。其他用户在Gemini和AI Mode中看到的仍是普通的Flipkart商品列表，无法直接在AI界面内购买。\n\n其中一位知情人士表示，谷歌计划在10月晚些时候、即印度节日购物季到来之前，更广泛地推广这一体验。\n\n此次测试正值谷歌以及包括OpenAI在内的竞争对手为其AI产品添加商业功能之际，各方正努力超越单纯解答购物咨询和推荐商品的阶段，转向在在线购买中扮演更直接的角色。\n\n在被问及这项Flipkart测试时，谷歌发言人告诉TechCrunch，公司“一直在测试新功能和新体验，以帮助人们更轻松地发现商家并与之建立连接”。该发言人补充称，公司会定期开展实验，目前没有更多细节可分享。\n\n此外，谷歌一直在研发旨在通过其AI服务实现购买的技术。今年早些时候，谷歌推出了通用商务协议（Universal Commerce Protocol，简称UCP），该协议是一项开放标准，旨在让AI智能体在包括结账在内的整个购物流程中与零售商展开交互。谷歌当时表示，该技术将允许购物者通过使用谷歌托管的结账体验，在Gemini和AI Mode中购买符合条件的商品。此后，该公司为UCP扩展了其他功能，包括允许购物者将商品转移到零售商网站以完成购买。\n\nTechCrunch观察到的Flipkart测试似乎与这家Gemini开发商此前展示的谷歌托管结账体验有所不同。当用户点击购买按钮时，它会调出一个带有Flipkart品牌的结算流程。目前尚不清楚该测试是由何种技术提供支持。\n\n本月早些时候，谷歌曾表示Flipkart是与其合作向印度消费者提供其所谓的“智能体化”（agentic）购物体验的商家之一，但并未透露该测试的具体细节或推广时间表。\n\n值得注意的是，除了技术合作之外，谷歌与这家电商公司还存在财务关联。2024年，谷歌作为美国零售巨头沃尔玛领投的一轮融资的一部分，向Flipkart投资了约3.5亿美元，收购了其少数股权。\n\n目前，“购买”选项并未出现在谷歌AI服务展示的所有零售商结果中。在TechCrunch看到的体验中，包括亚马逊在内的竞争对手的商品条目虽然与Flipkart商品并列出现，但并不支持直接通过AI界面购买。\n\nFlipkart未立即回复置评请求。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nJagmeet为TechCrunch报道来自印度的初创公司、科技政策动态以及所有其他以科技为核心的重大进展。他此前曾在NDTV担任首席记者。\n\n您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系Jagmeet或核实相关联络。\n\n您的下一个重大合作尽在Disrupt大会。与10,000多位创始人、风投人、运营者和科技领袖建立联系。探索未来的突破性成果，倾听当下塑造科技格局的声音，在太平洋时间9月25日晚上11:59前购票立省高达200美元。\n\n甲骨文就其新墨西哥州“星际之门”（Stargate）数据中心发出不可抗力通知\nMeta AI智能体Muse迎来的全部新特性\nMeta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备\nVogue在Vogue World秀场上展示机器人走秀，反响平平\nAnthropic称其生物实验室已取得重大发现\nPitPro首款换胎机器人已在加拿大上线\nAnthropic发布Opus 5.5：价格更低，具备Fable级性能",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "谷歌已开始在印度测试允许消费者直接通过Gemini和AI Mode购买沃尔玛旗下Flipkart商品的功能。",
+          "参与测试的用户在Gemini和AI Mode的精选Flipkart商品列表中会看到“Buy”（购买）按钮，无需离开AI界面即可直接进入Flipkart结算流程。",
+          "来源叙事重点：聚焦谷歌通过Gemini和AI Mode在印度测试内嵌Flipkart结账功能，分析其从传统的‘商品信息检索’向‘交易闭环’转型的意图，并强调该合作背后的资本绑定关系（谷歌持股Flipkart）及对亚马逊等竞品的差异化待遇。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T01:30:00.000Z",
+            "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-4351-9380-9b725b70b1e7-0a3e0bd0259026f9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Appeals court overturns ban on contentious Northern Ireland parade",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:13:15.000Z",
+        "pubTime": "2026-09-27 08:13",
+        "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38f4d76a-df79-48f7-9fc1-eb7c417b9e39.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Judge says earlier suspension of Protestant march “erred in law” in dramatic night of court challenges hours before Sunday’s parade",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 08:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T00:13:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-blog-p5-compute-shaders-43a70cae51ba4e1a",
+        "title": "在 p5.js 中教授 GPU 编程：现已支持计算着色器",
+        "originalTitle": "Teaching GPU programming in p5.js: now with compute shaders",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:28:51.000Z",
+        "pubTime": "2026-09-27 08:28",
+        "url": "https://www.davepagurek.com/blog/p5-compute-shaders/",
+        "imageUrl": null,
+        "fullContent": "Computer graphics education is in a weird place right now. The graphical capabilities of computers have expanded tremendously. At this point, it's also hard to talk about \"graphical\" capabilities: your Graphics Processing Unit (GPU) is no longer just pushing triangles onto the screen; it's a platform for general parallel programming. That's fantastic for increasing the possibilities! But with so much potentially to learn, how do you get started?\n\nThere is a lot of background context generally required in order to do any programming for the GPU, which makes it notoriously hard to get into. Rendering a triangle in Vulkan from scratch takes thousands of lines of code. This is a problem professors teaching computer graphics are currently grappling with. The playbook that seems to be solidifying is to not teach everything at first, and provide a template to work within that hides the bits that aren't initially relevant to the learning. As students learn more, the scaffolding can incrementally be pulled away, and they can become aware of those initially hidden parts. But, importantly, those hidden bits are not necessary for making immediate initial progress. This technique is called scaffolded learning.\n\nCurrently, everyone's wandering on their own trying to figure out what scaffolding to use. Often, scaffolding abstracts away many of the underlying graphics API, but leaves in place much of the \"classic\" shader pipeline: students still need to learn how data flows through vertex to fragment shaders, how data is passed from the CPU to the GPU, and how to write shader code in a new language. While this is still simplified compared to starting completely from scratch, that's still a lot to jump into.\n\nI help develop p5.js. Alongside being a tool for artists, it is often used as a computer science teaching tool, conveniently making it easy to visualize logic. That has mostly been done with its 2D mode, so introductory 3D and GPU teaching has tended to favour tools like three.js instead. Over the past few years, I've been trying to fill in the GPU gaps in p5.\n\nAfter releasing an experimental WebGPU build of p5.js earlier this year, working a little on performance, and fixing a lot of bugs, I've been able to start implementing compute shaders. That last puzzle piece brings p5 much closer to the goal of being the GPU learning system I'd like it to be. So let's talk about what that looks like!\n\nThe emerging goal for p5.strands, our shader system, is to provide scaffolding such that if you have made a p5.js sketch before and are familiar with, for example, the Introduction to p5.js category of tutorials on the p5 site, you should be able to have an easy first step into GPU programming. You should always be able to be productive and make interesting things at every skill level, and each incremental piece you learn helps you achieve a specific new capability on top of what you already could do. While abstractions can be simplifying, none should be misleading; you should not need to unlearn any bad habits in order to later jump from p5 to more engineering-oriented systems. That said, p5 should not just be a learning tool: the abstractions should be convenient and intuitive enough that you'd want to use them, regardless of skill level, until your project hits a scale and scope that turns it into a larger engineering project.\n\nWe're pretty explicit about what we think you do and don't need to know to start using p5.strands:\n\nThe API has been carefully updated so that you don't need more than that to start. You do not need to know about the shader pipeline, uniforms, varying variables, or anything like that at first. You will still learn those things! But they are not required upfront like they would otherwise be; they stay out of the way until you need them.\n\nAfter having used existing p5 filters such as filter(BLUR), it is not a huge jump to create your own filters. It involves creating a function, using arrays, and working with properties and methods of objects. The biggest thing to learn is the special filterColor object, which you can .set() with a color. Here's a filter that makes the canvas red! Nothing fancy yet, but you can see that colors go from 0 to 1.\n\nfilterColor also has a property texCoord saying what coordinate of the canvas texture you're on. That conveniently also goes from 0 to 1 in both axes, so you can visualize it as a color easily. The resulting gradient is illustrative of how the function gets run on each pixel with different inputs.\n\nYou can explore generative textures by passing those coordinates into noise(). Of course, you can also make your own noise function if you'd like to learn what it's doing under the hood. But it's a useful and productive construct that is already familiar from the rest of p5.\n\nYou can even create animations by using p5.js time functions like millis() like you normally would. For people who already know shaders: under the hood, this involves some uniforms, but the learner does not need to be aware of this yet. They can instead focus on the biggest conceptual leap of writing a fragment shader, which is the fact that your same code needs to run on every pixel. This inversion from the usual way you draw in p5 can be the main focus, with surprisingly few limitations, until the learner feels comfortable.\n\nA natural point to introduce uniforms is when you want to reference a value from a slider. With uniformFloat, we can pass in a slider value and then use that to adjust the animation from before:\n\nA next step can be to show how shaders can be used on objects, not just on the pixels of the whole canvas. Every vertex (a term familiar already from beginShape/endShape drawing) also can be modified by a shader, if you do so in the right block. In p5.strands, the way to do this is the worldInputs block, where you can modify vertex positions in world space. This can be used to move an object around:\n\nOf course, you don't need a shader to do the above in p5 already. But it then lets you do some additional things. For example, you can apply a different offset to each vertex. You could do this with a for loop and beginShape/endShape, but it's very tedious to do, and requires you to suddenly create all the vertices yourself. Here, I can just take the previous shader but use the vertex position in the math:\n\nWhen you introduce the ability to draw an object with multiple instances, updating positions in a shader becomes extra useful.\n\nIf you're already drawing an object with a function, as I did above, you can create a reusable model out of it with buildGeometry. Then, you can draw it with model(geometry, count), and pass in the number of instances of that model you want to draw. You can then position them differently in the shader based on which iteration is being drawn, accessible via instanceID().\n\nYou can already do a lot with this! If you need to move things along prescribed paths, this will work just fine, and you can draw a lot more copies than you would be able to do with a for loop before it starts to lag. Here's an example of drawing a ton of lines with slightly different colors at slightly different positions to create the effect of light dispersion.\n\nBut not every kind of motion can be driven by noise() or sin() or other predetermined functions. What if I have a bunch of specific locations I want to position points at? Or if each particle needs to move independently? See, for example, the Nature of Code chapter on autonomous agents. Lots of cool techniques in there!\n\nWebGPU starts to get us there. The examples from here on out will require you to use a browser with WebGPU support, which Chrome and Firefox on Windows and Mac should have now in their latest versions.\n\nWe can create storage buffers with createStorage that you can read in a shader with uniformStorage. Here's a simple version of that where we hard-code a few locations for objects. Note that we await createCanvas(w, h, WEBGPU) now!\n\nOk, three hardcoded positions for spheres isn't that exciting. Here's what that looks like with more complicated position data that I'm extracting from an SVG:\n\nWhen you have data in a storage buffer, the next logical step is to ask how to update that data to make the particles move. That's how you would implement the agents described in Nature of Code. Interactions are described via how you would incrementally update state every frame rather than having a formula for the exact position given time.\n\nTypically that would be done with a for loop, but with WebGPU, you can now do that with a compute shader using buildComputeShader. Compute shaders are like for loops, but instead of doing one iteration after the other, they instead run all iterations at once in parallel, something that needs special hardware—your GPU—to accomplish.\n\nFor comparison, here's some code to make a bunch of balls bounce off the walls of the canvas with no compute shaders, using a regular for loop. Afterwards, we'll show what this looks like in a compute shader.\n\nNow here's the compute shader version. Rather than using just an array, we use a storage buffer. The update function now just does one iteration of the loop, using index.x to keep track of the current iteration. Drawing all the particles is also done all at once with a shader and instanceID(). You run the update by calling compute() and passing in your shader.\n\nCompute shaders get interesting because, roughly, you can run a loop on thousands of things in the time it would normally take to run just one iteration of a regular for loop. This means you can do stuff that would otherwise take a lot of algorithmic complexity to run quickly. Do you wanted to make all the balls bounce off of each other? The double-nested for loop approach can get slow in regular JavaScript. No problem in a WebGPU compute shader though. I'll also give them some different radii for the fun of it.\n\nGoing back to Nature of Code, here's an implementation of the boids flocking algorithm. This is just a little window with 100 agents, but I've got a fullscreen sketch version that runs nicely with ten thousand agents on my M1 Macbook Pro. Without having to think about spatial partitioning algorithms at all!\n\nFor another example, the header of this page was created using an n-body gravity simulation with points sampled from text, which you can run and inspect for yourself on OpenProcessing.\n\nWe've built out a system that slowly exposes you to vertex shaders, fragment shaders, compute shaders, uniforms, varying variables, and textures as they become useful to you.\n\nYou can also slowly expand into platform-native shader languages, too–every block in p5.strands can also be filled in via a function in GLSL or WGSL. The same animated gradient from earlier looks like this in GLSL:\n\nIf you wanted to see how a JavaScript shader would look as a native shader, you can call .inspectHooks() on it, and it will print the native implementation of your JavaScript.\n\nSo, even when you outgrow the JS shader system, you can still hook into the p5 default shaders with native shader code, so you don't have to redo the entirety of p5's positioning and material systems. Then, of course, there are the loadShader and createShader functions you can call if you truly need to start from scratch, or want to learn how to make the whole thing yourself.\n\nI hope that at that point, you'll have all the understanding you'll need to fearlessly jump into whatever other GPU library or hardware platform you need. You'll still have some learning to do, but by that point, you won't be faced with a mountain of new things; instead, it'll be a matter of learning how the new system handles the concepts you already know.\n\np5.strands in WebGL is already live, and compute shaders will land in the next release of p5.js, version 2.3 (but you can test it out from the build of the compute shader branch right now.) If you start exploring GPU programming with these tools, please do join the p5.js Discord server and let us know how it goes! We are hoping to continuously refine and improve the experience, and hearing from you can help shape development. Similarly, if you're hoping to try teaching with p5, we'd also love to hear from you about how we can improve things for you and your students.\n\nMy name is Dave and I'm a programmer and artist. All content created by hand. Want to get in touch? Find or contact me elsewhere:\n\ndave@davepagurek.com GitHub RSS Mastodon Instagram YouTube Soundcloud Sarcastic Soundcloud Newgrounds CodePen",
+        "fullTranslation": "计算机图形学教育目前正处于一个微妙的境地。计算机的图形能力得到了极大拓展。在当下，甚至很难只去谈论“图形”能力：你的图形处理器（GPU）已不再仅仅是将三角形绘制到屏幕上，它更是一个通用的并行计算平台。这为拓展可能性带来了极好的前景！然而，有如此之多的潜在知识需要学习，大家又该如何入门呢？\n\n通常，要进行任何 GPU 编程都需要大量的背景知识，这使得它的入门门槛高得出了名。在 Vulkan 中从零渲染一个三角形需要成千上万行代码。这是目前讲授计算机图形学的教授们正在努力应对的问题。目前逐渐成型的应对策略是起初不教授所有内容，而是提供一个在内部工作的模板，将那些最初与学习无关的细节隐藏起来。随着学生学得越来越多，脚手架可以逐步拆除，他们也能逐渐意识到那些最初被隐藏的部分。但最重要的是，这些隐藏的细节对于立刻取得初步进展来说并非必需。这种技术被称为“脚手架教学法”（scaffolded learning）。\n\n目前，每个人都在各自摸索该采用怎样的脚手架。通常，脚手架会抽象掉许多底层图形 API，但保留了大部分“经典”着色器管线：学生仍然需要学习数据如何流经顶点着色器和片元着色器，数据如何从 CPU 传递到 GPU，以及如何用一门新语言编写着色器代码。虽然与完全从零开始相比这已经得到了简化，但要一头扎进去依然有很大的信息量。\n\n我参与了 p5.js 的开发。除了作为艺术家的创作工具之外，它还经常被用作计算机科学的教学工具，便于直观地将逻辑可视化。这主要是在其 2D 模式下完成的，因此入门级 3D 和 GPU 教学往往更倾向于使用类似 three.js 的工具。在过去的几年里，我一直在尝试填补 p5 中的 GPU 空白。\n\n在今年早些时候发布了 p5.js 的实验性 WebGPU 构建版本、进行了一些性能优化并修复了大量 bug 之后，我终于能够开始实现计算着色器了。最后这块拼图让 p5 距离我心目中理想的 GPU 学习系统目标又近了一大步。那么，让我们来聊聊它究竟是什么样子的吧！\n\n我们的着色器系统 p5.strands 新确立的目标是提供一套脚手架，使得只要你以前制作过 p5.js 作品（sketch），并且熟悉例如 p5 官网上的“p5.js 入门”系列教程，你就应该能够轻松迈出 GPU 编程的第一步。无论处于哪个技能水平，你都应该始终能够高效地产出并创作有趣的作品，并且你学到的每个递增知识点都能帮助你在原有能力的基础上获得一项特定的新能力。虽然抽象可以简化问题，但绝不应产生误导；你不需要为了以后从 p5 跃升到更偏向工程的系统而不得不改掉任何不良习惯。话虽如此，p5 不应仅仅是一个学习工具：这些抽象应该足够便捷和直观，无论技术水平如何你都会乐意使用它们，直到你的项目规模和范围扩大，转变为一个更大的工程项目。\n\n对于我们认为你开始使用 p5.strands 时需要了解和不需要了解的内容，我们的界定相当明确：\n\n该 API 经过了精心更新，因此你只需掌握这些基础即可开始。一开始你根本不需要了解着色器管线、uniform 变量、varying 变量或任何类似的概念。你最终仍然会学到这些！但它们不会像通常情况下那样成为前期必修项；在真正需要它们之前，它们都不会来干扰你。\n\n在使用过 filter(BLUR) 等现有 p5 滤镜后，创建你自己的滤镜并不是一个巨大的跨越。它涉及创建一个函数、使用数组以及操作对象的属性和方法。最主要需要学习的是特殊的 filterColor 对象，你可以用它来 .set() 颜色。这里有一个能把画布变红的滤镜！虽然目前还没什么特别的，但你可以看到颜色取值范围是从 0 到 1。\n\nfilterColor 还有一个 texCoord 属性，指示你当前位于画布纹理的哪个坐标处。很方便的是，它在两个轴上的取值范围也都是 0 到 1，因此你可以轻松地将其可视化为颜色。生成的渐变效果生动展示了该函数是如何以不同的输入在每个像素上运行的。\n\n你可以通过将这些坐标传递给 noise() 来探索生成式纹理。当然，如果你想了解底层的运行机制，也可以自己编写噪声函数。但这是 p5 其余部分中大家已经熟知且高效实用的结构。\n\n你甚至可以像往常一样使用 millis() 等 p5.js 时间函数来创建动画。对于已经了解着色器的人来说：在底层，这涉及一些 uniform 变量，但学习者目前还不需要意识到这一点。他们可以转而专注于编写片元着色器时最大的概念跃迁——即你的同一段代码需要在每个像素上运行这一事实。在学习者感到得心应手之前，这种与 p5 通常绘图方式相反的思维转换可以作为主要聚焦点，并且限制出奇地少。\n\n引入 uniform 变量的一个自然契机是当你想要引用滑块的值时。通过 uniformFloat，我们可以传入一个滑块值，然后用它来调整前面的动画：\n\n下一步可以展示如何将着色器应用于对象，而不仅仅是应用在整个画布的像素上。如果你在正确的代码块中操作，每个顶点（这个术语在 beginShape/endShape 绘图中大家已经很熟悉了）也都可以被着色器修改。在 p5.strands 中，实现这一点的方法是 worldInputs 代码块，你可以在其中修改世界空间中的顶点位置。这可以用来移动对象：\n\n当然，在 p5 中完成上述操作本来就不需要着色器。但随后它能让你做一些额外的事情。例如，你可以对每个顶点应用不同的偏移量。你可以使用 for 循环和 beginShape/endShape 来做到这一点，但这样操作非常繁琐，而且需要你突然自己去创建所有顶点。在这里，我只需沿用之前的着色器，但在数学计算中使用顶点位置：\n\n当你引入绘制多实例对象的功能时，在着色器中更新位置就变得格外有用了。\n\n如果你已经像我上面那样使用函数绘制对象，你就可以使用 buildGeometry 将其制作成可复用的模型。然后，你可以用 model(geometry, count) 来绘制它，并传入你想要绘制的该模型实例数量。接着，你可以根据正在绘制的迭代次数（可通过 instanceID() 访问），在着色器中对它们进行不同的定位。\n\n利用这个你已经能做很多事情了！如果你需要让物体沿着既定路径运动，这种方法运行得非常顺畅，而且在出现卡顿之前，你能绘制的副本数量远远超过使用 for 循环所能达到的极限。这里有一个例子：绘制大量位置略微不同、颜色稍有差异的线条，以产生光色散效果。\n\n但并不是所有的运动都可以通过 noise()、sin() 或其他预定函数来驱动。如果我有一堆特定的位置，想要把点放置在那里怎么办？或者如果每个粒子都需要独立运动呢？例如，可以参考《代码本性》（Nature of Code）中关于自主智能体（autonomous agents）的章节，里面有很多非常酷的技术！\n\nWebGPU 开始带我们走向这一步。从这里开始的示例都将要求你使用支持 WebGPU 的浏览器，目前 Windows 和 Mac 平台上的最新版 Chrome 和 Firefox 应该都已支持。\n\n我们可以使用 createStorage 创建存储缓冲区（storage buffers），然后你可以在着色器中通过 uniformStorage 读取它们。这里有一个简单的版本，我们在其中硬编码了几个物体的空间位置。请注意，我们现在需要 await createCanvas(w, h, WEBGPU)！\n\n好吧，三个硬编码的球体位置并没有那么令人兴奋。下面展示的是使用我从 SVG 中提取的更复杂位置数据时的效果：\n\n当你把数据放入存储缓冲区后，下一个顺理成章的步骤就是探讨如何更新这些数据以让粒子运动起来。这也是你实现《代码本性》中所描述智能体的方式。交互是通过每一帧如何增量更新状态来描述的，而不是拥有一个在给定时间下计算确切位置的数学公式。\n\n通常这会用 for 循环来完成，但有了 WebGPU，你现在可以通过 buildComputeShader 使用计算着色器（compute shader）来完成。计算着色器类似于 for 循环，但它们不是依次执行一次又一次的迭代，而是一次性并行运行所有迭代，这需要特殊的硬件——也就是你的 GPU——来实现。\n\n作为对比，这里有一段没有使用计算着色器、而是用普通 for 循环让一堆球在画布边缘反弹的代码。随后，我们将展示这在计算着色器中是什么样子。\n\n现在来看看计算着色器版本。我们不再仅仅使用数组，而是使用存储缓冲区。更新函数现在只执行循环中的一次迭代，使用 index.x 来跟踪当前的迭代索引。所有粒子的绘制也是通过着色器和 instanceID() 一次性完成的。你通过调用 compute() 并传入你的着色器来执行更新。\n\n计算着色器之所以变得有趣，是因为粗略来说，你可以在通常运行普通 for 循环单次迭代的时间内，同时对数千个对象运行循环。这意味着你可以执行那些原本需要极高算法复杂度才能快速运行的操作。你想让所有球彼此相互碰撞反弹吗？在常规 JavaScript 中，双重嵌套 for 循环的方式可能会变得很慢。但在 WebGPU 计算着色器中完全没有问题。为了好玩，我还给它们赋予了不同的半径。\n\n回到《代码本性》，这里是 Boids 鸟群算法的一个实现。这只是一个包含 100 个智能体的小窗口，但我有一个全屏草图版本，在我的 M1 MacBook Pro 上可以流畅运行一万个智能体。而且完全不需要考虑空间划分算法！\n\n再举一个例子，本页面的页眉是使用基于从文本中采样的点进行的 N 体引力模拟制作的，你可以在 OpenProcessing 上亲自运行并查看它。\n\n我们构建了一个系统，随着这些概念对你变得有用，逐步向你介绍顶点着色器、片元着色器、计算着色器、uniform 变量、varying 变量和纹理。\n\n你还可以逐步扩展到平台原生着色器语言——p5.strands 中的每个代码块也可以通过 GLSL 或 WGSL 函数来填充。前面提到的那个动态渐变在 GLSL 中看起来是这样的：\n\n如果你想看看 JavaScript 着色器在原生着色器中是什么样子，可以对其调用 .inspectHooks()，它就会打印出你的 JavaScript 代码对应的原生实现。\n\n因此，即使你的能力超出了 JS 着色器系统的范畴，你仍然可以使用原生着色器代码接入 p5 的默认着色器，而不必重写 p5 的整套定位和材质系统。当然，如果你确实需要从零开始构建，或者想要学习如何完全自己制作，你也可以调用 loadShader 和 createShader 函数。\n\n我希望到那时，你将具备所需的一切理解，从而能够无所畏惧地投身于你所需的任何其他 GPU 库或硬件平台中。你仍然需要进行一些学习，但到那时，你面对的将不再是堆积如山的新概念；相反，这只是一个了解新系统如何处理你早已掌握的概念的过程。\n\nWebGL 中的 p5.strands 现已上线，而计算着色器将在 p5.js 的下一个版本（2.3 版）中正式推出（但你现在就可以通过计算着色器分支的构建版本进行测试体验）。如果你开始使用这些工具探索 GPU 编程，欢迎加入 p5.js Discord 服务器并告诉我们你的使用体验！我们希望不断完善和改进这一体验，倾听你的反馈有助于指导未来的开发。同样，如果你希望尝试将其用于教学，我们也十分乐意听取你的建议，了解我们如何为你和你的学生改进工具。\n\n我叫 Dave，是一名程序员兼艺术家。所有内容均为手工创作。想要联系我吗？可以在以下平台找到或联系我：\ndave@davepagurek.com GitHub RSS Mastodon Instagram YouTube Soundcloud Sarcastic Soundcloud Newgrounds CodePen",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "在 Vulkan 中从零渲染一个三角形需要数千行代码。",
+          "作者参与 p5.js 的开发，过去几年一直在填补 p5.js 中的 GPU 能力空白。",
+          "来源叙事重点：探讨计算机图形学教育门槛过高的现状，阐述通过脚手架式学习（scaffolded learning）理念设计 p5.strands 着色器系统，展示如何借助 WebGPU 计算着色器（compute shaders）让初学者在无需掌握底层复杂概念的前提下实现高性能并行计算与图形仿真。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T00:28:51.000Z",
+            "url": "https://www.davepagurek.com/blog/p5-compute-shaders/"
+          }
+        ]
+      },
+      {
+        "id": "story-hurricane-intensity-html-47a0daa1da6668c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why AI has trouble predicting the fury of hurricane intensity",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:30:01.000Z",
+        "pubTime": "2026-09-27 08:30",
+        "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-satellite-image-show.jpg",
+        "fullContent": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+            "publishedAt": "2026-09-27T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rantsija-2120501210-html-76f9609bd1c58647",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Историк раскрыл, как советские женщины во Франции создали отряд \"Родина\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T01:21:49.000Z",
+        "pubTime": "2026-09-27 09:21",
+        "url": "https://ria.ru/20260927/frantsija-2120501210.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/09/1a/2120462928_0:0:1516:853_650x0_80_0_0_bd254af1c35ee6d97589fafca4b3779d.png",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-27 09:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/frantsija-2120501210.html",
+            "publishedAt": "2026-09-27T01:21:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ages-over-haptic-patents-10792b6727af1abd",
+        "title": "苹果因触觉专利侵权被判赔偿57亿美元",
+        "originalTitle": "Apple hit with $5.7 billion in damages over haptic patents",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:30:01.000Z",
+        "pubTime": "2026-09-27 05:30",
+        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nApple’s Taptic Engine was found to infringe on two of Taction’s patents.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nHaptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, “The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.”\n\nTaction argued that Apple’s Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the jury did not find that Apple willfully infringed. Taction had accused Apple of reverse-engineering the tech from two Kannon gaming headsets.\n\nApple has said that it intends to appeal the decision. We’ve reached out for additional comment and will update the story if and when we hear back.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n苹果公司的 Taptic Engine 被认定侵犯了 Taction 的两项专利。\n来自该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n查看 Terrence O'Brien 的全部文章\n触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁决 Taction 获赔超过 57 亿美元的损害赔偿金。据 CNBC 报道，“该诉讼围绕美国专利号 10,659,885 和 10,820,117 展开，这两项专利均涉及基于振动的触觉换能器技术，可帮助用户感知设备对其操作的反馈。”\nTaction 主张，苹果在其 Apple Watch 和 iPhone 中搭载的 Taptic Engine 未经正当许可使用了其开发的技术，陪审团对此表示支持。陪审团认定苹果侵犯了一项专利中的两项权利要求以及另一项专利中的一项权利要求。不过，陪审团并未认定苹果构成故意侵权。Taction 此前指控苹果对两款 Kannon 游戏耳机进行了逆向工程以获取该技术。\n苹果公司表示打算对这一裁决提起上诉。我们已联系苹果寻求进一步置评，收到回复后将跟进更新报道。\n汇聚最关键新闻的免费每日简报。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "触觉技术公司 Taction 于 2021 年起诉苹果公司侵犯其两项专利。",
+          "圣地亚哥联邦陪审团裁定苹果公司向 Taction 赔偿超过 57 亿美元。",
+          "来源叙事重点：聚焦苹果 Taptic Engine 被陪审团认定侵犯 Taction 两项触觉技术专利，以及超过 57 亿美元赔偿这一金额和后续上诉；将 Taction 关于苹果未经许可使用相关技术、并从 Kannon 游戏耳机逆向工程的说法作为诉讼背景，其中逆向工程指控未被该证据包独立验证。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:30:01.000Z",
+            "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+          }
+        ]
+      },
+      {
+        "id": "story-through-next-summer-html-b06f85328fbe6eb1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Global Gas Squeeze Could Last Through Next Summer",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T23:00:00.000Z",
+        "pubTime": "2026-09-27 07:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
+        "imageUrl": null,
+        "fullContent": "Global natural gas supply is likely to remain tighter than it should be until next summer at least, and it could cause prolonged demand destruction. Should this scenario materialize, it would deliver a severe blow to Europe, as it already struggles to cover its winter gas needs ahead of the official start of heating seasonbut Asia won't be happy about it, either. The prediction comes from the International Gas Union, an industry association that covers 90% of the world's gas producers. \"The market right now is saying that they see the conflict getting prolonged,\" IGU's secretary general Menelaos Ydreos told Reuters this week. \"Europe is starting to outbid Asia because they need to refill storage levels,\" the executive added, noting that the price surge in natural gas has already destroyed some demand, but it is as of yet unclear whether this is a temporary dip or it could evolve into permanent destruction. Chances are it is the former, based on a recent report by Global Energy Monitor that found countries in Southeast Asia were still building natural gas-fired power plants despite the price inflation in gas caused by the Middle East war. Asian countries are also building more LNG import capacity, despite the price surge. \"There is some short-term demand destruction. The question is whether it rebounds after everything settles or whether there are some longer-term implications around policy,\" Ydreos told Reuters, voicing what must be a legitimate worry in the gas industry about the outlook for demand. Related China Could Cut Fuel Exports in October as Inventories Plunge Goldman Sachs is not too concerned about the long-term future of gas demand, however. In a report this week, the investment bank painted an optimistic scenario for this winter, saying prices in Europe could drop from around 70 euro per MWh to 50 euro per MWh if the flow of liquefied natural gas out of the Persian Gulf improves. The chances of that happening may be slim, but it appears Goldman Sachs makes its price estimates under the safe assumption that these chances are never zero. Be that as it may, Goldman's analysts still expect European gas prices to average 70 euro per MWh, which is equal to some $80. The forecast is significantly higher than an earlier one, in which Goldman's commodity analysts expected winter gas prices at between 30 and 60 euro per MWh. \"Exports of LNG from the Persian Gulf are still only at an estimated 15%25% of their levels from before the outbreak of war between Iran and the US and Israel in February 2026. In the absence of an improvement in exports through the Strait of Hormuz, European gas prices need to increase in order to outcompete importers of LNG elsewhere in the world,\" the bank's co-head of Global Commodities Research. \"If others stop buying, there is more left to come to Europe,\" Samantha Dart explained. More gas may be coming to Europe to fill those storage caverns, but power generators are switching to coal in further evidence that gas is becoming difficult to afford for one of the world's largest import regions. Reuters reported this week that coal consumption by power utilities in Europe could rise by as much as 25% over the next six months, as gas prices surge to the highest in three years this month, hitting 80 euros per MWh. Over the 30 days to September 24, European benchmark gas prices have added more than 17%, according to data from EnergyRiskIQ. In relief for Asian gas importers, there will soon be more Russian LNG available for them. The European Union earlier this year approved a ban on Russian LNG imports, to take effect from January, which means flows from Yamal LNG would be redirected and, according to the IGU's Ydreos, they could be sold at a discount. This, of course, would tighten the supply base for Europe, but the European Union's leadership has made it clear repeatedly that its geopolitical priorities come first, and the bloc should be prepared to bear the cost of pursuing those priorities. There is, however, another priority that is at odds with gas supply security, and this is the EU's climate change agenda. \"We're for regulations, but they have to be achievable, practical and incentivise compliance,\" the head of the International Gas Union told Reuters. \"If regulations go far beyond that and make it extremely difficult for the industry to comply, they'll look for other regions to send their product,\" he added, possibly referring to the EU's methane regulation that prompted a strong reaction from both Qatar and the United States. The two biggest LNG suppliers to the EU have said repeatedly they would not comply with the regulation that requires tracking every gas molecule to make sure it was produced with care for emissions. With Qatar temporarily off the stage, the U.S. remains Europe's only hope for LNG supply, whatever the cost, including in climate regulation adjustments. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际燃气联盟（IGU）代表了全球90%的天然气生产商。",
+          "IGU秘书长Menelaos Ydreos对路透社表示，欧洲开始给出高于亚洲的出价以补充储气库水平。",
+          "来源叙事重点：核心叙事是全球天然气供应紧张至少可能持续至明年夏季，欧洲为补充储气库而以更高价格与亚洲争夺LNG，进而推高欧洲气价、煤炭替代和需求破坏风险。文章同时强调地缘冲突、霍尔木兹海峡运输、欧盟俄罗斯LNG禁令及甲烷监管可能进一步重塑供应流向，并以高盛较乐观的价格情景构成对照。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html"
+          }
+        ]
+      },
+      {
+        "id": "story-t-on-the-boykisser-forum-55f2058c18f3f3c9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Honeypot on the boykisser forum",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:18:05.000Z",
+        "pubTime": "2026-09-27 08:18",
+        "url": "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-27 08:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/",
+            "publishedAt": "2026-09-27T00:18:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ally-impaired-young-html-1deb87c976d142c8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NEET with a disability: What's holding back visually impaired young people who want to work",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:30:02.000Z",
+        "pubTime": "2026-09-27 06:30",
+        "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/visually-impaired.jpg",
+        "fullContent": "I have been fortunate in my research to follow 80 young people with vision impairment over 11 years. I tracked their journeys from school into adulthood, speaking with them at regular intervals to learn what had happened since we last spoke, what had gone well and what could have been improved.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+            "publishedAt": "2026-09-26T22:30:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-on-pauline-hanson-ntwnfb-3b9f8b13f08d1cb4",
+        "title": "澳大利亚实时新闻：休姆对在OpenAI数据泄露事件后采取法律行动表示怀疑；航班取消让澳式橄榄球联赛（AFL）球迷心碎",
+        "originalTitle": "Australia news live: Hume sceptical legal action should follow OpenAI breach; flight cancellation heartbreak for AFL fans",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T01:21:13.000Z",
+        "pubTime": "2026-09-27 09:21",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/bf983dc767099c2a68d498927fa9238b80e18511/753_345_5374_4299/master/5374.jpg?width=140&quality=85&auto=format&fit=max&s=283af7d718ba173f33681a4941ef1134",
+        "fullContent": "Get our breaking news email , free app or daily news podcast\n\nQueensland records five-year high number of deaths in child protection system\n\nQueensland has recorded a five-year high of 92 deaths of children in the child protection system, according to new data.\n\nThe real alarm bell that was set off this week is the fact that the only reason we knew about this breach of the Medicare archive or data system is because OpenAI told us there was a breach.\n\nIf they hadn’t told us that there was a breach, would we have known about it at all? That demonstrates that our cyber defences, particularly for Services Australia, were woefully inadequate.",
+        "fullTranslation": "订阅我们的突发新闻邮件、下载免费应用或收听每日新闻播客\n\n昆士兰州儿童保护系统儿童死亡人数创五年新高\n\n最新数据显示，昆士兰州儿童保护系统中记录的儿童死亡人数达到92人，创下五年来的新高。\n\n本周真正敲响警钟的事实是，我们之所以知道国民医疗保险（Medicare）档案或数据系统遭遇了此次泄露，仅仅是因为OpenAI通知了我们存在泄露。\n\n如果他们没有通知我们发生了泄露，我们到底会不会知晓此事？这表明我们的网络防御能力，特别是澳大利亚服务部（Services Australia）的网络防御，严重不足。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "该文章来源为《卫报》（The Guardian）。",
+          "该文章发布时间为2026年9月27日01:21:13（页面显示为2026年9月27日09:21）。",
+          "来源叙事重点：重点突出公共安全、政府问责与网络防御能力问题：一方面报道昆士兰州儿童保护系统儿童死亡人数达到五年来最高；另一方面将Medicare数据泄露的曝光归因于OpenAI告知，并据此引出Services Australia网络防御不足的批评。报道框架偏向强调潜在监管失灵和信息披露风险，但提供的文本未展示政府、OpenAI或技术专家的完整回应。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T01:21:13.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-reasing-healthcare-costs-3eda5db8c05960eb",
+        "title": "保险公司称人工智能已推高医疗保健成本",
+        "originalTitle": "Insurers claim AI is already increasing healthcare costs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:02:06.000Z",
+        "pubTime": "2026-09-27 05:02",
+        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "imageUrl": null,
+        "fullContent": "Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association.\n\nThe BCBSA analysis found “a sharp increase in patients being documented as having complex conditions,” but argued there is a “clear disconnect between [medical] coding and treatment,” as there’s “no evidence of corresponding change in care delivered.”\n\nThe New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. While battles between hospitals and insurers over treatments and payments are nothing new, the NYT said the use of AI on both sides seems to be making it worse.\n\nDr. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to “a horrible dystopic future nobody wants to live in,” with “bots fighting bots, agents fighting agents.” But Rao said it might also reduce tensions and cut costs.\n\nAnd the BCBSA’s senior vice president Luke Chalker resisted characterizing the situation as a battle, claiming, “It’s not a war. It’s a completely one-sided blood bath,” with insurers on the losing side.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔申请时使用人工智能工具，在两年时间内导致医疗支出额外增加了9.42亿美元。\n\nBCBSA 的分析发现，“被记录为患有复杂疾病的患者数量急剧增加”，但指出“[医疗]编码与治疗之间存在明显脱节”，因为“没有证据表明所提供的护理服务发生了相应变化”。\n\n《纽约时报》指出，这项分析只是表明人工智能正在推高医疗保健成本的最新迹象。尽管医院与保险公司围绕治疗方案和费用支付的争端屡见不鲜，但《纽约时报》表示，双方对人工智能的使用似乎正在使局面进一步恶化。\n\n人工智能初创公司 Abridge 的创始人希夫·拉奥（Shiv Rao）博士承认，人工智能的使用可能会导致“没有人愿意生活在其中的可怕反乌托邦未来”，出现“机器人对抗机器人、智能体对抗智能体”的局面。但拉奥也表示，它同样有可能缓解紧张关系并降低成本。\n\n而 BCBSA 高级副总裁卢克·查尔克（Luke Chalker）则不认同将这一局面定性为一场争斗，他坚称：“这不是一场战争。这是一场彻底的单方面杀戮”，而保险公司正是处于输家的一方。\n\n你的下一个重要人脉就在 Disrupt。与超过10,000名创始人、风险投资人、运营者及科技领袖建立联系。探索未来的突破性成果，聆听正在塑造当今科技的声音，并在太平洋时间9月25日晚上11:59前享受高达200美元的优惠。\n\n每个工作日和周日，您都可以获取 TechCrunch 最优质的报道内容。\n\nTechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。\n\n初创企业是 TechCrunch 的核心，敬请每周查收我们最精彩的报道推送。\n\n为行业领军人物提供开启新一天所需的资讯。\n\n提交您的电子邮件，即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "来源叙事重点：报道将医院在保险理赔提交过程中使用AI、复杂病情编码增加与医疗支出上升联系起来。核心叙事来自BCBSA：两年内相关医疗支出额外增加9.42亿美元，复杂病情记录明显增加，但医疗编码与实际治疗之间存在脱节，且没有相应治疗变化的证据。文章进一步将其置于医院与保险公司长期围绕治疗和支付的冲突中，并通过AI初创企业创始人的警告与保险高管的表述，呈现AI可能加剧对抗、也可能降低成本的双重前景。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:02:06.000Z",
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-i-do-the-same-8ab5cba3-3c71c105259e7aa4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T20:00:00.000Z",
+        "pubTime": "2026-09-27 04:00",
+        "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“She currently has about 15 sitters, all independent contractors.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T20:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--lulas-facebook-page-and-28e8d1db8b156b96",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Meta Blocks President Lula’s Facebook Page and Campaign Ads Two Weeks from Election",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:28:47.000Z",
+        "pubTime": "2026-09-27 06:28",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+        "imageUrl": "https://external-preview.redd.it/8gtlEjdtrPo0tpAuwK0ZgcipeWr00GD3yUtpbqFqH6w.jpeg?width=640&crop=smart&auto=webp&s=ac35ebd7421d514bc88b1c850e3f144bad1b2ade",
+        "fullContent": "submitted by /u/Admirable_External_1 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-27 06:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+            "publishedAt": "2026-09-26T22:28:47.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-026-09-27-10704341-shtml-3418a46e445ba12f",
+        "title": "三大运营商全面暂停“0元购机”，是何原因？",
+        "originalTitle": "三大运营商全面暂停“0元购机”，是何原因？",
+        "source": "中新网 (全球要闻原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-27T01:25:49.000Z",
+        "pubTime": "2026-09-27 09:25",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml",
+        "imageUrl": null,
+        "fullContent": "中国移动、中国电信、中国联通，集中叫停！\n\n在三大运营商线下营业厅，不少消费者都碰到过“免费领手机”“办宽带送礼品”的宣传。看似是办套餐就能白拿手机，实际是‌签了贷款合同‌，每月话费里包含还款金额。长期以来，这类分期业务一直是消费者投诉的集中领域。\n\n有消息称，9月24日起，三大运营商金融分期购机业务暂停，不能再新增办理这类0元拿手机业务。“0元购机”为什么在此时全面叫停？已经办理的用户该怎么办？\n\n近年来，关于分期购机的投诉从未间断。三年前，湖南株洲吴先生便遭遇过业务员上门承诺在网三年就送一部手机，几天后吴先生收到的却是一条“贷款成功”的短信。合同显示，他名下多了一笔1950元、36期的消费贷款。\n\n辽宁沈阳的夏先生上周在黑猫投诉反映，他办理“办宽带送手机”业务，事后才发现，自己的支付账户里多了一笔分期贷款，36期，每期49.9元，这笔钱就藏在他每月139元的话费里。\n\n浙江宁波王先生的遭遇则更为离奇，业务员以上门测网速为由进门，更换了他的宽带运营商，还给他办了一笔1500多元的全屋Wi-Fi设备，分36期。\n\n这类投诉都有共同点：用户以为自己办的是通信业务，签下的却是贷款合同；以为交的是话费，实际上是在还贷款。一旦手机欠费停机，贷款随即逾期，个人征信跟着受损。\n\n近日，有消息称，三大运营商已经暂停此类业务，总台记者致电电信、联通运营商客服以及移动“和包信用购”客服，对方都表示，此类分期购机项目已经暂停。\n\n沈阳电信：新业务目前是在做这一个系统优化升级，暂时停止受理新办理。您如果是现在要办理手机合约的话，您可以了解营业厅其他优惠购机活动。\n\n北京联通：分期的话这个产品都是在升级中，具体复开时间是等待通知。\n\n移动“和包信用购”：版本更替升级，现在暂时办理不了，什么时候能办还要等进一步通知。\n\n湖南移动公司则一度在官网发布《关于和包分期购机活动停售的公告》，称9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。‌‌\n\n也就是说，9月24日起，中国移动的“和包信用购”、中国电信的“橙分期”、中国联通的“沃分期”均已全面暂停新增办理分期购机，恢复时间未定。\n\n值得注意的是，9月30日，中国人民银行、工业和信息化部等部门联合发布的《金融产品网络营销管理办法》将正式施行，明确要求金融产品营销不得含有虚假或引人误解的内容。在这样的时间点，运营商叫停“办套餐送手机+分期”的模式是巧合还是必然？\n\n电信分析师付亮回顾，电信市场进入3G时代初期，智能手机迎来普及浪潮。为争夺用户，运营商曾大规模采用“预存话费送手机”的营销模式，要求用户缴纳一定额度话费即可获赠手机。\n\n举例来说，一台价值5000元的手机，用户可能需要一次性缴纳7000至8000余元，这笔费用包含手机价款与三年话费，整体让利幅度约30%。但运营商随后发现，一次性缴费门槛过高，不少用户难以接受。在此背景下，新的模式应运而生：用户无需预先支付全款，只需以信用承诺按月缴纳话费，就能参与活动。该模式确实有助于拉动相关消费，同时兼顾各方利益。\n\n这种在发展初期被视作降低门槛、促进手机消费的商业创新，在推行过程中逐渐走形变样。过去用户晚交几天话费，可能只是停机；而此类信用购模式，晚交话费甚至欠交话费会影响信用，成了金融违约。再加上在渠道利益的驱动下，一些线下业务员屡屡出现“选择性隐瞒风险”的行为。\n\n付亮认为，此次三大运营商集中叫停金融分期购机业务，除了规范相关业务行为外，更深层的背景是通信市场步入存量时代，依靠补贴手机硬件抢夺用户的运营逻辑已难持续。\n\n在运营商财报中，终端业务基本处于零利润甚至亏损状态。运营商的核心目标是销售通信服务，而非售卖手机终端。如今运营商获取新用户的难度持续加大，今年各家对新增用户增长的考核指标已明显下调，企业不再愿意贴钱通过终端业务拉新。叠加合规层面的考量，运营商选择叫停该业务也就不难理解。\n\n而在工业和信息化部信息通信经济专家委员会委员盘和林看来，三大运营商之所以全面暂停该业务，最直接的导火索是这套模式早已沦为典型的“负资产”——在经济账上得不偿失，在法律与声誉层面更是风险重重：\n\n分期购机业务市场表现不佳，用户不愿被运营商套餐长期捆绑，业务整体规模偏小。\n\n分期购机业务存在较高合规风险。部分营业厅会借助夸大宣传开展促销，不少用户办理后发现实际情况与宣传不符，例如需要承担高额分期利息，这项业务由此变成运营商的负资产。业务推广成功会损害品牌口碑，推广不力则可能因虚假宣传面临合规处罚，可谓得不偿失。\n\n盘和林介绍，数字化技术不断发展的背景下，线下实体营业厅的职能持续收缩。同时，常态化落地的“携号转网”政策，彻底打破了运营商依靠长周期合约深度锁定用户的运营壁垒。\n\n这里需要提醒，已经办了分期合约的老用户，不受这轮调整影响，原有合约继续生效，按之前的协议正常履约。合约到期后，可以换当期在售的其他套餐。如果之后有人打电话推销“分期购机”“内部渠道0元拿手机”，千万不能相信。\n\n▌本文来源：央视财经(ID：cctvyscj)综合\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中国移动、中国电信、中国联通，集中叫停！\n\n在三大运营商线下营业厅，不少消费者都碰到过“免费领手机”“办宽带送礼品”的宣传。看似是办套餐就能白拿手机，实际是‌签了贷款合同‌，每月话费里包含还款金额。长期以来，这类分期业务一直是消费者投诉的集中领域。\n\n有消息称，9月24日起，三大运营商金融分期购机业务暂停，不能再新增办理这类0元拿手机业务。“0元购机”为什么在此时全面叫停？已经办理的用户该怎么办？\n\n近年来，关于分期购机的投诉从未间断。三年前，湖南株洲吴先生便遭遇过业务员上门承诺在网三年就送一部手机，几天后吴先生收到的却是一条“贷款成功”的短信。合同显示，他名下多了一笔1950元、36期的消费贷款。\n\n辽宁沈阳的夏先生上周在黑猫投诉反映，他办理“办宽带送手机”业务，事后才发现，自己的支付账户里多了一笔分期贷款，36期，每期49.9元，这笔钱就藏在他每月139元的话费里。\n\n浙江宁波王先生的遭遇则更为离奇，业务员以上门测网速为由进门，更换了他的宽带运营商，还给他办了一笔1500多元的全屋Wi-Fi设备，分36期。\n\n这类投诉都有共同点：用户以为自己办的是通信业务，签下的却是贷款合同；以为交的是话费，实际上是在还贷款。一旦手机欠费停机，贷款随即逾期，个人征信跟着受损。\n\n近日，有消息称，三大运营商已经暂停此类业务，总台记者致电电信、联通运营商客服以及移动“和包信用购”客服，对方都表示，此类分期购机项目已经暂停。\n\n沈阳电信：新业务目前是在做这一个系统优化升级，暂时停止受理新办理。您如果是现在要办理手机合约的话，您可以了解营业厅其他优惠购机活动。\n\n北京联通：分期的话这个产品都是在升级中，具体复开时间是等待通知。\n\n移动“和包信用购”：版本更替升级，现在暂时办理不了，什么时候能办还要等进一步通知。\n\n湖南移动公司则一度在官网发布《关于和包分期购机活动停售的公告》，称9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。‌‌\n\n也就是说，9月24日起，中国移动的“和包信用购”、中国电信的“橙分期”、中国联通的“沃分期”均已全面暂停新增办理分期购机，恢复时间未定。\n\n值得注意的是，9月30日，中国人民银行、工业和信息化部等部门联合发布的《金融产品网络营销管理办法》将正式施行，明确要求金融产品营销不得含有虚假或引人误解的内容。在这样的时间点，运营商叫停“办套餐送手机+分期”的模式是巧合还是必然？\n\n电信分析师付亮回顾，电信市场进入3G时代初期，智能手机迎来普及浪潮。为争夺用户，运营商曾大规模采用“预存话费送手机”的营销模式，要求用户缴纳一定额度话费即可获赠手机。\n\n举例来说，一台价值5000元的手机，用户可能需要一次性缴纳7000至8000余元，这笔费用包含手机价款与三年话费，整体让利幅度约30%。但运营商随后发现，一次性缴费门槛过高，不少用户难以接受。在此背景下，新的模式应运而生：用户无需预先支付全款，只需以信用承诺按月缴纳话费，就能参与活动。该模式确实有助于拉动相关消费，同时兼顾各方利益。\n\n这种在发展初期被视作降低门槛、促进手机消费的商业创新，在推行过程中逐渐走形变样。过去用户晚交几天话费，可能只是停机；而此类信用购模式，晚交话费甚至欠交话费会影响信用，成了金融违约。再加上在渠道利益的驱动下，一些线下业务员屡屡出现“选择性隐瞒风险”的行为。\n\n付亮认为，此次三大运营商集中叫停金融分期购机业务，除了规范相关业务行为外，更深层的背景是通信市场步入存量时代，依靠补贴手机硬件抢夺用户的运营逻辑已难持续。\n\n在运营商财报中，终端业务基本处于零利润甚至亏损状态。运营商的核心目标是销售通信服务，而非售卖手机终端。如今运营商获取新用户的难度持续加大，今年各家对新增用户增长的考核指标已明显下调，企业不再愿意贴钱通过终端业务拉新。叠加合规层面的考量，运营商选择叫停该业务也就不难理解。\n\n而在工业和信息化部信息通信经济专家委员会委员盘和林看来，三大运营商之所以全面暂停该业务，最直接的导火索是这套模式早已沦为典型的“负资产”——在经济账上得不偿失，在法律与声誉层面更是风险重重：\n\n分期购机业务市场表现不佳，用户不愿被运营商套餐长期捆绑，业务整体规模偏小。\n\n分期购机业务存在较高合规风险。部分营业厅会借助夸大宣传开展促销，不少用户办理后发现实际情况与宣传不符，例如需要承担高额分期利息，这项业务由此变成运营商的负资产。业务推广成功会损害品牌口碑，推广不力则可能因虚假宣传面临合规处罚，可谓得不偿失。\n\n盘和林介绍，数字化技术不断发展的背景下，线下实体营业厅的职能持续收缩。同时，常态化落地的“携号转网”政策，彻底打破了运营商依靠长周期合约深度锁定用户的运营壁垒。\n\n这里需要提醒，已经办了分期合约的老用户，不受这轮调整影响，原有合约继续生效，按之前的协议正常履约。合约到期后，可以换当期在售的其他套餐。如果之后有人打电话推销“分期购机”“内部渠道0元拿手机”，千万不能相信。\n\n▌本文来源：央视财经(ID：cctvyscj)综合\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 42,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "中国移动“和包信用购”、中国电信“橙分期”、中国联通“沃分期”自9月24日起均已全面暂停新增办理金融分期购机业务，恢复时间未定。",
+          "湖南移动公司在官网发布公告，明确自9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。",
+          "来源叙事重点：揭示“0元购机”背后隐蔽的消费金融贷款套路及对消费者征信的损害，聚焦三大运营商全面暂停分期购机的真实诱因——直指《金融产品网络营销管理办法》合规强监管、通信存量时代补贴模式失效及声誉负资产问题，而非官方宣称的“系统升级”。"
+        ],
+        "citations": [
+          {
+            "source": "中新网 (全球要闻原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-27T01:25:49.000Z",
+            "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-ini-and-ai-mode-in-india-3e5c288472f5aa9b",
+        "title": "谷歌在印度测试通过Gemini和AI Mode直接购买沃尔玛旗下Flipkart商品",
+        "originalTitle": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T01:30:00.000Z",
+        "pubTime": "2026-09-27 09:30",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "imageUrl": null,
+        "fullContent": "Google has started testing a way for shoppers in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode, as the search giant looks to expand its AI services from product discovery into transactions.\n\nUsers in the test see a “Buy” button on select Flipkart product listings appearing in Gemini and Google’s AI Mode, which takes them directly to a Flipkart checkout flow without leaving the AI interface, according to people familiar with the matter and an experience seen by TechCrunch.\n\nThe early test is limited to some users and a small selection of products, including smartphones, electronics, and mobile accessories, the people told TechCrunch. Other users continue to see regular product listings from Flipkart in Gemini and AI Mode without the option to buy them directly from the AI interface.\n\nGoogle plans to roll out the experience more broadly later in October, ahead of India’s festive shopping season, one of the people said.\n\nThe test comes as Google and rivals including OpenAI are adding commerce capabilities to their AI offerings, striving to move beyond answering shopping queries and recommending products to playing a more direct role in online purchases.\n\nAsked about the Flipkart test, a Google spokesperson told TechCrunch the company is “always testing new features and experiences to help people discover and connect with businesses more easily.” The company regularly runs experiments and has no further details to share, the spokesperson added.\n\nGoogle has separately been building technology aimed at making purchases possible through its AI services. Earlier this year, it introduced the Universal Commerce Protocol (UCP) as an open standard designed to let AI agents interact with retailers across the shopping journey, including checkout. Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The company has since expanded UCP with other capabilities, including allowing shoppers to transfer items to a retailer’s site to complete a purchase.\n\nThe Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier. It brings up a Flipkart-branded checkout flow when a user taps the Buy button. It is not clear what technology powers the test.\n\nEarlier this month, Google said Flipkart was among the merchants partnering with it to bring what it calls “agentic” shopping experiences to consumers in India, but it had not disclosed details of the test or its rollout timeline.\n\nNotably, Google has a financial relationship with Flipkart — alongside its technology partnership with the e-commerce company. It invested about $350 million in the e-commerce company in 2024 as part of a funding round led by the U.S. retailer, taking a minority stake.\n\nFor now, the Buy option is not appearing across all retailers surfaced by Google’s AI services. In the experience seen by TechCrunch, listings from rivals including Amazon appeared alongside Flipkart products but did not offer the option to purchase directly through the AI interface.\n\nFlipkart did not immediately respond to an email requesting for comment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.\n\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nEverything new coming to Meta’s AI agent Muse\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "fullTranslation": "谷歌已开始在印度测试一项新功能，允许购物者直接通过Gemini和AI Mode购买沃尔玛旗下的Flipkart商品。这家搜索巨头正寻求将其人工智能服务从商品发现拓展至交易环节。\n\n据知情人士透露以及TechCrunch亲测体验，参与测试的用户会在Gemini和谷歌AI Mode中显示的部分Flipkart商品条目上看到一个“购买”（Buy）按钮，点击该按钮可直接进入Flipkart的结算流程，而无需离开AI界面。\n\n知情人士告诉TechCrunch，这项早期测试仅限于部分用户以及少数品类商品，包括智能手机、电子产品和移动配件。其他用户在Gemini和AI Mode中看到的仍是普通的Flipkart商品列表，无法直接在AI界面内购买。\n\n其中一位知情人士表示，谷歌计划在10月晚些时候、即印度节日购物季到来之前，更广泛地推广这一体验。\n\n此次测试正值谷歌以及包括OpenAI在内的竞争对手为其AI产品添加商业功能之际，各方正努力超越单纯解答购物咨询和推荐商品的阶段，转向在在线购买中扮演更直接的角色。\n\n在被问及这项Flipkart测试时，谷歌发言人告诉TechCrunch，公司“一直在测试新功能和新体验，以帮助人们更轻松地发现商家并与之建立连接”。该发言人补充称，公司会定期开展实验，目前没有更多细节可分享。\n\n此外，谷歌一直在研发旨在通过其AI服务实现购买的技术。今年早些时候，谷歌推出了通用商务协议（Universal Commerce Protocol，简称UCP），该协议是一项开放标准，旨在让AI智能体在包括结账在内的整个购物流程中与零售商展开交互。谷歌当时表示，该技术将允许购物者通过使用谷歌托管的结账体验，在Gemini和AI Mode中购买符合条件的商品。此后，该公司为UCP扩展了其他功能，包括允许购物者将商品转移到零售商网站以完成购买。\n\nTechCrunch观察到的Flipkart测试似乎与这家Gemini开发商此前展示的谷歌托管结账体验有所不同。当用户点击购买按钮时，它会调出一个带有Flipkart品牌的结算流程。目前尚不清楚该测试是由何种技术提供支持。\n\n本月早些时候，谷歌曾表示Flipkart是与其合作向印度消费者提供其所谓的“智能体化”（agentic）购物体验的商家之一，但并未透露该测试的具体细节或推广时间表。\n\n值得注意的是，除了技术合作之外，谷歌与这家电商公司还存在财务关联。2024年，谷歌作为美国零售巨头沃尔玛领投的一轮融资的一部分，向Flipkart投资了约3.5亿美元，收购了其少数股权。\n\n目前，“购买”选项并未出现在谷歌AI服务展示的所有零售商结果中。在TechCrunch看到的体验中，包括亚马逊在内的竞争对手的商品条目虽然与Flipkart商品并列出现，但并不支持直接通过AI界面购买。\n\nFlipkart未立即回复置评请求。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nJagmeet为TechCrunch报道来自印度的初创公司、科技政策动态以及所有其他以科技为核心的重大进展。他此前曾在NDTV担任首席记者。\n\n您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系Jagmeet或核实相关联络。\n\n您的下一个重大合作尽在Disrupt大会。与10,000多位创始人、风投人、运营者和科技领袖建立联系。探索未来的突破性成果，倾听当下塑造科技格局的声音，在太平洋时间9月25日晚上11:59前购票立省高达200美元。\n\n甲骨文就其新墨西哥州“星际之门”（Stargate）数据中心发出不可抗力通知\nMeta AI智能体Muse迎来的全部新特性\nMeta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备\nVogue在Vogue World秀场上展示机器人走秀，反响平平\nAnthropic称其生物实验室已取得重大发现\nPitPro首款换胎机器人已在加拿大上线\nAnthropic发布Opus 5.5：价格更低，具备Fable级性能",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "谷歌已开始在印度测试允许消费者直接通过Gemini和AI Mode购买沃尔玛旗下Flipkart商品的功能。",
+          "参与测试的用户在Gemini和AI Mode的精选Flipkart商品列表中会看到“Buy”（购买）按钮，无需离开AI界面即可直接进入Flipkart结算流程。",
+          "来源叙事重点：聚焦谷歌通过Gemini和AI Mode在印度测试内嵌Flipkart结账功能，分析其从传统的‘商品信息检索’向‘交易闭环’转型的意图，并强调该合作背后的资本绑定关系（谷歌持股Flipkart）及对亚马逊等竞品的差异化待遇。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T01:30:00.000Z",
+            "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-4351-9380-9b725b70b1e7-0a3e0bd0259026f9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Appeals court overturns ban on contentious Northern Ireland parade",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:13:15.000Z",
+        "pubTime": "2026-09-27 08:13",
+        "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38f4d76a-df79-48f7-9fc1-eb7c417b9e39.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Judge says earlier suspension of Protestant march “erred in law” in dramatic night of court challenges hours before Sunday’s parade",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 08:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T00:13:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-blog-p5-compute-shaders-43a70cae51ba4e1a",
+        "title": "在 p5.js 中教授 GPU 编程：现已支持计算着色器",
+        "originalTitle": "Teaching GPU programming in p5.js: now with compute shaders",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:28:51.000Z",
+        "pubTime": "2026-09-27 08:28",
+        "url": "https://www.davepagurek.com/blog/p5-compute-shaders/",
+        "imageUrl": null,
+        "fullContent": "Computer graphics education is in a weird place right now. The graphical capabilities of computers have expanded tremendously. At this point, it's also hard to talk about \"graphical\" capabilities: your Graphics Processing Unit (GPU) is no longer just pushing triangles onto the screen; it's a platform for general parallel programming. That's fantastic for increasing the possibilities! But with so much potentially to learn, how do you get started?\n\nThere is a lot of background context generally required in order to do any programming for the GPU, which makes it notoriously hard to get into. Rendering a triangle in Vulkan from scratch takes thousands of lines of code. This is a problem professors teaching computer graphics are currently grappling with. The playbook that seems to be solidifying is to not teach everything at first, and provide a template to work within that hides the bits that aren't initially relevant to the learning. As students learn more, the scaffolding can incrementally be pulled away, and they can become aware of those initially hidden parts. But, importantly, those hidden bits are not necessary for making immediate initial progress. This technique is called scaffolded learning.\n\nCurrently, everyone's wandering on their own trying to figure out what scaffolding to use. Often, scaffolding abstracts away many of the underlying graphics API, but leaves in place much of the \"classic\" shader pipeline: students still need to learn how data flows through vertex to fragment shaders, how data is passed from the CPU to the GPU, and how to write shader code in a new language. While this is still simplified compared to starting completely from scratch, that's still a lot to jump into.\n\nI help develop p5.js. Alongside being a tool for artists, it is often used as a computer science teaching tool, conveniently making it easy to visualize logic. That has mostly been done with its 2D mode, so introductory 3D and GPU teaching has tended to favour tools like three.js instead. Over the past few years, I've been trying to fill in the GPU gaps in p5.\n\nAfter releasing an experimental WebGPU build of p5.js earlier this year, working a little on performance, and fixing a lot of bugs, I've been able to start implementing compute shaders. That last puzzle piece brings p5 much closer to the goal of being the GPU learning system I'd like it to be. So let's talk about what that looks like!\n\nThe emerging goal for p5.strands, our shader system, is to provide scaffolding such that if you have made a p5.js sketch before and are familiar with, for example, the Introduction to p5.js category of tutorials on the p5 site, you should be able to have an easy first step into GPU programming. You should always be able to be productive and make interesting things at every skill level, and each incremental piece you learn helps you achieve a specific new capability on top of what you already could do. While abstractions can be simplifying, none should be misleading; you should not need to unlearn any bad habits in order to later jump from p5 to more engineering-oriented systems. That said, p5 should not just be a learning tool: the abstractions should be convenient and intuitive enough that you'd want to use them, regardless of skill level, until your project hits a scale and scope that turns it into a larger engineering project.\n\nWe're pretty explicit about what we think you do and don't need to know to start using p5.strands:\n\nThe API has been carefully updated so that you don't need more than that to start. You do not need to know about the shader pipeline, uniforms, varying variables, or anything like that at first. You will still learn those things! But they are not required upfront like they would otherwise be; they stay out of the way until you need them.\n\nAfter having used existing p5 filters such as filter(BLUR), it is not a huge jump to create your own filters. It involves creating a function, using arrays, and working with properties and methods of objects. The biggest thing to learn is the special filterColor object, which you can .set() with a color. Here's a filter that makes the canvas red! Nothing fancy yet, but you can see that colors go from 0 to 1.\n\nfilterColor also has a property texCoord saying what coordinate of the canvas texture you're on. That conveniently also goes from 0 to 1 in both axes, so you can visualize it as a color easily. The resulting gradient is illustrative of how the function gets run on each pixel with different inputs.\n\nYou can explore generative textures by passing those coordinates into noise(). Of course, you can also make your own noise function if you'd like to learn what it's doing under the hood. But it's a useful and productive construct that is already familiar from the rest of p5.\n\nYou can even create animations by using p5.js time functions like millis() like you normally would. For people who already know shaders: under the hood, this involves some uniforms, but the learner does not need to be aware of this yet. They can instead focus on the biggest conceptual leap of writing a fragment shader, which is the fact that your same code needs to run on every pixel. This inversion from the usual way you draw in p5 can be the main focus, with surprisingly few limitations, until the learner feels comfortable.\n\nA natural point to introduce uniforms is when you want to reference a value from a slider. With uniformFloat, we can pass in a slider value and then use that to adjust the animation from before:\n\nA next step can be to show how shaders can be used on objects, not just on the pixels of the whole canvas. Every vertex (a term familiar already from beginShape/endShape drawing) also can be modified by a shader, if you do so in the right block. In p5.strands, the way to do this is the worldInputs block, where you can modify vertex positions in world space. This can be used to move an object around:\n\nOf course, you don't need a shader to do the above in p5 already. But it then lets you do some additional things. For example, you can apply a different offset to each vertex. You could do this with a for loop and beginShape/endShape, but it's very tedious to do, and requires you to suddenly create all the vertices yourself. Here, I can just take the previous shader but use the vertex position in the math:\n\nWhen you introduce the ability to draw an object with multiple instances, updating positions in a shader becomes extra useful.\n\nIf you're already drawing an object with a function, as I did above, you can create a reusable model out of it with buildGeometry. Then, you can draw it with model(geometry, count), and pass in the number of instances of that model you want to draw. You can then position them differently in the shader based on which iteration is being drawn, accessible via instanceID().\n\nYou can already do a lot with this! If you need to move things along prescribed paths, this will work just fine, and you can draw a lot more copies than you would be able to do with a for loop before it starts to lag. Here's an example of drawing a ton of lines with slightly different colors at slightly different positions to create the effect of light dispersion.\n\nBut not every kind of motion can be driven by noise() or sin() or other predetermined functions. What if I have a bunch of specific locations I want to position points at? Or if each particle needs to move independently? See, for example, the Nature of Code chapter on autonomous agents. Lots of cool techniques in there!\n\nWebGPU starts to get us there. The examples from here on out will require you to use a browser with WebGPU support, which Chrome and Firefox on Windows and Mac should have now in their latest versions.\n\nWe can create storage buffers with createStorage that you can read in a shader with uniformStorage. Here's a simple version of that where we hard-code a few locations for objects. Note that we await createCanvas(w, h, WEBGPU) now!\n\nOk, three hardcoded positions for spheres isn't that exciting. Here's what that looks like with more complicated position data that I'm extracting from an SVG:\n\nWhen you have data in a storage buffer, the next logical step is to ask how to update that data to make the particles move. That's how you would implement the agents described in Nature of Code. Interactions are described via how you would incrementally update state every frame rather than having a formula for the exact position given time.\n\nTypically that would be done with a for loop, but with WebGPU, you can now do that with a compute shader using buildComputeShader. Compute shaders are like for loops, but instead of doing one iteration after the other, they instead run all iterations at once in parallel, something that needs special hardware—your GPU—to accomplish.\n\nFor comparison, here's some code to make a bunch of balls bounce off the walls of the canvas with no compute shaders, using a regular for loop. Afterwards, we'll show what this looks like in a compute shader.\n\nNow here's the compute shader version. Rather than using just an array, we use a storage buffer. The update function now just does one iteration of the loop, using index.x to keep track of the current iteration. Drawing all the particles is also done all at once with a shader and instanceID(). You run the update by calling compute() and passing in your shader.\n\nCompute shaders get interesting because, roughly, you can run a loop on thousands of things in the time it would normally take to run just one iteration of a regular for loop. This means you can do stuff that would otherwise take a lot of algorithmic complexity to run quickly. Do you wanted to make all the balls bounce off of each other? The double-nested for loop approach can get slow in regular JavaScript. No problem in a WebGPU compute shader though. I'll also give them some different radii for the fun of it.\n\nGoing back to Nature of Code, here's an implementation of the boids flocking algorithm. This is just a little window with 100 agents, but I've got a fullscreen sketch version that runs nicely with ten thousand agents on my M1 Macbook Pro. Without having to think about spatial partitioning algorithms at all!\n\nFor another example, the header of this page was created using an n-body gravity simulation with points sampled from text, which you can run and inspect for yourself on OpenProcessing.\n\nWe've built out a system that slowly exposes you to vertex shaders, fragment shaders, compute shaders, uniforms, varying variables, and textures as they become useful to you.\n\nYou can also slowly expand into platform-native shader languages, too–every block in p5.strands can also be filled in via a function in GLSL or WGSL. The same animated gradient from earlier looks like this in GLSL:\n\nIf you wanted to see how a JavaScript shader would look as a native shader, you can call .inspectHooks() on it, and it will print the native implementation of your JavaScript.\n\nSo, even when you outgrow the JS shader system, you can still hook into the p5 default shaders with native shader code, so you don't have to redo the entirety of p5's positioning and material systems. Then, of course, there are the loadShader and createShader functions you can call if you truly need to start from scratch, or want to learn how to make the whole thing yourself.\n\nI hope that at that point, you'll have all the understanding you'll need to fearlessly jump into whatever other GPU library or hardware platform you need. You'll still have some learning to do, but by that point, you won't be faced with a mountain of new things; instead, it'll be a matter of learning how the new system handles the concepts you already know.\n\np5.strands in WebGL is already live, and compute shaders will land in the next release of p5.js, version 2.3 (but you can test it out from the build of the compute shader branch right now.) If you start exploring GPU programming with these tools, please do join the p5.js Discord server and let us know how it goes! We are hoping to continuously refine and improve the experience, and hearing from you can help shape development. Similarly, if you're hoping to try teaching with p5, we'd also love to hear from you about how we can improve things for you and your students.\n\nMy name is Dave and I'm a programmer and artist. All content created by hand. Want to get in touch? Find or contact me elsewhere:\n\ndave@davepagurek.com GitHub RSS Mastodon Instagram YouTube Soundcloud Sarcastic Soundcloud Newgrounds CodePen",
+        "fullTranslation": "计算机图形学教育目前正处于一个微妙的境地。计算机的图形能力得到了极大拓展。在当下，甚至很难只去谈论“图形”能力：你的图形处理器（GPU）已不再仅仅是将三角形绘制到屏幕上，它更是一个通用的并行计算平台。这为拓展可能性带来了极好的前景！然而，有如此之多的潜在知识需要学习，大家又该如何入门呢？\n\n通常，要进行任何 GPU 编程都需要大量的背景知识，这使得它的入门门槛高得出了名。在 Vulkan 中从零渲染一个三角形需要成千上万行代码。这是目前讲授计算机图形学的教授们正在努力应对的问题。目前逐渐成型的应对策略是起初不教授所有内容，而是提供一个在内部工作的模板，将那些最初与学习无关的细节隐藏起来。随着学生学得越来越多，脚手架可以逐步拆除，他们也能逐渐意识到那些最初被隐藏的部分。但最重要的是，这些隐藏的细节对于立刻取得初步进展来说并非必需。这种技术被称为“脚手架教学法”（scaffolded learning）。\n\n目前，每个人都在各自摸索该采用怎样的脚手架。通常，脚手架会抽象掉许多底层图形 API，但保留了大部分“经典”着色器管线：学生仍然需要学习数据如何流经顶点着色器和片元着色器，数据如何从 CPU 传递到 GPU，以及如何用一门新语言编写着色器代码。虽然与完全从零开始相比这已经得到了简化，但要一头扎进去依然有很大的信息量。\n\n我参与了 p5.js 的开发。除了作为艺术家的创作工具之外，它还经常被用作计算机科学的教学工具，便于直观地将逻辑可视化。这主要是在其 2D 模式下完成的，因此入门级 3D 和 GPU 教学往往更倾向于使用类似 three.js 的工具。在过去的几年里，我一直在尝试填补 p5 中的 GPU 空白。\n\n在今年早些时候发布了 p5.js 的实验性 WebGPU 构建版本、进行了一些性能优化并修复了大量 bug 之后，我终于能够开始实现计算着色器了。最后这块拼图让 p5 距离我心目中理想的 GPU 学习系统目标又近了一大步。那么，让我们来聊聊它究竟是什么样子的吧！\n\n我们的着色器系统 p5.strands 新确立的目标是提供一套脚手架，使得只要你以前制作过 p5.js 作品（sketch），并且熟悉例如 p5 官网上的“p5.js 入门”系列教程，你就应该能够轻松迈出 GPU 编程的第一步。无论处于哪个技能水平，你都应该始终能够高效地产出并创作有趣的作品，并且你学到的每个递增知识点都能帮助你在原有能力的基础上获得一项特定的新能力。虽然抽象可以简化问题，但绝不应产生误导；你不需要为了以后从 p5 跃升到更偏向工程的系统而不得不改掉任何不良习惯。话虽如此，p5 不应仅仅是一个学习工具：这些抽象应该足够便捷和直观，无论技术水平如何你都会乐意使用它们，直到你的项目规模和范围扩大，转变为一个更大的工程项目。\n\n对于我们认为你开始使用 p5.strands 时需要了解和不需要了解的内容，我们的界定相当明确：\n\n该 API 经过了精心更新，因此你只需掌握这些基础即可开始。一开始你根本不需要了解着色器管线、uniform 变量、varying 变量或任何类似的概念。你最终仍然会学到这些！但它们不会像通常情况下那样成为前期必修项；在真正需要它们之前，它们都不会来干扰你。\n\n在使用过 filter(BLUR) 等现有 p5 滤镜后，创建你自己的滤镜并不是一个巨大的跨越。它涉及创建一个函数、使用数组以及操作对象的属性和方法。最主要需要学习的是特殊的 filterColor 对象，你可以用它来 .set() 颜色。这里有一个能把画布变红的滤镜！虽然目前还没什么特别的，但你可以看到颜色取值范围是从 0 到 1。\n\nfilterColor 还有一个 texCoord 属性，指示你当前位于画布纹理的哪个坐标处。很方便的是，它在两个轴上的取值范围也都是 0 到 1，因此你可以轻松地将其可视化为颜色。生成的渐变效果生动展示了该函数是如何以不同的输入在每个像素上运行的。\n\n你可以通过将这些坐标传递给 noise() 来探索生成式纹理。当然，如果你想了解底层的运行机制，也可以自己编写噪声函数。但这是 p5 其余部分中大家已经熟知且高效实用的结构。\n\n你甚至可以像往常一样使用 millis() 等 p5.js 时间函数来创建动画。对于已经了解着色器的人来说：在底层，这涉及一些 uniform 变量，但学习者目前还不需要意识到这一点。他们可以转而专注于编写片元着色器时最大的概念跃迁——即你的同一段代码需要在每个像素上运行这一事实。在学习者感到得心应手之前，这种与 p5 通常绘图方式相反的思维转换可以作为主要聚焦点，并且限制出奇地少。\n\n引入 uniform 变量的一个自然契机是当你想要引用滑块的值时。通过 uniformFloat，我们可以传入一个滑块值，然后用它来调整前面的动画：\n\n下一步可以展示如何将着色器应用于对象，而不仅仅是应用在整个画布的像素上。如果你在正确的代码块中操作，每个顶点（这个术语在 beginShape/endShape 绘图中大家已经很熟悉了）也都可以被着色器修改。在 p5.strands 中，实现这一点的方法是 worldInputs 代码块，你可以在其中修改世界空间中的顶点位置。这可以用来移动对象：\n\n当然，在 p5 中完成上述操作本来就不需要着色器。但随后它能让你做一些额外的事情。例如，你可以对每个顶点应用不同的偏移量。你可以使用 for 循环和 beginShape/endShape 来做到这一点，但这样操作非常繁琐，而且需要你突然自己去创建所有顶点。在这里，我只需沿用之前的着色器，但在数学计算中使用顶点位置：\n\n当你引入绘制多实例对象的功能时，在着色器中更新位置就变得格外有用了。\n\n如果你已经像我上面那样使用函数绘制对象，你就可以使用 buildGeometry 将其制作成可复用的模型。然后，你可以用 model(geometry, count) 来绘制它，并传入你想要绘制的该模型实例数量。接着，你可以根据正在绘制的迭代次数（可通过 instanceID() 访问），在着色器中对它们进行不同的定位。\n\n利用这个你已经能做很多事情了！如果你需要让物体沿着既定路径运动，这种方法运行得非常顺畅，而且在出现卡顿之前，你能绘制的副本数量远远超过使用 for 循环所能达到的极限。这里有一个例子：绘制大量位置略微不同、颜色稍有差异的线条，以产生光色散效果。\n\n但并不是所有的运动都可以通过 noise()、sin() 或其他预定函数来驱动。如果我有一堆特定的位置，想要把点放置在那里怎么办？或者如果每个粒子都需要独立运动呢？例如，可以参考《代码本性》（Nature of Code）中关于自主智能体（autonomous agents）的章节，里面有很多非常酷的技术！\n\nWebGPU 开始带我们走向这一步。从这里开始的示例都将要求你使用支持 WebGPU 的浏览器，目前 Windows 和 Mac 平台上的最新版 Chrome 和 Firefox 应该都已支持。\n\n我们可以使用 createStorage 创建存储缓冲区（storage buffers），然后你可以在着色器中通过 uniformStorage 读取它们。这里有一个简单的版本，我们在其中硬编码了几个物体的空间位置。请注意，我们现在需要 await createCanvas(w, h, WEBGPU)！\n\n好吧，三个硬编码的球体位置并没有那么令人兴奋。下面展示的是使用我从 SVG 中提取的更复杂位置数据时的效果：\n\n当你把数据放入存储缓冲区后，下一个顺理成章的步骤就是探讨如何更新这些数据以让粒子运动起来。这也是你实现《代码本性》中所描述智能体的方式。交互是通过每一帧如何增量更新状态来描述的，而不是拥有一个在给定时间下计算确切位置的数学公式。\n\n通常这会用 for 循环来完成，但有了 WebGPU，你现在可以通过 buildComputeShader 使用计算着色器（compute shader）来完成。计算着色器类似于 for 循环，但它们不是依次执行一次又一次的迭代，而是一次性并行运行所有迭代，这需要特殊的硬件——也就是你的 GPU——来实现。\n\n作为对比，这里有一段没有使用计算着色器、而是用普通 for 循环让一堆球在画布边缘反弹的代码。随后，我们将展示这在计算着色器中是什么样子。\n\n现在来看看计算着色器版本。我们不再仅仅使用数组，而是使用存储缓冲区。更新函数现在只执行循环中的一次迭代，使用 index.x 来跟踪当前的迭代索引。所有粒子的绘制也是通过着色器和 instanceID() 一次性完成的。你通过调用 compute() 并传入你的着色器来执行更新。\n\n计算着色器之所以变得有趣，是因为粗略来说，你可以在通常运行普通 for 循环单次迭代的时间内，同时对数千个对象运行循环。这意味着你可以执行那些原本需要极高算法复杂度才能快速运行的操作。你想让所有球彼此相互碰撞反弹吗？在常规 JavaScript 中，双重嵌套 for 循环的方式可能会变得很慢。但在 WebGPU 计算着色器中完全没有问题。为了好玩，我还给它们赋予了不同的半径。\n\n回到《代码本性》，这里是 Boids 鸟群算法的一个实现。这只是一个包含 100 个智能体的小窗口，但我有一个全屏草图版本，在我的 M1 MacBook Pro 上可以流畅运行一万个智能体。而且完全不需要考虑空间划分算法！\n\n再举一个例子，本页面的页眉是使用基于从文本中采样的点进行的 N 体引力模拟制作的，你可以在 OpenProcessing 上亲自运行并查看它。\n\n我们构建了一个系统，随着这些概念对你变得有用，逐步向你介绍顶点着色器、片元着色器、计算着色器、uniform 变量、varying 变量和纹理。\n\n你还可以逐步扩展到平台原生着色器语言——p5.strands 中的每个代码块也可以通过 GLSL 或 WGSL 函数来填充。前面提到的那个动态渐变在 GLSL 中看起来是这样的：\n\n如果你想看看 JavaScript 着色器在原生着色器中是什么样子，可以对其调用 .inspectHooks()，它就会打印出你的 JavaScript 代码对应的原生实现。\n\n因此，即使你的能力超出了 JS 着色器系统的范畴，你仍然可以使用原生着色器代码接入 p5 的默认着色器，而不必重写 p5 的整套定位和材质系统。当然，如果你确实需要从零开始构建，或者想要学习如何完全自己制作，你也可以调用 loadShader 和 createShader 函数。\n\n我希望到那时，你将具备所需的一切理解，从而能够无所畏惧地投身于你所需的任何其他 GPU 库或硬件平台中。你仍然需要进行一些学习，但到那时，你面对的将不再是堆积如山的新概念；相反，这只是一个了解新系统如何处理你早已掌握的概念的过程。\n\nWebGL 中的 p5.strands 现已上线，而计算着色器将在 p5.js 的下一个版本（2.3 版）中正式推出（但你现在就可以通过计算着色器分支的构建版本进行测试体验）。如果你开始使用这些工具探索 GPU 编程，欢迎加入 p5.js Discord 服务器并告诉我们你的使用体验！我们希望不断完善和改进这一体验，倾听你的反馈有助于指导未来的开发。同样，如果你希望尝试将其用于教学，我们也十分乐意听取你的建议，了解我们如何为你和你的学生改进工具。\n\n我叫 Dave，是一名程序员兼艺术家。所有内容均为手工创作。想要联系我吗？可以在以下平台找到或联系我：\ndave@davepagurek.com GitHub RSS Mastodon Instagram YouTube Soundcloud Sarcastic Soundcloud Newgrounds CodePen",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "在 Vulkan 中从零渲染一个三角形需要数千行代码。",
+          "作者参与 p5.js 的开发，过去几年一直在填补 p5.js 中的 GPU 能力空白。",
+          "来源叙事重点：探讨计算机图形学教育门槛过高的现状，阐述通过脚手架式学习（scaffolded learning）理念设计 p5.strands 着色器系统，展示如何借助 WebGPU 计算着色器（compute shaders）让初学者在无需掌握底层复杂概念的前提下实现高性能并行计算与图形仿真。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T00:28:51.000Z",
+            "url": "https://www.davepagurek.com/blog/p5-compute-shaders/"
+          }
+        ]
+      },
+      {
+        "id": "story-hurricane-intensity-html-47a0daa1da6668c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why AI has trouble predicting the fury of hurricane intensity",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:30:01.000Z",
+        "pubTime": "2026-09-27 08:30",
+        "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-satellite-image-show.jpg",
+        "fullContent": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+            "publishedAt": "2026-09-27T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rantsija-2120501210-html-76f9609bd1c58647",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Историк раскрыл, как советские женщины во Франции создали отряд \"Родина\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T01:21:49.000Z",
+        "pubTime": "2026-09-27 09:21",
+        "url": "https://ria.ru/20260927/frantsija-2120501210.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/09/1a/2120462928_0:0:1516:853_650x0_80_0_0_bd254af1c35ee6d97589fafca4b3779d.png",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-27 09:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/frantsija-2120501210.html",
+            "publishedAt": "2026-09-27T01:21:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ages-over-haptic-patents-10792b6727af1abd",
+        "title": "苹果因触觉专利侵权被判赔偿57亿美元",
+        "originalTitle": "Apple hit with $5.7 billion in damages over haptic patents",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:30:01.000Z",
+        "pubTime": "2026-09-27 05:30",
+        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nApple’s Taptic Engine was found to infringe on two of Taction’s patents.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nHaptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, “The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.”\n\nTaction argued that Apple’s Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the jury did not find that Apple willfully infringed. Taction had accused Apple of reverse-engineering the tech from two Kannon gaming headsets.\n\nApple has said that it intends to appeal the decision. We’ve reached out for additional comment and will update the story if and when we hear back.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n苹果公司的 Taptic Engine 被认定侵犯了 Taction 的两项专利。\n来自该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n查看 Terrence O'Brien 的全部文章\n触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁决 Taction 获赔超过 57 亿美元的损害赔偿金。据 CNBC 报道，“该诉讼围绕美国专利号 10,659,885 和 10,820,117 展开，这两项专利均涉及基于振动的触觉换能器技术，可帮助用户感知设备对其操作的反馈。”\nTaction 主张，苹果在其 Apple Watch 和 iPhone 中搭载的 Taptic Engine 未经正当许可使用了其开发的技术，陪审团对此表示支持。陪审团认定苹果侵犯了一项专利中的两项权利要求以及另一项专利中的一项权利要求。不过，陪审团并未认定苹果构成故意侵权。Taction 此前指控苹果对两款 Kannon 游戏耳机进行了逆向工程以获取该技术。\n苹果公司表示打算对这一裁决提起上诉。我们已联系苹果寻求进一步置评，收到回复后将跟进更新报道。\n汇聚最关键新闻的免费每日简报。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "触觉技术公司 Taction 于 2021 年起诉苹果公司侵犯其两项专利。",
+          "圣地亚哥联邦陪审团裁定苹果公司向 Taction 赔偿超过 57 亿美元。",
+          "来源叙事重点：聚焦苹果 Taptic Engine 被陪审团认定侵犯 Taction 两项触觉技术专利，以及超过 57 亿美元赔偿这一金额和后续上诉；将 Taction 关于苹果未经许可使用相关技术、并从 Kannon 游戏耳机逆向工程的说法作为诉讼背景，其中逆向工程指控未被该证据包独立验证。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:30:01.000Z",
+            "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+          }
+        ]
+      },
+      {
+        "id": "story-through-next-summer-html-b06f85328fbe6eb1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Global Gas Squeeze Could Last Through Next Summer",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T23:00:00.000Z",
+        "pubTime": "2026-09-27 07:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
+        "imageUrl": null,
+        "fullContent": "Global natural gas supply is likely to remain tighter than it should be until next summer at least, and it could cause prolonged demand destruction. Should this scenario materialize, it would deliver a severe blow to Europe, as it already struggles to cover its winter gas needs ahead of the official start of heating seasonbut Asia won't be happy about it, either. The prediction comes from the International Gas Union, an industry association that covers 90% of the world's gas producers. \"The market right now is saying that they see the conflict getting prolonged,\" IGU's secretary general Menelaos Ydreos told Reuters this week. \"Europe is starting to outbid Asia because they need to refill storage levels,\" the executive added, noting that the price surge in natural gas has already destroyed some demand, but it is as of yet unclear whether this is a temporary dip or it could evolve into permanent destruction. Chances are it is the former, based on a recent report by Global Energy Monitor that found countries in Southeast Asia were still building natural gas-fired power plants despite the price inflation in gas caused by the Middle East war. Asian countries are also building more LNG import capacity, despite the price surge. \"There is some short-term demand destruction. The question is whether it rebounds after everything settles or whether there are some longer-term implications around policy,\" Ydreos told Reuters, voicing what must be a legitimate worry in the gas industry about the outlook for demand. Related China Could Cut Fuel Exports in October as Inventories Plunge Goldman Sachs is not too concerned about the long-term future of gas demand, however. In a report this week, the investment bank painted an optimistic scenario for this winter, saying prices in Europe could drop from around 70 euro per MWh to 50 euro per MWh if the flow of liquefied natural gas out of the Persian Gulf improves. The chances of that happening may be slim, but it appears Goldman Sachs makes its price estimates under the safe assumption that these chances are never zero. Be that as it may, Goldman's analysts still expect European gas prices to average 70 euro per MWh, which is equal to some $80. The forecast is significantly higher than an earlier one, in which Goldman's commodity analysts expected winter gas prices at between 30 and 60 euro per MWh. \"Exports of LNG from the Persian Gulf are still only at an estimated 15%25% of their levels from before the outbreak of war between Iran and the US and Israel in February 2026. In the absence of an improvement in exports through the Strait of Hormuz, European gas prices need to increase in order to outcompete importers of LNG elsewhere in the world,\" the bank's co-head of Global Commodities Research. \"If others stop buying, there is more left to come to Europe,\" Samantha Dart explained. More gas may be coming to Europe to fill those storage caverns, but power generators are switching to coal in further evidence that gas is becoming difficult to afford for one of the world's largest import regions. Reuters reported this week that coal consumption by power utilities in Europe could rise by as much as 25% over the next six months, as gas prices surge to the highest in three years this month, hitting 80 euros per MWh. Over the 30 days to September 24, European benchmark gas prices have added more than 17%, according to data from EnergyRiskIQ. In relief for Asian gas importers, there will soon be more Russian LNG available for them. The European Union earlier this year approved a ban on Russian LNG imports, to take effect from January, which means flows from Yamal LNG would be redirected and, according to the IGU's Ydreos, they could be sold at a discount. This, of course, would tighten the supply base for Europe, but the European Union's leadership has made it clear repeatedly that its geopolitical priorities come first, and the bloc should be prepared to bear the cost of pursuing those priorities. There is, however, another priority that is at odds with gas supply security, and this is the EU's climate change agenda. \"We're for regulations, but they have to be achievable, practical and incentivise compliance,\" the head of the International Gas Union told Reuters. \"If regulations go far beyond that and make it extremely difficult for the industry to comply, they'll look for other regions to send their product,\" he added, possibly referring to the EU's methane regulation that prompted a strong reaction from both Qatar and the United States. The two biggest LNG suppliers to the EU have said repeatedly they would not comply with the regulation that requires tracking every gas molecule to make sure it was produced with care for emissions. With Qatar temporarily off the stage, the U.S. remains Europe's only hope for LNG supply, whatever the cost, including in climate regulation adjustments. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际燃气联盟（IGU）代表了全球90%的天然气生产商。",
+          "IGU秘书长Menelaos Ydreos对路透社表示，欧洲开始给出高于亚洲的出价以补充储气库水平。",
+          "来源叙事重点：核心叙事是全球天然气供应紧张至少可能持续至明年夏季，欧洲为补充储气库而以更高价格与亚洲争夺LNG，进而推高欧洲气价、煤炭替代和需求破坏风险。文章同时强调地缘冲突、霍尔木兹海峡运输、欧盟俄罗斯LNG禁令及甲烷监管可能进一步重塑供应流向，并以高盛较乐观的价格情景构成对照。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html"
+          }
+        ]
+      },
+      {
+        "id": "story-t-on-the-boykisser-forum-55f2058c18f3f3c9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Honeypot on the boykisser forum",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T00:18:05.000Z",
+        "pubTime": "2026-09-27 08:18",
+        "url": "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-27 08:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/",
+            "publishedAt": "2026-09-27T00:18:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ally-impaired-young-html-1deb87c976d142c8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NEET with a disability: What's holding back visually impaired young people who want to work",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:30:02.000Z",
+        "pubTime": "2026-09-27 06:30",
+        "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/visually-impaired.jpg",
+        "fullContent": "I have been fortunate in my research to follow 80 young people with vision impairment over 11 years. I tracked their journeys from school into adulthood, speaking with them at regular intervals to learn what had happened since we last spoke, what had gone well and what could have been improved.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+            "publishedAt": "2026-09-26T22:30:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-on-pauline-hanson-ntwnfb-3b9f8b13f08d1cb4",
+        "title": "澳大利亚实时新闻：休姆对在OpenAI数据泄露事件后采取法律行动表示怀疑；航班取消让澳式橄榄球联赛（AFL）球迷心碎",
+        "originalTitle": "Australia news live: Hume sceptical legal action should follow OpenAI breach; flight cancellation heartbreak for AFL fans",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T01:21:13.000Z",
+        "pubTime": "2026-09-27 09:21",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/bf983dc767099c2a68d498927fa9238b80e18511/753_345_5374_4299/master/5374.jpg?width=140&quality=85&auto=format&fit=max&s=283af7d718ba173f33681a4941ef1134",
+        "fullContent": "Get our breaking news email , free app or daily news podcast\n\nQueensland records five-year high number of deaths in child protection system\n\nQueensland has recorded a five-year high of 92 deaths of children in the child protection system, according to new data.\n\nThe real alarm bell that was set off this week is the fact that the only reason we knew about this breach of the Medicare archive or data system is because OpenAI told us there was a breach.\n\nIf they hadn’t told us that there was a breach, would we have known about it at all? That demonstrates that our cyber defences, particularly for Services Australia, were woefully inadequate.",
+        "fullTranslation": "订阅我们的突发新闻邮件、下载免费应用或收听每日新闻播客\n\n昆士兰州儿童保护系统儿童死亡人数创五年新高\n\n最新数据显示，昆士兰州儿童保护系统中记录的儿童死亡人数达到92人，创下五年来的新高。\n\n本周真正敲响警钟的事实是，我们之所以知道国民医疗保险（Medicare）档案或数据系统遭遇了此次泄露，仅仅是因为OpenAI通知了我们存在泄露。\n\n如果他们没有通知我们发生了泄露，我们到底会不会知晓此事？这表明我们的网络防御能力，特别是澳大利亚服务部（Services Australia）的网络防御，严重不足。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "该文章来源为《卫报》（The Guardian）。",
+          "该文章发布时间为2026年9月27日01:21:13（页面显示为2026年9月27日09:21）。",
+          "来源叙事重点：重点突出公共安全、政府问责与网络防御能力问题：一方面报道昆士兰州儿童保护系统儿童死亡人数达到五年来最高；另一方面将Medicare数据泄露的曝光归因于OpenAI告知，并据此引出Services Australia网络防御不足的批评。报道框架偏向强调潜在监管失灵和信息披露风险，但提供的文本未展示政府、OpenAI或技术专家的完整回应。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T01:21:13.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-reasing-healthcare-costs-3eda5db8c05960eb",
+        "title": "保险公司称人工智能已推高医疗保健成本",
+        "originalTitle": "Insurers claim AI is already increasing healthcare costs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:02:06.000Z",
+        "pubTime": "2026-09-27 05:02",
+        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "imageUrl": null,
+        "fullContent": "Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association.\n\nThe BCBSA analysis found “a sharp increase in patients being documented as having complex conditions,” but argued there is a “clear disconnect between [medical] coding and treatment,” as there’s “no evidence of corresponding change in care delivered.”\n\nThe New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. While battles between hospitals and insurers over treatments and payments are nothing new, the NYT said the use of AI on both sides seems to be making it worse.\n\nDr. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to “a horrible dystopic future nobody wants to live in,” with “bots fighting bots, agents fighting agents.” But Rao said it might also reduce tensions and cut costs.\n\nAnd the BCBSA’s senior vice president Luke Chalker resisted characterizing the situation as a battle, claiming, “It’s not a war. It’s a completely one-sided blood bath,” with insurers on the losing side.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔申请时使用人工智能工具，在两年时间内导致医疗支出额外增加了9.42亿美元。\n\nBCBSA 的分析发现，“被记录为患有复杂疾病的患者数量急剧增加”，但指出“[医疗]编码与治疗之间存在明显脱节”，因为“没有证据表明所提供的护理服务发生了相应变化”。\n\n《纽约时报》指出，这项分析只是表明人工智能正在推高医疗保健成本的最新迹象。尽管医院与保险公司围绕治疗方案和费用支付的争端屡见不鲜，但《纽约时报》表示，双方对人工智能的使用似乎正在使局面进一步恶化。\n\n人工智能初创公司 Abridge 的创始人希夫·拉奥（Shiv Rao）博士承认，人工智能的使用可能会导致“没有人愿意生活在其中的可怕反乌托邦未来”，出现“机器人对抗机器人、智能体对抗智能体”的局面。但拉奥也表示，它同样有可能缓解紧张关系并降低成本。\n\n而 BCBSA 高级副总裁卢克·查尔克（Luke Chalker）则不认同将这一局面定性为一场争斗，他坚称：“这不是一场战争。这是一场彻底的单方面杀戮”，而保险公司正是处于输家的一方。\n\n你的下一个重要人脉就在 Disrupt。与超过10,000名创始人、风险投资人、运营者及科技领袖建立联系。探索未来的突破性成果，聆听正在塑造当今科技的声音，并在太平洋时间9月25日晚上11:59前享受高达200美元的优惠。\n\n每个工作日和周日，您都可以获取 TechCrunch 最优质的报道内容。\n\nTechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。\n\n初创企业是 TechCrunch 的核心，敬请每周查收我们最精彩的报道推送。\n\n为行业领军人物提供开启新一天所需的资讯。\n\n提交您的电子邮件，即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "来源叙事重点：报道将医院在保险理赔提交过程中使用AI、复杂病情编码增加与医疗支出上升联系起来。核心叙事来自BCBSA：两年内相关医疗支出额外增加9.42亿美元，复杂病情记录明显增加，但医疗编码与实际治疗之间存在脱节，且没有相应治疗变化的证据。文章进一步将其置于医院与保险公司长期围绕治疗和支付的冲突中，并通过AI初创企业创始人的警告与保险高管的表述，呈现AI可能加剧对抗、也可能降低成本的双重前景。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:02:06.000Z",
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-i-do-the-same-8ab5cba3-3c71c105259e7aa4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T20:00:00.000Z",
+        "pubTime": "2026-09-27 04:00",
+        "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“She currently has about 15 sitters, all independent contractors.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T20:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--lulas-facebook-page-and-28e8d1db8b156b96",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Meta Blocks President Lula’s Facebook Page and Campaign Ads Two Weeks from Election",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:28:47.000Z",
+        "pubTime": "2026-09-27 06:28",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+        "imageUrl": "https://external-preview.redd.it/8gtlEjdtrPo0tpAuwK0ZgcipeWr00GD3yUtpbqFqH6w.jpeg?width=640&crop=smart&auto=webp&s=ac35ebd7421d514bc88b1c850e3f144bad1b2ade",
+        "fullContent": "submitted by /u/Admirable_External_1 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-27 06:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+            "publishedAt": "2026-09-26T22:28:47.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790464011284,
     "timeDisplay": "2026-09-27 07:06 (UTC+8)",
     "date": "2026-09-27",

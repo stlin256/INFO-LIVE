@@ -38,14 +38,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **78** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **79** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-27 07:06 (UTC+8)
+- **最新归档时间**：2026-09-27 09:46 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-27 09:46 (UTC+8)" title="全球要闻情报简报 · 09:46" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-27 09:33 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】三大运营商全面暂停“0元购机”，是何原因？：中国移动、中国电信、中国联通，集中叫停！；【undefined】谷歌在印度测试通过Gemini和AI Mode直接购买沃尔玛旗下Flipkart商品：谷歌已开始在印度测试一项新功能，允许购物者直接通过Gemini和AI Mode购买沃尔玛旗下的Flipkart商品。这家搜索巨头正寻求将其人工智能服务从商品发现拓展至交易环节。；【undefined】在 p5.js 中教授 GPU 编程：现已支持计算着色器：计算机图形学教育目前正处于一个微妙的境地。计算机的图形能力得到了极大拓展。在当下，甚至很难只去谈论“图形”能力：你的图形处理器（GPU）已不再仅仅是将三角形绘制到屏幕上，它更是一个通用的并行计算平台。这为拓展可能性带来了极好的前景！然而，有如此之多的潜在知识需要学习，大家又该如何入门呢？；【undefined】苹果因触觉专利侵权被判赔偿57亿美元：来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。 苹果公司的 Taptic Engine 被认定侵犯了 Taction 的两项专利。 来自该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。 查看 Terrence O'Brien 的全部文章 触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁决 Taction 获赔超过 57 亿美元的损害赔偿金。据 CN；【undefined】澳大利亚实时新闻：休姆对在OpenAI数据泄露事件后采取法律行动表示怀疑；航班取消让澳式橄榄球联赛（AFL）球迷心碎：订阅我们的突发新闻邮件、下载免费应用或收听每日新闻播客；【undefined】保险公司称人工智能已推高医疗保健成本：根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔申请时使用人工智能工具，在两年时间内导致医疗支出额外增加了9.42亿美元。；【undefined】全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作：近日，一条“闪身步”的切片视频爆火网络，引发大量网友和明星的模仿和二创。据了解，该视频片段来自一条安徽花鼓灯舞蹈的教学视频，而“闪身步”是其中的一个基本功动作。；【undefined】南部战区位黄岩岛周边海空域组织海空联合演训：中新网9月27日电 据“南部战区”微信公众号消息，9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。
+
+**重点要闻索引：**
+- [中新网 (全球要闻原版)] [三大运营商全面暂停“0元购机”，是何原因？](https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml) <span class="news-meta-time">🕒 2026-09-27 09:25</span>
+- [TechCrunch (硅谷创业与资本)] [谷歌在印度测试通过Gemini和AI Mode直接购买沃尔玛旗下Flipkart商品](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) <span class="news-meta-time">🕒 2026-09-27 09:30</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-27 08:13</span>
+- [Lobste.rs (极客思想社区)] [在 p5.js 中教授 GPU 编程：现已支持计算着色器](https://www.davepagurek.com/blog/p5-compute-shaders/) <span class="news-meta-time">🕒 2026-09-27 08:28</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html) <span class="news-meta-time">🕒 2026-09-27 08:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260927/frantsija-2120501210.html) <span class="news-meta-time">🕒 2026-09-27 09:21</span>
+:::
 :::timeline-item{start="2026-09-27 07:06 (UTC+8)" title="全球要闻情报简报 · 07:06" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-27 06:58 (UTC+8) 完成，共获得 29 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -644,18 +657,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [从经验来看，程序员并不喜欢“reduce”](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/) <span class="news-meta-time">🕒 2026-09-14 07:59</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html) <span class="news-meta-time">🕒 2026-09-14 08:30</span>
 - [Al Jazeera (半岛电视台官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy) <span class="news-meta-time">🕒 2026-09-14 09:08</span>
-:::
-:::timeline-item{start="2026-09-14 01:06 (UTC+8)" title="全球要闻情报简报 · 01:06" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-14 00:59 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论：唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。；【undefined】Perplexity 在端到端系统中信赖并应用 GPT-6 Astra：Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。；【undefined】如果我的 Git 托管平台是一个静态网站生成器会怎样？：隆重介绍：sorcery，代码魔法之地（the source-ery）…… 截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团；【undefined】奥巴马敦促民主党就人工智能安全保障制定“明确计划”：据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。；【undefined】Golang 开发者应该尝试 Odin：英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla） 2024 年 10 月 24 日 · 阅读时长 14 分钟 （警告：本文可能引发不适） 我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。 它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。 然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，；【undefined】邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧：邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。；【undefined】TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊：本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。；【undefined】遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”：同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？
-
-**重点要闻索引：**
-- [BBC World (英国BBC官方英文)] [访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论](https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss) <span class="news-meta-time">🕒 2026-09-14 00:57</span>
-- [OpenAI News (官方动态)] [Perplexity 在端到端系统中信赖并应用 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-14 00:30</span>
-- [Lobste.rs (极客思想社区)] [如果我的 Git 托管平台是一个静态网站生成器会怎样？](https://char.lt/blog/2026/09/sorcery-repo-viewer/) <span class="news-meta-time">🕒 2026-09-14 00:10</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html) <span class="news-meta-time">🕒 2026-09-14 00:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260913/maksim-2117465521.html) <span class="news-meta-time">🕒 2026-09-14 00:56</span>
 :::
 ::::
