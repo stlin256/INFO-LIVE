@@ -38,14 +38,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **79** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **80** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-27 09:46 (UTC+8)
+- **最新归档时间**：2026-09-27 22:47 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-27 22:47 (UTC+8)" title="全球要闻情报简报 · 22:47" org="ARCHIVE"}
+**速报纪要：** 本时段重点聚焦沿海风电对海上探测的技术影响、人工智能交互引发的社会极化隐忧，以及天主教教会应对未成年人受虐事件的最新动态。
+
+**重点要闻索引：**
+- [Sputnik Globe (官方国际英文电讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://sputnikglobe.com/20260927/offshore-wind-farms-could-create-radar-blind-spots-and-ghost-targets---chinese-study-1124801791.html) <span class="news-meta-time">🕒 2026-09-27 22:42</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html) <span class="news-meta-time">🕒 2026-09-27 22:30</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-27 22:13</span>
+- [The Guardian Society (卫报社会与民生)] [英国政坛实时播报：伯纳姆表示希望以下届大选为契机，推行征收新税以资助英格兰免费社会护理的计划](https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates) <span class="news-meta-time">🕒 2026-09-27 22:29</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html) <span class="news-meta-time">🕒 2026-09-27 22:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260927/kiev-2120565676.html) <span class="news-meta-time">🕒 2026-09-27 22:42</span>
+:::
 :::timeline-item{start="2026-09-27 09:46 (UTC+8)" title="全球要闻情报简报 · 09:46" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-27 09:33 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -644,18 +655,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) <span class="news-meta-time">🕒 2026-09-14 11:34</span>
 - [NASA News (深空探索与航天)] [APOD：2026年9月14日——你的元素来自何方](https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/) <span class="news-meta-time">🕒 2026-09-14 12:05</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/nepal-2117510085.html) <span class="news-meta-time">🕒 2026-09-14 14:22</span>
-:::
-:::timeline-item{start="2026-09-14 09:24 (UTC+8)" title="全球要闻情报简报 · 09:24" org="ARCHIVE"}
-**速报纪要：** 本时段监测到多起区域气象与国际社会动态。国内方面，中央气象台发布降雨预警，海南局地出现特大暴雨，华南及华西等地需防范次生灾害；国际方面，叙利亚因燃油价格上涨引发抗议，沙特麦加遭遇强降雨及雷暴天气，澳大利亚政坛出现围绕相关争议言论的抨击。
-
-**关键信号：** 华南及我国南部海域出现明显降水过程，海南防灾风险较高；叙利亚政府上调燃油价格引发民众抗议活动；极端天气影响中东宗教场所，麦加降下暴雨伴随雷暴；澳大利亚政坛围绕社会住房背景出身引发言论争议
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/kontrol-2117490660.html) <span class="news-meta-time">🕒 2026-09-14 09:09</span>
-- [Hacker News (科技前沿论坛)] [开源人工智能与开放模型必读书单](https://www.interconnects.ai/p/open-source-ai-reading-list) <span class="news-meta-time">🕒 2026-09-14 08:22</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-14 09:00</span>
-- [Lobste.rs (极客思想社区)] [从经验来看，程序员并不喜欢“reduce”](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/) <span class="news-meta-time">🕒 2026-09-14 07:59</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html) <span class="news-meta-time">🕒 2026-09-14 08:30</span>
-- [Al Jazeera (半岛电视台官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy) <span class="news-meta-time">🕒 2026-09-14 09:08</span>
 :::
 ::::

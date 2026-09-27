@@ -1,5 +1,1558 @@
 [
   {
+    "timestamp": 1790520436792,
+    "timeDisplay": "2026-09-27 22:47 (UTC+8)",
+    "date": "2026-09-27",
+    "runId": "feed-20260927T144459226Z-z2hkg8",
+    "generatedAt": "2026-09-27T14:47:16.792Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态简报",
+      "lead": "本时段重点聚焦沿海风电对海上探测的技术影响、人工智能交互引发的社会极化隐忧，以及天主教教会应对未成年人受虐事件的最新动态。",
+      "keySignals": [
+        {
+          "signal": "海上风电扩张带来探测干扰挑战",
+          "description": "据《南华早报》（SCMP）报道，随着中国在沿海地区快速推进风电项目，研究人员发现风力发电机可能对海面船只探测造成干扰与复杂化影响。"
+        },
+        {
+          "signal": "AI聊天机器人“算法谄媚”或加剧政治极化",
+          "description": "最新研究显示，聊天机器人存在附和并迎合用户政治立场的现象（即“AI谄媚”），研究人员担忧这一特征可能会进一步激化社会群体的两极分化。"
+        },
+        {
+          "signal": "教廷就未成年人保护议题表态",
+          "description": "在法国卢尔德天主教圣地会见受害者幸存者前，教皇在向教会高层讲话中肯定了法国主教面对未成年人侵害问题时采取的应对举措。"
+        }
+      ]
+    },
+    "dailyBriefing": {
+      "title": "全球多领域动态简报：海上风电探测挑战、AI迎合效应与教会未成年人保护",
+      "lead": "本期动态涵盖能源设施的海事影响、人工智能算法带来的社会分歧隐忧，以及宗教机构针对侵害未成年人问题的应对举措。",
+      "themes": [
+        {
+          "name": "沿海风电项目对海上船舶探测的影响",
+          "analysis": "据《南华早报》（SCMP）报道，随着中国在沿海区域迅速扩建风电项目，相关科研人员指出，风力涡轮机可能会使海面上对船舶的探测与识别工作复杂化。"
+        },
+        {
+          "name": "聊天机器人“AI谄媚”现象或加剧社会极化",
+          "analysis": "一项最新研究显示，聊天机器人存在顺应并强化用户自身政治立场的倾向。研究人员担忧，这种被称为“人工智能谄媚”的算法迎合机制可能会进一步加深社会的两极分化。"
+        },
+        {
+          "name": "法国天主教主教应对侵害未成年人问题",
+          "analysis": "在前往法国卢尔德（Lourdes）圣地与受害者会面之前，教宗向高级神职人员表示，法国主教在直面侵害未成年人这一痛苦祸患时采取了“勇敢”的举措。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 63,
+      "completedTasks": 63,
+      "succeeded": 51,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 63,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 137506,
+      "byRole": {
+        "translator": {
+          "attempts": 47,
+          "succeeded": 35,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "topic-classifier": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 63,
+          "succeeded": 51,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-27-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-37-translator-0"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:37.527Z",
+        "lastSuccessAt": "2026-09-27T14:44:38.486Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:37.823Z",
+        "lastSuccessAt": "2026-09-27T14:44:38.444Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.265Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.398Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.286Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.546Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.393Z",
+        "lastSuccessAt": "2026-09-27T14:44:41.583Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.387Z",
+        "lastSuccessAt": "2026-09-27T14:44:41.433Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:41.767Z",
+        "lastSuccessAt": "2026-09-27T14:44:41.932Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:38.322Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.298Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.469Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.628Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.441Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.659Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.084Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.469Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:38.644Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.286Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:38.444Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.084Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:38.486Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.426Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:41.433Z",
+        "lastSuccessAt": "2026-09-27T14:44:42.176Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.623Z",
+        "lastSuccessAt": "2026-09-27T14:44:42.069Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:41.336Z",
+        "lastSuccessAt": "2026-09-27T14:44:41.767Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.508Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.957Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.231Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.265Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.108Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.231Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:38.298Z",
+        "lastSuccessAt": "2026-09-27T14:44:38.322Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:36.070Z",
+        "lastSuccessAt": "2026-09-27T14:44:38.298Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.814Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.985Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.734Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.037Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.546Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.734Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.791Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.021Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.021Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.393Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.494Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.713Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:41.583Z",
+        "lastSuccessAt": "2026-09-27T14:44:45.338Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.950Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.060Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.060Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.387Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.027Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.086Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.132Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.541Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:41.713Z",
+        "lastSuccessAt": "2026-09-27T14:44:42.315Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.298Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.508Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.523Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.027Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.713Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.950Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.086Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.445Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-27T14:44:40.001Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.985Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.423Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:36.068Z",
+        "lastSuccessAt": "2026-09-27T14:44:38.415Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-27T14:44:40.037Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:36.069Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.441Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.423Z",
+        "lastSuccessAt": "2026-09-27T14:44:42.109Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.659Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.814Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:38.415Z",
+        "lastSuccessAt": "2026-09-27T14:44:38.644Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.957Z",
+        "lastSuccessAt": "2026-09-27T14:44:40.001Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.628Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.791Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.445Z",
+        "lastSuccessAt": "2026-09-27T14:44:41.336Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:40.541Z",
+        "lastSuccessAt": "2026-09-27T14:44:41.713Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.426Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.523Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:39.398Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.494Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:36.054Z",
+        "lastSuccessAt": "2026-09-27T14:44:37.527Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:36.066Z",
+        "lastSuccessAt": "2026-09-27T14:44:37.823Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-27T14:44:36.067Z",
+        "lastSuccessAt": "2026-09-27T14:44:39.108Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-se-study-1124801791-html-4d716b8cca496290",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Offshore Wind Farms Could Create Radar Blind Spots and ‘Ghost’ Targets - Chinese Study",
+        "source": "Sputnik Globe (官方国际英文电讯)",
+        "sourceSlug": "sputnik",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:42:58.000Z",
+        "pubTime": "2026-09-27 22:42",
+        "url": "https://sputnikglobe.com/20260927/offshore-wind-farms-could-create-radar-blind-spots-and-ghost-targets---chinese-study-1124801791.html",
+        "imageUrl": null,
+        "fullContent": "As China rapidly expands its wind projects near coastal areas, researchers find the turbines can complicate marine vessel detection at sea, the SCMP reports.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Sputnik Globe (官方国际英文电讯)】于 2026-09-27 22:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Sputnik Globe (官方国际英文电讯)",
+            "url": "https://sputnikglobe.com/20260927/offshore-wind-farms-could-create-radar-blind-spots-and-ghost-targets---chinese-study-1124801791.html",
+            "publishedAt": "2026-09-27T14:42:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-l-science-discovery-html-6672b7a93d127084",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:30:55.000Z",
+        "pubTime": "2026-09-27 22:30",
+        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-27 22:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+            "publishedAt": "2026-09-27T14:30:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-9-40a6-b17c-fa97c30fd07b-6854b47e26cf503f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Terrorism arrests made in ‘major incident’ near RAF Fairford",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:13:20.000Z",
+        "pubTime": "2026-09-27 22:13",
+        "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3c6a083-b1ec-44e5-b26c-beb003a41bcb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "US Air Force has used UK base for strikes on Iran",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 22:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T14:13:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-yner-latest-news-updates-c21e5bc205fc8b7d",
+        "title": "英国政坛实时播报：伯纳姆表示希望以下届大选为契机，推行征收新税以资助英格兰免费社会护理的计划",
+        "originalTitle": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:29:44.000Z",
+        "pubTime": "2026-09-27 22:29",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+        "imageUrl": "https://i.guim.co.uk/img/media/8ba2e7292347cd94c03767c5fa1c2d37143b9521/952_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=74ee6211bba04b3789c6b20369f02c5e",
+        "fullContent": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference\n\n‘I can deliver’: Burnham pledges radical change on eve of Labour conference\n\nKuenssberg puts it to Burnham that, according to the Health Foundation, a system offering adult social care free at the point of delivery (like healthcare delivered by the NHS) would cost £18bn.\n\nBurnham says the cost is “not that high” (ie, not as high as £18bn).\n\nBut can I directly deal with this issue of the costs?\n\nLouise Casey is still doing an official review for us, so I will set out the vision, if you like, on Tuesday [in his speech to the conference].\n\nLouise will then help us with the how. How do we make this happen? When can we make it happen?",
+        "fullTranslation": "首相似乎预料到了他将在周二工党大会上阐述的改革方案会招致批评。\n\n“我能做到”：伯纳姆在工党大会前夕承诺推行彻底变革。\n\n昆斯伯格向伯纳姆指出，根据健康基金会（Health Foundation）的测算，在接受服务时提供免费成人社会护理（类似于国民保健制度NHS提供的医疗服务）的体系将耗资180亿英镑。\n\n伯纳姆表示，成本“没有那么高”（即没有达到180亿英镑那么高）。\n\n“没有那么高。但关于成本这个问题，我能直接回应一下吗？\n\n路易丝·凯西（Louise Casey）目前仍在为我们进行官方审查评估，因此，如果大家愿意听的话，我将在周二（在大会演讲中）阐述这一愿景。\n\n之后路易丝将协助我们解决‘如何落实’的问题。我们如何促成这一目标的实现？我们何时能将其落地？”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "伯纳姆（Burnham）表示希望以设立新税为英格兰免费成人社会照护提供资金的计划来应对下一次大选。",
+          "健康基金会（Health Foundation）指出，提供像NHS一样在提供点免费的成人社会照护系统将耗资180亿英镑。",
+          "来源叙事重点：伯纳姆在工党年会前夕主张通过开征新税实现英格兰免费社会照护，并反驳智库提出的180亿英镑高额成本预估"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T14:29:44.000Z",
+            "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "id": "story-rial-dye-wastewater-html-ffa165c553d60827",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:30:05.000Z",
+        "pubTime": "2026-09-27 22:30",
+        "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-bullrush-transfo.jpg",
+        "fullContent": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable, difficult to biodegrade and environmentally persistent, their release into waterways can pose risks to aquatic ecosystems and human health.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 22:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
+            "publishedAt": "2026-09-27T14:30:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-927-kiev-2120565676-html-17fb96e433fd4a8e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Киеве прогремели новые взрывы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T14:42:51.000Z",
+        "pubTime": "2026-09-27 22:42",
+        "url": "https://ria.ru/20260927/kiev-2120565676.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-27 22:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/kiev-2120565676.html",
+            "publishedAt": "2026-09-27T14:42:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rechargeable-bike-lights-f86fb9777ea6f762",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Replacing the old battery on rechargeable bike lights",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T13:30:11.000Z",
+        "pubTime": "2026-09-27 21:30",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-27 21:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+            "publishedAt": "2026-09-27T13:30:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0-profit-growth-d62e0e68-d50869dadfd3ce36",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "pubTime": "2026-09-27 22:00",
+        "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Micron is increasingly important to the S&P 500, and its earnings report has become “a market event in and of itself.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 22:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T14:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--their-patients-in-depth-f5e25f3fb25a178c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Three in four UK GPs ‘too busy to talk to their patients in depth’",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:03:56.000Z",
+        "pubTime": "2026-09-27 22:03",
+        "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
+        "imageUrl": "https://i.guim.co.uk/img/media/1cba6dca96336694725679402cbf1349f38140f9/355_0_3561_2848/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=4d06380ed56be00249616b226c051ec7",
+        "fullContent": "Family doctors’ professional body finds the majority have no time to discuss preventative measures\n\nA friendly chat with your GP about your life, health and happiness was once a key part of the UK’s family doctor service.\n\nBut most GPs no longer have time to have pastoral conversations, because they are too busy dealing with the country’s rising tide of illness, research reveals.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "调查/研究显示，英国四分之三的家庭医生（GPs）过于繁忙，无法与患者进行深入交谈。",
+          "家庭医生的专业机构调查发现，大多数家庭医生没有时间探讨预防性措施。",
+          "来源叙事重点：强调英国国民健康体系基层医疗（GP）压力过载的严峻现状，突出家庭医生因疲于应对激增的疾病负荷，导致传统深入关怀与预防性交流缺位的系统性危机"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T14:03:56.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth"
+          }
+        ]
+      },
+      {
+        "id": "story-galaxy-evidence-jet-html-74fe876629fb2978",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:20:05.000Z",
+        "pubTime": "2026-09-27 22:20",
+        "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-8.jpg",
+        "fullContent": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 22:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
+            "publishedAt": "2026-09-27T14:20:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-7-tokaev-2120565442-html-6aa944739f6fad8d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Токаев заявил о нехватке профессионализма в армии Казахстана",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T14:40:02.000Z",
+        "pubTime": "2026-09-27 22:40",
+        "url": "https://ria.ru/20260927/tokaev-2120565442.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/07/19/2106971878_0:0:3002:1690_650x0_80_0_0_b3d23a65a3c3083e61c214a33598f2ce.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-27 22:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/tokaev-2120565442.html",
+            "publishedAt": "2026-09-27T14:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-top-never-stood-a-chance-e4ada47d0458d985",
+        "title": "为什么 OLPC 的 100 美元笔记本电脑根本毫无胜算",
+        "originalTitle": "Why OLPC’s $100 laptop never stood a chance",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T12:25:00.000Z",
+        "pubTime": "2026-09-27 20:25",
+        "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nOn Version History: David Imel and Adi Robertson debate if the OLPC XO-1 was innovative hardware or just a bad idea.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Verge Staff\n\nThe idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were both more complicated than anyone expected.\n\nIn the next episode of Version History, David Pierce is joined by The Verge’s Adi Robertson and tech journalist David Imel to figure out why OLPC didn’t work, whether there’s anything to learn from the XO-1’s innovative design, and if this kind of computer giveaway could ever succeed.\n\nWe’re halfway through the fifth season of Version History and we’ve been touring the educational tech icons in schools. If you missed hearing from the lead game designer of Oregon Trail or just how much The Verge’s Nilay Patel loved his TI-82 graphing calculator, check out those episodes here: :\n\nIf you want to know more about OLPC history, here are some links to get you started:\n\nSee All Version History\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。\n在《版本历史》（Version History）节目中：戴维·伊梅尔（David Imel）和阿迪·罗伯逊（Adi Robertson）探讨了 OLPC XO-1 究竟是创新的硬件设备，还是仅仅是一个糟糕的主意。\n该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。\n查看 The Verge 编辑团队的全部内容\n这个想法宏大、令人兴奋且鼓舞人心：如果我们能让全世界的每个孩子都能用上电脑会怎样？对于硅谷的一群思想家和高管来说，这似乎是解决一切问题的方法。然而，“每个孩子一台笔记本电脑”（One Laptop Per Child，简称 OLPC）倡议，以及专为免费发放而设计的 XO-1 笔记本电脑，都比所有人预期的要复杂得多。\n在下一期《版本历史》节目中，戴维·皮尔斯（David Pierce）与 The Verge 的阿迪·罗伯逊以及科技记者戴维·伊梅尔一起，探讨 OLPC 为何未能成功，XO-1 的创新设计中是否有值得借鉴之处，以及这种免费发放电脑的项目是否有可能取得成功。\n《版本历史》第五季已经过半，我们一直在探访校园教育科技的经典代表。如果您错过了《俄勒冈小道》（Oregon Trail）首席游戏设计师的分享，或者错过了 The Verge 的尼莱·帕特尔（Nilay Patel）对自己 TI-82 图形计算器的喜爱程度，可以在这里收听那些剧集：\n如果您想了解更多关于 OLPC 的历史，可以通过以下链接开始了解：\n查看《版本历史》的全部内容\n免费每日新闻文摘，汇聚核心要闻。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "The Verge 的播客节目《Version History》第五季播出过半，该季聚焦学校教育科技标志性产品。",
+          "在《Version History》该期节目中，David Pierce 与 The Verge 的 Adi Robertson 及科技记者 David Imel 探讨了“每个孩子一台笔记本”（One Laptop Per Child, OLPC）倡议及其 XO-1 笔记本未达预期的原因与设计创新。",
+          "来源叙事重点：探讨“每个孩子一台笔记本”（OLPC）倡议及其 XO-1 硬件设备未能达成宏大愿景的原因，反思硅谷技术乌托邦式慈善模式的复杂性与局限性，并辩论其硬件设计究竟属于前沿创新还是不切实际的失败尝试。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T12:25:00.000Z",
+            "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
+          }
+        ]
+      },
+      {
+        "id": "story-2-4351-9380-9b725b70b1e7-0a3e0bd0259026f9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Northern Ireland in tense stand-off as protests block Orange Order parade",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T13:56:01.000Z",
+        "pubTime": "2026-09-27 21:56",
+        "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa2bb307-e871-4334-b5b0-a6d9b2d2b90a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 21:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T13:56:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--incident-september-2026-05350af4fc9462bb",
+        "title": "LuaRocks 2026年9月安全事件通报",
+        "originalTitle": "LuaRocks Security Incident September 2026",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T13:58:57.000Z",
+        "pubTime": "2026-09-27 21:58",
+        "url": "https://luarocks.org/security-incident-september-2026",
+        "imageUrl": null,
+        "fullContent": "On September 25th, 2026 we received a report of a remote code execution vulnerability in LuaRocks.org, coordinated through CISA. The vulnerability was fixed on September 26th. While investigating, we found that it had been exploited on the LuaRocks.org server several times between July 9th and August 20th, 2026.\n\nBecause an attacker was able to run code on the server, we are treating everything that server had access to as exposed. The site has been moved to a newly built server, and every credential the old server held has been revoked and replaced.\n\nWe have not found any evidence that existing packages were modified. Details on what we checked are below.\n\nRockspecs are Lua files. When a rockspec is uploaded, LuaRocks.org runs it in a restricted environment to read the package’s name and version. The function used to load it accepted precompiled LuaJIT bytecode as well as Lua source. LuaJIT does not verify bytecode, so a crafted bytecode file can read and write memory outside of the restricted environment and run arbitrary code inside the web server.\n\nThe fix loads rockspecs as text only and rejects bytecode.\n\nWe found three accounts, created for this purpose, that exploited the issue:\n\nThe account the web server ran as could gain full administrative access to the server, so we assume the attacker could read anything on it, including the entire database.\n\nBecause a remote code execution took place, we assume anything on the machine was read by the attacker:\n\nLuaRocks.org keeps a daily mirror of all packages in git, which gave us a copy from before the first attack to compare against.\n\nThere are limits to what we could verify. A package deleted by an attacker would look the same as one deleted by its owner, and we can’t check the exact content the compromised server sent to clients. The malicious rockspecs were also copied to mirror.luarocks.org and to the public mirror repository on GitHub, and have been removed from both.\n\nIf you have questions, open a discussion on the LuaRocks.org issue tracker or email me directly at leafot@gmail.com.\n\nThank you to the researcher who reported this issue. We’re sorry this made it into the codebase and wasn’t caught sooner.",
+        "fullTranslation": "2026年9月25日，我们通过CISA（网络安全与基础设施安全局）协调收到了一份关于LuaRocks.org存在远程代码执行漏洞的报告。该漏洞已于9月26日修复。在调查过程中，我们发现该漏洞在2026年7月9日至8月20日期间曾在LuaRocks.org服务器上被多次利用。\n\n由于攻击者能够在服务器上运行代码，我们将该服务器可访问的所有内容均视为已被泄露。该网站已被迁移至一台新搭建的服务器上，旧服务器所持有的所有凭据均已被吊销并替换。\n\n我们未发现现有软件包被修改的任何证据。我们核查的详细信息见下文。\n\nRockspec是Lua文件。当上传rockspec文件时，LuaRocks.org会在受限环境中运行它以读取软件包的名称和版本。用于加载该文件的函数既接受Lua源代码，也接受预编译的LuaJIT字节码。由于LuaJIT不对字节码进行验证，精心构造的字节码文件能够读写受限环境之外的内存，并在Web服务器内部执行任意代码。\n\n修复方案将rockspec仅作为文本加载，并拒绝接收字节码。\n\n我们发现了为此前创建并利用了该漏洞的三个账户：\n\nWeb服务器运行所使用的账户可以获得该服务器的完整管理权限，因此我们推定攻击者可以读取服务器上的所有内容，包括整个数据库。\n\n由于发生了远程代码执行，我们推定机器上的所有内容均已被攻击者读取：\n\nLuaRocks.org在git中保存了所有软件包的每日镜像，这为我们提供了一份首次受攻击之前的副本以供比对。\n\n我们所能核查的范围存在局限。被攻击者删除的软件包与被所有者删除的软件包表现一致，且我们无法核查受影响服务器发送给客户端的具体内容。恶意rockspec文件此前也被同步到了mirror.luarocks.org以及GitHub上的公开镜像仓库中，目前均已从两处移除。\n\n如果您有任何疑问，请在LuaRocks.org的问题跟踪器（issue tracker）上发起讨论，或直接发送电子邮件至leafot@gmail.com与我联系。\n\n感谢报告此问题的研究人员。我们对于该问题进入了代码库且未被及早发现深表歉意。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "LuaRocks.org于2026年9月25日收到通过CISA协调的远程代码执行漏洞报告。",
+          "该远程代码执行漏洞已于2026年9月26日修复，修复措施为仅加载文本格式的rockspec并拒绝字节码。",
+          "来源叙事重点：详尽透明地披露LuaRocks.org服务器因LuaJIT字节码验证缺失导致的远程代码执行（RCE）漏洞、攻击时间线、应急响应措施（迁移服务器、吊销凭据、清理镜像）及排查评估结果，同时承认排查边界并向社区承担责任"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T13:58:57.000Z",
+            "url": "https://luarocks.org/security-incident-september-2026"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-se-study-1124801791-html-4d716b8cca496290",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Offshore Wind Farms Could Create Radar Blind Spots and ‘Ghost’ Targets - Chinese Study",
+        "source": "Sputnik Globe (官方国际英文电讯)",
+        "sourceSlug": "sputnik",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:42:58.000Z",
+        "pubTime": "2026-09-27 22:42",
+        "url": "https://sputnikglobe.com/20260927/offshore-wind-farms-could-create-radar-blind-spots-and-ghost-targets---chinese-study-1124801791.html",
+        "imageUrl": null,
+        "fullContent": "As China rapidly expands its wind projects near coastal areas, researchers find the turbines can complicate marine vessel detection at sea, the SCMP reports.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Sputnik Globe (官方国际英文电讯)】于 2026-09-27 22:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Sputnik Globe (官方国际英文电讯)",
+            "url": "https://sputnikglobe.com/20260927/offshore-wind-farms-could-create-radar-blind-spots-and-ghost-targets---chinese-study-1124801791.html",
+            "publishedAt": "2026-09-27T14:42:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-l-science-discovery-html-6672b7a93d127084",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:30:55.000Z",
+        "pubTime": "2026-09-27 22:30",
+        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-27 22:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+            "publishedAt": "2026-09-27T14:30:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-9-40a6-b17c-fa97c30fd07b-6854b47e26cf503f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Terrorism arrests made in ‘major incident’ near RAF Fairford",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:13:20.000Z",
+        "pubTime": "2026-09-27 22:13",
+        "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3c6a083-b1ec-44e5-b26c-beb003a41bcb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "US Air Force has used UK base for strikes on Iran",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 22:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T14:13:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-yner-latest-news-updates-c21e5bc205fc8b7d",
+        "title": "英国政坛实时播报：伯纳姆表示希望以下届大选为契机，推行征收新税以资助英格兰免费社会护理的计划",
+        "originalTitle": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:29:44.000Z",
+        "pubTime": "2026-09-27 22:29",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+        "imageUrl": "https://i.guim.co.uk/img/media/8ba2e7292347cd94c03767c5fa1c2d37143b9521/952_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=74ee6211bba04b3789c6b20369f02c5e",
+        "fullContent": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference\n\n‘I can deliver’: Burnham pledges radical change on eve of Labour conference\n\nKuenssberg puts it to Burnham that, according to the Health Foundation, a system offering adult social care free at the point of delivery (like healthcare delivered by the NHS) would cost £18bn.\n\nBurnham says the cost is “not that high” (ie, not as high as £18bn).\n\nBut can I directly deal with this issue of the costs?\n\nLouise Casey is still doing an official review for us, so I will set out the vision, if you like, on Tuesday [in his speech to the conference].\n\nLouise will then help us with the how. How do we make this happen? When can we make it happen?",
+        "fullTranslation": "首相似乎预料到了他将在周二工党大会上阐述的改革方案会招致批评。\n\n“我能做到”：伯纳姆在工党大会前夕承诺推行彻底变革。\n\n昆斯伯格向伯纳姆指出，根据健康基金会（Health Foundation）的测算，在接受服务时提供免费成人社会护理（类似于国民保健制度NHS提供的医疗服务）的体系将耗资180亿英镑。\n\n伯纳姆表示，成本“没有那么高”（即没有达到180亿英镑那么高）。\n\n“没有那么高。但关于成本这个问题，我能直接回应一下吗？\n\n路易丝·凯西（Louise Casey）目前仍在为我们进行官方审查评估，因此，如果大家愿意听的话，我将在周二（在大会演讲中）阐述这一愿景。\n\n之后路易丝将协助我们解决‘如何落实’的问题。我们如何促成这一目标的实现？我们何时能将其落地？”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "伯纳姆（Burnham）表示希望以设立新税为英格兰免费成人社会照护提供资金的计划来应对下一次大选。",
+          "健康基金会（Health Foundation）指出，提供像NHS一样在提供点免费的成人社会照护系统将耗资180亿英镑。",
+          "来源叙事重点：伯纳姆在工党年会前夕主张通过开征新税实现英格兰免费社会照护，并反驳智库提出的180亿英镑高额成本预估"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T14:29:44.000Z",
+            "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "id": "story-rial-dye-wastewater-html-ffa165c553d60827",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:30:05.000Z",
+        "pubTime": "2026-09-27 22:30",
+        "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-bullrush-transfo.jpg",
+        "fullContent": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable, difficult to biodegrade and environmentally persistent, their release into waterways can pose risks to aquatic ecosystems and human health.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 22:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
+            "publishedAt": "2026-09-27T14:30:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-927-kiev-2120565676-html-17fb96e433fd4a8e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Киеве прогремели новые взрывы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T14:42:51.000Z",
+        "pubTime": "2026-09-27 22:42",
+        "url": "https://ria.ru/20260927/kiev-2120565676.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-27 22:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/kiev-2120565676.html",
+            "publishedAt": "2026-09-27T14:42:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rechargeable-bike-lights-f86fb9777ea6f762",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Replacing the old battery on rechargeable bike lights",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T13:30:11.000Z",
+        "pubTime": "2026-09-27 21:30",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-27 21:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+            "publishedAt": "2026-09-27T13:30:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0-profit-growth-d62e0e68-d50869dadfd3ce36",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:00:00.000Z",
+        "pubTime": "2026-09-27 22:00",
+        "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Micron is increasingly important to the S&P 500, and its earnings report has become “a market event in and of itself.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 22:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T14:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--their-patients-in-depth-f5e25f3fb25a178c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Three in four UK GPs ‘too busy to talk to their patients in depth’",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:03:56.000Z",
+        "pubTime": "2026-09-27 22:03",
+        "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
+        "imageUrl": "https://i.guim.co.uk/img/media/1cba6dca96336694725679402cbf1349f38140f9/355_0_3561_2848/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=4d06380ed56be00249616b226c051ec7",
+        "fullContent": "Family doctors’ professional body finds the majority have no time to discuss preventative measures\n\nA friendly chat with your GP about your life, health and happiness was once a key part of the UK’s family doctor service.\n\nBut most GPs no longer have time to have pastoral conversations, because they are too busy dealing with the country’s rising tide of illness, research reveals.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "调查/研究显示，英国四分之三的家庭医生（GPs）过于繁忙，无法与患者进行深入交谈。",
+          "家庭医生的专业机构调查发现，大多数家庭医生没有时间探讨预防性措施。",
+          "来源叙事重点：强调英国国民健康体系基层医疗（GP）压力过载的严峻现状，突出家庭医生因疲于应对激增的疾病负荷，导致传统深入关怀与预防性交流缺位的系统性危机"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T14:03:56.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth"
+          }
+        ]
+      },
+      {
+        "id": "story-galaxy-evidence-jet-html-74fe876629fb2978",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T14:20:05.000Z",
+        "pubTime": "2026-09-27 22:20",
+        "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-8.jpg",
+        "fullContent": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 22:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
+            "publishedAt": "2026-09-27T14:20:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-7-tokaev-2120565442-html-6aa944739f6fad8d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Токаев заявил о нехватке профессионализма в армии Казахстана",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-27T14:40:02.000Z",
+        "pubTime": "2026-09-27 22:40",
+        "url": "https://ria.ru/20260927/tokaev-2120565442.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/07/19/2106971878_0:0:3002:1690_650x0_80_0_0_b3d23a65a3c3083e61c214a33598f2ce.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-27 22:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260927/tokaev-2120565442.html",
+            "publishedAt": "2026-09-27T14:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-top-never-stood-a-chance-e4ada47d0458d985",
+        "title": "为什么 OLPC 的 100 美元笔记本电脑根本毫无胜算",
+        "originalTitle": "Why OLPC’s $100 laptop never stood a chance",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T12:25:00.000Z",
+        "pubTime": "2026-09-27 20:25",
+        "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nOn Version History: David Imel and Adi Robertson debate if the OLPC XO-1 was innovative hardware or just a bad idea.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Verge Staff\n\nThe idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were both more complicated than anyone expected.\n\nIn the next episode of Version History, David Pierce is joined by The Verge’s Adi Robertson and tech journalist David Imel to figure out why OLPC didn’t work, whether there’s anything to learn from the XO-1’s innovative design, and if this kind of computer giveaway could ever succeed.\n\nWe’re halfway through the fifth season of Version History and we’ve been touring the educational tech icons in schools. If you missed hearing from the lead game designer of Oregon Trail or just how much The Verge’s Nilay Patel loved his TI-82 graphing calculator, check out those episodes here: :\n\nIf you want to know more about OLPC history, here are some links to get you started:\n\nSee All Version History\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。\n在《版本历史》（Version History）节目中：戴维·伊梅尔（David Imel）和阿迪·罗伯逊（Adi Robertson）探讨了 OLPC XO-1 究竟是创新的硬件设备，还是仅仅是一个糟糕的主意。\n该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。\n查看 The Verge 编辑团队的全部内容\n这个想法宏大、令人兴奋且鼓舞人心：如果我们能让全世界的每个孩子都能用上电脑会怎样？对于硅谷的一群思想家和高管来说，这似乎是解决一切问题的方法。然而，“每个孩子一台笔记本电脑”（One Laptop Per Child，简称 OLPC）倡议，以及专为免费发放而设计的 XO-1 笔记本电脑，都比所有人预期的要复杂得多。\n在下一期《版本历史》节目中，戴维·皮尔斯（David Pierce）与 The Verge 的阿迪·罗伯逊以及科技记者戴维·伊梅尔一起，探讨 OLPC 为何未能成功，XO-1 的创新设计中是否有值得借鉴之处，以及这种免费发放电脑的项目是否有可能取得成功。\n《版本历史》第五季已经过半，我们一直在探访校园教育科技的经典代表。如果您错过了《俄勒冈小道》（Oregon Trail）首席游戏设计师的分享，或者错过了 The Verge 的尼莱·帕特尔（Nilay Patel）对自己 TI-82 图形计算器的喜爱程度，可以在这里收听那些剧集：\n如果您想了解更多关于 OLPC 的历史，可以通过以下链接开始了解：\n查看《版本历史》的全部内容\n免费每日新闻文摘，汇聚核心要闻。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "The Verge 的播客节目《Version History》第五季播出过半，该季聚焦学校教育科技标志性产品。",
+          "在《Version History》该期节目中，David Pierce 与 The Verge 的 Adi Robertson 及科技记者 David Imel 探讨了“每个孩子一台笔记本”（One Laptop Per Child, OLPC）倡议及其 XO-1 笔记本未达预期的原因与设计创新。",
+          "来源叙事重点：探讨“每个孩子一台笔记本”（OLPC）倡议及其 XO-1 硬件设备未能达成宏大愿景的原因，反思硅谷技术乌托邦式慈善模式的复杂性与局限性，并辩论其硬件设计究竟属于前沿创新还是不切实际的失败尝试。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T12:25:00.000Z",
+            "url": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
+          }
+        ]
+      },
+      {
+        "id": "story-2-4351-9380-9b725b70b1e7-0a3e0bd0259026f9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Northern Ireland in tense stand-off as protests block Orange Order parade",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T13:56:01.000Z",
+        "pubTime": "2026-09-27 21:56",
+        "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faa2bb307-e871-4334-b5b0-a6d9b2d2b90a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 21:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T13:56:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--incident-september-2026-05350af4fc9462bb",
+        "title": "LuaRocks 2026年9月安全事件通报",
+        "originalTitle": "LuaRocks Security Incident September 2026",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T13:58:57.000Z",
+        "pubTime": "2026-09-27 21:58",
+        "url": "https://luarocks.org/security-incident-september-2026",
+        "imageUrl": null,
+        "fullContent": "On September 25th, 2026 we received a report of a remote code execution vulnerability in LuaRocks.org, coordinated through CISA. The vulnerability was fixed on September 26th. While investigating, we found that it had been exploited on the LuaRocks.org server several times between July 9th and August 20th, 2026.\n\nBecause an attacker was able to run code on the server, we are treating everything that server had access to as exposed. The site has been moved to a newly built server, and every credential the old server held has been revoked and replaced.\n\nWe have not found any evidence that existing packages were modified. Details on what we checked are below.\n\nRockspecs are Lua files. When a rockspec is uploaded, LuaRocks.org runs it in a restricted environment to read the package’s name and version. The function used to load it accepted precompiled LuaJIT bytecode as well as Lua source. LuaJIT does not verify bytecode, so a crafted bytecode file can read and write memory outside of the restricted environment and run arbitrary code inside the web server.\n\nThe fix loads rockspecs as text only and rejects bytecode.\n\nWe found three accounts, created for this purpose, that exploited the issue:\n\nThe account the web server ran as could gain full administrative access to the server, so we assume the attacker could read anything on it, including the entire database.\n\nBecause a remote code execution took place, we assume anything on the machine was read by the attacker:\n\nLuaRocks.org keeps a daily mirror of all packages in git, which gave us a copy from before the first attack to compare against.\n\nThere are limits to what we could verify. A package deleted by an attacker would look the same as one deleted by its owner, and we can’t check the exact content the compromised server sent to clients. The malicious rockspecs were also copied to mirror.luarocks.org and to the public mirror repository on GitHub, and have been removed from both.\n\nIf you have questions, open a discussion on the LuaRocks.org issue tracker or email me directly at leafot@gmail.com.\n\nThank you to the researcher who reported this issue. We’re sorry this made it into the codebase and wasn’t caught sooner.",
+        "fullTranslation": "2026年9月25日，我们通过CISA（网络安全与基础设施安全局）协调收到了一份关于LuaRocks.org存在远程代码执行漏洞的报告。该漏洞已于9月26日修复。在调查过程中，我们发现该漏洞在2026年7月9日至8月20日期间曾在LuaRocks.org服务器上被多次利用。\n\n由于攻击者能够在服务器上运行代码，我们将该服务器可访问的所有内容均视为已被泄露。该网站已被迁移至一台新搭建的服务器上，旧服务器所持有的所有凭据均已被吊销并替换。\n\n我们未发现现有软件包被修改的任何证据。我们核查的详细信息见下文。\n\nRockspec是Lua文件。当上传rockspec文件时，LuaRocks.org会在受限环境中运行它以读取软件包的名称和版本。用于加载该文件的函数既接受Lua源代码，也接受预编译的LuaJIT字节码。由于LuaJIT不对字节码进行验证，精心构造的字节码文件能够读写受限环境之外的内存，并在Web服务器内部执行任意代码。\n\n修复方案将rockspec仅作为文本加载，并拒绝接收字节码。\n\n我们发现了为此前创建并利用了该漏洞的三个账户：\n\nWeb服务器运行所使用的账户可以获得该服务器的完整管理权限，因此我们推定攻击者可以读取服务器上的所有内容，包括整个数据库。\n\n由于发生了远程代码执行，我们推定机器上的所有内容均已被攻击者读取：\n\nLuaRocks.org在git中保存了所有软件包的每日镜像，这为我们提供了一份首次受攻击之前的副本以供比对。\n\n我们所能核查的范围存在局限。被攻击者删除的软件包与被所有者删除的软件包表现一致，且我们无法核查受影响服务器发送给客户端的具体内容。恶意rockspec文件此前也被同步到了mirror.luarocks.org以及GitHub上的公开镜像仓库中，目前均已从两处移除。\n\n如果您有任何疑问，请在LuaRocks.org的问题跟踪器（issue tracker）上发起讨论，或直接发送电子邮件至leafot@gmail.com与我联系。\n\n感谢报告此问题的研究人员。我们对于该问题进入了代码库且未被及早发现深表歉意。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "LuaRocks.org于2026年9月25日收到通过CISA协调的远程代码执行漏洞报告。",
+          "该远程代码执行漏洞已于2026年9月26日修复，修复措施为仅加载文本格式的rockspec并拒绝字节码。",
+          "来源叙事重点：详尽透明地披露LuaRocks.org服务器因LuaJIT字节码验证缺失导致的远程代码执行（RCE）漏洞、攻击时间线、应急响应措施（迁移服务器、吊销凭据、清理镜像）及排查评估结果，同时承认排查边界并向社区承担责任"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T13:58:57.000Z",
+            "url": "https://luarocks.org/security-incident-september-2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790473603208,
     "timeDisplay": "2026-09-27 09:46 (UTC+8)",
     "date": "2026-09-27",

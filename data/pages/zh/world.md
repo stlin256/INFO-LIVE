@@ -16,229 +16,100 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-026-09-27-10704341-shtml-3418a46e445ba12f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="2532" data-content-paragraphs="42" data-published-at="2026-09-27T01:25:49.000Z" data-time-source="publication">
+<div id="story-spreading-across-america-56c8ae89978932f1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="5822" data-content-paragraphs="29" data-published-at="2026-09-27T14:24:47.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-27 09:25</span>
+  <span class="news-meta-time">🕒 2026-09-27 22:24</span>
 </div>
 
-### [三大运营商全面暂停“0元购机”，是何原因？](https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml)
+### [噪音抓拍探头正在全美蔓延](https://www.foxnews.com/science/noise-cameras-spreading-across-america)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Noise cameras are spreading across America</div>
 
-<div class="article-body" data-article-body="true"><p>中国移动、中国电信、中国联通，集中叫停！</p>
-<p>在三大运营商线下营业厅，不少消费者都碰到过“免费领手机”“办宽带送礼品”的宣传。看似是办套餐就能白拿手机，实际是‌签了贷款合同‌，每月话费里包含还款金额。长期以来，这类分期业务一直是消费者投诉的集中领域。</p>
-<p>有消息称，9月24日起，三大运营商金融分期购机业务暂停，不能再新增办理这类0元拿手机业务。“0元购机”为什么在此时全面叫停？已经办理的用户该怎么办？</p>
-<p>近年来，关于分期购机的投诉从未间断。三年前，湖南株洲吴先生便遭遇过业务员上门承诺在网三年就送一部手机，几天后吴先生收到的却是一条“贷款成功”的短信。合同显示，他名下多了一笔1950元、36期的消费贷款。</p>
-<p>辽宁沈阳的夏先生上周在黑猫投诉反映，他办理“办宽带送手机”业务，事后才发现，自己的支付账户里多了一笔分期贷款，36期，每期49.9元，这笔钱就藏在他每月139元的话费里。</p>
-<p>浙江宁波王先生的遭遇则更为离奇，业务员以上门测网速为由进门，更换了他的宽带运营商，还给他办了一笔1500多元的全屋Wi-Fi设备，分36期。</p>
-<p>这类投诉都有共同点：用户以为自己办的是通信业务，签下的却是贷款合同；以为交的是话费，实际上是在还贷款。一旦手机欠费停机，贷款随即逾期，个人征信跟着受损。</p>
-<p>近日，有消息称，三大运营商已经暂停此类业务，总台记者致电电信、联通运营商客服以及移动“和包信用购”客服，对方都表示，此类分期购机项目已经暂停。</p>
-<p>沈阳电信：新业务目前是在做这一个系统优化升级，暂时停止受理新办理。您如果是现在要办理手机合约的话，您可以了解营业厅其他优惠购机活动。</p>
-<p>北京联通：分期的话这个产品都是在升级中，具体复开时间是等待通知。</p>
-<p>移动“和包信用购”：版本更替升级，现在暂时办理不了，什么时候能办还要等进一步通知。</p>
-<p>湖南移动公司则一度在官网发布《关于和包分期购机活动停售的公告》，称9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。‌‌</p>
-<p>也就是说，9月24日起，中国移动的“和包信用购”、中国电信的“橙分期”、中国联通的“沃分期”均已全面暂停新增办理分期购机，恢复时间未定。</p>
-<p>值得注意的是，9月30日，中国人民银行、工业和信息化部等部门联合发布的《金融产品网络营销管理办法》将正式施行，明确要求金融产品营销不得含有虚假或引人误解的内容。在这样的时间点，运营商叫停“办套餐送手机+分期”的模式是巧合还是必然？</p>
-<p>电信分析师付亮回顾，电信市场进入3G时代初期，智能手机迎来普及浪潮。为争夺用户，运营商曾大规模采用“预存话费送手机”的营销模式，要求用户缴纳一定额度话费即可获赠手机。</p>
-<p>举例来说，一台价值5000元的手机，用户可能需要一次性缴纳7000至8000余元，这笔费用包含手机价款与三年话费，整体让利幅度约30%。但运营商随后发现，一次性缴费门槛过高，不少用户难以接受。在此背景下，新的模式应运而生：用户无需预先支付全款，只需以信用承诺按月缴纳话费，就能参与活动。该模式确实有助于拉动相关消费，同时兼顾各方利益。</p>
-<p>这种在发展初期被视作降低门槛、促进手机消费的商业创新，在推行过程中逐渐走形变样。过去用户晚交几天话费，可能只是停机；而此类信用购模式，晚交话费甚至欠交话费会影响信用，成了金融违约。再加上在渠道利益的驱动下，一些线下业务员屡屡出现“选择性隐瞒风险”的行为。</p>
-<p>付亮认为，此次三大运营商集中叫停金融分期购机业务，除了规范相关业务行为外，更深层的背景是通信市场步入存量时代，依靠补贴手机硬件抢夺用户的运营逻辑已难持续。</p>
-<p>在运营商财报中，终端业务基本处于零利润甚至亏损状态。运营商的核心目标是销售通信服务，而非售卖手机终端。如今运营商获取新用户的难度持续加大，今年各家对新增用户增长的考核指标已明显下调，企业不再愿意贴钱通过终端业务拉新。叠加合规层面的考量，运营商选择叫停该业务也就不难理解。</p>
-<p>而在工业和信息化部信息通信经济专家委员会委员盘和林看来，三大运营商之所以全面暂停该业务，最直接的导火索是这套模式早已沦为典型的“负资产”——在经济账上得不偿失，在法律与声誉层面更是风险重重：</p>
-<p>分期购机业务市场表现不佳，用户不愿被运营商套餐长期捆绑，业务整体规模偏小。</p>
-<p>分期购机业务存在较高合规风险。部分营业厅会借助夸大宣传开展促销，不少用户办理后发现实际情况与宣传不符，例如需要承担高额分期利息，这项业务由此变成运营商的负资产。业务推广成功会损害品牌口碑，推广不力则可能因虚假宣传面临合规处罚，可谓得不偿失。</p>
-<p>盘和林介绍，数字化技术不断发展的背景下，线下实体营业厅的职能持续收缩。同时，常态化落地的“携号转网”政策，彻底打破了运营商依靠长周期合约深度锁定用户的运营壁垒。</p>
-<p>这里需要提醒，已经办了分期合约的老用户，不受这轮调整影响，原有合约继续生效，按之前的协议正常履约。合约到期后，可以换当期在售的其他套餐。如果之后有人打电话推销“分期购机”“内部渠道0元拿手机”，千万不能相信。</p>
-<p>▌本文来源：央视财经(ID：cctvyscj)综合</p>
-<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
-<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
-<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
-<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
-<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
-<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
-<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
-<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
-<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
-<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
-<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
-<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
-<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Noise-cameras-are-spreading-across-America.jpg?ve=1&amp;tl=1" alt="噪音抓拍探头正在全美蔓延" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>如果你曾被街上呼啸而过的汽车惊醒，你就会知道那声音消失得有多快。等到有人报警时，司机可能已经在几个街区之外了。如今，各城市正寻求科技手段的帮助。我们曾多次报道过弗洛克（Flock）车牌识别探头在道路两侧和停车场大量涌现。另一种路侧摄像头也正在迅速普及，而这一种设备带有“听觉”功能。噪音摄像头利用麦克风、摄像头和软件来精准锁定发出巨大噪音的车辆。部分设备还会抓拍其车牌。根据具体项目的不同，这可能会导致警告、执法人员复核或直接开具罚单。</p>
+<p>近年来，美国至少有10个司法管辖区部署或试点测试了噪音抓拍技术。越来越多的社区正在筹备相关项目，或观望是否跟进。纽约市拥有最为成熟的执法项目之一，而从爱荷华州到夏威夷州，各地采取的方式截然不同。以下是噪音摄像头已经落地的区域、其设备制造商，以及这项日益壮大的路侧技术对全美司机可能意味着什么。</p>
+<p>错过了CyberGuy直播？请观看《借助AI获得更好的医疗保健》回放<br />我们的免费CyberGuy LIVE课程《借助AI获得更好的医疗保健》已经结束，但您仍然可以观看完整回放。库尔特·“CyberGuy”·克努特森（Kurt &quot;CyberGuy&quot; Knutsson）将向您介绍人工智能帮助整理健康病史、记录重要就诊细节、理解复杂医疗信息、研究处方药以及向医生提出更明智问题的五种实用方法。无需任何技术经验。</p>
+<p>立即在 CyberGuyLive.com 观看免费回放</p>
+<p>强大的打击犯罪监控技术的增长促使立法者发出警告：堪比“奥威尔式”控制</p>
+<p>纽约市为我们提供了最清晰的视角，展示了噪音抓拍执法究竟能做到何种程度。该市环境保护局在2025年运营了12台噪音摄像头。这些摄像头记录了15,994起噪音事件，并开具了1,691张传票。该系统可以针对发动机或消音器的过度噪音进行抓拍。它还可以抓拍某些鸣笛和车内音乐违章行为。消音器违规的最低罚款为800美元，最高可达2,625美元。</p>
+<p>纽约的摄像头将麦克风与视频以及车牌识别器结合在一起。当麦克风检测到噪音超过预设分贝时，系统会尝试精准定位是哪辆车发出的声音。随后，市政工作人员可以在开具传票前对证据进行复核。纽约设备背后的供应商是英国公司Intelligent Instruments Ltd.，该公司生产SoundVue噪音摄像头系统。纽约在2025年期间就设备、校准和服务向该公司支付了费用。</p>
+<p>Intelligent Instruments在这一领域正在成为一个家喻户晓的名字。SoundVue将麦克风阵列与摄像头以及旨在定位噪音最大车辆的软件结合在一起。它还可以与自动车牌识别技术相连。田纳西州诺克斯维尔在一个移动式噪音摄像头项目中使用了这项技术。该摄像头记录与过度噪音事件相关的信息，包括时间、地点、车辆类型和车牌。诺克斯维尔表示，该摄像头可以用于协助发出警告，但该市目前并不利用其出具由摄像头直接生成的罚单。该系统最初来自另一家总部位于英国南安普敦的公司24 Acoustics。诺克斯维尔当前的市政网页显示，该摄像头技术目前通过Intelligent Instruments进行销售。</p>
+<p>迈阿密海滩也测试了三套Intelligent Instruments系统。该市启动了噪音计和摄像头试点项目，以测试该设备在不同交通状况下是否能准确识别出正确的车辆。在试点期间，佛罗里达州法律禁止迈阿密海滩利用摄像头证据出具自动化噪音罚单。此后，迈阿密海滩采取了另一种做法。2026年7月，该市在第五街以南（South of Fifth）社区启动了为期一年的“宁静街区”（Quiet Zone）试点项目。那里的执法由警官根据现有法律执行，而不是依赖自动化的噪音抓拍罚单。</p>
+<p>家得宝（HOME DEPOT）和劳氏（LOWE’S）的车牌抓拍摄像头引发隐私担忧</p>
+<p>你不必生活在大城市也会遇到这项技术。爱荷华州阿沃卡在2025年春季对该技术进行测试后，推进了沿59号公路的噪音抓拍项目。该市此前一直在处理有关卡车大声使用发动机压缩制动（通常称为杰克制动，Jake braking）的投诉。在为期一个月的试点期间，阿沃卡记录了涉及83辆车的183起违章行为。该市随后宣布全面投入使用，采用来自Intelligent Instruments的技术以及Sitestream提供的后台服务。</p>
+<p>夏威夷于2025年9月在瓦胡岛启动了为期两年的噪音抓拍试点项目。该州计划在全岛设置10个监控点，首批设在H-3高速公路和阿拉莫阿那大道（Ala Moana Boulevard）。不过，司机不会通过该试点项目收到摄像头生成的罚单。夏威夷交通部表示，这些摄像头收集有关车辆噪音分贝及声音来源的信息。该机构计划利用这些数据协助指导未来的立法和执法决策。该系统会标记超过90分贝的事件，并协助识别所涉及的车辆噪音类型。这可能包括发动机或消音器发出的声音。</p>
+<p>华盛顿州柯克兰也将噪音摄像头用作测试工具，而不是“开单机器”。该市的“街头飙车噪音试点项目”在曾有多次关于飙车和改装排气管投诉的两个地点安装了设备。该系统使用了一台带有灵敏麦克风阵列的摄像头。当车辆超过噪音阈值时，软件会生成热力图，显示声音来自何处。柯克兰在试点期间没有开具罚单或警告。相反，该市希望了解该系统是否能在周围发生的一切干扰中，可靠地将一辆发出噪音的车辆区分开来。这在繁忙的街道上尤为重要。一辆摩托车可能正停在一辆卡车旁边，而另一辆汽车正加速穿过十字路口。在任何人能确凿地将该事件与车牌关联起来之前，摄像头必须弄清楚究竟是哪辆车发出了声音。</p>
+<p>Intelligent Instruments并不是这个市场上唯一的玩家。荷兰声学技术公司Sorama也为美国的噪音抓拍项目提供了设备。Sorama的技术利用麦克风阵列定位声源，并将其以可视化形式叠加显示在图像或视频上。通俗来说，该系统可以显示噪音来自何处，而不仅仅是告诉你它有多吵。</p>
+<p>罗德岛州纽波特在可在问题区域之间移动的便携式设备中采用了Sorama的技术。该市希望保持灵活性，因为其车辆噪音投诉可能会在不同的交通热点之间转移。Sorama表示，纽波特在最初部署后扩大了该项目。纽波特的项目已经超越了单纯的数据收集阶段。根据关于该市系统的报道，司机若产生过量车辆噪音，可能会面临250美元的罚单。</p>
+<p>新墨西哥州阿尔伯克基也与Sorama合作，于2025年启动了一项包含三台摄像头的试点项目。其中两台安装在指定区域，另一台移动摄像头则可在全市范围内巡回使用。这项为期六个月的测试仅收集噪音数据，并不开具罚单。到2026年初，阿尔伯克基官员仍在要求对该项目进行分析评估。</p>
+<p>新墨西哥州圣菲是最新一批从试点概念转向更广泛执法项目的城市之一。该市与Jenoptik智慧出行解决方案公司（Jenoptik Smart Mobility Solutions）签署了一份价值最高可达400万美元的五年期合同，用于自动超速和噪音执法。市政记录显示，该协议涵盖了自动超速和噪音执法服务。圣菲最初的规划需要六台移动执法设备，其中三台服务于北部地区，三台服务于南部地区。南北两侧各有一台设备兼具测速和测音执法功能，其余四台则专注于超速执法。Jenoptik表示，这些系统能够抓拍违规者的车牌，并将事件提交给执法部门进行审核。该市还计划在正式开具罚单之前设立一个警示期。</p>
+<p>马里兰州大学公园市（University Park）于2026年1月7日在阿德尔菲路（Adelphi Road）与范布伦路（Van Buren Road）交口启用了一台噪音执法摄像头。该镇表示，该设备是县及州层面应对过量机动车噪音整体行动的一部分。大学公园市通过该试点项目获得了乔治王子县获批的两台噪音摄像头中的一台。马里兰州的经验再次表明，这些系统正通过各州和地方的试点项目推广普及，而非通过单一的全国性行动推行。</p>
+<p>康涅狄格州西黑文是最新一批转向噪音摄像头执法的社区之一。该市计划在其海岸线沿线增设四台噪音监测设备，该区域居民此前一直抱怨车辆噪音过大。截至2026年9月中旬，这一更广泛的项目尚未正式上线。据WFSB报道，这些设备预计将在大约一个月内完成安装。康涅狄格州法律允许市政当局在通过相关法令的前提下使用抓拍噪音违规的监测设备。该州将判定违规的门槛设定为80分贝，部分鸣笛声除外。州法律还明确了处罚机制：首次违规给予书面警告；第二次处以100美元罚款；第三次及后续违规处以250美元罚款。在市政府寄出罚单之前，必须由警官或市政雇员对图像进行人工审核。东哈特福德也已授权使用噪音摄像头，不过该镇目前尚未实际部署。</p>
+<p>这种趋势可能会进一步蔓延。波士顿市议会于2026年8月批准了一项探索噪音摄像头项目的申请。这一讨论源于对噪音扰民车辆和街头飙车封路（street takeovers）的投诉。当时波士顿尚未正式启动该项目。罗德岛州普罗维登斯的规划则更进一步。该市发布了一项招标邀请，寻求企业参与为期16个月的声学摄像头试点项目。招标规格要求设备能够检测并记录潜在违规行为，同时还要求系统能够生成足以支持开具罚单的证据。</p>
+<p>目前并没有像Flock Safety那样独霸这一市场的单一巨头。数家公司正在开发路侧声学执法系统。</p>
+<p>加利福尼亚州公路巡警局（California Highway Patrol）已对Intelligent Instruments、Jenoptik以及荷兰出行公司TNL的技术进行了测试。该评估也暴露了整个行业面临的最大挑战之一。</p>
+<p>这正是棘手之处。普通的声级计可以测出声音有多大，但这并不一定能告诉你究竟是哪辆正在行驶的车辆发出的噪音。噪音摄像头试图通过多个麦克风来解决这个问题。软件会比对声音到达各个麦克风的时间并计算其来源位置，随后由摄像头提供视觉证据。例如，SoundVue表示其Halo麦克风阵列即使在周围有其他车辆的情况下，也能识别出主要的声源车辆。该系统随后将这些声学信息与视频及车牌图像相结合。纽约市也描述了类似的过程：其全景相机会在麦克风阵列锁定的声源上方标出标记，另一台独立的车牌识别仪则抓拍该车辆的车牌。这听起来非常出色，然而加州的测试表明了为何各城市仍需保持谨慎。</p>
+<p>加利福尼亚州公路巡警局对来自TNL、Intelligent Instruments和Jenoptik的声音触发执法系统进行了评估。技术问题导致公路巡警局未能对这三套系统完成全面评估。仅有Intelligent Instruments的设备生成了足够的可行数据以供详细分析。公路巡警局发现该技术能够检测出过大的排气管噪音，但该机构得出的结论是，受测系统尚不足以作为独立的执法工具。其中一项挑战在于如何可靠地将噪音与正确的车辆关联起来。此外，光线、车牌可见度和交通状况也可能影响证据效力。该研究针对的是特定测试条件下的特定设备，因此并不能证明每套噪音摄像头系统都会出现同样的差错。尽管如此，它解释了为何人工审核在许多此类项目中扮演着如此关键的角色。麦克风可以检测到噪音事件，但要将该事件转化为罚单，则需要更高程度的确定性。</p>
+<p>有关隐私的讨论并不仅仅局限于麦克风是否能听到排气声。许多系统会在发生噪音事件后抓拍车牌。纽约市表示，其摄像头的拍摄角度既能拍到车牌，又可避免车内乘员和车辆内饰出现在视频中。康涅狄格州的法律也对噪音摄像头信息的收集和使用作出了限制，要求在开具罚单前进行人工审核，并对录制的图像制定了规则。然而，这些保护措施因驾驶所在地的不同而有所差异。考虑采用噪音摄像头的城市应当能够明确说明其记录了什么内容、谁有权调阅这些信息以及这些数据会保存多久。我们在其他路侧摄像头系统上已经看到了这一问题值得引起重视的原因。我们最近曾报道过Flock摄像头的识别结果如何导致一名无辜女性被捕入狱。检方随后撤销了指控，而该案表明，当调查人员将摄像头提供的信息直接当作定论而非单项证据时，可能会产生怎样的后果。</p>
+<p>对大多数司机而言，噪音摄像头可能永远不会被触发。然而，你在哪里开车可能会极大改变适用的规则。一个城市可能利用该技术开具罚单；另一个城市可能只发送警告；而在其他地方，摄像头可能仅收集数据而不识别驾驶人进行执法。各地的针对目标声音也可能有所不同：纽约市针对多种类型的机动车过量噪音；阿沃卡（Avoca）侧重于大分贝的发动机发动机制动噪音；而其他社区则主要关注非法改装排气或街头飙车。</p>
+<p>如果你收到了噪音摄像头的违规罚单，请仔细核查随附的证据。核对地点、时间以及车辆信息。查明在罚单寄出前是否有专人对该事件进行了人工审核。如果你认为系统识别错了车辆，你还可以了解当地对罚单提出申诉的程序。如果你所在的城镇宣布实施噪音摄像头项目，去询问是谁供应了这套设备。然后查看该系统记录了哪些内容，以及相关官员会将这些信息保留多长时间。这些细节能告诉你的，远比市议会议程上“噪音摄像头”这几个字要多得多。</p>
+<p>噪音摄像头让人感觉就像是全美道路上正在发生的更大变革中的下一个篇章。摄像头最初只是用于监控交通。车牌识别技术使得车辆变得可检索。如今，声学系统能够辨听某辆特定车辆疾驰而过的声音。我能理解为什么那些在凌晨2点听到屋外传来震耳欲聋排气声的人们，希望能有更好的方法来解决这个问题。警官不可能守在每一条嘈杂的街道上，等待下一辆车的到来。然而，加利福尼亚州的测试让我对将噪音读数直接作为自动定罪证据的做法持保留态度。在繁忙的道路上，要准确判定声音究竟来自何处可能是一件非常复杂的事情。当机器生成的违规记录可能让某人付出数百美元的代价时，人工审核和明确的申诉流程就显得尤为重要。我也会密切关注这些系统背后的公司。Intelligent Instruments、Sorama和Jenoptik等企业正在打造一类全新的路边技术。随着越来越多的城市签署采购合同，我们应当了解它们的设备究竟收集了什么、精准度如何，以及在车辆开走后这些信息会面临怎样的处置。</p>
+<p>如果噪音摄像头能防止吵闹的车辆在凌晨2点将你吵醒，你会希望自己的街道上安装一个吗？还是说，将路边麦克风与车牌识别技术挂钩未免走得太远了？请通过在 Cyberguy.com 网站上给我们留言，让我们知道你的看法。<br />版权所有 2026 CyberGuy.com。保留所有权利。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>中国移动“和包信用购”、中国电信“橙分期”、中国联通“沃分期”自9月24日起均已全面暂停新增办理金融分期购机业务，恢复时间未定。</li>
-    <li>湖南移动公司在官网发布公告，明确自9月23日24点起，和包分期购机相关产品正式停售，不再支持新办，已办理的存量用户不受影响。</li>
-    <li>来源叙事重点：揭示“0元购机”背后隐蔽的消费金融贷款套路及对消费者征信的损害，聚焦三大运营商全面暂停分期购机的真实诱因——直指《金融产品网络营销管理办法》合规强监管、通信存量时代补贴模式失效及声誉负资产问题，而非官方宣称的“系统升级”。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新网</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/cj/2026/09-27/10704341.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-on-pauline-hanson-ntwnfb-3b9f8b13f08d1cb4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="252" data-content-paragraphs="5" data-published-at="2026-09-27T01:21:13.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-27 09:21</span>
-</div>
-
-### [澳大利亚实时新闻：休姆对在OpenAI数据泄露事件后采取法律行动表示怀疑；航班取消让澳式橄榄球联赛（AFL）球迷心碎](https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Australia news live: Hume sceptical legal action should follow OpenAI breach; flight cancellation heartbreak for AFL fans</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/bf983dc767099c2a68d498927fa9238b80e18511/753_345_5374_4299/master/5374.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=283af7d718ba173f33681a4941ef1134" alt="澳大利亚实时新闻：休姆对在OpenAI数据泄露事件后采取法律行动表示怀疑；航班取消让澳式橄榄球联赛（AFL）球迷心碎" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>订阅我们的突发新闻邮件、下载免费应用或收听每日新闻播客</p>
-<p>昆士兰州儿童保护系统儿童死亡人数创五年新高</p>
-<p>最新数据显示，昆士兰州儿童保护系统中记录的儿童死亡人数达到92人，创下五年来的新高。</p>
-<p>本周真正敲响警钟的事实是，我们之所以知道国民医疗保险（Medicare）档案或数据系统遭遇了此次泄露，仅仅是因为OpenAI通知了我们存在泄露。</p>
-<p>如果他们没有通知我们发生了泄露，我们到底会不会知晓此事？这表明我们的网络防御能力，特别是澳大利亚服务部（Services Australia）的网络防御，严重不足。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>该文章来源为《卫报》（The Guardian）。</li>
-    <li>该文章发布时间为2026年9月27日01:21:13（页面显示为2026年9月27日09:21）。</li>
-    <li>来源叙事重点：重点突出公共安全、政府问责与网络防御能力问题：一方面报道昆士兰州儿童保护系统儿童死亡人数达到五年来最高；另一方面将Medicare数据泄露的曝光归因于OpenAI告知，并据此引出Services Australia网络防御不足的批评。报道框架偏向强调潜在监管失灵和信息披露风险，但提供的文本未展示政府、OpenAI或技术专家的完整回应。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-27-10704321-shtml-a5f2fd994e28bd9f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1760" data-content-paragraphs="36" data-published-at="2026-09-27T00:28:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-27 08:28</span>
-</div>
-
-### [全网模仿“闪身步”藏隐患 别拿膝盖跟风网红动作](https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml)
-
-<div class="article-body" data-article-body="true"><p>近日，一条“闪身步”的切片视频爆火网络，引发大量网友和明星的模仿和二创。据了解，该视频片段来自一条安徽花鼓灯舞蹈的教学视频，而“闪身步”是其中的一个基本功动作。</p>
-<p>随着“闪身步”的爆火，扬州大学附属医院发文称多地医院的骨科、运动医学科陆续接诊了多名年轻患者，均为跟风练“闪身步”导致膝盖受伤，到医院检查后发现是十字韧带拉伤，甚至部分撕裂。</p>
-<p>不只“闪身步”，盲目跟风模仿这些“网红动作”也同样有着潜在的受伤风险。</p>
-<p>即把两腿伸入椅子的扶手，或将头和胳膊伸入塑料凳中，多数挑战者在过程中双腿或头部卡住，无法挣脱。</p>
-<p>选择路边的树木、电线杆等，将双腿像拧麻花一样盘绕住柱体，挑战能否自行解开，最终却导致双腿锁死，动弹不得。</p>
-<p>“卧鱼”本为戏曲动作，指戏曲演员侧身半跪、双腿盘曲、身体缓慢下沉，电视剧《主角》爆火后也让许多网友开始挑战。但不少人在挑战过程中因不掌握方法，导致膝盖“嘎嘣”一声，出现异响。</p>
-<p>“闪身步”“盘腿抱柱”“卧鱼”……这些“网红动作”挑战起来固然有趣，但其背后对膝关节可能造成的损伤也同样需要提高警惕。</p>
-<p>“闪身步”源自安徽花鼓灯，是专业舞者的基本功之一。专业舞者依靠核心与下肢肌肉稳定重心，但普通人大多只模仿表面姿态：双脚钉住地面、上身猛转，重心突然偏移导致膝盖被迫超角度旋转，产生的剪切力正是前交叉十字韧带非接触撕裂的典型诱因。</p>
-<p>十字韧带如同稳定膝关节的“安全带”，质地坚韧却基本无法自愈。普通人肌肉力量弱、关节稳定性差，缺少热身就做爆发扭转动作，瞬间的力量就可能拉松、撕裂韧带。</p>
-<p>“盘腿抱柱”这一动作则是身体自重下压让双腿收紧形成“自锁”，膝、髋、踝关节处于扭曲受压状态，容易损伤韧带与半月板。</p>
-<p>而普通人在模仿“卧鱼”时，膝盖深度屈曲、负重并伴随扭转，半月板和韧带将承受巨大的剪切力。膝关节虽可小幅旋转，但多重受力叠加，一旦失衡就可能造成半月板撕裂、韧带损伤甚至髌骨脱位。</p>
-<p>作为人体重要的“轴承”和“负重”关节，膝盖一旦受伤或磨损过度，便会造成不可逆的损失。既然损伤后果不容忽视，我们更应当重视膝关节的保护。除了避开高危网红动作之外，日常护膝还可以做好这四件事。</p>
-<p>膝关节是人体主要承重关节，体重每增加10斤，膝关节的承重负担会额外增加30斤。长期超负荷易加速软骨磨损，诱发关节退变。减轻体重能帮助减少负重关节负担，减少膝关节磨损。</p>
-<p>日常饮食要均衡、营养。对于健康成年人来说，从牛奶、鱼类、鸡蛋、豆制品等食物中可以获取足够的钙和维生素D。</p>
-<p>而更年期女性、骨质疏松症患者以及吸收能力较差的老人，建议在医生指导下服用钙片；对于维生素D缺乏或不足者，建议在医生指导下服用维生素D补剂、多晒太阳。</p>
-<p>秋冬季节天气寒冷，可以通过穿秋裤、佩戴护膝等方式为膝盖保暖；而夏季虽然天气炎热，但空调、电扇使用频率增加，也可能会让膝盖受凉，可以在膝盖上盖条毛毯保暖。</p>
-<p>日常要避免久站、久走、久蹲，比如蹲在地板上擦地、长时间坐矮板凳，以免增加关节负担，加速关节退变。</p>
-<p>特别提醒：适当进行训练也能有效养护膝关节。</p>
-<p>弹力带抗阻训练能高效激活这些肌群，且坐姿练习安全性高，可居家练习。专家推荐两个针对性训练动作：弹力带坐姿伸膝、弹力带坐姿屈腿。</p>
-<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
-<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
-<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
-<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
-<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
-<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
-<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
-<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
-<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
-<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
-<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
-<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
-<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-27 08:28 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-27 22:24 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新网</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/jk/2026/09-27/10704321.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/science/noise-cameras-spreading-across-america" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-026-09-27-10704317-shtml-37714544513e1248" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="544" data-content-paragraphs="18" data-published-at="2026-09-27T00:08:08.000Z" data-time-source="publication">
+<div id="story-1-a767-e31ffbee769b-html-2a929c8d20015ef5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="553" data-content-paragraphs="4" data-published-at="2026-09-27T14:22:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-27 08:08</span>
+  <span class="news-meta-time">🕒 2026-09-27 22:22</span>
 </div>
 
-### [南部战区位黄岩岛周边海空域组织海空联合演训](https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml)
+### [德尔西·罗德里格斯政府在委内瑞拉再释放40名政治犯](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Il governo di Delcy Rodríguez rilascia altri 40 prigionieri politici in Venezuela</div>
 
-<div class="article-body" data-article-body="true"><p>中新网9月27日电 据“南部战区”微信公众号消息，9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。</p>
-<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
-<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
-<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
-<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
-<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
-<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
-<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
-<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
-<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
-<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
-<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
-<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
-<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+<div class="article-body" data-article-body="true"><p>在委内瑞拉政府与反对派第二轮谈判结束之后，德尔西·罗德里格斯临时政府启动了新一轮释放政治犯的行动。据多家追踪仍被关押在狱中异见人士状况的非政府组织称，涉及至少40名反对派人士。</p>
+<p>非政府组织“刑事论坛”（Foro Penal）主任贡萨洛·希米奥布（Gonzalo Himiob）在周六早些时候透露，已有“相当数量的被拘留者”获释；根据“正义、相遇与宽恕”（Justicia, Encuentro y Perdón）组织掌握的情况，这一数字至少为29人。与此同时，“政治犯自由委员会”（Clippve）在最近几小时内证实，此前关押在米兰达州埃尔罗德奥一号（El Rodeo I）监狱的7名政治犯已获释。在获释人员中，包括在狱中度过两年后的年轻女子古斯玛丽斯·萨帕塔（Gusmaris Zapata），她18岁时因在WhatsApp上接收了一张官方车辆照片而被捕。</p>
+<p>Clippve表示：“在我们庆祝被拘留者与家人团聚的同时，我们也要提醒大家，仍有数十名政治犯尚未重获自由。在确保所有人回家之前，我们将继续坚定且有组织地开展行动。”根据“正义、相遇与宽恕”组织在最新一轮放人前完成的统计，委内瑞拉各监狱中仍关押着450名异见人士，其中包括44名女性和20名外国人。</p>
+<p>版权所有 © ANSA通讯社 保留所有权利</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-27 08:08 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-27 22:22 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新网</span>
+  <span class="news-tag-pill">#ANSA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
 :::
 
 ::::
