@@ -39,14 +39,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **82** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **83** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-28 06:27 (UTC+8)
+- **最新归档时间**：2026-09-28 09:57 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-28 09:57 (UTC+8)" title="全球要闻情报简报 · 09:57" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-28 09:45 (UTC+8) 完成，共获得 20 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】委内瑞拉石油复苏可能耗资超过1000亿美元：特朗普政府将委内瑞拉新的石油秩序吹捧为重振这个全球最大原油资源持有国石油业的绝佳机会。在美国主导的行业重组中，俄罗斯和中国企业被逐出此前已获授予的特许经营区，同时石油巨头、最大的油田服务商以及相对不知名的新进入者纷纷达成一系列石油协议，目的都是提高委内瑞拉的石油产量，并将其中很大一部分出口到美国。上述协议包括与私营石油公司北美蓝色能源伙伴公司（North American Blue Energy Partners，NABEP）达成的一项；【undefined】职业摔跤明星、被称为Pac的本杰明·萨特利去世，年仅40岁：职业摔跤明星、被称为Pac的本杰明·萨特利去世，全精英摔跤（AEW）周日晚间宣布了这一消息。他40岁。；【undefined】《Out of the Park Baseball》让我即使在大都会队表现糟糕时也能享受棒球：本主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。 查看所有游戏评测 OOTP Baseball 是一款细节扎实、极度逼真的棒球模拟游戏，让你坐进总经理办公室。 该作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。 查看 Terrence O'Brien 的全部文章 如果你通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请参阅我们的道德声明。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】林赛·克兰西案唯一持不同意见陪审员的律师反驳其拒绝遵循法律的说法：林赛·克兰西谋杀案审判中唯一一名持不同意见陪审员的律师，正在反驳有关其当事人拒绝遵循法律的说法。这名律师告诉福克斯新闻主持人凯莉·麦肯尼，这名陪审员对自己的决定毫无疑问。；【undefined】卸任总统，将竞选总理，武契奇的求变之路：中新网9月28日电(郑云天)当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。随后，武契奇签署辞呈，正式辞去塞尔维亚总统职务，提前结束其第二个总统任期。根据此前宣布，他将竞选下届政府总理。；【undefined】月球明暗界线悖论：有一种光学错觉，被称为“月球明暗界线悖论”等。网上对此有大量讨论和描述，但没有任何一种说法能在我脑中讲通，所以我写了这个程序来弄清楚究竟是怎么回事。悖论如下：；【undefined】Engram是一款将破碎的AI幻觉变成音乐的采样器：来自该主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 查看全部娱乐内容 Thoughtful Things称，Engram是“潜在空间的现场录音机”，也是一款对微型AI模型进行电路弯曲的设备。 来自该作者的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 查看Terrence O'Brien的全部文章 音乐初创公司Thoughtful Things刚刚为其首款乐器Engram发起了Kickstarter众筹活动。它是一款采样
+
+**重点要闻索引：**
+- [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb) <span class="news-meta-time">🕒 2026-09-28 09:35</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) <span class="news-meta-time">🕒 2026-09-28 09:21</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-28 07:01</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1ws0oi5/trump_asked_chinas_president_if_he_wants_to_buy/) <span class="news-meta-time">🕒 2026-09-28 08:49</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-soil-health.html) <span class="news-meta-time">🕒 2026-09-28 08:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260928/trevoga-2120608376.html) <span class="news-meta-time">🕒 2026-09-28 09:31</span>
+:::
 :::timeline-item{start="2026-09-28 06:27 (UTC+8)" title="全球要闻情报简报 · 06:27" org="ARCHIVE"}
 **速报纪要：** 本时段重点聚焦美伊外交局势博弈、加拿大总理接受专访，以及澳大利亚濒危物种迁徙动向。美国总统特朗普透露预计下周与伊朗恢复谈判，同时加总理长篇访谈实录与生态观察引发关注。
 
@@ -643,18 +656,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/15/patients-health-doctors-doubt-on-nhs-streatment-endometriosis) <span class="news-meta-time">🕒 2026-09-15 21:22</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-hyperbird-imaging-platform-grape-diseases.html) <span class="news-meta-time">🕒 2026-09-15 21:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/zaharova-2117849403.html) <span class="news-meta-time">🕒 2026-09-15 21:36</span>
-:::
-:::timeline-item{start="2026-09-15 03:31 (UTC+8)" title="全球要闻情报简报 · 03:31" org="ARCHIVE"}
-**速报纪要：** 本小时重点资讯涵盖中东地缘安全与前沿材料科学领域：也门胡塞武装发起全面进攻后，沙特王储穆罕默德·本·萨勒曼向美国寻求增派军事援助；学术界在艺术史料分析与半导体共价有机框架（COF）材料合成方面取得最新研究进展。
-
-**关键信号：** 沙特阿拉伯王储因胡塞武装进攻向美国请求更多军事援助，反映出也门及周边区域安全态势的变化。；乌普萨拉大学科研人员通过材料科学手段分析署名“L daVinci”的历史画作颜料，为艺术品溯源提供技术依据。；圣地亚哥-德孔波斯特拉大学CiQUS团队成功研发无需化学掺杂的半导体共价有机框架制备新策略。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/sport-2117681157.html) <span class="news-meta-time">🕒 2026-09-15 03:26</span>
-- [TechCrunch (硅谷创业与资本)] [亚马逊Prime Video上线短视频新闻片段，正面迎战TikTok](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/) <span class="news-meta-time">🕒 2026-09-15 02:14</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-15 03:01</span>
-- [The Guardian Society (卫报社会与民生)] [阿莉·范蒂洛讣告](https://www.theguardian.com/society/2026/sep/14/ally-van-tillo-obituary) <span class="news-meta-time">🕒 2026-09-15 01:23</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-davinci-analysis-reveals-renaissance-pigments.html) <span class="news-meta-time">🕒 2026-09-15 03:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/festival-2117680954.html) <span class="news-meta-time">🕒 2026-09-15 03:24</span>
 :::
 ::::

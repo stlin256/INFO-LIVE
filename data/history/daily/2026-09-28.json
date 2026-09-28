@@ -1,5 +1,1547 @@
 [
   {
+    "timestamp": 1790560631796,
+    "timeDisplay": "2026-09-28 09:57 (UTC+8)",
+    "date": "2026-09-28",
+    "runId": "feed-20260928T014525193Z-dngqbp",
+    "generatedAt": "2026-09-28T01:57:11.796Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:45",
+      "lead": "本轮抓取于 2026-09-28 09:45 (UTC+8) 完成，共获得 20 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】委内瑞拉石油复苏可能耗资超过1000亿美元：特朗普政府将委内瑞拉新的石油秩序吹捧为重振这个全球最大原油资源持有国石油业的绝佳机会。在美国主导的行业重组中，俄罗斯和中国企业被逐出此前已获授予的特许经营区，同时石油巨头、最大的油田服务商以及相对不知名的新进入者纷纷达成一系列石油协议，目的都是提高委内瑞拉的石油产量，并将其中很大一部分出口到美国。上述协议包括与私营石油公司北美蓝色能源伙伴公司（North American Blue Energy Partners，NABEP）达成的一项",
+        "【undefined】职业摔跤明星、被称为Pac的本杰明·萨特利去世，年仅40岁：职业摔跤明星、被称为Pac的本杰明·萨特利去世，全精英摔跤（AEW）周日晚间宣布了这一消息。他40岁。",
+        "【undefined】《Out of the Park Baseball》让我即使在大都会队表现糟糕时也能享受棒球：本主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。 查看所有游戏评测 OOTP Baseball 是一款细节扎实、极度逼真的棒球模拟游戏，让你坐进总经理办公室。 该作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。 查看 Terrence O'Brien 的全部文章 如果你通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请参阅我们的道德声明。",
+        "【undefined】彻底从我们的 Bevy iOS crate 中移除 Swift：在这篇短文中，我们将介绍如何移除了 bevy_ios_* crate 中的 Swift 软件包。",
+        "【undefined】林赛·克兰西案唯一持不同意见陪审员的律师反驳其拒绝遵循法律的说法：林赛·克兰西谋杀案审判中唯一一名持不同意见陪审员的律师，正在反驳有关其当事人拒绝遵循法律的说法。这名律师告诉福克斯新闻主持人凯莉·麦肯尼，这名陪审员对自己的决定毫无疑问。",
+        "【undefined】卸任总统，将竞选总理，武契奇的求变之路：中新网9月28日电(郑云天)当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。随后，武契奇签署辞呈，正式辞去塞尔维亚总统职务，提前结束其第二个总统任期。根据此前宣布，他将竞选下届政府总理。",
+        "【undefined】月球明暗界线悖论：有一种光学错觉，被称为“月球明暗界线悖论”等。网上对此有大量讨论和描述，但没有任何一种说法能在我脑中讲通，所以我写了这个程序来弄清楚究竟是怎么回事。悖论如下：",
+        "【undefined】Engram是一款将破碎的AI幻觉变成音乐的采样器：来自该主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 查看全部娱乐内容 Thoughtful Things称，Engram是“潜在空间的现场录音机”，也是一款对微型AI模型进行电路弯曲的设备。 来自该作者的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 查看Terrence O'Brien的全部文章 音乐初创公司Thoughtful Things刚刚为其首款乐器Engram发起了Kickstarter众筹活动。它是一款采样"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "文章信息缺失，暂无法形成日尺度分析",
+      "lead": "当前证据包未提供目标文章标题、正文、来源、发布时间或可核验引用，无法在不编造证据的前提下提炼可靠主题。",
+      "themes": [
+        {
+          "name": "证据不足",
+          "analysis": "目标文章内容状态为缺失，事实、引语、实体、冲突与引用均为空。相关目录仅提供若干未翻译标题及零散摘要，信息不完整且缺乏来源与链接，暂不足以支持对事件、趋势或影响作出判断。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 82,
+      "completedTasks": 82,
+      "succeeded": 43,
+      "degraded": 39,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 82,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 706544,
+      "byRole": {
+        "translator": {
+          "attempts": 54,
+          "degraded": 27,
+          "succeeded": 27
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 1,
+          "degraded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 4,
+          "degraded": 4
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 82,
+          "degraded": 39,
+          "succeeded": 43
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-1-translator-1",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-14-translator-1",
+      "article-14-translator-2",
+      "article-15-translator-0",
+      "article-21-translator-0",
+      "article-23-translator-0",
+      "article-23-translator-1",
+      "article-24-translator-0",
+      "article-25-translator-0",
+      "article-29-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-32-translator-1",
+      "article-33-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-39-translator-0",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-7-source-positioner",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:06.259Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.048Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:06.269Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.074Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.739Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.890Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.763Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.040Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.842Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.215Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.742Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.074Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:10.330Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.620Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:06.795Z",
+        "lastSuccessAt": "2026-09-28T01:45:06.943Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.944Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.140Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.890Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.170Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.104Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.795Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.075Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.739Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.044Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.859Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.048Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.185Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:10.074Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.949Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:09.239Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.820Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:09.798Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.330Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.022Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.385Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.562Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.814Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.430Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.763Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:06.774Z",
+        "lastSuccessAt": "2026-09-28T01:45:06.795Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:05.396Z",
+        "lastSuccessAt": "2026-09-28T01:45:06.774Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.255Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.404Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.202Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.543Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.083Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.202Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.233Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.534Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.534Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.853Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.983Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.083Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:10.158Z",
+        "lastSuccessAt": "2026-09-28T01:45:12.203Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.337Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.451Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.562Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.742Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.543Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.657Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.657Z",
+        "lastSuccessAt": "2026-09-28T01:45:09.239Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:10.215Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.680Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.795Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.022Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.040Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.639Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.185Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.337Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.639Z",
+        "lastSuccessAt": "2026-09-28T01:45:09.017Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-28T01:45:08.451Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.404Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.842Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:05.394Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.044Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-28T01:45:08.554Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:05.395Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.430Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.853Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.975Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.170Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.255Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:06.943Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.104Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.385Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.554Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:08.140Z",
+        "lastSuccessAt": "2026-09-28T01:45:08.233Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:09.017Z",
+        "lastSuccessAt": "2026-09-28T01:45:09.798Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:09.163Z",
+        "lastSuccessAt": "2026-09-28T01:45:10.158Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.859Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.983Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:07.814Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.944Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:05.380Z",
+        "lastSuccessAt": "2026-09-28T01:45:06.259Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:05.393Z",
+        "lastSuccessAt": "2026-09-28T01:45:06.269Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T01:45:05.394Z",
+        "lastSuccessAt": "2026-09-28T01:45:07.562Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-n-medicare-budget-ntwnfb-10b36a4664fdbcac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Australia news live: Mike Baird resigns as Cricket Australia chair; Paramedics to lead in Victoria mental health call outs",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:35:29.000Z",
+        "pubTime": "2026-09-28 09:35",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/e79597339a5f0be71513392e9e54e99d64a52214/766_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=9dd418d9220ae9ab41f1688f9ccdcee2",
+        "fullContent": "Follow the day’s news live\n\nGet our breaking news email , free app or daily news podcast\n\nRBA expected to hike cash rate to 4.6%, its highest level since 2011\n\nAustralia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100 to typical monthly mortgage repayments.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Mike Baird辞去Cricket Australia主席职务。",
+          "护理人员将在维多利亚州主导心理健康呼叫处置。",
+          "来源叙事重点：聚焦澳大利亚当天多项公共事务与经济动态：Cricket Australia主席更替、维多利亚州心理健康呼叫处置安排，以及澳大利亚储备银行可能加息至4.6%及其对房价和抵押贷款负担的预期影响。报道框架以“实时新闻更新”和宏观经济后果为主，但所提供正文极为简短。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:35:29.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-lf-parking-car-evolution-1004dea70d653ee9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Self-parking car using genetic algorithm (2021)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:21:32.000Z",
+        "pubTime": "2026-09-28 09:21",
+        "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+        "imageUrl": null,
+        "fullContent": "In this article, we'll train the car to do self-parking using a genetic algorithm.\n\nWe'll create the 1st generation of cars with random genomes that will behave something like this:\n\nOn the ≈40th generation the cars start learning what the self-parking is and start getting closer to the parking spot:\n\nAnother example with a bit more challenging starting point:\n\nYeah-yeah, the cars are hitting some other cars along the way, and also are not perfectly fitting the parking spot, but this is only the 40th generation since the creation of the world for them, so be merciful and give the cars some space to grow :D\n\nYou may launch the 🚕 Self-parking Car Evolution Simulator to see the evolution process directly in your browser. The simulator gives you the following opportunities:\n\nThe genetic algorithm for this project is implemented in TypeScript. The full genetic source code will be shown in this article, but you may also find the final code examples in the Evolution Simulator repository.\n\nWe're going to use a genetic algorithm for the particular task of evolving cars' genomes. However, this article only touches on the basics of the algorithm and is by no means a complete guide to the genetic algorithm topic.\n\nHaving that said, let's deep dive into more details...\n\nStep-by-step we're going to break down a high-level task of creating the self-parking car to the straightforward low-level optimization problem of finding the optimal combination of 180 bits (finding the optimal car genome).\n\nHere is what we're going to do:\n\nTo be able to move, the car would need \"muscles\". Let's give the car two types of muscles:\n\nWith these two muscles the car can perform the following movements:\n\nIn our case, the muscles are receivers of the signals that come from the brain once every 100ms (milliseconds). Based on the value of the brain's signal the muscles act differently. We'll cover the \"brain\" part below, but for now, let's say that our brain may send only 3 possible signals to each muscle: -1, 0, or +1.\n\nFor example, the brain may send the signal with the value of +1 to the engine muscle and it will start moving the car forward. The signal -1 to the engine moves the car backward. At the same time, if the brain will send the signal of -1 to the steering wheel muscle, it will turn the car to the left, etc.\n\nHere is how the brain signal values map to the muscle actions in our case:\n\nYou may use the Evolution Simulator and try to park the car manually to see how the car muscles work. Every time you press one of the WASD keyboard keys (or use a touch-screen joystick) you send these -1, 0, or +1 signals to the engine and steering wheel muscles.\n\nBefore our car will learn how to do self-parking using its muscles, it needs to be able to \"see\" the surroundings. Let's give it the 8 eyes in a form of distance sensors:\n\nYou may use the Evolution Simulator and see how the color of each sensor changes based on how close the obstacle is.\n\nAt this moment, our car can \"see\" and \"move\", but there is no \"coordinator\", that would transform the signals from the \"eyes\" to the proper movements of the \"muscles\". We need to give the car a \"brain\".\n\nAs an input from the sensors, every 100ms the brain will be getting 8 float numbers, each one in range of [0...4]. For example, the input might look like this:\n\nEvery 100ms the brain should produce two integers as an output:\n\nEach number should be of the type MuscleSignal and might take one of three values: -1, 0, or +1.\n\nKeeping in mind the brain's input and output mentioned above we may say that the brain is just a function:\n\nWhere brainToMuscleSignal() is a function that converts raw brain signals (any float number) to muscle signals (to -1, 0, or +1 number) so that muscles could understand it. We'll implement this converter function below.\n\nThe main question now is what kind of a function the brainFunction() is.\n\nTo make the car smarter and its movements to be more sophisticated we could go with a Multilayer Perceptron. The name is a bit scary but this is a simple Neural Network with a basic architecture (think of it as a big formula with many parameters/coefficients).\n\nI've covered Multilayer Perceptrons with a bit more details in my homemade-machine-learning, machine-learning-experiments, and nano-neuron projects. You may even challenge that simple network to recognize your written digits.\n\nHowever, to avoid the introduction of a whole new concept of Neural Networks, we'll go with a much simpler approach and we'll use two Linear Polynomials with multiple variables (to be more precise, each polynomial will have exactly 8 variables, since we have 8 sensors) which will look something like this:\n\nThe cost of using the simpler function for the brain will be that the car won't be able to learn some sophisticated moves and also won't be able to generalize well and adapt well to unknown surroundings. But for our particular parking lot and for the sake of demonstrating the work of a genetic algorithm it should still be enough.\n\nWe may implement the generic polynomial function in the following way:\n\nThe car's brain in this case will consist of two polynomials and will look like this:\n\nThe output of a linearPolynomial() function is a float number. The brainToMuscleSignal() function need to convert the wide range of floats to three particular integers, and it will do it in two steps:\n\nTo do the first part of the conversion we need to introduce a Sigmoid Function which implements the following formula:\n\nIt converts the wide range of floats (the x axis) to float numbers with a limited range of (0...1) (the y axis). This is exactly what we need.\n\nHere is how the conversion steps would look on the Sigmoid graph.\n\nThe implementation of two conversion steps mentioned above would look like this:\n\n☝🏻 The main conclusion from the \"Eyes\", \"Muscles\" and \"Brain\" sections above should be this: the coefficients [e0, e1, ..., e8] and [w0, w1, ..., w8] defines the behavior of the car. These 18 numbers together form the unique car's Genome (or car's DNA).\n\nLet's join the [e0, e1, ..., e8] and [w0, w1, ..., w8] brain coefficients together to form a car's genome in a decimal form:\n\nLet's move one step deeper (to the level of the genes) and convert the decimal numbers of the car's genome to the binary format (to the plain 1s and 0s).\n\nI've described in the detail the process of converting the floating-point numbers to binary numbers in the Binary representation of the floating-point numbers article. You might want to check it out if the code in this section is not clear.\n\nHere is a quick example of how the floating-point number may be converted to the 16 bits binary number (again, feel free to read this first if the example is confusing):\n\nIn our case, to reduce the genome length, we will convert each floating coefficient to the non-standard 10 bits binary number (1 sign bit, 4 exponent bits, 5 fraction bits).\n\nWe have 18 coefficients in total, every coefficient will be converted to 10 bits number. It means that the car's genome will be an array of 0s and 1s with a length of 18 * 10 = 180 bits.\n\nFor example, for the genome in a decimal format that was mentioned above, its binary representation would look like this:\n\nOh my! The binary genome looks so cryptic. But can you imagine, that these 180 zeroes and ones alone define how the car behaves in the parking lot! It's like you hacked someone's DNA and know what each gene means exactly. Amazing!\n\nBy the way, you may see the exact values of genomes and coefficients for the best performing car on the Evolution Simulator dashboard:\n\nHere is the source code that performs the conversion from binary to decimal format for the floating-point numbers (the brain will need it to decode the genome and to produce the muscle signals based on the genome data):\n\nPreviously our brain function was working with the decimal form of engineCoefficients and wheelCoefficients polynomial coefficients directly. However, these coefficients are now encoded in the binary form of a genome. Let's add a decodeGenome() function that will extract coefficients from the genome and let's rewrite our brain functions:\n\n☝🏻 So, finally, we've got to the point when the high-level problem of making the car to be a self-parking car is broken down to the straightforward optimization problem of finding the optimal combination of 180 ones and zeros (finding the \"good enough\" car's genome). Sounds simple, doesn't it?\n\nWe could approach the problem of finding the \"good enough\" genome in a naive way and try out all possible combinations of genes:\n\nBut, let's do some math. With 180 bits and with each bit being equal either to 0 or to 1 we would have 2^180 (or 1.53 * 10^54) possible combinations. Let's say we would need to give 15s to each car to see if it will park successfully or not. Let's also say that we may run a simulation for 10 cars at once. Then we would need 15 * (1.53 * 10^54) / 10 = 2.29 * 10^54 [seconds] which is 7.36 * 10^46 [years]. Pretty long waiting time. Just as a side thought, it is only 2.021 * 10^3 [years] that have passed after Christ was born.\n\nWe need a faster algorithm to find the optimal value of the genome. This is where the genetic algorithm comes to the rescue. We might not find the best value of the genome, but there is a chance that we may find the optimal value of it. And, what is, more importantly, we don't need to wait that long. With the Evolution Simulator I was able to find a pretty good genome within 24 [hours].\n\nA genetic algorithms (GA) inspired by the process of natural selection, and are commonly used to generate high-quality solutions to optimization problems by relying on biologically inspired operators such as crossover, mutation and selection.\n\nThe problem of finding the \"good enough\" combination of genes for the car looks like an optimization problem, so there is a good chance that GA will help us here.\n\nWe're not going to cover a genetic algorithm in all details, but on a high level here are the basic steps that we will need to do:\n\nBefore launching the genetic algorithm let's go and create the functions for the \"CREATE\", \"SELECT\", \"MATE\" and \"MUTATE\" steps of the algorithm.\n\nThe createGeneration() function will create an array of random genomes (a.k.a. population or generation) and will accept two parameters:\n\nThere is a 50/50 chance for each gene of a genome to be either 0 or 1.\n\nThe mutate() function will mutate some genes randomly based on the mutationProbability value.\n\nFor example, if the mutationProbability = 0.1 then there is a 10% chance for each genome to be mutated. Let's say if we would have a genome of length 10 that looks like [0, 0, 0, 0, 0, 0 ,0 ,0 ,0 ,0], then after the mutation, there will be a chance that 1 gene will be mutated and we may get a genome that might look like [0, 0, 0, 1, 0, 0 ,0 ,0 ,0 ,0].\n\nThe mate() function will accept the father and the mother genomes and will produce two children. We will imitate the real-world scenario and also do the mutation during the mating.\n\nEach bit of the child genome will be defined based on the values of the correspondent bit of the father's or mother's genomes. There is a 50/50% probability that the child will inherit the bit of the father or the mother. For example, let's say we have genomes of length 4 (for simplicity reasons):\n\nIn the example above the mutation were not taken into account.\n\nHere is the function implementation:\n\nTo select the fittest individuums for further mating we need a way to find out the fitness of each genome. To do this we will use a so-called fitness function.\n\nThe fitness function is always related to the particular task that we try to solve, and it is not generic. In our case, the fitness function will measure the distance between the car and the parking spot. The closer the car to the parking spot, the fitter it is. We will implement the fitness function a bit later, but for now, let's introduce the interface for it:\n\nNow, let's say we have fitness values for each individuum in the population. Let's also say that we sorted all individuums by their fitness values so that the first individuums are the strongest ones. How should we select the fathers and the mothers from this array? We need to do the selection in a way, that the higher the fitness value of the individuum, the higher the chances of this individuum being selected for mating. The weightedRandom() function will help us with this.\n\nThe usage of this function is pretty straightforward. Let's say you really like bananas and want to eat them more often than strawberries. Then you may call const fruit = weightedRandom(['banana', 'strawberry'], [9, 1]), and in ≈9 out of 10 cases the fruit variable will be equal to banana, and only in ≈1 out of 10 times it will be equal to strawberry.\n\nTo avoid losing the best individuums (let's call them champions) during the mating process we may also introduce a so-called longLivingChampionsPercentage parameter. For example, if the longLivingChampionsPercentage = 10, then 10% of the best cars from the previous population will be carried over to the new generation. You may think about it as there are some long-living individuums that can live a long life and see their children and even grandchildren.\n\nHere is the actual implementation of the select() function:\n\nThe fitness of the car will be defined by the distance from the car to the parking spot. The higher the distance, the lower the fitness.\n\nThe final distance we will calculate is an average distance from 4 car wheels to the correspondent 4 corners of the parking spot. This distance we will call the loss which is inversely proportional to the fitness.\n\nCalculating the distance between each wheel and each corner separately (instead of just calculating the distance from the car center to the parking spot center) will make the car preserve the proper orientation relative to the parking spot.\n\nThe distance between two points in space will be calculated based on the Pythagorean theorem like this:\n\nThe distance (the loss) between the car and the parking spot will be calculated like this:\n\nSince the fitness should be inversely proportional to the loss we'll calculate it like this:\n\nYou may see the fitness and the loss values for a specific genome and for a current car position on the Evolution Simulator dashboard:\n\nLet's put the evolution functions together. We're going to \"create the world\", launch the evolution loop, make the time going, the generation evolving, and the cars learning how to park.\n\nTo get the fitness values of each car we need to run a simulation of the cars behavior in a virtual 3D world. The Evolution Simulator does exactly that - it runs the code below in the simulator, which is made with Three.js:\n\nAfter running the select() function, the generation array is sorted by the fitness values in descending order. Therefore, the fittest car will always be the first car in the array.\n\nThe 1st generation of cars with random genomes will behave something like this:\n\nThe cars are hitting some other cars along the way, and also are not perfectly fitting the parking spot, but this is only the 40th generation since the creation of the world for them, so you may give the cars some more time to learn.\n\nFrom generation to generation we may see how the loss values are going down (which means that fitness values are going up). The P50 Avg Loss shows the average loss value (average distance from the cars to the parking spot) of the 50% of fittest cars. The Min Loss shows the loss value of the fittest car in each generation.\n\nYou may see that on average the 50% of the fittest cars of the generation are learning to get closer to the parking spot (from 5.5m away from the parking spot to 3.5m in 35 generations). The trend for the Min Loss values is less obvious (from 1m to 0.5m with some noise signals), however from the animations above you may see that cars have learned some basic parking moves.\n\nIn this article, we've broken down the high-level task of creating the self-parking car to the straightforward low-level task of finding the optimal combination of 180 ones and zeroes (finding the optimal car genome).\n\nThen we've applied the genetic algorithm to find the optimal car genome. It allowed us to get pretty good results in several hours of simulation (instead of many years of running the naive approach).\n\nThe full genetic source code that was shown in this article may also be found in the Evolution Simulator repository. If you are one of those folks who will actually count and check the number of lines to make sure there are less than 500 of them (excluding tests), please feel free to check the code here 🥸.\n\nThere are still some unresolved issues with the code and the simulator:\n\nHowever, the purpose of this article was to have some fun while learning how the genetic algorithm works and not to build a production-ready self-parking Teslas. So, even with the issues mentioned above, I hope you've had a good time going through the article.\n\nSenior Software Engineer @ Uber\n\nGet my latest posts and project updates by email",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 92,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以自停车模拟器为例，展示如何将泊车行为建模为寻找180位基因组的优化问题，并使用遗传算法通过随机生成、选择、交叉和变异逐代改进车辆控制策略。文章重点是 TypeScript 实现、传感器—控制器—执行器的简化建模，以及遗传算法的可视化演示。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:21:32.000Z",
+            "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/"
+          }
+        ]
+      },
+      {
+        "id": "story-c-4120-8d0f-f0062835aa1b-3acd21e21940f738",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Healey to promise ‘new age of industrialisation’ with £6bn Royal Navy plan",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T23:01:05.000Z",
+        "pubTime": "2026-09-28 07:01",
+        "url": "https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01e37fec-8b69-4b48-bc01-2d496c7cbe52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Chancellor will pledge that work on building three new floating docks on the Clyde in Scotland will be carried out by British firms",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-28 07:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T23:01:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ident-if-he-wants-to-buy-6ced204b51fe6be9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump asked China’s president if he wants to buy US arms, ambassador says",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T00:49:54.000Z",
+        "pubTime": "2026-09-28 08:49",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ws0oi5/trump_asked_chinas_president_if_he_wants_to_buy/",
+        "imageUrl": "https://external-preview.redd.it/Qhi1eYZZpkfwcB7qG9gtK1LNxMMnUYgsM7AX9oxoLRo.jpeg?width=640&crop=smart&auto=webp&s=5275d5d6ad199f0e71bd3bb287516950db1bdf84",
+        "fullContent": "submitted by /u/pjw724 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-28 08:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1ws0oi5/trump_asked_chinas_president_if_he_wants_to_buy/",
+            "publishedAt": "2026-09-28T00:49:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-soil-health-html-53b73e04c2e58b73",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What the smell of a soil can tell us about soil health",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T00:30:06.000Z",
+        "pubTime": "2026-09-28 08:30",
+        "url": "https://phys.org/news/2026-09-soil-health.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-the-smell-of-a-so.jpg",
+        "fullContent": "Farmers used to sniff their soil to gauge how healthy it was. According to ecologist Rosa Boone, you can deduce a great deal from its smell: \"The fungi and bacteria present in the soil are important for soil health and are responsible for the soil's smell.\" Boone discovered that the smell of soil can be captured and analyzed in the lab, providing insights into these microbial communities. \"Monitoring soil life is becoming increasingly important, particularly in view of the forthcoming soil monitoring guidelines. My research shows that there is great potential for developing a sensor—an 'electronic nose'—that could be used to analyze microbial soil life directly, based on how it smells.\"",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-soil-health.html",
+            "publishedAt": "2026-09-28T00:30:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--trevoga-2120608376-html-7ec49e673e605659",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Липецкой области отменили ракетную опасность",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T01:31:02.000Z",
+        "pubTime": "2026-09-28 09:31",
+        "url": "https://ria.ru/20260928/trevoga-2120608376.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/02/18/1854150163_0:267:3072:1995_650x0_80_0_0_e389172e7029496dd8a3c9b3612d909e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 09:31 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/trevoga-2120608376.html",
+            "publishedAt": "2026-09-28T01:31:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hroughput-and-efficiency-e4204e16e2a35d5e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+        "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "sourceSlug": "nvidia",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "pubTime": "2026-09-28 09:00",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/MaxLPS-768x432.jpg",
+        "fullContent": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a protective buffer that can leave valuable infrastructure underused during normal operation. NVIDIA DSX MaxLPS uses policy-governed power sharing to allocate power across participating resources dynamically, enabling customers to deploy up to 40% more GPUs within the same approved power budget.\n\nThis technical walkthrough examines a joint NVIDIA and Nscale evaluation of this approach with Kimi K2.5 workloads running on NVIDIA GB300 NVL72 systems at Nscale’s data center at the Verne campus in Keflavík, Iceland, powered entirely by renewable energy. It covers the measured trade-offs between power and performance, explains the controls used to maintain electrical limits, and presents a repeatable validation method operators can use before deploying at scale.\n\nAn AI factory operates within a hierarchy of electrical limits. Utility service, substations, power-distribution equipment, racks, nodes, and GPUs all impose constraints. Operators must keep each managed boundary within its approved limit while meeting application throughput and latency objectives.\n\nStatic power planning typically reserves enough power for every node to reach its specified peak at the same time. This conservative approach is straightforward, but AI workloads rarely draw constant power. Training workloads move through compute, communication, synchronization, and checkpointing. Inference workloads alternate among prefill, decode, memory-bound work, network activity, and idle intervals. Even instances of the same model can draw different power as request shapes and concurrencies change.\n\nThis variability creates a gap between reserved peak power and actual consumption. With static per-node reservations, unused capacity inside one reservation cannot be applied to another node. The aggregate facility can remain below its limit while additional GPU capacity stays offline.\n\nDSX MaxLPS monitors actual power consumption and dynamically reallocates available power across participating resources while preserving the operator’s aggregate budget and policy boundaries.\n\nDSX MaxLPS combines chip, system, thermal, and software technologies to maximize AI factory output within land, power, and shell (LPS) constraints. Dynamic Power Software provides the control layer for policy-governed power allocation.\n\nThe control process has five technical elements:\n\nThis is coordinated allocation, not an increase in the site’s power supply. The control loop enables more productive work beneath the same managed power budget.\n\nFor the evaluation, Nscale deployed the MaxLPS software in its data center and collected telemetry while NVIDIA ran the workloads. The evaluation measured control behavior and workload trade-offs.\n\nThe evaluation used NVIDIA Blackwell Ultra GPUs, Kimi K2.5 in FP4, NVIDIA Dynamo, NVIDIA TensorRT LLM, an 8K input sequence length, and a 1K output sequence length. The workload mix combined high-throughput and low-latency inference instances, creating distinct power and service profiles within the managed group.\n\nThe static baseline used 35 four-GPU nodes, or 140 GPUs. It ran two high-throughput instances using 52 GPUs each and one low-latency instance using 36 GPUs. The DSX MaxLPS configuration used 48 four-GPU nodes, or 192 GPUs. It added a third 52-GPU high-throughput instance while retaining the same 36-GPU low-latency instance.\n\nJobs ran across four racks, with each distributed workload confined to a single rack in both configurations. This controlled for cross-rack performance differences. Confining distributed workloads to a single rack is not required when the test environment has been validated for equivalent performance across racks.\n\nThe team measured normalized aggregate and per-instance throughput, time to first token, end-to-end latency, interactivity, GPU, CPU, and rack power telemetry. Comparing these metrics prevents a throughput gain from hiding latency, stability, or power-compliance regressions.\n\nTable 1 compares capacity, throughput, and power use for the static baseline and DSX MaxLPS configurations.\n\nBoth configurations used the same 264.4 kW provisioned power budget. Throughput per provisioned watt divides normalized aggregate throughput by this fixed denominator. The baseline delivered 4.10 tokens/s/W, and DSX MaxLPS delivered 6.12 tokens/s/W, a 49.2% increase. Because the provisioned-power denominator remained unchanged, this percentage matches the aggregate-throughput increase.\n\nThe per-instance results remained effectively unchanged at the displayed precision. This shows that the larger managed fleet increased aggregate throughput without materially reducing the throughput of the existing high-throughput or low-latency instances.\n\nFor latency, P75 is the 75th-percentile result, meaning 75% of requests completed at or below that latency. P99 is the 99th-percentile result, representing tail behavior: 99% of requests completed at or below that latency, while the slowest 1% took longer. Median and P75 latency remained within 5% of baseline. P99 time to first token increased 17% from the 15.7-second baseline, showing the importance of evaluating tail latency alongside capacity and throughput.\n\nDynamic power allocation makes engineering trade-offs observable and controllable at the fleet level; it does not eliminate them.\n\nDSX MaxLPS uses previously unused headroom, so added capacity still increases average power utilization. The available headroom also depends on the workload mix: complementary power profiles create more opportunity than workloads that peak simultaneously. Operators should therefore test representative production workloads against the aggregate power limit. Typical AI factories run heterogeneous workloads with different power profiles. The study therefore used a workload mix designed to reflect that variability.\n\nStable median latency can mask changes in tail latency. In this evaluation, median and P75 latency remained within 5% of baseline, but P99 time to first token increased by 17%. Production acceptance criteria should be defined as part of the study.\n\nDynamic allocation depends on reliable telemetry. Missing, delayed, or incorrectly mapped measurements can undermine fleet-level decisions. For this evaluation, site-level telemetry was used to verify rack-level power measurements. Before deployment, operators should confirm that added throughput does not compromise service quality or compliance with power limits.\n\nTogether, these trade-offs define what operators should validate before deployment.\n\nUse a staged validation process with explicit boundaries and acceptance criteria.\n\nThis evaluation shows how DSX MaxLPS can reclaim stranded capacity in a power-constrained AI factory. The same policy-governed approach can increase useful compute across diverse environments. Operators can tune the optimal operating point for each deployment based on hardware, workload mix, software, cooling, network topology, and service objectives.\n\nDynamic allocation is an operational capability, but the site must be able to host the capacity it enables. Electrical distribution, cooling, network fabric, floor space, and rack positions should be sized for the validated lifecycle target even if fewer racks are populated on day one.\n\nFor future NVIDIA Vera Rubin NVL72 AI factories, DSX MaxLPS also combines dynamic power management with performance-per-watt techniques and infrastructure designed for 45°C liquid-cooling inlet operation. Any Vera Rubin capacity projection should remain separate from this measured GB300 NVL72 evaluation.\n\nDSX MaxLPS gives operators a framework for turning workload variability into managed capacity. The engineering work is to define the boundary, measure representative behavior, tune policy against service objectives, and prove compliance under both normal and adverse conditions.\n\nReview NVIDIA DSX MaxLPS and NVIDIA Dynamic Power Software documentation, then use this validation sequence to establish production operating limits for your own AI factory.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:00:00.000Z",
+            "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/"
+          }
+        ]
+      },
+      {
+        "id": "story-re-than-100-billion-html-c74d3662ca608000",
+        "title": "委内瑞拉石油复苏可能耗资超过1000亿美元",
+        "originalTitle": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T23:00:00.000Z",
+        "pubTime": "2026-09-28 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+        "imageUrl": null,
+        "fullContent": "The Trump Administration is touting the new oil order in Venezuela as a tremendous opportunity for reviving the industry in the world's biggest crude oil resource holder. The U.S.-led restructuring of the sector kicked out Russian and Chinese companies out of previously awarded concessions, and spurred a flurry of oil deals with oil majors, the biggest oilfield service providers, and relatively unknown newcomersall with the purpose of boosting Venezuela's oil production and exporting a large part of it to the United States. The deals include one with privately held oil company North American Blue Energy Partners NABEP announced by the White House last month as \"the biggest oil deal in world history.\" This deal could involve $100 billion in investment in new oil infrastructure after the new interim Venezuelan authorities granted NABEP 100-year concessions for 17 oil fields with proven reserves of approximately 65 billion barrels. NABEP, led by Venezuela-born businessman Alejandro Betancourt, says it is looking \"to rapidly expand its operations in Lake Maracaibo and the Orinoco Belt with the near-term goal of increasing production to more than 1 million barrels of oil per day.\" \"NABEP's $100 billion figure represents a long-term funding requirement, not committed near-term capital, and the company has not disclosed a detailed financing structure,\" intelligence firm Rystad Energy said. Related China Could Cut Fuel Exports in October as Inventories Plunge \"Rystad Energy favors investment programs tied to established operators and defined assets over larger ambitions requiring substantial external capital.\" Venezuela's current oil production is about 1.25 million barrels per day bpd. This is set to rise to around 1.6 million bpd by 2028 and 1.8 million bpd by 2030. Then, by 2035, Venezuela's crude oil production is expected to jump to around 2.58 million bpd, as greenfield developments will add to the current brownfield-led output growth in the near term, according to Rystad Energy's upside scenario. Venezuela certainly has the resource, but decades of mismanagement and infrastructure collapse at oil sites will need much more investment than the ones needed to reactivate rigs. As of August, when the \"biggest oil deal in history\" was announced, Venezuela had just two active drilling rigs, per Baker Hughes data. To reach Rystad's projections of 1.6 million bpd output by 2028 and 1.8 million bpd by 2030, activity would need to reach around 50 rigs by 2028 and nearly 80 by 2030. \"A number of newly identified opportunities were previously associated with Russian and Chinese operators, and further restructuring of some legacy positions remains possible as the new contractual framework develops,\" said Radhika Bansal, Senior Vice President, Oil and Gas, at Rystad Energy. Legacy producers and service providers have accelerated deal-making in Venezuela in recent weeks, encouraged by the changed geopolitical orientation and President Trump's stated goal to expel adversaries Russia and China out of the Western Hemisphere. Since \"the biggest oil deal in world history\" announcement in August, Chevron has pledged over $7 billion in investment over the next five years and more than doubled its production in Venezuela to about 600,000 bpd. Continental Resources this week announced a Memorandum of Understanding with state oil firm PDVSA to operate and develop the Ayacucho 2 Block in the prolific Orinoco Oil Belt. Ayacucho 2, which Continental Resources will operate with a 100% interest, has an estimated 30 billion barrels of resource in place. Italy's Eni this month signed a strategic contract in Venezuela to become the operator of the giant Junn-5 oil field in the Orinoco Belt. Junn-5, a heavy oil field containing 35 billion barrels of certified oil in place, currently produces around 12,000 bpd. Oilfield services giants Halliburton and SLB have also signed deals to pursue oil and gas development opportunities and activate rigs in Venezuela. The first stage of Venezuela's oil recovery would be restarting mothballed projects and increasing production from operational fields. Then billions of U.S. dollars will be needed to repair dilapidated infrastructure and build new processing sites and pipelines to have Venezuela's heavy oil flow. Greenfield development of newly awarded blocks will take years and even more billions of dollars. The pace of Venezuela's oil production recovery \"will remain conditional on actual capital deployment and Venezuela's ability to rebuild drilling, services and infrastructure capacity,\" Rystad Energy said. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "特朗普政府将委内瑞拉新的石油秩序吹捧为重振这个全球最大原油资源持有国石油业的绝佳机会。在美国主导的行业重组中，俄罗斯和中国企业被逐出此前已获授予的特许经营区，同时石油巨头、最大的油田服务商以及相对不知名的新进入者纷纷达成一系列石油协议，目的都是提高委内瑞拉的石油产量，并将其中很大一部分出口到美国。上述协议包括与私营石油公司北美蓝色能源伙伴公司（North American Blue Energy Partners，NABEP）达成的一项协议。白宫上月宣布，该协议是“世界历史上最大的石油交易”。在委内瑞拉新的临时当局向NABEP授予17个油田、为期100年的特许经营权后，这项交易可能涉及1000亿美元的新石油基础设施投资；这些油田的探明储量约为650亿桶。由出生于委内瑞拉的商人亚历杭德罗·贝坦科特领导的NABEP表示，公司正寻求“迅速扩大在马拉开波湖和奥里诺科带的业务，近期目标是将产量提高到每天超过100万桶石油”。情报公司Rystad Energy表示：“NABEP所称的1000亿美元代表长期资金需求，并非近期已承诺的资本；该公司也没有披露详细的融资结构。”\n\n相关内容：中国可能因库存暴跌而在10月削减燃料出口\n\n“Rystad Energy更倾向于支持与成熟运营商和明确资产挂钩的投资计划，而不是需要大量外部资本、目标更为宏大的计划。”\n\n委内瑞拉目前的石油产量约为每天125万桶。预计到2028年将升至约160万桶，到2030年将升至180万桶。根据Rystad Energy的上行情景，到2035年，随着新油田项目投产，在短期内由老油田主导的产量增长基础上进一步增加产量，委内瑞拉原油产量预计将跃升至约每天258万桶。\n\n委内瑞拉当然拥有资源，但数十年的管理不善以及石油生产地的基础设施崩溃，意味着所需投资将远远超过重新启动钻井平台所需的资金。截至8月——也就是“历史上最大的石油交易”宣布之时——根据贝克休斯的数据，委内瑞拉只有两座正在运行的钻井平台。若要达到Rystad预测的产量目标，即2028年每天160万桶、2030年每天180万桶，到2028年钻井活动需要增至约50座钻井平台，到2030年则接近80座。\n\nRystad Energy石油和天然气业务高级副总裁拉迪卡·班萨尔表示：“一些新近确认的机遇此前与俄罗斯和中国运营商有关，随着新的合同框架逐步形成，部分遗留权益仍可能进一步重组。”\n\n受到地缘政治取向改变以及特朗普总统提出的将俄罗斯和中国这两个对手逐出西半球这一目标的鼓舞，传统石油生产商和服务提供商近几周加快了在委内瑞拉的交易步伐。\n\n自8月宣布“世界历史上最大的石油交易”以来，雪佛龙承诺未来5年投资超过70亿美元，并已将其在委内瑞拉的产量增加一倍以上，达到约每天60万桶。本周，大陆资源公司宣布与委内瑞拉国家石油公司（PDVSA）签署谅解备忘录，将负责运营和开发奥里诺科石油带内的阿亚库乔2区块。阿亚库乔2区块的原地资源量估计为300亿桶，大陆资源公司将以100%的权益负责运营该区块。\n\n意大利埃尼公司本月在委内瑞拉签署了一项战略合同，将成为奥里诺科带巨型胡宁5号油田的运营商。胡宁5号是一个重油田，含有350亿桶经认证的原地石油资源，目前产量约为每天1.2万桶。\n\n油田服务巨头哈里伯顿和SLB也已签署协议，以寻求石油和天然气开发机会，并在委内瑞拉重新启动钻井平台。\n\n委内瑞拉石油复苏的第一阶段将是重启闲置项目，并提高在产油田的产量。随后，委内瑞拉还需要数十亿美元的美国资金，用于修复破败的基础设施，并建设新的处理设施和管道，以使委内瑞拉的重油能够流动。新获授区块的绿地开发将耗时多年，并需要更多数十亿美元的投资。\n\nRystad Energy表示，委内瑞拉石油产量复苏的速度“仍将取决于实际资本投入，以及委内瑞拉重建钻井、服务和基础设施能力的情况”。\n\n作者：Tsvetana Paraskova，Oilprice.com",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 13,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html"
+          }
+        ]
+      },
+      {
+        "id": "story-how-to-test-murphy-s-law-7a1dd5ddcd390865",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Syncing Rust GCC backend or how to test Murphy's law",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T00:10:55.000Z",
+        "pubTime": "2026-09-28 08:10",
+        "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law",
+        "imageUrl": null,
+        "fullContent": "This blog post is about the Rust GCC backend (not to be confused with gccrs which is a Rust front-end for the GCC compiler), how we synchronize its repository with Rust's and how everything went so wrong that it took us 2 months to be able to finally make it. A good illustration of Murphy's law:\n\nAnything that can go wrong will go wrong.\n\nThe Rust GCC backend is developped in its own repository: https://github.com/rust-lang/rustc_codegen_gcc/. It allows us to experiment things without having to worry about breaking Rust's CI. Meaning these changes are for now only present in the GCC backend repository.\n\nSince it's a code generator backend (I'll abbreviate it as \"codegen\" from now on) of the Rust compiler, its source code is also present in the Rust compiler repository: https://github.com/rust-lang/rust/tree/main/compiler/rustc_codegen_gcc. This folder contains the exact same content as our repository... most of the time. When the compiler adds a new feature, clean things up, etc, it sometimes need to be reflected in the codegens: LLVM, cranelift and GCC. And so we end up with changes only present in the Rust repository.\n\nSo both repositories have unique changes, and we need to merge them at some point so both repositories are in sync with each other.\n\nNow comes the \"fun\" part: syncing changes between these two repositories. We use the git subtree feature. Never heard about it? No surprise, it's an incomplete feature (doesn't work well with big repositories). You can see the pull request fixing it on the git repository here. So you need to clone the git repository, checkout on this branch, build this git version and have it somewhere locally to use it when needed. We have instructions on how to do all that here.\n\nSo once you have the patched git ready, next step is to merge the Rust repository changes into the rustc_codegen_gcc repository:\n\nOnce Rust's changes are merged into the GCC backend, we can send rustc_codegen_gcc changes into Rust's:\n\nSince rustc_codegen_gcc targets a specific GCC version (our own fork which includes unmerged changes from upstream GCC), we also need to update the Rust's GCC submodule:\n\nWe commit the change, we check it compiles fine and then we can push.\n\nOne last thing to do: once the pull request on the Rust repository is merged, we merge the merge commit back into the rustc_codegen_repository:\n\nNow time to talk about the last sync and why I mentioned Murphy's law.\n\nSo, 24th of July 2026, I opened #159844. First issue we encountered: license issue. We copied a file used to know which features some CPUs had. After (legal) discussions, this was solved on the 31st of July.\n\nIn parallel we had some CI mirroring issues because the new GCC version we used needed some \"more up-to-date\" packages. To reduce CI flaky error for network, Rust infra provides a mirror which is often much more reliable than directly downloading from an external source (doesn't change location and a lot less traffic too).\n\nWhen we update the GCC version, the Rust's CI re-build it completely so it can be downloaded by Rust developers who work on the GCC backend. And the new GCC version needed a newer make than the one available in the docker image we used. So: we add the new make source code to our mirror, we build it into our docker image and then we build GCC as we did before.\n\nWith this, all fixed! It got merged on the 3rd of August. 3 issues so far, not great but not the worst. So far so good.\n\nNow as you might have guessed, things didn't stop there.\n\nAs soon as it was merged, I got pinged on zulip on the infra team channel because the CI was completely broken and error messages seemed related to GCC. So we decided the revert the sync pull request. Of course, when trying to revert something using the github UI:\n\nCannot create ref due to creations being restricted.\n\nSo after doing it by hand: #160468, CI was fixed, everything went back to normal. Except the sync is still not done and we still had no clue why the CI succeeded for the sync pull request. After some investigation, we realized that the built GCC didn't have some features enabled, making some tests fail. Big question was: why did the sync CI succeeded then? Well, that allowed us to discover a bug in the CI caching. So once the caching issue was fixed, only one bug remains: the GCC build was done incorrectly.\n\nInterestingly enough, when you build GCC, it configures itself depending on the tools available on your system. If your linker doesn't support retain, then this feature is disabled. Recently we added support for \"externally implementable items\" in the GCC backend... which uses retain (if you're interested about this, the pull requests for this feature in GCC backend are gcc#88, gcc#89, cg_gcc#921 and cg_gcc#962). So the related tests were unignored for the GCC backend in the Rust's repository, and failed.\n\nSo the first thing to do was to fix the build of GCC in our CI by installing a newer version of binutils, which I did in #161006 on the 12th of August. After a lot of tries, we were able to make it work and it was merged on the 17h of August.\n\nLast blocker removed! Oh wait. It broke miri build. Reverting!\n\nInstead of installing it in replacement of the installed binutils in docker, why not only using it for the GCC build to limit its scope? Let's try that! Done in #161243 and merged on the 21st of August.\n\n... But again miri seems broken! Luckily this time it was only bad timing: it was actually another unrelated pull request updating the cc crate which happened to be merged just after ours. Big relief.\n\nSo much time has passed since then that we needed to sync again changes from the Rust repository into rustc_codegen_gcc repository. So we opened cg_gcc#959. Aaaaand... it failed. A change in Rust's bootstrap broke the handling of the sysroot (in short: where rustc is supposed to look for libraries) and could not find GCC's library anymore. It was fixed in #162152 on the 3rd of September.\n\nTime to try for a new Rust to rustc_codegen_gcc sync: cg_gcc#972, which failed too. Problem this time is that we need to use the same LLVM version in rustc_codegen_gcc as in Rust's because we use LLVM tools for some tests (FileCheck for assembly tests for example).\n\nSo after an update of LLVM and of rust version we use to build rustc_codegen_gcc, we opened a new sync: cg_gcc#974. This time it worked! \\o/ It was merged on the 8th of September.\n\nSo time to try again the subtree sync (rustc_codegen_gcc to Rust) with #162499. CI failed because of some run-make tests (a testsuite in Rust). Ok, that one is on me. Between the last fix and this sync, I fixed a bug in Rust's bootstrap which was preventing other codegen backends than LLVM from running the run-make tests in #162482.\n\nSo taking that into account, added a commit to ignore these tests for the GCC backend until it's fixed on our side.\n\nNow let's run the CI once again... Failed again! This time it's because in the meantime, we updated the GCC version in rustc_codegen_gcc and it requires a newer make version. So be it! To make sure it didn't break things to update make version, I opened #163031 with just this change.\n\nNo problem apparently. Oh well, time to try to merge the sync then!\n\nOn the 22nd of September, #162499 was merged and the sync was finally finished!\n\nThis has been quite the unlucky stroke! But along the way we improved Rust's CI, uncovered caching issues, fixed some testsuites bugs/limitations. So all in all, even if exhausting, it was quite rewarding.\n\nHowever, this sync underlined that this process has too many issues and that we should move to something else. Luckily, a few subtrees have already migrated to josh so we're planning to do the same for rustc_codegen_gcc soon.\n\nCat was too asleep to provide some luck.\n\n© Copyright 2012-2026 Guillaume Gomez",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T00:10:55.000Z",
+            "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law"
+          }
+        ]
+      },
+      {
+        "id": "story-ble-limiting-global-html-a155197ede3a25b0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Who is responsible for limiting global warming to 1.5°?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:00:01.000Z",
+        "pubTime": "2026-09-28 05:00",
+        "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/global-warming-1.jpg",
+        "fullContent": "Even if industry rapidly becomes more sustainable, households will still need to change their lifestyles to meet climate targets. Industrial ecologist Stephanie Cap warns that households cannot do this alone: Businesses and governments must create the conditions to make these changes possible. Cap defends her dissertation titled \"Everything Must Change: 1.5°C decarbonisation scenarios across industries and households\" on Oct. 1.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+            "publishedAt": "2026-09-27T21:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-star-known-pac-dead-40-56109b9fa2416c52",
+        "title": "职业摔跤明星、被称为Pac的本杰明·萨特利去世，年仅40岁",
+        "originalTitle": "Benjamin Satterley, pro wrestling star known as Pac, dead at 40",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:29:18.000Z",
+        "pubTime": "2026-09-28 09:29",
+        "url": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/adrian-neville-wrestlemania-33-orlando-fla.jpg?ve=1&tl=1",
+        "fullContent": "Benjamin Satterley, the pro wrestling star known as Pac, has died, All Elite Wrestling (AEW) announced on Sunday night. He was 40.\n\nAEW made the tragic announcement on its social media.\n\nCLICK HERE FOR MORE OUTKICK PRO WRESTLING COVERAGE\n\n\"All Elite Wrestling is saddened to announce the passing of Benjamin Satterley, aka Pac,\" the company said. \"A native of Newcastle upon Tyne, England, Satterley began his wrestling career in 2004 and went on to perform for wrestling organizations all over the world, captivating fans with innovative high-flying moves and incredible in-ring ability.\n\n\"Pac signed with All Elite Wrestling in 2019 and held multiple AEW Championships and competed in some of the most memorable matches in AEW history. Our condolences go out to Satterley’s family, friends and fans.\"\n\nTHE CRAIG CARTON SHOW–UNFILTERED, UNAPOLOGETIC AND UNMISSABLE. DOWNLOAD HIS DAILY PODCAST NOW!\n\nThe circumstances behind Pac’s death were unclear. He challenged Andrade El Idolo for the AEW National Championship at All Out, which occurred on Saturday in Chicago.\n\nPac was one of the first wrestlers to sign with All Elite Wrestling in 2019. He was a two-time trios champion and the inaugural all-Atlantic champion.\n\nBefore wrestling in AEW, he was with WWE and known as Adrian Neville.\n\nSatterley was a two-time cruiserweight champion, an NXT champion and two-time NXT tag team champion.",
+        "fullTranslation": "职业摔跤明星、被称为Pac的本杰明·萨特利去世，全精英摔跤（AEW）周日晚间宣布了这一消息。他40岁。\n\nAEW在社交媒体上发布了这一令人悲痛的消息。\n\n点击这里获取更多OutKick职业摔跤报道\n\n该公司表示：“全精英摔跤对本杰明·萨特利（又名Pac）的去世深感悲痛。萨特利出生于英格兰纽卡斯尔，他于2004年开始职业摔跤生涯，随后在世界各地的摔跤组织中登台竞技，凭借创新的高飞动作和出色的擂台能力赢得了众多粉丝的喜爱。\n\n“Pac于2019年与全精英摔跤签约，曾多次赢得AEW冠军，并参加过AEW历史上最令人难忘的一些比赛。我们向萨特利的家人、朋友和粉丝表示哀悼。”\n\n《克雷格·卡顿秀》——不加过滤、毫不道歉、不容错过。立即下载他的每日播客！\n\nPac去世的具体原因尚不清楚。此前，他曾在周六于芝加哥举行的All Out赛事中挑战安德拉德·埃尔·伊多洛，争夺AEW全国冠军。\n\nPac是2019年最早与全精英摔跤签约的摔跤手之一。他曾两次获得三人组冠军，并成为首届全大西洋冠军。\n\n在AEW摔跤之前，他曾效力于WWE，并以阿德里安·内维尔之名为人所知。\n\n萨特利曾两次获得轻量级冠军、一次NXT冠军以及两次NXT双打冠军。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：以突发讣闻为核心，强调Pac在AEW及WWE的职业成就、比赛经历和行业影响；报道将AEW公告作为主要信息来源，并提到他去世前一天参加了All Out赛事。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:29:18.000Z",
+            "url": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40"
+          }
+        ]
+      },
+      {
+        "id": "story-zy-sim-video-game-review-8c713bebedaca020",
+        "title": "《Out of the Park Baseball》让我即使在大都会队表现糟糕时也能享受棒球",
+        "originalTitle": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:59:57.000Z",
+        "pubTime": "2026-09-28 05:59",
+        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Games Review\n\nOOTP Baseball is a nitty gritty hyper-realistic baseball sim that puts you in the GMs office.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nIf you were to ask me what game or game series I’ve sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn’t like MLB The Show or Super Mega Baseball. It’s not graphically impressive. It’s not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It’s fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\n\nYou can play individual games and dig into play-by-play managing in OOTP if you want. But that becomes tedious. And frankly, it’s not where the game is the most fun. Instead, I think the game is at its best when you sit in the GM’s chair and maybe make some helpful “suggestions” about how to structure the lineup or bullpen.\n\nThe UI is complicated and dense. 90 percent of the time, you’re just looking at rows of stats and scouting reports. And the level of detail is deep. OOTP includes not just current MLB players, but historical MLB players, all minor league teams, Korea’s KBO League, and even the entire World Baseball Classic.\n\nThere’s something thrilling about digging through all this info and trying to find that diamond in the rough during a draft. Someone who might become the new franchise player for your favorite team in this alternate universe. Deciding whether to bet on that prospect developing into a superstar, or to trade them for an undeniable big-league All-Star is stressful. And you even have to worry about fans abandoning you if you fail to re-sign their favorite player.\n\nOn my Mets, Brandon Nimmo isn’t just a good player, he’s a damned superstar. Kodai Senga has won three Cy Young Awards. I signed Juan Soto, but also traded a raft of mid-tier prospects for Ronald Acuña Jr., made the playoffs four years in a row, and eventually won a World Series. (Look, as a Mets fan, I need this fantasy world, don’t harsh my vibe.)\n\nPerhaps the best part of OOTP Baseball, though, is that it kinda lets you play however you want. It’s deeply customizable. You can manually play every game if you want. Or you can speed-simulate entire seasons in a couple of hours. Want an easier experience where players don’t get hurt? Turn down or off injuries. Don’t want to worry about budgets? Play in commissioner mode and tell the team owner where to stick it. And because it mostly just sits there, statically waiting for you, it’s easy to just leave it running in the background and dip in and out when you’ve got a few spare minutes.\n\nOOTP Baseball is a cozy sim for a very particular brand of sports nerd. If you love fantasy baseball and wish you could play it year-round (and don’t want to deal with friends arguing about whether their bid for Alonso came in on time), or maybe you dig the idea of a cozy game like Tiny Bookshop, but wish they had a more Sabermetric bent, OOTP Baseball might be for you.\n\nThe current version, OOTP Baseball 27, is available now on Steam or directly from the developer.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "本主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。\n查看所有游戏评测\nOOTP Baseball 是一款细节扎实、极度逼真的棒球模拟游戏，让你坐进总经理办公室。\n该作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。\n查看 Terrence O'Brien 的全部文章\n如果你通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请参阅我们的道德声明。\n\n如果你问我玩得时间最多的游戏或游戏系列是什么，答案很简单：Out of the Park Baseball（OOTP）。据 Steam 统计，我玩过这款游戏的不同版本，加起来大约有 2300 个小时。OOTP 和《MLB The Show》或《Super Mega Baseball》不是一回事。它的画面并不出众，也不是那种简单直接、充满街机乐趣的游戏。它基本上就是一张假装成电子游戏的电子表格。它是幻想棒球，只不过你不必等上六个月，才能知道那个在选秀中看走眼的球员会让你多么失望，因为你只需几个小时，就能打完整个赛季。\n\n如果你愿意，也可以在 OOTP 里亲自进行单场比赛，深入参与逐球管理。但这很快就会变得乏味。坦率地说，这也不是这款游戏最有趣的地方。相反，我认为游戏最精彩的时刻，是你坐在总经理的位置上，适时对阵容或牛棚的安排提出一些有帮助的“建议”。\n\n游戏界面复杂而且信息密集。90% 的时间里，你只是在查看一行行的数据和球探报告。而且，游戏的细节深度非常惊人。OOTP 收录的不只是现役 MLB 球员，还包括历史上的 MLB 球员、所有小联盟球队、韩国 KBO 联盟，甚至完整的世界棒球经典赛。\n\n翻阅这些信息，并试图在选秀中找到那颗未经雕琢的宝石，会让人感到兴奋。在这个平行宇宙里，他可能会成为你最喜欢球队的新核心。你必须决定，是押注这名新秀最终成长为超级巨星，还是把他交易出去，换来一名毋庸置疑的大联盟全明星——这让人压力很大。而且，如果你没能重新签下球迷最喜欢的球员，还得担心球迷会弃你而去。\n\n在我的大都会队阵容里，布兰登·尼莫不只是一名优秀球员，他简直就是超级巨星。千贺泷大赢得了三座赛扬奖。我签下了胡安·索托，还用一大批中等水平的新秀换来了罗纳德·阿库尼亚二世，连续四年打进季后赛，最终赢得了世界大赛冠军。（听着，作为一名大都会队球迷，我需要这个幻想世界，别破坏我的兴致。）\n\n不过，OOTP Baseball 最棒的地方或许在于，它在某种程度上允许你随心所欲地游玩。游戏拥有极高的自定义空间。如果你愿意，可以手动进行每一场比赛；也可以在几小时内快速模拟完整赛季。想要更轻松的体验，不希望球员受伤？那就调低受伤概率，或者直接关闭伤病。没兴趣操心预算？那就进入总经理模式，告诉球队老板爱怎么着怎么着。由于游戏大多数时候只是静静地等待你的操作，你很容易把它放在后台运行，有几分钟空闲时就进去玩一会儿，再随时退出。\n\nOOTP Baseball 是一款面向特定类型体育宅的温馨模拟游戏。如果你喜欢幻想棒球，希望全年都能玩（又不想处理朋友们争论他们给阿隆索的报价是否及时提交），或者你喜欢《Tiny Bookshop》这类温馨游戏的理念，却希望游戏更偏向 Sabermetrics（棒球统计分析），那么 OOTP Baseball 可能正适合你。\n\n当前版本 OOTP Baseball 27 现已在 Steam 或开发商处直接发售。\n\n免费获取最重要新闻的每日摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "来源叙事重点：将《Out of the Park Baseball》定位为面向深度棒球迷和数据爱好者的高拟真、可定制“舒适型模拟游戏”。重点强调其总经理视角、庞大的球员与联赛数据、选秀和交易决策、快速模拟赛季以及可调节规则带来的自由度；同时承认其界面复杂、统计信息密集、画面和街机式即时娱乐性较弱。作者还通过自己作为纽约大都会队球迷的虚拟战绩，突出游戏满足体育幻想和情绪慰藉的功能。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T21:59:57.000Z",
+            "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:00:00.000Z",
+        "pubTime": "2026-09-28 06:00",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-04-bevy-ios-crates-objc2-cb672a40efd1b732",
+        "title": "彻底从我们的 Bevy iOS crate 中移除 Swift",
+        "originalTitle": "Dropping Swift entirely from our Bevy iOS crates",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T23:22:45.000Z",
+        "pubTime": "2026-09-28 07:22",
+        "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
+        "imageUrl": null,
+        "fullContent": "In this short post we look at how we got rid of the Swift packages in our bevy_ios_* crates.\n\nMost of them we used to ship in a tandem: a Rust crate on crates.io and a Swift package that you had to add to your xcode project via SPM. Over the last weeks we released them again, this time without that second half.\n\nInstalling them is now just cargo add.\n\nThe language barrier itself did not go anywhere, we still cross it on every call. What changed is that we do not have to build and ship that crossing ourselves anymore.\n\nThe platform side lived in that package, written in Swift or Objective-C, and rust could only reach into it through C symbols. So every crate came with its own hand-written bridge and over the years we ended up with four different ones:\n\nThey all had the same downsides:\n\nAll of it is now objc2 and its generated framework bindings: objc2-ui-kit, objc2-user-notifications, objc2-game-kit and objc2-store-kit. Apple's frameworks are Objective-C anyway, and unlike Swift, Objective-C has a dynamic runtime you can bind against generically: selectors, type encodings, objc_msgSend. That is what objc2 does for us under the hood, once, for every framework. The bridge is a dependency now instead of a second thing we ship.\n\nMads Marquart, who maintains objc2, gave a talk about exactly this at our Bevy Meetup #13: Bevy on iOS - in pure Rust. Well worth a watch.\n\nOur existing bevy_ios_app_delegate crate was built that way already. Our previous post on iOS deep-linking goes into detail here.\n\nLets look at the smallest crate first. bevy_ios_safearea used to be four Swift functions like this one:\n\nplus their extern \"C\" declarations on the rust side, plus a Package.swift, plus the SPM step in your project. Today this is all it takes:\n\nSo far this is just rust calling into the platform. The other direction is what most of the protobuf and swift-bridge machinery was there for.\n\nWith objc2 we can define an Objective-C class in rust and hand it to UIKit as a delegate:\n\nThe delegate above sends the Event off and calls the completion handler. send_event is our own little helper on top of bevy_channel_message, it grabs the sender that our plugin put in place when it was built. So our Events end up in Bevy just like before.\n\nAll in all we deleted 2809 lines from bevy_ios_notifications, 1615 of them a single generated Data.pb.swift file. bevy_ios_gamecenter lost 4430 lines!\n\nRemember the push notification token from the deep-linking post? It is done now.\n\nThose tokens are only handed to the UIApplicationDelegate, so instead of swizzling from Swift we add those two callbacks to whatever delegate the app has and install our own if there is none. If bevy_ios_app_delegate already set one up we hook into that one.\n\nYou don't have to add an SPM package anymore, no linking GameKit or StoreKit by hand and no screenshots in the README. There is just one version left to get right instead of two.\n\nAnd bevy_ios_gamecenter and bevy_ios_iap build for the simulator again.\n\nbevy_ios_iap is the one exception. StoreKit 2 is Swift only, there is no Objective-C runtime for objc2 to bind against, so here we are back to writing the bridge ourselves.\n\nSo this crate keeps a small Swift shim. But that shim now lives inside the crate: build.rs compiles it with swiftc and links it statically.\n\nThe two sides talk over a hand-written C ABI carrying JSON.\n\nNot pretty, but you still just cargo add bevy_ios_iap - no SPM package, no .xcframework release. This one is on main and not released yet.\n\nWe did not change the public APIs much, bevy_ios_notifications is the exception here so check its changelog. If you are using any of these crates go and delete the SPM dependency from your xcode project and bump the rust one.\n\nThanks to the objc2 crate for making all of this possible. Adding an iOS crate to your bevy game is just cargo add now!\n\nDo you need support building your Bevy or Rust project? Our team of experts can support you! Contact us.",
+        "fullTranslation": "在这篇短文中，我们将介绍如何移除了 bevy_ios_* crate 中的 Swift 软件包。\n\n过去，我们发布的大多数组件都采用配套形式：一个发布在 crates.io 上的 Rust crate，以及一个需要通过 SPM 添加到 Xcode 项目中的 Swift 软件包。过去几周，我们重新发布了这些组件，这一次不再包含后者。\n\n现在，安装它们只需执行 cargo add。\n\n语言障碍本身并没有消失，我们仍然要在每次调用时跨越这道障碍。变化在于，我们不再需要自行构建并发布这个跨语言连接层。\n\n平台侧代码位于那个软件包中，以 Swift 或 Objective-C 编写，而 Rust 只能通过 C 符号访问它。因此，每个 crate 都带有一套手写的桥接代码，多年来我们最终形成了四种不同的桥接方式：\n\n它们都有相同的缺点：\n\n现在，这些工作全部交给 objc2 及其生成的框架绑定来完成：objc2-ui-kit、objc2-user-notifications、objc2-game-kit 和 objc2-store-kit。苹果的框架本来就是 Objective-C，而与 Swift 不同，Objective-C 拥有一个可以进行通用绑定的动态运行时：选择子（selectors）、类型编码以及 objc_msgSend。这正是 objc2 在底层为我们完成的工作：针对每个框架完成一次。现在，桥接层成为依赖项，而不再是我们需要额外发布的第二个组件。\n\n负责维护 objc2 的 Mads Marquart 曾在我们的 Bevy Meetup 第 13 期活动中就这一主题进行了演讲：《Bevy on iOS - in pure Rust》。非常值得一看。\n\n我们现有的 bevy_ios_app_delegate crate 从一开始就是这样构建的。我们此前关于 iOS 深层链接的文章对此有详细介绍。\n\n先来看最小的 crate。过去，bevy_ios_safearea 由四个类似下面这样的 Swift 函数组成：\n\n此外还需要 Rust 侧对应的 extern \"C\" 声明、一个 Package.swift 文件，以及在项目中执行 SPM 步骤。如今，全部内容只需要这样：\n\n到目前为止，这只是 Rust 调用平台代码。另一个方向，也就是大部分 protobuf 和 swift-bridge 机制存在的原因，则是另一回事。\n\n借助 objc2，我们可以在 Rust 中定义一个 Objective-C 类，并将其作为委托交给 UIKit：\n\n上面的委托会发送 Event 并调用完成处理程序。send_event 是我们基于 bevy_channel_message 编写的一个小型辅助函数，它会获取插件在构建时设置的发送端。因此，我们的 Event 最终会像以前一样进入 Bevy。\n\n总的来说，我们从 bevy_ios_notifications 中删除了 2809 行代码，其中 1615 行来自一个生成的 Data.pb.swift 文件。bevy_ios_gamecenter 更是减少了 4430 行代码！\n\n还记得深层链接文章中的推送通知令牌吗？现在它已经完成了。\n\n这些令牌只会传递给 UIApplicationDelegate，因此，我们不再从 Swift 侧进行方法调配（swizzling），而是将这两个回调添加到应用已有的委托中；如果应用没有委托，就安装我们自己的委托。如果 bevy_ios_app_delegate 已经设置了一个委托，我们就接入那个委托。\n\n现在，你不再需要添加 SPM 软件包，不需要手动链接 GameKit 或 StoreKit，也不需要在 README 中放置截图。需要正确维护的版本只剩一个，而不是两个。\n\n此外，bevy_ios_gamecenter 和 bevy_ios_iap 又可以为模拟器构建了。\n\nbevy_ios_iap 是唯一的例外。StoreKit 2 仅支持 Swift，没有可供 objc2 绑定的 Objective-C 运行时，因此我们只能重新自行编写桥接层。\n\n因此，这个 crate 仍然保留一个小型 Swift 垫片。不过现在这个垫片位于 crate 内部：build.rs 会使用 swiftc 对其进行编译，并将其静态链接进来。\n\n两端通过手写的、承载 JSON 的 C ABI 进行通信。\n\n这并不漂亮，但你仍然只需执行 cargo add bevy_ios_iap——不需要 SPM 软件包，也不需要发布 .xcframework。该版本目前位于 main 分支，尚未发布。\n\n我们没有大幅更改公共 API，bevy_ios_notifications 是这里的例外，因此请查看它的变更日志。如果你正在使用这些 crate 中的任何一个，请前往 Xcode 项目中删除 SPM 依赖，并升级 Rust 依赖版本。\n\n感谢 objc2 crate 让这一切成为可能。现在，为你的 Bevy 游戏添加一个 iOS crate 只需执行 cargo add！\n\n需要支持构建你的 Bevy 或 Rust 项目吗？我们的专家团队可以为你提供支持！欢迎联系我们。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 26,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T23:22:45.000Z",
+            "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-n-medicare-budget-ntwnfb-10b36a4664fdbcac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Australia news live: Mike Baird resigns as Cricket Australia chair; Paramedics to lead in Victoria mental health call outs",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:35:29.000Z",
+        "pubTime": "2026-09-28 09:35",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/e79597339a5f0be71513392e9e54e99d64a52214/766_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=9dd418d9220ae9ab41f1688f9ccdcee2",
+        "fullContent": "Follow the day’s news live\n\nGet our breaking news email , free app or daily news podcast\n\nRBA expected to hike cash rate to 4.6%, its highest level since 2011\n\nAustralia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100 to typical monthly mortgage repayments.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Mike Baird辞去Cricket Australia主席职务。",
+          "护理人员将在维多利亚州主导心理健康呼叫处置。",
+          "来源叙事重点：聚焦澳大利亚当天多项公共事务与经济动态：Cricket Australia主席更替、维多利亚州心理健康呼叫处置安排，以及澳大利亚储备银行可能加息至4.6%及其对房价和抵押贷款负担的预期影响。报道框架以“实时新闻更新”和宏观经济后果为主，但所提供正文极为简短。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:35:29.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-lf-parking-car-evolution-1004dea70d653ee9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Self-parking car using genetic algorithm (2021)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:21:32.000Z",
+        "pubTime": "2026-09-28 09:21",
+        "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+        "imageUrl": null,
+        "fullContent": "In this article, we'll train the car to do self-parking using a genetic algorithm.\n\nWe'll create the 1st generation of cars with random genomes that will behave something like this:\n\nOn the ≈40th generation the cars start learning what the self-parking is and start getting closer to the parking spot:\n\nAnother example with a bit more challenging starting point:\n\nYeah-yeah, the cars are hitting some other cars along the way, and also are not perfectly fitting the parking spot, but this is only the 40th generation since the creation of the world for them, so be merciful and give the cars some space to grow :D\n\nYou may launch the 🚕 Self-parking Car Evolution Simulator to see the evolution process directly in your browser. The simulator gives you the following opportunities:\n\nThe genetic algorithm for this project is implemented in TypeScript. The full genetic source code will be shown in this article, but you may also find the final code examples in the Evolution Simulator repository.\n\nWe're going to use a genetic algorithm for the particular task of evolving cars' genomes. However, this article only touches on the basics of the algorithm and is by no means a complete guide to the genetic algorithm topic.\n\nHaving that said, let's deep dive into more details...\n\nStep-by-step we're going to break down a high-level task of creating the self-parking car to the straightforward low-level optimization problem of finding the optimal combination of 180 bits (finding the optimal car genome).\n\nHere is what we're going to do:\n\nTo be able to move, the car would need \"muscles\". Let's give the car two types of muscles:\n\nWith these two muscles the car can perform the following movements:\n\nIn our case, the muscles are receivers of the signals that come from the brain once every 100ms (milliseconds). Based on the value of the brain's signal the muscles act differently. We'll cover the \"brain\" part below, but for now, let's say that our brain may send only 3 possible signals to each muscle: -1, 0, or +1.\n\nFor example, the brain may send the signal with the value of +1 to the engine muscle and it will start moving the car forward. The signal -1 to the engine moves the car backward. At the same time, if the brain will send the signal of -1 to the steering wheel muscle, it will turn the car to the left, etc.\n\nHere is how the brain signal values map to the muscle actions in our case:\n\nYou may use the Evolution Simulator and try to park the car manually to see how the car muscles work. Every time you press one of the WASD keyboard keys (or use a touch-screen joystick) you send these -1, 0, or +1 signals to the engine and steering wheel muscles.\n\nBefore our car will learn how to do self-parking using its muscles, it needs to be able to \"see\" the surroundings. Let's give it the 8 eyes in a form of distance sensors:\n\nYou may use the Evolution Simulator and see how the color of each sensor changes based on how close the obstacle is.\n\nAt this moment, our car can \"see\" and \"move\", but there is no \"coordinator\", that would transform the signals from the \"eyes\" to the proper movements of the \"muscles\". We need to give the car a \"brain\".\n\nAs an input from the sensors, every 100ms the brain will be getting 8 float numbers, each one in range of [0...4]. For example, the input might look like this:\n\nEvery 100ms the brain should produce two integers as an output:\n\nEach number should be of the type MuscleSignal and might take one of three values: -1, 0, or +1.\n\nKeeping in mind the brain's input and output mentioned above we may say that the brain is just a function:\n\nWhere brainToMuscleSignal() is a function that converts raw brain signals (any float number) to muscle signals (to -1, 0, or +1 number) so that muscles could understand it. We'll implement this converter function below.\n\nThe main question now is what kind of a function the brainFunction() is.\n\nTo make the car smarter and its movements to be more sophisticated we could go with a Multilayer Perceptron. The name is a bit scary but this is a simple Neural Network with a basic architecture (think of it as a big formula with many parameters/coefficients).\n\nI've covered Multilayer Perceptrons with a bit more details in my homemade-machine-learning, machine-learning-experiments, and nano-neuron projects. You may even challenge that simple network to recognize your written digits.\n\nHowever, to avoid the introduction of a whole new concept of Neural Networks, we'll go with a much simpler approach and we'll use two Linear Polynomials with multiple variables (to be more precise, each polynomial will have exactly 8 variables, since we have 8 sensors) which will look something like this:\n\nThe cost of using the simpler function for the brain will be that the car won't be able to learn some sophisticated moves and also won't be able to generalize well and adapt well to unknown surroundings. But for our particular parking lot and for the sake of demonstrating the work of a genetic algorithm it should still be enough.\n\nWe may implement the generic polynomial function in the following way:\n\nThe car's brain in this case will consist of two polynomials and will look like this:\n\nThe output of a linearPolynomial() function is a float number. The brainToMuscleSignal() function need to convert the wide range of floats to three particular integers, and it will do it in two steps:\n\nTo do the first part of the conversion we need to introduce a Sigmoid Function which implements the following formula:\n\nIt converts the wide range of floats (the x axis) to float numbers with a limited range of (0...1) (the y axis). This is exactly what we need.\n\nHere is how the conversion steps would look on the Sigmoid graph.\n\nThe implementation of two conversion steps mentioned above would look like this:\n\n☝🏻 The main conclusion from the \"Eyes\", \"Muscles\" and \"Brain\" sections above should be this: the coefficients [e0, e1, ..., e8] and [w0, w1, ..., w8] defines the behavior of the car. These 18 numbers together form the unique car's Genome (or car's DNA).\n\nLet's join the [e0, e1, ..., e8] and [w0, w1, ..., w8] brain coefficients together to form a car's genome in a decimal form:\n\nLet's move one step deeper (to the level of the genes) and convert the decimal numbers of the car's genome to the binary format (to the plain 1s and 0s).\n\nI've described in the detail the process of converting the floating-point numbers to binary numbers in the Binary representation of the floating-point numbers article. You might want to check it out if the code in this section is not clear.\n\nHere is a quick example of how the floating-point number may be converted to the 16 bits binary number (again, feel free to read this first if the example is confusing):\n\nIn our case, to reduce the genome length, we will convert each floating coefficient to the non-standard 10 bits binary number (1 sign bit, 4 exponent bits, 5 fraction bits).\n\nWe have 18 coefficients in total, every coefficient will be converted to 10 bits number. It means that the car's genome will be an array of 0s and 1s with a length of 18 * 10 = 180 bits.\n\nFor example, for the genome in a decimal format that was mentioned above, its binary representation would look like this:\n\nOh my! The binary genome looks so cryptic. But can you imagine, that these 180 zeroes and ones alone define how the car behaves in the parking lot! It's like you hacked someone's DNA and know what each gene means exactly. Amazing!\n\nBy the way, you may see the exact values of genomes and coefficients for the best performing car on the Evolution Simulator dashboard:\n\nHere is the source code that performs the conversion from binary to decimal format for the floating-point numbers (the brain will need it to decode the genome and to produce the muscle signals based on the genome data):\n\nPreviously our brain function was working with the decimal form of engineCoefficients and wheelCoefficients polynomial coefficients directly. However, these coefficients are now encoded in the binary form of a genome. Let's add a decodeGenome() function that will extract coefficients from the genome and let's rewrite our brain functions:\n\n☝🏻 So, finally, we've got to the point when the high-level problem of making the car to be a self-parking car is broken down to the straightforward optimization problem of finding the optimal combination of 180 ones and zeros (finding the \"good enough\" car's genome). Sounds simple, doesn't it?\n\nWe could approach the problem of finding the \"good enough\" genome in a naive way and try out all possible combinations of genes:\n\nBut, let's do some math. With 180 bits and with each bit being equal either to 0 or to 1 we would have 2^180 (or 1.53 * 10^54) possible combinations. Let's say we would need to give 15s to each car to see if it will park successfully or not. Let's also say that we may run a simulation for 10 cars at once. Then we would need 15 * (1.53 * 10^54) / 10 = 2.29 * 10^54 [seconds] which is 7.36 * 10^46 [years]. Pretty long waiting time. Just as a side thought, it is only 2.021 * 10^3 [years] that have passed after Christ was born.\n\nWe need a faster algorithm to find the optimal value of the genome. This is where the genetic algorithm comes to the rescue. We might not find the best value of the genome, but there is a chance that we may find the optimal value of it. And, what is, more importantly, we don't need to wait that long. With the Evolution Simulator I was able to find a pretty good genome within 24 [hours].\n\nA genetic algorithms (GA) inspired by the process of natural selection, and are commonly used to generate high-quality solutions to optimization problems by relying on biologically inspired operators such as crossover, mutation and selection.\n\nThe problem of finding the \"good enough\" combination of genes for the car looks like an optimization problem, so there is a good chance that GA will help us here.\n\nWe're not going to cover a genetic algorithm in all details, but on a high level here are the basic steps that we will need to do:\n\nBefore launching the genetic algorithm let's go and create the functions for the \"CREATE\", \"SELECT\", \"MATE\" and \"MUTATE\" steps of the algorithm.\n\nThe createGeneration() function will create an array of random genomes (a.k.a. population or generation) and will accept two parameters:\n\nThere is a 50/50 chance for each gene of a genome to be either 0 or 1.\n\nThe mutate() function will mutate some genes randomly based on the mutationProbability value.\n\nFor example, if the mutationProbability = 0.1 then there is a 10% chance for each genome to be mutated. Let's say if we would have a genome of length 10 that looks like [0, 0, 0, 0, 0, 0 ,0 ,0 ,0 ,0], then after the mutation, there will be a chance that 1 gene will be mutated and we may get a genome that might look like [0, 0, 0, 1, 0, 0 ,0 ,0 ,0 ,0].\n\nThe mate() function will accept the father and the mother genomes and will produce two children. We will imitate the real-world scenario and also do the mutation during the mating.\n\nEach bit of the child genome will be defined based on the values of the correspondent bit of the father's or mother's genomes. There is a 50/50% probability that the child will inherit the bit of the father or the mother. For example, let's say we have genomes of length 4 (for simplicity reasons):\n\nIn the example above the mutation were not taken into account.\n\nHere is the function implementation:\n\nTo select the fittest individuums for further mating we need a way to find out the fitness of each genome. To do this we will use a so-called fitness function.\n\nThe fitness function is always related to the particular task that we try to solve, and it is not generic. In our case, the fitness function will measure the distance between the car and the parking spot. The closer the car to the parking spot, the fitter it is. We will implement the fitness function a bit later, but for now, let's introduce the interface for it:\n\nNow, let's say we have fitness values for each individuum in the population. Let's also say that we sorted all individuums by their fitness values so that the first individuums are the strongest ones. How should we select the fathers and the mothers from this array? We need to do the selection in a way, that the higher the fitness value of the individuum, the higher the chances of this individuum being selected for mating. The weightedRandom() function will help us with this.\n\nThe usage of this function is pretty straightforward. Let's say you really like bananas and want to eat them more often than strawberries. Then you may call const fruit = weightedRandom(['banana', 'strawberry'], [9, 1]), and in ≈9 out of 10 cases the fruit variable will be equal to banana, and only in ≈1 out of 10 times it will be equal to strawberry.\n\nTo avoid losing the best individuums (let's call them champions) during the mating process we may also introduce a so-called longLivingChampionsPercentage parameter. For example, if the longLivingChampionsPercentage = 10, then 10% of the best cars from the previous population will be carried over to the new generation. You may think about it as there are some long-living individuums that can live a long life and see their children and even grandchildren.\n\nHere is the actual implementation of the select() function:\n\nThe fitness of the car will be defined by the distance from the car to the parking spot. The higher the distance, the lower the fitness.\n\nThe final distance we will calculate is an average distance from 4 car wheels to the correspondent 4 corners of the parking spot. This distance we will call the loss which is inversely proportional to the fitness.\n\nCalculating the distance between each wheel and each corner separately (instead of just calculating the distance from the car center to the parking spot center) will make the car preserve the proper orientation relative to the parking spot.\n\nThe distance between two points in space will be calculated based on the Pythagorean theorem like this:\n\nThe distance (the loss) between the car and the parking spot will be calculated like this:\n\nSince the fitness should be inversely proportional to the loss we'll calculate it like this:\n\nYou may see the fitness and the loss values for a specific genome and for a current car position on the Evolution Simulator dashboard:\n\nLet's put the evolution functions together. We're going to \"create the world\", launch the evolution loop, make the time going, the generation evolving, and the cars learning how to park.\n\nTo get the fitness values of each car we need to run a simulation of the cars behavior in a virtual 3D world. The Evolution Simulator does exactly that - it runs the code below in the simulator, which is made with Three.js:\n\nAfter running the select() function, the generation array is sorted by the fitness values in descending order. Therefore, the fittest car will always be the first car in the array.\n\nThe 1st generation of cars with random genomes will behave something like this:\n\nThe cars are hitting some other cars along the way, and also are not perfectly fitting the parking spot, but this is only the 40th generation since the creation of the world for them, so you may give the cars some more time to learn.\n\nFrom generation to generation we may see how the loss values are going down (which means that fitness values are going up). The P50 Avg Loss shows the average loss value (average distance from the cars to the parking spot) of the 50% of fittest cars. The Min Loss shows the loss value of the fittest car in each generation.\n\nYou may see that on average the 50% of the fittest cars of the generation are learning to get closer to the parking spot (from 5.5m away from the parking spot to 3.5m in 35 generations). The trend for the Min Loss values is less obvious (from 1m to 0.5m with some noise signals), however from the animations above you may see that cars have learned some basic parking moves.\n\nIn this article, we've broken down the high-level task of creating the self-parking car to the straightforward low-level task of finding the optimal combination of 180 ones and zeroes (finding the optimal car genome).\n\nThen we've applied the genetic algorithm to find the optimal car genome. It allowed us to get pretty good results in several hours of simulation (instead of many years of running the naive approach).\n\nThe full genetic source code that was shown in this article may also be found in the Evolution Simulator repository. If you are one of those folks who will actually count and check the number of lines to make sure there are less than 500 of them (excluding tests), please feel free to check the code here 🥸.\n\nThere are still some unresolved issues with the code and the simulator:\n\nHowever, the purpose of this article was to have some fun while learning how the genetic algorithm works and not to build a production-ready self-parking Teslas. So, even with the issues mentioned above, I hope you've had a good time going through the article.\n\nSenior Software Engineer @ Uber\n\nGet my latest posts and project updates by email",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 92,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以自停车模拟器为例，展示如何将泊车行为建模为寻找180位基因组的优化问题，并使用遗传算法通过随机生成、选择、交叉和变异逐代改进车辆控制策略。文章重点是 TypeScript 实现、传感器—控制器—执行器的简化建模，以及遗传算法的可视化演示。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:21:32.000Z",
+            "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/"
+          }
+        ]
+      },
+      {
+        "id": "story-c-4120-8d0f-f0062835aa1b-3acd21e21940f738",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Healey to promise ‘new age of industrialisation’ with £6bn Royal Navy plan",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T23:01:05.000Z",
+        "pubTime": "2026-09-28 07:01",
+        "url": "https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01e37fec-8b69-4b48-bc01-2d496c7cbe52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Chancellor will pledge that work on building three new floating docks on the Clyde in Scotland will be carried out by British firms",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-28 07:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/46c33655-91ec-4120-8d0f-f0062835aa1b?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-27T23:01:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ident-if-he-wants-to-buy-6ced204b51fe6be9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump asked China’s president if he wants to buy US arms, ambassador says",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T00:49:54.000Z",
+        "pubTime": "2026-09-28 08:49",
+        "url": "https://www.reddit.com/r/worldnews/comments/1ws0oi5/trump_asked_chinas_president_if_he_wants_to_buy/",
+        "imageUrl": "https://external-preview.redd.it/Qhi1eYZZpkfwcB7qG9gtK1LNxMMnUYgsM7AX9oxoLRo.jpeg?width=640&crop=smart&auto=webp&s=5275d5d6ad199f0e71bd3bb287516950db1bdf84",
+        "fullContent": "submitted by /u/pjw724 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-28 08:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1ws0oi5/trump_asked_chinas_president_if_he_wants_to_buy/",
+            "publishedAt": "2026-09-28T00:49:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-soil-health-html-53b73e04c2e58b73",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What the smell of a soil can tell us about soil health",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T00:30:06.000Z",
+        "pubTime": "2026-09-28 08:30",
+        "url": "https://phys.org/news/2026-09-soil-health.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-the-smell-of-a-so.jpg",
+        "fullContent": "Farmers used to sniff their soil to gauge how healthy it was. According to ecologist Rosa Boone, you can deduce a great deal from its smell: \"The fungi and bacteria present in the soil are important for soil health and are responsible for the soil's smell.\" Boone discovered that the smell of soil can be captured and analyzed in the lab, providing insights into these microbial communities. \"Monitoring soil life is becoming increasingly important, particularly in view of the forthcoming soil monitoring guidelines. My research shows that there is great potential for developing a sensor—an 'electronic nose'—that could be used to analyze microbial soil life directly, based on how it smells.\"",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-soil-health.html",
+            "publishedAt": "2026-09-28T00:30:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--trevoga-2120608376-html-7ec49e673e605659",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Липецкой области отменили ракетную опасность",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T01:31:02.000Z",
+        "pubTime": "2026-09-28 09:31",
+        "url": "https://ria.ru/20260928/trevoga-2120608376.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/02/18/1854150163_0:267:3072:1995_650x0_80_0_0_e389172e7029496dd8a3c9b3612d909e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 09:31 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/trevoga-2120608376.html",
+            "publishedAt": "2026-09-28T01:31:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hroughput-and-efficiency-e4204e16e2a35d5e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+        "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "sourceSlug": "nvidia",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:00:00.000Z",
+        "pubTime": "2026-09-28 09:00",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/MaxLPS-768x432.jpg",
+        "fullContent": "Every unused watt is capacity left on the table. AI factories are typically provisioned for the unlikely moment when every GPU reaches peak power, creating a protective buffer that can leave valuable infrastructure underused during normal operation. NVIDIA DSX MaxLPS uses policy-governed power sharing to allocate power across participating resources dynamically, enabling customers to deploy up to 40% more GPUs within the same approved power budget.\n\nThis technical walkthrough examines a joint NVIDIA and Nscale evaluation of this approach with Kimi K2.5 workloads running on NVIDIA GB300 NVL72 systems at Nscale’s data center at the Verne campus in Keflavík, Iceland, powered entirely by renewable energy. It covers the measured trade-offs between power and performance, explains the controls used to maintain electrical limits, and presents a repeatable validation method operators can use before deploying at scale.\n\nAn AI factory operates within a hierarchy of electrical limits. Utility service, substations, power-distribution equipment, racks, nodes, and GPUs all impose constraints. Operators must keep each managed boundary within its approved limit while meeting application throughput and latency objectives.\n\nStatic power planning typically reserves enough power for every node to reach its specified peak at the same time. This conservative approach is straightforward, but AI workloads rarely draw constant power. Training workloads move through compute, communication, synchronization, and checkpointing. Inference workloads alternate among prefill, decode, memory-bound work, network activity, and idle intervals. Even instances of the same model can draw different power as request shapes and concurrencies change.\n\nThis variability creates a gap between reserved peak power and actual consumption. With static per-node reservations, unused capacity inside one reservation cannot be applied to another node. The aggregate facility can remain below its limit while additional GPU capacity stays offline.\n\nDSX MaxLPS monitors actual power consumption and dynamically reallocates available power across participating resources while preserving the operator’s aggregate budget and policy boundaries.\n\nDSX MaxLPS combines chip, system, thermal, and software technologies to maximize AI factory output within land, power, and shell (LPS) constraints. Dynamic Power Software provides the control layer for policy-governed power allocation.\n\nThe control process has five technical elements:\n\nThis is coordinated allocation, not an increase in the site’s power supply. The control loop enables more productive work beneath the same managed power budget.\n\nFor the evaluation, Nscale deployed the MaxLPS software in its data center and collected telemetry while NVIDIA ran the workloads. The evaluation measured control behavior and workload trade-offs.\n\nThe evaluation used NVIDIA Blackwell Ultra GPUs, Kimi K2.5 in FP4, NVIDIA Dynamo, NVIDIA TensorRT LLM, an 8K input sequence length, and a 1K output sequence length. The workload mix combined high-throughput and low-latency inference instances, creating distinct power and service profiles within the managed group.\n\nThe static baseline used 35 four-GPU nodes, or 140 GPUs. It ran two high-throughput instances using 52 GPUs each and one low-latency instance using 36 GPUs. The DSX MaxLPS configuration used 48 four-GPU nodes, or 192 GPUs. It added a third 52-GPU high-throughput instance while retaining the same 36-GPU low-latency instance.\n\nJobs ran across four racks, with each distributed workload confined to a single rack in both configurations. This controlled for cross-rack performance differences. Confining distributed workloads to a single rack is not required when the test environment has been validated for equivalent performance across racks.\n\nThe team measured normalized aggregate and per-instance throughput, time to first token, end-to-end latency, interactivity, GPU, CPU, and rack power telemetry. Comparing these metrics prevents a throughput gain from hiding latency, stability, or power-compliance regressions.\n\nTable 1 compares capacity, throughput, and power use for the static baseline and DSX MaxLPS configurations.\n\nBoth configurations used the same 264.4 kW provisioned power budget. Throughput per provisioned watt divides normalized aggregate throughput by this fixed denominator. The baseline delivered 4.10 tokens/s/W, and DSX MaxLPS delivered 6.12 tokens/s/W, a 49.2% increase. Because the provisioned-power denominator remained unchanged, this percentage matches the aggregate-throughput increase.\n\nThe per-instance results remained effectively unchanged at the displayed precision. This shows that the larger managed fleet increased aggregate throughput without materially reducing the throughput of the existing high-throughput or low-latency instances.\n\nFor latency, P75 is the 75th-percentile result, meaning 75% of requests completed at or below that latency. P99 is the 99th-percentile result, representing tail behavior: 99% of requests completed at or below that latency, while the slowest 1% took longer. Median and P75 latency remained within 5% of baseline. P99 time to first token increased 17% from the 15.7-second baseline, showing the importance of evaluating tail latency alongside capacity and throughput.\n\nDynamic power allocation makes engineering trade-offs observable and controllable at the fleet level; it does not eliminate them.\n\nDSX MaxLPS uses previously unused headroom, so added capacity still increases average power utilization. The available headroom also depends on the workload mix: complementary power profiles create more opportunity than workloads that peak simultaneously. Operators should therefore test representative production workloads against the aggregate power limit. Typical AI factories run heterogeneous workloads with different power profiles. The study therefore used a workload mix designed to reflect that variability.\n\nStable median latency can mask changes in tail latency. In this evaluation, median and P75 latency remained within 5% of baseline, but P99 time to first token increased by 17%. Production acceptance criteria should be defined as part of the study.\n\nDynamic allocation depends on reliable telemetry. Missing, delayed, or incorrectly mapped measurements can undermine fleet-level decisions. For this evaluation, site-level telemetry was used to verify rack-level power measurements. Before deployment, operators should confirm that added throughput does not compromise service quality or compliance with power limits.\n\nTogether, these trade-offs define what operators should validate before deployment.\n\nUse a staged validation process with explicit boundaries and acceptance criteria.\n\nThis evaluation shows how DSX MaxLPS can reclaim stranded capacity in a power-constrained AI factory. The same policy-governed approach can increase useful compute across diverse environments. Operators can tune the optimal operating point for each deployment based on hardware, workload mix, software, cooling, network topology, and service objectives.\n\nDynamic allocation is an operational capability, but the site must be able to host the capacity it enables. Electrical distribution, cooling, network fabric, floor space, and rack positions should be sized for the validated lifecycle target even if fewer racks are populated on day one.\n\nFor future NVIDIA Vera Rubin NVL72 AI factories, DSX MaxLPS also combines dynamic power management with performance-per-watt techniques and infrastructure designed for 45°C liquid-cooling inlet operation. Any Vera Rubin capacity projection should remain separate from this measured GB300 NVL72 evaluation.\n\nDSX MaxLPS gives operators a framework for turning workload variability into managed capacity. The engineering work is to define the boundary, measure representative behavior, tune policy against service objectives, and prove compliance under both normal and adverse conditions.\n\nReview NVIDIA DSX MaxLPS and NVIDIA Dynamic Power Software documentation, then use this validation sequence to establish production operating limits for your own AI factory.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:00:00.000Z",
+            "url": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/"
+          }
+        ]
+      },
+      {
+        "id": "story-re-than-100-billion-html-c74d3662ca608000",
+        "title": "委内瑞拉石油复苏可能耗资超过1000亿美元",
+        "originalTitle": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T23:00:00.000Z",
+        "pubTime": "2026-09-28 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+        "imageUrl": null,
+        "fullContent": "The Trump Administration is touting the new oil order in Venezuela as a tremendous opportunity for reviving the industry in the world's biggest crude oil resource holder. The U.S.-led restructuring of the sector kicked out Russian and Chinese companies out of previously awarded concessions, and spurred a flurry of oil deals with oil majors, the biggest oilfield service providers, and relatively unknown newcomersall with the purpose of boosting Venezuela's oil production and exporting a large part of it to the United States. The deals include one with privately held oil company North American Blue Energy Partners NABEP announced by the White House last month as \"the biggest oil deal in world history.\" This deal could involve $100 billion in investment in new oil infrastructure after the new interim Venezuelan authorities granted NABEP 100-year concessions for 17 oil fields with proven reserves of approximately 65 billion barrels. NABEP, led by Venezuela-born businessman Alejandro Betancourt, says it is looking \"to rapidly expand its operations in Lake Maracaibo and the Orinoco Belt with the near-term goal of increasing production to more than 1 million barrels of oil per day.\" \"NABEP's $100 billion figure represents a long-term funding requirement, not committed near-term capital, and the company has not disclosed a detailed financing structure,\" intelligence firm Rystad Energy said. Related China Could Cut Fuel Exports in October as Inventories Plunge \"Rystad Energy favors investment programs tied to established operators and defined assets over larger ambitions requiring substantial external capital.\" Venezuela's current oil production is about 1.25 million barrels per day bpd. This is set to rise to around 1.6 million bpd by 2028 and 1.8 million bpd by 2030. Then, by 2035, Venezuela's crude oil production is expected to jump to around 2.58 million bpd, as greenfield developments will add to the current brownfield-led output growth in the near term, according to Rystad Energy's upside scenario. Venezuela certainly has the resource, but decades of mismanagement and infrastructure collapse at oil sites will need much more investment than the ones needed to reactivate rigs. As of August, when the \"biggest oil deal in history\" was announced, Venezuela had just two active drilling rigs, per Baker Hughes data. To reach Rystad's projections of 1.6 million bpd output by 2028 and 1.8 million bpd by 2030, activity would need to reach around 50 rigs by 2028 and nearly 80 by 2030. \"A number of newly identified opportunities were previously associated with Russian and Chinese operators, and further restructuring of some legacy positions remains possible as the new contractual framework develops,\" said Radhika Bansal, Senior Vice President, Oil and Gas, at Rystad Energy. Legacy producers and service providers have accelerated deal-making in Venezuela in recent weeks, encouraged by the changed geopolitical orientation and President Trump's stated goal to expel adversaries Russia and China out of the Western Hemisphere. Since \"the biggest oil deal in world history\" announcement in August, Chevron has pledged over $7 billion in investment over the next five years and more than doubled its production in Venezuela to about 600,000 bpd. Continental Resources this week announced a Memorandum of Understanding with state oil firm PDVSA to operate and develop the Ayacucho 2 Block in the prolific Orinoco Oil Belt. Ayacucho 2, which Continental Resources will operate with a 100% interest, has an estimated 30 billion barrels of resource in place. Italy's Eni this month signed a strategic contract in Venezuela to become the operator of the giant Junn-5 oil field in the Orinoco Belt. Junn-5, a heavy oil field containing 35 billion barrels of certified oil in place, currently produces around 12,000 bpd. Oilfield services giants Halliburton and SLB have also signed deals to pursue oil and gas development opportunities and activate rigs in Venezuela. The first stage of Venezuela's oil recovery would be restarting mothballed projects and increasing production from operational fields. Then billions of U.S. dollars will be needed to repair dilapidated infrastructure and build new processing sites and pipelines to have Venezuela's heavy oil flow. Greenfield development of newly awarded blocks will take years and even more billions of dollars. The pace of Venezuela's oil production recovery \"will remain conditional on actual capital deployment and Venezuela's ability to rebuild drilling, services and infrastructure capacity,\" Rystad Energy said. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "特朗普政府将委内瑞拉新的石油秩序吹捧为重振这个全球最大原油资源持有国石油业的绝佳机会。在美国主导的行业重组中，俄罗斯和中国企业被逐出此前已获授予的特许经营区，同时石油巨头、最大的油田服务商以及相对不知名的新进入者纷纷达成一系列石油协议，目的都是提高委内瑞拉的石油产量，并将其中很大一部分出口到美国。上述协议包括与私营石油公司北美蓝色能源伙伴公司（North American Blue Energy Partners，NABEP）达成的一项协议。白宫上月宣布，该协议是“世界历史上最大的石油交易”。在委内瑞拉新的临时当局向NABEP授予17个油田、为期100年的特许经营权后，这项交易可能涉及1000亿美元的新石油基础设施投资；这些油田的探明储量约为650亿桶。由出生于委内瑞拉的商人亚历杭德罗·贝坦科特领导的NABEP表示，公司正寻求“迅速扩大在马拉开波湖和奥里诺科带的业务，近期目标是将产量提高到每天超过100万桶石油”。情报公司Rystad Energy表示：“NABEP所称的1000亿美元代表长期资金需求，并非近期已承诺的资本；该公司也没有披露详细的融资结构。”\n\n相关内容：中国可能因库存暴跌而在10月削减燃料出口\n\n“Rystad Energy更倾向于支持与成熟运营商和明确资产挂钩的投资计划，而不是需要大量外部资本、目标更为宏大的计划。”\n\n委内瑞拉目前的石油产量约为每天125万桶。预计到2028年将升至约160万桶，到2030年将升至180万桶。根据Rystad Energy的上行情景，到2035年，随着新油田项目投产，在短期内由老油田主导的产量增长基础上进一步增加产量，委内瑞拉原油产量预计将跃升至约每天258万桶。\n\n委内瑞拉当然拥有资源，但数十年的管理不善以及石油生产地的基础设施崩溃，意味着所需投资将远远超过重新启动钻井平台所需的资金。截至8月——也就是“历史上最大的石油交易”宣布之时——根据贝克休斯的数据，委内瑞拉只有两座正在运行的钻井平台。若要达到Rystad预测的产量目标，即2028年每天160万桶、2030年每天180万桶，到2028年钻井活动需要增至约50座钻井平台，到2030年则接近80座。\n\nRystad Energy石油和天然气业务高级副总裁拉迪卡·班萨尔表示：“一些新近确认的机遇此前与俄罗斯和中国运营商有关，随着新的合同框架逐步形成，部分遗留权益仍可能进一步重组。”\n\n受到地缘政治取向改变以及特朗普总统提出的将俄罗斯和中国这两个对手逐出西半球这一目标的鼓舞，传统石油生产商和服务提供商近几周加快了在委内瑞拉的交易步伐。\n\n自8月宣布“世界历史上最大的石油交易”以来，雪佛龙承诺未来5年投资超过70亿美元，并已将其在委内瑞拉的产量增加一倍以上，达到约每天60万桶。本周，大陆资源公司宣布与委内瑞拉国家石油公司（PDVSA）签署谅解备忘录，将负责运营和开发奥里诺科石油带内的阿亚库乔2区块。阿亚库乔2区块的原地资源量估计为300亿桶，大陆资源公司将以100%的权益负责运营该区块。\n\n意大利埃尼公司本月在委内瑞拉签署了一项战略合同，将成为奥里诺科带巨型胡宁5号油田的运营商。胡宁5号是一个重油田，含有350亿桶经认证的原地石油资源，目前产量约为每天1.2万桶。\n\n油田服务巨头哈里伯顿和SLB也已签署协议，以寻求石油和天然气开发机会，并在委内瑞拉重新启动钻井平台。\n\n委内瑞拉石油复苏的第一阶段将是重启闲置项目，并提高在产油田的产量。随后，委内瑞拉还需要数十亿美元的美国资金，用于修复破败的基础设施，并建设新的处理设施和管道，以使委内瑞拉的重油能够流动。新获授区块的绿地开发将耗时多年，并需要更多数十亿美元的投资。\n\nRystad Energy表示，委内瑞拉石油产量复苏的速度“仍将取决于实际资本投入，以及委内瑞拉重建钻井、服务和基础设施能力的情况”。\n\n作者：Tsvetana Paraskova，Oilprice.com",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 13,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html"
+          }
+        ]
+      },
+      {
+        "id": "story-how-to-test-murphy-s-law-7a1dd5ddcd390865",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Syncing Rust GCC backend or how to test Murphy's law",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T00:10:55.000Z",
+        "pubTime": "2026-09-28 08:10",
+        "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law",
+        "imageUrl": null,
+        "fullContent": "This blog post is about the Rust GCC backend (not to be confused with gccrs which is a Rust front-end for the GCC compiler), how we synchronize its repository with Rust's and how everything went so wrong that it took us 2 months to be able to finally make it. A good illustration of Murphy's law:\n\nAnything that can go wrong will go wrong.\n\nThe Rust GCC backend is developped in its own repository: https://github.com/rust-lang/rustc_codegen_gcc/. It allows us to experiment things without having to worry about breaking Rust's CI. Meaning these changes are for now only present in the GCC backend repository.\n\nSince it's a code generator backend (I'll abbreviate it as \"codegen\" from now on) of the Rust compiler, its source code is also present in the Rust compiler repository: https://github.com/rust-lang/rust/tree/main/compiler/rustc_codegen_gcc. This folder contains the exact same content as our repository... most of the time. When the compiler adds a new feature, clean things up, etc, it sometimes need to be reflected in the codegens: LLVM, cranelift and GCC. And so we end up with changes only present in the Rust repository.\n\nSo both repositories have unique changes, and we need to merge them at some point so both repositories are in sync with each other.\n\nNow comes the \"fun\" part: syncing changes between these two repositories. We use the git subtree feature. Never heard about it? No surprise, it's an incomplete feature (doesn't work well with big repositories). You can see the pull request fixing it on the git repository here. So you need to clone the git repository, checkout on this branch, build this git version and have it somewhere locally to use it when needed. We have instructions on how to do all that here.\n\nSo once you have the patched git ready, next step is to merge the Rust repository changes into the rustc_codegen_gcc repository:\n\nOnce Rust's changes are merged into the GCC backend, we can send rustc_codegen_gcc changes into Rust's:\n\nSince rustc_codegen_gcc targets a specific GCC version (our own fork which includes unmerged changes from upstream GCC), we also need to update the Rust's GCC submodule:\n\nWe commit the change, we check it compiles fine and then we can push.\n\nOne last thing to do: once the pull request on the Rust repository is merged, we merge the merge commit back into the rustc_codegen_repository:\n\nNow time to talk about the last sync and why I mentioned Murphy's law.\n\nSo, 24th of July 2026, I opened #159844. First issue we encountered: license issue. We copied a file used to know which features some CPUs had. After (legal) discussions, this was solved on the 31st of July.\n\nIn parallel we had some CI mirroring issues because the new GCC version we used needed some \"more up-to-date\" packages. To reduce CI flaky error for network, Rust infra provides a mirror which is often much more reliable than directly downloading from an external source (doesn't change location and a lot less traffic too).\n\nWhen we update the GCC version, the Rust's CI re-build it completely so it can be downloaded by Rust developers who work on the GCC backend. And the new GCC version needed a newer make than the one available in the docker image we used. So: we add the new make source code to our mirror, we build it into our docker image and then we build GCC as we did before.\n\nWith this, all fixed! It got merged on the 3rd of August. 3 issues so far, not great but not the worst. So far so good.\n\nNow as you might have guessed, things didn't stop there.\n\nAs soon as it was merged, I got pinged on zulip on the infra team channel because the CI was completely broken and error messages seemed related to GCC. So we decided the revert the sync pull request. Of course, when trying to revert something using the github UI:\n\nCannot create ref due to creations being restricted.\n\nSo after doing it by hand: #160468, CI was fixed, everything went back to normal. Except the sync is still not done and we still had no clue why the CI succeeded for the sync pull request. After some investigation, we realized that the built GCC didn't have some features enabled, making some tests fail. Big question was: why did the sync CI succeeded then? Well, that allowed us to discover a bug in the CI caching. So once the caching issue was fixed, only one bug remains: the GCC build was done incorrectly.\n\nInterestingly enough, when you build GCC, it configures itself depending on the tools available on your system. If your linker doesn't support retain, then this feature is disabled. Recently we added support for \"externally implementable items\" in the GCC backend... which uses retain (if you're interested about this, the pull requests for this feature in GCC backend are gcc#88, gcc#89, cg_gcc#921 and cg_gcc#962). So the related tests were unignored for the GCC backend in the Rust's repository, and failed.\n\nSo the first thing to do was to fix the build of GCC in our CI by installing a newer version of binutils, which I did in #161006 on the 12th of August. After a lot of tries, we were able to make it work and it was merged on the 17h of August.\n\nLast blocker removed! Oh wait. It broke miri build. Reverting!\n\nInstead of installing it in replacement of the installed binutils in docker, why not only using it for the GCC build to limit its scope? Let's try that! Done in #161243 and merged on the 21st of August.\n\n... But again miri seems broken! Luckily this time it was only bad timing: it was actually another unrelated pull request updating the cc crate which happened to be merged just after ours. Big relief.\n\nSo much time has passed since then that we needed to sync again changes from the Rust repository into rustc_codegen_gcc repository. So we opened cg_gcc#959. Aaaaand... it failed. A change in Rust's bootstrap broke the handling of the sysroot (in short: where rustc is supposed to look for libraries) and could not find GCC's library anymore. It was fixed in #162152 on the 3rd of September.\n\nTime to try for a new Rust to rustc_codegen_gcc sync: cg_gcc#972, which failed too. Problem this time is that we need to use the same LLVM version in rustc_codegen_gcc as in Rust's because we use LLVM tools for some tests (FileCheck for assembly tests for example).\n\nSo after an update of LLVM and of rust version we use to build rustc_codegen_gcc, we opened a new sync: cg_gcc#974. This time it worked! \\o/ It was merged on the 8th of September.\n\nSo time to try again the subtree sync (rustc_codegen_gcc to Rust) with #162499. CI failed because of some run-make tests (a testsuite in Rust). Ok, that one is on me. Between the last fix and this sync, I fixed a bug in Rust's bootstrap which was preventing other codegen backends than LLVM from running the run-make tests in #162482.\n\nSo taking that into account, added a commit to ignore these tests for the GCC backend until it's fixed on our side.\n\nNow let's run the CI once again... Failed again! This time it's because in the meantime, we updated the GCC version in rustc_codegen_gcc and it requires a newer make version. So be it! To make sure it didn't break things to update make version, I opened #163031 with just this change.\n\nNo problem apparently. Oh well, time to try to merge the sync then!\n\nOn the 22nd of September, #162499 was merged and the sync was finally finished!\n\nThis has been quite the unlucky stroke! But along the way we improved Rust's CI, uncovered caching issues, fixed some testsuites bugs/limitations. So all in all, even if exhausting, it was quite rewarding.\n\nHowever, this sync underlined that this process has too many issues and that we should move to something else. Luckily, a few subtrees have already migrated to josh so we're planning to do the same for rustc_codegen_gcc soon.\n\nCat was too asleep to provide some luck.\n\n© Copyright 2012-2026 Guillaume Gomez",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T00:10:55.000Z",
+            "url": "https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law"
+          }
+        ]
+      },
+      {
+        "id": "story-ble-limiting-global-html-a155197ede3a25b0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Who is responsible for limiting global warming to 1.5°?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:00:01.000Z",
+        "pubTime": "2026-09-28 05:00",
+        "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/global-warming-1.jpg",
+        "fullContent": "Even if industry rapidly becomes more sustainable, households will still need to change their lifestyles to meet climate targets. Industrial ecologist Stephanie Cap warns that households cannot do this alone: Businesses and governments must create the conditions to make these changes possible. Cap defends her dissertation titled \"Everything Must Change: 1.5°C decarbonisation scenarios across industries and households\" on Oct. 1.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-responsible-limiting-global.html",
+            "publishedAt": "2026-09-27T21:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-star-known-pac-dead-40-56109b9fa2416c52",
+        "title": "职业摔跤明星、被称为Pac的本杰明·萨特利去世，年仅40岁",
+        "originalTitle": "Benjamin Satterley, pro wrestling star known as Pac, dead at 40",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T01:29:18.000Z",
+        "pubTime": "2026-09-28 09:29",
+        "url": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/adrian-neville-wrestlemania-33-orlando-fla.jpg?ve=1&tl=1",
+        "fullContent": "Benjamin Satterley, the pro wrestling star known as Pac, has died, All Elite Wrestling (AEW) announced on Sunday night. He was 40.\n\nAEW made the tragic announcement on its social media.\n\nCLICK HERE FOR MORE OUTKICK PRO WRESTLING COVERAGE\n\n\"All Elite Wrestling is saddened to announce the passing of Benjamin Satterley, aka Pac,\" the company said. \"A native of Newcastle upon Tyne, England, Satterley began his wrestling career in 2004 and went on to perform for wrestling organizations all over the world, captivating fans with innovative high-flying moves and incredible in-ring ability.\n\n\"Pac signed with All Elite Wrestling in 2019 and held multiple AEW Championships and competed in some of the most memorable matches in AEW history. Our condolences go out to Satterley’s family, friends and fans.\"\n\nTHE CRAIG CARTON SHOW–UNFILTERED, UNAPOLOGETIC AND UNMISSABLE. DOWNLOAD HIS DAILY PODCAST NOW!\n\nThe circumstances behind Pac’s death were unclear. He challenged Andrade El Idolo for the AEW National Championship at All Out, which occurred on Saturday in Chicago.\n\nPac was one of the first wrestlers to sign with All Elite Wrestling in 2019. He was a two-time trios champion and the inaugural all-Atlantic champion.\n\nBefore wrestling in AEW, he was with WWE and known as Adrian Neville.\n\nSatterley was a two-time cruiserweight champion, an NXT champion and two-time NXT tag team champion.",
+        "fullTranslation": "职业摔跤明星、被称为Pac的本杰明·萨特利去世，全精英摔跤（AEW）周日晚间宣布了这一消息。他40岁。\n\nAEW在社交媒体上发布了这一令人悲痛的消息。\n\n点击这里获取更多OutKick职业摔跤报道\n\n该公司表示：“全精英摔跤对本杰明·萨特利（又名Pac）的去世深感悲痛。萨特利出生于英格兰纽卡斯尔，他于2004年开始职业摔跤生涯，随后在世界各地的摔跤组织中登台竞技，凭借创新的高飞动作和出色的擂台能力赢得了众多粉丝的喜爱。\n\n“Pac于2019年与全精英摔跤签约，曾多次赢得AEW冠军，并参加过AEW历史上最令人难忘的一些比赛。我们向萨特利的家人、朋友和粉丝表示哀悼。”\n\n《克雷格·卡顿秀》——不加过滤、毫不道歉、不容错过。立即下载他的每日播客！\n\nPac去世的具体原因尚不清楚。此前，他曾在周六于芝加哥举行的All Out赛事中挑战安德拉德·埃尔·伊多洛，争夺AEW全国冠军。\n\nPac是2019年最早与全精英摔跤签约的摔跤手之一。他曾两次获得三人组冠军，并成为首届全大西洋冠军。\n\n在AEW摔跤之前，他曾效力于WWE，并以阿德里安·内维尔之名为人所知。\n\n萨特利曾两次获得轻量级冠军、一次NXT冠军以及两次NXT双打冠军。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：以突发讣闻为核心，强调Pac在AEW及WWE的职业成就、比赛经历和行业影响；报道将AEW公告作为主要信息来源，并提到他去世前一天参加了All Out赛事。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T01:29:18.000Z",
+            "url": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40"
+          }
+        ]
+      },
+      {
+        "id": "story-zy-sim-video-game-review-8c713bebedaca020",
+        "title": "《Out of the Park Baseball》让我即使在大都会队表现糟糕时也能享受棒球",
+        "originalTitle": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T21:59:57.000Z",
+        "pubTime": "2026-09-28 05:59",
+        "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Games Review\n\nOOTP Baseball is a nitty gritty hyper-realistic baseball sim that puts you in the GMs office.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nIf you were to ask me what game or game series I’ve sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn’t like MLB The Show or Super Mega Baseball. It’s not graphically impressive. It’s not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It’s fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours.\n\nYou can play individual games and dig into play-by-play managing in OOTP if you want. But that becomes tedious. And frankly, it’s not where the game is the most fun. Instead, I think the game is at its best when you sit in the GM’s chair and maybe make some helpful “suggestions” about how to structure the lineup or bullpen.\n\nThe UI is complicated and dense. 90 percent of the time, you’re just looking at rows of stats and scouting reports. And the level of detail is deep. OOTP includes not just current MLB players, but historical MLB players, all minor league teams, Korea’s KBO League, and even the entire World Baseball Classic.\n\nThere’s something thrilling about digging through all this info and trying to find that diamond in the rough during a draft. Someone who might become the new franchise player for your favorite team in this alternate universe. Deciding whether to bet on that prospect developing into a superstar, or to trade them for an undeniable big-league All-Star is stressful. And you even have to worry about fans abandoning you if you fail to re-sign their favorite player.\n\nOn my Mets, Brandon Nimmo isn’t just a good player, he’s a damned superstar. Kodai Senga has won three Cy Young Awards. I signed Juan Soto, but also traded a raft of mid-tier prospects for Ronald Acuña Jr., made the playoffs four years in a row, and eventually won a World Series. (Look, as a Mets fan, I need this fantasy world, don’t harsh my vibe.)\n\nPerhaps the best part of OOTP Baseball, though, is that it kinda lets you play however you want. It’s deeply customizable. You can manually play every game if you want. Or you can speed-simulate entire seasons in a couple of hours. Want an easier experience where players don’t get hurt? Turn down or off injuries. Don’t want to worry about budgets? Play in commissioner mode and tell the team owner where to stick it. And because it mostly just sits there, statically waiting for you, it’s easy to just leave it running in the background and dip in and out when you’ve got a few spare minutes.\n\nOOTP Baseball is a cozy sim for a very particular brand of sports nerd. If you love fantasy baseball and wish you could play it year-round (and don’t want to deal with friends arguing about whether their bid for Alonso came in on time), or maybe you dig the idea of a cozy game like Tiny Bookshop, but wish they had a more Sabermetric bent, OOTP Baseball might be for you.\n\nThe current version, OOTP Baseball 27, is available now on Steam or directly from the developer.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "本主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。\n查看所有游戏评测\nOOTP Baseball 是一款细节扎实、极度逼真的棒球模拟游戏，让你坐进总经理办公室。\n该作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。\n查看 Terrence O'Brien 的全部文章\n如果你通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请参阅我们的道德声明。\n\n如果你问我玩得时间最多的游戏或游戏系列是什么，答案很简单：Out of the Park Baseball（OOTP）。据 Steam 统计，我玩过这款游戏的不同版本，加起来大约有 2300 个小时。OOTP 和《MLB The Show》或《Super Mega Baseball》不是一回事。它的画面并不出众，也不是那种简单直接、充满街机乐趣的游戏。它基本上就是一张假装成电子游戏的电子表格。它是幻想棒球，只不过你不必等上六个月，才能知道那个在选秀中看走眼的球员会让你多么失望，因为你只需几个小时，就能打完整个赛季。\n\n如果你愿意，也可以在 OOTP 里亲自进行单场比赛，深入参与逐球管理。但这很快就会变得乏味。坦率地说，这也不是这款游戏最有趣的地方。相反，我认为游戏最精彩的时刻，是你坐在总经理的位置上，适时对阵容或牛棚的安排提出一些有帮助的“建议”。\n\n游戏界面复杂而且信息密集。90% 的时间里，你只是在查看一行行的数据和球探报告。而且，游戏的细节深度非常惊人。OOTP 收录的不只是现役 MLB 球员，还包括历史上的 MLB 球员、所有小联盟球队、韩国 KBO 联盟，甚至完整的世界棒球经典赛。\n\n翻阅这些信息，并试图在选秀中找到那颗未经雕琢的宝石，会让人感到兴奋。在这个平行宇宙里，他可能会成为你最喜欢球队的新核心。你必须决定，是押注这名新秀最终成长为超级巨星，还是把他交易出去，换来一名毋庸置疑的大联盟全明星——这让人压力很大。而且，如果你没能重新签下球迷最喜欢的球员，还得担心球迷会弃你而去。\n\n在我的大都会队阵容里，布兰登·尼莫不只是一名优秀球员，他简直就是超级巨星。千贺泷大赢得了三座赛扬奖。我签下了胡安·索托，还用一大批中等水平的新秀换来了罗纳德·阿库尼亚二世，连续四年打进季后赛，最终赢得了世界大赛冠军。（听着，作为一名大都会队球迷，我需要这个幻想世界，别破坏我的兴致。）\n\n不过，OOTP Baseball 最棒的地方或许在于，它在某种程度上允许你随心所欲地游玩。游戏拥有极高的自定义空间。如果你愿意，可以手动进行每一场比赛；也可以在几小时内快速模拟完整赛季。想要更轻松的体验，不希望球员受伤？那就调低受伤概率，或者直接关闭伤病。没兴趣操心预算？那就进入总经理模式，告诉球队老板爱怎么着怎么着。由于游戏大多数时候只是静静地等待你的操作，你很容易把它放在后台运行，有几分钟空闲时就进去玩一会儿，再随时退出。\n\nOOTP Baseball 是一款面向特定类型体育宅的温馨模拟游戏。如果你喜欢幻想棒球，希望全年都能玩（又不想处理朋友们争论他们给阿隆索的报价是否及时提交），或者你喜欢《Tiny Bookshop》这类温馨游戏的理念，却希望游戏更偏向 Sabermetrics（棒球统计分析），那么 OOTP Baseball 可能正适合你。\n\n当前版本 OOTP Baseball 27 现已在 Steam 或开发商处直接发售。\n\n免费获取最重要新闻的每日摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "来源叙事重点：将《Out of the Park Baseball》定位为面向深度棒球迷和数据爱好者的高拟真、可定制“舒适型模拟游戏”。重点强调其总经理视角、庞大的球员与联赛数据、选秀和交易决策、快速模拟赛季以及可调节规则带来的自由度；同时承认其界面复杂、统计信息密集、画面和街机式即时娱乐性较弱。作者还通过自己作为纽约大都会队球迷的虚拟战绩，突出游戏满足体育幻想和情绪慰藉的功能。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T21:59:57.000Z",
+            "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T22:00:00.000Z",
+        "pubTime": "2026-09-28 06:00",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-28 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-27T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-04-bevy-ios-crates-objc2-cb672a40efd1b732",
+        "title": "彻底从我们的 Bevy iOS crate 中移除 Swift",
+        "originalTitle": "Dropping Swift entirely from our Bevy iOS crates",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-27T23:22:45.000Z",
+        "pubTime": "2026-09-28 07:22",
+        "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
+        "imageUrl": null,
+        "fullContent": "In this short post we look at how we got rid of the Swift packages in our bevy_ios_* crates.\n\nMost of them we used to ship in a tandem: a Rust crate on crates.io and a Swift package that you had to add to your xcode project via SPM. Over the last weeks we released them again, this time without that second half.\n\nInstalling them is now just cargo add.\n\nThe language barrier itself did not go anywhere, we still cross it on every call. What changed is that we do not have to build and ship that crossing ourselves anymore.\n\nThe platform side lived in that package, written in Swift or Objective-C, and rust could only reach into it through C symbols. So every crate came with its own hand-written bridge and over the years we ended up with four different ones:\n\nThey all had the same downsides:\n\nAll of it is now objc2 and its generated framework bindings: objc2-ui-kit, objc2-user-notifications, objc2-game-kit and objc2-store-kit. Apple's frameworks are Objective-C anyway, and unlike Swift, Objective-C has a dynamic runtime you can bind against generically: selectors, type encodings, objc_msgSend. That is what objc2 does for us under the hood, once, for every framework. The bridge is a dependency now instead of a second thing we ship.\n\nMads Marquart, who maintains objc2, gave a talk about exactly this at our Bevy Meetup #13: Bevy on iOS - in pure Rust. Well worth a watch.\n\nOur existing bevy_ios_app_delegate crate was built that way already. Our previous post on iOS deep-linking goes into detail here.\n\nLets look at the smallest crate first. bevy_ios_safearea used to be four Swift functions like this one:\n\nplus their extern \"C\" declarations on the rust side, plus a Package.swift, plus the SPM step in your project. Today this is all it takes:\n\nSo far this is just rust calling into the platform. The other direction is what most of the protobuf and swift-bridge machinery was there for.\n\nWith objc2 we can define an Objective-C class in rust and hand it to UIKit as a delegate:\n\nThe delegate above sends the Event off and calls the completion handler. send_event is our own little helper on top of bevy_channel_message, it grabs the sender that our plugin put in place when it was built. So our Events end up in Bevy just like before.\n\nAll in all we deleted 2809 lines from bevy_ios_notifications, 1615 of them a single generated Data.pb.swift file. bevy_ios_gamecenter lost 4430 lines!\n\nRemember the push notification token from the deep-linking post? It is done now.\n\nThose tokens are only handed to the UIApplicationDelegate, so instead of swizzling from Swift we add those two callbacks to whatever delegate the app has and install our own if there is none. If bevy_ios_app_delegate already set one up we hook into that one.\n\nYou don't have to add an SPM package anymore, no linking GameKit or StoreKit by hand and no screenshots in the README. There is just one version left to get right instead of two.\n\nAnd bevy_ios_gamecenter and bevy_ios_iap build for the simulator again.\n\nbevy_ios_iap is the one exception. StoreKit 2 is Swift only, there is no Objective-C runtime for objc2 to bind against, so here we are back to writing the bridge ourselves.\n\nSo this crate keeps a small Swift shim. But that shim now lives inside the crate: build.rs compiles it with swiftc and links it statically.\n\nThe two sides talk over a hand-written C ABI carrying JSON.\n\nNot pretty, but you still just cargo add bevy_ios_iap - no SPM package, no .xcframework release. This one is on main and not released yet.\n\nWe did not change the public APIs much, bevy_ios_notifications is the exception here so check its changelog. If you are using any of these crates go and delete the SPM dependency from your xcode project and bump the rust one.\n\nThanks to the objc2 crate for making all of this possible. Adding an iOS crate to your bevy game is just cargo add now!\n\nDo you need support building your Bevy or Rust project? Our team of experts can support you! Contact us.",
+        "fullTranslation": "在这篇短文中，我们将介绍如何移除了 bevy_ios_* crate 中的 Swift 软件包。\n\n过去，我们发布的大多数组件都采用配套形式：一个发布在 crates.io 上的 Rust crate，以及一个需要通过 SPM 添加到 Xcode 项目中的 Swift 软件包。过去几周，我们重新发布了这些组件，这一次不再包含后者。\n\n现在，安装它们只需执行 cargo add。\n\n语言障碍本身并没有消失，我们仍然要在每次调用时跨越这道障碍。变化在于，我们不再需要自行构建并发布这个跨语言连接层。\n\n平台侧代码位于那个软件包中，以 Swift 或 Objective-C 编写，而 Rust 只能通过 C 符号访问它。因此，每个 crate 都带有一套手写的桥接代码，多年来我们最终形成了四种不同的桥接方式：\n\n它们都有相同的缺点：\n\n现在，这些工作全部交给 objc2 及其生成的框架绑定来完成：objc2-ui-kit、objc2-user-notifications、objc2-game-kit 和 objc2-store-kit。苹果的框架本来就是 Objective-C，而与 Swift 不同，Objective-C 拥有一个可以进行通用绑定的动态运行时：选择子（selectors）、类型编码以及 objc_msgSend。这正是 objc2 在底层为我们完成的工作：针对每个框架完成一次。现在，桥接层成为依赖项，而不再是我们需要额外发布的第二个组件。\n\n负责维护 objc2 的 Mads Marquart 曾在我们的 Bevy Meetup 第 13 期活动中就这一主题进行了演讲：《Bevy on iOS - in pure Rust》。非常值得一看。\n\n我们现有的 bevy_ios_app_delegate crate 从一开始就是这样构建的。我们此前关于 iOS 深层链接的文章对此有详细介绍。\n\n先来看最小的 crate。过去，bevy_ios_safearea 由四个类似下面这样的 Swift 函数组成：\n\n此外还需要 Rust 侧对应的 extern \"C\" 声明、一个 Package.swift 文件，以及在项目中执行 SPM 步骤。如今，全部内容只需要这样：\n\n到目前为止，这只是 Rust 调用平台代码。另一个方向，也就是大部分 protobuf 和 swift-bridge 机制存在的原因，则是另一回事。\n\n借助 objc2，我们可以在 Rust 中定义一个 Objective-C 类，并将其作为委托交给 UIKit：\n\n上面的委托会发送 Event 并调用完成处理程序。send_event 是我们基于 bevy_channel_message 编写的一个小型辅助函数，它会获取插件在构建时设置的发送端。因此，我们的 Event 最终会像以前一样进入 Bevy。\n\n总的来说，我们从 bevy_ios_notifications 中删除了 2809 行代码，其中 1615 行来自一个生成的 Data.pb.swift 文件。bevy_ios_gamecenter 更是减少了 4430 行代码！\n\n还记得深层链接文章中的推送通知令牌吗？现在它已经完成了。\n\n这些令牌只会传递给 UIApplicationDelegate，因此，我们不再从 Swift 侧进行方法调配（swizzling），而是将这两个回调添加到应用已有的委托中；如果应用没有委托，就安装我们自己的委托。如果 bevy_ios_app_delegate 已经设置了一个委托，我们就接入那个委托。\n\n现在，你不再需要添加 SPM 软件包，不需要手动链接 GameKit 或 StoreKit，也不需要在 README 中放置截图。需要正确维护的版本只剩一个，而不是两个。\n\n此外，bevy_ios_gamecenter 和 bevy_ios_iap 又可以为模拟器构建了。\n\nbevy_ios_iap 是唯一的例外。StoreKit 2 仅支持 Swift，没有可供 objc2 绑定的 Objective-C 运行时，因此我们只能重新自行编写桥接层。\n\n因此，这个 crate 仍然保留一个小型 Swift 垫片。不过现在这个垫片位于 crate 内部：build.rs 会使用 swiftc 对其进行编译，并将其静态链接进来。\n\n两端通过手写的、承载 JSON 的 C ABI 进行通信。\n\n这并不漂亮，但你仍然只需执行 cargo add bevy_ios_iap——不需要 SPM 软件包，也不需要发布 .xcframework。该版本目前位于 main 分支，尚未发布。\n\n我们没有大幅更改公共 API，bevy_ios_notifications 是这里的例外，因此请查看它的变更日志。如果你正在使用这些 crate 中的任何一个，请前往 Xcode 项目中删除 SPM 依赖，并升级 Rust 依赖版本。\n\n感谢 objc2 crate 让这一切成为可能。现在，为你的 Bevy 游戏添加一个 iOS crate 只需执行 cargo add！\n\n需要支持构建你的 Bevy 或 Rust 项目吗？我们的专家团队可以为你提供支持！欢迎联系我们。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 26,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-27T23:22:45.000Z",
+            "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790548079646,
     "timeDisplay": "2026-09-28 06:27 (UTC+8)",
     "date": "2026-09-28",
