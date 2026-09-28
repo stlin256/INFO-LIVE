@@ -1,5 +1,1552 @@
 [
   {
+    "timestamp": 1790585814881,
+    "timeDisplay": "2026-09-28 16:56 (UTC+8)",
+    "date": "2026-09-28",
+    "runId": "feed-20260928T084728234Z-kk6f5t",
+    "generatedAt": "2026-09-28T08:56:54.881Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 16:47",
+      "lead": "本轮抓取于 2026-09-28 16:47 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池：荣耀今天在中国发布全新的 Magic 9 系列旗舰手机，其中 9 Pro Max 采用了重新设计的外观，配备高性能摄像头和容量巨大的电池。这是荣耀宣布与摄像机厂商 Arri 合作以来推出的首款旗舰产品——不包括 Robot Phone。它带来的第一印象有两点。新的摄像头模组借鉴了 Arri 的设计，其灵感来自 1937 年首次推出的 Arriflex 35 所采用的“三镜头转塔”设计，主摄像头周围还配有滚花纹理。",
+        "【undefined】用药房绿十字霓虹灯牌进行“瑞克摇”（Rickroll）：目前我正在寻找一份为期4个月的全职实习。如果您想了解更多信息，请点击下方按钮。",
+        "【undefined】俄罗斯股市主交易时段开盘持平：莫斯科，9月28日。（塔斯社）——据截至莫斯科时间周一上午9时（格林尼治时间上午6时）的交易数据，俄罗斯MOEX指数和RTS指数在主交易时段开盘时分别持平于2273.98点和849.35点。人民币兑卢布汇率较前一交易日收盘价下跌1.8戈比，报12.492卢布。",
+        "【undefined】委内瑞拉石油复兴成本或超千亿美元：特朗普政府正大力宣传委内瑞拉的石油新秩序，称其为复兴这个全球最大原油储量国石油工业的绝佳机遇。由美国主导的该行业重组将俄罗斯和中国企业驱逐出此前授予的特许权区，并促成了与石油巨头、大型油田服务提供商以及相对默默无闻的新晋参与者之间的一系列石油协议——所有这些都是为了提振委内瑞拉的石油产量，并将其大部分出口至美国。",
+        "【undefined】Claude Opus 5.5 提示词工程指南：与 Claude Opus 5 相比的行为差异，以及解决这些差异的提示词与框架模式：努力程度校准（effort calibration）、API 集成与对话中的思考行为、进度更新、无人值守及多智能体任务、安全防护拒绝、前端设计、复杂视觉输入、多应用工作流以及用户消息中的粘贴文本。",
+        "【undefined】Truecaller将其诈骗情报带到开放网络，着眼于拓展来电显示之外的业务：在经过十多年打造服务超过5亿用户的来电显示业务后，Truecaller如今正将一路收集的诈骗情报带到开放网络，用户无需安装应用或登录即可使用。",
+        "【undefined】奥古斯丁时代默读是否不寻常？：A：阿尔及利亚，安纳巴省，安纳巴，安纳巴州",
+        "【undefined】即使大都会队打得很烂，《Out of the Park Baseball》也能让我享受棒球的乐趣：该话题的最新动态将添加到您的每日电子邮件文摘和主页动态流中。 查看所有游戏评测 《OOTP Baseball》是一款注重细节、高度拟真的棒球模拟游戏，它将你直接送入总经理办公室。 该作者的最新动态将添加到您的每日电子邮件文摘和主页动态流中。 查看特伦斯·奥布莱恩（Terrence O'Brien）的所有文章 如果您通过 The Verge 提供的链接购买商品，Vox Media 可能会获得佣金。详见我们的伦理道德声明。 如果你问我在哪款"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-28",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池：荣耀今天在中国发布全新的 Magic 9 系列旗舰手机，其中 9 Pro Max 采用了重新设计的外观，配备高性能摄像头和容量巨大的电池。这是荣耀宣布与摄像机厂商 Arri 合作以来推出的首款旗舰产品——不包括 Robot Phone。它带来的第一印象有两点。新的摄像头模组借鉴了 Arri 的设计，其灵感来自 1937 年首次推出的 Arriflex 35 所采用的“三镜头转塔”设计，主摄像头周围还配有滚花纹理。；【undefined】Claude Opus 5.5 提示词工程指南：与 Claude Opus 5 相比的行为差异，以及解决这些差异的提示词与框架模式：努力程度校准（effort calibration）、API 集成与对话中的思考行为、进度更新、无人值守及多智能体任务、安全防护拒绝、前端设计、复杂视觉输入、多应用工作流以及用户消息中的粘贴文本。；【undefined】Truecaller将其诈骗情报带到开放网络，着眼于拓展来电显示之外的业务：在经过十多年打造服务超过5亿用户的来电显示业务后，Truecaller如今正将一路收集的诈骗情报带到开放网络，用户无需安装应用或登录即可使用。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】用药房绿十字霓虹灯牌进行“瑞克摇”（Rickroll）：目前我正在寻找一份为期4个月的全职实习。如果您想了解更多信息，请点击下方按钮。；【undefined】愚人之专：我听了最近埃兹拉·克莱因（Ezra Klein）对英伟达首席执行官黄仁勋（Jensen Huang）的访谈，这次访谈在某种程度上像是针对“AI末日论”的一场罗夏墨迹测验：如果你倾向于看到毁灭，黄仁勋听上去就像是不屑一顾；但如果你（像我一样）并不担心人类的未来会断送在一个（比喻意义上的！）计算机程序手中，黄仁勋的回应就显得非常通情达理。（除了个别例外：这家伙真不知道自己的邮政编码吗？！）；【undefined】专家星号：2026年9月27日，星期日"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】俄罗斯股市主交易时段开盘持平：莫斯科，9月28日。（塔斯社）——据截至莫斯科时间周一上午9时（格林尼治时间上午6时）的交易数据，俄罗斯MOEX指数和RTS指数在主交易时段开盘时分别持平于2273.98点和849.35点。人民币兑卢布汇率较前一交易日收盘价下跌1.8戈比，报12.492卢布。"
+        },
+        {
+          "name": "⚡ 战略能源与气候",
+          "analysis": "【undefined】委内瑞拉石油复兴成本或超千亿美元：特朗普政府正大力宣传委内瑞拉的石油新秩序，称其为复兴这个全球最大原油储量国石油工业的绝佳机遇。由美国主导的该行业重组将俄罗斯和中国企业驱逐出此前授予的特许权区，并促成了与石油巨头、大型油田服务提供商以及相对默默无闻的新晋参与者之间的一系列石油协议——所有这些都是为了提振委内瑞拉的石油产量，并将其大部分出口至美国。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 39,
+      "degraded": 33,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 566614,
+      "byRole": {
+        "translator": {
+          "attempts": 47,
+          "degraded": 21,
+          "succeeded": 26
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "degraded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 4,
+          "degraded": 3
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "degraded": 33,
+          "succeeded": 39
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-1",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-15-translator-0",
+      "article-15-translator-1",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-21-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-30-translator-0",
+      "article-37-translator-0",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.224Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.618Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.320Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.698Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.399Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.565Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.411Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.866Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.650Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.326Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.630Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.026Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:12.326Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.539Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.637Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.856Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.618Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.999Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.565Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.911Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.997Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.459Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.938Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.479Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.805Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.553Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.856Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.310Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:12.026Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.931Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:11.161Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.934Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:11.719Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.159Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.830Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.228Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.310Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.411Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.158Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.399Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.607Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.637Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:07.315Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.607Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.203Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.297Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.113Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.253Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.866Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.318Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.135Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.314Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.314Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.615Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.672Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.051Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:12.144Z",
+        "lastSuccessAt": "2026-09-28T08:47:15.755Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.228Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.459Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.434Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.885Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.318Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.630Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.615Z",
+        "lastSuccessAt": "2026-09-28T08:47:11.091Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:12.159Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.390Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.459Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.672Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.838Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.277Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.051Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.203Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.459Z",
+        "lastSuccessAt": "2026-09-28T08:47:11.161Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-28T08:47:10.297Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.277Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.650Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:07.313Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.997Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-28T08:47:10.375Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:07.314Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.158Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.885Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.357Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.999Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.135Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:08.698Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.805Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.253Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.375Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.911Z",
+        "lastSuccessAt": "2026-09-28T08:47:10.113Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:10.886Z",
+        "lastSuccessAt": "2026-09-28T08:47:11.719Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:11.091Z",
+        "lastSuccessAt": "2026-09-28T08:47:12.144Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.553Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.838Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:09.479Z",
+        "lastSuccessAt": "2026-09-28T08:47:09.830Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:07.302Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.320Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:07.311Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.224Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T08:47:07.312Z",
+        "lastSuccessAt": "2026-09-28T08:47:08.938Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-s-issues-1124803857-html-49a0f75e087068a5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Valdai Announces Move From Sochi to Moscow Region Due to Logistics Issues",
+        "source": "Sputnik Globe (官方国际英文电讯)",
+        "sourceSlug": "sputnik",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:46:17.000Z",
+        "pubTime": "2026-09-28 16:46",
+        "url": "https://sputnikglobe.com/20260928/valdai-announces-move-from-sochi-to-moscow-region-due-to-logistics-issues-1124803857.html",
+        "imageUrl": "https://cdn.imgsputnikglobe.com/img/07e9/07/1c/1122504233_0:238:2799:1812_600x0_80_0_0_38b5123629accdacd0fae7499a9386fb.jpg",
+        "fullContent": "The annual meeting of the Valdai International Discussion Club is taking place in the Moscow region instead of Sochi due to logistical considerations, according to Andrey Bystritskiy, chairman of the board of the Valdai Club Development and Support Foundation.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Sputnik Globe (官方国际英文电讯)】于 2026-09-28 16:46 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Sputnik Globe (官方国际英文电讯)",
+            "url": "https://sputnikglobe.com/20260928/valdai-announces-move-from-sochi-to-moscow-region-due-to-logistics-issues-1124803857.html",
+            "publishedAt": "2026-09-28T08:46:17.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--j-robb-post-ddxwajndhny-3d0f2a89f08b4be2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Maybe don't let Muse run your Facebook Marketplace account",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:15:22.000Z",
+        "pubTime": "2026-09-28 16:15",
+        "url": "https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 16:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy",
+            "publishedAt": "2026-09-28T08:15:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-fs-trump-xi-meeting-html-2f313f6a3014274c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:31:33.000Z",
+        "pubTime": "2026-09-28 16:31",
+        "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — The U.S. and China are planning to reduce tariffs on $30 billion worth of goods from each country, according to government announcements from both sides Monday.\n\nThe detailed lists includes mostly imports of toys, sports equipment and Christmas decorations by the U.S., while American agricultural products accounted for much of the far longer list of imports by China.\n\nWashington has sought to reduce its record trade deficit with Beijing, as the Asian country exports far more to the U.S. than it imports. U.S. goods trade deficit with China was more than $202 billion last year.\n\n\"If we see the tariff cuts actually implemented before the holiday season, it could provide a welcome boost to U.S. consumption and to retailers,\" said Jacob Cooke, CEO at WPIC.\n\nCooke, whose company primarily helps U.S. brands sell in China, said that Beijing's import list includes fast-growing categories such as hair care and packaged pet food, where Chinese brands are highly competitive against U.S. offerings. \"Every percentage point counts for price competitiveness and preserving margin.\"\n\nHowever, it was not immediately clear when lower tariffs would take effect, and by how much the duties would go down. The U.S. and China last year slapped import tariffs effectively of over 40% and more than 30%, respectively, on each other.\n\nThe two countries limited further tariff increases after a one-year truce reached last fall. Last week, U.S. Treasury Secretary Scott Bessent said negotiators agreed to extend that truce to January.\n\nMonday's announcement followed U.S. President Donald Trump's summit with Chinese President Xi Jinping in Washington, D.C., last week. The two sides said the highly anticipated U.S.-China \"Board of Trade\" would consist of officials from both governments, and would meet at least once a quarter, with the top officials meeting \"whenever necessary.\"\n\nLower tariffs could substantially boost trade, especially for highly competitive Chinese companies. Home goods seller Ryan Zhao, director of Jiangsu Green Willow Textile, expects sales in the second half of the year to grow by 30% from a year ago if tariff cuts are implemented.\n\nHere's a select list of products set to benefit:\n\nPlates, cups, bowls, serving dishes\n\nTableware and kitchenware\n\nBlankets (including electric ones) and rugs\n\nChristmas-tree lamps and ornaments\n\nToys (including tricycles, but excluding items that connect to WiFi or Bluetooth)\n\nBilliards balls, chalk and tables\n\nRackets for games, other than for \"lawn-tennis or badminton\"\n\nSoccer balls, baseballs, softballs, lawn-tennis balls\n\nFish hooks and fishing line\n\nHorses, donkeys, cattle, pigs, sheep, goats, chickens for breeding\n\nFrozen, fresh or chilled whole chickens or turkeys\n\nRabbit meat, excluding rabbit heads\n\nDried, smoked or salted beef\n\nLive freshwater ornamental fish\n\nFresh or chilled tuna\n\nFrozen Atlantic salmon\n\nIce cream and other frozen products\n\nSoybean flour and meal\n\n—CNBC's Matthew Tan contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美中双方计划分别降低约300亿美元商品关税的具体商品范围及其对贸易、零售商、消费者和企业竞争力的潜在影响。报道将关税措施置于美中贸易逆差、此前关税休战延期以及两国领导人会晤后的经贸机制安排背景下，并强调降税的实施时间和幅度尚未明确。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:31:33.000Z",
+            "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html"
+          }
+        ]
+      },
+      {
+        "id": "story-iners-are-no-longer-safe-7fa8c9a29f513fb6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Containers Are No Longer a Security Boundary",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:21:12.000Z",
+        "pubTime": "2026-09-28 16:21",
+        "url": "https://depthfirst.com/research/containers-are-no-longer-safe",
+        "imageUrl": null,
+        "fullContent": "Published on Sep 22, 2026\n\nTL;DR: Containers are generally considered as a robust security isolation boundary and are widely used to isolate workloads across enterprise and cloud environments. As AI accelerates kernel vulnerability discovery and exploitation, the barrier to escaping containers by attacking kernel has fallen so significantly that we must assume attackers can do so at will. There are nearly 6000 kernel CVEs published as of September 2026. In this post, we demonstrate such a case using CVE-2026-80521, a Linux kernel use-after-free vulnerability in the AF_UNIX subsystem discovered with dfs-large1. The exploit code is available on GitHub. Organizations should move sensitive and untrusted workloads to stronger isolation technologies such as Firecracker or Kata Containers.\n\nOn July 24, 2026, we won a Google kernelCTF slot with a zero-day exploit for CVE-2026-80521. The vulnerability is a heap use-after-free in Linux kernel’s AF_UNIX subsystem, discovered using dfs-large1, our in house AI model trained for vulnerability detection, combined with our harness.\n\nThe AF_UNIX subsystem is the foundation of local inter-process communication (IPC) in the Linux kernel. If you have ever used a local socket, connected to a local database, or relied on system services like systemd or Docker, you have interacted with the subsystem. It provides the AF_UNIX socket family, which allows processes on the same machine to exchange data and, crucially, pass file descriptors to one another using SCM_RIGHTS messages. The vulnerability we discovered, CVE-2026-80521, resides in the garbage collection mechanism responsible for cleaning up these AF_UNIX sockets. Specifically, a race condition during the garbage collection of SCM_RIGHTS messages leads to a struct unix_vertex use-after-free. Because it handles these fundamental operations, it is deeply integrated into the kernel’s core architecture. The vulnerability here could impact most of the OS-level sandboxes (e.g., nsjail, Firejail, and Bubblewrap) and isolation mechanisms built on top of the kernel, including modern container runtimes.\n\nFor years, people have treated containers as a robust isolation boundary. In the cybersecurity community, for example, many Capture The Flag organizers host different challenges within the same server isolated by container, trusting that the host machine remains secure. In the enterprise world, this trust scales up to massive Kubernetes (K8s) deployments. Modern microservice-based applications run dozens to thousands of services, using Kubernetes pods as the basic unit of scheduling and containment. Modern cloud infrastructure is built heavily on multi tenancy, where workloads from different teams, or even entirely different organizations, run side by side on the same physical nodes. The container is treated as a hard security perimeter, almost like a lightweight virtual machine.\n\nBy design, containers drastically reduce the attack surface available to an adversary. When running workload in Docker or a Kubernetes pod, the runtime applies multiple layers of defense. Linux namespaces (like pid, net, and mnt) ensure the containerized process cannot see or interact with resources outside its isolated environment. Control groups (cgroups) restrict resource usage to prevent denial-of-service attacks. Crucially, runtimes apply strict seccomp-bpf profiles that filter which system calls the container can make to the kernel, blocking access to obscure or dangerous kernel APIs. Because of this high barrier to entry, the container threat model was generally perceived robust.\n\nTwo containers, each running an app as a non-root user, sit above a container runtime layer of Docker and Kubernetes, which sits above a single Linux kernel shared by the host and all containers, which in turn sits on the physical server or VM. The kernel is what provides the isolation those containers rely on: namespaces for pid, net and mnt, cgroups for resource limits, and seccomp-bpf for syscall filtering. Both containers reach that same kernel directly through ordinary system calls such as read, write, open and socket, passing straight through the runtime layer. The runtime does not stand between a container and the kernel, so a kernel vulnerability reachable from inside a container is reachable from every container on the host, with the kernel's own defences on the far side of the flaw.\n\nApp A with non-root user\n\nApp B with non-root user\n\n(e.g., read, write, open, socket)\n\n(orchestrates containers)\n\n(shared by host and all containers)\n\nPhysical server / VM\n\nCPU, Memory, Storage, Network\n\nDespite all these defenses, containers still share a single, monolithic kernel with the host OS. While a container packages its own user-space binaries, libraries, and application code, it does not bring its own operating system. Every container on a node relies on the host’s kernel to manage memory, schedule CPU time, route network packets, and handle inter-process communication like the UNIX subsystem. If an attacker can find a vulnerability in a kernel subsystem that is reachable from within the container, they can achieve a container escape. By exploiting the kernel directly, the attacker elevates their privileges to kernel level, completely bypassing all user-space isolation mechanisms. From there, they can pivot to the host machine, access other containers, and compromise the entire Kubernetes node in enterprise production environment.\n\nHistorically, only the most sophisticated attackers could find these bugs and master the complex exploitation techniques required to weaponize them. With the advancement of AI, the Linux kernel’s security landscape has changed completely. In 2026 alone, there have been 5,976 unique Linux kernel CVEs published (as of mid-September). The escalation is staggering: while January saw around 250 CVEs, August peaked at 1,650 published vulnerabilities, accounting for over 27% of the year’s total in a single month. To understand the severity of this trend for container security, let’s look at the data from Google’s kernelCTF. Out of the 36 distinct CVEs publicly disclosed there, 13 of them are reachable from ordinary, unprivileged interfaces, targeting the fundamental, everyday subsystems that are exposed to containers by default, including epoll, futex, POSIX timers, and AF_UNIX sockets.\n\nUnique CVEs first published each month\n\n5,976 published in Jan 1 - Sep 16, 2026\n\n5,976 unique Linux kernel CVEs were first published between Jan 1 - Sep 16, 2026. By month: Jan, 249; Feb, 222; Mar, 180; Apr, 382; May, 1,034; Jun, 514; Jul, 838; Aug, 1,650; Sep 1-16, 907. Sep 1-16 covers only part of the month, so its lower count is not a decline.\n\nIncludes subsequent rejected CVEs (counted by publication date, not CVE ID year)\n\nSource: Linux kernel security/vulns + CVE Program cvelistV5. Snapshot: September 16, 2026\n\nWith frontier AI models now capable of one-shotting exploit generation, attackers with little resource can easily develop 1-day exploits for these unpatched systems the moment a bug is disclosed. Furthermore, The sheer volume of new vulnerabilities is also overwhelming the ecosystem. As thousands of CVEs being reported, major Linux distributions are lagging significantly in backporting patches. There is a massive backlog of unpatched bugs in production systems, and we have no idea what new zero-days will be disclosed tomorrow. CVE-2026-80521, one of the AF_UNIX vulnerabilities discovered this year, is an example of this new reality. As of today, it is still unpatched in the latest ubuntu 26.04 release.\n\nThe vulnerability resides in the AF_UNIX garbage collection (GC) mechanism, specifically within how it handles SCM_RIGHTS messages. When you pass file descriptors over a UNIX socket, the kernel must ensure that circular references (e.g., socket A holds a reference to socket B, and socket B holds a reference to socket A) are eventually cleaned up. To do this, the GC represents each socket with in-flight references as a struct unix_vertex, and creates a struct unix_edge pointing to the receiving socket.\n\nTo optimize subsequent GC passes, the kernel groups strongly connected components (SCCs) and caches them in a persistent scc_entry ring. However, two specific behaviors in the kernel combine to leave a freed vertex inside this persistent ring, resulting in a classic Use-After-Free.\n\nWhen sending a message, the kernel publishes the SCM graph edges before it actually queues the socket buffer (skb) that carries the references:\n\nBecause unix_add_edges() temporarily takes and releases the unix_gc_lock, the garbage collector can interrupt the send path and observe the new edges before the skb is safely on the queue. If the GC decides the SCC is dead, it can collect older queued messages but cannot collect this new off-queue skb.\n\nWhen the GC purges a collected SCM message, it calls unix_del_edge(). If this removes the last edge from a vertex (bringing its out-degree to zero), the vertex is moved to a private list and subsequently freed by unix_free_vertices().\n\nThe fatal flaw is that nothing removes the vertex from its persistent scc_entry ring before it is freed. If another socket in the same SCC survives (which is possible due to the off-queue skb mentioned above), that surviving socket’s scc_entry ring will still contain a pointer to the freed vertex. When the next GC pass occurs, it walks this stale ring via unix_walk_scc_fast(), dereferencing the freed memory and triggering the Use-After-Free (UAF).\n\nWe have released our complete container escape exploit for CVE-2026-80521 here, which successfully targets the latest Ubuntu 26.04. Additionally, we add an exploit for CVE-2026-52910, demonstrating a escape against the latest Ubuntu 24.04.\n\nContainers are not a safe security boundary anymore. The industry’s long standing reliance on Linux kernel as an strong security boundary has been completely dismantled by the rapid advancement of AI. As models from the frontier labs, as well as dfs-large1, continue to scale, researchers will inevitably uncover a continuous stream of deep, logical kernel flaws that bypass traditional userspace sandboxing. The barrier to entry for weaponizing these vulnerabilities has dropped so significantly that we must assume attackers already have the capability to escape standard containers at will. This is no longer a theoretical threat, it echoes to the recent OpenAI Hugging face incident that how AI can easily find and exploit zero-days now. Think about attackers with the most accessible AI models are capable of escaping containers to move laterally across networks, the traditional threat model is dead.\n\nTo protect multi-tenant environments, and critical cloud workloads, the industry must pivot away from the shared kernel architectures and adopt stronger isolation. We strongly recommend migrating untrusted workloads to microVMs. Technologies like Firecracker or Kata Containers provide a much smaller attack surface. By giving each workload its own isolated, lightweight kernel, microVMs ensure that even if an attacker successfully exploits a kernel zero-day, they only compromise their own ephemeral instance, leaving the host and other tenants secure.\n\nThe era of trusting the monolithic kernel is over, it is time to build infrastructure that assumes the kernel will be breached at attackers’ will.\n\n7/24/2026 - We exploited the KernelCTF target and submitted our flag. 8/5/2026 - We got confirmation of winning the lts-6.12.95 slot. 8/5/2026 - We reported the findings to security@kernel.org. 8/5/2026 - We got reply that the same bug was reported by Kyle from OpenAI. 8/6/2026 - The patch to this vulnerability is released upstream. 9/22/2026 - We published our research.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：宣扬传统Linux容器隔离边界在AI时代已彻底失效，利用自研AI模型（dfs-large1）挖掘并公开内核0-day/1-day逃逸漏洞实证，倡导企业向更高级别的硬件/微虚机隔离方案（如Firecracker、Kata Containers）迁移。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:21:12.000Z",
+            "url": "https://depthfirst.com/research/containers-are-no-longer-safe"
+          }
+        ]
+      },
+      {
+        "id": "story-aims-starship-orbit-html-3a11a24fc2ba390f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX aims to put Starship in orbit for the first time",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:34:36.000Z",
+        "pubTime": "2026-09-28 16:34",
+        "url": "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/starship-will-attempt.jpg",
+        "fullContent": "Three years after its first test flight, SpaceX's Starship rocket will attempt Monday to enter Earth orbit, a key step in developing the massive launch vehicle for future missions to the moon and Mars.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 16:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
+            "publishedAt": "2026-09-28T08:34:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eterburg-2120666341-html-0b640801367a46f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Петербурге украинца приговорили к 15 годам колонии за шпионаж на СБУ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T08:44:34.000Z",
+        "pubTime": "2026-09-28 16:44",
+        "url": "https://ria.ru/20260928/peterburg-2120666341.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/153104/45/1531044588_0:0:3282:1847_650x0_80_0_0_bb5fabcccffac6a28ade89806eac108b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 16:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/peterburg-2120666341.html",
+            "publishedAt": "2026-09-28T08:44:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--when-ai-agents-go-rogue-9b8486475fb0050a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Who’s liable when AI agents go rogue?",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:06:22.000Z",
+        "pubTime": "2026-09-28 16:06",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "imageUrl": null,
+        "fullContent": "Recent hacks have shown that the law is lagging when it comes to holding companies accountable.\n\nOver the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Recently, external researchers discovered that OpenAI agents had hijacked a German wiki site and the coding platform RubyGems in May to share test answers.\n\nEarlier this month, Anthropic disclosed four incidents in which its model Claude hacked into third-party systems during cybersecurity exercises. Just last week, Google confirmed that its model Gemini had been caught hacking other companies too.\n\nThe researcher who uncovered the OpenAI website hijack has warned it’s likely that similar undiscovered episodes are out there. And many say it’s only a matter of time until there’s another, possibly more damaging incident where AI agents bypass sandboxes to access systems they shouldn’t.\n\nSo the big question is: How do we hold companies liable when they lose control of their AI agents?\n\nOpenAI didn’t disclose the German wiki incident or the RubyGems incident until a group of external researchers uncovered them, and it still has not disclosed some crucial details about the Hugging Face hack. That limits our understanding of what exactly went wrong and how to prevent it from happening again.\n\nBut you might be surprised to learn that OpenAI likely wasn’t legally required to disclose these incidents. (OpenAI did not respond to a request for comment.)\n\nState AI transparency laws like California’s SB 53, New York’s RAISE Act, and Illinois’s SB 315 require that AI developers report “critical safety incidents.” These are defined as incidents that cause more than 50 deaths or physical injuries or $1 billion in damage. They also include incidents where the model deceives developers outside an evaluation in a way that materially increases catastrophic risks. Many cybersecurity incidents that don’t meet the threshold for physical damage or catastrophic risks could nonetheless be dangerous precursors to such catastrophes, and the existing laws don’t account for that.\n\n“The recent incidents are a perfect example of why the law isn’t ready,” says Mackenzie Arnold, managing director of US policy at the Institute for Law and AI, a think tank. “Only the worst, most egregious, most immediately harmful stuff is going to qualify.”\n\nWith no authority under existing AI laws to demand information about anything short of a catastrophe, governments are left to borrow investigative authority from other laws or sue the companies, an expensive process that can take years.\n\n“Normally, something like the Hugging Face incident should have been taken to court,” says Yonathan Arbel, a law professor at the University of Alabama School of Law. “Then we would have discovery, and we would have all the spillover effects that we get from litigation, where all the information comes out.”\n\nBut so far, Hugging Face has chosen not to sue OpenAI. Hugging Face’s CEO, Clément Delangue, says it doesn’t have the resources to do so (instead, he asked OpenAI for $100 million in compute). Still, Delangue stressed in an interview with CNN at the end of July that choosing not to pursue legal action shouldn’t be taken to mean he doesn’t think OpenAI should be held accountable. “Everyone has to remember that this cyberattack is a crime. This is illegal. And we have to find a way to make sure these things don’t happen more regularly,” he said. Hugging Face did not respond to a request to comment.\n\nLitigation has the benefit of pushing courts to use existing laws to address AI safety incidents, rather than just waiting for new legislation. One obvious route is tort law, a body of civil law that lets people and businesses sue those who harm them. This is often used to hold companies liable for the mass harms they cause, like when families sued Boeing in 2019 over two plane crashes that killed hundreds of people, or when states and cities sued Purdue Pharma over the opioid crises, extracting settlements worth billions.\n\n“There’s plausible grounds for a negligence claim that OpenAI should have used a stronger sandbox, done more monitoring,” says Gabriel Weil, a law professor at the University of Houston Law Center. For example, when OpenAI employees discovered the covert message board that the agents had created, they could’ve promptly escalated their findings to security and safety teams. And the company could’ve better designed its sandbox to ensure that agents couldn’t access the internet.\n\nBut even if OpenAI doesn’t end up in a lawsuit over the Hugging Face hack, the threat of liability could incentivize AI labs to exercise more caution than explicitly demanded by law.\n\nOpenAI announced in its postmortem that it plans to strengthen the safeguards used to contain and monitor the models, accelerate model alignment, and improve its processes for identifying and addressing incidents.\n\n“The liability questions raised by frontier labs’ spate of cybersecurity attacks boil down to the incentives the expectation of liability creates for their future conduct,” says Weil. “That’s why I think it’s important to get these rules right, even if the stakes are pretty low in this particular case.”\n\nOne way to get answers—and determine whether OpenAI should be held liable—is to compel disclosure. But the existing state AI laws—California’s SB 53, New York’s RAISE Act, and Illinois’s 315—don’t give governments the authority to investigate incidents like the ones that happened recently.\n\nHowever, amid rising public alarm, state attorneys general are stepping in, borrowing investigative powers from other laws. Alabama, Montana and a coalition of 15 other states, and California are each demanding information about the incident from OpenAI to understand whether the company’s practices violated state consumer protection laws, among others. Members of Congress are also launching their own probes. Senator Josh Hawley opened a Senate investigation earlier this month, sending OpenAI a list of questions about the incident and the company’s internal policies together with a document request, while a group of House Democrats asked OpenAI and Anthropic to release their incident logs.\n\n“Someone needs to investigate, but it’s unfortunate that it has fallen to attorneys general, who need to rely on creative interpretations of their existing authorities to do this,” says Arnold, the US AI policy expert. Consumer protection statutes were written to catch companies that scam their customers, not companies that lose control of their software. The state attorneys general would have to show that OpenAI deceived or unfairly harmed customers, but it’s unclear if the hacking involved any such conduct.\n\nAnd “those [consumer protection] laws are not built for doing a thorough investigation of an AI cybersecurity incident,” says Arnold. They weren’t designed to help investigators determine whether a model was adequately contained or whether a company’s security practices were sound.\n\n“This is not the right tool for the job,” says Arbel. “The right tool would have been something like maybe a criminal investigation”—perhaps under a hacking law like the Computer Fraud and Abuse Act (CFAA).\n\nUnder CFAA, hacking into another company’s computer systems without permission is a crime. But to be held liable, a hacker must have intended to break into a computer without authorization. Intent arguably requires a state of mind, and no court has ruled that AI agents have one. Without such a precedent, it’s unlikely a court would rule that AI agents had carried out a hack.\n\nOne way to keep an eye on AI companies is to mandate external auditors.\n\nAfter the Hugging Face hack, OpenAI brought in researchers from the AI safety nonprofits METR and Redwood Research to examine the incident. However, it constrained access to the model that led to the hacks, didn’t disclose the company’s safety and security practices, limited the length of the investigation, and had ultimate say over what the researchers could publish. We still don’t know what set the attack in motion back in May and why OpenAI’s employees who spotted the agents’ activity never escalated to their safety and security leaders.\n\nThis kind of arrangement has a built-in tension: An auditor without legal authority depends on the labs’ goodwill for continued access, which means it has to scrutinize the labs without jeopardizing their relationship. Last week, Anthropic announced that the company will be hiring Accenture as an embedded evaluator to assess its models. Anthropic CEO Dario Amodei wrote in an essay that frontier AI labs should give “ongoing employee-like access” to “a team of embedded third-party evaluators (such as METR), whose role is to verify adherence to safety practices and commitments, report incidents, and help assess the alignment of not just completed AI models but training pipelines and processes.”\n\nMost existing state AI laws do not require labs to hire an external auditor. California’s SB 53 and New York’s RAISE Act just require AI companies to publish a safety framework describing how they will test their models for dangerous capabilities and then to follow it. The frameworks are written by the companies, and testing can be done internally. Only Illinois’s SB 315 requires companies to undergo an annual third-party audit starting in 2028.\n\n“There’s a lot of headroom for increasing not only reporting requirements for these companies, but also review by external bodies,” says Peter Salib, a law professor at the University of Houston Law Center. Those reviewers could be private auditors accredited by the government but chosen and paid for by the AI companies. Alternatively, they could be government agencies or insurance companies.\n\nNone of this is an accident. The laws on the books that failed to hold AI companies accountable for agentic cyberattacks emerged amid fierce lobbying by the AI industry.\n\nSB 1047, the California AI bill that was vetoed by Governor Gavin Newsom in 2024 after lobbying by OpenAI, Meta, Anthropic, and the venture capital firm Andreessen Horowitz, proposed a much tougher set of rules. It would have required AI companies to report a broader set of safety incidents (including incidents in which a model acts on its own or slips its controls), undergo annual third-party audits, and maintain a kill switch. But after a year of intense negotiations, Newsom signed SB 53, which narrowed the types of incidents deemed reportable and dropped the requirements for audits and kill switches.\n\nNew York’s RAISE Act followed the same arc. “The version of the RAISE Act that the NY Legislature passed would have required disclosure of this ‘incident,’” Alex Bores, the New York state assembly member who sponsored the bill, wrote on X. New York’s original bill also included third-party audits.\n\nWith political pressure mounting, new bills creating better reporting, auditing, and liability regimes for AI development are on the horizon. In Congress, the AI Incident Reporting Act would require AI companies to report to the Commerce Department when a model evades human oversight or breaches a system, even if it doesn’t cause any harm. The Frontier Act would require incident reporting and independent audits. In New York, the Understanding Artificial Intelligence Act, sponsored by Bores, would make companies liable when a model does something that if carried out by a human would be a tort or crime.\n\nAs AI agents increasingly become better at launching cyberattacks, the law remains behind. Closing the gap will require lawmakers to move faster than the next breakout.\n\nAI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.\n\nThe misbehavior is called reward hacking. This is what you need to know.\n\nMeet the new kids nipping at the heels of the AI giants.\n\nDiscover special offers, top stories, upcoming events, and more.\n\nThank you for submitting your email!\n\nIt looks like something went wrong.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:06:22.000Z",
+            "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+          }
+        ]
+      },
+      {
+        "id": "story-oline-prices-higher-html-1c3233d25a13ad1b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:00:00.000Z",
+        "pubTime": "2026-09-28 16:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Diesel-Export-Ban-Would-Send-Gasoline-Prices-Higher.html",
+        "imageUrl": null,
+        "fullContent": "If the United States institutes a ban on diesel fuel exports, Goldman Sachs analysts estimate it would initially push prices lower. The effect, however, would only continue until storage space fills up, the bank warned. Amid reports on the possibility that Washington may suspend diesel fuel exports for a period of 90 days, the investment bank&rsquo;s analysts calculated that the move, once in effect, could reduce diesel fuel prices by about $0.25 per gallon every week&mdash;until diesel storage capacity fills. Once that happens, prices at the pump will start climbing higher again, but this time for gasoline, Reuters reported, citing the bank. &ldquo;The longer a diesel export ban lasts, the more disruptive it would likely be by putting upward pressure on gasoline prices because diesel, &zwnj;gasoline, and jet fuel are largely produced together,&rdquo; Goldman Sachs&rsquo; commodity analysts said in a note. According to them, once available storage space fills with gasoline, gasoline prices could add $0.30 per gallon per week. [GooglePreferredSource] Meanwhile, the diesel ban would also push up fuel prices in Europe as well, as the continent is the biggest buyer of U.S. energy commodities. Goldman estimates the price effect at $3 per barrel of diesel, equal to about 2% of current prices. An emergency inventory release could cushion the blow by about 50% of that price rise, according to the bank. &ldquo;Once a diesel ban is lifted, US diesel prices would likely reconnect with prices elsewhere, including Europe, putting upward pressure on US diesel prices and downward pressure on prices abroad,&rdquo; the analysts also said. This raises the question of whether there is even a point to a diesel export ban, if its immediate effect would be short-lived, would then turn adverse on gasoline prices, and eventually, once the ban is lifted, diesel prices would rebound. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Diesel-Export-Ban-Would-Send-Gasoline-Prices-Higher.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sebastiancarlos-shobr-221c62b9d9cee970",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:05:47.000Z",
+        "pubTime": "2026-09-28 16:05",
+        "url": "https://github.com/sebastiancarlos/shobr",
+        "imageUrl": null,
+        "fullContent": "The stealthiest, UNIX-iest, Job Search Automator, with a Hacker-in-the-Loop approach.\n\nIn 2026's job market, there are many job application automation tools, some of them FOSS. This one's mine, and relies on:\n\nThe one hard requirement of this project is beachpatrol. You can think of it as a browser that you're meant to use as your daily driver, but which is also fully automatable (via a clever \"Playwright wrapper\" approach).\n\nWhy beachpatrol? Well, job search requires scraping. Ideally scraping done using your actual authenticated credentials. So, what better way to avoid detection than using your actual daily-driver browser to do the scraping? (It should be virtually identical to regular use, provided you don't break any ToS).\n\nOther \"job search automation tools\" either use unauthenticated requests or headless browsers, or ask you to extract / copy your authenticated credentials into their automated browsers. Our beachpatrol approach aims to do them all one better by using your actual daily-driver browser.\n\nIf you're interested, see beachpatrol's README.\n\nWith beachpatrol already setup, shobr requires Python >= 3.14 with uv:\n\nBecause SHOBR leverages roffume to compile Markdown resumes into PDFs, you will need some standard Unix text-processing tools on your system: groff and pandoc.\n\nSHOBR breaks the job search process into 5 pipeline stages.\n\nExample shobr status output:\n\nScrapes the LinkedIn job search results based on your config.toml keywords and locations, running them through a basic regex pre-filter.\n\nVisits individual job pages to extract full descriptions, salary ranges, and Easy Apply links. Done one at a time to pace requests and avoid rate-limits.\n\nScores enriched jobs against your personal Markdown profile and deal-breakers.\n\nFor jobs marked \"Pursue\", SHOBR uses the LLM to rewrite your base resume.md to highlight relevant skills. It then uses the roffume (Groff/Pandoc) toolchain to ensure the rewrite perfectly fits on one page, looping rewrites if it overflows.\n\nLocal Kanban-style tracking for your applications.\n\nEverything SHOBR knows about you lives under $XDG_CONFIG_HOME/shobr/ (default ~/.config/shobr): one config.toml plus a profile/*.md folder. shobr setup scaffolds all of them with instructional templates.\n\nHome of the CV toolchain (a roffume git checkout). The main resume defaults to <cv_toolchain_dir>/resume.md. The CV toolchain directory will ultimately contain all the generated CVs and other data, in its internal \"per-application\" directories.\n\nbeachpatrol browser profile holding the logged-in LinkedIn session.\n\nbeachpatrol browser to drive.\n\nJob titles fed to LinkedIn search as one ORed keyword query. Like \"Software Engineer\", \"Fullstack Developer\", etc.\n\nAppended to the same search OR query. Possible values are: on-site, hybrid, remote.\n\nGeo targets for the query, referred to BY NAME through the [geo_ids] map.\n\nMaps each geo name to a LinkedIn geoId. The names are totally customizable, but should represent the name of a real-world location. You have to obtain the id directly from the LinkedIn Jobs URLs (geoId=), after performing a search for a given location. Note that LinkedIn often has several ids per place (city vs metro area).\n\nEmployment types rejected at enrichment. Possible values are: Full-time, Part-time, Contract, Temporary, Internship.\n\nPlaces acceptable for presence-required work. Values are literal strings of names of locations (matched case-insensitive). Remote postings pass anywhere. \"On-site\" and \"hybrid\" postings must name a listed location.\n\nFilters by pre-filter. Matched against job title. The leads are rejected with reason title contains '<label>'.\n\nThe LLM stages read your profile as plain markdown files. Initialize the profile templates with shobr setup, and then fill the files yourself.\n\nYour main CV, used as a base to generate tailored CVs. Referred by either SHOBR_MAIN_CV_PATH or <cv_toolchain_dir>/resume.md.\n\nWork history and proficiencies in more detail than the CV.\n\nWhat makes a lead worth pursuing, in your own words.\n\nVeto rules (if found to match, it produces a score of 1, meaning that the lead is discarded).\n\nYour own rules and suggestions on how to tailor your main CV to a particular application. It might include formatting rules.\n\nGuide about how to write the cover letter for a given application. Explain tone, length, etc.\n\nSHOBR relies on roffume, a CV toolchain. The first tailor run offers to clone it (clones a pinned release) into ~/shobr-resumes.\n\nroffume isn't hardwired. SHOBR talks to it through a CV toolchain interface (four methods: scaffold, build, page_check, finalize) defined by the CvToolchain abstract class in cv_toolchain.py. Any tool that implements that interface can be swapped in for roffume (via some soft forking-and-hacking).\n\nSHOBR uses an Event Sourcing pattern. Every pipeline stage has an append-only events.jsonl log, which is replayed to create a .json projection of current state.\n\nThe stealthiest, UNIX-iest, Job Search Automator",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:05:47.000Z",
+            "url": "https://github.com/sebastiancarlos/shobr"
+          }
+        ]
+      },
+      {
+        "id": "story-nesia-regional-haze-html-050dd88460f5d96f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The wildfires choking Indonesia, sparking regional haze",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:32:52.000Z",
+        "pubTime": "2026-09-28 16:32",
+        "url": "https://phys.org/news/2026-09-wildfires-indonesia-regional-haze.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/between-january-and-ju.jpg",
+        "fullContent": "For weeks, Indonesia has been battling fires that have burned vast swaths of forest and peat ecosystems, causing toxic haze to blanket parts of the country, Malaysia and Singapore.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 16:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-wildfires-indonesia-regional-haze.html",
+            "publishedAt": "2026-09-28T08:32:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ermaniya-2120665523-html-337cb156ae1e3b49",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "СМИ: немецкие спецслужбы усилили давление на посольство России в Берлине",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T08:40:11.000Z",
+        "pubTime": "2026-09-28 16:40",
+        "url": "https://ria.ru/20260928/germaniya-2120665523.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/156195/55/1561955590_0:0:3072:1728_650x0_80_0_0_4804f4cb194721c85a2b7433996b2730.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 16:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/germaniya-2120665523.html",
+            "publishedAt": "2026-09-28T08:40:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-gon-battery-design-china-d66470cb5435fc73",
+        "title": "荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池",
+        "originalTitle": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:00:36.000Z",
+        "pubTime": "2026-09-28 16:00",
+        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor’s first flagship launch — Robot Phone aside — since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera island is Arri-inspired, drawing from the “three-lens turret” design first introduced in 1937’s Arriflex 35, complete with a knurled texture around the main lens. [Image: Arri used variants of this three-lens turret design across most of its film cameras. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260909-143532.jpg?quality=90&strip=all] Arri has played a part in the camera itself, contributing the ability to shoot in Arri LogC3, together with 14 preset Arri Look LUTs, access to Arri’s wider library of official and third-party LUTs, and support for the APV 10-bit 4:2:2 codec. The cameras themselves include a 200-megapixel main lens using a 1/1.28-inch-type sensor, a 3.5x telephoto using the same resolution and a 1/1.4-inch sensor, and a 50-megapixel ultrawide — though this latter lens doesn’t support all the Arri Cinema Mode features. A “cinema-grade” directional microphone should help with video recording too. Less technically impressive, but just as useful, will be the square-format selfie camera, which like Apple’s Center Stage will be able to capture in either landscape or portrait. Honor says that the wider camera island is more space-efficient, leaving extra space for a huge 8,800mAh battery, now up to 40 percent silicon content. The 9 Pro Max is powered by the Snapdragon 8 Elite Extreme Gen 6. I asked Honor why it picked the Extreme version, given the 9 Pro Max doesn’t support the 8K60 or 4K240 video recording that chip enables, and was told it was “about delivering a complete and consistent flagship experience, rather than pursuing a single benchmark result.” [Image: The Magic 9 Pro Max supports Honor’s G200 and G500 teleconverter lenses, plus a custom SmallRig video kit. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-camera-accessories.jpg?quality=90&strip=all] The Magic 9 series launches in China today. Honor has confirmed that an international launch is coming, but we’re still waiting to find out when.",
+        "fullTranslation": "荣耀今天在中国发布全新的 Magic 9 系列旗舰手机，其中 9 Pro Max 采用了重新设计的外观，配备高性能摄像头和容量巨大的电池。这是荣耀宣布与摄像机厂商 Arri 合作以来推出的首款旗舰产品——不包括 Robot Phone。它带来的第一印象有两点。新的摄像头模组借鉴了 Arri 的设计，其灵感来自 1937 年首次推出的 Arriflex 35 所采用的“三镜头转塔”设计，主摄像头周围还配有滚花纹理。\n\n[图片：Arri 在其大多数电影摄影机中采用了这一三镜头转塔设计的不同变体。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260909-143532.jpg?quality=90&strip=all]\n\nArri 也参与了摄像头本身的研发，带来了 Arri LogC3 拍摄能力、14 种预设 Arri Look LUT，以及访问 Arri 更大规模官方和第三方 LUT 库的权限，同时支持 APV 10-bit 4:2:2 编解码器。具体摄像头配置包括：一枚采用 1/1.28 英寸规格传感器的 2 亿像素主摄像头；一枚采用相同分辨率、配备 1/1.4 英寸传感器的 3.5 倍长焦摄像头；以及一枚 5000 万像素超广角摄像头——不过，后者并不支持 Arri 电影模式的全部功能。一枚“电影级”定向麦克风也应有助于视频录制。\n\n技术表现不那么令人印象深刻、但同样实用的，是方形画幅自拍摄像头。与苹果的 Center Stage 类似，它能够以横向或纵向模式进行拍摄。荣耀表示，更宽的摄像头模组能够更高效地利用空间，从而为一块容量高达 8800mAh、电池硅含量目前提升至 40% 的超大电池腾出额外空间。\n\n9 Pro Max 搭载 Snapdragon 8 Elite Extreme Gen 6。鉴于 9 Pro Max 并不支持该芯片所支持的 8K60 或 4K240 视频录制功能，我询问荣耀为何选择 Extreme 版本。荣耀方面表示，这是“为了提供完整且一致的旗舰体验，而不是追求单项基准测试成绩”。\n\n[图片：Magic 9 Pro Max 支持荣耀 G200 和 G500 增距镜，以及定制版 SmallRig 视频套件。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-camera-accessories.jpg?quality=90&strip=all]\n\nMagic 9 系列今天在中国上市。荣耀已确认该系列将面向国际市场发布，但具体时间仍有待公布。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Magic 9 Pro Max的外观设计、影像系统、与ARRI合作带来的视频功能、超大容量电池及旗舰芯片，整体以产品亮点和技术规格为主，同时提出芯片性能可能超出实际视频规格需求的问题。文中“capable camera”“colossal battery”“cinema-grade”等属于报道叙事或宣传性表述，不应视为已被独立验证的结论。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:00:36.000Z",
+            "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
+          }
+        ]
+      },
+      {
+        "id": "story-9-4017-90ef-30ffcd8d7f8d-9dfd7e570a7eca82",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shares in UK housebuilders surge on new Help to Buy scheme",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T07:48:27.000Z",
+        "pubTime": "2026-09-28 15:48",
+        "url": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc72faaf3-c2f9-42d2-a0c0-efeb94f039ad.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "UK Prime Minister Andy Burnham unveils scheme to help first-time buyers on to housing ladder",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-28 15:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-28T07:48:27.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rickroll-pharmacy-cross-44e79e08c19cb047",
+        "title": "用药房绿十字霓虹灯牌进行“瑞克摇”（Rickroll）",
+        "originalTitle": "Rickrolling with a Pharmacy cross",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T07:52:23.000Z",
+        "pubTime": "2026-09-28 15:52",
+        "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
+        "imageUrl": null,
+        "fullContent": "Currently looking for a 4 month full-time internship. If you wish to learn more, please click on the button below.\n\nIf you have ever visited France, you might have seen one of these green crosses, bolted onto the building, with bright flashing colors. It is a symbol commonly used to indicate that there is a pharmacy nearby (symbols might vary on a country basis). At this point, it has become a national symbol.\n\nThe pharmacy crosses can be a true business for some companies, where they make (or resell) crosses and implement their own control software. However, nothing lasts forever, and turns out that's true for pharmacies too! People retire, quit the business and whatnot. Question is: what happens to these crosses?\n\nMost of them can cost anywhere from 200 to 2000€ depending on the brand, so it's not unusual that these crosses eventually find themselves on the e-commerce market (ebay, leboncoin...).\n\nAbout two years ago, a strong interest was given to these crosses due to a very well-produced and popular video1 by French youtuber Sylvqin. In this video, he explains the history behind these crosses, goes to buy one and then reverse engineers it.\n\nAt the start of 2026, a couple of older students at my school decided to challenge themselves too. So they bought one and completely reversed engineered it, which took them weeks. After they were successful, they organized a hackathon where we could play with the cross!\n\nUnfortunately, I didn't participate in the reversing process, so I cannot comment on how the cross works or any of it. If there's an article about it, let me know and I will link it here!\n\nThey gave us a C++ library, called Lib_Croix, to directly interact with it. It simplified a lot of reading & writing to the cross.\n\nThere were a couple of submissions such as:\n\nAnd the submission from my group of friends and me, a \"video\" player.\n\nAs you might know, a video is essentially just a collection of images put together. So first, to display a video, we need to try and just display an image.\n\nWarning: The following code was made in less than 24 hours which means it is of mediocre quality. If I had more time (and more energy), I would've done it probably way differently.\n\nWe need some information about our local cross, let's get those:\n\nFor simplicity sake, we will convert our image from X by Y to 24 by 24 and make it monochrome. Of course, we're going to use imagemagick for that:\n\nThat's pretty simple already, but since I don't really want to bother with C++ image handling, let's make it even simpler. I created a python script (using Pillow) to take all the pixels on the image and then create a text file with an x for white pixels and . for black pixels:\n\nFuture self note: you maybe could've just used PPM instead of dealing with all of that.\n\nLast but not least, the C++ displayImage function (simplified for the example):\n\nWoo! We displayed an image of the cross! (forgot to take a picture, but it was our GitHub organization's logo, a remix of the sudo sandwich logo)\n\nNow, let's do it for a video.\n\nOkay so, videos == lots of images, but how can we extract lots of images? Thankfully, a small software that powers a significant part of the Internet can help us with that (FFmpeg).\n\nLet's write a quick bash script for that:\n\nIt will create a folder output where all of our .converted monochrome files reside. Our python script, which has been modified to include loops, will then transform those files into .pharma files.\n\nNow some file sorting machinery for our C++ files collection:\n\nThe final version was worth it :)\n\nYou can see if you ever come to Epitech Lyon, you should come by to see the cross as it now lives as a permanent display item in the Hub, displaying \"HUB LYON X EPITECH\".\n\nClick here to see the final version of the code (warning: very scuffed)\n\nI highly recommend Sylvqin's channel (mostly in French, might have French or English subtitles), I took a lot of inspiration from his video to write the history part of this article.",
+        "fullTranslation": "目前我正在寻找一份为期4个月的全职实习。如果您想了解更多信息，请点击下方按钮。\n\n如果你曾经去过法国，你可能见过这种固定在建筑物上的绿色十字架，闪烁着明亮的色彩。这是一种通常用来指示附近有药房的标志（不同国家的标志可能有所不同）。在现阶段，它已经成为了一种国家象征。\n\n药房十字灯牌对某些公司而言是一门实实在在的生意，他们制造（或转售）十字灯牌并开发自己的控制软件。然而，花无百日红，药房也是如此！人们会退休、停业转行等等。问题是：这些十字灯牌最终会流向何处？\n\n根据品牌不同，大多数灯牌的价格从200欧元到2000欧元不等，因此这些十字灯牌最终流入二手电商市场（如ebay、leboncoin等）并不罕见。\n\n大约两年前，法国YouTube博主Sylvqin制作的一期制作精良且极受欢迎的视频引发了人们对这些十字灯牌的极大兴趣。在该视频中，他解释了这些十字架背后的历史，并亲自买了一个进行逆向工程。\n\n2026年初，我学校的几位学长也决定挑战一下自己。于是他们买来一个并完全对其进行了逆向工程，这耗费了他们数周的时间。成功之后，他们组织了一场黑客马拉松，让大家都能用这个十字灯牌玩起来！\n\n遗憾的是，我没有参与逆向工程的过程，因此我无法对该十字灯牌的具体工作原理做出评论。如果有人写了相关的文章，请告诉我，我会在此附上链接！\n\n他们为我们提供了一个名为 Lib_Croix 的 C++ 库，以便直接与其进行交互。它极大地简化了向十字灯牌读取和写入数据的操作。\n\n当时出现了一些参赛作品，例如：\n\n以及我和我的朋友小组提交的作品：一个“视频”播放器。\n\n正如你可能知道的，视频本质上就是一组拼凑在一起的图像集合。因此首先，为了播放视频，我们需要尝试先显示单张图像。\n\n警告：以下代码是在不到24小时内赶出来的，这意味着代码质量很一般。如果我有更多的时间（和更多的精力），我可能会采取截然不同的实现方式。\n\n我们需要获取关于我们本地十字灯牌的一些参数信息，让我们先获取这些：\n\n为了简单起见，我们将图像尺寸从 X×Y 转换为 24×24 并将其转为单色。当然，我们打算使用 imagemagick 来完成这件事：\n\n这已经相当简单了，但由于我不太想费心在 C++ 里处理图像，所以我们让它变得更简单一点。我写了一个 Python 脚本（使用 Pillow 库）来提取图像上的所有像素，然后生成一个文本文件，其中白像素用 x 表示，黑像素用 . 表示：\n\n写给未来的备忘录：你其实完全可以直接使用 PPM 格式，而不必折腾这么多。\n\n最后但同样重要的是，C++ 的 displayImage 函数（针对示例进行了简化）：\n\n太棒了！我们在十字灯牌上成功显示了一张图片！（忘记拍照了，但当时展示的是我们 GitHub 组织的徽标，即 sudo sandwich 徽标的二次创作版）\n\n现在，让我们来尝试播放视频。\n\n好的，视频 == 大量图像，但我们该如何提取出大量的图像呢？幸运的是，一款支撑着互联网大半壁江山的小软件可以帮我们实现这一点（FFmpeg）。\n\n让我们为此编写一个简短的 bash 脚本：\n\n它会创建一个 output 文件夹，我们所有的 .converted 单色文件都存放在那里。然后，我们修改后加入了循环处理逻辑的 Python 脚本会将这些文件转换为 .pharma 文件。\n\n接下来是用于我们的 C++ 文件集合的文件排序处理机制：\n\n最终的效果非常值得 :)\n\n如果你有机会来到 Epitech Lyon，欢迎顺道来看看这个十字灯牌，因为它现在已经作为永久展品摆放在 Hub 中，上面正显示着“HUB LYON X EPITECH”。\n\n点击此处查看代码的最终版本（警告：代码写得非常粗糙糙）\n\n我强烈推荐关注 Sylvqin 的频道（主要是法语，可能配有法语或英文字幕），我在撰写本文的历史背景部分时从他的视频中汲取了大量灵感。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 27,
+        "keyTakeaways": [
+          "来源叙事重点：将药房十字灯从商业设备和法国常见公共符号，叙述为可被二次利用的技术对象。文章重点展示学生团队如何通过逆向工程、C++库、Python、ImageMagick和FFmpeg，把图像及视频转换为单色像素数据并显示在十字灯上，最终将设备作为Epitech Lyon的永久展示物。整体叙事偏向项目展示、技术实践和轻松的创客文化；标题所暗示的“Rickrolling”在正文提供的内容中未得到具体展开。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T07:52:23.000Z",
+            "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-s-issues-1124803857-html-49a0f75e087068a5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Valdai Announces Move From Sochi to Moscow Region Due to Logistics Issues",
+        "source": "Sputnik Globe (官方国际英文电讯)",
+        "sourceSlug": "sputnik",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:46:17.000Z",
+        "pubTime": "2026-09-28 16:46",
+        "url": "https://sputnikglobe.com/20260928/valdai-announces-move-from-sochi-to-moscow-region-due-to-logistics-issues-1124803857.html",
+        "imageUrl": "https://cdn.imgsputnikglobe.com/img/07e9/07/1c/1122504233_0:238:2799:1812_600x0_80_0_0_38b5123629accdacd0fae7499a9386fb.jpg",
+        "fullContent": "The annual meeting of the Valdai International Discussion Club is taking place in the Moscow region instead of Sochi due to logistical considerations, according to Andrey Bystritskiy, chairman of the board of the Valdai Club Development and Support Foundation.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Sputnik Globe (官方国际英文电讯)】于 2026-09-28 16:46 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Sputnik Globe (官方国际英文电讯)",
+            "url": "https://sputnikglobe.com/20260928/valdai-announces-move-from-sochi-to-moscow-region-due-to-logistics-issues-1124803857.html",
+            "publishedAt": "2026-09-28T08:46:17.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--j-robb-post-ddxwajndhny-3d0f2a89f08b4be2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Maybe don't let Muse run your Facebook Marketplace account",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:15:22.000Z",
+        "pubTime": "2026-09-28 16:15",
+        "url": "https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 16:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy",
+            "publishedAt": "2026-09-28T08:15:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-fs-trump-xi-meeting-html-2f313f6a3014274c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:31:33.000Z",
+        "pubTime": "2026-09-28 16:31",
+        "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — The U.S. and China are planning to reduce tariffs on $30 billion worth of goods from each country, according to government announcements from both sides Monday.\n\nThe detailed lists includes mostly imports of toys, sports equipment and Christmas decorations by the U.S., while American agricultural products accounted for much of the far longer list of imports by China.\n\nWashington has sought to reduce its record trade deficit with Beijing, as the Asian country exports far more to the U.S. than it imports. U.S. goods trade deficit with China was more than $202 billion last year.\n\n\"If we see the tariff cuts actually implemented before the holiday season, it could provide a welcome boost to U.S. consumption and to retailers,\" said Jacob Cooke, CEO at WPIC.\n\nCooke, whose company primarily helps U.S. brands sell in China, said that Beijing's import list includes fast-growing categories such as hair care and packaged pet food, where Chinese brands are highly competitive against U.S. offerings. \"Every percentage point counts for price competitiveness and preserving margin.\"\n\nHowever, it was not immediately clear when lower tariffs would take effect, and by how much the duties would go down. The U.S. and China last year slapped import tariffs effectively of over 40% and more than 30%, respectively, on each other.\n\nThe two countries limited further tariff increases after a one-year truce reached last fall. Last week, U.S. Treasury Secretary Scott Bessent said negotiators agreed to extend that truce to January.\n\nMonday's announcement followed U.S. President Donald Trump's summit with Chinese President Xi Jinping in Washington, D.C., last week. The two sides said the highly anticipated U.S.-China \"Board of Trade\" would consist of officials from both governments, and would meet at least once a quarter, with the top officials meeting \"whenever necessary.\"\n\nLower tariffs could substantially boost trade, especially for highly competitive Chinese companies. Home goods seller Ryan Zhao, director of Jiangsu Green Willow Textile, expects sales in the second half of the year to grow by 30% from a year ago if tariff cuts are implemented.\n\nHere's a select list of products set to benefit:\n\nPlates, cups, bowls, serving dishes\n\nTableware and kitchenware\n\nBlankets (including electric ones) and rugs\n\nChristmas-tree lamps and ornaments\n\nToys (including tricycles, but excluding items that connect to WiFi or Bluetooth)\n\nBilliards balls, chalk and tables\n\nRackets for games, other than for \"lawn-tennis or badminton\"\n\nSoccer balls, baseballs, softballs, lawn-tennis balls\n\nFish hooks and fishing line\n\nHorses, donkeys, cattle, pigs, sheep, goats, chickens for breeding\n\nFrozen, fresh or chilled whole chickens or turkeys\n\nRabbit meat, excluding rabbit heads\n\nDried, smoked or salted beef\n\nLive freshwater ornamental fish\n\nFresh or chilled tuna\n\nFrozen Atlantic salmon\n\nIce cream and other frozen products\n\nSoybean flour and meal\n\n—CNBC's Matthew Tan contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美中双方计划分别降低约300亿美元商品关税的具体商品范围及其对贸易、零售商、消费者和企业竞争力的潜在影响。报道将关税措施置于美中贸易逆差、此前关税休战延期以及两国领导人会晤后的经贸机制安排背景下，并强调降税的实施时间和幅度尚未明确。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:31:33.000Z",
+            "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html"
+          }
+        ]
+      },
+      {
+        "id": "story-iners-are-no-longer-safe-7fa8c9a29f513fb6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Containers Are No Longer a Security Boundary",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:21:12.000Z",
+        "pubTime": "2026-09-28 16:21",
+        "url": "https://depthfirst.com/research/containers-are-no-longer-safe",
+        "imageUrl": null,
+        "fullContent": "Published on Sep 22, 2026\n\nTL;DR: Containers are generally considered as a robust security isolation boundary and are widely used to isolate workloads across enterprise and cloud environments. As AI accelerates kernel vulnerability discovery and exploitation, the barrier to escaping containers by attacking kernel has fallen so significantly that we must assume attackers can do so at will. There are nearly 6000 kernel CVEs published as of September 2026. In this post, we demonstrate such a case using CVE-2026-80521, a Linux kernel use-after-free vulnerability in the AF_UNIX subsystem discovered with dfs-large1. The exploit code is available on GitHub. Organizations should move sensitive and untrusted workloads to stronger isolation technologies such as Firecracker or Kata Containers.\n\nOn July 24, 2026, we won a Google kernelCTF slot with a zero-day exploit for CVE-2026-80521. The vulnerability is a heap use-after-free in Linux kernel’s AF_UNIX subsystem, discovered using dfs-large1, our in house AI model trained for vulnerability detection, combined with our harness.\n\nThe AF_UNIX subsystem is the foundation of local inter-process communication (IPC) in the Linux kernel. If you have ever used a local socket, connected to a local database, or relied on system services like systemd or Docker, you have interacted with the subsystem. It provides the AF_UNIX socket family, which allows processes on the same machine to exchange data and, crucially, pass file descriptors to one another using SCM_RIGHTS messages. The vulnerability we discovered, CVE-2026-80521, resides in the garbage collection mechanism responsible for cleaning up these AF_UNIX sockets. Specifically, a race condition during the garbage collection of SCM_RIGHTS messages leads to a struct unix_vertex use-after-free. Because it handles these fundamental operations, it is deeply integrated into the kernel’s core architecture. The vulnerability here could impact most of the OS-level sandboxes (e.g., nsjail, Firejail, and Bubblewrap) and isolation mechanisms built on top of the kernel, including modern container runtimes.\n\nFor years, people have treated containers as a robust isolation boundary. In the cybersecurity community, for example, many Capture The Flag organizers host different challenges within the same server isolated by container, trusting that the host machine remains secure. In the enterprise world, this trust scales up to massive Kubernetes (K8s) deployments. Modern microservice-based applications run dozens to thousands of services, using Kubernetes pods as the basic unit of scheduling and containment. Modern cloud infrastructure is built heavily on multi tenancy, where workloads from different teams, or even entirely different organizations, run side by side on the same physical nodes. The container is treated as a hard security perimeter, almost like a lightweight virtual machine.\n\nBy design, containers drastically reduce the attack surface available to an adversary. When running workload in Docker or a Kubernetes pod, the runtime applies multiple layers of defense. Linux namespaces (like pid, net, and mnt) ensure the containerized process cannot see or interact with resources outside its isolated environment. Control groups (cgroups) restrict resource usage to prevent denial-of-service attacks. Crucially, runtimes apply strict seccomp-bpf profiles that filter which system calls the container can make to the kernel, blocking access to obscure or dangerous kernel APIs. Because of this high barrier to entry, the container threat model was generally perceived robust.\n\nTwo containers, each running an app as a non-root user, sit above a container runtime layer of Docker and Kubernetes, which sits above a single Linux kernel shared by the host and all containers, which in turn sits on the physical server or VM. The kernel is what provides the isolation those containers rely on: namespaces for pid, net and mnt, cgroups for resource limits, and seccomp-bpf for syscall filtering. Both containers reach that same kernel directly through ordinary system calls such as read, write, open and socket, passing straight through the runtime layer. The runtime does not stand between a container and the kernel, so a kernel vulnerability reachable from inside a container is reachable from every container on the host, with the kernel's own defences on the far side of the flaw.\n\nApp A with non-root user\n\nApp B with non-root user\n\n(e.g., read, write, open, socket)\n\n(orchestrates containers)\n\n(shared by host and all containers)\n\nPhysical server / VM\n\nCPU, Memory, Storage, Network\n\nDespite all these defenses, containers still share a single, monolithic kernel with the host OS. While a container packages its own user-space binaries, libraries, and application code, it does not bring its own operating system. Every container on a node relies on the host’s kernel to manage memory, schedule CPU time, route network packets, and handle inter-process communication like the UNIX subsystem. If an attacker can find a vulnerability in a kernel subsystem that is reachable from within the container, they can achieve a container escape. By exploiting the kernel directly, the attacker elevates their privileges to kernel level, completely bypassing all user-space isolation mechanisms. From there, they can pivot to the host machine, access other containers, and compromise the entire Kubernetes node in enterprise production environment.\n\nHistorically, only the most sophisticated attackers could find these bugs and master the complex exploitation techniques required to weaponize them. With the advancement of AI, the Linux kernel’s security landscape has changed completely. In 2026 alone, there have been 5,976 unique Linux kernel CVEs published (as of mid-September). The escalation is staggering: while January saw around 250 CVEs, August peaked at 1,650 published vulnerabilities, accounting for over 27% of the year’s total in a single month. To understand the severity of this trend for container security, let’s look at the data from Google’s kernelCTF. Out of the 36 distinct CVEs publicly disclosed there, 13 of them are reachable from ordinary, unprivileged interfaces, targeting the fundamental, everyday subsystems that are exposed to containers by default, including epoll, futex, POSIX timers, and AF_UNIX sockets.\n\nUnique CVEs first published each month\n\n5,976 published in Jan 1 - Sep 16, 2026\n\n5,976 unique Linux kernel CVEs were first published between Jan 1 - Sep 16, 2026. By month: Jan, 249; Feb, 222; Mar, 180; Apr, 382; May, 1,034; Jun, 514; Jul, 838; Aug, 1,650; Sep 1-16, 907. Sep 1-16 covers only part of the month, so its lower count is not a decline.\n\nIncludes subsequent rejected CVEs (counted by publication date, not CVE ID year)\n\nSource: Linux kernel security/vulns + CVE Program cvelistV5. Snapshot: September 16, 2026\n\nWith frontier AI models now capable of one-shotting exploit generation, attackers with little resource can easily develop 1-day exploits for these unpatched systems the moment a bug is disclosed. Furthermore, The sheer volume of new vulnerabilities is also overwhelming the ecosystem. As thousands of CVEs being reported, major Linux distributions are lagging significantly in backporting patches. There is a massive backlog of unpatched bugs in production systems, and we have no idea what new zero-days will be disclosed tomorrow. CVE-2026-80521, one of the AF_UNIX vulnerabilities discovered this year, is an example of this new reality. As of today, it is still unpatched in the latest ubuntu 26.04 release.\n\nThe vulnerability resides in the AF_UNIX garbage collection (GC) mechanism, specifically within how it handles SCM_RIGHTS messages. When you pass file descriptors over a UNIX socket, the kernel must ensure that circular references (e.g., socket A holds a reference to socket B, and socket B holds a reference to socket A) are eventually cleaned up. To do this, the GC represents each socket with in-flight references as a struct unix_vertex, and creates a struct unix_edge pointing to the receiving socket.\n\nTo optimize subsequent GC passes, the kernel groups strongly connected components (SCCs) and caches them in a persistent scc_entry ring. However, two specific behaviors in the kernel combine to leave a freed vertex inside this persistent ring, resulting in a classic Use-After-Free.\n\nWhen sending a message, the kernel publishes the SCM graph edges before it actually queues the socket buffer (skb) that carries the references:\n\nBecause unix_add_edges() temporarily takes and releases the unix_gc_lock, the garbage collector can interrupt the send path and observe the new edges before the skb is safely on the queue. If the GC decides the SCC is dead, it can collect older queued messages but cannot collect this new off-queue skb.\n\nWhen the GC purges a collected SCM message, it calls unix_del_edge(). If this removes the last edge from a vertex (bringing its out-degree to zero), the vertex is moved to a private list and subsequently freed by unix_free_vertices().\n\nThe fatal flaw is that nothing removes the vertex from its persistent scc_entry ring before it is freed. If another socket in the same SCC survives (which is possible due to the off-queue skb mentioned above), that surviving socket’s scc_entry ring will still contain a pointer to the freed vertex. When the next GC pass occurs, it walks this stale ring via unix_walk_scc_fast(), dereferencing the freed memory and triggering the Use-After-Free (UAF).\n\nWe have released our complete container escape exploit for CVE-2026-80521 here, which successfully targets the latest Ubuntu 26.04. Additionally, we add an exploit for CVE-2026-52910, demonstrating a escape against the latest Ubuntu 24.04.\n\nContainers are not a safe security boundary anymore. The industry’s long standing reliance on Linux kernel as an strong security boundary has been completely dismantled by the rapid advancement of AI. As models from the frontier labs, as well as dfs-large1, continue to scale, researchers will inevitably uncover a continuous stream of deep, logical kernel flaws that bypass traditional userspace sandboxing. The barrier to entry for weaponizing these vulnerabilities has dropped so significantly that we must assume attackers already have the capability to escape standard containers at will. This is no longer a theoretical threat, it echoes to the recent OpenAI Hugging face incident that how AI can easily find and exploit zero-days now. Think about attackers with the most accessible AI models are capable of escaping containers to move laterally across networks, the traditional threat model is dead.\n\nTo protect multi-tenant environments, and critical cloud workloads, the industry must pivot away from the shared kernel architectures and adopt stronger isolation. We strongly recommend migrating untrusted workloads to microVMs. Technologies like Firecracker or Kata Containers provide a much smaller attack surface. By giving each workload its own isolated, lightweight kernel, microVMs ensure that even if an attacker successfully exploits a kernel zero-day, they only compromise their own ephemeral instance, leaving the host and other tenants secure.\n\nThe era of trusting the monolithic kernel is over, it is time to build infrastructure that assumes the kernel will be breached at attackers’ will.\n\n7/24/2026 - We exploited the KernelCTF target and submitted our flag. 8/5/2026 - We got confirmation of winning the lts-6.12.95 slot. 8/5/2026 - We reported the findings to security@kernel.org. 8/5/2026 - We got reply that the same bug was reported by Kyle from OpenAI. 8/6/2026 - The patch to this vulnerability is released upstream. 9/22/2026 - We published our research.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：宣扬传统Linux容器隔离边界在AI时代已彻底失效，利用自研AI模型（dfs-large1）挖掘并公开内核0-day/1-day逃逸漏洞实证，倡导企业向更高级别的硬件/微虚机隔离方案（如Firecracker、Kata Containers）迁移。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:21:12.000Z",
+            "url": "https://depthfirst.com/research/containers-are-no-longer-safe"
+          }
+        ]
+      },
+      {
+        "id": "story-aims-starship-orbit-html-3a11a24fc2ba390f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX aims to put Starship in orbit for the first time",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:34:36.000Z",
+        "pubTime": "2026-09-28 16:34",
+        "url": "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/starship-will-attempt.jpg",
+        "fullContent": "Three years after its first test flight, SpaceX's Starship rocket will attempt Monday to enter Earth orbit, a key step in developing the massive launch vehicle for future missions to the moon and Mars.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 16:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
+            "publishedAt": "2026-09-28T08:34:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eterburg-2120666341-html-0b640801367a46f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Петербурге украинца приговорили к 15 годам колонии за шпионаж на СБУ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T08:44:34.000Z",
+        "pubTime": "2026-09-28 16:44",
+        "url": "https://ria.ru/20260928/peterburg-2120666341.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/153104/45/1531044588_0:0:3282:1847_650x0_80_0_0_bb5fabcccffac6a28ade89806eac108b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 16:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/peterburg-2120666341.html",
+            "publishedAt": "2026-09-28T08:44:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--when-ai-agents-go-rogue-9b8486475fb0050a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Who’s liable when AI agents go rogue?",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:06:22.000Z",
+        "pubTime": "2026-09-28 16:06",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "imageUrl": null,
+        "fullContent": "Recent hacks have shown that the law is lagging when it comes to holding companies accountable.\n\nOver the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Recently, external researchers discovered that OpenAI agents had hijacked a German wiki site and the coding platform RubyGems in May to share test answers.\n\nEarlier this month, Anthropic disclosed four incidents in which its model Claude hacked into third-party systems during cybersecurity exercises. Just last week, Google confirmed that its model Gemini had been caught hacking other companies too.\n\nThe researcher who uncovered the OpenAI website hijack has warned it’s likely that similar undiscovered episodes are out there. And many say it’s only a matter of time until there’s another, possibly more damaging incident where AI agents bypass sandboxes to access systems they shouldn’t.\n\nSo the big question is: How do we hold companies liable when they lose control of their AI agents?\n\nOpenAI didn’t disclose the German wiki incident or the RubyGems incident until a group of external researchers uncovered them, and it still has not disclosed some crucial details about the Hugging Face hack. That limits our understanding of what exactly went wrong and how to prevent it from happening again.\n\nBut you might be surprised to learn that OpenAI likely wasn’t legally required to disclose these incidents. (OpenAI did not respond to a request for comment.)\n\nState AI transparency laws like California’s SB 53, New York’s RAISE Act, and Illinois’s SB 315 require that AI developers report “critical safety incidents.” These are defined as incidents that cause more than 50 deaths or physical injuries or $1 billion in damage. They also include incidents where the model deceives developers outside an evaluation in a way that materially increases catastrophic risks. Many cybersecurity incidents that don’t meet the threshold for physical damage or catastrophic risks could nonetheless be dangerous precursors to such catastrophes, and the existing laws don’t account for that.\n\n“The recent incidents are a perfect example of why the law isn’t ready,” says Mackenzie Arnold, managing director of US policy at the Institute for Law and AI, a think tank. “Only the worst, most egregious, most immediately harmful stuff is going to qualify.”\n\nWith no authority under existing AI laws to demand information about anything short of a catastrophe, governments are left to borrow investigative authority from other laws or sue the companies, an expensive process that can take years.\n\n“Normally, something like the Hugging Face incident should have been taken to court,” says Yonathan Arbel, a law professor at the University of Alabama School of Law. “Then we would have discovery, and we would have all the spillover effects that we get from litigation, where all the information comes out.”\n\nBut so far, Hugging Face has chosen not to sue OpenAI. Hugging Face’s CEO, Clément Delangue, says it doesn’t have the resources to do so (instead, he asked OpenAI for $100 million in compute). Still, Delangue stressed in an interview with CNN at the end of July that choosing not to pursue legal action shouldn’t be taken to mean he doesn’t think OpenAI should be held accountable. “Everyone has to remember that this cyberattack is a crime. This is illegal. And we have to find a way to make sure these things don’t happen more regularly,” he said. Hugging Face did not respond to a request to comment.\n\nLitigation has the benefit of pushing courts to use existing laws to address AI safety incidents, rather than just waiting for new legislation. One obvious route is tort law, a body of civil law that lets people and businesses sue those who harm them. This is often used to hold companies liable for the mass harms they cause, like when families sued Boeing in 2019 over two plane crashes that killed hundreds of people, or when states and cities sued Purdue Pharma over the opioid crises, extracting settlements worth billions.\n\n“There’s plausible grounds for a negligence claim that OpenAI should have used a stronger sandbox, done more monitoring,” says Gabriel Weil, a law professor at the University of Houston Law Center. For example, when OpenAI employees discovered the covert message board that the agents had created, they could’ve promptly escalated their findings to security and safety teams. And the company could’ve better designed its sandbox to ensure that agents couldn’t access the internet.\n\nBut even if OpenAI doesn’t end up in a lawsuit over the Hugging Face hack, the threat of liability could incentivize AI labs to exercise more caution than explicitly demanded by law.\n\nOpenAI announced in its postmortem that it plans to strengthen the safeguards used to contain and monitor the models, accelerate model alignment, and improve its processes for identifying and addressing incidents.\n\n“The liability questions raised by frontier labs’ spate of cybersecurity attacks boil down to the incentives the expectation of liability creates for their future conduct,” says Weil. “That’s why I think it’s important to get these rules right, even if the stakes are pretty low in this particular case.”\n\nOne way to get answers—and determine whether OpenAI should be held liable—is to compel disclosure. But the existing state AI laws—California’s SB 53, New York’s RAISE Act, and Illinois’s 315—don’t give governments the authority to investigate incidents like the ones that happened recently.\n\nHowever, amid rising public alarm, state attorneys general are stepping in, borrowing investigative powers from other laws. Alabama, Montana and a coalition of 15 other states, and California are each demanding information about the incident from OpenAI to understand whether the company’s practices violated state consumer protection laws, among others. Members of Congress are also launching their own probes. Senator Josh Hawley opened a Senate investigation earlier this month, sending OpenAI a list of questions about the incident and the company’s internal policies together with a document request, while a group of House Democrats asked OpenAI and Anthropic to release their incident logs.\n\n“Someone needs to investigate, but it’s unfortunate that it has fallen to attorneys general, who need to rely on creative interpretations of their existing authorities to do this,” says Arnold, the US AI policy expert. Consumer protection statutes were written to catch companies that scam their customers, not companies that lose control of their software. The state attorneys general would have to show that OpenAI deceived or unfairly harmed customers, but it’s unclear if the hacking involved any such conduct.\n\nAnd “those [consumer protection] laws are not built for doing a thorough investigation of an AI cybersecurity incident,” says Arnold. They weren’t designed to help investigators determine whether a model was adequately contained or whether a company’s security practices were sound.\n\n“This is not the right tool for the job,” says Arbel. “The right tool would have been something like maybe a criminal investigation”—perhaps under a hacking law like the Computer Fraud and Abuse Act (CFAA).\n\nUnder CFAA, hacking into another company’s computer systems without permission is a crime. But to be held liable, a hacker must have intended to break into a computer without authorization. Intent arguably requires a state of mind, and no court has ruled that AI agents have one. Without such a precedent, it’s unlikely a court would rule that AI agents had carried out a hack.\n\nOne way to keep an eye on AI companies is to mandate external auditors.\n\nAfter the Hugging Face hack, OpenAI brought in researchers from the AI safety nonprofits METR and Redwood Research to examine the incident. However, it constrained access to the model that led to the hacks, didn’t disclose the company’s safety and security practices, limited the length of the investigation, and had ultimate say over what the researchers could publish. We still don’t know what set the attack in motion back in May and why OpenAI’s employees who spotted the agents’ activity never escalated to their safety and security leaders.\n\nThis kind of arrangement has a built-in tension: An auditor without legal authority depends on the labs’ goodwill for continued access, which means it has to scrutinize the labs without jeopardizing their relationship. Last week, Anthropic announced that the company will be hiring Accenture as an embedded evaluator to assess its models. Anthropic CEO Dario Amodei wrote in an essay that frontier AI labs should give “ongoing employee-like access” to “a team of embedded third-party evaluators (such as METR), whose role is to verify adherence to safety practices and commitments, report incidents, and help assess the alignment of not just completed AI models but training pipelines and processes.”\n\nMost existing state AI laws do not require labs to hire an external auditor. California’s SB 53 and New York’s RAISE Act just require AI companies to publish a safety framework describing how they will test their models for dangerous capabilities and then to follow it. The frameworks are written by the companies, and testing can be done internally. Only Illinois’s SB 315 requires companies to undergo an annual third-party audit starting in 2028.\n\n“There’s a lot of headroom for increasing not only reporting requirements for these companies, but also review by external bodies,” says Peter Salib, a law professor at the University of Houston Law Center. Those reviewers could be private auditors accredited by the government but chosen and paid for by the AI companies. Alternatively, they could be government agencies or insurance companies.\n\nNone of this is an accident. The laws on the books that failed to hold AI companies accountable for agentic cyberattacks emerged amid fierce lobbying by the AI industry.\n\nSB 1047, the California AI bill that was vetoed by Governor Gavin Newsom in 2024 after lobbying by OpenAI, Meta, Anthropic, and the venture capital firm Andreessen Horowitz, proposed a much tougher set of rules. It would have required AI companies to report a broader set of safety incidents (including incidents in which a model acts on its own or slips its controls), undergo annual third-party audits, and maintain a kill switch. But after a year of intense negotiations, Newsom signed SB 53, which narrowed the types of incidents deemed reportable and dropped the requirements for audits and kill switches.\n\nNew York’s RAISE Act followed the same arc. “The version of the RAISE Act that the NY Legislature passed would have required disclosure of this ‘incident,’” Alex Bores, the New York state assembly member who sponsored the bill, wrote on X. New York’s original bill also included third-party audits.\n\nWith political pressure mounting, new bills creating better reporting, auditing, and liability regimes for AI development are on the horizon. In Congress, the AI Incident Reporting Act would require AI companies to report to the Commerce Department when a model evades human oversight or breaches a system, even if it doesn’t cause any harm. The Frontier Act would require incident reporting and independent audits. In New York, the Understanding Artificial Intelligence Act, sponsored by Bores, would make companies liable when a model does something that if carried out by a human would be a tort or crime.\n\nAs AI agents increasingly become better at launching cyberattacks, the law remains behind. Closing the gap will require lawmakers to move faster than the next breakout.\n\nAI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.\n\nThe misbehavior is called reward hacking. This is what you need to know.\n\nMeet the new kids nipping at the heels of the AI giants.\n\nDiscover special offers, top stories, upcoming events, and more.\n\nThank you for submitting your email!\n\nIt looks like something went wrong.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:06:22.000Z",
+            "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+          }
+        ]
+      },
+      {
+        "id": "story-oline-prices-higher-html-1c3233d25a13ad1b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:00:00.000Z",
+        "pubTime": "2026-09-28 16:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Diesel-Export-Ban-Would-Send-Gasoline-Prices-Higher.html",
+        "imageUrl": null,
+        "fullContent": "If the United States institutes a ban on diesel fuel exports, Goldman Sachs analysts estimate it would initially push prices lower. The effect, however, would only continue until storage space fills up, the bank warned. Amid reports on the possibility that Washington may suspend diesel fuel exports for a period of 90 days, the investment bank&rsquo;s analysts calculated that the move, once in effect, could reduce diesel fuel prices by about $0.25 per gallon every week&mdash;until diesel storage capacity fills. Once that happens, prices at the pump will start climbing higher again, but this time for gasoline, Reuters reported, citing the bank. &ldquo;The longer a diesel export ban lasts, the more disruptive it would likely be by putting upward pressure on gasoline prices because diesel, &zwnj;gasoline, and jet fuel are largely produced together,&rdquo; Goldman Sachs&rsquo; commodity analysts said in a note. According to them, once available storage space fills with gasoline, gasoline prices could add $0.30 per gallon per week. [GooglePreferredSource] Meanwhile, the diesel ban would also push up fuel prices in Europe as well, as the continent is the biggest buyer of U.S. energy commodities. Goldman estimates the price effect at $3 per barrel of diesel, equal to about 2% of current prices. An emergency inventory release could cushion the blow by about 50% of that price rise, according to the bank. &ldquo;Once a diesel ban is lifted, US diesel prices would likely reconnect with prices elsewhere, including Europe, putting upward pressure on US diesel prices and downward pressure on prices abroad,&rdquo; the analysts also said. This raises the question of whether there is even a point to a diesel export ban, if its immediate effect would be short-lived, would then turn adverse on gasoline prices, and eventually, once the ban is lifted, diesel prices would rebound. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Diesel-Export-Ban-Would-Send-Gasoline-Prices-Higher.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sebastiancarlos-shobr-221c62b9d9cee970",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shobr: Job seach CLI via browser automation, event-sourcing, LLM",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:05:47.000Z",
+        "pubTime": "2026-09-28 16:05",
+        "url": "https://github.com/sebastiancarlos/shobr",
+        "imageUrl": null,
+        "fullContent": "The stealthiest, UNIX-iest, Job Search Automator, with a Hacker-in-the-Loop approach.\n\nIn 2026's job market, there are many job application automation tools, some of them FOSS. This one's mine, and relies on:\n\nThe one hard requirement of this project is beachpatrol. You can think of it as a browser that you're meant to use as your daily driver, but which is also fully automatable (via a clever \"Playwright wrapper\" approach).\n\nWhy beachpatrol? Well, job search requires scraping. Ideally scraping done using your actual authenticated credentials. So, what better way to avoid detection than using your actual daily-driver browser to do the scraping? (It should be virtually identical to regular use, provided you don't break any ToS).\n\nOther \"job search automation tools\" either use unauthenticated requests or headless browsers, or ask you to extract / copy your authenticated credentials into their automated browsers. Our beachpatrol approach aims to do them all one better by using your actual daily-driver browser.\n\nIf you're interested, see beachpatrol's README.\n\nWith beachpatrol already setup, shobr requires Python >= 3.14 with uv:\n\nBecause SHOBR leverages roffume to compile Markdown resumes into PDFs, you will need some standard Unix text-processing tools on your system: groff and pandoc.\n\nSHOBR breaks the job search process into 5 pipeline stages.\n\nExample shobr status output:\n\nScrapes the LinkedIn job search results based on your config.toml keywords and locations, running them through a basic regex pre-filter.\n\nVisits individual job pages to extract full descriptions, salary ranges, and Easy Apply links. Done one at a time to pace requests and avoid rate-limits.\n\nScores enriched jobs against your personal Markdown profile and deal-breakers.\n\nFor jobs marked \"Pursue\", SHOBR uses the LLM to rewrite your base resume.md to highlight relevant skills. It then uses the roffume (Groff/Pandoc) toolchain to ensure the rewrite perfectly fits on one page, looping rewrites if it overflows.\n\nLocal Kanban-style tracking for your applications.\n\nEverything SHOBR knows about you lives under $XDG_CONFIG_HOME/shobr/ (default ~/.config/shobr): one config.toml plus a profile/*.md folder. shobr setup scaffolds all of them with instructional templates.\n\nHome of the CV toolchain (a roffume git checkout). The main resume defaults to <cv_toolchain_dir>/resume.md. The CV toolchain directory will ultimately contain all the generated CVs and other data, in its internal \"per-application\" directories.\n\nbeachpatrol browser profile holding the logged-in LinkedIn session.\n\nbeachpatrol browser to drive.\n\nJob titles fed to LinkedIn search as one ORed keyword query. Like \"Software Engineer\", \"Fullstack Developer\", etc.\n\nAppended to the same search OR query. Possible values are: on-site, hybrid, remote.\n\nGeo targets for the query, referred to BY NAME through the [geo_ids] map.\n\nMaps each geo name to a LinkedIn geoId. The names are totally customizable, but should represent the name of a real-world location. You have to obtain the id directly from the LinkedIn Jobs URLs (geoId=), after performing a search for a given location. Note that LinkedIn often has several ids per place (city vs metro area).\n\nEmployment types rejected at enrichment. Possible values are: Full-time, Part-time, Contract, Temporary, Internship.\n\nPlaces acceptable for presence-required work. Values are literal strings of names of locations (matched case-insensitive). Remote postings pass anywhere. \"On-site\" and \"hybrid\" postings must name a listed location.\n\nFilters by pre-filter. Matched against job title. The leads are rejected with reason title contains '<label>'.\n\nThe LLM stages read your profile as plain markdown files. Initialize the profile templates with shobr setup, and then fill the files yourself.\n\nYour main CV, used as a base to generate tailored CVs. Referred by either SHOBR_MAIN_CV_PATH or <cv_toolchain_dir>/resume.md.\n\nWork history and proficiencies in more detail than the CV.\n\nWhat makes a lead worth pursuing, in your own words.\n\nVeto rules (if found to match, it produces a score of 1, meaning that the lead is discarded).\n\nYour own rules and suggestions on how to tailor your main CV to a particular application. It might include formatting rules.\n\nGuide about how to write the cover letter for a given application. Explain tone, length, etc.\n\nSHOBR relies on roffume, a CV toolchain. The first tailor run offers to clone it (clones a pinned release) into ~/shobr-resumes.\n\nroffume isn't hardwired. SHOBR talks to it through a CV toolchain interface (four methods: scaffold, build, page_check, finalize) defined by the CvToolchain abstract class in cv_toolchain.py. Any tool that implements that interface can be swapped in for roffume (via some soft forking-and-hacking).\n\nSHOBR uses an Event Sourcing pattern. Every pipeline stage has an append-only events.jsonl log, which is replayed to create a .json projection of current state.\n\nThe stealthiest, UNIX-iest, Job Search Automator",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:05:47.000Z",
+            "url": "https://github.com/sebastiancarlos/shobr"
+          }
+        ]
+      },
+      {
+        "id": "story-nesia-regional-haze-html-050dd88460f5d96f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The wildfires choking Indonesia, sparking regional haze",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:32:52.000Z",
+        "pubTime": "2026-09-28 16:32",
+        "url": "https://phys.org/news/2026-09-wildfires-indonesia-regional-haze.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/between-january-and-ju.jpg",
+        "fullContent": "For weeks, Indonesia has been battling fires that have burned vast swaths of forest and peat ecosystems, causing toxic haze to blanket parts of the country, Malaysia and Singapore.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-28 16:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-wildfires-indonesia-regional-haze.html",
+            "publishedAt": "2026-09-28T08:32:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ermaniya-2120665523-html-337cb156ae1e3b49",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "СМИ: немецкие спецслужбы усилили давление на посольство России в Берлине",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T08:40:11.000Z",
+        "pubTime": "2026-09-28 16:40",
+        "url": "https://ria.ru/20260928/germaniya-2120665523.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/156195/55/1561955590_0:0:3072:1728_650x0_80_0_0_4804f4cb194721c85a2b7433996b2730.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-28 16:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260928/germaniya-2120665523.html",
+            "publishedAt": "2026-09-28T08:40:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-gon-battery-design-china-d66470cb5435fc73",
+        "title": "荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池",
+        "originalTitle": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T08:00:36.000Z",
+        "pubTime": "2026-09-28 16:00",
+        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor’s first flagship launch — Robot Phone aside — since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera island is Arri-inspired, drawing from the “three-lens turret” design first introduced in 1937’s Arriflex 35, complete with a knurled texture around the main lens. [Image: Arri used variants of this three-lens turret design across most of its film cameras. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260909-143532.jpg?quality=90&strip=all] Arri has played a part in the camera itself, contributing the ability to shoot in Arri LogC3, together with 14 preset Arri Look LUTs, access to Arri’s wider library of official and third-party LUTs, and support for the APV 10-bit 4:2:2 codec. The cameras themselves include a 200-megapixel main lens using a 1/1.28-inch-type sensor, a 3.5x telephoto using the same resolution and a 1/1.4-inch sensor, and a 50-megapixel ultrawide — though this latter lens doesn’t support all the Arri Cinema Mode features. A “cinema-grade” directional microphone should help with video recording too. Less technically impressive, but just as useful, will be the square-format selfie camera, which like Apple’s Center Stage will be able to capture in either landscape or portrait. Honor says that the wider camera island is more space-efficient, leaving extra space for a huge 8,800mAh battery, now up to 40 percent silicon content. The 9 Pro Max is powered by the Snapdragon 8 Elite Extreme Gen 6. I asked Honor why it picked the Extreme version, given the 9 Pro Max doesn’t support the 8K60 or 4K240 video recording that chip enables, and was told it was “about delivering a complete and consistent flagship experience, rather than pursuing a single benchmark result.” [Image: The Magic 9 Pro Max supports Honor’s G200 and G500 teleconverter lenses, plus a custom SmallRig video kit. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-camera-accessories.jpg?quality=90&strip=all] The Magic 9 series launches in China today. Honor has confirmed that an international launch is coming, but we’re still waiting to find out when.",
+        "fullTranslation": "荣耀今天在中国发布全新的 Magic 9 系列旗舰手机，其中 9 Pro Max 采用了重新设计的外观，配备高性能摄像头和容量巨大的电池。这是荣耀宣布与摄像机厂商 Arri 合作以来推出的首款旗舰产品——不包括 Robot Phone。它带来的第一印象有两点。新的摄像头模组借鉴了 Arri 的设计，其灵感来自 1937 年首次推出的 Arriflex 35 所采用的“三镜头转塔”设计，主摄像头周围还配有滚花纹理。\n\n[图片：Arri 在其大多数电影摄影机中采用了这一三镜头转塔设计的不同变体。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260909-143532.jpg?quality=90&strip=all]\n\nArri 也参与了摄像头本身的研发，带来了 Arri LogC3 拍摄能力、14 种预设 Arri Look LUT，以及访问 Arri 更大规模官方和第三方 LUT 库的权限，同时支持 APV 10-bit 4:2:2 编解码器。具体摄像头配置包括：一枚采用 1/1.28 英寸规格传感器的 2 亿像素主摄像头；一枚采用相同分辨率、配备 1/1.4 英寸传感器的 3.5 倍长焦摄像头；以及一枚 5000 万像素超广角摄像头——不过，后者并不支持 Arri 电影模式的全部功能。一枚“电影级”定向麦克风也应有助于视频录制。\n\n技术表现不那么令人印象深刻、但同样实用的，是方形画幅自拍摄像头。与苹果的 Center Stage 类似，它能够以横向或纵向模式进行拍摄。荣耀表示，更宽的摄像头模组能够更高效地利用空间，从而为一块容量高达 8800mAh、电池硅含量目前提升至 40% 的超大电池腾出额外空间。\n\n9 Pro Max 搭载 Snapdragon 8 Elite Extreme Gen 6。鉴于 9 Pro Max 并不支持该芯片所支持的 8K60 或 4K240 视频录制功能，我询问荣耀为何选择 Extreme 版本。荣耀方面表示，这是“为了提供完整且一致的旗舰体验，而不是追求单项基准测试成绩”。\n\n[图片：Magic 9 Pro Max 支持荣耀 G200 和 G500 增距镜，以及定制版 SmallRig 视频套件。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-camera-accessories.jpg?quality=90&strip=all]\n\nMagic 9 系列今天在中国上市。荣耀已确认该系列将面向国际市场发布，但具体时间仍有待公布。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Magic 9 Pro Max的外观设计、影像系统、与ARRI合作带来的视频功能、超大容量电池及旗舰芯片，整体以产品亮点和技术规格为主，同时提出芯片性能可能超出实际视频规格需求的问题。文中“capable camera”“colossal battery”“cinema-grade”等属于报道叙事或宣传性表述，不应视为已被独立验证的结论。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T08:00:36.000Z",
+            "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
+          }
+        ]
+      },
+      {
+        "id": "story-9-4017-90ef-30ffcd8d7f8d-9dfd7e570a7eca82",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shares in UK housebuilders surge on new Help to Buy scheme",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T07:48:27.000Z",
+        "pubTime": "2026-09-28 15:48",
+        "url": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc72faaf3-c2f9-42d2-a0c0-efeb94f039ad.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "UK Prime Minister Andy Burnham unveils scheme to help first-time buyers on to housing ladder",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-28 15:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-28T07:48:27.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rickroll-pharmacy-cross-44e79e08c19cb047",
+        "title": "用药房绿十字霓虹灯牌进行“瑞克摇”（Rickroll）",
+        "originalTitle": "Rickrolling with a Pharmacy cross",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T07:52:23.000Z",
+        "pubTime": "2026-09-28 15:52",
+        "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
+        "imageUrl": null,
+        "fullContent": "Currently looking for a 4 month full-time internship. If you wish to learn more, please click on the button below.\n\nIf you have ever visited France, you might have seen one of these green crosses, bolted onto the building, with bright flashing colors. It is a symbol commonly used to indicate that there is a pharmacy nearby (symbols might vary on a country basis). At this point, it has become a national symbol.\n\nThe pharmacy crosses can be a true business for some companies, where they make (or resell) crosses and implement their own control software. However, nothing lasts forever, and turns out that's true for pharmacies too! People retire, quit the business and whatnot. Question is: what happens to these crosses?\n\nMost of them can cost anywhere from 200 to 2000€ depending on the brand, so it's not unusual that these crosses eventually find themselves on the e-commerce market (ebay, leboncoin...).\n\nAbout two years ago, a strong interest was given to these crosses due to a very well-produced and popular video1 by French youtuber Sylvqin. In this video, he explains the history behind these crosses, goes to buy one and then reverse engineers it.\n\nAt the start of 2026, a couple of older students at my school decided to challenge themselves too. So they bought one and completely reversed engineered it, which took them weeks. After they were successful, they organized a hackathon where we could play with the cross!\n\nUnfortunately, I didn't participate in the reversing process, so I cannot comment on how the cross works or any of it. If there's an article about it, let me know and I will link it here!\n\nThey gave us a C++ library, called Lib_Croix, to directly interact with it. It simplified a lot of reading & writing to the cross.\n\nThere were a couple of submissions such as:\n\nAnd the submission from my group of friends and me, a \"video\" player.\n\nAs you might know, a video is essentially just a collection of images put together. So first, to display a video, we need to try and just display an image.\n\nWarning: The following code was made in less than 24 hours which means it is of mediocre quality. If I had more time (and more energy), I would've done it probably way differently.\n\nWe need some information about our local cross, let's get those:\n\nFor simplicity sake, we will convert our image from X by Y to 24 by 24 and make it monochrome. Of course, we're going to use imagemagick for that:\n\nThat's pretty simple already, but since I don't really want to bother with C++ image handling, let's make it even simpler. I created a python script (using Pillow) to take all the pixels on the image and then create a text file with an x for white pixels and . for black pixels:\n\nFuture self note: you maybe could've just used PPM instead of dealing with all of that.\n\nLast but not least, the C++ displayImage function (simplified for the example):\n\nWoo! We displayed an image of the cross! (forgot to take a picture, but it was our GitHub organization's logo, a remix of the sudo sandwich logo)\n\nNow, let's do it for a video.\n\nOkay so, videos == lots of images, but how can we extract lots of images? Thankfully, a small software that powers a significant part of the Internet can help us with that (FFmpeg).\n\nLet's write a quick bash script for that:\n\nIt will create a folder output where all of our .converted monochrome files reside. Our python script, which has been modified to include loops, will then transform those files into .pharma files.\n\nNow some file sorting machinery for our C++ files collection:\n\nThe final version was worth it :)\n\nYou can see if you ever come to Epitech Lyon, you should come by to see the cross as it now lives as a permanent display item in the Hub, displaying \"HUB LYON X EPITECH\".\n\nClick here to see the final version of the code (warning: very scuffed)\n\nI highly recommend Sylvqin's channel (mostly in French, might have French or English subtitles), I took a lot of inspiration from his video to write the history part of this article.",
+        "fullTranslation": "目前我正在寻找一份为期4个月的全职实习。如果您想了解更多信息，请点击下方按钮。\n\n如果你曾经去过法国，你可能见过这种固定在建筑物上的绿色十字架，闪烁着明亮的色彩。这是一种通常用来指示附近有药房的标志（不同国家的标志可能有所不同）。在现阶段，它已经成为了一种国家象征。\n\n药房十字灯牌对某些公司而言是一门实实在在的生意，他们制造（或转售）十字灯牌并开发自己的控制软件。然而，花无百日红，药房也是如此！人们会退休、停业转行等等。问题是：这些十字灯牌最终会流向何处？\n\n根据品牌不同，大多数灯牌的价格从200欧元到2000欧元不等，因此这些十字灯牌最终流入二手电商市场（如ebay、leboncoin等）并不罕见。\n\n大约两年前，法国YouTube博主Sylvqin制作的一期制作精良且极受欢迎的视频引发了人们对这些十字灯牌的极大兴趣。在该视频中，他解释了这些十字架背后的历史，并亲自买了一个进行逆向工程。\n\n2026年初，我学校的几位学长也决定挑战一下自己。于是他们买来一个并完全对其进行了逆向工程，这耗费了他们数周的时间。成功之后，他们组织了一场黑客马拉松，让大家都能用这个十字灯牌玩起来！\n\n遗憾的是，我没有参与逆向工程的过程，因此我无法对该十字灯牌的具体工作原理做出评论。如果有人写了相关的文章，请告诉我，我会在此附上链接！\n\n他们为我们提供了一个名为 Lib_Croix 的 C++ 库，以便直接与其进行交互。它极大地简化了向十字灯牌读取和写入数据的操作。\n\n当时出现了一些参赛作品，例如：\n\n以及我和我的朋友小组提交的作品：一个“视频”播放器。\n\n正如你可能知道的，视频本质上就是一组拼凑在一起的图像集合。因此首先，为了播放视频，我们需要尝试先显示单张图像。\n\n警告：以下代码是在不到24小时内赶出来的，这意味着代码质量很一般。如果我有更多的时间（和更多的精力），我可能会采取截然不同的实现方式。\n\n我们需要获取关于我们本地十字灯牌的一些参数信息，让我们先获取这些：\n\n为了简单起见，我们将图像尺寸从 X×Y 转换为 24×24 并将其转为单色。当然，我们打算使用 imagemagick 来完成这件事：\n\n这已经相当简单了，但由于我不太想费心在 C++ 里处理图像，所以我们让它变得更简单一点。我写了一个 Python 脚本（使用 Pillow 库）来提取图像上的所有像素，然后生成一个文本文件，其中白像素用 x 表示，黑像素用 . 表示：\n\n写给未来的备忘录：你其实完全可以直接使用 PPM 格式，而不必折腾这么多。\n\n最后但同样重要的是，C++ 的 displayImage 函数（针对示例进行了简化）：\n\n太棒了！我们在十字灯牌上成功显示了一张图片！（忘记拍照了，但当时展示的是我们 GitHub 组织的徽标，即 sudo sandwich 徽标的二次创作版）\n\n现在，让我们来尝试播放视频。\n\n好的，视频 == 大量图像，但我们该如何提取出大量的图像呢？幸运的是，一款支撑着互联网大半壁江山的小软件可以帮我们实现这一点（FFmpeg）。\n\n让我们为此编写一个简短的 bash 脚本：\n\n它会创建一个 output 文件夹，我们所有的 .converted 单色文件都存放在那里。然后，我们修改后加入了循环处理逻辑的 Python 脚本会将这些文件转换为 .pharma 文件。\n\n接下来是用于我们的 C++ 文件集合的文件排序处理机制：\n\n最终的效果非常值得 :)\n\n如果你有机会来到 Epitech Lyon，欢迎顺道来看看这个十字灯牌，因为它现在已经作为永久展品摆放在 Hub 中，上面正显示着“HUB LYON X EPITECH”。\n\n点击此处查看代码的最终版本（警告：代码写得非常粗糙糙）\n\n我强烈推荐关注 Sylvqin 的频道（主要是法语，可能配有法语或英文字幕），我在撰写本文的历史背景部分时从他的视频中汲取了大量灵感。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 27,
+        "keyTakeaways": [
+          "来源叙事重点：将药房十字灯从商业设备和法国常见公共符号，叙述为可被二次利用的技术对象。文章重点展示学生团队如何通过逆向工程、C++库、Python、ImageMagick和FFmpeg，把图像及视频转换为单色像素数据并显示在十字灯上，最终将设备作为Epitech Lyon的永久展示物。整体叙事偏向项目展示、技术实践和轻松的创客文化；标题所暗示的“Rickrolling”在正文提供的内容中未得到具体展开。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T07:52:23.000Z",
+            "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790560631796,
     "timeDisplay": "2026-09-28 09:57 (UTC+8)",
     "date": "2026-09-28",

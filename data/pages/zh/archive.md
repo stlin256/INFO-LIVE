@@ -39,14 +39,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **83** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **84** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-28 09:57 (UTC+8)
+- **最新归档时间**：2026-09-28 16:56 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-28 16:56 (UTC+8)" title="全球要闻情报简报 · 16:56" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-28 16:47 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池：荣耀今天在中国发布全新的 Magic 9 系列旗舰手机，其中 9 Pro Max 采用了重新设计的外观，配备高性能摄像头和容量巨大的电池。这是荣耀宣布与摄像机厂商 Arri 合作以来推出的首款旗舰产品——不包括 Robot Phone。它带来的第一印象有两点。新的摄像头模组借鉴了 Arri 的设计，其灵感来自 1937 年首次推出的 Arriflex 35 所采用的“三镜头转塔”设计，主摄像头周围还配有滚花纹理。；【undefined】用药房绿十字霓虹灯牌进行“瑞克摇”（Rickroll）：目前我正在寻找一份为期4个月的全职实习。如果您想了解更多信息，请点击下方按钮。；【undefined】俄罗斯股市主交易时段开盘持平：莫斯科，9月28日。（塔斯社）——据截至莫斯科时间周一上午9时（格林尼治时间上午6时）的交易数据，俄罗斯MOEX指数和RTS指数在主交易时段开盘时分别持平于2273.98点和849.35点。人民币兑卢布汇率较前一交易日收盘价下跌1.8戈比，报12.492卢布。；【undefined】委内瑞拉石油复兴成本或超千亿美元：特朗普政府正大力宣传委内瑞拉的石油新秩序，称其为复兴这个全球最大原油储量国石油工业的绝佳机遇。由美国主导的该行业重组将俄罗斯和中国企业驱逐出此前授予的特许权区，并促成了与石油巨头、大型油田服务提供商以及相对默默无闻的新晋参与者之间的一系列石油协议——所有这些都是为了提振委内瑞拉的石油产量，并将其大部分出口至美国。；【undefined】Claude Opus 5.5 提示词工程指南：与 Claude Opus 5 相比的行为差异，以及解决这些差异的提示词与框架模式：努力程度校准（effort calibration）、API 集成与对话中的思考行为、进度更新、无人值守及多智能体任务、安全防护拒绝、前端设计、复杂视觉输入、多应用工作流以及用户消息中的粘贴文本。；【undefined】Truecaller将其诈骗情报带到开放网络，着眼于拓展来电显示之外的业务：在经过十多年打造服务超过5亿用户的来电显示业务后，Truecaller如今正将一路收集的诈骗情报带到开放网络，用户无需安装应用或登录即可使用。；【undefined】奥古斯丁时代默读是否不寻常？：A：阿尔及利亚，安纳巴省，安纳巴，安纳巴州；【undefined】即使大都会队打得很烂，《Out of the Park Baseball》也能让我享受棒球的乐趣：该话题的最新动态将添加到您的每日电子邮件文摘和主页动态流中。 查看所有游戏评测 《OOTP Baseball》是一款注重细节、高度拟真的棒球模拟游戏，它将你直接送入总经理办公室。 该作者的最新动态将添加到您的每日电子邮件文摘和主页动态流中。 查看特伦斯·奥布莱恩（Terrence O'Brien）的所有文章 如果您通过 The Verge 提供的链接购买商品，Vox Media 可能会获得佣金。详见我们的伦理道德声明。 如果你问我在哪款
+
+**重点要闻索引：**
+- [Sputnik Globe (官方国际英文电讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://sputnikglobe.com/20260928/valdai-announces-move-from-sochi-to-moscow-region-due-to-logistics-issues-1124803857.html) <span class="news-meta-time">🕒 2026-09-28 16:46</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.threads.com/@matt.j.robb/post/DdxwAJnDhNy) <span class="news-meta-time">🕒 2026-09-28 16:15</span>
+- [CNBC Markets (CNBC 市场官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html) <span class="news-meta-time">🕒 2026-09-28 16:31</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://depthfirst.com/research/containers-are-no-longer-safe) <span class="news-meta-time">🕒 2026-09-28 16:21</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-spacex-aims-starship-orbit.html) <span class="news-meta-time">🕒 2026-09-28 16:34</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260928/peterburg-2120666341.html) <span class="news-meta-time">🕒 2026-09-28 16:44</span>
+:::
 :::timeline-item{start="2026-09-28 09:57 (UTC+8)" title="全球要闻情报简报 · 09:57" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-28 09:45 (UTC+8) 完成，共获得 20 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -645,16 +658,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审](https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review) <span class="news-meta-time">🕒 2026-09-16 01:59</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html) <span class="news-meta-time">🕒 2026-09-16 02:00</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2188071) <span class="news-meta-time">🕒 2026-09-16 02:12</span>
-:::
-:::timeline-item{start="2026-09-15 21:42 (UTC+8)" title="全球要闻情报简报 · 21:42" org="ARCHIVE"}
-**速报纪要：** 本监测周期内，人工智能技术的应用场景呈现向家庭安全硬件与社会公益项目延伸的趋势。SimpliSafe正式推出支持AI分析的主动式可视门铃，而比尔·盖茨方面则计划将捐赠资金投入用于缩小社会不平等差距的AI项目。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/voditeli-2117849756.html) <span class="news-meta-time">🕒 2026-09-15 21:38</span>
-- [The Verge (前沿数码科技)] [这款可视门铃摄像头可让真人安保人员帮你守护前门](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs) <span class="news-meta-time">🕒 2026-09-15 21:36</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/Chinas-Yuan-Crude-Oil-Futures-Jump-to-Record-High.html) <span class="news-meta-time">🕒 2026-09-15 21:30</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/15/patients-health-doctors-doubt-on-nhs-streatment-endometriosis) <span class="news-meta-time">🕒 2026-09-15 21:22</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-hyperbird-imaging-platform-grape-diseases.html) <span class="news-meta-time">🕒 2026-09-15 21:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/zaharova-2117849403.html) <span class="news-meta-time">🕒 2026-09-15 21:36</span>
 :::
 ::::
