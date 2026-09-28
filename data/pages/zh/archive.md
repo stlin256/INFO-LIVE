@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-28 · 今日](/INFO-LIVE/archive-2026-09-28/)
+- [2026-09-29 · 今日](/INFO-LIVE/archive-2026-09-29/)
+- [2026-09-28 · 历史快照](/INFO-LIVE/archive-2026-09-28/)
 - [2026-09-27 · 历史快照](/INFO-LIVE/archive-2026-09-27/)
 - [2026-09-26 · 历史快照](/INFO-LIVE/archive-2026-09-26/)
 - [2026-09-25 · 历史快照](/INFO-LIVE/archive-2026-09-25/)
@@ -39,14 +40,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **84** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **85** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-28 16:56 (UTC+8)
+- **最新归档时间**：2026-09-29 01:58 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-29 01:58 (UTC+8)" title="全球要闻情报简报 · 01:58" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-29 01:44 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】谷歌将停止支持 Gemini 的 Gems，转而采用“技能”：随着 Meta 的 Muse 和 Instinct 等一体化人工智能代理开始走红，谷歌宣布将关闭 Gemini 中名为“Gems”的功能。该功能曾允许用户针对特定任务创建定制化人工智能助手。不过，用户在创建 Gems 时投入的工作不会被销毁。Gems 将自动迁移为“技能”，可用于不同的人工智能任务。；【undefined】神经蛋白有望成为患病幼驹的诊断工具：作者：Tracey Peake，北卡罗来纳州立大学 编辑：Lisa Lock，审阅：Andrew Zinin 本文已根据 Science X 的编辑流程和政策接受审阅。编辑在确保内容可信度的同时，特别强调了以下属性： 北卡罗来纳州立大学的研究人员发现，新生幼驹血清中的神经蛋白和神经类固醇浓度与新生儿适应不良综合征（NMS）有关。这项工作有望推动更好的诊断工具和潜在疗法的开发。 “新生儿适应不良综合征是新生幼驹一种非常复杂的疾病。”北卡罗；【undefined】文件显示：奥莱密西西比大学附近一家电子烟店的也门出生店主在因贩运合成毒品被起诉后逃离美国：福克斯新闻独家报道：密西西比州牛津——《福克斯新闻数字频道》发现的法庭文件显示，奥莱密西西比大学校园附近一家电子烟店的店主此前曾因贩运数百剂非法合成大麻素而被起诉。；【undefined】Underdog促销码FOXNEWS解锁1000美元存款匹配优惠，并可参加“保住你的百万”老鹰队对熊队活动：准备好看橄榄球比赛了吗？在昨天NFL经历了疯狂的一天之后，今晚将迎来一场老鹰队对阵熊队的“周一夜赛”。Underdog推出了一项让人难以拒绝的优惠：使用促销码FOXNEWS，可获得1000美元存款匹配优惠，此外还可参加“保住你的百万”生存池活动。；【undefined】雷杰尼案：3名埃及安全官员被判有罪，1人被判无罪：（安莎社）- 罗马，9月28日 - 罗马一家法院周一缺席审判了四名涉嫌于2016年1月至2月绑架意大利学生朱利奥·雷杰尼（Giulio Regeni）的埃及安全官员，其中三人被判有罪，一人被判无罪。；【undefined】SpaceX将“星舰”送入轨道并部署26颗星链V3卫星：据路透社报道，SpaceX的“星舰”周一首次进入轨道，并在该飞行器第14次试飞中部署了26颗星链V3卫星；任务开始约两分半钟后，飞行器上层的6台发动机中有1台发生故障。中型运载火箭“超级重型”于中部时间上午748时在德克萨斯州布朗斯维尔附近的SpaceX“星际基地”点燃全部33台发动机，将这枚高达40层楼的飞行器送过墨西哥湾上空，随后“星舰”与其分离，独自继续飞向轨道。SpaceX的直播最初报道称，发动机故障后任务无法进入轨道。飞行约2；【undefined】我们何时才能说人工智能做出了科学发现？：这篇报道最初刊登于《算法》（The Algorithm），这是我们每周发布的人工智能新闻简报。想要第一时间将这类报道接收到您的收件箱中，请在此注册。；【undefined】Meta推出企业AI平台，聘请MongoDB首席执行官领导新倡议：Meta周一宣布推出“Meta企业平台”（Meta Enterprise Platform），这是公司旨在扩大面向企业和公司客户的AI产品的一项新倡议。这家社交媒体巨头聘请数据库软件巨头MongoDB首席执行官Chirantan“CJ”Desai负责这项新倡议。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260928/putin-2120819766.html) <span class="news-meta-time">🕒 2026-09-29 01:41</span>
+- [TechCrunch (硅谷创业与资本)] [谷歌将停止支持 Gemini 的 Gems，转而采用“技能”](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/) <span class="news-meta-time">🕒 2026-09-29 01:29</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-29 01:30</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wsjsx0/mark_zuckerberg_loses_another_11_billion_monday/) <span class="news-meta-time">🕒 2026-09-29 00:45</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-scientists-lunar-magnetic-fossil-samples.html) <span class="news-meta-time">🕒 2026-09-29 01:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260928/rossija-2120819501.html) <span class="news-meta-time">🕒 2026-09-29 01:41</span>
+:::
 :::timeline-item{start="2026-09-28 16:56 (UTC+8)" title="全球要闻情报简报 · 16:56" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-28 16:47 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -645,18 +659,5 @@ notice:
 - [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/) <span class="news-meta-time">🕒 2026-09-16 03:49</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-options-gsl.html) <span class="news-meta-time">🕒 2026-09-16 05:20</span>
 - [ANSA Mondo (意大利安莎社官方意大利文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html) <span class="news-meta-time">🕒 2026-09-16 05:27</span>
-:::
-:::timeline-item{start="2026-09-16 02:20 (UTC+8)" title="全球要闻情报简报 · 02:20" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-16 02:17 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】SpaceX将于9月22日首次尝试将“星舰”送入轨道：SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。；【undefined】卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审：针对新生儿护理的重要建议，被笼罩在对涉案护士定罪的质疑阴影之下。；【undefined】最适合初学者的3D打印机之一现降价近100美元：Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge；【undefined】Betr 优惠码 FOXNEWS：在今日 MLB 焦点战前领取 200 美元奖励金：今天没有重大的美式橄榄球赛事，作为体育博彩玩家，棒球成为了我们关注的核心。球员个人数据盘口（Props）、三振、安打、得分等丰富内容应接不暇，吸引着我们参与投注。Betr 为新用户提供了一次机会：只要在今晚的 MLB 赛事上下注，使用优惠码 FOXNEWS 即可获得 200 美元的奖励投注金。；【undefined】AI智能体如今有了“告密”专用渠道：“看到可疑情况，就要说出来”这句名言不再仅适用于人类了。；【undefined】露西·莱特比所在医院“毁灭性”报告出炉，大臣誓言对英国国民保健制度进行大刀阔斧改革：瑟尔沃尔法官（Lady Justice Thirlwall）的报告得出结论，如果医院早前对针对护士的担忧采取行动，三名婴儿原本可能得以幸存。；【undefined】洲际交易所原油走高 布伦特原油期货价格突破每桶109美元：塔斯社莫斯科9月15日电 市场数据显示，周二伦敦洲际交易所（ICE）11月交割的布伦特原油期货价格上涨逾3.5%，突破每桶109美元关口。；【undefined】特朗普特使：美国无法相信默茨的话：华盛顿，9月15日。/塔斯社/。美国总统特别任务特使理查德·格雷内尔表示，美国无法相信德国总理弗里德里希·默茨的话。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/tromb-2117899883.html) <span class="news-meta-time">🕒 2026-09-16 02:14</span>
-- [TechCrunch (硅谷创业与资本)] [SpaceX将于9月22日首次尝试将“星舰”送入轨道](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/) <span class="news-meta-time">🕒 2026-09-16 02:16</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html) <span class="news-meta-time">🕒 2026-09-16 02:00</span>
-- [The Guardian Society (卫报社会与民生)] [卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审](https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review) <span class="news-meta-time">🕒 2026-09-16 01:59</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html) <span class="news-meta-time">🕒 2026-09-16 02:00</span>
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2188071) <span class="news-meta-time">🕒 2026-09-16 02:12</span>
 :::
 ::::

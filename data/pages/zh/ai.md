@@ -16,152 +16,176 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-gon-battery-design-china-d66470cb5435fc73" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1151" data-content-paragraphs="7" data-published-at="2026-09-28T08:00:36.000Z" data-time-source="publication">
+<div id="story--gems-in-favor-of-skills-ab95dff2b094b51a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1012" data-content-paragraphs="15" data-published-at="2026-09-28T17:29:50.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 16:00</span>
+  <span class="news-meta-time">🕒 2026-09-29 01:29</span>
 </div>
 
-### [荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池](https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Honor’s Magic 9 Pro Max has a big camera and a bigger battery</div>
+### [谷歌将停止支持 Gemini 的 Gems，转而采用“技能”](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google is killing off Gemini’s Gems in favor of ‘skills’</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="荣耀 Magic 9 Pro Max 配备大摄像头和更大的电池" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>荣耀今天在中国发布全新的 Magic 9 系列旗舰手机，其中 9 Pro Max 采用了重新设计的外观，配备高性能摄像头和容量巨大的电池。这是荣耀宣布与摄像机厂商 Arri 合作以来推出的首款旗舰产品——不包括 Robot Phone。它带来的第一印象有两点。新的摄像头模组借鉴了 Arri 的设计，其灵感来自 1937 年首次推出的 Arriflex 35 所采用的“三镜头转塔”设计，主摄像头周围还配有滚花纹理。</p>
-<p>[图片：Arri 在其大多数电影摄影机中采用了这一三镜头转塔设计的不同变体。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260909-143532.jpg?quality=90&amp;strip=all]</p>
-<p>Arri 也参与了摄像头本身的研发，带来了 Arri LogC3 拍摄能力、14 种预设 Arri Look LUT，以及访问 Arri 更大规模官方和第三方 LUT 库的权限，同时支持 APV 10-bit 4:2:2 编解码器。具体摄像头配置包括：一枚采用 1/1.28 英寸规格传感器的 2 亿像素主摄像头；一枚采用相同分辨率、配备 1/1.4 英寸传感器的 3.5 倍长焦摄像头；以及一枚 5000 万像素超广角摄像头——不过，后者并不支持 Arri 电影模式的全部功能。一枚“电影级”定向麦克风也应有助于视频录制。</p>
-<p>技术表现不那么令人印象深刻、但同样实用的，是方形画幅自拍摄像头。与苹果的 Center Stage 类似，它能够以横向或纵向模式进行拍摄。荣耀表示，更宽的摄像头模组能够更高效地利用空间，从而为一块容量高达 8800mAh、电池硅含量目前提升至 40% 的超大电池腾出额外空间。</p>
-<p>9 Pro Max 搭载 Snapdragon 8 Elite Extreme Gen 6。鉴于 9 Pro Max 并不支持该芯片所支持的 8K60 或 4K240 视频录制功能，我询问荣耀为何选择 Extreme 版本。荣耀方面表示，这是“为了提供完整且一致的旗舰体验，而不是追求单项基准测试成绩”。</p>
-<p>[图片：Magic 9 Pro Max 支持荣耀 G200 和 G500 增距镜，以及定制版 SmallRig 视频套件。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-camera-accessories.jpg?quality=90&amp;strip=all]</p>
-<p>Magic 9 系列今天在中国上市。荣耀已确认该系列将面向国际市场发布，但具体时间仍有待公布。</p></div>
+<div class="article-body" data-article-body="true"><p>随着 Meta 的 Muse 和 Instinct 等一体化人工智能代理开始走红，谷歌宣布将关闭 Gemini 中名为“Gems”的功能。该功能曾允许用户针对特定任务创建定制化人工智能助手。不过，用户在创建 Gems 时投入的工作不会被销毁。Gems 将自动迁移为“技能”，可用于不同的人工智能任务。</p>
+<p>有关这一变化的详细信息已在 Gemini 应用中公布。应用中的一条消息提醒用户，Gems 将从 2026 年 11 月 17 日起转变为技能。公司表示，会将 Gems 迁移为新格式，因此用户无需采取任何操作即可完成迁移。在此之前，Gems 本身仍可继续使用。</p>
+<p>Gems 于 2024 年推出，旨在帮助用户训练人工智能执行特定任务，而不必反复输入指令。例如，谷歌预先制作的一些 Gems 包括学习教练、头脑风暴助手、职业指导、编程伙伴和编辑。用户也可以根据自身需求创建 Gems，例如跑步教练、营养师或度假规划师。这些定制助手还可以与他人分享，谷歌原本希望此举能帮助其 Gemini 人工智能应用获得更大普及。</p>
+<p>然而，即便转为技能，原先的 Gems 仍不如直接在聊天机器人中输入文字那样便于消费者使用，例如 Meta 的 Muse。相反，谷歌指出，用户必须在任务线程中输入正斜杠“/”，以选择想要使用的技能——这种用户界面通常更受工程师青睐，而不是普通用户。</p>
+<p>Gems 即将停止使用一事，最早由 9to5Google 于周末报道。</p>
+<p>当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>消费者新闻编辑</p>
+<p>第二张通行证可享五折优惠<br />Disrupt 体验旨在与他人共享。购买你的通行证，并以五折价格邀请同事、合作伙伴或同行参加。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展你的视野。</p>
+<p>Crusoe 放弃在人工智能数据中心使用 Boom 涡轮机的 12.5 亿美元计划</p>
+<p>Astra 和 Opus 刚刚通过了图灵测试的另一项测试</p>
+<p>甲骨文就其位于新墨西哥州的 Stargate 数据中心发出不可抗力通知</p>
+<p>Meta 为其 Muse 人工智能代理打造了一款类似电子宠物的可穿戴设备</p>
+<p>《Vogue》让机器人走上 Vogue World 的秀场，人们对此并不买账</p>
+<p>Anthropic 称其生物学实验室已经取得重大成果</p>
+<p>PitPro 的首台换胎机器人在加拿大投入使用</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：聚焦Magic 9 Pro Max的外观设计、影像系统、与ARRI合作带来的视频功能、超大容量电池及旗舰芯片，整体以产品亮点和技术规格为主，同时提出芯片性能可能超出实际视频规格需求的问题。文中“capable camera”“colossal battery”“cinema-grade”等属于报道叙事或宣传性表述，不应视为已被独立验证的结论。</li>
+    <li>来源叙事重点：报道重点是功能名称和使用方式的变化：Gems 将于 2026 年 11 月 17 日起转为 skills，用户创建的内容据称会被自动迁移，现有 Gems 在此之前仍可使用。文章将这一调整置于 AI 助手竞争背景下，并强调 skills 需要通过在任务线程中输入“/”来调用，认为其对普通消费者不如直接输入文本友好。关于 Google 此举的动机，文章主要通过 Meta 的 Muse 和 Instinct 等产品走红这一背景进行推断，并未提供 Google 对战略原因的详细解释。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-rompting-claude-opus-5-5-72a68f793144bdd2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5603" data-content-paragraphs="34" data-published-at="2026-09-28T07:33:29.000Z" data-time-source="publication">
+<div id="story-e-a-scientific-discovery-d48a25f5ace55f9c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1767" data-content-paragraphs="12" data-published-at="2026-09-28T17:03:16.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 15:33</span>
+  <span class="news-meta-time">🕒 2026-09-29 01:03</span>
 </div>
 
-### [Claude Opus 5.5 提示词工程指南](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Prompting Claude Opus 5.5</div>
+### [我们何时才能说人工智能做出了科学发现？](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> When can we say AI made a scientific discovery?</div>
 
-<div class="article-body" data-article-body="true"><p>与 Claude Opus 5 相比的行为差异，以及解决这些差异的提示词与框架模式：努力程度校准（effort calibration）、API 集成与对话中的思考行为、进度更新、无人值守及多智能体任务、安全防护拒绝、前端设计、复杂视觉输入、多应用工作流以及用户消息中的粘贴文本。</p>
-<p>本指南涵盖了专属于 Claude Opus 5.5 的提示词模式。有关该模型的功能与 API 变更，请参阅《Claude Opus 5.5 新特性》。有关适用于所有当前 Claude 模型的通用技术，请参阅《提示词最佳实践》。</p>
-<p>Claude Opus 5.5 输出 Token 的速度比 Claude Opus 5 快 30% 以上，并倾向于用更少的 Token 完成相同的任务。现有的 Claude Opus 5 提示词在无需修改的情况下应当也能表现良好，并且《Claude Opus 5 提示词工程》中的模式仍是一个合理的切入点。请从符合您所观察到现象的章节开始阅读：</p>
-<p>关于从 Claude Opus 5 迁移时的四项重大 API 破坏性变更（breaking changes），请参阅迁移指南。</p>
-<p>对提示词工程影响最大的功能包括：</p>
-<p>“努力程度”（Effort）是控制 Claude Opus 5.5 思考量的主控开关，由于思考功能始终处于开启状态，因此在权衡智能程度、延迟与成本时，它是首要调整的设置项。建议从 medium（中）开始，这是 Claude Opus 5.5 的默认值（Claude Opus 5 默认为 high），请对其进行显式设置，并根据您自己的评估集测试多个级别，而不是直接沿用在 Claude Opus 5 上使用的设置。不同模型之间的努力程度级别名称并不对应相同数量的思考量：在 Anthropic 的测试中，Claude Opus 5.5 在 medium 级别下在编程和知识工作评估上的表现已持平或超越 Claude Opus 5 在 high 级别下的表现，而在多项编程评估中，low 级别在成本大幅降低的同时效果已接近前者。请参阅《Claude Opus 5.5 推荐努力程度级别》。</p>
-<p>在特定级别下，Claude Opus 5.5 每轮对话的思考量往往比 Claude Opus 5 更多，尤其是在 xhigh 和 max 级别下。如果您保持为 Claude Opus 5 设置的努力程度数值，预计每轮耗时会更长且输出 Token 更多。以下三项调整会有所帮助：</p>
-<p>在各次请求之间更改顶层努力程度数值会使提示词缓存失效。如果要在不同级别运行单轮对话，请改用按消息设置努力程度（测试版），这样可以保留缓存。</p>
-<p>Claude Opus 5 在 high 或更低努力程度下接受 thinking: {&quot;type&quot;: &quot;disabled&quot;}；Claude Opus 5.5 则不接受，迁移指南中涵盖了该请求变更。如果您的 Claude Opus 5 集成此前是在禁用思考的情况下运行的，则需要配合进行四项更改：</p>
-<p>在包含多个组成部分的长任务中，Claude Opus 5.5 会在工作过程中向用户汇报最新进展，而其中一些更新会以文本而非工具调用来结束当前轮次（stop_reason: &quot;end_turn&quot;）。如果无人值守的智能体循环将此类轮次视为任务结束，就会在此处停止运行。通过调整框架和提示词，有助于保持其继续运行。</p>
-<p>请将仅含文本的轮次结束视为进度报告，而非任务完成的证明。可以将任务的各个组成部分保留在模型负责更新的检查清单中，例如待办事项工具或文件。如果某一轮结束时仍有待办项未完成且未说明存在阻塞原因，可以发送一条简短的用户消息列出这些待办项，例如下面所示的消息。您也可以预先声明完成条件，并让一个独立的更小模型在每个轮次结束时对照该条件检查对话，当条件未满足时将其原因作为下一条用户消息返回。无论采用哪种方式，在同一个任务上自动继续两到三次后都应当停止，而不是无限期重复，以便让真正卡住的运行终止并接受人工复核。</p>
-<p>如果模型启动的某些操作仍在运行（例如后台命令或子智能体），切勿将任务视为已完成：应等待其执行完毕，并将其输出作为下一条用户消息返回给模型。</p>
-<p>添加系统提示词也可以降低这些过早停止的发生频率。Claude Opus 5.5 对明确指出希望其避免何种过早停止的指令非常敏感，例如指出避免以宣布下一步行动而非实际采取行动的总结来结束轮次。明确指出您确实希望其停止的情况也很有帮助，例如当没有用户输入就无法继续推进工作时。</p>
-<p>以下段落就是此类补充说明的一个示例，专为完全无人值守运行的智能体编写，在此类场景中您希望模型继续工作而不是停下来汇报。请将其视为一个起点：您可能需要根据自己的应用对其进行调整。请从会话的第一个请求开始，将其添加到系统提示词的末尾：在会话中途添加会改变系统提示词，并使对话先前的思考块失效（参见“保留思考”）。由于该提示词指示模型将状态说明与下一次工具调用放在同一条消息中，因此这些说明会作为进度更新出现在各次工具调用之间，而在默认的 thinking.display 设置下返回的文本为空；设置 display: &quot;updates&quot; 即可接收每条说明的摘要（参见“面向用户的进度更新”）。有了这部分内容，模型会在原本会停下来确认的地方继续执行，因此对于高风险或不可逆的操作，请务必保留您自己的确认步骤，并且在有专人进行响应的人机协同应用中，请不要添加该段落。预计每个任务会产生略多的工具调用和输出 Token。</p>
-<p>Claude Opus 5.5 运行着多项安全分类器，包括生物学、网络安全和推理抽取（reasoning extraction）。</p>
-<p>分类器拒绝会作为正常响应返回，附带 stop_reason: &quot;refusal&quot; 以及指出类别的 stop_details 对象。您可以配置将请求自动重试于备用模型，但 reasoning_extraction 拒绝除外，服务端备用机制会直接将其返回给您而不是进行重试；请参阅《拒绝与降级回退》。</p>
-<p>在各次工具调用之间，Claude Opus 5.5 会编写简短的面向用户的进度更新：它刚刚发现了什么，以及接下来要执行什么。有四个杠杆可以控制用户看到的内容。</p>
-<p>第一，检查您的客户端是否能够接收它们：在 Claude Opus 5.5 上，这些说明会作为进度更新思考块而非文本块返回，并且在默认的 thinking.display 设置下其文本为空，因此仅渲染文本块的客户端在冗长智能体轮次期间可能显得毫无动静。设置 display: &quot;updates&quot;（测试版，请求头为 thinking-display-updates-2026-08-18）即可接收每条说明的简短摘要；迁移指南展示了如何渲染它们。</p>
-<p>第二，如果模型在漫长轮次的中途可能需要向用户逐字提供某些内容（例如代码片段），请为其提供一个用于向用户发送消息的简单工具，并指示其仅将该工具保留用于此类内容。从会话的第一个请求开始就在 tools 中声明该工具：稍后向 tools 中添加会修改对话的前缀并使先前的思考块失效（参见“保留思考”）。</p>
-<p>第三，如果您希望获得更频繁或更可预测的更新（例如在首次工具调用前给出单行意图说明，并在结束时给出简短回顾），请在系统提示词中明确说明；模型对此类指令非常敏感。这在人机协同工作中效果最好。</p>
-<p>第四，如果长时间的工具调用轮次仍持续无响应且超出你的预期，可以让你的测试框架（harness）请求更新。在设置了 display: &quot;updates&quot;（第一个调节杆）的情况下，统计连续出现的未向用户提供任何可读内容的工具调用步骤数量：即既无文本块，也无进度更新文本。在连续出现若干次（例如五次）之后，在最新的工具结果后附加一条类似如下的提醒，作为轮次级系统消息（clear_at: &quot;next_user_message&quot;；beta 版，mid-conversation-system-clear-at-2026-08-21 请求头）。如果该轮次仍保持静默，在发出两到三次提醒后即可停止，而不是发送更多。由于每条提醒都是追加并保留在原处，而非单次请求插入并在下一次请求中删除，因此提示词缓存能保持匹配，其后的思考块也依然有效。在 Anthropic 针对智能体编程任务的测试中，这大致将长时间静默任务的比例减少了一半，且成本没有明显变化。</p>
-<p>在跨多个关联应用（例如电子邮件、文档、电子表格和 CRM 记录）的工作流自动化中，任务所依赖的信息往往位于请求未明确提及的地方：例如，旧邮件线程中的某项政策、另一个电子表格标签页中的规则，或客户记录上的备注。Claude Opus 5.5 倾向于迅速投入工作，而在任务描述不够具体的情况下，指示模型在行动前浏览相关来源会很有帮助。如果你的智能体在此类任务中跨多个应用运行，在系统提示词中加入一句话即可让它在修改任何内容前先进行查看：</p>
-<p>在 Anthropic 针对多应用自动化任务的测试中，借助这一指令，无论是在中等还是最大努力程度下，Claude Opus 5.5 显著正确完成了更多任务，代价是工具调用和 token 消耗略有增加。由于它指示模型根据找到的内容采取行动，因此请确保不可信内容不会进入其检索的记录中。</p>
-<p>Claude Opus 5.5 对流逝时间的信息十分敏感，在多智能体架构中（例如由主导智能体向子智能体分配任务），你可以利用这一点通过更出色的并行化来加快工作速度。如果你能够预估任务应耗费的时间，可以给模型一个时间预算：让你的框架在发回给模型的每条消息末尾添加一行短文本，以秒为单位说明相对于该预算已过去的时间，例如 elapsed 340s / 1200s。模型会调整工作节奏以在预算内完成，且通常会在预算耗尽前很久就完成，因此设置的预算应略高于你实际希望花费的时间，并在你自己的任务样本上进行微调。如果你无法预测合理的预算，可以仅显示流逝时间，并在系统提示词中添加一句话：</p>
-<p>在 Anthropic 对研究任务中小型智能体团队的评估中，这两种信号都让团队比没有这些信号的单个智能体更快完成。获得时间预算的团队在显著更早完成的同时，保持了与单个智能体相当的回答质量。更紧凑的预算与调低努力程度设置的效果不同：调低努力程度会减少工作本身，而预算主要是让更多智能体保持并行工作。该预算仅供参考，在达到限制时没有任何机制会硬性阻止模型，因此如果你需要强制终止，请保留你自己的超时控制。此外，还要在自己的任务中检查回答质量，因为在时间压力下，模型检索和验证的程度可能会略有减少。</p>
-<p>在聊天应用中，如果你的系统提示词包含让 Claude 在回答前仔细思考的指令，可以考虑针对 Claude Opus 5.5 移除它们。该模型会自行决定思考程度，而 effort（努力程度）是主要控制项。在 Anthropic 的聊天产品测试中，移除此类语句可让回复更快开始，且回复质量没有明显下降。</p>
-<p>在多轮对话中，Claude Opus 5.5 有时会在思考新消息（即使是简短的跟进问题）时回顾之前的回答，这会增加后续轮次的思考量和延迟。如果你希望模型将先前的回答视为既定事实，可以在系统提示词末尾添加两句话：</p>
-<p>在 Anthropic 的测试中，这减少了后续轮次的思考量，并在不影响质量的前提下让回复更快开始。如果希望模型继续重新审视其之前的工作，例如在长篇分析中，或在后续步骤可能发现早期错误的智能体任务中，则不要使用该指令。该指令还可能使模型主动指出先前回答中的错误的可能性降低，因此如果这在你的应用中很重要，在采用该指令前请先进行测试。</p>
-<p>Claude Opus 5.5 在抵御间接提示词注入（即通过工具结果、网页以及屏幕或浏览器内容传入的指令）方面比以往任何 Opus 模型都更为出色。在适当的上下文下，它对于用户从其他地方（如电子邮件或网页）复制到消息中的内容里的指令也具备鲁棒性。要实现这种表现，请标记哪些文本是用户自己的，哪些是从别处粘贴的。为每个粘贴的文本块添加开头和结尾标签，两个标签均带有由你的应用程序生成的相同简短随机 ID，且每个标签各占一行：</p>
-<p>然后在系统提示词中添加此说明：</p>
-<p>这有时可能会让模型稍微更加谨慎，因此请在自己的任务中评估效果。这些标签是纯文本且可以被模仿，所以请将其作为与其他提示词注入防御手段并存的一道护栏。</p>
-<p>由于 Claude Opus 5.5 在不使用工具的情况下阅读图表、示意图和屏幕截图的精确度大幅优于 Claude Opus 5（参见与提示词相关的能力），因此请重新测试你是否仍需要此前为早期模型构建的视觉输入脚手架。对于最密集的输入，有两点依然能够提升准确性。更高分辨率的图像会有所帮助，尤其是对于工程图等输入。图像处理工具同样有效：将模型作为智能体运行，使其能够访问包含原始图像并安装了 PIL 和 OpenCV 等库的容器，以便它可以裁剪、缩放、测量和验证其工作。如果容器开销太大，仅使用裁剪工具依然有帮助；裁剪工具配方中有可用的定义。在更高的努力程度下，模型使用这些工具的效果更佳。在没有工具的情况下，提高努力程度可以改善其对工程图的阅读，但对图表的改善不大。</p>
-<p>当要求进行前端开发而没有设计方向时，Claude Opus 5.5 会回退到少数几个默认样式，而像“避免通用 AI 风格”这样的笼统指令大多只是用一种默认风格替换了另一种。它对指出具体需避免模式的指令响应良好，如下例所示。请进行迭代式调整：检查首个结果转而使用了哪些样式，并在需要时扩充该列表。</p>
-<p>此页面对你有帮助吗？</p></div>
+<div class="article-body" data-article-body="true"><p>这篇报道最初刊登于《算法》（The Algorithm），这是我们每周发布的人工智能新闻简报。想要第一时间将这类报道接收到您的收件箱中，请在此注册。</p>
+<p>上周三，Anthropic宣布，该公司在今年早些时候启动了一家分子生物学实验室。在那里，Claude智能体会阅读并推测棘手的生物学问题，人类科学家则会根据它们提交的报告开展实验。该公司表示，这家由人工智能驱动的实验室已经取得了首项发现。</p>
+<p>要理解Anthropic所说的其系统究竟做了什么，可以想象一下：你正在数以百万计的DNA序列中翻找。这些序列是科学家们对越来越多的生物进行测序后积累起来的。取得突破的一种途径，或许是找到一条奇特的序列，它编码着一种有趣的酶。接下来，你还需要弄清这种酶的作用，以及最终如何操纵它，使其完成某种有用的事情。</p>
+<p>Anthropic表示，其950个智能体在21小时后发现的并不是一条全新的序列。相反，这些智能体标记出了一种围绕已知酶的重复模式；Anthropic称，这种特定模式此前尚未被编录。但如果你读一读Anthropic发布的公告——公告称，这一模式“让人联想到”促成基因编辑技术CRISPR的因素，而CRISPR“已经改变了科学和医学”——听起来就仿佛这支智能体大军真的发现了某种值得关注的东西。</p>
+<p>这些说法激怒了一些生物学家。其中一位生物学家发布了一篇迅速传播的帖子，药品生产商礼来公司的董事长兼首席执行官随后也表示赞同。帖子称：“找到一组奇怪的基因和重复序列，往往是容易的部分。困难之处，也是实现真正发现的关键，在于弄清楚这个系统究竟做什么。”换句话说，这些智能体帮助完成了一些实验室里的基础性工作。但这并不能称为一项发现。</p>
+<p>这提醒我们，即使人工智能做了某些令人印象深刻的事情——比如从大量生物学数据中找到仅凭人眼很难察觉的模式——其结果本身也未必构成科学突破。对人工智能而言新颖的东西，对生物学家来说可能是常规的、并不出人意料的，或者仅仅没有那么重要。</p>
+<p>哥本哈根大学生物学家马里奥·罗德里格斯·梅斯特在周末进一步使这一问题变得更加复杂。据《纽约时报》报道，他表示自己的团队此前已经发现了这一特定模式。梅斯特在工作中经常与Claude聊天，他怀疑Anthropic团队是否从他的对话中获悉了这一模式。Anthropic否认了这一点，但梅斯特表示，无论如何他都将停止使用Claude。</p>
+<p>问题的一部分在于，人工智能公司并没有把这些系统简单地介绍成科学家可以使用的工具，比如显微镜或超级计算机。相反，它们坚持认为人工智能系统是在自行作出发现。对一些人而言，这种做法与科学的实际运作方式并不相容，因为新知识通常是在协作以及不断扩充的工具体系中产生的。</p>
+<p>这也使人们在真正的进步发生时更加怀疑。将20万个候选对象筛选到少数几个值得探索的对象，并非小事；这确实是正当的科学工作。一个通用聊天机器人能够完成这项工作，本身就值得注意，即便人类帮助引导了它，最终也由人类开展了实验。但一旦评判标准变成“是不是Claude自己作出了发现”，所有这些就都成了某场争论中的佐证，而这场争论似乎只有两个答案：突破，或者一无所获。</p>
+<p>一旦我们开始根据人工智能是否作出了发现来评判它，也就很容易在它似乎真的取得胜利后继续改变标准。本月早些时候，OpenAI表示，其团队的智能体解决了数学领域一道价值100万美元的难题。但几周后，我的信息流中几乎每一位人工智能怀疑论者都在分享一篇文章，追问真正重要的是否是那道数学题。</p>
+<p>需要明确的是，那篇文章并没有声称OpenAI的解答是错误的。相反，文章认为，这一特定结果可能并不是数学家最关心的结果。再加上一名数学家指责这些模型可能未经致谢就使用了他的部分成果，人们最终会觉得，要么OpenAI作弊了，要么这个解答反正也不重要——或者两者皆是。</p>
+<p>这正是生物学家卢卡斯·哈灵顿所担心的一部分。哈灵顿曾撰文批评Anthropic的公告。他在文章结尾提出建议称，人工智能公司应该“现在就把门槛设高，这样当人工智能真正发现一种全新的生物学机制时，每个人才能意识到这有多么重大”。但随着OpenAI的萨姆·奥尔特曼和Anthropic的达里奥·阿莫代伊竞相压过对方，在人工智能实现科学突破的问题上抬高标准，或许是他们最不在意的事情。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 15:33 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-29 01:03 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
+  <span class="news-tag-pill">#MIT</span>
 </div>
 
-<div class="news-card-footer"><a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-t-looks-beyond-caller-id-9c4e9ad210ff912a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1960" data-content-paragraphs="24" data-published-at="2026-09-28T04:30:00.000Z" data-time-source="publication">
+<div id="story-o-to-lead-new-initiative-d211ef06bee55e3a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="835" data-content-paragraphs="12" data-published-at="2026-09-28T16:52:38.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 12:30</span>
+  <span class="news-meta-time">🕒 2026-09-29 00:52</span>
 </div>
 
-### [Truecaller将其诈骗情报带到开放网络，着眼于拓展来电显示之外的业务](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Truecaller takes its scam intelligence to the open web as it looks beyond caller ID</div>
+### [Meta推出企业AI平台，聘请MongoDB首席执行官领导新倡议](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative</div>
 
-<div class="article-body" data-article-body="true"><p>在经过十多年打造服务超过5亿用户的来电显示业务后，Truecaller如今正将一路收集的诈骗情报带到开放网络，用户无需安装应用或登录即可使用。</p>
-<p>这家瑞典公司周日推出了Scam Checker，这项新的网页和安卓服务允许用户粘贴可疑电话号码、链接或消息，以确认其是否为诈骗。该服务会从Truecaller的社区平台ScamFeed中调取相关举报。不过，有关电话号码的更详细信息，包括与其关联的姓名，仍只能通过Truecaller现有的服务获取，而该服务需要用户登录。</p>
-<p>公司表示，这项免费工具最初将在印度提供，随后计划扩展至拉丁美洲、中东和非洲以及东南亚。</p>
-<p>除了为其应用引流外，社区举报还可以帮助Truecaller更好地了解某一时期正在传播的诈骗活动。这也可能有助于该公司通过Truecaller for Business向企业销售的欺诈与风险产品，尽管Jhunjhunwala表示，Scam Checker本身面向消费者。</p>
-<p>Truecaller的Scam Checker会检查用户提交的链接，展开短网址，并跟踪重定向至最终目的地。随后，它会将这些信息与其专有风险数据库及其他欺诈信号进行比对。用户还可以粘贴可疑消息，服务会从中识别电话号码或链接，并调取Truecaller社区中的相关举报。</p>
-<p>此次推出之际，诈骗活动已经远远超出电话范畴，蔓延至短信、即时通信应用和网页链接。GSMA对印度成年人开展的一项2025年调查（PDF）显示，在报告自己遭遇诈骗的人中，46%表示诈骗者通过即时通信应用接触他们，37%表示通过短信，32%表示通过语音通话。</p>
-<p>Truecaller根据对搜索量和现有验证服务流量的分析估计，人们每月大约进行1,400万次网页搜索，以核查可疑链接和电话号码。首席执行官Rishit Jhunjhunwala对TechCrunch表示，这种行为帮助塑造了Scam Checker。</p>
-<p>“当你需要它时，你通常身处其他地方。链接出现在WhatsApp上。你的母亲收到一条有关交通罚款的消息。朋友转发给你一张截图，问：‘这是真的吗？’”Jhunjhunwala说，“人们在那一刻会做的事就是搜索。”</p>
-<p>Truecaller的社区正成为其诈骗检测工作中至关重要的一环。该公司告诉TechCrunch，目前在印度的ScamFeed上有约2万条诈骗举报处于公开状态。ScamFeed是一个由用户共同维护的信息流，用户可以在其中发布和讨论诈骗；每周新增举报约1,300条。公司还表示，在9月14日至20日期间，其在全球范围内评估了129亿条消息，并标记其中2,030万条为欺诈信息。</p>
-<p>Truecaller表示，近期计划扩大Scam Checker能够检测的诈骗类型，并增加截图上传功能，以便进行进一步分析。</p>
-<p>该公司推动业务超越来电显示之际，其核心业务正在印度面临新的压力。印度是Truecaller最大的市场，拥有超过3.5亿用户。电信运营商正在推出由联邦政府支持的来电姓名显示服务；与此同时，苹果和谷歌也增加了各自的来电识别及垃圾信息防护功能。上周，印度电信监管机构还要求来电识别应用将用户提交的垃圾信息举报分享给电信运营商。Truecaller批评这一举措是“单向交换”。</p>
-<p>因此，Truecaller的重点正逐渐超越来电显示。</p>
-<p>“来电显示是我们解决的第一个问题，目前大多数人仍是通过它找到我们的，”他说。“但诈骗已经转向更加多渠道的方式，包括链接和消息，并且越来越多地涉及语音和视频。我们的防护必须跟随诈骗者的变化。”</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>Jagmeet为TechCrunch报道印度的初创企业、科技政策相关动态以及其他所有主要科技领域发展。他此前曾担任NDTV的首席记者。</p>
-<p>如需联系Jagmeet或核实其外联信息，可发送电子邮件至mail@journalistjagmeet.com。</p>
-<p>第二张通行证享受五折优惠<br />Disrupt活动的体验旨在与他人分享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并发现初创企业生态系统的下一步，拓展您的视野。</p>
+<div class="article-body" data-article-body="true"><p>Meta周一宣布推出“Meta企业平台”（Meta Enterprise Platform），这是公司旨在扩大面向企业和公司客户的AI产品的一项新倡议。这家社交媒体巨头聘请数据库软件巨头MongoDB首席执行官Chirantan“CJ”Desai负责这项新倡议。</p>
+<p>这项新业务的推出建立在Muse发展势头的基础上。Muse是Meta本月早些时候推出的个人AI助手，能够为用户执行发送电子邮件、预订旅行等任务。</p>
+<p>Meta表示，公司将重点把包括Muse、Meta Business Agent、Muse API、Muse Code等在内的完整技术栈带给企业和开发者。</p>
+<p>Desai在一份声明中说：“未来几年，AI将从根本上重新定义各种规模的组织如何创新、发展、服务客户以及运营业务。Meta发挥着独特作用，因为它正在将先进模型和领先的智能体结合起来，而公司此前已有帮助数百万广告主和数亿企业实现规模化的成功记录。Meta企业平台将专注于把其AI技术栈转化为企业能够部署到自身业务中的产品和服务。”</p>
+<p>此举可能帮助Meta从其投入AI的大量资金中获得回报。</p>
+<p>受公司首席执行官突然离职消息影响，MongoDB股价下跌超过17%。这家数据库制造商表示，已任命曾担任该职务的Dev Ittycheria担任临时首席执行官，同时董事会正在寻找Desai的长期继任者。</p>
+<p>第二张通行证享受五折优惠<br />Disrupt体验旨在与他人共享。购买你的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积聚势能并探索创业生态系统的未来，拓展你的交流与收获。</p>
+<p>每个工作日和周日，你都可以获取TechCrunch报道的精华内容。</p>
+<p>TechCrunch Mobility是你获取交通行业新闻和洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，因此每周接收我们最精彩的报道。</p>
+<p>为行业风云人物提供开启一天所需的信息。</p>
+<p>提交电子邮件即表示你同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-29 00:52 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-er-app-a-virtual-walkman-e6c1e93c33d9277a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1583" data-content-paragraphs="21" data-published-at="2026-09-28T16:47:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 00:47</span>
+</div>
+
+### [iPhone Duo或已拥有首个杀手级应用：一款虚拟随身听](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The iPhone Duo may already have its first killer app: a virtual Walkman</div>
+
+<div class="article-body" data-article-body="true"><p>新款iPhone Duo要到10月下旬才开始接受预订，但这款设备或许已经拥有了首个杀手级应用。或者至少，它已经有了最具奇趣的一款应用！独立开发者Vidit Bhargava一直在展示一款面向首款苹果折叠屏设备的应用，该应用复刻了使用经典随身听的体验。</p>
+<p>这款名为Duo-Man的应用巧妙利用了Duo的两块屏幕——设备展开时是一块7.6英寸的折叠内屏，合上时则是5.4英寸的外屏。这款应用模拟了随身听过去的工作方式：你可以展开Duo来选择音乐并“插入”磁带，然后合上设备开始聆听。</p>
+<p>Duo-Man在iPhone Duo上提供完整的随身听体验。展开Duo，选择并“插入”磁带；合上Duo，开始聆听。没错，我确实录下了真实随身听的按键咔嗒声和静电噪声！今天在@bitrig举办的黑客松上制作这个应用很有趣。pic.twitter.com/juSrLhofrH</p>
+<p>当然，你实际使用的并不是磁带和带有实体按键的播放器。但Bhargava表示，为了让体验尽可能真实，他录下了一台真正的随身听发出的按键咔嗒声和静电噪声，并将其加入应用中。</p>
+<p>这名开发者告诉TechCrunch：“我长期以来一直是随身听爱好者——现在仍然拥有一台，偶尔也会听，而且过去还曾重新利用过它们。因此，当我在为黑客松寻找创意时，我关注的是带有铰链的实体物品。我注意到，随身听的磁带舱门需要打开才能插入磁带，于是我觉得，在Duo上复刻这一点会很酷。”</p>
+<p>尽管折叠屏智能手机已经存在多年，但iOS开发者社区往往尤其富有创造力，部分原因在于苹果的App Store生态系统，以及其强大的工具。这些工具让开发者能够构建、托管、营销软件并从中获利。这也是为什么你经常会看到开发者先为iOS开发应用，然后再考虑扩展到Android平台。</p>
+<p>不过，这款应用也契合了科技领域更广泛的“复古”趋势，因为越来越多年轻消费者开始追捧数码相机、翻盖手机、CD、座机电话，当然还有磁带等经典实体科技产品。</p>
+<p>Bhargava最初在本周末的Bitrig黑客松上开发并演示了这款应用，并获得了第二名。Bitrig提供的软件能够让开发者使用苹果的Swift编程语言、借助人工智能构建原生应用。</p>
+<p>开发者在X上发布有关Duo-Man的消息后，这款应用迅速引起关注，获得了超过180万次浏览和近1万个赞。这种关注促使Bhargava把原本只是一个有趣的黑客松项目，变成一款真正的应用。</p>
+<p>据介绍，该应用发布后将支持Apple Music和本地文件，甚至会加入一项功能，让用户可以使用Apple Pencil“卷动”磁带环。Bhargava还在X上表示，他计划让快进和倒带体验接近原版随身听。未来还可能加入对Spotify的支持。</p>
+<p>这并不是Bhargava开发的第一款应用。这名独立开发者还发布过词典和词汇学习工具LookUp、电影推荐应用Movie Buzz、时区工具，以及其他应用。</p>
+<p>当你通过我们文章中的链接进行购买时，我们可能会获得一小笔佣金。但这不会影响我们的编辑独立性。</p>
+<p>消费者新闻编辑</p>
+<p>第二张通行证可享五折优惠<br />Disrupt活动旨在让人们共同参与。购买你的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、推动发展并探索创业生态系统的未来，拓展你的视野。</p>
 <p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
 <p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse AI智能体打造了类似电子宠物的可穿戴设备</p>
-<p>Vogue让机器人走上Vogue World的T台，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经有了重大发现</p>
-<p>PitPro首款换胎机器人在加拿大投入使用</p></div>
+<p>Oracle向其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
+<p>Meta为其Muse AI智能体打造了一款类似Tamagotchi的可穿戴设备</p>
+<p>Vogue让机器人走上Vogue World秀场，但人们并不买账</p>
+<p>Anthropic称其生物学实验室已经取得重大成果</p>
+<p>PitPro首台换胎机器人在加拿大投入运行</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-28 12:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-29 00:47 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -171,37 +195,52 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-detail-php-e5d3732db4719034" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1025" data-content-paragraphs="9" data-published-at="2026-09-28T01:22:28.000Z" data-time-source="publication">
+<div id="story-y-knows-anything-anymore-9b84b462d1fa1c1e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1754" data-content-paragraphs="24" data-published-at="2026-09-28T16:11:42.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 09:22</span>
+  <span class="news-meta-time">🕒 2026-09-29 00:11</span>
 </div>
 
-### [奥古斯丁时代默读是否不寻常？](https://www.historyofinformation.com/detail.php?entryid=4341)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Was silent reading unusual during Augustine&#39;s time?</div>
+### [问题不在于 AI 代码，而在于不了解系统架构或设计意图](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The problem is not AI code, but not knowing about system architecture or intent</div>
 
-<div class="article-body" data-article-body="true"><p>A：阿尔及利亚，安纳巴省，安纳巴，安纳巴州</p>
-<p>奥古斯丁时代的默读是否不寻常？如果确实如此，那么奥古斯丁在《忏悔录》（6.3.3）中的一段评论，对于“古代世界的阅读主要是口头进行而非默读”这一更大问题，可能意味着什么？</p>
-<p>在《古典时代阅读的社会学研究》一文中，《美国语言学与语文学杂志》第121卷（2000年）第593—627页，威廉·A·约翰逊引用了奥古斯丁《忏悔录》中有关其导师——米兰大主教奥勒留·安布罗斯——阅读习惯的段落；安布罗斯阅读时是默读的。由此推断，默读在奥古斯丁时代并不常见：</p>
-<p>“安布罗斯阅读时，双眼掠过一栏栏文字，而他的心灵探寻着其中的意义；但他的声音和舌头却保持静止。我在场时，他常常如此——事实上从未以其他方式阅读过。他并不把门关起来，不让任何人进来，而且人们通常会不经通报便进门——我曾看到他默默阅读。我会长时间静静地坐着，不敢打扰一个如此专注于思考的人，然后便自行离去。我问自己，他为什么要这样阅读。是不是因为，他不愿在那些难得找到的、可以让自己的心灵得到滋养并从他人事务的喧嚣中休息片刻的时光里受到打扰？又或者，他担心必须向某个热切的听者解释文本中的晦涩之处，或讨论其他困难的问题？因为这样一来，他就会浪费时间，无法读完原本计划阅读的那么多内容。不过，他的嗓音很容易变得嘶哑；这很可能才是他默读的真正原因。”</p>
-<p>阿尔贝托·曼古埃尔在《阅读史》（1996年）中用第二章专门讨论“默读者”。这是关于默读最为详尽的论述之一，其中也包括这样一个问题：自文字诞生之初，大声朗读很可能一直是常态。2019年8月，该章文本曾在线发布于此链接。</p>
-<p>____________________________</p>
-<p>最迟到1470年，斯特拉斯堡的印刷商约翰·门特林已经印行了第一部圣奥古斯丁《忏悔录》。该版本没有注明日期，但已确定不晚于1470年。</p>
-<p>ISTC编号：ia01250000。2013年11月，巴伐利亚州立图书馆曾通过此链接提供数字传真本。</p>
-<p>2014年9月，我有幸观看了由弗朗哥·尼罗主演的德国传记电影《圣奥古斯丁的一生》（Des Leben des heiligen Augustinus，2010年）。影片的英语配音非常出色，观看起来很方便。就我当时所见，这不仅是表现奥古斯丁生平最好的电影，也是最真实地再现了卷轴书和早期抄本，以及从卷轴向抄本过渡时期情形的电影。正如预期，英语版预告片没有突出奥古斯丁一生中与书籍相关的内容。</p></div>
+<div class="article-body" data-article-body="true"><p>最后更新：2026年9月28日，作者：Simon Späti · 创建于：2026年9月26日 · 阅读时间：4分钟</p>
+<p>最近更新：9月28日<br />今日发布 · 882字</p>
+<p>如果我们认为编写代码已经过时，所有代码库都由 AI 生成，那么我仍然认为，更大的问题在于：个人或整个团队已经不再了解系统架构，也不了解某些决策背后的意图。</p>
+<p>这是我参与的一次讨论中的一条评论：</p>
+<p>我认为，AI 编写的代码大概处于平均水平（取决于任务和规模）。所以，如果你的代码库低于平均水平，AI 很容易将其提升到平均水平。至少根据我在这里的观察是这样。</p>
+<p>在我看来，问题不在于 AI 代码，而在于没有人真正了解任何事情，所有人只会去问 Claude。最终，你完全没有任何计划。</p>
+<p>下面这条推文很好地总结了当前快速发展的初创公司、大型企业，或中层管理者强力推动 AI 的公司所处的状态：</p>
+<p>我受够了这些破事。一切都完了。现在的工程现状糟糕透顶。我入职一家大公司担任新职位已经半个月了。这里没有人知道任何事情。规格说明、代码、测试、PRD、工单、工单的解决方案、报告等等，一切都是由 Claude Code 完成的。</p>
+<p>我们团队没有人喜欢这样。他们被迫尽可能多地交付。我已经多次听到高层管理者说，提交代码不是瓶颈，那我们为什么还这么慢？人们每天工作12到13个小时，只是为了按下回车键。没有人在阅读任何东西。企业中的人类什么都不再自主完成。</p>
+<p>这里每个人，真的每个人，从 L1 到 L7 级别的工程师，都在做同样的事：和 Claude 对话。没有任何胜利感。没有人在解决 bug。实际上，已经没有人在思考了。一切都由大语言模型完成。</p>
+<p>这太令人心力交瘁了。老实说，如果我们至少有时间检查代码、看看各部分如何衔接，我并不会介意。但事实并非如此，目标就是交付。不管会发生什么。Voxium</p>
+<p>Hoyt Emerson 提到，数据工程有所不同：</p>
+<p>我认为数据领域的人不一样。从第一天起，我们就必须了解产品和业务的一切。现在，AI 只是为我们消除了阻力。推文</p>
+<p>我认为，在 AI 出现之前成长起来的数据从业者，确实必须了解所有事情（或者了解很多，或请领域专家参与），才能弄清楚问题。但 AI 让这种能力变得过时了，或者看起来过时了。</p>
+<p>这就是为什么今天才开始工作的人——包括我，如果我今天才进入一个新领域——只要不断地向 AI 提示，突然之间，那些知识就缺失了。</p>
+<p>Sean Behan 的观点很不错：</p>
+<p>我一直很钦佩那些不会编程、却能管理团队来获得自己想要的软件的产品人员。知道自己想要什么，一直以来都是最难的部分。</p>
+<p>可以说，一个优秀的产品经理现在能够构建自己想要的任何东西，找到市场，让产品看起来不错，等等。但话说回来，如果你不会编程，你最终会为产品构建一个非常糟糕的基础，使其极难维护（尽管 AI 在这方面也越来越好，尤其是当你频繁迭代时；但如果你选错了语言或错误的思维模型，那么从一开始就走错了方向）。</p>
+<p>无论如何，了解基本原理仍然有帮助：无论是编程、设计产品，还是成为一名优秀的产品经理——他知道需要什么，同时也理解系统和架构设计。</p>
+<p>以系统、架构的方式思考，或拥有明确的意图和设计——这些都能帮助你成为更好的软件工程师。如今，亲手编写代码或许已经过时，但它确实仍有帮助；而拥有品味（与 AI 协作时）比以往任何时候都更加重要。</p>
+<p>但最终的终极难题，而且一直都会是终极难题，就是可维护性。越容易快速生成一条流水线、一个应用或一个 BI 仪表板，你需要维护的东西就越多。如果没有人真正了解任何事情，这会变得非常困难。</p>
+<p>是的，AI 无法自行向自己发出提示，对吧？那我们为什么还需要人类？在我看来，这清楚地表明，人类仍然需要负责指导和协调 AI。这也是为什么在当今世界，意图、品味、设计和架构都是决定成败的关键能力。</p>
+<p>但一旦这些东西缺失，或者更糟糕的是，连基本原则都丢失了，情况就会非常危险。我今天读到，有人认为这是一个自我造成的问题；如果我们仍然招聘初级员工，这个问题就不会发生。但话虽如此，事情并没有那么简单。</p>
+<p>来源：The Primagen 视频，以及《大语言模型和 AI 的局限性》<br />参考资料：《我从使用 AI 写作中学到的东西》</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 09:22 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-29 00:11 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -211,31 +250,35 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.historyofinformation.com/detail.php?entryid=4341" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-zy-sim-video-game-review-8c713bebedaca020" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1592" data-content-paragraphs="1" data-published-at="2026-09-27T21:59:57.000Z" data-time-source="publication">
+<div id="story-eplaces-id4-id-tiguan-ev-e1c16e8dcb913075" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1648" data-content-paragraphs="5" data-published-at="2026-09-28T15:43:09.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 05:59</span>
+  <span class="news-meta-time">🕒 2026-09-28 23:43</span>
 </div>
 
-### [即使大都会队打得很烂，《Out of the Park Baseball》也能让我享受棒球的乐趣](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Out of the Park Baseball lets me enjoy baseball even when the Mets suck</div>
+### [大众以全电动Tiguan取代ID.4](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Volkswagen replaces ID.4 with all-electric Tiguan</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="即使大都会队打得很烂，《Out of the Park Baseball》也能让我享受棒球的乐趣" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="大众以全电动Tiguan取代ID.4" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该话题的最新动态将添加到您的每日电子邮件文摘和主页动态流中。<br />查看所有游戏评测<br />《OOTP Baseball》是一款注重细节、高度拟真的棒球模拟游戏，它将你直接送入总经理办公室。<br />该作者的最新动态将添加到您的每日电子邮件文摘和主页动态流中。<br />查看特伦斯·奥布莱恩（Terrence O&#39;Brien）的所有文章<br />如果您通过 The Verge 提供的链接购买商品，Vox Media 可能会获得佣金。详见我们的伦理道德声明。<br />如果你问我在哪款游戏或游戏系列上投入的时间最多，答案显而易见：《Out of the Park Baseball》（简称 OOTP）。根据 Steam 的记录，我在该游戏的各个版本上累计投入了大约 2300 个小时。OOTP 与《MLB The Show》或《超级棒球》（Super Mega Baseball）截然不同。它的画面并不亮眼，也不是那种能带来纯粹街机快感的游戏。它本质上就是一个假装成电子游戏的电子表格。它就像梦幻棒球（Fantasy Baseball），但你无需苦等六个月才能知道当初低位选中的冷门潜力股有多令人失望，因为你只需短短几小时就能快速打完一整个赛季。<br />如果你愿意，也可以在 OOTP 中逐场亲自指挥比赛，深入到每一个打席的战术调配。但这很容易变得枯燥乏味。坦白说，这也不是该游戏最好玩的地方。相反，我认为这款游戏最精彩之处在于你坐在总经理的交椅上，对如何排兵布阵或构建牛棚提出一些有益的“建议”。<br />游戏的用户界面复杂且密集。90% 的时间里，你只是在盯着一排排的数据和球探报告。其详尽程度极深。OOTP 不仅收录了现役的 MLB 球员，还涵盖了历史上的 MLB 传奇球员、所有小联盟球队、韩国职棒联赛（KBO），甚至包含了整个世界棒球经典赛。<br />梳理这所有纷繁复杂的信息，并在选秀中努力挖掘那些未经雕琢的璞玉，本身就有一种扣人心弦的快感——他可能会成为在这个平行宇宙里你最钟爱球队的全新招牌球星。是赌一把让这位新星成长为超级巨星，还是将他交易换来一位实打实的大联盟全明星？这让人倍感纠结。而且，如果你未能与球迷最爱的球星成功续约，你甚至还得操心球迷们会不会离你而去。<br />在我率领的大都会队中，布兰登·尼莫（Brandon Nimmo）不仅是一名出色的球员，更是货真价实的超级巨星。千贺滉大已经斩获了三座赛扬奖。我签下了胡安·索托（Juan Soto），还用一大堆中游新秀换来了小罗纳德·阿库尼亚（Ronald Acuña Jr.），连续四年闯入季后赛，并最终夺得了世界大赛冠军。（听着，作为一名大都会队球迷，我需要这个幻想世界，别泼我冷水。）<br />然而，OOTP Baseball 最棒的地方或许在于，它在某种程度上允许你随心所欲地游玩。它的自定义程度极高。如果你愿意，你可以手动操作每一场比赛；或者你也可以在几个小时内快速模拟完一整个赛季。想要更轻松的游戏体验，让球员免受伤病困扰？你可以降低或完全关闭伤病机制。不想操心预算？开启专员模式，让球队老板靠边站去吧。正因为游戏大部分时间只是静静地停在那里等待你的指令，你可以很轻松地把它挂在后台，等有闲暇时间时随时切进去玩上几分钟。<br />OOTP Baseball 是一款面向特定硬核体育迷群体的轻松治愈系模拟游戏。如果你热爱梦幻棒球，希望一年四季都能随时畅玩（而且不用应付朋友们为阿隆索的竞价是否及时提交而争吵不休），或者你很喜欢像《小小书店》（Tiny Bookshop）这样的休闲治愈游戏，但又希望它们带有一点赛伯计量学（Sabermetrics，棒球高阶数据统计分析）的色彩，那么 OOTP Baseball 或许正合你的胃口。<br />最新版本《OOTP Baseball 27》现已在 Steam 发售，也可直接通过开发商官方渠道购买。<br />每日精选要闻，免费投递至您的邮箱。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>正如外界普遍预期的那样，大众汽车周一宣布，将用即将推出的ID.Tiguan取代最近停产的ID.4跨界车。这一决定表明，这家德国汽车制造商意识到，像Tiguan这样知名度更高的车型名称可能更容易被消费者接受，尤其是在电动汽车领域。ID.Tiguan于2027年初在欧洲上市后，将与ID.Polo和ID.Cross一同完善大众全新升级的电动车阵容。大众还确认，ID.Tiguan未来也将进入美国市场，但会“在稍晚的时候”上市；此前ID.4曾在美国生产。由于目前仍处于伪装状态，ID.Tiguan的设计细节尚未公布。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20087-db2026au00744.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20097-db2026au00729.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20100-db2026au00732.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20107-db2026au00739.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20121-db2026au00722.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20135-db2026au00712.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20132-db2026au00709.jpg?quality=90&amp;strip=all]</p>
+<p>ID.4于2020年首次推出，原本被寄予推动大众进军大众市场电动车领域的厚望。但这家汽车制造商并不打算与特斯拉Model Y等畅销车型正面竞争，而是希望与丰田RAV4和本田CR-V等高销量燃油车展开竞争。尽管ID.4始终未能完全击败这些竞争对手，但它确实取得了一定成功：自2021年以来销量已达95万辆。大众表示，ID.4“跻身大众汽车集团最成功的纯电动车车型系列之列”。大众于2026年4月结束了ID.4在其查塔努加工厂的生产。</p>
+<p>电动版Tiguan将保留ID.4诸多成功之处，同时弥补其部分缺陷，例如令人沮丧的实体控制装置不足。大众计划让ID.Tiguan采用与ID.3 NEO和ID.Polo相同的内饰风格，后者在欧盟市场意外成为热销车型。这意味着我们可以期待四个车窗都配备实体按键，而不再像此前那样只有两个车窗配备按键；音量和空调设置也将采用实体控制。大众基于Android Automotive打造的操作系统也将出现在该车型上，这意味着我们可能会看到由Gemini驱动的语音助手。大众没有说明ID.Tiguan是否会采用由Rivian开发的新软件和区域架构；预计这套系统将首次搭载于低成本ID.Every1掀背车上。</p>
+<p>图片：大众汽车</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-28 05:59 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-28 23:43 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -245,113 +288,37 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--terminator-paradox-html-cd821f5b175fded3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="925" data-content-paragraphs="10" data-published-at="2026-09-27T21:06:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-28 05:06</span>
-</div>
-
-### [月球晨昏圈悖论](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Lunar Terminator Paradox</div>
-
-<div class="article-body" data-article-body="true"><p>有一种光学错觉，被称为“月球晨昏圈悖论”等名称。网上有大量关于它的讨论和描述，但没有一种说法能在我脑中讲通，所以我写了这个程序来弄清楚究竟发生了什么。悖论如下：</p>
-<p>不久前，我和一位朋友在山里露营。太阳刚刚落山，我们抬头望向天空。月亮明显是尖端朝上的。</p>
-<p>摆弄这个程序之后，我弄明白了：我们是从下方仰望月亮的。最极端的情况是满月。假设月亮位于地平线上：高度角=0。如果我们看的是这个低悬的月亮，而月亮正好是满月，那么太阳就在我们正后方。月亮被完全照亮，我们看到的是100%被照亮的月面圆盘。</p>
-<p>那么，如果月亮不在地平线上，而是升得更高，会发生什么？实际上，太阳距离我们无限远，因此月亮被照亮的仍是同一部分。但此时我们是在从下方看月亮，所以会在月面底部边缘看到一些暗面。也就是说，月亮看起来顶部明亮、底部缺少一小片黑暗区域：它就呈现出尖端朝上的样子！即使是在日落时分也是如此。</p>
-<p>这是最明显、最奇怪的情况。半月没有悖论式的表现；月亮越接近满月，我们就越清楚地看到：尽管太阳已经落下，明亮的月亮却指向上方。</p>
-<p>我制作了两张图。在日落时分，当月亮处于四分之三满的状态，我们观察它从地平线一路升到天顶的过程：</p>
-<p>如果月亮位于地平线上（高度角=0），我们看到的是预期的四分之三被照亮的月面圆盘。随着月亮升高，我们看到它底部的部分越来越多，于是越来越多的暗区显现出来：在日落时，它明显是尖端朝上的！</p>
-<p>我们还可以移动太阳的位置。假设月亮升到60度；让我们把太阳从新月位置移动到满月位置：</p>
-<p>在最暗的构型下，我们仍然能看到底部有一弯被照亮的月牙：光照全部位于另一侧，但我们可以看到被照亮的背面露出一小片。随着太阳绕行，我们看到的月面越来越多。在方位角=90度时，月亮有一半被照亮。超过这一位置后，能看到的月面越来越多，而且始终呈现出尖端朝上的样子。</p>
-<p>这也是一次对当前人工智能工具状态的极有意思的考察。在撰写和调试这篇内容时，我会和Claude、Gemini讨论其工作原理以及我应该看到什么结果。它们完全无法理解这一现象，还会不断进行循环论证。显然，它们读过互联网上一些不完整的解释（我也读过），却缺乏将这些内容提炼成类似“理解”的推理能力。通用人工智能还没有到来。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 05:06 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--ai-hallucinations-music-566a52e15e047c95" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="842" data-content-paragraphs="1" data-published-at="2026-09-27T20:46:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-28 04:46</span>
-</div>
-
-### [Engram是一款将破碎的AI幻觉变成音乐的采样器](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Engram is a sampler that turns broken AI hallucinations into music</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Engram是一款将破碎的AI幻觉变成音乐的采样器" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到你的每日电子邮件摘要和主页信息流中。<br />查看全部娱乐内容<br />Thoughtful Things表示，Engram是“潜在空间的现场录音机”，也是一款能够对微型AI模型进行电路弯折改造的设备。<br />该作者的文章将被添加到你的每日电子邮件摘要和主页信息流中。<br />查看Terrence O&#39;Brien的全部文章<br />音乐初创公司Thoughtful Things刚刚为其首款乐器Engram发起了Kickstarter众筹活动。它是一款采样器和律动工作站，利用AI对输入音频进行处理，甚至凭空“幻觉”出全新的声音。不过，这并不是把Suno装进盒子里的设备。它不是那种“按一下按钮就得到一首歌”的设备，也不是为了创作听起来已经可以登上电台流行音乐排行榜的作品。它的目标是创造实验性、诡异的声音，并将AI音频模型推向极限。<br />Engram不连接互联网，而是在本地运行一种“微型AI”。根据Kickstarter页面介绍，该模型由公司内部设计并进行定制训练。该公司表示：<br />“我们使用开放数据集训练音频模型，这些数据集只包含获准用于商业用途的音频（CC-BY或类似许可）。我们没有、也永远不会使用非商业、盗版或以其他方式窃取的数据训练模型。”<br />该公司还计划开放Engram的固件，以便其他人对其进行调整，或加载自己定制的模型。在宣传视频中，创始人Evan King用自己的声音要求设备生成“钢琴”，Engram随后输出了一段带有故障感、依稀像钢琴的声音。他说，可以把Engram理解为“潜在空间的现场录音机”。它旨在探索AI幻觉和实验性声音设计的世界。该设备甚至从电路弯折改造中汲取灵感，允许用户调整、甚至破坏其微型AI模型。<br />Thoughtful Things将在Kickstarter活动期间限量推出Engram，起售价为675美元。该公司尚未公布零售价，不过价格很可能在850至900美元之间，因为675美元的支持档位标注为七折优惠。<br />免费获取最重要新闻的每日摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-28 04:46 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ner-with-president-trump-32f206d5a41c9173" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="695" data-content-paragraphs="10" data-published-at="2026-09-27T20:34:28.000Z" data-time-source="publication">
+<div id="story--ai-hits-1-45b-valuation-64e9e403e3f62a88" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="727" data-content-paragraphs="9" data-published-at="2026-09-28T15:29:21.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 04:34</span>
+  <span class="news-meta-time">🕒 2026-09-28 23:29</span>
 </div>
 
-### [Anthropic首席执行官即将与特朗普总统共进晚餐](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic’s CEO is about to have dinner with President Trump</div>
+### [物理人工智能芯片开发商 SiMa.ai 估值达14.5亿美元](https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Physical AI chip developer SiMa.ai hits $1.45B valuation</div>
 
-<div class="article-body" data-article-body="true"><p>Anthropic首席执行官达里奥·阿莫代伊似乎整个周末都无处不在：他在《周六夜现场》新一季首播节目中遭到调侃，而今晚，他将前往白宫与唐纳德·特朗普总统共进晚餐。</p>
-<p>Axios率先报道了阿莫代伊的晚餐安排，随后TechCrunch从一名熟悉相关计划的消息人士处证实了这一消息。</p>
-<p>这将是两人首次一对一会面。两人最近在人工智能安全问题上站在了对立面：阿莫代伊发布了一项放缓人工智能发展速度的计划（或者至少以更加谨慎的方式推进），而特朗普则在没有证据的情况下坚持认为，针对人工智能的反弹是民主党制造的骗局；他还希望将这项技术重新命名为“超级智能”。</p>
-<p>即使在目前这场你来我往的交锋之前，阿莫代伊和Anthropic与特朗普政府的关系也一直颇为紧张。今年早些时候，五角大楼将Anthropic认定为供应链风险，原因是该公司试图为其技术的使用设置防护措施（Anthropic一直在法庭上对这一认定提出抗辩），不过政府中的其他官员对该公司更为友好。</p>
-<p>第二张通行证可享五折优惠<br />Disrupt活动的体验旨在与他人分享。购买您的通行证，并以五折优惠携带一名同事、合作伙伴或同行者一同参加。通过建立联系、积蓄发展势头并发掘创业生态系统中的下一步，拓展您的视野。</p>
-<p>每个工作日和周日，您都可以获取TechCrunch最精彩的报道。</p>
-<p>TechCrunch Mobility是您获取交通领域新闻与洞察的目的地。</p>
-<p>初创企业是TechCrunch报道的核心，订阅即可每周收到我们最优质的报道。</p>
-<p>为行业推动者和领军人物提供他们开启一天所需的信息。</p>
-<p>提交您的电子邮件，即表示您同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>SiMa.ai是一家开发芯片和软件的初创公司，旨在让机器人、无人机、摄像头及其他设备能够直接在设备上运行人工智能。该公司以14.5亿美元的估值完成了1.5亿美元的C轮融资。本轮融资由富达管理与研究公司（Fidelity Management &amp; Research Company）和Amplify联合领投，Alter Venture Partners、戴尔科技资本（Dell Technologies Capital）和StepStone Group参投。</p>
+<p>该公司由Krishna Rangasayee于2018年创立。Rangasayee此前曾担任芯片制造商Groq的首席运营官。SiMa.ai提供高能效芯片，无需将数据来回传输至云端。与英伟达（Nvidia）的GPU相比，SiMa.ai希望凭借低延迟性能和更具价格优势的芯片，抓住不断增长的物理人工智能设备市场，包括人形机器人。</p>
+<p>新一轮融资使SiMa.ai筹集的资金总额超过5亿美元。据PitchBook称，这家初创公司此前于2025年7月完成8500万美元B轮融资后，估值为9.6亿美元。</p>
+<p>第二张门票可享五折优惠。Disrupt体验旨在与他人共享。购买你的门票，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索初创企业生态系统的下一步，拓展你的交流成果。</p>
+<p>每个工作日和周日，你都可以获取TechCrunch最精彩的报道。</p>
+<p>TechCrunch Mobility是你获取交通领域新闻与洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，因此每周接收我们精选的报道。</p>
+<p>为业界活跃人士提供开启一天所需的信息。</p>
+<p>提交电子邮箱即表示你同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-28 04:34 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-28 23:29 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -361,90 +328,7 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-google-weird-f81e702f2ea312d8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="922" data-content-paragraphs="9" data-published-at="2026-09-27T20:12:54.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-28 04:12</span>
-</div>
-
-### [谷歌什么时候变得这么奇怪了？](https://sancho.bearblog.dev/google-weird/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> When did Google get so weird?</div>
-
-<div class="article-body" data-article-body="true"><p>最近，我在进行一次简单的谷歌搜索时经历了一件极其古怪的事，古怪到让我当场停了下来。</p>
-<p>要理解这次谷歌搜索体验，得先了解一个2010年代中期的小众篮球梗，所以请容我先花一分钟说明一下。2014年，费城76人队选中了达里奥·萨里奇，当时他正在土耳其打职业篮球。他宣布打算履行完自己在土耳其的合同，这意味着他要过几年才会来美国为76人队效力。球迷群体中有个玩笑，说达里奥“永远不会过来”，这后来在部分球迷中成了一种暗号。</p>
-<p>最近我在一篇NBA文章中看到了达里奥的名字，想找一些2010年代人们发的关于他的老搞笑推文，于是我直接在谷歌上搜索了“hes never coming over dario”（他永远不会过来，达里奥）。我原以为自己要么什么都找不到——也许我记错了当时的说法——要么能找到那个时期的老推文或Reddit帖子。</p>
-<p>结果，谷歌在2026年做了谷歌会做的事，给我展示了一份AI概览。这类东西过去让我很烦，但到了现在我基本已经能接受了，有时它们确实有帮助。下面是AI概览给出的内容：</p>
-<p>谷歌这个没有人类情感的搜索引擎，竟然认定我在生活中被一个名叫达里奥的男人拒绝了，然后决定我想要的是一个善解人意的数字朋友。我想要的明明是一些链接，但2026年的谷歌已经不是这么运作的了。展开AI概览、查看完整答案后，我看到的是：</p>
-<p>这他妈到底是什么鬼？我想，这一刻就是我这只青蛙意识到锅里的水已经烧了一阵子的时候。谷歌凭什么要安慰我、做一个富有同理心的倾听者，而不是直接帮我找到我想在互联网上找的东西？这和“整理全世界的信息，使其普遍可访问且有用”有什么关系？如果我打开的是带有聊天界面的Gemini应用，这或许还能说得过去，但我用的是搜索引擎！谷歌真的已经完全迷失方向了。</p>
-<p>如果我在这些AI垃圾内容下方继续向下滚动几百个像素，谷歌确实给出了我想找的内容：</p>
-<p>不管你怎么看AI或聊天机器人，我觉得很明显，这就是单纯的古怪。我们是不是已经到了这样一种地步：必须不断和自己的电脑进行准社会性对话？难道就无法想象，搜索中的某些部分在大型语言模型出现之前其实已经运行得很好了吗？</p>
-<p>我不知道该如何看待这一切。也许我该去和我的朋友谷歌聊聊，它对我总是那么好。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 04:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://sancho.bearblog.dev/google-weird/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--hosting-on-the-dark-web-826855ffe333a112" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1280" data-content-paragraphs="12" data-published-at="2026-09-27T20:03:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-28 04:03</span>
-</div>
-
-### [在暗网进行自建托管](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Self-Hosting on the Dark Web</div>
-
-<div class="article-body" data-article-body="true"><p>本网站现已作为隐藏服务接入 Tor，可通过一个仅在 Tor 网络内部解析的 .onion 地址进行访问。¹ ¹请在 Tor 浏览器中打开它。这里没有证书颁发机构，没有 DNS，也不暴露任何 IP——该地址直接派生自公钥，且连接由 Tor 本身进行端到端加密。当您的流量穿过数千台由志愿者运营的服务器时，Tor 会对其进行中继和加密，从而没有任何单一方能够将您的身份与您的活动关联起来；隐藏服务则将这种匿名性扩展到了服务器本身。</p>
-<p>它由非营利组织 Tor 项目构建，该项目通过自由软件和开放网络促进人权与自由，以便任何人都能在不受追踪、监控和审查的情况下使用互联网。该网络唯有在人们使用时才能运转，因此请考虑向他们提供支持或运行中继节点——您的贡献每天都在帮助数百万人保持上网安全与隐私。</p>
-<p>安装 Tor 并将隐藏服务指向本地端口。编辑 /etc/tor/torrc</p>
-<p>该目录必须是一个专用的、归 Tor 所有的路径——而不是您的网站根目录。² ²Tor 会在此存储该服务的私钥和 hostname 主机名文件，并严格要求拥有其所有权（chmod 700，用户为 debian-tor）。如果您将其指向网站文件所在位置，Tor 将拒绝启动。重启 Tor 并读取其生成的地址</p>
-<p>Tor 会将 onion 的 80 端口转发至 127.0.0.1:8080，因此 Web 服务器只需监听该端口即可。为其添加一个 nginx server 配置块——无需 TLS，无需 HTTP/2，无需 QUIC，因为 Tor 传输的是纯 TCP 并提供其自带的加密机制。</p>
-<p>重载 nginx，网站即可在 Tor 上正常运行。</p>
-<p>静态网站会将基础 URL 固化进绝对链接中，因此即使通过 Tor 提供服务，明网版本的构建文件仍会将访问者重定向回明网域名。解决方法是以 onion 地址作为基础 URL 构建第二份副本</p>
-<p>部署流水线会自动处理这一过程：每次代码推送都会针对每个目标（明网和 Tor）构建一次网站，并通过 rsync 分别同步至各自的网站根目录，因此两者无需任何人工干预即可保持同步。³ ³底层机器的配置可参见《新服务器上手指南》；完整配置存储在我的 homelab 仓库中，而网站自身的仓库则包含用于构建和部署 Tor 副本的 GitHub Actions 工作流。</p>
-<p>就这么简单。欢迎通过 Tor 访问本站：dhevt6e4rtgbtr3jh53xrpwmgtilkah6nyjujocsspssrsexc7omxhid.onion。</p>
-<p>2026年9月21日 自建托管 《在 CGNAT 之后进行自建托管》自由软件、自由硬件，以及我母亲的地下室。<br />2026年5月17日 自建托管 《新服务器上手指南》适配新机器的个人检查清单。<br />2026年8月27日 C++ · 性能 《优化自旋锁》榨干极简锁的每一皮秒极限。</p>
-<p>我的邮件列表是免费的、不定期的，涵盖多种主题。我绝不会出售或共享您的电子邮件地址。</p>
-<p>有反馈意见？请发邮件至 david@alvarezrosa.com。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-28 04:03 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::
