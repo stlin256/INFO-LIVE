@@ -40,14 +40,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **85** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **86** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-29 01:58 (UTC+8)
+- **最新归档时间**：2026-09-29 07:33 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-29 07:33 (UTC+8)" title="全球要闻情报简报 · 07:33" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-29 07:22 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】极光公司（Aurora）首席财务官称，到2030年投放3万辆无人驾驶卡车并非听上去那么遥不可及：自动驾驶汽车技术公司极光（Aurora）上周向投资者表示，预计到2030年底将有超过3万辆自动驾驶卡车上路，并创造50亿美元的年收入——考虑到该公司预计到2026年底仅拥有200辆无人驾驶卡车和8000万美元的年化运行收入，这无疑是一个大胆的计划。；【undefined】圆桌研讨：虚拟边境墙的致命溃败：收听本场讨论或观看下方视频 过去25年来，美国在其南部边境耗资数十亿美元建立了一道由监控塔组成的“虚拟墙”，并承诺这些监控设施将有助于发现并抓捕越境者，同时拯救生命。然而，《麻省理工科技评论》的一项突破性调查记录了超过一千人在穿过这些监控塔监视的区域时，既未被救援也未被拦截，最终命丧于此。其中一些人甚至是在新安装的AI监控塔的注视下死去的，而这些监控塔的设计初衷正是为了自动识别人员。 我们的调查结果揭示了一场比以往所知更为显著的人道主义；【undefined】日本突发4.9级地震：中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。；【undefined】美总统称美官员已于28日同美伊间的调解方进行对话：当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。；【undefined】载人“星际客机”飞行计划于2028年前后进行——美国国家航空航天局：纽约，9月29日。/塔斯社/。美国国家航空航天局局长贾里德·艾萨克曼表示，自2024年以来波音公司“星际客机”飞船计划于2028年前后执行首次载人飞行。；【undefined】普京签令 俄罗斯武装部队总人数增至244万余人：中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。；【undefined】普京签署总统令 俄军扩编至244万余人：中新社莫斯科9月28日电 俄罗斯总统普京28日签署总统令，确定俄武装力量人员编制总人数为244万余人，其中包括超155万名现役军人。该总统令自签署之日起生效，相关文件已在俄法律信息网站公布。；【undefined】苏珊·柯林斯办公室遭粗俗标语涂鸦破坏 民主党参议员候选人保持沉默：周一，共和党参议员苏珊·柯林斯（Susan Collins）位于缅因州的一处选民服务办公室遭到破坏，她表示自己不会“被吓倒”；与此同时，民主党挑战者特洛伊·杰克逊（Troy Jackson）的竞选团队未对多次就该事件发表置评的请求作出回应。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260929/politika-2120858234.html) <span class="news-meta-time">🕒 2026-09-29 07:20</span>
+- [TechCrunch (硅谷创业与资本)] [极光公司（Aurora）首席财务官称，到2030年投放3万辆无人驾驶卡车并非听上去那么遥不可及](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/) <span class="news-meta-time">🕒 2026-09-29 06:58</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-29 07:00</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.youtube.com/watch?v=zwi5b5xSsKA) <span class="news-meta-time">🕒 2026-09-29 04:35</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-plasma-treatment-reveal-molecular-coatings.html) <span class="news-meta-time">🕒 2026-09-29 07:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260929/usoltsevy-2120858056.html) <span class="news-meta-time">🕒 2026-09-29 07:17</span>
+:::
 :::timeline-item{start="2026-09-29 01:58 (UTC+8)" title="全球要闻情报简报 · 01:58" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-29 01:44 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -646,18 +659,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/16/britons-leaving-workplace-unpaid-carers) <span class="news-meta-time">🕒 2026-09-16 07:01</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-greyhound-dogs-fine.html) <span class="news-meta-time">🕒 2026-09-16 08:00</span>
 - [FOX News Latest (美国FOX快讯)] [特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者](https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary) <span class="news-meta-time">🕒 2026-09-16 08:19</span>
-:::
-:::timeline-item{start="2026-09-16 05:34 (UTC+8)" title="全球要闻情报简报 · 05:34" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-16 05:32 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】媒体：特朗普在2024年大选后身家激增27亿美元：塔斯社纽约9月16日电 据《福布斯》杂志报道，美国总统唐纳德·特朗普目前的净资产为70亿美元，据估计比他在赢得2024年大选时增加了27亿美元。；【undefined】韦伯望远镜揭示恒星形成动态全景，发现已知质量最小的褐矮星：编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）；【undefined】微软宣布将于10月7日举办Windows与Surface发布会：该话题的内容将添加到您的每日电子邮件摘要和主页信息流中。 该作者发布的内容将添加到您的每日电子邮件摘要和主页信息流中。 查看汤姆·沃伦（Tom Warren）的全部文章 距离上一次重大的Windows发布活动已过去两年多，因此微软将于下个月前往旧金山，勾勒Windows和Surface设备的未来蓝图。在定于10月7日举行的活动中，该公司表示将主办一场关于“本地AI将如何塑造个人电脑下一篇章”的对话。 微软首席执行官萨蒂亚·纳德拉（Sat；【undefined】无序原子通过匹配运动与时序引导共享光脉冲：作者：达姆施塔特工业大学 编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物 德国达姆施塔特工业大学（TU Darmstadt）应用物理研究所的一个研究团队首次表明，完全无序且处于恒定运动中的原子，即使原子本身及其所处环境都不具备方向性，依然能够优先朝单一方向共同发射定向光，并且这种；【undefined】澳大利亚政坛动态直播：兰比将“危险的”汉森比作特朗普；新南威尔士州一国党党魁希望“阻止”堕胎：实时追踪当日新闻 订阅我们的全新政治电邮简报、免费应用程序或每日新闻播客 早上好，我是克里沙尼·丹吉（Krishani Dhanji），感谢马丁·法勒（Martin Farrer）为我们开启今日报道。 一国党（One Nation）今天将继续主导议会各处的热议话题；如果您还没读过，不妨阅读一下我的同事萨拉·马丁（Sarah Martin）关于宝琳·汉森（Pauline Hanson）之女在未经部长批准的情况下远程办公的报道。 在BetS；【undefined】麦克勒莫被除名后，艾德·希兰美国巡演全部助阵嘉宾退出：艾德·希兰（Ed Sheeran）周二发表声明表示，将麦克勒莫（Macklemore）从其即将举行的美国巡演场次中除名是主办方的决定。 在说唱歌手麦克勒莫因在舞台上发表支持巴勒斯坦的言论而被从演出阵容中除名后，艾德·希兰美国巡演的所有剩余助阵嘉宾均已退出。 其中包括流行歌星比莉·艾利什（Billie Eilish）的哥哥芬尼亚斯（Finneas），他在一份声明中表示：“当艺术家为受压迫者发声时，绝不能让他们被噤声。” 爱尔兰创作歌手艾伦；【undefined】德国选择党寻求与俄罗斯关系全面正常化——《图片报》：柏林，9月15日。/塔斯社/。《图片报》援引消息人士报道，德国选择党（AfD）打算寻求与俄罗斯实现关系全面正常化，并恢复双边贸易。；【undefined】迈克尔·拉帕波特对麦克莫尔被踢出艾德·希兰巡演表示欢呼，破口大骂“去你的”：周一，演员迈克尔·拉帕波特（Michael Rapaport）对歌手麦克莫尔（Macklemore）被踢出艾德·希兰（Ed Sheeran）巡演表示庆祝，此前麦克莫尔在作为开场嘉宾时，反复高呼“解放巴勒斯坦”，并演唱了他的反以色列歌曲《欣德大厅》（Hind’s Hall）。
-
-**重点要闻索引：**
-- [TASS (塔斯社官方英文)] [媒体：特朗普在2024年大选后身家激增27亿美元](https://tass.com/world/2188113) <span class="news-meta-time">🕒 2026-09-16 05:27</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) <span class="news-meta-time">🕒 2026-09-16 05:07</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-16 05:15</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/) <span class="news-meta-time">🕒 2026-09-16 03:49</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-options-gsl.html) <span class="news-meta-time">🕒 2026-09-16 05:20</span>
-- [ANSA Mondo (意大利安莎社官方意大利文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html) <span class="news-meta-time">🕒 2026-09-16 05:27</span>
 :::
 ::::

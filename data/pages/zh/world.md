@@ -16,152 +16,287 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-fficking-indictment-docs-f42134dc560fa207" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1238" data-content-paragraphs="27" data-published-at="2026-09-28T17:36:22.000Z" data-time-source="publication">
+<div id="story-026-09-29-10705191-shtml-33391a70555c5734" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="576" data-content-paragraphs="19" data-published-at="2026-09-28T22:58:13.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:36</span>
-</div>
-
-### [文件显示：奥莱密西西比大学附近一家电子烟店的也门出生店主在因贩运合成毒品被起诉后逃离美国](https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Yemen-born vape shop owner near Ole Miss fled country after synthetic drug trafficking indictment: docs</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/yemem-born-citizens-facing-charges-for-selling-illegal-drugs-at-vape-shop-ole-miss-2.jpg?ve=1&amp;tl=1" alt="文件显示：奥莱密西西比大学附近一家电子烟店的也门出生店主在因贩运合成毒品被起诉后逃离美国" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>福克斯新闻独家报道：密西西比州牛津——《福克斯新闻数字频道》发现的法庭文件显示，奥莱密西西比大学校园附近一家电子烟店的店主此前曾因贩运数百剂非法合成大麻素而被起诉。</p>
-<p>《福克斯新闻数字频道》此前报道称，40岁的阿迈尔·阿洛迪于2022年被起诉，文件称他在面临正式起诉前逃离了美国。他在牛津经营“Puffs电子烟、烟草和啤酒店”。</p>
-<p>上周，执法部门在调查两名奥莱密西西比大学学生死亡事件后突袭搜查了他的店铺；在这两起事件中，现场发现了包装好的卡痛叶产品，而卡痛叶在密西西比州拉斐特县属于非法物品。</p>
-<p>两名奥莱密西西比大学学生被发现死亡；官员在两处地点查获包装好的卡痛叶</p>
-<p>警方称，他们发现了500单位的该类毒品，并逮捕了两名与此次查获行动有关的男子：51岁的叶海亚·穆罕默德·穆斯莱赫和18岁的伊斯兰·穆罕默德。</p>
-<p>美国国土安全部一名消息人士告诉《福克斯新闻数字频道》，三名被控男子均出生于也门，且全部为归化公民。</p>
-<p>司法部寻求剥夺17名被指控隐瞒令人不安罪行人员的公民身份</p>
-<p>消息人士称：“叶海亚·穆罕默德·阿里·穆斯莱赫于1992年进入美国，阿洛迪于2014年进入美国，伊斯兰·叶海亚·穆罕默德·穆斯莱赫于2024年2月进入美国。”</p>
-<p>在最近被捕之前，阿洛迪就已进入缉毒调查人员的视线。</p>
-<p>一份事件报告称，2020年3月，特工前往一家加油站，并进行了两次受控购买，购买的是他们认为含有非法合成大麻素的烟弹。</p>
-<p>这家加油站是一座位于拉马尔大道、同样位于牛津的德士古加油站，附带一家便利店。</p>
-<p>在X平台关注福克斯真实犯罪团队</p>
-<p>文件称，这是嫌疑人“拥有并经营”的另一家企业。</p>
-<p>特工完成这些购买几周后，报告称：“2020年3月20日，拉斐特县大都会缉毒组的两名特工跟随阿洛迪从他的店铺前往密西西比州图珀洛的一处仓库，阿洛迪在那里取走了数箱装有未知物品的箱子。”</p>
-<p>在图珀洛仓库，特工看到阿洛迪和另外两名男子将箱子装入车辆，其中包括一辆“黄色的彭斯克厢式卡车”。</p>
-<p>阅读要求驳回起诉的动议：</p>
-<p>点击此处获取更多福克斯真实犯罪中心的内容</p>
-<p>特工跟随阿洛迪的车辆从图珀洛仓库驶回牛津方向，并以涉嫌超速为由将他拦下。</p>
-<p>报告称，在获得同意后，特工搜查了他的车辆，并查获了各种电子烟产品、据信含有非法大麻素的烟弹，以及几盒伟哥。</p>
-<p>独家报道：随着帕特尔加强对外联络并誓言“不提供避难所”，联邦调查局引渡案件激增</p>
-<p>警方当天没有逮捕阿洛迪，等待对查获产品进行犯罪实验室检测。但警方警告他，“一旦犯罪实验结果出来，他可能面临更多指控”。</p>
-<p>收听全新播客《与唐娜·鲁图诺共谈犯罪与司法》</p>
-<p>报告还称，调查人员怀疑阿洛迪与密西西比州其他店铺存在关联。</p>
-<p>通过电子邮件获取突发新闻</p>
-<p>2024年，阿洛迪提出动议，要求撤销对他的指控，但该动议遭到驳回。</p>
-<p>特朗普政府司法部加大公民身份整治力度，针对被指控隐瞒恐怖组织联系和暴力犯罪的一群人</p>
-<p>如果罪名成立，阿洛迪可能面临40年监禁和100万美元罚款。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-29 01:36 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-llion-promo-eagles-bears-155438b03c1f08e5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="626" data-content-paragraphs="7" data-published-at="2026-09-28T17:34:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:34</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:58</span>
 </div>
 
-### [Underdog促销码FOXNEWS解锁1000美元存款匹配优惠，并可参加“保住你的百万”老鹰队对熊队活动](https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-1k-deposit-match-keep-your-million-promo-eagles-bears)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Underdog Promo Code FOXNEWS Unlocks a $1k Deposit Match + Keep Your Million Promo for Eagles-Bears</div>
+### [日本突发4.9级地震](https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml)
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/nfl-eagles-jalen-hurts-092826-1.jpg?ve=1&amp;tl=1" alt="Underdog促销码FOXNEWS解锁1000美元存款匹配优惠，并可参加“保住你的百万”老鹰队对熊队活动" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>准备好看橄榄球比赛了吗？在昨天NFL经历了疯狂的一天之后，今晚将迎来一场老鹰队对阵熊队的“周一夜赛”。Underdog推出了一项让人难以拒绝的优惠：使用促销码FOXNEWS，可获得1000美元存款匹配优惠，此外还可参加“保住你的百万”生存池活动。</p>
-<p>橄榄球比赛中的许多结果都取决于四分卫位置。我们知道，球队的成功或失败通常都归结于这一位置。他们既能获得赞誉，也会承受最多的批评。让我们看看本场比赛的两名四分卫，比较一下他们的表现。</p>
-<p>杰伦·赫茨将担任老鹰队的首发四分卫。在其职业生涯中，他受到的主要批评是传球——而这正是人们期待四分卫能够做好的事情。赫茨一直不太以站在口袋中传球见长，但本赛季的两场比赛中，他表现出色，62次传球完成40次。他已经传出5次达阵，但也有2次被抄截。</p>
-<p>另一方面，熊队将在第3周启用本赛季的第三名不同四分卫。第1周，卡莱布·威廉姆斯担任四分卫，表现十分出色。第2周，威廉姆斯受伤，随后泰森·巴根特也受了伤。巴根特在第2周为熊队打完了比赛，预计可以出场，但他刚刚结束脑震荡观察程序。</p>
-<p>因此，熊队将派凯斯·基纳姆指挥进攻。基纳姆是一名辗转多队的老将，但职业生涯中积累了丰富的比赛经验。他已经传球取得15175码、79次达阵，并有51次被抄截。</p>
-<p>今晚对于Underdog的新用户来说是一个绝佳机会。使用促销码FOXNEWS，即可解锁1000美元存款匹配优惠，并获得“保住你的百万”生存池活动的参赛资格。</p>
-<p>四分卫职业生涯对比：</p></div>
+<div class="article-body" data-article-body="true"><p>中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。</p>
+<p>日本气象厅称，地震发生于当地时间29日4时45分(北京时间29日3时45分)，震中位于北纬36.1度、东经139.9度，震源深度约50公里。</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-29 01:34 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:58 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-1k-deposit-match-keep-your-million-promo-eagles-bears" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-1-96da-5a236804c2b0-html-a3ed7b3a62ecddb3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2219" data-content-paragraphs="16" data-published-at="2026-09-28T17:25:30.000Z" data-time-source="publication">
+<div id="story-026-09-29-10705190-shtml-5b25d5d20e6619a2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="940" data-content-paragraphs="22" data-published-at="2026-09-28T22:50:39.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:25</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:50</span>
 </div>
 
-### [雷杰尼案：3名埃及安全官员被判有罪，1人被判无罪](https://www.ansa.it/english/news/2026/09/28/3-egypt-security-officials-found-guilty-of-regeni-murder-1-cleared_495d684f-e946-4d01-96da-5a236804c2b0.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 3 Egypt security officials found guilty in Regeni case, 1 cleared</div>
+### [美总统称美官员已于28日同美伊间的调解方进行对话](https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml)
 
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2023/12/4/b92e82f0a7cf935ebbccc642f64b9daf.jpg" alt="雷杰尼案：3名埃及安全官员被判有罪，1人被判无罪" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月28日 - 罗马一家法院周一缺席审判了四名涉嫌于2016年1月至2月绑架意大利学生朱利奥·雷杰尼（Giulio Regeni）的埃及安全官员，其中三人被判有罪，一人被判无罪。</p>
-<p>这三人被判犯有绑架该学生的罪名，但未被判定犯有酷刑和谋杀罪。2016年1月25日，这位28岁的学生在开罗地铁站失踪；9天后的2月3日，其半裸的尸体在开罗-亚历山大高速公路旁的一处水沟中被发现。</p>
-<p>这三人均被判处十年监禁，他们分别是：马吉迪·易卜拉欣·阿卜杜勒-阿里·谢里夫（Magdi Ibrahim Abdelal Sharif）少校（检方此前要求对其判处无期徒刑），以及乌哈萨姆·赫尔米（Uhsam Helmi）上校和阿塔尔·卡迈勒·穆罕默德（Athar Kamel Mohamed）上校。第四名被告塔里克·萨比尔（Tariq Sabir）将军被判无罪。</p>
-<p>法院认定，出生于弗留利的剑桥大学博士研究员雷杰尼（当时正在开罗研究街头工会）遭到这三名官员的绑架并被酷刑折磨致死。在埃及当局拒绝向他们送达诉讼通知后，这四人均未出席任何庭审。</p>
-<p>检方曾要求对谢里夫少校以加重谋杀罪判处无期徒刑，对其余被告以加重绑架罪分别判处17年半监禁。</p>
-<p>中左翼反对派曾敦促总理乔治娅·梅洛尼（Giorgia Meloni），如果这些人被定罪，应要求引渡他们。</p>
-<p>罗马副首席检察官塞尔吉奥·科拉约科（Sergio Colaiocco）在针对四人的结案陈词中表示，雷杰尼是死于“针对一名手无寸铁之人所施加的冷酷、有条不紊且有组织的暴力酷刑”。</p>
-<p>雷杰尼生前遭受了极其残忍的折磨，以至于其母亲保拉·德芬迪（Paola Deffendi）表示，自己只能“通过他的鼻尖”认出他。她说“世间所有的邪恶”都降临在了她儿子的身上——这句话后来被用作一部纪念该谋杀案十周年纪录片的片名。</p>
-<p>在该纪录片被拒绝给予国家利益资助后，引发了一场争论。意大利右翼政府出台了受资助作品必须符合国家利益的新标准，根据该标准，西蒙娜·马内蒂（Simone Manetti）执导的《朱利奥·雷杰尼：世间所有的邪恶》（Giulio Regeni, All The Evil In The World）未获入选，多名国家电影评选委员会成员随后辞职以示抗议。</p>
-<p>反对派表示，与右翼政府关系密切的电影制作人的其他项目，以及一部关于阿尔弗雷多白汁意大利面（Fettucine Alfredo）和那不勒斯低音歌手吉吉·达莱西奥（Gigi D&#39;Alessio）的影片，反而被认为值得资助。另一个获批的项目《阜姆》（Fiume）讲述了原始法西斯主义者兼伟大诗人加布里埃莱·邓南遮（Gabriele D&#39;Annunzio）的“阜姆冒险”（1919-1920年），即这位由诗人转变为军人的邓南遮对争议港口城市阜姆（现克罗地亚里耶卡）进行民族主义性质的准军事占领，旨在迫使其并入意大利。</p>
-<p>雷杰尼据信是在针对开罗街头工会开展剑桥大学博士研究时，被其中一个工会的负责人指控为间谍。雷杰尼此前是剑桥大学格顿学院（该学院最初全为女性）的学生。</p>
-<p>雷杰尼的父母最近批评了意大利本届及往届政府，指责其在儿子遇害后仍与埃及保持着一成不变的关系。该纪录片讲述了雷杰尼的父母克劳迪奥·雷杰尼（Claudio Regeni）和保拉·德芬迪在面对埃及总统阿卜杜勒-法塔赫·塞西（Abdel Fattah el-Sisi）虚假的合作承诺时，为儿子寻求正义所经历的艰难抗争。</p>
-<p>埃及方面曾多次对这名年轻学生的死因提出不同解释，包括车祸、同性伴侣争吵，以及被一个涉嫌绑架的团伙绑架杀害——雷杰尼的证件被栽赃在该团伙的窝点后，该团伙成员被悉数击毙。埃及在该案件上缺乏合作，曾导致罗马方面暂时召回其驻开罗大使。但意大利历届政府在从移民到石油勘探以及包括两艘意大利造护卫舰在内的军售协议等各项事务上继续与开罗合作，引来了雷杰尼父母的谴责。</p>
-<p>人权组织称，在2011年埃及革命期间前政治强人霍斯尼·穆巴拉克（Hosni Mubarak）下台后经历了短暂的伊斯兰政权接管，随后塞西政权自2013年执政以来，雷杰尼只是其“强迫失踪”的无数受害者之一。雷杰尼是在导致穆巴拉克下台的起义五周年纪念日当天被绑架的，当时街头戒备森严。</p>
-<p>在资助被拒后，德芬迪表示全家人已经对不公习以为常。“十年来，我们已经习惯了这些不公正，”德芬迪在米兰一所大学放映该纪录片前表示。该片在争议声中重新发行，并在意大利76所高等院校展映。在纪录片未能获得公共资金资助后，意大利最知名的影评人保罗·梅雷盖蒂（Paolo Mereghetti）、著名大学电影讲师马西莫·加林贝尔蒂（Massimo Galimberti）以及地中海电影节（MedFilm Festival）创始人兼总监吉内拉·沃卡（Ginella Vocca）退出文化部评审委员会以示抗议。</p>
-<p>意大利方面的尸检报告显示，雷杰尼的遗体呈现出遭受极端酷刑的严重痕迹：因遭受重度殴打导致全身多处挫伤和擦伤；因遭踢踹、拳击和棍棒殴打造成大面积淤伤；二十多处骨折，其中包括七根肋骨断裂，所有手指和脚趾以及腿部、手臂和肩胛骨骨折；身上包括脚底有多处刺伤，疑为破冰锥或锥状工具所致；全身多处被疑为剃须刀的锋利器械割破的伤痕；大范围烟头烫伤痕迹；肩胛骨之间有硬热物体造成的大面积灼伤；脑出血；以及最终导致死亡的颈椎骨折。（安莎社）</p></div>
+<div class="article-body" data-article-body="true"><p>当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。</p>
+<p>当日稍早时，有消息称，一名了解美伊谈判情况的官员透露，美国和伊朗预计将于28日或29日再次通过调解方举行会谈。伊朗外长阿拉格齐和卡塔尔调解方目前在美国，会谈预计将聚焦于磋商修订伊朗在联合国大会期间提出的七日内重开霍尔木兹海峡提议。</p>
+<p>另有美方消息显示，美伊间接会谈于28日上午开始。此前，有伊朗方面的消息说，伊朗外长阿拉格齐将率领伊朗代表团于28日上午在美国纽约与美伊谈判调解方会面，讨论有关当前局势的最新提议。</p>
+<p>22日，美国总统特使威特科夫和特朗普的女婿库什纳在纽约联合国大会期间与伊朗外长阿拉格齐通过调解方卡塔尔进行了间接会谈。据美媒报道，伊方提议，如美国解除海上封锁、取消石油销售制裁并恢复地区停火，伊朗将在七天内重新开放霍尔木兹海峡并重启核谈判。</p>
+<p>美国总统特朗普26日向媒体确认，他已拒绝伊朗的这一提议。27日，特朗普表示预计美国和伊朗将在接下来一周内重启谈判。</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-29 01:25 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:50 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/2026/09/28/3-egypt-security-officials-found-guilty-of-regeni-murder-1-cleared_495d684f-e946-4d01-96da-5a236804c2b0.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-science-2194241-fed986ef93fde9f2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="462" data-content-paragraphs="4" data-published-at="2026-09-28T22:48:13.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:48</span>
+</div>
+
+### [载人“星际客机”飞行计划于2028年前后进行——美国国家航空航天局](https://tass.com/science/2194241)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Crewed Starliner flight planned by 2028 — NASA</div>
+
+<div class="article-body" data-article-body="true"><p>纽约，9月29日。/塔斯社/。美国国家航空航天局局长贾里德·艾萨克曼表示，自2024年以来波音公司“星际客机”飞船计划于2028年前后执行首次载人飞行。</p>
+<p>艾萨克曼在佛罗里达州举行的新闻发布会上说，在发射载人飞船之前，美国国家航空航天局计划于2027年执行一次不载人的“星际客机”飞行，前往国际空间站，随后再执行载人任务。目前的计划是，到2028年让宇航员乘坐“星际客机-2”执行任务。</p>
+<p>宇航员巴里·尤金·威尔莫尔和苏尼塔·威廉姆斯于2024年6月5日乘坐“星际客机”抵达国际空间站。这是波音公司的飞船首次执行前往空间站的载人发射任务。威尔莫尔和威廉姆斯最初预计将在轨道上停留至6月18日。由于飞船在与国际空间站对接期间发生故障，数个机动推进器失灵，他们的返回时间后来先被推迟至6月26日，之后又被无限期推迟。</p>
+<p>2024年9月7日，“星际客机”在没有载员的情况下脱离国际空间站，六小时后降落在新墨西哥州白沙导弹靶场。2025年3月19日，威尔莫尔和威廉姆斯作为由美国太空探索技术公司运营的“载人龙”飞船机组成员返回地球。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-29 06:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/science/2194241" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-29-10705188-shtml-aaf44c9fa7b28c97" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="658" data-content-paragraphs="20" data-published-at="2026-09-28T22:47:48.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:47</span>
+</div>
+
+### [普京签令 俄罗斯武装部队总人数增至244万余人](https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。</p>
+<p>俄媒指出，这是自2026年初以来俄军第四次扩编。</p>
+<p>今年7月，普京曾签署命令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数增至242万余人。而在今年6月，普京签署的总统令规定俄武装力量编制总人数为239万余人，其中现役军人151万人。</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:47 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-29-10705187-shtml-537c4a3d5de039e8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="781" data-content-paragraphs="20" data-published-at="2026-09-28T22:43:26.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:43</span>
+</div>
+
+### [普京签署总统令 俄军扩编至244万余人](https://www.chinanews.com.cn/gj/2026/09-29/10705187.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社莫斯科9月28日电 俄罗斯总统普京28日签署总统令，确定俄武装力量人员编制总人数为244万余人，其中包括超155万名现役军人。该总统令自签署之日起生效，相关文件已在俄法律信息网站公布。</p>
+<p>根据总统令，俄联邦武装力量编制总人数为2441630人，其中包括1550500名现役军人。总统令同时要求俄联邦政府从联邦预算中向俄国防部拨付相应预算款项。同时废止今年7月27日和6月12日的相关总统令。</p>
+<p>今年7月27日，普京签署总统令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数确定为242万余人，其中包括153.5万名现役军人。6月12日，普京曾签署总统令，将俄武装力量编制总人数确定为239万余人，其中包括151万名现役军人。(完)</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:43 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705187.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-andalized-vulgar-message-5f985ac696846492" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1422" data-content-paragraphs="15" data-published-at="2026-09-28T22:35:07.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:35</span>
+</div>
+
+### [苏珊·柯林斯办公室遭粗俗标语涂鸦破坏 民主党参议员候选人保持沉默](https://www.foxnews.com/politics/dem-senate-nominee-silent-susan-collins-office-vandalized-vulgar-message)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dem Senate nominee silent after Susan Collins&#39; office was vandalized with vulgar message</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jackson-collins-split.jpg?ve=1&amp;tl=1" alt="苏珊·柯林斯办公室遭粗俗标语涂鸦破坏 民主党参议员候选人保持沉默" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>周一，共和党参议员苏珊·柯林斯（Susan Collins）位于缅因州的一处选民服务办公室遭到破坏，她表示自己不会“被吓倒”；与此同时，民主党挑战者特洛伊·杰克逊（Troy Jackson）的竞选团队未对多次就该事件发表置评的请求作出回应。</p>
+<p>这位参议员位于缅因州比德福德（Biddeford）的选民办公室于周一遭到破坏，大门上被喷涂了“特朗普的婊子”（Trump Whore）字样。参议员办公室证实了这一事件，而缅因州参议院共和党助理领袖、州参议员马特·哈灵顿（Matt Harrington）在Facebook和X平台上发布了被涂鸦大门的照片。与此同时，比德福德警方已向福克斯新闻数字频道（Fox News Digital）证实正在对此事展开调查。</p>
+<p>“故意破坏公物是不可接受的。柯林斯参议员及其工作人员不会被吓倒。我们的比德福德选民服务办公室仍然开放，我们将继续为缅因州人民服务，”柯林斯的幕僚长凯蒂·布朗（Katie Brown）在给福克斯新闻数字频道的一份声明中表示。</p>
+<p>【苏珊·柯林斯在关键参议院选战中顶住深蓝州逆风 最新民调显示惊人分歧】</p>
+<p>柯林斯今年正在竞选第六个为期六年的参议员任期，代表倾向民主党的缅因州，并正与民主党挑战者、前缅因州参议院议长特洛伊·杰克逊展开激烈竞争。在今年秋季的中期选举中，民主党若想从共和党手中夺回参议院多数席位，这场竞选是其势在必得的翻盘目标。</p>
+<p>杰克逊未回应福克斯新闻数字频道就该故意破坏事件多次提出的置评请求。</p>
+<p>【苏珊·柯林斯严厉提醒民主党对手深陷指控泥潭】</p>
+<p>前缅因州众议员奥斯汀·塞里奥特（Austin Theriault）在2024年作为共和党国会候选人以微弱劣势输给缅因州民主党众议员贾里德·戈登（Jared Golden），目前正寻求重返州众议院。他向福克斯新闻数字频道表示，“无论你身处何种政治立场，谴责此类行径都不应该有任何犹豫。”</p>
+<p>“如果换作对方遭遇此事，我非常确信柯林斯参议员本人会非常迅速地予以谴责，”塞里奥特说，同时对杰克逊保持沉默后缅因州民主党人是否存在“身份认同问题”提出质疑。</p>
+<p>缅因州共和党通讯主管克里斯蒂娜·帕克（Kristina Parker）在给福克斯新闻数字频道的一份声明中认为，这起破坏事件“只是激进左翼具有攻击性且无法进行文明对话的又一个例证”。</p>
+<p>【缅因州ICE枪击案受害者并非逮捕令目标，参议员金的办公室在国土安全部早期通报后如是说】</p>
+<p>“我们希望起诉过程迅速且顺利。我们的政治环境不应容忍这种极不稳定且令人厌恶的行为，”她补充道。</p>
+<p>柯林斯位于比德福德的办公室距离今年7月美国移民及海关执法局（ICE）特工发生致命枪击案的现场仅几个街区。枪击事件发生后，抗议者曾游行至这位参议员的比德福德办公室，示威抗议柯林斯对ICE经费拨款的支持。</p>
+<p>作为一名偶尔与唐纳德·特朗普总统意见相左的温和派共和党人，这位参议员在整个竞选活动中吸引了来自两党的关注。</p>
+<p>今年夏天，她在连续完成参议院第10,000次投票后获得了赞誉，但也面临来自两党的批评。柯林斯曾批评特朗普对加拿大的关税政策，并投票反对确认托德·布朗奇（Todd Blanche）担任司法部长；而民主党人则继续就她捍卫自己2018年投票确认最高法院大法官布雷特·卡瓦诺（Brett Kavanaugh）一事对她展开攻击，后者后来加入了推翻“罗诉韦德案”（Roe v. Wade）的最高法院多数派。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-29 06:35 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/dem-senate-nominee-silent-susan-collins-office-vandalized-vulgar-message" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 ::::

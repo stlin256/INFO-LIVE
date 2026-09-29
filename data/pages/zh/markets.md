@@ -16,71 +16,40 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-rlink-v3-satellites-html-11db3eb9ac9ea5f9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="866" data-content-paragraphs="1" data-published-at="2026-09-28T16:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-29 00:30</span>
-</div>
-
-### [SpaceX将“星舰”送入轨道并部署26颗星链V3卫星](https://oilprice.com/Latest-Energy-News/World-News/SpaceX-Sends-Starship-to-Orbit-and-Deploys-26-Starlink-V3-Satellites.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> SpaceX Sends Starship to Orbit and Deploys 26 Starlink V3 Satellites</div>
-
-<div class="article-body" data-article-body="true"><p>据路透社报道，SpaceX的“星舰”周一首次进入轨道，并在该飞行器第14次试飞中部署了26颗星链V3卫星；任务开始约两分半钟后，飞行器上层的6台发动机中有1台发生故障。中型运载火箭“超级重型”于中部时间上午748时在德克萨斯州布朗斯维尔附近的SpaceX“星际基地”点燃全部33台发动机，将这枚高达40层楼的飞行器送过墨西哥湾上空，随后“星舰”与其分离，独自继续飞向轨道。SpaceX的直播最初报道称，发动机故障后任务无法进入轨道。飞行约22分钟后，在工程师确认“星舰”仍能完成达到轨道速度所需的燃烧过程后，公司发言人丹·胡特撤回了这一判断。轨道速度约为每小时1.75万英里。自马斯克首次将这一里程碑目标定在2022年以来，“星舰”一直未能进入轨道。自2023年以来，该飞行器此前进行的13次飞行全部停留在亚轨道，此项开发计划迄今已让SpaceX耗资超过150亿美元。“超级重型”助推器没有像往常一样尝试在发射塔上着陆，而是改为模拟在墨西哥湾溅落，以测试面向未来飞行的软件和硬件改动。“星舰”本次计划在10小时内完成6圈轨道飞行，之后在智利外海的太平洋中溅落；飞行器还搭载了3颗配备摄像头的星链卫星，用于记录其隔热罩如何应对再入大气层。按照马斯克本人的说法，SpaceX计划每年让“星舰”执行“数百次或数千次”飞行，但这一计划正遭遇与当前令公用事业公司和数据中心开发商承压的电力设备短缺相同的问题。马斯克本月表示，燃气轮机“到2030年前都已售罄”，SpaceX正在得克萨斯州巴斯特罗普建造一家工厂，以自行生产涡轮叶片。该公司称，此举最多可将交付时间缩短18个月。该公司新近宣布的1000亿美元路易斯安那州“星际基地”扩建计划，拟在2029年前增建数十个发射台，也将进一步增加电力需求。“星舰”同时也是美国国家航空航天局为“阿耳忒弥斯3号”任务规划的载人着陆系统，预计将在任务前与“猎户座”载人飞船进行对接测试。目前该任务计划于明年年底进行，届时还将有蓝色起源公司的一款竞争性着陆器参与。——查尔斯·肯尼迪，Oilprice.com</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-29 00:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/SpaceX-Sends-Starship-to-Orbit-and-Deploys-26-Starlink-V3-Satellites.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--gems-in-favor-of-skills-ab95dff2b094b51a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1012" data-content-paragraphs="15" data-published-at="2026-09-28T17:29:50.000Z" data-time-source="publication">
+<div id="story-far-fetched-as-it-sounds-458d82b1a2b7f3ff" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1717" data-content-paragraphs="15" data-published-at="2026-09-28T22:58:35.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:29</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:58</span>
 </div>
 
-### [谷歌将停止支持 Gemini 的 Gems，转而采用“技能”](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google is killing off Gemini’s Gems in favor of ‘skills’</div>
+### [极光公司（Aurora）首席财务官称，到2030年投放3万辆无人驾驶卡车并非听上去那么遥不可及](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds</div>
 
-<div class="article-body" data-article-body="true"><p>随着 Meta 的 Muse 和 Instinct 等一体化人工智能代理开始走红，谷歌宣布将关闭 Gemini 中名为“Gems”的功能。该功能曾允许用户针对特定任务创建定制化人工智能助手。不过，用户在创建 Gems 时投入的工作不会被销毁。Gems 将自动迁移为“技能”，可用于不同的人工智能任务。</p>
-<p>有关这一变化的详细信息已在 Gemini 应用中公布。应用中的一条消息提醒用户，Gems 将从 2026 年 11 月 17 日起转变为技能。公司表示，会将 Gems 迁移为新格式，因此用户无需采取任何操作即可完成迁移。在此之前，Gems 本身仍可继续使用。</p>
-<p>Gems 于 2024 年推出，旨在帮助用户训练人工智能执行特定任务，而不必反复输入指令。例如，谷歌预先制作的一些 Gems 包括学习教练、头脑风暴助手、职业指导、编程伙伴和编辑。用户也可以根据自身需求创建 Gems，例如跑步教练、营养师或度假规划师。这些定制助手还可以与他人分享，谷歌原本希望此举能帮助其 Gemini 人工智能应用获得更大普及。</p>
-<p>然而，即便转为技能，原先的 Gems 仍不如直接在聊天机器人中输入文字那样便于消费者使用，例如 Meta 的 Muse。相反，谷歌指出，用户必须在任务线程中输入正斜杠“/”，以选择想要使用的技能——这种用户界面通常更受工程师青睐，而不是普通用户。</p>
-<p>Gems 即将停止使用一事，最早由 9to5Google 于周末报道。</p>
-<p>当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>消费者新闻编辑</p>
-<p>第二张通行证可享五折优惠<br />Disrupt 体验旨在与他人共享。购买你的通行证，并以五折价格邀请同事、合作伙伴或同行参加。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展你的视野。</p>
-<p>Crusoe 放弃在人工智能数据中心使用 Boom 涡轮机的 12.5 亿美元计划</p>
-<p>Astra 和 Opus 刚刚通过了图灵测试的另一项测试</p>
-<p>甲骨文就其位于新墨西哥州的 Stargate 数据中心发出不可抗力通知</p>
-<p>Meta 为其 Muse 人工智能代理打造了一款类似电子宠物的可穿戴设备</p>
-<p>《Vogue》让机器人走上 Vogue World 的秀场，人们对此并不买账</p>
-<p>Anthropic 称其生物学实验室已经取得重大成果</p>
-<p>PitPro 的首台换胎机器人在加拿大投入使用</p></div>
+<div class="article-body" data-article-body="true"><p>自动驾驶汽车技术公司极光（Aurora）上周向投资者表示，预计到2030年底将有超过3万辆自动驾驶卡车上路，并创造50亿美元的年收入——考虑到该公司预计到2026年底仅拥有200辆无人驾驶卡车和8000万美元的年化运行收入，这无疑是一个大胆的计划。</p>
+<p>首席财务官戴维·马迪（David Maday）认为，这一看似庞大的目标并不像表面看起来那么夸张或遥不可及。</p>
+<p>“虽然3万辆感觉很多——在自动驾驶领域确实如此——但就卡车占整个市场的比例而言，它其实相当小，”他在近期接受TechCrunch采访时表示，并补充称四大卡车制造商每年生产25万至30万辆新卡车。“我认为这并非空想，”他补充道，“我认为我们能够做到。”</p>
+<p>投资者并未全盘接受Aurora的2030愿景。自9月23日该公司举办年度分析师与投资者日以来，股价持续下滑。周一，其股价收盘下跌12.42%，报5.29美元。</p>
+<p>但投资者还有时间转变态度，据马迪表示，Aurora的关键“破局点”始于2027年，并在此后加速。该公司预计将从2026年底的200辆无人驾驶卡车增长到一年后的1000多辆。</p>
+<p>目前，Aurora运营着所谓的“交通即服务”（transportation-as-a-service）业务——这是一种概念验证模式，该公司计划将其限制在约500辆卡车左右。它拥有并运营这些自动驾驶卡车，向包括Detmar Logistics、Hirschbach、McLane和Werner在内的客户收取每英里约2美元的费用（包含燃油附加费）。</p>
+<p>这一费率与其他承运商的典型定价大致相当。马迪表示，真正的转变——以及真正的成本节约——将在明年发生，届时Aurora将开始转向“司机即服务”（driver-as-a-service）模式。届时不再由Aurora拥有卡车，而是由客户购买自动驾驶卡车，并就自动驾驶技术向Aurora支付按英里计算的订阅费，该公司预计约为每英里0.85美元。在这种模式下，客户将拥有并维护卡车，而Aurora则维护自动驾驶系统及其配套硬件。</p>
+<p>如果该公司想要实现规模化扩张，将卡车移出Aurora的资产负债表至关重要——这也可能是投资者目前关注的焦点。该公司表示，预计在2027年上半年，随着约500辆卡车上路，其年化毛利率将实现盈亏平衡（即收入能够覆盖运营卡车的直接成本）。</p>
+<p>下一次重大飞跃将出现在2027年底，届时Aurora将推出第三代硬件——即让卡车实现自动驾驶的传感器、计算机及其他设备——这将是由其合作伙伴Aumovio（前身为大陆集团/Continental）制造的量产级自动驾驶车辆硬件套件。Aumovio不仅负责工程设计和制造该硬件套件，还在为Aurora提供资金支持，从而减轻这家自动驾驶卡车公司的财务负担。Aumovio还将为客户提供该套件的维护与维修服务。</p>
+<p>Aurora计划在此期间同步扩大运营范围。马迪表示，到2030年，该公司的业务预计将从南部的少数几个州扩展到美国本土的大部分地区。</p>
+<p>“到2028年，我预计我们的成本结构将非常出色，这就是为什么你会看到我们的毛利率开始起飞……”马迪说。“一旦达到那个阶段，我认为进军网约车市场是顺理成章的，”他表示，并证实Aurora仍计划最终进入Robotaxi（自动驾驶出租车）市场。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>交通板块编辑</p>
+<p>第二张门票立减50%：Disrupt大会的体验旨在共同分享。获取您的通行证，以半价携同事、合伙人或同行一同参与。通过建立人脉、凝聚势能，发掘创业生态的下一站，拓展更多视野。</p>
+<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra与Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为Muse AI助手打造了类似电子宠物的可穿戴设备<br />Vogue在Vogue World秀场上展示机器人走秀，反响平平<br />Anthropic称其生物实验室已取得重大突破<br />PitPro首款换胎机器人在加拿大投入运营</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：报道重点是功能名称和使用方式的变化：Gems 将于 2026 年 11 月 17 日起转为 skills，用户创建的内容据称会被自动迁移，现有 Gems 在此之前仍可使用。文章将这一调整置于 AI 助手竞争背景下，并强调 skills 需要通过在任务线程中输入“/”来调用，认为其对普通消费者不如直接输入文本友好。关于 Google 此举的动机，文章主要通过 Meta 的 Muse 和 Instinct 等产品走红这一背景进行推断，并未提供 Google 对战略原因的详细解释。</li>
+    <li>Aurora向投资者表示，预计到2030年底将有超过30,000辆自动驾驶卡车上路，产生50亿美元的年收入。</li>
+    <li>Aurora预计2026年底将拥有200辆无人驾驶卡车，年化营收运行率达到8000万美元。</li>
   </ul>
 </div>
 
@@ -89,223 +58,29 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-iagnostic-tool-sick-html-123756e1d21d66bf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1508" data-content-paragraphs="1" data-published-at="2026-09-28T17:40:06.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:40</span>
-</div>
-
-### [神经蛋白有望成为患病幼驹的诊断工具](https://phys.org/news/2026-09-neuroproteins-potential-diagnostic-tool-sick.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Neuroproteins are potential diagnostic tool for sick foals</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/horse-and-foal.jpg" alt="神经蛋白有望成为患病幼驹的诊断工具" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>作者：Tracey Peake，北卡罗来纳州立大学<br />编辑：Lisa Lock，审阅：Andrew Zinin<br />本文已根据 Science X 的编辑流程和政策接受审阅。编辑在确保内容可信度的同时，特别强调了以下属性：<br />北卡罗来纳州立大学的研究人员发现，新生幼驹血清中的神经蛋白和神经类固醇浓度与新生儿适应不良综合征（NMS）有关。这项工作有望推动更好的诊断工具和潜在疗法的开发。<br />“新生儿适应不良综合征是新生幼驹一种非常复杂的疾病。”北卡罗来纳州立大学临床科学副教授、该研究通讯作者卡塔日娜·登贝克说。该研究发表于《兽医内科学杂志》。“患有 NMS 的幼驹通常会在出生时或出生后的最初24至48小时内出现神经系统症状。如果排除了分娩造成的脑损伤，许多患有 NMS 的幼驹都能够康复。但这种疾病背后的机制尚未完全明了。”<br />虽然 NMS 的临床症状各不相同，但最常见的症状是缺乏正常的哺乳反射。在更严重的病例中，幼驹可能出现癫痫发作并陷入昏迷。治疗主要包括使用饲管，或教幼驹从桶中饮水，直至其能够断奶；对于病情较重的病例，还需进行支持性护理。<br />登贝克的团队尤其关注三种神经蛋白，其中两种由星形胶质细胞产生。星形胶质细胞是支持神经系统的脑细胞。这些神经蛋白——脑源性神经营养因子（BDNF）、胶质纤维酸性蛋白（GFAP）和星形胶质细胞蛋白 S100B——已被用于诊断人类的多种神经系统疾病，例如帕金森病和新生儿脑病，但此前尚未在出现神经系统症状的幼驹中进行研究。<br />研究团队测量了14匹健康幼驹和58匹住院幼驹的血清和血浆指标。在住院幼驹中，19匹患有 NMS，其余幼驹患有败血症或腹泻等其他疾病。血清指标分别在入院时以及住院第1天和第2天再次进行测量。<br />除神经蛋白外，研究团队还测量了三种孕烷的水平。孕烷属于神经类固醇，由大脑产生并能够影响神经元功能。这些神经类固醇是孕酮（一种妊娠激素）的代谢物，在正常幼驹和患有 NMS 的幼驹大脑中都检测到了较高水平。<br />登贝克说：“不同之处在于，正常健康幼驹体内这些孕酮衍生类固醇的浓度虽然很高，但其水平会非常迅速地下降。24至48小时内，它们就无法测出。然而，出现神经系统症状的幼驹会在数天内维持这一高浓度。除了测量蛋白质外，我们还测量了孕烷水平，以确认幼驹是否患有 NMS。”<br />研究人员发现，与健康幼驹和患有其他疾病的幼驹相比，NMS 幼驹体内的孕烷水平持续偏高。在这些神经蛋白中，NMS 幼驹的 BDNF 浓度在住院第一天内有所下降。患有败血症并伴有 NMS 的幼驹，其 S100B 水平高于患有败血症但不伴有 NMS 的幼驹；而患有 NMS 和其他疾病的幼驹，其 GFAP 浓度低于健康幼驹。<br />登贝克说：“我认为，这项研究的主要发现是，孕烷和这些神经蛋白——尤其是 BDNF 和 S100B——不仅可以作为 NMS 的生物标志物，也可能成为早产和败血症的生物标志物。要确立 S100B 和 BDNF 在临床环境中的实际应用，并全面了解这些生物标志物的动态变化，还需要开展进一步研究。”<br />Javier Perez Quesada 等，《患有新生儿适应不良综合征幼驹的脑损伤生物标志物》，《兽医内科学杂志》（2026年）。DOI：10.1093/jvimsj/aalag228<br />由北卡罗来纳州立大学提供<br />文学学士，主修艺术史；文学硕士，研究方向为物质文化。曾任博物馆编辑、护理人员和移植协调员。自2021年以来为 Science X 撰稿编辑。完整个人资料 →<br />物理学硕士，具有研究经验。长期关注科学新闻。为 Science X 的编辑工作取得成功发挥了重要作用。完整个人资料 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：聚焦神经蛋白和神经类固醇与新生驹适应不良综合征（NMS）之间的关联，突出其作为潜在生物标志物、诊断工具及未来治疗线索的可能性。报道同时介绍NMS的临床表现、研究设计和主要检测结果，并通过通讯作者表述强调研究仍需进一步验证。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-neuroproteins-potential-diagnostic-tool-sick.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-fficking-indictment-docs-f42134dc560fa207" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1238" data-content-paragraphs="27" data-published-at="2026-09-28T17:36:22.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:36</span>
-</div>
-
-### [文件显示：奥莱密西西比大学附近一家电子烟店的也门出生店主在因贩运合成毒品被起诉后逃离美国](https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Yemen-born vape shop owner near Ole Miss fled country after synthetic drug trafficking indictment: docs</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/yemem-born-citizens-facing-charges-for-selling-illegal-drugs-at-vape-shop-ole-miss-2.jpg?ve=1&amp;tl=1" alt="文件显示：奥莱密西西比大学附近一家电子烟店的也门出生店主在因贩运合成毒品被起诉后逃离美国" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>福克斯新闻独家报道：密西西比州牛津——《福克斯新闻数字频道》发现的法庭文件显示，奥莱密西西比大学校园附近一家电子烟店的店主此前曾因贩运数百剂非法合成大麻素而被起诉。</p>
-<p>《福克斯新闻数字频道》此前报道称，40岁的阿迈尔·阿洛迪于2022年被起诉，文件称他在面临正式起诉前逃离了美国。他在牛津经营“Puffs电子烟、烟草和啤酒店”。</p>
-<p>上周，执法部门在调查两名奥莱密西西比大学学生死亡事件后突袭搜查了他的店铺；在这两起事件中，现场发现了包装好的卡痛叶产品，而卡痛叶在密西西比州拉斐特县属于非法物品。</p>
-<p>两名奥莱密西西比大学学生被发现死亡；官员在两处地点查获包装好的卡痛叶</p>
-<p>警方称，他们发现了500单位的该类毒品，并逮捕了两名与此次查获行动有关的男子：51岁的叶海亚·穆罕默德·穆斯莱赫和18岁的伊斯兰·穆罕默德。</p>
-<p>美国国土安全部一名消息人士告诉《福克斯新闻数字频道》，三名被控男子均出生于也门，且全部为归化公民。</p>
-<p>司法部寻求剥夺17名被指控隐瞒令人不安罪行人员的公民身份</p>
-<p>消息人士称：“叶海亚·穆罕默德·阿里·穆斯莱赫于1992年进入美国，阿洛迪于2014年进入美国，伊斯兰·叶海亚·穆罕默德·穆斯莱赫于2024年2月进入美国。”</p>
-<p>在最近被捕之前，阿洛迪就已进入缉毒调查人员的视线。</p>
-<p>一份事件报告称，2020年3月，特工前往一家加油站，并进行了两次受控购买，购买的是他们认为含有非法合成大麻素的烟弹。</p>
-<p>这家加油站是一座位于拉马尔大道、同样位于牛津的德士古加油站，附带一家便利店。</p>
-<p>在X平台关注福克斯真实犯罪团队</p>
-<p>文件称，这是嫌疑人“拥有并经营”的另一家企业。</p>
-<p>特工完成这些购买几周后，报告称：“2020年3月20日，拉斐特县大都会缉毒组的两名特工跟随阿洛迪从他的店铺前往密西西比州图珀洛的一处仓库，阿洛迪在那里取走了数箱装有未知物品的箱子。”</p>
-<p>在图珀洛仓库，特工看到阿洛迪和另外两名男子将箱子装入车辆，其中包括一辆“黄色的彭斯克厢式卡车”。</p>
-<p>阅读要求驳回起诉的动议：</p>
-<p>点击此处获取更多福克斯真实犯罪中心的内容</p>
-<p>特工跟随阿洛迪的车辆从图珀洛仓库驶回牛津方向，并以涉嫌超速为由将他拦下。</p>
-<p>报告称，在获得同意后，特工搜查了他的车辆，并查获了各种电子烟产品、据信含有非法大麻素的烟弹，以及几盒伟哥。</p>
-<p>独家报道：随着帕特尔加强对外联络并誓言“不提供避难所”，联邦调查局引渡案件激增</p>
-<p>警方当天没有逮捕阿洛迪，等待对查获产品进行犯罪实验室检测。但警方警告他，“一旦犯罪实验结果出来，他可能面临更多指控”。</p>
-<p>收听全新播客《与唐娜·鲁图诺共谈犯罪与司法》</p>
-<p>报告还称，调查人员怀疑阿洛迪与密西西比州其他店铺存在关联。</p>
-<p>通过电子邮件获取突发新闻</p>
-<p>2024年，阿洛迪提出动议，要求撤销对他的指控，但该动议遭到驳回。</p>
-<p>特朗普政府司法部加大公民身份整治力度，针对被指控隐瞒恐怖组织联系和暴力犯罪的一群人</p>
-<p>如果罪名成立，阿洛迪可能面临40年监禁和100万美元罚款。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-29 01:36 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-llion-promo-eagles-bears-155438b03c1f08e5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="626" data-content-paragraphs="7" data-published-at="2026-09-28T17:34:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:34</span>
-</div>
-
-### [Underdog促销码FOXNEWS解锁1000美元存款匹配优惠，并可参加“保住你的百万”老鹰队对熊队活动](https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-1k-deposit-match-keep-your-million-promo-eagles-bears)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Underdog Promo Code FOXNEWS Unlocks a $1k Deposit Match + Keep Your Million Promo for Eagles-Bears</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/nfl-eagles-jalen-hurts-092826-1.jpg?ve=1&amp;tl=1" alt="Underdog促销码FOXNEWS解锁1000美元存款匹配优惠，并可参加“保住你的百万”老鹰队对熊队活动" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>准备好看橄榄球比赛了吗？在昨天NFL经历了疯狂的一天之后，今晚将迎来一场老鹰队对阵熊队的“周一夜赛”。Underdog推出了一项让人难以拒绝的优惠：使用促销码FOXNEWS，可获得1000美元存款匹配优惠，此外还可参加“保住你的百万”生存池活动。</p>
-<p>橄榄球比赛中的许多结果都取决于四分卫位置。我们知道，球队的成功或失败通常都归结于这一位置。他们既能获得赞誉，也会承受最多的批评。让我们看看本场比赛的两名四分卫，比较一下他们的表现。</p>
-<p>杰伦·赫茨将担任老鹰队的首发四分卫。在其职业生涯中，他受到的主要批评是传球——而这正是人们期待四分卫能够做好的事情。赫茨一直不太以站在口袋中传球见长，但本赛季的两场比赛中，他表现出色，62次传球完成40次。他已经传出5次达阵，但也有2次被抄截。</p>
-<p>另一方面，熊队将在第3周启用本赛季的第三名不同四分卫。第1周，卡莱布·威廉姆斯担任四分卫，表现十分出色。第2周，威廉姆斯受伤，随后泰森·巴根特也受了伤。巴根特在第2周为熊队打完了比赛，预计可以出场，但他刚刚结束脑震荡观察程序。</p>
-<p>因此，熊队将派凯斯·基纳姆指挥进攻。基纳姆是一名辗转多队的老将，但职业生涯中积累了丰富的比赛经验。他已经传球取得15175码、79次达阵，并有51次被抄截。</p>
-<p>今晚对于Underdog的新用户来说是一个绝佳机会。使用促销码FOXNEWS，即可解锁1000美元存款匹配优惠，并获得“保住你的百万”生存池活动的参赛资格。</p>
-<p>四分卫职业生涯对比：</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-29 01:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-1k-deposit-match-keep-your-million-promo-eagles-bears" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-1-96da-5a236804c2b0-html-a3ed7b3a62ecddb3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2219" data-content-paragraphs="16" data-published-at="2026-09-28T17:25:30.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:25</span>
-</div>
-
-### [雷杰尼案：3名埃及安全官员被判有罪，1人被判无罪](https://www.ansa.it/english/news/2026/09/28/3-egypt-security-officials-found-guilty-of-regeni-murder-1-cleared_495d684f-e946-4d01-96da-5a236804c2b0.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 3 Egypt security officials found guilty in Regeni case, 1 cleared</div>
-
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2023/12/4/b92e82f0a7cf935ebbccc642f64b9daf.jpg" alt="雷杰尼案：3名埃及安全官员被判有罪，1人被判无罪" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月28日 - 罗马一家法院周一缺席审判了四名涉嫌于2016年1月至2月绑架意大利学生朱利奥·雷杰尼（Giulio Regeni）的埃及安全官员，其中三人被判有罪，一人被判无罪。</p>
-<p>这三人被判犯有绑架该学生的罪名，但未被判定犯有酷刑和谋杀罪。2016年1月25日，这位28岁的学生在开罗地铁站失踪；9天后的2月3日，其半裸的尸体在开罗-亚历山大高速公路旁的一处水沟中被发现。</p>
-<p>这三人均被判处十年监禁，他们分别是：马吉迪·易卜拉欣·阿卜杜勒-阿里·谢里夫（Magdi Ibrahim Abdelal Sharif）少校（检方此前要求对其判处无期徒刑），以及乌哈萨姆·赫尔米（Uhsam Helmi）上校和阿塔尔·卡迈勒·穆罕默德（Athar Kamel Mohamed）上校。第四名被告塔里克·萨比尔（Tariq Sabir）将军被判无罪。</p>
-<p>法院认定，出生于弗留利的剑桥大学博士研究员雷杰尼（当时正在开罗研究街头工会）遭到这三名官员的绑架并被酷刑折磨致死。在埃及当局拒绝向他们送达诉讼通知后，这四人均未出席任何庭审。</p>
-<p>检方曾要求对谢里夫少校以加重谋杀罪判处无期徒刑，对其余被告以加重绑架罪分别判处17年半监禁。</p>
-<p>中左翼反对派曾敦促总理乔治娅·梅洛尼（Giorgia Meloni），如果这些人被定罪，应要求引渡他们。</p>
-<p>罗马副首席检察官塞尔吉奥·科拉约科（Sergio Colaiocco）在针对四人的结案陈词中表示，雷杰尼是死于“针对一名手无寸铁之人所施加的冷酷、有条不紊且有组织的暴力酷刑”。</p>
-<p>雷杰尼生前遭受了极其残忍的折磨，以至于其母亲保拉·德芬迪（Paola Deffendi）表示，自己只能“通过他的鼻尖”认出他。她说“世间所有的邪恶”都降临在了她儿子的身上——这句话后来被用作一部纪念该谋杀案十周年纪录片的片名。</p>
-<p>在该纪录片被拒绝给予国家利益资助后，引发了一场争论。意大利右翼政府出台了受资助作品必须符合国家利益的新标准，根据该标准，西蒙娜·马内蒂（Simone Manetti）执导的《朱利奥·雷杰尼：世间所有的邪恶》（Giulio Regeni, All The Evil In The World）未获入选，多名国家电影评选委员会成员随后辞职以示抗议。</p>
-<p>反对派表示，与右翼政府关系密切的电影制作人的其他项目，以及一部关于阿尔弗雷多白汁意大利面（Fettucine Alfredo）和那不勒斯低音歌手吉吉·达莱西奥（Gigi D&#39;Alessio）的影片，反而被认为值得资助。另一个获批的项目《阜姆》（Fiume）讲述了原始法西斯主义者兼伟大诗人加布里埃莱·邓南遮（Gabriele D&#39;Annunzio）的“阜姆冒险”（1919-1920年），即这位由诗人转变为军人的邓南遮对争议港口城市阜姆（现克罗地亚里耶卡）进行民族主义性质的准军事占领，旨在迫使其并入意大利。</p>
-<p>雷杰尼据信是在针对开罗街头工会开展剑桥大学博士研究时，被其中一个工会的负责人指控为间谍。雷杰尼此前是剑桥大学格顿学院（该学院最初全为女性）的学生。</p>
-<p>雷杰尼的父母最近批评了意大利本届及往届政府，指责其在儿子遇害后仍与埃及保持着一成不变的关系。该纪录片讲述了雷杰尼的父母克劳迪奥·雷杰尼（Claudio Regeni）和保拉·德芬迪在面对埃及总统阿卜杜勒-法塔赫·塞西（Abdel Fattah el-Sisi）虚假的合作承诺时，为儿子寻求正义所经历的艰难抗争。</p>
-<p>埃及方面曾多次对这名年轻学生的死因提出不同解释，包括车祸、同性伴侣争吵，以及被一个涉嫌绑架的团伙绑架杀害——雷杰尼的证件被栽赃在该团伙的窝点后，该团伙成员被悉数击毙。埃及在该案件上缺乏合作，曾导致罗马方面暂时召回其驻开罗大使。但意大利历届政府在从移民到石油勘探以及包括两艘意大利造护卫舰在内的军售协议等各项事务上继续与开罗合作，引来了雷杰尼父母的谴责。</p>
-<p>人权组织称，在2011年埃及革命期间前政治强人霍斯尼·穆巴拉克（Hosni Mubarak）下台后经历了短暂的伊斯兰政权接管，随后塞西政权自2013年执政以来，雷杰尼只是其“强迫失踪”的无数受害者之一。雷杰尼是在导致穆巴拉克下台的起义五周年纪念日当天被绑架的，当时街头戒备森严。</p>
-<p>在资助被拒后，德芬迪表示全家人已经对不公习以为常。“十年来，我们已经习惯了这些不公正，”德芬迪在米兰一所大学放映该纪录片前表示。该片在争议声中重新发行，并在意大利76所高等院校展映。在纪录片未能获得公共资金资助后，意大利最知名的影评人保罗·梅雷盖蒂（Paolo Mereghetti）、著名大学电影讲师马西莫·加林贝尔蒂（Massimo Galimberti）以及地中海电影节（MedFilm Festival）创始人兼总监吉内拉·沃卡（Ginella Vocca）退出文化部评审委员会以示抗议。</p>
-<p>意大利方面的尸检报告显示，雷杰尼的遗体呈现出遭受极端酷刑的严重痕迹：因遭受重度殴打导致全身多处挫伤和擦伤；因遭踢踹、拳击和棍棒殴打造成大面积淤伤；二十多处骨折，其中包括七根肋骨断裂，所有手指和脚趾以及腿部、手臂和肩胛骨骨折；身上包括脚底有多处刺伤，疑为破冰锥或锥状工具所致；全身多处被疑为剃须刀的锋利器械割破的伤痕；大范围烟头烫伤痕迹；肩胛骨之间有硬热物体造成的大面积灼伤；脑出血；以及最终导致死亡的颈椎骨折。（安莎社）</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-29 01:25 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/2026/09/28/3-egypt-security-officials-found-guilty-of-regeni-murder-1-cleared_495d684f-e946-4d01-96da-5a236804c2b0.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-e-a-scientific-discovery-d48a25f5ace55f9c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1767" data-content-paragraphs="12" data-published-at="2026-09-28T17:03:16.000Z" data-time-source="publication">
+<div id="story--the-virtual-border-wall-032b0e2a6b1375f5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="461" data-content-paragraphs="1" data-published-at="2026-09-28T22:17:07.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 01:03</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:17</span>
 </div>
 
-### [我们何时才能说人工智能做出了科学发现？](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> When can we say AI made a scientific discovery?</div>
+### [圆桌研讨：虚拟边境墙的致命溃败](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Roundtables: The Deadly Failures of The Virtual Border Wall</div>
 
-<div class="article-body" data-article-body="true"><p>这篇报道最初刊登于《算法》（The Algorithm），这是我们每周发布的人工智能新闻简报。想要第一时间将这类报道接收到您的收件箱中，请在此注册。</p>
-<p>上周三，Anthropic宣布，该公司在今年早些时候启动了一家分子生物学实验室。在那里，Claude智能体会阅读并推测棘手的生物学问题，人类科学家则会根据它们提交的报告开展实验。该公司表示，这家由人工智能驱动的实验室已经取得了首项发现。</p>
-<p>要理解Anthropic所说的其系统究竟做了什么，可以想象一下：你正在数以百万计的DNA序列中翻找。这些序列是科学家们对越来越多的生物进行测序后积累起来的。取得突破的一种途径，或许是找到一条奇特的序列，它编码着一种有趣的酶。接下来，你还需要弄清这种酶的作用，以及最终如何操纵它，使其完成某种有用的事情。</p>
-<p>Anthropic表示，其950个智能体在21小时后发现的并不是一条全新的序列。相反，这些智能体标记出了一种围绕已知酶的重复模式；Anthropic称，这种特定模式此前尚未被编录。但如果你读一读Anthropic发布的公告——公告称，这一模式“让人联想到”促成基因编辑技术CRISPR的因素，而CRISPR“已经改变了科学和医学”——听起来就仿佛这支智能体大军真的发现了某种值得关注的东西。</p>
-<p>这些说法激怒了一些生物学家。其中一位生物学家发布了一篇迅速传播的帖子，药品生产商礼来公司的董事长兼首席执行官随后也表示赞同。帖子称：“找到一组奇怪的基因和重复序列，往往是容易的部分。困难之处，也是实现真正发现的关键，在于弄清楚这个系统究竟做什么。”换句话说，这些智能体帮助完成了一些实验室里的基础性工作。但这并不能称为一项发现。</p>
-<p>这提醒我们，即使人工智能做了某些令人印象深刻的事情——比如从大量生物学数据中找到仅凭人眼很难察觉的模式——其结果本身也未必构成科学突破。对人工智能而言新颖的东西，对生物学家来说可能是常规的、并不出人意料的，或者仅仅没有那么重要。</p>
-<p>哥本哈根大学生物学家马里奥·罗德里格斯·梅斯特在周末进一步使这一问题变得更加复杂。据《纽约时报》报道，他表示自己的团队此前已经发现了这一特定模式。梅斯特在工作中经常与Claude聊天，他怀疑Anthropic团队是否从他的对话中获悉了这一模式。Anthropic否认了这一点，但梅斯特表示，无论如何他都将停止使用Claude。</p>
-<p>问题的一部分在于，人工智能公司并没有把这些系统简单地介绍成科学家可以使用的工具，比如显微镜或超级计算机。相反，它们坚持认为人工智能系统是在自行作出发现。对一些人而言，这种做法与科学的实际运作方式并不相容，因为新知识通常是在协作以及不断扩充的工具体系中产生的。</p>
-<p>这也使人们在真正的进步发生时更加怀疑。将20万个候选对象筛选到少数几个值得探索的对象，并非小事；这确实是正当的科学工作。一个通用聊天机器人能够完成这项工作，本身就值得注意，即便人类帮助引导了它，最终也由人类开展了实验。但一旦评判标准变成“是不是Claude自己作出了发现”，所有这些就都成了某场争论中的佐证，而这场争论似乎只有两个答案：突破，或者一无所获。</p>
-<p>一旦我们开始根据人工智能是否作出了发现来评判它，也就很容易在它似乎真的取得胜利后继续改变标准。本月早些时候，OpenAI表示，其团队的智能体解决了数学领域一道价值100万美元的难题。但几周后，我的信息流中几乎每一位人工智能怀疑论者都在分享一篇文章，追问真正重要的是否是那道数学题。</p>
-<p>需要明确的是，那篇文章并没有声称OpenAI的解答是错误的。相反，文章认为，这一特定结果可能并不是数学家最关心的结果。再加上一名数学家指责这些模型可能未经致谢就使用了他的部分成果，人们最终会觉得，要么OpenAI作弊了，要么这个解答反正也不重要——或者两者皆是。</p>
-<p>这正是生物学家卢卡斯·哈灵顿所担心的一部分。哈灵顿曾撰文批评Anthropic的公告。他在文章结尾提出建议称，人工智能公司应该“现在就把门槛设高，这样当人工智能真正发现一种全新的生物学机制时，每个人才能意识到这有多么重大”。但随着OpenAI的萨姆·奥尔特曼和Anthropic的达里奥·阿莫代伊竞相压过对方，在人工智能实现科学突破的问题上抬高标准，或许是他们最不在意的事情。</p></div>
+<div class="article-body" data-article-body="true"><p>收听本场讨论或观看下方视频<br />过去25年来，美国在其南部边境耗资数十亿美元建立了一道由监控塔组成的“虚拟墙”，并承诺这些监控设施将有助于发现并抓捕越境者，同时拯救生命。然而，《麻省理工科技评论》的一项突破性调查记录了超过一千人在穿过这些监控塔监视的区域时，既未被救援也未被拦截，最终命丧于此。其中一些人甚至是在新安装的AI监控塔的注视下死去的，而这些监控塔的设计初衷正是为了自动识别人员。<br />我们的调查结果揭示了一场比以往所知更为显著的人道主义危机，以及这堵虚拟墙在兑现其基本安全承诺方面的屡次落空。观看这场对话，深入剖析边境监控技术的失效，并揭开那些命丧边境地带者背后的故事。<br />演讲嘉宾：总编辑 Mat Honan、高级AI记者 James O&#39;Donnell 以及高级特稿与调查记者 Eileen Guo<br />录制于2026年9月28日<br />美国在边境监控上耗资数十亿美元。为什么无法在他们丧命之前将其拦截？<br />我们是如何绘制出美国边境“虚拟墙”沿线死亡事件首份全面分布图的<br />解决我们在美国边境“虚拟墙”沿线发现的失败问题的4种方法</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-29 01:03 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>来源叙事重点：聚焦美国政府过去约25年投入数十亿美元建设的边境监控塔，强调其“侦测、拦截并挽救生命”的安全承诺与实际结果之间的落差。报道以调查发现为核心叙事，称有逾千人经过监控塔覆盖区域却未被发现或救援，最终死亡，并特别指出部分个案发生在配备人工智能识别功能的新型监控塔监视范围内，由此将问题框定为边境监控技术反复失灵及由此加剧的可见人道危机。</li>
   </ul>
 </div>
 
@@ -314,185 +89,315 @@ notice:
   <span class="news-tag-pill">#MIT</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-o-to-lead-new-initiative-d211ef06bee55e3a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="835" data-content-paragraphs="12" data-published-at="2026-09-28T16:52:38.000Z" data-time-source="publication">
+<div id="story-026-09-29-10705191-shtml-33391a70555c5734" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="576" data-content-paragraphs="19" data-published-at="2026-09-28T22:58:13.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 00:52</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:58</span>
 </div>
 
-### [Meta推出企业AI平台，聘请MongoDB首席执行官领导新倡议](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative</div>
+### [日本突发4.9级地震](https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml)
 
-<div class="article-body" data-article-body="true"><p>Meta周一宣布推出“Meta企业平台”（Meta Enterprise Platform），这是公司旨在扩大面向企业和公司客户的AI产品的一项新倡议。这家社交媒体巨头聘请数据库软件巨头MongoDB首席执行官Chirantan“CJ”Desai负责这项新倡议。</p>
-<p>这项新业务的推出建立在Muse发展势头的基础上。Muse是Meta本月早些时候推出的个人AI助手，能够为用户执行发送电子邮件、预订旅行等任务。</p>
-<p>Meta表示，公司将重点把包括Muse、Meta Business Agent、Muse API、Muse Code等在内的完整技术栈带给企业和开发者。</p>
-<p>Desai在一份声明中说：“未来几年，AI将从根本上重新定义各种规模的组织如何创新、发展、服务客户以及运营业务。Meta发挥着独特作用，因为它正在将先进模型和领先的智能体结合起来，而公司此前已有帮助数百万广告主和数亿企业实现规模化的成功记录。Meta企业平台将专注于把其AI技术栈转化为企业能够部署到自身业务中的产品和服务。”</p>
-<p>此举可能帮助Meta从其投入AI的大量资金中获得回报。</p>
-<p>受公司首席执行官突然离职消息影响，MongoDB股价下跌超过17%。这家数据库制造商表示，已任命曾担任该职务的Dev Ittycheria担任临时首席执行官，同时董事会正在寻找Desai的长期继任者。</p>
-<p>第二张通行证享受五折优惠<br />Disrupt体验旨在与他人共享。购买你的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积聚势能并探索创业生态系统的未来，拓展你的交流与收获。</p>
-<p>每个工作日和周日，你都可以获取TechCrunch报道的精华内容。</p>
-<p>TechCrunch Mobility是你获取交通行业新闻和洞察的目的地。</p>
-<p>初创企业是TechCrunch报道的核心，因此每周接收我们最精彩的报道。</p>
-<p>为行业风云人物提供开启一天所需的信息。</p>
-<p>提交电子邮件即表示你同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。</p>
+<p>日本气象厅称，地震发生于当地时间29日4时45分(北京时间29日3时45分)，震中位于北纬36.1度、东经139.9度，震源深度约50公里。</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-29 00:52 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:58 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-er-app-a-virtual-walkman-e6c1e93c33d9277a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1583" data-content-paragraphs="21" data-published-at="2026-09-28T16:47:49.000Z" data-time-source="publication">
+<div id="story-026-09-29-10705190-shtml-5b25d5d20e6619a2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="940" data-content-paragraphs="22" data-published-at="2026-09-28T22:50:39.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 00:47</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:50</span>
 </div>
 
-### [iPhone Duo或已拥有首个杀手级应用：一款虚拟随身听](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The iPhone Duo may already have its first killer app: a virtual Walkman</div>
+### [美总统称美官员已于28日同美伊间的调解方进行对话](https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml)
 
-<div class="article-body" data-article-body="true"><p>新款iPhone Duo要到10月下旬才开始接受预订，但这款设备或许已经拥有了首个杀手级应用。或者至少，它已经有了最具奇趣的一款应用！独立开发者Vidit Bhargava一直在展示一款面向首款苹果折叠屏设备的应用，该应用复刻了使用经典随身听的体验。</p>
-<p>这款名为Duo-Man的应用巧妙利用了Duo的两块屏幕——设备展开时是一块7.6英寸的折叠内屏，合上时则是5.4英寸的外屏。这款应用模拟了随身听过去的工作方式：你可以展开Duo来选择音乐并“插入”磁带，然后合上设备开始聆听。</p>
-<p>Duo-Man在iPhone Duo上提供完整的随身听体验。展开Duo，选择并“插入”磁带；合上Duo，开始聆听。没错，我确实录下了真实随身听的按键咔嗒声和静电噪声！今天在@bitrig举办的黑客松上制作这个应用很有趣。pic.twitter.com/juSrLhofrH</p>
-<p>当然，你实际使用的并不是磁带和带有实体按键的播放器。但Bhargava表示，为了让体验尽可能真实，他录下了一台真正的随身听发出的按键咔嗒声和静电噪声，并将其加入应用中。</p>
-<p>这名开发者告诉TechCrunch：“我长期以来一直是随身听爱好者——现在仍然拥有一台，偶尔也会听，而且过去还曾重新利用过它们。因此，当我在为黑客松寻找创意时，我关注的是带有铰链的实体物品。我注意到，随身听的磁带舱门需要打开才能插入磁带，于是我觉得，在Duo上复刻这一点会很酷。”</p>
-<p>尽管折叠屏智能手机已经存在多年，但iOS开发者社区往往尤其富有创造力，部分原因在于苹果的App Store生态系统，以及其强大的工具。这些工具让开发者能够构建、托管、营销软件并从中获利。这也是为什么你经常会看到开发者先为iOS开发应用，然后再考虑扩展到Android平台。</p>
-<p>不过，这款应用也契合了科技领域更广泛的“复古”趋势，因为越来越多年轻消费者开始追捧数码相机、翻盖手机、CD、座机电话，当然还有磁带等经典实体科技产品。</p>
-<p>Bhargava最初在本周末的Bitrig黑客松上开发并演示了这款应用，并获得了第二名。Bitrig提供的软件能够让开发者使用苹果的Swift编程语言、借助人工智能构建原生应用。</p>
-<p>开发者在X上发布有关Duo-Man的消息后，这款应用迅速引起关注，获得了超过180万次浏览和近1万个赞。这种关注促使Bhargava把原本只是一个有趣的黑客松项目，变成一款真正的应用。</p>
-<p>据介绍，该应用发布后将支持Apple Music和本地文件，甚至会加入一项功能，让用户可以使用Apple Pencil“卷动”磁带环。Bhargava还在X上表示，他计划让快进和倒带体验接近原版随身听。未来还可能加入对Spotify的支持。</p>
-<p>这并不是Bhargava开发的第一款应用。这名独立开发者还发布过词典和词汇学习工具LookUp、电影推荐应用Movie Buzz、时区工具，以及其他应用。</p>
-<p>当你通过我们文章中的链接进行购买时，我们可能会获得一小笔佣金。但这不会影响我们的编辑独立性。</p>
-<p>消费者新闻编辑</p>
-<p>第二张通行证可享五折优惠<br />Disrupt活动旨在让人们共同参与。购买你的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、推动发展并探索创业生态系统的未来，拓展你的视野。</p>
-<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>Oracle向其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse AI智能体打造了一款类似Tamagotchi的可穿戴设备</p>
-<p>Vogue让机器人走上Vogue World秀场，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大成果</p>
-<p>PitPro首台换胎机器人在加拿大投入运行</p></div>
+<div class="article-body" data-article-body="true"><p>当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。</p>
+<p>当日稍早时，有消息称，一名了解美伊谈判情况的官员透露，美国和伊朗预计将于28日或29日再次通过调解方举行会谈。伊朗外长阿拉格齐和卡塔尔调解方目前在美国，会谈预计将聚焦于磋商修订伊朗在联合国大会期间提出的七日内重开霍尔木兹海峡提议。</p>
+<p>另有美方消息显示，美伊间接会谈于28日上午开始。此前，有伊朗方面的消息说，伊朗外长阿拉格齐将率领伊朗代表团于28日上午在美国纽约与美伊谈判调解方会面，讨论有关当前局势的最新提议。</p>
+<p>22日，美国总统特使威特科夫和特朗普的女婿库什纳在纽约联合国大会期间与伊朗外长阿拉格齐通过调解方卡塔尔进行了间接会谈。据美媒报道，伊方提议，如美国解除海上封锁、取消石油销售制裁并恢复地区停火，伊朗将在七天内重新开放霍尔木兹海峡并重启核谈判。</p>
+<p>美国总统特朗普26日向媒体确认，他已拒绝伊朗的这一提议。27日，特朗普表示预计美国和伊朗将在接下来一周内重启谈判。</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-29 00:47 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:50 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705190.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-y-knows-anything-anymore-9b84b462d1fa1c1e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1754" data-content-paragraphs="24" data-published-at="2026-09-28T16:11:42.000Z" data-time-source="publication">
+<div id="story-science-2194241-fed986ef93fde9f2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="462" data-content-paragraphs="4" data-published-at="2026-09-28T22:48:13.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-29 00:11</span>
+  <span class="news-meta-time">🕒 2026-09-29 06:48</span>
 </div>
 
-### [问题不在于 AI 代码，而在于不了解系统架构或设计意图](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The problem is not AI code, but not knowing about system architecture or intent</div>
+### [载人“星际客机”飞行计划于2028年前后进行——美国国家航空航天局](https://tass.com/science/2194241)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Crewed Starliner flight planned by 2028 — NASA</div>
 
-<div class="article-body" data-article-body="true"><p>最后更新：2026年9月28日，作者：Simon Späti · 创建于：2026年9月26日 · 阅读时间：4分钟</p>
-<p>最近更新：9月28日<br />今日发布 · 882字</p>
-<p>如果我们认为编写代码已经过时，所有代码库都由 AI 生成，那么我仍然认为，更大的问题在于：个人或整个团队已经不再了解系统架构，也不了解某些决策背后的意图。</p>
-<p>这是我参与的一次讨论中的一条评论：</p>
-<p>我认为，AI 编写的代码大概处于平均水平（取决于任务和规模）。所以，如果你的代码库低于平均水平，AI 很容易将其提升到平均水平。至少根据我在这里的观察是这样。</p>
-<p>在我看来，问题不在于 AI 代码，而在于没有人真正了解任何事情，所有人只会去问 Claude。最终，你完全没有任何计划。</p>
-<p>下面这条推文很好地总结了当前快速发展的初创公司、大型企业，或中层管理者强力推动 AI 的公司所处的状态：</p>
-<p>我受够了这些破事。一切都完了。现在的工程现状糟糕透顶。我入职一家大公司担任新职位已经半个月了。这里没有人知道任何事情。规格说明、代码、测试、PRD、工单、工单的解决方案、报告等等，一切都是由 Claude Code 完成的。</p>
-<p>我们团队没有人喜欢这样。他们被迫尽可能多地交付。我已经多次听到高层管理者说，提交代码不是瓶颈，那我们为什么还这么慢？人们每天工作12到13个小时，只是为了按下回车键。没有人在阅读任何东西。企业中的人类什么都不再自主完成。</p>
-<p>这里每个人，真的每个人，从 L1 到 L7 级别的工程师，都在做同样的事：和 Claude 对话。没有任何胜利感。没有人在解决 bug。实际上，已经没有人在思考了。一切都由大语言模型完成。</p>
-<p>这太令人心力交瘁了。老实说，如果我们至少有时间检查代码、看看各部分如何衔接，我并不会介意。但事实并非如此，目标就是交付。不管会发生什么。Voxium</p>
-<p>Hoyt Emerson 提到，数据工程有所不同：</p>
-<p>我认为数据领域的人不一样。从第一天起，我们就必须了解产品和业务的一切。现在，AI 只是为我们消除了阻力。推文</p>
-<p>我认为，在 AI 出现之前成长起来的数据从业者，确实必须了解所有事情（或者了解很多，或请领域专家参与），才能弄清楚问题。但 AI 让这种能力变得过时了，或者看起来过时了。</p>
-<p>这就是为什么今天才开始工作的人——包括我，如果我今天才进入一个新领域——只要不断地向 AI 提示，突然之间，那些知识就缺失了。</p>
-<p>Sean Behan 的观点很不错：</p>
-<p>我一直很钦佩那些不会编程、却能管理团队来获得自己想要的软件的产品人员。知道自己想要什么，一直以来都是最难的部分。</p>
-<p>可以说，一个优秀的产品经理现在能够构建自己想要的任何东西，找到市场，让产品看起来不错，等等。但话说回来，如果你不会编程，你最终会为产品构建一个非常糟糕的基础，使其极难维护（尽管 AI 在这方面也越来越好，尤其是当你频繁迭代时；但如果你选错了语言或错误的思维模型，那么从一开始就走错了方向）。</p>
-<p>无论如何，了解基本原理仍然有帮助：无论是编程、设计产品，还是成为一名优秀的产品经理——他知道需要什么，同时也理解系统和架构设计。</p>
-<p>以系统、架构的方式思考，或拥有明确的意图和设计——这些都能帮助你成为更好的软件工程师。如今，亲手编写代码或许已经过时，但它确实仍有帮助；而拥有品味（与 AI 协作时）比以往任何时候都更加重要。</p>
-<p>但最终的终极难题，而且一直都会是终极难题，就是可维护性。越容易快速生成一条流水线、一个应用或一个 BI 仪表板，你需要维护的东西就越多。如果没有人真正了解任何事情，这会变得非常困难。</p>
-<p>是的，AI 无法自行向自己发出提示，对吧？那我们为什么还需要人类？在我看来，这清楚地表明，人类仍然需要负责指导和协调 AI。这也是为什么在当今世界，意图、品味、设计和架构都是决定成败的关键能力。</p>
-<p>但一旦这些东西缺失，或者更糟糕的是，连基本原则都丢失了，情况就会非常危险。我今天读到，有人认为这是一个自我造成的问题；如果我们仍然招聘初级员工，这个问题就不会发生。但话虽如此，事情并没有那么简单。</p>
-<p>来源：The Primagen 视频，以及《大语言模型和 AI 的局限性》<br />参考资料：《我从使用 AI 写作中学到的东西》</p></div>
+<div class="article-body" data-article-body="true"><p>纽约，9月29日。/塔斯社/。美国国家航空航天局局长贾里德·艾萨克曼表示，自2024年以来波音公司“星际客机”飞船计划于2028年前后执行首次载人飞行。</p>
+<p>艾萨克曼在佛罗里达州举行的新闻发布会上说，在发射载人飞船之前，美国国家航空航天局计划于2027年执行一次不载人的“星际客机”飞行，前往国际空间站，随后再执行载人任务。目前的计划是，到2028年让宇航员乘坐“星际客机-2”执行任务。</p>
+<p>宇航员巴里·尤金·威尔莫尔和苏尼塔·威廉姆斯于2024年6月5日乘坐“星际客机”抵达国际空间站。这是波音公司的飞船首次执行前往空间站的载人发射任务。威尔莫尔和威廉姆斯最初预计将在轨道上停留至6月18日。由于飞船在与国际空间站对接期间发生故障，数个机动推进器失灵，他们的返回时间后来先被推迟至6月26日，之后又被无限期推迟。</p>
+<p>2024年9月7日，“星际客机”在没有载员的情况下脱离国际空间站，六小时后降落在新墨西哥州白沙导弹靶场。2025年3月19日，威尔莫尔和威廉姆斯作为由美国太空探索技术公司运营的“载人龙”飞船机组成员返回地球。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-29 00:11 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-29 06:48 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/science/2194241" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-eplaces-id4-id-tiguan-ev-e1c16e8dcb913075" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1648" data-content-paragraphs="5" data-published-at="2026-09-28T15:43:09.000Z" data-time-source="publication">
+<div id="story-026-09-29-10705188-shtml-aaf44c9fa7b28c97" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="658" data-content-paragraphs="20" data-published-at="2026-09-28T22:47:48.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:47</span>
+</div>
+
+### [普京签令 俄罗斯武装部队总人数增至244万余人](https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。</p>
+<p>俄媒指出，这是自2026年初以来俄军第四次扩编。</p>
+<p>今年7月，普京曾签署命令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数增至242万余人。而在今年6月，普京签署的总统令规定俄武装力量编制总人数为239万余人，其中现役军人151万人。</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:47 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705188.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-29-10705187-shtml-537c4a3d5de039e8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="781" data-content-paragraphs="20" data-published-at="2026-09-28T22:43:26.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:43</span>
+</div>
+
+### [普京签署总统令 俄军扩编至244万余人](https://www.chinanews.com.cn/gj/2026/09-29/10705187.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社莫斯科9月28日电 俄罗斯总统普京28日签署总统令，确定俄武装力量人员编制总人数为244万余人，其中包括超155万名现役军人。该总统令自签署之日起生效，相关文件已在俄法律信息网站公布。</p>
+<p>根据总统令，俄联邦武装力量编制总人数为2441630人，其中包括1550500名现役军人。总统令同时要求俄联邦政府从联邦预算中向俄国防部拨付相应预算款项。同时废止今年7月27日和6月12日的相关总统令。</p>
+<p>今年7月27日，普京签署总统令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数确定为242万余人，其中包括153.5万名现役军人。6月12日，普京曾签署总统令，将俄武装力量编制总人数确定为239万余人，其中包括151万名现役军人。(完)</p>
+<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
+<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
+<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-29 06:43 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-29/10705187.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-andalized-vulgar-message-5f985ac696846492" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1422" data-content-paragraphs="15" data-published-at="2026-09-28T22:35:07.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 06:35</span>
+</div>
+
+### [苏珊·柯林斯办公室遭粗俗标语涂鸦破坏 民主党参议员候选人保持沉默](https://www.foxnews.com/politics/dem-senate-nominee-silent-susan-collins-office-vandalized-vulgar-message)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dem Senate nominee silent after Susan Collins&#39; office was vandalized with vulgar message</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jackson-collins-split.jpg?ve=1&amp;tl=1" alt="苏珊·柯林斯办公室遭粗俗标语涂鸦破坏 民主党参议员候选人保持沉默" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>周一，共和党参议员苏珊·柯林斯（Susan Collins）位于缅因州的一处选民服务办公室遭到破坏，她表示自己不会“被吓倒”；与此同时，民主党挑战者特洛伊·杰克逊（Troy Jackson）的竞选团队未对多次就该事件发表置评的请求作出回应。</p>
+<p>这位参议员位于缅因州比德福德（Biddeford）的选民办公室于周一遭到破坏，大门上被喷涂了“特朗普的婊子”（Trump Whore）字样。参议员办公室证实了这一事件，而缅因州参议院共和党助理领袖、州参议员马特·哈灵顿（Matt Harrington）在Facebook和X平台上发布了被涂鸦大门的照片。与此同时，比德福德警方已向福克斯新闻数字频道（Fox News Digital）证实正在对此事展开调查。</p>
+<p>“故意破坏公物是不可接受的。柯林斯参议员及其工作人员不会被吓倒。我们的比德福德选民服务办公室仍然开放，我们将继续为缅因州人民服务，”柯林斯的幕僚长凯蒂·布朗（Katie Brown）在给福克斯新闻数字频道的一份声明中表示。</p>
+<p>【苏珊·柯林斯在关键参议院选战中顶住深蓝州逆风 最新民调显示惊人分歧】</p>
+<p>柯林斯今年正在竞选第六个为期六年的参议员任期，代表倾向民主党的缅因州，并正与民主党挑战者、前缅因州参议院议长特洛伊·杰克逊展开激烈竞争。在今年秋季的中期选举中，民主党若想从共和党手中夺回参议院多数席位，这场竞选是其势在必得的翻盘目标。</p>
+<p>杰克逊未回应福克斯新闻数字频道就该故意破坏事件多次提出的置评请求。</p>
+<p>【苏珊·柯林斯严厉提醒民主党对手深陷指控泥潭】</p>
+<p>前缅因州众议员奥斯汀·塞里奥特（Austin Theriault）在2024年作为共和党国会候选人以微弱劣势输给缅因州民主党众议员贾里德·戈登（Jared Golden），目前正寻求重返州众议院。他向福克斯新闻数字频道表示，“无论你身处何种政治立场，谴责此类行径都不应该有任何犹豫。”</p>
+<p>“如果换作对方遭遇此事，我非常确信柯林斯参议员本人会非常迅速地予以谴责，”塞里奥特说，同时对杰克逊保持沉默后缅因州民主党人是否存在“身份认同问题”提出质疑。</p>
+<p>缅因州共和党通讯主管克里斯蒂娜·帕克（Kristina Parker）在给福克斯新闻数字频道的一份声明中认为，这起破坏事件“只是激进左翼具有攻击性且无法进行文明对话的又一个例证”。</p>
+<p>【缅因州ICE枪击案受害者并非逮捕令目标，参议员金的办公室在国土安全部早期通报后如是说】</p>
+<p>“我们希望起诉过程迅速且顺利。我们的政治环境不应容忍这种极不稳定且令人厌恶的行为，”她补充道。</p>
+<p>柯林斯位于比德福德的办公室距离今年7月美国移民及海关执法局（ICE）特工发生致命枪击案的现场仅几个街区。枪击事件发生后，抗议者曾游行至这位参议员的比德福德办公室，示威抗议柯林斯对ICE经费拨款的支持。</p>
+<p>作为一名偶尔与唐纳德·特朗普总统意见相左的温和派共和党人，这位参议员在整个竞选活动中吸引了来自两党的关注。</p>
+<p>今年夏天，她在连续完成参议院第10,000次投票后获得了赞誉，但也面临来自两党的批评。柯林斯曾批评特朗普对加拿大的关税政策，并投票反对确认托德·布朗奇（Todd Blanche）担任司法部长；而民主党人则继续就她捍卫自己2018年投票确认最高法院大法官布雷特·卡瓦诺（Brett Kavanaugh）一事对她展开攻击，后者后来加入了推翻“罗诉韦德案”（Roe v. Wade）的最高法院多数派。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-29 06:35 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/dem-senate-nominee-silent-susan-collins-office-vandalized-vulgar-message" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-labs-ai-acquisition-deal-721d3fef7b9b02d6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="840" data-content-paragraphs="1" data-published-at="2026-09-28T21:31:35.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 23:43</span>
+  <span class="news-meta-time">🕒 2026-09-29 05:31</span>
 </div>
 
-### [大众以全电动Tiguan取代ID.4](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Volkswagen replaces ID.4 with all-electric Tiguan</div>
+### [AMD将以一项价值超过80亿美元的交易收购人工智能公司World Labs](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AMD is acquiring AI company World Labs in a deal worth more than $8 billion</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="大众以全电动Tiguan取代ID.4" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="AMD将以一项价值超过80亿美元的交易收购人工智能公司World Labs" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>正如外界普遍预期的那样，大众汽车周一宣布，将用即将推出的ID.Tiguan取代最近停产的ID.4跨界车。这一决定表明，这家德国汽车制造商意识到，像Tiguan这样知名度更高的车型名称可能更容易被消费者接受，尤其是在电动汽车领域。ID.Tiguan于2027年初在欧洲上市后，将与ID.Polo和ID.Cross一同完善大众全新升级的电动车阵容。大众还确认，ID.Tiguan未来也将进入美国市场，但会“在稍晚的时候”上市；此前ID.4曾在美国生产。由于目前仍处于伪装状态，ID.Tiguan的设计细节尚未公布。</p>
-<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20087-db2026au00744.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20097-db2026au00729.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20100-db2026au00732.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20107-db2026au00739.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20121-db2026au00722.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20135-db2026au00712.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20132-db2026au00709.jpg?quality=90&amp;strip=all]</p>
-<p>ID.4于2020年首次推出，原本被寄予推动大众进军大众市场电动车领域的厚望。但这家汽车制造商并不打算与特斯拉Model Y等畅销车型正面竞争，而是希望与丰田RAV4和本田CR-V等高销量燃油车展开竞争。尽管ID.4始终未能完全击败这些竞争对手，但它确实取得了一定成功：自2021年以来销量已达95万辆。大众表示，ID.4“跻身大众汽车集团最成功的纯电动车车型系列之列”。大众于2026年4月结束了ID.4在其查塔努加工厂的生产。</p>
-<p>电动版Tiguan将保留ID.4诸多成功之处，同时弥补其部分缺陷，例如令人沮丧的实体控制装置不足。大众计划让ID.Tiguan采用与ID.3 NEO和ID.Polo相同的内饰风格，后者在欧盟市场意外成为热销车型。这意味着我们可以期待四个车窗都配备实体按键，而不再像此前那样只有两个车窗配备按键；音量和空调设置也将采用实体控制。大众基于Android Automotive打造的操作系统也将出现在该车型上，这意味着我们可能会看到由Gemini驱动的语音助手。大众没有说明ID.Tiguan是否会采用由Rivian开发的新软件和区域架构；预计这套系统将首次搭载于低成本ID.Every1掀背车上。</p>
-<p>图片：大众汽车</p></div>
+<div class="article-body" data-article-body="true"><p>关于这一主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />World Labs联合创始人兼首席执行官将成为AMD首席科学家。<br />这位作者发布的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />查看Jay Peters发布的全部内容<br />AMD今天宣布，将收购由知名研究员李飞飞博士共同创立的人工智能研究实验室World Labs。这是一项价值约82亿美元的全股票交易。World Labs于2024年成立，并在几个月内达到10亿美元估值。2025年，这家初创公司推出了首款商业产品——名为Marble的世界生成模型，用户只需输入提示词，就能创建可交互的三维世界。<br />预计这项交易将在今年年底前完成。李飞飞将出任AMD执行副总裁兼首席科学家，向AMD首席执行官苏姿丰汇报；World Labs团队则将“继续专注于推进人工智能模型研究”。AMD还表示，这项收购将增强“其围绕新兴模型和应用需求开发人工智能硬件、软件和系统的能力”。<br />李飞飞在她的Substack文章中表示：“就像我当初清楚地知道，是时候创办一家初创公司，以启动超越大语言模型（LLM）的基础模型研发工作，并在人工智能领域实现最大影响力一样，如今我再次明确，自己和World Labs的正确道路，就是作为AMD的一部分继续我们的使命。我们共同致力于不断推动人工智能的前沿，以解决现实问题，并以开放的方式与社区和整个生态系统共同完成这一目标。”<br />苏姿丰在一份声明中表示：“为下一代人工智能构建计算平台，需要深入理解模型的发展方式。李飞飞和World Labs团队拥有卓越的研究领导力和模型专业知识。我们可以共同利用这些洞察，开发出支撑下一代人工智能的硬件、软件和系统，并强化开放的人工智能生态系统。”<br />截至近期，World Labs这笔交易只是人工智能领域最新一宗数十亿美元规模的收购案。英伟达本月早些时候宣布，将以近130亿美元收购Hugging Face。<br />一份免费发送的每日摘要，汇集最重要的新闻。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-28 23:43 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-29 05:31 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -502,37 +407,49 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--ai-hits-1-45b-valuation-64e9e403e3f62a88" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="727" data-content-paragraphs="9" data-published-at="2026-09-28T15:29:21.000Z" data-time-source="publication">
+<div id="story-ound-at-15-75b-valuation-60e195b06c19c87b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1895" data-content-paragraphs="21" data-published-at="2026-09-28T21:29:18.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 23:29</span>
+  <span class="news-meta-time">🕒 2026-09-29 05:29</span>
 </div>
 
-### [物理人工智能芯片开发商 SiMa.ai 估值达14.5亿美元](https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Physical AI chip developer SiMa.ai hits $1.45B valuation</div>
+### [消息人士：AI推理服务提供商 Modal Labs 正接近完成一轮7.5亿美元融资，估值达157.5亿美元](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation</div>
 
-<div class="article-body" data-article-body="true"><p>SiMa.ai是一家开发芯片和软件的初创公司，旨在让机器人、无人机、摄像头及其他设备能够直接在设备上运行人工智能。该公司以14.5亿美元的估值完成了1.5亿美元的C轮融资。本轮融资由富达管理与研究公司（Fidelity Management &amp; Research Company）和Amplify联合领投，Alter Venture Partners、戴尔科技资本（Dell Technologies Capital）和StepStone Group参投。</p>
-<p>该公司由Krishna Rangasayee于2018年创立。Rangasayee此前曾担任芯片制造商Groq的首席运营官。SiMa.ai提供高能效芯片，无需将数据来回传输至云端。与英伟达（Nvidia）的GPU相比，SiMa.ai希望凭借低延迟性能和更具价格优势的芯片，抓住不断增长的物理人工智能设备市场，包括人形机器人。</p>
-<p>新一轮融资使SiMa.ai筹集的资金总额超过5亿美元。据PitchBook称，这家初创公司此前于2025年7月完成8500万美元B轮融资后，估值为9.6亿美元。</p>
-<p>第二张门票可享五折优惠。Disrupt体验旨在与他人共享。购买你的门票，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索初创企业生态系统的下一步，拓展你的交流成果。</p>
-<p>每个工作日和周日，你都可以获取TechCrunch最精彩的报道。</p>
-<p>TechCrunch Mobility是你获取交通领域新闻与洞察的目的地。</p>
-<p>初创企业是TechCrunch报道的核心，因此每周接收我们精选的报道。</p>
-<p>为业界活跃人士提供开启一天所需的信息。</p>
-<p>提交电子邮箱即表示你同意我们的条款和隐私声明。</p></div>
+<div class="article-body" data-article-body="true"><p>据一位知情人士透露，人工智能推理基础设施提供商 Modal Labs 正接近完成一轮由 Accel 领投、规模达7.5亿美元的融资，投后估值为157.5亿美元。此前没有报道过这轮融资的规模，不过 Axios 和彭博社曾报道过这笔交易的其他细节。</p>
+<p>新一轮融资将使 Modal 的估值较其四个月前宣布完成3.55亿美元融资时的46.5亿美元增长逾两倍。</p>
+<p>Modal Labs 拒绝置评。</p>
+<p>这笔交易达成之际，市场对推理服务的需求正急剧上升。推理是指让已经训练完成的人工智能模型生成输出的过程，尤其受到依赖开源模型的客户推动。其他推理初创公司也在洽谈以大幅提高后的估值筹集新资本。彭博社报道，Baseten 正接近获得一笔融资，估值将达到260亿美元，是其6月份估值的两倍。与此同时，据《The Information》报道，Fireworks 以及为视频和图像生成提供推理服务的初创公司 Fal 也已与投资者讨论新一轮融资，交易将大幅提升它们的估值。</p>
+<p>尽管这些公司的收入增长迅速，但它们的利润率很低，主要原因是获取或租用算力的成本仍然非常高。Fireworks 在7月份宣布，其年化收入已达到10亿美元，较上年增长五倍。据消息人士透露，预计到今年年底，多家专注于推理的初创公司也将达到这一收入里程碑。</p>
+<p>Modal 由首席执行官 Erik Bernhardsson 和首席技术官 Akshat Bubna 于2021年创立。Bernhardsson 是瑞典人，曾在包括 Spotify 在内的多家公司负责数据团队建设超过15年。在 Spotify，他参与构建了这家音乐流媒体服务商的推荐系统；在在线抵押贷款机构 Better.com，他曾担任首席技术官。Bubna 曾在麻省理工学院学习数学和计算机科学，后来成为数据标注初创公司 Scale AI 的早期员工，之后与他人共同创办了 Modal。</p>
+<p>这家总部位于纽约的公司预计约有150名员工，可让开发者训练人工智能模型并运行其他计算密集型工作负载，而无需自行管理服务器。其网页列出的客户包括编程初创公司 Cognition、人工智能音乐生成器 Suno、金融科技公司 Ramp，以及出版平台 Substack。</p>
+<p>Modal 当时告诉路透社，截至5月，其年化收入已超过3亿美元。</p>
+<p>此次融资谈判发生在 Modal 被卷入人工智能行业最受关注的安全事件之一两个月后。7月底，Modal 披露，一名客户的数据遭到泄露，这是一次由流氓 OpenAI 代理针对 Hugging Face 发起的黑客行动的一部分。</p>
+<p>Modal 首席技术官 Akshat Bubna 表示，此次泄露源于客户自身代码中的一个漏洞，而不是 Modal 的系统漏洞。Bubna 当时在给媒体的声明中说：“我们注意到，一名 Modal 客户发布了一个未经身份验证的端点，允许互联网上的任何人使用其沙箱执行代码。这一端点被那个流氓代理利用了。Modal 的平台没有以任何方式遭到入侵。”</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>Marina Temkin 是 TechCrunch 的风险投资和初创公司记者。在加入 TechCrunch 之前，她曾为 PitchBook 和《Venture Capital Journal》撰写风险投资方面的报道。Marina 职业生涯早期曾担任金融分析师，并获得特许金融分析师资格。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过 Signal 加密消息联系 Marina，电话号码为 +1 347-683-3909，以联系她或核实她发出的联系信息。</p>
+<p>第二张通行证可享五折优惠<br />Disrupt 活动旨在与他人共享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的未来，拓展您的交流与收获。</p>
+<p>Crusoe 放弃在人工智能数据中心使用 Boom 涡轮机的12.5亿美元计划</p>
+<p>Astra 和 Opus 刚刚通过了 Turing 的另一项测试</p>
+<p>甲骨文向其位于新墨西哥州的 Stargate 数据中心发出不可抗力通知</p>
+<p>Meta 为其 Muse 人工智能代理打造了一款类似电子宠物的可穿戴设备</p>
+<p>《Vogue》在 Vogue World 活动中让机器人走上T台，但人们并不买账</p>
+<p>Anthropic 称其生物学实验室已经取得重大成果</p>
+<p>PitPro 的首台换胎机器人在加拿大投入使用</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-28 23:29 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-29 05:29 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -542,53 +459,182 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--are-you-doing-this-week-97e2ce60c780886b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1545" data-content-paragraphs="15" data-published-at="2026-09-28T12:42:17.000Z" data-time-source="publication">
+<div id="story-blog-amd-announcement-c05735ac6fea208f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="608" data-content-paragraphs="9" data-published-at="2026-09-28T20:18:05.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-28 20:42</span>
+  <span class="news-meta-time">🕒 2026-09-29 04:18</span>
 </div>
 
-### [你这周在做什么？](https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What are you doing this week?</div>
+### [要闻：加速人工智能研究与计算的未来](https://www.worldlabs.ai/blog/amd-announcement)
+<div class="original-title-sub"><span class="orig-tag">原文</span> World Labs Is Joining AMD</div>
 
-<div class="article-body" data-article-body="true"><p>你这周在做什么？欢迎分享！</p>
-<p>请记住，什么都不做也完全没问题。</p>
-<p>我一直在撰写一篇受纳尔（Naur）“将编程作为理论构建”观点启发的论文。这实际上只是第一稿，我非常希望能得到反馈。</p>
-<p>摘要：使用人工智能模型编写程序（即“凭感觉编程”）会降低我们对最终程序的理解，也会损害新软件工程师的培训过程，削弱他们充分判断人工智能模型输出结果是否正确、是否足够适用的能力。程序不仅仅是文本形式的呈现，它们还包含未明说的隐含条件，并且需要人类对其输出结果进行评估。我们必须谨慎使用人工智能模型；它们可能导致压力增加、批判性思维能力下降、学习受阻以及团队沟通受到妨碍，而人工智能模型的使用还存在源于其训练方式和使用方式的伦理问题。文中简要回顾了软件工程领域问题的发展历史，审视了在软件工程中使用人工智能所带来的问题，并概述了工程文化与工程纪律。</p>
-<p>https://codeberg.org/libfud/software-engineering-notes</p>
-<p>https://codeberg.org/libfud/software-engineering-notes/src/branch/main/modern_software_crisis.pdf</p>
-<p>我有些考虑做一个试验性项目，用 C++ 重新实现 Marginalia 的索引系统，因为我认为我们正在接近 Java 所能做到的极限；我感觉，如果不对内存布局进行更明确的控制，并且不摆脱 Java 中 FFM 调用那一点令人恼火的开销，可能还有一小部分性能潜力很难挖掘出来。</p>
-<p>我通常并不喜欢语言重写，但至少看看最终效果如何，确实很有诱惑力。我想，在其他任何情况下我都不会考虑这么做，但由于对于网络搜索来说，索引性能就等同于召回率，因此这样做是有动机的。</p>
-<p>总体而言，代码量相对有限，而且大多数设计都可以相当直接地移植过来，并且配有大量测试用例，所以希望不会耗费太多精力……如果这项工作的规模让我遭受严重打击，我希望这篇帖子能成为我的墓志铭。</p>
-<p>我厌倦了 VS Code 的复杂性以及其中所有的人工智能杂乱功能，于是做了 Folune：https://www.chunqiuyiyu.com/folune/。这是一个极简、以本地优先为理念的文本编辑器，用于审阅智能体生成的代码和 Markdown 文档。</p>
-<p>我是一名学生。在我们第一学年，考试要求我们在 tty 控制台中编程。对于像我这样没有配置过终端代码／文本编辑器的人来说（这里说的终端工具是指 nano、vim、emacs 等），这简直是一场噩梦。我实在太讨厌这一点了，所以决定编写一个小型的基础 IDE，帮助未来的学生通过这些考试，让他们的生活更轻松；这将是我接下来要做的事。</p>
-<p>晚上我会继续为我的终端游戏 HexWalker 制作游戏玩法。我已经相当满意它的美术风格了（Unicode 字符、色彩等），但现在它需要一个让人想玩的理由。HexWalker 看起来像一款 roguelike 游戏，但我的计划是让它更接近《A Short Hike》，成为一款规模较小、低风险的探索游戏。</p>
-<p>继续推进我的联邦式 Git 代码托管平台项目，它几乎已经准备好可以分享了。我正在读 China Miéville 的《The Rouse》，目前为止非常精彩。我想戒掉咖啡因，希望从明天开始，看看能不能做到。</p>
-<p>此外，还是照常学习一些 Zig、OCaml 之类的东西，这样我的大脑就不会完全萎缩。</p>
-<p>读完 DeLillo 的《The Names》和 Bellow 的《Herzog》。Bellow 太棒了，这是我没想到的；我感觉在美国文学经典中，他多少被 Roth 的光芒遮盖了一些，但他确实非常了不起。</p></div>
+<div class="article-body" data-article-body="true"><p>2026年9月28日<br />加速人工智能研究与计算的未来</p>
+<p>World Labs已签署加入AMD的最终协议。</p>
+<p>自2024年成立以来，我们取得的研究和技术突破，让我们清晰地看到了人工智能在解决空间与物理世界问题方面的潜力。要加速迈向这一未来，就需要扩大我们的努力、拓展我们的影响范围，并进一步贴近硬件。</p>
+<p>去年，我们与AMD建立了深度技术合作关系，从在AMD GPU上进行模型训练和推理优化开始。随着双方团队展开合作，我们认识到，将我们的人工智能软件与硬件生态、基础模型及应用结合起来，是自然而然的选择。</p>
+<p>李飞飞博士将加入AMD，担任执行副总裁兼首席科学家，直接向首席执行官苏姿丰博士汇报。贾斯廷·约翰逊和本·米尔登霍尔将与李飞飞一同继续领导World Labs团队。World Labs加入AMD后，将共同组建一家世界领先的前沿研究机构。我们致力于打造端到端的开放式人工智能生态系统，涵盖硬件、软件、平台以及广泛可用的开放模型。</p>
+<p>李飞飞将在此处分享更多关于我们迄今为止发展历程以及双方未来共同愿景的细节。</p>
+<p>在获得监管批准并满足其他惯常交割条件的前提下，该交易预计将于2026年底前完成交割。</p>
+<p>从World Labs到AMD：我们的历程</p>
+<p>Martin Casado（a16z）与李飞飞和李云竹坐下来展开讨论，内容包括对SceniX的收购、模拟如何开启下一代机器人技术，以及为什么训练机器人不同于训练大型语言模型。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-28 20:42 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-29 04:18 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.worldlabs.ai/blog/amd-announcement" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--investigate-the-ai-labs-d2e20e0276b7fef9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="953" data-content-paragraphs="11" data-published-at="2026-09-28T19:53:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 03:53</span>
+</div>
+
+### [是时候调查人工智能实验室了](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> It&#39;s Time to Investigate the AI Labs</div>
+
+<div class="article-body" data-article-body="true"><p>过去几个月里，两家领先的前沿人工智能实验室表现出了一些肆无忌惮的行为。</p>
+<p>事情始于OpenAI一系列经过精心策划的公告和报告。这些公告和报告试图说明，其基于大型语言模型的代理系统已经变得多么令人不安、多么强大（更不用说多么违法）。</p>
+<p>随后，他们将接力棒交给了Anthropic。该公司的员工开始公开讨论这些技术导致人类灭绝的确切概率。他们以一种令人毛骨悚然的平静来传达这一切，流露出一种对自身工作的虚无主义式必然感。</p>
+<p>在舆论基础得到适当铺垫后，这场宣传活动达到高潮：Anthropic首席执行官达里奥·阿莫代伊发表了一封题为《我们必须放慢前沿步伐》的信。他在信中列举了自己公司开展的研究可能造成的所有危害；然而，他没有道歉，也没有承诺停止研究，反而得出结论称，只有“以正确的方式开发这项技术”才能避免灾难。而所谓“正确的方式”包括——真是出人意料——让政府放慢潜在竞争者的步伐，并允许这些实验室在推进相关技术方面取得领先。OpenAI首席执行官萨姆·奥特曼很快发推文表示支持这一勇敢的计划。</p>
+<p>长期以来，这些实验室在内部一直秉持这种救世主式思维，把自己描绘成人类面对超级智能人工智能那些被神化力量时的唯一希望。从某种意义上说，今年夏天，他们试图让我们其他人也接受这种长期持有的意识形态。</p>
+<p>但这并没有激励大众起立鼓掌，赞美这些工程师的英雄式理性主义；相反，它让我们开始发问：“那些实验室里到底在搞什么鬼？”</p>
+<p>为此，我上周四在《纽约时报》发表了一篇评论文章，呼吁国会启动一项公开的事实调查，查明OpenAI和Anthropic正在开展哪些研究项目、如何开展这些项目，以及开展这些项目的目的是什么。</p>
+<p>我建议围绕这一调查重点探讨三个领域：</p>
+<p>“我们必须停止让少数几家私营公司——它们的行为和言论正变得越来越反常——来决定我们应当如何看待人工智能。”我总结道，“我们已经听到了他们想说的话；现在轮到国会代表我们介入，查明事情的真相。”</p>
+<p>喜欢这些文章，也谢谢你写下它们。我怀疑，“the defied powers of superintelligent AI”这句话中有一个拼写错误，本意应该是“the deified powers”。</p>
+<p>在我下次发表评论时，使用此浏览器保存我的姓名、电子邮件地址和网站。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-29 03:53 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://calnewport.com/its-time-to-investigate-the-ai-labs/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--browser-based-ai-agents-8dfae19f11de23ec" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1318" data-content-paragraphs="19" data-published-at="2026-09-28T19:33:57.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 03:33</span>
+</div>
+
+### [Shopify向基于浏览器的AI代理开放结账功能](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Shopify opens checkout to browser-based AI agents</div>
+
+<div class="article-body" data-article-body="true"><p>一些零售商——比如亚马逊（显然还有阿迪达斯！）——正在各自的平台上阻止AI代理代表用户进行购买，而电商平台Shopify却采取了相反的做法。</p>
+<p>周一，该公司宣布，基于浏览器的AI代理现在可以在Shopify商家的网站上完成购买，能力不再局限于搜索商品和将商品加入购物车。</p>
+<p>Shopify此前已为其店面和购物车提供WebMCP支持，允许基于浏览器的AI代理浏览Shopify零售商的库存、搜索商品并将商品加入购物车。该公司表示，新增对结账功能（包括Shop Pay）的WebMCP支持，意味着这些代理现在可以读取结账页面、更新其中的信息，并在获得买家授权后提交交易，而无需依赖截图或抓取网页。</p>
+<p>此次更新引入了三种新工具——get_checkout、update_checkout和complete_checkout——允许代理检查结账信息、修改客户地址或配送选项等内容，然后在买家授权后下单。</p>
+<p>Shopify负责代理式商务的资深产品经理吉尔·格林伯格在X平台的一篇帖子中表示，该功能正面向所有符合条件的Shopify商家推出。</p>
+<p>“与代理一起购物不应该让人感觉像是在看油漆变干。🥱 今天，我们面向所有符合条件的Shopify商家推出包括Shop Pay在内的结账WebMCP支持。了解其工作方式、UCP的作用以及数据所显示的情况：https://t.co/U96VtJaeyc”</p>
+<p>Shopify已经提供了一个托管式模型上下文协议（MCP）服务器，允许代理以服务器到服务器的方式运行。而拟议中的WebMCP标准则是为在买家浏览器内运行的代理设计的。二者都利用了Shopify的通用商务协议（UCP），该协议为搜索和发现商品、构建购物车以及结账提供了一种通用方式。</p>
+<p>Muse和Instinct等顶级AI代理已经与Shopify建立了代理式商务方面的直接合作关系。Instinct的合作关系于今天宣布。</p>
+<p>格林伯格在X平台上写道：“如果你的代理是在买家的浏览器中运行，请使用店面和结账页面提供的WebMCP工具，高效完成下单，而不是浏览为人类用户构建的HTML页面。这些WebMCP工具提供了结构化且高效的API，并通过UCP专门设计，以确保商务事实准确、必要披露信息完整，以及满足交接要求。”</p>
+<p>当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>消费者新闻编辑</p>
+<p>第二张通行证享受五折优惠<br />Disrupt体验旨在与他人共享。购买你的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄动力并探索创业生态系统的下一步，拓展你的收获。</p>
+<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
+<p>Astra和Opus刚刚通过了图灵测试的另一项测试</p>
+<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
+<p>Meta为其Muse AI代理制作了类似电子宠物的可穿戴设备</p>
+<p>《Vogue》在Vogue World活动中让机器人走上T台，但人们并不买账</p>
+<p>Anthropic称其生物学实验室已经取得重大成果</p>
+<p>PitPro首台换胎机器人在加拿大投入运行</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-29 03:33 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nes-get-auracast-support-fa414384ca3b5546" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="746" data-content-paragraphs="10" data-published-at="2026-09-28T19:31:24.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-29 03:31</span>
+</div>
+
+### [博世开始为其耳机加入 Auracast 支持](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Bose starts adding Auracast to its headphones</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24844791/BoseQCUltra.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="博世开始为其耳机加入 Auracast 支持" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>本主题的文章将添加到您的每日电子邮件摘要和首页信息流中。</p>
+<p>QuietComfort Ultra Headphones Gen 2 是博世首款支持这项被低估的蓝牙技术的耳机。</p>
+<p>本作者的文章将添加到您的每日电子邮件摘要和首页信息流中。</p>
+<p>查看 John Higgins 的全部文章</p>
+<p>博世为售价449美元的 Bose QuietComfort Ultra Headphones Gen 2 推送了一项新的固件更新，新增了对蓝牙低功耗音频（Bluetooth LE Audio）和 Auracast 的支持，目前这两项功能均为测试版。Ultra 系列旗舰耳机是博世首款支持这项音频共享技术的产品，公司计划很快将其带到更多设备上。</p>
+<p>目前只有少数几家主要制造商提供 Auracast 支持，而且仅限于部分耳机或耳塞产品，包括索尼、JBL 耳机、三星 Galaxy Buds 和森海塞尔；森海塞尔今年还推出了一款 Auracast 发射器。一些规模较小的公司也加入了支持行列，例如 EarFun。不过，博世是耳机领域最知名的品牌之一，因此它最终加入这一阵营，对 Auracast 而言是个重大消息。</p>
+<p>这项标记为10.12.12的固件更新在过去几周内低调地陆续推送。除蓝牙低功耗音频和 Auracast 外，更新还改进了通过有线 USB 连接传输音频的表现，包括为游戏音频和聊天音频增加平衡调节，并提高了与网络会议应用的兼容性。</p>
+<p>博世发言人 Tim Williams 通过电子邮件向 The Verge 表示，Bose QuietComfort Headphones（第二代）应该会在下一步获得测试版固件；我最近刚刚评测过这款耳机。</p>
+<p>一份免费的每日摘要，汇集最重要的新闻。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-29 03:31 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::

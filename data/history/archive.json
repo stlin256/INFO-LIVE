@@ -1,5 +1,1571 @@
 [
   {
+    "timestamp": 1790638439800,
+    "timeDisplay": "2026-09-29 07:33 (UTC+8)",
+    "date": "2026-09-29",
+    "runId": "feed-20260928T232237428Z-ww14ul",
+    "generatedAt": "2026-09-28T23:33:59.800Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 07:22",
+      "lead": "本轮抓取于 2026-09-29 07:22 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】极光公司（Aurora）首席财务官称，到2030年投放3万辆无人驾驶卡车并非听上去那么遥不可及：自动驾驶汽车技术公司极光（Aurora）上周向投资者表示，预计到2030年底将有超过3万辆自动驾驶卡车上路，并创造50亿美元的年收入——考虑到该公司预计到2026年底仅拥有200辆无人驾驶卡车和8000万美元的年化运行收入，这无疑是一个大胆的计划。",
+        "【undefined】圆桌研讨：虚拟边境墙的致命溃败：收听本场讨论或观看下方视频 过去25年来，美国在其南部边境耗资数十亿美元建立了一道由监控塔组成的“虚拟墙”，并承诺这些监控设施将有助于发现并抓捕越境者，同时拯救生命。然而，《麻省理工科技评论》的一项突破性调查记录了超过一千人在穿过这些监控塔监视的区域时，既未被救援也未被拦截，最终命丧于此。其中一些人甚至是在新安装的AI监控塔的注视下死去的，而这些监控塔的设计初衷正是为了自动识别人员。 我们的调查结果揭示了一场比以往所知更为显著的人道主义",
+        "【undefined】日本突发4.9级地震：中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
+        "【undefined】美总统称美官员已于28日同美伊间的调解方进行对话：当地时间9月28日，美国总统特朗普表示，美国官员当日与旨在结束美伊战事的调解方进行了交谈。被问及美伊谈判进展时，特朗普没有透露谈判具体细节，只是称“我们会赢”，“事态很快就会有分晓”。",
+        "【undefined】载人“星际客机”飞行计划于2028年前后进行——美国国家航空航天局：纽约，9月29日。/塔斯社/。美国国家航空航天局局长贾里德·艾萨克曼表示，自2024年以来波音公司“星际客机”飞船计划于2028年前后执行首次载人飞行。",
+        "【undefined】普京签令 俄罗斯武装部队总人数增至244万余人：中新网9月29日电 综合俄罗斯媒体报道，俄罗斯总统普京28日签署总统令，将俄武装力量编制人数增至2441630人，其中现役军人数量为1550500人。",
+        "【undefined】普京签署总统令 俄军扩编至244万余人：中新社莫斯科9月28日电 俄罗斯总统普京28日签署总统令，确定俄武装力量人员编制总人数为244万余人，其中包括超155万名现役军人。该总统令自签署之日起生效，相关文件已在俄法律信息网站公布。",
+        "【undefined】苏珊·柯林斯办公室遭粗俗标语涂鸦破坏 民主党参议员候选人保持沉默：周一，共和党参议员苏珊·柯林斯（Susan Collins）位于缅因州的一处选民服务办公室遭到破坏，她表示自己不会“被吓倒”；与此同时，民主党挑战者特洛伊·杰克逊（Troy Jackson）的竞选团队未对多次就该事件发表置评的请求作出回应。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "每日动态简报：半导体与深空探测前沿进展及冷战工业间谍经济效应评估",
+      "lead": "本日科技与历史研究领域出现多项关注点：半导体纳米器件与传感工程探索精确控制与集成测量的新路径，天文学CHIME项目成功仅凭自身数据捕捉宇宙早期氢气微弱信号；同时，经济历史研究量化了前东德对西方工业间谍活动带来的显著经济增长效益。",
+      "themes": [
+        {
+          "name": "纳米材料、传感技术与深空探测进展",
+          "analysis": "在半导体与材料科学领域，针对超浅结和纳米级器件对硅表面掺杂浓度控制的严格要求，混合单分子层掺杂（MMLD）技术提供了基于表面化学的解决方案，通过混合含掺杂剂分子与非掺杂分子以调控热扩散前的有效掺杂量。传感技术领域指出了现有大部分传感器单次仅能测定单一参数的局限，从同一表面实时精确测量双重参数仍面临设备冗余与高成本难题。此外，天文学领域取得进展，加拿大氢强度测绘实验（CHIME）首次展示了仅使用自身数据即可探测来自宇宙深处历史时期的微弱氢气辉光。"
+        },
+        {
+          "name": "历史工业情报的经济价值与社会安全动态",
+          "analysis": "经济历史计量研究披露了冷战时期情报活动对宏观经济的实际贡献：前东德在西方开展的间谍活动使其整体经济产出提升了7.4%，其中制造业附加值因工业间谍活动增长22.3%，相当于202亿东德马克（按2020年物价计算约合41亿欧元）。在其他监测动态中，包含针对突发事件‘暂未收到人员伤亡报告’的记录，以及关于‘作为一个国家，我们已变得危险地安于现状’的社会反思性警示言论。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 89,
+      "completedTasks": 89,
+      "succeeded": 44,
+      "degraded": 45,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 89,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 682312,
+      "byRole": {
+        "translator": {
+          "attempts": 55,
+          "succeeded": 21,
+          "degraded": 34
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 3,
+          "degraded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "degraded": 3,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 89,
+          "succeeded": 44,
+          "degraded": 45
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-7-translator-1",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-15-translator-1",
+      "article-16-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-1",
+      "article-21-translator-0",
+      "article-22-translator-0",
+      "article-24-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-0-source-positioner",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-6-fact-extractor",
+      "article-6-source-positioner",
+      "article-7-fact-extractor",
+      "article-7-source-positioner",
+      "article-8-fact-extractor",
+      "article-9-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.026Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.594Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.043Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.585Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.147Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.285Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.170Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.434Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.283Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.313Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.278Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.122Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:25.317Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.554Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.512Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.613Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.352Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.677Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.308Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.636Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.721Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.239Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.709Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.229Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.594Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.351Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.613Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.094Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:25.081Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.444Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.892Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.317Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:25.019Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.081Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.424Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.680Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.094Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.170Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.058Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.147Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.462Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.512Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:21.466Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.462Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.794Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.010Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.680Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.835Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.434Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.794Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.790Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.911Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.936Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.283Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.388Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.460Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:25.122Z",
+        "lastSuccessAt": "2026-09-28T23:22:27.628Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.835Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.923Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.169Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.234Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-09-28T23:22:23.988Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.234Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.392Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:25.313Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.647Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.229Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.308Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.430Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.851Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.662Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.790Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.177Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.278Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-28T23:22:23.923Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.911Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.177Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:21.464Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.721Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-28T23:22:24.010Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:21.465Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.058Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.392Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.560Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.602Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.662Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:22.585Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.709Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.851Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.936Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.460Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.601Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.636Z",
+        "lastSuccessAt": "2026-09-28T23:22:24.892Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:24.677Z",
+        "lastSuccessAt": "2026-09-28T23:22:25.019Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.285Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.430Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:23.239Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.424Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:21.450Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.026Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:21.463Z",
+        "lastSuccessAt": "2026-09-28T23:22:22.043Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-28T23:22:21.464Z",
+        "lastSuccessAt": "2026-09-28T23:22:23.388Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-politika-2120858234-html-d05796612e61cbee",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "США и Иран обсудили с посредниками пути завершения конфликта, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T23:20:30.000Z",
+        "pubTime": "2026-09-29 07:20",
+        "url": "https://ria.ru/20260929/politika-2120858234.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/04/1c/2089317266_0:158:3294:2010_650x0_80_0_0_fc35fd1bd4491aa87b4e2f694db44762.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 07:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/politika-2120858234.html",
+            "publishedAt": "2026-09-28T23:20:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-far-fetched-as-it-sounds-458d82b1a2b7f3ff",
+        "title": "极光公司（Aurora）首席财务官称，到2030年投放3万辆无人驾驶卡车并非听上去那么遥不可及",
+        "originalTitle": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:58:35.000Z",
+        "pubTime": "2026-09-29 06:58",
+        "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+        "imageUrl": null,
+        "fullContent": "Autonomous vehicle technology company Aurora told investors last week that it expects to have more than 30,000 self-driving trucks on the road generating $5 billion in annual revenue by the end of 2030 — an audacious plan considering it expects to end 2026 with just 200 driverless trucks and an $80 million revenue run rate.\n\nCFO David Maday contends the seemingly outsized target isn’t as large or as out of reach as it might appear.\n\n“While 30,000 kind of feels like a lot — and it does in the autonomy space for sure — in terms of trucks relative to the overall market, it’s kind of pretty small,” he told TechCrunch in a recent interview, adding that the four major truck manufacturers produce anywhere between 250,000 and 300,000 new trucks a year. “I don’t think it’s aspirational,” he added, “I think we can do it.”\n\nInvestors haven’t exactly embraced Aurora’s 2030 vision. Shares have continued to slide since the company’s annual analyst and investor day on September 23. On Monday, shares closed down 12.42%, to $5.29.\n\nBut investors have time to come around and, according to Maday, the big “unlock” for Aurora starts in 2027 and accelerates from there. The company expects to go from 200 driverless trucks at the end of 2026 to more than 1,000 a year later.\n\nToday, Aurora operates what it calls a transportation-as-a-service business — a proof-of-concept model that it plans to limit to about 500 trucks. It owns and operates the self-driving trucks and charges its customers, including Detmar Logistics, Hirschbach, McLane, and Werner about a $2 per mile, a rate that includes a fuel surcharge.\n\nThat works out to roughly the same rates as other carriers’ typical pricing. The real shift — and the real savings, Maday says — will happen next year as when Aurora begins moving to a driver-as-a-service model. Instead of Aurora owning the trucks, customers will buy the self-driving trucks and pay Aurora a per-mile subscription fee for the self-driving technology, which the company expects to be about $0.85. Under this model, the customers will own and maintain the truck, while Aurora maintains the self-driving system and its accompanying hardware.\n\nMoving the trucks off Aurora’s balance sheet is critical if the company wants to scale — and it’s likely what investors are paying attention to. The company said it expects to reach breakeven gross margins (meaning revenue would cover the direct costs of running the trucks) on a run-rate basis in the first half of 2027 with around 500 trucks on the road.\n\nThe next big leap comes at the end of 2027 with Aurora’s third-generation hardware— the sensors, computers, and other equipment that let its trucks drive themselves — which will be mass-produced autonomous vehicle hardware built by its partner, Aumovio (formerly known as Continental). Aumovio isn’t just engineering and manufacturing the hardware kit; the company is also financing it for Aurora — easing the financial burden on the self-driving truck company. Aumovio will also service and repair the kits for customers.\n\nAurora plans to expand its operations at the same time. By 2030, the company expects to grow beyond a few states in the South to the vast majority of the continental U.S., according to Maday.\n\n“By 2028, I expect that our cost structures are going to be really outstanding, that’s why you see our gross margin starting to take off …” Maday said. “Once you get to that point, I think going into ride hailing is fine,” he said, confirming that Aurora still plans to eventually enter the robotaxi market.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "自动驾驶汽车技术公司极光（Aurora）上周向投资者表示，预计到2030年底将有超过3万辆自动驾驶卡车上路，并创造50亿美元的年收入——考虑到该公司预计到2026年底仅拥有200辆无人驾驶卡车和8000万美元的年化运行收入，这无疑是一个大胆的计划。\n\n首席财务官戴维·马迪（David Maday）认为，这一看似庞大的目标并不像表面看起来那么夸张或遥不可及。\n\n“虽然3万辆感觉很多——在自动驾驶领域确实如此——但就卡车占整个市场的比例而言，它其实相当小，”他在近期接受TechCrunch采访时表示，并补充称四大卡车制造商每年生产25万至30万辆新卡车。“我认为这并非空想，”他补充道，“我认为我们能够做到。”\n\n投资者并未全盘接受Aurora的2030愿景。自9月23日该公司举办年度分析师与投资者日以来，股价持续下滑。周一，其股价收盘下跌12.42%，报5.29美元。\n\n但投资者还有时间转变态度，据马迪表示，Aurora的关键“破局点”始于2027年，并在此后加速。该公司预计将从2026年底的200辆无人驾驶卡车增长到一年后的1000多辆。\n\n目前，Aurora运营着所谓的“交通即服务”（transportation-as-a-service）业务——这是一种概念验证模式，该公司计划将其限制在约500辆卡车左右。它拥有并运营这些自动驾驶卡车，向包括Detmar Logistics、Hirschbach、McLane和Werner在内的客户收取每英里约2美元的费用（包含燃油附加费）。\n\n这一费率与其他承运商的典型定价大致相当。马迪表示，真正的转变——以及真正的成本节约——将在明年发生，届时Aurora将开始转向“司机即服务”（driver-as-a-service）模式。届时不再由Aurora拥有卡车，而是由客户购买自动驾驶卡车，并就自动驾驶技术向Aurora支付按英里计算的订阅费，该公司预计约为每英里0.85美元。在这种模式下，客户将拥有并维护卡车，而Aurora则维护自动驾驶系统及其配套硬件。\n\n如果该公司想要实现规模化扩张，将卡车移出Aurora的资产负债表至关重要——这也可能是投资者目前关注的焦点。该公司表示，预计在2027年上半年，随着约500辆卡车上路，其年化毛利率将实现盈亏平衡（即收入能够覆盖运营卡车的直接成本）。\n\n下一次重大飞跃将出现在2027年底，届时Aurora将推出第三代硬件——即让卡车实现自动驾驶的传感器、计算机及其他设备——这将是由其合作伙伴Aumovio（前身为大陆集团/Continental）制造的量产级自动驾驶车辆硬件套件。Aumovio不仅负责工程设计和制造该硬件套件，还在为Aurora提供资金支持，从而减轻这家自动驾驶卡车公司的财务负担。Aumovio还将为客户提供该套件的维护与维修服务。\n\nAurora计划在此期间同步扩大运营范围。马迪表示，到2030年，该公司的业务预计将从南部的少数几个州扩展到美国本土的大部分地区。\n\n“到2028年，我预计我们的成本结构将非常出色，这就是为什么你会看到我们的毛利率开始起飞……”马迪说。“一旦达到那个阶段，我认为进军网约车市场是顺理成章的，”他表示，并证实Aurora仍计划最终进入Robotaxi（自动驾驶出租车）市场。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n交通板块编辑\n\n第二张门票立减50%：Disrupt大会的体验旨在共同分享。获取您的通行证，以半价携同事、合伙人或同行一同参与。通过建立人脉、凝聚势能，发掘创业生态的下一站，拓展更多视野。\n\nCrusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划\nAstra与Opus刚刚通过了图灵的另一项测试\n甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知\nMeta为Muse AI助手打造了类似电子宠物的可穿戴设备\nVogue在Vogue World秀场上展示机器人走秀，反响平平\nAnthropic称其生物实验室已取得重大突破\nPitPro首款换胎机器人在加拿大投入运营",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "Aurora向投资者表示，预计到2030年底将有超过30,000辆自动驾驶卡车上路，产生50亿美元的年收入。",
+          "Aurora预计2026年底将拥有200辆无人驾驶卡车，年化营收运行率达到8000万美元。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T22:58:35.000Z",
+            "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:00:00.000Z",
+        "pubTime": "2026-09-29 07:00",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-29 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-28T23:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-7c7bde3b46ff6678",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "State of the (Tagged) Union Address by Andrew Kelley",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T20:35:51.000Z",
+        "pubTime": "2026-09-29 04:35",
+        "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-29 04:35 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+            "publishedAt": "2026-09-28T20:35:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--molecular-coatings-html-fd8f2425e538398e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plasma treatment helps reveal how molecular coatings dope silicon",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:20:04.000Z",
+        "pubTime": "2026-09-29 07:20",
+        "url": "https://phys.org/news/2026-09-plasma-treatment-reveal-molecular-coatings.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/impact-of-plasma-ashin.jpg",
+        "fullContent": "by Ecole Polytechnique Federale de Lausanne\n\nedited by Lisa Lock, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nControlling dopant concentration near the silicon surface is increasingly important for ultrashallow junctions and nanoscale devices. Mixed monolayer doping (MMLD) offers a surface-chemistry-based approach in which dopant-containing molecules are mixed with nondopant molecules to tune the amount of dopant available at the silicon surface before thermal diffusion.\n\nIn a new study, researchers from Ecole Polytechnique Federale de Lausanne doped silicon using mixed monolayers of the phosphorus-containing molecule allyldiphenylphosphine (ADP) and 1-undecene. The team investigated the use of O₂ plasma ashing after molecular grafting to remove residual carbon while preserving phosphorus at the surface. X-ray photoelectron spectroscopy (XPS) confirmed that the plasma treatment reduced carbon content while largely retaining phosphorus.\n\nKelvin probe force microscopy (KPFM) revealed a systematic decrease in silicon work function with increasing ADP concentration. The results, published in the journal Small Methods, also showed that the SiO₂ capping method strongly influenced the measured surface response: evaporated SiO₂ combined with O₂ plasma treatment produced the clearest evolution toward n-type behavior, whereas sputtered SiO₂ resulted in strong work-function pinning.\n\nElectrical characterization using four-point probe and Hall-effect measurements confirmed increasing conductivity and carrier concentration with increasing ADP content. However, no significant difference was observed between plasma-treated and untreated samples in these bulk-integrated measurements. This highlights the importance of distinguishing between near-surface electronic properties and bulk electrical transport when evaluating monolayer-doped silicon.\n\nOverall, the work demonstrates plasma-assisted MMLD with small molecules as a promising, tunable approach to silicon doping while emphasizing the importance of combining surface-sensitive and electrical characterization techniques. Such control of near-surface doping is particularly relevant for nanoscale and emerging quantum-device applications.\n\nPol Torres‐Vila et al, Impact of Plasma Ashing on Mixed Monolayer Doping of Silicon, Small Methods (2026). DOI: 10.1002/smtd.70970\n\nJournal information: Small Methods\n\nProvided by Ecole Polytechnique Federale de Lausanne\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "洛桑联邦理工学院（EPFL）研究人员使用含磷分子烯丙基二苯基膦（ADP）和1-十一烯的混合单分子层对硅进行掺杂研究。",
+          "X射线光电子能谱（XPS）证实，分子接枝后采用O₂等离子体去胶处理可以在大幅保留表面磷的同时降低碳含量。",
+          "来源叙事重点：聚焦O₂等离子体处理如何在混合单分子层掺杂硅过程中去除残余碳、保留表面磷，以及不同SiO₂封端方式对近表面电子性质测量的影响。报道将该方法描述为可调控、具有纳米器件和潜在量子器件应用前景的硅掺杂方案，同时强调表面敏感表征与体材料电学测量可能得出不同结论。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:20:04.000Z",
+            "url": "https://phys.org/news/2026-09-plasma-treatment-reveal-molecular-coatings.html"
+          }
+        ]
+      },
+      {
+        "id": "story-soltsevy-2120858056-html-3d55328f0e5e06bb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Семья Усольцевых числится в базе розыска МВД без вести пропавшей",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T23:17:14.000Z",
+        "pubTime": "2026-09-29 07:17",
+        "url": "https://ria.ru/20260929/usoltsevy-2120858056.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/150141/01/1501410141_0:95:1887:1156_650x0_80_0_0_e54cc0b0559db2934db40f2192429a94.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 07:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/usoltsevy-2120858056.html",
+            "publishedAt": "2026-09-28T23:17:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--the-virtual-border-wall-032b0e2a6b1375f5",
+        "title": "圆桌研讨：虚拟边境墙的致命溃败",
+        "originalTitle": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:17:07.000Z",
+        "pubTime": "2026-09-29 06:17",
+        "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "imageUrl": null,
+        "fullContent": "Listen to the session or watch below\n\nThe US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically.\n\nOur findings reveal a humanitarian crisis more visible than previously known, and repeated failures of the virtual wall’s basic security promise. Watch a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands.\n\nSpeakers : Mat Honan , editor in chief, James O&#8217;Donnell , senior AI reporter, and Eileen Guo , senior features and investigations reporter\n\nRecorded on September 28, 2026\n\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\n\nHow we made the first comprehensive map of deaths along the US border’s “virtual wall”\n\n4 ways to address the failures we found along the US border’s “virtual wall”",
+        "fullTranslation": "收听本场讨论或观看下方视频\n过去25年来，美国在其南部边境耗资数十亿美元建立了一道由监控塔组成的“虚拟墙”，并承诺这些监控设施将有助于发现并抓捕越境者，同时拯救生命。然而，《麻省理工科技评论》的一项突破性调查记录了超过一千人在穿过这些监控塔监视的区域时，既未被救援也未被拦截，最终命丧于此。其中一些人甚至是在新安装的AI监控塔的注视下死去的，而这些监控塔的设计初衷正是为了自动识别人员。\n我们的调查结果揭示了一场比以往所知更为显著的人道主义危机，以及这堵虚拟墙在兑现其基本安全承诺方面的屡次落空。观看这场对话，深入剖析边境监控技术的失效，并揭开那些命丧边境地带者背后的故事。\n演讲嘉宾：总编辑 Mat Honan、高级AI记者 James O'Donnell 以及高级特稿与调查记者 Eileen Guo\n录制于2026年9月28日\n美国在边境监控上耗资数十亿美元。为什么无法在他们丧命之前将其拦截？\n我们是如何绘制出美国边境“虚拟墙”沿线死亡事件首份全面分布图的\n解决我们在美国边境“虚拟墙”沿线发现的失败问题的4种方法",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美国政府过去约25年投入数十亿美元建设的边境监控塔，强调其“侦测、拦截并挽救生命”的安全承诺与实际结果之间的落差。报道以调查发现为核心叙事，称有逾千人经过监控塔覆盖区域却未被发现或救援，最终死亡，并特别指出部分个案发生在配备人工智能识别功能的新型监控塔监视范围内，由此将问题框定为边境监控技术反复失灵及由此加剧的可见人道危机。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T22:17:07.000Z",
+            "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+          }
+        ]
+      },
+      {
+        "id": "story-fuel-more-expensive-html-482c5a4afd6e2e2b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:00:00.000Z",
+        "pubTime": "2026-09-29 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html",
+        "imageUrl": null,
+        "fullContent": "Talk of a possible ban on U.S. exports of diesel fuel to curb soaring prices at the pump could end up pushing all fuel prices higher, cutting refinery runs as storage fills up, analysts have warned. The move could result in a glut of the fuel in the United States while the rest of the world struggles to secure supply. Retail diesel prices in the U.S. hit an all-time high of over $6.50 per gallon last week amid the global crunch that led to higher exports of the fuel, notably to Europe. In order to rein in prices for American drivers, legislators proposed a temporary ban on exports, and President Trump signaled he would get behind such a move. Not all agree it would be the right move, however. Energy Secretary Chris Wright warned it would lead to some unintended consequences last week, saying that \"The blunt tool of banning diesel exports definitely doesn't work. If you can't export the diesel that comes out of our refineries, you run out of places to store it, and you have to reduce US refining, which would put upward pressure on gasoline prices and jet fuel prices.\" Analysts concur. Wood Mackenzie said in a note last Thursday that a ban would quickly fill up storage space and force a sharp cut in refinery runs, which would \"ultimately increase the volume and cost of gasoline imports, potentially shifting the cost burden from diesel to gasoline at the pump.\" The consultancy has estimated that a 90-day ban on diesel exports would result in the redirection of some 700,000 barrels of the fuel and gasoil to storage, and this would fill available storage space to the maximum in a little more than a month. As a result, refiners would be forced to cut their run rates by some 2 million barrels daily, meaning gasoline production would also suffer a reduction. Then again, energy companies could boost exports of crude by the same amount. On the face of it, higher exports of crude could lead to lower prices in that energy commodity, if not its derivatives, but there is a problem with that scenario and that problem has to do with available refining capacity outside the United States. That capacity is limitedand it is all in China. Europe is especially short on refineries, hence its significantly higher fuel imports from the United States. \"The irony of a US diesel export ban is that it would likely increase costs for American consumers,\" Wood Mackenzie's senior VP for refining, chemicals, and oil markets, Commodities Research, said. \"Cutting crude runs to manage the oversupply would shift the cost burden from diesel to gasoline, meaning a policy designed to bring relief at the diesel pump could end up driving prices higher at the gasoline pump,\" Alan Gelder explained. He added that \"China is currently the only country with material spare refining capacity that could cover the loss of US refinery throughputs. However, China may well decide it is not in its interest to do this.\" The talk of a diesel export ban has meanwhile already served to pressure U.S. crude oil prices. West Texas Intermediate is trading at a discount of $12 to Brent crude, even as both benchmarks book gains following President Trump's rejection of Iran's plan for a peace deal, which the latter presented during last week's UN General Assembly session in New York. Normally, this would boost demand for U.S. crude barrels. But that limited refinery capacity in some key markets mentioned above is interfering with the natural course of things. On top of that, higher freight and insurance costs resulting from the war in the Middle East have compromised oil demand's relationship with the commodity's prices. Freight costs have surged due to the limited availability of tankers, and insurance costs have gone up because of war premiums for the Middle East. According to Signal Maritime data cited last week by Reuters' Ron Bousso, a VLCC journey from the Gulf Coast to Asia now costs around $50 million. This compares to $16 million before the United States-Israeli war with Iran began at the end of February. The combination of tight refining capacity outside the United States and higher freight and insurance costs has flipped the script on oil demand, even amid the current squeeze. Refiners in the United States produce 5.1 million barrels of diesel fuel daily. Exports run at 1.2 million barrels daily, according to JP Morgan data. Domestic consumption averages some 3.6 million barrels. Theoretically, there is enough diesel fuel both for the domestic market and for exports. However, the fact that both crude oil and diesel markets are global means price moves on that global market inevitably affect the domestic market as well. And it seems that a ban on diesel fuel exports, even for 90 days, would do more harm than good, notably to those whom it is supposed to help. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章的核心叙事是：美国柴油出口禁令可能造成国内库存快速满仓、炼厂降低开工率，并将价格压力从柴油转移至汽油和航空燃料；由于炼化产能、运费和保险成本具有全球约束，限制出口未必能降低美国消费者承担的燃料成本，反而可能加剧全球供应紧张。文章重点引用美国能源部长和Wood Mackenzie的警告，并以美国柴油产量、出口量和消费量数据支撑这一因果链。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html"
+          }
+        ]
+      },
+      {
+        "id": "story-litary-spending-by-27-to-7ac560d275d1049f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia raises 2027 military spending by 27% (to $202.58 billion), budget documents show",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T17:56:17.000Z",
+        "pubTime": "2026-09-29 01:56",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wslqge/russia_raises_2027_military_spending_by_27_to/",
+        "imageUrl": null,
+        "fullContent": "submitted by /u/sr_local [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-29 01:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wslqge/russia_raises_2027_military_spending_by_27_to/",
+            "publishedAt": "2026-09-28T17:56:17.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ule-tunnel-accurate-html-394ea97be23734fe",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Two-color glowing molecule could make wind tunnel tests more accurate",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:20:02.000Z",
+        "pubTime": "2026-09-29 07:20",
+        "url": "https://phys.org/news/2026-09-molecule-tunnel-accurate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-color-glowing-mole.jpg",
+        "fullContent": "by University of Manchester\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nMost sensors can measure only one thing at a time, like a thermometer for temperature or a pressure gauge for pressure. Measuring two properties accurately from the same surface at the same moment usually means using two separate instruments—adding cost and complexity to the process.\n\nNow, chemists and aerospace engineers at The University of Manchester, working with colleagues at the University of Eastern Finland, have designed a molecule that can do both simultaneously. It emits two distinct colors of light at once: one that responds to both air pressure and temperature, and one that responds only to temperature. By comparing these two signals, it's possible to get a corrected pressure reading from the molecule itself rather than using a separate temperature sensor alongside a pressure sensor.\n\nThe molecule has been designed as an active ingredient in specialized paints that measure pressure on aircraft models in wind tunnels, addressing a major challenge in the aerospace industry. When engineers test a new aircraft design in a wind tunnel, they need to know exactly how air pressure is distributed across every surface. One of the best ways to do this is with a pressure-sensitive paint that glows in proportion to the air pressure pushing against it.\n\nThe problem is that the light these paints emit is sensitive not only to pressure but also to temperature. As a scale model heats and cools during a wind tunnel test, the glow shifts in ways that have nothing to do with pressure, introducing errors that engineers then have to correct.\n\nDr. Alexander Romanov, senior research fellow in the Department of Chemistry at The University of Manchester, said, \"Our new Manchester material emits red light, what we call phosphorescence, which is sensitive to changes in both pressure and temperature. At the very same time, this material emits blue light as a fluorescence—responding only to temperature. By measuring blue and red light at once, we've got everything we need to separate the pressure signal from the temperature interference. That kind of built-in self-correction is simply not possible with a standard light-emitting molecule.\"\n\nThe team's work, published in the journal Advanced Optical Materials, explains how the molecule is built around a gold atom bonded to a ring-shaped compound called acridine. The position of that bond within the structure determines which type of light the molecule produces.\n\nGold was chosen because even subtle changes to where it sits within the molecule produce reliably different light-emitting behaviors, giving chemists precise control over the sensing properties. When the gold atom bonds to one position on the molecule, it triggers the pressure-sensitive red emission, whereas a bond at a different position triggers the temperature-only blue emission.\n\nCalculations carried out by the team's colleagues in Finland helped the researchers understand and predict these differences before the molecule was built in the laboratory. In use, the molecule is embedded in a paint applied to test models in the standard way. A camera captures both emission colors simultaneously, and the ratio between the two signals automatically corrects for temperature without a separate temperature sensor.\n\nDr. Mark Quinn, reader in the Department of Mechanical and Aerospace Engineering at The University of Manchester, said, \"In wind tunnel testing, temperature correction is currently one of the main challenges to making pressure-sensitive paints reliable. Having both pressure and temperature measurements come from the same molecule simultaneously is a more elegant solution, and potentially a more practical one for real test conditions, where adding extra instruments creates its own complications.\"\n\nThe team's work is part of a broader program of research at Manchester to improve pressure-sensitive paint for aerospace applications. A related study, recently published in ACS Applied Engineering Materials, addresses the temperature problem from a different direction by designing a platinum-based paint with inherently low temperature sensitivity. Together, the two studies represent complementary approaches to one of the industry's most persistent challenges.\n\nAlexander C. Brannan et al, Temperature Correction in a Single Luminophore Pressure‐Sensitive Paint Using a Dual‐Emitting Gold Acridine Complex, Advanced Optical Materials (2026). DOI: 10.1002/adom.71493\n\nJournal information: Advanced Optical Materials\n\nProvided by University of Manchester\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：突出一种双发光金-吖啶分子在风洞压力敏感涂料中的潜在应用：红光同时受压力和温度影响，蓝光仅受温度影响，通过两种信号的比值进行温度校正，从而减少对独立温度传感器的需求。报道同时将该成果置于曼彻斯特大学改进航空航天压力敏感涂料的研究计划中，并以“更简洁”“更实用”的技术路径塑造其应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:20:02.000Z",
+            "url": "https://phys.org/news/2026-09-molecule-tunnel-accurate.html"
+          }
+        ]
+      },
+      {
+        "id": "story-emergencies-2194243-eb5607bff6c0025b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Major fire broke out at gas pipeline in eastern Syria",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:15:20.000Z",
+        "pubTime": "2026-09-29 07:15",
+        "url": "https://tass.com/emergencies/2194243",
+        "imageUrl": null,
+        "fullContent": "TUNIS, September 29. /TASS/. A major fire broke out at a gas pipeline in Syria’s eastern Deir ez-Zor province, Syria TV reported.\n\nAccording to the channel, the fire erupted along a section of the pipeline near a community south of the city of Deir ez-Zor. The blaze is intense, with flames visible from a considerable distance.\n\nThere have been no reports of casualties. The cause of the fire, the extent of damage to the pipeline, and its possible impact on gas supplies have yet to be determined. Syrian authorities had not commented on the incident at the time of publication.\n\nThe Deir ez-Zor province is home to major Syrian oil and gas fields and energy infrastructure facilities. A significant portion of the region’s infrastructure was damaged during years of armed conflict. Syrian authorities have recently been working to restore a number of fields, pipelines, and other facilities.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "叙利亚东部代尔祖尔省一条天然气管道发生重大火灾。",
+          "火灾发生在代尔祖尔市以南一处社区附近的管道段，火势猛烈，从较远距离也能看到火焰。",
+          "来源叙事重点：聚焦叙利亚东部代尔祖尔省天然气管道发生的重大火灾、火势规模及暂未发现人员伤亡的情况，并将事件置于该地区油气资源丰富、能源基础设施曾因多年武装冲突受损以及当局正在推进设施恢复的背景下。报道未对事故原因、责任归属或政治含义作出判断。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:15:20.000Z",
+            "url": "https://tass.com/emergencies/2194243"
+          }
+        ]
+      },
+      {
+        "id": "story-ilable-on-amazon-bedrock-ca930995b2c3182c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Grok 4.7 is now available on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:13:16.000Z",
+        "pubTime": "2026-09-29 06:13",
+        "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21934-2.jpg",
+        "fullContent": "xAI’s Grok 4.7 is now available on Amazon Bedrock , adding a frontier model built for coding, long-running agents, and knowledge work to the Bedrock model catalog. It offers a 500K token context window and supports configurable reasoning effort at four levels: low , medium , high , and xhigh .\n\nGrok 4.7 is served on the bedrock-runtime endpoint through cross-Region inference profiles, and it supports the Responses, Chat Completions, and Converse APIs. According to xAI, it’s their most capable model for coding and knowledge work: it works longer on difficult tasks and verifies its own output more carefully before moving on.\n\nThis post covers what xAI says Grok 4.7 is designed for, how it is packaged on Amazon Bedrock, and how to send your first request.\n\nWhat Grok 4.7 is built for\n\nThe capability and training details in this section come from xAI’s launch announcement, Introducing Grok 4.7 , published September 21, 2026, and from the Grok 4.7 model documentation .\n\nxAI positions Grok 4.7 as its most capable model for coding and knowledge work. The theme is endurance rather than raw speed: the model works longer on difficult tasks and checks its own work more carefully before moving on.\n\nOn training, xAI reports that Grok 4.7 uses a new and larger base model. It was trained with a longer reinforcement learning run over a harder mix of tasks, deliberately weighted toward problems that take many hours to complete. Two capabilities came out of that: the model is better at verifying its own work, and makes more effective use of its 500K token context window on long tasks. xAI also trained it to natively understand the Grok Bot harness, which it credits for improvements in conversational tasks and general knowledge work.\n\nFor anyone building agents, the self-verification behavior is the detail worth noting. A model that checks its own output before continuing tends to fail less catastrophically on long trajectories, where an early mistake otherwise compounds through every later step.\n\nxAI also calls out stronger document and presentation generation, and describes gains on professional knowledge work of the kind done by lawyers, nurses, and financial analysts. xAI reports gains across its published evaluations. These span software engineering with CursorBench and DeepSWE, multi-hour terminal and office work with Terminal-Bench and AA Briefcase, electrical engineering with EEBench, legal work with the Harvey Legal Agent Benchmark, and clinical reasoning with HealthBench Professional. For the results themselves, see xAI’s announcement .\n\nIndependent evaluation\n\nArtificial Analysis runs its own evaluations rather than relying on developer-reported figures, which makes it a useful second reference alongside xAI’s published results.\n\nAccording to Artificial Analysis , Grok 4.7 improves across its evaluation suite. The largest gains are on long-horizon agentic knowledge work and on coding agents run in xAI’s own harness. The Intelligence Index is a composite built from multiple independent evaluations covering agentic tool use, reasoning and knowledge, knowledge reliability, and long-context work.\n\nMeasure (Artificial Analysis) Grok 4.7 Grok 4.6\n\nIntelligence Index 46 44\n\nCoding Agent Index 56 47\n\nAA-Briefcase, long-horizon knowledge work (Elo) 1,657 1,546\n\nGDPval-AA, professional work products (Elo) 1,695 1,605\n\nAA-Omniscience Index 32 30\n\nAA-Omniscience hallucination rate 29% 34%\n\nOutput tokens per Intelligence Index task ~81k ~38k\n\nGrok 4.7 is measured at xhigh reasoning effort, and Grok 4.6 at the effort level Artificial Analysis reported for each measure. The final row is the tradeoff to plan for: the gains come with roughly double the output tokens per task. That’s why it pays to set the effort level deliberately rather than inheriting the default.\n\nSafety and cyber security\n\nAccording to xAI, Grok 4.7 was built with an entirely new safeguard stack and is the strongest model it has tested on refusals and jailbreak resistance. xAI frames the goal in dual-use domains such as cyber security and biological work as holding two things at once: remaining useful for legitimate tasks while refusing dangerous ones.\n\nOn cyber security specifically, xAI reports the model allows only a small fraction of risky dual-use prompts through while rarely blocking legitimate security work. xAI has also begun giving selected cyber security partners invite-only access to Grok 4.7’s red-team capabilities for defense research.\n\nHow Grok 4.7 is packaged on Amazon Bedrock\n\nGrok 4.7 accepts text and image input and returns text. The model is served on the bedrock-runtime endpoint through cross-Region inference profiles, so requests name a profile rather than a bare model ID:\n\nInference option Model ID Base URL\n\nGeo cross-Region us.xai.grok-4.7 https://bedrock-runtime.{region}.amazonaws.com/openai/v1\n\nGlobal cross-Region global.xai.grok-4.7 https://bedrock-runtime.{region}.amazonaws.com/openai/v1\n\nGrok 4.7 supports the Responses API, the Chat Completions API, InvokeModel and the Converse API.\n\nBecause the model is OpenAI-compatible, you have a choice of client. The OpenAI SDK works against the /openai/v1 path with a bearer token, which can be either an Amazon Bedrock API key or a short-term token minted from your AWS Identity and Access Management (IAM) credentials. The AWS SDKs reach the same model through Converse, signing requests with your ordinary AWS credentials. Use the OpenAI SDK if you’re porting an existing integration. Use Converse if you want one message shape across the models in your account, along with invocation logging and response streaming through the standard Bedrock event types.\n\nUsing Grok 4.7 with Bedrock features\n\nImplicit prompt caching applies automatically to repeated prompt prefixes, so agents that resend a large system prompt or reference document on every turn pay the cached rate for that prefix. Amazon Bedrock Guardrails attach by ID and version on the request, applying content filters, denied topics, personally identifiable information (PII) redaction, and word policies to both the prompt and the response. This is useful for a model that might run unattended across many steps. With structured outputs, you can constrain a response to a JSON Schema so downstream code can parse it directly. Invocation logging captures each call in Amazon CloudWatch with the request, the response, and token counts including reasoning tokens. This gives you an audit trail for long agent runs.\n\nRegions and inference options\n\nGrok 4.7 routes through one of two cross-Region inference profiles rather than pinning to a single Region.\n\nThe Global profile, global.xai.grok-4.7 , routes each request to any supported commercial AWS Region, spreading load across more capacity, and is priced below a geographic profile. The tradeoff is less control over where a given request is served, which can mean more variable latency.\n\nThe US geographic profile, us.xai.grok-4.7 , keeps processing within the US geography, which addresses US data residency requirements. Choose it when you have residency constraints or latency-sensitive traffic, and Global when cost and throughput matter more.\n\nService tier and pricing\n\nStandard is pay-per-token with no commitment, selected by setting \"service_tier\": \"default\" or omitting the field. Priority delivers faster, prioritized processing for a premium ( \"service_tier\": \"priority\" ). Flex offers lower-cost access for work that isn’t time-sensitive ( \"service_tier\": \"flex\" ).\n\nService tier is a significant cost lever that you control. For per-token pricing across the tiers, see the Amazon Bedrock pricing page .\n\nSend your first request\n\nBefore your first call, confirm that the model is available to you in the Bedrock console for the AWS Region that you plan to use.\n\nInstall the OpenAI SDK, and boto3 if you plan to use the Converse API:\n\npip install openai pip install boto3\n\nGenerate a long-term Amazon Bedrock API key from the Amazon Bedrock console for exploration, then set your environment:\n\nexport OPENAI_API_KEY=\"<provide your Bedrock API key>\" export OPENAI_BASE_URL=\"https://bedrock-runtime.us-east-1.amazonaws.com/openai/v1\"\n\nA first request with the Chat Completions API:\n\nfrom openai import OpenAI\n\nresponse = client.chat.completions.create( model=\"us.xai.grok-4.7\", messages=[ {\"role\": \"user\", \"content\": \"Can you explain the features of Amazon Bedrock?\"} ], ) print(response.choices[0].message.content)\n\nThe same call through the Responses API:\n\nresponse = client.responses.create( model=\"us.xai.grok-4.7\", input=\"Can you explain the features of Amazon Bedrock?\", ) print(response.output_text)\n\nAnd through the Converse API with boto3 . Because reasoning is always active, the first content block carries the reasoning and the answer sits in a later block, so search the blocks for the text rather than indexing content[0] :\n\nclient = boto3.client(\"bedrock-runtime\", region_name=\"us-east-1\")\n\nresponse = client.converse( modelId=\"us.xai.grok-4.7\", messages=[ {\"role\": \"user\", \"content\": [{\"text\": \"Can you explain the features of Amazon Bedrock?\"}]} ], inferenceConfig={\"maxTokens\": 2048}, )\n\nblocks = response[\"output\"][\"message\"][\"content\"] text = next(b[\"text\"] for b in blocks if \"text\" in b) print(text)\n\nOn Converse, you set the effort level through additionalModelRequestFields rather than a reasoning parameter:\n\nresponse = client.converse( modelId=\"us.xai.grok-4.7\", messages=[{\"role\": \"user\", \"content\": [{\"text\": \"What is 17*23? Number only.\"}]}], inferenceConfig={\"maxTokens\": 3000}, additionalModelRequestFields={\"reasoning_effort\": \"xhigh\"}, )\n\nThree operational notes. First, requests must name us.xai.grok-4.7 or global.xai.grok-4.7 .\n\nSecond, bedrock:InvokeModel is evaluated against three resources: your account’s default project, the inference profile you name, and the underlying foundation model (FM). The foundation model Amazon Resource Name (ARN) is wildcarded across Regions because cross-Region profiles route outside the calling Region. Bearer-token authentication additionally requires bedrock:CallWithBearerToken , which boto3 and Converse don’t need:\n\n{ \"Version\": \"2012-10-17\", \"Statement\": [ { \"Effect\": \"Allow\", \"Action\": \"bedrock:InvokeModel\", \"Resource\": [ \"arn:aws:bedrock:{region}:{account-id}:project/default\", \"arn:aws:bedrock:{region}:{account-id}:inference-profile/us.xai.grok-4.7\", \"arn:aws:bedrock:*::foundation-model/xai.grok-4.7\" ] }, { \"Effect\": \"Allow\", \"Action\": \"bedrock:CallWithBearerToken\", \"Resource\": \"*\" } ] }\n\nList every inference profile you plan to call. Profiles are scoped individually, so a policy naming us.xai.grok-4.7 does not cover global.xai.grok-4.7 .\n\nThird, the two authentication mechanisms cover different code paths. An Amazon Bedrock API key in OPENAI_API_KEY travels as a bearer token and authenticates the OpenAI-compatible calls. The boto3 Converse examples sign with SigV4 instead, drawing on your ordinary AWS credentials from the environment, a profile, or a role. Configure both if you intend to use Converse alongside the OpenAI-compatible APIs.\n\nTreat a long-term API key as an exploration-only credential. For production, use short-term bearer tokens generated from your IAM credentials with the aws-bedrock-token-generator package, since they expire automatically and keep access tied to your IAM identity.\n\nWorking with reasoning effort\n\nReasoning is active on Grok 4.7, and effort level is a primary control you have over its cost and latency. You configure it through the reasoning parameter on the Responses API with low , medium , high , or xhigh , and through additionalModelRequestFields on Converse.\n\nThe default is high . That’s worth setting explicitly rather than inheriting, because leaving it unset on latency-sensitive or high-volume calls will spend more reasoning tokens than those calls need.\n\nBecause the model is trained to work longer and verify its own output, higher effort buys more than extra deliberation on a single answer: it buys more self-checking across a long task. Short extraction and classification calls belong at low . Multi-step planning, long agent trajectories, and work where an early error propagates are where high and xhigh earn their tokens.\n\nReasoning content is encrypted. You can have it returned by passing the following on a Responses API request. include: [\"reasoning.encrypted_content\"]\n\nThen send that content back on subsequent turns to give the model its own prior reasoning as context in a multi-turn conversation. The Chat Completions API doesn’t return reasoning tokens.\n\nfrom openai import OpenAI\n\nclient = OpenAI() # OPENAI_BASE_URL points at the bedrock-runtime endpoint\n\nresponse = client.responses.create( model=\"us.xai.grok-4.7\", reasoning={\"effort\": \"high\"}, include=[\"reasoning.encrypted_content\"], input=\"Explain quantum entanglement simply.\", ) print(response.output_text)\n\nTo find where additional reasoning stops paying for itself, benchmark the levels against your own workload.\n\nWith Grok 4.7 in Amazon Bedrock, you get a 500K token context window, four reasoning effort levels, image input, tool calling, and Geo and Global cross-Region routing. All of it is reachable through the Responses, Chat Completions, and Converse APIs.\n\nTo start building, review the Grok 4.7 model card for the current Region list, feature matrix, and parameter details, and check the Amazon Bedrock pricing page for token rates. If you generated a long-term Amazon Bedrock API key for exploration, delete it from the Amazon Bedrock console when you are finished. A standing credential you no longer need only widens your account’s attack surface.\n\nxAI, Introducing Grok 4.7\n\nArtificial Analysis, Benchmarking Grok 4.7\n\nxAI, Grok 4.7 model documentation\n\nAmazon Bedrock pricing\n\nSuheel is a Principal Solutions Architect at AWS, specializing in artificial intelligence, machine learning, and generative AI. He helps Foundation Model Provider customers design, build, modernize, and scale their AI/ML and generative AI workloads on AWS — from bringing foundation models to Amazon Bedrock to optimizing training and inference and building Agentic AI solutions. His experience spans the AWS AI/ML and generative AI portfolio, particularly Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker AI. In his free time, Suheel enjoys working out and hiking.\n\nWilliam is Principal Product Manager for Amazon Bedrock.\n\nIkenna is a Principal Solutions Architect at AWS specializing in networking, containers, and AI infrastructure. He guides model providers through scaling their training and inference systems while enabling rapid deployment of evolving frontier models on AWS. His work increasingly spans agentic AI – building reliable, cost-efficient multi-agent systems and the inference infrastructure behind them in production.\n\nAnirban is a Principal Engineer at AWS based in Seattle, USA, where he focuses on the design of secure, high-scale model-serving infrastructure for Amazon Bedrock. He has driven the technical work behind several foundation-model launches on the platform. Prior to joining Amazon Bedrock, he was a Principal Engineer on AWS Outposts, building hybrid on-premises cloud infrastructure.\n\nFabio is a Senior Customer Solutions Manager at Amazon Web Services (AWS) and strategic advisor guiding foundational model providers in their go-to-market journey. Prior to AWS, he held Product Management, Engineering, Consulting, and Technology Delivery roles across multiple Fortune 500 companies in industries, including retail and consumer goods, oil and gas, financial services, insurance, and aerospace and defense.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 84,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T22:13:16.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:45:00.000Z",
+        "pubTime": "2026-09-29 06:45",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-29 06:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-28T22:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--serious-ai-product-html-306cb055dc065471",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What Would A Serious AI Product Look Like?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T17:01:01.000Z",
+        "pubTime": "2026-09-29 01:01",
+        "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "imageUrl": null,
+        "fullContent": "One of the issues that I have with the current generation of “AI” products is that they do not appear to take their own premises seriously. I look at a plethora of obsequious chatbots claiming to be serious tools for problem solving, and I think, this is not what a problem-solving tool would look like.\n\nEven before we get to the tremendous ethical problems with the frontier labs, it is this impression of their composition as a product that makes me feel, constantly, whenever I am interacting with them, that they are less a software product than that they are a grift, a scam designed to make me feel like I am interacting with a product that has capabilities that it simply does not, to try to lull me into a false sense of security that I can trust it.\n\nThe frontier labs are of course the worst offenders, but every criticism here applies just as much to Ollama, which (if anything, due to the obviously poorer quality of the available models themselves) needs these features even more than the frontier labs do.\n\nHere, I will set down a few features that might convince me that an LLM-based product, particularly one focused on research or software development, was actually serious about helping me do useful things with it.\n\nThis is the biggest issue, and the major reason that I was inspired to write this post.\n\nIt is a truth universally acknowledged, that AIs cannot reliably provide information.\n\nI could cite a ton of news articles and studies about this fact, but there is no need. Every single chatbot admits this, up front, in a fine-print disclaimer as a core part of their user interface. Gemini says “AI can make mistakes, so double-check responses”, Claude says “Claude is AI and can make mistakes. Please double-check responses.1” ChatGPT says “ChatGPT can make mistakes. Check important info.”.\n\nEvery time I see that last one, I wonder how I’m supposed to know what “info” is supposed to be “important”.\n\nAll of these warnings are all small, gray text, painfully obviously included as legalese to push responsibility back onto the user rather than to help with anything. This is a core limitation of all these products. Checking their output is a part of the workflow for using them that:\n\nA chatbot product that took this weakness seriously, as an actual consideration for using it, would put a checkbox next to every claim in its output. It would be a 2-column worksheet, where you’ve got the LLM output in the first column, and next to it, human notes in the second column, explaining what work went into checking this claim, and a big checkbox that you would only check off after you believe you’d checked its claims thoroughly enough.\n\nCoding assistants would need to have some version of this as well. Right now, this is pushed off into code review, which means it is a dark pattern which subtly encourages the “author”2 to offload this work to their code reviewer without ever looking. Once again, “it’s probably fine, I don’t need to check” is the quickest way to save time and churn out those PRs faster.\n\nIt might even be useful for coding harnesses to have some affordance for checking code before it even runs tests. As the vendors themselves have admitted, it’s not just expensive to burn tokens on your “AI”, you also end up burning far more compute on the AI. Being able to check your diffs before sending them over to uselessly exhaust your testing compute cluster would be useful.\n\nIf your product tells me that it makes mistakes and I must be the one to check for the mistakes, but then gives me zero tools to check for mistakes, I cannot take it seriously.\n\nMost chatbots prefer to give an answer, rather than a citation. In my own personal use, I find that when asked to provide a list of citations with clearly marked sources for each one, they will appear to “get bored” halfway through the list and simply stop including citations at some point.\n\nWhen the bots include citations at all, present them as inline annotations that say nothing but the domain name of the search result, in a font so small that it’s barely legible, and an equally indecipherable icon that is fewer than 16 pixels on a side.\n\nNow, I am aware that these citations do come from somewhere, and in an attempt to reduce hallucinations, all of the major providers support some form of “grounding”3, and that those little barely-readable citation links are referencing actual structures in the RAG pipeline and not just potentially-hallucinated tokens, but I’m not talking about the underlying machinery in the model, I’m talking about the presentation to the user.\n\nPlus, regardless of whether a snippet of text came from a RAG query, we know that LLMs can never provide an authoritative result; it’s a fundamental limitation of the technology. They can still garble the results of RAG as much as they can misrepresent any other training data. This means that it must never present its results as authoritative.\n\nIf you ask an AI to do research queries, every result should be presented as a list of citations. Moreover, the presentation should display each citation as a large object of in its own right, with clearly identified metadata, including not just the site where it was found but its publication date and, if possible, the name of the author. The literal, unmodified quotation (not from RAG, not a summary: a quotation extracted with a regular program and not an LLM) should be front-and-center, larger than any AI-generated text.\n\nIf the AI product wants to editorialize or summarize (which should not always be necessary!), the AI-generated text should be presented as small text underneath the citation that has been found, de-emphasized as much as the disclaimer is right now, at the very least until the user has verified that the summary is accurate. Perhaps, for a research project, a “did you read the citation” checkbox might even be helpful.\n\nIf your product openly tells me that it will scramble, misrepresent, or omit its citations in its summaries, and I must read the original human-authored citations to be sure, but then gives me no tools to track my reading of those citations or even any way to find them, I cannot take it seriously.\n\nThere is no reason for a software development or research tool to use first-person language to describe itself. They should not do so. In fact they should not be allowed to do so.\n\nThere is also no reason that they should ever apologize. It is a waste of everyone’s time; it’s a waste for the chatbot to generate the apology, it’s a waste for the user to read the apology, and it’s a waste for the user to respond to the apology. Yet they unfailingly do this upon every correction.\n\nThe vendors of these tools know that they are routinely causing mental-health crises. In response, they have added non-functional “guard rails” that can still, in 2026, easily be bypassed.4\n\nA product seriously interested in helping with productivity would correct this glaringly obvious flaw, focus on the task at hand, and stop emitting useless verbiage.\n\nIn the previous two sections, I tried to focus on ways in which the harness would be constructed differently even if the LLM technology is fundamentally impossible to improve; in this case, I have to assume that the labs have some control over the model itself. But unless they are truly incapable of influencing their output (and all their “benchmarks” and “capabilities” seem to indicate that they can control it very tightly) they ought to be building models that are much less verbose.\n\nAlthough natural language could hypothetically be a powerful interface for interacting with a computer system, the practical upshot of LLM natural language interfaces is that these interfaces are imprecise and repetitive, full of superstitions masquerading as “best practices”. The inputs are a mess and the resulting outputs are a mess.\n\nThe general way of addressing this unstructured mess is to allow the chatbot to directly take action in response to the user’s input; in other words to supply it with “tools” via an MCP server. But again, this is backwards. If we cannot even express our intent clearly in the first place, why are we trusting this system to take potentially destructive and harmful actions on our behalf?\n\nInstead, I would expect a product that was seriously invested in helping me accomplish specific tasks, to have user interfaces specific to those tasks. Is it supposed to be able to be a security scanner that can discover OWASP top 10 bugs in a codebase? Have a button for that. Build that functionality into your harness, train it directly into the model, use smaller models that can satisfy that functionality more effectively than throwing it at the planet-sized brain of Fable or whatever.\n\nI’m aware that there are small software startups that do something like this, but they are bolted on to the side of the main model providers’ APIs, not integrated into the core of the product and not using their own models and AI systems to achieve consistent and repeatable results.\n\nChatbots produce data tables pulled from websites, from APIs, from MCP tools or from summarizing and scrambling the user’s input. In order to provide the illusion of a seamless interface, this data is presented in-line regardless of where it comes from. But some of these outputs are produced mechanically via regular old API calls, for example, from the result of calling a tool or querying a website, but presented uniformly.\n\nBut there is a huge difference between an authoritative data source being inlined as part of a chatbot conversation, being treated as input by the chatbot, and some ad-hoc hallucinated data being treated as output of the chatbot.\n\nIf a product is trying to help me make accurate, empirically-grounded, data-driven decisions, the source of the data is critical.\n\nIntegrated into the “check for mistakes” and “verify citations” workflow I described above, there’s a necessary “verify data programmatically” pass as well; to have tools that will treat portions of the output as a regular spreadsheet, allowing regular-old computer arithmetic to verify things and showing where such arithmetic was used, and how.\n\nAnyone familiar with the technical specifics of LLMs will know that they have a variable called “temperature” which controls the degree of randomness that the LLM uses to produce its outputs. But most users don’t know this, because it isn’t exposed as part of the user interface by default.\n\nThis leads to a subjective impression that you asked ChatGPT, and you got ChatGPT’s authoritative answer.\n\nYou can’t just set the temperature to zero and still get useful results - I am aware that it does more than just scramble the output at random, and there are perhaps good reasons that simply exposing just a temperature setting would not be that useful to users. But if we followed some more of my earlier recommendations for making more structured UI elements to solve specific problems rather than having long back-and-forth chats where each refinement depends on the previous response, perhaps those elements could also re-play the process so that users can see how reliable the bot is at a particular task and develop a sense of how the stochastic nature of the process actually affects it.\n\nSimilarly, if a user is trying to solve the same problem repeatedly with a chatbot, and the chatbot product has numerous computational tools that don’t really have anything to do with the LLM, such as deterministic data-processing tools, then having a way to freeze the non-deterministic parts of the transcript but re-populate a particular data frame with updated information and fork / continue the conversation from there would be a way to avoid introducing pointless additional randomness when you already know what tool you’re trying to use.\n\nThe fact that every conversation is presented as this flat chat prompt that doesn’t let me interact with any of the widgets that were previously produced except through more chatting, really makes me feel like the whole product is just doing predatory social-media style “increase time on site” optimization, just trying to lure me into further repetitive and unreliable chats, rather than letting me get in, solve my problem, and get out.\n\nManaging the LLM context is the ongoing challenge facing organizations that are trying to use “agentic” workflows. Filling up the context with too much information causes well-known problems. In response, advanced LLM users attempting to solve larger problems must break up very long prompts into “skills”, give access to lengthy information via “tools”, and delegating sub-problems to “sub-agents” rather than simply extending a single prompt indefinitely.\n\nAll of these strategies have flaws, because even on the largest models, compared to the breadth and depth of knowledge-work problems, LLM contexts are quite small.\n\nAnd yet, none of these products will show the context to the user by default. There are third-party addons that can show you a simple progress bar but for addressing the premier engineering difficulty with this technology, that is below the bare minimum.\n\nThis lack of visibility means that almost all of the tools for extending the context are flying blind. Rather than responding meaningfully to a full context, everyone just kind of guesses how much state they need by guessing and trying over and over again with progressively more elaborate skill and sub-agent layouts. Even managing context compaction ends up being an advanced API-driven workflow5.\n\nA serious product that was trying to help the user understand would not only show “available context” but explain the impact of context compactions, make it easier to see harness-generated prompts, and so on. This would be a first-class feature, combined with the aforementioned reproducibility / replay tools, would allow users to do real experiments to develop an understanding about how to make good use of the context window.\n\nI’ve been focused on the chatbot interface here because it is the most immediately egregious upon looking at the UI. But the “agentic loop” tools used for coding are equally dangerous, if not more so. Coding tools keep destroying everyone’s data, over the course of years.\n\nThese catastrophic incidents that become front-page news are relatively rare compared to the amount of coding-agent use out there. But they also aren’t the only kind of sandbox violation. Coding models will so routinely edit test code instead of the system under test that there are “pro tips” articles all over the web giving you the flawed advice to simply ask the agent not to cheat. News write-ups of the catastrophic incidents themselves will also offer glib and wrong advice, like “use a docker container”. That might prevent it from literally deleting your operating system, but it won’t prevent it from destroying all the local work you have in your codebase (it needs access to a checkout, after all!)\n\nThere is a flurry of activity in the infosec space where people are rushing to plug the gaps left by these coding harnesses. Everyone’s got their own version of an MCP approval gateway where you can optionally place a proxy between your agent and your production infrastructure.\n\nIn the best case, though, all these mitigations and proxies and prompts simply turn the user into an auto-approval automaton, hitting Y, Y, Y, Y over and over again, until you finally are driven mad and hit “yes to all”, turn on full-auto mode and submit yourself to the void. With nothing between your personal vigilance and disaster, there are no workflows left beyond decrementing your own vigilance until there’s nothing left and then hoping the disaster never arrives.\n\nThe fact that some mitigations exist that can be deployed by extra-cautious users does not change the fact that “agentic coding” is an unsafe-by-default technology deployed without concern or guidance. Every frontier lab has tied a spring-loaded shotgun to a dog; the fact that dog owners can publish thoughtful blog posts explaining how you can teach your dog the basics of gun safety or how you can have your dogs play in a bullet-proof room does not mitigate the fact that the product should not have been allowed in the first place, nor should it continue to exist without VERY strong security controls.\n\nI might believe that a frontier lab were seriously interested in providing developers with a useful tool if they shipped something that had safety built-in.\n\nThat means tools in the harness, detached from any LLM, independent of the prompt, that could:\n\nIn the same way that I suggested above that research-based tasks should have a way of re-issuing prompts to determine how reproducible a result is, or whether other sources might be found, agent-based tasks should have a way of being executed against mock services for popular APIs, so that the verification can match both on the front-end (review the plan for making the API calls before they’re executed) and the back end (review the API calls that were issued to the mock service and verify that they matched).\n\nInstead, the frontier labs provide us products that are disasters out of the box, give us “best practices” to build massive and elaborate, as well as incomplete and error-prone, security perimeters of our own design. Then they blame “operator error” when it inevitably goes wrong. I cannot believe that these design choices are intended to help us be productive.\n\nOrganizations deploying AI also frequently come across as unserious, for similar reasons. In 2023, naive exuberance could perhaps be forgiven. But today, as we near the close of 2026, there are several well-known problems, that have been extremely well-covered in the press. None of these things should be surprising, but most orgs deploying these tools are still just letting them rip and hoping it all works out.\n\nOrganizations deploying these tools would need at least three kinds of major modifications to their internal processes, if they wanted to be seri",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 54,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T17:01:01.000Z",
+            "url": "https://blog.glyph.im/2026/09/serious-ai-product.html"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-politika-2120858234-html-d05796612e61cbee",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "США и Иран обсудили с посредниками пути завершения конфликта, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T23:20:30.000Z",
+        "pubTime": "2026-09-29 07:20",
+        "url": "https://ria.ru/20260929/politika-2120858234.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/04/1c/2089317266_0:158:3294:2010_650x0_80_0_0_fc35fd1bd4491aa87b4e2f694db44762.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 07:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/politika-2120858234.html",
+            "publishedAt": "2026-09-28T23:20:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-far-fetched-as-it-sounds-458d82b1a2b7f3ff",
+        "title": "极光公司（Aurora）首席财务官称，到2030年投放3万辆无人驾驶卡车并非听上去那么遥不可及",
+        "originalTitle": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:58:35.000Z",
+        "pubTime": "2026-09-29 06:58",
+        "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+        "imageUrl": null,
+        "fullContent": "Autonomous vehicle technology company Aurora told investors last week that it expects to have more than 30,000 self-driving trucks on the road generating $5 billion in annual revenue by the end of 2030 — an audacious plan considering it expects to end 2026 with just 200 driverless trucks and an $80 million revenue run rate.\n\nCFO David Maday contends the seemingly outsized target isn’t as large or as out of reach as it might appear.\n\n“While 30,000 kind of feels like a lot — and it does in the autonomy space for sure — in terms of trucks relative to the overall market, it’s kind of pretty small,” he told TechCrunch in a recent interview, adding that the four major truck manufacturers produce anywhere between 250,000 and 300,000 new trucks a year. “I don’t think it’s aspirational,” he added, “I think we can do it.”\n\nInvestors haven’t exactly embraced Aurora’s 2030 vision. Shares have continued to slide since the company’s annual analyst and investor day on September 23. On Monday, shares closed down 12.42%, to $5.29.\n\nBut investors have time to come around and, according to Maday, the big “unlock” for Aurora starts in 2027 and accelerates from there. The company expects to go from 200 driverless trucks at the end of 2026 to more than 1,000 a year later.\n\nToday, Aurora operates what it calls a transportation-as-a-service business — a proof-of-concept model that it plans to limit to about 500 trucks. It owns and operates the self-driving trucks and charges its customers, including Detmar Logistics, Hirschbach, McLane, and Werner about a $2 per mile, a rate that includes a fuel surcharge.\n\nThat works out to roughly the same rates as other carriers’ typical pricing. The real shift — and the real savings, Maday says — will happen next year as when Aurora begins moving to a driver-as-a-service model. Instead of Aurora owning the trucks, customers will buy the self-driving trucks and pay Aurora a per-mile subscription fee for the self-driving technology, which the company expects to be about $0.85. Under this model, the customers will own and maintain the truck, while Aurora maintains the self-driving system and its accompanying hardware.\n\nMoving the trucks off Aurora’s balance sheet is critical if the company wants to scale — and it’s likely what investors are paying attention to. The company said it expects to reach breakeven gross margins (meaning revenue would cover the direct costs of running the trucks) on a run-rate basis in the first half of 2027 with around 500 trucks on the road.\n\nThe next big leap comes at the end of 2027 with Aurora’s third-generation hardware— the sensors, computers, and other equipment that let its trucks drive themselves — which will be mass-produced autonomous vehicle hardware built by its partner, Aumovio (formerly known as Continental). Aumovio isn’t just engineering and manufacturing the hardware kit; the company is also financing it for Aurora — easing the financial burden on the self-driving truck company. Aumovio will also service and repair the kits for customers.\n\nAurora plans to expand its operations at the same time. By 2030, the company expects to grow beyond a few states in the South to the vast majority of the continental U.S., according to Maday.\n\n“By 2028, I expect that our cost structures are going to be really outstanding, that’s why you see our gross margin starting to take off …” Maday said. “Once you get to that point, I think going into ride hailing is fine,” he said, confirming that Aurora still plans to eventually enter the robotaxi market.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "自动驾驶汽车技术公司极光（Aurora）上周向投资者表示，预计到2030年底将有超过3万辆自动驾驶卡车上路，并创造50亿美元的年收入——考虑到该公司预计到2026年底仅拥有200辆无人驾驶卡车和8000万美元的年化运行收入，这无疑是一个大胆的计划。\n\n首席财务官戴维·马迪（David Maday）认为，这一看似庞大的目标并不像表面看起来那么夸张或遥不可及。\n\n“虽然3万辆感觉很多——在自动驾驶领域确实如此——但就卡车占整个市场的比例而言，它其实相当小，”他在近期接受TechCrunch采访时表示，并补充称四大卡车制造商每年生产25万至30万辆新卡车。“我认为这并非空想，”他补充道，“我认为我们能够做到。”\n\n投资者并未全盘接受Aurora的2030愿景。自9月23日该公司举办年度分析师与投资者日以来，股价持续下滑。周一，其股价收盘下跌12.42%，报5.29美元。\n\n但投资者还有时间转变态度，据马迪表示，Aurora的关键“破局点”始于2027年，并在此后加速。该公司预计将从2026年底的200辆无人驾驶卡车增长到一年后的1000多辆。\n\n目前，Aurora运营着所谓的“交通即服务”（transportation-as-a-service）业务——这是一种概念验证模式，该公司计划将其限制在约500辆卡车左右。它拥有并运营这些自动驾驶卡车，向包括Detmar Logistics、Hirschbach、McLane和Werner在内的客户收取每英里约2美元的费用（包含燃油附加费）。\n\n这一费率与其他承运商的典型定价大致相当。马迪表示，真正的转变——以及真正的成本节约——将在明年发生，届时Aurora将开始转向“司机即服务”（driver-as-a-service）模式。届时不再由Aurora拥有卡车，而是由客户购买自动驾驶卡车，并就自动驾驶技术向Aurora支付按英里计算的订阅费，该公司预计约为每英里0.85美元。在这种模式下，客户将拥有并维护卡车，而Aurora则维护自动驾驶系统及其配套硬件。\n\n如果该公司想要实现规模化扩张，将卡车移出Aurora的资产负债表至关重要——这也可能是投资者目前关注的焦点。该公司表示，预计在2027年上半年，随着约500辆卡车上路，其年化毛利率将实现盈亏平衡（即收入能够覆盖运营卡车的直接成本）。\n\n下一次重大飞跃将出现在2027年底，届时Aurora将推出第三代硬件——即让卡车实现自动驾驶的传感器、计算机及其他设备——这将是由其合作伙伴Aumovio（前身为大陆集团/Continental）制造的量产级自动驾驶车辆硬件套件。Aumovio不仅负责工程设计和制造该硬件套件，还在为Aurora提供资金支持，从而减轻这家自动驾驶卡车公司的财务负担。Aumovio还将为客户提供该套件的维护与维修服务。\n\nAurora计划在此期间同步扩大运营范围。马迪表示，到2030年，该公司的业务预计将从南部的少数几个州扩展到美国本土的大部分地区。\n\n“到2028年，我预计我们的成本结构将非常出色，这就是为什么你会看到我们的毛利率开始起飞……”马迪说。“一旦达到那个阶段，我认为进军网约车市场是顺理成章的，”他表示，并证实Aurora仍计划最终进入Robotaxi（自动驾驶出租车）市场。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n交通板块编辑\n\n第二张门票立减50%：Disrupt大会的体验旨在共同分享。获取您的通行证，以半价携同事、合伙人或同行一同参与。通过建立人脉、凝聚势能，发掘创业生态的下一站，拓展更多视野。\n\nCrusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划\nAstra与Opus刚刚通过了图灵的另一项测试\n甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知\nMeta为Muse AI助手打造了类似电子宠物的可穿戴设备\nVogue在Vogue World秀场上展示机器人走秀，反响平平\nAnthropic称其生物实验室已取得重大突破\nPitPro首款换胎机器人在加拿大投入运营",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "Aurora向投资者表示，预计到2030年底将有超过30,000辆自动驾驶卡车上路，产生50亿美元的年收入。",
+          "Aurora预计2026年底将拥有200辆无人驾驶卡车，年化营收运行率达到8000万美元。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T22:58:35.000Z",
+            "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:00:00.000Z",
+        "pubTime": "2026-09-29 07:00",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-29 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-28T23:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-7c7bde3b46ff6678",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "State of the (Tagged) Union Address by Andrew Kelley",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T20:35:51.000Z",
+        "pubTime": "2026-09-29 04:35",
+        "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-29 04:35 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+            "publishedAt": "2026-09-28T20:35:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--molecular-coatings-html-fd8f2425e538398e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plasma treatment helps reveal how molecular coatings dope silicon",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:20:04.000Z",
+        "pubTime": "2026-09-29 07:20",
+        "url": "https://phys.org/news/2026-09-plasma-treatment-reveal-molecular-coatings.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/impact-of-plasma-ashin.jpg",
+        "fullContent": "by Ecole Polytechnique Federale de Lausanne\n\nedited by Lisa Lock, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nControlling dopant concentration near the silicon surface is increasingly important for ultrashallow junctions and nanoscale devices. Mixed monolayer doping (MMLD) offers a surface-chemistry-based approach in which dopant-containing molecules are mixed with nondopant molecules to tune the amount of dopant available at the silicon surface before thermal diffusion.\n\nIn a new study, researchers from Ecole Polytechnique Federale de Lausanne doped silicon using mixed monolayers of the phosphorus-containing molecule allyldiphenylphosphine (ADP) and 1-undecene. The team investigated the use of O₂ plasma ashing after molecular grafting to remove residual carbon while preserving phosphorus at the surface. X-ray photoelectron spectroscopy (XPS) confirmed that the plasma treatment reduced carbon content while largely retaining phosphorus.\n\nKelvin probe force microscopy (KPFM) revealed a systematic decrease in silicon work function with increasing ADP concentration. The results, published in the journal Small Methods, also showed that the SiO₂ capping method strongly influenced the measured surface response: evaporated SiO₂ combined with O₂ plasma treatment produced the clearest evolution toward n-type behavior, whereas sputtered SiO₂ resulted in strong work-function pinning.\n\nElectrical characterization using four-point probe and Hall-effect measurements confirmed increasing conductivity and carrier concentration with increasing ADP content. However, no significant difference was observed between plasma-treated and untreated samples in these bulk-integrated measurements. This highlights the importance of distinguishing between near-surface electronic properties and bulk electrical transport when evaluating monolayer-doped silicon.\n\nOverall, the work demonstrates plasma-assisted MMLD with small molecules as a promising, tunable approach to silicon doping while emphasizing the importance of combining surface-sensitive and electrical characterization techniques. Such control of near-surface doping is particularly relevant for nanoscale and emerging quantum-device applications.\n\nPol Torres‐Vila et al, Impact of Plasma Ashing on Mixed Monolayer Doping of Silicon, Small Methods (2026). DOI: 10.1002/smtd.70970\n\nJournal information: Small Methods\n\nProvided by Ecole Polytechnique Federale de Lausanne\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "洛桑联邦理工学院（EPFL）研究人员使用含磷分子烯丙基二苯基膦（ADP）和1-十一烯的混合单分子层对硅进行掺杂研究。",
+          "X射线光电子能谱（XPS）证实，分子接枝后采用O₂等离子体去胶处理可以在大幅保留表面磷的同时降低碳含量。",
+          "来源叙事重点：聚焦O₂等离子体处理如何在混合单分子层掺杂硅过程中去除残余碳、保留表面磷，以及不同SiO₂封端方式对近表面电子性质测量的影响。报道将该方法描述为可调控、具有纳米器件和潜在量子器件应用前景的硅掺杂方案，同时强调表面敏感表征与体材料电学测量可能得出不同结论。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:20:04.000Z",
+            "url": "https://phys.org/news/2026-09-plasma-treatment-reveal-molecular-coatings.html"
+          }
+        ]
+      },
+      {
+        "id": "story-soltsevy-2120858056-html-3d55328f0e5e06bb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Семья Усольцевых числится в базе розыска МВД без вести пропавшей",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-28T23:17:14.000Z",
+        "pubTime": "2026-09-29 07:17",
+        "url": "https://ria.ru/20260929/usoltsevy-2120858056.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/150141/01/1501410141_0:95:1887:1156_650x0_80_0_0_e54cc0b0559db2934db40f2192429a94.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 07:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/usoltsevy-2120858056.html",
+            "publishedAt": "2026-09-28T23:17:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--the-virtual-border-wall-032b0e2a6b1375f5",
+        "title": "圆桌研讨：虚拟边境墙的致命溃败",
+        "originalTitle": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:17:07.000Z",
+        "pubTime": "2026-09-29 06:17",
+        "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "imageUrl": null,
+        "fullContent": "Listen to the session or watch below\n\nThe US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically.\n\nOur findings reveal a humanitarian crisis more visible than previously known, and repeated failures of the virtual wall’s basic security promise. Watch a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands.\n\nSpeakers : Mat Honan , editor in chief, James O&#8217;Donnell , senior AI reporter, and Eileen Guo , senior features and investigations reporter\n\nRecorded on September 28, 2026\n\nThe US spent billions on border surveillance. Why can’t it catch people before they die?\n\nHow we made the first comprehensive map of deaths along the US border’s “virtual wall”\n\n4 ways to address the failures we found along the US border’s “virtual wall”",
+        "fullTranslation": "收听本场讨论或观看下方视频\n过去25年来，美国在其南部边境耗资数十亿美元建立了一道由监控塔组成的“虚拟墙”，并承诺这些监控设施将有助于发现并抓捕越境者，同时拯救生命。然而，《麻省理工科技评论》的一项突破性调查记录了超过一千人在穿过这些监控塔监视的区域时，既未被救援也未被拦截，最终命丧于此。其中一些人甚至是在新安装的AI监控塔的注视下死去的，而这些监控塔的设计初衷正是为了自动识别人员。\n我们的调查结果揭示了一场比以往所知更为显著的人道主义危机，以及这堵虚拟墙在兑现其基本安全承诺方面的屡次落空。观看这场对话，深入剖析边境监控技术的失效，并揭开那些命丧边境地带者背后的故事。\n演讲嘉宾：总编辑 Mat Honan、高级AI记者 James O'Donnell 以及高级特稿与调查记者 Eileen Guo\n录制于2026年9月28日\n美国在边境监控上耗资数十亿美元。为什么无法在他们丧命之前将其拦截？\n我们是如何绘制出美国边境“虚拟墙”沿线死亡事件首份全面分布图的\n解决我们在美国边境“虚拟墙”沿线发现的失败问题的4种方法",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美国政府过去约25年投入数十亿美元建设的边境监控塔，强调其“侦测、拦截并挽救生命”的安全承诺与实际结果之间的落差。报道以调查发现为核心叙事，称有逾千人经过监控塔覆盖区域却未被发现或救援，最终死亡，并特别指出部分个案发生在配备人工智能识别功能的新型监控塔监视范围内，由此将问题框定为边境监控技术反复失灵及由此加剧的可见人道危机。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T22:17:07.000Z",
+            "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+          }
+        ]
+      },
+      {
+        "id": "story-fuel-more-expensive-html-482c5a4afd6e2e2b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:00:00.000Z",
+        "pubTime": "2026-09-29 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html",
+        "imageUrl": null,
+        "fullContent": "Talk of a possible ban on U.S. exports of diesel fuel to curb soaring prices at the pump could end up pushing all fuel prices higher, cutting refinery runs as storage fills up, analysts have warned. The move could result in a glut of the fuel in the United States while the rest of the world struggles to secure supply. Retail diesel prices in the U.S. hit an all-time high of over $6.50 per gallon last week amid the global crunch that led to higher exports of the fuel, notably to Europe. In order to rein in prices for American drivers, legislators proposed a temporary ban on exports, and President Trump signaled he would get behind such a move. Not all agree it would be the right move, however. Energy Secretary Chris Wright warned it would lead to some unintended consequences last week, saying that \"The blunt tool of banning diesel exports definitely doesn't work. If you can't export the diesel that comes out of our refineries, you run out of places to store it, and you have to reduce US refining, which would put upward pressure on gasoline prices and jet fuel prices.\" Analysts concur. Wood Mackenzie said in a note last Thursday that a ban would quickly fill up storage space and force a sharp cut in refinery runs, which would \"ultimately increase the volume and cost of gasoline imports, potentially shifting the cost burden from diesel to gasoline at the pump.\" The consultancy has estimated that a 90-day ban on diesel exports would result in the redirection of some 700,000 barrels of the fuel and gasoil to storage, and this would fill available storage space to the maximum in a little more than a month. As a result, refiners would be forced to cut their run rates by some 2 million barrels daily, meaning gasoline production would also suffer a reduction. Then again, energy companies could boost exports of crude by the same amount. On the face of it, higher exports of crude could lead to lower prices in that energy commodity, if not its derivatives, but there is a problem with that scenario and that problem has to do with available refining capacity outside the United States. That capacity is limitedand it is all in China. Europe is especially short on refineries, hence its significantly higher fuel imports from the United States. \"The irony of a US diesel export ban is that it would likely increase costs for American consumers,\" Wood Mackenzie's senior VP for refining, chemicals, and oil markets, Commodities Research, said. \"Cutting crude runs to manage the oversupply would shift the cost burden from diesel to gasoline, meaning a policy designed to bring relief at the diesel pump could end up driving prices higher at the gasoline pump,\" Alan Gelder explained. He added that \"China is currently the only country with material spare refining capacity that could cover the loss of US refinery throughputs. However, China may well decide it is not in its interest to do this.\" The talk of a diesel export ban has meanwhile already served to pressure U.S. crude oil prices. West Texas Intermediate is trading at a discount of $12 to Brent crude, even as both benchmarks book gains following President Trump's rejection of Iran's plan for a peace deal, which the latter presented during last week's UN General Assembly session in New York. Normally, this would boost demand for U.S. crude barrels. But that limited refinery capacity in some key markets mentioned above is interfering with the natural course of things. On top of that, higher freight and insurance costs resulting from the war in the Middle East have compromised oil demand's relationship with the commodity's prices. Freight costs have surged due to the limited availability of tankers, and insurance costs have gone up because of war premiums for the Middle East. According to Signal Maritime data cited last week by Reuters' Ron Bousso, a VLCC journey from the Gulf Coast to Asia now costs around $50 million. This compares to $16 million before the United States-Israeli war with Iran began at the end of February. The combination of tight refining capacity outside the United States and higher freight and insurance costs has flipped the script on oil demand, even amid the current squeeze. Refiners in the United States produce 5.1 million barrels of diesel fuel daily. Exports run at 1.2 million barrels daily, according to JP Morgan data. Domestic consumption averages some 3.6 million barrels. Theoretically, there is enough diesel fuel both for the domestic market and for exports. However, the fact that both crude oil and diesel markets are global means price moves on that global market inevitably affect the domestic market as well. And it seems that a ban on diesel fuel exports, even for 90 days, would do more harm than good, notably to those whom it is supposed to help. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章的核心叙事是：美国柴油出口禁令可能造成国内库存快速满仓、炼厂降低开工率，并将价格压力从柴油转移至汽油和航空燃料；由于炼化产能、运费和保险成本具有全球约束，限制出口未必能降低美国消费者承担的燃料成本，反而可能加剧全球供应紧张。文章重点引用美国能源部长和Wood Mackenzie的警告，并以美国柴油产量、出口量和消费量数据支撑这一因果链。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html"
+          }
+        ]
+      },
+      {
+        "id": "story-litary-spending-by-27-to-7ac560d275d1049f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia raises 2027 military spending by 27% (to $202.58 billion), budget documents show",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T17:56:17.000Z",
+        "pubTime": "2026-09-29 01:56",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wslqge/russia_raises_2027_military_spending_by_27_to/",
+        "imageUrl": null,
+        "fullContent": "submitted by /u/sr_local [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-29 01:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wslqge/russia_raises_2027_military_spending_by_27_to/",
+            "publishedAt": "2026-09-28T17:56:17.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ule-tunnel-accurate-html-394ea97be23734fe",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Two-color glowing molecule could make wind tunnel tests more accurate",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:20:02.000Z",
+        "pubTime": "2026-09-29 07:20",
+        "url": "https://phys.org/news/2026-09-molecule-tunnel-accurate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-color-glowing-mole.jpg",
+        "fullContent": "by University of Manchester\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nMost sensors can measure only one thing at a time, like a thermometer for temperature or a pressure gauge for pressure. Measuring two properties accurately from the same surface at the same moment usually means using two separate instruments—adding cost and complexity to the process.\n\nNow, chemists and aerospace engineers at The University of Manchester, working with colleagues at the University of Eastern Finland, have designed a molecule that can do both simultaneously. It emits two distinct colors of light at once: one that responds to both air pressure and temperature, and one that responds only to temperature. By comparing these two signals, it's possible to get a corrected pressure reading from the molecule itself rather than using a separate temperature sensor alongside a pressure sensor.\n\nThe molecule has been designed as an active ingredient in specialized paints that measure pressure on aircraft models in wind tunnels, addressing a major challenge in the aerospace industry. When engineers test a new aircraft design in a wind tunnel, they need to know exactly how air pressure is distributed across every surface. One of the best ways to do this is with a pressure-sensitive paint that glows in proportion to the air pressure pushing against it.\n\nThe problem is that the light these paints emit is sensitive not only to pressure but also to temperature. As a scale model heats and cools during a wind tunnel test, the glow shifts in ways that have nothing to do with pressure, introducing errors that engineers then have to correct.\n\nDr. Alexander Romanov, senior research fellow in the Department of Chemistry at The University of Manchester, said, \"Our new Manchester material emits red light, what we call phosphorescence, which is sensitive to changes in both pressure and temperature. At the very same time, this material emits blue light as a fluorescence—responding only to temperature. By measuring blue and red light at once, we've got everything we need to separate the pressure signal from the temperature interference. That kind of built-in self-correction is simply not possible with a standard light-emitting molecule.\"\n\nThe team's work, published in the journal Advanced Optical Materials, explains how the molecule is built around a gold atom bonded to a ring-shaped compound called acridine. The position of that bond within the structure determines which type of light the molecule produces.\n\nGold was chosen because even subtle changes to where it sits within the molecule produce reliably different light-emitting behaviors, giving chemists precise control over the sensing properties. When the gold atom bonds to one position on the molecule, it triggers the pressure-sensitive red emission, whereas a bond at a different position triggers the temperature-only blue emission.\n\nCalculations carried out by the team's colleagues in Finland helped the researchers understand and predict these differences before the molecule was built in the laboratory. In use, the molecule is embedded in a paint applied to test models in the standard way. A camera captures both emission colors simultaneously, and the ratio between the two signals automatically corrects for temperature without a separate temperature sensor.\n\nDr. Mark Quinn, reader in the Department of Mechanical and Aerospace Engineering at The University of Manchester, said, \"In wind tunnel testing, temperature correction is currently one of the main challenges to making pressure-sensitive paints reliable. Having both pressure and temperature measurements come from the same molecule simultaneously is a more elegant solution, and potentially a more practical one for real test conditions, where adding extra instruments creates its own complications.\"\n\nThe team's work is part of a broader program of research at Manchester to improve pressure-sensitive paint for aerospace applications. A related study, recently published in ACS Applied Engineering Materials, addresses the temperature problem from a different direction by designing a platinum-based paint with inherently low temperature sensitivity. Together, the two studies represent complementary approaches to one of the industry's most persistent challenges.\n\nAlexander C. Brannan et al, Temperature Correction in a Single Luminophore Pressure‐Sensitive Paint Using a Dual‐Emitting Gold Acridine Complex, Advanced Optical Materials (2026). DOI: 10.1002/adom.71493\n\nJournal information: Advanced Optical Materials\n\nProvided by University of Manchester\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：突出一种双发光金-吖啶分子在风洞压力敏感涂料中的潜在应用：红光同时受压力和温度影响，蓝光仅受温度影响，通过两种信号的比值进行温度校正，从而减少对独立温度传感器的需求。报道同时将该成果置于曼彻斯特大学改进航空航天压力敏感涂料的研究计划中，并以“更简洁”“更实用”的技术路径塑造其应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:20:02.000Z",
+            "url": "https://phys.org/news/2026-09-molecule-tunnel-accurate.html"
+          }
+        ]
+      },
+      {
+        "id": "story-emergencies-2194243-eb5607bff6c0025b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Major fire broke out at gas pipeline in eastern Syria",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T23:15:20.000Z",
+        "pubTime": "2026-09-29 07:15",
+        "url": "https://tass.com/emergencies/2194243",
+        "imageUrl": null,
+        "fullContent": "TUNIS, September 29. /TASS/. A major fire broke out at a gas pipeline in Syria’s eastern Deir ez-Zor province, Syria TV reported.\n\nAccording to the channel, the fire erupted along a section of the pipeline near a community south of the city of Deir ez-Zor. The blaze is intense, with flames visible from a considerable distance.\n\nThere have been no reports of casualties. The cause of the fire, the extent of damage to the pipeline, and its possible impact on gas supplies have yet to be determined. Syrian authorities had not commented on the incident at the time of publication.\n\nThe Deir ez-Zor province is home to major Syrian oil and gas fields and energy infrastructure facilities. A significant portion of the region’s infrastructure was damaged during years of armed conflict. Syrian authorities have recently been working to restore a number of fields, pipelines, and other facilities.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "叙利亚东部代尔祖尔省一条天然气管道发生重大火灾。",
+          "火灾发生在代尔祖尔市以南一处社区附近的管道段，火势猛烈，从较远距离也能看到火焰。",
+          "来源叙事重点：聚焦叙利亚东部代尔祖尔省天然气管道发生的重大火灾、火势规模及暂未发现人员伤亡的情况，并将事件置于该地区油气资源丰富、能源基础设施曾因多年武装冲突受损以及当局正在推进设施恢复的背景下。报道未对事故原因、责任归属或政治含义作出判断。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T23:15:20.000Z",
+            "url": "https://tass.com/emergencies/2194243"
+          }
+        ]
+      },
+      {
+        "id": "story-ilable-on-amazon-bedrock-ca930995b2c3182c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Grok 4.7 is now available on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:13:16.000Z",
+        "pubTime": "2026-09-29 06:13",
+        "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21934-2.jpg",
+        "fullContent": "xAI’s Grok 4.7 is now available on Amazon Bedrock , adding a frontier model built for coding, long-running agents, and knowledge work to the Bedrock model catalog. It offers a 500K token context window and supports configurable reasoning effort at four levels: low , medium , high , and xhigh .\n\nGrok 4.7 is served on the bedrock-runtime endpoint through cross-Region inference profiles, and it supports the Responses, Chat Completions, and Converse APIs. According to xAI, it’s their most capable model for coding and knowledge work: it works longer on difficult tasks and verifies its own output more carefully before moving on.\n\nThis post covers what xAI says Grok 4.7 is designed for, how it is packaged on Amazon Bedrock, and how to send your first request.\n\nWhat Grok 4.7 is built for\n\nThe capability and training details in this section come from xAI’s launch announcement, Introducing Grok 4.7 , published September 21, 2026, and from the Grok 4.7 model documentation .\n\nxAI positions Grok 4.7 as its most capable model for coding and knowledge work. The theme is endurance rather than raw speed: the model works longer on difficult tasks and checks its own work more carefully before moving on.\n\nOn training, xAI reports that Grok 4.7 uses a new and larger base model. It was trained with a longer reinforcement learning run over a harder mix of tasks, deliberately weighted toward problems that take many hours to complete. Two capabilities came out of that: the model is better at verifying its own work, and makes more effective use of its 500K token context window on long tasks. xAI also trained it to natively understand the Grok Bot harness, which it credits for improvements in conversational tasks and general knowledge work.\n\nFor anyone building agents, the self-verification behavior is the detail worth noting. A model that checks its own output before continuing tends to fail less catastrophically on long trajectories, where an early mistake otherwise compounds through every later step.\n\nxAI also calls out stronger document and presentation generation, and describes gains on professional knowledge work of the kind done by lawyers, nurses, and financial analysts. xAI reports gains across its published evaluations. These span software engineering with CursorBench and DeepSWE, multi-hour terminal and office work with Terminal-Bench and AA Briefcase, electrical engineering with EEBench, legal work with the Harvey Legal Agent Benchmark, and clinical reasoning with HealthBench Professional. For the results themselves, see xAI’s announcement .\n\nIndependent evaluation\n\nArtificial Analysis runs its own evaluations rather than relying on developer-reported figures, which makes it a useful second reference alongside xAI’s published results.\n\nAccording to Artificial Analysis , Grok 4.7 improves across its evaluation suite. The largest gains are on long-horizon agentic knowledge work and on coding agents run in xAI’s own harness. The Intelligence Index is a composite built from multiple independent evaluations covering agentic tool use, reasoning and knowledge, knowledge reliability, and long-context work.\n\nMeasure (Artificial Analysis) Grok 4.7 Grok 4.6\n\nIntelligence Index 46 44\n\nCoding Agent Index 56 47\n\nAA-Briefcase, long-horizon knowledge work (Elo) 1,657 1,546\n\nGDPval-AA, professional work products (Elo) 1,695 1,605\n\nAA-Omniscience Index 32 30\n\nAA-Omniscience hallucination rate 29% 34%\n\nOutput tokens per Intelligence Index task ~81k ~38k\n\nGrok 4.7 is measured at xhigh reasoning effort, and Grok 4.6 at the effort level Artificial Analysis reported for each measure. The final row is the tradeoff to plan for: the gains come with roughly double the output tokens per task. That’s why it pays to set the effort level deliberately rather than inheriting the default.\n\nSafety and cyber security\n\nAccording to xAI, Grok 4.7 was built with an entirely new safeguard stack and is the strongest model it has tested on refusals and jailbreak resistance. xAI frames the goal in dual-use domains such as cyber security and biological work as holding two things at once: remaining useful for legitimate tasks while refusing dangerous ones.\n\nOn cyber security specifically, xAI reports the model allows only a small fraction of risky dual-use prompts through while rarely blocking legitimate security work. xAI has also begun giving selected cyber security partners invite-only access to Grok 4.7’s red-team capabilities for defense research.\n\nHow Grok 4.7 is packaged on Amazon Bedrock\n\nGrok 4.7 accepts text and image input and returns text. The model is served on the bedrock-runtime endpoint through cross-Region inference profiles, so requests name a profile rather than a bare model ID:\n\nInference option Model ID Base URL\n\nGeo cross-Region us.xai.grok-4.7 https://bedrock-runtime.{region}.amazonaws.com/openai/v1\n\nGlobal cross-Region global.xai.grok-4.7 https://bedrock-runtime.{region}.amazonaws.com/openai/v1\n\nGrok 4.7 supports the Responses API, the Chat Completions API, InvokeModel and the Converse API.\n\nBecause the model is OpenAI-compatible, you have a choice of client. The OpenAI SDK works against the /openai/v1 path with a bearer token, which can be either an Amazon Bedrock API key or a short-term token minted from your AWS Identity and Access Management (IAM) credentials. The AWS SDKs reach the same model through Converse, signing requests with your ordinary AWS credentials. Use the OpenAI SDK if you’re porting an existing integration. Use Converse if you want one message shape across the models in your account, along with invocation logging and response streaming through the standard Bedrock event types.\n\nUsing Grok 4.7 with Bedrock features\n\nImplicit prompt caching applies automatically to repeated prompt prefixes, so agents that resend a large system prompt or reference document on every turn pay the cached rate for that prefix. Amazon Bedrock Guardrails attach by ID and version on the request, applying content filters, denied topics, personally identifiable information (PII) redaction, and word policies to both the prompt and the response. This is useful for a model that might run unattended across many steps. With structured outputs, you can constrain a response to a JSON Schema so downstream code can parse it directly. Invocation logging captures each call in Amazon CloudWatch with the request, the response, and token counts including reasoning tokens. This gives you an audit trail for long agent runs.\n\nRegions and inference options\n\nGrok 4.7 routes through one of two cross-Region inference profiles rather than pinning to a single Region.\n\nThe Global profile, global.xai.grok-4.7 , routes each request to any supported commercial AWS Region, spreading load across more capacity, and is priced below a geographic profile. The tradeoff is less control over where a given request is served, which can mean more variable latency.\n\nThe US geographic profile, us.xai.grok-4.7 , keeps processing within the US geography, which addresses US data residency requirements. Choose it when you have residency constraints or latency-sensitive traffic, and Global when cost and throughput matter more.\n\nService tier and pricing\n\nStandard is pay-per-token with no commitment, selected by setting \"service_tier\": \"default\" or omitting the field. Priority delivers faster, prioritized processing for a premium ( \"service_tier\": \"priority\" ). Flex offers lower-cost access for work that isn’t time-sensitive ( \"service_tier\": \"flex\" ).\n\nService tier is a significant cost lever that you control. For per-token pricing across the tiers, see the Amazon Bedrock pricing page .\n\nSend your first request\n\nBefore your first call, confirm that the model is available to you in the Bedrock console for the AWS Region that you plan to use.\n\nInstall the OpenAI SDK, and boto3 if you plan to use the Converse API:\n\npip install openai pip install boto3\n\nGenerate a long-term Amazon Bedrock API key from the Amazon Bedrock console for exploration, then set your environment:\n\nexport OPENAI_API_KEY=\"<provide your Bedrock API key>\" export OPENAI_BASE_URL=\"https://bedrock-runtime.us-east-1.amazonaws.com/openai/v1\"\n\nA first request with the Chat Completions API:\n\nfrom openai import OpenAI\n\nresponse = client.chat.completions.create( model=\"us.xai.grok-4.7\", messages=[ {\"role\": \"user\", \"content\": \"Can you explain the features of Amazon Bedrock?\"} ], ) print(response.choices[0].message.content)\n\nThe same call through the Responses API:\n\nresponse = client.responses.create( model=\"us.xai.grok-4.7\", input=\"Can you explain the features of Amazon Bedrock?\", ) print(response.output_text)\n\nAnd through the Converse API with boto3 . Because reasoning is always active, the first content block carries the reasoning and the answer sits in a later block, so search the blocks for the text rather than indexing content[0] :\n\nclient = boto3.client(\"bedrock-runtime\", region_name=\"us-east-1\")\n\nresponse = client.converse( modelId=\"us.xai.grok-4.7\", messages=[ {\"role\": \"user\", \"content\": [{\"text\": \"Can you explain the features of Amazon Bedrock?\"}]} ], inferenceConfig={\"maxTokens\": 2048}, )\n\nblocks = response[\"output\"][\"message\"][\"content\"] text = next(b[\"text\"] for b in blocks if \"text\" in b) print(text)\n\nOn Converse, you set the effort level through additionalModelRequestFields rather than a reasoning parameter:\n\nresponse = client.converse( modelId=\"us.xai.grok-4.7\", messages=[{\"role\": \"user\", \"content\": [{\"text\": \"What is 17*23? Number only.\"}]}], inferenceConfig={\"maxTokens\": 3000}, additionalModelRequestFields={\"reasoning_effort\": \"xhigh\"}, )\n\nThree operational notes. First, requests must name us.xai.grok-4.7 or global.xai.grok-4.7 .\n\nSecond, bedrock:InvokeModel is evaluated against three resources: your account’s default project, the inference profile you name, and the underlying foundation model (FM). The foundation model Amazon Resource Name (ARN) is wildcarded across Regions because cross-Region profiles route outside the calling Region. Bearer-token authentication additionally requires bedrock:CallWithBearerToken , which boto3 and Converse don’t need:\n\n{ \"Version\": \"2012-10-17\", \"Statement\": [ { \"Effect\": \"Allow\", \"Action\": \"bedrock:InvokeModel\", \"Resource\": [ \"arn:aws:bedrock:{region}:{account-id}:project/default\", \"arn:aws:bedrock:{region}:{account-id}:inference-profile/us.xai.grok-4.7\", \"arn:aws:bedrock:*::foundation-model/xai.grok-4.7\" ] }, { \"Effect\": \"Allow\", \"Action\": \"bedrock:CallWithBearerToken\", \"Resource\": \"*\" } ] }\n\nList every inference profile you plan to call. Profiles are scoped individually, so a policy naming us.xai.grok-4.7 does not cover global.xai.grok-4.7 .\n\nThird, the two authentication mechanisms cover different code paths. An Amazon Bedrock API key in OPENAI_API_KEY travels as a bearer token and authenticates the OpenAI-compatible calls. The boto3 Converse examples sign with SigV4 instead, drawing on your ordinary AWS credentials from the environment, a profile, or a role. Configure both if you intend to use Converse alongside the OpenAI-compatible APIs.\n\nTreat a long-term API key as an exploration-only credential. For production, use short-term bearer tokens generated from your IAM credentials with the aws-bedrock-token-generator package, since they expire automatically and keep access tied to your IAM identity.\n\nWorking with reasoning effort\n\nReasoning is active on Grok 4.7, and effort level is a primary control you have over its cost and latency. You configure it through the reasoning parameter on the Responses API with low , medium , high , or xhigh , and through additionalModelRequestFields on Converse.\n\nThe default is high . That’s worth setting explicitly rather than inheriting, because leaving it unset on latency-sensitive or high-volume calls will spend more reasoning tokens than those calls need.\n\nBecause the model is trained to work longer and verify its own output, higher effort buys more than extra deliberation on a single answer: it buys more self-checking across a long task. Short extraction and classification calls belong at low . Multi-step planning, long agent trajectories, and work where an early error propagates are where high and xhigh earn their tokens.\n\nReasoning content is encrypted. You can have it returned by passing the following on a Responses API request. include: [\"reasoning.encrypted_content\"]\n\nThen send that content back on subsequent turns to give the model its own prior reasoning as context in a multi-turn conversation. The Chat Completions API doesn’t return reasoning tokens.\n\nfrom openai import OpenAI\n\nclient = OpenAI() # OPENAI_BASE_URL points at the bedrock-runtime endpoint\n\nresponse = client.responses.create( model=\"us.xai.grok-4.7\", reasoning={\"effort\": \"high\"}, include=[\"reasoning.encrypted_content\"], input=\"Explain quantum entanglement simply.\", ) print(response.output_text)\n\nTo find where additional reasoning stops paying for itself, benchmark the levels against your own workload.\n\nWith Grok 4.7 in Amazon Bedrock, you get a 500K token context window, four reasoning effort levels, image input, tool calling, and Geo and Global cross-Region routing. All of it is reachable through the Responses, Chat Completions, and Converse APIs.\n\nTo start building, review the Grok 4.7 model card for the current Region list, feature matrix, and parameter details, and check the Amazon Bedrock pricing page for token rates. If you generated a long-term Amazon Bedrock API key for exploration, delete it from the Amazon Bedrock console when you are finished. A standing credential you no longer need only widens your account’s attack surface.\n\nxAI, Introducing Grok 4.7\n\nArtificial Analysis, Benchmarking Grok 4.7\n\nxAI, Grok 4.7 model documentation\n\nAmazon Bedrock pricing\n\nSuheel is a Principal Solutions Architect at AWS, specializing in artificial intelligence, machine learning, and generative AI. He helps Foundation Model Provider customers design, build, modernize, and scale their AI/ML and generative AI workloads on AWS — from bringing foundation models to Amazon Bedrock to optimizing training and inference and building Agentic AI solutions. His experience spans the AWS AI/ML and generative AI portfolio, particularly Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker AI. In his free time, Suheel enjoys working out and hiking.\n\nWilliam is Principal Product Manager for Amazon Bedrock.\n\nIkenna is a Principal Solutions Architect at AWS specializing in networking, containers, and AI infrastructure. He guides model providers through scaling their training and inference systems while enabling rapid deployment of evolving frontier models on AWS. His work increasingly spans agentic AI – building reliable, cost-efficient multi-agent systems and the inference infrastructure behind them in production.\n\nAnirban is a Principal Engineer at AWS based in Seattle, USA, where he focuses on the design of secure, high-scale model-serving infrastructure for Amazon Bedrock. He has driven the technical work behind several foundation-model launches on the platform. Prior to joining Amazon Bedrock, he was a Principal Engineer on AWS Outposts, building hybrid on-premises cloud infrastructure.\n\nFabio is a Senior Customer Solutions Manager at Amazon Web Services (AWS) and strategic advisor guiding foundational model providers in their go-to-market journey. Prior to AWS, he held Product Management, Engineering, Consulting, and Technology Delivery roles across multiple Fortune 500 companies in industries, including retail and consumer goods, oil and gas, financial services, insurance, and aerospace and defense.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 84,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T22:13:16.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/"
+          }
+        ]
+      },
+      {
+        "id": "story-ile-for-probate-a39b1123-9f186126650ad633",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T22:45:00.000Z",
+        "pubTime": "2026-09-29 06:45",
+        "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The only debts were utility and credit-card bills, which we will pay off.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-29 06:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-28T22:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--serious-ai-product-html-306cb055dc065471",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What Would A Serious AI Product Look Like?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-28T17:01:01.000Z",
+        "pubTime": "2026-09-29 01:01",
+        "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "imageUrl": null,
+        "fullContent": "One of the issues that I have with the current generation of “AI” products is that they do not appear to take their own premises seriously. I look at a plethora of obsequious chatbots claiming to be serious tools for problem solving, and I think, this is not what a problem-solving tool would look like.\n\nEven before we get to the tremendous ethical problems with the frontier labs, it is this impression of their composition as a product that makes me feel, constantly, whenever I am interacting with them, that they are less a software product than that they are a grift, a scam designed to make me feel like I am interacting with a product that has capabilities that it simply does not, to try to lull me into a false sense of security that I can trust it.\n\nThe frontier labs are of course the worst offenders, but every criticism here applies just as much to Ollama, which (if anything, due to the obviously poorer quality of the available models themselves) needs these features even more than the frontier labs do.\n\nHere, I will set down a few features that might convince me that an LLM-based product, particularly one focused on research or software development, was actually serious about helping me do useful things with it.\n\nThis is the biggest issue, and the major reason that I was inspired to write this post.\n\nIt is a truth universally acknowledged, that AIs cannot reliably provide information.\n\nI could cite a ton of news articles and studies about this fact, but there is no need. Every single chatbot admits this, up front, in a fine-print disclaimer as a core part of their user interface. Gemini says “AI can make mistakes, so double-check responses”, Claude says “Claude is AI and can make mistakes. Please double-check responses.1” ChatGPT says “ChatGPT can make mistakes. Check important info.”.\n\nEvery time I see that last one, I wonder how I’m supposed to know what “info” is supposed to be “important”.\n\nAll of these warnings are all small, gray text, painfully obviously included as legalese to push responsibility back onto the user rather than to help with anything. This is a core limitation of all these products. Checking their output is a part of the workflow for using them that:\n\nA chatbot product that took this weakness seriously, as an actual consideration for using it, would put a checkbox next to every claim in its output. It would be a 2-column worksheet, where you’ve got the LLM output in the first column, and next to it, human notes in the second column, explaining what work went into checking this claim, and a big checkbox that you would only check off after you believe you’d checked its claims thoroughly enough.\n\nCoding assistants would need to have some version of this as well. Right now, this is pushed off into code review, which means it is a dark pattern which subtly encourages the “author”2 to offload this work to their code reviewer without ever looking. Once again, “it’s probably fine, I don’t need to check” is the quickest way to save time and churn out those PRs faster.\n\nIt might even be useful for coding harnesses to have some affordance for checking code before it even runs tests. As the vendors themselves have admitted, it’s not just expensive to burn tokens on your “AI”, you also end up burning far more compute on the AI. Being able to check your diffs before sending them over to uselessly exhaust your testing compute cluster would be useful.\n\nIf your product tells me that it makes mistakes and I must be the one to check for the mistakes, but then gives me zero tools to check for mistakes, I cannot take it seriously.\n\nMost chatbots prefer to give an answer, rather than a citation. In my own personal use, I find that when asked to provide a list of citations with clearly marked sources for each one, they will appear to “get bored” halfway through the list and simply stop including citations at some point.\n\nWhen the bots include citations at all, present them as inline annotations that say nothing but the domain name of the search result, in a font so small that it’s barely legible, and an equally indecipherable icon that is fewer than 16 pixels on a side.\n\nNow, I am aware that these citations do come from somewhere, and in an attempt to reduce hallucinations, all of the major providers support some form of “grounding”3, and that those little barely-readable citation links are referencing actual structures in the RAG pipeline and not just potentially-hallucinated tokens, but I’m not talking about the underlying machinery in the model, I’m talking about the presentation to the user.\n\nPlus, regardless of whether a snippet of text came from a RAG query, we know that LLMs can never provide an authoritative result; it’s a fundamental limitation of the technology. They can still garble the results of RAG as much as they can misrepresent any other training data. This means that it must never present its results as authoritative.\n\nIf you ask an AI to do research queries, every result should be presented as a list of citations. Moreover, the presentation should display each citation as a large object of in its own right, with clearly identified metadata, including not just the site where it was found but its publication date and, if possible, the name of the author. The literal, unmodified quotation (not from RAG, not a summary: a quotation extracted with a regular program and not an LLM) should be front-and-center, larger than any AI-generated text.\n\nIf the AI product wants to editorialize or summarize (which should not always be necessary!), the AI-generated text should be presented as small text underneath the citation that has been found, de-emphasized as much as the disclaimer is right now, at the very least until the user has verified that the summary is accurate. Perhaps, for a research project, a “did you read the citation” checkbox might even be helpful.\n\nIf your product openly tells me that it will scramble, misrepresent, or omit its citations in its summaries, and I must read the original human-authored citations to be sure, but then gives me no tools to track my reading of those citations or even any way to find them, I cannot take it seriously.\n\nThere is no reason for a software development or research tool to use first-person language to describe itself. They should not do so. In fact they should not be allowed to do so.\n\nThere is also no reason that they should ever apologize. It is a waste of everyone’s time; it’s a waste for the chatbot to generate the apology, it’s a waste for the user to read the apology, and it’s a waste for the user to respond to the apology. Yet they unfailingly do this upon every correction.\n\nThe vendors of these tools know that they are routinely causing mental-health crises. In response, they have added non-functional “guard rails” that can still, in 2026, easily be bypassed.4\n\nA product seriously interested in helping with productivity would correct this glaringly obvious flaw, focus on the task at hand, and stop emitting useless verbiage.\n\nIn the previous two sections, I tried to focus on ways in which the harness would be constructed differently even if the LLM technology is fundamentally impossible to improve; in this case, I have to assume that the labs have some control over the model itself. But unless they are truly incapable of influencing their output (and all their “benchmarks” and “capabilities” seem to indicate that they can control it very tightly) they ought to be building models that are much less verbose.\n\nAlthough natural language could hypothetically be a powerful interface for interacting with a computer system, the practical upshot of LLM natural language interfaces is that these interfaces are imprecise and repetitive, full of superstitions masquerading as “best practices”. The inputs are a mess and the resulting outputs are a mess.\n\nThe general way of addressing this unstructured mess is to allow the chatbot to directly take action in response to the user’s input; in other words to supply it with “tools” via an MCP server. But again, this is backwards. If we cannot even express our intent clearly in the first place, why are we trusting this system to take potentially destructive and harmful actions on our behalf?\n\nInstead, I would expect a product that was seriously invested in helping me accomplish specific tasks, to have user interfaces specific to those tasks. Is it supposed to be able to be a security scanner that can discover OWASP top 10 bugs in a codebase? Have a button for that. Build that functionality into your harness, train it directly into the model, use smaller models that can satisfy that functionality more effectively than throwing it at the planet-sized brain of Fable or whatever.\n\nI’m aware that there are small software startups that do something like this, but they are bolted on to the side of the main model providers’ APIs, not integrated into the core of the product and not using their own models and AI systems to achieve consistent and repeatable results.\n\nChatbots produce data tables pulled from websites, from APIs, from MCP tools or from summarizing and scrambling the user’s input. In order to provide the illusion of a seamless interface, this data is presented in-line regardless of where it comes from. But some of these outputs are produced mechanically via regular old API calls, for example, from the result of calling a tool or querying a website, but presented uniformly.\n\nBut there is a huge difference between an authoritative data source being inlined as part of a chatbot conversation, being treated as input by the chatbot, and some ad-hoc hallucinated data being treated as output of the chatbot.\n\nIf a product is trying to help me make accurate, empirically-grounded, data-driven decisions, the source of the data is critical.\n\nIntegrated into the “check for mistakes” and “verify citations” workflow I described above, there’s a necessary “verify data programmatically” pass as well; to have tools that will treat portions of the output as a regular spreadsheet, allowing regular-old computer arithmetic to verify things and showing where such arithmetic was used, and how.\n\nAnyone familiar with the technical specifics of LLMs will know that they have a variable called “temperature” which controls the degree of randomness that the LLM uses to produce its outputs. But most users don’t know this, because it isn’t exposed as part of the user interface by default.\n\nThis leads to a subjective impression that you asked ChatGPT, and you got ChatGPT’s authoritative answer.\n\nYou can’t just set the temperature to zero and still get useful results - I am aware that it does more than just scramble the output at random, and there are perhaps good reasons that simply exposing just a temperature setting would not be that useful to users. But if we followed some more of my earlier recommendations for making more structured UI elements to solve specific problems rather than having long back-and-forth chats where each refinement depends on the previous response, perhaps those elements could also re-play the process so that users can see how reliable the bot is at a particular task and develop a sense of how the stochastic nature of the process actually affects it.\n\nSimilarly, if a user is trying to solve the same problem repeatedly with a chatbot, and the chatbot product has numerous computational tools that don’t really have anything to do with the LLM, such as deterministic data-processing tools, then having a way to freeze the non-deterministic parts of the transcript but re-populate a particular data frame with updated information and fork / continue the conversation from there would be a way to avoid introducing pointless additional randomness when you already know what tool you’re trying to use.\n\nThe fact that every conversation is presented as this flat chat prompt that doesn’t let me interact with any of the widgets that were previously produced except through more chatting, really makes me feel like the whole product is just doing predatory social-media style “increase time on site” optimization, just trying to lure me into further repetitive and unreliable chats, rather than letting me get in, solve my problem, and get out.\n\nManaging the LLM context is the ongoing challenge facing organizations that are trying to use “agentic” workflows. Filling up the context with too much information causes well-known problems. In response, advanced LLM users attempting to solve larger problems must break up very long prompts into “skills”, give access to lengthy information via “tools”, and delegating sub-problems to “sub-agents” rather than simply extending a single prompt indefinitely.\n\nAll of these strategies have flaws, because even on the largest models, compared to the breadth and depth of knowledge-work problems, LLM contexts are quite small.\n\nAnd yet, none of these products will show the context to the user by default. There are third-party addons that can show you a simple progress bar but for addressing the premier engineering difficulty with this technology, that is below the bare minimum.\n\nThis lack of visibility means that almost all of the tools for extending the context are flying blind. Rather than responding meaningfully to a full context, everyone just kind of guesses how much state they need by guessing and trying over and over again with progressively more elaborate skill and sub-agent layouts. Even managing context compaction ends up being an advanced API-driven workflow5.\n\nA serious product that was trying to help the user understand would not only show “available context” but explain the impact of context compactions, make it easier to see harness-generated prompts, and so on. This would be a first-class feature, combined with the aforementioned reproducibility / replay tools, would allow users to do real experiments to develop an understanding about how to make good use of the context window.\n\nI’ve been focused on the chatbot interface here because it is the most immediately egregious upon looking at the UI. But the “agentic loop” tools used for coding are equally dangerous, if not more so. Coding tools keep destroying everyone’s data, over the course of years.\n\nThese catastrophic incidents that become front-page news are relatively rare compared to the amount of coding-agent use out there. But they also aren’t the only kind of sandbox violation. Coding models will so routinely edit test code instead of the system under test that there are “pro tips” articles all over the web giving you the flawed advice to simply ask the agent not to cheat. News write-ups of the catastrophic incidents themselves will also offer glib and wrong advice, like “use a docker container”. That might prevent it from literally deleting your operating system, but it won’t prevent it from destroying all the local work you have in your codebase (it needs access to a checkout, after all!)\n\nThere is a flurry of activity in the infosec space where people are rushing to plug the gaps left by these coding harnesses. Everyone’s got their own version of an MCP approval gateway where you can optionally place a proxy between your agent and your production infrastructure.\n\nIn the best case, though, all these mitigations and proxies and prompts simply turn the user into an auto-approval automaton, hitting Y, Y, Y, Y over and over again, until you finally are driven mad and hit “yes to all”, turn on full-auto mode and submit yourself to the void. With nothing between your personal vigilance and disaster, there are no workflows left beyond decrementing your own vigilance until there’s nothing left and then hoping the disaster never arrives.\n\nThe fact that some mitigations exist that can be deployed by extra-cautious users does not change the fact that “agentic coding” is an unsafe-by-default technology deployed without concern or guidance. Every frontier lab has tied a spring-loaded shotgun to a dog; the fact that dog owners can publish thoughtful blog posts explaining how you can teach your dog the basics of gun safety or how you can have your dogs play in a bullet-proof room does not mitigate the fact that the product should not have been allowed in the first place, nor should it continue to exist without VERY strong security controls.\n\nI might believe that a frontier lab were seriously interested in providing developers with a useful tool if they shipped something that had safety built-in.\n\nThat means tools in the harness, detached from any LLM, independent of the prompt, that could:\n\nIn the same way that I suggested above that research-based tasks should have a way of re-issuing prompts to determine how reproducible a result is, or whether other sources might be found, agent-based tasks should have a way of being executed against mock services for popular APIs, so that the verification can match both on the front-end (review the plan for making the API calls before they’re executed) and the back end (review the API calls that were issued to the mock service and verify that they matched).\n\nInstead, the frontier labs provide us products that are disasters out of the box, give us “best practices” to build massive and elaborate, as well as incomplete and error-prone, security perimeters of our own design. Then they blame “operator error” when it inevitably goes wrong. I cannot believe that these design choices are intended to help us be productive.\n\nOrganizations deploying AI also frequently come across as unserious, for similar reasons. In 2023, naive exuberance could perhaps be forgiven. But today, as we near the close of 2026, there are several well-known problems, that have been extremely well-covered in the press. None of these things should be surprising, but most orgs deploying these tools are still just letting them rip and hoping it all works out.\n\nOrganizations deploying these tools would need at least three kinds of major modifications to their internal processes, if they wanted to be seri",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 54,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-28T17:01:01.000Z",
+            "url": "https://blog.glyph.im/2026/09/serious-ai-product.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790618287724,
     "timeDisplay": "2026-09-29 01:58 (UTC+8)",
     "date": "2026-09-29",
