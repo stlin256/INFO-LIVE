@@ -1,5 +1,1565 @@
 [
   {
+    "timestamp": 1790723502295,
+    "timeDisplay": "2026-09-30 07:11 (UTC+8)",
+    "date": "2026-09-30",
+    "runId": "feed-20260929T230145686Z-5kk8oh",
+    "generatedAt": "2026-09-29T23:11:42.295Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 07:01",
+      "lead": "本轮抓取于 2026-09-30 07:01 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】特朗普签署行政令，要求美国政府将AI改称为“超级智能”：该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。",
+        "【undefined】减重药界“哥斯拉”或带来其他重要健康益处：尽管尚未获得任何监管机构的批准，瑞他鲁肽（retatrutide）仍可能有助于改善血糖水平并减轻炎症。",
+        "【undefined】以色列防长威胁：哈马斯海外领导人也在打击之列：中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。",
+        "【undefined】互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布：周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。",
+        "【undefined】两种 SQL 查询构造器：SQL 语言有着耐人寻味的命运。尽管它最初是为了迎合人类用户而精心设计的，但如今绝大多数 SQL 代码却是由计算机编写——或者更确切地说是生成的。许多计算机程序都需要查询某种数据库，而对绝大多数数据库服务器而言，唯一支持的查询语言就是 SQL。然而，由于其类英语语法（其原名 SEQUEL 代表结构化英语查询语言）规则复杂且晦涩，生成 SQL 代码十分困难。正因如此，与数据库交互的程序通常会使用专门的库来生成 SQL 查询。",
+        "【undefined】你的汽车及其移动应用可能正向科技公司交出各种数据：配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。",
+        "【undefined】Shell 与电子邮件：当同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程就是一个会话，而且支持群组对话。",
+        "【undefined】从一国党到化石燃料：领导层决战在即，亚当·班特与鲍勃·布朗阐述绿党愿景：亚当·班特（Adam Bandt）表示新任党魁没有任何借口，而鲍勃·布朗（Bob Brown）则警告称，他们还必须有能力迎战波琳·韩森（Pauline Hanson）及一国党（One Nation）。 关注我们的澳大利亚新闻实时博客以获取最新动态。 获取我们的突发新闻邮件、免费应用或每日新闻播客。 绿党前党魁亚当·班特表示，最早可能于周三选出的该党新领导团队将面临越来越大的压力，必须“不惜一切代价”阻止阿尔巴尼斯政府批准任何新的煤炭和天"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-30",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】特朗普签署行政令，要求美国政府将AI改称为“超级智能”：该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。；【undefined】互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布：周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。；【undefined】你的汽车及其移动应用可能正向科技公司交出各种数据：配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】减重药界“哥斯拉”或带来其他重要健康益处：尽管尚未获得任何监管机构的批准，瑞他鲁肽（retatrutide）仍可能有助于改善血糖水平并减轻炎症。；【undefined】两种 SQL 查询构造器：SQL 语言有着耐人寻味的命运。尽管它最初是为了迎合人类用户而精心设计的，但如今绝大多数 SQL 代码却是由计算机编写——或者更确切地说是生成的。许多计算机程序都需要查询某种数据库，而对绝大多数数据库服务器而言，唯一支持的查询语言就是 SQL。然而，由于其类英语语法（其原名 SEQUEL 代表结构化英语查询语言）规则复杂且晦涩，生成 SQL 代码十分困难。正因如此，与数据库交互的程序通常会使用专门的库来生成 SQL 查询。；【undefined】Shell 与电子邮件：当同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程就是一个会话，而且支持群组对话。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】以色列防长威胁：哈马斯海外领导人也在打击之列：中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。；【undefined】美国计划通过“互换”释放4000万桶战略石油储备：中新网9月30日电 综合外媒报道，当地时间29日，美国能源部战略石油储备项目管理办公室发布邀约公告，计划以“互换”方式向市场释放4000万桶原油。；【undefined】MLB将季后赛比赛全部放到流媒体服务上，着实太过分了：今年，MLB季后赛的多场比赛将首次不再通过电视播出。"
+        },
+        {
+          "name": "⚡ 战略能源与气候",
+          "analysis": "【undefined】美国馏分油库存持续下降，原油库存增加：美国石油学会（API）估计，截至9月25日当周，美国原油库存增加了101.9万桶。分析师原本预计库存将减少190万桶。此前一周，美国原油库存增加了178.6万桶。根据API数据，过去24周，不包括战略石油储备（SPR）的商业原油库存减少了3800万桶，但今年以来美国原油库存增加了近1300万桶，这一增幅在一定程度上受到SPR库存下降的抑制。截至9月25日当周，SPR又有80万桶原油流出，以补充商业库存，使SPR目前持有的库存总量降至2."
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 83,
+      "completedTasks": 83,
+      "succeeded": 48,
+      "degraded": 35,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 83,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 596558,
+      "byRole": {
+        "translator": {
+          "attempts": 49,
+          "succeeded": 28,
+          "degraded": 21
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "degraded": 8,
+          "succeeded": 2
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 6,
+          "degraded": 4
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 83,
+          "succeeded": 48,
+          "degraded": 35
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-25-translator-0",
+      "article-27-translator-0",
+      "article-30-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-42-translator-0",
+      "article-0-fact-extractor",
+      "article-1-source-positioner",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-7-source-positioner",
+      "article-8-fact-extractor",
+      "article-9-fact-extractor",
+      "article-9-source-positioner",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:28.265Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.729Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:28.461Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.448Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.837Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.976Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.876Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.096Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.143Z",
+        "lastSuccessAt": "2026-09-29T23:01:32.653Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.046Z",
+        "lastSuccessAt": "2026-09-29T23:01:32.487Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:32.754Z",
+        "lastSuccessAt": "2026-09-29T23:01:33.374Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.106Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.557Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.063Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.234Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.047Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.175Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.618Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.118Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.557Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.936Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.364Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.837Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.448Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.775Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:32.487Z",
+        "lastSuccessAt": "2026-09-29T23:01:33.255Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.533Z",
+        "lastSuccessAt": "2026-09-29T23:01:33.520Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:32.380Z",
+        "lastSuccessAt": "2026-09-29T23:01:32.754Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.118Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.476Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.775Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.876Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.729Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.895Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.088Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.106Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:27.237Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.088Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.440Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.512Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.322Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.533Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.175Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.262Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.370Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.554Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.574Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.899Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.096Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.158Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:32.653Z",
+        "lastSuccessAt": "2026-09-29T23:01:34.855Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.476Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.574Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.899Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.046Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.578Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.006Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.006Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.300Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:32.750Z",
+        "lastSuccessAt": "2026-09-29T23:01:33.229Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.895Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.063Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.158Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.578Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.290Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.440Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.979Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.143Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-29T23:01:30.566Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.554Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.979Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:27.235Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.200Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.683Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.303Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:27.236Z",
+        "lastSuccessAt": "2026-09-29T23:01:31.397Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.300Z",
+        "lastSuccessAt": "2026-09-29T23:01:33.379Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.262Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.370Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.200Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.364Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.512Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.566Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:30.234Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.322Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.303Z",
+        "lastSuccessAt": "2026-09-29T23:01:32.380Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:31.397Z",
+        "lastSuccessAt": "2026-09-29T23:01:32.750Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.976Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.290Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:29.936Z",
+        "lastSuccessAt": "2026-09-29T23:01:30.047Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:27.220Z",
+        "lastSuccessAt": "2026-09-29T23:01:28.265Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:27.233Z",
+        "lastSuccessAt": "2026-09-29T23:01:28.461Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T23:01:27.234Z",
+        "lastSuccessAt": "2026-09-29T23:01:29.618Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-0-oklady-2121092869-html-f824babd1c244d74",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Оклады военных проиндексируют с 1 октября на 4 процента",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T22:59:49.000Z",
+        "pubTime": "2026-09-30 06:59",
+        "url": "https://ria.ru/20260930/oklady-2121092869.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/07/12/1884947256_0:158:3077:1889_650x0_80_0_0_33324f4ded1e64c4871778dd240ac71b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 06:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/oklady-2121092869.html",
+            "publishedAt": "2026-09-29T22:59:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-gence-executive-order-ai-1f2684ece82a4b59",
+        "title": "特朗普签署行政令，要求美国政府将AI改称为“超级智能”",
+        "originalTitle": "Trump orders US government to call AI ‘Super Intelligence’",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:25:45.000Z",
+        "pubTime": "2026-09-30 06:25",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\n“The word super is the best word of all,” Trump says.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Lauren Feiner\n\nThe US executive branch is no longer acknowledging the existence of “artificial intelligence.” Going forward, official policy websites, policy documents, and press releases will refer only to “Super Intelligence,” thanks to a new executive order signed by President Donald Trump.\n\n“The word super is the best word of all, and it’s the simplest,” Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, “loves it,” too. “We don’t want to hear artificial. Because it’s not artificial. It’s very powerful, it’s very brilliant. It’s going to mostly be put to good use and we’ll stop the bad use.” Artificial, he added, “is like the news. Fake news.” He first mentioned plans for the rebrand in a speech to the United Nations General Assembly last week, aiming to quell fears over AI advancing too quickly and posing a safety risk.\n\n“It’s going to mostly be put to good use and we’ll stop the bad use”\n\nExecutive agencies won’t have to change past regulations or documents, but it could still constitute a real (and very strange) shift. Superintelligence is one of several industry terms for particularly powerful versions of artificial intelligence, but the Trump administration is seeking to use the term as a replacement for a broader statutory definition of AI. US officials will be expected not to even acknowledge the use of the terms “artificial intelligence” or “AI” in relevant settings.\n\nTrump signed the executive order after a luncheon he hosted at the White House with tech CEOs and government officials to discuss what he’s now officially calling Super Intelligence. In brief public remarks after the meeting, flanked by Nvidia CEO Jensen Huang and Tesla and SpaceX CEO Elon Musk, and surrounded by other attendees, Trump called the lunch “very productive,” and “extremely friendly.”\n\n“There’s a belief that there should be tremendous self-regulation,” Trump said. “And we automatically have regulation with the Department of Justice, the FBI, all of that.” On the local level, where tech companies have faced the most hurdles in building out massive data centers needed to run their services, Trump says the firms will “work to make the community happy” by providing resources and economic support they may need. Ultimately, he says, “data centers are going to be very popular.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。\n\n“‘超级’这个词是最好的词，”特朗普说道。\n\n该作者的文章将添加到您的每日电子邮件文摘和主页推送中。\n\n查看劳伦·费纳（Lauren Feiner）的全部文章\n\n美国行政部门将不再承认“人工智能”（artificial intelligence）的存在。由于唐纳德·特朗普总统签署的一项新行政命令，今后官方政策网站、政策文件和新闻稿将统统改称为“超级智能”（Super Intelligence）。\n\n“‘超级’这个词是最好的词，也是最简练的，”特朗普周二早些时候在宣布推出 America.gov 的活动上表示，并称上周访问白宫的中国国家主席习近平也“很喜欢”这个词。“我们不想听到‘人工’（artificial）这个词。因为它不是人工的。它非常强大，非常聪明。它主要会被用于善途，而我们会制止不良用途。”他补充道，“人工”（Artificial）“就像新闻一样。假新闻。”他上周在联合国大会发表演讲时首次提到了这一更名计划，旨在平息人们对人工智能发展过快并构成安全风险的担忧。\n\n“它主要会被用于善途，而我们会制止不良用途”\n\n各行政机构无需修改过去的法规或文件，但这仍可能构成一种实实在在的（而且非常离奇的）转变。“超级智能”（Superintelligence）本是行业内用来指代特别强大的人工智能版本的若干术语之一，但特朗普政府正试图用该词取代法定层面上更宽泛的 AI 定义。在相关场合，美国官员预计甚至不得承认或使用“人工智能”或“AI”这些术语。\n\n特朗普在白宫主持了一场与科技公司首席执行官及政府官员的午餐会，讨论他现在正式称之为“超级智能”的议题，随后签署了这项行政命令。在会后发表简短公开讲话时，特朗普身旁站着英伟达首席执行官黄仁勋（Jensen Huang）以及特斯拉与 SpaceX 首席执行官埃隆·马斯克（Elon Musk），在其他与会者的簇拥下，特朗普称这次午餐会“非常富有成效”且“极其友好”。\n\n“有一种观点认为应该进行大力度的自我监管，”特朗普说，“而且我们自然也有司法部、联邦调查局等机构的监管。”在地方层面，科技公司在建设运行其服务所需的大型数据中心时面临着重重阻力，特朗普表示，这些企业将通过提供社区可能需要的资源和经济支持，“努力让社区满意”。他表示，归根结底，“数据中心将会非常受欢迎”。\n\n免费获取每日重要新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "来源叙事重点：将事件呈现为美国政府对人工智能官方称谓和政策语言的重大且反常的重命名，重点突出“Super Intelligence”取代“artificial intelligence/AI”可能带来的法律、政策和治理影响，同时关注特朗普政府对行业自律、数据中心建设及地方社区协调的表态。文章带有明显的讽刺和质疑色彩，但这些属于报道框架，不等同于已证实事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:25:45.000Z",
+            "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+          }
+        ]
+      },
+      {
+        "id": "story-rives-prices-higher-html-6193bd68a14799ef",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T23:00:00.000Z",
+        "pubTime": "2026-09-30 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html",
+        "imageUrl": null,
+        "fullContent": "European natural gas prices have soared dramatically since the war in Iran trapped a fifth of the world's liquefied natural gas supply behind the Strait of Hormuz. The high prices are creating a headache for governments amid soaring energy bills for households and spiking energy costs for industry. The surge in natural gas, gasoline, and diesel prices in recent months is clearly fueling inflation. The European Central Bank ECB has raised key interest rates twice since June, with potential for further increases although the ECB's Governing Council said earlier this month that it \"is not pre-committing to a particular rate path\" amid a highly uncertain outlook. Middle East's LNG Crunch All these uncertainties are the result of the lack of Qatari LNG cargoes on the market because they cannot move through the Strait of Hormuz as easily as oil shipments. Since early March, European gas prices have reflected the tight global gas market, with most of Qatar's LNG supply still offline and no clarity on when some semblance of normal shipping of LNG cargoes would return at the Strait of Hormuz. Some Qatari and UAE cargoes have managed to transit the Strait of Hormuz in recent weeks, but volumes are too low to move the needle of the global LNG balance. Even as crude oil cargoes have been pushing through the Strait with millions of barrels per day every day, LNG cargoes have struggled to transit the chokepoint as the gas is trickier to reload in ship-to-ship STS transfers than oil. The choked LNG flows from the Middle East in the past six months sent September gas prices in Asia and Europe to the highest since the 2022-2023 energy crisis, as buyers are competing for available supply that doesn't need to move through the Strait of Hormuz. As a result of choked supply, rallying prices, and a futures curve in backwardation that discourages storing gas, European gas storage levels are at a historical low. As of September 28, gas storage sites in the EU were 71% full per data by Gas Infrastructure Europe, compared to 86% for this time of year in the past five years. Some major economies, including the biggest, Germany, have even lower-than-average gas stored so far this filling season. Germany storage sites, for example, are only about 57% full, which has prompted concerns about supply security if the coming winter turns out much colder than previous winters. Europe's Gas Supply Security This week, QatarEnergy extended the force majeure on LNG deliveries through November. For Italian buyer Edison, the force majeure period runs through early December. As many as 35 cargoes under its long-term deal with Qatar haven't reached Italy so far this year, Edison said on Monday. The Italian energy and gas supplier reaffirmed \"its ability to source alternative gas for all its customers and to fully honor its past and future commercial commitments.\" VGN, one of Germany's biggest gas importers, also assured this week that Germany doesn't face a gas supply shortage despite record-low levels of natural gas in storage sites. \"Compared to 2022, the system is much more robust overall. We have more access to liquefied natural gas LNG and we have broadened our overall position in terms of sources of supply,\" VNG's chief executive officer Ulf Heitmueller told Reuters in an interview published on Monday. Diversification helps Europe source supply, but the Hormuz crisis has made that supply much more expensive than before the Iran war. As a result, Europe is paying a hefty price for securing prompt LNG supply. One silver lining is that the price premium to ship U.S. cargoes to East Asia has crumbled in recent weeks, effectively shutting the U.S. Gulf Coast-Asia arbitrage and shifting cargoes toward Europe. Asia was winning the competition early in the spring and summer, but with the closed Atlantic-Pacific arbitrage through the rest of the year, Europe is now importing more prompt LNG supply, but at a high cost. Policymakers and authorities say that Europe doesn't face immediate gas shortages, but warn that until the Hormuz crisis lasts, prices are set to remain much higher than in the past two years. \"Despite lower storage levels compared to historical levels, the Commission and EU countries reconfirmed that EU gas supply remains stable,\" the European Commission said last week following a meeting of the Gas Coordination Group, which advises the Commission on coordinating security-of-supply measures in the event of an EU or regional emergency. But ECB economists have warned that the surge in wholesale natural gas prices is set to pass through to retail and electricity inflation in the Eurozone faster than in the past. The European Energy Commissioner, Dan Jrgensen, has urged EU governments to consider measures to curb energy and gas demand as the gas supply situation hasn't improved since the start of the war in Iran. \"I invite you to consider taking or continuing to take measures that can sustain injections or reduce gas and electricity demand for as long as necessary,\" Jrgensen wrote in a recent letter to EU governments seen by Euronews. Even if Europe manages to squeak through the winter without major gas supply scares, the gas price surge will hit energy bills and industry energy costs again. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "伊朗战争导致全球五分之一的液化天然气（LNG）供应受困于霍尔木兹海峡之后，欧洲天然气价格大幅飙升。",
+          "自6月以来，欧洲中央银行（ECB）已两次上调关键利率。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html"
+          }
+        ]
+      },
+      {
+        "id": "story-gs-other-health-benefits-7ab20c443039ee9c",
+        "title": "减重药界“哥斯拉”或带来其他重要健康益处",
+        "originalTitle": "‘Godzilla’ of weight-loss drugs could provide other important health benefits",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:01:02.000Z",
+        "pubTime": "2026-09-30 06:01",
+        "url": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+        "imageUrl": "https://i.guim.co.uk/img/media/ec126c1ea0e0e77d16f37276000f3ee97eae5125/371_0_1729_1383/master/1729.jpg?width=140&quality=85&auto=format&fit=max&s=9a71528edb4fc217831131637562e539",
+        "fullContent": "Though not yet approved by any regulatory agency, retatrutide could help improve blood sugar levels and reduce inflammation\n\nThe ‘Godzilla’ of weight-loss drugs could help improve blood sugar levels, reduce inflammation and cut a person’s body weight by a quarter, according to the largest study of its kind.\n\nRetatrutide mimics three key gut hormones that help control appetite, blood sugar and metabolism: GLP-1, GIP and glucagon. Unlike other drugs such as Wegovy, which primarily targets the GLP-1 pathway to suppress appetite, or Mounjaro, which contains GLP-1 plus GIP to control blood sugar levels, retatrutide also engages the glucagon receptor, which helps increase energy expenditure.",
+        "fullTranslation": "尽管尚未获得任何监管机构的批准，瑞他鲁肽（retatrutide）仍可能有助于改善血糖水平并减轻炎症。\n\n同类研究中规模最大的一项研究表明，这款减重药界的“哥斯拉”可能有助于改善血糖水平、减轻炎症，并使人的体重减少四分之一。\n\n瑞他鲁肽模拟了三种有助于控制食欲、血糖和新陈代谢的关键肠道激素：GLP-1、GIP和胰高血糖素（glucagon）。与主要通过针对GLP-1通路来抑制食欲的Wegovy，或结合GLP-1与GIP以控制血糖水平的Mounjaro等其他药物不同，瑞他鲁肽还能激活胰高血糖素受体，从而有助于增加能量消耗。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "文章称，retatrutide尚未获得任何监管机构批准。",
+          "文章称，retatrutide可能改善血糖水平、减少炎症，并使人的体重减少四分之一。",
+          "来源叙事重点：突出retatrutide相较于Wegovy和Mounjaro可能具有更广泛或更强的代谢作用，重点强调其对体重、血糖和炎症的潜在改善，以及同时模拟GLP-1、GIP和胰高血糖素三条通路的机制。文章同时提到该药尚未获任何监管机构批准，但未展开说明研究设计、风险收益或审批进展。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:01:02.000Z",
+            "url": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits"
+          }
+        ]
+      },
+      {
+        "id": "story--young-isaac-newton-html-aee347e215d4bbe9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Revisiting a Young Isaac Newton",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T23:00:01.000Z",
+        "pubTime": "2026-09-30 07:00",
+        "url": "https://phys.org/news/2026-09-revisiting-young-isaac-newton.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/revisiting-a-young-isa.jpg",
+        "fullContent": "Isaac Newton is typically portrayed as a solitary scientist with intense focus who was obsessed with power and deeply egotistical. But a new book by Caltech historians Jed Buchwald and Mordechai Feingold takes a deeper look at Newton's life in the two decades leading up to the 1687 publication of his groundbreaking text, Principia Mathematica, when he was 44. Using newly digitized scans of Newton's early writings, Buchwald and Feingold uncover a portrait of the young polymath as a curious and so",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-revisiting-young-isaac-newton.html",
+            "publishedAt": "2026-09-29T23:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-30-10705954-shtml-f62aa703434a1fe1",
+        "title": "以色列防长威胁：哈马斯海外领导人也在打击之列",
+        "originalTitle": "以色列防长威胁：哈马斯海外领导人也在打击之列",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-29T22:56:43.000Z",
+        "pubTime": "2026-09-30 06:56",
+        "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml",
+        "imageUrl": null,
+        "fullContent": "中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。\n\n据报道，卡茨在一段视频声明中称，作为系列行动的一部分，以色列国防军连夜打死了哈马斯军事分支北加沙旅指挥官。\n\n卡茨还指出，身处海外的哈马斯领导人同样也是打击目标。那些参与2023年10月7日袭击以色列的“核心角色”，一个也不能“安然死去”。\n\n据此前报道，近段时间，以方加大对加沙地带巴勒斯坦武装人员打击力度。以总理内塔尼亚胡称，最近几周，以军在加沙地带打死百余名“恐怖分子”。\n\n以色列国防军和以色列国家安全总局(辛贝特)29日发表联合声明称，以方28日夜间至29日凌晨在加沙地带北部采取行动，打死哈马斯军事分支北加沙旅指挥官伊兹丁·比克。声明称，比克曾担任北加沙旅军事情报负责人，在该旅前任指挥官被打死后接任。\n\n农村随礼不超100元、县城不超200元，多地给份子钱“限高”\n\n鞋不对为何会丢金？亚运会“冷门”规则盘点\n\n余俊武：新时代的“侨批”如何推动中外文明交流互鉴？\n\n短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力\n\n世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n（爱知·名古屋亚运会）中国队摘田径4X100米混合接力金牌\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。\n\n据报道，卡茨在一段视频声明中称，作为系列行动的一部分，以色列国防军连夜打死了哈马斯军事分支北加沙旅指挥官。\n\n卡茨还指出，身处海外的哈马斯领导人同样也是打击目标。那些参与2023年10月7日袭击以色列的“核心角色”，一个也不能“安然死去”。\n\n据此前报道，近段时间，以方加大对加沙地带巴勒斯坦武装人员打击力度。以总理内塔尼亚胡称，最近几周，以军在加沙地带打死百余名“恐怖分子”。\n\n以色列国防军和以色列国家安全总局(辛贝特)29日发表联合声明称，以方28日夜间至29日凌晨在加沙地带北部采取行动，打死哈马斯军事分支北加沙旅指挥官伊兹丁·比克。声明称，比克曾担任北加沙旅军事情报负责人，在该旅前任指挥官被打死后接任。\n\n农村随礼不超100元、县城不超200元，多地给份子钱“限高”\n\n鞋不对为何会丢金？亚运会“冷门”规则盘点\n\n余俊武：新时代的“侨批”如何推动中外文明交流互鉴？\n\n短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力\n\n世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n（爱知·名古屋亚运会）中国队摘田径4X100米混合接力金牌\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦以色列国防部长卡茨扩大打击对象范围的表态，以及以军和辛贝特宣称在加沙北部打死哈马斯北加沙旅指挥官一事。叙事主要呈现以色列方面关于追责、军事行动和反恐目标的说法，并以“威胁”“打击目标”等表述突出行动的延伸性。"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-29T22:56:43.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-lled-openais-dots-launch-c7d7b794f0ae36ef",
+        "title": "互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布",
+        "originalTitle": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:20:59.000Z",
+        "pubTime": "2026-09-30 06:20",
+        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "imageUrl": null,
+        "fullContent": "On Tuesday, OpenAI launched a new product called Dots, an always-on AI agent with a bubbly, blobby avatar. While the colorful avatar might evoke a smile, the biggest laugh from the launch is (we imagine) being had by Elon Musk, the former OpenAI founder who left, launched competitor Grok, and unsuccessfully sued.\n\nThat’s because the domain “dot.com” belongs to Musk’s xAI, and it currently redirects to the download page for xAI’s Grok chatbot app. According to the Whois domain owner registry, that domain name was just transferred in July.\n\nIt is entirely possible that xAI bought the domain for normal domain-buying reasons. “Dot” could be a typo of “bot,” so it nabbed it to grab mistyped searches. We’ve reached out to xAI and asked. But xAI doesn’t own the “bot.com” name, nor does it own other obvious typo domains like “vot.com,” which is listed for sale.\n\nThe internet’s theory is far funnier: that Musk (or his team) pulled off a prank, getting wind of OpenAI’s new product and its name and buying the domain name.\n\nIn fact, anonymous X user and xAI watcher @birdabo (this person calls themselves “chief shitposting officer @SpaceXAI“) was first to spot the domain name in a now-viral post. Whatever the motivation, the circumstance is funny.\n\nAnd as for the “dots.com” domain, a more direct fit to the product name, it currently belongs to a long-defunct company. So if a petty revenge prank was really the motivation, grabbing that name, too, would be next level.\n\nAHAHAHAHAHAHAHAHAHAHAHA NO WAY. > OpenAI just announced Dots.> SpaceXAI bought https://t.co/WdFqpl07IQit redirects straight to the Grok Bot download page. based lmao. pic.twitter.com/HF95hLF0T9\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。\n\n这是因为域名“dot.com”归马斯克的 xAI 所有，且目前会自动重定向到 xAI 旗下 Grok 聊天机器人应用的下载页面。根据 Whois 域名所有者注册数据库的记录，该域名刚刚在今年 7 月完成转让。\n\n当然，xAI 完全有可能是出于常规的域名收购考量买下了该域名。“Dot”可能是“bot”的拼写错误，因此买下它是为了拦截打错字的用户搜索流量。我们已联系 xAI 询问此事。不过，xAI 并不拥有“bot.com”这个域名，也没有拥有其他显而易见的拼写错误域名，例如目前仍在挂牌出售的“vot.com”。\n\n网民们的推测则要有趣得多：马斯克（或其团队）搞了一场恶作剧——他们提前收到了 OpenAI 新产品及其名称的风声，从而抢先买下了该域名。\n\n事实上，一位匿名的 X 用户兼 xAI 观察员 @birdabo（此人自称是“@SpaceXAI 的首席恶搞官”）最先在一篇疯传的帖子中注意到了这个域名。无论其真正动机如何，这一情况确实颇具喜感。\n\n至于更直接契合该产品名称的“dots.com”域名，目前归属于一家早已停业的公司。因此，如果这场恶作剧真是出于报复心理，要是能连那个域名也一并拿下，那才算更上一层楼。\n\n“哈哈哈哈哈哈哈哈哈哈 不可能吧。> OpenAI 刚刚宣布了 Dots。> SpaceXAI 就买下了 https://t.co/WdFqpl07IQ 它直接重定向到了 Grok Bot 的下载页面。太秀了笑死。pic.twitter.com/HF95hLF0T9”\n\n购买第二张门票立减 50%：Disrupt 的体验本就该与人共享。立即购买门票，即可携同事、合作伙伴或同行以半价入场。通过建立人脉、蓄积动力并探索初创生态系统的下一站，拓宽你的业务视野。\n\n每周工作日及周日，您均可获取 TechCrunch 最优质的报道内容。\n\nTechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。\n\n初创公司是 TechCrunch 的核心，敬请每周查收我们为您呈现的精选报道。\n\n为行业领袖及决策者提供开启新一天所需的关键资讯。\n\n提交您的电子邮件即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦OpenAI发布AI代理产品Dots前后，xAI持有dot.com且该域名跳转至Grok下载页面这一巧合，以及互联网用户据此推测马斯克或xAI团队进行恶作剧的说法。文章同时提出域名可能因常规商业原因或防止将“dot”误拼为“bot”而被购买，但整体以戏剧性和娱乐性解读为主。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:20:59.000Z",
+            "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+          }
+        ]
+      },
+      {
+        "id": "story-for-more-things-08a4221b-00d5b29ab7eceb46",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:00:00.000Z",
+        "pubTime": "2026-09-30 06:00",
+        "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“We have an ironclad prenup.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-29T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ds-of-sql-query-builders-29ded93617898db7",
+        "title": "两种 SQL 查询构造器",
+        "originalTitle": "Two Kinds of SQL Query Builders",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T20:47:03.000Z",
+        "pubTime": "2026-09-30 04:47",
+        "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+        "imageUrl": null,
+        "fullContent": "The SQL language has a paradoxical fate. Although it was deliberately designed to appeal to a human user, nowadays most of SQL code is written—or rather generated—by the computer. Many computer programs need to query some database, and, for the vast majority of database servers, the only supported query language is SQL. But generating SQL is difficult because of the complicated and obscure rules of its quasi-English grammar (its original name SEQUEL stands for Structured English Query Language). For this reason, programs that interact with a database often use specialized libraries for generating SQL queries.\n\nOne of such libraries is FunSQL. FunSQL is designed with two goals in mind: supporting the full range of SQL's querying capabilities and exposing these capabilities in a compositional, data-oriented interface. This combination of goals makes FunSQL a perfect tool for data analysis in SQL and differentiates it from all the other query building libraries. Many query builders offer good coverage of SQL features, fewer provide data-oriented interface, but only FunSQL combines them in a single package.\n\nAnd yet the difference between FunSQL and other query builders is not immediately apparent. In fact, the interfaces of various query building libraries seem almost identical. A query that finds 100 oldest male patients (in the OMOP CDM database) is assembled with FunSQL as follows:\n\nThe same query can be written in Ruby using Active Record Query Interface:\n\nOr in PHP with Laravel's Query Builder:\n\nOr in R with dbplyr:\n\nIn each of these code samples, the query is assembled using essentially the same interface. Stripped of its syntactic shell, the process of assembling the query can be visualized as a diagram of five processing nodes connected in a pipeline:\n\nIt is precisely the fact that the query is progressively assembled using atomic, independent components that lets us call this interface compositional.\n\nHowever we did claim that FunSQL differs from all the other query building libraries, and now apparently proved the opposite? As a matter of fact, there is a difference, even if it is not reflected in notation. To demonstrate this, let us rearrange this pipeline, moving the Order and the Limit nodes in front of Where.\n\nHow does this rearrangement affect the output of the query? Perhaps unexpectedly, the answer depends on the library. With FunSQL, as well as EF/LINQ and dbplyr, it changes the output from 100 oldest male patients to the males among 100 oldest patients. But not so with the other two libraries, Active Record and Laravel, where rearranging the pipeline has no effect on the output.\n\nTo summarize, the following query builders are sensitive to the order of the pipeline nodes:\n\nAnd the following are not:\n\nThese are the two kinds of query builders from this article's title. But how can these libraries act so differently while sharing the same interface? To answer this question, we need to focus on what is only implicitly present on the pipeline diagram: the information that is processed by the pipeline nodes.\n\nA node with one incoming and one outgoing arrow symbolizes a processing unit that takes the input data, transforms it, and emits the output data. While the character of the data is not revealed, it is tempting to assume it to be the tabular data extracted from the database.\n\nBut this can't be right, at least not literally, because a SQL query builder cannot read the data in the database. Instead, the query builder generates a SQL query:\n\nBut if we assume for a moment that pipeline nodes could process the data directly, we would expect that both the pipeline and the corresponding SQL query produce the same output. In other words, the role of the pipeline is to specify the expected output of the SQL query. This is how pipeline nodes are interpreted by FunSQL and the other two libraries, EF/LINQ and dbplyr. We can call such query builders data-oriented.\n\nThe conversion of the pipeline to SQL is not always that straightforward. Even though we could freely reorder the nodes in a pipeline, we cannot do the same to the clauses in a SQL query. This is because the SQL grammar arranges the clauses in a rigid order:\n\nThis order is compatible with the first pipeline, in which the Where node is followed by Order and Limit, but not the second pipeline, where these nodes change their relative positions. So how could the second pipeline be converted to SQL? We would be out of options if we were still using the original SQL standard, SQL-86, but the next revision of the language, SQL-92, recognized this limitation. Regrettably, it did not relax this rigid clause order. Instead, SQL-92 introduced a workaround: a query can be extended by nesting it into the next query's FROM clause. This gives us a method for converting an arbitrary pipeline into SQL: break the pipeline into smaller chunks that comply with the SQL clause order, convert each chunk into a SQL query, and then nest all these queries together:\n\nThe SQL grammar has a number of deficiencies, including rigid clause order, query nesting, and nonsensical position of the SELECT clause. The position of SELECT violates the execution flow of the query, and this violation is aggravated by query nesting. Complex SQL queries often require multiple levels of nesting, which makes such queries bloated and difficult to interpret. This is where data-oriented query builders, which do not constrain the order of pipeline nodes, offer an improvement over plain SQL.\n\nWhat about the other kind of query builders? Active Record and Laravel employ a pipeline of exactly the same form, but because it is not sensitive to the order of the nodes, it must work on a different principle. Indeed, this pipeline generates a SQL query by incrementally assembling the SQL syntax tree. Because of the rigid clause order, a SQL syntax tree can be faithfully represented as a composite data structure with slots specifying the content of the SELECT, FROM, WHERE, and the other clauses:\n\nIndividual slots of this structure are populated by the corresponding pipeline nodes.\n\nThis explains why the pipeline is insensitive to the order of the nodes. Indeed, as long as the content of the slots stays the same, it makes no difference in what order the slots are populated.\n\nThis method of incrementally constructing a composite structure is known as the builder pattern. We can call the query builders that employ this pattern syntax-oriented.\n\nBoth data-oriented and syntax-oriented query builders are compositional: the difference is in the nature of the information processed by the units of composition. Data-oriented query builders incrementally refine the query output; syntax-oriented query builders incrementally assemble the SQL syntax tree. Their interfaces look almost identical, but their methods of operation are fundamentally different.\n\nBut which one is better? Syntax-oriented query builders have two definite advantages: they are easy to implement and they could support the full range of SQL features. Indeed, the interface of a syntax-oriented query builder is just a collection of builders for the SQL syntax tree. How complete the representation of the syntax tree determines how well various SQL features are supported.\n\nOn the other hand, syntax-oriented query builders are harder to use. As they directly represent the SQL grammar, they inherit all of its deficiencies. In particular, the rigid clause order makes it difficult to assemble complex data processing pipelines, especially when the arrangement of pipeline nodes is not predetermined.\n\nA data-oriented query builder directly represents data processing nodes, which makes assembling data processing pipelines much more straightforward—as long as we can find the necessary nodes among those offered by the builder. But where does the builder get its collection of data processing nodes? And how can we tell if this collection is complete?\n\nOne way to implement a data-oriented query builder is to adapt a general-purpose query framework. Indeed, this is the origin of EF/LINQ, which is adapted from LINQ, and dbplyr, which is adapted from dplyr. The query framework determines what processing nodes are available and how they operate. In principle, any query framework could be adapted to SQL databases by introducing just one new node, a node that loads the content of a database table. If we place this node at the beginning of a pipeline and make the rest of it out of regular nodes, we obtain a pipeline that processes data from a SQL database. However, this pipeline will be very inefficient compared to a SQL engine, which can use indexes to avoid loading the entire table into memory and thus can process the same data much faster. This is why EF/LINQ and dbplyr generate a SQL query that replaces the pipeline as a whole. The pipeline itself no longer runs directly, but now serves as a specification, with the assumption that if it were to run, it would produce the same output as the SQL query. This method of transforming a general-purpose query framework to a SQL query builder is called SQL pushdown.\n\nHowever, SQL pushdown has a serious limitation. A general-purpose query framework is not designed with SQL compatibility in mind. For this reason, some of the pipelines assembled within this framework cannot be converted to SQL. Even worse, many useful SQL queries have no equivalent pipelines and thus cannot be generated using SQL pushdown. Indeed, SQL accumulated a wide range of features and capabilities since it first appeared in 1974. The first revision of the SQL standard, SQL-86, already supported Cartesian products, filtering, grouping, aggregation, and correlated subqueries. The next revision, SQL-92, added many join types and introduced query nesting. SQL:1999 greatly expanded its analytical capabilities by adding two types of queries: recursive queries, for processing hierarchical data, and data cube queries, which generalize histograms, cross-tabulations, roll-ups, drill-downs, and sub-totals. The follow-up revision, SQL:2003, added support for aggregate functions over a running window. Admittedly, SQL is a quintessential enterprise abomination, a hodgepodge of features added to support every imaginable use case, but with inadequate syntax, weird gaps in functionality, and no regards to internal consistency. Nevertheless, the breadth of SQL's capabilities has not been matched by any other query framework, including LINQ or dplyr. So when we generate SQL queries using EF/LINQ or dbplyr, a large subset of these capabilities remains inaccessible.\n\nFunSQL is a data-oriented query builder created specifically to expose full expressive power of SQL. Unlike EF/LINQ and dbplyr, FunSQL was not adapted from an existing query framework, but was carefully designed from scratch to match SQL's capabilities. These capabilities include, for example, support for correlated subqueries and lateral joins (with Bind node), aggregate and window functions (using Group and Partition nodes), as well as recursive queries (with Iterate node). This comprehensive support for SQL capabilities makes FunSQL the only SQL query builder suitable for assembling complex data processing pipelines. Moreover, even though FunSQL pipelines cannot be run directly, every FunSQL node has a well-defined data processing semantics, which means that, in principle, FunSQL could be developed into a full-blown query framework. This potentially opens a path for replacing SQL with an equally powerful, but a more coherent and expressive query language.",
+        "fullTranslation": "SQL 语言有着耐人寻味的命运。尽管它最初是为了迎合人类用户而精心设计的，但如今绝大多数 SQL 代码却是由计算机编写——或者更确切地说是生成的。许多计算机程序都需要查询某种数据库，而对绝大多数数据库服务器而言，唯一支持的查询语言就是 SQL。然而，由于其类英语语法（其原名 SEQUEL 代表结构化英语查询语言）规则复杂且晦涩，生成 SQL 代码十分困难。正因如此，与数据库交互的程序通常会使用专门的库来生成 SQL 查询。\n\nFunSQL 就是这样的一款库。FunSQL 的设计旨在实现两个目标：全面支持 SQL 的各项查询功能，并通过可组合、面向数据（data-oriented）的接口将这些功能暴露出来。这一目标组合使 FunSQL 成为利用 SQL 进行数据分析的绝佳工具，并使其在所有其他查询构造库中脱颖而出。许多查询构造器都能很好地覆盖 SQL 特性，提供面向数据接口的则相对较少，但唯有 FunSQL 将这两者融于一身。\n\n然而，FunSQL 与其他查询构造器之间的差异并不会立即显现。事实上，各类查询构造库的接口看起来几乎毫无二致。例如，在 OMOP CDM 数据库中查找 100 位年龄最大的男性患者的查询，使用 FunSQL 组装如下：\n\n同样的查询，在 Ruby 中使用 Active Record Query Interface 可以写成：\n\n或者在 PHP 中使用 Laravel 的 Query Builder：\n\n抑或在 R 语言中使用 dbplyr：\n\n在这些代码示例中，查询本质上都是使用相同的接口来组装的。剥离其语法外壳后，组装查询的过程可以形象化为一条由五个处理节点连接而成的流水线图：\n\n正是由于查询是由原子化、独立的组件逐步组装而成的这一事实，我们才能称这种接口为可组合的（compositional）。\n\n然而，我们此前声称 FunSQL 与所有其他查询构造库都不同，现在岂不是证明了相反的结论？事实上，差异确实存在，即便它并未在书写形式上反映出来。为了证明这一点，我们不妨重新排列这个流水线，将 Order 和 Limit 节点移至 Where 节点之前。\n\n这种重排会对查询的输出产生什么影响？也许出人意料的是，答案取决于所使用的库。在 FunSQL 以及 EF/LINQ 和 dbplyr 中，它会将输出从“100 位年龄最大的男性患者”变为“在 100 位年龄最大的患者中的男性”。但在另外两个库（Active Record 和 Laravel）中却并非如此，在它们之中重排流水线对输出毫无影响。\n\n概括而言，以下查询构造器对流水线节点的顺序敏感：\n\n而以下查询构造器则不敏感：\n\n这正是本文标题所指的两种查询构造器。但是，既然这些库共享相同的接口，它们又为何会表现得如此迥异？要回答这个问题，我们需要聚焦于流水线图上仅隐式存在的内容：流水线节点所处理的信息。\n\n一个带有一进一出箭头的节点象征着一个处理单元，它接收输入数据，对其进行转换，然后输出数据。虽然数据的具体特征并未揭晓，但人们很容易假设它就是从数据库中提取的表格数据。\n\n但这不可能是正确的，至少在字面上不是，因为 SQL 查询构造器无法直接读取数据库中的数据。相反，查询构造器生成的是 SQL 查询：\n\n但如果我们暂时假设流水线节点可以直接处理数据，我们就会预期流水线和对应的 SQL 查询产生相同的输出。换言之，流水线的作用是规定 SQL 查询的预期输出。这就是 FunSQL 以及 EF/LINQ 和 dbplyr 这两款库对流水线节点的解释方式。我们可以称这类查询构造器为“面向数据”（data-oriented）的。\n\n将流水线转换为 SQL 并不总是那么直截了当。尽管我们可以在流水线中自由重排节点，但我们无法对 SQL 查询中的子句做同样的事。这是因为 SQL 语法将子句安排在了僵化的固定顺序中：\n\n这种顺序与第一种流水线兼容（其中 Where 节点后面跟着 Order 和 Limit），但与第二种流水线不兼容（其中这些节点改变了相对位置）。那么，第二种流水线如何才能转换为 SQL？如果我们仍在使用最初的 SQL 标准 SQL-86，那我们将束手无策；不过，该语言的下一版本 SQL-92 意识到了这一局限。遗憾的是，它并未放宽这种僵化的子句顺序。取而代之的是，SQL-92 引入了一种变通方案：可以通过将一个查询嵌套到下一个查询的 FROM 子句中来对其进行扩展。这为我们将任意流水线转换为 SQL 提供了一种方法：将流水线拆解为符合 SQL 子句顺序的较小分块，将每个分块转换为一个 SQL 查询，然后将所有这些查询嵌套在一起：\n\nSQL 语法存在诸多缺陷，包括僵化的子句顺序、查询嵌套，以及 SELECT 子句荒谬的位置。SELECT 的位置违背了查询的执行流，而查询嵌套更是加剧了这种违背。复杂的 SQL 查询通常需要多层嵌套，这导致此类查询变得臃肿且难以理解。这正是面向数据的查询构造器（不对流水线节点的顺序加以限制）相较于原生 SQL 提供改进的地方。\n\n那么另一种查询构造器又是怎样的呢？Active Record 和 Laravel 采用了完全相同形式的流水线，但由于它对节点的顺序不敏感，因此必然是基于不同的原理运行。事实上，这种流水线是通过增量组装 SQL 语法树来生成 SQL 查询的。由于固定的子句顺序，SQL 语法树可以被如实地表示为一个复合数据结构，其中的各个槽位指定了 SELECT、FROM、WHERE 和其他子句的内容：\n\n该结构的各个独立槽位由相应的流水线节点填充。\n\n这就解释了为什么这种流水线对节点的顺序不敏感。确实，只要槽位的内容保持不变，以何种顺序填充槽位并无任何分别。\n\n这种逐步构建复合结构的方法被称为生成器模式（builder pattern）。我们可以称采用这种模式的查询构造器为“面向语法”（syntax-oriented）的。\n\n无论是面向数据的查询构造器还是面向语法的查询构造器，它们都是可组合的：两者的区别在于组合单元所处理信息的本质。面向数据的查询构造器逐步细化查询输出；面向语法的查询构造器则逐步组装 SQL 语法树。它们的接口看起来几乎一模一样，但其运作机制却有着本质的不同。\n\n但哪一种更好？\n\n语法导向的查询构建器有两个明确的优势：易于实现，并且能够支持完整范围的 SQL 特性。实际上，语法导向查询构建器的接口只是一组用于构建 SQL 语法树的构建器。语法树的表示有多完整，决定了它对各种 SQL 特性的支持程度。\n\n另一方面，语法导向的查询构建器更难使用。由于它们直接表示 SQL 语法，因此也继承了 SQL 语法的所有缺陷。尤其是，僵化的子句顺序使得组装复杂的数据处理流水线变得困难，特别是在流水线节点的排列顺序并未预先确定时。\n\n数据导向的查询构建器直接表示数据处理节点，这使得组装数据处理流水线变得直观得多——前提是我们能在构建器提供的节点中找到所需节点。但构建器从哪里获得这组数据处理节点？我们又如何判断这组节点是否完整？\n\n实现数据导向查询构建器的一种方式，是对通用查询框架进行适配。EF/LINQ 的来源正是这种方式：它由 LINQ 适配而来；dbplyr 则由 dplyr 适配而来。查询框架决定了有哪些处理节点可用，以及这些节点如何运行。原则上，任何查询框架都可以通过引入一个新节点来适配 SQL 数据库，这个节点用于加载数据库表的内容。如果我们把这个节点放在流水线开头，再用常规节点组成流水线的其余部分，就能得到一个处理 SQL 数据库中数据的流水线。然而，与 SQL 引擎相比，这种流水线的效率会非常低，因为 SQL 引擎可以利用索引，避免将整张表加载到内存中，从而更快地处理相同的数据。这就是 EF/LINQ 和 dbplyr 会生成 SQL 查询、用它整体替代流水线的原因。流水线本身不再直接运行，而是充当一种规范：假定它实际运行时，会产生与该 SQL 查询相同的输出。将通用查询框架转换为 SQL 查询构建器的这种方法称为 SQL 下推（SQL pushdown）。\n\n然而，SQL 下推存在一个严重的局限。通用查询框架的设计并未考虑与 SQL 的兼容性。因此，在这一框架中组装的一些流水线无法转换为 SQL。更糟糕的是，许多有用的 SQL 查询并不存在对应的流水线，因而无法通过 SQL 下推生成。事实上，自 1974 年首次出现以来，SQL 已经积累了广泛的特性和能力。SQL 标准的第一次修订版 SQL-86 已经支持笛卡尔积、过滤、分组、聚合和相关子查询。下一版修订标准 SQL-92 增加了多种连接类型，并引入了查询嵌套。SQL:1999 通过增加两类查询，大幅扩展了分析能力：用于处理层次化数据的递归查询，以及数据立方体查询；后者概括了直方图、交叉表、汇总、下钻和小计。后续的 SQL:2003 修订版增加了对运行窗口上的聚合函数的支持。诚然，SQL 是典型的企业级畸形产物，是为支持各种可以想象的使用场景而不断添加特性的杂乱拼合体，但其语法不充分、功能存在奇怪的缺口，也不顾内部一致性。尽管如此，SQL 能力的广度仍未被包括 LINQ 或 dplyr 在内的任何其他查询框架匹敌。因此，当我们使用 EF/LINQ 或 dbplyr 生成 SQL 查询时，SQL 的这部分庞大能力仍然无法使用。\n\nFunSQL 是一种专门创建的数据导向查询构建器，旨在展现 SQL 的完整表达能力。不同于 EF/LINQ 和 dbplyr，FunSQL 并非由现有查询框架改造而来，而是从零开始经过精心设计，以匹配 SQL 的能力。这些能力包括：支持相关子查询和横向连接（通过 Bind 节点实现）、聚合函数和窗口函数（使用 Group 和 Partition 节点实现），以及递归查询（通过 Iterate 节点实现）。对 SQL 能力的这种全面支持，使 FunSQL 成为唯一适合组装复杂数据处理流水线的 SQL 查询构建器。此外，尽管 FunSQL 流水线无法直接运行，但每个 FunSQL 节点都有定义明确的数据处理语义；这意味着，原则上可以将 FunSQL 开发成完整的查询框架。这有可能为用一种同样强大、但更加连贯且更具表达力的查询语言取代 SQL 开辟道路。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 31,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T20:47:03.000Z",
+            "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders"
+          }
+        ]
+      },
+      {
+        "id": "story-9-monkeys-conflicts-html-a791aba43d28dd1d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why monkeys handle conflicts better than we do",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:40:04.000Z",
+        "pubTime": "2026-09-30 06:40",
+        "url": "https://phys.org/news/2026-09-monkeys-conflicts.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-gorillas-in-a-fore.jpg",
+        "fullContent": "Conflicts with our colleagues, loved ones or team members can quickly stifle communication, heighten tensions and undermine relationships. However, a decision or compromise is not always enough to restore cooperation—for a solution to last, we must also repair the bond that will allow people to continue moving forward together.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 06:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-monkeys-conflicts.html",
+            "publishedAt": "2026-09-29T22:40:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-alitskiy-2121092497-html-9a823dbbe5b7941a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Балицкий рассказал о развитии Запорожской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T22:55:36.000Z",
+        "pubTime": "2026-09-30 06:55",
+        "url": "https://ria.ru/20260930/balitskiy-2121092497.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/0c/14/1916906967_0:0:3072:1728_650x0_80_0_0_9b90133c962e63d7fb1ca48e271b97c3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 06:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/balitskiy-2121092497.html",
+            "publishedAt": "2026-09-29T22:55:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-f-data-to-tech-companies-499a6ea33b625961",
+        "title": "你的汽车及其移动应用可能正向科技公司交出各种数据",
+        "originalTitle": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:18:35.000Z",
+        "pubTime": "2026-09-30 06:18",
+        "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+        "imageUrl": null,
+        "fullContent": "Modern-day vehicles built with connected car technology such as WiFi and GPS collect reams of data about its owners. And that data is not staying private, according to a new study conducted by researchers at Northeastern University.\n\nThat conclusion isn’t new — there have been numerous investigations and lawsuits exposing how driving data is collected and shared with third parties, including insurance companies. What the study reveals is just how vast the problem is and how hard it is for consumers to avoid, short of not using the vehicle or its convenient features like remote start and unlock.\n\nResearchers in partnership with Consumer Reports tested 21 late-model vehicles from 17 automakers, including GM brands Cadillac and Chevrolet as well as Ford, Lucid, Rivian, Tesla, Toyota, and more. They also examined 30 companion mobile apps to “understand the privacy implications of the connected vehicle ecosystem.” The peer-reviewed study will be published this week.\n\nThe implications aren’t great for consumers, whose data is being shared with tech companies including Adobe, ContentSquare, Google, Microsoft, Meta, Snap, and Yahoo.\n\nNineteen of the 21 vehicles tested sent traffic to at least one third party and seven of the 30 apps gave sensitive data such as the vehicle identification number (VIN), emails, phone numbers, and precise location to third-party companies associated with tracking and advertising.\n\nThis often went a step further with multiple forms of information being sent to the same third party, a scheme that allows advertisers and data brokers to build in-depth profiles of consumers, according to the findings. These profiles can be particularly hard for consumers to shake because they’re sold to a variety of companies including insurers and banks.\n\nWhen researchers paired the companion app to the vehicle it roughly doubled the exposure to advertising and tracking companies.\n\nThe findings were shared with the different manufacturers and all of them, with the exception of Honda, shifted blame elsewhere and often to consumers, the researchers said. (Honda did respond by improving its data collection practices after learning about the findings and ordered its vendor Amplitude to deleta all geolocation data it had received.)\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。\n\n这一结论并不新鲜——已有大量调查和诉讼揭露了驾驶数据是如何被收集并与包括保险公司在内的第三方共享的。这项研究揭示的是，问题的规模究竟有多大，以及消费者要避开这一问题有多困难；除非他们完全不使用汽车，或不使用远程启动、远程解锁等便利功能。\n\n研究人员与《消费者报告》合作，对来自17家汽车制造商的21辆新款汽车进行了测试，其中包括通用汽车旗下的凯迪拉克和雪佛兰，以及福特、Lucid、Rivian、特斯拉、丰田等品牌。他们还检查了30款配套移动应用，以“了解联网汽车生态系统对隐私的影响”。这项经过同行评审的研究将于本周发表。\n\n对于消费者来说，这些发现并不乐观，因为他们的数据正被共享给包括Adobe、ContentSquare、谷歌、微软、Meta、Snap和雅虎在内的科技公司。\n\n在接受测试的21辆汽车中，有19辆将流量发送给至少一家第三方机构；30款应用中有7款将车辆识别号码（VIN）、电子邮件地址、电话号码和精确位置等敏感数据提供给与跟踪和广告相关的第三方公司。\n\n研究结果显示，这一过程往往更进一步：同一家第三方机构会收到多种形式的信息。这种做法让广告商和数据经纪商能够建立消费者的深度画像。这些画像尤其难以摆脱，因为它们会被出售给包括保险公司和银行在内的各种企业。\n\n当研究人员将配套应用与汽车连接后，汽车暴露给广告和跟踪公司的程度大约增加了一倍。\n\n研究人员表示，他们已将研究结果分享给相关汽车制造商。除本田外，所有制造商都将责任推给了其他方面，而且往往归咎于消费者。（本田在得知研究结果后确实改善了数据收集做法，并要求其供应商Amplitude删除已经收到的所有地理位置数据。）\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n交通运输编辑\n\n第二张门票享受五折优惠\n\nThe Disrupt体验旨在与他人共享。购买您的门票，并以五折价格带上一位同事、合作伙伴或同行者。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。\n\nCrusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划\n\nAstra和Opus刚刚通过了Turing的另一项测试\n\n甲骨文向其位于新墨西哥州的Stargate数据中心发出不可抗力通知\n\nMeta为其Muse人工智能代理制作了一款类似电子宠物机的可穿戴设备\n\n《Vogue》让机器人走上Vogue World的T台，但人们并不买账\n\nAnthropic称其生物学实验室已经取得重大突破\n\nPitPro首台换胎机器人在加拿大投入运行",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "来源叙事重点：将联网汽车描述为持续收集并向第三方传输车主数据的生态系统，强调汽车与手机应用结合后会扩大广告和追踪暴露，并突出消费者难以在保留远程启动、解锁等便利功能的同时避免数据共享。报道还强调数据可能被广告商、数据经纪商、保险公司和银行用于建立消费者画像。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:18:35.000Z",
+            "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/"
+          }
+        ]
+      },
+      {
+        "id": "story-t-to-gas-automakers-html-4cffb47eb938987f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US Government Presents Regulatory Gift to Gas Automakers",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:00:00.000Z",
+        "pubTime": "2026-09-30 06:00",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html",
+        "imageUrl": null,
+        "fullContent": "The US government on Monday finalized new lower vehicle fuel economy standards reversing a push by the Biden administration to build more fuel-efficient vehicles. The move is broadly seen as helping sales of gas-powered cars and trucks at the expense of electric vehicles. The Alliance for Automotive Innovation called the rollback an \"appropriate course correction\" that aligns fuel economy standards with market realities and legal requirements. Automotive News Environmental groups countered that the rollback gives automakers a break while US drivers continue to grapple with sharply higher fuel prices due to the war in Iran. Per Reuters The Transportation Department said it was finalizing a fleetwide average of 34.9 miles per gallon 14.7 km per liter by 2031, down from 50.4 miles per gallon 21.4 km per liter under Democratic former President Joe Biden. In 2024, the Biden administration finalized rules to push automakers to build more electric vehicles to meet rising fuel-efficiency standards. Biden increased required fuel efficiency for cars by 8% annually for model years 2024 and 2025, 10% for 2026 and 2% annually from 2027 to 2031. The lower standards mean higher global carbon emissions, a slowdown in the worldwide shift to electric vehicles, and a strategic retreat by the US from the global clean-energy race. American drivers will burn more gasoline, adding billions of tons of extra greenhouse gases into the atmosphere and undermining global climate goals. Related US Distillate Stocks Continue to Fall As Crude Inventories Build The policy encourages the production of larger, less efficient gas-powered trucks and sports utility vehicles, keeping global oil demand high for decades. It also ends a credit-trading system automakers used to comply with requirements, effective in model-year 2028, thus removing a major financial cushion for pure electric vehicle pioneers like Tesla and Rivian. International car companies such as Toyota, Volkswagen and Hyundai can now sell more profitable gas vehicles in the US while keeping EV development focused elsewhere. The Trump administration estimates technology costs will drop $60.6 billion through 2031, with Stellantis saving $6.6 billion, Ford $5.8 billion, Toyota $4.5 billion and Honda $4.1 billion, Automotive News reports. While the US has finalized sharply lower standards, the European Union and China are moving in the opposite direction with strict, legally binding timelines. Europe's regulations require a 100% reduction in tailpipe emissions for new cars by 2035. This creates a legal phase-out of traditional internal combustion engines ICE. China approaches vehicle regulation from two sides a strict fuel consumption standard for gas cars and an aggressive New Energy Vehicle NEV mandate. China uses a \"dual-credit\" system that forces automakers to accumulate points by manufacturing a high percentage of EVs and plug-in hybrids. This strategy has allowed Chinese automakers to capture roughly 60% of global EV sales. While the US is just measuring gas consumption, China implemented a law which regulates the efficiency of electric car batteries. This forces companies to build lighter, longer-range EVs rather than just larger batteries. The bottom line The US has essentially hit the brakes on forcing its auto industry toward electrification, giving domestic manufacturers breathing room to focus on highly profitable gas SUVs and trucks. Meanwhile, Europe and China are continuing down a strict regulatory pipeline, forcing global automakers to build highly advanced electric drivetrains if they want to access the European and Asian markets. Fuel economy or greenhouse gas GHG emission standards for new passenger vehicles currently exist in over 40 countries, covering more than 80% of new passenger vehicle sales worldwide. The primary regulatory drivers include the United States, the European Union, China and Japan, which together represent the largest blocks of global fuel consumption and vehicle manufacturing. Most of these national and regional policies rely on corporate-average fuel economy CAFE or fleet-average greenhouse gas tailpipe limits, scaling targets based on vehicle attributes like size or weight rather than imposing a flat standard across all classes. By Andrew Topf for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html"
+          }
+        ]
+      },
+      {
+        "id": "story-blogs-the-shell-43359d1a46b3eaed",
+        "title": "Shell 与电子邮件",
+        "originalTitle": "The Shell & Email",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T20:14:41.000Z",
+        "pubTime": "2026-09-30 04:14",
+        "url": "https://www.machtiani.chat/blogs/the-shell",
+        "imageUrl": null,
+        "fullContent": "Is email the best way to work when working with multiple agents at the same time? Each email thread is a session. And it supports group conversations.\n\nSee what I built on Github.\n\nWith email. you’re not chained to a single company’s app or, even, your laptop. You can do it anywhere and email is the most versatile in poor network conditions, on top of that.\n\nEmail already solves the problem for working with people in an asynchronous and distributed way. Large language models get this, like they get the shell.\n\nWe like the shell and the terminal that let’s us use it. And for practical reasons. The shell composes and enables interoperability with other applications without a gatekeeper. Once you get the hang of it, using the terminal is fun and liberating.\n\nThere is no coincidence that LLMs are most useful to us when harnessed to the shell. And if we need to work very closely with an agent, doing so from the terminal is best so we can be as close to the shell as possible.\n\nI’m thankful for that. We mostly use Claude Code, Codex CLI, and others, such as OpenCode that uses the shell and are worked with by us on the terminal (uses the shell). We don’t have to use an iPhone App or some cloud based web app by a single company to use a computer productively.\n\nHowever, there are clearly limitations when you must work with many agents. It’s dizzying. We often need to work asynchronously with agents working on different things. Stop. Do something else. Live life. Check on it a bit. Return to it easily on our own time, etc.\n\nAgain, email already solves the problem for working with people in an asynchronous and distributed way. That translates well when working with agents, and even other people and agents.\n\nAfter the first release of Machtiani over a year ago, I began feeding Machtiani’s answers back into its next instructions. I didn’t release until now to pursue this. An iterative instructions loop that drove a worker that is lightweight supervisor.\n\nThat lightweight supervisor can work with any agents already installed on your computer.\n\nI found email be the most natural and liberating way to work with others and agents together.\n\nSee Machtiani on GitHub.",
+        "fullTranslation": "当同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程就是一个会话，而且支持群组对话。\n\n看看我在 GitHub 上构建的东西。\n\n使用电子邮件，你不会被绑定在某一家公司的应用上，甚至也不会被绑定在自己的笔记本电脑上。你可以在任何地方使用它；此外，在网络条件较差的情况下，电子邮件也是最灵活的工具。\n\n电子邮件已经解决了如何以异步、分布式方式与人协作的问题。大型语言模型理解这一点，就像它们理解 shell 一样。\n\n我们喜欢 shell，也喜欢让我们能够使用它的终端。这是出于实际原因：shell 可以进行组合，并且能够与其他应用实现互操作，而不需要守门人。一旦掌握了使用方法，使用终端会让人感到有趣且自由。\n\n大型语言模型在与 shell 结合使用时对我们最有用，这并非巧合。如果我们需要与某个代理密切协作，那么最好从终端进行，这样我们就能尽可能贴近 shell。\n\n对此我心怀感激。我们主要使用 Claude Code、Codex CLI，以及其他工具，例如使用 shell、由我们在终端中操作的 OpenCode（它使用 shell）。我们不必为了高效使用计算机产品，就去使用某家公司的 iPhone 应用或基于云的网页应用。\n\n不过，当你必须与许多代理协作时，显然会存在局限。这令人眼花缭乱。我们经常需要与正在处理不同事务的代理异步协作：停下来，去做别的事情，过自己的生活；过一会儿再查看进展；然后按照自己的时间安排轻松地回到工作中，等等。\n\n再说一次，电子邮件已经解决了如何以异步、分布式方式与人协作的问题。这种方式同样适用于与代理协作，甚至适用于人与代理之间的协作。\n\n一年多以前，在 Machtiani 首次发布后，我开始把 Machtiani 的回答反馈到它下一轮的指令中。为了继续推进这一做法，我直到现在才发布相关成果。这是一个迭代式的指令循环，用来驱动一个充当轻量级监督器的工作器。\n\n这个轻量级监督器可以与已经安装在你电脑上的任何代理协作。\n\n我发现，电子邮件是与他人及代理共同工作时最自然、最自由的方式。\n\n在 GitHub 上查看 Machtiani。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "来源叙事重点：将电子邮件和Shell/终端描述为开放、可组合、跨设备、适应弱网络且不受单一公司平台控制的工作界面，并主张这些特征适合协调多个人工智能代理。文章重点介绍Machtiani：通过让代理输出进入后续指令、形成迭代式指令循环，由轻量级监督器协调已安装的代理，并以电子邮件实现异步、分布式协作。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T20:14:41.000Z",
+            "url": "https://www.machtiani.chat/blogs/the-shell"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-0-oklady-2121092869-html-f824babd1c244d74",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Оклады военных проиндексируют с 1 октября на 4 процента",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T22:59:49.000Z",
+        "pubTime": "2026-09-30 06:59",
+        "url": "https://ria.ru/20260930/oklady-2121092869.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/07/12/1884947256_0:158:3077:1889_650x0_80_0_0_33324f4ded1e64c4871778dd240ac71b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 06:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/oklady-2121092869.html",
+            "publishedAt": "2026-09-29T22:59:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-gence-executive-order-ai-1f2684ece82a4b59",
+        "title": "特朗普签署行政令，要求美国政府将AI改称为“超级智能”",
+        "originalTitle": "Trump orders US government to call AI ‘Super Intelligence’",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:25:45.000Z",
+        "pubTime": "2026-09-30 06:25",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\n“The word super is the best word of all,” Trump says.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Lauren Feiner\n\nThe US executive branch is no longer acknowledging the existence of “artificial intelligence.” Going forward, official policy websites, policy documents, and press releases will refer only to “Super Intelligence,” thanks to a new executive order signed by President Donald Trump.\n\n“The word super is the best word of all, and it’s the simplest,” Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, “loves it,” too. “We don’t want to hear artificial. Because it’s not artificial. It’s very powerful, it’s very brilliant. It’s going to mostly be put to good use and we’ll stop the bad use.” Artificial, he added, “is like the news. Fake news.” He first mentioned plans for the rebrand in a speech to the United Nations General Assembly last week, aiming to quell fears over AI advancing too quickly and posing a safety risk.\n\n“It’s going to mostly be put to good use and we’ll stop the bad use”\n\nExecutive agencies won’t have to change past regulations or documents, but it could still constitute a real (and very strange) shift. Superintelligence is one of several industry terms for particularly powerful versions of artificial intelligence, but the Trump administration is seeking to use the term as a replacement for a broader statutory definition of AI. US officials will be expected not to even acknowledge the use of the terms “artificial intelligence” or “AI” in relevant settings.\n\nTrump signed the executive order after a luncheon he hosted at the White House with tech CEOs and government officials to discuss what he’s now officially calling Super Intelligence. In brief public remarks after the meeting, flanked by Nvidia CEO Jensen Huang and Tesla and SpaceX CEO Elon Musk, and surrounded by other attendees, Trump called the lunch “very productive,” and “extremely friendly.”\n\n“There’s a belief that there should be tremendous self-regulation,” Trump said. “And we automatically have regulation with the Department of Justice, the FBI, all of that.” On the local level, where tech companies have faced the most hurdles in building out massive data centers needed to run their services, Trump says the firms will “work to make the community happy” by providing resources and economic support they may need. Ultimately, he says, “data centers are going to be very popular.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。\n\n“‘超级’这个词是最好的词，”特朗普说道。\n\n该作者的文章将添加到您的每日电子邮件文摘和主页推送中。\n\n查看劳伦·费纳（Lauren Feiner）的全部文章\n\n美国行政部门将不再承认“人工智能”（artificial intelligence）的存在。由于唐纳德·特朗普总统签署的一项新行政命令，今后官方政策网站、政策文件和新闻稿将统统改称为“超级智能”（Super Intelligence）。\n\n“‘超级’这个词是最好的词，也是最简练的，”特朗普周二早些时候在宣布推出 America.gov 的活动上表示，并称上周访问白宫的中国国家主席习近平也“很喜欢”这个词。“我们不想听到‘人工’（artificial）这个词。因为它不是人工的。它非常强大，非常聪明。它主要会被用于善途，而我们会制止不良用途。”他补充道，“人工”（Artificial）“就像新闻一样。假新闻。”他上周在联合国大会发表演讲时首次提到了这一更名计划，旨在平息人们对人工智能发展过快并构成安全风险的担忧。\n\n“它主要会被用于善途，而我们会制止不良用途”\n\n各行政机构无需修改过去的法规或文件，但这仍可能构成一种实实在在的（而且非常离奇的）转变。“超级智能”（Superintelligence）本是行业内用来指代特别强大的人工智能版本的若干术语之一，但特朗普政府正试图用该词取代法定层面上更宽泛的 AI 定义。在相关场合，美国官员预计甚至不得承认或使用“人工智能”或“AI”这些术语。\n\n特朗普在白宫主持了一场与科技公司首席执行官及政府官员的午餐会，讨论他现在正式称之为“超级智能”的议题，随后签署了这项行政命令。在会后发表简短公开讲话时，特朗普身旁站着英伟达首席执行官黄仁勋（Jensen Huang）以及特斯拉与 SpaceX 首席执行官埃隆·马斯克（Elon Musk），在其他与会者的簇拥下，特朗普称这次午餐会“非常富有成效”且“极其友好”。\n\n“有一种观点认为应该进行大力度的自我监管，”特朗普说，“而且我们自然也有司法部、联邦调查局等机构的监管。”在地方层面，科技公司在建设运行其服务所需的大型数据中心时面临着重重阻力，特朗普表示，这些企业将通过提供社区可能需要的资源和经济支持，“努力让社区满意”。他表示，归根结底，“数据中心将会非常受欢迎”。\n\n免费获取每日重要新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "来源叙事重点：将事件呈现为美国政府对人工智能官方称谓和政策语言的重大且反常的重命名，重点突出“Super Intelligence”取代“artificial intelligence/AI”可能带来的法律、政策和治理影响，同时关注特朗普政府对行业自律、数据中心建设及地方社区协调的表态。文章带有明显的讽刺和质疑色彩，但这些属于报道框架，不等同于已证实事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:25:45.000Z",
+            "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+          }
+        ]
+      },
+      {
+        "id": "story-rives-prices-higher-html-6193bd68a14799ef",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T23:00:00.000Z",
+        "pubTime": "2026-09-30 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html",
+        "imageUrl": null,
+        "fullContent": "European natural gas prices have soared dramatically since the war in Iran trapped a fifth of the world's liquefied natural gas supply behind the Strait of Hormuz. The high prices are creating a headache for governments amid soaring energy bills for households and spiking energy costs for industry. The surge in natural gas, gasoline, and diesel prices in recent months is clearly fueling inflation. The European Central Bank ECB has raised key interest rates twice since June, with potential for further increases although the ECB's Governing Council said earlier this month that it \"is not pre-committing to a particular rate path\" amid a highly uncertain outlook. Middle East's LNG Crunch All these uncertainties are the result of the lack of Qatari LNG cargoes on the market because they cannot move through the Strait of Hormuz as easily as oil shipments. Since early March, European gas prices have reflected the tight global gas market, with most of Qatar's LNG supply still offline and no clarity on when some semblance of normal shipping of LNG cargoes would return at the Strait of Hormuz. Some Qatari and UAE cargoes have managed to transit the Strait of Hormuz in recent weeks, but volumes are too low to move the needle of the global LNG balance. Even as crude oil cargoes have been pushing through the Strait with millions of barrels per day every day, LNG cargoes have struggled to transit the chokepoint as the gas is trickier to reload in ship-to-ship STS transfers than oil. The choked LNG flows from the Middle East in the past six months sent September gas prices in Asia and Europe to the highest since the 2022-2023 energy crisis, as buyers are competing for available supply that doesn't need to move through the Strait of Hormuz. As a result of choked supply, rallying prices, and a futures curve in backwardation that discourages storing gas, European gas storage levels are at a historical low. As of September 28, gas storage sites in the EU were 71% full per data by Gas Infrastructure Europe, compared to 86% for this time of year in the past five years. Some major economies, including the biggest, Germany, have even lower-than-average gas stored so far this filling season. Germany storage sites, for example, are only about 57% full, which has prompted concerns about supply security if the coming winter turns out much colder than previous winters. Europe's Gas Supply Security This week, QatarEnergy extended the force majeure on LNG deliveries through November. For Italian buyer Edison, the force majeure period runs through early December. As many as 35 cargoes under its long-term deal with Qatar haven't reached Italy so far this year, Edison said on Monday. The Italian energy and gas supplier reaffirmed \"its ability to source alternative gas for all its customers and to fully honor its past and future commercial commitments.\" VGN, one of Germany's biggest gas importers, also assured this week that Germany doesn't face a gas supply shortage despite record-low levels of natural gas in storage sites. \"Compared to 2022, the system is much more robust overall. We have more access to liquefied natural gas LNG and we have broadened our overall position in terms of sources of supply,\" VNG's chief executive officer Ulf Heitmueller told Reuters in an interview published on Monday. Diversification helps Europe source supply, but the Hormuz crisis has made that supply much more expensive than before the Iran war. As a result, Europe is paying a hefty price for securing prompt LNG supply. One silver lining is that the price premium to ship U.S. cargoes to East Asia has crumbled in recent weeks, effectively shutting the U.S. Gulf Coast-Asia arbitrage and shifting cargoes toward Europe. Asia was winning the competition early in the spring and summer, but with the closed Atlantic-Pacific arbitrage through the rest of the year, Europe is now importing more prompt LNG supply, but at a high cost. Policymakers and authorities say that Europe doesn't face immediate gas shortages, but warn that until the Hormuz crisis lasts, prices are set to remain much higher than in the past two years. \"Despite lower storage levels compared to historical levels, the Commission and EU countries reconfirmed that EU gas supply remains stable,\" the European Commission said last week following a meeting of the Gas Coordination Group, which advises the Commission on coordinating security-of-supply measures in the event of an EU or regional emergency. But ECB economists have warned that the surge in wholesale natural gas prices is set to pass through to retail and electricity inflation in the Eurozone faster than in the past. The European Energy Commissioner, Dan Jrgensen, has urged EU governments to consider measures to curb energy and gas demand as the gas supply situation hasn't improved since the start of the war in Iran. \"I invite you to consider taking or continuing to take measures that can sustain injections or reduce gas and electricity demand for as long as necessary,\" Jrgensen wrote in a recent letter to EU governments seen by Euronews. Even if Europe manages to squeak through the winter without major gas supply scares, the gas price surge will hit energy bills and industry energy costs again. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "伊朗战争导致全球五分之一的液化天然气（LNG）供应受困于霍尔木兹海峡之后，欧洲天然气价格大幅飙升。",
+          "自6月以来，欧洲中央银行（ECB）已两次上调关键利率。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html"
+          }
+        ]
+      },
+      {
+        "id": "story-gs-other-health-benefits-7ab20c443039ee9c",
+        "title": "减重药界“哥斯拉”或带来其他重要健康益处",
+        "originalTitle": "‘Godzilla’ of weight-loss drugs could provide other important health benefits",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:01:02.000Z",
+        "pubTime": "2026-09-30 06:01",
+        "url": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+        "imageUrl": "https://i.guim.co.uk/img/media/ec126c1ea0e0e77d16f37276000f3ee97eae5125/371_0_1729_1383/master/1729.jpg?width=140&quality=85&auto=format&fit=max&s=9a71528edb4fc217831131637562e539",
+        "fullContent": "Though not yet approved by any regulatory agency, retatrutide could help improve blood sugar levels and reduce inflammation\n\nThe ‘Godzilla’ of weight-loss drugs could help improve blood sugar levels, reduce inflammation and cut a person’s body weight by a quarter, according to the largest study of its kind.\n\nRetatrutide mimics three key gut hormones that help control appetite, blood sugar and metabolism: GLP-1, GIP and glucagon. Unlike other drugs such as Wegovy, which primarily targets the GLP-1 pathway to suppress appetite, or Mounjaro, which contains GLP-1 plus GIP to control blood sugar levels, retatrutide also engages the glucagon receptor, which helps increase energy expenditure.",
+        "fullTranslation": "尽管尚未获得任何监管机构的批准，瑞他鲁肽（retatrutide）仍可能有助于改善血糖水平并减轻炎症。\n\n同类研究中规模最大的一项研究表明，这款减重药界的“哥斯拉”可能有助于改善血糖水平、减轻炎症，并使人的体重减少四分之一。\n\n瑞他鲁肽模拟了三种有助于控制食欲、血糖和新陈代谢的关键肠道激素：GLP-1、GIP和胰高血糖素（glucagon）。与主要通过针对GLP-1通路来抑制食欲的Wegovy，或结合GLP-1与GIP以控制血糖水平的Mounjaro等其他药物不同，瑞他鲁肽还能激活胰高血糖素受体，从而有助于增加能量消耗。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "文章称，retatrutide尚未获得任何监管机构批准。",
+          "文章称，retatrutide可能改善血糖水平、减少炎症，并使人的体重减少四分之一。",
+          "来源叙事重点：突出retatrutide相较于Wegovy和Mounjaro可能具有更广泛或更强的代谢作用，重点强调其对体重、血糖和炎症的潜在改善，以及同时模拟GLP-1、GIP和胰高血糖素三条通路的机制。文章同时提到该药尚未获任何监管机构批准，但未展开说明研究设计、风险收益或审批进展。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:01:02.000Z",
+            "url": "https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits"
+          }
+        ]
+      },
+      {
+        "id": "story--young-isaac-newton-html-aee347e215d4bbe9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Revisiting a Young Isaac Newton",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T23:00:01.000Z",
+        "pubTime": "2026-09-30 07:00",
+        "url": "https://phys.org/news/2026-09-revisiting-young-isaac-newton.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/revisiting-a-young-isa.jpg",
+        "fullContent": "Isaac Newton is typically portrayed as a solitary scientist with intense focus who was obsessed with power and deeply egotistical. But a new book by Caltech historians Jed Buchwald and Mordechai Feingold takes a deeper look at Newton's life in the two decades leading up to the 1687 publication of his groundbreaking text, Principia Mathematica, when he was 44. Using newly digitized scans of Newton's early writings, Buchwald and Feingold uncover a portrait of the young polymath as a curious and so",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-revisiting-young-isaac-newton.html",
+            "publishedAt": "2026-09-29T23:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-30-10705954-shtml-f62aa703434a1fe1",
+        "title": "以色列防长威胁：哈马斯海外领导人也在打击之列",
+        "originalTitle": "以色列防长威胁：哈马斯海外领导人也在打击之列",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-29T22:56:43.000Z",
+        "pubTime": "2026-09-30 06:56",
+        "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml",
+        "imageUrl": null,
+        "fullContent": "中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。\n\n据报道，卡茨在一段视频声明中称，作为系列行动的一部分，以色列国防军连夜打死了哈马斯军事分支北加沙旅指挥官。\n\n卡茨还指出，身处海外的哈马斯领导人同样也是打击目标。那些参与2023年10月7日袭击以色列的“核心角色”，一个也不能“安然死去”。\n\n据此前报道，近段时间，以方加大对加沙地带巴勒斯坦武装人员打击力度。以总理内塔尼亚胡称，最近几周，以军在加沙地带打死百余名“恐怖分子”。\n\n以色列国防军和以色列国家安全总局(辛贝特)29日发表联合声明称，以方28日夜间至29日凌晨在加沙地带北部采取行动，打死哈马斯军事分支北加沙旅指挥官伊兹丁·比克。声明称，比克曾担任北加沙旅军事情报负责人，在该旅前任指挥官被打死后接任。\n\n农村随礼不超100元、县城不超200元，多地给份子钱“限高”\n\n鞋不对为何会丢金？亚运会“冷门”规则盘点\n\n余俊武：新时代的“侨批”如何推动中外文明交流互鉴？\n\n短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力\n\n世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n（爱知·名古屋亚运会）中国队摘田径4X100米混合接力金牌\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。\n\n据报道，卡茨在一段视频声明中称，作为系列行动的一部分，以色列国防军连夜打死了哈马斯军事分支北加沙旅指挥官。\n\n卡茨还指出，身处海外的哈马斯领导人同样也是打击目标。那些参与2023年10月7日袭击以色列的“核心角色”，一个也不能“安然死去”。\n\n据此前报道，近段时间，以方加大对加沙地带巴勒斯坦武装人员打击力度。以总理内塔尼亚胡称，最近几周，以军在加沙地带打死百余名“恐怖分子”。\n\n以色列国防军和以色列国家安全总局(辛贝特)29日发表联合声明称，以方28日夜间至29日凌晨在加沙地带北部采取行动，打死哈马斯军事分支北加沙旅指挥官伊兹丁·比克。声明称，比克曾担任北加沙旅军事情报负责人，在该旅前任指挥官被打死后接任。\n\n农村随礼不超100元、县城不超200元，多地给份子钱“限高”\n\n鞋不对为何会丢金？亚运会“冷门”规则盘点\n\n余俊武：新时代的“侨批”如何推动中外文明交流互鉴？\n\n短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力\n\n世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n（爱知·名古屋亚运会）中国队摘田径4X100米混合接力金牌\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦以色列国防部长卡茨扩大打击对象范围的表态，以及以军和辛贝特宣称在加沙北部打死哈马斯北加沙旅指挥官一事。叙事主要呈现以色列方面关于追责、军事行动和反恐目标的说法，并以“威胁”“打击目标”等表述突出行动的延伸性。"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-29T22:56:43.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-lled-openais-dots-launch-c7d7b794f0ae36ef",
+        "title": "互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布",
+        "originalTitle": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:20:59.000Z",
+        "pubTime": "2026-09-30 06:20",
+        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "imageUrl": null,
+        "fullContent": "On Tuesday, OpenAI launched a new product called Dots, an always-on AI agent with a bubbly, blobby avatar. While the colorful avatar might evoke a smile, the biggest laugh from the launch is (we imagine) being had by Elon Musk, the former OpenAI founder who left, launched competitor Grok, and unsuccessfully sued.\n\nThat’s because the domain “dot.com” belongs to Musk’s xAI, and it currently redirects to the download page for xAI’s Grok chatbot app. According to the Whois domain owner registry, that domain name was just transferred in July.\n\nIt is entirely possible that xAI bought the domain for normal domain-buying reasons. “Dot” could be a typo of “bot,” so it nabbed it to grab mistyped searches. We’ve reached out to xAI and asked. But xAI doesn’t own the “bot.com” name, nor does it own other obvious typo domains like “vot.com,” which is listed for sale.\n\nThe internet’s theory is far funnier: that Musk (or his team) pulled off a prank, getting wind of OpenAI’s new product and its name and buying the domain name.\n\nIn fact, anonymous X user and xAI watcher @birdabo (this person calls themselves “chief shitposting officer @SpaceXAI“) was first to spot the domain name in a now-viral post. Whatever the motivation, the circumstance is funny.\n\nAnd as for the “dots.com” domain, a more direct fit to the product name, it currently belongs to a long-defunct company. So if a petty revenge prank was really the motivation, grabbing that name, too, would be next level.\n\nAHAHAHAHAHAHAHAHAHAHAHA NO WAY. > OpenAI just announced Dots.> SpaceXAI bought https://t.co/WdFqpl07IQit redirects straight to the Grok Bot download page. based lmao. pic.twitter.com/HF95hLF0T9\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。\n\n这是因为域名“dot.com”归马斯克的 xAI 所有，且目前会自动重定向到 xAI 旗下 Grok 聊天机器人应用的下载页面。根据 Whois 域名所有者注册数据库的记录，该域名刚刚在今年 7 月完成转让。\n\n当然，xAI 完全有可能是出于常规的域名收购考量买下了该域名。“Dot”可能是“bot”的拼写错误，因此买下它是为了拦截打错字的用户搜索流量。我们已联系 xAI 询问此事。不过，xAI 并不拥有“bot.com”这个域名，也没有拥有其他显而易见的拼写错误域名，例如目前仍在挂牌出售的“vot.com”。\n\n网民们的推测则要有趣得多：马斯克（或其团队）搞了一场恶作剧——他们提前收到了 OpenAI 新产品及其名称的风声，从而抢先买下了该域名。\n\n事实上，一位匿名的 X 用户兼 xAI 观察员 @birdabo（此人自称是“@SpaceXAI 的首席恶搞官”）最先在一篇疯传的帖子中注意到了这个域名。无论其真正动机如何，这一情况确实颇具喜感。\n\n至于更直接契合该产品名称的“dots.com”域名，目前归属于一家早已停业的公司。因此，如果这场恶作剧真是出于报复心理，要是能连那个域名也一并拿下，那才算更上一层楼。\n\n“哈哈哈哈哈哈哈哈哈哈 不可能吧。> OpenAI 刚刚宣布了 Dots。> SpaceXAI 就买下了 https://t.co/WdFqpl07IQ 它直接重定向到了 Grok Bot 的下载页面。太秀了笑死。pic.twitter.com/HF95hLF0T9”\n\n购买第二张门票立减 50%：Disrupt 的体验本就该与人共享。立即购买门票，即可携同事、合作伙伴或同行以半价入场。通过建立人脉、蓄积动力并探索初创生态系统的下一站，拓宽你的业务视野。\n\n每周工作日及周日，您均可获取 TechCrunch 最优质的报道内容。\n\nTechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。\n\n初创公司是 TechCrunch 的核心，敬请每周查收我们为您呈现的精选报道。\n\n为行业领袖及决策者提供开启新一天所需的关键资讯。\n\n提交您的电子邮件即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦OpenAI发布AI代理产品Dots前后，xAI持有dot.com且该域名跳转至Grok下载页面这一巧合，以及互联网用户据此推测马斯克或xAI团队进行恶作剧的说法。文章同时提出域名可能因常规商业原因或防止将“dot”误拼为“bot”而被购买，但整体以戏剧性和娱乐性解读为主。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:20:59.000Z",
+            "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+          }
+        ]
+      },
+      {
+        "id": "story-for-more-things-08a4221b-00d5b29ab7eceb46",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:00:00.000Z",
+        "pubTime": "2026-09-30 06:00",
+        "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“We have an ironclad prenup.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-29T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ds-of-sql-query-builders-29ded93617898db7",
+        "title": "两种 SQL 查询构造器",
+        "originalTitle": "Two Kinds of SQL Query Builders",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T20:47:03.000Z",
+        "pubTime": "2026-09-30 04:47",
+        "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+        "imageUrl": null,
+        "fullContent": "The SQL language has a paradoxical fate. Although it was deliberately designed to appeal to a human user, nowadays most of SQL code is written—or rather generated—by the computer. Many computer programs need to query some database, and, for the vast majority of database servers, the only supported query language is SQL. But generating SQL is difficult because of the complicated and obscure rules of its quasi-English grammar (its original name SEQUEL stands for Structured English Query Language). For this reason, programs that interact with a database often use specialized libraries for generating SQL queries.\n\nOne of such libraries is FunSQL. FunSQL is designed with two goals in mind: supporting the full range of SQL's querying capabilities and exposing these capabilities in a compositional, data-oriented interface. This combination of goals makes FunSQL a perfect tool for data analysis in SQL and differentiates it from all the other query building libraries. Many query builders offer good coverage of SQL features, fewer provide data-oriented interface, but only FunSQL combines them in a single package.\n\nAnd yet the difference between FunSQL and other query builders is not immediately apparent. In fact, the interfaces of various query building libraries seem almost identical. A query that finds 100 oldest male patients (in the OMOP CDM database) is assembled with FunSQL as follows:\n\nThe same query can be written in Ruby using Active Record Query Interface:\n\nOr in PHP with Laravel's Query Builder:\n\nOr in R with dbplyr:\n\nIn each of these code samples, the query is assembled using essentially the same interface. Stripped of its syntactic shell, the process of assembling the query can be visualized as a diagram of five processing nodes connected in a pipeline:\n\nIt is precisely the fact that the query is progressively assembled using atomic, independent components that lets us call this interface compositional.\n\nHowever we did claim that FunSQL differs from all the other query building libraries, and now apparently proved the opposite? As a matter of fact, there is a difference, even if it is not reflected in notation. To demonstrate this, let us rearrange this pipeline, moving the Order and the Limit nodes in front of Where.\n\nHow does this rearrangement affect the output of the query? Perhaps unexpectedly, the answer depends on the library. With FunSQL, as well as EF/LINQ and dbplyr, it changes the output from 100 oldest male patients to the males among 100 oldest patients. But not so with the other two libraries, Active Record and Laravel, where rearranging the pipeline has no effect on the output.\n\nTo summarize, the following query builders are sensitive to the order of the pipeline nodes:\n\nAnd the following are not:\n\nThese are the two kinds of query builders from this article's title. But how can these libraries act so differently while sharing the same interface? To answer this question, we need to focus on what is only implicitly present on the pipeline diagram: the information that is processed by the pipeline nodes.\n\nA node with one incoming and one outgoing arrow symbolizes a processing unit that takes the input data, transforms it, and emits the output data. While the character of the data is not revealed, it is tempting to assume it to be the tabular data extracted from the database.\n\nBut this can't be right, at least not literally, because a SQL query builder cannot read the data in the database. Instead, the query builder generates a SQL query:\n\nBut if we assume for a moment that pipeline nodes could process the data directly, we would expect that both the pipeline and the corresponding SQL query produce the same output. In other words, the role of the pipeline is to specify the expected output of the SQL query. This is how pipeline nodes are interpreted by FunSQL and the other two libraries, EF/LINQ and dbplyr. We can call such query builders data-oriented.\n\nThe conversion of the pipeline to SQL is not always that straightforward. Even though we could freely reorder the nodes in a pipeline, we cannot do the same to the clauses in a SQL query. This is because the SQL grammar arranges the clauses in a rigid order:\n\nThis order is compatible with the first pipeline, in which the Where node is followed by Order and Limit, but not the second pipeline, where these nodes change their relative positions. So how could the second pipeline be converted to SQL? We would be out of options if we were still using the original SQL standard, SQL-86, but the next revision of the language, SQL-92, recognized this limitation. Regrettably, it did not relax this rigid clause order. Instead, SQL-92 introduced a workaround: a query can be extended by nesting it into the next query's FROM clause. This gives us a method for converting an arbitrary pipeline into SQL: break the pipeline into smaller chunks that comply with the SQL clause order, convert each chunk into a SQL query, and then nest all these queries together:\n\nThe SQL grammar has a number of deficiencies, including rigid clause order, query nesting, and nonsensical position of the SELECT clause. The position of SELECT violates the execution flow of the query, and this violation is aggravated by query nesting. Complex SQL queries often require multiple levels of nesting, which makes such queries bloated and difficult to interpret. This is where data-oriented query builders, which do not constrain the order of pipeline nodes, offer an improvement over plain SQL.\n\nWhat about the other kind of query builders? Active Record and Laravel employ a pipeline of exactly the same form, but because it is not sensitive to the order of the nodes, it must work on a different principle. Indeed, this pipeline generates a SQL query by incrementally assembling the SQL syntax tree. Because of the rigid clause order, a SQL syntax tree can be faithfully represented as a composite data structure with slots specifying the content of the SELECT, FROM, WHERE, and the other clauses:\n\nIndividual slots of this structure are populated by the corresponding pipeline nodes.\n\nThis explains why the pipeline is insensitive to the order of the nodes. Indeed, as long as the content of the slots stays the same, it makes no difference in what order the slots are populated.\n\nThis method of incrementally constructing a composite structure is known as the builder pattern. We can call the query builders that employ this pattern syntax-oriented.\n\nBoth data-oriented and syntax-oriented query builders are compositional: the difference is in the nature of the information processed by the units of composition. Data-oriented query builders incrementally refine the query output; syntax-oriented query builders incrementally assemble the SQL syntax tree. Their interfaces look almost identical, but their methods of operation are fundamentally different.\n\nBut which one is better? Syntax-oriented query builders have two definite advantages: they are easy to implement and they could support the full range of SQL features. Indeed, the interface of a syntax-oriented query builder is just a collection of builders for the SQL syntax tree. How complete the representation of the syntax tree determines how well various SQL features are supported.\n\nOn the other hand, syntax-oriented query builders are harder to use. As they directly represent the SQL grammar, they inherit all of its deficiencies. In particular, the rigid clause order makes it difficult to assemble complex data processing pipelines, especially when the arrangement of pipeline nodes is not predetermined.\n\nA data-oriented query builder directly represents data processing nodes, which makes assembling data processing pipelines much more straightforward—as long as we can find the necessary nodes among those offered by the builder. But where does the builder get its collection of data processing nodes? And how can we tell if this collection is complete?\n\nOne way to implement a data-oriented query builder is to adapt a general-purpose query framework. Indeed, this is the origin of EF/LINQ, which is adapted from LINQ, and dbplyr, which is adapted from dplyr. The query framework determines what processing nodes are available and how they operate. In principle, any query framework could be adapted to SQL databases by introducing just one new node, a node that loads the content of a database table. If we place this node at the beginning of a pipeline and make the rest of it out of regular nodes, we obtain a pipeline that processes data from a SQL database. However, this pipeline will be very inefficient compared to a SQL engine, which can use indexes to avoid loading the entire table into memory and thus can process the same data much faster. This is why EF/LINQ and dbplyr generate a SQL query that replaces the pipeline as a whole. The pipeline itself no longer runs directly, but now serves as a specification, with the assumption that if it were to run, it would produce the same output as the SQL query. This method of transforming a general-purpose query framework to a SQL query builder is called SQL pushdown.\n\nHowever, SQL pushdown has a serious limitation. A general-purpose query framework is not designed with SQL compatibility in mind. For this reason, some of the pipelines assembled within this framework cannot be converted to SQL. Even worse, many useful SQL queries have no equivalent pipelines and thus cannot be generated using SQL pushdown. Indeed, SQL accumulated a wide range of features and capabilities since it first appeared in 1974. The first revision of the SQL standard, SQL-86, already supported Cartesian products, filtering, grouping, aggregation, and correlated subqueries. The next revision, SQL-92, added many join types and introduced query nesting. SQL:1999 greatly expanded its analytical capabilities by adding two types of queries: recursive queries, for processing hierarchical data, and data cube queries, which generalize histograms, cross-tabulations, roll-ups, drill-downs, and sub-totals. The follow-up revision, SQL:2003, added support for aggregate functions over a running window. Admittedly, SQL is a quintessential enterprise abomination, a hodgepodge of features added to support every imaginable use case, but with inadequate syntax, weird gaps in functionality, and no regards to internal consistency. Nevertheless, the breadth of SQL's capabilities has not been matched by any other query framework, including LINQ or dplyr. So when we generate SQL queries using EF/LINQ or dbplyr, a large subset of these capabilities remains inaccessible.\n\nFunSQL is a data-oriented query builder created specifically to expose full expressive power of SQL. Unlike EF/LINQ and dbplyr, FunSQL was not adapted from an existing query framework, but was carefully designed from scratch to match SQL's capabilities. These capabilities include, for example, support for correlated subqueries and lateral joins (with Bind node), aggregate and window functions (using Group and Partition nodes), as well as recursive queries (with Iterate node). This comprehensive support for SQL capabilities makes FunSQL the only SQL query builder suitable for assembling complex data processing pipelines. Moreover, even though FunSQL pipelines cannot be run directly, every FunSQL node has a well-defined data processing semantics, which means that, in principle, FunSQL could be developed into a full-blown query framework. This potentially opens a path for replacing SQL with an equally powerful, but a more coherent and expressive query language.",
+        "fullTranslation": "SQL 语言有着耐人寻味的命运。尽管它最初是为了迎合人类用户而精心设计的，但如今绝大多数 SQL 代码却是由计算机编写——或者更确切地说是生成的。许多计算机程序都需要查询某种数据库，而对绝大多数数据库服务器而言，唯一支持的查询语言就是 SQL。然而，由于其类英语语法（其原名 SEQUEL 代表结构化英语查询语言）规则复杂且晦涩，生成 SQL 代码十分困难。正因如此，与数据库交互的程序通常会使用专门的库来生成 SQL 查询。\n\nFunSQL 就是这样的一款库。FunSQL 的设计旨在实现两个目标：全面支持 SQL 的各项查询功能，并通过可组合、面向数据（data-oriented）的接口将这些功能暴露出来。这一目标组合使 FunSQL 成为利用 SQL 进行数据分析的绝佳工具，并使其在所有其他查询构造库中脱颖而出。许多查询构造器都能很好地覆盖 SQL 特性，提供面向数据接口的则相对较少，但唯有 FunSQL 将这两者融于一身。\n\n然而，FunSQL 与其他查询构造器之间的差异并不会立即显现。事实上，各类查询构造库的接口看起来几乎毫无二致。例如，在 OMOP CDM 数据库中查找 100 位年龄最大的男性患者的查询，使用 FunSQL 组装如下：\n\n同样的查询，在 Ruby 中使用 Active Record Query Interface 可以写成：\n\n或者在 PHP 中使用 Laravel 的 Query Builder：\n\n抑或在 R 语言中使用 dbplyr：\n\n在这些代码示例中，查询本质上都是使用相同的接口来组装的。剥离其语法外壳后，组装查询的过程可以形象化为一条由五个处理节点连接而成的流水线图：\n\n正是由于查询是由原子化、独立的组件逐步组装而成的这一事实，我们才能称这种接口为可组合的（compositional）。\n\n然而，我们此前声称 FunSQL 与所有其他查询构造库都不同，现在岂不是证明了相反的结论？事实上，差异确实存在，即便它并未在书写形式上反映出来。为了证明这一点，我们不妨重新排列这个流水线，将 Order 和 Limit 节点移至 Where 节点之前。\n\n这种重排会对查询的输出产生什么影响？也许出人意料的是，答案取决于所使用的库。在 FunSQL 以及 EF/LINQ 和 dbplyr 中，它会将输出从“100 位年龄最大的男性患者”变为“在 100 位年龄最大的患者中的男性”。但在另外两个库（Active Record 和 Laravel）中却并非如此，在它们之中重排流水线对输出毫无影响。\n\n概括而言，以下查询构造器对流水线节点的顺序敏感：\n\n而以下查询构造器则不敏感：\n\n这正是本文标题所指的两种查询构造器。但是，既然这些库共享相同的接口，它们又为何会表现得如此迥异？要回答这个问题，我们需要聚焦于流水线图上仅隐式存在的内容：流水线节点所处理的信息。\n\n一个带有一进一出箭头的节点象征着一个处理单元，它接收输入数据，对其进行转换，然后输出数据。虽然数据的具体特征并未揭晓，但人们很容易假设它就是从数据库中提取的表格数据。\n\n但这不可能是正确的，至少在字面上不是，因为 SQL 查询构造器无法直接读取数据库中的数据。相反，查询构造器生成的是 SQL 查询：\n\n但如果我们暂时假设流水线节点可以直接处理数据，我们就会预期流水线和对应的 SQL 查询产生相同的输出。换言之，流水线的作用是规定 SQL 查询的预期输出。这就是 FunSQL 以及 EF/LINQ 和 dbplyr 这两款库对流水线节点的解释方式。我们可以称这类查询构造器为“面向数据”（data-oriented）的。\n\n将流水线转换为 SQL 并不总是那么直截了当。尽管我们可以在流水线中自由重排节点，但我们无法对 SQL 查询中的子句做同样的事。这是因为 SQL 语法将子句安排在了僵化的固定顺序中：\n\n这种顺序与第一种流水线兼容（其中 Where 节点后面跟着 Order 和 Limit），但与第二种流水线不兼容（其中这些节点改变了相对位置）。那么，第二种流水线如何才能转换为 SQL？如果我们仍在使用最初的 SQL 标准 SQL-86，那我们将束手无策；不过，该语言的下一版本 SQL-92 意识到了这一局限。遗憾的是，它并未放宽这种僵化的子句顺序。取而代之的是，SQL-92 引入了一种变通方案：可以通过将一个查询嵌套到下一个查询的 FROM 子句中来对其进行扩展。这为我们将任意流水线转换为 SQL 提供了一种方法：将流水线拆解为符合 SQL 子句顺序的较小分块，将每个分块转换为一个 SQL 查询，然后将所有这些查询嵌套在一起：\n\nSQL 语法存在诸多缺陷，包括僵化的子句顺序、查询嵌套，以及 SELECT 子句荒谬的位置。SELECT 的位置违背了查询的执行流，而查询嵌套更是加剧了这种违背。复杂的 SQL 查询通常需要多层嵌套，这导致此类查询变得臃肿且难以理解。这正是面向数据的查询构造器（不对流水线节点的顺序加以限制）相较于原生 SQL 提供改进的地方。\n\n那么另一种查询构造器又是怎样的呢？Active Record 和 Laravel 采用了完全相同形式的流水线，但由于它对节点的顺序不敏感，因此必然是基于不同的原理运行。事实上，这种流水线是通过增量组装 SQL 语法树来生成 SQL 查询的。由于固定的子句顺序，SQL 语法树可以被如实地表示为一个复合数据结构，其中的各个槽位指定了 SELECT、FROM、WHERE 和其他子句的内容：\n\n该结构的各个独立槽位由相应的流水线节点填充。\n\n这就解释了为什么这种流水线对节点的顺序不敏感。确实，只要槽位的内容保持不变，以何种顺序填充槽位并无任何分别。\n\n这种逐步构建复合结构的方法被称为生成器模式（builder pattern）。我们可以称采用这种模式的查询构造器为“面向语法”（syntax-oriented）的。\n\n无论是面向数据的查询构造器还是面向语法的查询构造器，它们都是可组合的：两者的区别在于组合单元所处理信息的本质。面向数据的查询构造器逐步细化查询输出；面向语法的查询构造器则逐步组装 SQL 语法树。它们的接口看起来几乎一模一样，但其运作机制却有着本质的不同。\n\n但哪一种更好？\n\n语法导向的查询构建器有两个明确的优势：易于实现，并且能够支持完整范围的 SQL 特性。实际上，语法导向查询构建器的接口只是一组用于构建 SQL 语法树的构建器。语法树的表示有多完整，决定了它对各种 SQL 特性的支持程度。\n\n另一方面，语法导向的查询构建器更难使用。由于它们直接表示 SQL 语法，因此也继承了 SQL 语法的所有缺陷。尤其是，僵化的子句顺序使得组装复杂的数据处理流水线变得困难，特别是在流水线节点的排列顺序并未预先确定时。\n\n数据导向的查询构建器直接表示数据处理节点，这使得组装数据处理流水线变得直观得多——前提是我们能在构建器提供的节点中找到所需节点。但构建器从哪里获得这组数据处理节点？我们又如何判断这组节点是否完整？\n\n实现数据导向查询构建器的一种方式，是对通用查询框架进行适配。EF/LINQ 的来源正是这种方式：它由 LINQ 适配而来；dbplyr 则由 dplyr 适配而来。查询框架决定了有哪些处理节点可用，以及这些节点如何运行。原则上，任何查询框架都可以通过引入一个新节点来适配 SQL 数据库，这个节点用于加载数据库表的内容。如果我们把这个节点放在流水线开头，再用常规节点组成流水线的其余部分，就能得到一个处理 SQL 数据库中数据的流水线。然而，与 SQL 引擎相比，这种流水线的效率会非常低，因为 SQL 引擎可以利用索引，避免将整张表加载到内存中，从而更快地处理相同的数据。这就是 EF/LINQ 和 dbplyr 会生成 SQL 查询、用它整体替代流水线的原因。流水线本身不再直接运行，而是充当一种规范：假定它实际运行时，会产生与该 SQL 查询相同的输出。将通用查询框架转换为 SQL 查询构建器的这种方法称为 SQL 下推（SQL pushdown）。\n\n然而，SQL 下推存在一个严重的局限。通用查询框架的设计并未考虑与 SQL 的兼容性。因此，在这一框架中组装的一些流水线无法转换为 SQL。更糟糕的是，许多有用的 SQL 查询并不存在对应的流水线，因而无法通过 SQL 下推生成。事实上，自 1974 年首次出现以来，SQL 已经积累了广泛的特性和能力。SQL 标准的第一次修订版 SQL-86 已经支持笛卡尔积、过滤、分组、聚合和相关子查询。下一版修订标准 SQL-92 增加了多种连接类型，并引入了查询嵌套。SQL:1999 通过增加两类查询，大幅扩展了分析能力：用于处理层次化数据的递归查询，以及数据立方体查询；后者概括了直方图、交叉表、汇总、下钻和小计。后续的 SQL:2003 修订版增加了对运行窗口上的聚合函数的支持。诚然，SQL 是典型的企业级畸形产物，是为支持各种可以想象的使用场景而不断添加特性的杂乱拼合体，但其语法不充分、功能存在奇怪的缺口，也不顾内部一致性。尽管如此，SQL 能力的广度仍未被包括 LINQ 或 dplyr 在内的任何其他查询框架匹敌。因此，当我们使用 EF/LINQ 或 dbplyr 生成 SQL 查询时，SQL 的这部分庞大能力仍然无法使用。\n\nFunSQL 是一种专门创建的数据导向查询构建器，旨在展现 SQL 的完整表达能力。不同于 EF/LINQ 和 dbplyr，FunSQL 并非由现有查询框架改造而来，而是从零开始经过精心设计，以匹配 SQL 的能力。这些能力包括：支持相关子查询和横向连接（通过 Bind 节点实现）、聚合函数和窗口函数（使用 Group 和 Partition 节点实现），以及递归查询（通过 Iterate 节点实现）。对 SQL 能力的这种全面支持，使 FunSQL 成为唯一适合组装复杂数据处理流水线的 SQL 查询构建器。此外，尽管 FunSQL 流水线无法直接运行，但每个 FunSQL 节点都有定义明确的数据处理语义；这意味着，原则上可以将 FunSQL 开发成完整的查询框架。这有可能为用一种同样强大、但更加连贯且更具表达力的查询语言取代 SQL 开辟道路。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 31,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T20:47:03.000Z",
+            "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders"
+          }
+        ]
+      },
+      {
+        "id": "story-9-monkeys-conflicts-html-a791aba43d28dd1d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why monkeys handle conflicts better than we do",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:40:04.000Z",
+        "pubTime": "2026-09-30 06:40",
+        "url": "https://phys.org/news/2026-09-monkeys-conflicts.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-gorillas-in-a-fore.jpg",
+        "fullContent": "Conflicts with our colleagues, loved ones or team members can quickly stifle communication, heighten tensions and undermine relationships. However, a decision or compromise is not always enough to restore cooperation—for a solution to last, we must also repair the bond that will allow people to continue moving forward together.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 06:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-monkeys-conflicts.html",
+            "publishedAt": "2026-09-29T22:40:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-alitskiy-2121092497-html-9a823dbbe5b7941a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Балицкий рассказал о развитии Запорожской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T22:55:36.000Z",
+        "pubTime": "2026-09-30 06:55",
+        "url": "https://ria.ru/20260930/balitskiy-2121092497.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/0c/14/1916906967_0:0:3072:1728_650x0_80_0_0_9b90133c962e63d7fb1ca48e271b97c3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 06:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/balitskiy-2121092497.html",
+            "publishedAt": "2026-09-29T22:55:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-f-data-to-tech-companies-499a6ea33b625961",
+        "title": "你的汽车及其移动应用可能正向科技公司交出各种数据",
+        "originalTitle": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:18:35.000Z",
+        "pubTime": "2026-09-30 06:18",
+        "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+        "imageUrl": null,
+        "fullContent": "Modern-day vehicles built with connected car technology such as WiFi and GPS collect reams of data about its owners. And that data is not staying private, according to a new study conducted by researchers at Northeastern University.\n\nThat conclusion isn’t new — there have been numerous investigations and lawsuits exposing how driving data is collected and shared with third parties, including insurance companies. What the study reveals is just how vast the problem is and how hard it is for consumers to avoid, short of not using the vehicle or its convenient features like remote start and unlock.\n\nResearchers in partnership with Consumer Reports tested 21 late-model vehicles from 17 automakers, including GM brands Cadillac and Chevrolet as well as Ford, Lucid, Rivian, Tesla, Toyota, and more. They also examined 30 companion mobile apps to “understand the privacy implications of the connected vehicle ecosystem.” The peer-reviewed study will be published this week.\n\nThe implications aren’t great for consumers, whose data is being shared with tech companies including Adobe, ContentSquare, Google, Microsoft, Meta, Snap, and Yahoo.\n\nNineteen of the 21 vehicles tested sent traffic to at least one third party and seven of the 30 apps gave sensitive data such as the vehicle identification number (VIN), emails, phone numbers, and precise location to third-party companies associated with tracking and advertising.\n\nThis often went a step further with multiple forms of information being sent to the same third party, a scheme that allows advertisers and data brokers to build in-depth profiles of consumers, according to the findings. These profiles can be particularly hard for consumers to shake because they’re sold to a variety of companies including insurers and banks.\n\nWhen researchers paired the companion app to the vehicle it roughly doubled the exposure to advertising and tracking companies.\n\nThe findings were shared with the different manufacturers and all of them, with the exception of Honda, shifted blame elsewhere and often to consumers, the researchers said. (Honda did respond by improving its data collection practices after learning about the findings and ordered its vendor Amplitude to deleta all geolocation data it had received.)\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。\n\n这一结论并不新鲜——已有大量调查和诉讼揭露了驾驶数据是如何被收集并与包括保险公司在内的第三方共享的。这项研究揭示的是，问题的规模究竟有多大，以及消费者要避开这一问题有多困难；除非他们完全不使用汽车，或不使用远程启动、远程解锁等便利功能。\n\n研究人员与《消费者报告》合作，对来自17家汽车制造商的21辆新款汽车进行了测试，其中包括通用汽车旗下的凯迪拉克和雪佛兰，以及福特、Lucid、Rivian、特斯拉、丰田等品牌。他们还检查了30款配套移动应用，以“了解联网汽车生态系统对隐私的影响”。这项经过同行评审的研究将于本周发表。\n\n对于消费者来说，这些发现并不乐观，因为他们的数据正被共享给包括Adobe、ContentSquare、谷歌、微软、Meta、Snap和雅虎在内的科技公司。\n\n在接受测试的21辆汽车中，有19辆将流量发送给至少一家第三方机构；30款应用中有7款将车辆识别号码（VIN）、电子邮件地址、电话号码和精确位置等敏感数据提供给与跟踪和广告相关的第三方公司。\n\n研究结果显示，这一过程往往更进一步：同一家第三方机构会收到多种形式的信息。这种做法让广告商和数据经纪商能够建立消费者的深度画像。这些画像尤其难以摆脱，因为它们会被出售给包括保险公司和银行在内的各种企业。\n\n当研究人员将配套应用与汽车连接后，汽车暴露给广告和跟踪公司的程度大约增加了一倍。\n\n研究人员表示，他们已将研究结果分享给相关汽车制造商。除本田外，所有制造商都将责任推给了其他方面，而且往往归咎于消费者。（本田在得知研究结果后确实改善了数据收集做法，并要求其供应商Amplitude删除已经收到的所有地理位置数据。）\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n交通运输编辑\n\n第二张门票享受五折优惠\n\nThe Disrupt体验旨在与他人共享。购买您的门票，并以五折价格带上一位同事、合作伙伴或同行者。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。\n\nCrusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划\n\nAstra和Opus刚刚通过了Turing的另一项测试\n\n甲骨文向其位于新墨西哥州的Stargate数据中心发出不可抗力通知\n\nMeta为其Muse人工智能代理制作了一款类似电子宠物机的可穿戴设备\n\n《Vogue》让机器人走上Vogue World的T台，但人们并不买账\n\nAnthropic称其生物学实验室已经取得重大突破\n\nPitPro首台换胎机器人在加拿大投入运行",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "来源叙事重点：将联网汽车描述为持续收集并向第三方传输车主数据的生态系统，强调汽车与手机应用结合后会扩大广告和追踪暴露，并突出消费者难以在保留远程启动、解锁等便利功能的同时避免数据共享。报道还强调数据可能被广告商、数据经纪商、保险公司和银行用于建立消费者画像。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:18:35.000Z",
+            "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/"
+          }
+        ]
+      },
+      {
+        "id": "story-t-to-gas-automakers-html-4cffb47eb938987f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US Government Presents Regulatory Gift to Gas Automakers",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:00:00.000Z",
+        "pubTime": "2026-09-30 06:00",
+        "url": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html",
+        "imageUrl": null,
+        "fullContent": "The US government on Monday finalized new lower vehicle fuel economy standards reversing a push by the Biden administration to build more fuel-efficient vehicles. The move is broadly seen as helping sales of gas-powered cars and trucks at the expense of electric vehicles. The Alliance for Automotive Innovation called the rollback an \"appropriate course correction\" that aligns fuel economy standards with market realities and legal requirements. Automotive News Environmental groups countered that the rollback gives automakers a break while US drivers continue to grapple with sharply higher fuel prices due to the war in Iran. Per Reuters The Transportation Department said it was finalizing a fleetwide average of 34.9 miles per gallon 14.7 km per liter by 2031, down from 50.4 miles per gallon 21.4 km per liter under Democratic former President Joe Biden. In 2024, the Biden administration finalized rules to push automakers to build more electric vehicles to meet rising fuel-efficiency standards. Biden increased required fuel efficiency for cars by 8% annually for model years 2024 and 2025, 10% for 2026 and 2% annually from 2027 to 2031. The lower standards mean higher global carbon emissions, a slowdown in the worldwide shift to electric vehicles, and a strategic retreat by the US from the global clean-energy race. American drivers will burn more gasoline, adding billions of tons of extra greenhouse gases into the atmosphere and undermining global climate goals. Related US Distillate Stocks Continue to Fall As Crude Inventories Build The policy encourages the production of larger, less efficient gas-powered trucks and sports utility vehicles, keeping global oil demand high for decades. It also ends a credit-trading system automakers used to comply with requirements, effective in model-year 2028, thus removing a major financial cushion for pure electric vehicle pioneers like Tesla and Rivian. International car companies such as Toyota, Volkswagen and Hyundai can now sell more profitable gas vehicles in the US while keeping EV development focused elsewhere. The Trump administration estimates technology costs will drop $60.6 billion through 2031, with Stellantis saving $6.6 billion, Ford $5.8 billion, Toyota $4.5 billion and Honda $4.1 billion, Automotive News reports. While the US has finalized sharply lower standards, the European Union and China are moving in the opposite direction with strict, legally binding timelines. Europe's regulations require a 100% reduction in tailpipe emissions for new cars by 2035. This creates a legal phase-out of traditional internal combustion engines ICE. China approaches vehicle regulation from two sides a strict fuel consumption standard for gas cars and an aggressive New Energy Vehicle NEV mandate. China uses a \"dual-credit\" system that forces automakers to accumulate points by manufacturing a high percentage of EVs and plug-in hybrids. This strategy has allowed Chinese automakers to capture roughly 60% of global EV sales. While the US is just measuring gas consumption, China implemented a law which regulates the efficiency of electric car batteries. This forces companies to build lighter, longer-range EVs rather than just larger batteries. The bottom line The US has essentially hit the brakes on forcing its auto industry toward electrification, giving domestic manufacturers breathing room to focus on highly profitable gas SUVs and trucks. Meanwhile, Europe and China are continuing down a strict regulatory pipeline, forcing global automakers to build highly advanced electric drivetrains if they want to access the European and Asian markets. Fuel economy or greenhouse gas GHG emission standards for new passenger vehicles currently exist in over 40 countries, covering more than 80% of new passenger vehicle sales worldwide. The primary regulatory drivers include the United States, the European Union, China and Japan, which together represent the largest blocks of global fuel consumption and vehicle manufacturing. Most of these national and regional policies rely on corporate-average fuel economy CAFE or fleet-average greenhouse gas tailpipe limits, scaling targets based on vehicle attributes like size or weight rather than imposing a flat standard across all classes. By Andrew Topf for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html"
+          }
+        ]
+      },
+      {
+        "id": "story-blogs-the-shell-43359d1a46b3eaed",
+        "title": "Shell 与电子邮件",
+        "originalTitle": "The Shell & Email",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T20:14:41.000Z",
+        "pubTime": "2026-09-30 04:14",
+        "url": "https://www.machtiani.chat/blogs/the-shell",
+        "imageUrl": null,
+        "fullContent": "Is email the best way to work when working with multiple agents at the same time? Each email thread is a session. And it supports group conversations.\n\nSee what I built on Github.\n\nWith email. you’re not chained to a single company’s app or, even, your laptop. You can do it anywhere and email is the most versatile in poor network conditions, on top of that.\n\nEmail already solves the problem for working with people in an asynchronous and distributed way. Large language models get this, like they get the shell.\n\nWe like the shell and the terminal that let’s us use it. And for practical reasons. The shell composes and enables interoperability with other applications without a gatekeeper. Once you get the hang of it, using the terminal is fun and liberating.\n\nThere is no coincidence that LLMs are most useful to us when harnessed to the shell. And if we need to work very closely with an agent, doing so from the terminal is best so we can be as close to the shell as possible.\n\nI’m thankful for that. We mostly use Claude Code, Codex CLI, and others, such as OpenCode that uses the shell and are worked with by us on the terminal (uses the shell). We don’t have to use an iPhone App or some cloud based web app by a single company to use a computer productively.\n\nHowever, there are clearly limitations when you must work with many agents. It’s dizzying. We often need to work asynchronously with agents working on different things. Stop. Do something else. Live life. Check on it a bit. Return to it easily on our own time, etc.\n\nAgain, email already solves the problem for working with people in an asynchronous and distributed way. That translates well when working with agents, and even other people and agents.\n\nAfter the first release of Machtiani over a year ago, I began feeding Machtiani’s answers back into its next instructions. I didn’t release until now to pursue this. An iterative instructions loop that drove a worker that is lightweight supervisor.\n\nThat lightweight supervisor can work with any agents already installed on your computer.\n\nI found email be the most natural and liberating way to work with others and agents together.\n\nSee Machtiani on GitHub.",
+        "fullTranslation": "当同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程就是一个会话，而且支持群组对话。\n\n看看我在 GitHub 上构建的东西。\n\n使用电子邮件，你不会被绑定在某一家公司的应用上，甚至也不会被绑定在自己的笔记本电脑上。你可以在任何地方使用它；此外，在网络条件较差的情况下，电子邮件也是最灵活的工具。\n\n电子邮件已经解决了如何以异步、分布式方式与人协作的问题。大型语言模型理解这一点，就像它们理解 shell 一样。\n\n我们喜欢 shell，也喜欢让我们能够使用它的终端。这是出于实际原因：shell 可以进行组合，并且能够与其他应用实现互操作，而不需要守门人。一旦掌握了使用方法，使用终端会让人感到有趣且自由。\n\n大型语言模型在与 shell 结合使用时对我们最有用，这并非巧合。如果我们需要与某个代理密切协作，那么最好从终端进行，这样我们就能尽可能贴近 shell。\n\n对此我心怀感激。我们主要使用 Claude Code、Codex CLI，以及其他工具，例如使用 shell、由我们在终端中操作的 OpenCode（它使用 shell）。我们不必为了高效使用计算机产品，就去使用某家公司的 iPhone 应用或基于云的网页应用。\n\n不过，当你必须与许多代理协作时，显然会存在局限。这令人眼花缭乱。我们经常需要与正在处理不同事务的代理异步协作：停下来，去做别的事情，过自己的生活；过一会儿再查看进展；然后按照自己的时间安排轻松地回到工作中，等等。\n\n再说一次，电子邮件已经解决了如何以异步、分布式方式与人协作的问题。这种方式同样适用于与代理协作，甚至适用于人与代理之间的协作。\n\n一年多以前，在 Machtiani 首次发布后，我开始把 Machtiani 的回答反馈到它下一轮的指令中。为了继续推进这一做法，我直到现在才发布相关成果。这是一个迭代式的指令循环，用来驱动一个充当轻量级监督器的工作器。\n\n这个轻量级监督器可以与已经安装在你电脑上的任何代理协作。\n\n我发现，电子邮件是与他人及代理共同工作时最自然、最自由的方式。\n\n在 GitHub 上查看 Machtiani。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "来源叙事重点：将电子邮件和Shell/终端描述为开放、可组合、跨设备、适应弱网络且不受单一公司平台控制的工作界面，并主张这些特征适合协调多个人工智能代理。文章重点介绍Machtiani：通过让代理输出进入后续指令、形成迭代式指令循环，由轻量级监督器协调已安装的代理，并以电子邮件实现异步、分布式协作。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T20:14:41.000Z",
+            "url": "https://www.machtiani.chat/blogs/the-shell"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790707961776,
     "timeDisplay": "2026-09-30 02:52 (UTC+8)",
     "date": "2026-09-30",

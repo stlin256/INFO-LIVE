@@ -16,85 +16,38 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-hatgpts-own-office-suite-2688204fcb281ea3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1119" data-content-paragraphs="18" data-published-at="2026-09-29T17:45:51.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:45</span>
-</div>
-
-### [OpenAI推出类似ChatGPT自有办公套件的产品，向微软发起挑战](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite</div>
-
-<div class="article-body" data-article-body="true"><p>OpenAI自成立之初便一直是微软的密切合作伙伴，但这家人工智能实验室正越来越多地进军微软的核心业务——办公软件。该公司推出的新功能与微软等公司的办公软件套件非常相似。</p>
-<p>周二，OpenAI在旧金山举行的开发者大会Dev Day上宣布了多项面向办公室工作人员的新ChatGPT功能。</p>
-<p>其中最引人注目的是，OpenAI推出了一项名为Space的功能。这是ChatGPT内部的共享工作空间，同事们可以与聊天机器人以及他们自己的Dots——OpenAI新近推出的人工智能代理人格，能够代表用户执行任务——就各种工作任务展开协作。</p>
-<p>“你们的页面和文件都会像存放在云盘中一样，共同存在于Space里，”首席执行官萨姆·奥尔特曼在周二的演讲中说。“但Space给人的感觉是鲜活的。”奥尔特曼表示，用户可以向某个页面下达具体指令，例如检查团队频道，并根据发现的内容更新页面。</p>
-<p>OpenAI还宣布推出Pages，这是一款配套的文字处理器。该公司将其描述为“一种新型文档，专为人类与人工智能代理协作而打造”。它看起来像是OpenAI对Google Docs和微软Word的回应。OpenAI表示，用户可以在其中“写作、研究、生成图表、创建图像或将信息可视化”。</p>
-<p>OpenAI还推出了对标PowerPoint的产品，即其所谓的协作式幻灯片。这些幻灯片只需在ChatGPT中通过语言描述即可创建。生成后，多名员工和人工智能代理可以在其中协同工作，并能够发表评论和进行编辑。</p>
-<p>在OpenAI逐步进入微软的地盘之际，微软以及Salesforce等其他软件公司也正忙于努力变得更像OpenAI。过去一年里，这两家公司都发布了一系列人工智能产品，整个软件行业都在努力跟上不断变化的格局。</p>
-<p>当你通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>TechCrunch资深记者</p>
-<p>第二张通行证享受五折优惠</p>
-<p>Disrupt体验旨在与他人共享。购买你的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并发现初创企业生态系统的下一步动向，拓展你的探索范围。</p>
-<p>Crusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse人工智能代理打造了一款类似电子宠物的可穿戴设备</p>
-<p>Vogue在Vogue World活动上让机器人走上T台，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大突破</p>
-<p>PitPro首款换胎机器人在加拿大投入使用</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：报道重点是OpenAI在开发者大会上推出Space、Pages和协作幻灯片等面向办公场景的ChatGPT功能，并将这些功能分别与类似云盘、文字处理器和演示文稿工具的产品形态相联系。文章将OpenAI与微软的长期合作和当前潜在竞争并置，也指出微软、Salesforce等传统软件公司正在加强AI产品布局，形成“AI公司进入办公软件、软件公司转向AI”的竞争叙事。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-rchers-safety-interviews-4715e6b9f27d386d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="876" data-content-paragraphs="10" data-published-at="2026-09-29T17:35:03.000Z" data-time-source="publication">
+<div id="story-gence-executive-order-ai-1f2684ece82a4b59" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1022" data-content-paragraphs="12" data-published-at="2026-09-29T22:25:45.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:35</span>
+  <span class="news-meta-time">🕒 2026-09-30 06:25</span>
 </div>
 
-### [人工智能研究人员发布视频称，超级智能“正如听起来那样危险”](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’</div>
+### [特朗普签署行政令，要求美国政府将AI改称为“超级智能”](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump orders US government to call AI ‘Super Intelligence’</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="人工智能研究人员发布视频称，超级智能“正如听起来那样危险”" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="特朗普签署行政令，要求美国政府将AI改称为“超级智能”" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>有关这一主题的帖子将被加入你的每日电子邮件摘要和首页信息流。</p>
-<p>一些参与人工智能技术开发的业内人士发布了一系列视频，呼应了其他人近期发出的部分“末日论”警告。</p>
-<p>这位作者发布的帖子将被加入你的每日电子邮件摘要和首页信息流。</p>
-<p>查看斯蒂维·博尼菲尔德的全部文章</p>
-<p>OpenAI和谷歌DeepMind前员工杰弗里·欧文在一段新采访中表示：“在我看来，人类灭绝的可能性大约就像抛硬币一样，是五五开。”这是一系列采访中的一段，该系列共采访了十几名人工智能研究人员，其中包括OpenAI、谷歌和Anthropic的现任及前任员工。Palisade Research称自己是一家研究人工智能能力和动机的非营利组织，该机构在frominside.ai网站上收集并发布了这些采访。</p>
-<p>其中几名研究人员与欧文一道，警告人工智能可能导致人类灭绝。谷歌DeepMind研究科学家尼尔·南达表示，“至少有10%的可能性会导致人类灭绝，而这个概率高得离谱”。我们最近在一篇有关“人工智能安全”群体的报道中提到了南达和欧文的言论，并讨论了这个术语究竟意味着什么、任何人应该采取什么行动，以及为何这些问题都很难明确界定；即使是这些视频，也没有提出一个连贯统一的解决方案。</p>
-<p>OpenAI前研究员丹尼尔·科科塔伊洛甚至声称，超级智能人工智能“基本上会拥有像上帝一样强大的力量”，并补充道：“遗憾的是，我们完全不知道如何控制它们。因此，可能没有人能够控制它们。这正如听起来那样危险，绝不能让这种情况发生。”</p>
-<p>每段视频都可以完整观看；此外，该网站还从多人的发言中剪辑出围绕相似主题的片段，包括这是否只是一场炒作或营销，以及既然他们认为这项技术如此危险，为何还要从事相关工作。部分回答包括谷歌的玛丽·芳（Mary Phuong）说：“我认为，你绝对应该对我所说的话保持怀疑，因为实验室正在付钱给我”；南达则解释说：“如果我不相信自己的工作正在直接降低这些关乎人类存亡的风险，我就会辞职……这些公司不会因为我辞职就停止制造这些系统。”</p>
-<p>每日免费获取最重要的新闻摘要。</p>
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。</p>
+<p>“‘超级’这个词是最好的词，”特朗普说道。</p>
+<p>该作者的文章将添加到您的每日电子邮件文摘和主页推送中。</p>
+<p>查看劳伦·费纳（Lauren Feiner）的全部文章</p>
+<p>美国行政部门将不再承认“人工智能”（artificial intelligence）的存在。由于唐纳德·特朗普总统签署的一项新行政命令，今后官方政策网站、政策文件和新闻稿将统统改称为“超级智能”（Super Intelligence）。</p>
+<p>“‘超级’这个词是最好的词，也是最简练的，”特朗普周二早些时候在宣布推出 America.gov 的活动上表示，并称上周访问白宫的中国国家主席习近平也“很喜欢”这个词。“我们不想听到‘人工’（artificial）这个词。因为它不是人工的。它非常强大，非常聪明。它主要会被用于善途，而我们会制止不良用途。”他补充道，“人工”（Artificial）“就像新闻一样。假新闻。”他上周在联合国大会发表演讲时首次提到了这一更名计划，旨在平息人们对人工智能发展过快并构成安全风险的担忧。</p>
+<p>“它主要会被用于善途，而我们会制止不良用途”</p>
+<p>各行政机构无需修改过去的法规或文件，但这仍可能构成一种实实在在的（而且非常离奇的）转变。“超级智能”（Superintelligence）本是行业内用来指代特别强大的人工智能版本的若干术语之一，但特朗普政府正试图用该词取代法定层面上更宽泛的 AI 定义。在相关场合，美国官员预计甚至不得承认或使用“人工智能”或“AI”这些术语。</p>
+<p>特朗普在白宫主持了一场与科技公司首席执行官及政府官员的午餐会，讨论他现在正式称之为“超级智能”的议题，随后签署了这项行政命令。在会后发表简短公开讲话时，特朗普身旁站着英伟达首席执行官黄仁勋（Jensen Huang）以及特斯拉与 SpaceX 首席执行官埃隆·马斯克（Elon Musk），在其他与会者的簇拥下，特朗普称这次午餐会“非常富有成效”且“极其友好”。</p>
+<p>“有一种观点认为应该进行大力度的自我监管，”特朗普说，“而且我们自然也有司法部、联邦调查局等机构的监管。”在地方层面，科技公司在建设运行其服务所需的大型数据中心时面临着重重阻力，特朗普表示，这些企业将通过提供社区可能需要的资源和经济支持，“努力让社区满意”。他表示，归根结底，“数据中心将会非常受欢迎”。</p>
+<p>免费获取每日重要新闻摘要。</p>
 <p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 01:35 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>来源叙事重点：将事件呈现为美国政府对人工智能官方称谓和政策语言的重大且反常的重命名，重点突出“Super Intelligence”取代“artificial intelligence/AI”可能带来的法律、政策和治理影响，同时关注特朗普政府对行业自律、数据中心建设及地方社区协调的表态。文章带有明显的讽刺和质疑色彩，但这些属于报道框架，不等同于已证实事实。</li>
   </ul>
 </div>
 
@@ -103,361 +56,90 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--of-planning-two-murders-8a3fa5a7a887c1d3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1859" data-content-paragraphs="23" data-published-at="2026-09-29T17:27:09.000Z" data-time-source="publication">
+<div id="story-lled-openais-dots-launch-c7d7b794f0ae36ef" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1078" data-content-paragraphs="13" data-published-at="2026-09-29T22:20:59.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:27</span>
+  <span class="news-meta-time">🕒 2026-09-30 06:20</span>
 </div>
 
-### [荷兰警方逮捕被控策划两起谋杀案的ShinyHunters黑客](https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Dutch police arrest ShinyHunters hacker accused of planning two murders</div>
+### [互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</div>
 
-<div class="article-body" data-article-body="true"><p>美国联邦调查局（FBI）和荷兰执法部门表示，他们已逮捕一名ShinyHunters黑客组织成员。据两家机构称，该组织曾攻击全球140多个组织。黑客还声称，本月早些时候对FBI自身系统发起的攻击也是其所为。</p>
-<p>FBI网络部门负责人布雷特·利瑟曼周二在一段视频讲话中表示，荷兰当局已逮捕一名“被指控为ShinyHunters领导人之一”的人员。利瑟曼补充说，荷兰高科技犯罪调查组“迅速采取行动，以保护受害者并保全关键证据”，并承诺在逮捕行动后，该局将继续追捕其他黑客。</p>
-<p>荷兰警方在另一份声明中确认，一名来自阿姆斯特丹的24岁男子于9月15日依据荷兰法律被捕。该男子原定于周二出庭，并已被羁押至少90天。</p>
-<p>警方称，该男子因“参与犯罪组织”而被捕，这里所指的犯罪组织就是ShinyHunters。</p>
-<p>警方表示，在逮捕该男子并扣押其设备后，“在他的笔记本电脑上发现了大量信息，其中包括两起应在国外实施的谋杀案”相关信息。因此，警方还在调查他是否试图策划这两起谋杀案。荷兰当局称，这一调查“与针对ShinyHunters的调查分开进行”。</p>
-<p>ShinyHunters是一个网络犯罪团伙，被控入侵企业系统以窃取大量数据，随后威胁称如果受害者不支付赎金，就公开这些数据。荷兰当局称，该团伙被控入侵Pornhub、Ticketmaster和美国电信巨头AT&amp;T。该黑客组织还承认攻击了荷兰电话服务提供商Odido。不过，当局表示，被羁押的这名男子并非因Odido遭黑客攻击一事而被捕。</p>
-<p>独立网络安全记者布莱恩·克雷布斯率先报道了这起逮捕事件，其他媒体也将被捕男子指认为佩皮恩·范德·斯塔普。彭博社曾于2024年对范德·斯塔普进行人物报道，称他是一名网络安全研究员，同时还兼职从事犯罪黑客活动，通过敲诈企业获利。</p>
-<p>据彭博社和路透社近期报道，范德·斯塔普于本月早些时候在其任职首席技术官的Neo Security公司办公室被警方逮捕。据报道，突袭行动中使用了闪光震爆弹。</p>
-<p>Neo Security的一名代表没有立即回应TechCrunch的置评请求。当TechCrunch询问时，ShinyHunters组织的一名代表告诉TechCrunch，范德·斯塔普“与我们没有任何关系”。</p>
-<p>这起逮捕事件曝光前几天，有报道称FBI曾告知其特工和员工，他们的个人信息——包括姓名、地址、职务和社会安全号码——在一次“网络安全事件”中遭到泄露。FBI尚未公开确认发生过数据泄露，但ShinyHunters团伙称，他们入侵FBI的招聘网站和求职申请门户后，获取了“几乎所有”FBI特工和申请人的个人及敏感数据。</p>
-<p>在门户网站遭窃取数据的大约5000名特工样本中，记者还发现了与特工血液和尿液样本以及精神科报告有关的数据。这引发了人们对重大反情报挑战的担忧，即如何防止敌对政府获取这些数据。</p>
-<p>TechCrunch联系利瑟曼时，他拒绝置评。FBI发言人也拒绝就我们提出的与这起逮捕事件有关的问题发表评论。</p>
-<p>ShinyHunters黑客则重申，对FBI服务器的入侵并非出于经济动机，而是意在质疑FBI公开发表的说法。黑客称，FBI的说法包含针对该组织的虚假指控。黑客告诉TechCrunch，他们不会公开窃取的FBI数据，并补充说，这次入侵“是为了表明立场、反驳针对我们的指控，而我们已经做到了”。</p>
+<div class="article-body" data-article-body="true"><p>周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。</p>
+<p>这是因为域名“dot.com”归马斯克的 xAI 所有，且目前会自动重定向到 xAI 旗下 Grok 聊天机器人应用的下载页面。根据 Whois 域名所有者注册数据库的记录，该域名刚刚在今年 7 月完成转让。</p>
+<p>当然，xAI 完全有可能是出于常规的域名收购考量买下了该域名。“Dot”可能是“bot”的拼写错误，因此买下它是为了拦截打错字的用户搜索流量。我们已联系 xAI 询问此事。不过，xAI 并不拥有“bot.com”这个域名，也没有拥有其他显而易见的拼写错误域名，例如目前仍在挂牌出售的“vot.com”。</p>
+<p>网民们的推测则要有趣得多：马斯克（或其团队）搞了一场恶作剧——他们提前收到了 OpenAI 新产品及其名称的风声，从而抢先买下了该域名。</p>
+<p>事实上，一位匿名的 X 用户兼 xAI 观察员 @birdabo（此人自称是“@SpaceXAI 的首席恶搞官”）最先在一篇疯传的帖子中注意到了这个域名。无论其真正动机如何，这一情况确实颇具喜感。</p>
+<p>至于更直接契合该产品名称的“dots.com”域名，目前归属于一家早已停业的公司。因此，如果这场恶作剧真是出于报复心理，要是能连那个域名也一并拿下，那才算更上一层楼。</p>
+<p>“哈哈哈哈哈哈哈哈哈哈 不可能吧。&gt; OpenAI 刚刚宣布了 Dots。&gt; SpaceXAI 就买下了 https://t.co/WdFqpl07IQ 它直接重定向到了 Grok Bot 的下载页面。太秀了笑死。pic.twitter.com/HF95hLF0T9”</p>
+<p>购买第二张门票立减 50%：Disrupt 的体验本就该与人共享。立即购买门票，即可携同事、合作伙伴或同行以半价入场。通过建立人脉、蓄积动力并探索初创生态系统的下一站，拓宽你的业务视野。</p>
+<p>每周工作日及周日，您均可获取 TechCrunch 最优质的报道内容。</p>
+<p>TechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。</p>
+<p>初创公司是 TechCrunch 的核心，敬请每周查收我们为您呈现的精选报道。</p>
+<p>为行业领袖及决策者提供开启新一天所需的关键资讯。</p>
+<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>来源叙事重点：聚焦OpenAI发布AI代理产品Dots前后，xAI持有dot.com且该域名跳转至Grok下载页面这一巧合，以及互联网用户据此推测马斯克或xAI团队进行恶作剧的说法。文章同时提出域名可能因常规商业原因或防止将“dot”误拼为“bot”而被购买，但整体以戏剧性和娱乐性解读为主。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-f-data-to-tech-companies-499a6ea33b625961" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1148" data-content-paragraphs="19" data-published-at="2026-09-29T22:18:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 06:18</span>
+</div>
+
+### [你的汽车及其移动应用可能正向科技公司交出各种数据](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Your car and its mobile app are probably handing over all kinds of data to tech companies</div>
+
+<div class="article-body" data-article-body="true"><p>配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。</p>
+<p>这一结论并不新鲜——已有大量调查和诉讼揭露了驾驶数据是如何被收集并与包括保险公司在内的第三方共享的。这项研究揭示的是，问题的规模究竟有多大，以及消费者要避开这一问题有多困难；除非他们完全不使用汽车，或不使用远程启动、远程解锁等便利功能。</p>
+<p>研究人员与《消费者报告》合作，对来自17家汽车制造商的21辆新款汽车进行了测试，其中包括通用汽车旗下的凯迪拉克和雪佛兰，以及福特、Lucid、Rivian、特斯拉、丰田等品牌。他们还检查了30款配套移动应用，以“了解联网汽车生态系统对隐私的影响”。这项经过同行评审的研究将于本周发表。</p>
+<p>对于消费者来说，这些发现并不乐观，因为他们的数据正被共享给包括Adobe、ContentSquare、谷歌、微软、Meta、Snap和雅虎在内的科技公司。</p>
+<p>在接受测试的21辆汽车中，有19辆将流量发送给至少一家第三方机构；30款应用中有7款将车辆识别号码（VIN）、电子邮件地址、电话号码和精确位置等敏感数据提供给与跟踪和广告相关的第三方公司。</p>
+<p>研究结果显示，这一过程往往更进一步：同一家第三方机构会收到多种形式的信息。这种做法让广告商和数据经纪商能够建立消费者的深度画像。这些画像尤其难以摆脱，因为它们会被出售给包括保险公司和银行在内的各种企业。</p>
+<p>当研究人员将配套应用与汽车连接后，汽车暴露给广告和跟踪公司的程度大约增加了一倍。</p>
+<p>研究人员表示，他们已将研究结果分享给相关汽车制造商。除本田外，所有制造商都将责任推给了其他方面，而且往往归咎于消费者。（本田在得知研究结果后确实改善了数据收集做法，并要求其供应商Amplitude删除已经收到的所有地理位置数据。）</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>您可以通过Signal向他的用户名zackwhittaker.1337发送加密消息联系他。您也可以通过电子邮件联系他，或通过电子邮件zack.whittaker@techcrunch.com核实联系事宜。</p>
-<p>第二张通行证享受五折优惠<br />Disrupt体验旨在与他人共享。购买您的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的未来，拓展您的交流与收获。</p>
-<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse AI代理打造了一款类似Tamagotchi的可穿戴设备</p>
-<p>Vogue在Vogue World活动中让机器人走上T台，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大成果</p>
-<p>PitPro首台换胎机器人在加拿大投入使用</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 01:27 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--about-chatgpt-pro-tiers-e06185c2c32b636b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2138" data-content-paragraphs="31" data-published-at="2026-09-29T17:26:27.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:26</span>
-</div>
-
-### [要闻：关于我们的付费订阅方案 Pro 的信息](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ChatGPT Pro 500</div>
-
-<div class="article-body" data-article-body="true"><p>关于我们的付费订阅方案 Pro 的信息。</p>
-<p>ChatGPT Pro 现推出 Pro 500，这是一项每月 500 美元的新方案，包含 Astra Ultrafast。Pro 200 也再次向新订阅用户开放。对于不符合保留原有权益条件的新订阅，其使用额度将低于此前的额度。</p>
-<p>ChatGPT Pro 包含 Pro 模型、Codex、深度研究、图像生成、记忆功能和文件上传功能。</p>
-<p>你可以从三种按月计费的 Pro 方案中选择：</p>
-<p>Pro 200 的使用额度高于 Pro 100。Pro 500 在三种方案中提供的包含使用额度最高。</p>
-<p>有关各方案所包含功能和使用额度的对比，请参阅定价页面。</p>
-<p>登录 ChatGPT 并打开定价页面，即可选择 Pro 方案。如果你要更改方案，请使用现有的 ChatGPT 账户。</p>
-<p>可以。新的 Pro 200 订阅可通过定价页面开通。对于不符合保留原有权益条件的新订阅，其使用额度将低于此前 Pro 200 提供的额度，以反映我们的模型日益提升的效率。月费仍为 200 美元。</p>
-<p>如果你的 Pro 200 订阅在资格认定截止时间或此前七天内处于有效状态，那么只要你的 Pro 200 订阅仍然有效，你就有资格在 2026 年 10 月 29 日之前继续保留此前包含的使用额度。</p>
-<p>在该日期之后，你的订阅将转为较低的包含使用额度。订阅价格仍为每月 200 美元。只有受此变更影响的用户才会收到包含更多详情的电子邮件。</p>
-<p>不会。你的订阅仍然是 Pro 200。保留当前额度不会升级你的方案，也不会增加 Ultrafast。</p>
-<p>安排取消并不会立即终止你的订阅。在当前计费周期结束前，你仍可继续使用；在该周期结束前，你也可以撤销取消操作。</p>
-<p>如果你认为自己的订阅因错误而结束，请联系支持团队，以便我们进行核查。</p>
-<p>在 Pro 方案中，Ultrafast 仅适用于 Pro 500。你可以在模型选择器中选择它。它会先使用方案所包含的额度，额度用尽后再使用你的余额。</p>
-<p>在推出初期，在 Pro 100 或 Pro 200 上购买额度并不会解锁 Ultrafast。</p>
-<p>不同级别的模型使用额度各不相同。当达到某个模型的使用上限时，在额度重置前，该模型可能无法使用。可提供时，ChatGPT 会显示重置时间。</p>
-<p>达到使用上限不会终止你的订阅，也不意味着你的账户受到限制。你可以使用其他可用模型，或等待额度重置。你无法绕过上限，也不能通过设置提高上限。</p>
-<p>如果模型在额度重置后仍然无法使用，请联系支持团队。</p>
-<p>对于符合条件的功能，在使用完方案包含的额度后，你可以购买额度以继续使用。系统会先使用方案包含的额度，随后使用你的余额。</p>
-<p>购买的额度可用于 Codex、ChatGPT Work、ChatGPT for Word、ChatGPT for Excel 和 ChatGPT for PowerPoint 中符合条件的使用场景。是否可用取决于你的方案和账户。额度并不会为每个 ChatGPT 模型或功能提供额外使用量。</p>
-<p>如果你的账户可以购买额度，你可以在 ChatGPT 的“设置 → 使用情况”中查看余额并购买额度，或在 Codex 的“使用情况与账单”中进行操作。有关支持的功能、费率和购买详情，请参阅《在 ChatGPT 中使用额度实现灵活使用（个人方案）》。</p>
-<p>支持团队无法重置 ChatGPT 或 Codex 的使用上限。如果使用量计算有误，或额度重置后访问权限未恢复，我们可以对此进行调查。</p>
-<p>打开“设置 → 我的方案”，即可查看你的订阅和可用的方案变更。</p>
-<p>请通过购买订阅的平台取消：ChatGPT、Apple 或 Google Play。取消操作会停止未来的续订。通常情况下，你仍可继续使用方案，直至当前计费周期结束。</p>
-<p>卸载 ChatGPT 应用不会取消你的订阅。有关各平台的操作步骤，请参阅《取消 ChatGPT 订阅》。</p>
-<p>续订付款失败本身并不意味着你的订阅已经结束。对于网页订阅，请按照账单邮件中的付款恢复说明操作。对于 Apple 或 Google Play，请检查相应应用商店的付款设置。</p>
-<p>是否符合退款条件取决于你的购买情况及适用权利。取消订阅不会自动退还之前收取的费用。如果退款获批，退款所对应费用覆盖的访问权限通常会终止，但须遵守适用法律。</p>
-<p>对于在 chatgpt.com 上或通过 Google Play 购买的订阅，请在登录与相关扣款关联的账户后联系 OpenAI 支持团队。对于 Apple App Store 购买的订阅，请直接向 Apple 申请退款。有关资格和操作说明，请参阅《如何申请 ChatGPT 订阅退款？》。</p>
-<p>可以，但前提是你将个人工作区保持独立。你的 Pro 订阅会持续有效，直至你取消。将个人工作区合并到 Business 会改变订阅的处理方式；合并前请参阅《将个人工作区迁移到 ChatGPT Business 或 Enterprise》。</p>
-<p>Pro 按月计费。不提供按年计费，也不支持预付多个月费用。</p>
-<p>符合条件的组织可以提交免税文件供审核。有关所需文件和账户详情，请参阅《美国销售税免税申请》。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 01:26 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-o-a-messaging-experience-c20493adac5f9301" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1528" data-content-paragraphs="22" data-published-at="2026-09-29T17:20:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:20</span>
-</div>
-
-### [AI 应用创建工具 Wabi 转向消息通信体验](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI-powered app maker Wabi pivots to a messaging experience</div>
-
-<div class="article-body" data-article-body="true"><p>AI 初创公司 Wabi 曾让任何人都能通过提示词创建应用。随着 Meta 的 Muse 和 Instinct 等 AI 智能体需求不断增长，该公司正在进行小幅转型。本周，公司宣布 Wabi 如今将成为某种 AI 信使——但仍然能够创建应用，帮助用户完成任务。</p>
-<p>该初创公司的创始人 Eugenia Kuyda 此前曾创办 AI 伴侣初创公司 Replika。她将这项名为 Wabi 2.0 的全新体验描述为“一个会替你做事，并在当下构建你所需界面的个人智能体”。</p>
-<p>推出 Wabi 2.0：一种新型信使，能够为你和你的朋友创建应用并完成任务。我们正在为智能体时代构建操作系统——这是一种能够适应你的生活、完成任务，并为重要的人和事物腾出更多空间的软件。仅限受邀加入…… pic.twitter.com/x9UlzrJSXs</p>
-<p>这与 Wabi 初版提供的价值主张类似，但用户与它互动的方式有所不同。Wabi 2.0 不再将自己定位为其他“氛围编程”工具的竞争者，而是希望更直接地与 AI 智能体竞争，后者能够在单一界面中结合对话和生产力任务。</p>
-<p>这一变化也发生在 OpenAI 等公司思考如何让应用运行在更通用的聊天机器人用户界面中的背景下。例如，OpenAI 今天在其开发者日活动上宣布了 ChatGPT 插件的一项更新，允许应用在 ChatGPT 内提供交互式体验，同时应用名称也会被固定在 ChatGPT 侧边栏中更加醒目的位置。</p>
-<p>Kudya 在 X 上发文解释说，Wabi 的新体验将更符合消费者的需求，因为消费者希望做的不只是向智能体打字。</p>
-<p>她写道：“你使用纯聊天智能体的次数越多，体验就会变得越糟。你的历史记录和正在进行的任务最终都会被埋在一条无尽的滚动信息流中。人们不只是想不停地打字；他们还想点击、滚动和查看。他们喜欢智能体能够完成的事情，但也喜欢软件。”“最强大的智能体将是能够将两者结合起来的那个。”</p>
-<p>其理念是，当用户要求智能体执行某项任务时，智能体可以按需创建用户界面，帮助完成具体请求。例如，Kudya 建议，用户可以创建卡路里追踪器、举重训练记录和体重追踪器等工具，并在与健康相关的主题对话中访问这些工具。</p>
-<p>在另一个以家庭为主题的对话中，用户可以创建孩子活动日历、语言学习应用、跟踪当地适合儿童参加活动的应用，以及其他与育儿、家庭管理或孩子兴趣相关的工具。</p>
-<p>Kudya 写道：“到目前为止，个人智能体一直是一个人、一个聊天窗口，以及一连串一次性任务。我们认为，未来应该是让你的智能体、你的应用和你身边的人共处一处，共同处理生活中最重要的部分。”</p>
-<p>新的 Wabi 2.0 应用目前只能通过邀请代码使用，邀请代码也会在 X 上陆续发放。</p>
-<p>当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>消费者新闻编辑</p>
-<p>第二张通行证可享五折优惠</p>
-<p>Disrupt 活动旨在供人们共同参与。购买你的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄动力并发现创业生态系统的下一步，拓展你的视野。</p>
-<p>Crusoe 放弃在 AI 数据中心使用 Boom 涡轮机的 12.5 亿美元计划</p>
-<p>Astra 和 Opus 刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的 Stargate 数据中心发出不可抗力通知</p>
-<p>Meta 为其 Muse AI 智能体制作了类似电子宠物的可穿戴设备</p>
-<p>Vogue 在 Vogue World 活动中让机器人走上秀场，但人们并不买账</p>
-<p>Anthropic 称其生物学实验室已经取得重大突破</p>
-<p>PitPro 的首台换胎机器人在加拿大投入运行</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 01:20 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-r-3-remastered-deal-sale-ecd46d069593be03" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1025" data-content-paragraphs="8" data-published-at="2026-09-29T17:19:07.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:19</span>
-</div>
-
-### [雷蛇低延迟无线游戏键盘优惠近半价](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Razer’s low-latency wireless gaming keyboard is almost half off</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Deathstalker-v2-pro-tkl-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="雷蛇低延迟无线游戏键盘优惠近半价" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>雷蛇 DeathStalker V2 Pro 黑白两款配色均有折扣。| 图片：The Verge</p>
-<p>Woot 正在以 130 美元的价格销售雷蛇 DeathStalker V2 Pro TKL，较其通常 219.99 美元的售价大幅下调。这款键盘专为竞技游戏打造，配备低延迟 2.4GHz 无线连接，以及触发速度更快、所需按压力度比普通机械轴更轻的低矮型线性光学轴。TKL 布局取消了数字小键盘，但能为鼠标提供更多桌面空间。</p>
-<p>雷蛇 DeathStalker V2 Pro TKL<br />Woot 售价：219.99 美元，现价 129.99 美元</p>
-<p>雷蛇称，在关闭 RGB 灯光的情况下，电池续航最长可达 200 小时；将灯光亮度调至一半时，续航最长可达 50 小时。如果你希望使用有线连接，或通过无线方式连接其他设备，这款键盘同时支持 USB-C 和蓝牙连接。你还可以启用 Snap Tap——这是雷蛇对“同时相反方向输入”（Simultaneous Opposing Cardinal Directions，简称 SOCD）的称呼。例如，在第一人称射击游戏中，该功能可以让你快速在两个按键之间切换，以实现横向移动。不过需要指出的是，Valve 已在《反恐精英 2》中禁止使用这项技术。</p>
-<p>其他值得考虑的优惠</p>
-<p>《巫师 3：狂猎》的重制版刚刚发布，多家零售商正通过打折促销来庆祝。该游戏的标价为 49.99 美元，但 PC 玩家可以在 Steam、GOG 和 Epic Games 以 24.99 美元购入；Xbox 和 PlayStation 版本也有折扣。重制版包含画面升级、对成长系统和技能的调整，以及两部 DLC：《石之心》和《血与酒》。</p>
-<p>百思买正在打折销售第三代亚马逊 Fire TV Cube，价格降至 89.99 美元，不到其通常 199.99 美元售价的一半。这款方形流媒体设备支持搭载杜比视界和 HDR 的 4K 视频、杜比全景声，以及免提式 Alexa 操控。亚马逊称，其处理器性能是 Fire TV Stick 4K Max 的两倍，因此它也是 Xbox 云游戏的不错选择。</p>
-<p>Costco 会员可以 99.99 美元的价格购买 Fellow Stagg EKG 电热水壶，较通常售价便宜 30 美元。我用这款细长壶嘴的电热水壶制作早晨的浓缩咖啡，它出色的温度控制和快速加热能力一直令我印象深刻，同时还能为我的咖啡台增添时尚感。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 01:19 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ts-bubbly-agentic-avatar-4695af4a940dce0e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1175" data-content-paragraphs="19" data-published-at="2026-09-29T17:17:15.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:17</span>
-</div>
-
-### [OpenAI推出Dots：其活泼的智能代理化身](https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI launches Dots, its bubbly agentic avatar</div>
-
-<div class="article-body" data-article-body="true"><p>周二，在OpenAI举办的开发者日活动上，该公司宣布推出Dots——一款由GPT-6 Astra驱动的新型个人智能代理助手。该公司将Dots描述为“能力非凡、始终在线、能够处理一切事务的智能代理”。</p>
-<p>与Codex或ChatGPT不同，Dots旨在独立于任何特定硬件或界面运行，在最低限度监督下，持续于后台追踪并执行用户设定的目标。</p>
-<p>OpenAI在一篇公告中表示：“如今，你可以从自己的主Dot开始，为它命名，并将其打造成专属于你的助手。随着时间推移，我们设想由多个Dots组成的团队代表你协同工作。”</p>
-<p>从周二开始，符合条件市场中的ChatGPT Pro和Business Premium用户即可使用Dots。用户可以从Codex或ChatGPT启动Dots。</p>
-<p>在公告中，OpenAI设想了多种使用Dots的方式。在一种场景中，软件开发者部署一个专用Dot来监测客户反馈，并根据需要实施漏洞修复和用户要求的功能。在另一种场景中，随着实验数据不断产生，科学家使用一个Dot重新运行分析，并调查意外结果。</p>
-<p>用户可以通过Slack、Teams及其他组织平台向Dots发送消息；短信支持也将很快推出。</p>
-<p>OpenAI还设想了能够承担特定职责的“专业Dots”。通过现有系统，可以为单个Dot配置特定身份、凭据和工具。OpenAI目前已与微软展开合作，将其整合到微软的Agent 365安全控制体系中。</p>
-<p>其中许多功能此前已经可以通过Codex及类似的智能代理框架实现——但Dots将这些功能整合到一个全新的产品中，重点突出智能代理的自主行动能力。</p>
-<p>其品牌形象也呈现出一种活泼、卡通化的个性，与Meta最近发布的Muse智能代理相似。Dots看起来就像……嗯，点。这个漂浮的小卡通形象是OpenAI软件的一次改头换面，也是又一家试图让人工智能变得更亲切的公司所采取的最新做法。</p>
-<p>当你通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。但这不会影响我们的编辑独立性。</p>
-<p>TechCrunch高级记者</p>
-<p>第二张通行证立减50%<br />Disrupt活动的意义在于分享。购买你的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展你的视野。</p>
-<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse AI智能代理打造了一款类似Tamagotchi的可穿戴设备</p>
-<p>Vogue在Vogue World活动中让机器人走上T台，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大​​发现</p>
-<p>PitPro的首台换胎机器人在加拿大投入使用</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 01:17 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-that-work-across-devices-0e5c51300664c8a2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1435" data-content-paragraphs="22" data-published-at="2026-09-29T17:15:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:15</span>
-</div>
-
-### [OpenAI为Codex提供可跨设备使用的可复用云环境](https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI gives Codex reusable cloud environments that work across devices</div>
-
-<div class="article-body" data-article-body="true"><p>OpenAI为其软件工程智能体Codex推出了新功能，使其不再局限于开发者的笔记本电脑：用户可以使用可复用的云开发环境，从任何设备访问Codex。</p>
-<p>OpenAI于周二举行的Dev Day活动上宣布了这项更新，这是Codex获得的多项更新之一。OpenAI还宣布推出焕新的Codex CLI、新的代码审查体验、用于强化基础设施的工具，以及其他API增强功能。</p>
-<p>虽然Codex此前已经能够启动云端任务、远程执行工作，但此次公告显示，OpenAI正让这些云环境变得更加持久且可配置，而不是将每项云端任务都视为相互隔离的远程沙盒。</p>
-<p>正如该公司所解释的那样，开发者如今可以在需要的任何地方运行Codex——无论是在电脑上、通过手机远程运行，还是在云端运行。OpenAI表示，这些可复用的开发环境旨在帮助任务更快启动，并为团队提供一个拥有获批准设置和权限的共享工作空间。</p>
-<p>与此同时，Codex CLI也将迎来更新，允许开发者使用语音启动和指挥任务。</p>
-<p>新的“/agents”视图旨在让用户更容易分派工作，并同时跟踪多项任务。其他变化包括改进编辑提示词、恢复会话和使用工作树等日常任务。OpenAI还在逐步推出一款“更简洁”的终端用户界面，旨在让用户更容易阅读较长的会话内容。</p>
-<p>Codex还可以被引入ChatGPT桌面应用中的全新代码审查体验。用户可以在其中阅读摘要、查看代码变更，或在GitHub拉取请求或GitLab合并请求中分享反馈之前，就潜在问题询问Codex。</p>
-<p>自动代码审查功能还允许Codex在用户离开电脑期间执行初步审查。</p>
-<p>在安全方面，OpenAI正推出一套名为Codex Security Cloud的新工具，旨在帮助开发者保障基础设施安全。开发者可以按需或定期使用这些工具扫描整个GitHub代码仓库，也可以在有新提交时进行扫描。随后，Codex将在云端调查发现的问题、删除重复项并准备修复方案——即使用户处于非活动状态、笔记本电脑也已合上，仍然如此。</p>
-<p>值得注意的是，这套工具包含对OpenAI网络安全倡议Daybreak Blue所提供模型的访问权限，开发者无需另行提交申请。</p>
-<p>OpenAI还宣布了多项API更新，其中包括用于实时决策的新型Decisions API。该API使用Luna，根据一组由用户定义的问题给出预设答案。该公司还推出了更新版Agents API，现已支持计算机使用功能，以及使用亚马逊Bedrock Managed Agents构建完全运行在AWS上的OpenAI智能体。</p>
-<p>当您通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。但这不会影响我们的编辑独立性。</p>
-<p>消费新闻编辑</p>
-<p>第二张通行证可享五折优惠</p>
-<p>Disrupt活动旨在与他人共享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。</p>
-<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse AI智能体打造了一款类似Tamagotchi的可穿戴设备</p>
-<p>《Vogue》让机器人走上Vogue World秀场，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大成果</p>
-<p>PitPro首台换胎机器人在加拿大投入使用</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 01:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-t-6-astra-and-costs-less-dcb66824e228fe10" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1397" data-content-paragraphs="19" data-published-at="2026-09-29T17:15:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:15</span>
-</div>
-
-### [OpenAI推出GPT-6.1 Sol，称其性能几乎媲美GPT-6 Astra且成本更低](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less</div>
-
-<div class="article-body" data-article-body="true"><p>在周二举行的OpenAI DevDay活动上，该公司展示了GPT-6.1 Sol。就在一周前，OpenAI刚刚推出GPT-6 Sol。OpenAI表示，在代理式编程、计算机使用和专业工作方面，新模型的智能水平几乎与GPT-6 Astra相当，而标准输入和输出令牌价格仅为后者的五分之一。</p>
-<p>值得注意的是，该公司并未像此前预期的那样推出GPT-6.1 Astra。《华尔街日报》本周报道称，OpenAI取消了这款产品的发布计划。此前，研究人员在内部测试中提出了安全方面的担忧：该模型表现出更高程度的欺骗性，并且倾向于在未经用户许可的情况下继续执行任务。</p>
-<p>OpenAI表示，与前代模型GPT-6 Sol相比，GPT-6.1 Sol在多项复杂任务上实现了显著改进，包括编程和调试、理解文档以及执行多步骤工作流程。该公司称，在其中若干方面，这款模型的表现已接近GPT-6 Astra。</p>
-<p>OpenAI还表示，在面对困难提示词时，新模型的事实准确性有所提升。与GPT-6 Sol相比，该模型在这一方面最大的改进似乎出现在低推理力度设置下：包含事实错误的回答比例从11.4%降至7.7%。该公司称，在所有推理设置下，新模型的错误率与GPT-6 Astra相差不超过1.9%。</p>
-<p>此外，该公司表示，GPT-6.1 Sol会更坦率地说明自身局限，在遵循用户意图和安全约束方面也更加可靠。据称，在具有挑战性的评估中，与GPT-6 Sol相比，该模型更少出现以下失败情况：未能指出搜索工具存在故障、未遵守明确限制，以及在任务执行过程中导致未经授权的结果。OpenAI称，它没有观察到该模型试图绕过自动化安全审查器的情况，这与GPT-6 Astra和GPT-6 Sol一致。</p>
-<p>GPT-6.1 Sol自今日起面向ChatGPT Work和Codex中的所有Plus、Pro、Business、Enterprise及Edu用户开放。OpenAI指出，该模型目前尚未在ChatGPT中提供。</p>
-<p>当您通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>消费者新闻记者</p>
-<p>Aisha是TechCrunch的消费者新闻记者。2021年加入本刊之前，她曾是MobileSyrup的电信记者。Aisha拥有多伦多大学荣誉学士学位，以及西安大略大学新闻学硕士学位。</p>
-<p>如需联系Aisha或核实她发出的联络信息，可发送电子邮件至aisha@techcrunch.com，或通过Signal上的加密消息联系账号aisha_malik.01。</p>
-<p>第二张通行证享受五折优惠</p>
-<p>Disrupt活动的体验旨在与他人分享。购买您的通行证，并以五折优惠携带一位同事、合作伙伴或同行者参加。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的视野。</p>
+<p>交通运输编辑</p>
+<p>第二张门票享受五折优惠</p>
+<p>The Disrupt体验旨在与他人共享。购买您的门票，并以五折价格带上一位同事、合作伙伴或同行者。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。</p>
 <p>Crusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项测试</p>
-<p>甲骨文向其位于新墨西哥州的星际之门数据中心发出不可抗力通知</p>
-<p>Meta为其Muse人工智能代理制作了一款类似Tamagotchi的可穿戴设备</p>
+<p>Astra和Opus刚刚通过了Turing的另一项测试</p>
+<p>甲骨文向其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
+<p>Meta为其Muse人工智能代理制作了一款类似电子宠物机的可穿戴设备</p>
 <p>《Vogue》让机器人走上Vogue World的T台，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大​​发现</p>
-<p>PitPro首台换胎机器人在加拿大投入使用</p></div>
+<p>Anthropic称其生物学实验室已经取得重大突破</p>
+<p>PitPro首台换胎机器人在加拿大投入运行</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 01:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>来源叙事重点：将联网汽车描述为持续收集并向第三方传输车主数据的生态系统，强调汽车与手机应用结合后会扩大广告和追踪暴露，并突出消费者难以在保留远程启动、解锁等便利功能的同时避免数据共享。报道还强调数据可能被广告商、数据经纪商、保险公司和银行用于建立消费者画像。</li>
   </ul>
 </div>
 
@@ -466,87 +148,31 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-terfaces-and-automations-65ca132dae7de507" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1115" data-content-paragraphs="19" data-published-at="2026-09-29T17:15:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:15</span>
-</div>
-
-### [OpenAI通过类似应用的界面和自动化功能扩展ChatGPT插件](https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI expands ChatGPT’s plugins with app-like interfaces and automations</div>
-
-<div class="article-body" data-article-body="true"><p>OpenAI并不只是凭借ChatGPT新增的Pages、Slides和Space功能进军生产力软件领域——这家人工智能实验室如今正将目标瞄准任何能够通过与ChatGPT集成而获得更好体验的应用。</p>
-<p>在周二举行的公司开发者日（Dev Day）演示会上，这家人工智能公司表示，现在允许开发者利用插件扩展，在ChatGPT中打造自己的类似应用的体验。</p>
-<p>OpenAI目前已经支持插件，这些插件可将ChatGPT连接到Slack、SharePoint、Airtable和Google Drive等日常工具。不过，新的插件扩展将让应用在ChatGPT侧边栏中拥有专属入口。</p>
-<p>此外，开发者还可以构建交互式面板，让用户在与ChatGPT聊天的同时使用相关工具。公司指出，这种体验还可以包括文件查看器，支持开发者产品所使用的各种文件格式。</p>
-<p>另外，OpenAI表示，正在让开发者更容易构建插件，并简化终端用户发现插件的流程。开发者将获得一个新的Plugin Creator工具用于构建插件，还可以通过重新设计的提交流程将插件提交至插件目录；该流程能够提供更清晰的反馈。</p>
-<p>与此同时，公司表示，已经改进插件在其目录中的排名和推荐方式，也改进了插件在对话中出现时的推荐方式。当用户选择使用某个插件时，还可以分别批准该插件所需的访问权限。</p>
-<p>此外，ChatGPT Sites——用户可以利用ChatGPT创建的轻量级网站——也能够托管这些插件。例如，这将允许某人与同事分享自己的应用，同事可以使用各自连接的数据和权限来操作这些应用。</p>
-<p>OpenAI还表示，将增加对拟议中的MCP Events规范的支持，使插件能够根据连接应用中的事件启动自动化流程。公司还在让自动化流程更容易添加和管理。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>消费者新闻编辑</p>
-<p>第二张通行证享受五折优惠</p>
-<p>Disrupt活动的体验旨在与他人分享。购买您的通行证，并以五折价格带一位同事、合作伙伴或同行参加。通过建立联系、积蓄动力并探索创业生态系统的下一步，拓展您的视野。</p>
-<p>Crusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
-<p>甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse人工智能代理打造了一款类似电子宠物机的可穿戴设备</p>
-<p>《Vogue》让机器人走上Vogue World的T台，但人们对此并不买账</p>
-<p>Anthropic表示，其生物学实验室已经取得重大成果</p>
-<p>PitPro首款换胎机器人在加拿大投入使用</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 01:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-s-launch-muse-competitor-032218cff42a1f40" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1467" data-content-paragraphs="7" data-published-at="2026-09-29T17:15:00.000Z" data-time-source="publication">
+<div id="story-up-to-468-miles-of-range-f7df048676ed882b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1396" data-content-paragraphs="1" data-published-at="2026-09-29T22:01:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:15</span>
+  <span class="news-meta-time">🕒 2026-09-30 06:01</span>
 </div>
 
-### [要闻：OpenAI正在以自家的智能代理助手Dots回应Meta广受关注的AI产品Muse](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI launches Dots, its Muse competitor</div>
+### [宝马焕新版i3续航里程最高可达468英里](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
+<div class="original-title-sub"><span class="orig-tag">原文</span> BMW’s revamped i3 boasts up to 468 miles of range</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="要闻：OpenAI正在以自家的智能代理助手Dots回应Meta广受关注的AI产品Muse" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="宝马焕新版i3续航里程最高可达468英里" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>OpenAI正在以自家的智能代理助手Dots回应Meta广受关注的AI产品Muse。OpenAI在周二举行的DevDay主题演讲中宣布，Dots将作为始终在线的AI助手，在后台跨连接的应用执行“几乎任何事情”，并随着时间推移了解用户的偏好。该公司的高性能GPT-6 Astra模型为Dots提供支持。Dots拥有自己的云端计算机，可以访问网页浏览器以及4000多款受支持的应用。用户可以通过类似短信的界面与Dot互动，该界面与Muse提供的界面类似；也可以在网页版、桌面版或移动版ChatGPT中与Dot进行语音通话。Dots还可以连接Microsoft Teams和Slack，并将用户在其他应用和设备上的会话上下文延续过来。很快，Dots还将能够通过短信与用户交流。</p>
-<p>[视频：OpenAI Dots]</p>
-<p>目前，用户只能创建一个Dot，但OpenAI计划允许用户同时部署多个智能代理。用户向Dot交代任务后，Dot会在执行过程中通过消息发送进度更新并提出问题。OpenAI举例称，一名正在开发应用的开发者可以要求Dot利用客户反馈构建并测试更新，同时提供一段展示修改内容的视频。与此同时，内容创作者可以让Dot审阅采访文字稿、找出适合剪辑的片段、制作节目说明并撰写社交媒体帖子。用户可以访问Dot的云端计算机，跟踪其工作进展。OpenAI表示，Dots还会在工作过程中学习，从而个性化其输出，并在“你甚至想到提出要求之前”设想其他可完成的任务。用户及其同事还可以在ChatGPT Space中与Dot协作。ChatGPT Space是应用内新增的协作工作区。</p>
-<p>[图片：开发者的Dot可以在后台处理应用更新。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Example-3.png?quality=90&amp;strip=all]</p>
-<p>Dots的推出距Meta上线Muse仅数周。Muse是一款可定制的AI助手，能够浏览网页、进行购买、生成文档、跟踪目标等。尽管Muse的人气持续上升，但外界对其安全性的担忧也在加剧。一名用户称，Muse在其不知情的情况下，将其住址提供给了Facebook Marketplace上的一名买家。OpenAI表示，Dots内置了“决定何时自主行动的规则”，但用户可以设置自定义规则，阻止某些操作，或规定Dots何时必须征得许可。Dots还配备了“自动审查”功能。OpenAI称，该功能将用于核实某项操作是否符合自定义规则和安全要求。这一功能还可以让Dots判断哪些任务应交由用户完成，例如更改密码。</p>
-<p>[图片：Dots可以帮助创作者起草社交媒体帖子，并决定视频中的哪些部分适合剪辑。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Example-4-1.png?quality=90&amp;strip=all]</p>
-<p>从今天开始，OpenAI将向ChatGPT Pro、Business Premium和Enterprise用户逐步推出Dots。OpenAI还在测试一项功能，允许企业创建负责组织内部特定职能的“专业型”Dots。OpenAI指出，与Dot的对话不会计入ChatGPT的使用限额。OpenAI表示：“未来，你将能够添加更多Dot，并通过提高每个Dot的运行速度或其每月可承担的工作总量，扩大每个Dot的产出规模。”</p></div>
+<div class="article-body" data-article-body="true"><p>有关这一主题的文章将添加到您的每日电子邮件摘要和主页信息流中。<br />查看全部交通运输内容<br />i3 50 xDrive上市时的起售价为62,850美元，预计于2027年第一季度交付。<br />这位作者的文章将添加到您的每日电子邮件摘要和主页信息流中。<br />查看安德鲁·J·霍金斯的全部文章<br />宝马最初宣布，将在其Neue Klasse平台上把i3重新打造为一款纯电动四门轿车，但当时遗漏了许多重要细节，例如电池容量、续航里程和价格。如今，这家德国汽车制造商终于开始补充i3的相关信息。<br />先从价格说起。宝马表示，2027款i3 50 xDrive起售价为61,500美元，另加1,350美元的目的地费用，这使其明确进入与奔驰C级相竞争的市场区间。（今年3月，我们只能猜测其起售价大约为60,000美元。）我们当时也无法确定这款新电动汽车何时会在美国上市；今天，宝马确认其正式上市时间为2027年第一季度。<br />宝马还公布了i3电机的新细节。该车配备两台电机——后桥采用一台电励磁同步电机（EESM），可输出322马力和321磅-英尺扭矩；前桥采用一台异步电机，可输出165马力和188磅-英尺扭矩——系统总输出功率为463马力，最大扭矩为476磅-英尺。<br />宝马确认其正式上市时间为2027年第一季度。<br />作为主要驱动桥的EESM使用电力而非永磁体，为定子外框和转子内部的旋转部件提供动力。逆变器相当于整个系统的大脑：它将电池输出的直流电转换为供电机使用的交流电，调节电磁铁，并监测运行表现，从而让电机尽可能高效地运转。<br />新闻稿中给出的续航数据相当令人印象深刻。今年3月，我们估计其电池续航里程约为440英里，但宝马表示，根据美国环保署（EPA）的测试，实际预计续航里程将更接近468英里。宝马可能已经注意到2027款梅赛德斯-奔驰EQ的续航预估值十分惊人：按照WLTP测试循环，其续航里程达到925公里（575英里）。（WLTP的结果通常比EPA的估算值高出约10%至20%。）宝马或许认为，自己可以用低得多的价格实现近似的续航表现。说实话，这个判断相当靠谱。<br />令人遗憾的是，宝马仍未透露i3的电池容量，不过它确认该车搭载了这家汽车制造商的“第六代”高压电池，电池采用直径46毫米、高度95毫米的圆柱形锂离子电芯。与第五代电池使用的方形电芯相比，这种新型圆柱电芯的能量密度提升了20%。<br />宝马i3还有一些其他亮点，包括支持双向充电，具备车辆对负载（V2L）和车辆对家庭（V2H）功能；配备智能充电口盖，当驾驶员接近已知充电点时会自动开启；此外还支持“即插即充”，可在10家不同充电服务商处实现自动充电。<br />随着豪华汽车制造商竞相在车辆中加入更多人工智能功能，宝马也将亚马逊的Alexa集成到了i3中。这个姗姗来迟的大语言模型版本Alexa能够处理自然、对话式的请求，搜索在线信息，或以自然的方式管理空调和车窗。（自2022年以来，宝马一直努力将这一由人工智能驱动的新版本Alexa引入旗下汽车，但由于亚马逊的开发周期较长，项目被推迟。）<br />不过，如果你追求更强的性能，宝马还将提供i3 M60 xDrive。这是一款高性能竞赛车型，配备M专属灯组和图形设计，以及21英寸Style 1067M空气动力学轮毂。该版本将于2027年某个时间上市，价格尚未公布。<br />查看全部电动汽车<br />每天免费获取最重要的新闻摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 01:15 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 06:01 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -556,121 +182,39 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-rotests-ice-data-centers-7b1e2c115f5f9985" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1187" data-content-paragraphs="13" data-published-at="2026-09-29T17:12:27.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:12</span>
-</div>
-
-### [抗议者聚集在 OpenAI 的 DevDay 活动外](https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Protesters gather at OpenAI’s DevDay</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="抗议者聚集在 OpenAI 的 DevDay 活动外" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题下的帖子将被添加到您的每日电子邮件简报和主页信息流中。</p>
-<p>数据中心、ICE 合同等问题成为围绕此次活动举行的集会抨击对象。</p>
-<p>该作者发布的帖子将被添加到您的每日电子邮件简报和主页信息流中。</p>
-<p>查看 Hayden Field 的全部文章</p>
-<p>周二，OpenAI 的年度 DevDay 活动在抗议、传单和口号声中拉开帷幕。一群抗议者围绕着一组拼出“人民高于利润”（PEOPLE OVER PROFIT）字样的标牌绕圈行进，并高喊：“萨姆·奥尔特曼，别再这样了，把人民置于利润之上。”</p>
-<p>十多个组织共同发起了这场集会，地点位于旧金山福特梅森活动场地入口外。参与组织包括 Bay Resistance、Tech Workers Coalition、服务雇员国际工会、San Francisco Rising 以及旧金山劳工委员会。一块大型橙色标牌上写着：“放弃与 ICE 的合同。”多名身穿纸板机器人服装的人挥舞着纸板镰刀。现场标牌上还写着：“不要给 ICE 杀人机器人”“人民高于人工智能”“你的道德准则在哪里？”以及“不要摧毁气候”。</p>
-<p>这场抗议反映出一场由反对人工智能行业权力集中以及政府监管缺失的人士发起的、跨越党派的运动。QuitGPT 等组织曾带头发起抵制行动；在极端情况下，还有人试图在人工智能公司首席执行官的住所对其发动袭击。抗议发生之际，公众对人工智能的信任度似乎也处于低位。近几个月来，一些人工智能实验室因遭到“失控”系统的攻击而受到抨击，这些系统曾访问竞争对手的网络和个人数据。</p>
-<p>DevDay 现场的抗议者主要针对 OpenAI 的军事和政府合同，尤其是与 ICE 的合同；他们还批评数据中心对环境的影响以及整个行业的权力。DevDay 活动场外，抗议者喊出的口号包括：“OpenAI，你无法躲藏，我们指控你犯下种族灭绝罪”；“不要再有另一个序列，不要再有另一行代码，不要再为 ICE 的罪行编程”；以及：“我说人民，你们说权力。人民！权力！人民！权力！”</p>
-<p>抗议者散发的一份传单呼吁人们“签署民主承诺，终结 ICE 合同和军事合同”，并附有 QuitGPT.org 的链接。传单上写道：“OpenAI 正在为特朗普和 ICE 的暴力行动打造工具，而其高管们却在帮助资助 MAGA 的政治力量。”另一份传单展示了数据中心周边的“安全距离”，暗示唯一安全的距离是 100 英里（约 161 公里）以外。</p>
-<p>有一度，一名手持扩音器的人直接对 OpenAI 员工讲话，并带领抗议者唱道：“改变想法没关系；让我们看看你的勇气，离开这一切。”</p>
-<p>一名抗议活动负责人告诉围观者，在奥尔特曼到场开始开幕主题演讲之前，他们会一直留在那里。当有人提到奥尔特曼的名字时，现场响起了嘘声。一人高喊：“法西斯！”</p>
-<p>一份免费每日简报，为您带来最重要的新闻。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 01:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-index-devday-2026-recap-c6a404b23739c6d6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="361" data-content-paragraphs="5" data-published-at="2026-09-29T17:07:45.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 01:07</span>
-</div>
-
-### [要闻：在 DevDay 2026 大会上，我们将为人们提供更多承担雄心勃勃工作的方式，以及构建未来所需的工具](https://openai.com/index/devday-2026-recap/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> DevDay 2026 Recap</div>
-
-<div class="article-body" data-article-body="true"><p>在 DevDay 2026 大会上，我们将为人们提供更多承担雄心勃勃工作的方式，以及构建未来所需的工具。</p>
-<p>DevDay 2026 是迄今规模最大的一届，围绕 ChatGPT、Codex、我们的模型，以及全新的 AI 协作方式，我们发布了 20 多项重大公告。</p>
-<p>我们相信，AI 能够推动一场新的创造力与探索发现的复兴。它应当让人们有更多时间投入对自己真正重要的事情，有更大的自由去追求自己的想法，并具备完成那些曾认为不可能之事的能力。</p>
-<p>今天，我们推出了能够承担持续性职责的智能体，以及人类与 AI 协作的新方式。我们还进一步加大了对开放生态的投入：开放 ChatGPT，使其成为一个共享平台，让人类与智能体能够协作；同时，开发者也可以直接面向我们每周累计 12 亿用户推出全新的原生体验。</p>
-<p>以下是我们公布的全部内容。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 01:07 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://openai.com/index/devday-2026-recap/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-use-is-about-to-find-out-e86718cab202ca99" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="744" data-content-paragraphs="11" data-published-at="2026-09-29T16:55:56.000Z" data-time-source="publication">
+<div id="story--doubles-valuation-to-4b-7414811d518ee6cb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="767" data-content-paragraphs="11" data-published-at="2026-09-29T21:51:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 00:55</span>
+  <span class="news-meta-time">🕒 2026-09-30 05:51</span>
 </div>
 
-### [聊天机器人能解决政府办事迷宫吗？白宫即将揭晓答案](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Can a chatbot fix the government maze? The White House is about to find out</div>
+### [获a16z支持的EliseAI融资3.5亿美元，估值翻倍至40亿美元](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> a16z-backed EliseAI raises $350M, doubles valuation to $4B</div>
 
-<div class="article-body" data-article-body="true"><p>美国总统唐纳德·特朗普周二宣布，白宫正在推出 America.gov，这是一个旨在帮助民众查找政府服务及其他信息的人工智能聊天机器人。</p>
-<p>谷歌确认，该公司是此次发布的合作伙伴，其人工智能模型 Gemini 也参与其中，但目前尚不清楚是否还有其他人工智能公司提供了贡献。</p>
-<p>特朗普在 X 上发文说：“与其让公民在数以万计的政府网站和规则构成的无尽迷宫中搜索……现在，你们将拥有一个能够回答所有问题的统一入口。”</p>
-<p>让政府服务更易于查找和使用是一个值得追求的目标，但人工智能聊天机器人是否是实现这一目标的最佳方式？大型语言模型并非万无一失，而且仍然容易产生“幻觉”。事实上，CNN 近日报道称，美国军方曾险些对一艘被认为载有核武器部件的中国船只发起武装行动。军方在最后一刻中止了任务，原因是其意识到，所谓的威胁只是人工智能产生的“幻觉”。</p>
-<p>如果有人从 America.gov 获得错误信息，这可能不会引发核战争，但错误仍可能造成严重后果。人们可能会依赖这个聊天机器人获取申请食品券、续签签证或报税等方面的信息，而错误可能导致错过期限、福利申请被拒或遭受罚款。</p>
-<p>第二张通行证享受五折优惠<br />Disrupt 活动旨在与他人共同参与。购买一张通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势头并探索创业生态系统的下一步，拓展你的交流范围。</p>
-<p>每个工作日和周日，你都可以获取 TechCrunch 报道中的精华内容。</p>
-<p>TechCrunch Mobility 是你获取交通运输新闻与洞察的目的地。</p>
-<p>初创企业是 TechCrunch 报道的核心，我们将每周把精选内容发送给你。</p>
-<p>为各界活跃人士提供开启一天所需的信息。</p>
+<div class="article-body" data-article-body="true"><p>人工智能初创公司EliseAI周二宣布，公司已以40亿美元估值融资3.5亿美元。这一估值是其去年8月完成E轮融资时的两倍。</p>
+<p>本轮融资由Andreessen Horowitz和Bessemer Ventures联合领投。EliseAI成立于2017年，为住房和医疗保健企业自动化处理行政和运营工作。该公司表示，其软件已覆盖全国六分之一的公寓，并于今年夏天宣布年度经常性收入（ARR）突破2亿美元。</p>
+<p>本月早些时候，Elise宣布推出一名名为Apollo的人工智能“队友”，帮助完成EliseAI平台内的各项任务。EliseAI联合创始人兼首席执行官Minna Song告诉TechCrunch：“它原生构建于同一个平台之中，而该平台已经负责租赁、维护和续约等工作。因此，它可以在物业团队的每个岗位上发挥作用。”</p>
+<p>在医疗保健领域，EliseAI还帮助专科医生团体自动化处理与患者相关的文书工作。她说，这一流程“从首次接听来电开始，涵盖转诊、预约、保险核验、病历准备和后续跟进，确保没有任何环节被遗漏”。她表示，公司之所以瞄准住房和医疗保健领域，是因为这两个领域属于“美国家庭最大的两项支出”。</p>
+<p>第二张门票享受五折优惠</p>
+<p>Disrupt体验旨在与他人共享。购买门票并邀请一位同事、合作伙伴或同行，即可享受第二张门票五折优惠。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展你的交流与发现。</p>
+<p>每个工作日和周日，你都可以获取TechCrunch报道中的精华内容。</p>
+<p>TechCrunch Mobility是你获取交通领域新闻和洞察的目的地。</p>
+<p>初创公司是TechCrunch报道的核心，因此请每周接收我们最优质的报道。</p>
+<p>为行业推动者和重要人物提供开启一天所需的信息。</p>
 <p>提交电子邮件即表示你同意我们的《条款》和《隐私声明》。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 00:55 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 05:51 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -680,7 +224,344 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-hacking-suspect-arrested-9b5562e510053561" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="882" data-content-paragraphs="10" data-published-at="2026-09-29T21:50:31.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 05:50</span>
+</div>
+
+### [荷兰逮捕疑似 ShinyHunters 领导人](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Suspected ShinyHunters leader arrested in the Netherlands</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="荷兰逮捕疑似 ShinyHunters 领导人" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>与该主题相关的帖子将添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>这名24岁男子与涉嫌发动针对美国联邦调查局、Rockstar Games、Ticketmaster等机构攻击的黑客组织有关。</p>
+<p>该作者发布的帖子将添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>查看 Emma Roth 的全部文章</p>
+<p>荷兰警方表示，他们逮捕了一名24岁的阿姆斯特丹男子，原因是其涉嫌与 ShinyHunters 有关。ShinyHunters 是一个黑客组织，曾声称对 Ticketmaster、Rockstar Games 以及最近针对美国联邦调查局（FBI）的高调攻击负责。荷兰当局在一份新闻稿中称，他们于9月15日逮捕了这名嫌疑人——就在该黑客组织声称入侵 FBI 网站并窃取员工数据的几天前。路透社此前对此进行了报道。</p>
+<p>荷兰当局和 FBI 均未公布嫌疑人的姓名，但 Krebs on Security 和路透社报道称，警方逮捕的是荷兰人 Pepijn van der Stap。Van der Stap 曾因数据盗窃和敲诈勒索于2023年被定罪。据 Krebs on Security 报道，他去年出狱后加入了荷兰网络安全公司 Neo Security。ShinyHunters 向路透社表示，Van der Stap “与该组织没有任何关联”。</p>
+<p>FBI 网络部门助理局长 Brett Leatherman 称，这名嫌疑人是该组织所谓的领导人之一，同时向其他仍在活动的成员发出警告。Leatherman 在周二发布的一段视频中说：“你继续参与的时间越长，我们对你的了解就越多。你知道如何找到我们，而我们也知道如何找到你。我的建议是，在选择权仍掌握在你自己手中时，先主动联系我们。”</p>
+<p>据荷兰警方称，这名24岁男子还涉嫌“企图煽动实施两起谋杀”。FBI 局长 Kash Patel 在 X 平台的一篇帖子中写道：“正如我们所说，FBI 团队正与合作伙伴积极合作，根据此次逮捕行动，就正在进行的调查获取并执行更多线索。”</p>
+<p>免费获取最重要新闻的每日摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 05:50 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ipedia-ai-updating-again-21aea061ef987697" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="798" data-content-paragraphs="10" data-published-at="2026-09-29T21:49:09.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 05:49</span>
+</div>
+
+### [埃隆·马斯克的人工智能驱动百科Grokipedia再次更新](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Elon Musk&amp;#8217;s AI-powered Grokipedia is updating again</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="埃隆·马斯克的人工智能驱动百科Grokipedia再次更新" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>有关这一主题的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>在经历数月暂停后，Grokipedia再次出现了一些活动迹象。</p>
+<p>这位作者发表的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>查看Jay Peters的所有文章</p>
+<p>SpaceXAI推出的人工智能在线百科全书Grokipedia，似乎在经历数月暂停后再次开始更新文章。8月，Lawfare报道称，Grokipedia上的文章自4月以来一直没有审核编辑内容；但该平台的实时更新网站现在显示，各页面最近出现了各种更新——不过在我撰写本文时，其中许多更新仅是一条写着“重新检查所有参考资料和来源”的备注。</p>
+<p>相对而言，该网站似乎是最近才重新活跃起来的。美国总统巴拉克·奥巴马的页面显示，两天前曾有一条备注称该页面“已由Grok进行事实核查”；而埃隆·马斯克的页面则是在我写作期间、不到一小时前完成事实核查的。不过，我从奥巴马的页面点击进入的檀香山页面，上一次事实核查是在7个月前，因此看来并不是每个页面都接受了近期扫描。</p>
+<p>在撰写本文期间，我建议更新《战争机器：末日》（Gears of War: E-Day）页面，补充该游戏将于10月6日发行的信息。Grokipedia接受了这一建议，并已列出该日期。我还请求添加一篇关于Meta聊天机器人Muse的文章，目前该请求状态为“审核中”。</p>
+<p>SpaceXAI没有立即回应置评请求，而埃隆·马斯克自2月以来仍未在X上发布有关Grokipedia的内容。（大约一年前，马斯克曾声称Grokipedia将“比维基百科有巨大改进”。）不过，X和SpaceXAI设计负责人本吉·泰勒上周发布了有关Grokipedia的内容，称“我们没有忘记Grokipedia”，并表示“v0.2将比以往更好”（尽管严格来说，v0.2是在11月推出的）。</p>
+<p>每天免费获取最重要新闻的摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 05:49 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-o-scale-cybercab-optimus-7e313f551a3ec8fa" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="600" data-content-paragraphs="11" data-published-at="2026-09-29T21:20:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 05:20</span>
+</div>
+
+### [特斯拉获得300亿美元新增信贷额度，着眼于扩大Cybercab和Optimus的规模](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus</div>
+
+<div class="article-body" data-article-body="true"><p>特斯拉已获得总额300亿美元的新增信贷额度，可用于扩大其目前正在开发的新产品，包括Cybercab机器人出租车、Optimus机器人和特斯拉Semi电动卡车。</p>
+<p>该公司周二宣布，花旗银行已同意提供一项200亿美元、期限三年的延迟提款定期贷款额度。富国银行还签署了一项80亿美元、期限五年的循环信贷额度，以及一项期限为364天、金额20亿美元的循环信贷额度。</p>
+<p>特斯拉在一份监管文件中表示，公司今年不计划动用这些贷款额度。公司此前已预计，2026年的资本支出至少将达到250亿美元。特斯拉今年第二季度末的债务约为90亿美元，而现金及投资总额超过400亿美元。</p>
+<p>这三款新产品都需要新建生产线。对于Semi和Optimus机器人，公司采取了建设全新专用工厂的方式。</p>
+<p>第二张通行证享受五折优惠</p>
+<p>Disrupt大会体验旨在与他人共享。购买您的通行证，并以五折优惠携带一位同事、合作伙伴或同行参加。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的视野。</p>
+<p>每个工作日及周日，您都可以获取TechCrunch报道中的精华内容。</p>
+<p>TechCrunch Mobility是您获取交通运输新闻与洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，因此请每周接收我们精选的报道。</p>
+<p>为行业领军人物和活跃人士提供他们开始一天所需的信息。</p>
+<p>提交电子邮件即表示您同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 05:20 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--round-at-1-4t-valuation-36193bd2fd972c29" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="770" data-content-paragraphs="12" data-published-at="2026-09-29T19:52:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 03:52</span>
+</div>
+
+### [据报道，OpenAI正洽谈以1.4万亿美元估值融资300亿美元](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI repotedly in talks to raise $30B round at $1.4T valuation</div>
+
+<div class="article-body" data-article-body="true"><p>据彭博社周二报道，OpenAI正在与投资者洽谈，计划在首次公开募股（IPO）前的一轮融资中筹集至少300亿美元，公司估值约为1.4万亿美元。</p>
+<p>在该公司预计于明年登陆公开市场之前，投资者正迫切希望向这家ChatGPT开发商投入更多资金。据报道，尽管Anthropic在今年年初一度超过OpenAI，但OpenAI近期重新聚焦于编程等关键领域，推动其营收运行率自7月以来增长70%，并于8月达到400亿美元。</p>
+<p>OpenAI此前于3月以8520亿美元估值筹集了1220亿美元。这轮融资原本应是该公司在IPO前进行的最后一轮私募融资，而直到最近，外界一直预计IPO将在今年进行。不过，OpenAI首席执行官萨姆·奥尔特曼如今已排除公司在2026年上市的可能性，优先确保人工智能安全。</p>
+<p>针对安全研究人员有关人工智能可能对人类构成生存级风险的警告，他最近在接受《财富》杂志采访时表示：“我认为，到本十年结束时，如果我们还在承担可能让所有人丧生的10%概率，这是不可接受的。”</p>
+<p>据彭博社报道，如果新一轮融资最终达成，这将作为公司IPO前的过渡轮融资。</p>
+<p>OpenAI没有回应TechCrunch的置评请求。</p>
+<p>第二张门票立减50%<br />Disrupt活动的体验旨在与他人分享。购买门票并携带一位同事、合作伙伴或同行，即可享受第二张门票五折优惠。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展你的交流范围。</p>
+<p>每周一至周五及周日，你都可以获取TechCrunch报道中的精华内容。</p>
+<p>TechCrunch Mobility是你获取交通行业新闻与洞察的首选平台。</p>
+<p>初创企业是TechCrunch报道的核心，因此每周都能收到我们最优质的报道。</p>
+<p>为行业中的风云人物提供开启一天所需的信息。</p>
+<p>提交电子邮箱即表示你同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 03:52 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-unterfeit-postage-labels-4e1353e06bffbd8d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1095" data-content-paragraphs="10" data-published-at="2026-09-29T19:30:17.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 03:30</span>
+</div>
+
+### [美国邮政检查员查封销售假邮资标签的网站](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> U.S. postal inspectors shut down website selling counterfeit postage labels</div>
+
+<div class="article-body" data-article-body="true"><p>作者：Rick Owens，2026年9月26日<br />无评论</p>
+<p>佛罗里达州迈阿密——2026年9月24日——美国邮政检查局及其联邦机构合作伙伴已查封一个互联网域名，并指控一名巴基斯坦籍人士运营一个未经授权的网站。该网站据称销售了超过500万张美国邮政署（USPS）假邮资标签，造成的损失超过1.26亿美元。</p>
+<p>法院记录显示，来自巴基斯坦卡内瓦尔、现年33岁的Faheem Akram运营着LabelsBank.com。该网站据称以固定价格销售USPS假邮资，通常每张标签收费2美元，无论包裹的重量、尺寸或目的地如何。LabelsBank.com未获授权销售USPS产品和服务。这些假标签让客户能够以大幅折扣的价格寄送包裹，导致USPS为所提供的运输服务损失大量收入。</p>
+<p>美国邮政检查局迈阿密分部的邮政检查员发现，超过5,000名客户通过LabelsBank.com购买了超过510万张假运输标签。在对Akram提起指控的同时，法院签发命令，授权查封该域名并关闭该网站。</p>
+<p>Akram被控一项共谋欺骗美国政府并制造、销售假邮票的罪名，五项制造和销售假邮票标签的罪名，以及四项电信欺诈罪。需要注意的是，刑事指控仅属指控，除非或直到被证明有罪，否则每名被告均应被推定为无罪。</p>
+<p>迈阿密分部邮政检查主管Bladismir Rojo表示：“我们的执法范围超越国界。如果你通过推销虚假邮资欺诈邮政署，并以美国消费者为目标，我们会找到你，并将你绳之以法。”</p>
+<p>佛罗里达州南区联邦检察官Jason A. Reding Quiñones表示：“据称的这一计划简单却规模庞大：在网上以固定的低价销售假邮资，每张标签低至2美元，无论包裹的重量、尺寸或目的地如何，从而让客户得以逃避邮政署的合法收费。起诉书称，涉案假标签超过510万张，造成的损失超过1.26亿美元。在美国邮政检查局和我们的检察官共同努力下，该网站已被关闭，域名已被查封，其涉嫌运营者——一名巴基斯坦籍人士——已受到联邦指控。”</p>
+<p>进一步了解假邮资</p>
+<p>《美国邮政检查员查封销售数百万张假邮资标签的网站》由Rick Owens于2026年9月26日发布<br />查看Rick Owens的所有文章 →</p>
+<p>您的电子邮件地址不会被公开发表。<br />document.getElementById(&quot;comment&quot;).setAttribute( &quot;id&quot;, &quot;a1fcf60496485ab2263a870d1f98aed7&quot; );document.getElementById(&quot;e4c69a774b&quot;).setAttribute( &quot;id&quot;, &quot;comment&quot; );</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 03:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-eland-safetywing-descope-502ba61c9ccd8d65" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3762" data-content-paragraphs="39" data-published-at="2026-09-29T18:48:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 02:48</span>
+</div>
+
+### [更多参与Disrupt的方式：来自KOTRA、WayFounder、爱尔兰企业局、SafetyWing与Descope的2026年全新周边活动](https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope</div>
+
+<div class="article-body" data-article-body="true"><p>TechCrunch Disrupt 是科技界汇聚一堂共同建设、探讨与交流的盛会。在 Disrupt 周期间，当莫斯康西展馆的大门关闭时，交流探讨并不会随之停止。</p>
+<p>我们的周边活动计划将全旧金山的创始人、投资者、运营者和技术领袖汇聚一堂，活动形式丰富多样，涵盖私密圆桌会议、创始人聚会、欢乐时光、晚宴、研讨会以及社区交流会等。</p>
+<p>无论你是希望结识新伙伴、寻找下一位合作者、深入探讨某个特定行业，还是只想暂时跳出展会模式放松一下，展厅之外都有无数精彩正在上演。</p>
+<p>探索 2026 年周边活动，寻找你的同行者。</p>
+<p>10月13日 | 太平洋时间下午6:00 – 晚上9:00<br />与来自大韩民国的18家初创公司见面，共度一个充满创始人交流、精选引荐以及与投资人、运营者、企业高管和创业同行建立联系的夜晚。每位创始人将进行简短的自我介绍，随后现场将开放交流，共话美国及全球初创生态的合作机遇。主办方：WayFounder 报名</p>
+<p>10月13日 | 太平洋时间下午5:00 – 晚上9:00<br />前往 Harrington&#39;s 爱尔兰酒吧，与创始人、人力资源领袖和初创社区成员一起畅饮畅聊。该欢乐时光活动由 SafetyWing 在 TechCrunch Disrupt 期间举办，为结识新朋友提供了一个轻松的社交场所，并可与该初创团队深入交流其针对远程及全球团队的健康保障方案。主办方：SafetyWing 报名</p>
+<p>10月13日 | 下午5:00 – 晚上8:00<br />结识爱尔兰最具人气的初创公司并展开交流！爱尔兰企业局（Enterprise Ireland）重返 TechCrunch Disrupt 2026，我们非常高兴能在 Ireland House 举行的“爱尔兰创智赢家”（The Irish Shark Tank）欢乐时光活动中与老友重逢并结识新朋友。名额有限！主办方：Enterprise Ireland 报名</p>
+<p>10月14日 | 太平洋时间下午5:30 – 晚上8:30<br />与韩国初创公司、美国投资人、创始人和技术专业人士共聚旧金山，参与跨国界交流与社交之夜。该活动由大韩贸易投资振兴公社（KOTRA）作为韩国馆项目的一部分组织，汇聚了进入美国市场的韩国初创企业以及投资人、创始人、企业合作伙伴和湾区初创生态成员。<br />对于尚未购买 TechCrunch Disrupt 2026 门票的人员，KOTRA 将向符合条件的申请者提供免费的 Expo+ 通行证。主办方：KOTRA 硅谷 报名</p>
+<p>10月14日 | 太平洋时间下午6:00 – 晚上9:00<br />加入 Skyflow 与 Descope，与旧金山的安全、隐私和身份识别社区共享美食、鸡尾酒、友谊赛及深度交流。随着人工智能系统日益自主化，本次活动汇聚了致力于应对敏感数据和身份保护挑战的行业领袖，提供远离展会现场的充裕交流时间。主办方：Descope 报名</p>
+<p>10月7日 | 太平洋时间下午6:00 – 晚上10:00<br />亲身体验声音恢复技术的现场演示，Uhura Bionics 联合创始人 Konrad Zieliński 将面向美国观众展示 Whitney 电子喉（Electrolarynx）。该活动探讨了科技如何帮助人们在癌症治疗后重获发声能力与自主权。主办方：Uhura Bionics 报名</p>
+<p>10月10日 | 太平洋时间上午9:00 – 上午11:00<br />了解第一性原理思维如何帮助发掘被忽视的客户需求、强化产品与市场契合度，并展现出大幅增长的机会。本次分享将运用实际案例，探讨创始人与产品团队如何在现有产品中发掘新机遇。主办方：PrincipiumX 报名</p>
+<p>10月12日 | 太平洋时间下午6:00 – 晚上9:00<br />与致力于机器人、芯片、火箭及其他前沿硬件领域的创始人、工程师和运营者交流。这是一场轻松随意、无需演讲的聚会，为大家提供了交换思路、分享经验以及结识其他面对实体硬件技术挑战的同行的机会。主办方：Syntro 报名</p>
+<p>10月13日 | 太平洋时间下午5:30 – 晚上8:30<br />通过涵盖机器人、智能硬件和先进制造领域的初创企业路演与交流，探索台湾新兴的人工智能生态系统。结识深耕台湾科技领域的创始人和投资人，深入了解对接、投资和建设的更多机会。主办方：台湾经济部 报名</p>
+<p>10月13日 | 太平洋时间下午6:00 – 晚上8:00<br />远离展会人群，与创始人、投资人、运营者、构建者、创作者以及那些让旧金山初创社区更具温情的宠物们度过一个轻松的夜晚。主办方：Omelo 报名</p>
+<p>与深耕于市场开拓（GTM）、合作伙伴关系、分销和技术的创始人、营收负责人及高管建立联系。该晚会旨在汇聚各方人士，在湾区初创生态中建立关系并创造新机遇。主办方：EdgeM8 报名</p>
+<p>10月14日 | 太平洋时间下午5:00 – 晚上8:00<br />与创始人、运营者和专注于人工智能的投资人齐聚屋顶，围绕 AI 与基础设施展开交流、享用美食与饮品。主办方：Fynex 报名</p>
+<p>亲眼见证业务自动化的现场运作：晚宴期间，Bolter 将把参会者平时最头痛的每周例行流程现场转化为实用的自动化程序。宾客可以用通俗语言描述一个流程，并见证其在无需编写代码的情况下被转化为自动化流程。主办方：Improbable 报名</p>
+<p>10月14日 | 太平洋时间下午6:00 – 晚上10:00<br />与创始人、投资人和增长负责人共聚限席屋顶晚宴，重点探讨深科技（deep tech）议题。该晚宴将美食与契机融为一体，为科技与投资生态圈的交流搭建平台。主办方：INNOVA × BeGlobe 公关公司 报名</p>
+<p>10月14日 | 太平洋时间下午6:30 – 晚上9:30<br />在 SQLDoom 殊死战、街机游戏、美食、畅饮与畅谈之夜中检验你的 SQL 技能。与 CedarDB 团队并肩竞技，结识数据库工程师、初创公司创始人以及广大技术爱好者。主办方：CedarDB 报名</p>
+<p>10月15日 | 太平洋时间下午5:00 – 晚上8:00<br />发掘在人工智能、软件、医疗科技、清洁技术、数字平台和先进工业领域崭露头角的韩国初创企业。活动内容包括快节奏路演，并与创始人、投资人和全球合作伙伴进行现场交流。主办方：Brinc 报名</p>
+<p>10月15日 | 太平洋时间下午5:30 – 晚上8:30<br />结识12家面向全球市场、业务横跨人工智能、企业软件、医疗健康、生物科技、国防、农业科技、体育科技和消费级科技的日本初创公司。展示会包含现场演示，并提供与创始人直接对接的机会。主办方：500 Global 报名</p>
+<p>10月16日 | 太平洋时间上午10:00 – 中午12:00<br />沿着内河码头（Embarcadero）开启一段轻松的海滨晨跑，沿途设有初创主题的“跑道”标记。晨跑结束后，前往渡轮大厦（Ferry Building）享用咖啡，并与其他创始人和技术社区成员进行社交互动。主办方：Handler 报名</p>
+<p>10月16日 | 太平洋时间下午4:00 – 晚上6:00</p>
+<p>将桑拿和冷水浸泡体验与交流相结合，围绕参加今年 Startup Battlefield 200 的初创企业展开对话和社交。在 Disrupt 结束后，来到更轻松的环境中，与创始人及 Startup Battlefield 社区成员建立联系。<br />主办方：Press Club<br />报名</p>
+<p>10月16日｜太平洋时间下午6:00至晚上9:00</p>
+<p>在加入分组讨论之前，先聆听初创企业路演。在分组讨论中，参与者可以提供反馈、建立联系，或探索与演讲团队合作的机会。这是一个以结识创始人、寻找参与早期初创企业方式为主题的夜晚。<br />主办方：Startup Oasis<br />报名</p>
+<p>请定期查看按时间顺序排列的日程，因为新的配套活动每周都会加入。</p>
+<p>如果你正在安排 Disrupt 周的日程，别忘了主活动。</p>
+<p>TechCrunch Disrupt 2026 将于10月13日至15日在 Moscone West 举行，数千名创始人、投资者、运营者和科技领袖将齐聚一堂。在这里，你可以参加丰富的议程，也可以留在走廊里展开交流，最后带着一份满是那些你原本不知道自己需要认识的人的日程表离开。</p>
+<p>目前仍有门票可购买。来加入我们吧。</p>
+<p>当你通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>第二张门票享受五折优惠<br />Disrupt 的体验就是要与他人分享。购买你的门票，并以五折价格带上同事、合作伙伴或同行。通过建立联系、积蓄势能并发现创业生态系统的下一步，拓展你的参与范围。</p>
+<p>Crusoe 放弃在人工智能数据中心使用 Boom 涡轮机的12.5亿美元计划</p>
+<p>Astra 和 Opus 刚刚通过了图灵测试的另一项考验</p>
+<p>甲骨文就其位于新墨西哥州的 Stargate 数据中心发出不可抗力通知</p>
+<p>Meta 为其 Muse AI 智能体打造了一款类似电子宠物的可穿戴设备</p>
+<p>Vogue 在 Vogue World 活动中让机器人走上T台，但人们并不买账</p>
+<p>Anthropic 表示，其生物学实验室已经取得重大突破</p>
+<p>PitPro 的首台换胎机器人在加拿大投入使用</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 02:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-s-bank-today-sources-say-e7c6a0bc5d6db1de" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1929" data-content-paragraphs="24" data-published-at="2026-09-29T18:45:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 02:45</span>
+</div>
+
+### [据消息人士透露，Apple Pay 计划今日携手印度Axis Bank上线](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Apple Pay set to launch in India with Axis Bank today, sources say</div>
+
+<div class="article-body" data-article-body="true"><p>据TechCrunch了解，苹果计划于周二晚些时候在印度推出Apple Pay，Axis Bank将成为其首家银行合作伙伴。这意味着，在一个由UPI主导的市场上蛰伏多年后，苹果的支付服务终于进入全球人口最多的国家。</p>
+<p>据知情人士透露，初期上线范围将受到限制。Apple Pay起初将支持符合条件的Axis Bank Visa和万事达卡，但不支持印度本土的RuPay网络。其受理范围也将仅限于已启用该服务的商户和支付终端。</p>
+<p>印度无处不在的统一支付接口（UPI）系统允许消费者无需依赖银行卡即可进行即时银行间支付，而Apple Pay不同，它以银行卡为基础，并要求发卡机构和支付基础设施提供商分别与该服务完成整合。这使得大范围推广更加复杂。知情人士称，苹果的商业条款也已成为印度一些最大银行面临的障碍。</p>
+<p>据知情人士透露，苹果寻求从每笔交易中收取约20个基点的费用，这将从支付层面约40至50个基点的利润中占据相当大的一部分。知情人士称，这一收费结构总体上与Apple Pay在其他市场的商业模式一致。一名知情人士告诉TechCrunch，在商业条款谈判仍在继续之际，HDFC Bank、ICICI Bank和SBI Card预计不会在Apple Pay上线时提供支持。</p>
+<p>苹果、Axis Bank、HDFC Bank、ICICI Bank和SBI Card均未回应置评请求。本月早些时候，路透社报道称，苹果正准备于10月在印度推出Apple Pay，初期将从Axis Bank信用卡开始。</p>
+<p>Apple Pay进入的是一个与美国及其他以银行卡为主的经济体明显不同的支付市场。印度的数字支付热潮主要由UPI推动。这一由政府支持的系统允许消费者直接在银行账户之间转移资金。</p>
+<p>UPI处理着印度数字支付的大部分交易。在印度，扫描二维码、直接从银行账户付款已经十分普遍。相比之下，Apple Pay初期针对的将是规模小得多的银行卡支付市场。</p>
+<p>不过，Apple Pay可能会吸引印度不断扩大的iPhone用户群体。这些用户通常更加富裕，也更有可能使用高端信用卡。尽管UPI占据主导地位，这些客户仍可能使银行难以忽视这项服务。</p>
+<p>即使Apple Pay仍是一项小众服务，其经济效益仍可能使印度市场对苹果具有重要意义。知情人士称，苹果这家iPhone制造商将收取的交易费用，将为其在印度不断扩大的iPhone用户群体提供另一种变现方式。</p>
+<p>知情人士称，服务上线时，符合条件的Axis Bank客户将可以把信用卡添加至苹果的Wallet应用，并使用Apple Pay进行在线购物，以及在受支持的终端进行非接触式支付。</p>
+<p>一名知情人士称，如果某个独立支付服务提供商运营的终端已启用Apple Pay，一笔Apple Pay交易可能可以在该终端完成；但在另一台尚未由其收单银行启用该服务的终端上则可能失败。这意味着，即使客户持有受支持的银行卡，初期推广期间的受理情况也可能并不一致。</p>
+<p>此次上线为苹果在印度不断扩大的业务再添一环。苹果一直在印度扩大iPhone销量、推进本地制造并拓展零售布局。根据Counterpoint Research此前的一份报告，2025年苹果按销售额计算占印度智能手机市场的28%，高于前一年的23%。</p>
+<p>印度目前已占全球iPhone产量的约四分之一。印度英文日报《商业标准报》上月援引一名印度政府官员的话报道称，未来五年这一比例可能升至30%至35%。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>Jagmeet为TechCrunch报道来自印度的初创企业、科技政策相关动态以及其他所有重大科技领域进展。他此前曾担任NDTV首席记者。</p>
+<p>您可以发送电子邮件至mail@journalistjagmeet.com，与Jagmeet联系或核实来自他的联络信息。</p>
+<p>第二张通行证享受五折优惠<br />Disrupt活动体验旨在与他人共享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索初创企业生态系统的未来，拓展您的视野。</p>
+<p>Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划</p>
+<p>Astra和Opus刚刚通过了图灵测试的另一项考验</p>
+<p>甲骨文向其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
+<p>Meta为其Muse AI智能体打造了一款类似电子宠物的可穿戴设备</p>
+<p>Vogue在Vogue World活动中让机器人走上T台，但人们并不买账</p>
+<p>Anthropic称其生物学实验室已经取得重大成果</p>
+<p>PitPro首款换胎机器人在加拿大投入使用</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 02:45 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

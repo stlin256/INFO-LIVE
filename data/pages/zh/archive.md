@@ -41,14 +41,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **88** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **89** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-30 02:52 (UTC+8)
+- **最新归档时间**：2026-09-30 07:11 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-30 07:11 (UTC+8)" title="全球要闻情报简报 · 07:11" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-30 07:01 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】特朗普签署行政令，要求美国政府将AI改称为“超级智能”：该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。；【undefined】减重药界“哥斯拉”或带来其他重要健康益处：尽管尚未获得任何监管机构的批准，瑞他鲁肽（retatrutide）仍可能有助于改善血糖水平并减轻炎症。；【undefined】以色列防长威胁：哈马斯海外领导人也在打击之列：中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。；【undefined】互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布：周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。；【undefined】两种 SQL 查询构造器：SQL 语言有着耐人寻味的命运。尽管它最初是为了迎合人类用户而精心设计的，但如今绝大多数 SQL 代码却是由计算机编写——或者更确切地说是生成的。许多计算机程序都需要查询某种数据库，而对绝大多数数据库服务器而言，唯一支持的查询语言就是 SQL。然而，由于其类英语语法（其原名 SEQUEL 代表结构化英语查询语言）规则复杂且晦涩，生成 SQL 代码十分困难。正因如此，与数据库交互的程序通常会使用专门的库来生成 SQL 查询。；【undefined】你的汽车及其移动应用可能正向科技公司交出各种数据：配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。；【undefined】Shell 与电子邮件：当同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程就是一个会话，而且支持群组对话。；【undefined】从一国党到化石燃料：领导层决战在即，亚当·班特与鲍勃·布朗阐述绿党愿景：亚当·班特（Adam Bandt）表示新任党魁没有任何借口，而鲍勃·布朗（Bob Brown）则警告称，他们还必须有能力迎战波琳·韩森（Pauline Hanson）及一国党（One Nation）。 关注我们的澳大利亚新闻实时博客以获取最新动态。 获取我们的突发新闻邮件、免费应用或每日新闻播客。 绿党前党魁亚当·班特表示，最早可能于周三选出的该党新领导团队将面临越来越大的压力，必须“不惜一切代价”阻止阿尔巴尼斯政府批准任何新的煤炭和天
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/oklady-2121092869.html) <span class="news-meta-time">🕒 2026-09-30 06:59</span>
+- [The Verge (前沿数码科技)] [特朗普签署行政令，要求美国政府将AI改称为“超级智能”](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) <span class="news-meta-time">🕒 2026-09-30 06:25</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html) <span class="news-meta-time">🕒 2026-09-30 07:00</span>
+- [The Guardian Society (卫报社会与民生)] [减重药界“哥斯拉”或带来其他重要健康益处](https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits) <span class="news-meta-time">🕒 2026-09-30 06:01</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-revisiting-young-isaac-newton.html) <span class="news-meta-time">🕒 2026-09-30 07:00</span>
+- [中新社 (国际实时原版)] [以色列防长威胁：哈马斯海外领导人也在打击之列](https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml) <span class="news-meta-time">🕒 2026-09-30 06:56</span>
+:::
 :::timeline-item{start="2026-09-30 02:52 (UTC+8)" title="全球要闻情报简报 · 02:52" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-30 02:41 (UTC+8) 完成，共获得 20 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -645,18 +658,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania) <span class="news-meta-time">🕒 2026-09-17 03:01</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-shouldnt-overcook-proteins.html) <span class="news-meta-time">🕒 2026-09-17 04:10</span>
 - [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](http://www.france24.com/en/amnesty-says-iran-committed-crimes-against-humanity-in-protests-crackdown) <span class="news-meta-time">🕒 2026-09-17 04:09</span>
-:::
-:::timeline-item{start="2026-09-16 19:48 (UTC+8)" title="全球要闻情报简报 · 19:48" org="ARCHIVE"}
-**速报纪要：** 本时段信息聚焦于每年九月在纽约联合国总部举行的全球多边外交集会。同时，俄罗斯国家武器出口商展示新型打击系统，哈萨克斯坦方面评价卢克石油公司为历史合作伙伴，体现了军工防务与跨国能源合作方面的最新动态。
-
-**关键信号：** 全球多边外交互动进入九月联合国大会集聚期；俄罗斯国家武器出口公司Rosoboronexport联合展示打击武器系统；哈萨克斯坦与俄罗斯卢克石油公司（Lukoil）维系能源合作关系
-
-**重点要闻索引：**
-- [UN News (联合国官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://news.un.org/feed/view/en/story/2026/09/1168344) <span class="news-meta-time">🕒 2026-09-16 20:00</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://gultsch.social/@daniel/117280438824908947) <span class="news-meta-time">🕒 2026-09-16 19:19</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-16 19:39</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics) <span class="news-meta-time">🕒 2026-09-16 19:00</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-approach-crop-rotations-yield.html) <span class="news-meta-time">🕒 2026-09-16 19:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/lavrov-2118035402.html) <span class="news-meta-time">🕒 2026-09-16 19:44</span>
 :::
 ::::
