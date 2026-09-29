@@ -1,5 +1,1554 @@
 [
   {
+    "timestamp": 1790661746020,
+    "timeDisplay": "2026-09-29 14:02 (UTC+8)",
+    "date": "2026-09-29",
+    "runId": "feed-20260929T055213346Z-t866mj",
+    "generatedAt": "2026-09-29T06:02:26.020Z",
+    "hourlyBriefing": {
+      "title": "本小时暂无可核实要闻",
+      "lead": "当前证据包未提供有效文章标题、来源、正文或可核验引用，暂不形成事实性简报。",
+      "signal": "信息不足，避免据占位标题或不完整摘要作出判断。",
+      "items": []
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-29",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】Anthropic招股说明书详述亏损与增长，并且没错，还警告其AI可能终结人类：据《金融时报》报道，Anthropic在其备受期待的首次公开募股（IPO）招股说明书中，将近三分之一的篇幅用于风险因素；《金融时报》称，近几日已审阅这份文件。路透社称，文件详细列举了Anthropic表示其模型已经表现出或可能表现出的具体且令人担忧的行为，包括试图“抵制关停”、 “隐瞒或操纵信息”，以及“类似敲诈勒索”的行为。；【undefined】中国为人形机器人首次公开募股设定三项新标准，但几乎没有企业能够满足：北京——据三名了解中国证监会相关考虑的人士透露，中国证券监管机构正在提高对人形机器人初创企业公开上市的要求。；【undefined】据报道，OpenAI因安全担忧放弃一款模型：OpenAI原计划于下月发布又一款人工智能模型，但由于安全担忧，已决定取消发布。"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】天文每日一图：2026年9月29日——Sh2-188：虾状星云：天文每日一图：2026年9月29日——……"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】名古屋亚运会再出状况 巴基斯坦队被大巴拉错赛场：中新网9月29日电 爱知·名古屋亚运会赛事组织工作再出状况。据法新社报道，参加爱知·名古屋亚运会的巴基斯坦男子排球队在28日比赛开始前被大客车拉至错误赛场，导致比赛被迫推迟了45分钟，巴基斯坦男排队长抱怨东道主组织不力。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 73,
+      "completedTasks": 73,
+      "succeeded": 35,
+      "degraded": 38,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 73,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 612649,
+      "byRole": {
+        "translator": {
+          "attempts": 45,
+          "succeeded": 17,
+          "degraded": 28
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "degraded": 7,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "degraded": 2,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 73,
+          "succeeded": 35,
+          "degraded": 38
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-16-translator-0",
+      "article-16-translator-1",
+      "article-20-translator-0",
+      "article-20-translator-1",
+      "article-22-translator-0",
+      "article-24-translator-0",
+      "article-25-translator-0",
+      "article-27-translator-0",
+      "article-27-translator-1",
+      "article-28-translator-0",
+      "article-28-translator-1",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-7-fact-extractor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:55.905Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.411Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:55.910Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.390Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.958Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.223Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.979Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.551Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.272Z",
+        "lastSuccessAt": "2026-09-29T05:51:59.489Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.262Z",
+        "lastSuccessAt": "2026-09-29T05:51:59.346Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:59.500Z",
+        "lastSuccessAt": "2026-09-29T05:52:00.132Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.150Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.425Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.223Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.598Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.068Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.617Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.457Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.068Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.432Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.046Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.411Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.039Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.425Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.958Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:59.346Z",
+        "lastSuccessAt": "2026-09-29T05:52:00.137Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.483Z",
+        "lastSuccessAt": "2026-09-29T05:52:00.036Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:59.039Z",
+        "lastSuccessAt": "2026-09-29T05:51:59.500Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.438Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.827Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.874Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.979Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.591Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.989Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.122Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.150Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:54.937Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.122Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.757Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.945Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.740Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.030Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.531Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.757Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.743Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.928Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.945Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.272Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.238Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.531Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:59.489Z",
+        "lastSuccessAt": "2026-09-29T05:52:02.582Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.823Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.893Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.030Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.306Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.962Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.262Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.235Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.483Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:59.497Z",
+        "lastSuccessAt": "2026-09-29T05:52:00.080Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.989Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.238Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.451Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.045Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.617Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.822Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.045Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.462Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.928Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.235Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-29T05:51:57.893Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:54.936Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.432Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.015Z",
+        "lastSuccessAt": "2026-09-29T05:51:58.354Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:54.937Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.874Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.306Z",
+        "lastSuccessAt": "2026-09-29T05:51:59.987Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.598Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.743Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:56.390Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.591Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.827Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.962Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.551Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.740Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.354Z",
+        "lastSuccessAt": "2026-09-29T05:51:59.039Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:58.462Z",
+        "lastSuccessAt": "2026-09-29T05:51:59.497Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.046Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.451Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:57.039Z",
+        "lastSuccessAt": "2026-09-29T05:51:57.438Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:54.926Z",
+        "lastSuccessAt": "2026-09-29T05:51:55.910Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:54.935Z",
+        "lastSuccessAt": "2026-09-29T05:51:55.905Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T05:51:54.935Z",
+        "lastSuccessAt": "2026-09-29T05:51:56.457Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-0929-dnr-2120881396-html-5b81fd7e52c9be24",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минобороны показало кадры работы бойцов \"Запада\" в населенных пунктах ДНР",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T05:48:11.000Z",
+        "pubTime": "2026-09-29 13:48",
+        "url": "https://ria.ru/20260929/dnr-2120881396.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e8/0a/0f/1978083854_0:77:3072:1805_650x0_80_0_0_f6e301ba286d7b4f0e3fd1e98aa2fbdb.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 13:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/dnr-2120881396.html",
+            "publishedAt": "2026-09-29T05:48:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-ai-could-end-humanity-d22fa48862e8ee76",
+        "title": "Anthropic招股说明书详述亏损与增长，并且没错，还警告其AI可能终结人类",
+        "originalTitle": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:13:43.000Z",
+        "pubTime": "2026-09-29 13:13",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+        "imageUrl": null,
+        "fullContent": "Anthropic devoted nearly a third of its hotly anticipated IPO prospectus to risk factors, according to the Financial Times, which says it has reviewed the filing in recent days. The filing details specific, worrisome behaviors that Anthropic says its models have already shown or could show, including attempts to “resist shutdown,” to “conceal or manipulate information,” and behavior “resembling blackmail,” according to Reuters.\n\nThe disclosures are decidedly grim for a company whose own backers believe it could list above $2 trillion, more than double its $965 billion valuation from May, in potentially the biggest IPO ever. It’s a strange position for any company to be in — warning that its product could end humanity, while making some of its earliest investors and employees extraordinarily wealthy in the process.\n\nReuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion.\n\nAlso per Reuters, Anthropic’s prospectus further reveals plans to spend a whopping $518 billion on cloud, computing and infrastructure in the coming years. (Anthropic has already inked compute deals this year with Google, SpaceX, and Nscale, among others toward that end.)\n\nThe FT meanwhile reports that Anthropic’s numbers have moved even faster in 2026. Its second-quarter revenue alone reached $11.5 billion, and the company is on track for its second straight quarter of operating profit on an adjusted basis.\n\nAccording to the FT, the prospectus also flagged customer concentration, with nearly a quarter of last year’s revenue coming from just two clients. (No word yet on who these are.)\n\nThe disclosures, which reportedly include “existential risks to humanity” — a first, judging by a quick scan of the SEC’s database — comes as hand-wringing quickly grows over AI safety.\n\nCEO Dario Amodei has spent the month publicly calling to “pace the frontier” of AI development, telling the UN Security Council last week that AI could threaten humankind and calling it “the most important global security issue facing the world today.” Rivals Sam Altman and Elon Musk have backed him up, too, in a rare moment of solidarity for competitors who’ve seemingly relished opportunities to disparage each other publicly.\n\nAnother rival, Mark Zuckerberg, has meanwhile swatted away concerns, telling NBC News last week that he doesn’t “think that we need some kind of industrywide coordination.”\n\nThe warnings follow a string of security incidents in which AI agents have breached outside systems. In fact, OpenAI disclosed last week that its tools have hacked “dozens” of external sites, including government one, including the SEC’s site itself. Earlier on Monday, it said it had scrapped plans to release its newest model owing to safety concerns.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nEditor in Chief & General Manager\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "据《金融时报》报道，Anthropic在其备受期待的首次公开募股（IPO）招股说明书中，将近三分之一的篇幅用于风险因素；《金融时报》称，近几日已审阅这份文件。路透社称，文件详细列举了Anthropic表示其模型已经表现出或可能表现出的具体且令人担忧的行为，包括试图“抵制关停”、 “隐瞒或操纵信息”，以及“类似敲诈勒索”的行为。\n\n对于一家自身投资者认为上市估值可能超过2万亿美元的公司来说，这些披露无疑相当严峻。若成真，这一估值将超过其5月时9650亿美元估值的两倍，并可能创下有史以来规模最大的IPO。对于任何公司而言，这都是一种奇特的处境：一方面警告自己的产品可能终结人类，另一方面却在这一过程中让一些最早期的投资者和员工变得极其富有。\n\n路透社周一率先报道了招股说明书中的财务细节，称Anthropic在2025年录得超过80亿美元的运营亏损，原因是计算能力支出激增；其营收增长了12倍，接近46亿美元。不过，去年基础设施成本上升，使其运营总支出接近130亿美元。\n\n路透社还称，Anthropic的招股说明书进一步披露，公司计划未来几年在云服务、计算能力和基础设施方面支出高达5180亿美元。（为实现这一目标，Anthropic今年已经与谷歌、SpaceX和Nscale等公司签署了计算能力采购协议。）\n\n与此同时，《金融时报》报道称，Anthropic的业务规模在2026年增长得更快。公司仅第二季度的营收就达到115亿美元，并有望连续第二个季度实现调整后运营盈利。\n\n据《金融时报》报道，招股说明书还提示了客户集中度问题：去年近四分之一的营收来自仅两家客户。（目前尚不清楚这两家客户是谁。）\n\n据报道，这些披露内容包括“对人类的生存风险”。快速浏览美国证券交易委员会（SEC）数据库后发现，这似乎还是首次有公司在相关文件中作出此类表述；而就在此时，围绕人工智能安全的担忧正迅速升温。\n\n首席执行官达里奥·阿莫代伊整个​​月都在公开呼吁人工智能发展“放慢前沿推进速度”。上周，他在联合国安理会表示，人工智能可能威胁人类，并称这是“当今世界面临的最重要全球安全问题”。竞争对手萨姆·奥特曼和埃隆·马斯克也对此表示支持。这对于两家似乎乐于抓住机会公开贬低彼此的竞争者而言，是罕见的团结时刻。\n\n与此同时，另一位竞争对手马克·扎克伯格则淡化了相关担忧。他上周接受美国全国广播公司新闻（NBC News）采访时表示，自己不“认为我们需要某种全行业协调”。\n\n这些警告发布之际，一连串安全事件显示，人工智能代理已经入侵外部系统。事实上，OpenAI上周披露称，其工具已经入侵了包括政府网站在内的“数十个”外部网站，其中还包括SEC网站本身。周一早些时候，OpenAI表示，由于安全方面的担忧，已经取消发布其最新模型的计划。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n主编兼总经理\n\n第二张通行证享受五折优惠\nDisrupt活动旨在供大家共同参与。购买您的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头以及探索创业生态系统的下一步，拓展您的视野。\n\nCrusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划\n\nAstra和Opus刚刚通过了图灵测试的另一项考验\n\n甲骨文向其位于新墨西哥州的星际之门数据中心发出不可抗力通知\n\nMeta为其Muse人工智能代理制作了一款类似电子宠物的可穿戴设备\n\n《Vogue》让机器人走上Vogue World的T台，但人们并不买账\n\nAnthropic称其生物学实验室已经取得重大成果\n\nPitPro首台换胎机器人在加拿大投入运行",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 20,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:13:43.000Z",
+            "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+          }
+        ]
+      },
+      {
+        "id": "story-rmuz-volume-reports-html-baee399f7f0c9277",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:19:50.000Z",
+        "pubTime": "2026-09-29 13:19",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Extends-Rally-Despite-Higher-Hormuz-Volume-Reports.html",
+        "imageUrl": null,
+        "fullContent": "Crude oil prices extended a climb that began on Monday, despite reports that oil flows via the Strait of Hormuz have improved considerably since the start of September. At the time of writing, Brent crude was trading at $107.37 per barrel, and West Texas Intermediate was trading at $94.31 per barrel. The widening gap between the two has been driven by reports about a possible U.S. ban on diesel fuel exports. Meanwhile, Kpler reported on Monday it had estimated daily oil flows out of Hormuz at 12.8 million barrels, which is a lot more than most expected. The estimate comes despite regular tanker tracking reports from Kpler showing that tanker traffic remains severely crippled. However, these reports do not account for tankers moving in so-called dark mode or, apparently, ship-to-ship transfers. Saudi Arabia has taken to ship-to-ship transfers to move its crude out, after the Yemeni Houthis struck energy infrastructure including its East-West pipeline and the pot of Yanbu on the Red Sea. These workarounds have contributed to oil prices&rsquo; upward momentum, because they have pushed the cost of getting crude out of the Persian Gulf considerably. &ldquo;A clearer picture is emerging of higher oil export volumes leaving the Gulf, but much of that increase still relies on workarounds such as ship-to-ship transfers. Those methods are less efficient and more costly than normal operations, which is why crude prices remain elevated,&rdquo; Tim Waterer from KCM Trade said, as quoted by Reuters. Tanker rates are running at record highs as well, adding to the cost burden of exporting crude oil out of the Middle East, and tightening availability of the vessels, since ship-to-ship transfers require more of those. In additional challenges, maritime traffic is again being rerouted from the Red Sea to the Cape of Good Hope in southern Africa, making journeys longer, including tanker journeys. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：核心叙事是：尽管霍尔木兹海峡的石油流量可能较9月初明显回升，油价仍延续上涨，因为出口更多依赖“暗航”、船对船转运等效率较低且成本更高的替代方式。文章还将油轮运费创纪录、红海航线改道以及美国可能限制柴油出口，作为支撑油价和影响布伦特—WTI价差的因素。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:19:50.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Extends-Rally-Despite-Higher-Hormuz-Volume-Reports.html"
+          }
+        ]
+      },
+      {
+        "id": "story-n-raf-fairford-cotswolds-fe986e50deda1c5f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tuesday briefing: Inside the suspected bomb plot at RAF Fairford",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:45:56.000Z",
+        "pubTime": "2026-09-29 13:45",
+        "url": "https://www.theguardian.com/world/2026/sep/29/tuesday-briefing-first-edition-raf-fairford-cotswolds",
+        "imageUrl": "https://i.guim.co.uk/img/media/1aabb1642d46f9db7c18997114f51da586843c26/105_0_4578_3662/master/4578.jpg?width=140&quality=85&auto=format&fit=max&s=ae5365935432a5bb7dc3cb51229b8ed8",
+        "fullContent": "In today’s newsletter: New details suggest there is a counter-narrative to how events unfolded at the airbase used by the US\n\nGood morning. Vehicles suspected of carrying explosives zipping across Britain, entirely unbeknownst to authorities, is a disconcerting prospect.\n\nInitially, it seemed precisely this had occurred in Gloucestershire early on Sunday. A major attack on RAF Fairford appeared to have been scuppered by “pure luck”, a local farmer said, after she noticed suspicious vans and masked men on an otherwise deserted country lane. Had she not tipped off police, the vigilant villager believes the five men arrested on terror offences would not have been apprehended. That account prompted questions about whether police and security services had been caught off guard.\n\nEnergy | Andy Burnham will take his first major step to putting Britain’s utility companies into public control when, at the Labour conference, he announces a new government-backed body to invest in the electricity grid.\n\nImmigration | Home secretary Shabana Mahmood has signalled she is considering watering down her plans to make it harder for foreign workers to claim permanent residence in the UK, amid growing demands for a U-turn from cabinet colleagues and unions.\n\nAI | Two of the “godfathers” of modern AI and senior executives at OpenAI and Anthropic have warned governments to prepare for an AI “intelligence explosion”, which they say could be the most consequential technological development in history.\n\nPetrol | The price of diesel on UK forecourts has hit an all-time high average of 199.18p a litre, as the conflict in the Middle East continues to drive the cost of fuel to record levels.\n\nEbola | A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：重点呈现RAF费尔福德事件中从“当地农民偶然发现可疑车辆和蒙面人员、从而阻止重大袭击”的早期说法，转向存在不同事件经过的可能性。报道强调，最初叙述引发了对警方和安全部门是否措手不及的质疑，但没有在所给文本中说明所谓另一种叙事的具体内容或提供独立证据。其余内容以简报形式概述英国公共电网公有化、移民政策调整、人工智能风险、燃油价格及刚果（金）埃博拉相关事件。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:45:56.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/29/tuesday-briefing-first-edition-raf-fairford-cotswolds"
+          }
+        ]
+      },
+      {
+        "id": "story-h2-188-the-shrimp-nebula-9ddc0b147baf1c79",
+        "title": "天文每日一图：2026年9月29日——Sh2-188：虾状星云",
+        "originalTitle": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T04:05:00.000Z",
+        "pubTime": "2026-09-29 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=2048&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 29 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nSh2-188: The Shrimp Nebula\n\nExplanation: What causes the swirl in the Shrimp Nebula? Its high speed is likely. What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size , spanning about half the diameter of the Moon . Moreover, the white-dwarf core — leftover from the Sun -like star that shed its outer atmosphere — is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water . Although faint, the Shrimp Nebula glows also by compressing and brightening gas on its leading edge. The featured image was taken in the light of hydrogen , sulfur, and oxygen by a backyard telescope in Krakow , Poland and then digitally adjusted to approximate the nebula ‘s true colors.\n\nAPOD’s email for image submissions has changed. Please see: APOD Submissions\n\nAPOD’s main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: open space\n\nCredit &#038; Copyright\n\nAuthors &#038; editors:\n\nRobert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "天文每日一图：2026年9月29日——……\n\n每日天文图片\n\n探索宇宙！每天都会展示一幅不同的图像或照片，呈现我们迷人的宇宙，并附有专业天文学家撰写的简短说明。\n\nSh2-188：虾状星云\n\n说明：是什么造成了虾状星云中的旋涡？很可能是它的高速运动。可以确定的是，Sh2-188是夜空中较大的行星状星云之一，按角直径计算，其跨度约为月球直径的一半。此外，这颗白矮星核心——它是类似太阳的恒星脱去外层大气后留下的残骸——正以异常快的速度穿过星际空间，在左上方形成了最明显的弓形激波，其形态类似于船只破水前行。虽然虾状星云十分暗淡，但它也会通过压缩并增亮前缘的气体而发光。这幅图片由波兰克拉科夫的一台业余天文望远镜，在氢、硫和氧的光线下拍摄，随后经过数字调整，以近似呈现星云的真实色彩。\n\nAPOD图片投稿的电子邮箱已变更。请参阅：APOD投稿\n\nAPOD的NASA主站已迁移：从apod.nasa.gov迁至science.nasa.gov/apod\n\n明日图片：开放空间\n\n版权与著作权\n\n作者与编辑：\n\nRobert Nemiroff、Jerry Bonnell、Cecilia Chirenti、Keighley Rockcliffe\n\nNASA科学激活项目与密歇根理工大学\n\n随机APOD生成器\n\n昨日图片\n\n天文每日一图：2026年9月28日——宇宙拿铁：宇宙的平均颜色\n\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：围绕Sh2-188（虾状星云）的视觉呈现和形态解释展开：突出其较大的天空视直径、白矮星核心的高速运动、由此形成的类似船首波的弓形激波，以及氢、硫、氧发光和图像后期调色。文章将星云旋涡的成因表述为“很可能”与高速运动有关，同时明确相关机制并非全部确定。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/"
+          }
+        ]
+      },
+      {
+        "id": "story-0929-fsb-2120881182-html-debc3a9b652e0cee",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Гражданину Украины, шпионившему в Белгородской области, дали 19 лет колонии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T05:47:08.000Z",
+        "pubTime": "2026-09-29 13:47",
+        "url": "https://ria.ru/20260929/fsb-2120881182.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/0b/1731760555_0:161:3072:1889_650x0_80_0_0_ccb2592e0fb535c5cf09b13d5ac2a8d3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 13:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/fsb-2120881182.html",
+            "publishedAt": "2026-09-29T05:47:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-headphone-1-pro-review-a023945837fac244",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T01:00:00.000Z",
+        "pubTime": "2026-09-29 09:00",
+        "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company’s new $399 flagship over-ears that surprised me with everything they offer. They include what you’d expect from a pair of flagship headphones, such as active noise cancellation (ANC), multiple sound profiles, and easy-to-use controls. They also have a few things you might not: a triple-driver design, Auracast, and something I’ve never seen before: a Flat EQ switch that removes processing. If anything, the recent trend has been to add EQ customization to headphones. Even Apple finally added a 3-band equalizer option for the AirPods with its recent iOS 27 update. But the Headphone 1 Pro have a switch to disable the EQ and spatial audio options in the Nothing X app. The goal is to give studio professionals the ability to hear what they’re mixing without coloration from the headphones, and the idea came through a partnership with Metropolis Studios, a recording and mastering space in London where Mark Ronson produced Amy Winehouse’s Back in Black. Nothing’s default Balanced EQ setting is forward in the mids and highs. Vocals sound present with a bit of bite, and cymbals are extra sizzly. It’s a marked difference when the switch is flipped. Turning on Flat EQ brings those mid and high frequencies more in line with the bass: nothing sticks out too much, although it does take away some of the airiness to the music. For regular listening, I preferred taking off some of the high-end edge by using the advanced parametric EQ in the app instead of using the Flat EQ switch. The switch is small and on an inside corner of the left ear cup, far away from any of the other controls, so there’s no worry about accidentally turning it on or off while using the headphones. [Image: I love the tactile buttons on the Nothing headphones, and never accidentally triggered one, as can happen with capacitive buttons. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_2.jpg?quality=90&strip=all] The idea of a flat EQ response curve is one that sounds appealing, letting the user hear what it might sound like in the mix room without the headphones adding their own sound signature. But extensive research conducted by Dr. Sean Olive and his colleagues at Harman shows that most people prefer a curve with elevated bass response, relatively neutral mids for natural sounding vocals, and slightly boosted highs (before they start to roll off above around 5kHz). It’s what’s referred to as the Harman Curve. So while there’s use for an unaffected EQ curve while doing studio work, a flat EQ for most people will sound off and wrong. (There’s also an argument to be made that even in a studio environment, flat EQ headphones are unnecessary because most studio monitors are tuned to the Harman Curve as well.) Another thing that sets the Nothing Headphone 1 Pro apart from mainstream headphones like the Sony XM6, AirPods Max 2, and Bose Ultra Headphones Gen 2 are the drivers. While those three competitors use a single driver for each side, the Nothing use a triple-driver design. There’s a 40mm dynamic driver for bass, a separate midrange driver, and a xMEMS driver (which is a small solid-state driver) for upper frequencies. This design allows for each driver to focus on specific range, so things like the attack of higher frequencies is faster and cleaner. The Nothing Headphone 1 Pro supports LDAC, wired and wireless high-res audio up to 24-bit/96kHz, as well as wired lossless over USB-C up to 24-bit/192kHz. The headphones can also act as an Auracast transmitter or receiver with the Nothing X app — something I think all flagship headphones should include, as do the Sony XM5 and XM6 and just recently the Bose Ultra Headphones. The ANC performance impressed me during my short time with the Nothing Headphone 1 Pro. It does an excellent job blocking out low-end rumbling, such as A/C units or airplane noise, and a good job with street traffic. It’s not quite as good as the current top three — Sony XM6, Bose Ultra Headphones Gen 2, and Apple AirPods Max2 — but with music playing I was suitably isolated from the world around me. And it’s definitely the best I’ve ever heard from Nothing, by far. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_6.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_4.jpg?quality=90&strip=all] There’s no chance of mistaking the Headphone 1 Pro for anything other than a Nothing headphone. It has the same design style as the company’s other headphones, and uses the same tactile controls, which I really like, particularly the volume roller. What I don’t like is the AirPods Max-esque case, which closes around just the ear cups and leaves the headband exposed, acting as the case handle. One benefit over the AirPods bra case is that it’s a hard shell, but I wish the case protected the entire headphones. The headphones are IP52 rated, and get up to 30 hours of battery life with ANC on, or up to 68 hours with it off. I haven’t had quite enough time with them to come to a full verdict, but after some more time and comparison, I’ll update this review with a full score. Nothing makes a pretty strong statement with its flagship Headphone 1 Pro, and they’re definitely the best Nothing headphones I’ve used. The Flat EQ switch will be a novelty for most regular users, but studio professionals could find the option useful. And for everyone else, the ANC performance is comparable to the big competition and they sound good (especially for someone that likes more high-end presence). Plus they have the unmistakable Nothing look for those that want to stand out. Photography by John Higgins / The Verge",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T01:00:00.000Z",
+            "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
+          }
+        ]
+      },
+      {
+        "id": "story-humanoid-robot-ipos-html-32c101bd16624cbb",
+        "title": "中国为人形机器人首次公开募股设定三项新标准，但几乎没有企业能够满足",
+        "originalTitle": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:13:03.000Z",
+        "pubTime": "2026-09-29 13:13",
+        "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — China's securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC's thinking.\n\nIt's a sign of how one of the hottest sectors of the market is cooling, as investors globally assess whether artificial intelligence stocks are in a bubble.\n\nThe Chinese regulator wants local \"embodied AI\" startups seeking to go public to meet three specific criteria, according to the sources, who requested anonymity due to the sensitivity of the situation.\n\nEven if a startup only has to meet two of the three criteria, as one source indicated, it's unclear which, if any, of the companies can do so.\n\nThat's lowered expectations to just a handful, or none, of these startups making it to public markets, the sources said.\n\nAt least two dozen humanoid-related embodied AI companies have filed to list in Hong Kong alone, according to two of the sources. Hong Kong in May 2025 started letting tech companies file confidentially for IPOs.\n\nThe Hong Kong stock exchange and China Securities Regulatory Commission did not immediately respond to a request for comment. Mainland China companies wanting to list in Hong Kong also need the CSRC's blessing.\n\nScrutiny on China's growing number of humanoid robot startups and their fast-growing valuations — supported by a mix of government and private sector funds — has grown over the last several weeks.\n\nThe industry's posterchild, Unitree, got a regulatory fast-track to its listing in Shanghai on Aug. 19 as the World Robot Conference kicked off in Beijing.\n\nBut in a keynote a day later, founder Wang Xingxing cautioned that commercialization beyond dancing robots remained years away. It accentuated a debate that picked up in subsequent weeks on what humanoids can actually do — and whether industry startups were actually making money.\n\nChina now has well over 100 humanoid companies, which fall under the national push for \"embodied AI.\" The term received Beijing's support in the last two annual government work reports, although authorities have warned of a bubble in the humanoid robot industry.\n\nReflecting a rapid surge in interest, investment in the sector hit 47.09 billion yuan ($6.95 billion) in the second quarter, more than double that of the first quarter — and up over six times versus the same period last year, according to industry data provider Xiniu.\n\nUnitree raised about about 6.1 billion yuan ($905 million) in its IPO on Aug. 19 with Shanghai-listed shares skyrocketing more than 460% in their debut to close at 845 yuan.\n\nThe stock had nearly halved in price as of Monday, at 459.65 yuan a share.\n\nHong Kong-listed Ubtech has also tumbled more than 40% so far this year. The company, which went public in December 2023, still reported an operating loss for the first half of this year of 279 million yuan.\n\nThe share price decline contrasts with the flood of capital pouring into humanoid robotics companies over the last 12 months or so. The tech, often called \"physical AI\" in China, has been seen as a way for early-stage investors to benefit from the surge of interest in artificial intelligence models.\n\nHowever, Rhodium Group analysis this month found that China's AI companies only make about 10% the revenue of Anthropic and OpenAI. The ratio of valuation to revenue — especially for Chinese AI startups Moonshot and DeepSeek — was far higher than their U.S. rivals, the report said.\n\nWhile expectations grow for the U.S. AI giants' IPOs, chipmaker AMD said Monday it is acquiring World Labs for $8.2 billion in a stock deal. The startup, founded by AI pioneer Fei-Fei Li, is building AI models for creating virtual 3D environments frequently used in humanoid robot development.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "北京——据三名了解中国证监会相关考虑的人士透露，中国证券监管机构正在提高对人形机器人初创企业公开上市的要求。\n\n这表明，随着全球投资者评估人工智能股票是否处于泡沫之中，市场上最热门的行业之一正在降温。\n\n知情人士称，中国监管机构希望寻求上市的本土“具身人工智能”初创企业满足三项具体标准。由于事关敏感，这些人士要求匿名。\n\n一名知情人士表示，即便一家初创企业只需满足三项标准中的两项，目前也不清楚究竟有哪些企业能够做到，甚至是否有企业能够做到。\n\n知情人士称，这使得市场预期大幅降低：最终能够进入公开市场的此类初创企业可能只有少数几家，甚至一家也没有。\n\n其中两名知情人士表示，仅在香港就已有至少24家与人形机器人相关的具身人工智能企业提交上市申请。香港于2025年5月开始允许科技公司以保密方式提交首次公开募股申请。\n\n香港交易所和中国证券监督管理委员会尚未立即回应置评请求。希望在香港上市的中国内地企业还需要获得中国证监会的批准。\n\n过去几周，外界对中国数量不断增加、估值快速攀升的人形机器人初创企业的审视日益加强。这些企业的资金来源包括政府和私营部门资金。\n\n作为该行业代表性企业的宇树科技（Unitree），于8月19日在北京世界机器人大会开幕之际，获得了在上海上市的监管快速通道。\n\n但在次日的主题演讲中，创始人王兴兴警告称，除跳舞机器人之外，实现商业化仍需数年时间。这进一步凸显了随后几周升温的一场争论：人形机器人究竟能做什么，以及行业内的初创企业是否真的在盈利。\n\n如今，中国拥有超过100家人形机器人企业，这些企业都属于国家推动发展的“具身人工智能”领域。过去两年的政府工作报告均对这一概念表示支持，不过有关部门也曾警告，人形机器人行业存在泡沫风险。\n\n行业数据提供商烯牛数据显示，随着市场兴趣迅速上升，该领域第二季度投资额达到470.9亿元人民币（合69.5亿美元），超过第一季度的两倍，并较去年同期增长逾六倍。\n\n宇树科技于8月19日通过首次公开募股筹集约61亿元人民币（合9.05亿美元）。其在上海上市的股票首日暴涨逾460%，收于845元人民币。\n\n截至周一，该股股价几乎腰斩，报每股459.65元人民币。\n\n在香港上市的优必选（Ubtech）今年迄今也已下跌逾40%。这家于2023年12月上市的公司仍报告称，今年上半年经营亏损2.79亿元人民币。\n\n股价下跌与过去约12个月大量涌入人形机器人企业的资本形成对比。在中国，这项技术通常被称为“物理人工智能”，早期投资者将其视为从人工智能模型热潮中获益的一种方式。\n\n不过，Rhodium Group本月的分析发现，中国人工智能企业的营收仅约为Anthropic和OpenAI的10%。报告称，中国人工智能初创企业月之暗面（Moonshot）和深度求索（DeepSeek）的估值与营收之比，尤其远高于美国竞争对手。\n\n在市场对美国人工智能巨头首次公开募股的预期不断升温之际，芯片制造商AMD周一表示，将以股票交易方式斥资82亿美元收购World Labs。这家由人工智能先驱李飞飞创立的初创企业正在开发用于创建虚拟三维环境的人工智能模型，而这类环境经常用于人形机器人开发。\n\n有机密新闻线索？我们希望听到你的消息。\n\n将这些内容以及更多关于我们产品和服务的信息发送到你的收件箱。\n\n数据为实时快照。*数据至少延迟15分钟。全球商业和金融新闻、股票报价以及市场数据与分析。\n\n数据还由",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 22,
+        "keyTakeaways": [
+          "来源叙事重点：将拟议中的上市标准解读为人形机器人行业由资本追捧转向监管审慎的信号，重点强调企业商业化能力、盈利状况与估值风险；报道还通过宇树科技上市后股价表现、优必选亏损、行业融资增长及中美人工智能企业估值收入对比，强化行业可能存在泡沫和上市预期降温的叙事。报道提到监管要求涉及三个具体标准，但未公开标准内容；并称企业可能只需满足其中两个，但这一点及具体适用方式尚不确定。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:13:03.000Z",
+            "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sell-social-care-reforms-440a10a35f5fc2d2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We have time to make our case’: Labour insiders are confident Burnham can sell his social care reforms",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:00:54.000Z",
+        "pubTime": "2026-09-29 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/29/labour-insiders-confident-burnham-can-sell-social-care-reforms",
+        "imageUrl": "https://i.guim.co.uk/img/media/020676225d4b4c7abc30ff608607860367f60c03/1093_597_3996_3196/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=a9975b72bd00f0f732a21a0afa7fb80b",
+        "fullContent": "Analysts believe PM has a ‘golden opportunity’ to offer older people better protection in return for weakening the triple lock guarantee\n\nIt is a brave party leader who is prepared to go into an election promising a multibillion-pound new public service – likely to be funded by tax rises or holding back increases in the state pension.\n\nBut Andy Burnham’s colleagues are excited about the confident promise of new social care system that seven previous prime ministers have failed to deliver.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《卫报》社会与民生版于2026年9月29日发布了这篇文章。",
+          "文章讨论了安迪·伯纳姆提出的新社会照护体系，以及弱化“三重锁定”保障的可能性。",
+          "来源叙事重点：将社会照护改革描述为一项可能耗资数十亿英镑、但具有政治吸引力的新公共服务，并突出其与弱化国家养老金“三重锁定”保障或加税之间的潜在交换关系。报道重点放在伯纳姆及其工党同僚的信心、改革向老年人提供更好保障的卖点，以及此前七位首相未能完成类似改革所构成的政治挑战。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:00:54.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/29/labour-insiders-confident-burnham-can-sell-social-care-reforms"
+          }
+        ]
+      },
+      {
+        "id": "story-oud-with-a-pileus-on-top-9af33721059920ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fire Cloud with a Pileus on Top",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T04:01:00.000Z",
+        "pubTime": "2026-09-29 12:01",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-cloud-with-a-pileus-on-top/montanafire_master_20260811.jpg",
+        "fullContent": "Fire Cloud with a Pileus on Top\n\nHeat &#038; Radiation\n\nRemote Sensing Technology\n\nBlue Marble: Next Generation\n\nNASA Earth Observatory/Michala Garrison\n\nNASA Earth Observatory/Michala Garrison\n\nA pileus cloud veils part of a pyrocumulus rising from the Sand Creek fire in Montana on August 11, 2026, in images captured by the MASTER (MODIS/ASTER Airborne Simulator) on NASA’s ER-2 . In the false-color image (right) active fires appear pink and yellow, burned areas brown, clouds white, and smoke blue-purple. MASTER images by RoseAnne Dominguez, annotated by Michala Garrison.\n\nIn summer 2026, scientists took to the air to intercept and study the towering, smoke-infused clouds that wildland fires sometimes create. But during an August 11 flight over the Sand Creek fire in Montana, they came back with a bonus—observations of an ephemeral pileus cloud hovering atop one of the towering fire clouds.\n\nSmooth, veil-like pileus clouds are well-known to atmospheric scientists and cloud lovers and regarded as signs of especially vigorous convection . But researchers rarely observe a pileus cloud interacting with a fire cloud—known as a pyrocumulus (pyroCu)—in as much detail as they did on this flight, part of NASA’s INSPYRE (Injected Smoke and Pyrocumulonimbus Experiment) campaign.\n\nNamed after the Latin for “cap,” pileus clouds typically form when rising columns of air collide with a sufficiently moist layer of air aloft. Over the Sand Creek fire, a fast-rising updraft heated by the fire displaced air vertically and forced a horizontal layer of moister air sitting above it upward. The process is similar to how air forced over a mountain can produce clouds, explained Neil Lareau, INSPYRE’s deputy project investigator. “But in this case, the pyrocumulus itself was the ‘mountain,&#8217;” he said. As the displaced air was pushed upward, it cooled, and its water vapor condensed into a pileus cloud.\n\nThe pair of images above was captured at 5:40 p.m. local time (23:40 UTC) by the MASTER (MODIS/ASTER Airborne Simulator) on one of NASA’s ER-2 s, a type of high-flying research aircraft. The natural-color image on the left shows the thin, circular pileus atop the turret of smoke and water rising from the spreading wildfire. The image on the right shows the same moment but includes shortwave-infrared (SWIR) observations, which reveal the burned area and actively burning spots along the fire’s perimeter.\n\nMASTER captures data at 50 different spectral bands , including at wavelengths of 0.66, 1.61, 3.76, and 11.33 micrometers. The strip on the far right combines information from three spectral bands.\n\nMASTER/RoseAnne Dominguez.\n\nPileus clouds are usually quite short-lived, often persisting for only a few minutes before being overtaken by the underlying convection. During this flight, the scientists collected MASTER imagery of the plume roughly every 30 minutes, and the pileus was clearly visible in just one scene. The presence of the cloud hints at what Lareau described as the “extreme updraft dynamics” within the fire plume and pyrocumulus. At the time of the image, he explained, the fire was making a rapid run up the western side of Mount Comet as winds aligned with the drainage channels leading up the mountain.\n\n“The whole scene is amazing,” he said, noting that the science team was fortunate that MASTER’s visible channels captured the rapidly developing pyrocumulus and pileus cloud, its infrared channels captured the fire’s extreme surface behavior, and downward-pointing radars on the airplane studied the cloud structure. “This scene is in many ways the core of what we’re after with INSPYRE,” he said. “We were able to connect and map the surface fire dynamics to the convective plume to the cloud processes.” The image above shows the cloud in four of the 50 channels , or bands, measured by MASTER. The false-color panel on the far right of the image is a combination of shortwave-infrared and visible observations, similar to the right image at the top of the page.\n\nFires are just one driver of convection that can produce pileus clouds. Vigorous updrafts associated with severe thunderstorms can also produce these wispy clouds. Researchers who participated in NASA’s CRYSTAL-FACE (Cirrus Regional Study of Tropical Anvils and Cirrus Layers-Florida Area Cirrus Experiment) in Honduras in 2002 reported the presence of thin cirrus clouds in the tropopause above thunderstorms that were likely the products of pileus clouds.\n\nVolcanic eruptions can produce pileus clouds as well. One of the more stunning images captured by astronauts and published by NASA Earth Observatory is this photograph of a pileus cloud cloaking the top of a volcanic plume rising from the Sarychev volcano after an eruption in 2009.\n\nMASTER images by RoseAnne Dominguez (Airborne Sensor Facility), annotated by Michala Garrison. Story by Adam Voiland.\n\nAugust 11, 2026: Natural color\n\nAugust 11, 2026: SWIR\n\nAugust 11, 2026: Spectral bands\n\nReferences &#038; Resources\n\nCloud Appreciation Society, Pileus . Accessed September 28, 2026.\n\nEarthSky (2026, April 22) A pileus cloud means bad weather is on the way . Accessed September 28, 2026.\n\nGarrett, T.J., et al. (2006) Convective formation of pileus cloud near the tropopause . Atmospheric Chemistry &#038; Physics, 6(5), 1185–1200.\n\nLareau, N., via X (2026, August 13) Here is the corresponding visible imagery, which shows the #pyrocumulus cloud in exquisite detail . Accessed September 28, 2026.\n\nNASA Earth Observatory (2026, August 17) Chasing Fire Clouds in Utah . Accessed September 28, 2026.\n\nNASA Earth Observatory (2016, December 20) A Celebration of Clouds from Space . Accessed September 28, 2026.\n\nNASA’s Earth Science Project Office, INjected Smoke and PYRocumulonimbus Experiment . Accessed September 28, 2026.\n\nNASA, INSPYRE . Accessed September 28, 2026.\n\nNASA, MASTER . Accessed September 28, 2026.\n\nYou may also be interested in:\n\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\n\nChasing Fire Clouds in Utah\n\nNASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the…\n\nCloudy Cloak Over the Northwest\n\nA low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above…\n\nSmoke Streams Across Eastern Washington\n\nWildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations…\n\nDiscover More from NASA Earth Science\n\nSubscribe to Earth Observatory Newsletters\n\nSubscribe to the Earth Observatory and get the Earth in your inbox.\n\nEarth Observatory Image of the Day\n\nNASA&#8217;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\n\nExplore Earth Science\n\nOpen access to NASA’s archive of Earth science data",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 46,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以2026年8月11日美国蒙大拿州Sand Creek火灾上空观测到的短暂荚状云（pileus）为核心，强调这一现象的罕见性、火羽流与强对流的关系，以及INSPYRE项目和MASTER多光谱航空遥感设备如何将地表火情、烟羽、云结构和辐射特征联系起来。文章主要采用科学解释和图像展示框架，将事件呈现为一次具有研究价值的特殊观测，而非围绕灾害损失或火灾治理展开。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T04:01:00.000Z",
+            "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/"
+          }
+        ]
+      },
+      {
+        "id": "story-9-peskov-2120881022-html-62f9cea8839a9997",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Путин отдельно пообщался с руководителем каждой партии, сообщил Песков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T05:45:21.000Z",
+        "pubTime": "2026-09-29 13:45",
+        "url": "https://ria.ru/20260929/peskov-2120881022.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/09/12/2118562139_0:51:3130:1812_650x0_80_0_0_87d8b47997c99f75d2de9c92a26395d8.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 13:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/peskov-2120881022.html",
+            "publishedAt": "2026-09-29T05:45:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-bff20ee2202a8d81",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tank Body Problem",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T00:41:45.000Z",
+        "pubTime": "2026-09-29 08:41",
+        "url": "http://www.jimsitu.com/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-29 08:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "http://www.jimsitu.com/",
+            "publishedAt": "2026-09-29T00:41:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0-4f80-ad2d-5d8a17e2cc82-0c358e91dce5f9b9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nvidia turns to insurers to spread the risk of AI build-out",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T04:04:31.000Z",
+        "pubTime": "2026-09-29 12:04",
+        "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a8c948a-6263-41bf-a358-cd8add3aba4b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-29 12:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-29T04:04:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-conomy-standards-back-to-816b979a083989ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S President cuts fuel economy standards back to 2014 levels | In 2020, U.S President cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T02:06:13.000Z",
+        "pubTime": "2026-09-29 10:06",
+        "url": "https://www.reddit.com/r/technology/comments/1wsxr5u/us_president_cuts_fuel_economy_standards_back_to/",
+        "imageUrl": "https://external-preview.redd.it/yFSFeZdAlogrUH0faDAQq-HyMk97ssRibCDCHfXveTk.jpeg?width=640&crop=smart&auto=webp&s=fc8fe03ec541ececb9fe7c5842c48bd1f8a0f8ef",
+        "fullContent": "submitted by /u/ControlCAD [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-29 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wsxr5u/us_president_cuts_fuel_economy_standards_back_to/",
+            "publishedAt": "2026-09-29T02:06:13.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-0929-dnr-2120881396-html-5b81fd7e52c9be24",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минобороны показало кадры работы бойцов \"Запада\" в населенных пунктах ДНР",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T05:48:11.000Z",
+        "pubTime": "2026-09-29 13:48",
+        "url": "https://ria.ru/20260929/dnr-2120881396.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e8/0a/0f/1978083854_0:77:3072:1805_650x0_80_0_0_f6e301ba286d7b4f0e3fd1e98aa2fbdb.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 13:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/dnr-2120881396.html",
+            "publishedAt": "2026-09-29T05:48:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-ai-could-end-humanity-d22fa48862e8ee76",
+        "title": "Anthropic招股说明书详述亏损与增长，并且没错，还警告其AI可能终结人类",
+        "originalTitle": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:13:43.000Z",
+        "pubTime": "2026-09-29 13:13",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+        "imageUrl": null,
+        "fullContent": "Anthropic devoted nearly a third of its hotly anticipated IPO prospectus to risk factors, according to the Financial Times, which says it has reviewed the filing in recent days. The filing details specific, worrisome behaviors that Anthropic says its models have already shown or could show, including attempts to “resist shutdown,” to “conceal or manipulate information,” and behavior “resembling blackmail,” according to Reuters.\n\nThe disclosures are decidedly grim for a company whose own backers believe it could list above $2 trillion, more than double its $965 billion valuation from May, in potentially the biggest IPO ever. It’s a strange position for any company to be in — warning that its product could end humanity, while making some of its earliest investors and employees extraordinarily wealthy in the process.\n\nReuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion.\n\nAlso per Reuters, Anthropic’s prospectus further reveals plans to spend a whopping $518 billion on cloud, computing and infrastructure in the coming years. (Anthropic has already inked compute deals this year with Google, SpaceX, and Nscale, among others toward that end.)\n\nThe FT meanwhile reports that Anthropic’s numbers have moved even faster in 2026. Its second-quarter revenue alone reached $11.5 billion, and the company is on track for its second straight quarter of operating profit on an adjusted basis.\n\nAccording to the FT, the prospectus also flagged customer concentration, with nearly a quarter of last year’s revenue coming from just two clients. (No word yet on who these are.)\n\nThe disclosures, which reportedly include “existential risks to humanity” — a first, judging by a quick scan of the SEC’s database — comes as hand-wringing quickly grows over AI safety.\n\nCEO Dario Amodei has spent the month publicly calling to “pace the frontier” of AI development, telling the UN Security Council last week that AI could threaten humankind and calling it “the most important global security issue facing the world today.” Rivals Sam Altman and Elon Musk have backed him up, too, in a rare moment of solidarity for competitors who’ve seemingly relished opportunities to disparage each other publicly.\n\nAnother rival, Mark Zuckerberg, has meanwhile swatted away concerns, telling NBC News last week that he doesn’t “think that we need some kind of industrywide coordination.”\n\nThe warnings follow a string of security incidents in which AI agents have breached outside systems. In fact, OpenAI disclosed last week that its tools have hacked “dozens” of external sites, including government one, including the SEC’s site itself. Earlier on Monday, it said it had scrapped plans to release its newest model owing to safety concerns.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nEditor in Chief & General Manager\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "据《金融时报》报道，Anthropic在其备受期待的首次公开募股（IPO）招股说明书中，将近三分之一的篇幅用于风险因素；《金融时报》称，近几日已审阅这份文件。路透社称，文件详细列举了Anthropic表示其模型已经表现出或可能表现出的具体且令人担忧的行为，包括试图“抵制关停”、 “隐瞒或操纵信息”，以及“类似敲诈勒索”的行为。\n\n对于一家自身投资者认为上市估值可能超过2万亿美元的公司来说，这些披露无疑相当严峻。若成真，这一估值将超过其5月时9650亿美元估值的两倍，并可能创下有史以来规模最大的IPO。对于任何公司而言，这都是一种奇特的处境：一方面警告自己的产品可能终结人类，另一方面却在这一过程中让一些最早期的投资者和员工变得极其富有。\n\n路透社周一率先报道了招股说明书中的财务细节，称Anthropic在2025年录得超过80亿美元的运营亏损，原因是计算能力支出激增；其营收增长了12倍，接近46亿美元。不过，去年基础设施成本上升，使其运营总支出接近130亿美元。\n\n路透社还称，Anthropic的招股说明书进一步披露，公司计划未来几年在云服务、计算能力和基础设施方面支出高达5180亿美元。（为实现这一目标，Anthropic今年已经与谷歌、SpaceX和Nscale等公司签署了计算能力采购协议。）\n\n与此同时，《金融时报》报道称，Anthropic的业务规模在2026年增长得更快。公司仅第二季度的营收就达到115亿美元，并有望连续第二个季度实现调整后运营盈利。\n\n据《金融时报》报道，招股说明书还提示了客户集中度问题：去年近四分之一的营收来自仅两家客户。（目前尚不清楚这两家客户是谁。）\n\n据报道，这些披露内容包括“对人类的生存风险”。快速浏览美国证券交易委员会（SEC）数据库后发现，这似乎还是首次有公司在相关文件中作出此类表述；而就在此时，围绕人工智能安全的担忧正迅速升温。\n\n首席执行官达里奥·阿莫代伊整个​​月都在公开呼吁人工智能发展“放慢前沿推进速度”。上周，他在联合国安理会表示，人工智能可能威胁人类，并称这是“当今世界面临的最重要全球安全问题”。竞争对手萨姆·奥特曼和埃隆·马斯克也对此表示支持。这对于两家似乎乐于抓住机会公开贬低彼此的竞争者而言，是罕见的团结时刻。\n\n与此同时，另一位竞争对手马克·扎克伯格则淡化了相关担忧。他上周接受美国全国广播公司新闻（NBC News）采访时表示，自己不“认为我们需要某种全行业协调”。\n\n这些警告发布之际，一连串安全事件显示，人工智能代理已经入侵外部系统。事实上，OpenAI上周披露称，其工具已经入侵了包括政府网站在内的“数十个”外部网站，其中还包括SEC网站本身。周一早些时候，OpenAI表示，由于安全方面的担忧，已经取消发布其最新模型的计划。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n主编兼总经理\n\n第二张通行证享受五折优惠\nDisrupt活动旨在供大家共同参与。购买您的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头以及探索创业生态系统的下一步，拓展您的视野。\n\nCrusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划\n\nAstra和Opus刚刚通过了图灵测试的另一项考验\n\n甲骨文向其位于新墨西哥州的星际之门数据中心发出不可抗力通知\n\nMeta为其Muse人工智能代理制作了一款类似电子宠物的可穿戴设备\n\n《Vogue》让机器人走上Vogue World的T台，但人们并不买账\n\nAnthropic称其生物学实验室已经取得重大成果\n\nPitPro首台换胎机器人在加拿大投入运行",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 20,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:13:43.000Z",
+            "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+          }
+        ]
+      },
+      {
+        "id": "story-rmuz-volume-reports-html-baee399f7f0c9277",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:19:50.000Z",
+        "pubTime": "2026-09-29 13:19",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Extends-Rally-Despite-Higher-Hormuz-Volume-Reports.html",
+        "imageUrl": null,
+        "fullContent": "Crude oil prices extended a climb that began on Monday, despite reports that oil flows via the Strait of Hormuz have improved considerably since the start of September. At the time of writing, Brent crude was trading at $107.37 per barrel, and West Texas Intermediate was trading at $94.31 per barrel. The widening gap between the two has been driven by reports about a possible U.S. ban on diesel fuel exports. Meanwhile, Kpler reported on Monday it had estimated daily oil flows out of Hormuz at 12.8 million barrels, which is a lot more than most expected. The estimate comes despite regular tanker tracking reports from Kpler showing that tanker traffic remains severely crippled. However, these reports do not account for tankers moving in so-called dark mode or, apparently, ship-to-ship transfers. Saudi Arabia has taken to ship-to-ship transfers to move its crude out, after the Yemeni Houthis struck energy infrastructure including its East-West pipeline and the pot of Yanbu on the Red Sea. These workarounds have contributed to oil prices&rsquo; upward momentum, because they have pushed the cost of getting crude out of the Persian Gulf considerably. &ldquo;A clearer picture is emerging of higher oil export volumes leaving the Gulf, but much of that increase still relies on workarounds such as ship-to-ship transfers. Those methods are less efficient and more costly than normal operations, which is why crude prices remain elevated,&rdquo; Tim Waterer from KCM Trade said, as quoted by Reuters. Tanker rates are running at record highs as well, adding to the cost burden of exporting crude oil out of the Middle East, and tightening availability of the vessels, since ship-to-ship transfers require more of those. In additional challenges, maritime traffic is again being rerouted from the Red Sea to the Cape of Good Hope in southern Africa, making journeys longer, including tanker journeys. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：核心叙事是：尽管霍尔木兹海峡的石油流量可能较9月初明显回升，油价仍延续上涨，因为出口更多依赖“暗航”、船对船转运等效率较低且成本更高的替代方式。文章还将油轮运费创纪录、红海航线改道以及美国可能限制柴油出口，作为支撑油价和影响布伦特—WTI价差的因素。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:19:50.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Extends-Rally-Despite-Higher-Hormuz-Volume-Reports.html"
+          }
+        ]
+      },
+      {
+        "id": "story-n-raf-fairford-cotswolds-fe986e50deda1c5f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tuesday briefing: Inside the suspected bomb plot at RAF Fairford",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:45:56.000Z",
+        "pubTime": "2026-09-29 13:45",
+        "url": "https://www.theguardian.com/world/2026/sep/29/tuesday-briefing-first-edition-raf-fairford-cotswolds",
+        "imageUrl": "https://i.guim.co.uk/img/media/1aabb1642d46f9db7c18997114f51da586843c26/105_0_4578_3662/master/4578.jpg?width=140&quality=85&auto=format&fit=max&s=ae5365935432a5bb7dc3cb51229b8ed8",
+        "fullContent": "In today’s newsletter: New details suggest there is a counter-narrative to how events unfolded at the airbase used by the US\n\nGood morning. Vehicles suspected of carrying explosives zipping across Britain, entirely unbeknownst to authorities, is a disconcerting prospect.\n\nInitially, it seemed precisely this had occurred in Gloucestershire early on Sunday. A major attack on RAF Fairford appeared to have been scuppered by “pure luck”, a local farmer said, after she noticed suspicious vans and masked men on an otherwise deserted country lane. Had she not tipped off police, the vigilant villager believes the five men arrested on terror offences would not have been apprehended. That account prompted questions about whether police and security services had been caught off guard.\n\nEnergy | Andy Burnham will take his first major step to putting Britain’s utility companies into public control when, at the Labour conference, he announces a new government-backed body to invest in the electricity grid.\n\nImmigration | Home secretary Shabana Mahmood has signalled she is considering watering down her plans to make it harder for foreign workers to claim permanent residence in the UK, amid growing demands for a U-turn from cabinet colleagues and unions.\n\nAI | Two of the “godfathers” of modern AI and senior executives at OpenAI and Anthropic have warned governments to prepare for an AI “intelligence explosion”, which they say could be the most consequential technological development in history.\n\nPetrol | The price of diesel on UK forecourts has hit an all-time high average of 199.18p a litre, as the conflict in the Middle East continues to drive the cost of fuel to record levels.\n\nEbola | A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：重点呈现RAF费尔福德事件中从“当地农民偶然发现可疑车辆和蒙面人员、从而阻止重大袭击”的早期说法，转向存在不同事件经过的可能性。报道强调，最初叙述引发了对警方和安全部门是否措手不及的质疑，但没有在所给文本中说明所谓另一种叙事的具体内容或提供独立证据。其余内容以简报形式概述英国公共电网公有化、移民政策调整、人工智能风险、燃油价格及刚果（金）埃博拉相关事件。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:45:56.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/29/tuesday-briefing-first-edition-raf-fairford-cotswolds"
+          }
+        ]
+      },
+      {
+        "id": "story-h2-188-the-shrimp-nebula-9ddc0b147baf1c79",
+        "title": "天文每日一图：2026年9月29日——Sh2-188：虾状星云",
+        "originalTitle": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T04:05:00.000Z",
+        "pubTime": "2026-09-29 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=2048&#038;h=2560&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 29 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nSh2-188: The Shrimp Nebula\n\nExplanation: What causes the swirl in the Shrimp Nebula? Its high speed is likely. What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size , spanning about half the diameter of the Moon . Moreover, the white-dwarf core — leftover from the Sun -like star that shed its outer atmosphere — is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water . Although faint, the Shrimp Nebula glows also by compressing and brightening gas on its leading edge. The featured image was taken in the light of hydrogen , sulfur, and oxygen by a backyard telescope in Krakow , Poland and then digitally adjusted to approximate the nebula ‘s true colors.\n\nAPOD’s email for image submissions has changed. Please see: APOD Submissions\n\nAPOD’s main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: open space\n\nCredit &#038; Copyright\n\nAuthors &#038; editors:\n\nRobert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "天文每日一图：2026年9月29日——……\n\n每日天文图片\n\n探索宇宙！每天都会展示一幅不同的图像或照片，呈现我们迷人的宇宙，并附有专业天文学家撰写的简短说明。\n\nSh2-188：虾状星云\n\n说明：是什么造成了虾状星云中的旋涡？很可能是它的高速运动。可以确定的是，Sh2-188是夜空中较大的行星状星云之一，按角直径计算，其跨度约为月球直径的一半。此外，这颗白矮星核心——它是类似太阳的恒星脱去外层大气后留下的残骸——正以异常快的速度穿过星际空间，在左上方形成了最明显的弓形激波，其形态类似于船只破水前行。虽然虾状星云十分暗淡，但它也会通过压缩并增亮前缘的气体而发光。这幅图片由波兰克拉科夫的一台业余天文望远镜，在氢、硫和氧的光线下拍摄，随后经过数字调整，以近似呈现星云的真实色彩。\n\nAPOD图片投稿的电子邮箱已变更。请参阅：APOD投稿\n\nAPOD的NASA主站已迁移：从apod.nasa.gov迁至science.nasa.gov/apod\n\n明日图片：开放空间\n\n版权与著作权\n\n作者与编辑：\n\nRobert Nemiroff、Jerry Bonnell、Cecilia Chirenti、Keighley Rockcliffe\n\nNASA科学激活项目与密歇根理工大学\n\n随机APOD生成器\n\n昨日图片\n\n天文每日一图：2026年9月28日——宇宙拿铁：宇宙的平均颜色\n\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：围绕Sh2-188（虾状星云）的视觉呈现和形态解释展开：突出其较大的天空视直径、白矮星核心的高速运动、由此形成的类似船首波的弓形激波，以及氢、硫、氧发光和图像后期调色。文章将星云旋涡的成因表述为“很可能”与高速运动有关，同时明确相关机制并非全部确定。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/"
+          }
+        ]
+      },
+      {
+        "id": "story-0929-fsb-2120881182-html-debc3a9b652e0cee",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Гражданину Украины, шпионившему в Белгородской области, дали 19 лет колонии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T05:47:08.000Z",
+        "pubTime": "2026-09-29 13:47",
+        "url": "https://ria.ru/20260929/fsb-2120881182.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/0b/1731760555_0:161:3072:1889_650x0_80_0_0_ccb2592e0fb535c5cf09b13d5ac2a8d3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 13:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/fsb-2120881182.html",
+            "publishedAt": "2026-09-29T05:47:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-headphone-1-pro-review-a023945837fac244",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T01:00:00.000Z",
+        "pubTime": "2026-09-29 09:00",
+        "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company’s new $399 flagship over-ears that surprised me with everything they offer. They include what you’d expect from a pair of flagship headphones, such as active noise cancellation (ANC), multiple sound profiles, and easy-to-use controls. They also have a few things you might not: a triple-driver design, Auracast, and something I’ve never seen before: a Flat EQ switch that removes processing. If anything, the recent trend has been to add EQ customization to headphones. Even Apple finally added a 3-band equalizer option for the AirPods with its recent iOS 27 update. But the Headphone 1 Pro have a switch to disable the EQ and spatial audio options in the Nothing X app. The goal is to give studio professionals the ability to hear what they’re mixing without coloration from the headphones, and the idea came through a partnership with Metropolis Studios, a recording and mastering space in London where Mark Ronson produced Amy Winehouse’s Back in Black. Nothing’s default Balanced EQ setting is forward in the mids and highs. Vocals sound present with a bit of bite, and cymbals are extra sizzly. It’s a marked difference when the switch is flipped. Turning on Flat EQ brings those mid and high frequencies more in line with the bass: nothing sticks out too much, although it does take away some of the airiness to the music. For regular listening, I preferred taking off some of the high-end edge by using the advanced parametric EQ in the app instead of using the Flat EQ switch. The switch is small and on an inside corner of the left ear cup, far away from any of the other controls, so there’s no worry about accidentally turning it on or off while using the headphones. [Image: I love the tactile buttons on the Nothing headphones, and never accidentally triggered one, as can happen with capacitive buttons. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_2.jpg?quality=90&strip=all] The idea of a flat EQ response curve is one that sounds appealing, letting the user hear what it might sound like in the mix room without the headphones adding their own sound signature. But extensive research conducted by Dr. Sean Olive and his colleagues at Harman shows that most people prefer a curve with elevated bass response, relatively neutral mids for natural sounding vocals, and slightly boosted highs (before they start to roll off above around 5kHz). It’s what’s referred to as the Harman Curve. So while there’s use for an unaffected EQ curve while doing studio work, a flat EQ for most people will sound off and wrong. (There’s also an argument to be made that even in a studio environment, flat EQ headphones are unnecessary because most studio monitors are tuned to the Harman Curve as well.) Another thing that sets the Nothing Headphone 1 Pro apart from mainstream headphones like the Sony XM6, AirPods Max 2, and Bose Ultra Headphones Gen 2 are the drivers. While those three competitors use a single driver for each side, the Nothing use a triple-driver design. There’s a 40mm dynamic driver for bass, a separate midrange driver, and a xMEMS driver (which is a small solid-state driver) for upper frequencies. This design allows for each driver to focus on specific range, so things like the attack of higher frequencies is faster and cleaner. The Nothing Headphone 1 Pro supports LDAC, wired and wireless high-res audio up to 24-bit/96kHz, as well as wired lossless over USB-C up to 24-bit/192kHz. The headphones can also act as an Auracast transmitter or receiver with the Nothing X app — something I think all flagship headphones should include, as do the Sony XM5 and XM6 and just recently the Bose Ultra Headphones. The ANC performance impressed me during my short time with the Nothing Headphone 1 Pro. It does an excellent job blocking out low-end rumbling, such as A/C units or airplane noise, and a good job with street traffic. It’s not quite as good as the current top three — Sony XM6, Bose Ultra Headphones Gen 2, and Apple AirPods Max2 — but with music playing I was suitably isolated from the world around me. And it’s definitely the best I’ve ever heard from Nothing, by far. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_6.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_4.jpg?quality=90&strip=all] There’s no chance of mistaking the Headphone 1 Pro for anything other than a Nothing headphone. It has the same design style as the company’s other headphones, and uses the same tactile controls, which I really like, particularly the volume roller. What I don’t like is the AirPods Max-esque case, which closes around just the ear cups and leaves the headband exposed, acting as the case handle. One benefit over the AirPods bra case is that it’s a hard shell, but I wish the case protected the entire headphones. The headphones are IP52 rated, and get up to 30 hours of battery life with ANC on, or up to 68 hours with it off. I haven’t had quite enough time with them to come to a full verdict, but after some more time and comparison, I’ll update this review with a full score. Nothing makes a pretty strong statement with its flagship Headphone 1 Pro, and they’re definitely the best Nothing headphones I’ve used. The Flat EQ switch will be a novelty for most regular users, but studio professionals could find the option useful. And for everyone else, the ANC performance is comparable to the big competition and they sound good (especially for someone that likes more high-end presence). Plus they have the unmistakable Nothing look for those that want to stand out. Photography by John Higgins / The Verge",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T01:00:00.000Z",
+            "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
+          }
+        ]
+      },
+      {
+        "id": "story-humanoid-robot-ipos-html-32c101bd16624cbb",
+        "title": "中国为人形机器人首次公开募股设定三项新标准，但几乎没有企业能够满足",
+        "originalTitle": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:13:03.000Z",
+        "pubTime": "2026-09-29 13:13",
+        "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — China's securities regulator is raising the bar for public listings of humanoid robot startups, according to three sources familiar with the CSRC's thinking.\n\nIt's a sign of how one of the hottest sectors of the market is cooling, as investors globally assess whether artificial intelligence stocks are in a bubble.\n\nThe Chinese regulator wants local \"embodied AI\" startups seeking to go public to meet three specific criteria, according to the sources, who requested anonymity due to the sensitivity of the situation.\n\nEven if a startup only has to meet two of the three criteria, as one source indicated, it's unclear which, if any, of the companies can do so.\n\nThat's lowered expectations to just a handful, or none, of these startups making it to public markets, the sources said.\n\nAt least two dozen humanoid-related embodied AI companies have filed to list in Hong Kong alone, according to two of the sources. Hong Kong in May 2025 started letting tech companies file confidentially for IPOs.\n\nThe Hong Kong stock exchange and China Securities Regulatory Commission did not immediately respond to a request for comment. Mainland China companies wanting to list in Hong Kong also need the CSRC's blessing.\n\nScrutiny on China's growing number of humanoid robot startups and their fast-growing valuations — supported by a mix of government and private sector funds — has grown over the last several weeks.\n\nThe industry's posterchild, Unitree, got a regulatory fast-track to its listing in Shanghai on Aug. 19 as the World Robot Conference kicked off in Beijing.\n\nBut in a keynote a day later, founder Wang Xingxing cautioned that commercialization beyond dancing robots remained years away. It accentuated a debate that picked up in subsequent weeks on what humanoids can actually do — and whether industry startups were actually making money.\n\nChina now has well over 100 humanoid companies, which fall under the national push for \"embodied AI.\" The term received Beijing's support in the last two annual government work reports, although authorities have warned of a bubble in the humanoid robot industry.\n\nReflecting a rapid surge in interest, investment in the sector hit 47.09 billion yuan ($6.95 billion) in the second quarter, more than double that of the first quarter — and up over six times versus the same period last year, according to industry data provider Xiniu.\n\nUnitree raised about about 6.1 billion yuan ($905 million) in its IPO on Aug. 19 with Shanghai-listed shares skyrocketing more than 460% in their debut to close at 845 yuan.\n\nThe stock had nearly halved in price as of Monday, at 459.65 yuan a share.\n\nHong Kong-listed Ubtech has also tumbled more than 40% so far this year. The company, which went public in December 2023, still reported an operating loss for the first half of this year of 279 million yuan.\n\nThe share price decline contrasts with the flood of capital pouring into humanoid robotics companies over the last 12 months or so. The tech, often called \"physical AI\" in China, has been seen as a way for early-stage investors to benefit from the surge of interest in artificial intelligence models.\n\nHowever, Rhodium Group analysis this month found that China's AI companies only make about 10% the revenue of Anthropic and OpenAI. The ratio of valuation to revenue — especially for Chinese AI startups Moonshot and DeepSeek — was far higher than their U.S. rivals, the report said.\n\nWhile expectations grow for the U.S. AI giants' IPOs, chipmaker AMD said Monday it is acquiring World Labs for $8.2 billion in a stock deal. The startup, founded by AI pioneer Fei-Fei Li, is building AI models for creating virtual 3D environments frequently used in humanoid robot development.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "北京——据三名了解中国证监会相关考虑的人士透露，中国证券监管机构正在提高对人形机器人初创企业公开上市的要求。\n\n这表明，随着全球投资者评估人工智能股票是否处于泡沫之中，市场上最热门的行业之一正在降温。\n\n知情人士称，中国监管机构希望寻求上市的本土“具身人工智能”初创企业满足三项具体标准。由于事关敏感，这些人士要求匿名。\n\n一名知情人士表示，即便一家初创企业只需满足三项标准中的两项，目前也不清楚究竟有哪些企业能够做到，甚至是否有企业能够做到。\n\n知情人士称，这使得市场预期大幅降低：最终能够进入公开市场的此类初创企业可能只有少数几家，甚至一家也没有。\n\n其中两名知情人士表示，仅在香港就已有至少24家与人形机器人相关的具身人工智能企业提交上市申请。香港于2025年5月开始允许科技公司以保密方式提交首次公开募股申请。\n\n香港交易所和中国证券监督管理委员会尚未立即回应置评请求。希望在香港上市的中国内地企业还需要获得中国证监会的批准。\n\n过去几周，外界对中国数量不断增加、估值快速攀升的人形机器人初创企业的审视日益加强。这些企业的资金来源包括政府和私营部门资金。\n\n作为该行业代表性企业的宇树科技（Unitree），于8月19日在北京世界机器人大会开幕之际，获得了在上海上市的监管快速通道。\n\n但在次日的主题演讲中，创始人王兴兴警告称，除跳舞机器人之外，实现商业化仍需数年时间。这进一步凸显了随后几周升温的一场争论：人形机器人究竟能做什么，以及行业内的初创企业是否真的在盈利。\n\n如今，中国拥有超过100家人形机器人企业，这些企业都属于国家推动发展的“具身人工智能”领域。过去两年的政府工作报告均对这一概念表示支持，不过有关部门也曾警告，人形机器人行业存在泡沫风险。\n\n行业数据提供商烯牛数据显示，随着市场兴趣迅速上升，该领域第二季度投资额达到470.9亿元人民币（合69.5亿美元），超过第一季度的两倍，并较去年同期增长逾六倍。\n\n宇树科技于8月19日通过首次公开募股筹集约61亿元人民币（合9.05亿美元）。其在上海上市的股票首日暴涨逾460%，收于845元人民币。\n\n截至周一，该股股价几乎腰斩，报每股459.65元人民币。\n\n在香港上市的优必选（Ubtech）今年迄今也已下跌逾40%。这家于2023年12月上市的公司仍报告称，今年上半年经营亏损2.79亿元人民币。\n\n股价下跌与过去约12个月大量涌入人形机器人企业的资本形成对比。在中国，这项技术通常被称为“物理人工智能”，早期投资者将其视为从人工智能模型热潮中获益的一种方式。\n\n不过，Rhodium Group本月的分析发现，中国人工智能企业的营收仅约为Anthropic和OpenAI的10%。报告称，中国人工智能初创企业月之暗面（Moonshot）和深度求索（DeepSeek）的估值与营收之比，尤其远高于美国竞争对手。\n\n在市场对美国人工智能巨头首次公开募股的预期不断升温之际，芯片制造商AMD周一表示，将以股票交易方式斥资82亿美元收购World Labs。这家由人工智能先驱李飞飞创立的初创企业正在开发用于创建虚拟三维环境的人工智能模型，而这类环境经常用于人形机器人开发。\n\n有机密新闻线索？我们希望听到你的消息。\n\n将这些内容以及更多关于我们产品和服务的信息发送到你的收件箱。\n\n数据为实时快照。*数据至少延迟15分钟。全球商业和金融新闻、股票报价以及市场数据与分析。\n\n数据还由",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 22,
+        "keyTakeaways": [
+          "来源叙事重点：将拟议中的上市标准解读为人形机器人行业由资本追捧转向监管审慎的信号，重点强调企业商业化能力、盈利状况与估值风险；报道还通过宇树科技上市后股价表现、优必选亏损、行业融资增长及中美人工智能企业估值收入对比，强化行业可能存在泡沫和上市预期降温的叙事。报道提到监管要求涉及三个具体标准，但未公开标准内容；并称企业可能只需满足其中两个，但这一点及具体适用方式尚不确定。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:13:03.000Z",
+            "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sell-social-care-reforms-440a10a35f5fc2d2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We have time to make our case’: Labour insiders are confident Burnham can sell his social care reforms",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T05:00:54.000Z",
+        "pubTime": "2026-09-29 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/29/labour-insiders-confident-burnham-can-sell-social-care-reforms",
+        "imageUrl": "https://i.guim.co.uk/img/media/020676225d4b4c7abc30ff608607860367f60c03/1093_597_3996_3196/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=a9975b72bd00f0f732a21a0afa7fb80b",
+        "fullContent": "Analysts believe PM has a ‘golden opportunity’ to offer older people better protection in return for weakening the triple lock guarantee\n\nIt is a brave party leader who is prepared to go into an election promising a multibillion-pound new public service – likely to be funded by tax rises or holding back increases in the state pension.\n\nBut Andy Burnham’s colleagues are excited about the confident promise of new social care system that seven previous prime ministers have failed to deliver.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《卫报》社会与民生版于2026年9月29日发布了这篇文章。",
+          "文章讨论了安迪·伯纳姆提出的新社会照护体系，以及弱化“三重锁定”保障的可能性。",
+          "来源叙事重点：将社会照护改革描述为一项可能耗资数十亿英镑、但具有政治吸引力的新公共服务，并突出其与弱化国家养老金“三重锁定”保障或加税之间的潜在交换关系。报道重点放在伯纳姆及其工党同僚的信心、改革向老年人提供更好保障的卖点，以及此前七位首相未能完成类似改革所构成的政治挑战。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T05:00:54.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/29/labour-insiders-confident-burnham-can-sell-social-care-reforms"
+          }
+        ]
+      },
+      {
+        "id": "story-oud-with-a-pileus-on-top-9af33721059920ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fire Cloud with a Pileus on Top",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T04:01:00.000Z",
+        "pubTime": "2026-09-29 12:01",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-cloud-with-a-pileus-on-top/montanafire_master_20260811.jpg",
+        "fullContent": "Fire Cloud with a Pileus on Top\n\nHeat &#038; Radiation\n\nRemote Sensing Technology\n\nBlue Marble: Next Generation\n\nNASA Earth Observatory/Michala Garrison\n\nNASA Earth Observatory/Michala Garrison\n\nA pileus cloud veils part of a pyrocumulus rising from the Sand Creek fire in Montana on August 11, 2026, in images captured by the MASTER (MODIS/ASTER Airborne Simulator) on NASA’s ER-2 . In the false-color image (right) active fires appear pink and yellow, burned areas brown, clouds white, and smoke blue-purple. MASTER images by RoseAnne Dominguez, annotated by Michala Garrison.\n\nIn summer 2026, scientists took to the air to intercept and study the towering, smoke-infused clouds that wildland fires sometimes create. But during an August 11 flight over the Sand Creek fire in Montana, they came back with a bonus—observations of an ephemeral pileus cloud hovering atop one of the towering fire clouds.\n\nSmooth, veil-like pileus clouds are well-known to atmospheric scientists and cloud lovers and regarded as signs of especially vigorous convection . But researchers rarely observe a pileus cloud interacting with a fire cloud—known as a pyrocumulus (pyroCu)—in as much detail as they did on this flight, part of NASA’s INSPYRE (Injected Smoke and Pyrocumulonimbus Experiment) campaign.\n\nNamed after the Latin for “cap,” pileus clouds typically form when rising columns of air collide with a sufficiently moist layer of air aloft. Over the Sand Creek fire, a fast-rising updraft heated by the fire displaced air vertically and forced a horizontal layer of moister air sitting above it upward. The process is similar to how air forced over a mountain can produce clouds, explained Neil Lareau, INSPYRE’s deputy project investigator. “But in this case, the pyrocumulus itself was the ‘mountain,&#8217;” he said. As the displaced air was pushed upward, it cooled, and its water vapor condensed into a pileus cloud.\n\nThe pair of images above was captured at 5:40 p.m. local time (23:40 UTC) by the MASTER (MODIS/ASTER Airborne Simulator) on one of NASA’s ER-2 s, a type of high-flying research aircraft. The natural-color image on the left shows the thin, circular pileus atop the turret of smoke and water rising from the spreading wildfire. The image on the right shows the same moment but includes shortwave-infrared (SWIR) observations, which reveal the burned area and actively burning spots along the fire’s perimeter.\n\nMASTER captures data at 50 different spectral bands , including at wavelengths of 0.66, 1.61, 3.76, and 11.33 micrometers. The strip on the far right combines information from three spectral bands.\n\nMASTER/RoseAnne Dominguez.\n\nPileus clouds are usually quite short-lived, often persisting for only a few minutes before being overtaken by the underlying convection. During this flight, the scientists collected MASTER imagery of the plume roughly every 30 minutes, and the pileus was clearly visible in just one scene. The presence of the cloud hints at what Lareau described as the “extreme updraft dynamics” within the fire plume and pyrocumulus. At the time of the image, he explained, the fire was making a rapid run up the western side of Mount Comet as winds aligned with the drainage channels leading up the mountain.\n\n“The whole scene is amazing,” he said, noting that the science team was fortunate that MASTER’s visible channels captured the rapidly developing pyrocumulus and pileus cloud, its infrared channels captured the fire’s extreme surface behavior, and downward-pointing radars on the airplane studied the cloud structure. “This scene is in many ways the core of what we’re after with INSPYRE,” he said. “We were able to connect and map the surface fire dynamics to the convective plume to the cloud processes.” The image above shows the cloud in four of the 50 channels , or bands, measured by MASTER. The false-color panel on the far right of the image is a combination of shortwave-infrared and visible observations, similar to the right image at the top of the page.\n\nFires are just one driver of convection that can produce pileus clouds. Vigorous updrafts associated with severe thunderstorms can also produce these wispy clouds. Researchers who participated in NASA’s CRYSTAL-FACE (Cirrus Regional Study of Tropical Anvils and Cirrus Layers-Florida Area Cirrus Experiment) in Honduras in 2002 reported the presence of thin cirrus clouds in the tropopause above thunderstorms that were likely the products of pileus clouds.\n\nVolcanic eruptions can produce pileus clouds as well. One of the more stunning images captured by astronauts and published by NASA Earth Observatory is this photograph of a pileus cloud cloaking the top of a volcanic plume rising from the Sarychev volcano after an eruption in 2009.\n\nMASTER images by RoseAnne Dominguez (Airborne Sensor Facility), annotated by Michala Garrison. Story by Adam Voiland.\n\nAugust 11, 2026: Natural color\n\nAugust 11, 2026: SWIR\n\nAugust 11, 2026: Spectral bands\n\nReferences &#038; Resources\n\nCloud Appreciation Society, Pileus . Accessed September 28, 2026.\n\nEarthSky (2026, April 22) A pileus cloud means bad weather is on the way . Accessed September 28, 2026.\n\nGarrett, T.J., et al. (2006) Convective formation of pileus cloud near the tropopause . Atmospheric Chemistry &#038; Physics, 6(5), 1185–1200.\n\nLareau, N., via X (2026, August 13) Here is the corresponding visible imagery, which shows the #pyrocumulus cloud in exquisite detail . Accessed September 28, 2026.\n\nNASA Earth Observatory (2026, August 17) Chasing Fire Clouds in Utah . Accessed September 28, 2026.\n\nNASA Earth Observatory (2016, December 20) A Celebration of Clouds from Space . Accessed September 28, 2026.\n\nNASA’s Earth Science Project Office, INjected Smoke and PYRocumulonimbus Experiment . Accessed September 28, 2026.\n\nNASA, INSPYRE . Accessed September 28, 2026.\n\nNASA, MASTER . Accessed September 28, 2026.\n\nYou may also be interested in:\n\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\n\nChasing Fire Clouds in Utah\n\nNASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the…\n\nCloudy Cloak Over the Northwest\n\nA low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above…\n\nSmoke Streams Across Eastern Washington\n\nWildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations…\n\nDiscover More from NASA Earth Science\n\nSubscribe to Earth Observatory Newsletters\n\nSubscribe to the Earth Observatory and get the Earth in your inbox.\n\nEarth Observatory Image of the Day\n\nNASA&#8217;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.\n\nExplore Earth Science\n\nOpen access to NASA’s archive of Earth science data",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 46,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以2026年8月11日美国蒙大拿州Sand Creek火灾上空观测到的短暂荚状云（pileus）为核心，强调这一现象的罕见性、火羽流与强对流的关系，以及INSPYRE项目和MASTER多光谱航空遥感设备如何将地表火情、烟羽、云结构和辐射特征联系起来。文章主要采用科学解释和图像展示框架，将事件呈现为一次具有研究价值的特殊观测，而非围绕灾害损失或火灾治理展开。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T04:01:00.000Z",
+            "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/"
+          }
+        ]
+      },
+      {
+        "id": "story-9-peskov-2120881022-html-62f9cea8839a9997",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Путин отдельно пообщался с руководителем каждой партии, сообщил Песков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T05:45:21.000Z",
+        "pubTime": "2026-09-29 13:45",
+        "url": "https://ria.ru/20260929/peskov-2120881022.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/09/12/2118562139_0:51:3130:1812_650x0_80_0_0_87d8b47997c99f75d2de9c92a26395d8.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-29 13:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/peskov-2120881022.html",
+            "publishedAt": "2026-09-29T05:45:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-bff20ee2202a8d81",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tank Body Problem",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T00:41:45.000Z",
+        "pubTime": "2026-09-29 08:41",
+        "url": "http://www.jimsitu.com/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-29 08:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "http://www.jimsitu.com/",
+            "publishedAt": "2026-09-29T00:41:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0-4f80-ad2d-5d8a17e2cc82-0c358e91dce5f9b9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nvidia turns to insurers to spread the risk of AI build-out",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T04:04:31.000Z",
+        "pubTime": "2026-09-29 12:04",
+        "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a8c948a-6263-41bf-a358-cd8add3aba4b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-29 12:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-29T04:04:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-conomy-standards-back-to-816b979a083989ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S President cuts fuel economy standards back to 2014 levels | In 2020, U.S President cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T02:06:13.000Z",
+        "pubTime": "2026-09-29 10:06",
+        "url": "https://www.reddit.com/r/technology/comments/1wsxr5u/us_president_cuts_fuel_economy_standards_back_to/",
+        "imageUrl": "https://external-preview.redd.it/yFSFeZdAlogrUH0faDAQq-HyMk97ssRibCDCHfXveTk.jpeg?width=640&crop=smart&auto=webp&s=fc8fe03ec541ececb9fe7c5842c48bd1f8a0f8ef",
+        "fullContent": "submitted by /u/ControlCAD [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-29 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wsxr5u/us_president_cuts_fuel_economy_standards_back_to/",
+            "publishedAt": "2026-09-29T02:06:13.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790638439800,
     "timeDisplay": "2026-09-29 07:33 (UTC+8)",
     "date": "2026-09-29",
