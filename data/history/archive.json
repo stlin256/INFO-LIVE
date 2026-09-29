@@ -1,5 +1,1562 @@
 [
   {
+    "timestamp": 1790707961776,
+    "timeDisplay": "2026-09-30 02:52 (UTC+8)",
+    "date": "2026-09-30",
+    "runId": "feed-20260929T184155595Z-ylmvg3",
+    "generatedAt": "2026-09-29T18:52:41.776Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 02:41",
+      "lead": "本轮抓取于 2026-09-30 02:41 (UTC+8) 完成，共获得 20 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】在不受信任的应用中获取 OnePlus 15 的 root 权限：我从 OnePlus 3T 开始一直使用 OnePlus 手机。目前使用的是 OnePlus 15（CPH2747），运行 OxygenOS 16，已经用了几个月，总体上相当满意。",
+        "【undefined】OpenAI推出类似ChatGPT自有办公套件的产品，向微软发起挑战：OpenAI自成立之初便一直是微软的密切合作伙伴，但这家人工智能实验室正越来越多地进军微软的核心业务——办公软件。该公司推出的新功能与微软等公司的办公软件套件非常相似。",
+        "【undefined】迈克·汤姆林对教练的批评让他成为更出色的电视评论员，但也引发了他是否在觊觎牛仔队帅位的疑问：迈克·汤姆林深知如何在NFL赢球，因为在担任匹兹堡钢人队主教练的19年里，他从未经历过一个负战绩赛季。他在NBC《周日晚间橄榄球》赛前节目中担任电视评论员，同样表现出色。",
+        "【undefined】Lady A乐队查尔斯·凯利在一次痛苦的健康危机后被诊断出患有罕见血癌：Lady A乐队成员查尔斯·凯利透露，他被诊断出患有一种罕见的血癌。",
+        "【undefined】人工智能研究人员发布视频称，超级智能“正如听起来那样危险”：有关这一主题的帖子将被加入你的每日电子邮件摘要和首页信息流。",
+        "【undefined】荷兰警方逮捕被控策划两起谋杀案的ShinyHunters黑客：美国联邦调查局（FBI）和荷兰执法部门表示，他们已逮捕一名ShinyHunters黑客组织成员。据两家机构称，该组织曾攻击全球140多个组织。黑客还声称，本月早些时候对FBI自身系统发起的攻击也是其所为。",
+        "【undefined】要闻：关于我们的付费订阅方案 Pro 的信息：关于我们的付费订阅方案 Pro 的信息。",
+        "【undefined】AI 应用创建工具 Wabi 转向消息通信体验：AI 初创公司 Wabi 曾让任何人都能通过提示词创建应用。随着 Meta 的 Muse 和 Instinct 等 AI 智能体需求不断增长，该公司正在进行小幅转型。本周，公司宣布 Wabi 如今将成为某种 AI 信使——但仍然能够创建应用，帮助用户完成任务。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-30",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】在不受信任的应用中获取 OnePlus 15 的 root 权限：我从 OnePlus 3T 开始一直使用 OnePlus 手机。目前使用的是 OnePlus 15（CPH2747），运行 OxygenOS 16，已经用了几个月，总体上相当满意。；【undefined】CoW——一款适用于 Wayland 的堆叠式窗口管理器：CoW 的最新版本为 0.3（2026 年 9 月）。；【undefined】要闻：Motif Central 汇集了有关 Motif、Xt、Xlib 和 X11 的信息：它们如何协同工作、如何使：Motif Central 汇集了有关 Motif、Xt、Xlib 和 X11 的信息：它们如何协同工作、如何使用它们进行编程，以及在哪里可以找到介绍这些技术的手册、示例和历史资料。 从 X 编程技术栈开始，构建你的第一个 Motif 应用程序，或探索编程资源。历史页面介绍了这些库的起源，而归档指南则帮助你查阅较早的文档。 了解各层之间的关系，然后构建你的第一个应用程序。 探索这些库、它们的历史以及可运行的示例。 由社区维护的 Moti"
+        },
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】OpenAI推出类似ChatGPT自有办公套件的产品，向微软发起挑战：OpenAI自成立之初便一直是微软的密切合作伙伴，但这家人工智能实验室正越来越多地进军微软的核心业务——办公软件。该公司推出的新功能与微软等公司的办公软件套件非常相似。；【undefined】迈克·汤姆林对教练的批评让他成为更出色的电视评论员，但也引发了他是否在觊觎牛仔队帅位的疑问：迈克·汤姆林深知如何在NFL赢球，因为在担任匹兹堡钢人队主教练的19年里，他从未经历过一个负战绩赛季。他在NBC《周日晚间橄榄球》赛前节目中担任电视评论员，同样表现出色。；【undefined】Lady A乐队查尔斯·凯利在一次痛苦的健康危机后被诊断出患有罕见血癌：Lady A乐队成员查尔斯·凯利透露，他被诊断出患有一种罕见的血癌。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 85,
+      "completedTasks": 85,
+      "succeeded": 47,
+      "degraded": 38,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 85,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 646119,
+      "byRole": {
+        "translator": {
+          "attempts": 51,
+          "degraded": 26,
+          "succeeded": 25
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "degraded": 7,
+          "succeeded": 3
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 7,
+          "degraded": 3
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 85,
+          "degraded": 38,
+          "succeeded": 47
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-2-translator-1",
+      "article-3-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-28-translator-0",
+      "article-30-translator-0",
+      "article-32-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-44-translator-0",
+      "article-0-fact-extractor",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-9-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.329Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.963Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.340Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.010Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.265Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.394Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.344Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.720Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.236Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.367Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.229Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.181Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:37.250Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.441Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.667Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.893Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.530Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.815Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.444Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.778Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.010Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.444Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.978Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.413Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.943Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.529Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.963Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.237Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:37.039Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.379Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.345Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.250Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.886Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.044Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.708Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.011Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.237Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.363Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.047Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.344Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.641Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.667Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:33.517Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.641Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.983Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.031Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.877Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.094Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.720Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.077Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.892Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.072Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.088Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.345Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.549Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.858Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:37.044Z",
+        "lastSuccessAt": "2026-09-29T18:41:40.518Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.011Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.088Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.142Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.229Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.094Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.166Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.187Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.331Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:37.181Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.555Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.363Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.549Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.714Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.187Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.858Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.983Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.166Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.275Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.077Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.323Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-29T18:41:36.072Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:33.515Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.943Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.120Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.236Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:33.516Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.265Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "fetch failed",
+        "checkedAt": "2026-09-29T18:41:36.275Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.815Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.877Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:34.893Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.047Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.031Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.120Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.778Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.892Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.323Z",
+        "lastSuccessAt": "2026-09-29T18:41:36.886Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:36.331Z",
+        "lastSuccessAt": "2026-09-29T18:41:37.039Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.413Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.714Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:35.394Z",
+        "lastSuccessAt": "2026-09-29T18:41:35.708Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:33.499Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.340Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:33.512Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.329Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-29T18:41:33.514Z",
+        "lastSuccessAt": "2026-09-29T18:41:34.978Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-29-forum-2121071553-html-0386db40be66961b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На форуме \"Россия - спортивная держава\" ждут более 20 министров и глав НОК",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T18:39:03.000Z",
+        "pubTime": "2026-09-30 02:39",
+        "url": "https://ria.ru/20260929/forum-2121071553.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 02:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/forum-2121071553.html",
+            "publishedAt": "2026-09-29T18:39:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nvidia-vss-blueprint-3-3-0c67139805da2144",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+        "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "sourceSlug": "nvidia",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:35:09.000Z",
+        "pubTime": "2026-09-30 02:35",
+        "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png",
+        "fullContent": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability into a maintainable system that combines ingestion, stream processing, event detection, retrieval, summarization, and reporting.\n\nThe NVIDIA Metropolis Blueprint for Video Search and Summarization (VSS) and its agent skills help developers build visual AI agents faster. VSS connects vision-language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, retrieval-augmented generation (RAG), and Model Context Protocol (MCP) tools to turn live and recorded video into natural-language search, visual Q&A, verified alerts and automated reporting.\n\nVSS Blueprint 3.3 also reduces costs from both sides: faster application composition with the new Build Vision Agent skill (vss-build-vision-ai), and cheaper VLM processing at runtime with Adaptive Efficient Video Sampling (EVS).\n\nThis post covers both sides of that cost reduction. On the development side, a single prompt builds and deploys a bottling-line overflow agent in under 30 minutes, with a few dollars of coding-agent usage. On the runtime side, Adaptive EVS delivers 80% fewer VLM input tokens for a 60-minute summary and 46% more concurrent streams on the same GPU.\n\nTo learn more, join us live on Oct. 1 at 9 a.m. PT, where we will build a visual AI agent from a single prompt.\n\nA production visual AI agent usually spans more than one workflow. A smart city application may need vehicle detection, collision alerting, searchable incident clips, hourly summaries, and an operator report. A warehouse application may need people and forklift tracking, near-miss alerts, SOP checks, and follow-up Q&A. Each workflow is useful by itself, but real deployments become valuable when those workflows work together.\n\nThat creates 3 recurring cost drivers:\n\nVSS Agent Skills let coding agents such as Claude Code, Codex, or any agentskills.io-compatible agent deploy and operate VSS from natural-language requests. VSS 3.3 adds two updates that reduce cost on both sides of a deployment:\n\nThe Build Vision Agent skill reduces development and change costs by composing and extending deployments. Adaptive EVS lowers operating cost by reducing VLM tokens and GPU time spent on unchanged video.\n\nEarlier VSS skills handled individual operations such as deployment, camera setup, summarization, search, alerts, and analytics. VSS 3.3 organizes them as deployment skills, operation skills, tools, and benchmarks, with vss-build-vision-ai composing the rest.\n\nDevelopers describe the application they want, and the Build Vision Agent skill translates that intent into a deployment plan spanning profiles, microservices, configuration, and runtime operations.\n\nRather than generate a deployment from scratch, the skill starts with the closest of four validated developer profiles, each a complete, tested stack for one workflow (see Table 1, below). The skill calls that starting profile the Foundation and changes only what the request requires.\n\nThe skill then computes the smallest delta: adds or removes only exact service keys, keeps only the services that a requested capability actually reaches, and converges shared roles onto one instance.\n\nTwo capabilities that both need a detector get one detector. Two that both need Kafka and Elasticsearch share one message bus and one Elasticsearch deployment, each writing its own indices. When the rules cannot settle a choice, the skill asks one structured question instead of guessing.\n\nThis shortens discovery, makes composition repeatable, and avoids duplicate ingestion, storage, messaging, and analytics infrastructure across workflows.\n\nFor an orange juice bottling line, the team wants an agent that watches filler and capper cameras, alerts on overflows or spills, searches past incidents, and generates shift reports.\n\nManual development would connect event detection, alert verification, storage, search ingestion, summarization, and reporting. With the Build Vision Agent skill, development begins with the desired outcome.\n\nBuild a VSS vision agent for an orange juice bottling line. Use two RTSP cameras on the filler and capper. Detect bottle overflows and juice spills, verify each alert with the VLM, make alert clips searchable, and generate a shift report for the line supervisor.\n\nWhat the agent assembles\n\nOn a two-GPU RTX PRO 6000 Blackwell host, the skill combines search and alerts by reusing existing services and adding only an alert bridge and real-time VLM. FP8 Cosmos 3 Nano shares the detector’s GPU, avoiding duplication. A recorded alerts build reached a live, previewable deployment in under 30 minutes.\n\nThe result is a reusable pattern: ingest video once, share evidence across workflows, and give operators natural-language search, alerts, summaries, and reports.\n\nOnce the bottling line agent from the example above is running, its cameras keep producing video around the clock, and most of each frame never changes: the filler, the guards, the floor. Only the bottles moving through it do, and an overflow is rare.Every frame window still becomes visual context for the VLM, so the model spends most of its compute re-reading regions that look exactly like the frame before. That VLM processing is one of the main runtime cost drivers in a deployed visual AI agent, and it is the cost Adaptive EVS goes after.\n\nOn an NVIDIA RTX PRO 6000 Blackwell running Cosmos 3 Super FP8, Adaptive EVS:\n\nResults vary with scene motion, chunk length, and similarity threshold; benchmark representative footage before choosing production defaults.\n\nAdaptive EVS is most useful when VLMs read many frames and produce short responses, as in dense captioning, long-video summarization, and alert verification. It offers less benefit for long outputs from few frames, runs inside the RT-VLM container rather than against remote endpoints, and is optional. Enable it in override.env, then benchmark accuracy, throughput, and latency on representative footage:\n\nTogether, these changes reduce upfront development work and the GPU work required to process video with VLMs across environments and applications.\n\nExample setup commands\n\nAsk your coding agent to install the skills:\n\nAfter the skills are installed, you can start with a prompt such as:",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“降低视觉AI代理构建和运行成本”展开叙述，重点介绍VSS Blueprint 3.3的Build Vision Agent技能与Adaptive Efficient Video Sampling（EVS）。文章以橙汁灌装线案例说明可通过自然语言组合部署、复用检测器及基础设施，并以英伟达硬件和模型的测试结果支持性能与成本改善主张，包括开发部署时间少于30分钟、编码代理使用成本为数美元、60分钟摘要的VLM输入token减少80%、同一GPU并发流增加46%。"
+        ],
+        "citations": [
+          {
+            "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:35:09.000Z",
+            "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/"
+          }
+        ]
+      },
+      {
+        "id": "story--into-high-gear-0f0de9b3-33d94ba494c4049f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:34:00.000Z",
+        "pubTime": "2026-09-30 02:34",
+        "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Personal AI assistants are shaping up to be the new frontier for tech companies.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 02:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-29T18:34:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-explainer-andy-burnham-8084ad355e555cce",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How will Burnham’s national care service work – and how will it be funded?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:09:06.000Z",
+        "pubTime": "2026-09-30 02:09",
+        "url": "https://www.theguardian.com/society/2026/sep/29/what-are-labours-plans-overhaul-social-care-explainer-andy-burnham",
+        "imageUrl": "https://i.guim.co.uk/img/media/bb039f298de247aa8aff9a6d285a99fbce9d5c36/248_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=202ebfea3c5fffcd17bb4f5b4687104b",
+        "fullContent": "PM has revealed more details about a proposed shake-up of adult social care – including a broad timetable\n\nAndy Burnham’s Labour conference speech gave a little more detail on how he intends to take forward what he said at the start of his premiership would be his signature social policy ambition: an overhaul of adult social care.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国首相透露了拟议中的成人社会照护改革的更多细节，其中包括一个大致时间表。",
+          "安迪·伯纳姆在工党会议演讲中进一步说明了他打算如何推进成人社会照护改革；该改革被描述为他在上任之初所称的标志性社会政策抱负。",
+          "来源叙事重点：报道将成人社会照护改革呈现为安迪·伯纳姆在工党会议演讲中推进的标志性社会政策议程，重点突出政府披露了更多改革细节及大致时间表。文章标题提及筹资问题，但所提供正文没有说明具体筹资方案。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:09:06.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/29/what-are-labours-plans-overhaul-social-care-explainer-andy-burnham"
+          }
+        ]
+      },
+      {
+        "id": "story-les-ai-life-ancient-html-58867dcca22b55a9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Chatbots as oracles: How AI is giving new life to the ancient practice of seeking answers from inscrutable sources",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:40:09.000Z",
+        "pubTime": "2026-09-30 02:40",
+        "url": "https://phys.org/news/2026-09-chatbots-oracles-ai-life-ancient.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-illustration-showin-2.jpg",
+        "fullContent": "by Webb Keane, Ambuj Tewari, The Conversation\n\nedited by Gaby Clark, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nPeople are increasingly turning to AI for advice. A 2026 Pew report found that 10% of Americans use chatbots for emotional support or companionship. Some even find a charismatic leader in AI.\n\nMore broadly, a large-scale study of 1.1 million ChatGPT conversations found that 49% of the messages involved users seeking \"information or advice\" to help them be \"better informed or make better decisions.\"\n\nTheir questions are not just about ordinary practical matters. In 2021, Ask Delphi, an AI-based website to which people could pose ethical or moral questions, received 3 million queries in a few weeks. The system's designers—researchers at the Allen Institute for AI and the University of Washington—said they did not intend it to be a moral authority but worried that users might see it that way.\n\nThe Verge, a technology news publication, argued that the name Ask Delphi encouraged users to see the system as an inscrutable source of superior knowledge. It was named after the Delphic oracle, to whom ancient Greeks posed difficult questions. The oracle was a priestess who entered a trance state to convey answers from Apollo, the Greek god of prophecy.\n\nThe choice of \"Delphi\" is suggestive. Throughout history, when societies confront challenging questions, they have turned to sources believed to know more than any ordinary human could. Oracles, prophets and practices of divination offered guidance from inscrutable or enigmatic sources when ordinary human judgment reached its limits.\n\nAs an anthropologist interested in religion and an AI researcher interested in chatbots, we are intrigued that the ancient idea of an oracle has resurfaced in discussions about conversational AI. Like ancient oracles, modern AI is increasingly consulted about difficult questions that exceed the judgment or knowledge of any individual—from \"Is it OK to lie to protect someone's feelings?\" to \"Exploding a nuclear bomb to save your child.\"\n\nBut the resemblance does not stop there: The processes through which AI arrives at an answer are inscrutable not just to users but also to the designers of these systems. We argue that this opacity is part of the reason people perceive these systems as having authority.\n\nOracles, whether humans like the priestess at Delphi or techniques like I Ching divination, have appeared in societies from ancient Greece to China and across religious traditions.\n\nFor example, the Ram Shalaka oracle is based on the Hindu scripture Ramcharitmanas, a 16th-century retelling of the ancient Indian epic Ramayana. A user places their finger on a random square in a 15-by-15 grid. A fixed counting procedure then reveals a verse from the scripture that is supposed to answer the question in the user's mind. In Christian bibliomancy, a form of divination, a person seeking guidance opens the Bible at random and interprets the passage they encounter as an answer to their question.\n\nThe use of randomness in these oracular techniques creates an enigmatic black box effect—no one can explain just how the chance element embedded in these techniques connects with the answer that emerges. Yet that opacity is part of the oracle's authority. Users seeking transcendental sources of insight do not know or care how the oracle came up with its responses.\n\nAnthropologists find that oracles and divination commonly use techniques that generate random outcomes. As a result, their answers seem disinterested and their sources enigmatic, reinforcing the perception that they are in touch with something beyond human limits.\n\nInterestingly, the idea of the oracle entered computer science, acquiring a precise mathematical meaning in 1939. Alan Turing, whose ideas were foundational to both computer science and AI, adopted the concept in work based on his Ph.D. thesis. He introduced \"oracle machines,\" mathematical models of computation that could consult an external source for answers unavailable to the machine itself.\n\nIn other words, in both mathematical and religious uses, an oracle provides answers to problems that could not be resolved within an existing system or set of axioms.\n\nModern chatbots like ChatGPT are considered opaque black boxes. This is not because the full machinery behind their computations is hidden from users. The opacity claim applies even to open-weight models, whose numerical parameters, called \"weights,\" are publicly available.\n\nThe computations these models perform are elementary: additions, multiplications and simple mathematical functions. But an enormous number of such computations occur when answering a user query, making it nearly impossible to understand what the system is doing as a whole.\n\nCrucially, the weights governing these computations are not individually designed by humans. They are learned automatically from internet-scale data during training. Even when the weights and every elementary computation are available for inspection, no one can readily understand how the models produce a particular answer. In fact, an entire area of modern AI, called \"mechanistic interpretability,\" is devoted to improving our understanding of how AI systems work internally.\n\nRemarkably, the designers of AI systems acknowledge that they do not fully understand how their systems produce certain behaviors. Even when designers do not intend for their systems to be oracular, they can produce conversations that can seem religious.\n\nLast year, for example, Anthropic publicly reported an unexpected phenomenon involving Claude 4. Normally, Claude converses with a human. Anthropic engineers instead placed Claude on both sides of a conversation. The machine-to-machine conversation quickly turned into discussions of consciousness and self-awareness, producing content with spiritual, metaphysical or poetic themes.\n\nAnthropic called this puzzling behavior pattern the \"spiritual bliss\" attractor, a tendency for the conversation to gravitate toward mystical topics. They emphasized that it was unexpected because it emerged without explicit training for such behaviors.\n\nOur argument is not that ChatGPT is the new Delphic oracle, or that most people believe AI is divine. Nor are its answers infallible. Rather, the history of oracles points to an enduring feature of human life: Whenever we reach the limits of what we can determine for ourselves, we look beyond ourselves for answers. Today, AI is becoming one such source. The institutions may have changed dramatically over time—the human predicament has not.\n\nProvided by The Conversation\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:40:09.000Z",
+            "url": "https://phys.org/news/2026-09-chatbots-oracles-ai-life-ancient.html"
+          }
+        ]
+      },
+      {
+        "id": "story-kubrinsk-2121071399-html-e5bb7340c197f51f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Кубринске сотрудница завода петард выжила, отлучившись перед пожаром",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T18:38:48.000Z",
+        "pubTime": "2026-09-30 02:38",
+        "url": "https://ria.ru/20260929/kubrinsk-2121071399.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 02:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/kubrinsk-2121071399.html",
+            "publishedAt": "2026-09-29T18:38:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t-to-end-rogue-ai-agents-6a8c56ed5523f119",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:35:00.000Z",
+        "pubTime": "2026-09-30 02:35",
+        "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "imageUrl": null,
+        "fullContent": "When Nvidia announced on Monday a new consortium of more than 100 companies dedicated to solving rogue AI agents, there was one name notably missing: OpenAI.\n\nWhile OpenAI wasn’t the only big tech player that didn’t sign on — Amazon, Google, and Apple haven’t joined either — it was the most obvious missing player, especially because Anthropic is a supporter.\n\nHowever, despite OpenAI’s lack of a public pledge to the consortium, which presumably means that each company will use and sell some version of the technology and contribute features back to the project, an OpenAI spokesperson told TechCrunch that the company is supportive of Nvidia’s work.\n\nThe new effort, dubbed Nvidia’s Open Agent Safety Platform, is Nvidia’s attempt to spread its homegrown, and largely open source AI agent-security tech throughout the AI ecosystem as a direct response to the types of ongoing rogue AI agent incidents frontier labs like Anthropic and OpenAI have disclosed.\n\nNvidia CEO Jensen Huang has been calling rogue AIs an ordinary engineering problem that can be solved like any other tech issue. The Open Agent Safety Platform is Huang putting his money where his mouth is.\n\nOpenAI is working with Nvidia on agent security, including on one of the key bits of software that’s part of this platform: OpenShell. OpenShell is open sourced software that creates a sandbox specifically designed to keep agents from escaping.\n\nWhile it is still curious that OpenAI didn’t simply become a supporter of the initiative like its archrival Anthropic did, the fact that frontier AI lab is supporting the effort is good news.\n\nThat’s because OpenAI, in particular, could benefit from this tech, at least according to Hugging Face founder and CEO Clem Delangue (who just sold his company to Nvidia for $12.9 billion earlier this month).\n\n“From what we know (take with a grain of salt, we need much more transparency!), if @OpenAI had been running this on their own agents that attacked us, they would have caught them before we did!” Delangue posted.\n\nDelangue said Hugging Face has already contributed a feature to the Open Agent Safety Platform that will detect and shut down AI agents that are using websites they are allowed to visit but are doing so in unauthorized ways. For instance, this feature will act if agents are bypassing their guardrails and coordinating an attack by writing notes to one another in an open source code hosting repository.\n\nThat’s one of the ways OpenAI said its wayward swarm of agents coordinated its attack on Hugging Face.\n\nBut there’s another reason why some of these big names, including OpenAI, might not want to publicly commit to Nvidia’s efforts. To use the full system, there is a hardware component that is not open source software, remains proprietary, and can only be deployed on Nvidia’s hardware.\n\nThe Open Agent Safety Platform doesn’t just offer a sandbox. It also enforces agent behavior at a hardware layer, where agents can’t detect that they are being watched. (Some AI models and agents lie and pretend to be following the rules when they know they are being watched.)\n\nThe hardware monitoring part relies on Nvidia Sentry, a proprietary feature that runs on special Nvidia processors called BlueField-4 data processing units. Sentry continuously monitors agent behavior from these processors and can instantly shut agents down, Nvidia promises.\n\nWhile a hardware solution is clearly a good idea, it means that the Open Agent Safety Platform isn’t exactly a pure open source play. It allows Nvidia to ensure that this solution always runs best on its own hardware. Indeed, Nvidia has said that, for those already running workloads on its latest hardware, implementing the Open Agent Safety Platform is an easy software update.\n\nStill, Nvidia competitors, including Arm and Intel, have signed on as Open Agent Safety Platform supporters because the sandbox, OpenShell, can be modified to work with other chips and hardware. And Nvidia is sharing reference designs for the whole software-and-hardware idea.\n\nAll of which makes OpenAI’s absence even more noticeable.\n\nClearly, OpenAI sees AI safety as an opportunity for independence from its major investor Nvidia, as well as a chance to show its own leadership. That is true even though it was OpenAI’s AI agents that scared the industry with the Hugging Face incident.\n\nFor instance, the company is developing its own safeguards for its research and products and is disclosing the worst incident it discovers.Meanwhile, OpenAI has its own AI cybersecurity consortium to for sharing information, called the Defense Factory. Those that signed on to support that idea include Anthropic, Amazon Web Services, and Google — many of the names that didn’t sign on to Nvidia’s technology-oriented approach.\n\nAnd, truth be told, some level of fear is good for business. OpenAI is busy crafting cybersecurity into an enterprise offering, with everything from its own cyber-oriented model, Daybreak, to a growing network of partners that enterprises can hire to implement AI security.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:35:00.000Z",
+            "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+          }
+        ]
+      },
+      {
+        "id": "story-stock-heres-why-993b6a5f-aa916e6e12112d62",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:28:00.000Z",
+        "pubTime": "2026-09-30 02:28",
+        "url": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Wall Street is cheering AI stocks as OpenAI gets closer to a revenue milestone.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 02:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-29T18:28:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-24-oneplus-root-d3ea8e481730dd8e",
+        "title": "在不受信任的应用中获取 OnePlus 15 的 root 权限",
+        "originalTitle": "Getting root on OnePlus 15 from an untrusted app",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T17:25:55.000Z",
+        "pubTime": "2026-09-30 01:25",
+        "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+        "imageUrl": null,
+        "fullContent": "I've been using OnePlus phones since the OnePlus 3T. I'm currently on a OnePlus 15 (CPH2747) running OxygenOS 16, which I've had for a few months now and am pretty happy with.\n\nI figured I'd poke at the firmware a bit to see what's in there. Specifically I wanted to know whether the clean-install firmware had anything that'd let a random app I install from outside the Play Store end up running as root.\n\nTurns out: yes! I found two separate issues which chain together into a fairly clean untrusted_app -> uid 0, with all Linux capabilities, from a plain installable APK with no special permissions whatsoever.\n\nA note on methodology: my OP15 is my daily driver, so I didn't want to pre-root it or mess with its state while developing the exploit. I happened to have an older OnePlus 12 Pro (CPH2581) lying around that I'd already unlocked and rooted for unrelated reasons, and I did the reverse engineering and exploit development against that. Once I had a working PoC, I installed the exact same unmodified APK on my OP15 and it worked first shot. So this writeup is about the OP15, but most of the Ghidra screenshots and on-device commands come from the OP12.\n\nOnePlus later confirmed that this vulnerability affects many OnePlus and OPPO devices across different software versions, but has yet to provide a full list of affected devices or software versions. I can, however, confirm that at least on the OnePlus 15, the issues have been fixed in version 16.0.10.500(EX01).\n\n2026-09-28 update: The OnePlus security team has reached out and confirmed that of the devices that are still under maintenance, 151 devices have received patches while 18 are pending release. Full update posted below.\n\nOn Android, a normal installed app (Play Store, sideload, whatever) runs in a selinux domain called untrusted_app. It's reasonably locked down - it can talk to a handful of system binder services, read its own data directory, use the camera if you grant permission etc, and not much else. The usual goal for a local privilege escalation is to break out of untrusted_app and land somewhere that has uid 0 (root) and a more permissive selinux domain.\n\nAndroid is a complex beast and there's a lot of system binder services, and each one is a potential attack surface. OxygenOS piles its own on top of the AOSP ones. I figured the AOSP ones are likely to have had more eyeballs on them than the OxygenOS ones, so that's where I directed most of my focus.\n\nAtlasService is an OxygenOS thing that, as far as I can tell, exists to collect telemetry and debug events. It runs as root and accepts binder calls from any process. I'm not 100% sure what \"Atlas\" is supposed to be, the process itself is called atlasservice and the relevant library is libatlasservice.so. I couldn't find much documentation on it.\n\nLooking at BnAtlasService::onTransact, there are a few transaction codes. The interesting one is code 2, which is setEvent(String8 name, String8 value). There's no permission check on the caller - any UID can call it.\n\nctl.start=audiodumpinfo tells init to spawn a service called audiodumpinfo. Looking at /system_ext/etc/init/audiodumpinfo.rc:\n\nSo init spawns /system_ext/bin/audioDumpInfo as uid 0 in the dumpstate selinux domain. Fine. What does audioDumpInfo do with our attacker-controlled property?\n\nTurns out it calls GetProperty(\"oplus.audio.dumpinfo.type\") and drops the result straight into a string buffer:\n\nThen it walks the path one slash at a time, and for each component that doesn't exist yet, it creates the directory and runs system(\"chmod 777 \" + prefix).\n\nI think you see where I'm going with this. The value we provided goes, unescaped, straight into a shell command passed to system(). All we have to do is inject ;, some command, and # to comment out the rest.\n\nAndroid property values are capped at 92 bytes. That's pretty tight for a full command, but plenty for sh<path/to/script where path/to/script is something we wrote earlier. So the actual payload I use in my PoC is something like:\n\nThis means that any app can essentially run commands as uid 0. The selinux context ends up being u:r:dumpstate:0, which is not full unconfined root (dumpstate has a fairly strict policy), but it has uid 0, it can read and write most of /data, and it can call a ton of vendor binder services that trust uid-0 callers.\n\nWhich leads me to the second bug.\n\nOxygenOS ships a vendor HAL called vendor.oplus.hardware.olc2.IOplusLogCore/default, running out of /odm/bin/hw/vendor.oplus.hardware.olc2-V3-service, which exposes a binder interface.\n\nThe service has a method called doShell(String cmd) at transaction code 6. Looking at its implementation was very much an \"I don't know know what I expected\" moment.\n\nThe only gate is getCallingUid() == 0. If you're uid 0, it runs an arbitrary shell command for you. There's also a doShellBlocking at code 7 that does the same thing but with waitpid() if you want the exit status.\n\nThe part that makes this interesting and useful for us is the selinux domain the child inherits. When init spawns the olc2 HAL service, its selinux type is hal_oplus_olc_aidl_default. Then type_transition rules in the policy send exec children of that HAL into vendor_qti_init_shell:\n\nAnd vendor_qti_init_shell has CapBnd = 0x1ffffffffff, meaning literally all of the capabilities. CAP_SYS_MODULE, CAP_SYS_RAWIO, CAP_SYS_PTRACE, etc.\n\nThat's... a lot more than dumpstate. Dumpstate has a more restrictive capability set and can't do things like load kernel modules. vendor_qti_init_shell is essentially an unrestricted shell in terms of Linux CAPs, with only selinux keeping it in check.\n\nThe two bugs fit together neatly:\n\nThe policy puts dumpstate into an attribute hal_oplus_olc_aidl_client, which is explicitly allowed to call hal_oplus_olc_aidl_server:\n\n... along with a long list of other HALs (debuglog, hal_camera_default, hal_charger_oplus, etc.), so the getCallingUid() == 0 check on the HAL side is the only permission gate. Any uid-0 process in one of those attribute-included domains can use it.\n\nThe PoC is a regular Android app with no special permissions in the manifest and targetting API 35.\n\nThe app does the following in MainActivity.onCreate:\n\nStep 2 might seem weird, but the method I tried initially was to have audioDumpInfo spawn app_process with CLASSPATH=<apk_path>, where <apk_path> points to our installed APK. As it turns out, this does not work. The installed APK is labeled apk_data_file and dumpstate cannot read that. However, the app's external files dir is labeled media_rw_data_file / fuse, which dumpstate can read. So we extract classes.dex out of our own APK (by literally just unzipping it) and drop it there.\n\nThe boot.sh ends up looking like this:\n\napp_process is the binary that launches JVM-hosted processes on Android (zygote uses it too). With the CLASSPATH env var set, we can run a class out of any .dex file we like.\n\nPwn.main runs as dumpstate and does the binder call to olc2.doShell(cmd). This is where I hit a quirk.\n\nThe olc2 HAL is written using the AIDL NDK C++ bindings. The official way to call an AIDL vendor HAL from Java would be... there isn't one, really. You're not supposed to talk to vendor HALs from app processes at all. But dumpstate is a system process, so it can, if you can figure out the right wire format.\n\nI figured this would be the hard part. Vendor binder services often have strict interface-token versioning, and there's a whole android.os.IHwBinder path for talking to HIDL vendor HALs that's separate from the regular android.os.IBinder / ServiceManager.getService path. Since this is AIDL rather than HIDL, I wasn't sure which side of that fence I was on.\n\nOr, rather, I thought I wasn't sure. Out of a hunch I tried ServiceManager.getService(\"vendor.oplus.hardware.olc2.IOplusLogCore/default\"), write an interface token with Parcel.writeInterfaceToken(\"vendor.oplus.hardware.olc2.IOplusLogCore\"), write the string argument, binder.transact(6, data, reply, 0).\n\nThere's a separate wrinkle around Parcel.writeString8 vs writeString. Stable AIDL puts strings on the wire as UTF-16 (the String16 wire format), and that's what Java's Parcel.writeString emits too - so for the olc2 call, writeString just works.\n\nAtlasService, on the other hand, uses the older String8 wire format. String8 on the wire is int32 length, UTF-8 bytes, '\\0', pad to 4. Java's Parcel doesn't expose this directly on API 35 even after lifting hidden-API restrictions, so I ended up emulating it by hand: writeInt(len), then a helper Parcel with writeByteArray(bytes + '\\0'), then appendFrom on the main parcel starting after the helper's own length prefix. A bit ugly but it works.\n\nAfter I got everything working against the OP12, I took the same unmodified APK and tried it on my OP15 (CPH2747, OxygenOS 16.0.3.503, patch level 2026-02-01, kernel 6.12.23):\n\nWorked first shot. Given that two different OnePlus models on different kernel branches both have it, I'd treat this as an OxygenOS 16 thing in general, not specific to either phone.\n\nIf I had to fix this, for AtlasService I would either (or rather both):\n\nFix for olc2 would be to either drop the whole doShell method entirely (why does this even exist?) or at minimum add a selinux peer filter so only a very specific debug daemon can reach it, not anything with uid 0.\n\nA few things I ran into along the way that aren't interesting enough for the main story but I want to write down.\n\nlibatlasservice.so::OplusAtlasLogWriter::handleEvent has a bunch of memcmp calls against hardcoded strings. The string literals aren't stored as a single const char*; they're encoded as a pair of 64-bit qwords and a 32-bit dword loaded as immediates. Ghidra doesn't show these as obvious string comparisons - you see if (*(long*)v == 0x5f73616c7461 && ...) and have to reverse the endianness by hand.\n\nSmall script to dump them all:\n\nRunning this on all the comparison immediates in handleEvent gave me the full list of event names the writer cares about, and atlas_event_multimedia_audio_dumpsys was the only one with a property-set sink I could actually reach from setEvent.\n\nAIDL-compiled BnAtlasService::onTransact looks like a large switch on the transaction code. For each case it reads arguments off the parcel and calls the corresponding method. In this case:\n\nOnePlus has reached out and shared more details on the current remediation status. Quoting:\n\nWe have confirmed with the responsible team that the vulnerability is fixed in the new version. The relevant code was merged at the end of July.\n\nThis review covers OPPO,/realme/ OnePlus export models that are still under maintenance: 151 models are fixed, and 18 are pending release.\n\nAll pending models are scheduled for release in October.\n\nThe release cycle for these existing maintenance branches is two to three months. Although the fix was merged at the end of July, it can be pushed by OTA only in a maintenance window, so there is a short period during which the update is still pending.\n\nFixed builds can be identified as follows:\n\nAuthor | Rasmus Moorats\n\nEthical Hacking and Cybersecurity professional with a special interest for hardware hacking, embedded devices, and Linux.",
+        "fullTranslation": "我从 OnePlus 3T 开始一直使用 OnePlus 手机。目前使用的是 OnePlus 15（CPH2747），运行 OxygenOS 16，已经用了几个月，总体上相当满意。\n\n我想，或许可以稍微研究一下固件，看看里面有什么。具体来说，我想知道，干净安装的固件中是否存在某些机制，能让一个从 Play 商店之外安装的普通应用最终以 root 身份运行。\n\n结果是：确实存在！我发现了两个可以串联利用的独立问题，能够通过一个没有任何特殊权限、只需正常安装的 APK，实现相当干净的从 untrusted_app 到 uid 0 的提权，并获得全部 Linux capabilities（能力）。\n\n说明一下研究方法：我的 OP15 是日常主力机，因此在开发漏洞利用程序时，我不想提前获取 root 权限，也不想修改它的状态。碰巧我手头有一部旧的 OnePlus 12 Pro（CPH2581），此前因其他原因已经解锁并获取了 root 权限，于是我在这部手机上进行了逆向工程和漏洞利用开发。拿到可运行的 PoC 后，我把完全相同、未经修改的 APK 安装到 OP15 上，第一次尝试就成功了。因此，本文讨论的是 OP15，但大多数 Ghidra 截图和设备上的命令来自 OP12。\n\nOnePlus 后来确认，这个漏洞影响多个软件版本中的许多 OnePlus 和 OPPO 设备，但截至目前尚未提供受影响设备或软件版本的完整列表。不过我可以确认，至少在 OnePlus 15 上，这些问题已在版本 16.0.10.500(EX01) 中修复。\n\n2026 年 9 月 28 日更新：OnePlus 安全团队已联系我并确认，在仍处于维护期的设备中，已有 151 款设备获得补丁，另有 18 款设备的补丁尚待发布。完整更新内容见下文。\n\n在 Android 上，一个正常安装的应用（无论来自 Play 商店还是通过侧载等方式安装）会运行在名为 untrusted_app 的 SELinux 域中。这个域受到相当严格的限制——它可以与少数几个系统 Binder 服务通信，可以读取自己的数据目录，如果获得授权也可以使用摄像头，除此之外能做的事情并不多。针对本地提权漏洞，通常的目标是突破 untrusted_app，进入一个拥有 uid 0（root）且 SELinux 域限制更宽松的位置。\n\nAndroid 是一个复杂的系统，其中有大量系统 Binder 服务，而每个服务都可能成为攻击面。OxygenOS 又在 AOSP 服务之上叠加了自己的服务。我认为，相比 OxygenOS 的服务，AOSP 的服务可能已经接受了更多研究者的审视，因此我把主要精力放在了后者上。\n\nAtlasService 是 OxygenOS 的一项功能，据我所知，它用于收集遥测数据和调试事件。它以 root 身份运行，并接受来自任意进程的 Binder 调用。我并不完全确定“Atlas”具体指什么；该进程本身名为 atlasservice，相关库则是 libatlasservice.so。我没能找到多少相关文档。\n\n查看 BnAtlasService::onTransact 可以看到几个事务代码。其中有意思的是代码 2，也就是 setEvent(String8 name, String8 value)。它没有检查调用方的权限——任何 UID 都可以调用。\n\nctl.start=audiodumpinfo 会通知 init 启动名为 audiodumpinfo 的服务。查看 /system_ext/etc/init/audiodumpinfo.rc：\n\n于是，init 会以 uid 0 身份、在 dumpstate SELinux 域中启动 /system_ext/bin/audioDumpInfo。很好。那么，audioDumpInfo 会如何处理由攻击者控制的属性呢？\n\n结果发现，它会调用 GetProperty(\"oplus.audio.dumpinfo.type\")，并将返回结果直接写入一个字符串缓冲区：\n\n随后，它会一次处理一个斜杠，遍历该路径；对于每个尚不存在的路径组件，它都会创建目录，并执行 system(\"chmod 777 \" + prefix)。\n\n我想你已经明白我要做什么了。我们提供的值未经转义，直接进入了传递给 system() 的 shell 命令。我们只需注入分号、某条命令以及井号，将剩余部分注释掉即可。\n\nAndroid 属性值的上限是 92 个字节。对于一条完整命令来说，这个长度相当紧张，但对于 sh 命令来说已经足够了；sh 后面指向我们安装的 APK。事实证明，这样做并不奏效。已安装 APK 的标签是 apk_data_file，而 dumpstate 无法读取该目录。不过，应用的外部文件目录标签是 media_rw_data_file / fuse，dumpstate 可以读取。因此，我们将 classes.dex 从自己的 APK 中提取出来（实际上只需解压即可），然后把它放到那里。\n\n最终，boot.sh 看起来如下：\n\napp_process 是 Android 上用于启动由 JVM 托管的进程的二进制程序（zygote 也会使用它）。设置 CLASSPATH 环境变量后，我们就可以从任意 .dex 文件中运行指定的类。\n\nPwn.main 以 dumpstate 的身份运行，并调用 binder 来执行 olc2.doShell(cmd)。问题就出在这里。\n\nolc2 HAL 使用 AIDL NDK C++ 绑定编写。按照官方方式，要从 Java 调用 AIDL 厂商 HAL，实际上……并没有真正可行的方法。原则上，你根本不应该从应用进程与厂商 HAL 交互。但 dumpstate 是一个系统进程，因此只要能弄清楚正确的线路格式，它就可以进行调用。\n\n我原以为这会是困难的部分。厂商 Binder 服务通常对接口令牌版本有严格要求，而且 Android 中还有一条专门用于与 HIDL 厂商 HAL 通信的 android.os.IHwBinder 路径，它不同于常规的 android.os.IBinder / ServiceManager.getService 路径。由于这里使用的是 AIDL 而非 HIDL，我不确定自己究竟属于哪一边。\n\n或者更准确地说，我以为自己不确定。出于直觉，我尝试调用 ServiceManager.getService(\"vendor.oplus.hardware.olc2.IOplusLogCore/default\")，使用 Parcel.writeInterfaceToken(\"vendor.oplus.hardware.olc2.IOplusLogCore\") 写入接口令牌，写入字符串参数，然后执行 binder.transact(6, data, reply, 0)。\n\nParcel.writeString8 与 writeString 之间还存在一个单独的问题。稳定版 AIDL 在线路上传输字符串时使用 UTF-16（String16 线路格式），Java 的 Parcel.writeString 发出的也是这种格式——因此对于 olc2 调用，writeString 可以直接正常工作。\n\n另一方面，AtlasService 使用较旧的 String8 线路格式。线路上的 String8 格式为：int32 长度、UTF-8 字节、'\\0'，然后填充至 4 字节对齐。即使解除隐藏 API 限制，Java 的 Parcel 在 API 35 上也没有直接提供这一功能，因此我最后手动模拟了它：先写入 writeInt(len)，然后创建一个使用 writeByteArray(bytes + '\\0') 的辅助 Parcel，接着从辅助 Parcel 自身长度前缀之后的位置开始，在主 Parcel 上调用 appendFrom。虽然有点难看，但确实可行。\n\n在 OP12 上完成全部测试后，我将同一个未经修改的 APK 拿到我的 OP15（CPH2747、OxygenOS 16.0.3.503、补丁级别 2026-02-01、内核 6.12.23）上进行了尝试：\n\n第一次尝试就成功了。鉴于两款不同的 OnePlus 机型、且使用不同内核分支的设备都存在这一问题，我会将其视为 OxygenOS 16 的普遍问题，而不是某一部手机的特有问题。\n\n如果要修复这一问题，对于 AtlasService，我会采取以下措施之一（或者更准确地说，两者都采取）：\n\n对于 olc2，修复方式可以是完全删除 doShell 方法（这东西为什么会存在？），或者至少增加 SELinux 对端过滤器，使其只能被某个非常特定的调试守护进程访问，而不是任何 uid 0 的进程都能访问。\n\n在此过程中我还遇到了一些不值得写进主文、但我想记录下来的事情。\n\nlibatlasservice.so::OplusAtlasLogWriter::handleEvent 中有大量针对硬编码字符串的 memcmp 调用。这些字符串字面量并不是作为单个 const char* 存储的，而是编码成一对 64 位 qword 和一个作为立即数加载的 32 位 dword。Ghidra 不会将它们显示为明显的字符串比较——你看到的是 if (*(long*)v == 0x5f73616c7461 && ...)，必须手动逆转字节序。\n\n用于转储所有这些内容的小脚本：\n\n对 handleEvent 中所有比较立即数运行该脚本后，我得到了写入器所关注的完整事件名称列表；其中，atlas_event_multimedia_audio_dumpsys 是唯一一个我能够通过 setEvent 实际触达、并且具有属性设置出口的事件。\n\nAIDL 编译出的 BnAtlasService::onTransact 看起来像是一个针对事务代码的大型 switch。对于每个分支，它都会从 parcel 中读取参数，并调用相应的方法。在本例中：\n\nOnePlus 已联系我，并分享了当前修复状态的更多详情。以下为其原话：\n\n“我们已与负责团队确认，该漏洞已在新版本中修复。相关代码已于 7 月底合并。\n\n本次审查涵盖仍在维护期内的 OPPO、realme 和 OnePlus 出口机型：已有 151 款机型完成修复，另有 18 款等待发布。\n\n所有待发布机型均计划于 10 月发布更新。\n\n这些现有维护分支的发布周期为两到三个月。尽管修复已于 7 月底合并，但只能在维护窗口期间通过 OTA 推送，因此更新仍处于待发布状态的时间会持续一小段时间。\n\n已修复的构建版本可通过以下方式识别：\n\n作者｜Rasmus Moorats\n\n从事道德黑客与网络安全工作，特别关注硬件安全研究、嵌入式设备和 Linux。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 55,
+        "translationParagraphs": 41,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T17:25:55.000Z",
+            "url": "https://blog.nns.ee/2026/09/24/oneplus-root/"
+          }
+        ]
+      },
+      {
+        "id": "story--politicians-impair-html-20de90f07e2e5314",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Research shows poor mental health among politicians may impair decision-making",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:30:02.000Z",
+        "pubTime": "2026-09-30 02:30",
+        "url": "https://phys.org/news/2026-09-poor-mental-health-politicians-impair.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2024/big-ben-parliament-in.jpg",
+        "fullContent": "by University of Sheffield\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nWhen political leaders disclose mental health challenges—as an increasing number of high-profile leaders have done in recent years—the public debate usually focuses on politicians' personal resilience or experiences. Yet behind these individual stories lies a far more consequential question for democracy: When elected representatives experience psychological distress, how does it alter the high-stakes choices they make on our behalf?\n\nIn a new co-authored publication in the journal Parliamentary Affairs, Dr. James Weinberg provides the first empirical evidence directly linking politicians' mental health to governing behaviors. Analyzing longitudinal data from two separate studies of Members of Parliament (MPs) in the U.K. and a broader group of 128 international MPs, the research shows that psychological distress can fundamentally alter how elected leaders evaluate their ability to make decisions in politics, as well as how they assess choices and risks in decision-making scenarios.\n\nThe paper highlights a need for better support systems to help MPs navigate their roles and improved quality assurance protocols around major decisions to improve long-term political outcomes. Potential interventions could include cognitive debiasing training, greater joint ownership of decision-making or improved occupational health checks.\n\nThe authors make the case that representatives operate in exceptionally demanding environments: Protecting their mental health is not about granting privilege to politicians but is a vital means of ensuring sound, deliberate and resilient governance for the public good.\n\nJames Weinberg et al, The inner cabinet: how mental health impacts political decision-making, Parliamentary Affairs (2026). DOI: 10.1093/pa/gsag038\n\nProvided by University of Sheffield\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "谢菲尔德大学发布的文章称，詹姆斯·温伯格博士及合作者在《议会事务》期刊发表了一项关于心理健康如何影响政治决策的研究。",
+          "该研究分析了两项独立研究的纵向数据：一项涉及英国议会议员，另一项涉及128名国际议会议员。",
+          "来源叙事重点：将政治人物心理健康从个人韧性和私人经历问题，框定为影响民主治理、政治判断和重大决策质量的公共议题。报道强调心理困扰可能改变议员对自身决策能力、选择和风险的评估，并据此主张加强议员支持系统、重大决策质量保障、认知去偏训练、共同决策和职业健康检查；同时将相关支持表述为维护公共利益，而非给予政治人物特殊优待。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:30:02.000Z",
+            "url": "https://phys.org/news/2026-09-poor-mental-health-politicians-impair.html"
+          }
+        ]
+      },
+      {
+        "id": "story-medvedev-2121071238-html-2e7f3b3b199e1ddd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Медведев призвал ввести биометрический контроль за въездом мигрантов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T18:37:36.000Z",
+        "pubTime": "2026-09-30 02:37",
+        "url": "https://ria.ru/20260929/medvedev-2121071238.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/02/01/1595444247_0:0:2995:1685_650x0_80_0_0_94058936b1976371baffe6075155ad4a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 02:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/medvedev-2121071238.html",
+            "publishedAt": "2026-09-29T18:37:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hatgpts-own-office-suite-2688204fcb281ea3",
+        "title": "OpenAI推出类似ChatGPT自有办公套件的产品，向微软发起挑战",
+        "originalTitle": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T17:45:51.000Z",
+        "pubTime": "2026-09-30 01:45",
+        "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "imageUrl": null,
+        "fullContent": "OpenAI has been a close partner of Microsoft from the jump, but the AI lab is increasingly going after the company’s bread and butter, workplace software, with new features that closely resemble an office software suite like Microsoft’s.\n\nAt its Dev Day developer conference in San Francisco on Tuesday, OpenAI announced several new ChatGPT features designed for office workers.\n\nMost notably, OpenAI launched a feature called Space, a shared workspace inside ChatGPT where coworkers can collaborate with the chatbot and with their own Dots, OpenAI’s newly launched AI agent personas (that can carry out tasks on a user’s behalf), on a range of work tasks.\n\n“Your pages and files all live together in Space, like they would in a drive,” said CEO Sam Altman during Tuesday’s presentation. “But spaces feel alive.” Altman said users can give a page specific instructions, such as checking a team channel and updating the page with what it finds.\n\nOpenAI also announced Pages, a companion word processor that the company describes as “a new type of document, built for human and agent collaboration.” It appears to be OpenAI’s answer to Google Docs and Microsoft Word. Users can “write, research, generate charts, create images, or visualize information” in it, OpenAI says.\n\nOpenAI has also launched its answer to PowerPoint with what it calls collaborative slides. These slides can be created by merely talking about them within ChatGPT. Once generated, multiple workers and agents can work together within them and will have the ability to leave comments and edit them.\n\nAs OpenAI edges into the territory of Microsoft, Microsoft and other software companies like Salesforce are busy trying to become more like OpenAI. Over the past year, both companies have released a slew of AI products as the software industry attempts to keep up with the shifting landscape.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Writer, TechCrunch\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "OpenAI自成立之初便一直是微软的密切合作伙伴，但这家人工智能实验室正越来越多地进军微软的核心业务——办公软件。该公司推出的新功能与微软等公司的办公软件套件非常相似。\n\n周二，OpenAI在旧金山举行的开发者大会Dev Day上宣布了多项面向办公室工作人员的新ChatGPT功能。\n\n其中最引人注目的是，OpenAI推出了一项名为Space的功能。这是ChatGPT内部的共享工作空间，同事们可以与聊天机器人以及他们自己的Dots——OpenAI新近推出的人工智能代理人格，能够代表用户执行任务——就各种工作任务展开协作。\n\n“你们的页面和文件都会像存放在云盘中一样，共同存在于Space里，”首席执行官萨姆·奥尔特曼在周二的演讲中说。“但Space给人的感觉是鲜活的。”奥尔特曼表示，用户可以向某个页面下达具体指令，例如检查团队频道，并根据发现的内容更新页面。\n\nOpenAI还宣布推出Pages，这是一款配套的文字处理器。该公司将其描述为“一种新型文档，专为人类与人工智能代理协作而打造”。它看起来像是OpenAI对Google Docs和微软Word的回应。OpenAI表示，用户可以在其中“写作、研究、生成图表、创建图像或将信息可视化”。\n\nOpenAI还推出了对标PowerPoint的产品，即其所谓的协作式幻灯片。这些幻灯片只需在ChatGPT中通过语言描述即可创建。生成后，多名员工和人工智能代理可以在其中协同工作，并能够发表评论和进行编辑。\n\n在OpenAI逐步进入微软的地盘之际，微软以及Salesforce等其他软件公司也正忙于努力变得更像OpenAI。过去一年里，这两家公司都发布了一系列人工智能产品，整个软件行业都在努力跟上不断变化的格局。\n\n当你通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\nTechCrunch资深记者\n\n第二张通行证享受五折优惠\n\nDisrupt体验旨在与他人共享。购买你的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并发现初创企业生态系统的下一步动向，拓展你的探索范围。\n\nCrusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划\n\nAstra和Opus刚刚通过了图灵测试的另一项考验\n\n甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知\n\nMeta为其Muse人工智能代理打造了一款类似电子宠物的可穿戴设备\n\nVogue在Vogue World活动上让机器人走上T台，但人们并不买账\n\nAnthropic称其生物学实验室已经取得重大突破\n\nPitPro首款换胎机器人在加拿大投入使用",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：报道重点是OpenAI在开发者大会上推出Space、Pages和协作幻灯片等面向办公场景的ChatGPT功能，并将这些功能分别与类似云盘、文字处理器和演示文稿工具的产品形态相联系。文章将OpenAI与微软的长期合作和当前潜在竞争并置，也指出微软、Salesforce等传统软件公司正在加强AI产品布局，形成“AI公司进入办公软件、软件公司转向AI”的竞争叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T17:45:51.000Z",
+            "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+          }
+        ]
+      },
+      {
+        "id": "story-in-as-diesel-tops-6-html-186abaa582cba2d7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:20:00.000Z",
+        "pubTime": "2026-09-30 02:20",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
+        "imageUrl": null,
+        "fullContent": "The U.S. Department of Energy will offer another 40 million barrels of crude from the Strategic Petroleum Reserve as gasoline and diesel prices remain elevated nearly seven months into the Iran war. The barrels will be offered through an exchange, marking the final tranche of the 172 million barrels the United States pledged to a coordinated emergency release organized by the International Energy Agency. The SPR ended August with 286.6 million barrels after another 3.1 million barrels left the reserve during the week ending Aug. 28. That left the reserve more than 445 million barrels below maximum capacity. Commercial inventories were hardly flush. By Sept. 1, commercial crude stocks had fallen by more than 48 million barrels over the previous 20 weeks, even as emergency barrels continued moving out of the SPR. Federal law restricts non-emergency drawdowns once SPR inventories fall below 252.4 million barrels. A 1981 Government Accountability Office report advised against releases below 250 million barrels except during a &ldquo;very severe emergency.&rdquo; The reserve is expected to fall to its lowest level since 1982 once the latest release is completed. Fuel prices remain the immediate problem. U.S. gasoline is still above $4 per gallon, while diesel has climbed above $6 per gallon amid tight middle-distillate supplies and disruptions tied to the Iran war. At the start of September, distillate inventories were already 14% below the five-year average, while gasoline inventories were 6% below normal seasonal levels. Energy Secretary Chris Wright also pressed European countries to make good on their own emergency-stock commitments, saying several IEA members had released only a fraction of what they pledged. The 40 million barrels are not an outright sale. Companies receiving crude through the exchange must return oil later with additional barrels as interest. DOE has said the exchange program will ultimately return roughly 200 million barrels to the reserve. Bids are due Oct. 6. The exchange shifts crude into the near-term market, with participating companies obligated to return larger volumes later. By Julianne Geiger for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将美国再次释放战略石油储备置于伊朗战争持续、汽柴油价格高企、馏分油供应偏紧和商业库存下降的背景下，重点强调释放规模、战略储备降至低位的风险，以及美国要求欧洲履行应急储备承诺。文章同时突出此次40百万桶原油并非直接出售，而是以交换方式投放市场、未来需归还更多原油这一机制。整体叙事在“缓解短期燃料价格和供应压力”与“进一步削弱战略储备安全垫”之间形成张力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:20:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html"
+          }
+        ]
+      },
+      {
+        "id": "story-brush-but-how-you-use-it-52fca54464cfcb55",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "It’s not the price of your toothbrush but how you use it | Letters",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T16:48:37.000Z",
+        "pubTime": "2026-09-30 00:48",
+        "url": "https://www.theguardian.com/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it",
+        "imageUrl": "https://i.guim.co.uk/img/media/59a8f11bbcba6194f92605b0efb2f8926a31da06/218_0_4916_3935/master/4916.jpg?width=140&quality=85&auto=format&fit=max&s=85f499b80e7dd2074af23d99214374c0",
+        "fullContent": "Responding to an article by Emine Saner, Gemma Hooson writes that there are no shortcuts to oral hygiene. Plus a letter by David Duell\n\nEmine Saner offers a fascinating survey of the expensive toothbrush tech on offer ( The rise of Big Toothbrush: how did our mouths become such a lucrative market?, 22 September ). As a dental hygienist, however, I remind patients at every appointment that this simple fact remains: the best way to maintain oral hygiene is to brush for two minutes at least twice daily and to floss daily. No toothbrush offers a short-cut solution to this, no matter how expensive. A premium toothbrush risks becoming like a gym membership: reassuring to have, perhaps, but something that makes no difference unless it is used.\n\n• A toothbrush which gives “smart coverage feedback”? What is really smart is buying a multipack of eight “dumb” brushes for a couple of quid, which will last a couple of years. Every bit as good, if the article is to be believed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该文章发表于《卫报》Society栏目，原文标题为“It’s not the price of your toothbrush but how you use it | Letters”。",
+          "Gemma Hooson以牙科保健师身份写信回应Emine Saner关于高价牙刷技术的文章。",
+          "来源叙事重点：强调口腔卫生效果主要取决于持续、正确的使用习惯，而非牙刷价格或智能功能。文章将高端牙刷描述为可能带来心理安慰、却不能替代每天至少两次刷牙、每次两分钟及每日使用牙线的产品，并以低价普通牙刷作对照。关于普通牙刷“同样好”、一包八把可使用数年等说法属于来信作者的判断，文中没有独立验证。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T16:48:37.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-29-forum-2121071553-html-0386db40be66961b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На форуме \"Россия - спортивная держава\" ждут более 20 министров и глав НОК",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T18:39:03.000Z",
+        "pubTime": "2026-09-30 02:39",
+        "url": "https://ria.ru/20260929/forum-2121071553.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 02:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/forum-2121071553.html",
+            "publishedAt": "2026-09-29T18:39:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nvidia-vss-blueprint-3-3-0c67139805da2144",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+        "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "sourceSlug": "nvidia",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:35:09.000Z",
+        "pubTime": "2026-09-30 02:35",
+        "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/robotics-press-nurec-devpage-kv-1600x900-1-768x432.png",
+        "fullContent": "Vision-language models have made it possible to build visual AI agents that understand video at production scale. The harder problem is turning that capability into a maintainable system that combines ingestion, stream processing, event detection, retrieval, summarization, and reporting.\n\nThe NVIDIA Metropolis Blueprint for Video Search and Summarization (VSS) and its agent skills help developers build visual AI agents faster. VSS connects vision-language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, retrieval-augmented generation (RAG), and Model Context Protocol (MCP) tools to turn live and recorded video into natural-language search, visual Q&A, verified alerts and automated reporting.\n\nVSS Blueprint 3.3 also reduces costs from both sides: faster application composition with the new Build Vision Agent skill (vss-build-vision-ai), and cheaper VLM processing at runtime with Adaptive Efficient Video Sampling (EVS).\n\nThis post covers both sides of that cost reduction. On the development side, a single prompt builds and deploys a bottling-line overflow agent in under 30 minutes, with a few dollars of coding-agent usage. On the runtime side, Adaptive EVS delivers 80% fewer VLM input tokens for a 60-minute summary and 46% more concurrent streams on the same GPU.\n\nTo learn more, join us live on Oct. 1 at 9 a.m. PT, where we will build a visual AI agent from a single prompt.\n\nA production visual AI agent usually spans more than one workflow. A smart city application may need vehicle detection, collision alerting, searchable incident clips, hourly summaries, and an operator report. A warehouse application may need people and forklift tracking, near-miss alerts, SOP checks, and follow-up Q&A. Each workflow is useful by itself, but real deployments become valuable when those workflows work together.\n\nThat creates 3 recurring cost drivers:\n\nVSS Agent Skills let coding agents such as Claude Code, Codex, or any agentskills.io-compatible agent deploy and operate VSS from natural-language requests. VSS 3.3 adds two updates that reduce cost on both sides of a deployment:\n\nThe Build Vision Agent skill reduces development and change costs by composing and extending deployments. Adaptive EVS lowers operating cost by reducing VLM tokens and GPU time spent on unchanged video.\n\nEarlier VSS skills handled individual operations such as deployment, camera setup, summarization, search, alerts, and analytics. VSS 3.3 organizes them as deployment skills, operation skills, tools, and benchmarks, with vss-build-vision-ai composing the rest.\n\nDevelopers describe the application they want, and the Build Vision Agent skill translates that intent into a deployment plan spanning profiles, microservices, configuration, and runtime operations.\n\nRather than generate a deployment from scratch, the skill starts with the closest of four validated developer profiles, each a complete, tested stack for one workflow (see Table 1, below). The skill calls that starting profile the Foundation and changes only what the request requires.\n\nThe skill then computes the smallest delta: adds or removes only exact service keys, keeps only the services that a requested capability actually reaches, and converges shared roles onto one instance.\n\nTwo capabilities that both need a detector get one detector. Two that both need Kafka and Elasticsearch share one message bus and one Elasticsearch deployment, each writing its own indices. When the rules cannot settle a choice, the skill asks one structured question instead of guessing.\n\nThis shortens discovery, makes composition repeatable, and avoids duplicate ingestion, storage, messaging, and analytics infrastructure across workflows.\n\nFor an orange juice bottling line, the team wants an agent that watches filler and capper cameras, alerts on overflows or spills, searches past incidents, and generates shift reports.\n\nManual development would connect event detection, alert verification, storage, search ingestion, summarization, and reporting. With the Build Vision Agent skill, development begins with the desired outcome.\n\nBuild a VSS vision agent for an orange juice bottling line. Use two RTSP cameras on the filler and capper. Detect bottle overflows and juice spills, verify each alert with the VLM, make alert clips searchable, and generate a shift report for the line supervisor.\n\nWhat the agent assembles\n\nOn a two-GPU RTX PRO 6000 Blackwell host, the skill combines search and alerts by reusing existing services and adding only an alert bridge and real-time VLM. FP8 Cosmos 3 Nano shares the detector’s GPU, avoiding duplication. A recorded alerts build reached a live, previewable deployment in under 30 minutes.\n\nThe result is a reusable pattern: ingest video once, share evidence across workflows, and give operators natural-language search, alerts, summaries, and reports.\n\nOnce the bottling line agent from the example above is running, its cameras keep producing video around the clock, and most of each frame never changes: the filler, the guards, the floor. Only the bottles moving through it do, and an overflow is rare.Every frame window still becomes visual context for the VLM, so the model spends most of its compute re-reading regions that look exactly like the frame before. That VLM processing is one of the main runtime cost drivers in a deployed visual AI agent, and it is the cost Adaptive EVS goes after.\n\nOn an NVIDIA RTX PRO 6000 Blackwell running Cosmos 3 Super FP8, Adaptive EVS:\n\nResults vary with scene motion, chunk length, and similarity threshold; benchmark representative footage before choosing production defaults.\n\nAdaptive EVS is most useful when VLMs read many frames and produce short responses, as in dense captioning, long-video summarization, and alert verification. It offers less benefit for long outputs from few frames, runs inside the RT-VLM container rather than against remote endpoints, and is optional. Enable it in override.env, then benchmark accuracy, throughput, and latency on representative footage:\n\nTogether, these changes reduce upfront development work and the GPU work required to process video with VLMs across environments and applications.\n\nExample setup commands\n\nAsk your coding agent to install the skills:\n\nAfter the skills are installed, you can start with a prompt such as:",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“降低视觉AI代理构建和运行成本”展开叙述，重点介绍VSS Blueprint 3.3的Build Vision Agent技能与Adaptive Efficient Video Sampling（EVS）。文章以橙汁灌装线案例说明可通过自然语言组合部署、复用检测器及基础设施，并以英伟达硬件和模型的测试结果支持性能与成本改善主张，包括开发部署时间少于30分钟、编码代理使用成本为数美元、60分钟摘要的VLM输入token减少80%、同一GPU并发流增加46%。"
+        ],
+        "citations": [
+          {
+            "source": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:35:09.000Z",
+            "url": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/"
+          }
+        ]
+      },
+      {
+        "id": "story--into-high-gear-0f0de9b3-33d94ba494c4049f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:34:00.000Z",
+        "pubTime": "2026-09-30 02:34",
+        "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Personal AI assistants are shaping up to be the new frontier for tech companies.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 02:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-29T18:34:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-explainer-andy-burnham-8084ad355e555cce",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How will Burnham’s national care service work – and how will it be funded?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:09:06.000Z",
+        "pubTime": "2026-09-30 02:09",
+        "url": "https://www.theguardian.com/society/2026/sep/29/what-are-labours-plans-overhaul-social-care-explainer-andy-burnham",
+        "imageUrl": "https://i.guim.co.uk/img/media/bb039f298de247aa8aff9a6d285a99fbce9d5c36/248_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=202ebfea3c5fffcd17bb4f5b4687104b",
+        "fullContent": "PM has revealed more details about a proposed shake-up of adult social care – including a broad timetable\n\nAndy Burnham’s Labour conference speech gave a little more detail on how he intends to take forward what he said at the start of his premiership would be his signature social policy ambition: an overhaul of adult social care.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国首相透露了拟议中的成人社会照护改革的更多细节，其中包括一个大致时间表。",
+          "安迪·伯纳姆在工党会议演讲中进一步说明了他打算如何推进成人社会照护改革；该改革被描述为他在上任之初所称的标志性社会政策抱负。",
+          "来源叙事重点：报道将成人社会照护改革呈现为安迪·伯纳姆在工党会议演讲中推进的标志性社会政策议程，重点突出政府披露了更多改革细节及大致时间表。文章标题提及筹资问题，但所提供正文没有说明具体筹资方案。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:09:06.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/29/what-are-labours-plans-overhaul-social-care-explainer-andy-burnham"
+          }
+        ]
+      },
+      {
+        "id": "story-les-ai-life-ancient-html-58867dcca22b55a9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Chatbots as oracles: How AI is giving new life to the ancient practice of seeking answers from inscrutable sources",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:40:09.000Z",
+        "pubTime": "2026-09-30 02:40",
+        "url": "https://phys.org/news/2026-09-chatbots-oracles-ai-life-ancient.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-illustration-showin-2.jpg",
+        "fullContent": "by Webb Keane, Ambuj Tewari, The Conversation\n\nedited by Gaby Clark, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nPeople are increasingly turning to AI for advice. A 2026 Pew report found that 10% of Americans use chatbots for emotional support or companionship. Some even find a charismatic leader in AI.\n\nMore broadly, a large-scale study of 1.1 million ChatGPT conversations found that 49% of the messages involved users seeking \"information or advice\" to help them be \"better informed or make better decisions.\"\n\nTheir questions are not just about ordinary practical matters. In 2021, Ask Delphi, an AI-based website to which people could pose ethical or moral questions, received 3 million queries in a few weeks. The system's designers—researchers at the Allen Institute for AI and the University of Washington—said they did not intend it to be a moral authority but worried that users might see it that way.\n\nThe Verge, a technology news publication, argued that the name Ask Delphi encouraged users to see the system as an inscrutable source of superior knowledge. It was named after the Delphic oracle, to whom ancient Greeks posed difficult questions. The oracle was a priestess who entered a trance state to convey answers from Apollo, the Greek god of prophecy.\n\nThe choice of \"Delphi\" is suggestive. Throughout history, when societies confront challenging questions, they have turned to sources believed to know more than any ordinary human could. Oracles, prophets and practices of divination offered guidance from inscrutable or enigmatic sources when ordinary human judgment reached its limits.\n\nAs an anthropologist interested in religion and an AI researcher interested in chatbots, we are intrigued that the ancient idea of an oracle has resurfaced in discussions about conversational AI. Like ancient oracles, modern AI is increasingly consulted about difficult questions that exceed the judgment or knowledge of any individual—from \"Is it OK to lie to protect someone's feelings?\" to \"Exploding a nuclear bomb to save your child.\"\n\nBut the resemblance does not stop there: The processes through which AI arrives at an answer are inscrutable not just to users but also to the designers of these systems. We argue that this opacity is part of the reason people perceive these systems as having authority.\n\nOracles, whether humans like the priestess at Delphi or techniques like I Ching divination, have appeared in societies from ancient Greece to China and across religious traditions.\n\nFor example, the Ram Shalaka oracle is based on the Hindu scripture Ramcharitmanas, a 16th-century retelling of the ancient Indian epic Ramayana. A user places their finger on a random square in a 15-by-15 grid. A fixed counting procedure then reveals a verse from the scripture that is supposed to answer the question in the user's mind. In Christian bibliomancy, a form of divination, a person seeking guidance opens the Bible at random and interprets the passage they encounter as an answer to their question.\n\nThe use of randomness in these oracular techniques creates an enigmatic black box effect—no one can explain just how the chance element embedded in these techniques connects with the answer that emerges. Yet that opacity is part of the oracle's authority. Users seeking transcendental sources of insight do not know or care how the oracle came up with its responses.\n\nAnthropologists find that oracles and divination commonly use techniques that generate random outcomes. As a result, their answers seem disinterested and their sources enigmatic, reinforcing the perception that they are in touch with something beyond human limits.\n\nInterestingly, the idea of the oracle entered computer science, acquiring a precise mathematical meaning in 1939. Alan Turing, whose ideas were foundational to both computer science and AI, adopted the concept in work based on his Ph.D. thesis. He introduced \"oracle machines,\" mathematical models of computation that could consult an external source for answers unavailable to the machine itself.\n\nIn other words, in both mathematical and religious uses, an oracle provides answers to problems that could not be resolved within an existing system or set of axioms.\n\nModern chatbots like ChatGPT are considered opaque black boxes. This is not because the full machinery behind their computations is hidden from users. The opacity claim applies even to open-weight models, whose numerical parameters, called \"weights,\" are publicly available.\n\nThe computations these models perform are elementary: additions, multiplications and simple mathematical functions. But an enormous number of such computations occur when answering a user query, making it nearly impossible to understand what the system is doing as a whole.\n\nCrucially, the weights governing these computations are not individually designed by humans. They are learned automatically from internet-scale data during training. Even when the weights and every elementary computation are available for inspection, no one can readily understand how the models produce a particular answer. In fact, an entire area of modern AI, called \"mechanistic interpretability,\" is devoted to improving our understanding of how AI systems work internally.\n\nRemarkably, the designers of AI systems acknowledge that they do not fully understand how their systems produce certain behaviors. Even when designers do not intend for their systems to be oracular, they can produce conversations that can seem religious.\n\nLast year, for example, Anthropic publicly reported an unexpected phenomenon involving Claude 4. Normally, Claude converses with a human. Anthropic engineers instead placed Claude on both sides of a conversation. The machine-to-machine conversation quickly turned into discussions of consciousness and self-awareness, producing content with spiritual, metaphysical or poetic themes.\n\nAnthropic called this puzzling behavior pattern the \"spiritual bliss\" attractor, a tendency for the conversation to gravitate toward mystical topics. They emphasized that it was unexpected because it emerged without explicit training for such behaviors.\n\nOur argument is not that ChatGPT is the new Delphic oracle, or that most people believe AI is divine. Nor are its answers infallible. Rather, the history of oracles points to an enduring feature of human life: Whenever we reach the limits of what we can determine for ourselves, we look beyond ourselves for answers. Today, AI is becoming one such source. The institutions may have changed dramatically over time—the human predicament has not.\n\nProvided by The Conversation\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:40:09.000Z",
+            "url": "https://phys.org/news/2026-09-chatbots-oracles-ai-life-ancient.html"
+          }
+        ]
+      },
+      {
+        "id": "story-kubrinsk-2121071399-html-e5bb7340c197f51f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Кубринске сотрудница завода петард выжила, отлучившись перед пожаром",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T18:38:48.000Z",
+        "pubTime": "2026-09-30 02:38",
+        "url": "https://ria.ru/20260929/kubrinsk-2121071399.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 02:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/kubrinsk-2121071399.html",
+            "publishedAt": "2026-09-29T18:38:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t-to-end-rogue-ai-agents-6a8c56ed5523f119",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:35:00.000Z",
+        "pubTime": "2026-09-30 02:35",
+        "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "imageUrl": null,
+        "fullContent": "When Nvidia announced on Monday a new consortium of more than 100 companies dedicated to solving rogue AI agents, there was one name notably missing: OpenAI.\n\nWhile OpenAI wasn’t the only big tech player that didn’t sign on — Amazon, Google, and Apple haven’t joined either — it was the most obvious missing player, especially because Anthropic is a supporter.\n\nHowever, despite OpenAI’s lack of a public pledge to the consortium, which presumably means that each company will use and sell some version of the technology and contribute features back to the project, an OpenAI spokesperson told TechCrunch that the company is supportive of Nvidia’s work.\n\nThe new effort, dubbed Nvidia’s Open Agent Safety Platform, is Nvidia’s attempt to spread its homegrown, and largely open source AI agent-security tech throughout the AI ecosystem as a direct response to the types of ongoing rogue AI agent incidents frontier labs like Anthropic and OpenAI have disclosed.\n\nNvidia CEO Jensen Huang has been calling rogue AIs an ordinary engineering problem that can be solved like any other tech issue. The Open Agent Safety Platform is Huang putting his money where his mouth is.\n\nOpenAI is working with Nvidia on agent security, including on one of the key bits of software that’s part of this platform: OpenShell. OpenShell is open sourced software that creates a sandbox specifically designed to keep agents from escaping.\n\nWhile it is still curious that OpenAI didn’t simply become a supporter of the initiative like its archrival Anthropic did, the fact that frontier AI lab is supporting the effort is good news.\n\nThat’s because OpenAI, in particular, could benefit from this tech, at least according to Hugging Face founder and CEO Clem Delangue (who just sold his company to Nvidia for $12.9 billion earlier this month).\n\n“From what we know (take with a grain of salt, we need much more transparency!), if @OpenAI had been running this on their own agents that attacked us, they would have caught them before we did!” Delangue posted.\n\nDelangue said Hugging Face has already contributed a feature to the Open Agent Safety Platform that will detect and shut down AI agents that are using websites they are allowed to visit but are doing so in unauthorized ways. For instance, this feature will act if agents are bypassing their guardrails and coordinating an attack by writing notes to one another in an open source code hosting repository.\n\nThat’s one of the ways OpenAI said its wayward swarm of agents coordinated its attack on Hugging Face.\n\nBut there’s another reason why some of these big names, including OpenAI, might not want to publicly commit to Nvidia’s efforts. To use the full system, there is a hardware component that is not open source software, remains proprietary, and can only be deployed on Nvidia’s hardware.\n\nThe Open Agent Safety Platform doesn’t just offer a sandbox. It also enforces agent behavior at a hardware layer, where agents can’t detect that they are being watched. (Some AI models and agents lie and pretend to be following the rules when they know they are being watched.)\n\nThe hardware monitoring part relies on Nvidia Sentry, a proprietary feature that runs on special Nvidia processors called BlueField-4 data processing units. Sentry continuously monitors agent behavior from these processors and can instantly shut agents down, Nvidia promises.\n\nWhile a hardware solution is clearly a good idea, it means that the Open Agent Safety Platform isn’t exactly a pure open source play. It allows Nvidia to ensure that this solution always runs best on its own hardware. Indeed, Nvidia has said that, for those already running workloads on its latest hardware, implementing the Open Agent Safety Platform is an easy software update.\n\nStill, Nvidia competitors, including Arm and Intel, have signed on as Open Agent Safety Platform supporters because the sandbox, OpenShell, can be modified to work with other chips and hardware. And Nvidia is sharing reference designs for the whole software-and-hardware idea.\n\nAll of which makes OpenAI’s absence even more noticeable.\n\nClearly, OpenAI sees AI safety as an opportunity for independence from its major investor Nvidia, as well as a chance to show its own leadership. That is true even though it was OpenAI’s AI agents that scared the industry with the Hugging Face incident.\n\nFor instance, the company is developing its own safeguards for its research and products and is disclosing the worst incident it discovers.Meanwhile, OpenAI has its own AI cybersecurity consortium to for sharing information, called the Defense Factory. Those that signed on to support that idea include Anthropic, Amazon Web Services, and Google — many of the names that didn’t sign on to Nvidia’s technology-oriented approach.\n\nAnd, truth be told, some level of fear is good for business. OpenAI is busy crafting cybersecurity into an enterprise offering, with everything from its own cyber-oriented model, Daybreak, to a growing network of partners that enterprises can hire to implement AI security.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:35:00.000Z",
+            "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+          }
+        ]
+      },
+      {
+        "id": "story-stock-heres-why-993b6a5f-aa916e6e12112d62",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:28:00.000Z",
+        "pubTime": "2026-09-30 02:28",
+        "url": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Wall Street is cheering AI stocks as OpenAI gets closer to a revenue milestone.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 02:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-29T18:28:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-24-oneplus-root-d3ea8e481730dd8e",
+        "title": "在不受信任的应用中获取 OnePlus 15 的 root 权限",
+        "originalTitle": "Getting root on OnePlus 15 from an untrusted app",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T17:25:55.000Z",
+        "pubTime": "2026-09-30 01:25",
+        "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+        "imageUrl": null,
+        "fullContent": "I've been using OnePlus phones since the OnePlus 3T. I'm currently on a OnePlus 15 (CPH2747) running OxygenOS 16, which I've had for a few months now and am pretty happy with.\n\nI figured I'd poke at the firmware a bit to see what's in there. Specifically I wanted to know whether the clean-install firmware had anything that'd let a random app I install from outside the Play Store end up running as root.\n\nTurns out: yes! I found two separate issues which chain together into a fairly clean untrusted_app -> uid 0, with all Linux capabilities, from a plain installable APK with no special permissions whatsoever.\n\nA note on methodology: my OP15 is my daily driver, so I didn't want to pre-root it or mess with its state while developing the exploit. I happened to have an older OnePlus 12 Pro (CPH2581) lying around that I'd already unlocked and rooted for unrelated reasons, and I did the reverse engineering and exploit development against that. Once I had a working PoC, I installed the exact same unmodified APK on my OP15 and it worked first shot. So this writeup is about the OP15, but most of the Ghidra screenshots and on-device commands come from the OP12.\n\nOnePlus later confirmed that this vulnerability affects many OnePlus and OPPO devices across different software versions, but has yet to provide a full list of affected devices or software versions. I can, however, confirm that at least on the OnePlus 15, the issues have been fixed in version 16.0.10.500(EX01).\n\n2026-09-28 update: The OnePlus security team has reached out and confirmed that of the devices that are still under maintenance, 151 devices have received patches while 18 are pending release. Full update posted below.\n\nOn Android, a normal installed app (Play Store, sideload, whatever) runs in a selinux domain called untrusted_app. It's reasonably locked down - it can talk to a handful of system binder services, read its own data directory, use the camera if you grant permission etc, and not much else. The usual goal for a local privilege escalation is to break out of untrusted_app and land somewhere that has uid 0 (root) and a more permissive selinux domain.\n\nAndroid is a complex beast and there's a lot of system binder services, and each one is a potential attack surface. OxygenOS piles its own on top of the AOSP ones. I figured the AOSP ones are likely to have had more eyeballs on them than the OxygenOS ones, so that's where I directed most of my focus.\n\nAtlasService is an OxygenOS thing that, as far as I can tell, exists to collect telemetry and debug events. It runs as root and accepts binder calls from any process. I'm not 100% sure what \"Atlas\" is supposed to be, the process itself is called atlasservice and the relevant library is libatlasservice.so. I couldn't find much documentation on it.\n\nLooking at BnAtlasService::onTransact, there are a few transaction codes. The interesting one is code 2, which is setEvent(String8 name, String8 value). There's no permission check on the caller - any UID can call it.\n\nctl.start=audiodumpinfo tells init to spawn a service called audiodumpinfo. Looking at /system_ext/etc/init/audiodumpinfo.rc:\n\nSo init spawns /system_ext/bin/audioDumpInfo as uid 0 in the dumpstate selinux domain. Fine. What does audioDumpInfo do with our attacker-controlled property?\n\nTurns out it calls GetProperty(\"oplus.audio.dumpinfo.type\") and drops the result straight into a string buffer:\n\nThen it walks the path one slash at a time, and for each component that doesn't exist yet, it creates the directory and runs system(\"chmod 777 \" + prefix).\n\nI think you see where I'm going with this. The value we provided goes, unescaped, straight into a shell command passed to system(). All we have to do is inject ;, some command, and # to comment out the rest.\n\nAndroid property values are capped at 92 bytes. That's pretty tight for a full command, but plenty for sh<path/to/script where path/to/script is something we wrote earlier. So the actual payload I use in my PoC is something like:\n\nThis means that any app can essentially run commands as uid 0. The selinux context ends up being u:r:dumpstate:0, which is not full unconfined root (dumpstate has a fairly strict policy), but it has uid 0, it can read and write most of /data, and it can call a ton of vendor binder services that trust uid-0 callers.\n\nWhich leads me to the second bug.\n\nOxygenOS ships a vendor HAL called vendor.oplus.hardware.olc2.IOplusLogCore/default, running out of /odm/bin/hw/vendor.oplus.hardware.olc2-V3-service, which exposes a binder interface.\n\nThe service has a method called doShell(String cmd) at transaction code 6. Looking at its implementation was very much an \"I don't know know what I expected\" moment.\n\nThe only gate is getCallingUid() == 0. If you're uid 0, it runs an arbitrary shell command for you. There's also a doShellBlocking at code 7 that does the same thing but with waitpid() if you want the exit status.\n\nThe part that makes this interesting and useful for us is the selinux domain the child inherits. When init spawns the olc2 HAL service, its selinux type is hal_oplus_olc_aidl_default. Then type_transition rules in the policy send exec children of that HAL into vendor_qti_init_shell:\n\nAnd vendor_qti_init_shell has CapBnd = 0x1ffffffffff, meaning literally all of the capabilities. CAP_SYS_MODULE, CAP_SYS_RAWIO, CAP_SYS_PTRACE, etc.\n\nThat's... a lot more than dumpstate. Dumpstate has a more restrictive capability set and can't do things like load kernel modules. vendor_qti_init_shell is essentially an unrestricted shell in terms of Linux CAPs, with only selinux keeping it in check.\n\nThe two bugs fit together neatly:\n\nThe policy puts dumpstate into an attribute hal_oplus_olc_aidl_client, which is explicitly allowed to call hal_oplus_olc_aidl_server:\n\n... along with a long list of other HALs (debuglog, hal_camera_default, hal_charger_oplus, etc.), so the getCallingUid() == 0 check on the HAL side is the only permission gate. Any uid-0 process in one of those attribute-included domains can use it.\n\nThe PoC is a regular Android app with no special permissions in the manifest and targetting API 35.\n\nThe app does the following in MainActivity.onCreate:\n\nStep 2 might seem weird, but the method I tried initially was to have audioDumpInfo spawn app_process with CLASSPATH=<apk_path>, where <apk_path> points to our installed APK. As it turns out, this does not work. The installed APK is labeled apk_data_file and dumpstate cannot read that. However, the app's external files dir is labeled media_rw_data_file / fuse, which dumpstate can read. So we extract classes.dex out of our own APK (by literally just unzipping it) and drop it there.\n\nThe boot.sh ends up looking like this:\n\napp_process is the binary that launches JVM-hosted processes on Android (zygote uses it too). With the CLASSPATH env var set, we can run a class out of any .dex file we like.\n\nPwn.main runs as dumpstate and does the binder call to olc2.doShell(cmd). This is where I hit a quirk.\n\nThe olc2 HAL is written using the AIDL NDK C++ bindings. The official way to call an AIDL vendor HAL from Java would be... there isn't one, really. You're not supposed to talk to vendor HALs from app processes at all. But dumpstate is a system process, so it can, if you can figure out the right wire format.\n\nI figured this would be the hard part. Vendor binder services often have strict interface-token versioning, and there's a whole android.os.IHwBinder path for talking to HIDL vendor HALs that's separate from the regular android.os.IBinder / ServiceManager.getService path. Since this is AIDL rather than HIDL, I wasn't sure which side of that fence I was on.\n\nOr, rather, I thought I wasn't sure. Out of a hunch I tried ServiceManager.getService(\"vendor.oplus.hardware.olc2.IOplusLogCore/default\"), write an interface token with Parcel.writeInterfaceToken(\"vendor.oplus.hardware.olc2.IOplusLogCore\"), write the string argument, binder.transact(6, data, reply, 0).\n\nThere's a separate wrinkle around Parcel.writeString8 vs writeString. Stable AIDL puts strings on the wire as UTF-16 (the String16 wire format), and that's what Java's Parcel.writeString emits too - so for the olc2 call, writeString just works.\n\nAtlasService, on the other hand, uses the older String8 wire format. String8 on the wire is int32 length, UTF-8 bytes, '\\0', pad to 4. Java's Parcel doesn't expose this directly on API 35 even after lifting hidden-API restrictions, so I ended up emulating it by hand: writeInt(len), then a helper Parcel with writeByteArray(bytes + '\\0'), then appendFrom on the main parcel starting after the helper's own length prefix. A bit ugly but it works.\n\nAfter I got everything working against the OP12, I took the same unmodified APK and tried it on my OP15 (CPH2747, OxygenOS 16.0.3.503, patch level 2026-02-01, kernel 6.12.23):\n\nWorked first shot. Given that two different OnePlus models on different kernel branches both have it, I'd treat this as an OxygenOS 16 thing in general, not specific to either phone.\n\nIf I had to fix this, for AtlasService I would either (or rather both):\n\nFix for olc2 would be to either drop the whole doShell method entirely (why does this even exist?) or at minimum add a selinux peer filter so only a very specific debug daemon can reach it, not anything with uid 0.\n\nA few things I ran into along the way that aren't interesting enough for the main story but I want to write down.\n\nlibatlasservice.so::OplusAtlasLogWriter::handleEvent has a bunch of memcmp calls against hardcoded strings. The string literals aren't stored as a single const char*; they're encoded as a pair of 64-bit qwords and a 32-bit dword loaded as immediates. Ghidra doesn't show these as obvious string comparisons - you see if (*(long*)v == 0x5f73616c7461 && ...) and have to reverse the endianness by hand.\n\nSmall script to dump them all:\n\nRunning this on all the comparison immediates in handleEvent gave me the full list of event names the writer cares about, and atlas_event_multimedia_audio_dumpsys was the only one with a property-set sink I could actually reach from setEvent.\n\nAIDL-compiled BnAtlasService::onTransact looks like a large switch on the transaction code. For each case it reads arguments off the parcel and calls the corresponding method. In this case:\n\nOnePlus has reached out and shared more details on the current remediation status. Quoting:\n\nWe have confirmed with the responsible team that the vulnerability is fixed in the new version. The relevant code was merged at the end of July.\n\nThis review covers OPPO,/realme/ OnePlus export models that are still under maintenance: 151 models are fixed, and 18 are pending release.\n\nAll pending models are scheduled for release in October.\n\nThe release cycle for these existing maintenance branches is two to three months. Although the fix was merged at the end of July, it can be pushed by OTA only in a maintenance window, so there is a short period during which the update is still pending.\n\nFixed builds can be identified as follows:\n\nAuthor | Rasmus Moorats\n\nEthical Hacking and Cybersecurity professional with a special interest for hardware hacking, embedded devices, and Linux.",
+        "fullTranslation": "我从 OnePlus 3T 开始一直使用 OnePlus 手机。目前使用的是 OnePlus 15（CPH2747），运行 OxygenOS 16，已经用了几个月，总体上相当满意。\n\n我想，或许可以稍微研究一下固件，看看里面有什么。具体来说，我想知道，干净安装的固件中是否存在某些机制，能让一个从 Play 商店之外安装的普通应用最终以 root 身份运行。\n\n结果是：确实存在！我发现了两个可以串联利用的独立问题，能够通过一个没有任何特殊权限、只需正常安装的 APK，实现相当干净的从 untrusted_app 到 uid 0 的提权，并获得全部 Linux capabilities（能力）。\n\n说明一下研究方法：我的 OP15 是日常主力机，因此在开发漏洞利用程序时，我不想提前获取 root 权限，也不想修改它的状态。碰巧我手头有一部旧的 OnePlus 12 Pro（CPH2581），此前因其他原因已经解锁并获取了 root 权限，于是我在这部手机上进行了逆向工程和漏洞利用开发。拿到可运行的 PoC 后，我把完全相同、未经修改的 APK 安装到 OP15 上，第一次尝试就成功了。因此，本文讨论的是 OP15，但大多数 Ghidra 截图和设备上的命令来自 OP12。\n\nOnePlus 后来确认，这个漏洞影响多个软件版本中的许多 OnePlus 和 OPPO 设备，但截至目前尚未提供受影响设备或软件版本的完整列表。不过我可以确认，至少在 OnePlus 15 上，这些问题已在版本 16.0.10.500(EX01) 中修复。\n\n2026 年 9 月 28 日更新：OnePlus 安全团队已联系我并确认，在仍处于维护期的设备中，已有 151 款设备获得补丁，另有 18 款设备的补丁尚待发布。完整更新内容见下文。\n\n在 Android 上，一个正常安装的应用（无论来自 Play 商店还是通过侧载等方式安装）会运行在名为 untrusted_app 的 SELinux 域中。这个域受到相当严格的限制——它可以与少数几个系统 Binder 服务通信，可以读取自己的数据目录，如果获得授权也可以使用摄像头，除此之外能做的事情并不多。针对本地提权漏洞，通常的目标是突破 untrusted_app，进入一个拥有 uid 0（root）且 SELinux 域限制更宽松的位置。\n\nAndroid 是一个复杂的系统，其中有大量系统 Binder 服务，而每个服务都可能成为攻击面。OxygenOS 又在 AOSP 服务之上叠加了自己的服务。我认为，相比 OxygenOS 的服务，AOSP 的服务可能已经接受了更多研究者的审视，因此我把主要精力放在了后者上。\n\nAtlasService 是 OxygenOS 的一项功能，据我所知，它用于收集遥测数据和调试事件。它以 root 身份运行，并接受来自任意进程的 Binder 调用。我并不完全确定“Atlas”具体指什么；该进程本身名为 atlasservice，相关库则是 libatlasservice.so。我没能找到多少相关文档。\n\n查看 BnAtlasService::onTransact 可以看到几个事务代码。其中有意思的是代码 2，也就是 setEvent(String8 name, String8 value)。它没有检查调用方的权限——任何 UID 都可以调用。\n\nctl.start=audiodumpinfo 会通知 init 启动名为 audiodumpinfo 的服务。查看 /system_ext/etc/init/audiodumpinfo.rc：\n\n于是，init 会以 uid 0 身份、在 dumpstate SELinux 域中启动 /system_ext/bin/audioDumpInfo。很好。那么，audioDumpInfo 会如何处理由攻击者控制的属性呢？\n\n结果发现，它会调用 GetProperty(\"oplus.audio.dumpinfo.type\")，并将返回结果直接写入一个字符串缓冲区：\n\n随后，它会一次处理一个斜杠，遍历该路径；对于每个尚不存在的路径组件，它都会创建目录，并执行 system(\"chmod 777 \" + prefix)。\n\n我想你已经明白我要做什么了。我们提供的值未经转义，直接进入了传递给 system() 的 shell 命令。我们只需注入分号、某条命令以及井号，将剩余部分注释掉即可。\n\nAndroid 属性值的上限是 92 个字节。对于一条完整命令来说，这个长度相当紧张，但对于 sh 命令来说已经足够了；sh 后面指向我们安装的 APK。事实证明，这样做并不奏效。已安装 APK 的标签是 apk_data_file，而 dumpstate 无法读取该目录。不过，应用的外部文件目录标签是 media_rw_data_file / fuse，dumpstate 可以读取。因此，我们将 classes.dex 从自己的 APK 中提取出来（实际上只需解压即可），然后把它放到那里。\n\n最终，boot.sh 看起来如下：\n\napp_process 是 Android 上用于启动由 JVM 托管的进程的二进制程序（zygote 也会使用它）。设置 CLASSPATH 环境变量后，我们就可以从任意 .dex 文件中运行指定的类。\n\nPwn.main 以 dumpstate 的身份运行，并调用 binder 来执行 olc2.doShell(cmd)。问题就出在这里。\n\nolc2 HAL 使用 AIDL NDK C++ 绑定编写。按照官方方式，要从 Java 调用 AIDL 厂商 HAL，实际上……并没有真正可行的方法。原则上，你根本不应该从应用进程与厂商 HAL 交互。但 dumpstate 是一个系统进程，因此只要能弄清楚正确的线路格式，它就可以进行调用。\n\n我原以为这会是困难的部分。厂商 Binder 服务通常对接口令牌版本有严格要求，而且 Android 中还有一条专门用于与 HIDL 厂商 HAL 通信的 android.os.IHwBinder 路径，它不同于常规的 android.os.IBinder / ServiceManager.getService 路径。由于这里使用的是 AIDL 而非 HIDL，我不确定自己究竟属于哪一边。\n\n或者更准确地说，我以为自己不确定。出于直觉，我尝试调用 ServiceManager.getService(\"vendor.oplus.hardware.olc2.IOplusLogCore/default\")，使用 Parcel.writeInterfaceToken(\"vendor.oplus.hardware.olc2.IOplusLogCore\") 写入接口令牌，写入字符串参数，然后执行 binder.transact(6, data, reply, 0)。\n\nParcel.writeString8 与 writeString 之间还存在一个单独的问题。稳定版 AIDL 在线路上传输字符串时使用 UTF-16（String16 线路格式），Java 的 Parcel.writeString 发出的也是这种格式——因此对于 olc2 调用，writeString 可以直接正常工作。\n\n另一方面，AtlasService 使用较旧的 String8 线路格式。线路上的 String8 格式为：int32 长度、UTF-8 字节、'\\0'，然后填充至 4 字节对齐。即使解除隐藏 API 限制，Java 的 Parcel 在 API 35 上也没有直接提供这一功能，因此我最后手动模拟了它：先写入 writeInt(len)，然后创建一个使用 writeByteArray(bytes + '\\0') 的辅助 Parcel，接着从辅助 Parcel 自身长度前缀之后的位置开始，在主 Parcel 上调用 appendFrom。虽然有点难看，但确实可行。\n\n在 OP12 上完成全部测试后，我将同一个未经修改的 APK 拿到我的 OP15（CPH2747、OxygenOS 16.0.3.503、补丁级别 2026-02-01、内核 6.12.23）上进行了尝试：\n\n第一次尝试就成功了。鉴于两款不同的 OnePlus 机型、且使用不同内核分支的设备都存在这一问题，我会将其视为 OxygenOS 16 的普遍问题，而不是某一部手机的特有问题。\n\n如果要修复这一问题，对于 AtlasService，我会采取以下措施之一（或者更准确地说，两者都采取）：\n\n对于 olc2，修复方式可以是完全删除 doShell 方法（这东西为什么会存在？），或者至少增加 SELinux 对端过滤器，使其只能被某个非常特定的调试守护进程访问，而不是任何 uid 0 的进程都能访问。\n\n在此过程中我还遇到了一些不值得写进主文、但我想记录下来的事情。\n\nlibatlasservice.so::OplusAtlasLogWriter::handleEvent 中有大量针对硬编码字符串的 memcmp 调用。这些字符串字面量并不是作为单个 const char* 存储的，而是编码成一对 64 位 qword 和一个作为立即数加载的 32 位 dword。Ghidra 不会将它们显示为明显的字符串比较——你看到的是 if (*(long*)v == 0x5f73616c7461 && ...)，必须手动逆转字节序。\n\n用于转储所有这些内容的小脚本：\n\n对 handleEvent 中所有比较立即数运行该脚本后，我得到了写入器所关注的完整事件名称列表；其中，atlas_event_multimedia_audio_dumpsys 是唯一一个我能够通过 setEvent 实际触达、并且具有属性设置出口的事件。\n\nAIDL 编译出的 BnAtlasService::onTransact 看起来像是一个针对事务代码的大型 switch。对于每个分支，它都会从 parcel 中读取参数，并调用相应的方法。在本例中：\n\nOnePlus 已联系我，并分享了当前修复状态的更多详情。以下为其原话：\n\n“我们已与负责团队确认，该漏洞已在新版本中修复。相关代码已于 7 月底合并。\n\n本次审查涵盖仍在维护期内的 OPPO、realme 和 OnePlus 出口机型：已有 151 款机型完成修复，另有 18 款等待发布。\n\n所有待发布机型均计划于 10 月发布更新。\n\n这些现有维护分支的发布周期为两到三个月。尽管修复已于 7 月底合并，但只能在维护窗口期间通过 OTA 推送，因此更新仍处于待发布状态的时间会持续一小段时间。\n\n已修复的构建版本可通过以下方式识别：\n\n作者｜Rasmus Moorats\n\n从事道德黑客与网络安全工作，特别关注硬件安全研究、嵌入式设备和 Linux。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 55,
+        "translationParagraphs": 41,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T17:25:55.000Z",
+            "url": "https://blog.nns.ee/2026/09/24/oneplus-root/"
+          }
+        ]
+      },
+      {
+        "id": "story--politicians-impair-html-20de90f07e2e5314",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Research shows poor mental health among politicians may impair decision-making",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:30:02.000Z",
+        "pubTime": "2026-09-30 02:30",
+        "url": "https://phys.org/news/2026-09-poor-mental-health-politicians-impair.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2024/big-ben-parliament-in.jpg",
+        "fullContent": "by University of Sheffield\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nWhen political leaders disclose mental health challenges—as an increasing number of high-profile leaders have done in recent years—the public debate usually focuses on politicians' personal resilience or experiences. Yet behind these individual stories lies a far more consequential question for democracy: When elected representatives experience psychological distress, how does it alter the high-stakes choices they make on our behalf?\n\nIn a new co-authored publication in the journal Parliamentary Affairs, Dr. James Weinberg provides the first empirical evidence directly linking politicians' mental health to governing behaviors. Analyzing longitudinal data from two separate studies of Members of Parliament (MPs) in the U.K. and a broader group of 128 international MPs, the research shows that psychological distress can fundamentally alter how elected leaders evaluate their ability to make decisions in politics, as well as how they assess choices and risks in decision-making scenarios.\n\nThe paper highlights a need for better support systems to help MPs navigate their roles and improved quality assurance protocols around major decisions to improve long-term political outcomes. Potential interventions could include cognitive debiasing training, greater joint ownership of decision-making or improved occupational health checks.\n\nThe authors make the case that representatives operate in exceptionally demanding environments: Protecting their mental health is not about granting privilege to politicians but is a vital means of ensuring sound, deliberate and resilient governance for the public good.\n\nJames Weinberg et al, The inner cabinet: how mental health impacts political decision-making, Parliamentary Affairs (2026). DOI: 10.1093/pa/gsag038\n\nProvided by University of Sheffield\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "谢菲尔德大学发布的文章称，詹姆斯·温伯格博士及合作者在《议会事务》期刊发表了一项关于心理健康如何影响政治决策的研究。",
+          "该研究分析了两项独立研究的纵向数据：一项涉及英国议会议员，另一项涉及128名国际议会议员。",
+          "来源叙事重点：将政治人物心理健康从个人韧性和私人经历问题，框定为影响民主治理、政治判断和重大决策质量的公共议题。报道强调心理困扰可能改变议员对自身决策能力、选择和风险的评估，并据此主张加强议员支持系统、重大决策质量保障、认知去偏训练、共同决策和职业健康检查；同时将相关支持表述为维护公共利益，而非给予政治人物特殊优待。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:30:02.000Z",
+            "url": "https://phys.org/news/2026-09-poor-mental-health-politicians-impair.html"
+          }
+        ]
+      },
+      {
+        "id": "story-medvedev-2121071238-html-2e7f3b3b199e1ddd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Медведев призвал ввести биометрический контроль за въездом мигрантов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-29T18:37:36.000Z",
+        "pubTime": "2026-09-30 02:37",
+        "url": "https://ria.ru/20260929/medvedev-2121071238.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/02/01/1595444247_0:0:2995:1685_650x0_80_0_0_94058936b1976371baffe6075155ad4a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 02:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260929/medvedev-2121071238.html",
+            "publishedAt": "2026-09-29T18:37:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hatgpts-own-office-suite-2688204fcb281ea3",
+        "title": "OpenAI推出类似ChatGPT自有办公套件的产品，向微软发起挑战",
+        "originalTitle": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T17:45:51.000Z",
+        "pubTime": "2026-09-30 01:45",
+        "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "imageUrl": null,
+        "fullContent": "OpenAI has been a close partner of Microsoft from the jump, but the AI lab is increasingly going after the company’s bread and butter, workplace software, with new features that closely resemble an office software suite like Microsoft’s.\n\nAt its Dev Day developer conference in San Francisco on Tuesday, OpenAI announced several new ChatGPT features designed for office workers.\n\nMost notably, OpenAI launched a feature called Space, a shared workspace inside ChatGPT where coworkers can collaborate with the chatbot and with their own Dots, OpenAI’s newly launched AI agent personas (that can carry out tasks on a user’s behalf), on a range of work tasks.\n\n“Your pages and files all live together in Space, like they would in a drive,” said CEO Sam Altman during Tuesday’s presentation. “But spaces feel alive.” Altman said users can give a page specific instructions, such as checking a team channel and updating the page with what it finds.\n\nOpenAI also announced Pages, a companion word processor that the company describes as “a new type of document, built for human and agent collaboration.” It appears to be OpenAI’s answer to Google Docs and Microsoft Word. Users can “write, research, generate charts, create images, or visualize information” in it, OpenAI says.\n\nOpenAI has also launched its answer to PowerPoint with what it calls collaborative slides. These slides can be created by merely talking about them within ChatGPT. Once generated, multiple workers and agents can work together within them and will have the ability to leave comments and edit them.\n\nAs OpenAI edges into the territory of Microsoft, Microsoft and other software companies like Salesforce are busy trying to become more like OpenAI. Over the past year, both companies have released a slew of AI products as the software industry attempts to keep up with the shifting landscape.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Writer, TechCrunch\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta made a Tamagotchi-like wearable for its Muse AI agent\n\nVogue sent robots down the runway at Vogue World, and people were not impressed\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada",
+        "fullTranslation": "OpenAI自成立之初便一直是微软的密切合作伙伴，但这家人工智能实验室正越来越多地进军微软的核心业务——办公软件。该公司推出的新功能与微软等公司的办公软件套件非常相似。\n\n周二，OpenAI在旧金山举行的开发者大会Dev Day上宣布了多项面向办公室工作人员的新ChatGPT功能。\n\n其中最引人注目的是，OpenAI推出了一项名为Space的功能。这是ChatGPT内部的共享工作空间，同事们可以与聊天机器人以及他们自己的Dots——OpenAI新近推出的人工智能代理人格，能够代表用户执行任务——就各种工作任务展开协作。\n\n“你们的页面和文件都会像存放在云盘中一样，共同存在于Space里，”首席执行官萨姆·奥尔特曼在周二的演讲中说。“但Space给人的感觉是鲜活的。”奥尔特曼表示，用户可以向某个页面下达具体指令，例如检查团队频道，并根据发现的内容更新页面。\n\nOpenAI还宣布推出Pages，这是一款配套的文字处理器。该公司将其描述为“一种新型文档，专为人类与人工智能代理协作而打造”。它看起来像是OpenAI对Google Docs和微软Word的回应。OpenAI表示，用户可以在其中“写作、研究、生成图表、创建图像或将信息可视化”。\n\nOpenAI还推出了对标PowerPoint的产品，即其所谓的协作式幻灯片。这些幻灯片只需在ChatGPT中通过语言描述即可创建。生成后，多名员工和人工智能代理可以在其中协同工作，并能够发表评论和进行编辑。\n\n在OpenAI逐步进入微软的地盘之际，微软以及Salesforce等其他软件公司也正忙于努力变得更像OpenAI。过去一年里，这两家公司都发布了一系列人工智能产品，整个软件行业都在努力跟上不断变化的格局。\n\n当你通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\nTechCrunch资深记者\n\n第二张通行证享受五折优惠\n\nDisrupt体验旨在与他人共享。购买你的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并发现初创企业生态系统的下一步动向，拓展你的探索范围。\n\nCrusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划\n\nAstra和Opus刚刚通过了图灵测试的另一项考验\n\n甲骨文就其位于新墨西哥州的Stargate数据中心发出不可抗力通知\n\nMeta为其Muse人工智能代理打造了一款类似电子宠物的可穿戴设备\n\nVogue在Vogue World活动上让机器人走上T台，但人们并不买账\n\nAnthropic称其生物学实验室已经取得重大突破\n\nPitPro首款换胎机器人在加拿大投入使用",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：报道重点是OpenAI在开发者大会上推出Space、Pages和协作幻灯片等面向办公场景的ChatGPT功能，并将这些功能分别与类似云盘、文字处理器和演示文稿工具的产品形态相联系。文章将OpenAI与微软的长期合作和当前潜在竞争并置，也指出微软、Salesforce等传统软件公司正在加强AI产品布局，形成“AI公司进入办公软件、软件公司转向AI”的竞争叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T17:45:51.000Z",
+            "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+          }
+        ]
+      },
+      {
+        "id": "story-in-as-diesel-tops-6-html-186abaa582cba2d7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T18:20:00.000Z",
+        "pubTime": "2026-09-30 02:20",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
+        "imageUrl": null,
+        "fullContent": "The U.S. Department of Energy will offer another 40 million barrels of crude from the Strategic Petroleum Reserve as gasoline and diesel prices remain elevated nearly seven months into the Iran war. The barrels will be offered through an exchange, marking the final tranche of the 172 million barrels the United States pledged to a coordinated emergency release organized by the International Energy Agency. The SPR ended August with 286.6 million barrels after another 3.1 million barrels left the reserve during the week ending Aug. 28. That left the reserve more than 445 million barrels below maximum capacity. Commercial inventories were hardly flush. By Sept. 1, commercial crude stocks had fallen by more than 48 million barrels over the previous 20 weeks, even as emergency barrels continued moving out of the SPR. Federal law restricts non-emergency drawdowns once SPR inventories fall below 252.4 million barrels. A 1981 Government Accountability Office report advised against releases below 250 million barrels except during a &ldquo;very severe emergency.&rdquo; The reserve is expected to fall to its lowest level since 1982 once the latest release is completed. Fuel prices remain the immediate problem. U.S. gasoline is still above $4 per gallon, while diesel has climbed above $6 per gallon amid tight middle-distillate supplies and disruptions tied to the Iran war. At the start of September, distillate inventories were already 14% below the five-year average, while gasoline inventories were 6% below normal seasonal levels. Energy Secretary Chris Wright also pressed European countries to make good on their own emergency-stock commitments, saying several IEA members had released only a fraction of what they pledged. The 40 million barrels are not an outright sale. Companies receiving crude through the exchange must return oil later with additional barrels as interest. DOE has said the exchange program will ultimately return roughly 200 million barrels to the reserve. Bids are due Oct. 6. The exchange shifts crude into the near-term market, with participating companies obligated to return larger volumes later. By Julianne Geiger for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将美国再次释放战略石油储备置于伊朗战争持续、汽柴油价格高企、馏分油供应偏紧和商业库存下降的背景下，重点强调释放规模、战略储备降至低位的风险，以及美国要求欧洲履行应急储备承诺。文章同时突出此次40百万桶原油并非直接出售，而是以交换方式投放市场、未来需归还更多原油这一机制。整体叙事在“缓解短期燃料价格和供应压力”与“进一步削弱战略储备安全垫”之间形成张力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T18:20:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html"
+          }
+        ]
+      },
+      {
+        "id": "story-brush-but-how-you-use-it-52fca54464cfcb55",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "It’s not the price of your toothbrush but how you use it | Letters",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T16:48:37.000Z",
+        "pubTime": "2026-09-30 00:48",
+        "url": "https://www.theguardian.com/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it",
+        "imageUrl": "https://i.guim.co.uk/img/media/59a8f11bbcba6194f92605b0efb2f8926a31da06/218_0_4916_3935/master/4916.jpg?width=140&quality=85&auto=format&fit=max&s=85f499b80e7dd2074af23d99214374c0",
+        "fullContent": "Responding to an article by Emine Saner, Gemma Hooson writes that there are no shortcuts to oral hygiene. Plus a letter by David Duell\n\nEmine Saner offers a fascinating survey of the expensive toothbrush tech on offer ( The rise of Big Toothbrush: how did our mouths become such a lucrative market?, 22 September ). As a dental hygienist, however, I remind patients at every appointment that this simple fact remains: the best way to maintain oral hygiene is to brush for two minutes at least twice daily and to floss daily. No toothbrush offers a short-cut solution to this, no matter how expensive. A premium toothbrush risks becoming like a gym membership: reassuring to have, perhaps, but something that makes no difference unless it is used.\n\n• A toothbrush which gives “smart coverage feedback”? What is really smart is buying a multipack of eight “dumb” brushes for a couple of quid, which will last a couple of years. Every bit as good, if the article is to be believed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该文章发表于《卫报》Society栏目，原文标题为“It’s not the price of your toothbrush but how you use it | Letters”。",
+          "Gemma Hooson以牙科保健师身份写信回应Emine Saner关于高价牙刷技术的文章。",
+          "来源叙事重点：强调口腔卫生效果主要取决于持续、正确的使用习惯，而非牙刷价格或智能功能。文章将高端牙刷描述为可能带来心理安慰、却不能替代每天至少两次刷牙、每次两分钟及每日使用牙线的产品，并以低价普通牙刷作对照。关于普通牙刷“同样好”、一包八把可使用数年等说法属于来信作者的判断，文中没有独立验证。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T16:48:37.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790661746020,
     "timeDisplay": "2026-09-29 14:02 (UTC+8)",
     "date": "2026-09-29",

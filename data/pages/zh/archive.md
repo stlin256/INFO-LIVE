@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-29 · 今日](/INFO-LIVE/archive-2026-09-29/)
+- [2026-09-30 · 今日](/INFO-LIVE/archive-2026-09-30/)
+- [2026-09-29 · 历史快照](/INFO-LIVE/archive-2026-09-29/)
 - [2026-09-28 · 历史快照](/INFO-LIVE/archive-2026-09-28/)
 - [2026-09-27 · 历史快照](/INFO-LIVE/archive-2026-09-27/)
 - [2026-09-26 · 历史快照](/INFO-LIVE/archive-2026-09-26/)
@@ -40,14 +41,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **87** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **88** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-29 14:02 (UTC+8)
+- **最新归档时间**：2026-09-30 02:52 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-30 02:52 (UTC+8)" title="全球要闻情报简报 · 02:52" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-30 02:41 (UTC+8) 完成，共获得 20 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】OpenAI推出类似ChatGPT自有办公套件的产品，向微软发起挑战：OpenAI自成立之初便一直是微软的密切合作伙伴，但这家人工智能实验室正越来越多地进军微软的核心业务——办公软件。该公司推出的新功能与微软等公司的办公软件套件非常相似。；【undefined】迈克·汤姆林对教练的批评让他成为更出色的电视评论员，但也引发了他是否在觊觎牛仔队帅位的疑问：迈克·汤姆林深知如何在NFL赢球，因为在担任匹兹堡钢人队主教练的19年里，他从未经历过一个负战绩赛季。他在NBC《周日晚间橄榄球》赛前节目中担任电视评论员，同样表现出色。；【undefined】Lady A乐队查尔斯·凯利在一次痛苦的健康危机后被诊断出患有罕见血癌：Lady A乐队成员查尔斯·凯利透露，他被诊断出患有一种罕见的血癌。；【undefined】人工智能研究人员发布视频称，超级智能“正如听起来那样危险”：有关这一主题的帖子将被加入你的每日电子邮件摘要和首页信息流。；【undefined】荷兰警方逮捕被控策划两起谋杀案的ShinyHunters黑客：美国联邦调查局（FBI）和荷兰执法部门表示，他们已逮捕一名ShinyHunters黑客组织成员。据两家机构称，该组织曾攻击全球140多个组织。黑客还声称，本月早些时候对FBI自身系统发起的攻击也是其所为。；【undefined】要闻：关于我们的付费订阅方案 Pro 的信息：关于我们的付费订阅方案 Pro 的信息。；【undefined】AI 应用创建工具 Wabi 转向消息通信体验：AI 初创公司 Wabi 曾让任何人都能通过提示词创建应用。随着 Meta 的 Muse 和 Instinct 等 AI 智能体需求不断增长，该公司正在进行小幅转型。本周，公司宣布 Wabi 如今将成为某种 AI 信使——但仍然能够创建应用，帮助用户完成任务。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260929/forum-2121071553.html) <span class="news-meta-time">🕒 2026-09-30 02:39</span>
+- [NVIDIA Developer Blog (英伟达开发者官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/) <span class="news-meta-time">🕒 2026-09-30 02:35</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-30 02:34</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/29/what-are-labours-plans-overhaul-social-care-explainer-andy-burnham) <span class="news-meta-time">🕒 2026-09-30 02:09</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-chatbots-oracles-ai-life-ancient.html) <span class="news-meta-time">🕒 2026-09-30 02:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260929/kubrinsk-2121071399.html) <span class="news-meta-time">🕒 2026-09-30 02:38</span>
+:::
 :::timeline-item{start="2026-09-29 14:02 (UTC+8)" title="全球要闻情报简报 · 14:02" org="ARCHIVE"}
 **速报纪要：** 当前证据包未提供有效文章标题、来源、正文或可核验引用，暂不形成事实性简报。
 
@@ -644,18 +658,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics) <span class="news-meta-time">🕒 2026-09-16 19:00</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-approach-crop-rotations-yield.html) <span class="news-meta-time">🕒 2026-09-16 19:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/lavrov-2118035402.html) <span class="news-meta-time">🕒 2026-09-16 19:44</span>
-:::
-:::timeline-item{start="2026-09-16 14:21 (UTC+8)" title="全球要闻情报简报 · 14:21" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-16 14:08 (UTC+8) 完成，共获得 10 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟：多年来，白癜风一直左右着我的生活，我总是在拼命掩盖它。但有一天，我意识到自己可以采取一种截然不同且令人无比释怀的态度。；【undefined】天文每日一图：2026年9月16日——韦布望远镜眼中的M64：天文每日一图：2026年9月16日——……；【undefined】那个求生意志坚强的女孩：抚养埃尔西——我那位1.63亿分之一的女儿——其中的爱、希望与痛苦：她出生时患有一种极其罕见的遗传疾病。在从事了数十年电影公关工作后，如今我面临着最大的一场宣传战役：为她的生命而战；【undefined】今年非洲萨赫勒地带与“基地”组织及“伊斯兰国”有关的暴力活动将达到创纪录水平：“9·11”事件25年后，冲突监测机构汇编的数据凸显萨赫勒地区已成为伊斯兰主义恐怖活动的中心；【undefined】Boox Palma 3 获得手写笔支持并采用时尚新设计：该主题的文章将被加入你的每日电子邮件摘要和首页信息流。；【undefined】EOS R8 Mark II 是佳能最轻的带防抖全画幅相机：该主题的文章将被添加到你的每日电子邮件摘要和首页信息流中。；【undefined】人工智能和数据中心在每项民调中都极不受欢迎：有关这一主题的文章会被添加到您的每日电子邮件摘要和主页信息流中。；【undefined】微软宣布将于10月7日举行Windows和Surface活动：关于这一主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/ursula-2117938027.html) <span class="news-meta-time">🕒 2026-09-16 14:06</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.com/rapiddweller/datamimic) <span class="news-meta-time">🕒 2026-09-16 12:58</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html) <span class="news-meta-time">🕒 2026-09-16 13:45</span>
-- [The Guardian Society (卫报社会与民生)] [改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟](https://www.theguardian.com/lifeandstyle/2026/sep/16/a-moment-that-changed-me-i-felt-hugely-self-conscious-about-my-skin-until-i-had-a-revelation) <span class="news-meta-time">🕒 2026-09-16 13:30</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-violence-affects-millions-links-health.html) <span class="news-meta-time">🕒 2026-09-16 13:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/tsb-2117937796.html) <span class="news-meta-time">🕒 2026-09-16 14:05</span>
 :::
 ::::
