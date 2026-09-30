@@ -16,74 +16,20 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story--carolina-sports-betting-c0b9808367cc26e9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1267" data-content-paragraphs="16" data-published-at="2026-09-30T01:59:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 09:59</span>
-</div>
-
-### [北卡罗来纳州体育博彩——最佳博彩公司和应用程序 | OutKick](https://www.foxnews.com/outkick-betting/north-carolina-sports-betting)
-<div class="original-title-sub"><span class="orig-tag">原文</span> North Carolina Sports Betting — Best Sportsbooks and Apps | OutKick</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/524/sportsbook-general.jpg?ve=1&amp;tl=1" alt="北卡罗来纳州体育博彩——最佳博彩公司和应用程序 | OutKick" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>北卡罗来纳州的体育博彩业务自2024年3月11日起正式上线，当时北卡罗来纳州彩票委员会为首批在线运营商颁发了许可证。如今，该州的投注者可以在7款合法体育博彩应用程序中进行选择。</p>
-<p>在北卡罗来纳州境内，年满21岁的任何人都可以进行合法体育博彩。自2024年3月11日起，您既可以在线投注，也可以在实体场所投注。</p>
-<p>以下是北卡罗来纳州体育博彩应用程序的综合列表。这份列表可作为选择希望尝试或最适合您的体育博彩平台的指南。需要考虑的因素包括新用户优惠、奖励以及使用便捷程度等。</p>
-<p>北卡罗来纳州的体育博彩平台会为新用户提供几种不同类型的新用户优惠，包括存款匹配、奖励投注以及投注即得奖励。奖励投注和奖励资金并不等同于现金，但可以在应用程序内用于下注。“投注即得”优惠通常要求您为账户充值并进行投注，随后获得固定金额的奖励资金。存款匹配则会根据您为账户充值的金额，提供相同金额或其中一部分作为匹配资金。请注意，奖励投注会到期。</p>
-<p>北卡罗来纳州的体育博彩最早在2019年前后开始受到关注，当时部落土地开始接受体育博彩。2021年3月，现场投注获准进行。2023年6月14日，州长罗伊·库珀签署了第347号众议院法案，使其成为法律。2024年3月11日，移动端和在线体育博彩正式上线。</p>
-<p>想要投注北卡罗来纳州的职业体育队伍吗？可选择的球队很多，其中大多数位于夏洛特地区。黑豹队是一支受欢迎的橄榄球队。夏洛特黄蜂队代表该市参加NBA联赛。该州没有棒球队，但有参加NHL联赛的飓风队，以及面向足球爱好者的夏洛特足球俱乐部。当然，还有杜克大学和北卡罗来纳大学等大学球队，它们也吸引了大量投注和体育关注。</p>
-<p>您可以在北卡罗来纳州合法投注大学体育赛事，包括让分、总分和胜负投注选项。与其他州不同的是，在北卡罗来纳州，您还可以投注大学运动员的球员特殊投注项目。</p>
-<p>目前，北卡罗来纳州有3家实体体育博彩场所，全部位于赌场内。您可以前往切罗基哈拉斯赌场度假村、哈拉斯切罗基河谷赌场，或卡托巴双王赌场。</p>
-<p>持牌实体场所：<br />哈拉斯切罗基赌场度假村（Caesars Sportsbook）——切罗基<br />哈拉斯切罗基河谷赌场及酒店（Caesars Sportsbook）——墨菲<br />卡托巴双王赌场（Two Kings Sportsbook）——金斯芒廷</p>
-<p>是的，体育博彩在北卡罗来纳州是合法的。您必须年满21岁，在下注时身处该州境内，并拥有一个已注册的账户。</p>
-<p>北卡罗来纳州最佳体育博彩平台取决于您的具体需求。如果您想要高额新用户奖金，BetMGM可能会被认为是最佳选择。您可以使用的体育博彩平台数量没有限制，因此可以全部尝试。</p>
-<p>您必须年满21岁，才能在北卡罗来纳州投注体育赛事。</p>
-<p>是的。在北卡罗来纳州，您可以投注大学比赛的胜负、总分和让分。您也可以在北卡罗来纳州投注球员特殊投注项目。</p>
-<p>不，您不必居住在北卡罗来纳州才能在那里投注；您只需在下注时实际位于该州境内即可。</p>
-<p>目前，北卡罗来纳州有7家合法体育博彩平台。</p>
-<p>是的，目前有3家实体体育博彩场所可供您亲自前往投注。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-30 09:59 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/north-carolina-sports-betting" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-30-10706023-shtml-d4c03c7e5577f524" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="2694" data-content-paragraphs="26" data-published-at="2026-09-30T01:56:33.000Z" data-time-source="publication">
+<div id="story-026-09-30-10706306-shtml-4fd7dc7cc89f08bf" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="875" data-content-paragraphs="21" data-published-at="2026-09-30T08:32:08.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 09:56</span>
+  <span class="news-meta-time">🕒 2026-09-30 16:32</span>
 </div>
 
-### [9月中国制造业采购经理指数为50.1% 升至扩张区间](https://www.chinanews.com.cn/cj/2026/09-30/10706023.shtml)
+### [东航回应“合肥至大连航班空中服务事件”：第一时间对当事乘务员开展心理疏导](https://www.chinanews.com.cn/sh/2026/09-30/10706306.shtml)
 
-<div class="article-body" data-article-body="true"><p>中新网9月30日电 据中国物流与采购联合会网站消息，国家统计局服务业调查中心、中国物流与采购联合会发布的2026年9月份中国制造业采购经理指数(PMI)为50.1%，较上月上升0.3个百分点，在连续2个月运行在50%以下后回到扩张区间，显示9月份制造业运行有所回升。从分项指数和行业指数来看，市场需求整体稳定扩张，企业生产加快上升，市场价格联动上升，大型企业稳定增长，中小企业景气改善，整体来看制造业向好运行。</p>
-<p>市场需求整体稳定扩张，消费需求回升较为突出。9月份，极端天气对经济的影响基本消退，宏观经济回到正常运行轨道，建筑业与部分消费相关行业迎来传统旺季，叠加多项稳经济促增长政策加速转化实物工作量，制造业市场需求整体稳定扩张。新订单指数为50.5%，较上月略降0.1个百分点，仍保持在扩张区间。出口也持稳运行，新出口订单指数为50%，较上月略降0.1个百分点至荣枯线。从行业层面来看，9月份制造业中需求回升较为突出的是消费品制造业。在中秋国庆双节备货、换季以及国外订单收官的带动下，消费市场景气明显回升，消费品制造业新订单指数较上月上升超过3个百分点至接近53%的高位，新出口订单指数也较上月上升超过1个百分点至接近52%的水平，有效支撑制造业市场需求整体稳定扩张。新动能市场需求增势虽有所放缓，但仍保持在扩张区间，装备制造业和高技术制造业新订单指数都运行在50%以上。</p>
-<p>企业生产加快上升，销售活动顺畅运行。9月份，制造业企业生产活动在上月扩张基础上进一步加快上升，生产指数为51.7%，较上月上升1.3个百分点。带动生产活动加快上升的因素，一是9月新订单稳定扩张；二是前期积压的订单加快排产，为企业生产释放积蓄了动能，积压订单指数为46%，环比下降0.7个百分点。比较来看，虽然9月制造业企业生产活动增势明显高于接单增势，企业销售活动依然较为顺畅，体现在产成品加快出库，也从侧面印证了当前市场景气向好回升，产成品库存指数较上月下降0.8个百分点至47.6%。从行业来看，9月装备制造业、高技术制造业、基础原材料行业和消费品制造业的生产指数都较上月有所上升，显示生产端普遍加快上升。</p>
-<p>基础原材料价格涨势明显，带动产业链市场价格联动上升。9月份，制造业市场价格在上月基础上进一步上升，制造业购进价格指数为60.8%，较上月上升4.2个百分点；出厂价格指数为54%，较上月上升3.6个百分点，两个价格指数环比升幅都较为明显。PMI调查显示，基础原材料价格涨势明显，通过价值链向下游传递，带动产业链中下游行业市场价格联动上升。月内受国际地缘政治因素影响，原油、天然气价格明显上涨，带动作为替代能源的煤炭价格也明显上行，相关基础原材料产品价格相应上涨，基础原材料行业购进价格指数和出厂价格指数均较上月上升超过10个百分点，分别升至70%以上和60%以上。由于基础原材料价格上升，装备制造业、高技术制造业和消费品制造业的购进价格指数都运行在54%以上，原材料成本普遍上行。</p>
-<p>大型企业稳定增长，中小企业有所改善。9月份，在政策支持力度加大、极端天气影响消退以及部分行业迎来旺季的情况下，制造业大中小企业均有积极变化。大型企业保持稳定增长态势，供需两端持续扩张，大型企业PMI为50.6%，与上月持平，从生产指数和新订单指数来看，大型企业需求延续扩张势头，生产加快上升。中小企业景气也出现边际改善，中型企业PMI为49.7%，较上月上升0.3个百分点，其市场需求稳定运行，生产活动加快扩张。小型企业PMI为48.9%，较上月上升1个百分点，其市场需求降势明显收窄，生产活动有所回升。整体来看，9月份制造业企业活力向好运行。</p>
-<p>三季度，我国制造业PMI均值为49.7%，虽低于二季度均值0.5个百分点，但高于去年同期均值0.2个百分点，而且8、9月制造业PMI呈现连续上行态势，显示尽管三季度内我国制造业因极端天气等外部因素影响，运行态势较二季度有所波动，但仍好于去年同期，且季度内后两月呈现连续趋稳回升态势。从结构来看，三季度制造业还呈现“出口贸易趋稳回升，产业结构向新向优”的积极变化。支撑三季度制造业回稳向好运行的因素，一是稳经济促增长政策密集落地，为宏观经济发展注入强劲动力；二是新动能保持较快扩张，对经济支撑作用不断加强。三季度装备制造业PMI和高技术制造业PMI均值分别运行在51%以上和52%以上，且连续多个季度运行在扩张区间；三是出口韧性稳定发挥，传统重点出口行业平稳增长，人工智能出口亮点突出。三季度制造业新出口订单指数均值为49.9%，连续2个季度上升。</p>
-<p>预计四季度，我国制造业将保持“稳定运行、适度扩张”运行态势。首先，政策端力度仍有加大空间，对宏观经济的带动作用进一步发挥。近日国资委表示，今年以来央企围绕“六张网”靠前谋划，加快实施了一批重大项目和标志性工程，年度计划安排相关投资大约为2万亿元，目前各项工作进展顺利。其他稳经济政策也在加码落实，继续稳定转为实物工作量；其次，10月份仍是建筑业以及部分制造业细分行业的传统旺季，年底也是企业冲击年度目标的重要节点。在政策与内在韧性等的带动下，四季度制造业供需两端预计延续扩张势头，新动能也将继续稳中向好发展。企业对后市预期保持稳定乐观，9月生产经营活动预期指数为53.8%，与上月持平。</p>
+<div class="article-body" data-article-body="true"><p>中新网9月30日电 中国东方航空在其官方微博发文称，公司关注到网传9月28日合肥至大连航班空中服务事件相关视频。经核实，航班乘务员在推餐车提供饮料服务过程中，全程提示旅客注意，因一名旅客处于睡眠状态，不慎造成餐车与其手肘发生触碰。乘务员当即反复致歉，查看旅客状况。该旅客情绪激动，连续使用粗俗过激言语，并出现威胁脚踢乘务员、要求当事乘务员落地后陪同就医等言行，该乘务员受到惊吓。为维护飞行安全和客舱秩序，乘务长、安全员迅速介入协同处置。航班落地后，医护人员上机检查旅客未有明显外伤或肿胀、无须进一步处理，旅客拒绝地面人员陪同送医，自行离开。</p>
+<p>事件发生后，该公司第一时间对当事乘务员开展心理疏导与关怀支持，该员工已恢复正常工作。在此，对关心支持民航一线员工的旅客、公众表示感谢，公司正协同相关方对事件过程进行全面复盘取证。</p>
 <p>农村随礼不超100元、县城不超200元，多地给份子钱“限高”</p>
 <p>鞋不对为何会丢金？亚运会“冷门”规则盘点</p>
 <p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
@@ -107,7 +53,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-30 09:56 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-30 16:32 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -117,7 +63,81 @@ notice:
   <span class="news-tag-pill">#中新网</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/cj/2026/09-30/10706023.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/sh/2026/09-30/10706306.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-4-8de2-46b7cb012875-html-cee22938e734ce72" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="485" data-content-paragraphs="1" data-published-at="2026-09-30T08:25:34.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 16:25</span>
+</div>
+
+### [埃尼竞争对手回应能源账单优惠称：我们的价格早已更低](https://www.ansa.it/english/news/2026/09/30/our-prices-are-already-lower-enis-rivals-say-in-response-to-utility_c1b317f9-1d6a-41e4-8de2-46b7cb012875.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Our prices are already lower Eni&#39;s rivals say in response to utility-bill offer</div>
+
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/30/900f8219be997e283a885f7190f42d18.jpg" alt="埃尼竞争对手回应能源账单优惠称：我们的价格早已更低" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月30日 - 在意大利国家控股的能源巨头埃尼集团（Eni）于周二宣布将从10月起为在当月24日前通过其子公司Plenitude签约的用户提供30%的电费和燃气费折扣后，该国公用事业市场上的两家埃尼主要竞争对手表示，它们的价格早已更低。埃尼表示，这项优惠每年将为因伊朗战争后价格飙升而饱受高昂能源成本困扰的家庭节省约200欧元——燃气费和电费各节省100欧元。意大利国家电力公司（Enel）表示，其名为“Digital Luce”的供电方案对账单中的能源组成部分提供相对于批发价50%的折扣，仍是意大利市场上主要企业中价格最低的。A2A公司则表示，自2023年以来，该公司便一直向客户提供将其支付价格锁定10年的选择，锁定费率比当前批发价低50%。周一，埃尼还在其加油站推行了限价措施，在一个月内将柴油价格限制在每升2.19欧元，无铅汽油价格限制在每升1.99欧元。科威特Q8石油公司以及阿塞拜疆国家石油公司（SOCAR）及其IP连锁加油站也表示，它们也将对旗下加油站实行限价。意大利总理焦尔吉娅·梅洛尼对各企业推行这些限制举措表示了感谢。（安莎社）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-30 16:25 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/2026/09/30/our-prices-are-already-lower-enis-rivals-say-in-response-to-utility_c1b317f9-1d6a-41e4-8de2-46b7cb012875.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-1-8c8f-4a731b3184b6-html-886626867bdb2dd6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="514" data-content-paragraphs="7" data-published-at="2026-09-30T08:23:41.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 16:23</span>
+</div>
+
+### [埃尼竞争对手回应公用事业账单优惠：我们的价格早已更低](https://www.ansa.it/english/news/business/2026/09/30/our-prices-are-already-lower-enis-rivals-say-in-response-to-utility_656b4966-f1b0-4f41-8c8f-4a731b3184b6.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Our prices are already lower Eni&#39;s rivals say in response to utility-bill offer</div>
+
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/30/900f8219be997e283a885f7190f42d18.jpg" alt="埃尼竞争对手回应公用事业账单优惠：我们的价格早已更低" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>（安莎社）罗马9月30日电——在意大利国家控股的能源巨头埃尼集团（Eni）于周二宣布将从10月起为其旗下子公司Plenitude在当月24日前签约的用户提供电费和燃气费30%的折扣后，意大利公用事业市场上的两家主要竞争对手表示，它们的价格此前就已经更低。</p>
+<p>埃尼表示，该项优惠预计每年可为因伊朗战争爆发后能源价格飙升而面临沉重开支压力的家庭节省约200欧元——其中燃气费节省100欧元，电费节省100欧元。</p>
+<p>意大利国家电力公司（Enel）表示，其推出的“Digital Luce”电力优惠方案中，能源部分账单相比批发价享有50%的折扣，这依然是意大利市场上主要企业中价格最低的。</p>
+<p>A2A公司表示，自2023年以来，该公司就一直为客户提供锁定10年固定价格的机会，其费率比当前的批发价格低50%。</p>
+<p>本周一，埃尼还为其加油站设立了为期一个月的价格上限，将柴油最高价格限制在每升2.19欧元，无铅汽油最高价格限制在每升1.99欧元。</p>
+<p>科威特的Q8以及阿塞拜疆国家石油公司（SOCAR）及其旗下的IP加油站网络也表示，他们同样会对旗下加油站的价格设定上限。</p>
+<p>意大利总理焦尔吉娅·梅洛尼对这些企业出台限价措施表示感谢。（安莎社）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-30 16:23 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/business/2026/09/30/our-prices-are-already-lower-enis-rivals-say-in-response-to-utility_656b4966-f1b0-4f41-8c8f-4a731b3184b6.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::
