@@ -1,5 +1,1552 @@
 [
   {
+    "timestamp": 1790802267554,
+    "timeDisplay": "2026-10-01 05:04 (UTC+8)",
+    "date": "2026-10-01",
+    "runId": "feed-20260930T205238913Z-ygn4zw",
+    "generatedAt": "2026-09-30T21:04:27.554Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 04:52",
+      "lead": "本轮抓取于 2026-10-01 04:52 (UTC+8) 完成，共获得 21 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Factory首席执行官指责其风险投资董事会顾问为Cognition充当商业间谍：AI编程初创公司Factory的联合创始人兼首席执行官马坦·格林伯格（Matan Grinberg）周三在X平台发文称，他已解除了风险投资人克里斯·德格南（Chris Degnan）的董事会顾问职务。格林伯格指控德格南向Factory最大的竞争对手Cognition泄露了机密信息。",
+        "【undefined】Neko Health 的全身扫描值得吗？Spotify 亿万富翁的初创公司已进军美国：Spotify 创始人丹尼尔·埃克（Daniel Ek）旗下的 Neko Health 筹集了 7 亿美元，致力于围绕人体全身扫描打造商业模式，但它并不是唯一一家将发展蓝图聚焦于新型预防性医疗健康的公司。Midjourney 正在打造自己的全身扫描仪，而 Function Health 也筹集了大量资金以构建其预防性健康平台。为什么投资者会在这一赛道上押下如此重注？",
+        "【undefined】寻找 Bug：在发现 bug 方面，生成式（随机化）测试是否显著优于基于示例的单元测试？在 lobste.rs 上有一个关于此问题的有趣讨论。支持单元测试的一个论点大致如下： “我的通用模糊测试器（fuzzer）未能在 Rust 的 regex crate 中发现这个棘手的 bug。” 在我看来，生成式测试本应能揪出那个特定的问题，所以我自己写了一个小型的模糊测试器，而它确实在那版 regex 中发现了另一个 bug，随后又找到了我最初想找的那个 b",
+        "【undefined】要闻：Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，：Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，均展现出前沿性能。 Google DeepMind 高级副总裁兼 Google 首席人工智能架构师 您的浏览器不支持该音频元素。 今天，我们正式发布全新的前沿模型 Gemini 4 Argon。该模型正通过我们的 Fairwind 计划，面向一组值得信赖的网络安全防御人员逐步推出。Argon 旨在支撑复杂、长周期的深度推理工作",
+        "【undefined】安妮·海瑟薇在《Verity》红毯上掌控全场，瞬间走红：安妮·海瑟薇在最新主演电影的首映礼上掌控了红毯现场。",
+        "【undefined】南美航空集团荣获《航空运输世界》“年度最佳航空公司”称号：南美航空集团（Latam Airlines Group）在《航空运输世界》（ATW）举办的“ATW航空业成就奖”核心类别中被评选为“年度最佳航空公司”，成为该奖项自1974年设立以来首家获此殊荣的拉美航空公司。该奖项将于12月10日在米兰举行的第52届颁奖典礼上正式颁发，届时南美航空集团首席执行官罗伯托·阿尔沃（Roberto Alvo）将出席领奖。由ATW、《航空周刊》（Aviation Week）以及亚太航空中心（CAPA）的编辑和",
+        "【undefined】《五人秀》连续20个季度领跑有线电视新闻，福克斯新闻收视超过CNN与MS NOW之和：福克斯新闻频道在即将迎来成立30周年之际继续占据主导地位。2026年第三季度，该频道在工作日黄金时段观众数量上超过CBS，同时全面压倒所有有线电视网。",
+        "【undefined】我以4亿美元出售TOMS Shoes后，被误诊为双相情感障碍——这几乎让我失去了一切：我以4亿美元出售TOMS Shoes后，被误诊为双相情感障碍——这几乎让我失去了一切"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录：暂无可分析内容",
+      "lead": "证据包未提供可识别的文章标题、来源、正文或有效引文，现有条目大多仍显示为待翻译标题，因此无法进行可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 84,
+      "completedTasks": 84,
+      "succeeded": 51,
+      "degraded": 33,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 84,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 708587,
+      "byRole": {
+        "translator": {
+          "attempts": 59,
+          "succeeded": 33,
+          "degraded": 26
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 3,
+          "degraded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 5,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 84,
+          "succeeded": 51,
+          "degraded": 33
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-16-translator-0",
+      "article-16-translator-1",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-18-translator-1",
+      "article-19-translator-0",
+      "article-25-translator-0",
+      "article-28-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-44-translator-0",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.044Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.554Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.053Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.412Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.953Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.111Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.981Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.396Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.041Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.179Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.019Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.946Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:24.179Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.379Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.167Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.422Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.120Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.585Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.111Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.448Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.555Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.054Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.540Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.071Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.422Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.332Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.498Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.897Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.817Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.602Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.247Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.314Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.652Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.042Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.357Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.744Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.897Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.953Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.667Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.981Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.140Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.167Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:19.481Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.140Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.642Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.833Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.578Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.019Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.396Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.642Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.585Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.762Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.819Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.098Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.332Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.475Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.946Z",
+        "lastSuccessAt": "2026-09-30T20:52:27.892Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.738Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.816Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.935Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.041Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.833Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.992Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.001Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.247Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:24.042Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.400Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.023Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.120Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.361Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.819Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.571Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.738Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.992Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.220Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.816Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.241Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-30T20:52:22.762Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:19.480Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.540Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.883Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.001Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:19.481Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.023Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.098Z",
+        "lastSuccessAt": "2026-09-30T20:52:24.617Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.475Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.571Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:21.412Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.498Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.744Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.883Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.448Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.578Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.220Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.652Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:23.241Z",
+        "lastSuccessAt": "2026-09-30T20:52:23.817Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.071Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.361Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:22.054Z",
+        "lastSuccessAt": "2026-09-30T20:52:22.357Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:19.467Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.044Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:19.478Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.053Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T20:52:19.479Z",
+        "lastSuccessAt": "2026-09-30T20:52:21.667Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-todorogi-2121336926-html-2c262960c354e437",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России разработали новые ГОСТы с правилами проектирования автодорог",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T20:48:02.000Z",
+        "pubTime": "2026-10-01 04:48",
+        "url": "https://ria.ru/20260930/avtodorogi-2121336926.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/07/0b/1883597107_0:57:2000:1182_650x0_80_0_0_c29f801338f56e4010cb52af6495aab6.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-01 04:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/avtodorogi-2121336926.html",
+            "publishedAt": "2026-09-30T20:48:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--of-spying-for-cognition-4cb2561c3fbfaed5",
+        "title": "Factory首席执行官指责其风险投资董事会顾问为Cognition充当商业间谍",
+        "originalTitle": "Factory CEO just accused his VC board advisor of spying for Cognition",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:39:09.000Z",
+        "pubTime": "2026-10-01 04:39",
+        "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+        "imageUrl": null,
+        "fullContent": "Matan Grinberg, co-founder and CEO of the AI coding startup Factory, said in a post on X on Wednesday that he fired VC Chris Degnan from role as a board advisor. Grinberg alleges that Degnan shared confidential information with Factory’s biggest competitor, Cognition.\n\nTwo hours later, Degnan announced on both X and LinkedIn that he has joined Cognition as its chief revenue officer.\n\nDegnan was Snowflake’s first sales hire and later spent 11 years as the data company’s chief revenue officer. He has spent the last five months as a partner with RPT Partners, a Newport Beach, California-based investor in Factory. Degnan’s LinkedIn account also says he is a go-to-market advisor to startups for the much bigger venture firm Iconiq, a role that dates back to October of last year.\n\nThree-old, San Francisco-based Factory is an agentic coding startup whose AI agents can carry out programming tasks largely on their own. The company raised $200 million at a $5 billion valuation this month from Blackstone, Khosla Ventures, Sequoia Capital, Insight Partners and others. Its customers include Nvidia, Blackstone, Royal Bank of Canada, Palo Alto Networks, Adobe, and T-Mobile as customers.\n\nGrinberg said he sees Cognition, maker of the Devin coding agent, as his biggest competitor. Cognition raised another $2 billion at a $48 billion valuation earlier this month, and counts Mercedes-Benz, NASA, Goldman Sachs, and Citi as customers.\n\nGrinberg said on X that Degnan had earlier admitted to having a “casual” conversation with a Cognition executive but had assured Grinberg that he had no interest in working for the competitor. According to Grinberg, Degnan said he had “made too much money” and was “too lazy to go work for Cognition,” which Grinberg said he “trusted and believed.” On Monday, however, Degnan apparently disclosed that he had actually been in ongoing talks with Cognition.\n\nThis caused Grinberg to grow concerned over how much confidential information Degnan had about Factory, and how much he had shared and might share in the future with his new employer. He says he fired Degnan from the board on Tuesday, writing:\n\n“For weeks, while he sat in our board meetings and advised our leadership team, he was also confiding with executives of our largest competitor. Chris was subject to confidentiality obligations in connection with his work with Factory. We do not know the extent of the information he shared, but it puts his timely questions about our product roadmap and what the parity gap involves into a new light.”\n\nDegnan’s post announcing his new job at Cognition doesn’t mention Factory. Very notably, it does say that RPT Ventures and the firm’s managing partner, Chad Peets, will now be working with Cognition. “I am thrilled that Chad and the RPT team will be working closely with me in our pursuit of building a generational company,” Degnan wrote.\n\nIn the old, pre-AI world, a VC firm was especially cautious not to engage in conflict-of-interest business. In today’s world, many a VC has invested in direct AI competitors, such OpenAI and Anthropic.\n\nStill, there could be consequences for perceived board-level conflicts of interest. VC giant Andreessen Horowitz is reportedly the subject of a Justice Department probe into its partners serving on competitors’ boards.\n\nGrinberg argued that startup founders must be able to rely on their board members. “Chris’s conduct is unacceptable to me. Trust in Board Membership is one of the sacred bonds in the Silicon Valley, one that helps the startup ecosystem thrive. With it comes an enormous responsibility. That trust was violated.”\n\nDegnan, Peets, and Factory did not immediately respond to a request for further comment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nWaymo is scaling fast: Here’s what the fleet data shows\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "fullTranslation": "AI编程初创公司Factory的联合创始人兼首席执行官马坦·格林伯格（Matan Grinberg）周三在X平台发文称，他已解除了风险投资人克里斯·德格南（Chris Degnan）的董事会顾问职务。格林伯格指控德格南向Factory最大的竞争对手Cognition泄露了机密信息。\n\n两小时后，德格南在X平台和领英（LinkedIn）上宣布，他已加入Cognition担任首席营收官（CRO）。\n\n德格南曾是Snowflake招聘的首位销售人员，随后在这家数据公司担任了11年的首席营收官。在过去五个月中，他一直担任RPT Partners的合伙人，这是一家总部位于加州纽波特比奇的机构，也是Factory的投资方。德格南的领英主页还显示，他还是规模更大的风投公司Iconiq的初创企业市场拓展（GTM）顾问，这一任职可追溯至去年10月。\n\n成立三年的Factory总部位于旧金山，是一家智能体（agentic）编程初创公司，其AI智能体在很大程度上能够自主执行编程任务。该公司本月以50亿美元的估值从黑石集团（Blackstone）、Khosla Ventures、红杉资本（Sequoia Capital）、Insight Partners等机构筹集了2亿美元。其客户包括英伟达（Nvidia）、黑石集团、加拿大皇家银行（Royal Bank of Canada）、派拓网络（Palo Alto Networks）、Adobe以及T-Mobile。\n\n格林伯格表示，他将Devin编程智能体的开发商Cognition视作自己最大的竞争对手。Cognition在本月早些时候以480亿美元的估值又筹集了20亿美元，其客户包括梅赛德斯-奔驰（Mercedes-Benz）、美国国家航空航天局（NASA）、高盛（Goldman Sachs）和花旗银行（Citi）。\n\n格林伯格在X上透露，德格南此前曾承认与Cognition的一名高管有过“随意的”交谈，但他向格林伯格保证，自己对去竞争对手那里工作毫无兴趣。格林伯格称，德格南当时表示自己“赚的钱够多了”，“懒得去Cognition工作”，格林伯格说自己“当时对此深信不疑”。然而在周一，德格南显然透露了他实际上一直在与Cognition保持沟通。\n\n这引发了格林伯格的担忧：德格南到底掌握了多少关于Factory的机密信息，以及他已经与新雇主分享了多少、未来还可能分享多少。格林伯格表示，他已于周二将德格南从董事会解职，并写道：\n\n“数周以来，当他参加我们的董事会会议并向我们的领导团队提供建议时，他同时也在向我们最大竞争对手的高管吐露内情。克里斯在Factory任职期间负有保密义务。我们尚不清楚他泄露了多少信息，但这让他此前针对我们的产品路线图以及功能差距所涉及内容提出的那些恰到好处的提问，有了全新的解读意味。”\n\n德格南宣布入职Cognition的帖子中并未提及Factory。但非常引人注目的是，帖子确实提到RPT Ventures以及该公司的管理合伙人查德·皮茨（Chad Peets）现在将与Cognition合作。德格南写道：“查德和RPT团队将与我紧密合作，共同致力于打造一家跨时代的伟大公司，这让我感到非常兴奋。”\n\n在AI浪潮之前的传统时代，风投机构在规避利益冲突业务方面尤为谨慎。而在当今时代，许多风险投资机构都同时投资了直接竞争的AI对手，例如同时投资OpenAI和Anthropic。\n\n不过，董事会层面的潜在利益冲突仍可能带来法律后果。据报道，风投巨头安德森·霍洛维茨（Andreessen Horowitz）正面临美国司法部的调查，调查内容即涉及其合伙人在竞争对手的董事会中任职。\n\n格林伯格强调，初创企业创始人必须能够信赖其董事会成员。“克里斯的行为在我看来是不可接受的。对董事会成员身份的信任是硅谷神圣的纽带之一，它助力了初创企业生态系统的繁荣。伴随这种信任而来的是巨大的责任。而这种信任遭到了践踏。”\n\n德格南、皮茨以及Factory均未立即回应置评请求。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n第二张门票立减50%——Disrupt大会的体验本就应该与人分享。购买您的门票，携同事、合伙人或同行参会，第二张享五折优惠。通过建立人脉、积累势能并探索初创生态系统的未来方向，实现更大突破。\n\nAMD将以82亿美元收购李飞飞的World Labs\n走红的AI智能体企业Instinct以100亿美元估值完成10亿美元C轮融资\nCrusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划\nAstra与Opus刚刚通过了图灵的另一项测试\nWaymo正在迅速扩张：车队数据透露了这些信息\n甲骨文针对其位于新墨西哥州的Stargate数据中心发出不可抗力通知\nMeta的Muse Charm外观酷似电子宠物，但正契合一项更新潮的趋势",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "AI编程初创公司Factory的联合创始人兼CEO Matan Grinberg周三在X上发文称，已解除风险投资人Chris Degnan的董事会顾问职务，指控其向主要竞争对手Cognition泄露机密信息。",
+          "在Grinberg发文两小时后，Chris Degnan在X和LinkedIn上宣布加入Cognition担任首席营收官（CRO）。",
+          "来源叙事重点：聚焦Factory与前董事会顾问Chris Degnan之间的信任和潜在利益冲突：Grinberg指控Degnan在参与Factory董事会和获取机密信息期间，与竞争对手Cognition接触并可能泄露信息；报道同时强调Degnan随后加入Cognition担任首席营收官，以及其原投资机构RPT Ventures将与Cognition合作。文章还将事件置于AI行业风险投资人同时接触竞争企业、董事会保密义务和利益冲突风险上升的背景中。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:39:09.000Z",
+            "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
+          }
+        ]
+      },
+      {
+        "id": "story-the-right-thing-aaedcaa4-eb32812b788db870",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:45:00.000Z",
+        "pubTime": "2026-10-01 04:45",
+        "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I have $152,000 in my IRA and Roth accounts.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-01 04:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T20:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-th-measles-related-death-12b50a55cf310c15",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pennsylvania reports fifth measles-related death of the year amid outbreak",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:28:06.000Z",
+        "pubTime": "2026-10-01 04:28",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death",
+        "imageUrl": "https://i.guim.co.uk/img/media/89d354123c3dc13547cfe47f6e2ef4fd572974b5/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=132db93339688c8fc5bbfdac00a72667",
+        "fullContent": "Measles outbreak in the state has now reached 39 counties, with 943 confirmed cases and 176 hospitalizations\n\nPennsylvania has reported its fifth measles-associated death of 2026 as the state’s ongoing outbreak climbs to 943 confirmed cases across 39 counties.\n\nThe Pennsylvania department of health said on Wednesday that an unvaccinated Lancaster county resident who tested positive for measles had died. Health officials did not release further information about the individual, citing privacy protections.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宾夕法尼亚州报告了2026年第5例麻疹相关死亡病例。",
+          "宾夕法尼亚州麻疹疫情已蔓延至39个县，累计确诊病例943例，住院病例176例。",
+          "来源叙事重点：突出疫情规模扩大及死亡个案：确诊病例达943例、涉及39个县、住院176例，并强调最新死者为未接种疫苗且麻疹检测呈阳性的兰开斯特县居民；同时说明卫生部门以隐私保护为由未披露更多个人信息。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:28:06.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death"
+          }
+        ]
+      },
+      {
+        "id": "story-onenveloped-viruses-html-d391ab4f42b0c73d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Molecular movie' fills in blanks of how nonenveloped viruses infect cells",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:50:01.000Z",
+        "pubTime": "2026-10-01 04:50",
+        "url": "https://phys.org/news/2026-09-molecular-movie-blanks-nonenveloped-viruses.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-movie-fills.jpg",
+        "fullContent": "Viruses come in two major flavors—not chocolate and vanilla, quips Harvard Medical School structural biologist Stephen Harrison, but those enveloped in membranes, such as herpesvirus, influenza virus, HIV and SARS-CoV-2, and those that are not, such as poliovirus, HPV, rotavirus and adenovirus.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-01 04:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-molecular-movie-blanks-nonenveloped-viruses.html",
+            "publishedAt": "2026-09-30T20:50:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-onchanin-2121336747-html-1de7c02622e4469a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Дончанин переплыл реку Кальмиус в День воссоединения Донбасса с Россией",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T20:47:03.000Z",
+        "pubTime": "2026-10-01 04:47",
+        "url": "https://ria.ru/20260930/donchanin-2121336747.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/06/07/1876678812_0:160:3072:1888_650x0_80_0_0_99bdd34445a884b1358537deb50b7883.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-01 04:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/donchanin-2121336747.html",
+            "publishedAt": "2026-09-30T20:47:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rtup-has-come-to-america-041cfeb6c59008ca",
+        "title": "Neko Health 的全身扫描值得吗？Spotify 亿万富翁的初创公司已进军美国",
+        "originalTitle": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:20:02.000Z",
+        "pubTime": "2026-10-01 04:20",
+        "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+        "imageUrl": null,
+        "fullContent": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category?\n\nOn this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis talks with Farooq Abbasi, founder and general partner of Preface Ventures and an investor in Neko Health, about how Neko compares with other consumer-health startups. They discuss what has to happen for body scanning to become part of the broader healthcare system.",
+        "fullTranslation": "Spotify 创始人丹尼尔·埃克（Daniel Ek）旗下的 Neko Health 筹集了 7 亿美元，致力于围绕人体全身扫描打造商业模式，但它并不是唯一一家将发展蓝图聚焦于新型预防性医疗健康的公司。Midjourney 正在打造自己的全身扫描仪，而 Function Health 也筹集了大量资金以构建其预防性健康平台。为什么投资者会在这一赛道上押下如此重注？\n\n在本期 TechCrunch 的 Equity 播客节目中，多米尼克-马多里·戴维斯（Dominic-Madori Davis）与 Preface Ventures 创始人兼总合伙人、Neko Health 投资者法鲁克·阿巴斯（Farooq Abbasi）探讨了 Neko 与其他消费级医疗健康初创公司的异同。他们还讨论了全身扫描要成为更广泛医疗保健体系的一部分所必须具备的条件。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 2,
+        "keyTakeaways": [
+          "Neko Health 筹集了7亿美元，用于围绕身体扫描建立业务。",
+          "Daniel Ek 是 Spotify 的创始人。",
+          "来源叙事重点：将身体扫描置于预防性医疗和消费健康创业热潮中，重点讨论Neko Health的融资规模、与Midjourney及Function Health等公司的竞争关系，以及身体扫描如何进入更广泛医疗体系。报道主要呈现投资和产业视角，未提供对扫描准确性、临床有效性或消费者实际健康收益的详细验证。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:20:02.000Z",
+            "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/"
+          }
+        ]
+      },
+      {
+        "id": "story-ttles-investors-7dede2f2-81cc42dd3b4bd256",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:32:00.000Z",
+        "pubTime": "2026-10-01 04:32",
+        "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-01 04:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T20:32:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--09-19-finding-bugs-html-9f1f9ab84feddf64",
+        "title": "寻找 Bug",
+        "originalTitle": "Finding Bugs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T19:57:54.000Z",
+        "pubTime": "2026-10-01 03:57",
+        "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+        "imageUrl": null,
+        "fullContent": "Are generative (randomized) tests significantly more effective than example-based unit-tests at discovering bugs? There’s an interesting discussion about this on lobste.rs. One argument in favor of unit tests is, paraphrasing\n\nMy generic fuzzer wasn’t able to find this tricky bug in Rust regex crate.\n\nTo me, it seems that generative testing should shake out that particular creature, so I wrote a lil fuzzer of my own, and it indeed discovered another bug in that version of regex, and then the one I was after. I didn’t find anything in the latest version. I like to do a write up about the process, as it is a good case study for how one approaches a problem like this.\n\nI want to be extra clear that my argument is very weak here, as I know exactly the bug I am after, and I even know that fuzzers can find it. My primary goal is to teach you the techniques, leaving it to your judgment just how effective they are. That being said, I think finding a second bug validates the approach somewhat.\n\nI also want to emphasize that writing fuzzers to find known bugs is far from an idle amusement. While I believe that generative testing is very powerful, relative to its cost, it’s always a question whether a particular test is thorough enough. And it never is, you will find more bugs elsewhere (that’s why defense in depth and runtime mitigations are critical). And, whenever you have a pest that dodged your fuzzers, your first order of business is to treat this event as a bug in the fuzzer, and change it so that it can find this and related bugs. Only then you are allowed to add a fix and a unit test!\n\nFor \".abb|b\" regex and \"zabb\" input, an older version of regex crate returned b as the first match, which is incorrect, because the entire zabb matches:\n\nHow do we find this, or something like this?\n\nRegular expression engines are one of the easiest things to apply generative testing to, they are pure algorithms. While few large systems are just an algorithm, algorithms are everywhere inside components of interesting systems, so this is a hands-on knowledge.\n\nAnd by far the most important technique for testing algorithms is to compare with the known right answer, with an oracle. Implement both O(N log N) and O(N^2) versions of the algorithm, and match the answers.\n\nTo be fair, the original comment mentioned that the their fuzzer didn’t find the issue because they didn’t have access to an oracle. However, if you are designing a reliable system, it’s part of your job to ensure it has an oracle! One of the first things we did for our Jepsen test at TigerBeetle was to expose internal timestamps via API, to make it easier for Jepsen to find bugs (TigerBeetle is co-designed with its internal simulator VOPR which naturally has access to timestamps and anything else). And for, a regex engine, coming up with an oracle shouldn’t be hard, as they typically already come with multiple specialized implementations under a single facade, and the implementations can be cross-checked against each other.\n\nBut the regex case is even simpler (which makes it an excellent case study). There’s regex_lite crate that provides the same API.\n\nSo here’s a plan: generate a regular expression, an input text, and check that regex and regex_lite give identical answers.\n\nI’ll start with code that generates a random string, as it is simpler, but still shows some non-trivial ideas. First, we’ll need a random number generator:\n\nThere are fancier techniques, which can give you test-case minimization, exhaustive search, or coverage guided exploration, but the insight is that even a humble PRNG is brutally effective, if you put it to good use.\n\nWhen you start with randomized testing, the instinct is to generate something big, no, HUGE! Surely regex will choke on 5 GiBs of input? This is usually a wrong call. Bugs usually involve small, but tricky examples, weaponizing interactions between a few features. A string where all characters are the same is more likely to trigger a bug than a purely random string where every character is unique.\n\nSo my default approach to generating strings is this. First, I fix the alphabet of possible characters. A nice way to get one is to sort | unique all the unit tests. Then, for each particular string, I pick a subset of that alphabet. I want strings that use all the characters, but I also want long strings with only a and b! Then I generate a string using the given subset of the alphabet, where the length of the string is also picked at random.\n\nTo make fuzzing efficient, I want to keep each iteration as fast as possible, so I make sure to re-use the memory across iterations, static allocation in the small:\n\nThere’s a nice way to think about this two step process, generating alphabet first, and then generating a string. To generate a string, you need a distribution of characters. You can use the same distribution for each of the million iterations. But an easy way to spice things up is to make the distribution itself random. I file this “randomize distributions themselves” idea under swarm testing.\n\nLet’s apply the same tricks when generating a regex:\n\nLet’s start with the first one:\n\nRegexes have alternation r1|r2, repetition r*, wildcard ., and literals a. Rather then binary enabling or disabling a particular feature, I assign each feature a weight between 0 and 100, which is a bit more general. The sum is the total of all weights. To select a feature at random, we need to generate a number in 0..sum and find which segment it falls into.\n\nIn anything more serious, I’d introduce explicit types for probabilities and distributions, but just a two-digit number is perfectly serviceable in the small.\n\nThis is how I generate ReOptions, making sure that literals always have non-zero weight, and also selecting an alphabet for them:\n\nSo now we can generate a regular expression. This is convenient to do recursively. To avoid allocations, an output buffer is passed through. To control regex length, a size parameter is also threaded, and “branching” recursive invocations divide the size between the children:\n\nGiven that compiling regular expressions is somewhat slow, it seems like a good idea to try multiple strings for the same pair of regular expressions, which gives the following code:\n\nIt produces examples similar to those in the issue, with a common suffix:\n\nbut also examples which somewhat different, without the shared suffix:\n\nhttps://github.com/matklad/regex-fuzz",
+        "fullTranslation": "在发现 bug 方面，生成式（随机化）测试是否显著优于基于示例的单元测试？在 lobste.rs 上有一个关于此问题的有趣讨论。支持单元测试的一个论点大致如下：\n“我的通用模糊测试器（fuzzer）未能在 Rust 的 regex crate 中发现这个棘手的 bug。”\n在我看来，生成式测试本应能揪出那个特定的问题，所以我自己写了一个小型的模糊测试器，而它确实在那版 regex 中发现了另一个 bug，随后又找到了我最初想找的那个 bug。不过在最新版本中我没有发现任何问题。我想把这个过程写成一篇文章，因为对于如何处理此类问题而言，这是一个很好的案例研究。\n我需要特别说明的是，我这里的论证力度其实很弱，因为我非常清楚自己要找的是哪个 bug，而且我也预先知道模糊测试器能够找到它。我的主要目标是向你介绍这些技术，至于它们究竟有多有效，留给你自行判断。话虽如此，我认为找到第二个 bug 在一定程度上验证了这种方法的有效性。\n我还想强调的是，编写模糊测试器来寻找已知 bug 绝非无事生非的消遣。虽然我认为生成式测试相对于其成本而言非常强大，但某个特定测试是否足够彻底始终是个问题。而且它永远谈不上彻底，你总会在其他地方发现更多 bug（这也是为什么纵深防御和运行时缓解措施至关重要）。每当有漏网之鱼避开了你的模糊测试器时，你的首要任务就是将此情况视为模糊测试器自身的一个 bug，并对其进行修改，使其能够找出该 bug 及相关 bug。只有在这之后，你才被允许添加修复代码和单元测试！\n对于正则表达式 \".abb|b\" 和输入 \"zabb\"，较早版本的 regex crate 将 b 作为第一个匹配项返回，这是不正确的，因为整个 zabb 都能匹配：\n我们该如何发现这个 bug，或者类似的问题呢？\n正则表达式引擎是应用生成式测试最容易的对象之一，因为它们是纯算法。虽然大型系统中很少有完全由单一算法构成的，但算法在各种有趣系统的组件中无处不在，因此这是一项实用的实践知识。\n而到目前为止，测试算法最重要的技术就是将其与已知的正确答案（即预言机，oracle）进行比对。同时实现该算法的 O(N log N) 和 O(N^2) 版本，并比对它们的结果。\n平心而论，最初的那条评论提到他们的模糊测试器之所以没能发现问题，是因为他们无法使用预言机。然而，如果你正在设计一个高可靠系统，确保其具备预言机本就是你的本职工作之一！在 TigerBeetle，我们为 Jepsen 测试所做的第一批工作之一就是通过 API 暴露内部时间戳，以便 Jepsen 更容易发现 bug（TigerBeetle 与其内部模拟器 VOPR 进行了协同设计，而 VOPR 自然能够访问时间戳以及其他所有数据）。对于正则表达式引擎而言，构思一个预言机并不困难，因为它们通常已经在单一外观接口下内置了多种专门的实现，这些实现可以相互交叉验证。\n但 regex 的情况甚至更为简单（这也使其成为一个绝佳的案例研究）。社区中有一个提供了相同 API 的 regex_lite crate。\n因此计划如下：生成一个正则表达式和一个输入文本，然后检查 regex 和 regex_lite 是否给出完全相同的结果。\n我将从生成随机字符串的代码开始，因为它比较简单，但仍然能展现一些不平凡的想法。首先，我们需要一个随机数生成器：\n虽然存在更花哨的技术（能够为你提供测试用例最小化、穷举搜索或覆盖引导的探索），但核心认知在于：即便是一个朴素的伪随机数生成器（PRNG），只要善加利用，其效果也是极其显著的。\n当你开始接触随机化测试时，本能往往是去生成某种规模庞大的输入——不，是极其庞大的输入！regex 面对 5 GiB 的输入肯定会崩溃吧？这种思路通常是错误的。Bug 通常涉及体量小却构思巧妙的示例，它们通过结合少数几个特性之间的相互作用来触发问题。一个所有字符都相同的字符串，往往比每个字符都独一无二的纯随机字符串更容易触发 bug。\n因此，我生成字符串的默认方法是这样的。首先，我固定可能字符的字符集字母表。获取它的一个好方法是对所有单元测试中的字符进行 sort | unique。然后，针对每个具体的字符串，我从该字母表中挑选一个子集。我既想要包含所有字符的字符串，也想要仅由 a 和 b 组成的长字符串！接着，我使用给定的字母表子集生成字符串，字符串的长度也是随机选取的。\n为了使模糊测试保持高效，我希望每次迭代都尽可能快速，因此我确保在各次迭代间复用内存，在局部实现静态分配：\n对于这种先生成字母表、再生成字符串的两步流程，有一种很好的理解方式。生成字符串时，你需要字符的分布概率。你可以在上百万次迭代中每次都使用相同的分布。但让测试变得更加多样的简便方法是让分布本身也随机化。我把这种“将分布本身随机化”的想法归类为群测试（swarm testing）。\n让我们在生成正则表达式时应用相同的技巧：\n我们先从第一个开始：\n正则表达式具有分支 r1|r2、重复 r*、通配符 . 以及字面量 a。我没有采用非开即关的二元方式来启用或禁用某个特定特性，而是为每个特性分配了一个介于 0 到 100 之间的权重，这样更通用一些。sum 是所有权重的总和。为了随机选择一个特性，我们需要生成一个介于 0..sum 之间的数字，并查看它落在哪个区间。\n在更严肃的工程中，我会为概率和分布引入显式类型，但就局部小规模而言，一个两位数就完全够用了。\n这就是我生成 ReOptions 的方式，确保字面量始终具有非零权重，并为它们选择一个字母表：\n现在我们就可以生成正则表达式了。采用递归方式实现会很方便。为了避免内存分配，输出缓冲区会被传递下去。为了控制正则表达式的长度，还需要传递一个大小参数，并且“分支”递归调用会在子节点之间分配该大小：\n鉴于编译正则表达式的速度相对较慢，对同一对正则表达式尝试多个字符串似乎是个好主意，由此得出了以下代码：\n它生成了与 issue 中类似的示例，带有共同的后缀：\n但也生成了有所不同的示例，不包含共享后缀：\nhttps://github.com/matklad/regex-fuzz",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：重点是展示如何为算法构造有效的测试预言机，并通过随机生成正则表达式和输入文本、交叉比对不同实现结果来发现错误。文章强调小而刁钻的输入、随机化分布、复用内存、递归生成和多实现交叉验证等工程技巧，同时主张发现已知缺陷也有助于改进模糊测试器。作者明确承认该案例不能充分证明生成式测试普遍优于单元测试。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T19:57:54.000Z",
+            "url": "https://matklad.github.io/2026/09/19/finding-bugs.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ity-recover-drought-html-9e09d3f984f5383d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Classifying groundwater systems by their ability to recover from drought",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:40:16.000Z",
+        "pubTime": "2026-10-01 04:40",
+        "url": "https://phys.org/news/2026-09-groundwater-ability-recover-drought.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/groundwater-levels.jpg",
+        "fullContent": "A few days of rain do not change low groundwater levels after a long drought. To better determine how groundwater systems recover after a drought and which groundwater reserves are most vulnerable, hydrologist Sandra Hauswirth developed a method to classify groundwater systems based on their ability to recover from prolonged drought.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-01 04:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-groundwater-ability-recover-drought.html",
+            "publishedAt": "2026-09-30T20:40:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-30-pilot-2121336588-html-e06207fb5e0e6f7a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Посольство Индии в Эр-Рияде сообщило о состоянии капитана Flydubai",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T20:44:32.000Z",
+        "pubTime": "2026-10-01 04:44",
+        "url": "https://ria.ru/20260930/pilot-2121336588.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-01 04:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/pilot-2121336588.html",
+            "publishedAt": "2026-09-30T20:44:32.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ni-models-gemini-4-argon-6381db252deeabb6",
+        "title": "要闻：Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，",
+        "originalTitle": "Gemini 4 Argon",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:04:37.000Z",
+        "pubTime": "2026-10-01 04:04",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "imageUrl": null,
+        "fullContent": "Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nYour browser does not support the audio element.\n\nToday, we’re announcing our new frontier model, Gemini 4 Argon, which is rolling out to a set of trusted cyber defenders through our Fairwind Program. Built to sustain deep reasoning across complex, long-horizon workflows, Argon is fundamentally changing the way we work and build at Google. It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.Safely releasing frontier capabilities at this level requires a phased approach. We are actively engaged in the U.S. government’s voluntary process for pre-release model access while we gradually expand access. We’ll continue to gather feedback from early testers as we iterate on guardrails before making Argon available to developers, enterprises, and consumers as soon as possible.Argon will launch at an introductory price 1 of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price.\n\nToday, we’re announcing our new frontier model, Gemini 4 Argon, which is rolling out to a set of trusted cyber defenders through our Fairwind Program. Built to sustain deep reasoning across complex, long-horizon workflows, Argon is fundamentally changing the way we work and build at Google. It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.\n\nSafely releasing frontier capabilities at this level requires a phased approach. We are actively engaged in the U.S. government’s voluntary process for pre-release model access while we gradually expand access. We’ll continue to gather feedback from early testers as we iterate on guardrails before making Argon available to developers, enterprises, and consumers as soon as possible.\n\nArgon will launch at an introductory price 1 of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price.\n\nChanging how we work and build at GoogleGemini 4 Argon is already powering our internal workflows, with thousands of Googlers highlighting the model’s strengths in specialized coding tasks, conducting deeper research, and writing quality. It’s helping teams build faster and push the boundaries of engineering productivity and accelerating breakthroughs:\n\nGemini 4 Argon is already powering our internal workflows, with thousands of Googlers highlighting the model’s strengths in specialized coding tasks, conducting deeper research, and writing quality. It’s helping teams build faster and push the boundaries of engineering productivity and accelerating breakthroughs:\n\nQuantum algorithmic optimization: Argon is helping our quantum computing researchers optimize the spacetime resources (qubits × gates) of subroutines that bottleneck important applications. In one example, it beat the published baseline by 40% in a matter of minutes.\n\nMemory efficiency: A team of Argon agents analyzed fleet-wide profiling telemetry to autonomously identify and apply memory optimizations across Google’s data centers, freeing up over 300 TiB of memory once rolled out, with an estimated 500 TiB to 1 PiB in total savings.\n\nLarge Scale Codebase Migrations and Optimizations: Argon agents are working on migrating C/C++ codebases to Rust across Google—scaling from tens of thousands of lines in core libraries like re2, libgav1 up to 800K+ lines for the Fuchsia OS Zircon kernel. Given the criticality of many of these systems, such large-scale rewrites are undergoing rigorous automated and manual auditing, emulation testing, and review before rolling out to production.For libgav1, Google's open source software for decoding video, Argon agents took an existing Rust port and replaced 32K lines of SIMD code by running many rounds of profile-guided experiments, studying the compiler's output, producing safe Rust so the compiler would vectorize it automatically. The end result is a memory-safe video decoder that runs 2.7x faster than the Rust port, with identical video output, bringing it closer to the optimized C++.\n\nWorking harder on your most complex problemsTo support Gemini 4 Argon’s capabilities across longer, more complex use cases, we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens. When the model has the headroom to think deeply and generate hundreds of thousands of tokens in a single trajectory, it adds a new level of depth in reasoning to solve tough problems in one go.\n\nTo support Gemini 4 Argon’s capabilities across longer, more complex use cases, we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens. When the model has the headroom to think deeply and generate hundreds of thousands of tokens in a single trajectory, it adds a new level of depth in reasoning to solve tough problems in one go.\n\nEnabling coding and enterprise workflows across domainsGemini 4 Argon’s capabilities across coding, reasoning, and multimodality and its ability to sustain long, multi-step tasks enable it to excel across a range of enterprise workflows.Google engineers have been using Argon for their daily tasks, from everyday debugging to large-scale codebase migrations and algorithm designs. It sets a new state of the art on DeepSWE v1.1 (77.9%), which measures a model’s performance in real-world long-horizon software engineering tasks.Beyond coding, Argon is the leading model on the Vals Index, which measures economic impact across finance, coding, legal, and tax work, with every sector weighted by its contribution to U.S. GDP. We see similarly leading performance across other domain specific evaluations, like Vals Finance Agent v2 (multi-step financial research) and Harvey’s Legal Agent Benchmark (legal research and drafting). On AutomationBench, Zapier’s benchmark measuring end-to-end execution across core business functions, Argon ranks #1 with a score of 51.3%.Argon is also uniquely strong when knowledge work requires visual understanding. It’s able to drive professional chart analysis, identify details from long videos, and take action based on a series of documents. For example, on LVBench, which measures long video understanding, Argon is state of the art with a score of 91.7%.\n\nGemini 4 Argon’s capabilities across coding, reasoning, and multimodality and its ability to sustain long, multi-step tasks enable it to excel across a range of enterprise workflows.\n\nGoogle engineers have been using Argon for their daily tasks, from everyday debugging to large-scale codebase migrations and algorithm designs. It sets a new state of the art on DeepSWE v1.1 (77.9%), which measures a model’s performance in real-world long-horizon software engineering tasks.\n\nBeyond coding, Argon is the leading model on the Vals Index, which measures economic impact across finance, coding, legal, and tax work, with every sector weighted by its contribution to U.S. GDP. We see similarly leading performance across other domain specific evaluations, like Vals Finance Agent v2 (multi-step financial research) and Harvey’s Legal Agent Benchmark (legal research and drafting). On AutomationBench, Zapier’s benchmark measuring end-to-end execution across core business functions, Argon ranks #1 with a score of 51.3%.\n\nArgon is also uniquely strong when knowledge work requires visual understanding. It’s able to drive professional chart analysis, identify details from long videos, and take action based on a series of documents. For example, on LVBench, which measures long video understanding, Argon is state of the art with a score of 91.7%.\n\nLeading in defensive cybersecurityTo better equip cyber defenders for the new era of cyberattacks, we trained Gemini 4 Argon to be highly capable at cybersecurity defense. Argon can autonomously find, validate, and patch critical software vulnerabilities. For trusted defenders and our own internal teams at Google, we’ll be releasing Argon without cyber guardrails so they can leverage its full frontier-level cybersecurity defense capabilities.Wiz is already using Argon for cybersecurity defense through its Scan for Good initiative – a program dedicated to protecting critical public infrastructure for free by finding and remediating high-risk exposures. In an early demonstration of its impact, the model uncovered a critical vulnerability exposing sensitive personal information across healthcare software used by hospitals worldwide, identifying a severe risk that previous frontier models had missed.On CWE-bench v1, which evaluates the model’s ability to remediate security vulnerabilities, Argon ties for first place with a top score of 68%, building on 3.8 Flash Cyber’s frontier performance on CWE-bench v0.\n\nTo better equip cyber defenders for the new era of cyberattacks, we trained Gemini 4 Argon to be highly capable at cybersecurity defense. Argon can autonomously find, validate, and patch critical software vulnerabilities. For trusted defenders and our own internal teams at Google, we’ll be releasing Argon without cyber guardrails so they can leverage its full frontier-level cybersecurity defense capabilities.\n\nWiz is already using Argon for cybersecurity defense through its Scan for Good initiative – a program dedicated to protecting critical public infrastructure for free by finding and remediating high-risk exposures. In an early demonstration of its impact, the model uncovered a critical vulnerability exposing sensitive personal information across healthcare software used by hospitals worldwide, identifying a severe risk that previous frontier models had missed.\n\nOn CWE-bench v1, which evaluates the model’s ability to remediate security vulnerabilities, Argon ties for first place with a top score of 68%, building on 3.8 Flash Cyber’s frontier performance on CWE-bench v0.\n\nGemini 4 Argon demonstrates impressive leaps in vulnerability discovery over 3.8 Flash Cyber. For example:On Google’s internal comprehensive vulnerability benchmark, Argon uncovered a wide range of exposures across complex codebases spanning 20 programming languages.On Wiz’s internal black-box penetration testing benchmark, which tests a model’s ability to analyze live web systems without source code, Argon outperforms 3.8 Flash Cyber in discovering the attack surface, identifying vulnerabilities, and producing proof-of-concept evidence to validate them.\n\nGemini 4 Argon demonstrates impressive leaps in vulnerability discovery over 3.8 Flash Cyber. For example:\n\nStrengthening frontier safeguards before broad availabilityBefore rolling out Gemini 4 Argon broadly, we’re continuing to strengthen critical frontier safeguards across four main areas:Defending against misuse: To prevent bad actors from using Argon for cyber or chemical, biological, radiological, and nuclear (CBRN) attacks, the model is designed to refuse harmful requests while preserving legitimate, dual-use scientific research, as per our Frontier Safety Framework. We are strengthening the robustness of our safeguards for this launch, including improving our techniques to monitor the model’s internal activations to spot misuse. These safeguards underwent robustness testing by internal and external red teams using a combination of manual and automated attack methods.Defending against prompt injection attacks: Argon is also our most resilient model yet against indirect prompt injections, where malicious instructions or context are used to hijack a model’s behavior. These are complex attacks that require constant vigilance and multiple layers of defense. Through automated red teaming and adversarial training, Gemini 4 Argon is leading in prompt injection robustness on the Gray Swan’s Indirect Prompt Injection (IPI) benchmark.\n\nBefore rolling out Gemini 4 Argon broadly, we’re continuing to strengthen critical frontier safeguards across four main areas:\n\nDefending against misuse: To prevent bad actors from using Argon for cyber or chemical, biological, radiological, and nuclear (CBRN) attacks, the model is designed to refuse harmful requests while preserving legitimate, dual-use scientific research, as per our Frontier Safety Framework. We are strengthening the robustness of our safeguards for this launch, including improving our techniques to monitor the model’s internal activations to spot misuse. These safeguards underwent robustness testing by internal and external red teams using a combination of manual and automated attack methods.\n\nDefending against prompt injection attacks: Argon is also our most resilient model yet against indirect prompt injections, where malicious instructions or context are used to hijack a model’s behavior. These are complex attacks that require constant vigilance and multiple layers of defense. Through automated red teaming and adversarial training, Gemini 4 Argon is leading in prompt injection robustness on the Gray Swan’s Indirect Prompt Injection (IPI) benchmark.\n\nMonitoring for misalignment: In order to prevent Argon from stepping out of bounds to try to accomplish a task in a way that goes beyond the user’s intentions, we are deploying misalignment mitigations that monitor Argon’s chain-of-thought and actions and stop execution when necessary.We used a similar system to monitor our training runs and send alerts to a dedicated incident response team, taking careful precautions against feeding the findings back into training so as to not risk shaping Argon’s reasoning to evade our monitoring. We strongly encourage the rest of the industry to preserve reasoning transparency in these pivotal moments of increased capabilities while navigating alignment risks, so that model thoughts remain helpful in identifying and diagnosing misalignment.Hardening systems: As frontier models grow increasingly capable, safely testing them requires secure environments that can keep up with the systems themselves. In line with our agent control roadmap, we are hardening our sandboxed environments by isolating and sealing them before high-risk training or evaluations begin. We’re committed to sharing these agent security best practices with our partners to improve security across the ecosystem.\n\nMonitoring for misalignment: In order to prevent Argon from stepping out of bounds to try to accomplish a task in a way that goes beyond the user’s intentions, we are deploying misalignment mitigations that monitor Argon’s chain-of-thought and actions and stop execution when necessary.\n\nWe used a similar system to monitor our training runs and send alerts to a dedicated incident response team, taking careful precautions against feeding the findings back into training so as to not risk shaping Argon’s reasoning to evade our monitoring. We strongly encourage the rest of the industry to preserve reasoning transparency in these pivotal moments of increased capabilities while navigating alignment risks, so that model thoughts remain helpful in identifying and diagnosing misalignment.\n\nHardening systems: As frontier models grow increasingly capable, safely testing them requires secure environments that can keep up with the systems themselves. In line with our agent control roadmap, we are hardening our sandboxed environments by isolating and sealing them before high-risk training or evaluations begin. We’re committed to sharing these agent security best practices with our partners to improve security across the ecosystem.\n\nAfter the introductory period expires, the price of $4 per 1M input tokens and $20 per 1M output tokens will apply.\n\nKoray is one of the world's foremost experts in artificial intelligence. As the SVP of Google DeepMind, he leads the development of Google DeepMind’s state-of-the art generative AI models and their integration into Google’s products at scale. Prior to his current role, he was VP of Research at Google DeepMind, where he founded the deep learning team and his team pioneered major research breakthroughs such as DQN (Deep Q-Network) and WaveNet.",
+        "fullTranslation": "Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，均展现出前沿性能。\nGoogle DeepMind 高级副总裁兼 Google 首席人工智能架构师\n您的浏览器不支持该音频元素。\n今天，我们正式发布全新的前沿模型 Gemini 4 Argon。该模型正通过我们的 Fairwind 计划，面向一组值得信赖的网络安全防御人员逐步推出。Argon 旨在支撑复杂、长周期的深度推理工作流，正在从根本上改变我们在 Google 的工作与构建方式。它在现实软件工程、法律与金融等企业知识工作以及网络安全防御等复杂工作流中均展现出前沿性能。要安全发布达到这一水准的前沿能力，需要采取分阶段的方式。在我们逐步扩大访问权限的同时，我们正在积极参与美国政府针对模型发布前访问的自愿性流程。在尽快向开发者、企业和消费者开放 Argon 之前，我们将继续收集早期测试人员的反馈，不断迭代安全防护机制。Argon 上线时的早鸟价格为每百万输入 token 2 美元，每百万输出 token 10 美元，缓存输入 token 的价格享受输入 token 原价 9.5 折优惠（减免 95%）。\n今天，我们正式发布全新的前沿模型 Gemini 4 Argon。该模型正通过我们的 Fairwind 计划，面向一组值得信赖的网络安全防御人员逐步推出。Argon 旨在支撑复杂、长周期的深度推理工作流，正在从根本上改变我们在 Google 的工作与构建方式。它在现实软件工程、法律与金融等企业知识工作以及网络安全防御等复杂工作流中均展现出前沿性能。\n要安全发布达到这一水准的前沿能力，需要采取分阶段的方式。在我们逐步扩大访问权限的同时，我们正在积极参与美国政府针对模型发布前访问的自愿性流程。在尽快向开发者、企业和消费者开放 Argon 之前，我们将继续收集早期测试人员的反馈，不断迭代安全防护机制。\nArgon 上线时的早鸟价格为每百万输入 token 2 美元，每百万输出 token 10 美元，缓存输入 token 的价格享受输入 token 原价 9.5 折优惠（减免 95%）。\n改变我们在 Google 的工作与构建方式。Gemini 4 Argon 已经开始支持我们的内部工作流，数千名谷歌员工都强调了该模型在专业化编程任务、开展更深入研究以及高质量写作方面的优势。它正在帮助团队更快地进行构建，突破工程生产力的边界，并加速突破性进展：\nGemini 4 Argon 已经开始支持我们的内部工作流，数千名谷歌员工都强调了该模型在专业化编程任务、开展更深入研究以及高质量写作方面的优势。它正在帮助团队更快地进行构建，突破工程生产力的边界，并加速突破性进展：\n量子算法优化：Argon 正在帮助我们的量子计算研究人员优化子程序的时空资源（量子比特 × 量子门），这些子程序曾是制约重要应用的瓶颈。在一个范例中，它在短短几分钟内就将已发表的基准性能提升了 40%。\n内存效率提升：一个由 Argon 智能体（Agent）组成的团队分析了全机群的性能分析遥测数据，在 Google 各大数据中心中自主识别并应用内存优化方案。全面上线后已释放超过 300 TiB 的内存，预计总计可节省 500 TiB 至 1 PiB 内存。\n大规模代码库迁移与优化：Argon 智能体正在 Google 内部开展将 C/C++ 代码库迁移至 Rust 的工作——规模从 re2、libgav1 等核心库中的数万行代码，一直延伸到 Fuchsia OS Zircon 内核的 80 多万行代码。鉴于其中许多系统的关键重要性，此类大规模重写在正式推向生产环境前，都要经过严密的自动化与人工审计、仿真测试以及代码审查。针对 Google 用于视频解码的开源软件 libgav1，Argon 智能体接手了一个现有的 Rust 移植版本，并通过运行多轮基于性能分析指导的实验（PGO）、研究编译器输出，生成安全 Rust 代码以使编译器自动完成向量化，最终替换掉了 3.2 万行 SIMD 代码。最终成果是一个内存安全的视频解码器，运行速度比原 Rust 移植版快 2.7 倍，且视频输出完全一致，性能已逼近经过高度优化的 C++ 版本。\n更卖力地应对您最棘手的复杂难题。为了支持 Gemini 4 Argon 在更长、更复杂的用例中的能力，我们大幅扩展了模型的输出 token 上限，从原先的 64K tokens 跃升至业内领先的 100 万 tokens。当模型拥有足够的空间进行深度思考并在单次推理轨迹中生成数十万个 token 时，它就具备了全新的推理深度，能够一气呵成地解决棘手问题。\n为了支持 Gemini 4 Argon 在更长、更复杂的用例中的能力，我们大幅扩展了模型的输出 token 上限，从原先的 64K tokens 跃升至业内领先的 100 万 tokens。当模型拥有足够的空间进行深度思考并在单次推理轨迹中生成数十万个 token 时，它就具备了全新的推理深度，能够一气呵成地解决棘手问题。\n赋能跨领域的编程与企业工作流。Gemini 4 Argon 在代码、推理与多模态方面的能力，以及支撑长周期、多步骤任务的能力，使其能够在各种企业工作流中大放异彩。Google 工程师一直在日常任务中使用 Argon，涵盖从日常调试到大规模代码库迁移及算法设计的方方面面。它在衡量模型在真实世界长周期软件工程任务表现的 DeepSWE v1.1 基准上刷新了最高纪录（SOTA），得分为 77.9%。在编程之外，Argon 在 Vals 指数上同样处于领先地位，该指数衡量金融、编程、法律和税务工作中的经济影响，各行业权重依其对美国 GDP 的贡献而定。我们在其他特定领域评测中也看到了类似的领先表现，例如 Vals Finance Agent v2（多步金融研究）和 Harvey 的 Legal Agent Benchmark（法律研究与起草）。在衡量跨核心业务职能端到端执行能力的 Zapier 基准 AutomationBench 上，Argon 以 51.3% 的得分位列第一。当知识工作需要视觉理解时，Argon 也展现出独特的强大实力。它能够胜任专业的图表分析、从长视频中识别细节，并根据一系列文档采取行动。例如，在衡量长视频理解能力的 LVBench 上，Argon 以 91.7% 的得分刷新了最高纪录。\nGemini 4 Argon 在代码、推理和多模态方面的能力，以及支撑长周期、多步骤任务的能力，使其在各种企业工作流中表现卓越。\n\n谷歌工程师一直在日常任务中使用 Argon，从常规调试到大规模代码库迁移和算法设计。它在 DeepSWE v1.1 基准测试中创下了 77.9% 的行业顶尖（SOTA）成绩，该基准用于衡量模型在真实、长周期的软件工程任务中的表现。\n\n除编程之外，Argon 在 Vals Index 上也是领先的模型；该指数以各行业对美国 GDP 的贡献为权重，衡量模型在金融、编程、法律和税务工作中的经济影响。在其他特定领域的评估中，我们也看到了类似的领先表现，例如 Vals Finance Agent v2（多步骤金融研究）和 Harvey 的 Legal Agent Benchmark（法律研究与起草）。在 Zapier 用于衡量核心业务职能端到端执行能力的 AutomationBench 上，Argon 以 51.3% 的得分位列第一。\n\n当知识工作需要视觉理解时，Argon 也展现出独特的优势。它能够进行专业的图表分析，从长视频中识别细节，并根据一系列文档采取行动。例如，在衡量长视频理解能力的 LVBench 上，Argon 以 91.7% 的得分达到业界领先水平。\n\n在网络安全防御方面保持领先：为了让网络防御人员更好地应对新时代的网络攻击，我们对 Gemini 4 Argon 进行了训练，使其具备强大的网络安全防御能力。Argon 能够自主发现、验证并修补关键软件漏洞。针对受信任的防御人员以及谷歌内部团队，我们将发布没有网络安全护栏（cyber guardrails）的 Argon 版本，以便他们充分利用其最前沿的网络安全防御能力。Wiz 已经通过其“Scan for Good”倡议在网络安全防御中应用了 Argon——该计划致力于通过发现并修复高危暴露面，免费保护关键公共基础设施。在对其影响的早期演示中，该模型发现了一个严重漏洞，该漏洞暴露了全球医院所使用的医疗软件中的敏感个人信息，从而查明了以往前沿模型所忽略的严重风险。在评估模型修复安全漏洞能力的 CWE-bench v1 上，Argon 在 3.8 Flash Cyber 于 CWE-bench v0 上前沿表现的基础上，以 68% 的最高分并列第一。\n\n为了让网络防御人员更好地应对新时代的网络攻击，我们对 Gemini 4 Argon 进行了训练，使其具备强大的网络安全防御能力。Argon 能够自主发现、验证并修补关键软件漏洞。针对受信任的防御人员以及谷歌内部团队，我们将发布没有网络安全护栏的 Argon 版本，以便他们充分利用其最前沿的网络安全防御能力。\n\nWiz 已经通过其“Scan for Good”倡议在网络安全防御中应用了 Argon——该计划致力于通过发现并修复高危暴露面，免费保护关键公共基础设施。在对其影响的早期演示中，该模型发现了一个严重漏洞，该漏洞暴露了全球医院所使用的医疗软件中的敏感个人信息，从而查明了以往前沿模型所忽略的严重风险。\n\n在评估模型修复安全漏洞能力的 CWE-bench v1 上，Argon 在 3.8 Flash Cyber 于 CWE-bench v0 上前沿表现的基础上，以 68% 的最高分并列第一。\n\nGemini 4 Argon 在漏洞发现方面相比 3.8 Flash Cyber 展现出了令人瞩目的飞跃。例如：在谷歌内部的综合漏洞基准测试中，Argon 在涵盖 20 种编程语言的复杂代码库中发现了广泛的风险暴露。在 Wiz 的内部黑盒渗透测试基准（测试模型在没有源代码的情况下分析运行中 Web 系统的能力）中，Argon 在发现攻击面、识别漏洞以及生成概念验证（PoC）证据进行验证方面均优于 3.8 Flash Cyber。\n\nGemini 4 Argon 在漏洞发现方面相比 3.8 Flash Cyber 展现出了令人瞩目的飞跃。例如：\n\n在广泛推出之前强化前沿安全保障措施：在广泛推出 Gemini 4 Argon 之前，我们正在四个主要领域持续强化关键的前沿安全保障措施：防范滥用：为了防止不良行为者将 Argon 用于网络攻击或化学、生物、放射性及核（CBRN）攻击，根据我们的《前沿安全框架》（Frontier Safety Framework），该模型被设计为在拒绝有害请求的同时，保留合法的军民两用科学研究。我们在本次发布中增强了防护措施的稳健性，包括改进监控模型内部激活以发现滥用行为的技术。这些防护措施由内部和外部红队通过人工与自动化攻击相结合的方式进行了稳健性测试。防范提示词注入攻击：Argon 也是我们迄今为止对间接提示词注入（即利用恶意指令或上下文劫持模型行为）最具抵御能力的模型。这类复杂的攻击需要持续警惕和多层防御。通过自动化红队测试和对抗性训练，Gemini 4 Argon 在 Gray Swan 的间接提示词注入（IPI）基准测试中的提示词注入稳健性处于领先地位。\n\n在广泛推出 Gemini 4 Argon 之前，我们正在四个主要领域持续强化关键的前沿安全保障措施：\n\n防范滥用：为了防止不良行为者将 Argon 用于网络攻击或化学、生物、放射性及核（CBRN）攻击，根据我们的《前沿安全框架》，该模型被设计为在拒绝有害请求的同时，保留合法的军民两用科学研究。我们在本次发布中增强了防护措施的稳健性，包括改进监控模型内部激活以发现滥用行为的技术。这些防护措施由内部和外部红队通过人工与自动化攻击相结合的方式进行了稳健性测试。\n\n防范提示词注入攻击：Argon 也是我们迄今为止对间接提示词注入（即利用恶意指令或上下文劫持模型行为）最具抵御能力的模型。这类复杂的攻击需要持续警惕和多层防御。通过自动化红队测试和对抗性训练，Gemini 4 Argon 在 Gray Swan 的间接提示词注入（IPI）基准测试中的提示词注入稳健性处于领先地位。\n\n监测失配：为了防止 Argon 越界，以超出用户意图的方式完成任务，我们正在部署失配缓解措施，监测 Argon 的思维链和行动，并在必要时停止执行。\n\n我们采用了类似系统来监测训练运行，并向专门的事件响应团队发送警报，同时谨慎采取措施，避免将相关发现反馈至训练过程，以免有可能塑造出能够规避监测的 Argon 推理方式。在应对对齐风险的同时，随着模型能力在这些关键时刻不断增强，我们强烈鼓励业界其他机构保持推理透明度，从而使模型思维能够继续帮助识别和诊断失配问题。\n\n强化系统：随着前沿模型的能力日益增强，要安全地测试这些模型，就需要配备能够跟上模型本身发展的安全环境。按照我们的智能体控制路线图，我们正在强化沙盒环境：在开始高风险训练或评估之前，对其进行隔离并封闭。我们致力于与合作伙伴分享这些智能体安全最佳实践，以提升整个生态系统的安全性。\n\n监测失配：为了防止 Argon 越界，以超出用户意图的方式完成任务，我们正在部署失配缓解措施，监测 Argon 的思维链和行动，并在必要时停止执行。\n\n我们采用了类似系统来监测训练运行，并向专门的事件响应团队发送警报，同时谨慎采取措施，避免将相关发现反馈至训练过程，以免有可能塑造出能够规避监测的 Argon 推理方式。在应对对齐风险的同时，随着模型能力在这些关键时刻不断增强，我们强烈鼓励业界其他机构保持推理透明度，从而使模型思维能够继续帮助识别和诊断失配问题。\n\n强化系统：随着前沿模型的能力日益增强，要安全地测试这些模型，就需要配备能够跟上模型本身发展的安全环境。按照我们的智能体控制路线图，我们正在强化沙盒环境：在开始高风险训练或评估之前，对其进行隔离并封闭。我们致力于与合作伙伴分享这些智能体安全最佳实践，以提升整个生态系统的安全性。\n\n介绍期结束后，将执行每 100 万个输入令牌 4 美元、每 100 万个输出令牌 20 美元的价格。\n\nKoray 是全球最杰出的人工智能专家之一。作为 Google DeepMind 的高级副总裁，他负责开发 Google DeepMind 最先进的生成式人工智能模型，并推动这些模型大规模集成到 Google 的产品中。在担任现职之前，他曾任 Google DeepMind 研究副总裁，并在那里创立了深度学习团队；其团队率先取得了 DQN（深度 Q 网络）和 WaveNet 等重大研究突破。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 22,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:04:37.000Z",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+          }
+        ]
+      },
+      {
+        "id": "story-4-46c2-968f-f2a69d263d35-616929e1088146e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "One pilot of Israel-bound flight stabbed the other and tried to crash plane",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:14:13.000Z",
+        "pubTime": "2026-10-01 04:14",
+        "url": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90128188-b833-401b-ba7d-728767ea809f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-01 04:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-30T20:14:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-projects-btr-1bcb877126702d5d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T18:06:19.000Z",
+        "pubTime": "2026-10-01 02:06",
+        "url": "https://www.vusec.net/projects/btr/",
+        "imageUrl": null,
+        "fullContent": "We present Branch Target Reuse (BTR), a new Spectre-v2 attack targeting just-in-time (JIT) compilers. BTR affects the JIT engines found in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. We analyzed the attack surface of Linux cBPF, Oracle GraalVM and SpiderMonkey (the JIT engine of the Firefox browser), and built two end-to-end exploits against the Linux kernel.\n\nThe key insight behind the attack is that, while modern CPUs restore architectural code coherence after self-modification, they do not necessarily invalidate stale indirect branch prediction entries (i.e., branch targets). In JIT engines, these stale targets can outlive the original code and later be reused when the code cache is repopulated, yielding a speculative execute-after-free primitive. This allows attackers to hijack speculative control flow to newly generated code at obsolete offsets, bypassing software hardening or reaching misaligned gadgets.\n\nFigure 1 gives an overview of the attack.\n\nFigure 1: The attacker lures the JIT engine into allocating a new code section, the training chunk ①, and trains the indirect branch by jumping to it ②. Next, the attacker forces a deallocation of the training chunk ③ and an allocation of the target chunk that partially reuses the same address ④. When the attacker triggers the indirect branch again, the CPU uses the now-stale branch target buffer (BTB) entry and speculatively jumps to the old training-chunk entry point ⑤, resulting in control-flow hijacking and secret data disclosure.\n\nWe built an end-to-end BTR exploit that leaks arbitrary memory on modern Intel CPUs, bypassing all enabled mitigations. Check out the demo below!\n\nFigure 2: BTR exploit with Linux kernel cBPF.\n\nOur exploit leaks 8 bytes per second. That may sound slow, but with careful pointer chasing we only need to leak a small amount of data to reach the secret. In the demo above, we leak the root password hash from the “su” process. We first run “su root”, which loads the root password hash into memory.\n\nOnce the attack is set up ([0:42]), we walk the Linux kernel task list. Since it is a linked list, we walk it backwards by leaking each “prev” pointer. For every task struct, we check whether the PID matches our victim. Once we find the correct task struct ([0:52]), we leak the “mm” struct and start walking the page tables. For every mapped page, we check whether it contains the root password hash. Once we find the correct page, we leak the hash! 😎\n\nThe Linux kernel can harden cBPF at runtime with the `bpf_jit_harden` option (see Linux documentation). When enabled, it applies constant blinding to immediate values to prevent direct JIT spraying. The option is off by default, but we took on the challenge of bypassing it anyway, and succeeded! We adapted an existing JIT-spraying technique that encodes instructions in jump offsets and applied it to cBPF for the first time. See the details below.\n\nSpiderMonkey is the JavaScript and WebAssembly engine of Firefox. Like every modern JavaScript engine, it JIT-compiles frequently executed (“hot”) code for performance, and that JIT compiler is exactly what we attack. The threat model is simple: a malicious web page controls the JavaScript that runs in your browser. Since Firefox has not yet fully deployed site isolation, other tabs can end up in the same address space, making their data a perfect target.\n\nWe investigated whether BTR works in SpiderMonkey and found attacks to be feasible. WebAssembly instructions such as `f64.const` store their constants in a literal pool inside the executable code buffer. With BTR, we can speculatively jump straight into that pool, which gives us speculative arbitrary code execution. We built a proof of concept (PoC) and observed that, on Intel CPUs, BTB entries survive the full deallocation and reallocation cycle, for an estimated leakage rate on the order of tens of bytes per second. Turning this into an end-to-end browser exploit requires further work.\n\nGraalVM is Oracle’s multi-language runtime, which JIT-compiles the code it runs. It offers a sandbox for untrusted guest code, and in its strictest mode that sandbox is explicitly hardened against Spectre attacks: every memory access the guest makes is masked so that it cannot reach outside the sandbox arena. The threat model here is untrusted code that you deliberately run in that sandbox, such as a plugin or a user-supplied script.\n\nThat masking only helps if execution enters the code from its natural entry point. We used GraalPy, GraalVM’s Python implementation, to generate functions whose compiled form contains an array access preceded by such a masking operating. With BTR, we speculatively jump past the masking operation, straight into the load (as in Figure 1). The access is now unbounded and happily reads outside the arena. This gives us stable address reuse, but, in our experiments, the engine’s own compilation and garbage collection (GC) activity wipes the BTB entries before we can use them. This limitation does not appear fundamental, and better scheduling or smarter memory massaging may well close the gap.\n\nWe disclosed our findings to affected hardware and software vendors, which acknowledged our findings. The hardware vendors stated that mitigating mechanisms (e.g., IBPB) already exist, and that BTR mitigations should be deployed in software. The Linux kernel developers and Oracle have deployed mitigations.\n\nLinux kernel. The kernel developers upstreamed a new mitigation for x86 that issues an IBPB on all cores when a cBPF program reuses a previously executed cBPF/eBPF region, and discourages such reuse as an optimization. The mitigation applies whether or not IBT is enabled. Two CVEs were assigned:\n\nOracle. GraalVM instead hinders region reuse by randomizing JIT code-cache locations.\n\nMozilla. Mozilla considered IBPB-based mitigations, but is currently prioritizing the completion and deployment of site isolation.\n\nFollowing the jump-offset technique introduced by Maisuradze et al. (2016), we bypass cBPF constant blinding by encoding attacker-controlled bytes in the offset bytes of forward jumps instead of in immediates. The same byte sequence can be decoded as a valid chain of cBPF jumps in one alignment and as a “dispatch” gadget when execution re-enters two bytes later, yielding an end-to-end exploit against cBPF even with blinding enabled.\n\nSince the maximum forward jump offset is 0x014fc5, we control only the lower two bytes of the offset, and the upper bytes remain zero. To stay in the misaligned execution stream, we carefully select instructions so that the next instruction consumes at least one of the remaining bytes.\n\nFigure 3: cBPF constant-blinding bypass via jump offsets. In the aligned view, the JIT emits a chain of valid forward jumps. In the misaligned view, the same bytes decode as a gadget that loads attacker-controlled data, propagates it to `rdi` and `rdx`, and then jumps to the disclosure gadget via an attacker-controlled indirect jump.\n\nIs my system affected?Most likely. Indirect branch prediction is inherent to modern CPUs, and BTR exploits the desynchronization between the branch predictor and the actual state of the code. No current CPU has a mechanism to keep the two in sync, so until vendors add one, your CPU is vulnerable. We confirmed this behavior on every CPU we tested, covering Intel, AMD and Arm. Mitigation is left to software (see “Deployed mitigations”).\n\nHow do I protect my system?Update your OS and software as soon as vendor patches are available. Both the Linux kernel and Oracle have released patches.\n\nDoes IBT/BTI protect me?These mitigations raise the bar, but do not eliminate the risk. Indirect Branch Tracking (x86) and Branch Target Identification (Arm) require indirect branch targets to start with an `endbr64` or `BTI` instruction. On older Intel CPUs, one or more instructions can still execute speculatively before that check (Lion Cove is the first race-free Intel generation we found).Even on race-free implementations, an attacker can inject bytes into JIT-compiled code that encode `endbr64` and reach them through misaligned execution, turning them into a valid landing pad. We were only able to do so with constant blinding disabled, which makes race-free IBT combined with constant blinding a much stronger defense. Exploitable gadgets may still exist on the speculative return path. See the paper for more details.\n\nThe “Branch Target Reuse” paper has been accepted for publication at the ACM Conference on Computer and Communications Security (CCS) 2026. The paper and code are linked below.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T18:06:19.000Z",
+            "url": "https://www.vusec.net/projects/btr/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-todorogi-2121336926-html-2c262960c354e437",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России разработали новые ГОСТы с правилами проектирования автодорог",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T20:48:02.000Z",
+        "pubTime": "2026-10-01 04:48",
+        "url": "https://ria.ru/20260930/avtodorogi-2121336926.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/07/0b/1883597107_0:57:2000:1182_650x0_80_0_0_c29f801338f56e4010cb52af6495aab6.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-01 04:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/avtodorogi-2121336926.html",
+            "publishedAt": "2026-09-30T20:48:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--of-spying-for-cognition-4cb2561c3fbfaed5",
+        "title": "Factory首席执行官指责其风险投资董事会顾问为Cognition充当商业间谍",
+        "originalTitle": "Factory CEO just accused his VC board advisor of spying for Cognition",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:39:09.000Z",
+        "pubTime": "2026-10-01 04:39",
+        "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+        "imageUrl": null,
+        "fullContent": "Matan Grinberg, co-founder and CEO of the AI coding startup Factory, said in a post on X on Wednesday that he fired VC Chris Degnan from role as a board advisor. Grinberg alleges that Degnan shared confidential information with Factory’s biggest competitor, Cognition.\n\nTwo hours later, Degnan announced on both X and LinkedIn that he has joined Cognition as its chief revenue officer.\n\nDegnan was Snowflake’s first sales hire and later spent 11 years as the data company’s chief revenue officer. He has spent the last five months as a partner with RPT Partners, a Newport Beach, California-based investor in Factory. Degnan’s LinkedIn account also says he is a go-to-market advisor to startups for the much bigger venture firm Iconiq, a role that dates back to October of last year.\n\nThree-old, San Francisco-based Factory is an agentic coding startup whose AI agents can carry out programming tasks largely on their own. The company raised $200 million at a $5 billion valuation this month from Blackstone, Khosla Ventures, Sequoia Capital, Insight Partners and others. Its customers include Nvidia, Blackstone, Royal Bank of Canada, Palo Alto Networks, Adobe, and T-Mobile as customers.\n\nGrinberg said he sees Cognition, maker of the Devin coding agent, as his biggest competitor. Cognition raised another $2 billion at a $48 billion valuation earlier this month, and counts Mercedes-Benz, NASA, Goldman Sachs, and Citi as customers.\n\nGrinberg said on X that Degnan had earlier admitted to having a “casual” conversation with a Cognition executive but had assured Grinberg that he had no interest in working for the competitor. According to Grinberg, Degnan said he had “made too much money” and was “too lazy to go work for Cognition,” which Grinberg said he “trusted and believed.” On Monday, however, Degnan apparently disclosed that he had actually been in ongoing talks with Cognition.\n\nThis caused Grinberg to grow concerned over how much confidential information Degnan had about Factory, and how much he had shared and might share in the future with his new employer. He says he fired Degnan from the board on Tuesday, writing:\n\n“For weeks, while he sat in our board meetings and advised our leadership team, he was also confiding with executives of our largest competitor. Chris was subject to confidentiality obligations in connection with his work with Factory. We do not know the extent of the information he shared, but it puts his timely questions about our product roadmap and what the parity gap involves into a new light.”\n\nDegnan’s post announcing his new job at Cognition doesn’t mention Factory. Very notably, it does say that RPT Ventures and the firm’s managing partner, Chad Peets, will now be working with Cognition. “I am thrilled that Chad and the RPT team will be working closely with me in our pursuit of building a generational company,” Degnan wrote.\n\nIn the old, pre-AI world, a VC firm was especially cautious not to engage in conflict-of-interest business. In today’s world, many a VC has invested in direct AI competitors, such OpenAI and Anthropic.\n\nStill, there could be consequences for perceived board-level conflicts of interest. VC giant Andreessen Horowitz is reportedly the subject of a Justice Department probe into its partners serving on competitors’ boards.\n\nGrinberg argued that startup founders must be able to rely on their board members. “Chris’s conduct is unacceptable to me. Trust in Board Membership is one of the sacred bonds in the Silicon Valley, one that helps the startup ecosystem thrive. With it comes an enormous responsibility. That trust was violated.”\n\nDegnan, Peets, and Factory did not immediately respond to a request for further comment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test\n\nWaymo is scaling fast: Here’s what the fleet data shows\n\nOracle sends force majeure notice on its New Mexico Stargate data center\n\nMeta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "fullTranslation": "AI编程初创公司Factory的联合创始人兼首席执行官马坦·格林伯格（Matan Grinberg）周三在X平台发文称，他已解除了风险投资人克里斯·德格南（Chris Degnan）的董事会顾问职务。格林伯格指控德格南向Factory最大的竞争对手Cognition泄露了机密信息。\n\n两小时后，德格南在X平台和领英（LinkedIn）上宣布，他已加入Cognition担任首席营收官（CRO）。\n\n德格南曾是Snowflake招聘的首位销售人员，随后在这家数据公司担任了11年的首席营收官。在过去五个月中，他一直担任RPT Partners的合伙人，这是一家总部位于加州纽波特比奇的机构，也是Factory的投资方。德格南的领英主页还显示，他还是规模更大的风投公司Iconiq的初创企业市场拓展（GTM）顾问，这一任职可追溯至去年10月。\n\n成立三年的Factory总部位于旧金山，是一家智能体（agentic）编程初创公司，其AI智能体在很大程度上能够自主执行编程任务。该公司本月以50亿美元的估值从黑石集团（Blackstone）、Khosla Ventures、红杉资本（Sequoia Capital）、Insight Partners等机构筹集了2亿美元。其客户包括英伟达（Nvidia）、黑石集团、加拿大皇家银行（Royal Bank of Canada）、派拓网络（Palo Alto Networks）、Adobe以及T-Mobile。\n\n格林伯格表示，他将Devin编程智能体的开发商Cognition视作自己最大的竞争对手。Cognition在本月早些时候以480亿美元的估值又筹集了20亿美元，其客户包括梅赛德斯-奔驰（Mercedes-Benz）、美国国家航空航天局（NASA）、高盛（Goldman Sachs）和花旗银行（Citi）。\n\n格林伯格在X上透露，德格南此前曾承认与Cognition的一名高管有过“随意的”交谈，但他向格林伯格保证，自己对去竞争对手那里工作毫无兴趣。格林伯格称，德格南当时表示自己“赚的钱够多了”，“懒得去Cognition工作”，格林伯格说自己“当时对此深信不疑”。然而在周一，德格南显然透露了他实际上一直在与Cognition保持沟通。\n\n这引发了格林伯格的担忧：德格南到底掌握了多少关于Factory的机密信息，以及他已经与新雇主分享了多少、未来还可能分享多少。格林伯格表示，他已于周二将德格南从董事会解职，并写道：\n\n“数周以来，当他参加我们的董事会会议并向我们的领导团队提供建议时，他同时也在向我们最大竞争对手的高管吐露内情。克里斯在Factory任职期间负有保密义务。我们尚不清楚他泄露了多少信息，但这让他此前针对我们的产品路线图以及功能差距所涉及内容提出的那些恰到好处的提问，有了全新的解读意味。”\n\n德格南宣布入职Cognition的帖子中并未提及Factory。但非常引人注目的是，帖子确实提到RPT Ventures以及该公司的管理合伙人查德·皮茨（Chad Peets）现在将与Cognition合作。德格南写道：“查德和RPT团队将与我紧密合作，共同致力于打造一家跨时代的伟大公司，这让我感到非常兴奋。”\n\n在AI浪潮之前的传统时代，风投机构在规避利益冲突业务方面尤为谨慎。而在当今时代，许多风险投资机构都同时投资了直接竞争的AI对手，例如同时投资OpenAI和Anthropic。\n\n不过，董事会层面的潜在利益冲突仍可能带来法律后果。据报道，风投巨头安德森·霍洛维茨（Andreessen Horowitz）正面临美国司法部的调查，调查内容即涉及其合伙人在竞争对手的董事会中任职。\n\n格林伯格强调，初创企业创始人必须能够信赖其董事会成员。“克里斯的行为在我看来是不可接受的。对董事会成员身份的信任是硅谷神圣的纽带之一，它助力了初创企业生态系统的繁荣。伴随这种信任而来的是巨大的责任。而这种信任遭到了践踏。”\n\n德格南、皮茨以及Factory均未立即回应置评请求。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n第二张门票立减50%——Disrupt大会的体验本就应该与人分享。购买您的门票，携同事、合伙人或同行参会，第二张享五折优惠。通过建立人脉、积累势能并探索初创生态系统的未来方向，实现更大突破。\n\nAMD将以82亿美元收购李飞飞的World Labs\n走红的AI智能体企业Instinct以100亿美元估值完成10亿美元C轮融资\nCrusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划\nAstra与Opus刚刚通过了图灵的另一项测试\nWaymo正在迅速扩张：车队数据透露了这些信息\n甲骨文针对其位于新墨西哥州的Stargate数据中心发出不可抗力通知\nMeta的Muse Charm外观酷似电子宠物，但正契合一项更新潮的趋势",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "AI编程初创公司Factory的联合创始人兼CEO Matan Grinberg周三在X上发文称，已解除风险投资人Chris Degnan的董事会顾问职务，指控其向主要竞争对手Cognition泄露机密信息。",
+          "在Grinberg发文两小时后，Chris Degnan在X和LinkedIn上宣布加入Cognition担任首席营收官（CRO）。",
+          "来源叙事重点：聚焦Factory与前董事会顾问Chris Degnan之间的信任和潜在利益冲突：Grinberg指控Degnan在参与Factory董事会和获取机密信息期间，与竞争对手Cognition接触并可能泄露信息；报道同时强调Degnan随后加入Cognition担任首席营收官，以及其原投资机构RPT Ventures将与Cognition合作。文章还将事件置于AI行业风险投资人同时接触竞争企业、董事会保密义务和利益冲突风险上升的背景中。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:39:09.000Z",
+            "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
+          }
+        ]
+      },
+      {
+        "id": "story-the-right-thing-aaedcaa4-eb32812b788db870",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:45:00.000Z",
+        "pubTime": "2026-10-01 04:45",
+        "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I have $152,000 in my IRA and Roth accounts.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-01 04:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T20:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-th-measles-related-death-12b50a55cf310c15",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pennsylvania reports fifth measles-related death of the year amid outbreak",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:28:06.000Z",
+        "pubTime": "2026-10-01 04:28",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death",
+        "imageUrl": "https://i.guim.co.uk/img/media/89d354123c3dc13547cfe47f6e2ef4fd572974b5/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=132db93339688c8fc5bbfdac00a72667",
+        "fullContent": "Measles outbreak in the state has now reached 39 counties, with 943 confirmed cases and 176 hospitalizations\n\nPennsylvania has reported its fifth measles-associated death of 2026 as the state’s ongoing outbreak climbs to 943 confirmed cases across 39 counties.\n\nThe Pennsylvania department of health said on Wednesday that an unvaccinated Lancaster county resident who tested positive for measles had died. Health officials did not release further information about the individual, citing privacy protections.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宾夕法尼亚州报告了2026年第5例麻疹相关死亡病例。",
+          "宾夕法尼亚州麻疹疫情已蔓延至39个县，累计确诊病例943例，住院病例176例。",
+          "来源叙事重点：突出疫情规模扩大及死亡个案：确诊病例达943例、涉及39个县、住院176例，并强调最新死者为未接种疫苗且麻疹检测呈阳性的兰开斯特县居民；同时说明卫生部门以隐私保护为由未披露更多个人信息。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:28:06.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death"
+          }
+        ]
+      },
+      {
+        "id": "story-onenveloped-viruses-html-d391ab4f42b0c73d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Molecular movie' fills in blanks of how nonenveloped viruses infect cells",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:50:01.000Z",
+        "pubTime": "2026-10-01 04:50",
+        "url": "https://phys.org/news/2026-09-molecular-movie-blanks-nonenveloped-viruses.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-movie-fills.jpg",
+        "fullContent": "Viruses come in two major flavors—not chocolate and vanilla, quips Harvard Medical School structural biologist Stephen Harrison, but those enveloped in membranes, such as herpesvirus, influenza virus, HIV and SARS-CoV-2, and those that are not, such as poliovirus, HPV, rotavirus and adenovirus.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-01 04:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-molecular-movie-blanks-nonenveloped-viruses.html",
+            "publishedAt": "2026-09-30T20:50:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-onchanin-2121336747-html-1de7c02622e4469a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Дончанин переплыл реку Кальмиус в День воссоединения Донбасса с Россией",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T20:47:03.000Z",
+        "pubTime": "2026-10-01 04:47",
+        "url": "https://ria.ru/20260930/donchanin-2121336747.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/06/07/1876678812_0:160:3072:1888_650x0_80_0_0_99bdd34445a884b1358537deb50b7883.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-01 04:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/donchanin-2121336747.html",
+            "publishedAt": "2026-09-30T20:47:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rtup-has-come-to-america-041cfeb6c59008ca",
+        "title": "Neko Health 的全身扫描值得吗？Spotify 亿万富翁的初创公司已进军美国",
+        "originalTitle": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:20:02.000Z",
+        "pubTime": "2026-10-01 04:20",
+        "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+        "imageUrl": null,
+        "fullContent": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this category?\n\nOn this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis talks with Farooq Abbasi, founder and general partner of Preface Ventures and an investor in Neko Health, about how Neko compares with other consumer-health startups. They discuss what has to happen for body scanning to become part of the broader healthcare system.",
+        "fullTranslation": "Spotify 创始人丹尼尔·埃克（Daniel Ek）旗下的 Neko Health 筹集了 7 亿美元，致力于围绕人体全身扫描打造商业模式，但它并不是唯一一家将发展蓝图聚焦于新型预防性医疗健康的公司。Midjourney 正在打造自己的全身扫描仪，而 Function Health 也筹集了大量资金以构建其预防性健康平台。为什么投资者会在这一赛道上押下如此重注？\n\n在本期 TechCrunch 的 Equity 播客节目中，多米尼克-马多里·戴维斯（Dominic-Madori Davis）与 Preface Ventures 创始人兼总合伙人、Neko Health 投资者法鲁克·阿巴斯（Farooq Abbasi）探讨了 Neko 与其他消费级医疗健康初创公司的异同。他们还讨论了全身扫描要成为更广泛医疗保健体系的一部分所必须具备的条件。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 2,
+        "keyTakeaways": [
+          "Neko Health 筹集了7亿美元，用于围绕身体扫描建立业务。",
+          "Daniel Ek 是 Spotify 的创始人。",
+          "来源叙事重点：将身体扫描置于预防性医疗和消费健康创业热潮中，重点讨论Neko Health的融资规模、与Midjourney及Function Health等公司的竞争关系，以及身体扫描如何进入更广泛医疗体系。报道主要呈现投资和产业视角，未提供对扫描准确性、临床有效性或消费者实际健康收益的详细验证。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:20:02.000Z",
+            "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/"
+          }
+        ]
+      },
+      {
+        "id": "story-ttles-investors-7dede2f2-81cc42dd3b4bd256",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:32:00.000Z",
+        "pubTime": "2026-10-01 04:32",
+        "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-01 04:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T20:32:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--09-19-finding-bugs-html-9f1f9ab84feddf64",
+        "title": "寻找 Bug",
+        "originalTitle": "Finding Bugs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T19:57:54.000Z",
+        "pubTime": "2026-10-01 03:57",
+        "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+        "imageUrl": null,
+        "fullContent": "Are generative (randomized) tests significantly more effective than example-based unit-tests at discovering bugs? There’s an interesting discussion about this on lobste.rs. One argument in favor of unit tests is, paraphrasing\n\nMy generic fuzzer wasn’t able to find this tricky bug in Rust regex crate.\n\nTo me, it seems that generative testing should shake out that particular creature, so I wrote a lil fuzzer of my own, and it indeed discovered another bug in that version of regex, and then the one I was after. I didn’t find anything in the latest version. I like to do a write up about the process, as it is a good case study for how one approaches a problem like this.\n\nI want to be extra clear that my argument is very weak here, as I know exactly the bug I am after, and I even know that fuzzers can find it. My primary goal is to teach you the techniques, leaving it to your judgment just how effective they are. That being said, I think finding a second bug validates the approach somewhat.\n\nI also want to emphasize that writing fuzzers to find known bugs is far from an idle amusement. While I believe that generative testing is very powerful, relative to its cost, it’s always a question whether a particular test is thorough enough. And it never is, you will find more bugs elsewhere (that’s why defense in depth and runtime mitigations are critical). And, whenever you have a pest that dodged your fuzzers, your first order of business is to treat this event as a bug in the fuzzer, and change it so that it can find this and related bugs. Only then you are allowed to add a fix and a unit test!\n\nFor \".abb|b\" regex and \"zabb\" input, an older version of regex crate returned b as the first match, which is incorrect, because the entire zabb matches:\n\nHow do we find this, or something like this?\n\nRegular expression engines are one of the easiest things to apply generative testing to, they are pure algorithms. While few large systems are just an algorithm, algorithms are everywhere inside components of interesting systems, so this is a hands-on knowledge.\n\nAnd by far the most important technique for testing algorithms is to compare with the known right answer, with an oracle. Implement both O(N log N) and O(N^2) versions of the algorithm, and match the answers.\n\nTo be fair, the original comment mentioned that the their fuzzer didn’t find the issue because they didn’t have access to an oracle. However, if you are designing a reliable system, it’s part of your job to ensure it has an oracle! One of the first things we did for our Jepsen test at TigerBeetle was to expose internal timestamps via API, to make it easier for Jepsen to find bugs (TigerBeetle is co-designed with its internal simulator VOPR which naturally has access to timestamps and anything else). And for, a regex engine, coming up with an oracle shouldn’t be hard, as they typically already come with multiple specialized implementations under a single facade, and the implementations can be cross-checked against each other.\n\nBut the regex case is even simpler (which makes it an excellent case study). There’s regex_lite crate that provides the same API.\n\nSo here’s a plan: generate a regular expression, an input text, and check that regex and regex_lite give identical answers.\n\nI’ll start with code that generates a random string, as it is simpler, but still shows some non-trivial ideas. First, we’ll need a random number generator:\n\nThere are fancier techniques, which can give you test-case minimization, exhaustive search, or coverage guided exploration, but the insight is that even a humble PRNG is brutally effective, if you put it to good use.\n\nWhen you start with randomized testing, the instinct is to generate something big, no, HUGE! Surely regex will choke on 5 GiBs of input? This is usually a wrong call. Bugs usually involve small, but tricky examples, weaponizing interactions between a few features. A string where all characters are the same is more likely to trigger a bug than a purely random string where every character is unique.\n\nSo my default approach to generating strings is this. First, I fix the alphabet of possible characters. A nice way to get one is to sort | unique all the unit tests. Then, for each particular string, I pick a subset of that alphabet. I want strings that use all the characters, but I also want long strings with only a and b! Then I generate a string using the given subset of the alphabet, where the length of the string is also picked at random.\n\nTo make fuzzing efficient, I want to keep each iteration as fast as possible, so I make sure to re-use the memory across iterations, static allocation in the small:\n\nThere’s a nice way to think about this two step process, generating alphabet first, and then generating a string. To generate a string, you need a distribution of characters. You can use the same distribution for each of the million iterations. But an easy way to spice things up is to make the distribution itself random. I file this “randomize distributions themselves” idea under swarm testing.\n\nLet’s apply the same tricks when generating a regex:\n\nLet’s start with the first one:\n\nRegexes have alternation r1|r2, repetition r*, wildcard ., and literals a. Rather then binary enabling or disabling a particular feature, I assign each feature a weight between 0 and 100, which is a bit more general. The sum is the total of all weights. To select a feature at random, we need to generate a number in 0..sum and find which segment it falls into.\n\nIn anything more serious, I’d introduce explicit types for probabilities and distributions, but just a two-digit number is perfectly serviceable in the small.\n\nThis is how I generate ReOptions, making sure that literals always have non-zero weight, and also selecting an alphabet for them:\n\nSo now we can generate a regular expression. This is convenient to do recursively. To avoid allocations, an output buffer is passed through. To control regex length, a size parameter is also threaded, and “branching” recursive invocations divide the size between the children:\n\nGiven that compiling regular expressions is somewhat slow, it seems like a good idea to try multiple strings for the same pair of regular expressions, which gives the following code:\n\nIt produces examples similar to those in the issue, with a common suffix:\n\nbut also examples which somewhat different, without the shared suffix:\n\nhttps://github.com/matklad/regex-fuzz",
+        "fullTranslation": "在发现 bug 方面，生成式（随机化）测试是否显著优于基于示例的单元测试？在 lobste.rs 上有一个关于此问题的有趣讨论。支持单元测试的一个论点大致如下：\n“我的通用模糊测试器（fuzzer）未能在 Rust 的 regex crate 中发现这个棘手的 bug。”\n在我看来，生成式测试本应能揪出那个特定的问题，所以我自己写了一个小型的模糊测试器，而它确实在那版 regex 中发现了另一个 bug，随后又找到了我最初想找的那个 bug。不过在最新版本中我没有发现任何问题。我想把这个过程写成一篇文章，因为对于如何处理此类问题而言，这是一个很好的案例研究。\n我需要特别说明的是，我这里的论证力度其实很弱，因为我非常清楚自己要找的是哪个 bug，而且我也预先知道模糊测试器能够找到它。我的主要目标是向你介绍这些技术，至于它们究竟有多有效，留给你自行判断。话虽如此，我认为找到第二个 bug 在一定程度上验证了这种方法的有效性。\n我还想强调的是，编写模糊测试器来寻找已知 bug 绝非无事生非的消遣。虽然我认为生成式测试相对于其成本而言非常强大，但某个特定测试是否足够彻底始终是个问题。而且它永远谈不上彻底，你总会在其他地方发现更多 bug（这也是为什么纵深防御和运行时缓解措施至关重要）。每当有漏网之鱼避开了你的模糊测试器时，你的首要任务就是将此情况视为模糊测试器自身的一个 bug，并对其进行修改，使其能够找出该 bug 及相关 bug。只有在这之后，你才被允许添加修复代码和单元测试！\n对于正则表达式 \".abb|b\" 和输入 \"zabb\"，较早版本的 regex crate 将 b 作为第一个匹配项返回，这是不正确的，因为整个 zabb 都能匹配：\n我们该如何发现这个 bug，或者类似的问题呢？\n正则表达式引擎是应用生成式测试最容易的对象之一，因为它们是纯算法。虽然大型系统中很少有完全由单一算法构成的，但算法在各种有趣系统的组件中无处不在，因此这是一项实用的实践知识。\n而到目前为止，测试算法最重要的技术就是将其与已知的正确答案（即预言机，oracle）进行比对。同时实现该算法的 O(N log N) 和 O(N^2) 版本，并比对它们的结果。\n平心而论，最初的那条评论提到他们的模糊测试器之所以没能发现问题，是因为他们无法使用预言机。然而，如果你正在设计一个高可靠系统，确保其具备预言机本就是你的本职工作之一！在 TigerBeetle，我们为 Jepsen 测试所做的第一批工作之一就是通过 API 暴露内部时间戳，以便 Jepsen 更容易发现 bug（TigerBeetle 与其内部模拟器 VOPR 进行了协同设计，而 VOPR 自然能够访问时间戳以及其他所有数据）。对于正则表达式引擎而言，构思一个预言机并不困难，因为它们通常已经在单一外观接口下内置了多种专门的实现，这些实现可以相互交叉验证。\n但 regex 的情况甚至更为简单（这也使其成为一个绝佳的案例研究）。社区中有一个提供了相同 API 的 regex_lite crate。\n因此计划如下：生成一个正则表达式和一个输入文本，然后检查 regex 和 regex_lite 是否给出完全相同的结果。\n我将从生成随机字符串的代码开始，因为它比较简单，但仍然能展现一些不平凡的想法。首先，我们需要一个随机数生成器：\n虽然存在更花哨的技术（能够为你提供测试用例最小化、穷举搜索或覆盖引导的探索），但核心认知在于：即便是一个朴素的伪随机数生成器（PRNG），只要善加利用，其效果也是极其显著的。\n当你开始接触随机化测试时，本能往往是去生成某种规模庞大的输入——不，是极其庞大的输入！regex 面对 5 GiB 的输入肯定会崩溃吧？这种思路通常是错误的。Bug 通常涉及体量小却构思巧妙的示例，它们通过结合少数几个特性之间的相互作用来触发问题。一个所有字符都相同的字符串，往往比每个字符都独一无二的纯随机字符串更容易触发 bug。\n因此，我生成字符串的默认方法是这样的。首先，我固定可能字符的字符集字母表。获取它的一个好方法是对所有单元测试中的字符进行 sort | unique。然后，针对每个具体的字符串，我从该字母表中挑选一个子集。我既想要包含所有字符的字符串，也想要仅由 a 和 b 组成的长字符串！接着，我使用给定的字母表子集生成字符串，字符串的长度也是随机选取的。\n为了使模糊测试保持高效，我希望每次迭代都尽可能快速，因此我确保在各次迭代间复用内存，在局部实现静态分配：\n对于这种先生成字母表、再生成字符串的两步流程，有一种很好的理解方式。生成字符串时，你需要字符的分布概率。你可以在上百万次迭代中每次都使用相同的分布。但让测试变得更加多样的简便方法是让分布本身也随机化。我把这种“将分布本身随机化”的想法归类为群测试（swarm testing）。\n让我们在生成正则表达式时应用相同的技巧：\n我们先从第一个开始：\n正则表达式具有分支 r1|r2、重复 r*、通配符 . 以及字面量 a。我没有采用非开即关的二元方式来启用或禁用某个特定特性，而是为每个特性分配了一个介于 0 到 100 之间的权重，这样更通用一些。sum 是所有权重的总和。为了随机选择一个特性，我们需要生成一个介于 0..sum 之间的数字，并查看它落在哪个区间。\n在更严肃的工程中，我会为概率和分布引入显式类型，但就局部小规模而言，一个两位数就完全够用了。\n这就是我生成 ReOptions 的方式，确保字面量始终具有非零权重，并为它们选择一个字母表：\n现在我们就可以生成正则表达式了。采用递归方式实现会很方便。为了避免内存分配，输出缓冲区会被传递下去。为了控制正则表达式的长度，还需要传递一个大小参数，并且“分支”递归调用会在子节点之间分配该大小：\n鉴于编译正则表达式的速度相对较慢，对同一对正则表达式尝试多个字符串似乎是个好主意，由此得出了以下代码：\n它生成了与 issue 中类似的示例，带有共同的后缀：\n但也生成了有所不同的示例，不包含共享后缀：\nhttps://github.com/matklad/regex-fuzz",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：重点是展示如何为算法构造有效的测试预言机，并通过随机生成正则表达式和输入文本、交叉比对不同实现结果来发现错误。文章强调小而刁钻的输入、随机化分布、复用内存、递归生成和多实现交叉验证等工程技巧，同时主张发现已知缺陷也有助于改进模糊测试器。作者明确承认该案例不能充分证明生成式测试普遍优于单元测试。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T19:57:54.000Z",
+            "url": "https://matklad.github.io/2026/09/19/finding-bugs.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ity-recover-drought-html-9e09d3f984f5383d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Classifying groundwater systems by their ability to recover from drought",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:40:16.000Z",
+        "pubTime": "2026-10-01 04:40",
+        "url": "https://phys.org/news/2026-09-groundwater-ability-recover-drought.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/groundwater-levels.jpg",
+        "fullContent": "A few days of rain do not change low groundwater levels after a long drought. To better determine how groundwater systems recover after a drought and which groundwater reserves are most vulnerable, hydrologist Sandra Hauswirth developed a method to classify groundwater systems based on their ability to recover from prolonged drought.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-01 04:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-groundwater-ability-recover-drought.html",
+            "publishedAt": "2026-09-30T20:40:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-30-pilot-2121336588-html-e06207fb5e0e6f7a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Посольство Индии в Эр-Рияде сообщило о состоянии капитана Flydubai",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T20:44:32.000Z",
+        "pubTime": "2026-10-01 04:44",
+        "url": "https://ria.ru/20260930/pilot-2121336588.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-01 04:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/pilot-2121336588.html",
+            "publishedAt": "2026-09-30T20:44:32.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ni-models-gemini-4-argon-6381db252deeabb6",
+        "title": "要闻：Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，",
+        "originalTitle": "Gemini 4 Argon",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:04:37.000Z",
+        "pubTime": "2026-10-01 04:04",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "imageUrl": null,
+        "fullContent": "Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.\n\nSVP, Google DeepMind and Chief AI Architect, Google\n\nYour browser does not support the audio element.\n\nToday, we’re announcing our new frontier model, Gemini 4 Argon, which is rolling out to a set of trusted cyber defenders through our Fairwind Program. Built to sustain deep reasoning across complex, long-horizon workflows, Argon is fundamentally changing the way we work and build at Google. It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.Safely releasing frontier capabilities at this level requires a phased approach. We are actively engaged in the U.S. government’s voluntary process for pre-release model access while we gradually expand access. We’ll continue to gather feedback from early testers as we iterate on guardrails before making Argon available to developers, enterprises, and consumers as soon as possible.Argon will launch at an introductory price 1 of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price.\n\nToday, we’re announcing our new frontier model, Gemini 4 Argon, which is rolling out to a set of trusted cyber defenders through our Fairwind Program. Built to sustain deep reasoning across complex, long-horizon workflows, Argon is fundamentally changing the way we work and build at Google. It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense.\n\nSafely releasing frontier capabilities at this level requires a phased approach. We are actively engaged in the U.S. government’s voluntary process for pre-release model access while we gradually expand access. We’ll continue to gather feedback from early testers as we iterate on guardrails before making Argon available to developers, enterprises, and consumers as soon as possible.\n\nArgon will launch at an introductory price 1 of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price.\n\nChanging how we work and build at GoogleGemini 4 Argon is already powering our internal workflows, with thousands of Googlers highlighting the model’s strengths in specialized coding tasks, conducting deeper research, and writing quality. It’s helping teams build faster and push the boundaries of engineering productivity and accelerating breakthroughs:\n\nGemini 4 Argon is already powering our internal workflows, with thousands of Googlers highlighting the model’s strengths in specialized coding tasks, conducting deeper research, and writing quality. It’s helping teams build faster and push the boundaries of engineering productivity and accelerating breakthroughs:\n\nQuantum algorithmic optimization: Argon is helping our quantum computing researchers optimize the spacetime resources (qubits × gates) of subroutines that bottleneck important applications. In one example, it beat the published baseline by 40% in a matter of minutes.\n\nMemory efficiency: A team of Argon agents analyzed fleet-wide profiling telemetry to autonomously identify and apply memory optimizations across Google’s data centers, freeing up over 300 TiB of memory once rolled out, with an estimated 500 TiB to 1 PiB in total savings.\n\nLarge Scale Codebase Migrations and Optimizations: Argon agents are working on migrating C/C++ codebases to Rust across Google—scaling from tens of thousands of lines in core libraries like re2, libgav1 up to 800K+ lines for the Fuchsia OS Zircon kernel. Given the criticality of many of these systems, such large-scale rewrites are undergoing rigorous automated and manual auditing, emulation testing, and review before rolling out to production.For libgav1, Google's open source software for decoding video, Argon agents took an existing Rust port and replaced 32K lines of SIMD code by running many rounds of profile-guided experiments, studying the compiler's output, producing safe Rust so the compiler would vectorize it automatically. The end result is a memory-safe video decoder that runs 2.7x faster than the Rust port, with identical video output, bringing it closer to the optimized C++.\n\nWorking harder on your most complex problemsTo support Gemini 4 Argon’s capabilities across longer, more complex use cases, we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens. When the model has the headroom to think deeply and generate hundreds of thousands of tokens in a single trajectory, it adds a new level of depth in reasoning to solve tough problems in one go.\n\nTo support Gemini 4 Argon’s capabilities across longer, more complex use cases, we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens. When the model has the headroom to think deeply and generate hundreds of thousands of tokens in a single trajectory, it adds a new level of depth in reasoning to solve tough problems in one go.\n\nEnabling coding and enterprise workflows across domainsGemini 4 Argon’s capabilities across coding, reasoning, and multimodality and its ability to sustain long, multi-step tasks enable it to excel across a range of enterprise workflows.Google engineers have been using Argon for their daily tasks, from everyday debugging to large-scale codebase migrations and algorithm designs. It sets a new state of the art on DeepSWE v1.1 (77.9%), which measures a model’s performance in real-world long-horizon software engineering tasks.Beyond coding, Argon is the leading model on the Vals Index, which measures economic impact across finance, coding, legal, and tax work, with every sector weighted by its contribution to U.S. GDP. We see similarly leading performance across other domain specific evaluations, like Vals Finance Agent v2 (multi-step financial research) and Harvey’s Legal Agent Benchmark (legal research and drafting). On AutomationBench, Zapier’s benchmark measuring end-to-end execution across core business functions, Argon ranks #1 with a score of 51.3%.Argon is also uniquely strong when knowledge work requires visual understanding. It’s able to drive professional chart analysis, identify details from long videos, and take action based on a series of documents. For example, on LVBench, which measures long video understanding, Argon is state of the art with a score of 91.7%.\n\nGemini 4 Argon’s capabilities across coding, reasoning, and multimodality and its ability to sustain long, multi-step tasks enable it to excel across a range of enterprise workflows.\n\nGoogle engineers have been using Argon for their daily tasks, from everyday debugging to large-scale codebase migrations and algorithm designs. It sets a new state of the art on DeepSWE v1.1 (77.9%), which measures a model’s performance in real-world long-horizon software engineering tasks.\n\nBeyond coding, Argon is the leading model on the Vals Index, which measures economic impact across finance, coding, legal, and tax work, with every sector weighted by its contribution to U.S. GDP. We see similarly leading performance across other domain specific evaluations, like Vals Finance Agent v2 (multi-step financial research) and Harvey’s Legal Agent Benchmark (legal research and drafting). On AutomationBench, Zapier’s benchmark measuring end-to-end execution across core business functions, Argon ranks #1 with a score of 51.3%.\n\nArgon is also uniquely strong when knowledge work requires visual understanding. It’s able to drive professional chart analysis, identify details from long videos, and take action based on a series of documents. For example, on LVBench, which measures long video understanding, Argon is state of the art with a score of 91.7%.\n\nLeading in defensive cybersecurityTo better equip cyber defenders for the new era of cyberattacks, we trained Gemini 4 Argon to be highly capable at cybersecurity defense. Argon can autonomously find, validate, and patch critical software vulnerabilities. For trusted defenders and our own internal teams at Google, we’ll be releasing Argon without cyber guardrails so they can leverage its full frontier-level cybersecurity defense capabilities.Wiz is already using Argon for cybersecurity defense through its Scan for Good initiative – a program dedicated to protecting critical public infrastructure for free by finding and remediating high-risk exposures. In an early demonstration of its impact, the model uncovered a critical vulnerability exposing sensitive personal information across healthcare software used by hospitals worldwide, identifying a severe risk that previous frontier models had missed.On CWE-bench v1, which evaluates the model’s ability to remediate security vulnerabilities, Argon ties for first place with a top score of 68%, building on 3.8 Flash Cyber’s frontier performance on CWE-bench v0.\n\nTo better equip cyber defenders for the new era of cyberattacks, we trained Gemini 4 Argon to be highly capable at cybersecurity defense. Argon can autonomously find, validate, and patch critical software vulnerabilities. For trusted defenders and our own internal teams at Google, we’ll be releasing Argon without cyber guardrails so they can leverage its full frontier-level cybersecurity defense capabilities.\n\nWiz is already using Argon for cybersecurity defense through its Scan for Good initiative – a program dedicated to protecting critical public infrastructure for free by finding and remediating high-risk exposures. In an early demonstration of its impact, the model uncovered a critical vulnerability exposing sensitive personal information across healthcare software used by hospitals worldwide, identifying a severe risk that previous frontier models had missed.\n\nOn CWE-bench v1, which evaluates the model’s ability to remediate security vulnerabilities, Argon ties for first place with a top score of 68%, building on 3.8 Flash Cyber’s frontier performance on CWE-bench v0.\n\nGemini 4 Argon demonstrates impressive leaps in vulnerability discovery over 3.8 Flash Cyber. For example:On Google’s internal comprehensive vulnerability benchmark, Argon uncovered a wide range of exposures across complex codebases spanning 20 programming languages.On Wiz’s internal black-box penetration testing benchmark, which tests a model’s ability to analyze live web systems without source code, Argon outperforms 3.8 Flash Cyber in discovering the attack surface, identifying vulnerabilities, and producing proof-of-concept evidence to validate them.\n\nGemini 4 Argon demonstrates impressive leaps in vulnerability discovery over 3.8 Flash Cyber. For example:\n\nStrengthening frontier safeguards before broad availabilityBefore rolling out Gemini 4 Argon broadly, we’re continuing to strengthen critical frontier safeguards across four main areas:Defending against misuse: To prevent bad actors from using Argon for cyber or chemical, biological, radiological, and nuclear (CBRN) attacks, the model is designed to refuse harmful requests while preserving legitimate, dual-use scientific research, as per our Frontier Safety Framework. We are strengthening the robustness of our safeguards for this launch, including improving our techniques to monitor the model’s internal activations to spot misuse. These safeguards underwent robustness testing by internal and external red teams using a combination of manual and automated attack methods.Defending against prompt injection attacks: Argon is also our most resilient model yet against indirect prompt injections, where malicious instructions or context are used to hijack a model’s behavior. These are complex attacks that require constant vigilance and multiple layers of defense. Through automated red teaming and adversarial training, Gemini 4 Argon is leading in prompt injection robustness on the Gray Swan’s Indirect Prompt Injection (IPI) benchmark.\n\nBefore rolling out Gemini 4 Argon broadly, we’re continuing to strengthen critical frontier safeguards across four main areas:\n\nDefending against misuse: To prevent bad actors from using Argon for cyber or chemical, biological, radiological, and nuclear (CBRN) attacks, the model is designed to refuse harmful requests while preserving legitimate, dual-use scientific research, as per our Frontier Safety Framework. We are strengthening the robustness of our safeguards for this launch, including improving our techniques to monitor the model’s internal activations to spot misuse. These safeguards underwent robustness testing by internal and external red teams using a combination of manual and automated attack methods.\n\nDefending against prompt injection attacks: Argon is also our most resilient model yet against indirect prompt injections, where malicious instructions or context are used to hijack a model’s behavior. These are complex attacks that require constant vigilance and multiple layers of defense. Through automated red teaming and adversarial training, Gemini 4 Argon is leading in prompt injection robustness on the Gray Swan’s Indirect Prompt Injection (IPI) benchmark.\n\nMonitoring for misalignment: In order to prevent Argon from stepping out of bounds to try to accomplish a task in a way that goes beyond the user’s intentions, we are deploying misalignment mitigations that monitor Argon’s chain-of-thought and actions and stop execution when necessary.We used a similar system to monitor our training runs and send alerts to a dedicated incident response team, taking careful precautions against feeding the findings back into training so as to not risk shaping Argon’s reasoning to evade our monitoring. We strongly encourage the rest of the industry to preserve reasoning transparency in these pivotal moments of increased capabilities while navigating alignment risks, so that model thoughts remain helpful in identifying and diagnosing misalignment.Hardening systems: As frontier models grow increasingly capable, safely testing them requires secure environments that can keep up with the systems themselves. In line with our agent control roadmap, we are hardening our sandboxed environments by isolating and sealing them before high-risk training or evaluations begin. We’re committed to sharing these agent security best practices with our partners to improve security across the ecosystem.\n\nMonitoring for misalignment: In order to prevent Argon from stepping out of bounds to try to accomplish a task in a way that goes beyond the user’s intentions, we are deploying misalignment mitigations that monitor Argon’s chain-of-thought and actions and stop execution when necessary.\n\nWe used a similar system to monitor our training runs and send alerts to a dedicated incident response team, taking careful precautions against feeding the findings back into training so as to not risk shaping Argon’s reasoning to evade our monitoring. We strongly encourage the rest of the industry to preserve reasoning transparency in these pivotal moments of increased capabilities while navigating alignment risks, so that model thoughts remain helpful in identifying and diagnosing misalignment.\n\nHardening systems: As frontier models grow increasingly capable, safely testing them requires secure environments that can keep up with the systems themselves. In line with our agent control roadmap, we are hardening our sandboxed environments by isolating and sealing them before high-risk training or evaluations begin. We’re committed to sharing these agent security best practices with our partners to improve security across the ecosystem.\n\nAfter the introductory period expires, the price of $4 per 1M input tokens and $20 per 1M output tokens will apply.\n\nKoray is one of the world's foremost experts in artificial intelligence. As the SVP of Google DeepMind, he leads the development of Google DeepMind’s state-of-the art generative AI models and their integration into Google’s products at scale. Prior to his current role, he was VP of Research at Google DeepMind, where he founded the deep learning team and his team pioneered major research breakthroughs such as DQN (Deep Q-Network) and WaveNet.",
+        "fullTranslation": "Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，均展现出前沿性能。\nGoogle DeepMind 高级副总裁兼 Google 首席人工智能架构师\n您的浏览器不支持该音频元素。\n今天，我们正式发布全新的前沿模型 Gemini 4 Argon。该模型正通过我们的 Fairwind 计划，面向一组值得信赖的网络安全防御人员逐步推出。Argon 旨在支撑复杂、长周期的深度推理工作流，正在从根本上改变我们在 Google 的工作与构建方式。它在现实软件工程、法律与金融等企业知识工作以及网络安全防御等复杂工作流中均展现出前沿性能。要安全发布达到这一水准的前沿能力，需要采取分阶段的方式。在我们逐步扩大访问权限的同时，我们正在积极参与美国政府针对模型发布前访问的自愿性流程。在尽快向开发者、企业和消费者开放 Argon 之前，我们将继续收集早期测试人员的反馈，不断迭代安全防护机制。Argon 上线时的早鸟价格为每百万输入 token 2 美元，每百万输出 token 10 美元，缓存输入 token 的价格享受输入 token 原价 9.5 折优惠（减免 95%）。\n今天，我们正式发布全新的前沿模型 Gemini 4 Argon。该模型正通过我们的 Fairwind 计划，面向一组值得信赖的网络安全防御人员逐步推出。Argon 旨在支撑复杂、长周期的深度推理工作流，正在从根本上改变我们在 Google 的工作与构建方式。它在现实软件工程、法律与金融等企业知识工作以及网络安全防御等复杂工作流中均展现出前沿性能。\n要安全发布达到这一水准的前沿能力，需要采取分阶段的方式。在我们逐步扩大访问权限的同时，我们正在积极参与美国政府针对模型发布前访问的自愿性流程。在尽快向开发者、企业和消费者开放 Argon 之前，我们将继续收集早期测试人员的反馈，不断迭代安全防护机制。\nArgon 上线时的早鸟价格为每百万输入 token 2 美元，每百万输出 token 10 美元，缓存输入 token 的价格享受输入 token 原价 9.5 折优惠（减免 95%）。\n改变我们在 Google 的工作与构建方式。Gemini 4 Argon 已经开始支持我们的内部工作流，数千名谷歌员工都强调了该模型在专业化编程任务、开展更深入研究以及高质量写作方面的优势。它正在帮助团队更快地进行构建，突破工程生产力的边界，并加速突破性进展：\nGemini 4 Argon 已经开始支持我们的内部工作流，数千名谷歌员工都强调了该模型在专业化编程任务、开展更深入研究以及高质量写作方面的优势。它正在帮助团队更快地进行构建，突破工程生产力的边界，并加速突破性进展：\n量子算法优化：Argon 正在帮助我们的量子计算研究人员优化子程序的时空资源（量子比特 × 量子门），这些子程序曾是制约重要应用的瓶颈。在一个范例中，它在短短几分钟内就将已发表的基准性能提升了 40%。\n内存效率提升：一个由 Argon 智能体（Agent）组成的团队分析了全机群的性能分析遥测数据，在 Google 各大数据中心中自主识别并应用内存优化方案。全面上线后已释放超过 300 TiB 的内存，预计总计可节省 500 TiB 至 1 PiB 内存。\n大规模代码库迁移与优化：Argon 智能体正在 Google 内部开展将 C/C++ 代码库迁移至 Rust 的工作——规模从 re2、libgav1 等核心库中的数万行代码，一直延伸到 Fuchsia OS Zircon 内核的 80 多万行代码。鉴于其中许多系统的关键重要性，此类大规模重写在正式推向生产环境前，都要经过严密的自动化与人工审计、仿真测试以及代码审查。针对 Google 用于视频解码的开源软件 libgav1，Argon 智能体接手了一个现有的 Rust 移植版本，并通过运行多轮基于性能分析指导的实验（PGO）、研究编译器输出，生成安全 Rust 代码以使编译器自动完成向量化，最终替换掉了 3.2 万行 SIMD 代码。最终成果是一个内存安全的视频解码器，运行速度比原 Rust 移植版快 2.7 倍，且视频输出完全一致，性能已逼近经过高度优化的 C++ 版本。\n更卖力地应对您最棘手的复杂难题。为了支持 Gemini 4 Argon 在更长、更复杂的用例中的能力，我们大幅扩展了模型的输出 token 上限，从原先的 64K tokens 跃升至业内领先的 100 万 tokens。当模型拥有足够的空间进行深度思考并在单次推理轨迹中生成数十万个 token 时，它就具备了全新的推理深度，能够一气呵成地解决棘手问题。\n为了支持 Gemini 4 Argon 在更长、更复杂的用例中的能力，我们大幅扩展了模型的输出 token 上限，从原先的 64K tokens 跃升至业内领先的 100 万 tokens。当模型拥有足够的空间进行深度思考并在单次推理轨迹中生成数十万个 token 时，它就具备了全新的推理深度，能够一气呵成地解决棘手问题。\n赋能跨领域的编程与企业工作流。Gemini 4 Argon 在代码、推理与多模态方面的能力，以及支撑长周期、多步骤任务的能力，使其能够在各种企业工作流中大放异彩。Google 工程师一直在日常任务中使用 Argon，涵盖从日常调试到大规模代码库迁移及算法设计的方方面面。它在衡量模型在真实世界长周期软件工程任务表现的 DeepSWE v1.1 基准上刷新了最高纪录（SOTA），得分为 77.9%。在编程之外，Argon 在 Vals 指数上同样处于领先地位，该指数衡量金融、编程、法律和税务工作中的经济影响，各行业权重依其对美国 GDP 的贡献而定。我们在其他特定领域评测中也看到了类似的领先表现，例如 Vals Finance Agent v2（多步金融研究）和 Harvey 的 Legal Agent Benchmark（法律研究与起草）。在衡量跨核心业务职能端到端执行能力的 Zapier 基准 AutomationBench 上，Argon 以 51.3% 的得分位列第一。当知识工作需要视觉理解时，Argon 也展现出独特的强大实力。它能够胜任专业的图表分析、从长视频中识别细节，并根据一系列文档采取行动。例如，在衡量长视频理解能力的 LVBench 上，Argon 以 91.7% 的得分刷新了最高纪录。\nGemini 4 Argon 在代码、推理和多模态方面的能力，以及支撑长周期、多步骤任务的能力，使其在各种企业工作流中表现卓越。\n\n谷歌工程师一直在日常任务中使用 Argon，从常规调试到大规模代码库迁移和算法设计。它在 DeepSWE v1.1 基准测试中创下了 77.9% 的行业顶尖（SOTA）成绩，该基准用于衡量模型在真实、长周期的软件工程任务中的表现。\n\n除编程之外，Argon 在 Vals Index 上也是领先的模型；该指数以各行业对美国 GDP 的贡献为权重，衡量模型在金融、编程、法律和税务工作中的经济影响。在其他特定领域的评估中，我们也看到了类似的领先表现，例如 Vals Finance Agent v2（多步骤金融研究）和 Harvey 的 Legal Agent Benchmark（法律研究与起草）。在 Zapier 用于衡量核心业务职能端到端执行能力的 AutomationBench 上，Argon 以 51.3% 的得分位列第一。\n\n当知识工作需要视觉理解时，Argon 也展现出独特的优势。它能够进行专业的图表分析，从长视频中识别细节，并根据一系列文档采取行动。例如，在衡量长视频理解能力的 LVBench 上，Argon 以 91.7% 的得分达到业界领先水平。\n\n在网络安全防御方面保持领先：为了让网络防御人员更好地应对新时代的网络攻击，我们对 Gemini 4 Argon 进行了训练，使其具备强大的网络安全防御能力。Argon 能够自主发现、验证并修补关键软件漏洞。针对受信任的防御人员以及谷歌内部团队，我们将发布没有网络安全护栏（cyber guardrails）的 Argon 版本，以便他们充分利用其最前沿的网络安全防御能力。Wiz 已经通过其“Scan for Good”倡议在网络安全防御中应用了 Argon——该计划致力于通过发现并修复高危暴露面，免费保护关键公共基础设施。在对其影响的早期演示中，该模型发现了一个严重漏洞，该漏洞暴露了全球医院所使用的医疗软件中的敏感个人信息，从而查明了以往前沿模型所忽略的严重风险。在评估模型修复安全漏洞能力的 CWE-bench v1 上，Argon 在 3.8 Flash Cyber 于 CWE-bench v0 上前沿表现的基础上，以 68% 的最高分并列第一。\n\n为了让网络防御人员更好地应对新时代的网络攻击，我们对 Gemini 4 Argon 进行了训练，使其具备强大的网络安全防御能力。Argon 能够自主发现、验证并修补关键软件漏洞。针对受信任的防御人员以及谷歌内部团队，我们将发布没有网络安全护栏的 Argon 版本，以便他们充分利用其最前沿的网络安全防御能力。\n\nWiz 已经通过其“Scan for Good”倡议在网络安全防御中应用了 Argon——该计划致力于通过发现并修复高危暴露面，免费保护关键公共基础设施。在对其影响的早期演示中，该模型发现了一个严重漏洞，该漏洞暴露了全球医院所使用的医疗软件中的敏感个人信息，从而查明了以往前沿模型所忽略的严重风险。\n\n在评估模型修复安全漏洞能力的 CWE-bench v1 上，Argon 在 3.8 Flash Cyber 于 CWE-bench v0 上前沿表现的基础上，以 68% 的最高分并列第一。\n\nGemini 4 Argon 在漏洞发现方面相比 3.8 Flash Cyber 展现出了令人瞩目的飞跃。例如：在谷歌内部的综合漏洞基准测试中，Argon 在涵盖 20 种编程语言的复杂代码库中发现了广泛的风险暴露。在 Wiz 的内部黑盒渗透测试基准（测试模型在没有源代码的情况下分析运行中 Web 系统的能力）中，Argon 在发现攻击面、识别漏洞以及生成概念验证（PoC）证据进行验证方面均优于 3.8 Flash Cyber。\n\nGemini 4 Argon 在漏洞发现方面相比 3.8 Flash Cyber 展现出了令人瞩目的飞跃。例如：\n\n在广泛推出之前强化前沿安全保障措施：在广泛推出 Gemini 4 Argon 之前，我们正在四个主要领域持续强化关键的前沿安全保障措施：防范滥用：为了防止不良行为者将 Argon 用于网络攻击或化学、生物、放射性及核（CBRN）攻击，根据我们的《前沿安全框架》（Frontier Safety Framework），该模型被设计为在拒绝有害请求的同时，保留合法的军民两用科学研究。我们在本次发布中增强了防护措施的稳健性，包括改进监控模型内部激活以发现滥用行为的技术。这些防护措施由内部和外部红队通过人工与自动化攻击相结合的方式进行了稳健性测试。防范提示词注入攻击：Argon 也是我们迄今为止对间接提示词注入（即利用恶意指令或上下文劫持模型行为）最具抵御能力的模型。这类复杂的攻击需要持续警惕和多层防御。通过自动化红队测试和对抗性训练，Gemini 4 Argon 在 Gray Swan 的间接提示词注入（IPI）基准测试中的提示词注入稳健性处于领先地位。\n\n在广泛推出 Gemini 4 Argon 之前，我们正在四个主要领域持续强化关键的前沿安全保障措施：\n\n防范滥用：为了防止不良行为者将 Argon 用于网络攻击或化学、生物、放射性及核（CBRN）攻击，根据我们的《前沿安全框架》，该模型被设计为在拒绝有害请求的同时，保留合法的军民两用科学研究。我们在本次发布中增强了防护措施的稳健性，包括改进监控模型内部激活以发现滥用行为的技术。这些防护措施由内部和外部红队通过人工与自动化攻击相结合的方式进行了稳健性测试。\n\n防范提示词注入攻击：Argon 也是我们迄今为止对间接提示词注入（即利用恶意指令或上下文劫持模型行为）最具抵御能力的模型。这类复杂的攻击需要持续警惕和多层防御。通过自动化红队测试和对抗性训练，Gemini 4 Argon 在 Gray Swan 的间接提示词注入（IPI）基准测试中的提示词注入稳健性处于领先地位。\n\n监测失配：为了防止 Argon 越界，以超出用户意图的方式完成任务，我们正在部署失配缓解措施，监测 Argon 的思维链和行动，并在必要时停止执行。\n\n我们采用了类似系统来监测训练运行，并向专门的事件响应团队发送警报，同时谨慎采取措施，避免将相关发现反馈至训练过程，以免有可能塑造出能够规避监测的 Argon 推理方式。在应对对齐风险的同时，随着模型能力在这些关键时刻不断增强，我们强烈鼓励业界其他机构保持推理透明度，从而使模型思维能够继续帮助识别和诊断失配问题。\n\n强化系统：随着前沿模型的能力日益增强，要安全地测试这些模型，就需要配备能够跟上模型本身发展的安全环境。按照我们的智能体控制路线图，我们正在强化沙盒环境：在开始高风险训练或评估之前，对其进行隔离并封闭。我们致力于与合作伙伴分享这些智能体安全最佳实践，以提升整个生态系统的安全性。\n\n监测失配：为了防止 Argon 越界，以超出用户意图的方式完成任务，我们正在部署失配缓解措施，监测 Argon 的思维链和行动，并在必要时停止执行。\n\n我们采用了类似系统来监测训练运行，并向专门的事件响应团队发送警报，同时谨慎采取措施，避免将相关发现反馈至训练过程，以免有可能塑造出能够规避监测的 Argon 推理方式。在应对对齐风险的同时，随着模型能力在这些关键时刻不断增强，我们强烈鼓励业界其他机构保持推理透明度，从而使模型思维能够继续帮助识别和诊断失配问题。\n\n强化系统：随着前沿模型的能力日益增强，要安全地测试这些模型，就需要配备能够跟上模型本身发展的安全环境。按照我们的智能体控制路线图，我们正在强化沙盒环境：在开始高风险训练或评估之前，对其进行隔离并封闭。我们致力于与合作伙伴分享这些智能体安全最佳实践，以提升整个生态系统的安全性。\n\n介绍期结束后，将执行每 100 万个输入令牌 4 美元、每 100 万个输出令牌 20 美元的价格。\n\nKoray 是全球最杰出的人工智能专家之一。作为 Google DeepMind 的高级副总裁，他负责开发 Google DeepMind 最先进的生成式人工智能模型，并推动这些模型大规模集成到 Google 的产品中。在担任现职之前，他曾任 Google DeepMind 研究副总裁，并在那里创立了深度学习团队；其团队率先取得了 DQN（深度 Q 网络）和 WaveNet 等重大研究突破。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 22,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T20:04:37.000Z",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+          }
+        ]
+      },
+      {
+        "id": "story-4-46c2-968f-f2a69d263d35-616929e1088146e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "One pilot of Israel-bound flight stabbed the other and tried to crash plane",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T20:14:13.000Z",
+        "pubTime": "2026-10-01 04:14",
+        "url": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90128188-b833-401b-ba7d-728767ea809f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-01 04:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-30T20:14:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-projects-btr-1bcb877126702d5d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T18:06:19.000Z",
+        "pubTime": "2026-10-01 02:06",
+        "url": "https://www.vusec.net/projects/btr/",
+        "imageUrl": null,
+        "fullContent": "We present Branch Target Reuse (BTR), a new Spectre-v2 attack targeting just-in-time (JIT) compilers. BTR affects the JIT engines found in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. We analyzed the attack surface of Linux cBPF, Oracle GraalVM and SpiderMonkey (the JIT engine of the Firefox browser), and built two end-to-end exploits against the Linux kernel.\n\nThe key insight behind the attack is that, while modern CPUs restore architectural code coherence after self-modification, they do not necessarily invalidate stale indirect branch prediction entries (i.e., branch targets). In JIT engines, these stale targets can outlive the original code and later be reused when the code cache is repopulated, yielding a speculative execute-after-free primitive. This allows attackers to hijack speculative control flow to newly generated code at obsolete offsets, bypassing software hardening or reaching misaligned gadgets.\n\nFigure 1 gives an overview of the attack.\n\nFigure 1: The attacker lures the JIT engine into allocating a new code section, the training chunk ①, and trains the indirect branch by jumping to it ②. Next, the attacker forces a deallocation of the training chunk ③ and an allocation of the target chunk that partially reuses the same address ④. When the attacker triggers the indirect branch again, the CPU uses the now-stale branch target buffer (BTB) entry and speculatively jumps to the old training-chunk entry point ⑤, resulting in control-flow hijacking and secret data disclosure.\n\nWe built an end-to-end BTR exploit that leaks arbitrary memory on modern Intel CPUs, bypassing all enabled mitigations. Check out the demo below!\n\nFigure 2: BTR exploit with Linux kernel cBPF.\n\nOur exploit leaks 8 bytes per second. That may sound slow, but with careful pointer chasing we only need to leak a small amount of data to reach the secret. In the demo above, we leak the root password hash from the “su” process. We first run “su root”, which loads the root password hash into memory.\n\nOnce the attack is set up ([0:42]), we walk the Linux kernel task list. Since it is a linked list, we walk it backwards by leaking each “prev” pointer. For every task struct, we check whether the PID matches our victim. Once we find the correct task struct ([0:52]), we leak the “mm” struct and start walking the page tables. For every mapped page, we check whether it contains the root password hash. Once we find the correct page, we leak the hash! 😎\n\nThe Linux kernel can harden cBPF at runtime with the `bpf_jit_harden` option (see Linux documentation). When enabled, it applies constant blinding to immediate values to prevent direct JIT spraying. The option is off by default, but we took on the challenge of bypassing it anyway, and succeeded! We adapted an existing JIT-spraying technique that encodes instructions in jump offsets and applied it to cBPF for the first time. See the details below.\n\nSpiderMonkey is the JavaScript and WebAssembly engine of Firefox. Like every modern JavaScript engine, it JIT-compiles frequently executed (“hot”) code for performance, and that JIT compiler is exactly what we attack. The threat model is simple: a malicious web page controls the JavaScript that runs in your browser. Since Firefox has not yet fully deployed site isolation, other tabs can end up in the same address space, making their data a perfect target.\n\nWe investigated whether BTR works in SpiderMonkey and found attacks to be feasible. WebAssembly instructions such as `f64.const` store their constants in a literal pool inside the executable code buffer. With BTR, we can speculatively jump straight into that pool, which gives us speculative arbitrary code execution. We built a proof of concept (PoC) and observed that, on Intel CPUs, BTB entries survive the full deallocation and reallocation cycle, for an estimated leakage rate on the order of tens of bytes per second. Turning this into an end-to-end browser exploit requires further work.\n\nGraalVM is Oracle’s multi-language runtime, which JIT-compiles the code it runs. It offers a sandbox for untrusted guest code, and in its strictest mode that sandbox is explicitly hardened against Spectre attacks: every memory access the guest makes is masked so that it cannot reach outside the sandbox arena. The threat model here is untrusted code that you deliberately run in that sandbox, such as a plugin or a user-supplied script.\n\nThat masking only helps if execution enters the code from its natural entry point. We used GraalPy, GraalVM’s Python implementation, to generate functions whose compiled form contains an array access preceded by such a masking operating. With BTR, we speculatively jump past the masking operation, straight into the load (as in Figure 1). The access is now unbounded and happily reads outside the arena. This gives us stable address reuse, but, in our experiments, the engine’s own compilation and garbage collection (GC) activity wipes the BTB entries before we can use them. This limitation does not appear fundamental, and better scheduling or smarter memory massaging may well close the gap.\n\nWe disclosed our findings to affected hardware and software vendors, which acknowledged our findings. The hardware vendors stated that mitigating mechanisms (e.g., IBPB) already exist, and that BTR mitigations should be deployed in software. The Linux kernel developers and Oracle have deployed mitigations.\n\nLinux kernel. The kernel developers upstreamed a new mitigation for x86 that issues an IBPB on all cores when a cBPF program reuses a previously executed cBPF/eBPF region, and discourages such reuse as an optimization. The mitigation applies whether or not IBT is enabled. Two CVEs were assigned:\n\nOracle. GraalVM instead hinders region reuse by randomizing JIT code-cache locations.\n\nMozilla. Mozilla considered IBPB-based mitigations, but is currently prioritizing the completion and deployment of site isolation.\n\nFollowing the jump-offset technique introduced by Maisuradze et al. (2016), we bypass cBPF constant blinding by encoding attacker-controlled bytes in the offset bytes of forward jumps instead of in immediates. The same byte sequence can be decoded as a valid chain of cBPF jumps in one alignment and as a “dispatch” gadget when execution re-enters two bytes later, yielding an end-to-end exploit against cBPF even with blinding enabled.\n\nSince the maximum forward jump offset is 0x014fc5, we control only the lower two bytes of the offset, and the upper bytes remain zero. To stay in the misaligned execution stream, we carefully select instructions so that the next instruction consumes at least one of the remaining bytes.\n\nFigure 3: cBPF constant-blinding bypass via jump offsets. In the aligned view, the JIT emits a chain of valid forward jumps. In the misaligned view, the same bytes decode as a gadget that loads attacker-controlled data, propagates it to `rdi` and `rdx`, and then jumps to the disclosure gadget via an attacker-controlled indirect jump.\n\nIs my system affected?Most likely. Indirect branch prediction is inherent to modern CPUs, and BTR exploits the desynchronization between the branch predictor and the actual state of the code. No current CPU has a mechanism to keep the two in sync, so until vendors add one, your CPU is vulnerable. We confirmed this behavior on every CPU we tested, covering Intel, AMD and Arm. Mitigation is left to software (see “Deployed mitigations”).\n\nHow do I protect my system?Update your OS and software as soon as vendor patches are available. Both the Linux kernel and Oracle have released patches.\n\nDoes IBT/BTI protect me?These mitigations raise the bar, but do not eliminate the risk. Indirect Branch Tracking (x86) and Branch Target Identification (Arm) require indirect branch targets to start with an `endbr64` or `BTI` instruction. On older Intel CPUs, one or more instructions can still execute speculatively before that check (Lion Cove is the first race-free Intel generation we found).Even on race-free implementations, an attacker can inject bytes into JIT-compiled code that encode `endbr64` and reach them through misaligned execution, turning them into a valid landing pad. We were only able to do so with constant blinding disabled, which makes race-free IBT combined with constant blinding a much stronger defense. Exploitable gadgets may still exist on the speculative return path. See the paper for more details.\n\nThe “Branch Target Reuse” paper has been accepted for publication at the ACM Conference on Computer and Communications Security (CCS) 2026. The paper and code are linked below.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T18:06:19.000Z",
+            "url": "https://www.vusec.net/projects/btr/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790784153344,
     "timeDisplay": "2026-10-01 00:02 (UTC+8)",
     "date": "2026-10-01",

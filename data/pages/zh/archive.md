@@ -42,14 +42,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **92** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **93** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-01 00:02 (UTC+8)
+- **最新归档时间**：2026-10-01 05:04 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-01 05:04 (UTC+8)" title="全球要闻情报简报 · 05:04" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-01 04:52 (UTC+8) 完成，共获得 21 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Factory首席执行官指责其风险投资董事会顾问为Cognition充当商业间谍：AI编程初创公司Factory的联合创始人兼首席执行官马坦·格林伯格（Matan Grinberg）周三在X平台发文称，他已解除了风险投资人克里斯·德格南（Chris Degnan）的董事会顾问职务。格林伯格指控德格南向Factory最大的竞争对手Cognition泄露了机密信息。；【undefined】Neko Health 的全身扫描值得吗？Spotify 亿万富翁的初创公司已进军美国：Spotify 创始人丹尼尔·埃克（Daniel Ek）旗下的 Neko Health 筹集了 7 亿美元，致力于围绕人体全身扫描打造商业模式，但它并不是唯一一家将发展蓝图聚焦于新型预防性医疗健康的公司。Midjourney 正在打造自己的全身扫描仪，而 Function Health 也筹集了大量资金以构建其预防性健康平台。为什么投资者会在这一赛道上押下如此重注？；【undefined】寻找 Bug：在发现 bug 方面，生成式（随机化）测试是否显著优于基于示例的单元测试？在 lobste.rs 上有一个关于此问题的有趣讨论。支持单元测试的一个论点大致如下： “我的通用模糊测试器（fuzzer）未能在 Rust 的 regex crate 中发现这个棘手的 bug。” 在我看来，生成式测试本应能揪出那个特定的问题，所以我自己写了一个小型的模糊测试器，而它确实在那版 regex 中发现了另一个 bug，随后又找到了我最初想找的那个 b；【undefined】要闻：Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，：Gemini 4 Argon 在横跨现实世界软件工程、法律与金融等企业知识工作，以及网络安全防御的复杂工作流中，均展现出前沿性能。 Google DeepMind 高级副总裁兼 Google 首席人工智能架构师 您的浏览器不支持该音频元素。 今天，我们正式发布全新的前沿模型 Gemini 4 Argon。该模型正通过我们的 Fairwind 计划，面向一组值得信赖的网络安全防御人员逐步推出。Argon 旨在支撑复杂、长周期的深度推理工作；【undefined】安妮·海瑟薇在《Verity》红毯上掌控全场，瞬间走红：安妮·海瑟薇在最新主演电影的首映礼上掌控了红毯现场。；【undefined】南美航空集团荣获《航空运输世界》“年度最佳航空公司”称号：南美航空集团（Latam Airlines Group）在《航空运输世界》（ATW）举办的“ATW航空业成就奖”核心类别中被评选为“年度最佳航空公司”，成为该奖项自1974年设立以来首家获此殊荣的拉美航空公司。该奖项将于12月10日在米兰举行的第52届颁奖典礼上正式颁发，届时南美航空集团首席执行官罗伯托·阿尔沃（Roberto Alvo）将出席领奖。由ATW、《航空周刊》（Aviation Week）以及亚太航空中心（CAPA）的编辑和；【undefined】《五人秀》连续20个季度领跑有线电视新闻，福克斯新闻收视超过CNN与MS NOW之和：福克斯新闻频道在即将迎来成立30周年之际继续占据主导地位。2026年第三季度，该频道在工作日黄金时段观众数量上超过CBS，同时全面压倒所有有线电视网。；【undefined】我以4亿美元出售TOMS Shoes后，被误诊为双相情感障碍——这几乎让我失去了一切：我以4亿美元出售TOMS Shoes后，被误诊为双相情感障碍——这几乎让我失去了一切
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/avtodorogi-2121336926.html) <span class="news-meta-time">🕒 2026-10-01 04:48</span>
+- [TechCrunch (硅谷创业与资本)] [Factory首席执行官指责其风险投资董事会顾问为Cognition充当商业间谍](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/) <span class="news-meta-time">🕒 2026-10-01 04:39</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-01 04:45</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/30/pennsylvania-reports-fifth-measles-related-death) <span class="news-meta-time">🕒 2026-10-01 04:28</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-molecular-movie-blanks-nonenveloped-viruses.html) <span class="news-meta-time">🕒 2026-10-01 04:50</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/donchanin-2121336747.html) <span class="news-meta-time">🕒 2026-10-01 04:47</span>
+:::
 :::timeline-item{start="2026-10-01 00:02 (UTC+8)" title="全球要闻情报简报 · 00:02" org="ARCHIVE"}
 **速报纪要：** 本小时内，一起严重的空中安全事件引发高度关注：一架从迪拜起飞的航班驾驶舱内发生持刀袭击，客机两分钟内骤降17000英尺，机上乘客紧急制止袭击者并避免灾难，飞机最终安全备降沙特阿拉伯。同时，劳动力市场初级岗位竞争加剧促使更多美国年轻人选择创业，另有科技应用因强制推送人工精选推荐而招致用户反弹。
 
@@ -642,18 +655,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles) <span class="news-meta-time">🕒 2026-09-18 00:01</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-real-quantum.html) <span class="news-meta-time">🕒 2026-09-18 02:00</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2189251) <span class="news-meta-time">🕒 2026-09-18 02:16</span>
-:::
-:::timeline-item{start="2026-09-17 21:37 (UTC+8)" title="全球要闻情报简报 · 21:37" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-17 21:35 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】Lucid Motors 迎来潜在欧洲无人出租车合作伙伴：Lucid Motors 已与欧洲出行平台 Bolt 达成合作，此举或将把这家加州公司生产的自动驾驶出租车（robotaxi）引入欧洲大陆。；【undefined】气价飙升，英国能源账单自明年1月起或暴涨25%至30%：分析师表示，随着中东危机持续拖累局势导致天然气价格飙升，英国居民家庭能源账单在2027年第一季度可能会猛增25%至30%。他们警告称，政府可能不得不投入更多资金采取措施以缓解生活成本危机。；【undefined】Bose下一代开放式耳塞带来更强低音、更高音量及更长续航：该主题的相关文章将添加到您的每日电子邮件摘要和主页信息流中。；【undefined】《海上女王》影评：令人心碎的认知症题材佳作，刻画震撼人心的亲密关系：在汤姆·康特奈与安娜·考尔德-马歇尔的精湛演绎下，兰斯·哈默的这部回归之作以其悲剧性的坦率令人难以承受，同时在道德拷问上也显得至关重要。；【undefined】Spotify推出Fresh Finds Forward计划：为音乐人提供免费录音室使用时长等支持：该主题下的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐资讯 Spotify正在为新兴音乐人提供大量资源，包括免费心理咨询。 该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看Terrence O'Brien的所有文章 入选Spotify的Fresh Finds歌单，对于试图在流媒体竞争中脱颖而出的音乐人而言，可能是一个重大突破。如今，Spotify正推出一项名为Fresh Finds Forward的计划，；【undefined】HYROX失禁选手发声明道歉：中新网9月17日电 综合报道，9月17日，HYROX选手乔安娜·维特日克(Joanna Wietrzyk)发表声明，就北京站比赛期间发生的事件向中国观众、参赛选手及赛事组织方致以诚挚歉意。；【undefined】俄罗斯国防出口公司在比勒陀利亚展示“阿穆尔-1650”潜艇与“红蜘蛛”级护卫舰：塔斯社比勒陀利亚9月17日电 据塔斯社记者报道，677E型“阿穆尔 1650”（Amur 1650）潜艇与22800E型“红蜘蛛-E”（Karakurt-E）小型护卫舰在南非比勒陀利亚举行的2026年非洲航空航天与防务展（AAD 2026）上展出。；【undefined】南非总统因身体不适暂停公开活动：中新网9月17日电 综合报道，南非总统府16日发表声明说，南非总统拉马福萨因身体不适，暂停参加公开活动，并遵医嘱休息恢复。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/sud-2118290802.html) <span class="news-meta-time">🕒 2026-09-17 21:33</span>
-- [TechCrunch (硅谷创业与资本)] [Lucid Motors 迎来潜在欧洲无人出租车合作伙伴](https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/) <span class="news-meta-time">🕒 2026-09-17 21:26</span>
-- [OilPrice (全球能源与原油大宗)] [气价飙升，英国能源账单自明年1月起或暴涨25%至30%](https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-Could-Jump-25-30-From-January-as-Gas-Prices-Soar.html) <span class="news-meta-time">🕒 2026-09-17 21:30</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare) <span class="news-meta-time">🕒 2026-09-17 21:14</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html) <span class="news-meta-time">🕒 2026-09-17 21:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/zelenskiy-2118290484.html) <span class="news-meta-time">🕒 2026-09-17 21:32</span>
 :::
 ::::
