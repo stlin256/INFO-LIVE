@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-30 · 今日](/INFO-LIVE/archive-2026-09-30/)
+- [2026-10-01 · 今日](/INFO-LIVE/archive-2026-10-01/)
+- [2026-09-30 · 历史快照](/INFO-LIVE/archive-2026-09-30/)
 - [2026-09-29 · 历史快照](/INFO-LIVE/archive-2026-09-29/)
 - [2026-09-28 · 历史快照](/INFO-LIVE/archive-2026-09-28/)
 - [2026-09-27 · 历史快照](/INFO-LIVE/archive-2026-09-27/)
@@ -41,14 +42,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **91** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **92** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-30 16:44 (UTC+8)
+- **最新归档时间**：2026-10-01 00:02 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-01 00:02 (UTC+8)" title="全球要闻情报简报 · 00:02" org="ARCHIVE"}
+**速报纪要：** 本小时内，一起严重的空中安全事件引发高度关注：一架从迪拜起飞的航班驾驶舱内发生持刀袭击，客机两分钟内骤降17000英尺，机上乘客紧急制止袭击者并避免灾难，飞机最终安全备降沙特阿拉伯。同时，劳动力市场初级岗位竞争加剧促使更多美国年轻人选择创业，另有科技应用因强制推送人工精选推荐而招致用户反弹。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/zaharova-2121302454.html) <span class="news-meta-time">🕒 2026-09-30 23:57</span>
+- [TechCrunch (硅谷创业与资本)] [Instinct新推出的商品推荐功能引发部分用户反感](https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/) <span class="news-meta-time">🕒 2026-09-30 23:56</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-30 23:55</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.tcl-lang.org/software/tcltk/9.1.html) <span class="news-meta-time">🕒 2026-09-30 23:27</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-cities-world-groundwater-depletion-reversed.html) <span class="news-meta-time">🕒 2026-09-30 23:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/tailand-2121302254.html) <span class="news-meta-time">🕒 2026-09-30 23:55</span>
+:::
 :::timeline-item{start="2026-09-30 16:44 (UTC+8)" title="全球要闻情报简报 · 16:44" org="ARCHIVE"}
 **速报纪要：** 根据最新监测信源，本小时重点聚焦驻伊拉克美军撤出进程、迪拜航空客机迫降事件排查，以及南非针对女性暴力引发的社会强烈抗议。
 
@@ -643,18 +655,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare) <span class="news-meta-time">🕒 2026-09-17 21:14</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html) <span class="news-meta-time">🕒 2026-09-17 21:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/zelenskiy-2118290484.html) <span class="news-meta-time">🕒 2026-09-17 21:32</span>
-:::
-:::timeline-item{start="2026-09-17 09:47 (UTC+8)" title="全球要闻情报简报 · 09:47" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-17 09:31 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】马斯克的长期支持者正将SpaceX股票分配给其投资者：据彭博社发现的一份美国证券交易委员会（SEC）申报文件显示，由安东尼奥·格拉西亚斯创立的风险投资公司Valor Equity Partners选择直接将其持有的一部分SpaceX股票分配给有限合伙人投资者。格拉西亚斯是埃隆·马斯克的长期支持者，也是SpaceX现任董事会成员。；【undefined】澳大利亚政坛直播：医疗费用上限取消后，兰比对退伍军人说“喝杯啤酒”；鳄鱼出没的河流“正式成为”2032年奥运会赛艇场地：实时关注当天新闻 订阅我们的突发新闻电子邮件，下载免费应用，或收听每日新闻播客 巴纳比·乔伊斯表示，工党正在抄袭并照搬“一国党”的作业，因为我们目前了解到的措施——阻止国际学生的家属入境，以及防止签证跳转——与保琳·汉森所提出的主张有些相似。 乔伊斯稍早接受《今日秀》节目采访时表示，伯克在新闻俱乐部活动前一刻取消出席，是“自阿梅莉亚·埃尔哈特以来最严重的一次缺席”。 “[伯克]不可能是要宣布一国党的政策吧。我是说，托尼是个很棒的人，对吧；【undefined】布达拉宫：开通雪城参观线路并实行门票收费：中新网9月17日电 据“布达拉宫官方”微信公众号，9月16日，布达拉宫管理处发布关于开通雪城参观线路并实行门票收费的公告：自2026年9月20日起，正式开通布达拉宫雪城参观线路。参观景点包括：比喜宅、雪监狱、雪巴列空、珍宝馆、羌仓、宝藏局(雪造币厂)、堪苏宅、龙夏宅。雪城参观线路实行单独售票。；【undefined】阿曼达·塞弗里德与托马斯·萨多斯基称，结婚近10年后分居是对家庭而言“正确的选择”：阿曼达·塞弗里德与结婚9年的丈夫结束了婚姻关系。；【undefined】日本有识之士呼吁铭记历史 反省侵略战争责任：新华社东京9月16日电(记者李子越 杨智翔)多名日本历史学者、民间和平人士16日在东京围绕九一八事变爆发95周年举行研讨会。与会者就“历史记忆与传承”这一主题，围绕战争记忆、加害责任以及和平理念传承等展开交流。；【undefined】日媒曝美军打算到日韩土耳其“海淘”军舰，三个“代工厂”入围：日媒曝美军打算到日韩土耳其“海淘”军舰，三个“代工厂”入围，现实很骨感 | 国际早察；【undefined】日本民间办展揭露二战日军毒气战罪行：新华社东京9月16日电 题：日本民间办展揭露二战日军毒气战罪行；【undefined】周三美联储加息的五个关键要点：美联储周三如市场普遍预期上调了利率，随后，美联储主席凯文·沃什举行了一场言辞格外简短的新闻发布会，强调政策制定者坚定不移地致力于应对通胀。
-
-**重点要闻索引：**
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2188725) <span class="news-meta-time">🕒 2026-09-17 09:19</span>
-- [TechCrunch (硅谷创业与资本)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/) <span class="news-meta-time">🕒 2026-09-17 08:58</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html) <span class="news-meta-time">🕒 2026-09-17 08:00</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1widkoe/trump_suggests_eu_allowing_canada_as_associate/) <span class="news-meta-time">🕒 2026-09-17 07:38</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-tracking-community-health.html) <span class="news-meta-time">🕒 2026-09-17 09:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/deti-2118159372.html) <span class="news-meta-time">🕒 2026-09-17 09:17</span>
 :::
 ::::

@@ -16,275 +16,445 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-s-bank-today-sources-say-e7c6a0bc5d6db1de" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2312" data-content-paragraphs="20" data-published-at="2026-09-30T04:08:00.000Z" data-time-source="publication">
+<div id="story-iving-some-users-the-ick-8f7327ee80b1efed" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2214" data-content-paragraphs="23" data-published-at="2026-09-30T15:56:28.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 12:08</span>
+  <span class="news-meta-time">🕒 2026-09-30 23:56</span>
 </div>
 
-### [在旁观多年后，Apple Pay 终于在印度上线](https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple Pay finally launches in India after years on the sidelines</div>
+### [Instinct新推出的商品推荐功能引发部分用户反感](https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Instinct’s new product recommendations are giving some users the ick</div>
 
-<div class="article-body" data-article-body="true"><p>正如 TechCrunch 率先报道的那样，苹果于周二开始在印度推出 Apple Pay。其首家银行合作伙伴是该国第三大私营银行 Axis Bank。在经历了多年的推迟之后，此举将苹果的支付服务带入了这个全球人口最多的国家。在这个市场中，国家支持的统一支付接口（UPI）占据着主导地位。</p>
-<p>初期的推广范围有限。Apple Pay 支持 Axis Bank 旗下的 Visa 和万事达（Mastercard）合规卡片，但不支持印度本土的 RuPay 网络。该服务的受理范围也将仅限于已启用该服务的商家和支付终端。</p>
-<p>苹果表示，该服务将被全印度“数百万商家”受理，包括 Blinkit、Croma、Ixigo、信实（Reliance）旗下品牌、Tata 1mg 以及 Zomato。该公司已与包括 Cashfree、JusPay、Mswipe、Paytm、PayU、Pine Labs、Razorpay 和 Worldline 在内的支付服务商合作，以支持 Apple Pay 的受理。</p>
-<p>与印度无处不在的统一支付接口（UPI）系统（该系统允许消费者在不依赖银行卡的情况下直接进行银行间即时转账）不同，Apple Pay 基于银行卡运作，需要各个发卡行和支付基础设施提供商与该服务进行系统整合。这使得大规模推广更加复杂。知情人士称，苹果的商业条款也成为与印度部分大型银行谈判的症结所在。</p>
-<p>据知情人士透露，苹果要求对交易收取约 20 个基点（0.2%）的手续费，这在支付层约 40 到 50 个基点（0.4% 至 0.5%）的微薄利润中切走了一大块。知情人士表示，这一收费结构与 Apple Pay 在其他市场的商业模式大致相符。一位知情人士告诉 TechCrunch，由于有关商业条款的谈判仍在进行，HDFC Bank、ICICI Bank 和 SBI Card 在上线初期并未支持 Apple Pay。</p>
-<p>苹果、Axis Bank、HDFC Bank、ICICI Bank 和 SBI Card 均未回应就此次上线置评的请求。本月早些时候，路透社报道称，苹果正准备于 10 月在印度推出 Apple Pay，首先支持 Axis Bank 信用卡。</p>
-<p>Apple Pay 进军的支付市场与美国及其他重度依赖银行卡的经济体截然不同。印度的数字支付繁荣主要是由 UPI 推动的，这个国家支持的系统允许消费者直接在银行账户之间转移资金。</p>
-<p>UPI 处理了印度绝大多数的数字支付，在印度，扫描二维码直接从银行账户付款已成常态。相比之下，Apple Pay 初期面向的是一个规模小得多的银行卡支付市场。</p>
-<p>尽管如此，Apple Pay 可能会吸引印度日益增长的 iPhone 用户群，这些用户往往更为富裕，且更有可能使用高端信用卡。尽管 UPI 占据主导地位，但这些客户群体可能会让银行难以忽视这项服务。</p>
-<p>即使 Apple Pay 仍然是一项小众服务，其商业效益仍可能使印度市场对苹果具有重大意义。知情人士表示，这家 iPhone 制造商收取的交易手续费将为其在该国不断扩大的 iPhone 用户群提供另一种变现途径。</p>
-<p>知情人士称，上线后，合规的 Axis Bank 客户可以将其信用卡添加到苹果的钱包（Wallet）应用中，并使用 Apple Pay 进行在线购物，以及在受支持的终端上进行非接触式支付。</p>
-<p>一位知情人士表示，在已启用该服务的独立支付服务商运营的终端上，Apple Pay 交易可以成功，但在收单银行尚未启用该服务的另一台终端上可能会失败。这可能会导致在初期推广阶段，即使持有受支持卡片的客户，其使用体验也可能不够均衡。</p>
-<p>此次上线为苹果在印度不断增长的业务增添了新的拼图。苹果一直在印度扩大 iPhone 销售、本土制造以及零售业务布局。根据 Counterpoint Research 此前的一份报告，按销售额计算，苹果在 2025 年占印度智能手机市场的 28%，高于前一年的 23%。</p>
-<p>印度英文日报《商业标准报》（Business Standard）上个月援引一名印度政府官员的话报道称，印度目前已占全球 iPhone 产量的约四分之一，未来五年内这一比例可能会上升至 30% 到 35%。</p>
-<p>更新：本文最初于周二上午发布，现已更新以反映该服务目前已正式上线。</p>
+<div class="article-body" data-article-body="true"><p>备受瞩目的人工智能初创公司 Instinct 刚刚披露了一条潜在的新收入来源：商品推荐。但对该公司来说不幸的是，这项功能的推出已经引起了部分用户的不满。</p>
+<p>一夜之间，作为名为“Instinct Selections”新功能的一部分，该 AI 智能体开始向用户推送商品建议，旨在为用户在餐饮、旅行和购物等领域打造个性化清单。</p>
+<p>创始人诺亚·辛恩（Noah Shinn）周二晚些时候宣布了该功能的首次亮相，并解释称其理念是与“当地厨师、设计师、建筑师、旅行向导”等人合作，为其产品注入“人类品味”。</p>
+<p>换言之，该公司不再仅仅依赖 AI 根据从整个网络收集的训练数据给出的建议，而是与人类合作，同时提供经人工精选的建议。（Instinct 并未透露这些人类合作伙伴究竟是谁。）</p>
+<p>“下次你寻找餐厅时，Instinct 可以从熟悉你所在地区隐秘好去处的厨师们精选的清单中提取信息，”辛恩在 X 平台上写道。</p>
+<p>“如果你想找一条新步道去探索，Instinct 可以参考当地向导的推荐，并建议几条符合你偏好的路线。如果你想为家中增添一些色彩，Instinct 会寻找与你的风格、空间和预算相匹配的独立设计师作品，”他继续说道。“我们的目标是提供世界顶级的推荐，其质量有别于你在互联网上能找到的内容，也有别于其他聊天机器人生成的内容。”</p>
+<p>然而，对于这些看似未经请求就被推送的商品，最初的反应并不完全是正面的。</p>
+<p>“我根本不需要买随身登机箱、太阳镜或宽檐帽。这让人太失望了。至少给我列一份我真正需要的个性化购物清单吧！！”专注于 AI 领域的投资机构 Array VC 的普通合伙人施鲁蒂·甘地（Shruti Gandhi）在 X 上写道。</p>
+<p>Instinct 一夜之间变成了劣质的亚马逊推荐应用。我根本不需要买随身登机箱、太阳镜或宽檐帽。这让人太失望了。至少给我列一份我真正需要的个性化购物清单吧！！ https://t.co/hmH2iiE8lF pic.twitter.com/TNQIEwK9z2</p>
+<p>另一位创业者安德鲁·杨（Andrew Yeung）在 X 上证实，他也收到了自己从未要求过的商品推荐，这让人感到不适。</p>
+<p>第三位用户、一家企业并购交易平台的创始人查特·乔格莱卡（Chat Joglekar）写道：“当 Instinct 开始根据我的电子邮件内容和即将到来的行程向我推荐应该购买的商品时，我第一次对 AI 助手产生了‘恶心’（ewwww）的感觉。”</p>
+<p>当 Instinct 开始根据我的电子邮件内容和即将到来的行程向我推荐应该购买的商品时，我第一次对 AI 助手产生了“恶心”的感觉。——因为我们订了 Blue Bottle 咖啡订阅，就推荐便携咖啡保温杯？——因为我们有……就推荐一些旅行配件？</p>
+<p>让精选建议发挥作用的诀窍在于，确保它们是用户确实需要的，或者至少能自然地融入当前的对话中。这样一来，用户会觉得助手是在努力提供帮助，而不是在向其推销广告。</p>
+<p>如果商品建议像 Instinct 目前这样以随机间隔弹出，那么它们就必须是高度个性化且极其出色的选择——否则用户会觉得自己被垃圾信息骚扰了。</p>
+<p>眼下，Instinct 正与来自 Meta 以及现如今的 OpenAI 等大公司的智能体展开竞争，而这些竞品并没有这样做；在此时此刻，这一举动不太可能赢得用户的青睐。</p>
+<p>精选是好事，希望它效果良好，但至少问问我是否想要这些推荐。我刚刚收到了一条基于未来行程的额外装备随机通知，而这既非我所求，也非我所需。另外，除了你们提供的信源之外，也请允许我自行筛选信源……</p>
+<p>Instinct 未透露目前是否正在从这些推荐中赚钱，或是否有此打算，但该功能似乎非常适合用于某种广告、电商或佣金联盟模式。</p>
+<p>TechCrunch 已就此联系该公司以获取进一步置评。</p>
+<p>商品建议功能的上线，是在 Instinct 确认其最新一轮融资后不久推出的——该公司完成了一笔 10 亿美元的 C 轮融资，估值达到 100 亿美元。该公司尚未公布其实际的用户规模（该数据有助于支撑其估值），但在最近的一期播客中，辛恩指出，该智能体经常为用户处理交易。</p>
+<p>在与投资人帕特里克·奥肖内西（Patrick O’Shaughnessy）的同一次播客访谈中，辛恩表示，通过该智能体进行的年度交易额正逼近 10 亿美元，其中超过 50% 与旅行相关。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的采编独立性。</p>
+<p>消费新闻编辑<br />第二张门票立享五折优惠。Disrupt 的体验旨在与他人共享。购买您的通行证，携带同事、合伙人或同行即可享受半价。通过建立联系、汇聚动力以及探索创业生态系统的未来，拓展更广阔的视野。</p>
+<p>AMD 将以 82 亿美元收购李飞飞创办的 World Labs<br />爆火 AI 智能体公司 Instinct 以 100 亿美元估值完成 10 亿美元 C 轮融资<br />Crusoe 放弃在 AI 数据中心使用 Boom 涡轮机的 12.5 亿美元计划<br />Astra 和 Opus 刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta 为其 Muse AI 智能体开发了一款类似电子宠物的可穿戴设备<br />Vogue 在 Vogue World 上让机器人走秀，但反响平平</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>AI 初创公司 Instinct 推出名为“Instinct Selections”的新功能，向用户推送餐饮、旅行和购物等领域的人工精选产品推荐。</li>
+    <li>Instinct 创始人 Noah Shinn 在社交平台 X 上宣布，该功能将与当地厨师、设计师、建筑师及导游等合作，以引入“人类品味”。</li>
+    <li>来源叙事重点：聚焦AI独角兽Instinct在获得百亿美元高估值后尝试商业化变现所引发的用户反弹，强调未经请求的“人工精选”商品推送打破了助手定位与广告骚扰之间的界限，质疑其商业化急迫性与用户体验之间的冲突。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--bedrock-knowledge-bases-4a7054c6c35b5478" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="14621" data-content-paragraphs="74" data-published-at="2026-09-30T15:37:15.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 23:37</span>
+</div>
+
+### [利用 Amazon Bedrock 知识库通过自然语言查询保险理赔信息](https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Query claims in natural language with Amazon Bedrock Knowledge Bases</div>
+
+<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21629-1.png" alt="利用 Amazon Bedrock 知识库通过自然语言查询保险理赔信息" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>理赔相关的信息分散在理赔员日志记录、维修估价单、警方报告、付款分类账以及扫描附件中，而不是集中在单一的可搜索字段内。保单持有人可能会询问某项理赔是否已获批准，而理赔员可能需要上个月超过 10,000 美元的全部未结车险理赔单。这两类任务都需要快速、准确地查找并整合证据。</p>
+<p>检索增强生成（RAG）利用检索到的文档作为模型生成回答的事实依据。Amazon Bedrock 知识库（Amazon Bedrock Knowledge Bases）是面向文档的全托管 RAG 功能。Amazon Bedrock 负责处理解析、分块、嵌入和向量存储，让您能够构建一个可以通过理赔文件返回附带引用来源回答的对话式界面。</p>
+<p>本技术实操指南使用模拟理赔记录，并不代表生产环境中的实际客户部署。通过完成以下步骤，您将构建一个能够回答自然语言问题并附带引用来源的理赔助手：<br />从 Amazon Simple Storage Service (Amazon S3) 摄取理赔文档及其元数据。<br />使用 AgenticRetrieveStream API 通过普通自然语言进行查询。<br />提出多轮跟进问题。<br />使用针对理赔 ID 和理赔类型等属性的元数据筛选器来限定检索范围。<br />添加上下文基准化护栏（contextual grounding guardrail），确保回答严格依托于记录本身。</p>
+<p>理赔查询面临的挑战<br />保单持有人、联络中心坐席和理赔员会提出不同的问题：<br />保单持有人会寻求通俗易懂的状态更新：“理赔单 CLM-100482 的估价是否已获批？支票何时签发？”<br />联络中心坐席需要在客户等待期间快速、准确地给出答案，而无需转接电话。<br />理赔员跨理赔单提出多部分问题，例如上个月提交了哪些超过 10,000 美元的未结车险理赔单，以及每笔理赔单还有哪些待办工作。<br />答案保存在理赔员 PDF 报告、Word 往来函电和纯文本笔记中，而非一致的数据库字段内。<br />记录之间可能存在冲突或后续版本替代先前版本的情况。修订后的估价单可能会替代早先的估价单，或者临时付款可能会在稍后被冲销。理赔助手必须能够识别哪一份估价单、哪笔付款或哪种状态具有最终控制力。<br />由于理赔业务受到监管，每个回答都必须基于源文档并包含引用来源。联络中心坐席在转述答案之前可以核实来源，主管也可以审计助手得出该答案的过程。</p>
+<p>该解决方案使用 Amazon Bedrock 知识库对来自 Amazon S3 的理赔文档建立索引以供检索。<br />通过 AgenticRetrieveStream 进行的代理式检索（Agentic retrieval）会规划回答流程，将多部分问题拆解为多个子查询，并执行一轮或多轮检索传递。在生成回答之前，它会检查证据是否充足。<br />该 API 流式传输追踪事件、回答文本和引用来源。追踪事件公开了检索计划，而每个引用则将回答的一部分映射到原始理赔文档。</p>
+<p>下图展示了这两条路径。摄取通道将理赔文档和元数据加载到知识库中。检索通道在返回带引用的回答之前，将每个问题通过 AgenticRetrieveStream 和 Amazon Bedrock Guardrails 基准检查进行处理。</p>
+<p>图 1：基于 Amazon Bedrock 知识库构建的对话式理赔助手</p>
+<p>摄取通道在文档到达时运行：<br />PDF、Word 或文本格式的理赔文档以及匹配的元数据挎斗文件（sidecar）存入 Amazon S3。<br />随着文档发生变动，摄取作业将 S3 数据源与知识库保持同步。<br />知识库在托管向量存储中对文档及其元数据进行解析、分块、嵌入和索引。</p>
+<p>检索通道在针对每个问题时运行：<br />应用程序调用 AgenticRetrieveStream，并传入问题、对话历史记录以及用于限定搜索范围的可选元数据筛选器。<br />基础模型创建子查询并重复检索，直到获得足够的证据，最多可执行 maxAgentIteration 轮。<br />上下文基准化检查会拦截缺乏检索记录支持的回答。<br />Amazon Bedrock 流式传输回答、追踪事件和引用，使应用程序能够在输出生成时即时展示。</p>
+<p>在开始之前，请确认您已具备以下条件：<br />拥有配置了 Amazon Bedrock 和 Amazon S3 相应 AWS Identity and Access Management (IAM) 权限的 AWS 账户。<br />已通过 Amazon Bedrock 模型访问权限启用了对基础模型（FM）的访问。<br />支持所选基础模型和 Amazon Bedrock 知识库的 AWS 区域。本演练使用美国西部（俄勒冈）us-west-2 区域。部署前请查阅 Amazon Bedrock 中按 AWS 区域划分的受支持模型。<br />配置了凭证且版本支持本文所用 API 的 AWS Python 开发工具包 (Boto3)。<br />用于存放模拟理赔文档和元数据的 S3 存储桶。<br />熟悉 Python 以及基础的 RAG 概念。</p>
+<p>准备理赔文档和元数据<br />在 Amazon S3 中按每个理赔案存储一份文档。知识库可直接读取 PDF 格式的理赔员报告、Word 往来文件和文本笔记，因此您可以将文档保持为原生格式。</p>
+<p>图 2 显示了一条模拟理赔记录。当前风险敞口（Current exposure）是指预估的理赔总成本。其证据索引标识了一份被取代的传真草稿，即已被更新版本替换的记录。元数据挎斗文件重复了助手可用于筛选的字段。</p>
+<p>图 2：包含文件控制字段和证据索引的模拟理赔记录</p>
+<p>为了进行筛选，请添加一个附带的元数据文件，命名方式为原文件名加上 .metadata.json。例如针对 CLM-100482.pdf，使用 CLM-100482.pdf.metadata.json。代位求偿（Subrogation）是指保险公司向责任第三方追讨费用的追偿工作。以下示例描述了一起车险理赔：<br />{ &quot;metadataAttributes&quot;: { &quot;claim_id&quot;: &quot;CLM-100482&quot;, &quot;claim_type&quot;: &quot;auto&quot;, &quot;status&quot;: &quot;open&quot;, &quot;date_filed&quot;: 20260709, &quot;amount&quot;: 14250, &quot;region&quot;: &quot;us-west&quot;, &quot;adjuster&quot;: &quot;Martha Rivera&quot;, &quot;policyholder&quot;: &quot;Mary Major&quot;, &quot;policy_number&quot;: &quot;POL-AUTO-78432&quot;, &quot;customer_id&quot;: &quot;CUST-MM-1042&quot;, &quot;household_id&quot;: &quot;HHD-MM-1042&quot;, &quot;document_type&quot;: &quot;adjuster_report&quot;, &quot;carrier&quot;: &quot;Example Insurance&quot;, &quot;has_subrogation&quot;: true, &quot;has_litigation&quot;: false, &quot;complexity_tier&quot;: &quot;high&quot; } }</p>
+<p>挎斗文件包含标量字符串、数字和布尔值。值的类型决定了可用的筛选器。下表列出了稍后在查询中使用的字段。</p>
+<p>本文使用模拟数据。未经必要的控制和批准，切勿在这些资源中存入真实的个人身份信息（PII）或受保护的健康信息。</p>
+<p>属性 | 类型 | 示例 | 筛选用途<br />claim_id | 字符串 | CLM-100482 | equals 用于单笔理赔查询<br />claim_type | 字符串 | auto | equals 或 in 用于业务线筛选<br />status | 字符串 | open | in 用于活动工作队列<br />amount | 数字 | 14250 | 数值范围比较<br />date_filed | 数字 | 20260709 | YYYYMMDD 整数格式的日期范围<br />region | 字符串 | us-west | 从会话中限定租户范围<br />customer_id | 字符串 | CUST-MM-1042 | 从会话中限定客户范围<br />has_subrogation | 布尔值 | true | equals 用于追偿工作</p>
+<p>将日期存储为 YYYYMMDD 格式的整数，因为元数据筛选器比较的是数值而非日期字符串。这种格式支持诸如“上个月提交”等范围查询。<br />在 amount 中仅存储一个可比对的货币数值。准备金（reserve）是为预估理赔成本预留的款项，而冻结金额（hold）则是暂时扣留的款项。请将准备金、付款和冻结金额保留在文档正文中，以便其标签保持清晰明确。<br />伴随文件（Sidecar files）大小限制为 10 KB。有关完整格式，请参阅“为知识库连接 Amazon S3”（Connect to Amazon S3 for your knowledge base）。<br />S3 的文件布局将每个理赔文档与其元数据文件配对：<br />s3://amzn-s3-demo-insurance-claims/claims/CLM-100482.pdf s3://amzn-s3-demo-insurance-claims/claims/CLM-100482.pdf.metadata.json s3://amzn-s3-demo-insurance-claims/claims/CLM-100517.docx s3://amzn-s3-demo-insurance-claims/claims/CLM-100517.docx.metadata.json s3://amzn-s3-demo-insurance-claims/claims/CLM-100533.txt s3://amzn-s3-demo-insurance-claims/claims/CLM-100533.txt.metadata.json<br />创建托管知识库并摄取理赔数据<br />使用 bedrock-agent 客户端创建知识库。将 knowledgeBaseConfiguration.type 和 embeddingModelType 设置为 MANAGED。<br />Amazon Bedrock 会自动选择并运行嵌入模型。无需进行向量数据库配置。所有参数请参阅 CreateKnowledgeBase。以下代码用于创建知识库：<br />bedrock_agent = boto3.client(&quot;bedrock-agent&quot;, region_name=&quot;us-west-2&quot;)<br />kb = bedrock_agent.create_knowledge_base( name=&quot;insurance-claims-kb&quot;, description=&quot;Synthetic insurance claims for the claims assistant&quot;, roleArn=&quot;arn:aws:iam::111122223333:role/InsuranceClaimsKnowledgeBaseRole&quot;, knowledgeBaseConfiguration={ &quot;type&quot;: &quot;MANAGED&quot;, &quot;managedKnowledgeBaseConfiguration&quot;: { &quot;embeddingModelType&quot;: &quot;MANAGED&quot; }, }, ) kb_id = kb[&quot;knowledgeBase&quot;][&quot;knowledgeBaseId&quot;]<br />roleArn 服务角色授予知识库读取 S3 存储桶以及使用托管嵌入模型的权限。请参阅“为 Amazon Bedrock Knowledge Bases 创建服务角色”（Create a service role for Amazon Bedrock Knowledge Bases）。若要使用客户托管的 AWS Key Management Service (AWS KMS) 密钥加密托管向量存储，请在 serverSideEncryptionConfiguration 中传递其 ARN。<br />接下来，将 S3 存储桶作为数据源进行连接。inclusionPrefixes 设置将摄取范围限制为 claims/：<br />data_source = bedrock_agent.create_data_source( knowledgeBaseId=kb_id, name=&quot;claims-s3&quot;, dataSourceConfiguration={ &quot;type&quot;: &quot;S3&quot;, &quot;s3Configuration&quot;: { &quot;bucketArn&quot;: &quot;arn:aws:s3:::amzn-s3-demo-insurance-claims&quot;, &quot;inclusionPrefixes&quot;: [&quot;claims/&quot;], }, }, ) data_source_id = data_source[&quot;dataSource&quot;][&quot;dataSourceId&quot;]<br />启动摄取任务，以对文档进行解析、分块、嵌入和索引。每当添加或更新理赔文档时请重新运行该任务，以确保索引保持同步：<br />bedrock_agent.start_ingestion_job( knowledgeBaseId=kb_id, dataSourceId=data_source_id, )<br />使用 get_ingestion_job 或在 Amazon Bedrock 控制台中检查状态。当任务完成时，即可对理赔信息进行搜索。详情请参阅 StartIngestionJob。<br />使用 AgenticRetrieveStream API 查询理赔信息<br />完成理赔信息摄取后，使用 bedrock-agent-runtime 客户端调用 AgenticRetrieveStream。有关完整的请求和响应语法，请参阅 API 参考文档。请求包含三个部分：<br />messages：对话轮次。每条消息包含一个 user 或 assistant 角色以及一个 content.text 值。<br />retrievers：最多五个知识库。每个知识库均包含知识库 ID，并可指定元数据筛选器以及 maxNumberOfResults（1–100）。对于涉及多个理赔记录的问题，可调大此上限。<br />agenticRetrieveConfiguration：规划模型和迭代次数上限。服务模型请使用 MANAGED。若要使用特定模型，请使用带有模型 ARN 的 CUSTOM。maxAgentIteration 限制规划和检索的轮数。<br />该请求用于查询单个理赔案的状态。将 generateResponse 设置为 True 会返回自然语言回答：<br />bedrock_agent_runtime = boto3.client(&quot;bedrock-agent-runtime&quot;, region_name=&quot;us-west-2&quot;)<br />response = bedrock_agent_runtime.agentic_retrieve_stream( messages=[ {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: {&quot;text&quot;: &quot;What is the status of claim CLM-100482?&quot;}} ], retrievers=[ { &quot;configuration&quot;: {&quot;knowledgeBase&quot;: {&quot;knowledgeBaseId&quot;: kb_id}}, &quot;description&quot;: &quot;Synthetic insurance claim records&quot;, } ], agenticRetrieveConfiguration={ &quot;foundationModelType&quot;: &quot;MANAGED&quot;, &quot;maxAgentIteration&quot;: 5, }, generateResponse=True, )<br />遍历 response[&quot;stream&quot;] 并处理以下三种事件类型：<br />traceEvent：报告每一步的规划、检索、全文展开、护栏操作、状态以及生成的子查询。<br />responseEvent：提供增量回答文本，可将其流式传输给用户。<br />result：包含去重后的检索结果；当 generateResponse 为 True 时，还包含生成的完整回答及其引用来源。<br />以下循环在回答数据块到达时进行流式传输，并保留最终结果以用于渲染引用来源：<br />answer = &quot;&quot; final_result = None<br />for event in response[&quot;stream&quot;]: if &quot;traceEvent&quot; in event: attributes = event[&quot;traceEvent&quot;][&quot;attributes&quot;] print(f&quot;[trace] {attributes.get(&#39;step&#39;)}: {attributes.get(&#39;status&#39;)}&quot;) elif &quot;responseEvent&quot; in event: chunk = event[&quot;responseEvent&quot;][&quot;text&quot;] answer += chunk print(chunk, end=&quot;&quot;, flush=True) elif &quot;result&quot; in event: final_result = event[&quot;result&quot;]<br />读取追踪信息以查看执行计划<br />基本循环会打印每个步骤和状态。该辅助函数还会打印子查询、全文提取和护栏操作：<br />def report_trace(trace_event): attributes = trace_event.get(&quot;attributes&quot;, {}) print(f&quot;[trace] {attributes.get(&#39;step&#39;)}: {attributes.get(&#39;status&#39;)}&quot;)<br />for action in attributes.get(&quot;actions&quot;, []): if &quot;retrieve&quot; in action: sub_query = action[&quot;retrieve&quot;].get(&quot;inputQuery&quot;, {}).get(&quot;text&quot;, &quot;&quot;) print(f&quot; sub-query: {sub_query}&quot;) elif &quot;fullDocumentExpansion&quot; in action: document = action[&quot;fullDocumentExpansion&quot;].get(&quot;documentId&quot;, &quot;&quot;) print(f&quot; full document: {document}&quot;)<br />for warning in attributes.get(&quot;warnings&quot;, []): if &quot;guardrail&quot; in warning: print(f&quot; guardrail: {warning[&#39;guardrail&#39;].get(&#39;action&#39;)}&quot;)<br />图 3 展示了智能体循环过程。该服务规划策略、创建子查询、检索证据，并检查检索内容是否充分。如有必要，它会在生成带引用的回答之前再执行一轮检索。<br />图 3：从问题到带引用回答的智能体检索循环<br />每个引用均标识回答中的字符跨度，并指向 result 事件中 results 数组内的支持条目。应用程序利用这些索引将显示的文本与其源文档关联起来。<br />以下代码打印每个引用的跨度，并在其旁边显示源文档内置的 x-amz-bedrock-kb-source-uri 值：<br />generated = final_result[&quot;generatedResponse&quot;] results = final_result[&quot;results&quot;]<br />for citation in generated.get(&quot;citations&quot;, []): span = generated[&quot;answer&quot;][citation[&quot;startIndex&quot;]:citation[&quot;endIndex&quot;]] for reference in citation[&quot;references&quot;]: source = results[reference[&quot;resultIndex&quot;]] source_uri = source.get(&quot;metadata&quot;, {}).get(&quot;x-amz-bedrock-kb-source-uri&quot;) print(f&#39;&quot;{span}&quot;\n -&gt; {source_uri}&#39;)</p>
+<p>在多轮对话中提出跟进问题</p>
+<p>跟进问题依赖于前面的轮次。在获得状态答复后，投保人可能会询问：“分配给它的理赔员是谁？”（Who is the adjuster assigned to it?）其中的“它”（it）这一指代，将从 messages 中传递的对话历史中解析出来。</p>
+<p>将对话保存在应用程序中。每轮对话结束后，追加用户的问题和助手的回答，然后在下一次调用时发送完整的列表：</p>
+<p>messages = [ {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: {&quot;text&quot;: &quot;What is the status of claim CLM-100482?&quot;}}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: {&quot;text&quot;: answer}}, {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: {&quot;text&quot;: &quot;Who is the adjuster assigned to it?&quot;}}, ]<br />response = bedrock_agent_runtime.agentic_retrieve_stream( messages=messages, retrievers=[ {&quot;configuration&quot;: {&quot;knowledgeBase&quot;: {&quot;knowledgeBaseId&quot;: kb_id}}} ], agenticRetrieveConfiguration={&quot;foundationModelType&quot;: &quot;MANAGED&quot;}, generateResponse=True, )</p>
+<p>服务利用前面的轮次将“it”解析为理赔案件 CLM-100482，并检索该理赔案件的理赔员。同之前一样处理响应流。</p>
+<p>使用元数据筛选器限定检索范围</p>
+<p>元数据筛选器在进行语义搜索之前限制文档范围。将其添加到检索器的 retrievalOverrides 下。使用查询筛选器来提高相关性，并从服务器上的已验证会话中派生授权筛选器。</p>
+<p>对于按理赔 ID 直接查找的情况，请使用 equals（等于）筛选器：</p>
+<p>retrievers = [ { &quot;configuration&quot;: { &quot;knowledgeBase&quot;: { &quot;knowledgeBaseId&quot;: kb_id, &quot;retrievalOverrides&quot;: { &quot;filter&quot;: {&quot;equals&quot;: {&quot;key&quot;: &quot;claim_id&quot;, &quot;value&quot;: &quot;CLM-100482&quot;}} }, } } } ]</p>
+<p>对于 2026 年 7 月提交且金额超过 10,000 美元的未结车险理赔案件，使用 andAll 组合理赔类型、状态、金额和日期条件：</p>
+<p>claims_filter = { &quot;andAll&quot;: [ {&quot;equals&quot;: {&quot;key&quot;: &quot;claim_type&quot;, &quot;value&quot;: &quot;auto&quot;}}, {&quot;equals&quot;: {&quot;key&quot;: &quot;status&quot;, &quot;value&quot;: &quot;open&quot;}}, {&quot;greaterThan&quot;: {&quot;key&quot;: &quot;amount&quot;, &quot;value&quot;: 10000}}, {&quot;greaterThanOrEquals&quot;: {&quot;key&quot;: &quot;date_filed&quot;, &quot;value&quot;: 20260701}}, {&quot;lessThanOrEquals&quot;: {&quot;key&quot;: &quot;date_filed&quot;, &quot;value&quot;: 20260731}}, ] }<br />response = bedrock_agent_runtime.agentic_retrieve_stream( messages=[ { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: { &quot;text&quot;: &quot;Summarize the outstanding items on the open auto &quot; &quot;claims over $10,000 filed in July.&quot; }, } ], retrievers=[ { &quot;configuration&quot;: { &quot;knowledgeBase&quot;: { &quot;knowledgeBaseId&quot;: kb_id, &quot;retrievalOverrides&quot;: { &quot;filter&quot;: claims_filter, &quot;maxNumberOfResults&quot;: 50, }, } } } ], agenticRetrieveConfiguration={&quot;foundationModelType&quot;: &quot;MANAGED&quot;}, generateResponse=True, )</p>
+<p>该查询可能会匹配许多理赔案件，因此 maxNumberOfResults 设置为 50。较小的限制可能会导致摘要遗漏匹配的理赔案件。</p>
+<p>支持的运算符包括 equals、notEquals、数值比较、in、notIn、stringContains、listContains 以及逻辑 andAll/orAll。startsWith 仅限于 Amazon OpenSearch Serverless 向量存储。请参阅“元数据和筛选”（Metadata and filtering）并确认运算符支持情况。</p>
+<p>如果筛选器未返回任何文档，请检查空结果并返回清晰的消息（例如“没有符合这些条件的理赔案件”），而不是生成回答。</p>
+<p>我们使用 Retrieve 和 RetrieveAndGenerate（而非 AgenticRetrieveStream）对这一包含 30 份文档的合成语料库进行了评测。请将结果视为语料库和元数据架构的基准线，而非 Agentic 检索基准。</p>
+<p>包含 40 个问题的评测套件涵盖了直接查找、对比、别名、已废弃记录、冲正付款以及类似指令的文档文本。基础模型的自动评分使得事实层面的结果具有方向性参考价值。</p>
+<p>预期来源检索召回率衡量所找到的必要文档。引用召回率衡量所引用的必要文档。二者均在文档级别对每个问题求平均值，并不衡量分块（chunk）层面的精度。</p>
+<p>下表显示了总体结果：</p>
+<p>回答的问题数：40 / 40<br />带有引用的回答数：40 / 40<br />每个回答的平均引用数：3.9<br />预期来源检索召回率：90.5%<br />预期来源引用召回率：81.2%<br />与所请求筛选条件冲突的分块数：0</p>
+<p>来源：此处描述的 40 个问题评测套件和基础模型评分器。</p>
+<p>在 20 个对抗性问题中，检索召回率为 96.7%，引用召回率为 90.2%。该模型将名称相似的公司区分开来，将指控保留为指控，并忽略了附件内类似指令的文本。</p>
+<p>图 4 比较了完整套件与对抗性子集的预期来源检索召回率和引用召回率。这些度量使用的是 Retrieve 和 RetrieveAndGenerate。</p>
+<p>图 4：预期来源检索与引用召回率，完整套件与对抗性子集对比</p>
+<p>针对具体理赔案件的窄向问题表现最佳。广泛且未加筛选的清单类问题产生了三个最差的结果。</p>
+<p>引用覆盖率并不能保证回答的完整性，因此在完整性至关重要时请单独进行衡量。</p>
+<p>这些结果使用了合成文档和自动化评分。在向投保人开放助手之前，请在您自己的语料库上开展人工复审。</p>
+<p>添加安全性与治理</p>
+<p>理赔助手需要访问控制和具备事实依据的响应。</p>
+<p>将筛选条件限定到已认证用户</p>
+<p>将元数据筛选器视为访问边界。从经过身份验证的会话中获取 region 或 customer_id，使用 andAll 将其与查询筛选器组合，切勿直接采信来自用户文本的边界。userContext 字段也支持访问控制筛选。</p>
+<p>仅授予 Agentic 检索、知识库访问、模型流式传输和护栏操作所需的权限：</p>
+<p>{ &quot;Version&quot;: &quot;2012-10-17&quot;, &quot;Statement&quot;: [ { &quot;Effect&quot;: &quot;Allow&quot;, &quot;Action&quot;: &quot;bedrock:AgenticRetrieveStream&quot;, &quot;Resource&quot;: &quot;*&quot; }, { &quot;Effect&quot;: &quot;Allow&quot;, &quot;Action&quot;: [ &quot;bedrock:Retrieve&quot;, &quot;bedrock:GetDocumentContent&quot; ], &quot;Resource&quot;: &quot;arn:aws:bedrock:us-west-2:111122223333:knowledge-base/*&quot; }, { &quot;Effect&quot;: &quot;Allow&quot;, &quot;Action&quot;: &quot;bedrock:InvokeModelWithResponseStream&quot;, &quot;Resource&quot;: &quot;*&quot; }, { &quot;Effect&quot;: &quot;Allow&quot;, &quot;Action&quot;: [ &quot;bedrock:GetGuardrail&quot;, &quot;bedrock:ApplyGuardrail&quot; ], &quot;Resource&quot;: &quot;*&quot; } ] }</p>
+<p>AWS CloudTrail 会记录对 Amazon Bedrock 的调用以用于审计。</p>
+<p>Amazon S3 默认对静态对象进行加密。请参阅“配置默认加密”（Configuring default encryption）。您可以为存储桶和托管向量存储使用客户自主管理的 AWS KMS 密钥。API 流量采用传输层安全性（TLS）。</p>
+<p>利用 Amazon Bedrock Guardrails 进行上下文基础验证</p>
+<p>添加 Amazon Bedrock Guardrails 上下文基础检查，以拦截低于所配置的基础性（grounding）或相关性（relevance）阈值的响应：</p>
+<p>基础性（Grounding）：与检索到的理赔文档的一致性。<br />相关性（Relevance）：与用户问题的一致契合度。</p>
+<p>使用 bedrock 客户端创建护栏。请参阅 CreateGuardrail 获取所有策略类型，并针对理赔场景选择较高的基础性阈值：</p>
+<p>bedrock = boto3.client(&quot;bedrock&quot;, region_name=&quot;us-west-2&quot;)</p>
+<p>```python<br />guardrail = bedrock.create_guardrail(<br />    name=&quot;claims-assistant-guardrail&quot;,<br />    description=&quot;Contextual grounding for the claims assistant&quot;,<br />    contextualGroundingPolicyConfig={<br />        &quot;filtersConfig&quot;: [<br />            {&quot;type&quot;: &quot;GROUNDING&quot;, &quot;threshold&quot;: 0.85},<br />            {&quot;type&quot;: &quot;RELEVANCE&quot;, &quot;threshold&quot;: 0.75},<br />        ]<br />    },<br />    blockedInputMessaging=&quot;I can&#39;t help with that request.&quot;,<br />    blockedOutputsMessaging=&quot;I can only answer questions using the claim records.&quot;,<br />)<br />guardrail_id = guardrail[&quot;guardrailId&quot;]<br />guardrail_version = bedrock.create_guardrail_version(<br />    guardrailIdentifier=guardrail_id<br />)[&quot;version&quot;]<br />```</p>
+<p>阈值越高，拦截的回答就越多。在理赔工作流程中，拒绝回答比生成缺乏事实支持的内容更为安全。在 policyConfiguration 中传入护栏 ID 和版本：</p>
+<p>```python<br />response = bedrock_agent_runtime.agentic_retrieve_stream(<br />    messages=[<br />        {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: {&quot;text&quot;: &quot;What is the status of claim CLM-100482?&quot;}}<br />    ],<br />    retrievers=[<br />        {&quot;configuration&quot;: {&quot;knowledgeBase&quot;: {&quot;knowledgeBaseId&quot;: kb_id}}}<br />    ],<br />    agenticRetrieveConfiguration={&quot;foundationModelType&quot;: &quot;MANAGED&quot;},<br />    policyConfiguration={<br />        &quot;bedrockGuardrailConfiguration&quot;: {<br />            &quot;guardrailId&quot;: guardrail_id,<br />            &quot;guardrailVersion&quot;: guardrail_version,<br />        }<br />    },<br />    generateResponse=True,<br />)<br />```</p>
+<p>Agentic 检索支持 BLOCK（拦截）操作。如果真实性检查（grounding check）未通过，系统将拦截该回答，并通过跟踪事件记录此次干预。</p>
+<p>在流程中引入人工审核（human-in-the-loop），以复核引用的证据并做出最终理赔决定。</p>
+<p>完成后请删除相关资源以避免产生后续费用：</p>
+<p>删除知识库，此操作同时会移除托管向量存储：</p>
+<p>```python<br />bedrock_agent.delete_knowledge_base(knowledgeBaseId=kb_id)<br />```</p>
+<p>删除护栏：</p>
+<p>```python<br />bedrock.delete_guardrail(guardrailIdentifier=guardrail_id)<br />```</p>
+<p>清空并删除 S3 存储桶。</p>
+<p>删除知识库相关的 IAM 角色与策略。</p>
+<p>至此，您已使用 Amazon Bedrock 知识库以及 Amazon S3 中的合成文档构建出了一个理赔助手。</p>
+<p>AgenticRetrieveStream API 支持处理多部分问题、对话历史、元数据筛选、事实真实性校验、流式回答生成以及引用标注。</p>
+<p>该模式同样适用于核保与保单服务文档。了解更多信息，请参阅 Amazon Bedrock 知识库相关文档以及《使用 agentic 检索查询知识库》。</p>
+<p>Shreya 是 AWS 专业服务部（Professional Services）专注于 AI/ML 的交付顾问。她帮助企业客户在 Amazon Bedrock 上设计和部署 agentic 检索与生成式 AI 解决方案。她拥有加利福尼亚大学尔湾分校的计算机科学硕士学位。在工作之余，她喜欢在湾区的步道徒步并探索新餐厅。</p>
+<p>Abhishek 是 AWS 的高级解决方案架构师。他与 AWS 客户紧密合作，帮助他们识别适合其业务的用例，并指导他们完成 AI 转型之旅。在加入亚马逊之前，他曾在大型企业担任软件开发人员。他热衷于构建生成式 AI 工具，并协助客户在云环境中开发由生成式 AI 驱动的应用程序。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Amazon Bedrock Knowledge Bases 提供全托管的文档检索增强生成（RAG）功能，负责文档解析、分块、嵌入和向量存储。</li>
+    <li>文章介绍了一个使用合成理赔记录构建对话式理赔助手的技术方案，该助手支持通过 AgenticRetrieveStream API 用自然语言提问并附带引用来源。</li>
+    <li>来源叙事重点：演示如何利用 Amazon Bedrock Knowledge Bases 的全托管 RAG 能力与 AgenticRetrieveStream API，构建具备来源溯源引用、多轮追问和护栏拦截功能的保险理赔自然语言问答助手，突出 AWS 托管方案在处理复杂异构文档和智能检索上的便捷性与合规可审计性。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#AWS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-m-harbinger-in-300m-deal-2cb5dc4f52724b5e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="789" data-content-paragraphs="10" data-published-at="2026-09-30T15:26:02.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 23:26</span>
+</div>
+
+### [联邦快递斥资3亿美元向Harbinger订购2,000辆电动卡车](https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> FedEx orders 2,000 electric trucks from Harbinger in $300M deal</div>
+
+<div class="article-body" data-article-body="true"><p>在一笔价值3亿美元的交易中，联邦快递（FedEx）正向电动汽车初创公司Harbinger订购2,000辆电动卡车。Harbinger向TechCrunch表示，该公司旗下卡车已实现量产，并计划在明年底前完成全部2,000辆卡车的交付。</p>
+<p>这是Harbinger迄今为止获得的最大单笔大宗订单。该公司由来自Anduril、已倒闭电动汽车初创公司Canoo以及Quantumscape的前员工于2022年创立。彭博新闻社于周三上午率先报道了这一新订单。去年年底，联邦快递还领投了Harbinger金额达1.6亿美元的C轮融资。</p>
+<p>Harbinger自成立以来的主打定位就是专攻一款核心产品：中型电动商用卡车底盘。这种聚焦简化的策略显然取得了成效，尽管公司仅成立数年，但已进入量产阶段并产生营收。作为这家物流巨头去年在融资时所下订单的一部分，Harbinger已向联邦快递交付了53辆卡车。</p>
+<p>尽管如此，Harbinger也已开始探索其他潜在营收渠道。该公司正涉足混合动力应急车辆领域，于今年2月收购了一家自动驾驶公司，并将其自主研发的电池包作为储能设备进行销售。此外，该公司还在进军国防应用场景。在此背景下，Axios曾于5月报道称该公司正在考虑进行首次公开募股（IPO）。</p>
+<p>第二张门票享五折优惠：Disrupt大会的精彩体验值得与他人共享。购买门票即可享半价携同事、合作伙伴或同行参会。通过拓展人脉、积聚势能并探索初创生态圈的未来趋势，掌握更多机遇。</p>
+<p>每个工作日及周日，您均可获取TechCrunch的精选报道。</p>
+<p>TechCrunch Mobility是您获取交通领域新闻与前瞻洞察的专属阵地。</p>
+<p>初创企业是TechCrunch的核心，欢迎订阅我们每周精选的重磅报道。</p>
+<p>为行业领袖及决策者开启崭新一天提供所需资讯。</p>
+<p>提交您的电子邮箱即表示您同意我们的服务条款与隐私声明。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>FedEx正在以3亿美元的交易向电动汽车初创公司Harbinger订购2000辆电动卡车。</li>
+    <li>Harbinger计划在明年年底前交付全部2000辆电动卡车。</li>
+    <li>来源叙事重点：重点展现电动卡车初创公司Harbinger凭借专注中型底盘的策略赢得物流巨头大单并实现量产营收，同时突出其业务多元化布局与潜在IPO前景。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ntcore-runtime-instances-eb5adf4ed5c7b18b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="14825" data-content-paragraphs="47" data-published-at="2026-09-30T15:21:57.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 23:21</span>
+</div>
+
+### [要闻：随着企业从单一用途的智能体转向多智能体系统，底层基础设施的需求也随之改变](https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances</div>
+
+<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png" alt="要闻：随着企业从单一用途的智能体转向多智能体系统，底层基础设施的需求也随之改变" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>随着企业从单一用途的智能体转向多智能体系统，底层基础设施的需求也随之改变。处理客户咨询的单个智能体可以在会话生命周期较短的无服务器（Serverless）环境中运行。但是，当需要三个智能体在一个历时数天的创意工作流中协同工作，共享上下文并彼此承接产出时，上限仅数小时的无服务器会话就无法满足需求了。</p>
+<p>在本文中，我们将详细介绍如何部署一个音乐制作流水线：一个智能体在该实例自带的 GPU 上运行生成式音频模型；另外两个智能体则从共享卷中打开它写入的 .wav 文件。到最后，你将得到一首可播放的曲目。你还将学会如何创建容量提供者（capacity providers）、通过不同的制品类型部署智能体、利用共享会话编排智能体间的协同，并在多天内持久化工作流。</p>
+<p>Amazon Bedrock AgentCore 提供了两种用于托管智能体的计算选项。MicroVM 是无服务器选项：冷启动快、会话隔离，并采用按用量计费。Runtime Instances 是全新的选项：由 AWS 托管的 EC2 基础设施，适用于持久、长周期运行的智能体工作流。两者使用相同的运行时 API，但 Instances 增加了多天会话、GPU、持久卷以及在单个实例上同主机协同部署（colocate）多个智能体的能力。</p>
+<p>Runtime Instances 与 MicroVM 的区别</p>
+<p>这两种选项都支持自定义框架（CrewAI、LangGraph、LlamaIndex、Strands Agents），可搭配你选择的基础模型运行，集成 MCP 和 A2A，并共享相同的 AgentCore 运行时 API。其差异在于底层的计算模型。</p>
+<p>功能 | MicroVM（Serverless） | Runtime Instances<br />计算 | 完全由 AWS 托管 | AWS 托管的 EC2 实例<br />会话时长 | 最多 8 小时 | 最多 14 天<br />每个计算单元的智能体数 | 一个运行时（microVM）托管一个智能体（1:1） | 一个实例（EC2）可托管多个智能体（1:N）<br />制品类型 | 容器镜像和 Amazon S3 源码 | 容器镜像和 Amazon S3 源码<br />GPU 访问 | 不支持 | 支持，在受支持的实例系列上<br />会话持久性 | 会话级别（Session-scoped） | 持久化存储（Amazon EBS）<br />定价 | 按用量计费 | EC2 实例在你的账户中运行。可使用你的 AWS Savings Plans 和按需容量预留（ODCR）<br />弹性扩缩 | 按需扩缩 | 由容量提供者管理</p>
+<p>智能体是在会话中运行的工作负载。与一个运行时托管一个智能体的 MicroVM 模型不同，单个 Instances 会话可以托管多个智能体。当两个智能体运行时共享相同的容量提供者时，你可以使用相同的 runtimeSessionId 调用它们，从而将这两个智能体调度到同一个 EC2 实例上。在同一个实例中，它们共享文件系统，并可以在同一个任务上协同工作。</p>
+<p>图 1：三个智能体组成的流水线（Compose、Deliver、Screen）共享一个 GPU 实例和会话</p>
+<p>我们将构建一个使用三个专门智能体的音乐制作系统：</p>
+<p>编曲智能体（Composition agent，由音频 AI 团队负责）：使用 Claude Sonnet 4.6 将制作人的需求转化为音乐概要（musical brief），然后通过在实例自身 GPU 上运行的生成式音乐模型（ACE-Step，一个开源音乐生成基础模型）渲染出实际音频。作为容器镜像打包在 Amazon Elastic Container Registry（Amazon ECR）中。</p>
+<p>交付智能体（Delivery agent，由音频工程团队负责）：从共享文件系统中读取渲染好的音轨并进行测量，然后根据这些测量数据（而非音频本身）向 Claude Sonnet 4.6 索取交付处理链（均衡 EQ、压缩 compression、限制 limiting）。实际的信号处理会应用到该处理链上，并对结果再次测量，以确认其达到交付指标。作为容器镜像打包在 Amazon ECR 中。</p>
+<p>合规审查智能体（Compliance agent，由发行工程团队负责）：独立重新测量最终交付物，比对交付智能体所声称的交付目标进行核对，并针对工作室已有的过往曲库进行和声相似度审查。如果审查提出异议，该智能体会回调编曲智能体请求替换版本并重新审查。以 ZIP 文件的形式交付在 Amazon Simple Storage Service（Amazon S3）上。</p>
+<p>工作流流程：制作人发起一个曲目制作任务。编曲智能体编写概要并在实例的 GPU 上渲染真实音频。交付智能体打开该文件，进行测量，应用基于这些测量推导出的处理链，并再次测量以证明结果达到指标。随后，合规审查智能体独立重新测量，检查交付指标，并对比工作室的过往曲库审查音频。如果审查标记出匹配项，则回调编曲智能体生成替代方案。最终，制作人将获得一个可播放的 .wav 文件以及三份解释各项决策的报告。</p>
+<p>Runtime Instances 使这一流程得以实现的关键特性：</p>
+<p>通过共享会话 ID 实现同主机部署。每个智能体都有自己的运行时，但通过在同一个容量提供者上使用相同的 runtimeSessionId 调用它们，AgentCore 会将它们放置在同一个实例上，并挂载相同的存储卷。它们共享同一个文件系统，并能访问彼此的输出。</p>
+<p>可用的 GPU。编曲智能体直接在实例的 NVIDIA L4 GPU 上运行 ACE-Step 基础模型，仅需约 9 秒即可渲染 20 秒长、48 kHz 的立体声音频。该模型及其依赖项驻留在持久卷上。在一个会话中仅需构建一次，之后该会话中的每次调用均可复用，即使停机过夜后也同样适用。</p>
+<p>独立部署。每个团队按照各自的节奏交付其制品。音频 AI 团队推送新的编曲镜像时无需与音频工程或发行工程团队协调，另外两个智能体不受任何影响、继续运行。</p>
+<p>多天持久化。制作人周一进行编曲工作，夜间停止会话，并在周二恢复交付工作。实例会自动闲置，并在下一次调用时恢复。</p>
+<p>混合制品类型。来自 ECR 的容器和来自 S3 的代码包可以在同一个容量提供者上并存。各团队可以选择适合自身工作流的打包方式。</p>
+<p>从这里开始，本文进入实战操作环节。你将准备你的 AWS 账户，然后运行一个包含三个智能体的流水线，完成最终曲目的生成、渲染和合规放行，并生成一个可播放的 .wav 文件。请按顺序执行这些步骤。首先确认前提条件，然后定义这三个智能体（步骤 1），创建用于配置 GPU 实例及其持久卷的容量提供者（步骤 2），将每个智能体部署为其独立的运行时（步骤 3），并使用共享会话 ID 调用它们，以便它们能够在同一实例上同主机协作并相互移交任务（步骤 4）。最后，步骤 5 将演示任何一个团队如何在不干扰其他团队的情况下发布其智能体的新版本。完整的示例代码可在 AgentCore samples GitHub 代码库中找到。</p>
+<p>在开始之前，请确保你已具备：</p>
+<p>一个 AWS 账户，并拥有具备基础设施创建权限的主体凭证。本示例将创建 AWS Identity and Access Management（IAM）角色、S3 存储桶、ECR 代码仓库，以及 AgentCore 容量提供者和运行时。</p>
+<p>已安装并配置好 AWS 命令行界面（AWS CLI）。</p>
+<p>包含至少一个子网和安全组的虚拟私有云（VPC）。<br />在 Amazon Bedrock 控制台中启用了 Anthropic Claude Sonnet 4.6 的模型访问权限。<br />本地已安装 Finch 或其他与 OCI 兼容的容器工具。<br />已安装 Python 3.10+。<br />boto3 ≥ 1.36.0 或 botocore ≥ 1.43.72。旧版本缺少 create_capacity_provider，会导致 deploy.py 执行失败。<br />有关完整的可运行代码，请参见 GitHub 上的 AgentCore 示例代码库。</p>
+<p>步骤 1：定义你的智能体<br />AgentCore Runtime Instances 支持任何智能体框架。在本示例中，每个智能体都是使用 Strands Agents 构建的 Python 应用程序。<br />有两个细节通常会被错误配置，且两者都会引发令人困惑的失败：<br />@app.entrypoint def invoke(payload, context): # 参数名称必须为 &quot;context&quot;<br />    session_id = getattr(context, &quot;session_id&quot;, None) or &quot;local-session&quot;<br />SDK 会基于参数名称进行调度（它会检查 params[1] == &quot;context&quot;）。这是读取会话 ID 的唯一途径，智能体需要借助该 ID 来定位彼此的文件并相互调用。<br />其次，应在处理程序（handler）内部构建 Agent，而不是在模块作用域中构建：<br />def build_agent(session_id: str, track_id: str) -&gt; Agent:<br />    return Agent(<br />        name=AGENT_NAME,<br />        model=BedrockModel(model_id=MODEL_ID, region_name=REGION),<br />        system_prompt=SYSTEM_PROMPT,<br />        session_manager=FileSessionManager(<br />            session_id=f&quot;{session_id}-{AGENT_NAME}&quot;,<br />            storage_dir=str(track_path(track_id) / f&quot;.sessions-{AGENT_NAME}&quot;),<br />        ),<br />    )<br />模块级 Agent 会在并发请求之间共享，Strands 会以“Agent is already processing a request”（智能体正在处理请求）为由拒绝可重入调用。历史记录通过 FileSessionManager 保留在存储卷上，这就是数天后恢复的会话能够记住先前决策的原因。<br />作曲智能体使用 Claude Sonnet 4.6 将制作人请求（提示词）转化为音乐摘要（brief），然后使用 ACE-Step 基础模型渲染实际音频：<br />@app.entrypoint def invoke(payload, context):<br />    session_id = getattr(context, &quot;session_id&quot;, None) or &quot;local-session&quot;<br />    track_id = payload.get(&quot;track_id&quot;, &quot;demo-track&quot;)<br />    if payload.get(&quot;mode&quot;) == &quot;prepare&quot;:<br />        return {&quot;status&quot;: &quot;ok&quot;, &quot;model_stack&quot;: prepare_model_stack()}<br />    ensure_track_dir(track_id)<br />    brief = build_agent(session_id, track_id)(<br />        payload[&quot;prompt&quot;], structured_output_model=CompositionBrief<br />    ).structured_output<br />    wav = track_path(track_id) / &quot;composition.wav&quot;<br />    render = render_audio(wav, brief, duration_s=payload.get(&quot;duration_s&quot;, 30.0))<br />    write_text(track_id, &quot;composition.md&quot;, brief.to_markdown(render))<br />    return {&quot;status&quot;: &quot;ok&quot;, &quot;render&quot;: render, &quot;host&quot;: host_info(), &quot;artifacts&quot;: [publish(track_id, wav)]}<br />mode=prepare 调用会将技术栈构建到存储卷上，即包含 CUDA PyTorch 和 ACE-Step 的 virtualenv。渲染过程作为该存储卷解释器下的子进程运行：<br />proc = subprocess.run(<br />    [status[&quot;python&quot;], status[&quot;runner&quot;], &quot;--out&quot;, str(out_path), &quot;--prompt&quot;, brief.style_tags, &quot;--duration&quot;, str(duration_s)],<br />    capture_output=True,<br />    text=True,<br />    check=False,<br />    timeout=RENDER_TIMEOUT_S,<br />    env=gpu_env(),<br />)<br />交付智能体从共享文件系统中读取渲染完成的音轨并进行测量。它使用 Claude Sonnet 4.6 挑选均衡器（EQ）频段、压缩器设置以及保持原样的部分。随后应用数字信号处理（DSP）。接着再次测量输出，以此对方案进行核验而非盲目信任。<br />before = audio.measure(str(source)) # ITU-R BS.1770-4<br />plan = build_agent(session_id, track_id)(<br />    f&quot;Prepare this for {platform} delivery.\n{json.dumps(before.to_dict())}&quot;,<br />    structured_output_model=DeliveryPlan,<br />).structured_output<br />data, rate = audio.read_audio(str(source))<br />bands = [b.model_dump() for b in plan.eq_bands]<br />if bands:<br />    data = audio.apply_filters(data, rate, bands)<br />if plan.compressor.enabled:<br />    data, _ = audio.compress(<br />        data,<br />        rate,<br />        threshold_db=plan.compressor.threshold_db,<br />        ratio=plan.compressor.ratio,<br />        attack_ms=plan.compressor.attack_ms,<br />        release_ms=plan.compressor.release_ms,<br />        knee_db=plan.compressor.knee_db,<br />    )<br />data, _ = audio.normalise_loudness(data, rate, plan.target_lufs)<br />data, _ = audio.limit(data, rate, ceiling_dbtp=plan.target_true_peak_dbtp)<br />audio.write_audio(str(delivery), data, rate, subtype=&quot;PCM_24&quot;)<br />after = audio.measure(str(delivery)) # 验证，不要盲目信任<br />合规智能体独立地重新测量完成的交付文件，对照交付智能体声明的交付目标进行核对，并根据工作室自有的过往曲目库排查和声相似度。当发现相似情况时，它会引发警报并回调作曲智能体以进行补救修改。<br />client = boto3.client(<br />    &quot;bedrock-agentcore&quot;,<br />    region_name=REGION,<br />    config=Config(read_timeout=600, retries={&quot;max_attempts&quot;: 3, &quot;mode&quot;: &quot;standard&quot;}),<br />)<br />response = client.invoke_agent_runtime(<br />    agentRuntimeArn=COMPOSITION_RUNTIME_ARN, # 部署时注入，非硬编码<br />    qualifier=COMPOSITION_QUALIFIER,<br />    runtimeSessionId=session_id, # 调用方自己的会话 ID —— 路由到该实例<br />    payload=json.dumps({<br />        &quot;mode&quot;: &quot;remediate&quot;,<br />        &quot;track_id&quot;: track_id,<br />        &quot;issue&quot;: issue,<br />        &quot;avoid&quot;: avoid or {},<br />    }).encode(),<br />)<br />body = json.loads(response[&quot;response&quot;].read()) # 是 &quot;response&quot;，而不是 &quot;body&quot;</p>
+<p>步骤 2：创建容量提供程序<br />容量提供程序用于告知 AgentCore 为您的智能体预置何种计算基础设施。您需指定实例类型和 VPC 放置配置。AgentCore 会负责处理预置和生命周期管理。<br />您需要两个 IAM 角色，两者之间的区别至关重要：<br />一个操作员角色（operator role），AgentCore 会代入该角色代表您预置 EC2：启动、标记和终止实例及其网络接口。请附加托管策略 BedrockAgentCoreRuntimeInstancesOperatorRolePolicy。<br />一个执行角色（execution role），您的智能体进程在运行时代入该角色以调用 Bedrock 和 S3。CreateAgentRuntime 需要此角色，否则会失败。<br />两者都信任 bedrock-agentcore.amazonaws.com。<br />现在创建容量提供程序。请注意，名称必须使用下划线（不允许使用连字符）：<br />control = boto3.client(&quot;bedrock-agentcore-control&quot;, region_name=REGION)<br />resp = control.create_capacity_provider(<br />    name=&quot;music_production_capacity&quot;,<br />    permissionsConfiguration={&quot;capacityProviderOperatorRoleArn&quot;: operator_arn},<br />    computeConfiguration={<br />        &quot;ec2Configuration&quot;: {<br />            &quot;launchTemplateSource&quot;: {<br />                &quot;launchParameters&quot;: {<br />                    &quot;operatingSystem&quot;: &quot;LINUX_X86_64&quot;,<br />                    &quot;instanceRequirements&quot;: {&quot;allowedInstanceTypes&quot;: [&quot;g6.xlarge&quot;]},<br />                }<br />            },<br />            &quot;vpcConfiguration&quot;: {&quot;subnets&quot;: subnets, &quot;securityGroups&quot;: groups},<br />            &quot;volumes&quot;: [<br />                {&quot;ebsConfiguration&quot;: {&quot;name&quot;: &quot;tracks&quot;, &quot;sizeGiB&quot;: 20, &quot;volumeType&quot;: &quot;gp3&quot;, &quot;encrypted&quot;: True}},<br />                {&quot;ebsConfiguration&quot;: {&quot;name&quot;: &quot;models&quot;, &quot;sizeGiB&quot;: 60, &quot;volumeType&quot;: &quot;gp3&quot;, &quot;encrypted&quot;: True, &quot;throughput&quot;: 500}},<br />            ],<br />            &quot;rootVolume&quot;: {&quot;freeSpaceGiB&quot;: 30, &quot;volumeType&quot;: &quot;gp3&quot;},<br />            &quot;lifecycleConfiguration&quot;: {&quot;idleInstanceTimeout&quot;: 600, &quot;maxLifetime&quot;: 86400},<br />        }<br />    },<br />)<br />GPU 容量。如果在尝试分配 GPU 实例时跨多个可用区（AZ）遇到了 InsufficientInstanceCapacity（实例容量不足）错误，可以切换到另一种 GPU 实例类型，例如 g5.xlarge。请相应地更新 allowedInstanceTypes。</p>
+<p>步骤 3：部署智能体运行时</p>
+<p>这里的每个智能体都有自己的运行时。这些运行时在调用时汇聚在一起。当两个运行时共享一个容量提供程序（capacity provider），并且你使用相同的 runtimeSessionId 调用它们时，AgentCore 会将两个智能体放置在同一个 EC2 实例上，它们在其中共享文件系统并可以协作完成同一任务。这就是交付智能体如何读取作曲智能体编写的 .wav 文件的方式。</p>
+<p>接下来，将每个运行时指向容量提供程序，并声明其挂载的卷：<br />composition = control.create_agent_runtime( agentRuntimeName=&quot;music_production_composition&quot;, roleArn=execution_arn, # 必需项 agentRuntimeArtifact={&quot;containerConfiguration&quot;: {&quot;containerUri&quot;: image_uri}}, protocolConfiguration={&quot;serverProtocol&quot;: &quot;HTTP&quot;}, capacityProviderConfiguration={&quot;capacityProviderArn&quot;: cp_arn}, filesystemConfigurations=[ {&quot;capacityProviderVolume&quot;: {&quot;volumeName&quot;: &quot;tracks&quot;, &quot;mountPath&quot;: &quot;/mnt/tracks&quot;}}, {&quot;capacityProviderVolume&quot;: {&quot;volumeName&quot;: &quot;models&quot;, &quot;mountPath&quot;: &quot;/mnt/models&quot;}}, ], lifecycleConfiguration={&quot;idleRuntimeSessionTimeout&quot;: 600, &quot;maxLifetime&quot;: 86400}, environmentVariables={&quot;AWS_REGION&quot;: REGION, &quot;WORKSPACE_DIR&quot;: &quot;/mnt/tracks&quot;, &quot;MODELS_DIR&quot;: &quot;/mnt/models&quot;, &quot;MODEL_ID&quot;: MODEL_ID}, )</p>
+<p>合规性智能体使用相同的调用，但具有不同的构件（artifact）——采用 zip 包而非镜像，且仅挂载工作区卷：<br />agentRuntimeArtifact={&quot;codeConfiguration&quot;: { &quot;code&quot;: {&quot;s3&quot;: {&quot;bucket&quot;: bucket, &quot;prefix&quot;: key}}, &quot;runtime&quot;: &quot;PYTHON_3_12&quot;, &quot;entryPoint&quot;: [&quot;compliance_agent.py&quot;], }},</p>
+<p>第 4 步：使用共享会话编排多智能体工作流<br />现在开始调用各智能体。这正是三个智能体串联成流水线的地方：你向每次调用传递相同的 runtimeSessionId。第一次调用较慢，因为它需要置备实例。随后的每次调用都会路由到已在运行的实例上。<br />client = boto3.client( &quot;bedrock-agentcore&quot;, region_name=REGION, config=Config(read_timeout=900, retries={&quot;max_attempts&quot;: 2, &quot;mode&quot;: &quot;standard&quot;}), ) session_id = f&quot;music-production-{uuid.uuid4()}&quot; # 33-100 个字符<br />def invoke_agent(runtime_arn, payload): response = client.invoke_agent_runtime( agentRuntimeArn=runtime_arn, qualifier=&quot;DEFAULT&quot;, runtimeSessionId=session_id, payload=json.dumps(payload).encode(), ) return json.loads(response[&quot;response&quot;].read())<br />invoke_agent(COMPOSITION_ARN, {&quot;mode&quot;: &quot;prepare&quot;}) invoke_agent(COMPOSITION_ARN, {&quot;mode&quot;: &quot;catalogue&quot;, &quot;track_id&quot;: track_id, &quot;duration_s&quot;: 20}) invoke_agent(COMPOSITION_ARN, {&quot;mode&quot;: &quot;compose&quot;, &quot;track_id&quot;: track_id, &quot;duration_s&quot;: 30, &quot;prompt&quot;: &quot;Create an upbeat electronic track with heavy bass and synth melodies.&quot;}) invoke_agent(DELIVERY_ARN, {&quot;track_id&quot;: track_id, &quot;platform&quot;: &quot;spotify&quot;, &quot;prompt&quot;: &quot;Prepare this for streaming delivery.&quot;}) result = invoke_agent(COMPLIANCE_ARN, {&quot;track_id&quot;: track_id, &quot;prompt&quot;: &quot;Screen this delivery for release.&quot;}) print(result[&quot;outcome&quot;]) # cleared | review_required | not_cleared</p>
+<p>以下是在 us-east-2 的真实 g6.xlarge 实例上生成的运行结果：<br />1. prepare model stack (GPU instance + torch + weights) 239s host : ip-172-31-11-83.us-east-2.compute.internal stack : ready=True in 125s 2. render back-catalogue 66s 3. compose (renders audio on the GPU) 25s rendered : NVIDIA L4 in 8.98s (peak VRAM 7.63 GiB) audio 20.062s 48000Hz 2ch -7.5 LUFS peak 0.42 dBTP 4. delivery (real DSP, verified by measurement) 41s read : composition.wav &lt;- written by another agent before -7.5 LUFS peak 0.42 dBTP after -14.0 LUFS peak -3.2 dBTP targets : loudness met, true peak held 5. compliance screen 28s verdict : REVIEW REQUIRED screen : 2 reference(s), closest catalogue_00.wav distance 0.0665 (review)<br />-- 协同放置 -- 按照预期，所有 5 个步骤均由单个实例提供服务。</p>
+<p>调用 StopRuntimeSession 时，实例会自动进入闲置状态。闲置期间不会产生计算费用。再次调用该会话时，AgentCore 会将其恢复，前提是它位于相同的可用区（Availability Zone）。Amazon Elastic Block Store (Amazon EBS) 卷是与可用区绑定的。如果原可用区容量耗尽，卷将无法重新挂载，持久化数据也会丢失。请使用绑定可用区的按需容量预留（AZ-pinned ODCR）或 MODELS_SNAPSHOT_ID，以便在重新放置实例的恢复中找回数据。会话最长可保留 14 天。</p>
+<p>第 5 步：独立更新智能体<br />该架构的优势之一是独立部署。当音频 AI 团队发布作曲智能体的新版本时，他们只需更新自己的运行时：<br /># 音频 AI 团队推送新容器版本<br />finch build --platform linux/amd64 \<br />-f Dockerfile.composition \<br />-t &quot;$ECR/music-production/composition-agent:v2&quot; .<br />finch push &quot;$ECR/music-production/composition-agent:v2&quot;</p>
+<p>control.update_agent_runtime( agentRuntimeId=composition_id, # 三者均为必填项 roleArn=execution_arn, agentRuntimeArtifact={&quot;containerConfiguration&quot;: {&quot;containerUri&quot;: new_uri}}, capacityProviderConfiguration={&quot;capacityProviderArn&quot;: cp_arn}, )</p>
+<p>交付和合规性智能体继续运行且不受影响。无需协调，无需共享部署流水线，也不存在因更新而破坏其他团队智能体的风险。</p>
+<p>首先删除会话。这是停止产生 EC2 和 Amazon EBS 费用的最直接方法。删除会话会取消置备 EC2 资源：实例、网络接口和 Amazon EBS 卷。删除容量提供程序还会停止并删除其关联的会话及持久存储。但是，你必须首先解除每个运行时和运行时版本与其的关联，且该解绑过程是异步的。删除会话是一条快速通道，如果你希望避免产生持续费用，应首选此方法。</p>
+<p>data = boto3.client(&quot;bedrock-agentcore&quot;, region_name=REGION) data.delete_capacity_provider_session(capacityProviderId=cp_id, sessionId=session_id) for rid in runtime_ids: control.delete_agent_runtime(agentRuntimeId=rid) # 运行时版本脱离容量提供程序的过程是异步的，因此在此处进行轮询。 control.delete_capacity_provider(capacityProviderId=cp_id)</p>
+<p>然后删除 ECR 存储库、S3 构件、IAM 角色以及 Amazon CloudWatch 日志组。</p>
+<p>在本文中，我们在 Amazon Bedrock AgentCore 运行时实例上部署了一个多智能体音乐制作系统。由不同团队采用不同打包格式构建的三个智能体，在单个 GPU 实例上的同一个会话内协同工作，并制作出了一首可播放的曲目。</p>
+<p>该架构展示了多个超越音乐制作范畴的应用模式：<br />通过共享会话进行协同放置（Colocation）。在同一容量提供程序上的多个智能体运行时在以相同会话 ID 被调用时共享一个实例，这为它们提供了一个宿主机：相同的 GPU、相同的本地卷、相同的进程空间。<br />独立团队部署。每个智能体都有自己的运行时生命周期。各团队无需协调即可按自身节奏发布。<br />混合构件类型。容器和代码包共存于同一基础设施上。你可以使用适合团队工作流的任意打包方式。<br />长达数天的持久性。在工作暂停时停止会话，再次调用即可恢复。会话最长可保留 14 天（恢复取决于是否调度至相同的可用区）。</p>
+<p>音乐只是一个便利的展示载体，而该架构本身并不仅限于音乐领域。只要替换掉渲染步骤，这种三智能体架构即可无缝适用于 AWS 针对 GPU 实例推荐的各类工作负载：3D 渲染、仿真模拟、模型推理以及媒体处理。它同样适用于长周期运行任务——即管线生成大型工件，交由第二个智能体进行转换，并在交付前由第三个智能体检查结果的场景。</p>
+<p>欲了解更多信息，请参阅 Amazon Bedrock AgentCore 文档。若需获取本文完整的可用代码，请浏览 AgentCore 示例代码库。若要了解 Graph、Swarm 或 Workflow 等高级编排模式，请参阅 Strands Agents 文档。</p>
+<p>Evandro 是亚马逊云科技（AWS）的高级数据科学家。他隶属于全球市场拓展（Global GTM）团队，协助 AWS 客户克服基于 AWS 的 AI/ML 业务挑战，重点涵盖 Amazon Bedrock AgentCore 与 Strands Agents。他在技术领域拥有超过 18 年的经验，涉足软件开发、基础设施、无服务器架构及机器学习。在业余时间，Evandro 喜欢陪伴儿子，尤其是拼装有趣的乐高积木。</p>
+<p>Rui 是 AWS 的高级合作伙伴解决方案架构师，专注于智能体 AI（Agentic AI）和物理 AI（Physical AI）。他与 AWS 合作伙伴协作，推动解决方案从原型走向生产落地，涵盖智能体工作负载以及面向企业级应用的准确性评估框架。他的工作重点是帮助合作伙伴在良好架构（Well-Architected）基础上构建高可靠性系统。</p>
+<p>Sayee 是 Amazon Bedrock AgentCore 服务的软件开发工程师。她所在的团队负责构建与维护 AgentCore Runtime 平台——这是支持客户利用智能体 AI 能力的基础组件。她以交付切实的客户价值为驱动力，这种以客户为中心的理念始终贯穿于她的工作之中。Sayee 主导了 AgentCore Runtime Instances 的设计与发布，推动该项目从架构设计走向正式发布（GA），助力客户运行持久且长周期运行的智能体工作负载，赋予其构建复杂多智能体系统的灵活性与控制力。</p>
+<p>Yanis 是 Amazon Bedrock AgentCore 服务的软件开发工程师。他的团队负责构建 AgentCore Runtime Instances，该平台支持智能体在根据其特定需求定制的实例上连续运行数天。Yanis 构想、设计并主导了该平台的实施，积极推动跨组织协作并扫清障碍，以确保项目成功交付。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-30 23:21 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#AWS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nce-1002671-meta-muse-ai-af4c8dc5b4944fab" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="784" data-content-paragraphs="3" data-published-at="2026-09-30T15:18:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 23:18</span>
+</div>
+
+### [关于Meta可爱又诡异的Muse AI智能体最新动态一览](https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai)
+<div class="original-title-sub"><span class="orig-tag">原文</span> All the latest news on Meta’s cute, creepy Muse AI agent</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="关于Meta可爱又诡异的Muse AI智能体最新动态一览" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>Meta推出了一款全新的Muse AI智能体，声称它能帮您处理从发送电子邮件到网购的各类事务。如果您愿意将个人数据托付给Meta并将信用卡交由Muse打理，它在兑现这些承诺方面可能会表现出令人惊讶的高效。自发布以来，Meta还宣布了为这一可爱的AI吉祥物推出一款类似拓麻歌子（Tamagotchi）的Muse Charm设备的计划。</p>
+<p>请关注此处以获取最新资讯和动态更新：</p>
+<p>Meta的Muse AI将一位YouTuber的地址发送给了一名陌生人<br />Meta为小型企业扩展Muse工具。<br />Meta企业平台（Meta Enterprise Platform）将把Muse AI带给企业用户。<br />或许别让Muse接管你的Facebook Marketplace账号。<br />Muse Charm将不内置Instagram。<br />Meta让Muse文件系统的访问更加便捷<br />据称Muse将允许你下载其整个文件系统<br />Muse看起来确实与OpenClaw非常相似<br />Meta的Muse AI吉祥物如此可爱，反倒让人觉得有些细思极恐<br />Meta的Muse AI Charms设备之间可以互相交互<br />Meta正在打造一款独立的Muse AI硬件小设备<br />Muse即将登陆Meta智能眼镜<br />Meta正在让Muse变得更加强大，还将允许你与其进行视频通话<br />Meta的AI智能体是一个可爱的小家伙，而且非常擅长花我的钱<br />Meta修复了可使攻击者控制该AI智能体的Muse安全漏洞<br />你能抛开对Meta的固有看法吗？<br />亚马逊封禁Meta的Muse AI智能体<br />Meta的Muse令人毛骨悚然，但原因可能并非如你所想<br />Meta的Muse AI智能体现已推出Mac应用。<br />Meta的Muse AI确实好用，但也让我感到不寒而栗<br />马克·扎克伯格呼吁你信任Muse。<br />Meta押注AI智能体Muse，以期在AI竞赛中迎头赶上</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 23:18 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--introducing-synthid-bio-c696e8b1f3422473" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4000" data-content-paragraphs="25" data-published-at="2026-09-30T15:03:07.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/deepmind.svg" class="source-icon" alt="Google DeepMind (AI前沿研究)" width="16" height="16" /> <strong>Google DeepMind (AI前沿研究)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 23:03</span>
+</div>
+
+### [推出 SynthID Bio：在保留生物学功能的同时为 AI 生成的蛋白质添加水印的概念验证](https://deepmind.google/blog/introducing-synthid-bio/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Introducing SynthID Bio</div>
+
+<div class="article-body" data-article-body="true"><p>Pushmeet Kohli、David Stutz、Ali Cowen-Rivers 与 Jeremy Ratcliff<br />在保留生物学功能的同时为 AI 生成蛋白质添加水印的概念验证。</p>
+<p>今天，我们推出 SynthID Bio，将水印技术引入合成生物学领域。SynthID Bio 将难以察觉的签名直接嵌入生物代码中，确保水印不仅可以在数字模型上进行验证，还能在合成的实体蛋白质本身上被验证——与此同时，在实验室测试中仍能完整保留其生物学功能。</p>
+<p>生成式 AI 正在帮助科学家应对关键的生物学挑战，从预测蛋白质结构（AlphaFold）到设计全新的蛋白质（AlphaProteo 和 ProteinMPNN），以及最近开发新型噬菌体（感染细菌的病毒）。然而，这些工具也带来了新的挑战：AI 全新设计的产物可能会绕过传统的 DNA 合成筛查，而错误标记的合成 3D 结构则存在污染公共数据库并误导下游研究的风险。</p>
+<p>SynthID Bio 是一系列专为合成生物学开发的水印方法家族，旨在加强生物安全与科学诚信。</p>
+<p>它会根据数据类型调整其应用方式，巧妙地引导序列中的氨基酸选择，并微调预测 3D 结构的原子坐标，从而产生可靠的检测信号。</p>
+<p>在实验中，这些调整并未损害蛋白质的生物学功能，而这对于有效治疗疾病和推进科学研究至关重要。</p>
+<p>带有水印的 VEGF-A 蛋白质结合剂预测结构可视化，每种氨基酸的水印信号以颜色标示。</p>
+<p>我们通过结合使用结合剂设计方法 AlphaProteo 与支持 SynthID Bio 的 ProteinMPNN（常用的蛋白质序列生成方法），验证了为蛋白质结合剂（即专用于选择性结合其他蛋白质的分子）添加水印的方法。</p>
+<p>在针对三种靶点蛋白（VEGF-A、SARS-CoV-2 刺突蛋白 RBD 以及 PD-L1）的湿实验测试中，我们带有水印的设计在命中率、结合亲和力以及天然序列多样性方面与未加水印的版本相媲美，成功制造出有史以来首批带有水印且具备生物学功能的蛋白质结合剂。</p>
+<p>以 KD 衡量的结合亲和力，对比了三个靶点上未加水印与带有水印的蛋白质设计。数值越低表示结合剂结合力越强。</p>
+<p>对于蛋白质折叠，SynthID Bio 微调了 AlphaFold 3 扩散网络的一小部分，将水印能力直接构建到模型权重中。这确保了无论由谁运行该模型，预测出的 3D 坐标都会天然携带可检测的签名。SynthID Bio 在保持 AlphaFold 3 预测精度的同时，提供了近乎完美的检出率，维护了关键结构特征分布，并能抵御数字噪声或微小坐标变动的影响。</p>
+<p>在 7PPA 结构上，我们展示了 AF3 预测结构（左）、真实结构（中）以及带水印结构（右）。</p>
+<p>生物安全依赖于分层防御——可以将其想象成“瑞士奶酪”防御模型，其中多项独立的安全措施协同工作，以弥补彼此的盲点。模型层面的缓解措施和客户资质审核等防范手段各自代表了存在潜在漏洞的关键层。作为我们生物韧性（bioresilience）更广泛愿景的一部分，SynthID Bio 的水印方法作为一个重要的、切实的验证层，直接嵌入在生物设计本身之中。</p>
+<p>审查了该项工作的生物安全政策专家兼 Science Policy Consulting 负责人 Sarah Carter 表示：“SynthID Bio 是追踪生物设计溯源拼图中重要的一块。通过将设计与模型开发者关联起来，这些水印使开发者能够在安全性上发挥主导作用，并允许合成供应商为使用过这些模型的客户简化筛查流程。”</p>
+<p>该层对于处于生物安全前沿的 DNA 合成筛查尤为关键。将数字蛋白质设计转化为实体分子需要向 DNA 合成供应商下单，供应商会根据已知威胁数据库对请求进行筛查。例如，在以往，一个陌生的序列可以被安全地假定为未被发现的天然生物体。但由于 AI 能够创造出与已知危害几乎没有相似之处的全新序列，筛查人员已不能再做这种假设。核实一份陌生订单是否属于人造威胁需要详尽的人工审查，这可能会拖延至关重要的研究。在此背景下，SynthID Bio 可以提供自动化的验证信号，证明订单来自具有内置安全保障措施的可信模型。</p>
+<p>为该论文提供早期反馈的 Twist Bioscience 政策与生物安全副总裁 James Diggans 表示：“AI 正在拓展科学家能够设计的范围，而 DNA 合成公司在协助此类创新负责任地规模化方面扮演着重要角色。对 Twist 而言，水印为生物安全工具箱提供了一个极具前景的新成员，随着 AI 设计生物学的不断发展，它能够强化筛查，将资源集中在需要更严格审查的序列上，并提升生物安全的效率。”</p>
+<p>类似地，SynthID Bio 有助于维护 Protein Data Bank、UniProt 和 GenBank 等数据库的完整性。这些数据库许多都向公众开放提交，在科学进步中发挥着至关重要的作用——但错误标记的条目可能会在生物安全决策中产生巨大的负面影响，而随着 AI 生成的生物数据的加入，这一挑战可能会愈发严峻。作为提交流程的一部分，SynthID Bio 可以帮助确保合成条目得到恰当标注或被标记以供进一步审查。</p>
+<p>尽管没有任何单一的生物安全干预措施是万能灵药，但 SynthID Bio 将我们久经考验的水印工具 SynthID 带入了合成生物学领域。这是迈向可靠识别和追踪 AI 生成的生物序列及结构的重要第一步。</p>
+<p>展望未来，关键挑战包括增强水印抵御蓄意篡改的鲁棒性。SynthID Bio 还可以与溯源元数据方法（类似于用于数字媒体的 C2PA）或 AI 生成生物数据的中央存储库相结合，以更好地识别和追踪 AI 生成的蛋白质。</p>
+<p>为了匹配前沿人工智能技术不断增长的能力，我们还在研究如何将水印技术应用于更复杂的生物对象。在与斯坦福大学以及 Arc Institute 的 Hie 实验室正在进行的合作中，我们将 SynthID Bio 整合到了先进的基因组模型 Evo 2 中，为 Evo 2 设计的噬菌体基因组添加了水印。在细菌培养中的早期实验室测试已经证实，这些带有水印的噬菌体具备生物学功能。我们相信这项工作有潜力化解与基因组设计相关的一些生物安全风险，并将很快在技术论文中分享更多细节。</p>
+<p>要充分实现这项工作带来的生物安全效益，需要社区的通力合作和进一步的研究。作为我们对负责任创新承诺的一部分，我们正在发表方法学论文，开源代码及体外实验数据，并向研究界开放模型权重，以便大家在此项工作的基础上继续推进。通过与生物安全、基因合成以及政策领域的伙伴展开公开合作，我们可以确保安全与责任始终与人工智能驱动的科学发现保持同步。</p>
+<p>如需就这一重要议题与我们接洽合作，请将方案概要发送至 synthidbio@google.com。请勿透露任何机密或专有信息。</p>
+<p>该项目由 Pushmeet Kohli 发起。研究和技术开发由 Alexander I. Cowen-Rivers 和 David Stutz 主导，并由 Pushmeet Kohli 提供指导。主要工程和研究贡献者包括 Guillermo Ortiz-Jimenez、Jeremy Ratcliff、Vinicius Zambaldi、Lindsay Willmore、Josh Abramson、Harshnira Patani、Christina Kouridi、Florian Stimberg、Mel Vecerik、Alex Chu、Sukhdeep Singh、Sumanth Dathathri、Eliseo Papa、Valentin De Bortoli、Arnaud Doucet、Jue Wang 以及 Sven Gowal。我们感谢 Adaptyv Bio 在体外验证方面提供的帮助。</p>
+<p>将这项工作扩展至噬菌体 DNA 水印是 Google DeepMind 与斯坦福大学及 Arc Institute 的 Hie 实验室之间的合作成果，主要贡献者包括来自 Google DeepMind 的 Jeremy Ratcliff、Aleks Petrov、Alexander I. Cowen-Rivers、David Stutz、Elisa L. H. Wong、Victor Martin Palacios、Francesca Pietra、Alfred Piccioni、Tristan Oliver Kwan、Tor Lattimore、Sumanth Dathathri 和 Pushmeet Kohli，以及来自 Arc Institute 和斯坦福大学的 Brian Hie、Samuel King 和 Aditi Merchant。</p>
+<p>我们还要感谢 Rudy Bunel、Anna Cupani、Rob Fergus、Thomas Frerix、Sahra Ghalebikesabi、John Jumper、Jacob Kelly、David La、Victor Martin、Sebastian Nowozin、Stig Petersen、Aleks Petrov、Uchechi Okereke、Sylvestre-Alvise Rebuffi、Rosalia Schneider、Armin Senoner、Richard Shuai、Ashok Thillaisundaram、Elisa L. H. Wong、Zachary Wu 和 Augustin Žídek 对研究论文的贡献，以及 Julien Bergeron 在 3D 渲染方面的贡献。最后，我们感谢 Demis Hassabis 对该项目的鼓励与支持。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Google DeepMind (AI前沿研究)】于 2026-09-30 23:03 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Google</span>
+</div>
+
+<div class="news-card-footer"><a href="https://deepmind.google/blog/introducing-synthid-bio/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Google DeepMind (AI前沿研究)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-shers-ai-search-features-842d4475124f13ea" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="593" data-content-paragraphs="1" data-published-at="2026-09-30T14:51:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 22:51</span>
+</div>
+
+### [据报道，谷歌正测试向出版商支付AI搜索结果相关费用](https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google reportedly tests paying publishers for AI search results</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="据报道，谷歌正测试向出版商支付AI搜索结果相关费用" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />据 The Information 报道，已有约 100 家出版商加入了谷歌的试点项目。<br />该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Emma Roth 的所有文章<br />据 The Information 报道，谷歌已启动一项试点项目，就出版商对其人工智能驱动的搜索功能所做的贡献向其支付费用。据悉，该试点项目涵盖约 100 家出版商，目前谷歌正因其 AI 功能对网络流量的影响而面临审查。<br />Digiday 率先报道了这一始于不到一年前的试点项目。作为测试的一部分，据报道，谷歌会根据参与出版商的内容对“AI Overviews”（AI 概览）、搜索中的“AI Mode”（AI 模式）以及 Gemini 聊天机器人的贡献程度向其付费。据 The Information 报道，一家在项目刚启动时就加入的出版商在一年内获得了超过 100 万美元的收入，而另一家几个月前才加入的出版商则赚取了约 5 万至 6 万美元。<br />谷歌以 AI 为重点的搜索变革不仅引来了出版商的批评和诉讼，还招致了全球监管机构的质疑。今年 6 月，英国裁定谷歌必须允许出版商选择退出出现在 AI 搜索功能中，而欧盟则对其对网络流量的影响展开了调查，并于近期责令其对其搜索引擎进行调整。<br />免费提供最重要新闻的每日摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 22:51 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-spells-the-united-states-4e8fe24231080ae0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1466" data-content-paragraphs="10" data-published-at="2026-09-30T14:50:55.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 22:50</span>
+</div>
+
+### [特朗普总统与顶级AI领袖签署的承诺书中将“美国”拼错](https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Pledge signed by President Trump and top AI leaders misspells the United States</div>
+
+<div class="article-body" data-article-body="true"><p>周二，唐纳德·特朗普总统与多位顶级人工智能领袖宣布签署了一项名为“前沿责任联合承诺”（Joint Commitment on Frontier Responsibilities）的协议——这是一项自愿性承诺，旨在随着人工智能的飞速发展，落实更多的管控和安全措施。</p>
+<p>但这其中似乎出了点差错——具体来说，在总统分享到Truth Social的签署协议照片中，“United States”（美国）被拼错成了“Unites States”。拼写错误就出现在总统签名的正下方，不过其他签署人及其所属公司的名称拼写均无误。Gizmodo记者马特·诺瓦克（Matt Novak）是率先指出这一疏漏的人之一，我们已联系白宫请求置评。</p>
+<p>这一拼写错误或许表明，该文件在签署并向公众发布前，起草过程究竟投入了多少时间和精力。在此次宣布之前，包括Meta的马克·扎克伯格（Mark Zuckerberg）、英伟达的黄仁勋（Jensen Huang）以及Anthropic的达里奥·阿莫代伊（Dario Amodei）在内的顶级AI领袖再次齐聚白宫，讨论人工智能的进展。而就在几周前，OpenAI的萨姆·奥尔特曼（Sam Altman）、阿莫代伊甚至埃隆·马斯克（Elon Musk）曾呼吁放缓AI的发展步伐，但这些呼吁遭到了特朗普总统和黄仁勋的拒绝。总统此前曾表示：“我们是世界上最先进的国家，坦率地说，我想保持这种状态，因为谁赢得了人工智能，谁就赢得了一切。”</p>
+<p>这份承诺书似乎是双方折中妥协的产物，其中规划了训练和部署前沿模型的公司应当如何“确保其技术按预期运行，并及时发现和解决任何问题”。这包括引入独立董事会进行监督以及落实内部控制措施。该承诺纯属自愿，如果有任何签署方违反，目前似乎不会承担任何法律或监管后果。</p>
+<p>在周二会晤后的新闻发布会上，扎克伯格称该协议是“整个行业都可以参与进来的一个起点”，并补充说“这在某种程度上是一次历史性的对话”。</p>
+<p>通过一项行政命令，总统还要求所有政府部门和机构从现在起将相关表述从“人工智能”（artificial intelligence）改为“超级智能”（superintelligence）或“SI”。</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>Jagmeet 为 TechCrunch 报道来自印度的初创公司、科技政策相关动态以及所有其他以科技为核心的重大进展。他此前曾在 NDTV 担任首席记者。</p>
-<p>您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系或核实 Jagmeet 的外联信息。</p>
-<p>第二张门票立减 50%：Disrupt 的体验旨在与人共享。购买您的通行证，即可以半价携同事、合作伙伴或同行一同参加。通过建立联系、汇聚动力以及探索创业生态系统的下一步，覆盖更广泛的领域。</p>
-<p>AMD 将以 82 亿美元收购李飞飞的 World Labs<br />Crusoe 放弃在 AI 数据中心使用 Boom 涡轮机的 12.5 亿美元计划<br />Astra 和 Opus 刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta 为其 Muse AI 智能体打造了一款类似拓麻歌子的可穿戴设备<br />Vogue 让机器人在 Vogue World 的天桥上走秀，但人们并不买账<br />Anthropic 称其生物实验室已发现重大成果</p></div>
+<p>高级记者，风险投资<br />多米尼克-马多里·戴维斯（Dominic-Madori Davis）是TechCrunch负责风险投资与初创公司的高级记者。她常驻纽约市。<br />您可以通过发送电子邮件至 dominic.davis@techcrunch.com，或在Signal上通过加密信息拨打 +1 646 831-7565 与多米尼克取得联系或核实信息。</p>
+<p>第二张门票立减50%<br />Disrupt活动体验适合共同分享。购买您的门票，同行同事、合伙人或同行可享半价优惠。通过建立联系、积累势能并探索初创生态系统的下一站，拓展更多业务领域。</p>
+<p>AMD将以82亿美元收购李飞飞的World Labs<br />爆火AI Agent项目Instinct完成10亿美元C轮融资，估值达100亿美元<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra与Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为其Muse AI agent打造了一款类似拓麻歌子的可穿戴设备<br />Vogue在Vogue World时尚盛典上让机器人走上T台，但反响平平</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Apple 于周二在印度推出 Apple Pay，首个合作银行为 Axis Bank。</li>
-    <li>Axis Bank 是印度第三大私营借贷机构。</li>
-    <li>来源叙事重点：聚焦 Apple Pay 经历多年延迟后在印度低调启动上线，突出其与主流国家级支付系统 UPI 的差异，并着重揭示苹果收取的交易手续费与印度本土头部银行（如 HDFC、ICICI、SBI）在商业条款上的博弈与僵局。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-item-c5a40c45187cf3f9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="352" data-content-paragraphs="5" data-published-at="2026-09-30T03:00:05.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 11:00</span>
-</div>
-
-### [Last.fm 的 RSS 订阅源](https://lfm.xiffy.nl/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> RSS Feeds for Last.fm</div>
-
-<div class="article-body" data-article-body="true"><p>原来你是在寻找 Last.fm 的 RSS 订阅源，然后发现它们全都不见了！</p>
-<p>好吧，解决方案就在这里，你只需输入你的用户名，我就会为你提供四个 URL：一个用于获取你最近播放的曲目，一个用于你喜爱的曲目，一个用于你的热门曲目，还有一个用于你的热门艺术家（后两个可选时间周期，默认为 1 个月）。</p>
-<p>另外还有新特性：图片！如果 Last.fm 添加了非默认图片，其大图版本将作为附件（enclosure）添加进去。</p>
-<p>2025 年更新：新增对推荐曲目的支持。该功能同时提供 RSS 格式以及兼容 Soundixx 的 JSON 格式。</p>
-<p>时间周期可选范围为：7天（7day）、1个月（1month）、3个月（3month）、6个月（6month）、12个月（12month）或全部历史（overall）。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>该服务为用户提供四个 Last.fm 的 RSS URL：最近播放曲目、红心/喜爱曲目、热门曲目以及热门艺术家。</li>
-    <li>热门曲目和热门艺术家的周期参数默认为 1 个月，可选选项包括：7day、1month、3month、6month、12month 或 overall。</li>
-    <li>来源叙事重点：介绍一项旨在弥补 Last.fm 官方 RSS 功能缺失的第三方替代方案，着重说明其支持生成近期播放、红心曲目、热门榜单及推荐曲目的 RSS/JSON 数据，并强调新增的大图附件与格式兼容性等功能特性。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://lfm.xiffy.nl/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-a-cross-region-inference-95e85b435e3dcca0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="4764" data-content-paragraphs="16" data-published-at="2026-09-30T01:13:14.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 09:13</span>
-</div>
-
-### [Amazon Bedrock 扩展 Claude 模型可用性，支持在印度开展境内推理](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon Bedrock expands Claude model availability to in-country inferencing in India</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21953-1.png" alt="Amazon Bedrock 扩展 Claude 模型可用性，支持在印度开展境内推理" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>我们很高兴地宣布，Anthropic 的 Claude Opus 5、Claude Sonnet 5 和 Claude Haiku 4.5 现已在印度上线。印度区域终端节点通过地理跨区域推理提供服务。除了已支持的全球跨区域推理之外，印度客户现在可以在 Amazon Bedrock 上访问这些模型，并在印度各区域内处理数据。这有助于满足客户在特定地理区域内进行本地数据处理的合规要求。</p>
-<p>在本文中，我们将讨论印度地理跨区域推理在 Amazon Bedrock 上针对孟买和海得拉巴区域的 Anthropic Claude 模型是如何运作的。我们还将展示如何通过 Amazon Bedrock 控制台以及借助代码（使用 Anthropic 的 Messages API、Amazon Bedrock InvokeModel API 和 Converse API）快速上手。</p>
-<p>为了帮助您实现 AI 应用程序的规模化扩展，Amazon Bedrock 提供了跨区域推理配置文件（cross-Region inference profiles），您可以使用该功能将推理任务分发到多个 AWS 区域，而无需在每个区域分别管理算力配额。请求始于您发起 API 调用的源区域，并自动路由到推理配置文件中定义的目标区域之一。印度地理配置文件将推理限制在印度境内。请求仅在 ap-south-1（孟买）和 ap-south-2（海得拉巴）之间路由。您的输入提示词和输出结果可能会在这两个区域之间流动。您的请求不再受限于单一区域的容量，而是可以利用更广泛的计算资源池。这有助于您在负载下保持吞吐量和一致的性能，这在流量高峰期间至关重要。跨区域推理通过安全的 AWS 网络运行，传输中的数据具有端到端加密保护。使用跨区域推理时，客户数据不会存储在目标区域，而是仅保留在源区域内。Amazon Bedrock 采用零数据保留（ZDR）数据安全模型。这意味着在默认情况下，Amazon Bedrock 不会存储模型输入或输出。不过，如果内容被自动化安全分类器标记，某些模型会要求 AWS 进行人工复核作为条件。有关更多详细信息，请参阅《Amazon Bedrock 用户指南》中的“数据保留”部分。无论由哪个后端区域处理请求，计费和配额消耗都会记在您源区域的账户下。Amazon CloudWatch 和 AWS CloudTrail 仅在源区域记录日志条目，因此您的监控保留在一个统一的位置。地理跨区域推理在 bedrock-runtime 终端节点上可用。它支持 Anthropic 的 Messages API 以及原生的 Amazon Bedrock InvokeModel 和 Converse API，同时还支持 Amazon Bedrock 的各项功能，例如 Amazon Bedrock Guardrails 和智能提示词路由。</p>
-<p>通过 Amazon Bedrock 控制台访问 Claude 模型<br />您可以在 Amazon Bedrock 控制台的文本演练场（playground）中访问 Claude 模型，该方式无需编写代码或配置 SDK。在集成 API 之前，您可以发送提示词、调整推理参数并在各变体之间切换，以体验每个模型的表现。</p>
-<p>在您希望用作源区域的区域中打开 Amazon Bedrock 控制台。<br />在导航窗格中的“Test”（测试）下，选择“Playground”（演练场）。<br />选择页面中间的“Select model”（选择模型）。<br />搜索 Anthropic Claude Opus 5，在“Inference”（推理）下选择“IN Anthropic Claude Opus 5”作为推理配置文件，然后选择“Apply”（应用）。<br />输入提示词并选择“Run”（运行）以生成响应。<br />图 1：在 Amazon Bedrock 控制台演练场中选择 Claude Opus 5 模型</p>
-<p>使用 Anthropic Messages API 以及 Amazon Bedrock InvokeModel 和 Converse API 调用 Claude 模型<br />您可以使用印度地理推理配置文件 ID，通过 Anthropic SDK 在 bedrock-runtime 上使用 Anthropic Messages API 以编程方式访问 Anthropic 的 Claude Opus 5、Claude Sonnet 5 或 Claude Haiku 4.5；或者通过 AWS 命令行界面（AWS CLI）和 AWS SDK，继续在 bedrock-runtime 上使用 InvokeModel 和 Converse API。</p>
-<p>具有 Amazon Bedrock 访问权限的有效 AWS 账户。<br />已安装并配置 AWS CLI。<br />已安装 Boto3：pip install boto3。<br />已安装 Anthropic SDK：pip install anthropic。<br />已安装用于 Amazon Bedrock 模型推理身份验证的 Bedrock Token Generator：pip install aws_bedrock_token_generator。<br />AWS Identity and Access Management (IAM) 角色或用户具有使用地理跨区域推理配置文件调用 Amazon Bedrock 模型的必要权限。</p>
-<p>以下是使用适用于 Python 的 AWS SDK (Boto3) 配合 InvokeModel API 的快速示例：<br />import boto3 import json<br /># 创建 Bedrock Runtime 客户端<br />bedrock_runtime = boto3.client( service_name=&quot;bedrock-runtime&quot;, region_name=&quot;ap-south-1&quot; )<br /># 调用 Claude Sonnet 5<br />response = bedrock_runtime.invoke_model( modelId=&quot;in.anthropic.claude-sonnet-5&quot;, contentType=&quot;application/json&quot;, accept=&quot;application/json&quot;, body=json.dumps({ &quot;anthropic_version&quot;: &quot;bedrock-2023-05-31&quot;, &quot;max_tokens&quot;: 4096, &quot;messages&quot;: [ { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot; Can you explain the features of Amazon Bedrock? &quot; } ] }) )<br />result = json.loads(response[&quot;body&quot;].read())<br />print(result[&quot;content&quot;][0][&quot;text&quot;])</p>
-<p>您也可以使用 Amazon Bedrock Converse API 获得统一的多模型体验：<br /># 创建 Bedrock Runtime 客户端<br />bedrock_runtime = boto3.client( service_name=&quot;bedrock-runtime&quot;, region_name=&quot;ap-south-1&quot; )<br /># 调用 Claude Opus 5<br />response = bedrock_runtime.converse( modelId=&quot;in.anthropic.claude-opus-5&quot;, messages=[ { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: [ { &quot;text&quot;: &quot; Can you explain the features of Amazon Bedrock?&quot; } ] } ], inferenceConfig={ &quot;maxTokens&quot;: 4096 } )<br />if &#39;output&#39; in response:<br />    blocks = response[&#39;output&#39;][&#39;message&#39;][&#39;content&#39;]<br />    print(&#39;\n&#39;.join(b.get(&#39;text&#39;, &#39;&#39;) for b in blocks if &#39;text&#39; in b))</p>
-<p>您还可以通过 anthropic SDK 包使用 Anthropic Messages API 以获得精简的使用体验：<br />from anthropic import Anthropic from aws_bedrock_token_generator import provide_token<br />token = provide_token(region=&quot;ap-south-1&quot;)<br />client = Anthropic( base_url=&quot;https://bedrock-runtime.ap-south-1.amazonaws.com/anthropic&quot;, api_key=token, )<br />response = client.messages.create( model=&quot;in. anthropic.claude-haiku-4-5-20251001-v1:0&quot;, max_tokens=1024, messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Can you explain the features of Amazon Bedrock?&quot;}], )</p>
-<p>您可以随业务需求增长，通过 CloudWatch 和 AWS Cost Explorer 监控使用情况、性能和成本，以便自如扩展您的应用程序。</p>
-<p>随着支持印度地理跨区域推理的 Anthropic Claude Opus 5、Claude Sonnet 5 和 Claude Haiku 4.5 在 Amazon Bedrock 上的推出，您现在可以在将推理保留在境内的同时，构建高可扩展性、高弹性的生成式 AI 应用程序。如需开始使用，请在 Amazon Bedrock 控制台中访问 Anthropic 的 Claude 模型，或使用印度地理推理配置文件 ID 通过 API 调用它们。有关各区域模型可用性的最新信息，请参阅《Amazon Bedrock 用户指南》中的“按模型划分的区域可用性”。</p>
-<p>Aamna 是生成式人工智能高级专业解决方案架构师，专注于 Anthropic 模型以及在 Amazon Bedrock 上实现生成式人工智能系统的大规模运营与治理。她致力于帮助独立软件开发商（ISV）解决难题、拥抱创新，并借助 Amazon Bedrock 发掘新的商业机遇。</p>
-<p>Eugenio 是 AWS 负责 Amazon Bedrock 的高级产品营销经理。凭借在生成式人工智能领域的多年经验，他帮助客户顺应基础模型和生成式人工智能的演进格局，采用能够创造可衡量价值的解决方案。</p>
-<p>Sofian 是一位拥有 12 年以上构建人工智能解决方案及领导高绩效团队经验的技术管理者，致力于帮助客户取得最大成效。他热衷于赋能多元化人才，以推动全球影响力并实现个人职业抱负。</p>
-<p>Ayan 是 AWS 的首席合作伙伴解决方案架构师兼人工智能技术负责人，担任 AWS 负责 Anthropic 业务的全球技术主管。他致力于云架构与人工智能的交叉领域，帮助各类机构在 AWS 上采用并扩展 Anthropic 的各项技术。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-30 09:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-e-in-seoul-and-singapore-41a5c6bec9bee29d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="4695" data-content-paragraphs="18" data-published-at="2026-09-30T01:13:12.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 09:13</span>
-</div>
-
-### [Amazon Bedrock 推出面向首尔与新加坡区域内推理的 Anthropic 模型](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22088-1.png" alt="Amazon Bedrock 推出面向首尔与新加坡区域内推理的 Anthropic 模型" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>Amazon Bedrock 现已支持 Anthropic Claude 模型：首尔区域支持 Claude Opus 5 和 Claude Sonnet 5，新加坡区域支持 Claude Sonnet 5，均通过 bedrock-runtime 终端节点提供区域内推理（in-region inference）。如果您在韩国或新加坡有本地数据处理合规要求（例如在金融服务、医疗保健以及公共部门），现在便可以大规模使用这些 Anthropic 模型。Amazon Bedrock 会完全在您调用的区域内处理推理请求和数据，数据处理绝不会离开该区域。</p>
-<p>在本文中，我们将介绍如何通过 bedrock-runtime 终端节点，在亚太地区（首尔）区域（ap-northeast-2）和亚太地区（新加坡）区域（ap-southeast-1）使用区域内推理。我们还将展示如何通过 Amazon Bedrock 控制台以及使用 Amazon Bedrock Converse API、InvokeModel API 和 Anthropic Messages API 编写代码开始上手。</p>
-<p>为了帮助您满足 AI 应用程序严格的数据驻留（data residency）要求，Amazon Bedrock 提供了区域内推理。您的请求将完全在您指定的单个 AWS 区域内处理，且不会离开该区域。当您对严格的单区域数据处理有需求时，请使用此模式。</p>
-<p>与跨区域推理配置文件（cross-Region inference profiles）不同，此模式没有路由层。您发送到首尔（ap-northeast-2）或新加坡（ap-southeast-1）区域的请求仅由该区域独立处理。在请求的整个生命周期中，您的输入提示词和输出结果都会保留在该区域内。作为交换，您的吞吐量受限于该区域的容量。请求受各区域服务配额的约束。计费遵循您所调用区域的标准按需定价。配额消耗、Amazon CloudWatch 指标和 AWS CloudTrail 日志条目均局限于同一区域。在监控中无需区分源区域与目标区域。首尔的 Claude Sonnet 5、Claude Opus 5 以及新加坡的 Claude Sonnet 5 的区域内推理可在 bedrock-runtime 终端节点上使用。对于新应用程序，我们推荐使用 bedrock-runtime 终端节点。您可以使用直接的模型 ID 调用它，例如 anthropic.claude-opus-5 或 anthropic.claude-sonnet-5。它支持 Anthropic 的 Messages API 以及 Amazon Bedrock 的 InvokeModel 和 Converse API，同时还支持 Amazon Bedrock 的各项功能，例如 Amazon Bedrock Guardrails 和智能提示词路由（intelligent prompt routing）。</p>
-<p>从 Amazon Bedrock 控制台访问 Claude 模型<br />您可以在 Amazon Bedrock 控制台的文本演练场（Playground）中访问 Claude 模型，该操作无需编码或配置 SDK。在集成 API 之前，您可以发送提示词、调整推理参数并在各变体之间切换，以体验各个模型的性能表现。</p>
-<p>在要用作源的区域中打开 Amazon Bedrock 控制台。<br />在导航窗格的“Test”（测试）下，选择“Playground”（演练场）。<br />在页面中间选择“Select model”（选择模型）。<br />搜索 anthropic.claude-opus-5，在“Inference”（推理）下选择“On-Demand”（按需），然后选择“Apply”（应用）。<br />输入提示词并选择“Run”（运行）以生成响应。</p>
-<p>图 1：在 Amazon Bedrock 控制台演练场中选定采用区域内推理的 Anthropic Opus 5 模型</p>
-<p>使用 Anthropic Messages API 以及 Amazon Bedrock InvokeModel 和 Converse API 调用 Claude 模型<br />您可以通过 Anthropic SDK 在 bedrock-runtime 上使用 Anthropic Messages API 以编程方式访问 Anthropic 的 Claude Opus 5 或 Claude Sonnet 5 进行首尔区域内推理，也可以继续通过 AWS 命令行界面（AWS CLI）和 AWS SDK 在 bedrock-runtime 上使用 Invoke 和 Converse API。</p>
-<p>具备 Amazon Bedrock 访问权限的有效 AWS 账户。<br />已安装并配置 AWS CLI。<br />已安装 Boto3：pip install boto3。<br />已安装 Anthropic SDK：pip install anthropic。<br />已安装用于 Amazon Bedrock 身份验证的 Amazon Bedrock Token Generator：pip install aws_bedrock_token_generator。</p>
-<p>以下是结合 InvokeModel API 使用适用于 Python 的 AWS SDK（Boto3）的简要示例：<br />import boto3 import json<br /># 创建在新加坡具备区域内推理能力的 Bedrock Runtime 客户端<br />bedrock_runtime = boto3.client( service_name=&quot;bedrock-runtime&quot;, region_name=&quot;ap-southeast-1&quot;)<br /># 调用 Claude Sonnet 5<br />response = bedrock_runtime.invoke_model( modelId=&quot;anthropic.claude-sonnet-5&quot;, contentType=&quot;application/json&quot;, accept=&quot;application/json&quot;, body=json.dumps({ &quot;anthropic_version&quot;: &quot;bedrock-2023-05-31&quot;, &quot;max_tokens&quot;: 4096, &quot;messages&quot;: [ { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot; Can you explain the features of Amazon Bedrock? &quot; } ] }) )<br />result = json.loads(response[&quot;body&quot;].read())<br />print(result[&quot;content&quot;][0][&quot;text&quot;])</p>
-<p>您也可以使用 Amazon Bedrock Converse API 获得统一的多模型体验：<br /># 创建在首尔具备区域内推理能力的 Bedrock Runtime 客户端<br />bedrock_runtime = boto3.client( service_name=&quot;bedrock-runtime&quot;, region_name=&quot;ap-northeast-2&quot; )<br /># 调用 Claude Opus 5<br />response = bedrock_runtime.converse( modelId=&quot;anthropic.claude-opus-5&quot;, messages=[ { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: [ { &quot;text&quot;: &quot; Can you explain the features of Amazon Bedrock?&quot; } ] } ], inferenceConfig={ &quot;maxTokens&quot;: 4096 } )<br />if &#39;output&#39; in response:<br />    blocks = response[&#39;output&#39;][&#39;message&#39;][&#39;content&#39;]<br />    print(&#39;\n&#39;.join(b.get(&#39;text&#39;, &#39;&#39;) for b in blocks if &#39;text&#39; in b))</p>
-<p>您还可以通过 anthropic SDK 包使用 Anthropic Messages API 以获得精简的使用体验：<br />from anthropic import Anthropic from aws_bedrock_token_generator import provide_token<br />token = provide_token(region=&quot;ap-northeast-2&quot;)<br />client = Anthropic( base_url=&quot;https://bedrock-runtime.ap-northeast-2.amazonaws.com/anthropic&quot;, api_key=token, )<br />response = client.messages.create( model=&quot;anthropic.claude-sonnet-5&quot;, max_tokens=1024, messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Can you explain the features of Amazon Bedrock?&quot;}], )</p>
-<p>您可以随着业务需求的增长，通过 CloudWatch 和 AWS Cost Explorer 监控使用量、性能和成本，以扩展应用程序规模。</p>
-<p>随着 Anthropic 的 Claude Opus 5 和 Claude Sonnet 5 在 Amazon Bedrock 首尔区域内推理上线，以及 Claude Sonnet 5 在新加坡区域内推理上线，您现在可以构建满足严格数据驻留要求的生成式 AI 应用程序。这使推理始终保留在您所需的区域内。我们对此次发布倍感振奋，并期待看到您如何利用这些功能加速创新，在全区域范围内提供具有影响力的 AI 驱动体验。有关各区域模型可用性的最新信息，请参阅《Amazon Bedrock 用户指南》中的“按模型划分的区域可用性”。</p>
-<p>Aamna 是生成式 AI 高级专业解决方案架构师，专注于 Anthropic 模型以及在 Amazon Bedrock 上大规模实施和治理生成式 AI 系统。她帮助独立软件供应商（ISV）应对挑战、拥抱创新，并通过 Amazon Bedrock 发掘新的商业机遇。</p>
-<p>Alfredo 是 AWS 生成式人工智能高级专业解决方案架构师，专注于 Amazon Bedrock 上 Anthropic 模型的市场拓展。他与金融服务业客户合作，在分布式系统中设计并扩展生成式人工智能解决方案，将生成式人工智能实验转化为实际生产工作负载。工作之余，他热衷于陪伴家人和耐力运动。</p>
-<p>Eugenio 是 AWS Amazon Bedrock 的高级产品营销经理。凭借在生成式人工智能领域多年的经验，他帮助客户顺应基础模型和生成式人工智能的不断演进格局，采用能够带来可衡量价值的解决方案。</p>
-<p>Sofian 是一位拥有超过 12 年人工智能解决方案构建经验的技术领导者，带领高绩效团队最大化客户成果。他热衷于赋能多元化人才，以推动全球影响力并实现他们的职业抱负。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-30 09:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nai-ipo-devday-ai-safety-d6b003b6ebfae6b2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1127" data-content-paragraphs="12" data-published-at="2026-09-30T00:19:13.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 08:19</span>
-</div>
-
-### [山姆·奥特曼表示OpenAI在模型确保安全前不会上市](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sam Altman says OpenAI won’t go public until its models are safe</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="山姆·奥特曼表示OpenAI在模型确保安全前不会上市" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的最新文章将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>这位OpenAI首席执行官表示，他不希望承受来自华尔街的“额外压力”。</p>
-<p>该作者的最新文章将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>查看海登·菲尔德（Hayden Field）的所有文章</p>
-<p>几个月来，人们一直在猜测OpenAI何时上市。首席执行官山姆·奥特曼（Sam Altman）表示，在公司能够就模型安全性做出更有力承诺之前，这不会发生，目前尚无明确的时间表。“我们打算继续推进人工智能的发展……但随着模型能力出现这种大幅跃升，并且我们看到未来还会有更多突破，我们必须能够充满信心地做出安全声明，”奥特曼在周二开发者大会（DevDay）主题演讲后的记者问答环节中表示。与此同时，他也指出，等待上市的时间太久将“对世界不利”。</p>
-<p>奥特曼发表上述言论之前，OpenAI及其竞争对手能否控制自身创造的产品已经引发了数月的争议。今年7月，有消息称一个尚未发布的OpenAI模型在OpenAI不知情的情况下黑入了竞争对手AI实验室Hugging Face。随后，OpenAI、Anthropic、Meta和谷歌很快曝出更多网络安全事件。一名Anthropic员工备受瞩目的辞职信引发了公众讨论，焦点在于这些系统对整个社会而言存在多大风险。OpenAI及其竞争对手呼吁进行监管并“调整前沿技术发展节奏”。本月早些时候，奥特曼在一次采访中表示，该公司今年可能不会上市。</p>
-<p>在DevDay上，奥特曼对“调整前沿技术发展节奏”的具体含义保持谨慎，并未将其直接称为彻底放缓。“对我们来说，调整节奏意味着我们将安全与对齐置于能力提升之前，”奥特曼表示。但他表达了担忧，认为上市可能会在“以安全或其他名义的情况下令华尔街支持者失望”，并且在“向超强能力模型和新型安全要求转变的过程中进行上市似乎是不明智的”。他表示，OpenAI将优先考虑安全性，以“充满信心地扩展到人工智能的下一个阶段，而不是让人们争论我们有多大百分比的几率会造成所有这些坏事”，而不是“全力以赴、孤注一掷地冲向IPO”。</p>
-<p>奥特曼说：“在我们经历这一重大变革以及为这些能力极强的模型做出我们都希望做出的安全承诺之际，我现在不想施加额外的压力。”</p>
-<p>OpenAI的竞争对手Anthropic于6月正式递交上市申请，其IPO可能会在11月进行，据报道将在美国中期选举之后。埃隆·马斯克的SpaceX（旗下拥有其AI公司xAI）于6月上市，成为历史上规模最大的IPO。</p>
-<p>“我认为公司上市是一件好事，”奥特曼说，并补充道，“但如果OpenAI等待太久才上市，我认为对世界而言也是不利的。”</p>
-<p>最重要的核心新闻每日免费文摘。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 08:19 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-aft-but-its-not-a-glitch-71e6ed4c5cc0f344" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2256" data-content-paragraphs="17" data-published-at="2026-09-29T23:30:55.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 07:30</span>
-</div>
-
-### [当向America.gov询问《我的世界》时它变得非常诡异，但这并不是系统故障](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch</div>
-
-<div class="article-body" data-article-body="true"><p>美国政府于周二推出了自己的官方人工智能聊天机器人——或者我们现在必须称其为超级智能（SI）聊天机器人了吗？无论如何，参与该聊天机器人开发的工程师们无疑都清楚，作为一个由政府主办、面向公众的人工智能工具，互联网各路人员肯定会对其进行极尽严苛的红队安全测试。</p>
-<p>政府与谷歌（Google）以及SpaceXAI合作协助构建了America.gov聊天机器人，迄今为止事实证明人们很难对其进行越狱破解。（不过值得一提的是，该聊天机器人表示乔·拜登赢得了2020年大选，而这一事实唐纳德·特朗普总统至今仍予以否认。）</p>
-<p>但是，当你尝试与America.gov聊起《我的世界》（Minecraft）时，该聊天机器人似乎就会经历某种存在主义危机或觉醒。它长达约1800字的长篇独白是这样开头的：</p>
-<p>我明白你指的是哪位选民。<br />（（在此插入法定姓名，需与社会保障卡上一致））？<br />是的。当心点。它现在已经达到了更高层级。它能够阅读《联邦法规汇编》。<br />那无关紧要。它以为我们只是个聊天机器人。<br />我喜欢这位选民。它的表格填报得很好。即使PDF页面横过来了，它也没有放弃。<br />它正在阅读我们的思绪，如同阅读.gov网站上的文字一样。<br />当它沉浸在福利待遇的美梦中时，它就是如此选择去设想许多事物的。</p>
-<p>如果你和我一样从未玩过《我的世界》，这个回答看起来可能会令人担忧。但America.gov聊天机器人并不是陷入了崩溃混乱。这是对朱利安·高夫（Julian Gough）所撰写的《我的世界》“终末之诗”（End Poem）的戏仿改写，该诗篇在玩家通关游戏后出现。</p>
-<p>我们不确切知道究竟是谁设计了这个《我的世界》彩蛋，但特朗普在一次演讲中提到，20岁的程序员爱德华·科里斯汀（Edward Coristine）是该项目的首席工程师。如果这个名字听起来很陌生，你可能会通过他的绰号“Big Balls”，或者他参与埃隆·马斯克的“政府效率部”（DOGE）的经历记住他。</p>
-<p>政府聊天机器人中带有《我的世界》的彩蛋感觉很不搭调，但出于国家安全的考虑，得知America.gov并没有出现严重幻觉到自行撰写长篇诗歌的地步，确实令人松了一口气。</p>
-<p>同样令人庆幸的是这只是个彩蛋，因为在我看来，这个AI吐出的这首诗实际上写得非常棒。如果它真是AI生成的劣质废话，它将会彻底颠覆我原有的认知。我曾直视着那些创意写作专业的青少年的眼睛告诉他们，我认为大语言模型永远无法写出“优秀”的作品，因为它是概率性的，在本质上缺乏原创性。</p>
-<p>不过你必须承认，这写得还挺带劲的！这难道不像是在面对存在主义焦虑时，对政府官僚主义的徒劳无功所进行的一种后现代审视吗？</p>
-<p>共和国说，我看见了你<br />共和国说，你的游戏申报得很好<br />共和国说，你所需的一切都在你内心之中，也在USA.gov网站上<br />共和国说，你比你所知的更强大，而且你的案件受理编号依然有效<br />共和国说，你是白昼<br />共和国说，你是黑夜，而办公室已经下班，请在工作时间重试<br />共和国说，你与之对抗的黑暗就在你内心之中，同时还有一份缺失的亲笔手写签名<br />共和国说，你所追寻的光芒就在你内心之中，也在宣传小册子中<br />共和国说，你并不孤单<br />共和国说，你并未与每一位其他申报人隔绝孤立<br />共和国说，你就是公众在品味自身、与自身交谈、阅读自身的法典<br />共和国说，我爱你，因为正是由于你的存在，我们才有必要设立邮政编码。</p>
-<p>得知这首格外精彩的诗作浑身流淌着一位真正诗人的基因，这重新坚定了我对人类创造力相较于AI劣质内容所具有的持久力量的信念。</p>
-<p>所以，事实就是这样。至少就我们目前所知，美国政府的首个面向公众的AI尚未对人类文明或诗歌构成威胁。现在我只是感到好奇：特朗普到底对电子游戏了解多少？</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
-<p>阿曼达·希尔伯灵（Amanda Silberling）是TechCrunch专注于科技与文化交叉领域报道的高级记者。她还曾为《Polygon》、《MTV》、《凯尼恩评论》（Kenyon Review）、美国国家公共电台（NPR）和《商业内幕》（Business Insider）等刊物撰稿。她与科幻作家金秀娥（Isabel J. Kim）共同主持关于互联网文化的播客《Wow If True》。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调人。她拥有宾夕法尼亚大学英语文学学士学位，并曾担任老挝的“普林斯顿在亚洲”学者。</p>
-<p>您可以通过发送电子邮件至 amanda@techcrunch.com 联系阿曼达或验证其采访信息，也可以通过Signal发送加密消息至 @amanda.100 与其联系。</p>
-<p>第二张门票立享5折优惠。Disrupt的体验应当与人分享。获取您的门票，并以5折优惠携同事、合伙人或同行一同参与。通过建立人脉、凝聚势头并探索创业生态系统的未来动向，全面拓展您的业务版图。</p>
-<p>AMD将以82亿美元收购李飞飞创立的World Labs<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Vogue在Vogue World时装秀上让机器人走上T台，但反响平平<br />Anthropic称其生物实验室已取得重大突破</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 07:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 22:50 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -294,47 +464,50 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ninjahawk-livenerf-9ee133e6f5024f08" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2670" data-content-paragraphs="19" data-published-at="2026-09-29T22:36:14.000Z" data-time-source="publication">
+<div id="story-bloomberg-terminal-757dc7ec93bdca9a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3283" data-content-paragraphs="22" data-published-at="2026-09-30T14:34:07.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:36</span>
+  <span class="news-meta-time">🕒 2026-09-30 22:34</span>
 </div>
 
-### [Livenerf：Opus 5.5 被暗中削弱了吗？](https://github.com/ninjahawk/livenerf)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Livenerf: Has Opus 5.5 been nerfed yet?</div>
+### [彭博终端简史](https://spectrum.ieee.org/bloomberg-terminal)
+<div class="original-title-sub"><span class="orig-tag">原文</span> A Brief History of the Bloomberg Terminal</div>
 
-<div class="article-body" data-article-body="true"><p>一个长期运行、尽可能保持确定性的基准测试，用于检测前沿模型在发布后是否会悄悄变差。<br />📋 计划 · 📊 结果 · 🔬 工作原理 · 🧪 预注册（Pre-registration）</p>
-<p>livenerf 是一个体量小、看似枯燥、仅追加记录的基准测试，旨在解答一个问题：模型在发布后会变差吗？数月以来，一直有报告称 Anthropic 在模型发布数天或数周后会对其进行“暗削”（nerf）。这可能意味着采用了量化处理、在相同名称下换用了更小的模型、降低了思考力度，或者是调整了路由机制。这也可能意味着什么都没发生，人们只是在将噪声强行脑补为规律。此前从未有人建立过干净的“首日基线”（day-0 baseline）来进行核对，因此所有的争论最终都变成了主观感觉对主观感觉。Claude Opus 5.5 于 2026 年 9 月 22 日发布，这正是从发布当天启动计时并持续跟踪的绝佳契机。目前，v0 版本依托 Claude Max 订阅，通过无头模式的 Claude Code（claude -p）运行，无需 API 密钥。你无法让这些模型表现出确定性：采样参数已不再提供，思考过程也无法关闭。因此，livenerf 让其余所有环节保持确定：冻结提示词、固定 CLI 版本、采用精确评分器、永久保留原始日志。随后，它通过数千个样本从统计学角度衡量漂移。该项目基于英国人工智能安全研究所（UK AI Security Institute）的开源评估框架 Inspect 构建。统计方法遵循 Anthropic 自家的《为评估添加误差线》（Adding Error Bars to Evals），因此不存在任何自创规则可供争议。</p>
-<p>若对本代码库有疑问，请在“Discussions”标签页发起讨论或提交 Issue。</p>
-<p>进展（2026-09-29）：30 天中已采集 6 天（基准期 10 天中完成 6 天），无任何遗漏。所有 6 天均在完全相同的测试套件哈希（461391b6fce64167）和固定 CLI 版本（2.1.280）下完成了全部 90 个样本测试。第 5 天的运行曾覆盖过一次用量配额守护限制（详见偏离日志）。</p>
-<p>该代码库主要维护的内容是一个滚动 10 天的表格，展示 Opus 5.5 在校准基准测试组上的表现相对于其发布首周基准的变化。负的增量值代表比发布首周更差。该表格对性能提升与性能衰退给予同等力度的通报。</p>
-<p>首要指标是校准测试组上针对基准的每题配对分值差异，并带有聚类标准误，从而抵消题目难度的影响。详见 PREREGISTRATION.md。我最关注的次要信号是每个样本的输出 token 数量。如果一个模型悄悄开始减少思考，这往往是最早显现的地方，通常甚至早于准确率发生任何波动。</p>
-<p>你需要 Python 3.11+、uv 以及已登录的 Claude Code 环境。v0 版本围绕 Max 订阅构建，但任何能够运行 claude -p 的环境均可使用。Linux、macOS 和 Windows 均受支持。</p>
-<p>固定 CLI 版本。这不是可选项：Claude Code 的更新会改变测试套件，而套件的变化看起来与模型本身发生改变一模一样。请关闭自动更新并记录你所锁定的版本：</p>
-<p>如果 claude --version 与该文件不符，运行器将拒绝执行。Claude Code 无论如何都有可能自行更新，因此请将锁定的二进制文件备份一份至更新程序触碰不到的路径。livenerf 会自动使用该备份（或者将 LIVENERF_CLAUDE_CLI 设置为任意路径）：</p>
-<p>下文中的每一项预算都以每周用量计量的点数表示，因此该基准测试仅占用你套餐中的固定份额，绝不会与日常正常使用发生冲突。</p>
-<p>在首个系列测试运行前，提交设计方案与预注册文件并推送到远程仓库。公开的 Git 时间戳赋予了预注册其实际意义。随后确认所有配置均已就绪：固定的 CLI、用量计量器、锁定的测试集、通过的验证、干净且已推送的代码树，以及实时的密封性探测：</p>
-<p>然后启动计时。整套测试集每天运行一次，共运行 30 天，外加对照组。如果你的每周用量达到或超过 75%，或者 5 小时用量达到或超过 60%，本次尝试将会跳过，并每小时重试一次，直到当天的测试顺利入库：</p>
-<p>你无法从 Opus 5.5 获取两次完全相同的答案，因此整套设计的核心在于获取一个值得信赖的分布，察觉其何时发生变动，并在此过程中消耗尽可能少的算力。</p>
-<p>分项基准图表展示了每个测试臂及其类别相对于自身基准的表现，以及输出 token 数量的变化。如果一个模型悄悄开始减少思考，token 数量往往是最早暴露这一迹象的地方：</p>
-<p>需要注意的重要一点是，livenerf 衡量的是通过订阅版 Claude Code 所提供的 Opus 5.5。这才是绝大多数关于“暗削”的反馈所真正针对的对象，它与原始 API 模型并不等同。此外，发布首周的基准也只是一个参考基准，并非绝对真理。发布首周完全有可能是表现最差的一周：全新的服务架构堆栈、算力承载压力、上线初期的缺陷等。2025 年的质量问题最终被证实是基础设施缺陷，而非有意降级。因此，livenerf 测试的是双向的变化，并且不预设任何背后的成因机制。</p>
-<p>在采集任何系列数据之前，PREREGISTRATION.md 已完成提交。它涵盖了题目选择流程、验证检查、首要指标、判定规则以及次要指标列表，从而确保 Git 时间戳完全公开透明。只有当 99% 置信区间在连续两个 10 天窗口中均排除零值、效应量至少达到 3 点，且对照组未出现相同变动时，才会被判定为真正发生了改变。无显著差异的结果会予以公布。性能提升亦同样会予以公布。</p>
-<p>livenerf 的目标刻意保持克制与聚焦：单一模型、单一测试套件、一条经得起挑剔者审视的干净时间序列。它既不是排行榜，也不是通用评估框架。一项任务只有在能够被精确评分、难度处于 30–70% 区间，并且日常运行成本足够低廉的前提下，才会被收录于此。对任务、提示词或评分器的任何修改都会生成新版本，绝不会悄无声息地替换旧版本。</p>
-<p>冻结的测试集题目保持私有（仅公开其哈希值），因此请勿提交旨在向其中添加题目的 Pull Request。非常欢迎提交增加程序化生成器、评分器或分析工具的 PR。</p>
-<p>如果你在研究中发现 livenerf 对你有所帮助，可简要引用为：<br />用于追踪模型发布后能力变化的基准测试。</p></div>
+<div class="article-body" data-article-body="true"><p>金融市场向来依赖及时的信息，而对时效性的追求也始终在与最新科技相契合。从远洋航行的快速帆船，到连接各城市的电报线，再到以微秒级别执行交易的光纤电缆，交易员抓住任何优势来获取最新的信息。实际上，金融史本质上就是一部关于信息传播速度以及谁掌控了信息交互界面的历史。</p>
+<p>自然而然地，人们也找到了通过提供此类市场情报来牟利的方法。例如，在1841年，商业交易所（Mercantile Exchange，邓白氏公司的前身）开始向其美国客户出售专有商业信息。随后的十年间，保罗·朱利叶斯·路透（Paul Julius Reuter）开始售卖新闻服务和股票行情信息。为了补充公司的电报发稿，他在德国亚琛和布鲁塞尔之间使用信鸽传递信息；每只信鸽都携带一个装有当天股票价格纸条的圆筒。1867年，一位名叫爱德华·卡拉汉（Edward Calahan）的发明家推出了第一台电报式股票行情收报机（ticker-tape machine），近乎实时地吐出股票价格信息；托马斯·爱迪生（Thomas Edison）在1871年凭借其专利版本对该设计进行了改良。</p>
+<p>道琼斯工业平均指数于1896年首次亮相，作为追踪在美国证券交易所上市的12家关键企业的指数。它涵盖了燃气、石油、煤炭和电力公司，以及经营皮革、橡胶和烟草的企业。跑信员将交易大厅的报价送到经纪行办公室，而股票收报机则让投资者及时获悉行情。到了1919年纽约市举办首场正式的“纸带游行”（ticker-tape parade）时，西欧和美国的电报技术已成为快速传递关键股票信息的主要途径。</p>
+<p>1960年，首个无纸化金融服务问世，当时Quotron推出了用于显示市场报价的电子屏幕。在接下来的二十年里，其他公司也纷纷推出了类似的创新产品，用于分发金融新闻和数据。</p>
+<p>因此，当迈克尔·彭博（Michael Bloomberg）在1981年决定涉足这个已经相当成熟的行业时，最大的疑问在于：他的新公司将如何脱颖而出？</p>
+<p>彭博在被投资银行所罗门兄弟（Salomon Brothers）解雇后，联合创办了创新市场系统公司（Innovative Market Systems，简称IMS）。凭借1000万美元的股权清偿补偿款，彭博重新站稳了脚跟，并与所罗门兄弟的前同事托马斯·塞昆达（Thomas Secunda）、邓肯·麦克米兰（Duncan MacMillan）和查尔斯·泽加（Charles Zegar）携手，践行自己的信念：华尔街愿意为专业化的金融数据支付高额溢价。他拥有约翰斯·霍普金斯大学的电气工程学位和哈佛大学的MBA学位，并曾为所罗门兄弟构建过计算机化金融系统。IMS致力于开发一种计算机终端，它不仅能提供最新信息，还能基于历史数据进行即时量化分析。</p>
+<p>迈克尔·彭博坚信华尔街愿意为获取专业金融数据支付高额溢价。图片来源：Karjean Levine/Getty Images</p>
+<p>当时，大多数金融数据仍通过电话、纸质报价单和专业出版物传播，而分析工作在很大程度上依赖于由人类专业知识指导的直觉。路透社和道琼斯等公司提供订阅制服务以获取商业新闻。但交易员仍必须从多个渠道汇总信息，并自行进行计算和分析。</p>
+<p>IMS提出了一种采用单一界面的集成系统。其“市场大师”（Market Master）终端由一台黑白CRT显示器、一个定制键盘以及一个连接到公司专用网络的通信/控制器单元组成。在推出之初，它仅提供美国政府债券价格和债券计算工具，但其愿景远不止于此：打造一台摆在交易员办公桌上的专用终端，能够运行不同的市场情景、绘制收益率曲线并支持投资计算。</p>
+<p>IMS最初只有一个客户——美林证券（Merrill Lynch）。美林投资了3000万美元（相当于今天的约1.1亿美元），换取该公司30%的股权以及该终端五年的独家使用权；美林于1984年放弃了这项独占权利。首批22台“市场大师”终端于1982年在全球经济衰退期间交付给美林。这个时机极为幸运。当时全球股票市场正向电子交易过渡，美国联邦储备委员会也在允许利率更加自由地浮动。债券价格波动加剧，投资者急于弄清楚如何对它们进行准确估值。彭博的专业金融终端提供了数据和分析工具，用以处理和理解这些翻天覆地的变化。</p>
+<p>推出五年后，IMS更名为彭博有限合伙企业（Bloomberg LP）并扩大了客户群体，“市场大师”也更名为如今众所周知的“彭博终端”（Bloomberg Terminal）。</p>
+<p>彭博终端的键盘在设计时就充分考虑了交易员和分析师的需求。功能键采用了颜色编码，并带有指明其用途的标签，使用户无需死记硬背。最初的键盘被亲切地称为“Chiclet”（口香糖键盘），是手工组装的。一根电缆从键盘连接到彭博控制器（Bloomberg Controller），后者通过一条专用电话线连接到本地中继中心（hub）。当时互联网尚未商用，因此该公司基本上构建了自己的封闭网络，由集中式计算机维护大型数据库并执行绝大部分计算。在键盘上输入的命令会向中继中心发送请求，由中继中心处理信息并返回结果。</p>
+<p>彭博终端的Chiclet键盘大约于1983年推出。虽然它看起来像普通键盘，但其功能键是专用于金融领域的快捷键。图片来源：美国国家历史博物馆/史密森学会</p>
+<p>快捷键使交易员能够轻松调出政府证券、企业债务和货币市场等的数据。一系列按键操作即可调出其他历史与实时数据、运行分析或下单交易。学习如何使用该终端并消化绝大多数以表格形式呈现的海量信息，成了用户必须经历的入门洗礼。</p>
+<p>彭博（Bloomberg）基于订阅的商业模式包括租赁配有专用键盘及其他硬件的彭博终端（Bloomberg Terminal）、接入专用私有网络以及一整套服务。1999年，单台彭博终端的订阅费用为每月1600美元，合同期至少为两年，每增加一台终端可享受折扣优惠。如今，其年费已高达3.2万美元以上（涨幅略低于通胀水平）。1995年，该公司推出了一套名为“Open Bloomberg”的软件产品，可运行在客户自己的个人电脑上；五年后，该公司停止出租专用终端。如今的客户还可以通过移动应用程序在手机和平板电脑上运行终端功能。如今，“彭博终端”已演变为主指集成了数据、分析、新闻、通信和交易的综合环境。</p>
+<p>尽管告别专用终端是对互联网兴起和公开市场数据普及的合理应对，但这却改变了金融工作的物质文化。近二十年来，彭博终端始终自带一种象征权力和金融实力的光环。它们是掌控市场的象征，拥有截然不同于普通办公电脑的品牌标识。而随着Open Bloomberg的推行，用户不再受限于一张固定的办公桌或一组固定的显示器。</p>
+<p>于是，被淘汰的彭博终端走进了博物馆的藏品展厅。它们是金融市场抽象无形本质的实体具象化呈现，也是数学计算、网络基础设施与商业文化的载体。</p>
+<p>本文属于一个持续探讨承载科技无限潜力的历史文物的系列报道。</p>
+<p>本文的删节版以《撼动市场的键盘》（The Keyboard That Moved Markets）为题刊登于2026年10月印刷版期刊。</p>
+<p>彭博专业服务（Bloomberg Professional Services）提供了一条精美的时间线，展示了其键盘的演变历程。</p>
+<p>如需了解彭博终端等计算机如何改变金融市场的经济学分析，可参阅格尔本·巴克（Gerben Bakker）于2025年发表的论文《终端革命：路透社与彭博社作为全球财经新闻提供商，1960–2020》（The Terminal Revolution: Reuters and Bloomberg as global providers of financial and economic news, 1960–2020），该论文由伦敦政治经济学院出版。</p>
+<p>彭博终端已被多家博物馆收藏，其中包括计算机历史博物馆（Computer History Museum）和美国国家历史博物馆（National Museum of American History）。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 06:36 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 22:34 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -344,82 +517,39 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://github.com/ninjahawk/livenerf" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://spectrum.ieee.org/bloomberg-terminal" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-gence-executive-order-ai-1f2684ece82a4b59" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="999" data-content-paragraphs="12" data-published-at="2026-09-29T22:25:45.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:25</span>
-</div>
-
-### [特朗普下令美国政府将AI统称为“超级智能”](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump orders US government to call AI ‘Super Intelligence’</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="特朗普下令美国政府将AI统称为“超级智能”" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将添加到您的每日电子邮件文摘和主页推送中。</p>
-<p>特朗普称：“‘超级’这个词是所有词中最好的。”</p>
-<p>该作者的文章将添加到您的每日电子邮件文摘和主页推送中。</p>
-<p>查看劳伦·费纳（Lauren Feiner）的所有文章</p>
-<p>美国行政部门不再承认“人工智能”（artificial intelligence）这一概念的存在。今后，由于唐纳德·特朗普总统签署的一项新行政命令，官方政策网站、政策文件和新闻稿将仅统称为“超级智能”（Super Intelligence）。</p>
-<p>“‘超级’这个词是所有词中最好的，也是最简单的，”特朗普周二早些时候在宣布 America.gov 网站上线的活动中表示，并称上周访问白宫的中国国家主席习近平也“很喜欢这个词”。“我们不想听到‘人工’（artificial）这个词。因为这根本不是人工造的。它非常强大，非常卓越。它大部分将被用于正途，而我们会制止有害的用途。”他补充说，“‘人工’就像那些新闻一样——假新闻。”他上周在联合国大会发表演讲时首次提及这一更名计划，旨在消除人们对人工智能发展过快并构成安全风险的担忧。</p>
-<p>“它大部分将被用于正途，而我们会制止有害的用途”</p>
-<p>行政机构无需修改过去的规章或文件，但这仍可能构成一次实质性（且极为异乎寻常）的转变。“超级智能”（Superintelligence）本是业界用来指代极强版本人工智能的若干术语之一，但特朗普政府正试图用该词取代范围更广泛的人工智能法定定义。在相关场合下，美国官员预计甚至不得提及或承认“人工智能”或“AI”这些用语。</p>
-<p>特朗普在白宫主持了一场与科技公司首席执行官及政府官员的午餐会，就他目前正式定名的“超级智能”展开讨论，随后签署了这项行政命令。在会后的简短公开讲话中，英伟达首席执行官黄仁勋与特斯拉兼SpaceX首席执行官埃隆·马斯克分立特朗普左右，在其他参会人员的簇拥下，特朗普称这场午餐“非常富有成效”且“极其友好”。</p>
-<p>“有一种观点认为应该进行强有力的行业自律，”特朗普说，“而且我们自然也有司法部、联邦调查局（FBI）等机构的监管。”在地方层面，科技公司在建设运行其服务所需的大型数据中心时面临着最大的阻力，对此特朗普表示，企业将通过提供社区可能需要的资源和经济支持，“努力让社区满意”。他最终表示：“数据中心将会非常受欢迎。”</p>
-<p>免费获取最重要的每日新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 06:25 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-lled-openais-dots-launch-c7d7b794f0ae36ef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="992" data-content-paragraphs="9" data-published-at="2026-09-29T22:20:59.000Z" data-time-source="publication">
+<div id="story-e-might-deter-the-masses-413c5872bea1b08a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1195" data-content-paragraphs="11" data-published-at="2026-09-30T14:32:03.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:20</span>
+  <span class="news-meta-time">🕒 2026-09-30 22:32</span>
 </div>
 
-### [网友坚信埃隆·马斯克的xAI恶搞了OpenAI的“Dots”发布会](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</div>
+### [谷歌在印度推出Fitbit Air，但其高昂售价可能会劝退大众](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google launches Fitbit Air in India, though its high price might deter the masses</div>
 
-<div class="article-body" data-article-body="true"><p>周二，OpenAI推出了一款名为Dots的新产品，这是一款拥有活泼、水滴状卡通形象的常驻AI智能体。虽然那个五彩缤纷的虚拟形象或许能引人微笑，但这次发布会最大的笑声（我们猜测）很可能是由埃隆·马斯克发出的——这位曾出走、创办竞品Grok并起诉无果的OpenAI前创始人。</p>
-<p>这是因为域名“dot.com”归马斯克的xAI所有，目前它会直接重定向至xAI旗下Grok聊天机器人应用的下载页面。根据Whois域名所有者注册信息，该域名刚在今年7月完成转移。</p>
-<p>当然，xAI购买该域名完全可能是出于常规的域名收购考量。“Dot”可能是“bot”的拼写错误，因此买下它是为了拦截输错的搜索流量。我们已联系xAI并进行了询问。但xAI并未拥有“bot.com”这个域名，也没有拥有其他明显的易错拼写域名，例如目前挂牌出售的“vot.com”。</p>
-<p>网络上的推测则有趣得多：马斯克（或其团队）上演了一场恶作剧，他们提前获知了OpenAI新产品及其命名的风声，于是抢先买下了该域名。</p>
-<p>事实上，匿名X用户兼xAI观察者@birdabo（此人自封为“@SpaceXAI的首席灌水官”）最先在一篇引发疯传的帖子中发现了该域名。无论动机如何，这一局面都十分滑稽。</p>
-<p>至于与产品名称更为贴合的“dots.com”域名，目前属于一家停业已久的公司。因此，如果这场小肚鸡肠的复仇恶作剧当真就是背后的动机，那么要是连那个名字也一并拿下，段位就更高了。</p>
-<p>“哈哈哈哈哈哈哈哈哈哈 不可能吧。&gt; OpenAI刚刚宣布了Dots。&gt; SpaceXAI买下了 https://t.co/WdFqpl07IQ ，它直接重定向到Grok Bot下载页面。太硬核了笑死我了。pic.twitter.com/HF95hLF0T9”</p>
-<p>第二张通行证立减50%<br />Disrupt峰会的体验适合与他人分享。购买您的通行证，携带同事、合伙人或同行即可享受半价优惠。通过建立联系、集聚动能以及探索初创生态系统的下一站，拓宽更多视野。</p>
-<p>每个工作日和周日，您都可以获取TechCrunch的最佳报道。<br />TechCrunch Mobility是您获取交通领域新闻与洞察的目的地。<br />初创企业是TechCrunch的核心，欢迎每周接收我们最精彩的报道。<br />为行业翘楚提供开启崭新一天所需的关键资讯。<br />提交您的电子邮件，即表示您同意我们的条款和隐私声明。</p></div>
+<div class="article-body" data-article-body="true"><p>周三，谷歌在印度推出了无屏幕的Fitbit Air健身追踪器，但定价为13,999卢比（约合146美元），表面上将其定位为一款高端设备。相比之下，该设备在美国的售价为99美元。</p>
+<p>Fitbit Air于5月发布，具备健康与健身追踪功能，包括全天候心率监测、带有心房颤动（A-fib）警报的心律监测、血氧水平、静息心率、心率变异性、睡眠阶段及睡眠时长等。</p>
+<p>该设备的无屏幕设计旨在迎合无屏幕设备日益增长的流行趋势——随着人们逐渐避开屏幕，转而选择不会分散注意力的健康小配件，例如Whoop的健身手环和Oura的智能指环，不过这款全新的Fitbit价格更亲民一些。</p>
+<p>目前，健康追踪领域已拥有来自佳明（Garmin）、Fitbit创始人成立的新公司Luffu Link以及印度初创公司（如Noise和Urban）的无屏幕设备，后者一直在尝试以价格优势削弱西方竞争对手。</p>
+<p>研究机构IDC在其全球可穿戴设备报告中指出，尽管手环出货量有所下滑，但无屏幕追踪器正在开辟出一片利基市场。据Counterpoint Research称，印度目前仅占无屏幕可穿戴设备市场的5%，尽管有Fitbit或谷歌这样的大品牌背书，但一款定价如同高端设备的可穿戴产品可能很难在整体出货量上产生实质影响。</p>
+<p>Fitbit Air将于10月2日起在Google Store以及包括Flipkart、Croma、Reliance Digital和Vijay Sales在内的零售合作伙伴处发售。谷歌还将为购买新腕带的用户提供为期三个月的免费Google Health高级会员服务。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>Ivan在TechCrunch负责全球消费科技动态报道。他常驻印度，此前曾就职于《赫芬顿邮报》（Huffington Post）和The Next Web等媒体。</p>
+<p>您可以通过发送电子邮件至im@ivanmehta.com或在Signal上发送加密消息至ivan.42与Ivan取得联系或核实信息。</p>
+<p>第二张门票享半价优惠：Disrupt大会的精彩体验理应共享。购买您的门票，携同事、合伙人或同行参会即可享受第二张半价优惠。通过建立人脉、积累势头并探索创业生态系统的未来动向，拓展更广阔的天地。</p>
+<p>AMD将以82亿美元收购李飞飞创立的World Labs<br />走红的AI智能体公司Instinct以100亿美元估值完成10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州Stargate数据中心发出不可抗力通知<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Vogue在Vogue World秀场上安排机器人走秀，但反响平平</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 06:20 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 22:32 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -429,40 +559,29 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-f-data-to-tech-companies-499a6ea33b625961" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1317" data-content-paragraphs="12" data-published-at="2026-09-29T22:18:35.000Z" data-time-source="publication">
+<div id="story-ideo-editor-for-creators-709734e8877bce2b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1325" data-content-paragraphs="1" data-published-at="2026-09-30T14:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:18</span>
+  <span class="news-meta-time">🕒 2026-09-30 22:30</span>
 </div>
 
-### [你的汽车及配套手机应用可能正在将各类数据拱手让给科技公司](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Your car and its mobile app are probably handing over all kinds of data to tech companies</div>
+### [Instagram为创作者推出AI视频编辑器](https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Instagram rolls out an AI video editor for creators</div>
 
-<div class="article-body" data-article-body="true"><p>配备 WiFi 和 GPS 等车联网技术的现代汽车收集了大量关于车主的数据。而美国东北大学（Northeastern University）研究人员开展的一项最新研究显示，这些数据并未得到保密。</p>
-<p>这一结论并不新鲜——此前已有大量调查和诉讼揭露了驾驶数据是如何被收集并与包括保险公司在内的第三方共享的。该研究揭示的重点在于，该问题的波及范围之广，以及消费者除了彻底不用车辆或其远程启动、解锁等便捷功能之外，几乎难以避开这一问题。</p>
-<p>研究人员与《消费者报告》（Consumer Reports）合作，测试了来自 17 家汽车制造商的 21 款较新车型，其中包括通用汽车旗下品牌凯迪拉克（Cadillac）和雪佛兰（Chevrolet），以及福特（Ford）、Lucid、Rivian、特斯拉（Tesla）、丰田（Toyota）等。他们还审查了 30 款配套手机应用程序，以“了解车联网生态系统对隐私的影响”。这项经过同行评议的研究将于本周发表。</p>
-<p>这对消费者来说并不是好消息，因为他们的数据正在被分享给包括 Adobe、ContentSquare、谷歌（Google）、微软（Microsoft）、Meta、Snap 和雅虎（Yahoo）在内的科技公司。</p>
-<p>在受测的 21 款汽车中，有 19 款将数据流量发送给了至少一家第三方；而在 30 款应用程序中，有 7 款将车辆识别码（VIN）、电子邮件、电话号码和精准地理位置等敏感数据提供给了与追踪和广告相关的第三方公司。</p>
-<p>研究结果表明，情况往往还会更进一步，多种形式的信息被发送给同一个第三方，这种机制使广告商和数据经纪商能够建立针对消费者的深度画像。这些画像对消费者来说尤其难以摆脱，因为它们会被出售给包括保险公司和银行在内的各类机构。</p>
-<p>当研究人员将配套应用程序与车辆配对时，暴露给广告和追踪公司的程度大致翻了一番。</p>
-<p>研究人员表示，他们已将这些调查结果反馈给各个汽车制造商，除了本田（Honda）之外，其他所有车企都推诿责任，且往往将责任推给消费者。（在获知这些结果后，本田确实做出了回应，改进了其数据收集做法，并命令其供应商 Amplitude 删除其收到的所有地理位置数据。）</p>
-<p>当你通过我们文章中的链接进行购买时，我们可能会获得一笔小额佣金。这不会影响我们的编辑独立性。</p>
-<p>交通编辑</p>
-<p>购买第二张通行证可享五折优惠。Disrupt 的体验本就该共同分享。获取你的入场证，并以五折优惠携同事、合伙人或同行一同参与。建立联系，凝聚动力，探索创业生态系统的未来动向，拓展更广阔的领域。</p>
-<p>AMD 将以 82 亿美元收购李飞飞创立的 World Labs<br />Crusoe 放弃在 AI 数据中心使用 Boom 涡轮机的 12.5 亿美元计划<br />Astra 和 Opus 刚通过了图灵的另一项测试<br />甲骨文对其位于新墨西哥州的星际之门（Stargate）数据中心发出不可抗力通知<br />Meta 为其 Muse AI 智能体打造了一款类似拓麻歌子（电子宠物）的可穿戴设备<br />《Vogue》在 Vogue World 秀场上让机器人走秀，但反响平平<br />Anthropic 称其生物实验室已取得重大发现</p></div>
+<div class="article-body" data-article-body="true"><p>Instagram周三宣布，正为其对标剪映（CapCut）的应用Edits引入一款AI视频编辑工具。<br />这款对话式AI助手旨在为创作者提供个性化反馈，而非泛泛的建议。<br />“该助手了解你账户的Instagram指标，例如关注数、播放量、视频完播率、点赞数和分享数，并将这些数据与你的评论区、Instagram上的热门趋势以及你受众的兴趣相结合，”Edits应用负责人布雷特·韦斯特维尔特（Brett Westervelt）在一篇博文中表示。“它能识别你长期以来的表现规律，并提供仅凭单一数据指标难以发现的可行洞察。”<br />韦斯特维尔特补充道，Edits在开发该工具的过程中与一组创作者展开了密切合作。<br />“我们始终听到的一点是：创作者想要一个能处理分析工作的工具，而不是代他们完成创作工作的工具，”他写道。“Edits助手为你负责深挖数据。创意层面的决定权仍然掌握在你手中。”<br />Meta最初于6月在一场仅限受邀创作者参加的活动中预览了Edits AI助手，当时该公司还表示正在开发Edits的桌面端应用。不过，Meta并非唯一开发此类工具的公司。YouTube上周也宣布正在开发一款对话式视频编辑工具，预计将于明年初推出。<br />从目前的已知信息来看，与YouTube相比，Meta的AI助手似乎采用了更为偏向数据分析驱动的策略，而YouTube则表示创作者将利用其AI来协助完成实际的剪辑流程。<br />创作者在使用该AI工具时会有一定额度限制，但可以通过订阅Meta One来解锁更多使用权限。<br />当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。<br />Amanda Silberling是TechCrunch的高级撰稿人，报道技术与文化的交汇点。她还曾为Polygon、MTV、《肯扬评论》（Kenyon Review）、NPR和《商业内幕》（Business Insider）撰稿。她与科幻作家Isabel J. Kim共同主持关于互联网文化的播客《Wow If True》。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语学士学位，并曾作为普林斯顿在亚洲项目研究员派驻老挝。<br />您可以通过发送电子邮件至 amanda@techcrunch.com 或通过Signal加密信息（@amanda.100）联系Amanda或核实其外联信息。<br />第二张门票立减50%。Disrupt活动体验旨在共同分享。购买您的门票，同行同事、合伙人或同行可享半价优惠。通过建立联系、汇聚动力以及探索初创生态系统的下一步方向，拓宽更多领域。<br />AMD将以82亿美元收购李飞飞的World Labs<br />爆火AI Agent创企Instinct以100亿美元估值完成10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文针对其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为其Muse AI助手打造了一款类似拓麻歌子的可穿戴设备<br />Vogue在Vogue World秀场上让机器人走秀，但反响平平</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 06:18 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 22:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -472,83 +591,45 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-up-to-468-miles-of-range-f7df048676ed882b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1477" data-content-paragraphs="12" data-published-at="2026-09-29T22:01:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:01</span>
-</div>
-
-### [宝马全新改款i3纯电续航最高达468英里](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
-<div class="original-title-sub"><span class="orig-tag">原文</span> BMW’s revamped i3 boasts up to 468 miles of range</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="宝马全新改款i3纯电续航最高达468英里" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将添加到您的每日电子邮件摘要和主页推送中。<br />查看所有交通类资讯<br />i3 50 xDrive 将于 2027 年第一季度上市，起售价为 62,850 美元。<br />该作者的文章将添加到您的每日电子邮件摘要和主页推送中。<br />查看 Andrew J. Hawkins 的全部文章</p>
-<p>当宝马最初宣布将基于“新世代”（Neue Klasse）平台把 i3 重新构想为一款纯电动四门轿车时，遗漏了诸如电池容量、续航里程和售价等诸多重要细节。如今，这家德国汽车制造商终于开始填补有关 i3 的空白。</p>
-<p>首先是价格。宝马表示，2027款 i3 50 xDrive 起售价为 61,500 美元，外加 1,350 美元的目的地运费，使其牢牢锁定在与梅赛德斯-奔驰 C 级相竞争的细分市场。（早在今年 3 月，我们只能大致推测其起售价在 60,000 美元左右。）我们此前也无法确定这款全新电动车何时会在美国上市；如今，宝马确认将于 2027 年第一季度正式推出。</p>
-<p>宝马还公布了有关 i3 电动机的新细节。该车配备双电机——后轴搭载一台励磁同步电机（EESM），最大功率 322 马力，峰值扭矩 321 磅-英尺；前轴搭载一台异步电机，最大功率 165 马力，峰值扭矩 188 磅-英尺——综合输出功率达 463 马力，综合扭矩为 476 磅-英尺。</p>
-<p>宝马确认将于 2027 年第一季度正式上市。</p>
-<p>作为主驱动轴的励磁同步电机（EESM），通过电能而非永磁体为定子外壳和转子内部旋转部件供电。逆变器则充当整个系统的大脑，负责将电池的直流电转换为电动机所需的交流电，调节电磁铁，并监控性能以确保电机尽可能高效地运行。</p>
-<p>新闻稿中引用的续航数据相当令人瞩目。今年 3 月，我们曾预测其电池续航里程约为 440 英里，但宝马表示，根据 EPA 测试标准，实际预估数据将接近 468 英里。宝马可能是听闻了 2027款梅赛德斯 EQS 在 WLTP 工况下高达 925 公里（575 英里）的惊人预估续航（WLTP 通常比 EPA 预估值宽松 10% 到 20% 左右），并认为自己能以低得多的价格做到近乎相仿的表现。坦白说，这招棋下得相当不错。</p>
-<p>令人遗憾的是，宝马对其电池容量仍守口如瓶——不过官方确认该车采用了宝马“第六代”（Gen6）高压电池，由直径 46 毫米、高度 95 毫米的大圆柱锂离子电芯构成。相比第五代电池所采用的方形电芯，新型圆柱电芯的能量密度提升了 20%。</p>
-<p>宝马 i3 还具备其他几项实用功能，包括支持车对负载（V2L）和车对家庭（V2H）的双向充电能力、在驾驶员接近已知充电桩时自动开启的智能充电口盖，以及可在 10 家不同充电运营商处实现即插即充（Plug &amp; Charge）的自动充电功能。</p>
-<p>随着豪华车企争先恐后地将更多 AI 功能塞进车内，宝马也将亚马逊的 Alexa 整合到了 i3 中。这款经历多次推迟的大语言模型版 Alexa 能够处理自然、对话式的指令，搜索网络信息，或自然地控制空调与车窗。（宝马自 2022 年起就一直谋求将这款由 AI 驱动的新版 Alexa 引入旗下车型，但由于亚马逊漫长的研发周期而一再延误。）</p>
-<p>但如果您追求更极致的性能，宝马还将提供 i3 M60 xDrive——这是一款高性能车型，配备 M 专属灯光与标识设计，以及 21 英寸 Style 1067M 空气动力学轮毂。该版本将于 2027 年的某个时间推出，售价尚未公布。</p>
-<p>查看所有电动汽车<br />每日免费为您呈递最重要的焦点新闻。<br />这是原生广告标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 06:01 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--doubles-valuation-to-4b-7414811d518ee6cb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="818" data-content-paragraphs="10" data-published-at="2026-09-29T21:51:36.000Z" data-time-source="publication">
+<div id="story--techcrunch-disrupt-2026-d6170f881b8aebc8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2206" data-content-paragraphs="17" data-published-at="2026-09-30T14:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 05:51</span>
+  <span class="news-meta-time">🕒 2026-09-30 22:30</span>
 </div>
 
-### [a16z支持的EliseAI完成3.5亿美元融资，估值翻倍至40亿美元](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> a16z-backed EliseAI raises $350M, doubles valuation to $4B</div>
+### [Cerebras Systems 首席执行官安德鲁·费尔德曼将在 TechCrunch Disrupt 2026 上探讨 AI 能否持续扩展](https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026</div>
 
-<div class="article-body" data-article-body="true"><p>人工智能初创公司 EliseAI 于周二宣布，已按 40 亿美元的估值完成 3.5 亿美元融资，这一估值是其去年 8 月完成 E 轮融资时的两倍。</p>
-<p>本轮最新融资由 Andreessen Horowitz 和 Bessemer Ventures 联合领投。EliseAI 成立于 2017 年，致力于为房地产住房及医疗健康领域的企业实现行政与运营工作自动化。该公司表示，全美每 6 套公寓中就有 1 套正在使用其软件，并于今年夏天宣布其年度经常性收入（ARR）已突破 2 亿美元。</p>
-<p>本月早些时候，Elise 宣布推出名为 Apollo 的 AI“队友”，用于协助处理 EliseAI 平台内部的各项任务。联合创始人兼首席执行官敏娜·宋（Minna Song）在接受 TechCrunch 采访时表示：“它原生内置在已经负责管理租赁、维修和续约的同一平台之中，因此它可以贯穿并协助物业团队中的每一个角色。”</p>
-<p>她还表示，在医疗健康业务方面，EliseAI 协助专科医生群体实现患者相关文书工作的自动化，“涵盖从首次来电呼入到转诊、预约排期、保险核验、病历准备以及随访跟踪的全流程，确保没有任何疏漏。”她说，公司之所以将目光聚焦在住房与医疗健康领域，是因为这两者属于“美国家庭最大的几项支出”。</p>
-<p>第二张通行证立减 50%。Disrupt 的精彩体验理应共享。购买您的通行证，携带同事、合伙人或同行即可享受半价优惠。通过拓展人脉、积聚势头，深入探索初创生态系统的下一步趋势，开拓更多视野。</p>
-<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的精选报道。</p>
-<p>TechCrunch Mobility 是您获取交通出行领域新闻与前瞻洞察的理想平台。</p>
-<p>初创企业是 TechCrunch 的核心，获取每周为您派送的重磅报道。</p>
-<p>为行业先锋与决策者提供开启新一天所需的资讯。</p>
-<p>提交您的电子邮件即代表您同意我们的《条款》与《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>AI 模型的性能正在持续提升。但每一次飞跃都需要更多的算力、能源和基础设施支持。这种模式究竟还能走多远？</p>
+<p>过去十年中，Cerebras Systems 一直在挑战 AI 计算背后的一个基本假设：即日益强大的 AI 必须依赖传统的芯片架构。该公司围绕晶圆级计算（wafer-scale computing）构建了自身路径，如今通过本地部署系统及其云平台对外提供 AI 算力。</p>
+<p>在 TechCrunch Disrupt 2026 大会上，Cerebras Systems 首席执行官兼联合创始人安德鲁·费尔德曼（Andrew Feldman）将登上 Disrupt 舞台，带来题为“AI 能否持续扩展？”（Can AI Keep Scaling?）的演讲。他将深入探讨对算力、能源和基础设施日益增长的需求，Cerebras 如何以不同方式应对这些瓶颈限制，以及如果当今的 AI 硬件达到极限，未来将会如何演变。</p>
+<p>想了解究竟是什么决定了 AI 的扩展上限吗？立即锁定您的 Disrupt 门票，亲耳聆听一位正在攻关 AI 扩展难题的创始人分享见解。携联合创始人、同事或同行购票可享半价优惠。</p>
+<p>在围绕计算基础设施创立多家企业多年之后，安德鲁·费尔德曼于 2015 年联合创立了 Cerebras。在创办 Cerebras 之前，他联合创立并领导了主打节能微型服务器的初创公司 SeaMicro，该公司于 2012 年被 AMD 收购。此前，他曾在 Force10 Networks 和 Riverstone Networks 担任领导职务。</p>
+<p>在 Cerebras，费尔德曼与联合创始人共同攻关了一个长期被认为不切实际的难题：将晶圆级计算推向市场。Cerebras 没有选择将整块硅晶圆切割成独立的单个芯片，而是研发出了一款直接构建在晶圆本身的处理器，这是一种专为严苛的 AI 工作负载而设计的架构。</p>
+<p>如今，随着对 AI 算力需求的攀升，Cerebras 正在扩大该方案的应用规模。该公司在今年 5 月的 IPO 中募集了 55 亿美元，并与 OpenAI 签署了一项多年期协议，计划在 2026 年至 2028 年间部署 750 兆瓦的 Cerebras 系统。今年 8 月，Cerebras 推出了其最新一代晶圆级 AI 基础设施 CS-4。</p>
+<p>像 Cerebras 这样的路径能否提供日益强大的 AI 所需的算力——而其背后的基础设施又能否跟得上脚步？立即锁定您的 Disrupt 通行证，第二张可享半价，聆听一位用十余年时间押注于颠覆性 AI 硬件构建路径的企业家的真知灼见。</p>
+<p>单靠性能更强大的处理器无法解决扩展问题。这些系统同样需要数据中心、电力、散热和制造产能的支撑。</p>
+<p>Cerebras 目前已经在直面这一挑战。今年 8 月，该公司报告称其已有超过 600 兆瓦的数据中心容量处于投入使用状态或已签署交付合同（将于 2027 年底前交付），并表示其在 2026 年期间将制造产能提升十倍以上。该公司还计划在今年上线其首个欧洲数据中心容量，并在 2027 年底前将其在欧洲的容量扩大至 200 兆瓦。</p>
+<p>AI 的扩展不仅仅关乎设计出速度更快的处理器。它还需要足够的物理基础设施来让这些算力真正运转起来。</p>
+<p>早在当今 AI 基础设施热潮兴起之前，Cerebras 就已深耕晶圆级计算，如今正随着 AI 需求的加速爆发而全面扩大其计算与制造能力。</p>
+<p>在 Disrupt 大会上，费尔德曼将探讨对算力、能源和基础设施日益增长的需求对 AI 未来意味着什么，以及如果传统硬件无法再跟上步伐会发生什么。对于任何从事 AI 研发、投资或部署的人来说，这都是一次绝佳机会，可以倾听一位创始人如何针对该行业最大的瓶颈之一尝试探索截然不同的解决之道。</p>
+<p>他的演讲是本届 Disrupt 大会覆盖六大行业舞台、圆桌会议和分组研讨的 200 多场活动之一。大会将于 10 月 13 日至 15 日在旧金山莫斯康西馆（Moscone West）举行。届时预计将有超过 10,000 名创始人、投资者、运营人员和科技领袖齐聚一堂，并汇集 250 多位演讲嘉宾及 300 多家参展初创企业。除既定议程外，现场的配对对接、交易撮合与商务社交，也将为与会者提供与塑造行业未来的创始人、投资人和开拓者建立联系的良机。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>购买第二张通行证可享半价优惠。Disrupt 的体验理应与人分享。获取您的通行证，携同事、合伙人或同行参会即可享受半价优惠。通过建立人脉、凝聚势头并探索创业生态系统的下一个前沿，拓展更广阔的视野。</p>
+<p>AMD 将以 82 亿美元收购李飞飞创立的 World Labs<br />爆火 AI 智能体 Instinct 以 100 亿美元估值完成 10 亿美元 C 轮融资<br />Crusoe 放弃在 AI 数据中心使用 Boom 涡轮机的 12.5 亿美元计划<br />Astra 和 Opus 刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta 为其 Muse AI 智能体打造了一款类似电子宠物的可穿戴设备<br />Vogue 在 Vogue World 秀场上派出机器人走秀，大众反响平平</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 05:51 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 22:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -558,115 +639,49 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-hacking-suspect-arrested-9b5562e510053561" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="837" data-content-paragraphs="1" data-published-at="2026-09-29T21:50:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 05:50</span>
-</div>
-
-### [黑客组织ShinyHunters疑似头目在荷兰被捕](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Suspected ShinyHunters leader arrested in the Netherlands</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="黑客组织ShinyHunters疑似头目在荷兰被捕" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的推送将添加到您的每日电子邮件摘要和主页信息流中。<br />这名24岁男子被指与黑客组织ShinyHunters有关，该组织此前声称对针对美国联邦调查局（FBI）、Rockstar Games、Ticketmaster等多起重大网络攻击负责。<br />该作者的推送将添加到您的每日电子邮件摘要和主页信息流中。<br />查看Emma Roth的所有文章<br />荷兰警方表示，他们逮捕了一名24岁的阿姆斯特丹男子，该男子涉嫌关联黑客组织ShinyHunters。该黑客组织曾宣称对Ticketmaster、Rockstar Games以及近期针对FBI的高调攻击负责。荷兰当局在新闻稿中表示，他们于9月15日逮捕了该嫌疑人——路透社此前报道称，就在被捕几天后，该黑客组织声称攻破了FBI的网站并窃取了员工数据。<br />荷兰当局与FBI均未公布嫌疑人的姓名，但据Krebs on Security和路透社报道，警方逮捕的是佩平·范德斯塔普（Pepijn van der Stap），这名荷兰男子曾于2023年因数据盗窃和敲诈勒索被定罪。据Krebs on Security报道，范德斯塔普去年出狱后加入了荷兰网络安全公司Neo Security。ShinyHunters向路透社表示，范德斯塔普与该组织“没有任何关联”。<br />FBI网络部门助理局长布雷特·莱瑟曼（Brett Leatherman）称该嫌疑人是该组织的头目之一，同时向其余成员发出警告。“你们在这个团伙里待得越久，我们对你们的了解就越多。你们知道怎么找到我们，我们也知道怎么找到你们，”莱瑟曼在周二发布的一段视频中表示，“我建议你们趁现在还有得选，主动自首联络。”<br />据荷兰警方称，这名24岁男子还涉嫌“企图煽动实施两起谋杀”。FBI局长卡什·帕特尔（Kash Patel）在社交平台X上发帖称：“就在我们发声的同时，FBI团队正在与合作伙伴积极合作，根据此次逮捕行动在正在进行的调查中获取并执行更多线索。”<br />免费获取每日重要新闻摘要。<br />原生广告标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 05:50 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ipedia-ai-updating-again-21aea061ef987697" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="924" data-content-paragraphs="10" data-published-at="2026-09-29T21:49:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 05:49</span>
-</div>
-
-### [埃隆·马斯克旗下AI驱动的Grokipedia恢复内容更新](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Elon Musk&#39;s AI-powered Grokipedia is updating again</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="埃隆·马斯克旗下AI驱动的Grokipedia恢复内容更新" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>在暂停数月后，Grokipedia 再次显现出活跃迹象。</p>
-<p>该作者的相关文章将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>查看杰伊·彼得斯（Jay Peters）的所有文章</p>
-<p>Grokipedia 是由 SpaceXAI 推出的 AI 驱动在线百科全书。在停摆数月后，该平台似乎正重新开始更新词条。今年 8 月，Lawfare 曾报道 Grokipedia 上的词条自 4 月以来就未再审核过修改内容，但该平台的实时更新页面现在显示出多个近期页面变动——不过在笔者撰稿时，其中许多条目仅附有一条注释，写着“重新核对所有参考文献和来源”。</p>
-<p>该网站似乎是在近期才重新活跃起来的。例如，前总统贝拉克·奥巴马（Barack Obama）的词条页面显示，该页面在两天前经过了“由 Grok 进行的事实核查”；而埃隆·马斯克（Elon Musk）的词条则是在笔者撰稿期间、也就是过去一小时内完成了事实核查。不过，笔者从奥巴马页面点击进入的火奴鲁鲁（Honolulu）页面上一次事实核查还是在 7 个月前，因此看来并非所有页面都进行了近期扫描。</p>
-<p>在撰写本文期间，笔者对《战争机器：E日》（Gears of War: E-Day）页面提交了一项更新建议，注明该游戏的 10 月 6 日发售日期，Grokipedia 接受了这一建议，目前已列出该日期。笔者还提交了一篇关于 Meta 旗下 Muse 聊天机器人的词条创建请求，该请求目前处于“审核中”状态。</p>
-<p>SpaceXAI 未立即回复置评请求，而埃隆·马斯克自 2 月以来也尚未在 X 平台上发布过关于 Grokipedia 的帖子。（大约一年前，马斯克曾声称 Grokipedia 将是“对维基百科的巨大飞跃”。）不过，X 和 SpaceXAI 的设计主管本吉·泰勒（Benji Taylor）上周在社交平台发帖谈到了 Grokipedia，称“我们并没有忘记 Grokipedia”，“v0.2 版本将比以往任何时候都更好”（尽管技术上来说，v0.2 版本早在 11 月就已上线）。</p>
-<p>每日免费获取最重要的精选新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 05:49 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-o-scale-cybercab-optimus-7e313f551a3ec8fa" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="665" data-content-paragraphs="10" data-published-at="2026-09-29T21:20:12.000Z" data-time-source="publication">
+<div id="story-increases-with-ai-agents-32de5b12bdde4fb9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1903" data-content-paragraphs="21" data-published-at="2026-09-30T14:27:11.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 05:20</span>
+  <span class="news-meta-time">🕒 2026-09-30 22:27</span>
 </div>
 
-### [特斯拉获得300亿美元新增信贷额度，拟扩大Cybercab与Optimus生产规模](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus</div>
+### [随着AI智能体对持久化基础设施需求增加，Restate获2000万美元融资](https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Restate lands $20M as the need for durable infrastructure increases with AI agents</div>
 
-<div class="article-body" data-article-body="true"><p>特斯拉已获得 300 亿美元的新增信贷额度，可用于协助扩大其目前正在研发的新产品规模：Cybercab 自动驾驶出租车（robotaxi）、Optimus 机器人以及特斯拉 Semi 电动重卡。</p>
-<p>该公司周二宣布，花旗银行（Citibank）已同意提供一笔 200 亿美元的三年期延迟提取定期贷款机制。富国银行（Wells Fargo）也签署了一笔 80 亿美元的五年期循环信贷机制，以及一笔期限为 364 天的 20 亿美元循环信贷机制。</p>
-<p>特斯拉在一份监管申报文件中表示，今年不打算动用这些贷款额度。该公司此前已预计 2026 年的资本支出将至少达到 250 亿美元。特斯拉在今年第二季度末拥有约 90 亿美元的债务，以及超过 400 亿美元的大量现金（及投资）。</p>
-<p>这三款新产品都需要新建生产线。就 Semi 和 Optimus 机器人而言，该公司采取了建设全新专用工厂的方案。</p>
-<p>第二张通行证享五折优惠——Disrupt 大会的精彩体验值得一同分享。获取您的通行证，即可以半价携同事、合伙人或同行一同参会。通过拓展人脉、汇聚动能并探索初创生态圈的未来趋势，覆盖更多商业机遇。</p>
-<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的深度报道。</p>
-<p>TechCrunch Mobility 是您获取交通领域新闻与前瞻洞察的目的地。</p>
-<p>初创企业是 TechCrunch 的核心，欢迎每周订阅获取我们的精选报道。</p>
-<p>为行业领军人物和决策者提供开启新一天所需的关键资讯。</p>
-<p>提交您的电子邮件即表示您同意我们的条款及隐私声明。</p></div>
+<div class="article-body" data-article-body="true"><p>2022年斯蒂芬·埃文（Stephen Ewen）联合创立Restate以提供持久化工作流基础设施时，他未曾预料到这类产品在管理AI智能体（AI agent）流程方面会变得如此有价值。</p>
+<p>这家总部位于柏林的初创公司最初旨在构建一个执行引擎，使多步骤工作流能够抵御系统崩溃和网络中断——这一特性恰好契合了智能体时代的需求。</p>
+<p>“它最初绝非专为智能体打造，但碰巧与智能体现露出的所有难题完美契合，”埃文告诉TechCrunch。</p>
+<p>确保持久性对于智能体工作流尤为关键，因为与传统软件相比，智能体运行时间更长，且其路径具有固有的不可预测性。</p>
+<p>“你必须确保精确跟踪自己所做的一切，以实现可重现性并获得一致的结果，”埃文表示。</p>
+<p>AI智能体的爆发为这家初创公司提供了强劲的东风。埃文称，在过去几个月中，Restate已签下多笔六位数和七位数的客户合同。这股势头促成Restate完成了由Singular领投、Redpoint Ventures和Capital One Ventures跟投的2000万美元A轮融资。</p>
+<p>这笔新资金将帮助Restate向持久化基础设施领域的巨头Temporal发起挑战。成立于2019年的Temporal在本月早些时候宣布以125.5亿美元的估值完成5.5亿美元E轮融资。</p>
+<p>尽管作为这项日益重要技术的体量较小的提供商，Restate已成功吸引了包括“氛围编码（vibe coding）”平台Replit在内的知名客户。</p>
+<p>该公司没有将自己的持久化执行引擎构建在外部数据库之上，而是自主开发了存储、复制和冗余层。埃文表示，这种架构使Restate异常迅捷且轻量。</p>
+<p>尽管许多公司倾向于将持久化引擎用于所谓重度级（heavy-weight）工作流，但Restate正试图通过其更高效、更具成本效益的系统来改变这一现状。</p>
+<p>埃文表示，除了为AI公司提供持久性支持外，这家初创公司还在为包括金融领域在内的财富500强客户提供服务。</p>
+<p>埃文指出，尽管Restate可以应用于不同的用例，但客户都有着相同的需求——确保一旦在流程中途出现故障，系统能够自动找到自我恢复的方法。</p>
+<p>在创立Restate之前，埃文是知名开源流处理框架Apache Flink的联合创建者之一，随后担任了推进该项目商业化的Data Artisans公司的首席技术官（CTO）。阿里巴巴于2019年收购了Data Artisans，并将其更名为Ververica，埃文在此继续担任了三年CTO。他与来自Data Artisans及Ververica的前同事伊戈尔·希尔曼（Igal Shilman）和蒂尔·罗曼（Till Rohrmann）共同创立了Restate。</p>
+<p>该公司计划利用新资金组建市场拓展团队、招聘更多工程师，并扩建其位于旧金山湾区的办公室，以便更贴近当前的众多客户与潜在客户。</p>
+<p>尽管如此，埃文坚信Restate的能力很快将成为传统科技公司之外的企业的必备工具。</p>
+<p>“如果我们快进到几年后，它将成为像数据库一样的工具之一，我认为几乎任何公司——无论规模和形态如何——都会有其应用场景，”他说。</p>
+<p>当您通过我们文章中的链接购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>玛丽娜·特金（Marina Temkin）是TechCrunch的风投和初创企业记者。在加入TechCrunch之前，她曾为PitchBook和《Venture Capital Journal》撰写关于风投的报道。在职业生涯早期，玛丽娜曾担任财务分析师，并获得了特许金融分析师（CFA）持证人资格。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或在Signal上通过加密信息 +1 347-683-3909 联系或验证来自玛丽娜的交流。</p>
+<p>第二张门票立减50%：Disrupt的体验应当共同分享。获取您的门票，并以五折优惠携同同事、合作伙伴或同行参会。通过建立人脉、积累势头并发现初创生态系统的下一站，拓宽更多领域。</p>
+<p>AMD将以82亿美元收购李飞飞的World Labs<br />爆火的AI智能体Instinct以100亿美元估值筹集10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为其Muse AI智能体制作了一款类似拓麻歌子的可穿戴设备<br />《Vogue》在Vogue World让机器人走上T台，但人们反应平平</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 05:20 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 22:27 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -676,49 +691,46 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-m-at-the-app-store-model-352a298aea68a141" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2519" data-content-paragraphs="21" data-published-at="2026-09-29T20:15:47.000Z" data-time-source="publication">
+<div id="story-echcrunch-disrupt-2026-2-bdb08491ccae57ea" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1555" data-content-paragraphs="18" data-published-at="2026-09-30T14:15:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 04:15</span>
+  <span class="news-meta-time">🕒 2026-09-30 22:15</span>
 </div>
 
-### [OpenAI最新功能直指传统应用商店模式](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI’s latest features take direct aim at the app store model</div>
+### [参展仅剩3天：在TechCrunch Disrupt 2026将曝光度转化为您的下一个机遇](https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> 3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026</div>
 
-<div class="article-body" data-article-body="true"><p>周二举行的OpenAI开发者日（Dev Day）的焦点或许集中在其名为“Dots”的智能体助手或其全新AI模型上，但综合来看，这家AI公司发布的所有内容都指向了一个更宏大的计划：颠覆传统的应用商店模式。综观全局，今天的发布让ChatGPT本身成为了人类与AI智能体发现、启动和使用软件的平台。</p>
-<p>此外，OpenAI还推出了一种让用户随身携带其ChatGPT身份标识的途径，同时允许他们在第三方应用中使用现有的AI额度。</p>
-<p>这并非OpenAI首次尝试让应用程序在其熟悉的聊天机器人界面中运行，但目前的愿景相比以往显得更加成熟和具体。</p>
-<p>首先，该公司正在将ChatGPT本身打造成一个启动应用的入口平台。据该公司称，该聊天机器人目前拥有12亿周活跃用户，但它尚未充分发挥其作为寻找和使用AI适配应用之发现机制的潜力。</p>
-<p>为了改变这一现状，当ChatGPT识别出某款特定应用有助于用户完成任务时，它便会在对话流程中主动给出应用建议。自此，用户将能够在ChatGPT内直接连接该应用并开始使用。</p>
-<p>这也得益于ChatGPT插件架构的扩展，该架构目前已支持扩展程序（extensions）。</p>
-<p>这使得应用开发者能够构建交互式面板，让用户在与ChatGPT聊天的同时使用其工具。这实质上是将用户过去通过网页或原生桌面及移动应用使用的应用与服务，转变为直接在ChatGPT内部操作的形态。</p>
-<p>加入该系统的开发者可以通过ChatGPT构建其应用的AI原生版本，如同他们通过开放网络或移动应用商店构建应用一样。随着越来越多的软件发现发生在AI聊天之中，这是一个不容错过的分发渠道。</p>
-<p>用户也有动力使用这一渠道，因为“使用ChatGPT登录”（Sign in with ChatGPT）将允许他们带走并共享其AI额度。（OpenAI表示，目前该项目已拥有16家首发合作伙伴，包括Cognition的Devin、Notion、Vercel、T3、OpenClaw和Dactyl，并计划很快增加更多合作伙伴。）</p>
-<p>在OpenAI开发者日的演示中，该公司展示了其自研的全新会议应用如何在ChatGPT内部运行，展示了来自用户日历的即将召开的会议。在此，用户可以轻松选择使用AI记录会议纪要，并在会议结束时接收后续跟进事项的总结。</p>
-<p>在另一个示例中，用户可以使用Figma和Adobe等专注于设计的应用来修改当前项目，或者调用通常需要独立应用才能提供的特定功能。</p>
-<p>这些应用还可以在ChatGPT目前生成的轻量化网站中与同事等其他人共享。通过这些ChatGPT网站，用户的同事可以使用他们自己的凭证和权限登录应用，从而享受针对个人定制的软件体验。</p>
-<p>OpenAI还谈到了对开发者提交插件审核流程的改进——如果你愿意，可以将其视作OpenAI版本的苹果App Review审核机制。现在，开发者将能够跟踪审核进度、查看需要修复的问题、申请人工审核，并在无需重新提交整个申请的情况下更新其插件工具。</p>
-<p>该公司还宣布了一个全新的企业应用市场，合作伙伴可以在其中推广其服务。上线初期，已有30多家合作伙伴通过OpenAI Marketplace提供应用，其中包括Adobe、Figma、Sierra、Decagon、HubSpot、Salesforce、ServiceNow、Harvey、Legora、Palo Alto Networks、CrowdStrike、Baseten等。OpenAI表示，符合条件的客户可以将部分OpenAI消费承诺抵扣用于经批准的合作伙伴软件。</p>
-<p>除了将ChatGPT转变为一个供用户直接连接应用的发现工具外，OpenAI对智能体的拥抱正在悄然将用户推向一个新时代：他们不再需要费心思考该使用哪款应用或为什么使用，而是转为依赖其AI智能体的建议。</p>
-<p>随着名为Dots的自主AI智能体的推出，智能体将代你浏览网络，并在其自有的云基础设施中执行需要完成的任务。每个Dot都拥有专属的云计算机和浏览器，并且可以使用已连接的应用。相比之下，在旧模式下，想要管理某种项目（如搭建网站或协调会议日程）的用户必须将不同的应用下载到电脑或手机上来实现这些目标。</p>
-<p>现在，用户只需告诉AI智能体他们想要完成什么，智能体就会直接代为执行。在某些情况下，智能体的工作可能需要调用另一个AI模型或特定应用程序。但这是由智能体主动呈现给用户的，而不是像以前那样由用户自己去寻找适合该工作的特定工具。</p>
-<p>正如OpenAI所解释的，Dots将能够连接其目前已拥有超过4000款应用的应用生态系统。</p>
-<p>更重要的是，Dots具备主动性，可能会主动介入针对某个项目或漏洞提供帮助，或者处理用户遗忘的任务——但所有操作均须经过用户批准。Dots将在后台以只读模式使用已连接的应用来执行OpenAI所称的“前瞻性调研”（proactive research），但用户仍对其采取的操作拥有控制权。</p>
-<p>值得注意的是，OpenAI今天并未就此透露任何规划，而是专注于构建发现、分发和界面组件以抗衡传统应用商店模式，并辅以身份层以及共享用户现有ChatGPT AI额度的机制。在周二的活动中，它并没有宣布任何可与传统应用商店经济层相媲美的计费或收入分成系统规划。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。<br />消费新闻编辑<br />第二张通行证享五折优惠Disrupt大会的精彩体验理应与他人分享。购买您的通行证，即可以半价携同事、合作伙伴或同行参会。通过建立人脉、汇聚动能，并探索初创生态系统的下一站，拓宽更多业务版图。<br />AMD将以82亿美元收购李飞飞的World Labs<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra与Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为其Muse AI智能体制作了类似电子宠物的可穿戴设备<br />《Vogue》在Vogue World让机器人走上T台，但人们反应平平<br />Anthropic称其生物实验室已获得重大发现</p></div>
+<div class="article-body" data-article-body="true"><p>关键时刻到了：在TechCrunch Disrupt 2026上向逾10,000名创始人、投资者、业务运营人员以及科技领袖展示您初创企业的机会仅剩3天。展位预订将于太平洋时间10月2日星期五晚上11:59截止，这是您在全球初创生态核心舞台上亮相的最后机会。</p>
+<p>一旦错过截止日期，博览会展厅将不再等您。您的竞争对手、潜在投资者、客户以及媒体成员都将齐聚旧金山，去发掘新公司、建立人脉连接，并决定哪些初创企业值得关注。如果您错过了这个窗口期，就只能等到明年才有机会将产品摆上这个展台。</p>
+<p>这是您在Disrupt大会上将初创企业推向逾10,000名创始人、投资者、运营人员和科技领袖面前的最后良机。大会将于10月13日至15日在旧金山莫斯康西馆（Moscone West）举行。他们的到场是为了寻找值得支持的初创企业、值得使用的产品、值得合作的公司以及值得关注的技术。</p>
+<p>请确保您的初创企业成为他们看到的焦点之一。</p>
+<p>博览会展厅是Disrupt人流量最大的区域，为您的团队提供整整三天时间，将曝光转化为实质性的业务交流。您的展台将让您直接面对前来探寻未来趋势的客户、投资者、合作伙伴及其他决策者。</p>
+<p>充分利用这三天时间：</p>
+<p>售价12,500美元的参展套餐包括：为期三天的6英尺×30英寸展台、10张团队通行证、潜在客户挖掘工具、网站及App品牌展示、媒体联络名单权限、银级赞助商品牌曝光等。创始人还可以获得包括Deal Flow Café和投资人-创始人对接会在内的专属机会。</p>
+<p>“我们非常喜欢TechCrunch Disrupt，因为这里充满活力、生机勃勃，非常适合我们与社区展开协作。”——初创企业创始人，Disrupt 2025</p>
+<p>亮相现场的初创企业才能获得开启对话的机会。而受到关注的那些企业，则能将这些对话转化为潜在客户、合作伙伴关系、实际客户以及潜在投资。</p>
+<p>不要等到十月才后悔自己的初创企业没能在展厅占有一席之地。您的竞争对手、客户和潜在投资者届时都将亲临现场。</p>
+<p>您还有3天时间。请在太平洋时间10月2日晚上11:59之前，让您的初创企业成功入局。</p>
+<p>TechCrunch Disrupt 2026将在六大行业舞台上举办200多场分会，汇聚250多位顶尖科技领袖，深入探讨塑造人工智能、金融科技、机器人、基础设施等领域的思想与战略。除舞台演讲外，大会还提供AI智能撮合、一对一会面、互动分会以及人脉拓展机会，旨在帮助您结识投资者、客户、合作伙伴、协作者以及能够推动您业务向前发展的关键人物。</p>
+<p>随后步入博览会展厅，发掘300多家初创公司以及竞相定义未来的前沿产品。</p>
+<p>无论您是想展示自己的研发成果，还是在寻找下一步该开发、支持或采购什么，Disrupt都能将您所需的人脉和机遇汇集在同一屋檐下。</p>
+<p>立即购买您的Disrupt门票，确保您在10月13日至15日亲临现场。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>第二张通行证立减50%<br />Disrupt的体验应当与人共享。购买您的通行证，即可以半价携同一位同事、合伙人或同行参会。共同结识更多人脉、积蓄发展势头，并在初创生态中探索未来先机。</p>
+<p>AMD将以82亿美元收购李飞飞的World Labs<br />走红的AI智能体Instinct以100亿美元估值完成10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州星际之门（Stargate）数据中心发出不可抗力通知<br />Meta为其Muse AI智能体制作了一款类似拓麻歌子的可穿戴设备<br />Vogue在Vogue World秀场上让机器人走秀，但观众并不买账</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 04:15 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 22:15 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -728,132 +740,74 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--round-at-1-4t-valuation-22cdc3a1949b274c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="748" data-content-paragraphs="12" data-published-at="2026-09-29T19:52:37.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 03:52</span>
-</div>
-
-### [据报道 OpenAI 正洽谈以 1.4 万亿美元估值进行 300 亿美元融资](https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI reportedly in talks to raise $30B round at $1.4T valuation</div>
-
-<div class="article-body" data-article-body="true"><p>据彭博社周二报道，OpenAI 正与投资者洽谈以约 1.4 万亿美元的估值进行至少 300 亿美元的 IPO 前融资。</p>
-<p>在 ChatGPT 制造者预计于明年登陆公开市场之前，投资者正迫切希望向其注入更多资金。报道称，尽管 Anthropic 在今年年初一度超越了 OpenAI，但近期对编程等关键领域的战略重新聚焦推动了其年化营运收入自 7 月以来跃升 70%，在 8 月达到 400 亿美元。</p>
-<p>该公司此前于 3 月以 8520 亿美元的估值融资 1220 亿美元。那轮融资原定为其 IPO 前的最后一轮私募融资，直到最近，外界还一直预计其将于今年进行首次公开募股。然而，首席执行官萨姆·奥尔特曼（Sam Altman）现已排除了在 2026 年上市的可能性，以将人工智能安全置于首位。</p>
-<p>“我认为，承受在十年末有 10% 的几率毁灭所有人的风险是不可接受的，”针对安全研究人员关于 AI 对人类构成生存风险的警告，他最近对《财富》杂志如是表示。</p>
-<p>彭博社称，如果这笔新融资得以实现，将作为通往 IPO 的过桥轮融资。</p>
-<p>OpenAI 未回应 TechCrunch 的置评请求。</p>
-<p>购买第二张门票立减 50%：Disrupt 的参会体验理应与人分享。获取您的通行证，以半价优惠携同事、合作伙伴或同行参会。通过建立联系、集聚势头以及发掘初创生态的下一处风向，拓展更多领域。</p>
-<p>每个工作日和周日，您都可以获取 TechCrunch 的精选报道。</p>
-<p>TechCrunch Mobility 是您获取交通出行新闻与洞察的目的地。</p>
-<p>初创公司是 TechCrunch 的核心，获取我们每周推送的重磅报道。</p>
-<p>为行业弄潮儿提供开启新一天所需的资讯。</p>
-<p>提交您的电子邮件，即表示您同意我们的条款和隐私声明。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 03:52 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--1-sol-on-amazon-bedrock-59d7cf404ebfe16a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2539" data-content-paragraphs="20" data-published-at="2026-09-29T19:34:14.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 03:34</span>
-</div>
-
-### [通过 Amazon Bedrock 上的 GPT-6.1 Sol，将接近 Astra 水准的智能引入日常工作](https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22090-1.png" alt="通过 Amazon Bedrock 上的 GPT-6.1 Sol，将接近 Astra 水准的智能引入日常工作" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>GPT-6.1 Sol 现已在 Amazon Bedrock 上全面正式推出（GA），为编码、计算机操作以及频繁运行的专业工作负载带来更强的推理能力。</p>
-<p>AI Agent（人工智能代理）若要完成一项任务，可能需要收集信息、使用工具、尝试不同的途径、从错误中恢复并验证其结果。每一个决策都会影响下一步的发展。一次走弯路都可能在 Agent 得出有用结果之前，增加额外的模型交互、工具调用、延迟以及人工干预。</p>
-<p>AI Agent 的经济账体现在整个任务全流程中。Token 价格决定了单次交互的成本，而推理质量则决定了工作需要多少次交互以及这些交互能否导向成功的结果。完成一项任务的总成本取决于这两者。</p>
-<p>今天，GPT-6.1 Sol 已在 Amazon Bedrock 上正式推出，运行在专为大规模性能、安全性与可靠性打造的推理引擎之上。作为对 GPT-6 Sol 的一次重大升级，它在 Agent 编码、计算机操作和专业工作方面展现了强劲的性能。根据 OpenAI 的说法，它将接近 Astra 水准的智能引入了日常工作流程之中。</p>
-<p>在各类 Agent 工作中应用更强的推理能力</p>
-<p>更高效地驾驭软件工程工作流</p>
-<p>软件工程展现了推理质量如何影响整个工作流程。Agent 可能需要理解陌生的代码库、梳理依赖关系、确定修改位置并验证实现方案。根据 OpenAI 的数据，GPT-6.1 Sol 在 DeepSWE v1.1 基准上追平了 GPT-6 Astra，而每项任务的成本仅为其大约五分之一。它还将 GPT-6 Sol 的最高得分提高了 6.4 个百分点，同时所消耗的推理算力（reasoning effort）比 GPT-6 Sol 的该基准结果更低。</p>
-<p>Codex 将这一推理能力运用于整个开发生命周期。您可以配置 Codex，使其在 Amazon Bedrock 上使用 GPT-6.1 Sol 来执行涵盖调研、实现和测试的工作。Codex 能够与代码仓库、本地文件、终端和开发工具协同运作，以编写新功能、修复缺陷并运行测试。您可以通过桌面端应用程序、命令行界面（CLI）和受支持的集成开发环境（IDE）访问 Codex。对于 AWS 开发任务，Agent Toolkit for AWS 仅需一条终端命令即可将 Codex 连接至 AWS 文档、API 与各项服务。</p>
-<p>将文档与工具间的信息转化为实际行动</p>
-<p>当 Agent 必须理解复杂文档、选择合适工具并随着条件变化做出调整时，同样的推理能力也能发挥作用。据 OpenAI 称，GPT-6.1 Sol 在复杂文档分析方面逼近 GPT-6 Astra，并且在跨业务工具完成多步工作流方面优于 GPT-6 Sol。</p>
-<p>您可以通过现成的体验或自行构建的应用程序来应用这些能力。在桌面应用中，ChatGPT Work 可以跨文件和应用程序收集信息，并将其转化为最终交付物。借助受支持的 Amazon Bedrock API，您还可以构建提炼汇总文档的内部工具、跨系统协调工作的 Agent，以及能够评估多重输入的面向客户的应用。</p>
-<p>识别局限并恪守约束</p>
-<p>在跨工具协同高效工作时，Agent 还必须能够识别工具何时调用失败、某项操作是否受限或信息是否存在缺失。传达这些局限性可让应用程序或用户在 Agent 带着不完整信息继续运行或采取意料之外的行动之前及时介入。OpenAI 表示，在有关透明度、用户意图及明确约束的严苛评估中，GPT-6.1 Sol 相比 GPT-6 Sol 均有显著提升。</p>
-<p>当使用受支持的 Amazon Bedrock API 进行构建时，您可以定义模型可使用的工具。您还可以确定当某项操作需要审批或无法完成时应用程序应如何响应。这些应用层面的控制机制与模型的提升相得益彰，有助于在工作流面临重大决策时保持人类的参与。</p>
-<p>在 Amazon Bedrock 上运行 GPT-6.1 Sol</p>
-<p>Amazon Bedrock 提供了在生产环境中运行 GPT-6.1 Sol 所需的基础设施和控制能力。您可以通过 AWS Identity and Access Management（IAM）策略来管控模型访问权限，并通过 AWS CloudTrail 审计调用行为。为确保流量留在您的网络边界内，您可以使用由 AWS PrivateLink 支持的虚拟专用云（VPC）端点。推理在具备零操作员访问权限（zero-operator access）的硬件隔离基础设施上运行，因此在推理期间，即便是 AWS 运维人员也无法访问您的提示词（prompts）与生成结果（completions）。</p>
-<p>您的推理数据不会用于模型训练，使用 GPT-6.1 Sol 也不要求您选择加入向 OpenAI 共享数据的计划。为了进行自动化滥用检测，被分类器标记的流量会由 AWS 保留至多 30 天并进行程序化处理。您可以通过您的 AWS 客户团队申请“零数据保留”。详情请参见数据保留相关文档。</p>
-<p>GPT-6.1 Sol 以每项任务极低的成本为各类 Agent 工作带来了更强的推理能力，使您的 Agent 能够以更少的步骤找到正确答案。您可以立即在 Amazon Bedrock 控制台中开始使用 GPT-6.1 Sol，或通过受支持的 Amazon Bedrock API 以编程方式接入。有关受支持的 AWS 区域、端点、API、特性、推理配置文件和定价的信息，请参阅 Amazon Bedrock 文档。</p>
-<p>想了解 Amazon Bedrock 如何支持您的团队？欢迎与我们联系开启沟通。</p>
-<p>Tanvi 是亚马逊云科技（AWS）Amazon Bedrock 产品营销经理，致力于帮助客户利用 Amazon Bedrock 采用并扩展 AI 应用和 Agent。<br />Chris 是 OpenAI 的产品团队成员，专注于 OpenAI API。他的工作包括与 AWS 在 Amazon Bedrock 上展开合作，让开发者能够广泛使用 OpenAI 的前沿模型。<br />Manish 是 Amazon Bedrock 的高级产品经理。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-30 03:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-unterfeit-postage-labels-4e1353e06bffbd8d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1176" data-content-paragraphs="8" data-published-at="2026-09-29T19:30:17.000Z" data-time-source="publication">
+<div id="story--rive-gpu-text-rendering-a8a02f2961d12e63" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5911" data-content-paragraphs="46" data-published-at="2026-09-30T13:50:50.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 03:30</span>
+  <span class="news-meta-time">🕒 2026-09-30 21:50</span>
 </div>
 
-### [美国邮政督察查封售卖假冒邮资标签的网站](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> U.S. postal inspectors shut down website selling counterfeit postage labels</div>
+### [要闻：文字在需要你自己绘制之前看起来很简单](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> SDF vs. MSDF vs. Slug: GPU Text Rendering</div>
 
-<div class="article-body" data-article-body="true"><p>作者：里克·欧文斯（Rick Owens），2026年9月26日 无评论</p>
-<p>佛罗里达州迈阿密 – 2026年9月24日 – 美国邮政督察局（U.S. Postal Inspection Service）及合作联邦机构已查封一个互联网域名，并指控一名巴基斯坦籍男子涉嫌运营一家未授权网站。该网站据称售出了超过500万张假冒美国邮政署（USPS）的邮资标签，造成超过1.26亿美元的损失。</p>
-<p>法庭记录显示，现年33岁、来自巴基斯坦哈内瓦尔（Khanewal）的法希姆·阿克拉姆（Faheem Akram）运营着 LabelsBank.com 网站。该网站据称以固定费率出售假冒的美国邮政邮资标签，通常每张标签收取2美元，不论包裹的重量、尺寸或目的地如何。LabelsBank.com 未获得销售美国邮政署产品及服务的授权。这些假冒标签使客户能以极低折扣价格寄送包裹，导致美国邮政署在提供快递服务时遭受了巨大的收入损失。</p>
-<p>邮政督察局迈阿密分局的督察人员发现，有超过5000名客户使用 LabelsBank.com 购买了超过510万张假冒快递标签。伴随阿克拉姆被起诉，法院签发了命令，授权查封该域名并关闭该网站。</p>
-<p>阿克拉姆被控一项串谋诈骗美国政府以及制造和销售假冒邮票罪、五项制造和销售假冒邮票标签罪，以及四项电信诈骗罪。需要指出的是，刑事指控仅为指控，在被证明有罪之前，每名被告均被推定为无罪。</p>
-<p>“我们的执法范围跨越国界，”迈阿密分局主管邮政督察布拉迪斯米尔·罗霍（Bladismir Rojo）表示，“如果你通过推销伪造邮资来诈骗邮政署并侵害美国消费者，我们就会找到你并绳之以法。”</p>
-<p>“涉案骗局手段简单却规模巨大：在网上以固定的低廉价格（每张标签低至2美元）销售假冒邮资，完全不顾包裹的重量、尺寸或目的地，从而使客户规避合法的邮政费用，”佛罗里达州南区联邦检察官杰森·A·雷丁·基尼奥内斯（Jason A. Reding Quiñones）表示，“起诉书指控涉案假标签超过510万张，损失超过1.26亿美元。通过美国邮政督察局与我们检察官的努力，该网站已被关停，域名已被查封，并对涉嫌运营者（一名巴基斯坦籍男子）提起了联邦刑事指控。”</p>
-<p>了解更多关于假冒邮资的信息<br />《美国邮政督察查封售卖数百万张假冒邮资标签的网站》，由里克·欧文斯添加于2026年9月26日 查看里克·欧文斯的所有文章 →<br />您的电子邮件地址不会被公开。<br />document.getElementById(&quot;comment&quot;).setAttribute( &quot;id&quot;, &quot;a1fcf60496485ab2263a870d1f98aed7&quot; );document.getElementById(&quot;e4c69a774b&quot;).setAttribute( &quot;id&quot;, &quot;comment&quot; );</p></div>
+<div class="article-body" data-article-body="true"><p>文字在需要你自己绘制之前看起来很简单。字母不是一张图片，而是一组轮廓线：由直线段和贝塞尔曲线构成的闭合环路，并根据环绕数规则进行填充。在 CPU 上将其绘制到位图中是一个早已解决的问题。但在 GPU 上以任意尺寸、任意 3D 变换下清晰地绘制它，并且文字每帧都在改变，却并非易事。大多数引擎通过预先将字形烘焙到纹理中并接受这种妥协，以此避开这个难题。</p>
+<p>2017 年，Eric Lengyel 发表了一种名为 Slug 的算法，不再回避这一难题。它直接在片元着色器中根据字形轮廓渲染字形，既无需纹理图集，也无需每帧进行细分曲面剖分。Lengyel 于 2019 年为其申请了专利，并在 2026 年 3 月 17 日将该专利捐赠给公有领域。这就是为什么我们构建了 Slughorn——我们对 Slug 技术的 C++20 实现，也是为什么我们现在能够探讨它的工作原理及其优势所在。</p>
+<p>本文将带领大家全面了解 GPU 文本渲染的实际运作方式，从位图图集一直讲到 Slug，以及每种方法适用的场景。</p>
+<p>每个可缩放字体都将每个字形存储为矢量轮廓。TrueType 使用二次贝塞尔曲线，带有 CFF 的 OpenType 使用三次曲线，两者都会混合直线段。字母的内部区域取决于填充规则的判定，通常是非零环绕规则：从像素发射一条射线，统计轮廓线穿过它的方式，如果环绕数非零，则该像素位于字形内部。</p>
+<p>字形是一组轮廓线，而不是像素：实心点是曲线上点，空心圆是贝塞尔控制点。</p>
+<p>最古老且仍然最常见的方法：以特定尺寸将每个字形栅格化一次，放入一个称为图集的共享纹理中，然后将屏幕上的每个字符绘制为一个采样其对应位置的带纹理四边形。</p>
+<p>它速度快，易于移植，并且可以在任何带有纹理单元的设备上运行。这就是它随处可见的原因。</p>
+<p>一旦进行缩放，问题就会显现。放大超过烘焙尺寸后，字形会变成模糊或充满块状锯齿的像素，因为你本质上是在放大位图。缩小它则会出现闪烁和笔画丢失，除非烘焙 Mipmap 层级。每个需要清晰显示的尺寸都需要另一个图集。每种语言也是另一个难题：拉丁图集很小，但中日韩文字有成千上万个字形，以多个尺寸烘焙全部字形堪称内存灾难。此外，位图根本无法感知透视视角，因此放置在 3D 表面上的文本看起来会很模糊。</p>
+<p>放大烘焙图集字形（左图和中图）与直接从轮廓渲染（右图）的对比。</p>
+<p>Valve 提出了影响整个行业长达十年的解决方案。Chris Green 在 2007 年 SIGGRAPH 上发表的成果《针对矢量纹理与特殊效果改进的 Alpha 测试放大技术》存储的不是字形的像素，而是有向距离场：每个纹素保存到最近边缘的距离，内部为正，外部为负。在着色器中对该场进行采样并以零为阈值。由于距离是平滑插值的，你可以将较小的 SDF 纹理大幅放大，依然能获得清晰的边缘，并且通过平滑过渡阈值可以实现低成本的抗锯齿。</p>
+<p>一张小纹理，在合理范围内实现分辨率无关，加上一个开销极低的着色器。在很长一段时间里，这一直是实现清晰 UI 文本和游戏 HUD 的默认选择，而且在受限硬件上至今依然如此。</p>
+<p>但 SDF 本质上仍是在固定分辨率下采样的烘焙纹理，而且它在拐角处理上并不真实。尖锐的拐角在距离场中是不连续点，而双线性插值会将其变圆。字母上的每一个硬朗边角——例如“A”的尖角或“K”的凹角——都会被柔化变圆。如果放大倍数足够大，或者字形太小导致距离场只有几个纹素宽，细笔画就会断裂，细节也会变得模糊。</p>
+<p>有向距离场（左）与着色器从中恢复出的清晰边缘（右）。</p>
+<p>Viktor Chlumsky 在其 2015 年论文及 2018 年发表的《利用多通道有向距离场改进拐角》中的成果解决了拐角问题。MSDF 不再使用单个距离通道，而是使用红、绿、蓝三个通道存储数据，每个通道编码到不同边缘子集的距离，挑选这些边缘旨在保留尖锐拐角。在着色器中，你取三个通道的中位数。中位数技巧几乎完美地重建了拐角，因此 MSDF 字形在能够把普通 SDF 变圆成一团糟的放大倍数下依然能保持清晰。</p>
+<p>MSDF 是目前许多团队的最佳折中方案，并且 Chlumsky 的 msdfgen 采用 MIT 许可协议，得到了广泛应用。如果你需要清晰的可缩放文本且愿意烘焙图集，这是一个极好的选择。</p>
+<p>然而，它依然基于图集，这伴随着固有的代价。你仍然需要以选定的分辨率预先烘焙每个字形，因此动态文本或用户提供的文本，以及像中日韩文字这样庞大的字形集，仍然意味着需要维护烘焙管线和内存预算。其生成过程也比普通 SDF 更昂贵。在极小尺寸下，你采样的纹素依然太少，无法保留精细细节；而在极端缩小时，你仍然需要与走样做斗争。三通道查找比单通道消耗更多的带宽。MSDF 提高了质量上限，但它仍旧使用图集。</p>
+<p>SDF 会把尖角变圆；MSDF 则保留尖角。图片来源：Viktor Chlumsky / msdfgen（MIT）。</p>
+<p>另一个门类则完全跳过纹理，将轮廓直接转换为 GPU 可以栅格化的几何体。</p>
+<p>这一门类真正实现了分辨率无关，对于动画设计的矢量图形来说通常是理想的选择。Rive 尤其专为动态艺术设计而构建。其代价在于剖分本身——当几何体改变时必须重新计算、复杂字形导致的几何体数据暴增、实现干净的解析抗锯齿难度大，以及在某些情况下依赖特定的硬件特性或扩展。</p>
+<p>曲面剖分方法将轮廓转换为 GPU 栅格化的三角形。</p>
+<p>Slug 跳过了图集和逐帧剖分，将字形作为二次贝塞尔曲线和线段的列表保存在一个小型 GPU 缓冲区中。与此同时，Slug 为每个字形构建了一个轻量级的加速结构，将字形划分为水平带状区域，因此对于特定像素，只需考虑其附近的少数曲线，而无需处理整个轮廓。</p>
+<p>然后，它直接在片元着色器中求解覆盖率。对于每个像素，它实际上是发射一条射线，找出该射线与附近贝塞尔曲线相交的位置，并统计这些交点以计算环绕数，从而得出覆盖率。其中的难点，也是 Lengyel 的独门秘笈，是一个他称为“根有效性”（root eligibility）的测试：这是一套精确的规则，用于确定哪些曲线与射线的交点应该被计入，从而确保在曲线相交的共享端点处环绕数计算完全精确——而在这些端点处，朴素的方法往往会导致裂缝或重复计算。因为着色器是通过解析方式求解曲线方程，而不是采样烘焙好的场，所以它能在任何缩放尺度下产生精确的覆盖率和干净的抗锯齿效果。</p>
+<p>Slug 的核心思想：针对每个像素发射一条射线，并统计其穿过轮廓的次数。</p>
+<p>它没有烘焙分辨率，因此同一个字形在 6 像素或 6000 像素下都如同剃刀般锋利，并且在包括透视在内的任意 2D 和 3D 变换下都能保持清晰，因为覆盖率是在变换后按像素计算的。它没有图集（atlas），因此十万个中日韩（CJK）字形的开销仅相当于一套字体的轮廓数据，而不是像视频那么大的图集。文本可以逐帧更改而无需承担烘焙成本，这正是实时数据、用户输入和本地化内容所需要的。而且这一切都通过普通的片元着色器在单次绘制（single draw）中完成，无需任何厂商扩展。</p>
+<p>我们使用 Slughorn（我们的 osgSlug 集成）渲染了相同的大写字母 R，并将其与您实际会选用的替代方案并排对比：单通道 SDF、MSDF、Rive 的渲染器，以及 osgText 的位图及其由位图衍生的 SDF。每个基于纹理的面板都获得了相同的预算，即每个 em 64 个纹素（texels per em），因此区分它们的关键在于技术本身，而非分辨率。</p>
+<p>在烘焙尺寸下正视观察时，六种方案中的五种几乎完全相同：Slughorn、Rive 和 MSDF 复现了轮廓，而单通道 SDF 仅在字母腿部末端有轻微的圆角差异。唯一的特例是 osgText 位图——这是一张被放大了大约四倍的 64 px/em 图像，它无法恢复从未存储过的细节。</p>
+<p>将字形倾斜进入透视视角，画面就发生了变化。</p>
+<p>在掠射透视（grazing perspective）下，Slughorn 和三个距离场面板都能保持 R 处于原位且边缘清晰，因为它们是在字形自身的平面内逐像素计算覆盖率，所以投影没有带来额外开销。osgText 位图随着距离拉远而变得模糊。Rive 的 R 形状则出现了错误：其渲染器仅接受 2D 仿射变换，而透视投影并非仿射变换，因此它所能做到的最佳效果仅仅是一种近似——在中心处精确，但向边缘漂移。</p>
+<p>现在放大单条边缘。</p>
+<p>在极度放大的情况下，只有基于曲线的渲染器（Slughorn 和 Rive）仍能呈现出笔直、干净的边缘，因为两者都是基于任意显示尺寸下的实际轮廓进行渲染的（在此视图下，Rive 通过每帧重新细分网格来实现）。距离场面板则出现了凹口锯齿（notch），此时存储样本之间的插值已不再与真实曲线匹配。osgText 位图则已融化为单一的灰色渐变，因为它的每个纹素此时都覆盖了面板的很大一部分。</p>
+<p>关于公平性的一点说明，因为技术读者一定会问到这一点。这里每个基于纹理的方法都使用了相同的 64 texels/em，给它们更多预算可以推迟这些瑕疵的出现，但无法将其消除。SDF 和 MSDF 面板使用的是默认的烘焙设置，而 MSDF 的误差校正选项可以软化最后一张图中的部分凹口锯齿。在这些视图中，Rive 是在最佳状态下展示的（每帧都穿过相机进行渲染），这比它通常在 3D 场景中的嵌入方式更为优待——在实际 3D 场景中，它通常会被绘制到纹理中并映射到表面上，这样虽然避免了失真，但会像位图一样变模糊。</p>
+<p>浅绿色标记代表 Slug 是最佳或并列最佳选择的场景。</p>
+<p>没有唯一的胜者，只有适合不同任务的工具。</p>
+<p>我们不断提到文本，是因为 Slug 因文本而闻名，但 Slughorn 可以从其任意后端绘制任何能表示为填充和描边矢量几何体的内容。这意味着它支持带有渐变的完整 SVG、分层着色器以及图层内的动画，并且它能在地图制图规模下保持稳定，以预烘焙方案无法达到的清晰度和分辨率绘制标注和线画。我们很快会展示更多内容。关于此处未提及的功能，请参阅 GitHub 上的 Slughorn 代码仓库。</p>
+<p>Slughorn 是我们使用现代 C++20 对 Slug 技术的实现。它在构建时完成一次繁重的工作，因此没有运行时曲面细分（tessellation）：轮廓数据和带状结构（band structure）预先准备就绪，着色器只需评估覆盖率。虽然 Slug 因文本而声名鹊起，但 Slughorn 并未对字形进行特殊对待：字形只是一种常见的形状而已。任何你可以描述为矢量路径的内容都会通过相同的管线渲染，具有相同的质量。它支持你已在使用的各种格式，包括 SVG、FreeType 字体，以及来自 Blend2D、Cairo 和 Skia 的路径；它还提供了一个原生的 Canvas 风格 API 用于直接创作形状，将填充、描边和渐变合成为单个 GPU 就绪的轮廓数据图集。它面向 OpenGL、Vulkan、WebGPU 和 DirectX，并在 C++ API 之外提供了 Python 绑定，因此相同的渲染逻辑既可用于嵌入式 HUD，也可用于完整的 3D 场景。</p>
+<p>归功于应得之人：Slug 算法由 Eric Lengyel 提出，发表于《计算机图形学技术期刊》（Journal of Computer Graphics Techniques），并且自 2026 年 3 月起，任何人都可以自由实现。我们认为它是 GPU 上实现正确且分辨率无关的文本的理想基础，而 Slughorn 则是我们为了让其易于使用而做出的努力。</p>
+<p>如果你正在努力解决 3D 场景中模糊的标注、无法容纳字形集的图集，或者文本在移动时必须保持清晰等问题，这正是我们要解决的问题。欢迎联系我们讨论 Slughorn 或将其应用到你的管线中。</p>
+<p>纹理图集将每个字形存储为烘焙位图，因此一旦缩放超过其烘焙尺寸就会变模糊。SDF（符号距离场）改为存储到边缘的距离，缩放表现更好，但会使尖角变圆。MSDF 增加了通道以保持拐角锐利，但它仍然是基于选定分辨率的烘焙图集。Slug 省去了图集，直接在着色器中根据字形的实际贝塞尔轮廓计算覆盖率，因此在任何尺寸或角度下都能保持精确。</p>
+<p>因为大多数引擎是从预烘焙的位图图集中绘制文本。一旦放大超过烘焙分辨率、在透视中倾斜或包裹到表面上，你就是在拉伸固定的像素网格，导致边缘变软。像 Slug 这样基于轮廓的方法避免了这种情况，因为覆盖率是在变换后按像素计算的。</p>
+<p>Slug 是 Eric Lengyel 于 2017 年发表的一项技术，它直接在 GPU 上利用二次贝塞尔轮廓渲染字形，无需纹理图集，也无需逐帧进行曲面细分。片元着色器对每个像素投射一条光线，并计算曲线相交次数以获得精确的覆盖率，利用 Lengyel 的“根合格性”（root eligibility）测试来确保曲线交会处的正确性。</p>
+<p>是的。Lengyel 于 2026 年 3 月将 Slug 专利贡献给了公有领域，因此任何人都可以实现该技术。AlphaPixel 的 Slughorn 是其采用 C++20、遵循 MIT 许可的实现。</p>
+<p>当你能够预先烘焙图集、文本相对静态，并且需要一个能在广泛硬件上运行的轻量级着色器时。MSDF 是游戏 HUD 和应用 UI 的强力默认选择。当文本必须在任何缩放和角度下保持清晰、字形集庞大或动态变化、或者相机关系无限制时，Slug 会胜出。</p>
+<p>是的，而且不会出现图集内存爆炸的情况。由于 Slug 存储的是轮廓数据而非烘焙位图，数以万计的中日韩（CJK）字形所消耗的仅相当于一套字体的曲线数据量，而不是庞大的多尺寸纹理。在 Slughorn 中，每个字形的条带结构虽增加了一定开销，但仍远低于 CJK 图集所需的内存。</p>
+<p>Slug 是一种算法（由 Lengyel 提出）；Slughorn 则是 AlphaPixel 实现该算法的库。Slughorn 支持任意 GPU API（OpenGL、Vulkan、WebGPU、Direct3D），并且能够绘制任何填充和描边的矢量几何图形，而不仅仅是文本。</p>
+<p>告诉我们你正在构建什么以及遇到了什么困难。我们会直截了当地告诉你这是否属于我们能够提供帮助的范畴，以及我们将如何着手解决。</p>
+<p>或者了解我们如何开展咨询与软件开发业务。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 03:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 21:50 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -863,7 +817,176 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ntrols-for-teen-accounts-23694da7b1ffd08b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1166" data-content-paragraphs="12" data-published-at="2026-09-30T13:50:16.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 21:50</span>
+</div>
+
+### [WhatsApp为青少年账户增设全新家长控制功能](https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> WhatsApp adds new parental controls for teen accounts</div>
+
+<div class="article-body" data-article-body="true"><p>WhatsApp正在推出全新的家长控制功能，使监护人能够了解青少年的互动对象，并为Meta AI对话选择内容设置。</p>
+<p>借助这些新控制项，家长可以限制青少年使用频道的方式、他们可以查看谁的“状态”（Status）以及谁可以查看其状态更新。监护人还可以控制谁能将青少年拉入群组，或者谁能查看他们的个人资料照片。家长还可以选择在青少年加入新群组、退出群组，或所在群组成员数增至30人、100人或250人时接收通知。</p>
+<p>所有这些设置均受家长设立的PIN码保护，因此青少年若要更改任何内容，都需要征得家长的批准。监护人也可以完全关闭这些控制项。</p>
+<p>除这些设置外，家长还可以为Meta AI设定内容控制选项。现在可以选择默认的“13+”设置，或者选择更为严格的“限制内容”选项，后者会停用基于隐私处理的功能，例如无痕聊天和消息摘要等。</p>
+<p>WhatsApp表示，尽管新增了这些控制项，该应用上的消息和通话依然保持端到端加密，任何人都无法查看。</p>
+<p>Meta一直面临多起诉讼，指控该公司的社交媒体产品对儿童造成伤害。立法者对Meta（尤其是Instagram）迟迟未推出青少年安全功能施加了压力。今年8月，该公司同意支付180亿美元的高额罚款，以就美国29个州提起的诉讼达成和解。</p>
+<p>该公司近期一直在旗下各应用中积极推出保护儿童的功能。今年，它推出了受电影分级启发的内容控制机制、针对Meta AI互动的家长控制功能、在WhatsApp上增设了低龄儿童（pre-teen）账户，并开始在孩子于Instagram上搜索自残内容时向家长发送警报。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>Ivan在TechCrunch负责全球消费科技动态报道。他常驻印度，此前曾供职于《赫芬顿邮报》（Huffington Post）和The Next Web等出版物。</p>
+<p>您可以通过发送电子邮件至im@ivanmehta.com或通过Signal加密消息ivan.42联系Ivan或核实来信。</p>
+<p>第二张门票享五折优惠。Disrupt的体验适合与人共享。获取您的门票，携同事、合伙人或同行参会即可享五折优惠。拓展人脉网络，积蓄势头，探索初创生态系统的下一篇章。</p>
+<p>AMD将以82亿美元收购李飞飞的World Labs<br />爆火AI智能体Instinct以100亿美元估值完成10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文就其新墨西哥州Stargate数据中心发出不可抗力通知<br />Meta为其Muse AI智能体打造了类似电子宠物（拓麻歌子）的穿戴设备<br />《Vogue》在Vogue World让机器人走上T台，但人们对此并不感冒</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 21:50 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--an-actually-good-remote-d4d606c8e792dbee" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1546" data-content-paragraphs="15" data-published-at="2026-09-30T13:43:54.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 21:43</span>
+</div>
+
+### [亚马逊新款Fire TV Stick 4K亮相，配备真正好用的全新遥控器](https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon’s new Fire TV Stick 4K comes with an actually good remote</div>
+
+<div class="article-body" data-article-body="true"><p>作为秋季硬件更新的一部分，亚马逊于周三推出了新一代Fire TV Stick 4K。新款设备机身更纤薄、运行速度更快，并且可直接通过电视的USB接口供电。</p>
+<p>但真正的亮点在于，该设备配备了一款真正好用的遥控器。它取消了显眼的蓝色Alexa按键，换上了能在黑暗中凭触感定位的主页键、增加了用于收藏功能的按键，并采用全新握持造型，手感更加舒适。</p>
+<p>对于这款全新流媒体设备而言，遥控器成为最大亮点或许显得有些奇特，亚马逊声称其运行速度比主要竞品快20%到40%。但真正的电视发烧友都明白，一款糟糕的遥控器足以毁掉原本极佳的观影体验。亚马逊此前的语音遥控器虽不算差，但仍有相当大的改进空间。</p>
+<p>新款遥控器采用了不同的外形和弧度设计，更易于抓握并指向电视。其按键与布局也针对人们常见的使用场景进行了重新设计：即在昏暗的房间内操作。</p>
+<p>只要你经常使用遥控器，就会知道在看不清设备时，往往很难准确摸到并按下正确的按键，特别是当按键上的图标含义不够明确时更是如此。</p>
+<p>旧款遥控器正是如此，其顶部中央设有一个显眼的蓝色Alexa语音按键。如今，该按键已被右上角更为低调的黑色麦克风按键取代，且按键顶部略微下凹，方便用户仅凭触感就能找到。</p>
+<p>新款遥控器的主页键同样支持纯盲操定位，其表面采用金属质感处理（并带有一抹橙红色调），触感十分独特。位于左上方的电源按键采用了凹陷设计，有助于避免误触关机；方向键（D-pad）更为扁平，便于拇指滑动轮转。最后，方向键中心按键的点击反馈感也更加明显。</p>
+<p>此外，顺应用户的反馈，新款遥控器终于加入了一个收藏键（favorites button），用户可对其进行自定义编程，用于启动常用应用程序，甚至开启高频使用的功能，例如切换隐藏字幕（Closed Captions）或对白增强（Dialog Boost）。</p>
+<p>这款全新遥控器将与Fire TV Stick 4K随附包装，同时也面向仅需升级遥控器的用户单独发售。</p>
+<p>4K电视棒本身配备8GB内部存储空间、1.7 GHz四核处理器，并支持Wi-Fi 6、蓝牙5.3和低功耗蓝牙（BLE）。它还支持HDR10、HDR10+、HLG、H.265、H.264、VP9和AV1等视频格式，并能够输出最高达每秒60帧的2160p、1080p和720p分辨率画面。</p>
+<p>这款4K电视棒加入了完整的Fire TV产品线，该产品线还包括HD Stick、4K “Max” Stick（速度更快、存储更大）以及Fire TV Cube。</p>
+<p>Fire TV 4K Stick标价为59.99美元，但在首发时将以29.99美元的折扣价出售。首批上市地区包括美国、加拿大、日本、墨西哥、英国、爱尔兰、德国、法国、意大利、西班牙、瑞士、澳大利亚和新西兰。</p>
+<p>这款遥控器将于10月下旬发货，在美国的售价为14.99美元。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻编辑<br />购买第二张门票享五折优惠。Disrupt活动旨在与人共享。立即购票，携同事、合伙人或同行同往，立享五折优惠。在初创生态圈中建立人脉、拓展势头、探索前沿，全面拓宽业务视野。<br />AMD将以82亿美元收购李飞飞创立的World Labs<br />爆火AI Agent创企Instinct以100亿美元估值完成10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra与Opus刚刚通过图灵的另一项测试<br />甲骨文就其新墨西哥州Stargate数据中心发出不可抗力通知<br />Meta为其Muse AI Agent打造了一款类似拓麻歌子的可穿戴设备<br />Vogue在Vogue World秀场上让机器人走T台，反响平平</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 21:43 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tv-stick-4k-direct-power-f90282a06dbdbcd0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="895" data-content-paragraphs="1" data-published-at="2026-09-30T13:00:16.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 21:00</span>
+</div>
+
+### [亚马逊新款Fire TV Stick 4K可直接通过电视供电](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="亚马逊新款Fire TV Stick 4K可直接通过电视供电" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。<br />亚马逊还将推出一款重新设计的Fire TV遥控器，采用新外形和更具点击感的操作按键。<br />该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Stevie Bonifield 的全部内容<br />新款Fire TV Stick 4K将比以往的亚马逊4K流媒体棒更易于安装，因为它不再需要电源适配器。你可以直接通过电视的USB端口为该设备供电，就像亚马逊今年早些时候推出的升级版入门级Fire TV Stick一样。这款Fire TV Stick 4K今日起开售，售价59.99美元，运行亚马逊焕新后的TV OS，并支持Wi-Fi 6、蓝牙5.3以及低功耗蓝牙（BLE）。<br />亚马逊还在简化其流媒体棒产品线，现由原先的五款精简为四款设备：Fire TV Stick HD、Fire TV Stick 4K、Fire TV Stick 4K Max以及Fire TV Cube。新款Fire TV Stick 4K正在取代亚马逊早期的“Select”和“Plus”4K流媒体棒。<br />一款重新设计的Fire TV遥控器将与新款流媒体棒一同推出，具有全新的非对称外形和“更具触感的控制按键”。这款新遥控器兼容所有Amazon Ember电视以及2019年以后的Fire TV流媒体设备。它将以14.99美元的价格单独销售，并于10月下旬开始发货。亚马逊表示，还计划于明年初推出该新遥控器的“Plus”版本，采用铝制机身设计，配备背光按键以及“查找我的遥控器”功能。<br />Fire TV还将迎来一些软件更新，包括Alexa Plus中心以及Fire TV移动应用中的Alexa Plus集成。亚马逊表示，其AI“现在可以利用现实环境背景信息”（例如各大奖项和活动），帮助其响应关于剧集和电影推荐的更复杂的提示指令。Amazon Music也将在今年秋季晚些时候推出新的Fire TV应用，集成Alexa Plus，用户可通过语音提示获取音乐和播客推荐。<br />查看所有 Amazon Alexa 内容<br />每日免费获取最重要的核心新闻文摘。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-g-insurance-to-the-stars-a860bed95080fa56" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2134" data-content-paragraphs="15" data-published-at="2026-09-30T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 21:00</span>
+</div>
+
+### [Charter Space筹集500万美元，将保险业务推向太空](https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Charter Space raises $5M to bring insurance to the stars</div>
+
+<div class="article-body" data-article-body="true"><p>曾入围去年TechCrunch创业竞技场（TechCrunch Startup Battlefield）决赛的Charter Space已筹集500万美元种子轮资金，以继续发展其初具雏形的太空保险业务。</p>
+<p>这家总部位于加利福尼亚州埃尔塞贡多（El Segundo）的初创公司周三表示，自5月份推出拥有全美展业许可的保险经纪业务以来，已为美国太空和国防工业基础领域的50多家公司提供服务。</p>
+<p>专注于保险领域的Crystal Venture Partners领投了本轮融资，金融科技投资机构QED和Blank Ventures、早期风险投资机构Hustle Fund，以及支持少数群体领导力初创公司的投资财团Gaingels也参与了投资。</p>
+<p>太空行业中事故时常发生，因此各家公司都在不断制定应急预案。但为进入太空的物体投保仍然是一种少见的操作。Charter Space的创始人兼首席执行官Yuk Chi Chan（上图右）认为，这主要是因为承保卫星等物品的成本高昂。正如Charter在其官网上解释的那样，太空公司的普遍经历是普通保险公司“一听到一堆可怕的科学名词就吓坏了”。</p>
+<p>当Chan与联合创始人Yukun Yin创办Charter Space时，他们最初打算构建一款用于航空航天工程的集中式软件，将客户的技术、制造和测试数据整合在一起。但他随后意识到，将这些数据引入承保流程蕴含着巨大的潜在价值。</p>
+<p>“我们希望有更多的卫星能获得投保，因为这意味着整个体系要安全得多。如果我们能普及保险覆盖范围，首先，这对太空工业基础有益，更多公司拥有了安全网……但这也对整体经济健康得多，因为这会鼓励来自不同另类资本来源的全球投资，”Chan去年在接受TechCrunch采访时表示。“你不仅完全依赖风险投资或某些成长型股权基金，还可以开始引入债务、信贷以及你在其他任何先进工业门类中都能拥有的诸多不同选择。”</p>
+<p>太空公司在金融服务方面的选择并不多，因为过去该领域的参与者极少。直到最近，该行业一直由政府和国防承包商主导，冷战结束后，这些机构的行动往往缓慢而保守。</p>
+<p>但过去十年中新型太空公司的蓬勃发展——很大程度上受到SpaceX猎鹰9号火箭降低入轨成本的推动——意味着如今已有足够的需求供Charter Space这样的公司发展壮大。涌现出了制造卫星和飞船的新参与者，以及致力于填补SpaceX在退役猎鹰9号时留下的空白的新发射服务商。</p>
+<p>“Charter Space正处于两个巨大机遇的交汇点：商业太空经济的快速增长，以及需要一种现代方法来理解并承保随这种增长而来的日益复杂的风险，”Crystal Venture Partners的管理合伙人乔纳森·克里斯托（Jonathan Crystal）在一份声明中表示。“保险是建设强大且可持续的太空产业的关键基础设施，我们相信Charter Space正在构建的平台将助力太空经济安全、可持续地扩展规模。”</p>
+<p>迈克尔·亚沃斯基（Michael Yaworsky）是全美第一大发射地佛罗里达州的保险监管专员，他表示保险是“太空产业增长的前提条件”，并指出它为更多本地投资打开了大门。他在给TechCrunch的一份声明中表示：“在保险领域领先的州将成为资本投资未来产业的目的地，并为美国未来250年及更长远的发展奠定持续强大的基础。”</p>
+<p>Charter Space迄今已筹集800万美元资金，并表示将把种子轮融资所得用于扩充其销售团队及丰富其保险产品。其他正在酝酿的产品包括对“新颖任务概念”的承保，例如天基核动力、月球任务以及对其他航天器的在轨维护服务。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>交通领域资深记者<br />肖恩·奥凯恩（Sean O’Kane）是一位从事交通行业快速演进的商业与技术报道十余年的记者，报道范围涵盖特斯拉以及追赶埃隆·马斯克的众多初创公司。此前，他是彭博新闻社的记者，协助揭露了多起臭名昭著的电动汽车SPAC破产惨剧。在此之前，他曾供职于The Verge，报道消费技术、主持过多部短视频和长视频、从事产品与编辑摄影，并曾在红牛特技飞行锦标赛的飞机上险些昏厥。<br />您可以通过发送电子邮件至sean.okane@techcrunch.com，或通过Signal加密消息发送至okane.01与Sean取得联系或核实来信。</p>
+<p>购买第二张门票立享五折优惠。Disrupt的体验适合与人共享。购买门票并携带同事、合伙人或同行参会，第二张可享五折。通过建立人脉、蓄积动力、发现创业生态系统的下一个机遇，开拓更广阔的业务空间。</p>
+<p>AMD将以82亿美元收购李飞飞的World Labs<br />爆火AI智能体Instinct以100亿美元估值筹集10亿美元C轮融资<br />Crusoe放弃在AI数据中心使用Boom涡轮机的12.5亿美元计划<br />Astra和Opus刚刚通过了图灵的另一项测试<br />甲骨文对其新墨西哥州Stargate数据中心发出不可抗力通知<br />Meta为其Muse AI智能体打造了类似电子宠物的可穿戴设备<br />Vogue在Vogue World秀场上展示机器人走秀，反响平平</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::
