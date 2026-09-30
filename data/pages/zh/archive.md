@@ -41,14 +41,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **89** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **90** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-30 07:11 (UTC+8)
+- **最新归档时间**：2026-09-30 10:24 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-30 10:24 (UTC+8)" title="全球要闻情报简报 · 10:24" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-30 10:11 (UTC+8) 完成，共获得 14 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】萨姆·奥特曼称，OpenAI在其模型安全之前不会上市：有关这一主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。 OpenAI首席执行官表示，他不希望承受来自华尔街的“额外压力”。 该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。 查看海登·菲尔德的全部文章 数月以来，人们一直在猜测OpenAI何时会上市。首席执行官萨姆·奥特曼表示，在公司能够就模型安全作出更有力的承诺之前，这不会发生，目前也没有明确的时间表。奥特曼周二在DevDay主题演讲结束后接受记者问答时说：“我；【undefined】北卡罗来纳州体育博彩——最佳博彩公司和应用程序 | OutKick：北卡罗来纳州的体育博彩业务自2024年3月11日起正式上线，当时北卡罗来纳州彩票委员会为首批在线运营商颁发了许可证。如今，该州的投注者可以在7款合法体育博彩应用程序中进行选择。；【undefined】9月中国制造业采购经理指数为50.1% 升至扩张区间：中新网9月30日电 据中国物流与采购联合会网站消息，国家统计局服务业调查中心、中国物流与采购联合会发布的2026年9月份中国制造业采购经理指数(PMI)为50.1%，较上月上升0.3个百分点，在连续2个月运行在50%以下后回到扩张区间，显示9月份制造业运行有所回升。从分项指数和行业指数来看，市场需求整体稳定扩张，企业生产加快上升，市场价格联动上升，大型企业稳定增长，中小企业景气改善，整体来看制造业向好运行。；【undefined】互联网坚信埃隆·马斯克的xAI恶搞了OpenAI的“Dots”发布会：周二，OpenAI推出了一款名为Dots的新产品——一款始终在线、拥有圆润多彩头像的人工智能代理。虽然这个色彩缤纷的头像可能会让人会心一笑，但这次发布会带来的最大笑声，（我们猜想）应该来自埃隆·马斯克。这位前OpenAI创始人后来离开公司，推出了竞争对手Grok，并曾发起诉讼但未能成功。；【undefined】你的汽车及其移动应用可能正在向科技公司交出各种数据：采用 WiFi 和 GPS 等联网汽车技术制造的现代汽车，会收集大量有关车主的数据。美国东北大学研究人员开展的一项新研究显示，这些数据并没有得到妥善保密。；【undefined】宝马焕新版 i3 续航里程最高可达468英里：与此主题相关的帖子将添加到您的每日电子邮件摘要和首页信息流中。 查看全部交通运输内容 i3 50 xDrive上市时的起售价为62850美元，预计于2027年第一季度上市。 该作者发布的帖子将添加到您的每日电子邮件摘要和首页信息流中。 查看安德鲁·J·霍金斯的所有文章 宝马最初宣布，将基于Neue Klasse平台重新打造i3，使其成为一款纯电动四门轿车，但当时遗漏了许多重要细节，例如电池容量、续航里程和价格。如今，这家德国汽车制造商终；【undefined】获a16z支持的EliseAI融资3.5亿美元，估值翻倍至40亿美元：人工智能初创公司EliseAI周二宣布，已以40亿美元的估值融资3.5亿美元。这一估值是该公司去年8月完成E轮融资时的两倍。；【undefined】荷兰逮捕涉嫌为 ShinyHunters 组织领导人的男子：该主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/elektroschit-2121103561.html) <span class="news-meta-time">🕒 2026-09-30 10:09</span>
+- [AWS Machine Learning Blog (亚马逊云科技官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/) <span class="news-meta-time">🕒 2026-09-30 09:13</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-30 09:00</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wtof08/iran_offers_up_to_40000_reward_to_middle_east/) <span class="news-meta-time">🕒 2026-09-30 06:39</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-ai-tool-microscopy.html) <span class="news-meta-time">🕒 2026-09-30 09:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260930/aeroport-2121103467.html) <span class="news-meta-time">🕒 2026-09-30 10:09</span>
+:::
 :::timeline-item{start="2026-09-30 07:11 (UTC+8)" title="全球要闻情报简报 · 07:11" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-30 07:01 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -645,18 +658,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/) <span class="news-meta-time">🕒 2026-09-17 04:13</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html) <span class="news-meta-time">🕒 2026-09-17 07:00</span>
 - [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html) <span class="news-meta-time">🕒 2026-09-17 06:59</span>
-:::
-:::timeline-item{start="2026-09-17 04:26 (UTC+8)" title="全球要闻情报简报 · 04:26" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-17 04:14 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】在被指责售卖“偷窥眼镜”后，Meta准备推出一款不带摄像头的眼镜：Meta配备摄像头的智能眼镜已经证明比市场上的其他产品更为成功，但它们也让一些消费者深感不安。这些消费者认为，这类产品是失控的反乌托邦监控社会的入侵性象征。如今，在应对外界指责其售卖“偷窥眼镜”之际，据报道，该公司已决定推出一款不配备集成式间谍设备的眼镜。；【undefined】X现在将允许美国用户通过Cashtags进行交易：X现在将允许用户直接在时间线上进行交易。这家由埃隆·马斯克持有的社交网络周三推出了一项名为Cashtag的功能，允许X平台上的美国用户通过参与合作的券商下达股票交易指令。该项目的初始合作伙伴包括盈透证券（Interactive Brokers）、Moomoo、Gemini、Kraken和Coinbase。；【undefined】我们最喜欢的秋季好物：从火盆到舒适叠穿：这款7夸脱容量的Crock-Pot正在促销，售价45美元。（亚马逊） 如果您通过我们的链接购买商品，FOX News Deals可能会获得报酬或赚取佣金。 秋天意味着橄榄球、家庭聚会，以及供一大群人享用的舒适美食。本月已有超过9,000名亚马逊购物者购买了这款7夸脱容量的Crock-Pot，目前售价45美元。这款慢炖锅最多可供9人使用，能够容纳一块重达7磅的烤肉。选择低温或高温档，饭菜做好后切换至保温档即可。 本月已有超过9,000名亚；【undefined】斯潘伯格治下的弗吉尼亚州“失控”杀戮达“疯狂”地步，一非法移民因连环持刀伤人案被起诉：在美国移民与海关执法局（ICE）请求弗吉尼亚州切勿释放又一名被控实施连环持刀伤人案的非法移民后，针对该州民主党籍州长阿比盖尔·斯潘伯格（Abigail Spanberger）及庇护友好型政客在全州范围内“失控”杀戮事件的愤怒情绪正在彻底爆发。；【undefined】大陆资源公司与委内瑞拉国家石油公司达成石油协议：大陆资源公司周三宣布，已与委内瑞拉国营石油公司PDVSA签署谅解备忘录，将运营并开发奥里诺科带的阿亚库乔2区块。该区块位于安索阿特吉州，占地约12.6万英亩，预计原地资源量达300亿桶。双方计划在未来几周推进签署一项长期的生产参与合同（Contrato de Participación Productiva）；合同签署后，大陆资源公司将以100%的工作权益运营该区块。此次协议是特朗普政府呼吁美国能源企业帮助重建委内瑞拉石油产业后达成的一；【undefined】Waymo前首席财务官加盟自动驾驶初创公司Wayve：曾任Alphabet旗下自动驾驶汽车公司Waymo首席财务官的Elisa de Martel，已被自动驾驶汽车初创公司Wayve聘为同一职位。自2024年起担任Wayve首席财务官的Max Warburton即将离任，转任战略顾问，为公司领导团队提供支持。；【undefined】在TechCrunch Disrupt 2026上，听Science Corp首席执行官马克斯·霍达克解释屏幕时代为何正在终结：当你想象自己使用电脑时，你可能会想到键盘、点击，或是在手机上打字。Science Corporation首席执行官马克斯·霍达克过去几个月一直在推进一种不同的愿景。他的公司已邀请一位顶尖神经生物学家，负责开展其生物混合脑机接口项目在美国的首次人体试验。霍达克将在TechCrunch Disrupt 2026上，向1万多名科技行业领导者、创始人和投资者分享公司迄今的发现。；【undefined】沃尔玛下调《银河战士：Ravenous》实体版预购价格：萨姆斯已经整装待发，准备迎接又一次冒险。| 图片：任天堂
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/chp-2118142093.html) <span class="news-meta-time">🕒 2026-09-17 04:12</span>
-- [TechCrunch (硅谷创业与资本)] [在被指责售卖“偷窥眼镜”后，Meta准备推出一款不带摄像头的眼镜](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/) <span class="news-meta-time">🕒 2026-09-17 04:12</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Natural-Gas/AI-Data-Centers-Are-Driving-Southeast-Asias-LNG-Demand-Through-the-Roof.html) <span class="news-meta-time">🕒 2026-09-17 04:00</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania) <span class="news-meta-time">🕒 2026-09-17 03:01</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-shouldnt-overcook-proteins.html) <span class="news-meta-time">🕒 2026-09-17 04:10</span>
-- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](http://www.france24.com/en/amnesty-says-iran-committed-crimes-against-humanity-in-protests-crackdown) <span class="news-meta-time">🕒 2026-09-17 04:09</span>
 :::
 ::::

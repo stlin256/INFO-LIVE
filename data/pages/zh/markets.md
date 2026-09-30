@@ -16,136 +16,100 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-e-inventories-build-html-01d703f36b069f6e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="735" data-content-paragraphs="1" data-published-at="2026-09-29T21:02:23.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 05:02</span>
-</div>
-
-### [美国馏分油库存持续下降，原油库存增加](https://oilprice.com/Latest-Energy-News/World-News/US-Distillate-Stocks-Continue-to-Fall-As-Crude-Inventories-Build.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> US Distillate Stocks Continue to Fall As Crude Inventories Build</div>
-
-<div class="article-body" data-article-body="true"><p>美国石油学会（API）估计，截至9月25日当周，美国原油库存增加了101.9万桶。分析师原本预计库存将减少190万桶。此前一周，美国原油库存增加了178.6万桶。根据API数据，过去24周，不包括战略石油储备（SPR）的商业原油库存减少了3800万桶，但今年以来美国原油库存增加了近1300万桶，这一增幅在一定程度上受到SPR库存下降的抑制。截至9月25日当周，SPR又有80万桶原油流出，以补充商业库存，使SPR目前持有的库存总量降至2.838亿桶——这一水平比最大储存能力低4.3亿桶。通常认为，SPR中原油的运营最低库存量在2.5亿至3亿桶之间；低于这一水平后，储备可能难以高效抽取和加工原油。截至9月18日当周，美国原油产量降至每日1393.9万桶，低于前一周的每日1394.4万桶，但较上年同期增加每日43.8万桶。美国东部时间周三下午4时15分，布伦特原油价格当日下跌，报每桶102.32美元，跌幅为2.83%。尽管当日下跌，布伦特原油价格较一周前仍上涨了近5美元。西得克萨斯中质原油（WTI）价格当日也下跌，每桶下跌3.64美元，跌幅为3.93%，报每桶88.96美元；与上周此时相比，仅下跌0.20美元。截至9月25日当周，汽油库存增加了299.1万桶。此前一周，汽油库存减少了216万桶。根据美国能源信息署（EIA）的最新数据，在此前一周，汽油库存比每年同期的五年平均水平低6%。馏分油库存减少了28.6万桶，此前一周已减少216.4万桶。EIA最新数据显示，在本次报告期开始前，馏分油库存比五年平均水平低12%。截至撰稿时，库欣库存数据尚未公布；库欣是WTI原油期货合约的交割枢纽。本文由Julianne Geiger为Oilprice.com撰写。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-30 05:02 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/US-Distillate-Stocks-Continue-to-Fall-As-Crude-Inventories-Build.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-gence-executive-order-ai-1f2684ece82a4b59" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1022" data-content-paragraphs="12" data-published-at="2026-09-29T22:25:45.000Z" data-time-source="publication">
+<div id="story-nai-ipo-devday-ai-safety-d6b003b6ebfae6b2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1101" data-content-paragraphs="1" data-published-at="2026-09-30T00:19:13.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:25</span>
+  <span class="news-meta-time">🕒 2026-09-30 08:19</span>
 </div>
 
-### [特朗普签署行政令，要求美国政府将AI改称为“超级智能”](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump orders US government to call AI ‘Super Intelligence’</div>
+### [萨姆·奥特曼称，OpenAI在其模型安全之前不会上市](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Sam Altman says OpenAI won’t go public until its models are safe</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="特朗普签署行政令，要求美国政府将AI改称为“超级智能”" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="萨姆·奥特曼称，OpenAI在其模型安全之前不会上市" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。</p>
-<p>“‘超级’这个词是最好的词，”特朗普说道。</p>
-<p>该作者的文章将添加到您的每日电子邮件文摘和主页推送中。</p>
-<p>查看劳伦·费纳（Lauren Feiner）的全部文章</p>
-<p>美国行政部门将不再承认“人工智能”（artificial intelligence）的存在。由于唐纳德·特朗普总统签署的一项新行政命令，今后官方政策网站、政策文件和新闻稿将统统改称为“超级智能”（Super Intelligence）。</p>
-<p>“‘超级’这个词是最好的词，也是最简练的，”特朗普周二早些时候在宣布推出 America.gov 的活动上表示，并称上周访问白宫的中国国家主席习近平也“很喜欢”这个词。“我们不想听到‘人工’（artificial）这个词。因为它不是人工的。它非常强大，非常聪明。它主要会被用于善途，而我们会制止不良用途。”他补充道，“人工”（Artificial）“就像新闻一样。假新闻。”他上周在联合国大会发表演讲时首次提到了这一更名计划，旨在平息人们对人工智能发展过快并构成安全风险的担忧。</p>
-<p>“它主要会被用于善途，而我们会制止不良用途”</p>
-<p>各行政机构无需修改过去的法规或文件，但这仍可能构成一种实实在在的（而且非常离奇的）转变。“超级智能”（Superintelligence）本是行业内用来指代特别强大的人工智能版本的若干术语之一，但特朗普政府正试图用该词取代法定层面上更宽泛的 AI 定义。在相关场合，美国官员预计甚至不得承认或使用“人工智能”或“AI”这些术语。</p>
-<p>特朗普在白宫主持了一场与科技公司首席执行官及政府官员的午餐会，讨论他现在正式称之为“超级智能”的议题，随后签署了这项行政命令。在会后发表简短公开讲话时，特朗普身旁站着英伟达首席执行官黄仁勋（Jensen Huang）以及特斯拉与 SpaceX 首席执行官埃隆·马斯克（Elon Musk），在其他与会者的簇拥下，特朗普称这次午餐会“非常富有成效”且“极其友好”。</p>
-<p>“有一种观点认为应该进行大力度的自我监管，”特朗普说，“而且我们自然也有司法部、联邦调查局等机构的监管。”在地方层面，科技公司在建设运行其服务所需的大型数据中心时面临着重重阻力，特朗普表示，这些企业将通过提供社区可能需要的资源和经济支持，“努力让社区满意”。他表示，归根结底，“数据中心将会非常受欢迎”。</p>
-<p>免费获取每日重要新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：将事件呈现为美国政府对人工智能官方称谓和政策语言的重大且反常的重命名，重点突出“Super Intelligence”取代“artificial intelligence/AI”可能带来的法律、政策和治理影响，同时关注特朗普政府对行业自律、数据中心建设及地方社区协调的表态。文章带有明显的讽刺和质疑色彩，但这些属于报道框架，不等同于已证实事实。</li>
-  </ul>
-</div>
+<div class="article-body" data-article-body="true"><p>有关这一主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。<br />OpenAI首席执行官表示，他不希望承受来自华尔街的“额外压力”。<br />该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。<br />查看海登·菲尔德的全部文章<br />数月以来，人们一直在猜测OpenAI何时会上市。首席执行官萨姆·奥特曼表示，在公司能够就模型安全作出更有力的承诺之前，这不会发生，目前也没有明确的时间表。奥特曼周二在DevDay主题演讲结束后接受记者问答时说：“我们打算继续推动人工智能进步……但随着模型能力大幅跃升，而且我们预计未来还会有更多进展，我们必须能够对安全性作出有把握的声明。”与此同时，他表示，如果IPO等待太久，将会“对世界不利”。<br />奥特曼发表上述言论之际，外界数月来一直在争论OpenAI及其竞争对手是否能够控制自己创造的系统。今年7月，有消息披露，一个尚未发布的OpenAI模型在OpenAI不知情的情况下入侵了竞争对手人工智能实验室Hugging Face。随后，OpenAI、Anthropic、Meta和谷歌又陆续曝出更多网络安全事件。一名Anthropic员工发布的高调辞职信，引发了公众对于这些系统对整个社会而言风险有多大的讨论。OpenAI与竞争对手一道呼吁加强监管，并“控制前沿发展节奏”。本月早些时候，奥特曼在一次采访中表示，公司今年很可能不会上市。<br />在DevDay活动上，奥特曼对于“控制前沿发展节奏”究竟意味着什么持谨慎态度，避免将其称为彻底放缓。他说：“对我们而言，控制节奏意味着让安全性和对齐进展领先于能力提升。”但他表示，上市可能会造成这样的局面：以安全或其他理由“让华尔街支持者失望”；而在“向极具能力的模型转变、并面临一种新型安全要求”的时期上市，似乎“不明智”。他说，OpenAI将把安全放在首位，从而“有把握地扩大人工智能的下一阶段发展，而不是让人们争论我们做出所有这些坏事的概率是多少”，而不是“全副武装、火力全开地冲向IPO”。<br />奥特曼说：“在我们经历这一重大转变、并努力实现我们所有人都应当希望公司针对这些能力极强的模型作出的安全声明之际，我现在不想施加额外压力。”<br />OpenAI的竞争对手Anthropic于6月正式提交上市申请，其IPO可能于11月进行，据报道时间会安排在美国中期选举之后。埃隆·马斯克旗下拥有其人工智能公司xAI的SpaceX于6月上市，并成为历史上规模最大的IPO。<br />奥特曼说：“我认为公司上市是一件好事。”他补充道：“我也认为，如果OpenAI等待太久才上市，这对世界来说也会有些不利。”<br />每日免费获取最重要新闻的摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-gs-other-health-benefits-7ab20c443039ee9c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="263" data-content-paragraphs="3" data-published-at="2026-09-29T22:01:02.000Z" data-time-source="publication">
+<div id="story--carolina-sports-betting-c0b9808367cc26e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1267" data-content-paragraphs="16" data-published-at="2026-09-30T01:59:41.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:01</span>
+  <span class="news-meta-time">🕒 2026-09-30 09:59</span>
 </div>
 
-### [减重药界“哥斯拉”或带来其他重要健康益处](https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ‘Godzilla’ of weight-loss drugs could provide other important health benefits</div>
+### [北卡罗来纳州体育博彩——最佳博彩公司和应用程序 | OutKick](https://www.foxnews.com/outkick-betting/north-carolina-sports-betting)
+<div class="original-title-sub"><span class="orig-tag">原文</span> North Carolina Sports Betting — Best Sportsbooks and Apps | OutKick</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/ec126c1ea0e0e77d16f37276000f3ee97eae5125/371_0_1729_1383/master/1729.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a71528edb4fc217831131637562e539" alt="减重药界“哥斯拉”或带来其他重要健康益处" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/524/sportsbook-general.jpg?ve=1&amp;tl=1" alt="北卡罗来纳州体育博彩——最佳博彩公司和应用程序 | OutKick" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>尽管尚未获得任何监管机构的批准，瑞他鲁肽（retatrutide）仍可能有助于改善血糖水平并减轻炎症。</p>
-<p>同类研究中规模最大的一项研究表明，这款减重药界的“哥斯拉”可能有助于改善血糖水平、减轻炎症，并使人的体重减少四分之一。</p>
-<p>瑞他鲁肽模拟了三种有助于控制食欲、血糖和新陈代谢的关键肠道激素：GLP-1、GIP和胰高血糖素（glucagon）。与主要通过针对GLP-1通路来抑制食欲的Wegovy，或结合GLP-1与GIP以控制血糖水平的Mounjaro等其他药物不同，瑞他鲁肽还能激活胰高血糖素受体，从而有助于增加能量消耗。</p></div>
+<div class="article-body" data-article-body="true"><p>北卡罗来纳州的体育博彩业务自2024年3月11日起正式上线，当时北卡罗来纳州彩票委员会为首批在线运营商颁发了许可证。如今，该州的投注者可以在7款合法体育博彩应用程序中进行选择。</p>
+<p>在北卡罗来纳州境内，年满21岁的任何人都可以进行合法体育博彩。自2024年3月11日起，您既可以在线投注，也可以在实体场所投注。</p>
+<p>以下是北卡罗来纳州体育博彩应用程序的综合列表。这份列表可作为选择希望尝试或最适合您的体育博彩平台的指南。需要考虑的因素包括新用户优惠、奖励以及使用便捷程度等。</p>
+<p>北卡罗来纳州的体育博彩平台会为新用户提供几种不同类型的新用户优惠，包括存款匹配、奖励投注以及投注即得奖励。奖励投注和奖励资金并不等同于现金，但可以在应用程序内用于下注。“投注即得”优惠通常要求您为账户充值并进行投注，随后获得固定金额的奖励资金。存款匹配则会根据您为账户充值的金额，提供相同金额或其中一部分作为匹配资金。请注意，奖励投注会到期。</p>
+<p>北卡罗来纳州的体育博彩最早在2019年前后开始受到关注，当时部落土地开始接受体育博彩。2021年3月，现场投注获准进行。2023年6月14日，州长罗伊·库珀签署了第347号众议院法案，使其成为法律。2024年3月11日，移动端和在线体育博彩正式上线。</p>
+<p>想要投注北卡罗来纳州的职业体育队伍吗？可选择的球队很多，其中大多数位于夏洛特地区。黑豹队是一支受欢迎的橄榄球队。夏洛特黄蜂队代表该市参加NBA联赛。该州没有棒球队，但有参加NHL联赛的飓风队，以及面向足球爱好者的夏洛特足球俱乐部。当然，还有杜克大学和北卡罗来纳大学等大学球队，它们也吸引了大量投注和体育关注。</p>
+<p>您可以在北卡罗来纳州合法投注大学体育赛事，包括让分、总分和胜负投注选项。与其他州不同的是，在北卡罗来纳州，您还可以投注大学运动员的球员特殊投注项目。</p>
+<p>目前，北卡罗来纳州有3家实体体育博彩场所，全部位于赌场内。您可以前往切罗基哈拉斯赌场度假村、哈拉斯切罗基河谷赌场，或卡托巴双王赌场。</p>
+<p>持牌实体场所：<br />哈拉斯切罗基赌场度假村（Caesars Sportsbook）——切罗基<br />哈拉斯切罗基河谷赌场及酒店（Caesars Sportsbook）——墨菲<br />卡托巴双王赌场（Two Kings Sportsbook）——金斯芒廷</p>
+<p>是的，体育博彩在北卡罗来纳州是合法的。您必须年满21岁，在下注时身处该州境内，并拥有一个已注册的账户。</p>
+<p>北卡罗来纳州最佳体育博彩平台取决于您的具体需求。如果您想要高额新用户奖金，BetMGM可能会被认为是最佳选择。您可以使用的体育博彩平台数量没有限制，因此可以全部尝试。</p>
+<p>您必须年满21岁，才能在北卡罗来纳州投注体育赛事。</p>
+<p>是的。在北卡罗来纳州，您可以投注大学比赛的胜负、总分和让分。您也可以在北卡罗来纳州投注球员特殊投注项目。</p>
+<p>不，您不必居住在北卡罗来纳州才能在那里投注；您只需在下注时实际位于该州境内即可。</p>
+<p>目前，北卡罗来纳州有7家合法体育博彩平台。</p>
+<p>是的，目前有3家实体体育博彩场所可供您亲自前往投注。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>文章称，retatrutide尚未获得任何监管机构批准。</li>
-    <li>文章称，retatrutide可能改善血糖水平、减少炎症，并使人的体重减少四分之一。</li>
-    <li>来源叙事重点：突出retatrutide相较于Wegovy和Mounjaro可能具有更广泛或更强的代谢作用，重点强调其对体重、血糖和炎症的潜在改善，以及同时模拟GLP-1、GIP和胰高血糖素三条通路的机制。文章同时提到该药尚未获任何监管机构批准，但未展开说明研究设计、风险收益或审批进展。</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-30 09:59 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theguardian.com/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/north-carolina-sports-betting" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-026-09-30-10705954-shtml-f62aa703434a1fe1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="925" data-content-paragraphs="24" data-published-at="2026-09-29T22:56:43.000Z" data-time-source="publication">
+<div id="story-026-09-30-10706023-shtml-d4c03c7e5577f524" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="2694" data-content-paragraphs="26" data-published-at="2026-09-30T01:56:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:56</span>
+  <span class="news-meta-time">🕒 2026-09-30 09:56</span>
 </div>
 
-### [以色列防长威胁：哈马斯海外领导人也在打击之列](https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml)
+### [9月中国制造业采购经理指数为50.1% 升至扩张区间](https://www.chinanews.com.cn/cj/2026/09-30/10706023.shtml)
 
-<div class="article-body" data-article-body="true"><p>中新网9月30日电 据《以色列时报》报道，以色列国防部长卡茨当地时间29日表示，身处海外的巴勒斯坦伊斯兰抵抗运动(哈马斯)领导人也在以色列打击之列，并威胁将追击2023年10月7日袭击以色列的所有参与者。</p>
-<p>据报道，卡茨在一段视频声明中称，作为系列行动的一部分，以色列国防军连夜打死了哈马斯军事分支北加沙旅指挥官。</p>
-<p>卡茨还指出，身处海外的哈马斯领导人同样也是打击目标。那些参与2023年10月7日袭击以色列的“核心角色”，一个也不能“安然死去”。</p>
-<p>据此前报道，近段时间，以方加大对加沙地带巴勒斯坦武装人员打击力度。以总理内塔尼亚胡称，最近几周，以军在加沙地带打死百余名“恐怖分子”。</p>
-<p>以色列国防军和以色列国家安全总局(辛贝特)29日发表联合声明称，以方28日夜间至29日凌晨在加沙地带北部采取行动，打死哈马斯军事分支北加沙旅指挥官伊兹丁·比克。声明称，比克曾担任北加沙旅军事情报负责人，在该旅前任指挥官被打死后接任。</p>
+<div class="article-body" data-article-body="true"><p>中新网9月30日电 据中国物流与采购联合会网站消息，国家统计局服务业调查中心、中国物流与采购联合会发布的2026年9月份中国制造业采购经理指数(PMI)为50.1%，较上月上升0.3个百分点，在连续2个月运行在50%以下后回到扩张区间，显示9月份制造业运行有所回升。从分项指数和行业指数来看，市场需求整体稳定扩张，企业生产加快上升，市场价格联动上升，大型企业稳定增长，中小企业景气改善，整体来看制造业向好运行。</p>
+<p>市场需求整体稳定扩张，消费需求回升较为突出。9月份，极端天气对经济的影响基本消退，宏观经济回到正常运行轨道，建筑业与部分消费相关行业迎来传统旺季，叠加多项稳经济促增长政策加速转化实物工作量，制造业市场需求整体稳定扩张。新订单指数为50.5%，较上月略降0.1个百分点，仍保持在扩张区间。出口也持稳运行，新出口订单指数为50%，较上月略降0.1个百分点至荣枯线。从行业层面来看，9月份制造业中需求回升较为突出的是消费品制造业。在中秋国庆双节备货、换季以及国外订单收官的带动下，消费市场景气明显回升，消费品制造业新订单指数较上月上升超过3个百分点至接近53%的高位，新出口订单指数也较上月上升超过1个百分点至接近52%的水平，有效支撑制造业市场需求整体稳定扩张。新动能市场需求增势虽有所放缓，但仍保持在扩张区间，装备制造业和高技术制造业新订单指数都运行在50%以上。</p>
+<p>企业生产加快上升，销售活动顺畅运行。9月份，制造业企业生产活动在上月扩张基础上进一步加快上升，生产指数为51.7%，较上月上升1.3个百分点。带动生产活动加快上升的因素，一是9月新订单稳定扩张；二是前期积压的订单加快排产，为企业生产释放积蓄了动能，积压订单指数为46%，环比下降0.7个百分点。比较来看，虽然9月制造业企业生产活动增势明显高于接单增势，企业销售活动依然较为顺畅，体现在产成品加快出库，也从侧面印证了当前市场景气向好回升，产成品库存指数较上月下降0.8个百分点至47.6%。从行业来看，9月装备制造业、高技术制造业、基础原材料行业和消费品制造业的生产指数都较上月有所上升，显示生产端普遍加快上升。</p>
+<p>基础原材料价格涨势明显，带动产业链市场价格联动上升。9月份，制造业市场价格在上月基础上进一步上升，制造业购进价格指数为60.8%，较上月上升4.2个百分点；出厂价格指数为54%，较上月上升3.6个百分点，两个价格指数环比升幅都较为明显。PMI调查显示，基础原材料价格涨势明显，通过价值链向下游传递，带动产业链中下游行业市场价格联动上升。月内受国际地缘政治因素影响，原油、天然气价格明显上涨，带动作为替代能源的煤炭价格也明显上行，相关基础原材料产品价格相应上涨，基础原材料行业购进价格指数和出厂价格指数均较上月上升超过10个百分点，分别升至70%以上和60%以上。由于基础原材料价格上升，装备制造业、高技术制造业和消费品制造业的购进价格指数都运行在54%以上，原材料成本普遍上行。</p>
+<p>大型企业稳定增长，中小企业有所改善。9月份，在政策支持力度加大、极端天气影响消退以及部分行业迎来旺季的情况下，制造业大中小企业均有积极变化。大型企业保持稳定增长态势，供需两端持续扩张，大型企业PMI为50.6%，与上月持平，从生产指数和新订单指数来看，大型企业需求延续扩张势头，生产加快上升。中小企业景气也出现边际改善，中型企业PMI为49.7%，较上月上升0.3个百分点，其市场需求稳定运行，生产活动加快扩张。小型企业PMI为48.9%，较上月上升1个百分点，其市场需求降势明显收窄，生产活动有所回升。整体来看，9月份制造业企业活力向好运行。</p>
+<p>三季度，我国制造业PMI均值为49.7%，虽低于二季度均值0.5个百分点，但高于去年同期均值0.2个百分点，而且8、9月制造业PMI呈现连续上行态势，显示尽管三季度内我国制造业因极端天气等外部因素影响，运行态势较二季度有所波动，但仍好于去年同期，且季度内后两月呈现连续趋稳回升态势。从结构来看，三季度制造业还呈现“出口贸易趋稳回升，产业结构向新向优”的积极变化。支撑三季度制造业回稳向好运行的因素，一是稳经济促增长政策密集落地，为宏观经济发展注入强劲动力；二是新动能保持较快扩张，对经济支撑作用不断加强。三季度装备制造业PMI和高技术制造业PMI均值分别运行在51%以上和52%以上，且连续多个季度运行在扩张区间；三是出口韧性稳定发挥，传统重点出口行业平稳增长，人工智能出口亮点突出。三季度制造业新出口订单指数均值为49.9%，连续2个季度上升。</p>
+<p>预计四季度，我国制造业将保持“稳定运行、适度扩张”运行态势。首先，政策端力度仍有加大空间，对宏观经济的带动作用进一步发挥。近日国资委表示，今年以来央企围绕“六张网”靠前谋划，加快实施了一批重大项目和标志性工程，年度计划安排相关投资大约为2万亿元，目前各项工作进展顺利。其他稳经济政策也在加码落实，继续稳定转为实物工作量；其次，10月份仍是建筑业以及部分制造业细分行业的传统旺季，年底也是企业冲击年度目标的重要节点。在政策与内在韧性等的带动下，四季度制造业供需两端预计延续扩张势头，新动能也将继续稳中向好发展。企业对后市预期保持稳定乐观，9月生产经营活动预期指数为53.8%，与上月持平。</p>
 <p>农村随礼不超100元、县城不超200元，多地给份子钱“限高”</p>
 <p>鞋不对为何会丢金？亚运会“冷门”规则盘点</p>
 <p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
@@ -169,21 +133,22 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：聚焦以色列国防部长卡茨扩大打击对象范围的表态，以及以军和辛贝特宣称在加沙北部打死哈马斯北加沙旅指挥官一事。叙事主要呈现以色列方面关于追责、军事行动和反恐目标的说法，并以“威胁”“打击目标”等表述突出行动的延伸性。</li>
+    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-30 09:56 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
+  <span class="news-tag-pill">#中新网</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-30/10705954.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/cj/2026/09-30/10706023.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-lled-openais-dots-launch-c7d7b794f0ae36ef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1078" data-content-paragraphs="13" data-published-at="2026-09-29T22:20:59.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1019" data-content-paragraphs="13" data-published-at="2026-09-29T22:20:59.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -192,27 +157,28 @@ notice:
   <span class="news-meta-time">🕒 2026-09-30 06:20</span>
 </div>
 
-### [互联网普遍认为埃隆·马斯克的 xAI 恶搞了 OpenAI 的“Dots”发布](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
+### [互联网坚信埃隆·马斯克的xAI恶搞了OpenAI的“Dots”发布会](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</div>
 
-<div class="article-body" data-article-body="true"><p>周二，OpenAI 推出了一款名为 Dots 的新产品，这是一款拥有气泡状、圆润虚拟形象的常驻 AI 智能体。虽然五彩斑斓的虚拟形象可能会令人莞尔，但（我们设想）此次发布引发的最大笑声或许来自埃隆·马斯克——这位 OpenAI 的前联合创始人后来离职、推出了竞争对手 Grok，并曾对 OpenAI 发起诉讼（但未获成功）。</p>
-<p>这是因为域名“dot.com”归马斯克的 xAI 所有，且目前会自动重定向到 xAI 旗下 Grok 聊天机器人应用的下载页面。根据 Whois 域名所有者注册数据库的记录，该域名刚刚在今年 7 月完成转让。</p>
-<p>当然，xAI 完全有可能是出于常规的域名收购考量买下了该域名。“Dot”可能是“bot”的拼写错误，因此买下它是为了拦截打错字的用户搜索流量。我们已联系 xAI 询问此事。不过，xAI 并不拥有“bot.com”这个域名，也没有拥有其他显而易见的拼写错误域名，例如目前仍在挂牌出售的“vot.com”。</p>
-<p>网民们的推测则要有趣得多：马斯克（或其团队）搞了一场恶作剧——他们提前收到了 OpenAI 新产品及其名称的风声，从而抢先买下了该域名。</p>
-<p>事实上，一位匿名的 X 用户兼 xAI 观察员 @birdabo（此人自称是“@SpaceXAI 的首席恶搞官”）最先在一篇疯传的帖子中注意到了这个域名。无论其真正动机如何，这一情况确实颇具喜感。</p>
-<p>至于更直接契合该产品名称的“dots.com”域名，目前归属于一家早已停业的公司。因此，如果这场恶作剧真是出于报复心理，要是能连那个域名也一并拿下，那才算更上一层楼。</p>
-<p>“哈哈哈哈哈哈哈哈哈哈 不可能吧。&gt; OpenAI 刚刚宣布了 Dots。&gt; SpaceXAI 就买下了 https://t.co/WdFqpl07IQ 它直接重定向到了 Grok Bot 的下载页面。太秀了笑死。pic.twitter.com/HF95hLF0T9”</p>
-<p>购买第二张门票立减 50%：Disrupt 的体验本就该与人共享。立即购买门票，即可携同事、合作伙伴或同行以半价入场。通过建立人脉、蓄积动力并探索初创生态系统的下一站，拓宽你的业务视野。</p>
-<p>每周工作日及周日，您均可获取 TechCrunch 最优质的报道内容。</p>
-<p>TechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。</p>
-<p>初创公司是 TechCrunch 的核心，敬请每周查收我们为您呈现的精选报道。</p>
-<p>为行业领袖及决策者提供开启新一天所需的关键资讯。</p>
-<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
+<div class="article-body" data-article-body="true"><p>周二，OpenAI推出了一款名为Dots的新产品——一款始终在线、拥有圆润多彩头像的人工智能代理。虽然这个色彩缤纷的头像可能会让人会心一笑，但这次发布会带来的最大笑声，（我们猜想）应该来自埃隆·马斯克。这位前OpenAI创始人后来离开公司，推出了竞争对手Grok，并曾发起诉讼但未能成功。</p>
+<p>原因在于，“dot.com”这一域名属于马斯克旗下的xAI，目前会跳转至xAI的Grok聊天机器人应用下载页面。根据Whois域名所有者登记信息，该域名刚刚于今年7月完成转让。</p>
+<p>xAI完全有可能是出于正常的域名购买考虑而买下了该域名。“Dot”可能是“bot”的拼写错误，因此xAI买下它，或许是为了截获用户输入错误域名时产生的搜索流量。我们已联系xAI并提出询问。不过，xAI并不拥有“bot.com”这一域名，也没有拥有其他明显的拼写错误域名，例如目前正在出售的“vot.com”。</p>
+<p>互联网流传的说法则有趣得多：马斯克（或他的团队）得知OpenAI的新产品及其名称后，买下了这个域名，以此完成了一场恶作剧。</p>
+<p>事实上，匿名X用户、xAI观察者@birdabo（此人自称“@SpaceXAI首席发帖官”）最先在一条如今已经走红的帖子中发现了这个域名。不论动机是什么，这一情形都颇为滑稽。</p>
+<p>至于与产品名称更直接匹配的“dots.com”域名，目前它属于一家早已停止运营的公司。因此，如果这真的是一次出于小小报复心理的恶作剧，那么连这个域名也一并拿下，就更是登峰造极了。</p>
+<p>哈哈哈哈哈哈哈哈哈哈哈，不可能吧。&gt; OpenAI刚刚宣布了Dots。&gt; SpaceXAI买下了https://t.co/WdFqpl07IQ，它会直接跳转到Grok Bot的下载页面。太有那味了，笑死。pic.twitter.com/HF95hLF0T9</p>
+<p>第二张通行证可享五折优惠<br />Disrupt体验就是要与他人分享。购买您的通行证，并以五折价格带上一位同事、合作伙伴或同行者。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。</p>
+<p>每个工作日和周日，您都可以获取TechCrunch最精彩的报道。</p>
+<p>TechCrunch Mobility是您获取交通运输新闻与洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，我们每周为您送上最精彩的内容。</p>
+<p>为行业风云人物提供开启一天所需的信息。</p>
+<p>提交电子邮箱即表示您同意我们的《条款》和《隐私声明》。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：聚焦OpenAI发布AI代理产品Dots前后，xAI持有dot.com且该域名跳转至Grok下载页面这一巧合，以及互联网用户据此推测马斯克或xAI团队进行恶作剧的说法。文章同时提出域名可能因常规商业原因或防止将“dot”误拼为“bot”而被购买，但整体以戏剧性和娱乐性解读为主。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 06:20 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -225,62 +191,8 @@ notice:
 :::
 
 :::cell
-<div id="story-ds-of-sql-query-builders-29ded93617898db7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4252" data-content-paragraphs="31" data-published-at="2026-09-29T20:47:03.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 04:47</span>
-</div>
-
-### [两种 SQL 查询构造器](https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Two Kinds of SQL Query Builders</div>
-
-<div class="article-body" data-article-body="true"><p>SQL 语言有着耐人寻味的命运。尽管它最初是为了迎合人类用户而精心设计的，但如今绝大多数 SQL 代码却是由计算机编写——或者更确切地说是生成的。许多计算机程序都需要查询某种数据库，而对绝大多数数据库服务器而言，唯一支持的查询语言就是 SQL。然而，由于其类英语语法（其原名 SEQUEL 代表结构化英语查询语言）规则复杂且晦涩，生成 SQL 代码十分困难。正因如此，与数据库交互的程序通常会使用专门的库来生成 SQL 查询。</p>
-<p>FunSQL 就是这样的一款库。FunSQL 的设计旨在实现两个目标：全面支持 SQL 的各项查询功能，并通过可组合、面向数据（data-oriented）的接口将这些功能暴露出来。这一目标组合使 FunSQL 成为利用 SQL 进行数据分析的绝佳工具，并使其在所有其他查询构造库中脱颖而出。许多查询构造器都能很好地覆盖 SQL 特性，提供面向数据接口的则相对较少，但唯有 FunSQL 将这两者融于一身。</p>
-<p>然而，FunSQL 与其他查询构造器之间的差异并不会立即显现。事实上，各类查询构造库的接口看起来几乎毫无二致。例如，在 OMOP CDM 数据库中查找 100 位年龄最大的男性患者的查询，使用 FunSQL 组装如下：</p>
-<p>同样的查询，在 Ruby 中使用 Active Record Query Interface 可以写成：</p>
-<p>或者在 PHP 中使用 Laravel 的 Query Builder：</p>
-<p>抑或在 R 语言中使用 dbplyr：</p>
-<p>在这些代码示例中，查询本质上都是使用相同的接口来组装的。剥离其语法外壳后，组装查询的过程可以形象化为一条由五个处理节点连接而成的流水线图：</p>
-<p>正是由于查询是由原子化、独立的组件逐步组装而成的这一事实，我们才能称这种接口为可组合的（compositional）。</p>
-<p>然而，我们此前声称 FunSQL 与所有其他查询构造库都不同，现在岂不是证明了相反的结论？事实上，差异确实存在，即便它并未在书写形式上反映出来。为了证明这一点，我们不妨重新排列这个流水线，将 Order 和 Limit 节点移至 Where 节点之前。</p>
-<p>这种重排会对查询的输出产生什么影响？也许出人意料的是，答案取决于所使用的库。在 FunSQL 以及 EF/LINQ 和 dbplyr 中，它会将输出从“100 位年龄最大的男性患者”变为“在 100 位年龄最大的患者中的男性”。但在另外两个库（Active Record 和 Laravel）中却并非如此，在它们之中重排流水线对输出毫无影响。</p>
-<p>概括而言，以下查询构造器对流水线节点的顺序敏感：</p>
-<p>而以下查询构造器则不敏感：</p>
-<p>这正是本文标题所指的两种查询构造器。但是，既然这些库共享相同的接口，它们又为何会表现得如此迥异？要回答这个问题，我们需要聚焦于流水线图上仅隐式存在的内容：流水线节点所处理的信息。</p>
-<p>一个带有一进一出箭头的节点象征着一个处理单元，它接收输入数据，对其进行转换，然后输出数据。虽然数据的具体特征并未揭晓，但人们很容易假设它就是从数据库中提取的表格数据。</p>
-<p>但这不可能是正确的，至少在字面上不是，因为 SQL 查询构造器无法直接读取数据库中的数据。相反，查询构造器生成的是 SQL 查询：</p>
-<p>但如果我们暂时假设流水线节点可以直接处理数据，我们就会预期流水线和对应的 SQL 查询产生相同的输出。换言之，流水线的作用是规定 SQL 查询的预期输出。这就是 FunSQL 以及 EF/LINQ 和 dbplyr 这两款库对流水线节点的解释方式。我们可以称这类查询构造器为“面向数据”（data-oriented）的。</p>
-<p>将流水线转换为 SQL 并不总是那么直截了当。尽管我们可以在流水线中自由重排节点，但我们无法对 SQL 查询中的子句做同样的事。这是因为 SQL 语法将子句安排在了僵化的固定顺序中：</p>
-<p>这种顺序与第一种流水线兼容（其中 Where 节点后面跟着 Order 和 Limit），但与第二种流水线不兼容（其中这些节点改变了相对位置）。那么，第二种流水线如何才能转换为 SQL？如果我们仍在使用最初的 SQL 标准 SQL-86，那我们将束手无策；不过，该语言的下一版本 SQL-92 意识到了这一局限。遗憾的是，它并未放宽这种僵化的子句顺序。取而代之的是，SQL-92 引入了一种变通方案：可以通过将一个查询嵌套到下一个查询的 FROM 子句中来对其进行扩展。这为我们将任意流水线转换为 SQL 提供了一种方法：将流水线拆解为符合 SQL 子句顺序的较小分块，将每个分块转换为一个 SQL 查询，然后将所有这些查询嵌套在一起：</p>
-<p>SQL 语法存在诸多缺陷，包括僵化的子句顺序、查询嵌套，以及 SELECT 子句荒谬的位置。SELECT 的位置违背了查询的执行流，而查询嵌套更是加剧了这种违背。复杂的 SQL 查询通常需要多层嵌套，这导致此类查询变得臃肿且难以理解。这正是面向数据的查询构造器（不对流水线节点的顺序加以限制）相较于原生 SQL 提供改进的地方。</p>
-<p>那么另一种查询构造器又是怎样的呢？Active Record 和 Laravel 采用了完全相同形式的流水线，但由于它对节点的顺序不敏感，因此必然是基于不同的原理运行。事实上，这种流水线是通过增量组装 SQL 语法树来生成 SQL 查询的。由于固定的子句顺序，SQL 语法树可以被如实地表示为一个复合数据结构，其中的各个槽位指定了 SELECT、FROM、WHERE 和其他子句的内容：</p>
-<p>该结构的各个独立槽位由相应的流水线节点填充。</p>
-<p>这就解释了为什么这种流水线对节点的顺序不敏感。确实，只要槽位的内容保持不变，以何种顺序填充槽位并无任何分别。</p>
-<p>这种逐步构建复合结构的方法被称为生成器模式（builder pattern）。我们可以称采用这种模式的查询构造器为“面向语法”（syntax-oriented）的。</p>
-<p>无论是面向数据的查询构造器还是面向语法的查询构造器，它们都是可组合的：两者的区别在于组合单元所处理信息的本质。面向数据的查询构造器逐步细化查询输出；面向语法的查询构造器则逐步组装 SQL 语法树。它们的接口看起来几乎一模一样，但其运作机制却有着本质的不同。</p>
-<p>但哪一种更好？</p>
-<p>语法导向的查询构建器有两个明确的优势：易于实现，并且能够支持完整范围的 SQL 特性。实际上，语法导向查询构建器的接口只是一组用于构建 SQL 语法树的构建器。语法树的表示有多完整，决定了它对各种 SQL 特性的支持程度。</p>
-<p>另一方面，语法导向的查询构建器更难使用。由于它们直接表示 SQL 语法，因此也继承了 SQL 语法的所有缺陷。尤其是，僵化的子句顺序使得组装复杂的数据处理流水线变得困难，特别是在流水线节点的排列顺序并未预先确定时。</p>
-<p>数据导向的查询构建器直接表示数据处理节点，这使得组装数据处理流水线变得直观得多——前提是我们能在构建器提供的节点中找到所需节点。但构建器从哪里获得这组数据处理节点？我们又如何判断这组节点是否完整？</p>
-<p>实现数据导向查询构建器的一种方式，是对通用查询框架进行适配。EF/LINQ 的来源正是这种方式：它由 LINQ 适配而来；dbplyr 则由 dplyr 适配而来。查询框架决定了有哪些处理节点可用，以及这些节点如何运行。原则上，任何查询框架都可以通过引入一个新节点来适配 SQL 数据库，这个节点用于加载数据库表的内容。如果我们把这个节点放在流水线开头，再用常规节点组成流水线的其余部分，就能得到一个处理 SQL 数据库中数据的流水线。然而，与 SQL 引擎相比，这种流水线的效率会非常低，因为 SQL 引擎可以利用索引，避免将整张表加载到内存中，从而更快地处理相同的数据。这就是 EF/LINQ 和 dbplyr 会生成 SQL 查询、用它整体替代流水线的原因。流水线本身不再直接运行，而是充当一种规范：假定它实际运行时，会产生与该 SQL 查询相同的输出。将通用查询框架转换为 SQL 查询构建器的这种方法称为 SQL 下推（SQL pushdown）。</p>
-<p>然而，SQL 下推存在一个严重的局限。通用查询框架的设计并未考虑与 SQL 的兼容性。因此，在这一框架中组装的一些流水线无法转换为 SQL。更糟糕的是，许多有用的 SQL 查询并不存在对应的流水线，因而无法通过 SQL 下推生成。事实上，自 1974 年首次出现以来，SQL 已经积累了广泛的特性和能力。SQL 标准的第一次修订版 SQL-86 已经支持笛卡尔积、过滤、分组、聚合和相关子查询。下一版修订标准 SQL-92 增加了多种连接类型，并引入了查询嵌套。SQL:1999 通过增加两类查询，大幅扩展了分析能力：用于处理层次化数据的递归查询，以及数据立方体查询；后者概括了直方图、交叉表、汇总、下钻和小计。后续的 SQL:2003 修订版增加了对运行窗口上的聚合函数的支持。诚然，SQL 是典型的企业级畸形产物，是为支持各种可以想象的使用场景而不断添加特性的杂乱拼合体，但其语法不充分、功能存在奇怪的缺口，也不顾内部一致性。尽管如此，SQL 能力的广度仍未被包括 LINQ 或 dplyr 在内的任何其他查询框架匹敌。因此，当我们使用 EF/LINQ 或 dbplyr 生成 SQL 查询时，SQL 的这部分庞大能力仍然无法使用。</p>
-<p>FunSQL 是一种专门创建的数据导向查询构建器，旨在展现 SQL 的完整表达能力。不同于 EF/LINQ 和 dbplyr，FunSQL 并非由现有查询框架改造而来，而是从零开始经过精心设计，以匹配 SQL 的能力。这些能力包括：支持相关子查询和横向连接（通过 Bind 节点实现）、聚合函数和窗口函数（使用 Group 和 Partition 节点实现），以及递归查询（通过 Iterate 节点实现）。对 SQL 能力的这种全面支持，使 FunSQL 成为唯一适合组装复杂数据处理流水线的 SQL 查询构建器。此外，尽管 FunSQL 流水线无法直接运行，但每个 FunSQL 节点都有定义明确的数据处理语义；这意味着，原则上可以将 FunSQL 开发成完整的查询框架。这有可能为用一种同样强大、但更加连贯且更具表达力的查询语言取代 SQL 开辟道路。</p></div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
 <div id="story-f-data-to-tech-companies-499a6ea33b625961" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1148" data-content-paragraphs="19" data-published-at="2026-09-29T22:18:35.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1161" data-content-paragraphs="19" data-published-at="2026-09-29T22:18:35.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -289,33 +201,34 @@ notice:
   <span class="news-meta-time">🕒 2026-09-30 06:18</span>
 </div>
 
-### [你的汽车及其移动应用可能正向科技公司交出各种数据](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
+### [你的汽车及其移动应用可能正在向科技公司交出各种数据](https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Your car and its mobile app are probably handing over all kinds of data to tech companies</div>
 
-<div class="article-body" data-article-body="true"><p>配备WiFi和GPS等联网汽车技术的现代汽车，会收集大量有关车主的数据。而根据东北大学研究人员开展的一项新研究，这些数据并没有得到妥善保护。</p>
-<p>这一结论并不新鲜——已有大量调查和诉讼揭露了驾驶数据是如何被收集并与包括保险公司在内的第三方共享的。这项研究揭示的是，问题的规模究竟有多大，以及消费者要避开这一问题有多困难；除非他们完全不使用汽车，或不使用远程启动、远程解锁等便利功能。</p>
-<p>研究人员与《消费者报告》合作，对来自17家汽车制造商的21辆新款汽车进行了测试，其中包括通用汽车旗下的凯迪拉克和雪佛兰，以及福特、Lucid、Rivian、特斯拉、丰田等品牌。他们还检查了30款配套移动应用，以“了解联网汽车生态系统对隐私的影响”。这项经过同行评审的研究将于本周发表。</p>
-<p>对于消费者来说，这些发现并不乐观，因为他们的数据正被共享给包括Adobe、ContentSquare、谷歌、微软、Meta、Snap和雅虎在内的科技公司。</p>
-<p>在接受测试的21辆汽车中，有19辆将流量发送给至少一家第三方机构；30款应用中有7款将车辆识别号码（VIN）、电子邮件地址、电话号码和精确位置等敏感数据提供给与跟踪和广告相关的第三方公司。</p>
-<p>研究结果显示，这一过程往往更进一步：同一家第三方机构会收到多种形式的信息。这种做法让广告商和数据经纪商能够建立消费者的深度画像。这些画像尤其难以摆脱，因为它们会被出售给包括保险公司和银行在内的各种企业。</p>
-<p>当研究人员将配套应用与汽车连接后，汽车暴露给广告和跟踪公司的程度大约增加了一倍。</p>
-<p>研究人员表示，他们已将研究结果分享给相关汽车制造商。除本田外，所有制造商都将责任推给了其他方面，而且往往归咎于消费者。（本田在得知研究结果后确实改善了数据收集做法，并要求其供应商Amplitude删除已经收到的所有地理位置数据。）</p>
+<div class="article-body" data-article-body="true"><p>采用 WiFi 和 GPS 等联网汽车技术制造的现代汽车，会收集大量有关车主的数据。美国东北大学研究人员开展的一项新研究显示，这些数据并没有得到妥善保密。</p>
+<p>这一结论并不新鲜——已有大量调查和诉讼揭露了驾驶数据是如何被收集并与包括保险公司在内的第三方共享的。这项研究揭示的是，问题的规模究竟有多大，以及消费者要避免这种情况有多困难；除非不使用汽车，或不使用远程启动、远程解锁等便利功能。</p>
+<p>研究人员与《消费者报告》合作，对来自17家汽车制造商的21辆较新车型进行了测试，其中包括通用汽车旗下的凯迪拉克和雪佛兰，以及福特、Lucid、Rivian、特斯拉、丰田等品牌。他们还检查了30款配套移动应用，以“了解联网汽车生态系统对隐私的影响”。这项经过同行评审的研究将于本周发表。</p>
+<p>对于消费者而言，研究结果并不乐观，因为他们的数据正在被共享给包括 Adobe、ContentSquare、谷歌、微软、Meta、Snap 和雅虎在内的科技公司。</p>
+<p>测试的21辆汽车中，有19辆会向至少一家第三方发送流量；30款应用中有7款会将车辆识别号码（VIN）、电子邮箱、电话号码和精确位置等敏感数据提供给与跟踪和广告业务相关的第三方公司。</p>
+<p>研究结果显示，这种情况往往还会进一步发展：同一第三方会收到多种形式的信息。这种做法使广告商和数据经纪商能够建立消费者的深度画像。这些画像尤其难以摆脱，因为它们会被出售给包括保险公司和银行在内的各种企业。</p>
+<p>当研究人员将配套应用与汽车配对后，暴露给广告和跟踪公司的程度大约增加了一倍。</p>
+<p>研究人员表示，他们已将研究结果告知相关汽车制造商。除本田外，所有制造商都将责任推给了其他方面，而且往往归咎于消费者。（本田在得知研究结果后确实改善了数据收集做法，并要求其供应商 Amplitude 删除已接收的所有地理位置数据。）</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>交通运输编辑</p>
-<p>第二张门票享受五折优惠</p>
-<p>The Disrupt体验旨在与他人共享。购买您的门票，并以五折价格带上一位同事、合作伙伴或同行者。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。</p>
-<p>Crusoe放弃在人工智能数据中心使用Boom涡轮机的12.5亿美元计划</p>
-<p>Astra和Opus刚刚通过了Turing的另一项测试</p>
-<p>甲骨文向其位于新墨西哥州的Stargate数据中心发出不可抗力通知</p>
-<p>Meta为其Muse人工智能代理制作了一款类似电子宠物机的可穿戴设备</p>
-<p>《Vogue》让机器人走上Vogue World的T台，但人们并不买账</p>
-<p>Anthropic称其生物学实验室已经取得重大突破</p>
-<p>PitPro首台换胎机器人在加拿大投入运行</p></div>
+<p>交通领域编辑</p>
+<p>第二张通行证可享五折优惠</p>
+<p>The Disrupt 体验旨在与他人共享。购买您的通行证，并以五折价格带上一位同事、合作伙伴或同行者。通过建立联系、积蓄势能并探索创业生态系统的未来，获得更广阔的视野。</p>
+<p>AMD 将以82亿美元收购李飞飞的 World Labs</p>
+<p>Crusoe 放弃在 AI 数据中心使用 Boom 涡轮机的12.5亿美元计划</p>
+<p>Astra 和 Opus 刚刚通过了图灵测试的另一项考验</p>
+<p>甲骨文就其位于新墨西哥州的 Stargate 数据中心发出不可抗力通知</p>
+<p>《Vogue》在 Vogue World 活动中让机器人走上T台，但人们对此并不买账</p>
+<p>Anthropic 称其生物学实验室已经取得重大进展</p>
+<p>PitPro 首台换胎机器人在加拿大投入运行</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：将联网汽车描述为持续收集并向第三方传输车主数据的生态系统，强调汽车与手机应用结合后会扩大广告和追踪暴露，并突出消费者难以在保留远程启动、解锁等便利功能的同时避免数据共享。报道还强调数据可能被广告商、数据经纪商、保险公司和银行用于建立消费者画像。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 06:18 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -328,190 +241,8 @@ notice:
 :::
 
 :::cell
-<div id="story-blogs-the-shell-43359d1a46b3eaed" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="897" data-content-paragraphs="13" data-published-at="2026-09-29T20:14:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 04:14</span>
-</div>
-
-### [Shell 与电子邮件](https://www.machtiani.chat/blogs/the-shell)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Shell &amp; Email</div>
-
-<div class="article-body" data-article-body="true"><p>当同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程就是一个会话，而且支持群组对话。</p>
-<p>看看我在 GitHub 上构建的东西。</p>
-<p>使用电子邮件，你不会被绑定在某一家公司的应用上，甚至也不会被绑定在自己的笔记本电脑上。你可以在任何地方使用它；此外，在网络条件较差的情况下，电子邮件也是最灵活的工具。</p>
-<p>电子邮件已经解决了如何以异步、分布式方式与人协作的问题。大型语言模型理解这一点，就像它们理解 shell 一样。</p>
-<p>我们喜欢 shell，也喜欢让我们能够使用它的终端。这是出于实际原因：shell 可以进行组合，并且能够与其他应用实现互操作，而不需要守门人。一旦掌握了使用方法，使用终端会让人感到有趣且自由。</p>
-<p>大型语言模型在与 shell 结合使用时对我们最有用，这并非巧合。如果我们需要与某个代理密切协作，那么最好从终端进行，这样我们就能尽可能贴近 shell。</p>
-<p>对此我心怀感激。我们主要使用 Claude Code、Codex CLI，以及其他工具，例如使用 shell、由我们在终端中操作的 OpenCode（它使用 shell）。我们不必为了高效使用计算机产品，就去使用某家公司的 iPhone 应用或基于云的网页应用。</p>
-<p>不过，当你必须与许多代理协作时，显然会存在局限。这令人眼花缭乱。我们经常需要与正在处理不同事务的代理异步协作：停下来，去做别的事情，过自己的生活；过一会儿再查看进展；然后按照自己的时间安排轻松地回到工作中，等等。</p>
-<p>再说一次，电子邮件已经解决了如何以异步、分布式方式与人协作的问题。这种方式同样适用于与代理协作，甚至适用于人与代理之间的协作。</p>
-<p>一年多以前，在 Machtiani 首次发布后，我开始把 Machtiani 的回答反馈到它下一轮的指令中。为了继续推进这一做法，我直到现在才发布相关成果。这是一个迭代式的指令循环，用来驱动一个充当轻量级监督器的工作器。</p>
-<p>这个轻量级监督器可以与已经安装在你电脑上的任何代理协作。</p>
-<p>我发现，电子邮件是与他人及代理共同工作时最自然、最自由的方式。</p>
-<p>在 GitHub 上查看 Machtiani。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：将电子邮件和Shell/终端描述为开放、可组合、跨设备、适应弱网络且不受单一公司平台控制的工作界面，并主张这些特征适合协调多个人工智能代理。文章重点介绍Machtiani：通过让代理输出进入后续指令、形成迭代式指令循环，由轻量级监督器协调已安装的代理，并以电子邮件实现异步、分布式协作。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.machtiani.chat/blogs/the-shell" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ojects-by-whatever-means-2268c2d42c0d5e46" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="295" data-content-paragraphs="1" data-published-at="2026-09-29T22:50:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:50</span>
-</div>
-
-### [从一国党到化石燃料：领导层决战在即，亚当·班特与鲍勃·布朗阐述绿党愿景](https://www.theguardian.com/australia-news/2026/sep/30/senior-greens-figures-say-new-leadership-must-stop-labor-approving-fossil-fuel-projects-by-whatever-means)
-<div class="original-title-sub"><span class="orig-tag">原文</span> From One Nation to fossil fuels, Adam Bandt and Bob Brown reveal vision for Greens ahead of leadership showdown</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/37e008b6e9e8765b086214eb47fadf3902a8758d/2539_75_2704_2163/master/2704.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56fc8e2db228d688469382615cf92393" alt="从一国党到化石燃料：领导层决战在即，亚当·班特与鲍勃·布朗阐述绿党愿景" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>亚当·班特（Adam Bandt）表示新任党魁没有任何借口，而鲍勃·布朗（Bob Brown）则警告称，他们还必须有能力迎战波琳·韩森（Pauline Hanson）及一国党（One Nation）。<br />关注我们的澳大利亚新闻实时博客以获取最新动态。<br />获取我们的突发新闻邮件、免费应用或每日新闻播客。<br />绿党前党魁亚当·班特表示，最早可能于周三选出的该党新领导团队将面临越来越大的压力，必须“不惜一切代价”阻止阿尔巴尼斯政府批准任何新的煤炭和天然气项目。<br />班特向《卫报》澳大利亚版表示，将于周三在悉尼开始的为期两天的党内务虚会上选出的新领导人，没有任何借口允许工党批准任何新的化石燃料开发项目。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-30 06:50 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/2026/sep/30/senior-greens-figures-say-new-leadership-must-stop-labor-approving-fossil-fuel-projects-by-whatever-means" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-30-10705952-shtml-3ce9d794bf27d8eb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="857" data-content-paragraphs="23" data-published-at="2026-09-29T22:40:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:40</span>
-</div>
-
-### [美国计划通过“互换”释放4000万桶战略石油储备](https://www.chinanews.com.cn/gj/2026/09-30/10705952.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新网9月30日电 综合外媒报道，当地时间29日，美国能源部战略石油储备项目管理办公室发布邀约公告，计划以“互换”方式向市场释放4000万桶原油。</p>
-<p>根据公告，计划参与“互换”的企业需要在近日提交提议。在公布“互换”合约后，联邦政府预计在11月和12月分批次交付储备原油。企业则最早可以从2027年4月开始归还原油，最晚归还期间为2029年年底。</p>
-<p>美国能源部长赖特表示： “通过今天的行动，美国继续引领协调一致的努力，以稳定石油市场。虽然美国和日本正在履行其承诺，但一些欧洲成员国仅释放了其承诺的原油和石油产品的一小部分。我们敦促所有成员国履行其承诺。”</p>
-<p>美国能源部3月11日发表声明说，将在大约120天内释放1.72亿桶战略石油储备，以应对美国和以色列军事打击伊朗引发的油价上涨。</p>
-<p>农村随礼不超100元、县城不超200元，多地给份子钱“限高”</p>
-<p>鞋不对为何会丢金？亚运会“冷门”规则盘点</p>
-<p>余俊武：新时代的“侨批”如何推动中外文明交流互鉴？</p>
-<p>短评：从“中国说”到“世界说”，“Confucius says”折射中国软实力</p>
-<p>世赛瓷砖贴面唯一女选手：人生只有一次 不妨大胆试试</p>
-<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
-<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
-<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
-<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
-<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
-<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
-<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
-<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
-<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>（爱知·名古屋亚运会）中国队摘田径4X100米混合接力金牌</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-30 06:40 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-30/10705952.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-rvice-officially-too-far-2e0d123ece88af35" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1210" data-content-paragraphs="19" data-published-at="2026-09-29T22:40:03.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-30 06:40</span>
-</div>
-
-### [MLB将季后赛比赛全部放到流媒体服务上，着实太过分了](https://www.foxnews.com/outkick-sports/mlb-putting-playoff-games-exclusively-streaming-service-officially-too-far)
-<div class="original-title-sub"><span class="orig-tag">原文</span> MLB putting playoff games exclusively on a streaming service is officially too far</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/new-york-yankees-warm-up-wild-card-fox-news_.jpg?ve=1&amp;tl=1" alt="MLB将季后赛比赛全部放到流媒体服务上，着实太过分了" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>今年，MLB季后赛的多场比赛将首次不再通过电视播出。</p>
-<p>作为NBC收购整个外卡赛轮次的一部分，白袜队对阵太空人队、以及小熊队对阵教士队的系列赛将仅在Peacock流媒体服务上播出。</p>
-<p>给YouTube TV订阅用户的一点提示：你们可以通过YouTube TV应用中的NBCSN观看这些比赛的直播。这不算电视观看，但可以省下单独订阅Peacock的费用。</p>
-<p>本赛季观看NFL的费用将更高，需要的流媒体服务也将比以往更多</p>
-<p>将两组季后赛系列赛仅在Peacock上播出的决定，恐怕不会得到棒球球迷的认可。与其他主要体育项目的球迷相比，棒球球迷这个群体历来更晚接受流媒体服务。</p>
-<p>事实上，许多球迷至今仍对MLB要求订阅Netflix才能观看揭幕夜和全垒打大赛感到不满。等他们发现Peacock也不是免费的，恐怕会更加失望。</p>
-<p>Peacock的订阅费用为每月8.99美元至19.99美元，或每年89.99美元至199.99美元不等。</p>
-<p>多年来，业内普遍认为，与NFL等联盟相比，MLB不太可能把季后赛比赛放到流媒体付费墙之后。收视数据在很大程度上也支持这一判断。</p>
-<p>尽管仅通过流媒体播出的NFL比赛收视率仍落后于传统电视上的同类转播，但亚马逊已经表明，越来越多的橄榄球球迷愿意追随这项运动，无论它在哪里播出。</p>
-<p>上赛季，亚马逊Prime Video在小熊队对阵包装工队的外卡赛中，场均吸引3161万名观众，创下NFL流媒体观看纪录。这场转播还创下Prime Video历史上单日全球观众人数最高以及同时在线观看流数量最多的纪录。</p>
-<p>你已经为观看NFL所需的所有服务付费了吗？</p>
-<p>MLB和NBA必须记住自己相对于NFL所处的位置。作为参考，今年6月全垒打大赛首次在Netflix上播出，收视率创下20多年来的新低。</p>
-<p>不过，对于外卡赛轮次有限的观看渠道感到失望的球迷，不应责怪NBC。最终作出这一决定的是MLB。</p>
-<p>前几年，ESPN通过ESPN和ESPN2播出外卡赛轮次。如今NBC已不再运营全国性的有线体育网络，而且必须将其广播网络留给地方新闻、全国新闻以及其他日间节目。</p>
-<p>Peacock是剩余比赛唯一可行的播出平台。</p>
-<p>MLB本可以只把外卡赛轮次的一半卖给NBC——也就是将在NBC播出的那部分——再将剩余系列赛的转播权授权给另一家电视合作伙伴。福克斯和TBS都是现有的MLB转播权持有方，原本会是合理的候选者。即使是本赛季保留较小转播套餐的ESPN，也可以播出这些比赛。</p>
-<p>但MLB最终认定，由Peacock独家转播这些系列赛是可以接受的取舍。我们猜测，许多棒球球迷并不认同这一点。</p>
-<p>值得庆幸的是，MLB季后赛其余比赛将通过福克斯、FS1和TBS在电视上播出。流媒体用户也可以通过FOX One观看全部福克斯和FS1的比赛，通过HBO Max观看全部TBS的比赛。</p>
-<p>在家观看体育赛事直播，不应该变得如此困难、混乱且昂贵。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-30 06:40 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/mlb-putting-playoff-games-exclusively-streaming-service-officially-too-far" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
 <div id="story-up-to-468-miles-of-range-f7df048676ed882b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1396" data-content-paragraphs="1" data-published-at="2026-09-29T22:01:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1340" data-content-paragraphs="1" data-published-at="2026-09-29T22:01:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -520,12 +251,12 @@ notice:
   <span class="news-meta-time">🕒 2026-09-30 06:01</span>
 </div>
 
-### [宝马焕新版i3续航里程最高可达468英里](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
+### [宝马焕新版 i3 续航里程最高可达468英里](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
 <div class="original-title-sub"><span class="orig-tag">原文</span> BMW’s revamped i3 boasts up to 468 miles of range</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="宝马焕新版i3续航里程最高可达468英里" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="宝马焕新版 i3 续航里程最高可达468英里" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>有关这一主题的文章将添加到您的每日电子邮件摘要和主页信息流中。<br />查看全部交通运输内容<br />i3 50 xDrive上市时的起售价为62,850美元，预计于2027年第一季度交付。<br />这位作者的文章将添加到您的每日电子邮件摘要和主页信息流中。<br />查看安德鲁·J·霍金斯的全部文章<br />宝马最初宣布，将在其Neue Klasse平台上把i3重新打造为一款纯电动四门轿车，但当时遗漏了许多重要细节，例如电池容量、续航里程和价格。如今，这家德国汽车制造商终于开始补充i3的相关信息。<br />先从价格说起。宝马表示，2027款i3 50 xDrive起售价为61,500美元，另加1,350美元的目的地费用，这使其明确进入与奔驰C级相竞争的市场区间。（今年3月，我们只能猜测其起售价大约为60,000美元。）我们当时也无法确定这款新电动汽车何时会在美国上市；今天，宝马确认其正式上市时间为2027年第一季度。<br />宝马还公布了i3电机的新细节。该车配备两台电机——后桥采用一台电励磁同步电机（EESM），可输出322马力和321磅-英尺扭矩；前桥采用一台异步电机，可输出165马力和188磅-英尺扭矩——系统总输出功率为463马力，最大扭矩为476磅-英尺。<br />宝马确认其正式上市时间为2027年第一季度。<br />作为主要驱动桥的EESM使用电力而非永磁体，为定子外框和转子内部的旋转部件提供动力。逆变器相当于整个系统的大脑：它将电池输出的直流电转换为供电机使用的交流电，调节电磁铁，并监测运行表现，从而让电机尽可能高效地运转。<br />新闻稿中给出的续航数据相当令人印象深刻。今年3月，我们估计其电池续航里程约为440英里，但宝马表示，根据美国环保署（EPA）的测试，实际预计续航里程将更接近468英里。宝马可能已经注意到2027款梅赛德斯-奔驰EQ的续航预估值十分惊人：按照WLTP测试循环，其续航里程达到925公里（575英里）。（WLTP的结果通常比EPA的估算值高出约10%至20%。）宝马或许认为，自己可以用低得多的价格实现近似的续航表现。说实话，这个判断相当靠谱。<br />令人遗憾的是，宝马仍未透露i3的电池容量，不过它确认该车搭载了这家汽车制造商的“第六代”高压电池，电池采用直径46毫米、高度95毫米的圆柱形锂离子电芯。与第五代电池使用的方形电芯相比，这种新型圆柱电芯的能量密度提升了20%。<br />宝马i3还有一些其他亮点，包括支持双向充电，具备车辆对负载（V2L）和车辆对家庭（V2H）功能；配备智能充电口盖，当驾驶员接近已知充电点时会自动开启；此外还支持“即插即充”，可在10家不同充电服务商处实现自动充电。<br />随着豪华汽车制造商竞相在车辆中加入更多人工智能功能，宝马也将亚马逊的Alexa集成到了i3中。这个姗姗来迟的大语言模型版本Alexa能够处理自然、对话式的请求，搜索在线信息，或以自然的方式管理空调和车窗。（自2022年以来，宝马一直努力将这一由人工智能驱动的新版本Alexa引入旗下汽车，但由于亚马逊的开发周期较长，项目被推迟。）<br />不过，如果你追求更强的性能，宝马还将提供i3 M60 xDrive。这是一款高性能竞赛车型，配备M专属灯组和图形设计，以及21英寸Style 1067M空气动力学轮毂。该版本将于2027年某个时间上市，价格尚未公布。<br />查看全部电动汽车<br />每天免费获取最重要的新闻摘要。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>与此主题相关的帖子将添加到您的每日电子邮件摘要和首页信息流中。<br />查看全部交通运输内容<br />i3 50 xDrive上市时的起售价为62850美元，预计于2027年第一季度上市。<br />该作者发布的帖子将添加到您的每日电子邮件摘要和首页信息流中。<br />查看安德鲁·J·霍金斯的所有文章<br />宝马最初宣布，将基于Neue Klasse平台重新打造i3，使其成为一款纯电动四门轿车，但当时遗漏了许多重要细节，例如电池容量、续航里程和价格。如今，这家德国汽车制造商终于开始公布i3的相关信息。<br />先从价格说起。宝马表示，2027款i3 50 xDrive的起售价为61500美元，另加1350美元的目的地费用，这使其明确进入与梅赛德斯-奔驰C级车竞争的细分市场。（今年3月，我们只能猜测其起售价大约为6万美元。）我们当时也不确定这款新电动车何时能在美国上市；如今，宝马确认其正式上市时间为2027年第一季度。<br />宝马还公布了i3电机的新细节。该车配备两台电机：后桥搭载一台电励磁同步电机（EESM），可输出322马力和321磅-英尺扭矩；前桥搭载一台异步电机，可输出165马力和188磅-英尺扭矩；系统总输出为463马力和476磅-英尺扭矩。<br />宝马确认其正式上市时间为2027年第一季度。<br />作为主要驱动桥的EESM，使用电力而非永磁体为定子外框和转子内部旋转部件提供动力。逆变器相当于整个系统的大脑，将电池输出的直流电转换为供电机使用的交流电，同时调节电磁铁并监测性能，以确保电机尽可能高效地运行。<br />新闻稿中给出的续航数据相当令人印象深刻。今年3月，我们估计其电池续航约为440英里，但宝马表示，根据美国环保署（EPA）的测试，实际预计续航里程将更接近468英里。宝马可能已经注意到2027款梅赛德斯-奔驰EQS在WLTP测试周期下高达925公里（575英里）的惊人续航预估值——WLTP的结果通常比EPA的估算高出约10%至20%——并认为自己可以用低得多的价格实现几乎同等的表现。坦率地说，这个判断相当合理。<br />令人沮丧的是，宝马仍未公布i3的电池容量，不过它确认该车配备了这家汽车制造商的“第六代”高压电池，采用直径46毫米、高度95毫米的圆柱形锂离子电芯。与第五代电池使用的方形电芯相比，新型圆柱形电芯的能量密度提升了20%。<br />宝马i3还具备一些其他功能，包括支持车对负载和车对户的双向充电、当驾驶员接近已知充电点时自动开启的智能充电口盖，以及支持在10家不同充电服务商处自动充电的即插即充功能。<br />随着豪华汽车制造商竞相在车辆中加入更多人工智能功能，宝马也在i3中集成了亚马逊Alexa。这款被大幅推迟、基于大语言模型的Alexa版本能够处理自然的对话式请求、搜索在线信息，或以自然的方式管理空调和车窗。（自2022年以来，宝马一直努力将新版人工智能驱动的Alexa引入旗下汽车，但由于亚马逊开发周期漫长而被推迟。）<br />不过，如果你追求更强的性能，宝马还将提供i3 M60 xDrive。这是一款高性能竞赛车型，配备M专属灯组和图案，以及21英寸Style 1067M空气动力学轮毂。该版本将于2027年某个时间上市，价格尚未公布。<br />查看全部电动汽车内容<br />免费获取最重要新闻的每日摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -545,7 +276,7 @@ notice:
 
 :::cell
 <div id="story--doubles-valuation-to-4b-7414811d518ee6cb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="767" data-content-paragraphs="11" data-published-at="2026-09-29T21:51:36.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="754" data-content-paragraphs="10" data-published-at="2026-09-29T21:51:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -557,16 +288,15 @@ notice:
 ### [获a16z支持的EliseAI融资3.5亿美元，估值翻倍至40亿美元](https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> a16z-backed EliseAI raises $350M, doubles valuation to $4B</div>
 
-<div class="article-body" data-article-body="true"><p>人工智能初创公司EliseAI周二宣布，公司已以40亿美元估值融资3.5亿美元。这一估值是其去年8月完成E轮融资时的两倍。</p>
-<p>本轮融资由Andreessen Horowitz和Bessemer Ventures联合领投。EliseAI成立于2017年，为住房和医疗保健企业自动化处理行政和运营工作。该公司表示，其软件已覆盖全国六分之一的公寓，并于今年夏天宣布年度经常性收入（ARR）突破2亿美元。</p>
-<p>本月早些时候，Elise宣布推出一名名为Apollo的人工智能“队友”，帮助完成EliseAI平台内的各项任务。EliseAI联合创始人兼首席执行官Minna Song告诉TechCrunch：“它原生构建于同一个平台之中，而该平台已经负责租赁、维护和续约等工作。因此，它可以在物业团队的每个岗位上发挥作用。”</p>
-<p>在医疗保健领域，EliseAI还帮助专科医生团体自动化处理与患者相关的文书工作。她说，这一流程“从首次接听来电开始，涵盖转诊、预约、保险核验、病历准备和后续跟进，确保没有任何环节被遗漏”。她表示，公司之所以瞄准住房和医疗保健领域，是因为这两个领域属于“美国家庭最大的两项支出”。</p>
-<p>第二张门票享受五折优惠</p>
-<p>Disrupt体验旨在与他人共享。购买门票并邀请一位同事、合作伙伴或同行，即可享受第二张门票五折优惠。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展你的交流与发现。</p>
+<div class="article-body" data-article-body="true"><p>人工智能初创公司EliseAI周二宣布，已以40亿美元的估值融资3.5亿美元。这一估值是该公司去年8月完成E轮融资时的两倍。</p>
+<p>本轮融资由Andreessen Horowitz和Bessemer Ventures联合领投。EliseAI成立于2017年，为住房和医疗保健企业自动化处理行政及运营工作。该公司表示，其软件已被全国六分之一的公寓使用，并于今年夏天宣布其年度经常性收入（ARR）已超过2亿美元。</p>
+<p>本月早些时候，Elise宣布推出一名名为Apollo的人工智能“队友”，帮助完成EliseAI平台内的各项任务。EliseAI联合创始人兼首席执行官Minna Song告诉TechCrunch：“它原生构建于同一个平台之中，而该平台已经在负责租赁、维护和续租等工作。因此，它可以在物业团队的每一个岗位上发挥作用。”</p>
+<p>她表示，在医疗保健领域，EliseAI还帮助专科医生团体自动处理与患者相关的文书工作，“从最初接听来电，到转诊、预约、保险核验、病历准备和后续跟进，确保没有任何环节被遗漏”。她说，公司之所以瞄准住房和医疗保健领域，是因为这两项支出属于“美国家庭最大的开支”。</p>
+<p>第二张票立减50%<br />Disrupt体验旨在与他人共享。购买门票并邀请一名同事、合作伙伴或同行同行，即可享受第二张票五折优惠。通过建立联系、积蓄势能并探索创业生态系统的未来动向，拓展你的交流范围。</p>
 <p>每个工作日和周日，你都可以获取TechCrunch报道中的精华内容。</p>
-<p>TechCrunch Mobility是你获取交通领域新闻和洞察的目的地。</p>
-<p>初创公司是TechCrunch报道的核心，因此请每周接收我们最优质的报道。</p>
-<p>为行业推动者和重要人物提供开启一天所需的信息。</p>
+<p>TechCrunch Mobility是你获取交通运输新闻和洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，因此请每周接收我们精选的报道。</p>
+<p>为各界风云人物提供开启一天所需的信息。</p>
 <p>提交电子邮件即表示你同意我们的《条款》和《隐私声明》。</p></div>
 
 <div class="news-card-takeaways">
@@ -587,7 +317,7 @@ notice:
 
 :::cell
 <div id="story-hacking-suspect-arrested-9b5562e510053561" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="882" data-content-paragraphs="10" data-published-at="2026-09-29T21:50:31.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="873" data-content-paragraphs="10" data-published-at="2026-09-29T21:50:31.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -596,20 +326,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-30 05:50</span>
 </div>
 
-### [荷兰逮捕疑似 ShinyHunters 领导人](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
+### [荷兰逮捕涉嫌为 ShinyHunters 组织领导人的男子](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Suspected ShinyHunters leader arrested in the Netherlands</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="荷兰逮捕疑似 ShinyHunters 领导人" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220209_4977_0226.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="荷兰逮捕涉嫌为 ShinyHunters 组织领导人的男子" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>与该主题相关的帖子将添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>这名24岁男子与涉嫌发动针对美国联邦调查局、Rockstar Games、Ticketmaster等机构攻击的黑客组织有关。</p>
-<p>该作者发布的帖子将添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看 Emma Roth 的全部文章</p>
-<p>荷兰警方表示，他们逮捕了一名24岁的阿姆斯特丹男子，原因是其涉嫌与 ShinyHunters 有关。ShinyHunters 是一个黑客组织，曾声称对 Ticketmaster、Rockstar Games 以及最近针对美国联邦调查局（FBI）的高调攻击负责。荷兰当局在一份新闻稿中称，他们于9月15日逮捕了这名嫌疑人——就在该黑客组织声称入侵 FBI 网站并窃取员工数据的几天前。路透社此前对此进行了报道。</p>
-<p>荷兰当局和 FBI 均未公布嫌疑人的姓名，但 Krebs on Security 和路透社报道称，警方逮捕的是荷兰人 Pepijn van der Stap。Van der Stap 曾因数据盗窃和敲诈勒索于2023年被定罪。据 Krebs on Security 报道，他去年出狱后加入了荷兰网络安全公司 Neo Security。ShinyHunters 向路透社表示，Van der Stap “与该组织没有任何关联”。</p>
-<p>FBI 网络部门助理局长 Brett Leatherman 称，这名嫌疑人是该组织所谓的领导人之一，同时向其他仍在活动的成员发出警告。Leatherman 在周二发布的一段视频中说：“你继续参与的时间越长，我们对你的了解就越多。你知道如何找到我们，而我们也知道如何找到你。我的建议是，在选择权仍掌握在你自己手中时，先主动联系我们。”</p>
-<p>据荷兰警方称，这名24岁男子还涉嫌“企图煽动实施两起谋杀”。FBI 局长 Kash Patel 在 X 平台的一篇帖子中写道：“正如我们所说，FBI 团队正与合作伙伴积极合作，根据此次逮捕行动，就正在进行的调查获取并执行更多线索。”</p>
-<p>免费获取最重要新闻的每日摘要。</p>
+<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。</p>
+<p>这名24岁男子与一个黑客组织有关联，该组织曾攻击美国联邦调查局、Rockstar Games、Ticketmaster等机构。</p>
+<p>该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。</p>
+<p>查看 Emma Roth 的所有文章</p>
+<p>荷兰警方表示，他们逮捕了一名24岁的阿姆斯特丹男子，理由是其涉嫌与 ShinyHunters 有关。该黑客组织曾宣称对 Ticketmaster、Rockstar Games 以及最近针对美国联邦调查局（FBI）的高调攻击负责。荷兰当局在一份新闻稿中表示，他们于9月15日逮捕了这名嫌疑人——就在该黑客组织声称入侵 FBI 网站并窃取员工数据的几天前。路透社此前曾报道这一事件。</p>
+<p>荷兰当局和 FBI 均未公布嫌疑人的姓名，但 Krebs on Security 和路透社报道称，警方逮捕的是荷兰人 Pepijn van der Stap。Van der Stap 曾于2023年因窃取数据和敲诈勒索被定罪。据 Krebs on Security 报道，Van der Stap 去年出狱后加入了荷兰网络安全公司 Neo Security。ShinyHunters 对路透社表示，Van der Stap 与该组织“没有任何关联”。</p>
+<p>FBI 网络部门助理主管 Brett Leatherman 称，这名嫌疑人是该组织涉嫌的领导人之一，并向其他仍在活动的成员发出警告。Leatherman 在周二发布的一段视频中说：“你继续参与的时间越长，我们对你的了解就越多。你知道如何找到我们，而我们也知道如何找到你。建议你趁选择权还在自己手中时，先联系我们。”</p>
+<p>据荷兰警方称，这名24岁男子还涉嫌“企图煽动实施两起谋杀”。FBI 局长 Kash Patel 在 X 上的一篇帖子中写道：“就在我们讲话之际，FBI 团队正与合作伙伴积极开展工作，以获取并执行更多线索，推进基于此次逮捕行动的持续调查。”</p>
+<p>每日免费获取最重要的新闻摘要。</p>
 <p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
@@ -626,6 +356,254 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ipedia-ai-updating-again-21aea061ef987697" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="794" data-content-paragraphs="10" data-published-at="2026-09-29T21:49:09.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 05:49</span>
+</div>
+
+### [埃隆·马斯克的人工智能驱动百科网站Grokipedia又在更新](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Elon Musk&amp;#8217;s AI-powered Grokipedia is updating again</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="埃隆·马斯克的人工智能驱动百科网站Grokipedia又在更新" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>关于这一主题的帖子将添加到你的每日邮件摘要和首页信息流中。</p>
+<p>经过数月的停滞后，Grokipedia再次出现了一些活动迹象。</p>
+<p>关于这位作者的帖子将添加到你的每日邮件摘要和首页信息流中。</p>
+<p>查看Jay Peters的全部文章</p>
+<p>来自SpaceXAI的人工智能百科全书Grokipedia似乎在经历数月停滞后再次开始更新文章。今年8月，Lawfare报道称，Grokipedia上的文章自4月以来一直没有审核编辑内容，但该平台的实时更新页面现在显示出页面的各种近期变更——不过在我撰写本文时，其中许多变更只是一条写着“重新检查所有参考资料和来源”的备注。</p>
+<p>相对而言，该网站似乎是最近才重新活跃起来的。巴拉克·奥巴马总统的页面上有一条备注称，该页面两天前经过了“Grok事实核查”；而埃隆·马斯克的页面则在我撰写本文期间、也就是过去一小时内完成了事实核查。不过，我从奥巴马页面点击进入的檀香山页面，最近一次事实核查是在7个月前，因此看来并非每个页面都接受了近期扫描。</p>
+<p>在撰写本文时，我建议对《战争机器：末日》（Gears of War: E-Day）页面进行更新，注明该游戏将于10月6日发售。Grokipedia接受了这项建议，并已列出这一日期。我还请求添加一篇关于Meta聊天机器人Muse的文章，而该请求目前处于“审核中”状态。</p>
+<p>SpaceXAI没有立即回应置评请求，埃隆·马斯克自2月以来也仍未在X上发布有关Grokipedia的内容。（大约一年前，马斯克曾声称Grokipedia将“比维基百科有巨大改进”。）不过，X和SpaceXAI的设计负责人本吉·泰勒上周发布了有关Grokipedia的消息，称“我们没有忘记Grokipedia”，并表示“v0.2将比以往更好”（尽管严格来说，v0.2已于11月上线）。</p>
+<p>一份免费的每日摘要，汇集最重要的新闻。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-30 05:49 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-o-scale-cybercab-optimus-7e313f551a3ec8fa" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="613" data-content-paragraphs="10" data-published-at="2026-09-29T21:20:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 05:20</span>
+</div>
+
+### [特斯拉获得300亿美元新增信贷额度，着眼于扩大Cybercab和Optimus的生产规模](https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus</div>
+
+<div class="article-body" data-article-body="true"><p>特斯拉已获得300亿美元的新增信贷额度，可用于帮助扩大其目前正在开发的新产品的规模，包括Cybercab自动驾驶出租车、Optimus人形机器人和Tesla Semi电动卡车。</p>
+<p>该公司周二宣布，花旗银行已同意提供一项为期三年、可延迟提款的200亿美元定期贷款额度。富国银行还签署了一项为期五年的80亿美元循环信贷额度，以及一项期限为364天、金额为20亿美元的循环信贷额度。</p>
+<p>特斯拉在一份监管文件中表示，公司计划今年不动用这些贷款额度。该公司此前已预计，2026年的资本支出至少为250亿美元。特斯拉今年第二季度末的债务约为90亿美元，而现金及投资总额超过400亿美元。</p>
+<p>这三款新产品都需要建设新的生产线。对于Semi电动卡车和Optimus人形机器人，该公司采取了建设全新专用工厂的方式。</p>
+<p>第二张通行证可享受五折优惠。Disrupt大会体验旨在与他人共享。购买你的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的下一步，拓展你的视野。</p>
+<p>每个工作日和周日，你都可以获取TechCrunch报道中的精华内容。</p>
+<p>TechCrunch Mobility是你获取交通运输新闻和洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，订阅后每周接收我们最优质的报道。</p>
+<p>为行业推动者和变革者提供开启一天所需的信息。</p>
+<p>提交电子邮件即表示你同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 05:20 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--round-at-1-4t-valuation-22cdc3a1949b274c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="733" data-content-paragraphs="12" data-published-at="2026-09-29T19:52:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 03:52</span>
+</div>
+
+### [OpenAI据报道正就以1.4万亿美元估值筹集300亿美元融资进行谈判](https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI reportedly in talks to raise $30B round at $1.4T valuation</div>
+
+<div class="article-body" data-article-body="true"><p>据彭博社周二报道，OpenAI正与投资者洽谈，计划在一轮IPO前融资中筹集至少300亿美元，估值约为1.4万亿美元。</p>
+<p>投资者热切希望在这家ChatGPT开发商预计于明年登陆公开市场之前向其投入更多资金。据报道，尽管Anthropic在今年年初一度超越OpenAI，但近期对编程等关键领域的战略重新聚焦，推动其按当前速度计算的年化收入自7月以来增长70%，并于8月达到400亿美元。</p>
+<p>该公司此前于3月以8520亿美元估值筹集了1220亿美元。这轮融资原本应是其在IPO前的最后一轮私募融资；直到最近，外界一直预计其IPO将在今年进行。不过，首席执行官萨姆·奥尔特曼如今已排除2026年上市的可能，以优先确保人工智能安全。</p>
+<p>他最近在回应安全研究人员关于人工智能可能对人类构成生存性风险的警告时对《财富》杂志表示：“我认为，如果到本世纪末存在大约10%的可能性会导致所有人死亡，这是不可接受的。”</p>
+<p>据彭博社报道，如果这轮新融资最终实现，其将作为通往IPO的过渡轮融资。</p>
+<p>OpenAI未回应TechCrunch的置评请求。</p>
+<p>第二张通行证可享五折优惠<br />Disrupt体验旨在与他人共享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行者。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的交流与收获。</p>
+<p>每个工作日及周日，您都可以获取TechCrunch报道的精华内容。</p>
+<p>TechCrunch Mobility是您获取交通运输新闻与洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，因此请每周接收我们最精彩的报道。</p>
+<p>为行业领军者和重要参与者提供他们开启一天所需的信息。</p>
+<p>提交您的电子邮箱即表示您同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-30 03:52 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-unterfeit-postage-labels-4e1353e06bffbd8d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1119" data-content-paragraphs="10" data-published-at="2026-09-29T19:30:17.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 03:30</span>
+</div>
+
+### [美国邮政检查员查封销售数百万张伪造邮资标签的网站](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> U.S. postal inspectors shut down website selling counterfeit postage labels</div>
+
+<div class="article-body" data-article-body="true"><p>作者：Rick Owens，2026年9月26日<br />暂无评论</p>
+<p>佛罗里达州迈阿密——2026年9月24日——美国邮政检查局及其联邦机构合作伙伴已查封一个互联网域名，并指控一名巴基斯坦籍人士运营一个未经授权的网站。该网站据称销售了超过500万张美国邮政署（USPS）伪造邮资标签，造成的损失超过1.26亿美元。</p>
+<p>法院记录显示，现年33岁的巴基斯坦汗埃瓦尔人Faheem Akram运营着LabelsBank.com。该网站据称以固定价格销售伪造的USPS邮资标签，通常每张收费2美元，无论包裹的重量、尺寸或目的地如何。LabelsBank.com并未获授权销售USPS的产品和服务。这些伪造标签使客户能够以大幅折扣的价格寄送包裹，导致USPS在已提供的寄送服务方面遭受巨额收入损失。</p>
+<p>美国邮政检查局迈阿密分部的邮政检查员发现，有超过5,000名客户通过LabelsBank.com购买了超过510万张伪造运输标签。在对Akram提起起诉的同时，法院签发命令，授权查封该域名并关闭该网站。</p>
+<p>Akram被控一项共谋欺诈美国政府并制造、销售伪造邮资票的罪名、五项制造和销售伪造邮资标签的罪名，以及四项电信欺诈罪。需要特别指出的是，刑事指控仅属指控；除非且直到被证明有罪，否则每名被告均应被推定为无罪。</p>
+<p>“我们的执法范围超越国界，”迈阿密分部邮政检查主管Bladismir Rojo说。“如果你通过兜售虚假邮资欺骗邮政服务并针对美国消费者，我们会找到你并将你绳之以法。”</p>
+<p>“据称的骗局很简单，但规模巨大：以固定的低价在网上销售伪造邮资，每张标签最低只收2美元，无论包裹的重量、尺寸或目的地如何，从而让客户逃避邮政服务的合法收费。”美国佛罗里达州南区联邦检察官Jason A. Reding Quiñones说，“起诉书称，涉案伪造标签超过510万张，造成的损失超过1.26亿美元。在美国邮政检查局和我办公室检察官的努力下，该网站已被关闭，域名已被查封，其据称运营者——一名巴基斯坦籍人士——已受到联邦刑事指控。”</p>
+<p>进一步了解伪造邮资</p>
+<p>《美国邮政检查员查封销售数百万张伪造邮资标签的网站》由Rick Owens于2026年9月26日发布。查看Rick Owens发布的所有文章 →</p>
+<p>您的电子邮箱地址不会被公开。<br />document.getElementById(&quot;comment&quot;).setAttribute( &quot;id&quot;, &quot;a1fcf60496485ab2263a870d1f98aed7&quot; );document.getElementById(&quot;e4c69a774b&quot;).setAttribute( &quot;id&quot;, &quot;comment&quot; );</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-30 03:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-blogs-the-shell-43359d1a46b3eaed" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="899" data-content-paragraphs="13" data-published-at="2026-09-29T20:14:41.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 04:14</span>
+</div>
+
+### [Shell 与电子邮件](https://www.machtiani.chat/blogs/the-shell)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The Shell &amp; Email</div>
+
+<div class="article-body" data-article-body="true"><p>在同时与多个代理协作时，电子邮件是最好的工作方式吗？每个电子邮件线程都是一个会话，而且支持群组对话。</p>
+<p>看看我在 GitHub 上构建的东西。</p>
+<p>使用电子邮件，你不会被绑定在某一家公司的应用上，甚至不会被绑定在自己的笔记本电脑上。你可以在任何地方使用它；此外，在网络条件较差的情况下，电子邮件也是最灵活的工具。</p>
+<p>电子邮件已经解决了如何以异步、分布式的方式与他人协作的问题。大型语言模型理解这一点，就像它们理解 shell 一样。</p>
+<p>我们喜欢 shell，也喜欢让我们能够使用它的终端。这是出于实际原因：shell 可以进行组合，并且能够在没有守门人的情况下实现与其他应用程序的互操作。一旦掌握了窍门，使用终端既有趣又令人感到自由。</p>
+<p>大型语言模型在与 shell 结合使用时对我们最有用，这并非巧合。如果我们需要与某个代理进行非常紧密的协作，那么最好通过终端来完成，这样我们就能尽可能贴近 shell。</p>
+<p>对此我心怀感激。我们主要使用 Claude Code、Codex CLI，以及其他工具，例如使用 shell、由我们在终端中操作的 OpenCode（它使用 shell）。我们不必使用 iPhone 应用，或某家公司基于云的网页应用，才能高效地使用计算机。</p>
+<p>不过，当你必须与许多代理协作时，显然会存在局限。这令人眼花缭乱。我们经常需要与正在处理不同事务的代理异步协作。停下来，去做别的事情，过自己的生活；偶尔查看一下进展；然后在自己方便的时候轻松回到工作中，等等。</p>
+<p>还是那句话，电子邮件已经解决了如何以异步、分布式的方式与他人协作的问题。这种方式同样适用于与代理，甚至与其他人和代理协作。</p>
+<p>一年多前发布 Machtiani 的首个版本后，我开始把 Machtiani 的回答反馈到它下一轮的指令中。为了推进这件事，我一直到现在才发布相关成果。这是一个迭代式指令循环，用来驱动一个充当轻量级监督器的工作程序。</p>
+<p>这个轻量级监督器可以与计算机上已经安装的任何代理协同工作。</p>
+<p>我发现，电子邮件是与他人及代理共同工作时最自然、最自由的方式。</p>
+<p>在 GitHub 上查看 Machtiani。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-30 04:14 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.machtiani.chat/blogs/the-shell" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-brush-but-how-you-use-it-52fca54464cfcb55" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="344" data-content-paragraphs="3" data-published-at="2026-09-29T16:48:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-30 00:48</span>
+</div>
+
+### [牙刷的价格不重要，重要的是你如何使用它｜来信](https://www.theguardian.com/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it)
+<div class="original-title-sub"><span class="orig-tag">原文</span> It’s not the price of your toothbrush but how you use it | Letters</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/59a8f11bbcba6194f92605b0efb2f8926a31da06/218_0_4916_3935/master/4916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85f499b80e7dd2074af23d99214374c0" alt="牙刷的价格不重要，重要的是你如何使用它｜来信" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>针对埃米娜·萨内尔的一篇文章，格玛·胡森写道，保持口腔卫生没有捷径。此外还有大卫·杜埃尔的一封来信。</p>
+<p>埃米娜·萨内尔对市面上昂贵的牙刷科技进行了引人入胜的调查（《“大牙刷”崛起：我们的口腔如何成为如此有利可图的市场？》，9月22日）。不过，作为一名牙科保健师，我在每次接诊时都会提醒患者，一个简单的事实始终不变：保持口腔卫生的最佳方式，是每天至少刷牙两次，每次两分钟，并且每天使用牙线。无论牙刷多么昂贵，都无法提供捷径式的解决方案。高端牙刷可能会变得像健身房会员资格：拥有它或许令人安心，但除非真的使用，否则并不会带来任何改变。</p>
+<p>• 一把能提供“智能覆盖反馈”的牙刷？真正聪明的做法，是花几英镑买一套八把装的“笨”牙刷，这些牙刷可以用上几年。如果这篇文章所说属实，它们的效果完全一样。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-30 00:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 ::::

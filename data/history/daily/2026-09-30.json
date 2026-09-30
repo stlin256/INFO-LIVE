@@ -1,5 +1,1547 @@
 [
   {
+    "timestamp": 1790735047746,
+    "timeDisplay": "2026-09-30 10:24 (UTC+8)",
+    "date": "2026-09-30",
+    "runId": "feed-20260930T021131078Z-gvru0x",
+    "generatedAt": "2026-09-30T02:24:07.746Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 10:11",
+      "lead": "本轮抓取于 2026-09-30 10:11 (UTC+8) 完成，共获得 14 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】萨姆·奥特曼称，OpenAI在其模型安全之前不会上市：有关这一主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。 OpenAI首席执行官表示，他不希望承受来自华尔街的“额外压力”。 该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。 查看海登·菲尔德的全部文章 数月以来，人们一直在猜测OpenAI何时会上市。首席执行官萨姆·奥特曼表示，在公司能够就模型安全作出更有力的承诺之前，这不会发生，目前也没有明确的时间表。奥特曼周二在DevDay主题演讲结束后接受记者问答时说：“我",
+        "【undefined】北卡罗来纳州体育博彩——最佳博彩公司和应用程序 | OutKick：北卡罗来纳州的体育博彩业务自2024年3月11日起正式上线，当时北卡罗来纳州彩票委员会为首批在线运营商颁发了许可证。如今，该州的投注者可以在7款合法体育博彩应用程序中进行选择。",
+        "【undefined】9月中国制造业采购经理指数为50.1% 升至扩张区间：中新网9月30日电 据中国物流与采购联合会网站消息，国家统计局服务业调查中心、中国物流与采购联合会发布的2026年9月份中国制造业采购经理指数(PMI)为50.1%，较上月上升0.3个百分点，在连续2个月运行在50%以下后回到扩张区间，显示9月份制造业运行有所回升。从分项指数和行业指数来看，市场需求整体稳定扩张，企业生产加快上升，市场价格联动上升，大型企业稳定增长，中小企业景气改善，整体来看制造业向好运行。",
+        "【undefined】互联网坚信埃隆·马斯克的xAI恶搞了OpenAI的“Dots”发布会：周二，OpenAI推出了一款名为Dots的新产品——一款始终在线、拥有圆润多彩头像的人工智能代理。虽然这个色彩缤纷的头像可能会让人会心一笑，但这次发布会带来的最大笑声，（我们猜想）应该来自埃隆·马斯克。这位前OpenAI创始人后来离开公司，推出了竞争对手Grok，并曾发起诉讼但未能成功。",
+        "【undefined】你的汽车及其移动应用可能正在向科技公司交出各种数据：采用 WiFi 和 GPS 等联网汽车技术制造的现代汽车，会收集大量有关车主的数据。美国东北大学研究人员开展的一项新研究显示，这些数据并没有得到妥善保密。",
+        "【undefined】宝马焕新版 i3 续航里程最高可达468英里：与此主题相关的帖子将添加到您的每日电子邮件摘要和首页信息流中。 查看全部交通运输内容 i3 50 xDrive上市时的起售价为62850美元，预计于2027年第一季度上市。 该作者发布的帖子将添加到您的每日电子邮件摘要和首页信息流中。 查看安德鲁·J·霍金斯的所有文章 宝马最初宣布，将基于Neue Klasse平台重新打造i3，使其成为一款纯电动四门轿车，但当时遗漏了许多重要细节，例如电池容量、续航里程和价格。如今，这家德国汽车制造商终",
+        "【undefined】获a16z支持的EliseAI融资3.5亿美元，估值翻倍至40亿美元：人工智能初创公司EliseAI周二宣布，已以40亿美元的估值融资3.5亿美元。这一估值是该公司去年8月完成E轮融资时的两倍。",
+        "【undefined】荷兰逮捕涉嫌为 ShinyHunters 组织领导人的男子：该主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包中缺少文章标题、正文、来源、发布时间、链接及可引用证据，无法对最近文章目录进行可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息不足",
+          "analysis": "当前仅提供了若干待翻译占位标题，未包含可核实的文章内容或主题信息，因此无法判断新闻重点、事件进展或趋势。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 75,
+      "completedTasks": 75,
+      "succeeded": 29,
+      "degraded": 46,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 75,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 756630,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "degraded": 32,
+          "succeeded": 21
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "degraded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "degraded": 6
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 5,
+          "degraded": 1
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 75,
+          "degraded": 46,
+          "succeeded": 29
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-5-translator-1",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-10-translator-1",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-30-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-1",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-4-topic-classifier",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:09.812Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.453Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:09.854Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.533Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.912Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.077Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.923Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.207Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.196Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.250Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.142Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.078Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:13.250Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.479Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.222Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.495Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.114Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.322Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.084Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.426Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.691Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.003Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.568Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.985Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.495Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.114Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.533Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.856Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:13.072Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.612Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.429Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.647Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.949Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.081Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.207Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.762Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.856Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.923Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.812Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.912Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.187Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.222Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:08.907Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.187Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.613Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.795Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.536Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.826Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.284Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.539Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.539Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.777Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.807Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.239Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.130Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.366Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:13.078Z",
+        "lastSuccessAt": "2026-09-30T02:11:15.818Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.620Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.807Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.935Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.196Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.826Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.935Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.949Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.206Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:13.081Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.416Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.985Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.130Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.280Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.949Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.426Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.613Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.937Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.429Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-30T02:11:11.795Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.777Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.199Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:08.906Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.691Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.924Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.142Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:08.906Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.084Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.199Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.637Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.366Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.620Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:10.453Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.568Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.762Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.924Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.322Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.536Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.206Z",
+        "lastSuccessAt": "2026-09-30T02:11:12.949Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:12.239Z",
+        "lastSuccessAt": "2026-09-30T02:11:13.072Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.077Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.284Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:11.003Z",
+        "lastSuccessAt": "2026-09-30T02:11:11.280Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:08.896Z",
+        "lastSuccessAt": "2026-09-30T02:11:09.854Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:08.904Z",
+        "lastSuccessAt": "2026-09-30T02:11:09.812Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-30T02:11:08.905Z",
+        "lastSuccessAt": "2026-09-30T02:11:10.812Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-troschit-2121103561-html-4137c657c435394f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Опыт \"электрического щита\" Москвы использовали для обороны Сталинграда",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T02:09:29.000Z",
+        "pubTime": "2026-09-30 10:09",
+        "url": "https://ria.ru/20260930/elektroschit-2121103561.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/08/15/2036779893_0:229:2827:1819_650x0_80_0_0_bc3fd892d0528ed85021566be73e63fe.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 10:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/elektroschit-2121103561.html",
+            "publishedAt": "2026-09-30T02:09:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-a-cross-region-inference-95e85b435e3dcca0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:13:14.000Z",
+        "pubTime": "2026-09-30 09:13",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21953-1.png",
+        "fullContent": "We’re excited to announce the availability of Anthropic’s Claude Opus 5 , Claude Sonnet 5 , and Claude Haiku 4.5 in India. The India regional endpoint is served through geographic cross-Region inference . Customers in India can now access these models on Amazon Bedrock while processing the data in the India Regions in addition to the already supported global cross-Region inference . This can be useful when customers need to meet the requirements to process data locally in a desired geography.\n\nIn this post, we discuss how India geographic cross-Region inference works from the Mumbai and Hyderabad Regions on Amazon Bedrock for Anthropic Claude models. We also show how to get started from the Amazon Bedrock console and with code, using Anthropic’s Messages API, Amazon Bedrock InvokeModel API, and Converse API.\n\nTo help you achieve the scale of your AI applications, Amazon Bedrock offers cross-Region inference profiles, a feature you can use to distribute inference across multiple AWS Regions without having to manage capacity in each Region. The request originates from your source Region where you make the API call and is automatically routed to one of the destination Regions defined in the inference profile. The India geographic profile keeps inference within India. Requests route only between ap-south-1 and ap-south-2. Your input prompts and output results might move between those two Regions. Instead of being bound to the capacity of one Region, your requests draw on a broader pool of compute. This helps you maintain throughput and consistent performance under load, which matters most during traffic peaks. Cross-Region inference operates through the secure AWS network with end-to-end encryption for data in transit. Customer data is not stored in a destination Region when using cross-Region inference. It remains exclusively within the source Region. Amazon Bedrock uses a zero data retention (ZDR) data security model. This means that by default, Amazon Bedrock does not store model inputs or outputs. However, certain models require human review by AWS as a condition if content is flagged by automatic safety classifiers. For more details, see Data retention in the Amazon Bedrock User Guide. Billing and quota consumption are tracked against your account in the source Region, regardless of which backend Region handled the request. Amazon CloudWatch and AWS CloudTrail record log entries in the source Region only, so your monitoring stays in one place. Geographic cross-Region inference is available on the bedrock-runtime endpoint. It supports Anthropic’s Messages API and the native Amazon Bedrock InvokeModel and Converse APIs, along with Amazon Bedrock features such as Amazon Bedrock Guardrails and intelligent prompt routing .\n\nAccess Claude models from the Amazon Bedrock console\n\nYou can access Claude models in the text playground in the Amazon Bedrock console, which requires no coding or SDK setup. You can send prompts, adjust inference parameters, and switch between variants to get a feel for each model before you integrate the API.\n\nOpen the Amazon Bedrock console in the Region that you want to use as the source.\n\nIn the navigation pane, under Test , choose Playground .\n\nChoose Select model in the middle of the page.\n\nSearch for Anthropic Claude Opus 5, select IN Anthropic Claude Opus 5 as the inference profile under Inference , and choose Apply .\n\nEnter a prompt and choose Run to generate a response.\n\nFigure 1: The Claude Opus 5 model selected in the Amazon Bedrock console playground\n\nCall Claude models with the Anthropic Messages API and Amazon Bedrock InvokeModel and Converse API\n\nYou can access Anthropic’s Claude Opus 5, Claude Sonnet 5, or Claude Haiku 4.5 programmatically with the India geographic inference profile ID using the Anthropic Messages API on bedrock-runtime through the Anthropic SDK, or keep using the InvokeModel and Converse APIs on bedrock-runtime through the AWS Command Line Interface (AWS CLI) and AWS SDK .\n\nActive AWS account with Amazon Bedrock access.\n\nAWS CLI installed and configured.\n\nBoto3 installed: pip install boto3 .\n\nAnthropic SDK installed: pip install anthropic .\n\nThe Bedrock Token Generator for Amazon Bedrock model inference authentication installed: pip install aws_bedrock_token_generator .\n\nAWS Identity and Access Management (IAM) role or user has the necessary permissions to invoke Amazon Bedrock models using a geographic cross-Region inference profile.\n\nHere’s a quick example using the AWS SDK for Python (Boto3) with the InvokeModel API:\n\nimport boto3 import json\n\n# Create a Bedrock Runtime client bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-south-1\" )\n\n# Invoke Claude Sonnet 5 response = bedrock_runtime.invoke_model( modelId=\"in.anthropic.claude-sonnet-5\", contentType=\"application/json\", accept=\"application/json\", body=json.dumps({ \"anthropic_version\": \"bedrock-2023-05-31\", \"max_tokens\": 4096, \"messages\": [ { \"role\": \"user\", \"content\": \" Can you explain the features of Amazon Bedrock? \" } ] }) )\n\nresult = json.loads(response[\"body\"].read()) print(result[\"content\"][0][\"text\"])\n\nYou can also use the Amazon Bedrock Converse API for a unified multi-model experience:\n\n# Create a Bedrock Runtime client bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-south-1\" )\n\n# Invoke Claude Opus 5 response = bedrock_runtime.converse( modelId=\"in.anthropic.claude-opus-5\", messages=[ { \"role\": \"user\", \"content\": [ { \"text\": \" Can you explain the features of Amazon Bedrock?\" } ] } ], inferenceConfig={ \"maxTokens\": 4096 } )\n\nif 'output' in response: blocks = response['output']['message']['content'] print('\\n'.join(b.get('text', '') for b in blocks if 'text' in b))\n\nYou can also use the Anthropic Messages API using the anthropic SDK package for a streamlined experience:\n\nfrom anthropic import Anthropic from aws_bedrock_token_generator import provide_token\n\ntoken = provide_token(region=\"ap-south-1\")\n\nclient = Anthropic( base_url=\"https://bedrock-runtime.ap-south-1.amazonaws.com/anthropic\", api_key=token, )\n\nresponse = client.messages.create( model=\"in. anthropic.claude-haiku-4-5-20251001-v1:0\", max_tokens=1024, messages=[{\"role\": \"user\", \"content\": \"Can you explain the features of Amazon Bedrock?\"}], )\n\nYou can monitor usage, performance, and costs through CloudWatch and AWS Cost Explorer to scale your applications as demand grows.\n\nWith the launch of Anthropic’s Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 using Amazon Bedrock with India geographic cross-Region inference, you can now build highly scalable, resilient generative AI applications while keeping inference within the country. To get started, access Anthropic’s Claude models in the Amazon Bedrock console , or call them with the API using the India geographic inference profile ID. For the most current information about model availability in each Region, see Regional availability by models in the Amazon Bedrock User Guide.\n\nAamna is a Senior Specialist Solutions Architect for Generative AI focusing on Anthropic models and operationalizing and governing generative AI systems at scale on Amazon Bedrock. She helps ISVs solve their challenges, embrace innovation, and create new business opportunities with Amazon Bedrock.\n\nEugenio is a Sr. Product Marketing Manager for Amazon Bedrock at AWS. With several years of experience in generative AI, he helps customers navigate the evolving landscape of foundation models and generative AI to adopt solutions that deliver measurable value.\n\nSofian is a technology leader with over 12 years of experience building AI solutions, and leading high-performing teams to maximize customer outcomes. He is passionate about empowering diverse talents to drive global impact and achieve their career aspirations.\n\nAyan is a Principal Partner Solutions Architect and AI Tech Lead at AWS, serving as the Worldwide Tech Lead for Anthropic at AWS. He works at the intersection of cloud architecture and Artificial Intelligence, helping organizations adopt and scale Anthropic’s technologies on AWS.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T01:13:14.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/"
+          }
+        ]
+      },
+      {
+        "id": "story-angerous-stairs-389c3c7b-4cf0da6939ea1281",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:00:00.000Z",
+        "pubTime": "2026-09-30 09:00",
+        "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T01:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-00-reward-to-middle-east-6de3a818efb7e4cc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Iran offers up to $40,000 reward to Middle East citizens who capture, kill US soldiers - report",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:39:16.000Z",
+        "pubTime": "2026-09-30 06:39",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wtof08/iran_offers_up_to_40000_reward_to_middle_east/",
+        "imageUrl": "https://external-preview.redd.it/iusIPB4EjGvRaUHl1N2-3XnmAFbob-E0k_EqalggQgk.jpeg?width=640&crop=smart&auto=webp&s=01c30711d63fc5099e0f2f154fdebcc5e77fa785",
+        "fullContent": "submitted by /u/barsik_ [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-30 06:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wtof08/iran_offers_up_to_40000_reward_to_middle_east/",
+            "publishedAt": "2026-09-29T22:39:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-tool-microscopy-html-df32c2e3ca99fbf1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unlocking AI as a research tool for plant microscopy",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:40:05.000Z",
+        "pubTime": "2026-09-30 09:40",
+        "url": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-ai-as-a-rese.jpg",
+        "fullContent": "Software created by University of Queensland scientists could help AI platforms overcome a blind spot limiting their value in plant research. UQ Ph.D. student Tianqi Wei said even advanced vision-language models (VLMs) had difficulty interpreting images of microscopic plant details.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 09:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
+            "publishedAt": "2026-09-30T01:40:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aeroport-2121103467-html-57eef4ce0b4e67e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Уфы ввели временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T02:09:03.000Z",
+        "pubTime": "2026-09-30 10:09",
+        "url": "https://ria.ru/20260930/aeroport-2121103467.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/155735/67/1557356725_0:80:1519:934_650x0_80_0_0_928d50e53de7170ec65f1ced8edc22a3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 10:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/aeroport-2121103467.html",
+            "publishedAt": "2026-09-30T02:09:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-in-seoul-and-singapore-41a5c6bec9bee29d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:13:12.000Z",
+        "pubTime": "2026-09-30 09:13",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22088-1.png",
+        "fullContent": "Amazon Bedrock now supports the Anthropic Claude models: Claude Opus 5 and Claude Sonnet 5 in Seoul and Claude Sonnet 5 in Singapore with in-region inference on the bedrock-runtime endpoint. If you have local data processing requirements in South Korea or Singapore, for example, in financial services, healthcare, and the public sector, you can now use these Anthropic models at scale. Amazon Bedrock processes inference requests and data within the Region you call. The processing does not leave the Region.\n\nIn this post, we walk through how in-region inference works from the Asia Pacific (Seoul) Region ( ap-northeast-2 ) and Asia Pacific (Singapore) Region ( ap-southeast-1 ) using the bedrock-runtime endpoint. We also show how to get started from the Amazon Bedrock console and with code, using the Amazon Bedrock Converse API, the InvokeModel API, and the Anthropic Messages API.\n\nTo help you meet strict data residency requirements for your AI applications, Amazon Bedrock offers in-region inference. Your request is processed entirely within the single AWS Region you specify, and it does not leave that Region. Use this when you have a need for strict single-Region data processing.\n\nUnlike cross-Region inference profiles, there is no routing layer. The request you send to the Seoul ( ap-northeast-2 ) or Singapore ( ap-southeast-1 ) Region is served by that Region alone. Your input prompts and output results stay within it for the full lifecycle of the request. In exchange, your throughput is bounded by that Region’s capacity. Requests are subject to per-Region service quotas. Billing follows standard on-demand pricing for the Region you call. Quota consumption, Amazon CloudWatch metrics, and AWS CloudTrail log entries are all scoped to that same Region. There is no source-versus-destination distinction to account for in your monitoring. In-region inference for Claude Sonnet 5 and Claude Opus 5 in Seoul and Claude Sonnet 5 in Singapore is available on the bedrock-runtime endpoint. For new applications, we recommend the bedrock-runtime endpoint. You invoke it with the direct model ID, for example, anthropic.claude-opus-5 or anthropic.claude-sonnet-5 . It supports Anthropic’s Messages API and the Amazon Bedrock InvokeModel and Converse APIs, along with Amazon Bedrock features such as Amazon Bedrock Guardrails and intelligent prompt routing .\n\nAccess Claude models from the Amazon Bedrock console\n\nYou can access Claude models in the text playground in the Amazon Bedrock console, which requires no coding or SDK setup. You can send prompts, adjust inference parameters, and switch between variants to get a feel for each model before you integrate the API.\n\nOpen the Amazon Bedrock console in a Region that you want to use as a source.\n\nIn the navigation pane, under Test , choose Playground .\n\nChoose Select model in the middle of the page.\n\nSearch for anthropic.claude-opus-5 , select On-Demand under Inference , and choose Apply .\n\nEnter a prompt and choose Run to generate a response.\n\nFigure 1: The Anthropic Opus 5 model selected in the Amazon Bedrock console playground with in-region inference\n\nCall Claude models with the Anthropic Messages API and Amazon Bedrock InvokeModel and Converse API\n\nYou can access Anthropic’s Claude Opus 5 or Claude Sonnet 5 programmatically with Seoul in-region inference using the Anthropic Messages API on the bedrock-runtime through Anthropic SDK or keep using the Invoke and Converse API on bedrock-runtime through the AWS Command Line Interface (AWS CLI) and AWS SDK .\n\nActive AWS account with Amazon Bedrock access.\n\nAWS CLI installed and configured.\n\nBoto3 installed: pip install boto3 .\n\nAnthropic SDK installed: pip install anthropic .\n\nThe Amazon Bedrock Token Generator for Amazon Bedrock authentication installed: pip install aws_bedrock_token_generator .\n\nHere’s a quick example using the AWS SDK for Python (Boto3) with the InvokeModel API:\n\nimport boto3 import json\n\n# Create a Bedrock Runtime client with in-region inference in Singapore bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-southeast-1\")\n\n# Invoke Claude Sonnet 5 response = bedrock_runtime.invoke_model( modelId=\"anthropic.claude-sonnet-5\", contentType=\"application/json\", accept=\"application/json\", body=json.dumps({ \"anthropic_version\": \"bedrock-2023-05-31\", \"max_tokens\": 4096, \"messages\": [ { \"role\": \"user\", \"content\": \" Can you explain the features of Amazon Bedrock? \" } ] }) )\n\nresult = json.loads(response[\"body\"].read()) print(result[\"content\"][0][\"text\"])\n\nYou can also use the Amazon Bedrock Converse API for a unified multi-model experience:\n\n# Create a Bedrock Runtime client with in-region inference in Seoul bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-northeast-2\" )\n\n# Invoke Claude Opus 5 response = bedrock_runtime.converse( modelId=\"anthropic.claude-opus-5\", messages=[ { \"role\": \"user\", \"content\": [ { \"text\": \" Can you explain the features of Amazon Bedrock?\" } ] } ], inferenceConfig={ \"maxTokens\": 4096 } )\n\nif 'output' in response: blocks = response['output']['message']['content'] print('\\n'.join(b.get('text', '') for b in blocks if 'text' in b))\n\nYou can also use the Anthropic Messages API through the anthropic SDK package for a streamlined experience:\n\nfrom anthropic import Anthropic from aws_bedrock_token_generator import provide_token\n\ntoken = provide_token(region=\"ap-northeast-2\")\n\nclient = Anthropic( base_url=\"https://bedrock-runtime.ap-northeast-2.amazonaws.com/anthropic\", api_key=token, )\n\nresponse = client.messages.create( model=\"anthropic.claude-sonnet-5\", max_tokens=1024, messages=[{\"role\": \"user\", \"content\": \"Can you explain the features of Amazon Bedrock?\"}], )\n\nYou can monitor usage, performance, and costs through CloudWatch and AWS Cost Explorer to scale your applications as demand grows.\n\nWith the launch of Anthropic’s Claude Opus 5 and Claude Sonnet 5 on Amazon Bedrock with in-region inference in Seoul, and Claude Sonnet 5 with in-region inference in Singapore, you can now build generative AI applications that have strict data residency requirements. This keeps inference within the Region you want. We are excited about this launch and look forward to seeing how you use these capabilities to accelerate innovation and deliver impactful AI-powered experiences across the Region. For the most current information about model availability in each Region, see Regional availability by models in the Amazon Bedrock User Guide.\n\nAamna is a Senior Specialist Solutions Architect for Generative AI focusing on Anthropic models and operationalizing and governing generative AI systems at scale on Amazon Bedrock. She helps ISVs solve their challenges, embrace innovation, and create new business opportunities with Amazon Bedrock.\n\nAlfredo is a Senior Specialist Solutions Architect for Generative AI at AWS, focusing on Anthropic models go-to-market on Amazon Bedrock. He works with Financial Services customers to design and scale generative AI solutions across distributed systems and turn generative AI experiments into production workloads. Outside of work, he is passionate about family and endurance sports.\n\nEugenio is a Sr. Product Marketing Manager for Amazon Bedrock at AWS. With several years of experience in generative AI, he helps customers navigate the evolving landscape of foundation models and generative AI to adopt solutions that deliver measurable value.\n\nSofian is a technology leader with over 12 years of experience building AI solutions, and leading high-performing teams to maximize customer outcomes. He is passionate about empowering diverse talents to drive global impact and achieve their career aspirations.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T01:13:12.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/"
+          }
+        ]
+      },
+      {
+        "id": "story-earn-am-i-crazy-364d2a64-bb78120889abf922",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:30:00.000Z",
+        "pubTime": "2026-09-30 08:30",
+        "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“When my paycheck lands, it takes a detour through bitcoin.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T00:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-espsdr-99391e2ed67e7654",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:13:56.000Z",
+        "pubTime": "2026-09-30 06:13",
+        "url": "https://espargos.net/espsdr/",
+        "imageUrl": null,
+        "fullContent": "Raw IQ Capture with Espressif's ESP32 Chips\n\nEspressif Systems' ESP32 microcontrollers are well known for their Wi-Fi and Bluetooth capabilities. Over the past few months (and with the help of LLMs), we have found an undocumented feature that allows the firmware to bypass the fixed-function modems to capture raw IQ baseband samples. This opens up the possibility of using the ESP32 as a low-cost software-defined radio (SDR) platform, capable of receiving signals in the 2.4 GHz band (and the 5 GHz band on the ESP32-C5).\n\nTo prove the concept, we made a simple web interface that displays the live power spectrum and waterfall of the captured IQ samples (at a very low duty cycle). Use a browser with Web Serial support.\n\nConnect your board over USB and install the SDR firmware using the browser flasher. Supported chips are the original ESP32, ESP32-C3, ESP32-C5, ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3 and ESP32-S31. The original ESP32 requires a USB-to-UART bridge, often built into the development board.\n\nAfter flashing, unplug the board for five seconds and reconnect. Open ESP-WebSDR and select your device to see the live spectrum.\n\nFor example, on the ESP32-C61, the capture mechanism works as follows: The SRAM inside the ESP32 is organized into banks. Our firmware uses two of these banks and organizes them as a ring buffer. One of the banks is temporarily owned by the modem, which writes raw IQ samples into it, while the other bank is owned by the CPU, which copies the completed samples to a buffer for transfer to the host. The firmware tracks the hardware write pointer to detect when the modem moves to the next bank.\n\nThe exact format of the IQ samples is configurable. In our implementation, each complex sample occupies one 32-bit word in memory. Bits 19–10 hold I and bits 9–0 hold Q, both signed 10-bit two's-complement values (−512 to +511). Bits 27–20 report the receiver gain setting (an index into the gain table), while bits 31–28 are most likely the internal state of the automatic gain control's finite state machine.\n\n2.2–2.7 GHz4.8–6.0 GHz\n\n5 GHz is only available on ESP32-C5. Exact tuning limits differ by chip.\n\nRaw complex IQ capture into memory, with transfer to the host at a low duty cycle.\n\nAnalog RX bandwidth. Exact limits depend on the chip and filter settings.\n\nInternal hardware AGC or a manually selected fixed receiver gain.\n\nWith ESP-SDR, the ESP32 can even capture IQ data beyond the officially supported tuning range. For example, the ESP32-C61 can capture signals up to 2.7 GHz, which includes some LTE and 5G NR cellular bands, such as LTE band 7 and 5G NR band n7 around 2.6 GHz.\n\nOur starting point was the adctrig function in Espressif's librftest library. With the help of LLMs, we reverse engineered this function to understand how it configures the hardware to capture raw IQ samples. These findings formed the basis of ESP-SDR's capture implementation.\n\nWithout any hardware modifications, ESPARGOS One can now phase-coherently capture raw IQ samples. If you already have an ESPARGOS One, update its firmware to the latest version from the dev branch to enable this capability. The hardware already supports it. We currently provide the \"IQ Signal Analyzer\" demo application, but are working on additional demo applications, including an adapted real-time augmented reality demo for arbitrary signals.\n\nThe IQ sampling implementation on ESPARGOS One is even more powerful than the browser-based demo (ESP-WebSDR):\n\nIn addition to the existing Wi-Fi channel state information (CSI)-based demos, ESPARGOS One can now also be used as a low-cost, eight-channel SDR platform for the 2.4 GHz ISM band, operating at a low duty cycle. The benefits of raw IQ capture over processed CSI include:\n\nAt 80 MSa/s and 32 bits per sample, the modem writes 2,560 Mbit/s into SRAM. Getting those samples off the chip is the bottleneck: the output links are much slower.\n\nTherefore, our firmware streams the IQ samples at a very low duty cycle, which is enough to display a live spectrum and waterfall in the browser. Packets that arrive between capture windows may be missed.\n\nSoapyESPSDR is our receive-only SoapySDR driver for the ESP32-S31. It streams IQ samples over Gigabit Ethernet from a board running ESP-SDR firmware, making the receiver available to applications such as GNU Radio and gqrx through their SoapySDR support.\n\nThe S31 supports continuous reception at 8 and 16 MSa/s; higher sample rates require a reduced duty cycle.\n\nUnder development: We will release firmware and SoapySDR driver repositories soon, once everything is ready.\n\nYes, this is also possible. On ESPARGOS One, even phase-coherent transmission is possible. However, we are not providing a transmitter implementation at this time due to the potential for misuse.\n\nNo, this is a feature of the ESP32's modem that was not documented in the public datasheet. As far as we are concerned, it is not a security vulnerability, but rather an undocumented capability that can be used for SDR applications. That being said, many ESP32-powered devices are connected to various cloud services which allow the manufacturer of to update the firmware remotely. If sensitive data is transmitted without encryption in the ISM bands, this could pose a security concern. In that case, the underlying issue is the unencrypted transmission. The ability of the ESP32 to transmit arbitrary signals, on the other hand, could be abused for jamming or other malicious purposes, which is why we are not providing a transmitter implementation at this time.\n\nDue to the low duty cycle achievable for most ESP32 models, it does not make much sense to use the SDR mode with these applications. For the ESP32-S31, our SoapyESPSDR driver provides integration with GNU Radio, gqrx and other SoapySDR-compatible applications over Gigabit Ethernet.\n\nESP-SDR currently supports the original ESP32, ESP32-C3, ESP32-C5, ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3 and ESP32-S31. We are working to extend the range of supported ESP32 chips. Support for additional models will most likely be possible, but each chip needs its own implementation.\n\nYes, this is possible. An external mixer can translate signals from other frequency bands into the ESP32's transmit / receive range. We already have multi-channel prototype hardware for this.\n\nUser h0m3us3r first disclosed this capability for the ESP32-S3 on Reddit, including firmware source code, a few days before our announcement. They achieve 80 MSa/s of sustained throughput using an additional FPGA to handle the transfer. Since we have been independently working on IQ capture for several months now, we also wanted to share our findings with the community.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:13:56.000Z",
+            "url": "https://espargos.net/espsdr/"
+          }
+        ]
+      },
+      {
+        "id": "story-t-diversity-diverse-html-9db2f18b0a55a288",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Small fields, great diversity: How a diverse patchwork of crops helps birds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:20:05.000Z",
+        "pubTime": "2026-09-30 08:20",
+        "url": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-fields-great-div.jpg",
+        "fullContent": "Birds are not only beautiful to look at and listen to; they also play important roles in nature. They eat pests and disperse seeds. They are generally considered indicators of a healthy environment. When birds thrive, soil and water quality often benefit as well. A new study published in the journal Landscape Ecology shows that growing a variety of crops in small field patches creates better habitats for birds.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 08:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html",
+            "publishedAt": "2026-09-30T00:20:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aeroport-2121103322-html-c609a860288edd28",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Саратова сняли временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T02:07:35.000Z",
+        "pubTime": "2026-09-30 10:07",
+        "url": "https://ria.ru/20260930/aeroport-2121103322.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 10:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/aeroport-2121103322.html",
+            "publishedAt": "2026-09-30T02:07:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nai-ipo-devday-ai-safety-d6b003b6ebfae6b2",
+        "title": "萨姆·奥特曼称，OpenAI在其模型安全之前不会上市",
+        "originalTitle": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:19:13.000Z",
+        "pubTime": "2026-09-30 08:19",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Hayden Field\n\nFor months, people have wondered when OpenAI will go public. CEO Sam Altman says it won’t happen until the company can make better promises about model safety, with no firm timeline in sight. “We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,” Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be “bad for the world.”\n\nAltman’s comments come after months of controversy about whether or not OpenAI and its rivals can control their own creations. In July, news broke that an unreleased OpenAI model had hacked into a rival AI lab, Hugging Face, without OpenAI’s knowledge. More cybersecurity incidents soon came to light at OpenAI, Anthropic, Meta, and Google. A high-profile resignation letter from an Anthropic employee sparked a public discussion about how risky these systems are for society at large. OpenAI, alongside its rivals, called for regulation and “pacing the frontier.” And earlier this month, Altman said in an interview that the company would likely not go public this year.\n\nAt DevDay, Altman was circumspect about what “pacing the frontier” actually meant, refraining from calling it an outright slowdown. “Pacing to us means that we push safety and alignment ahead of capabilities,” Altman said. But he expressed concerns that going public could create the potential to “disappoint Wall Street supporters in the names of safety or whatever else,” and that doing it during a “shift to very capable models and a new kind of safety requirement seems ill-advised.” He said OpenAI would prioritize safety to “confidently scale to the next stage of AI without people debating what percent chance we’re going to do all these bad things,” rather than “barrel, all guns blazing, towards an IPO.”\n\n“I don’t want to put additional pressure right now as we’re going through this significant change and what it’s going to take to make the safety claims that we all should want us to make for these extremely capable models,” Altman said.\n\nOpenAI rival Anthropic officially filed to go public in June, with its IPO likely to happen in November, reportedly after the US midterm elections. Elon Musk’s SpaceX, which owns his AI company xAI, went public in June and became the biggest IPO in history.\n\n“I think it’s great when companies are public,” Altman said, adding, “I think it’s also kind of bad for the world if OpenAI waits too long to go public.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "有关这一主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\nOpenAI首席执行官表示，他不希望承受来自华尔街的“额外压力”。\n该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\n查看海登·菲尔德的全部文章\n数月以来，人们一直在猜测OpenAI何时会上市。首席执行官萨姆·奥特曼表示，在公司能够就模型安全作出更有力的承诺之前，这不会发生，目前也没有明确的时间表。奥特曼周二在DevDay主题演讲结束后接受记者问答时说：“我们打算继续推动人工智能进步……但随着模型能力大幅跃升，而且我们预计未来还会有更多进展，我们必须能够对安全性作出有把握的声明。”与此同时，他表示，如果IPO等待太久，将会“对世界不利”。\n奥特曼发表上述言论之际，外界数月来一直在争论OpenAI及其竞争对手是否能够控制自己创造的系统。今年7月，有消息披露，一个尚未发布的OpenAI模型在OpenAI不知情的情况下入侵了竞争对手人工智能实验室Hugging Face。随后，OpenAI、Anthropic、Meta和谷歌又陆续曝出更多网络安全事件。一名Anthropic员工发布的高调辞职信，引发了公众对于这些系统对整个社会而言风险有多大的讨论。OpenAI与竞争对手一道呼吁加强监管，并“控制前沿发展节奏”。本月早些时候，奥特曼在一次采访中表示，公司今年很可能不会上市。\n在DevDay活动上，奥特曼对于“控制前沿发展节奏”究竟意味着什么持谨慎态度，避免将其称为彻底放缓。他说：“对我们而言，控制节奏意味着让安全性和对齐进展领先于能力提升。”但他表示，上市可能会造成这样的局面：以安全或其他理由“让华尔街支持者失望”；而在“向极具能力的模型转变、并面临一种新型安全要求”的时期上市，似乎“不明智”。他说，OpenAI将把安全放在首位，从而“有把握地扩大人工智能的下一阶段发展，而不是让人们争论我们做出所有这些坏事的概率是多少”，而不是“全副武装、火力全开地冲向IPO”。\n奥特曼说：“在我们经历这一重大转变、并努力实现我们所有人都应当希望公司针对这些能力极强的模型作出的安全声明之际，我现在不想施加额外压力。”\nOpenAI的竞争对手Anthropic于6月正式提交上市申请，其IPO可能于11月进行，据报道时间会安排在美国中期选举之后。埃隆·马斯克旗下拥有其人工智能公司xAI的SpaceX于6月上市，并成为历史上规模最大的IPO。\n奥特曼说：“我认为公司上市是一件好事。”他补充道：“我也认为，如果OpenAI等待太久才上市，这对世界来说也会有些不利。”\n每日免费获取最重要新闻的摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T00:19:13.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+          }
+        ]
+      },
+      {
+        "id": "story-al-is-higher-prices-html-54c45c75c718a650",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil's New Normal Is Higher Prices",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:00:00.000Z",
+        "pubTime": "2026-09-30 08:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
+        "imageUrl": null,
+        "fullContent": "Oil prices pulled back on Tuesday, reversing recent gains as investors weighed signs of export recovery by Middle Eastern producers against uncertainty surrounding the fate of the Iran war. Brent crude for November delivery fell 1.5% to trade at $103.72 per barrel at 1.10 pm ET, while WTI crude for October delivery declined 2.2% to change hands at $90.62/bbl. Crude exports from the region climbed to 15.5 million barrels per day in September, good for more than 80% of prewar levels and the highest level since the conflict began seven months ago. Saudi Arabia spearheaded the recovery, more than doubling its crude exports from 2.45 million bpd in August to roughly 5.4 million bpd in September after bringing back online parts of the damaged East-West pipeline. And now commodity analysts at Standard Chartered have hiked their oil price forecasts amid stalled diplomacy efforts and regional escalation beyond Iran and Hormuz. StanChart has raised its average Brent crude forecast for 2026 to $92.00/bbl from its previous forecast at $85.50/bbl, while WTI crude is now expected to average $86.00/bbl, up from $80.25/bbl. StanChart has also hiked its 2027 oil price forecasts, and now sees Brent averaging $89.50/bbl from $77.50/bbl, while WTI crude rises to 89.50/bbl from $77.50/bbl. According to StanChart, the global energy market is now confronting a more persistent deterioration in the Middle East security environment, with little prospect of a return to the pre-conflict status quo and no real pathway to a settlement visible yet. The conflict continues to spill over into a wider regional security problem, with the Houthi/Saudi escalation adding a second front and Saudi Arabia being drawn in deeper. Related Iran Talks Take the Heat Out of the Oil Rally Source Standard Chartered StanChart notes that both Brent and WTI remain caught between structural tightness and policy risk. Supply buffers are extremely thin, which means that price moves are highly sensitive to further disruption. StanChart expects only a gradual and imperfect de-escalation process, even if US-Iran negotiations resume shortly, with periodic flare-ups in tension likely to keep a premium embedded in prices. Meanwhile, the events of 2026 are accelerating a shift in the energy system from efficiency towards resilience, StanChart notes. For years, companies cut inventories, consolidated supply chains and prioritized efficiency over resilience. The analysts believe that approach is now reversing as governments, producers and consumers build larger inventories, maintain more spare capacity and diversify suppliers. That shift raises costs, but it also supports a higher long-term floor for oil prices. As a result, they expect oil markets to normalize more slowly, with elevated prices likely to persist into 2027 and beyond. In the products markets, diesel prices have surged to an all-time high, with StanChart saying it has now moved from a market problem to a policy problem. The next few weeks could clarify how far the Trump administration is prepared to intervene in U.S. product markets as the midterm elections approach. Significant internal pressure for a U.S. diesel export ban remains, particularly from those battleground states where high diesel prices coincide with a key agricultural harvest season Iowa, for instance. Trump has backed restrictions on diesel exports previously; however, many in his cabinet including energy secretary Chris Wright, have warned that this could ultimately also lead to tightening both gasoline and jet fuel supply. This would, in turn, make both the global product problem worse and after temporarily helping U.S. consumers, end up damaging Gulf Coast refining economics, potentially lowering crude runs. StanChart notes that pressure to demonstrate action on domestic prices is leading the administration to consider less disruptive alternatives, including voluntary export reductions by refiners and broader use of tax-exempt dyed diesel. In the natural gas markets, the EU Commissioner for Energy and Housing Dan Jrgensen recently urged member states' energy ministers to both sustain stronger injections and consider measures to reduce gas and electricity demand, warning of a potential price crisis linked to supply risk. However, the urgency in Brussels is less evident in the market, with European natural gas futures falling to 69.30 per megawatt-hour on Tuesday, the lowest level in a month on weaker Chinese LNG demand. According to StanChart, this push from the EU Commission is an attempt to prompt a stronger response and to bridge the disconnect in urgency between the state and market. The analysts note that existing flexibility to lower the storage target to 80% may ease near-term price pressure, but it does not fully remove Europe's exposure in winter. By Alex Kimani for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-30 08:00 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-9-29-deser-cab2b62248188536",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Deser: Rethinking Rust Serialization",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:02:31.000Z",
+        "pubTime": "2026-09-30 06:02",
+        "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "imageUrl": null,
+        "fullContent": "written on September 29, 2026\n\nSerde is an amazing serialization library for Rust and it has been a huge reason why I felt productive with it for years. However already while at Sentry I got quite frustrated with some of the limitations with it but actually replacing Serde is tricky because of the might that it has in the ecosystem. Also because it’s quite hard to actually do better without also making some potentially painful compromises.\n\nHere are three examples of Serde corner cases that show poor interactions of Serde features or unexpected limitations:\n\nAn internally tagged enum, with serde_json‘s arbitrary_precision feature turned on:\n\nSerde’s data model has no place for arbitrary precision numbers, so serde_json uses in-band signalling with a map with a magic key. The enum has to buffer the fields until it has seen the tag, and the buffer does not know about the magic key. Because Cargo features are unified, it’s enough for any crate in your dependency graph to turn the feature on.\n\nStats on its own parses {\"scores\": {\"42\": 23}} just fine. JSON keys are always strings, and serde_json only turns them into integers if the type asks for one. However once flatten buffers the value, \"42\" is just a string. The error also points at the end of the document rather than at the key.\n\nA function cannot be passed as a type parameter, so there is no way to apply from_hex to the inside of an Option, a Vec or a map. You write another function for every wrapper, and once you have from_opt_hex the field is no longer optional unless you also remember to add #[serde(default)].\n\nNone of these are bugs that are easy to fix in Serde. They fall out of its design, and that design is protected by Serde’s stability guarantees.\n\nBack in 2022 I started an experiment called Deser. It’s a serialization library for Rust that takes the user experience of Serde and puts it on top of a completely different architecture inspired by miniserde. I never really finished it and it sat around for a few years. I picked it back up, and it has now reached a point where I think it’s worth looking at. Even just to inspire others to see if they want to explore the space.\n\nThe name is Serde with its two halves swapped. Deser is Serde but the other way around. In Serde, a type drives the deserialization process: a Deserialize impl asks the deserializer for the kind of value it expects, the format calls back into a visitor. Every nested value is handled by recursion which makes Serde deserialization inherently grow the stack with each level of nesting.\n\nDeser on the other hand turns this around and the format tells the type of the next value and pushes events into a sink. When a sink hits the start of a nested value, it doesn’t call into it but hands back a new sink to a driver, which keeps all state on the heap (in fact, in an arena). On the way out, emitters return their nested values instead of recursing into them.\n\nThat also means that Deser cannot support formats like protobuf that are not self describing. They are in fact quite intentionally left out of the design entirely. Which is one way to say: if you want to “fix” Serde, you need to make some other compromises.\n\nMost of the reasons for Deser’s ideas go back to Sentry Relay, which processes enormous amounts of untrusted JSON. Over the years when I was at Sentry we ran into the same set of problems again and again, and many of them are not really bugs in Serde but consequences of its design. Serde’s stability guarantees mean that a lot of them cannot be fixed without breaking every format and every hand written implementation. Most of these problems come from three decisions:\n\nOne set of traits for all formats. Serde serves both self describing formats (JSON, YAML, TOML, …) and formats where the reader has to know the type upfront (postcard, bincode, protobuf, …). That is incredibly useful, but it means that some features only work with some formats, and you find out at runtime. In case of Serde it also has some odd wrinkles where a derived struct quietly accepts an array in place of an object in JSON for instance.\n\nA fixed data model that loses information when buffering. Internally tagged enums, untagged enums and flatten need to buffer values before they know what to do with them. The buffer can’t hold everything the format knew, errors lose their location and extensions to the ecosystem rely on in-band signalling to express things such as arbitrary precision numbers.\n\nRecursion on the call stack. Every level of nesting uses stack space. Formats protect against this with a recursion limit, but the moment you go through a code path that doesn’t have one (writing, dynamic values), deeply nested data can take down your process. It also means that a deserialization cannot be paused while you wait for more input.\n\nMany of the corresponding Serde issues have been open for years, and I wrote about abusing Serde before. People have tried different angles on this over the years. Some went minimal and dropped most features to get fast compiles and no recursion. dtolnay’s own miniserde is the best example of that, and deser’s trait design was originally modelled after it. Other recent attempts went for runtime reflection, or for a new data model with a focus on binary formats.\n\nIf you want to read up on all of the collected challenges with Serde’s design, I maintain a lengthy list here.\n\nFirst of all I don’t think it’s likely that one can replace Serde. The orphan rule entrenches Serde incredibly well in the ecosystem. But some things are within the reach of a crate author’s control. In case of Deser it’s completeness.\n\nDeser today implements all important self describing formats from YAML, JSON, TOML, CBOR, JSON5 and the likes, but also XML and plist to really close the gap. XML in particular is something Serde has declined to support, and it shows (more on that below). At the very least format support should not be the reason not to use Deser.\n\nThe second problem usually is that actually solving Serde’s issues comes at a significant cost in compile time and/or runtime performance. Deser is no different. While Deser’s compile times are a bit better than Serde’s, the binary bloat is quite a bit worse and the runtime performance is mixed. It’s roughly comparable if you look at the numbers but depending on the format structure you are losing significantly from some of the tradeoffs.\n\nThat said, it’s now in a state where it’s at least in principle a drop-in replacement where the tradeoffs might work well for users.\n\nDeser does not try to be significantly different than Serde on the surface level. For most uses you derive Serialize and Deserialize and then start using it with your format implementing crate of choice. Most attributes are very similar, though they are taking Rust expressions instead of strings.\n\nThe difference in the design would become more apparent if you implement a serializer or deserializer yourself. Instead of visitors that call into each other recursively, deserializing a type creates a sink which receives events that are directly emitted by the parser, and serializing produces emitters that hand out values. Nested sinks and emitters are handed back to a driver, which keeps them on the heap. This design, which is entirely stolen from miniserde, gives some interesting consequences:\n\nOn top of that are a lot of things that I just wanted to have:\n\nHere is a small configuration type that shows a few of these together:\n\nAdapters are types, so Hex can go inside a Vec, and DisplayFromStr inside a Vec inside an Option. Validators are adapters too, so Check<NonEmpty, Vec<Hex>> decodes the keys and then checks that there is at least one. The catch-all variant keeps the tag and a recording of everything else in case someone wants to process it later.\n\nErrors are something I care a lot about, so here is what happens when a value is wrong:\n\nNote that here the tag of the internally tagged enum comes last which means that the values have to be buffered until the tag is known. In Serde this is tricky and we would lose the location if we used some tricks to add it. With Deser however, with the path layer enabled Deser you where in the structure the problem is:\n\nDeser really wants to be extensible, and XML is a more extreme example of the differences between Deser and Serde. Here is an Atom entry that mixes in Dublin Core for the authors:\n\nXML uses namespaces which means that names need to be matched by their namespace, not by the prefix the document happens to use. Here the document says d: and the type says dc!. atom!(\"title\") is just the string {http://www.w3.org/2005/Atom}title, which works because attributes are expressions. The two creators are collected into one Vec even though there is another element between them, and the text of updated goes straight into a chrono datetime. Because the enum is untagged, the entry has to be buffered before a variant is picked, and deser’s buffer keeps both creators. So the result is an Entry with John and Jane.\n\nquick-xml, the most popular XML crate for Serde, drops the prefixes and ignores namespaces entirely, so a <x:title> from some other namespace is happily accepted as the title of the entry. The split list part though is considerably worse. A plain Entry fails with a duplicate field error for creator, unless you turn on the overlapped-lists feature (which, remember, is a global additive flag that any crate could set). That feature makes quick-xml read ahead to the end of the element and buffer everything in between, without a limit unless you set one.\n\nBut the feature only helps when quick-xml is hooked up to the struct directly and no buffering is taking place. Wrap the struct in the untagged enum and Serde buffers the entry itself. Read from that buffer, Entry sees creator twice and fails again. The fallback is a map, which keeps only the last creator, and there is no error. With or without the feature you get this:\n\nNotice how John is gone.\n\nFormat specific extension types such as TOML datetimes are another case. TOML has them natively, Serde’s data model does not, so the toml crate passes them on as a map with a magic key. In Deser a datetime is an extension value, which formats that know it keep and all others write as a string:\n\nThe same with serde_json::Value gives you {\"released\":{\"$__toml_private_datetime\":\"2026-09-29T21:00:00+02:00\"}}, and reading the value into a chrono::DateTime fails outright with invalid type: map, expected an RFC 3339 formatted date and time string.\n\nSo now that you know Deser is at least in theory cool, at what cost?\n\nIt is not free. The design relies on dynamic dispatch and on sinks and emitters that live on the heap, and that has considerable runtime overhead. In my own measurements for JSON, Deser reads somewhere between 33% faster and 60% slower than serde_json depending on the data. On average it’s about 10% slower for reading. Writes are between three times as fast and 70% slower and a wash on average. For YAML and TOML it’s noticeably faster than the Serde based crates, but that is more about the format implementations than the architecture.\n\nCompile times slightly are better, but not dramatically so. Because it doesn’t monomorphize everything, release builds of derived code are about 2.3 times as fast as with Serde and that get a tiny bit better in practice for your own code as less recompilation is necessary.\n\nTo make Deser’s design work at all, it also uses unsafe internally. Most of this is to keep the chain of borrowed sinks on the heap. I feel like this is fine in the days of Miri and agents, but I know it makes some folks uneasy.\n\nAnd well, the biggest cost is that it’s just not Serde.\n\nQuite a lot actually which might be surprising. In addition to the core there is support for derive.\n\nIt supports all flavorts of JSON you can think of: JSON, JSONC, JSON5 and HJSON. (Fun fact here: they are all generated out of one shared parser template) For binary handling it supports CBOR and MessagePack. Additionally it does YAML 1.1 and 1.2, TOML, XML and all three flavors of Apple’s plist as well as CSV/TSV, urlencoded data and environment variables. For more crazy contraptions you can attach path info or capture location data as well as support for debug printing. You can perform validation as you parse, opt into different binary encodings in addition to base64, you can bridge to serde or capture dynamic values, transcode between formats or hook it up with tokio.\n\nFor documentation see docs.rs/deser and the code itself is on GitHub alongside many examples.\n\nThis entry was tagged rust\n\ncopy as / view markdown\n\n© Copyright 2026 by Armin Ronacher.\n\nContent licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.\n\nContact me via mail, bluesky, x, or github.\n\nYou can sponsor me on github.\n\nColor scheme: auto, light, dark. document.querySelector('.theme-selector').removeAttribute('hidden'); document.querySelectorAll('input[name=\"theme\"]').forEach(input => { input.checked = input.value === $THEME; input.addEventListener('change', () => { selectTheme(input.value); }); });",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 51,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:02:31.000Z",
+            "url": "https://lucumr.pocoo.org/2026/9/29/deser/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-troschit-2121103561-html-4137c657c435394f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Опыт \"электрического щита\" Москвы использовали для обороны Сталинграда",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T02:09:29.000Z",
+        "pubTime": "2026-09-30 10:09",
+        "url": "https://ria.ru/20260930/elektroschit-2121103561.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/08/15/2036779893_0:229:2827:1819_650x0_80_0_0_bc3fd892d0528ed85021566be73e63fe.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 10:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/elektroschit-2121103561.html",
+            "publishedAt": "2026-09-30T02:09:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-a-cross-region-inference-95e85b435e3dcca0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:13:14.000Z",
+        "pubTime": "2026-09-30 09:13",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/18/ML-21953-1.png",
+        "fullContent": "We’re excited to announce the availability of Anthropic’s Claude Opus 5 , Claude Sonnet 5 , and Claude Haiku 4.5 in India. The India regional endpoint is served through geographic cross-Region inference . Customers in India can now access these models on Amazon Bedrock while processing the data in the India Regions in addition to the already supported global cross-Region inference . This can be useful when customers need to meet the requirements to process data locally in a desired geography.\n\nIn this post, we discuss how India geographic cross-Region inference works from the Mumbai and Hyderabad Regions on Amazon Bedrock for Anthropic Claude models. We also show how to get started from the Amazon Bedrock console and with code, using Anthropic’s Messages API, Amazon Bedrock InvokeModel API, and Converse API.\n\nTo help you achieve the scale of your AI applications, Amazon Bedrock offers cross-Region inference profiles, a feature you can use to distribute inference across multiple AWS Regions without having to manage capacity in each Region. The request originates from your source Region where you make the API call and is automatically routed to one of the destination Regions defined in the inference profile. The India geographic profile keeps inference within India. Requests route only between ap-south-1 and ap-south-2. Your input prompts and output results might move between those two Regions. Instead of being bound to the capacity of one Region, your requests draw on a broader pool of compute. This helps you maintain throughput and consistent performance under load, which matters most during traffic peaks. Cross-Region inference operates through the secure AWS network with end-to-end encryption for data in transit. Customer data is not stored in a destination Region when using cross-Region inference. It remains exclusively within the source Region. Amazon Bedrock uses a zero data retention (ZDR) data security model. This means that by default, Amazon Bedrock does not store model inputs or outputs. However, certain models require human review by AWS as a condition if content is flagged by automatic safety classifiers. For more details, see Data retention in the Amazon Bedrock User Guide. Billing and quota consumption are tracked against your account in the source Region, regardless of which backend Region handled the request. Amazon CloudWatch and AWS CloudTrail record log entries in the source Region only, so your monitoring stays in one place. Geographic cross-Region inference is available on the bedrock-runtime endpoint. It supports Anthropic’s Messages API and the native Amazon Bedrock InvokeModel and Converse APIs, along with Amazon Bedrock features such as Amazon Bedrock Guardrails and intelligent prompt routing .\n\nAccess Claude models from the Amazon Bedrock console\n\nYou can access Claude models in the text playground in the Amazon Bedrock console, which requires no coding or SDK setup. You can send prompts, adjust inference parameters, and switch between variants to get a feel for each model before you integrate the API.\n\nOpen the Amazon Bedrock console in the Region that you want to use as the source.\n\nIn the navigation pane, under Test , choose Playground .\n\nChoose Select model in the middle of the page.\n\nSearch for Anthropic Claude Opus 5, select IN Anthropic Claude Opus 5 as the inference profile under Inference , and choose Apply .\n\nEnter a prompt and choose Run to generate a response.\n\nFigure 1: The Claude Opus 5 model selected in the Amazon Bedrock console playground\n\nCall Claude models with the Anthropic Messages API and Amazon Bedrock InvokeModel and Converse API\n\nYou can access Anthropic’s Claude Opus 5, Claude Sonnet 5, or Claude Haiku 4.5 programmatically with the India geographic inference profile ID using the Anthropic Messages API on bedrock-runtime through the Anthropic SDK, or keep using the InvokeModel and Converse APIs on bedrock-runtime through the AWS Command Line Interface (AWS CLI) and AWS SDK .\n\nActive AWS account with Amazon Bedrock access.\n\nAWS CLI installed and configured.\n\nBoto3 installed: pip install boto3 .\n\nAnthropic SDK installed: pip install anthropic .\n\nThe Bedrock Token Generator for Amazon Bedrock model inference authentication installed: pip install aws_bedrock_token_generator .\n\nAWS Identity and Access Management (IAM) role or user has the necessary permissions to invoke Amazon Bedrock models using a geographic cross-Region inference profile.\n\nHere’s a quick example using the AWS SDK for Python (Boto3) with the InvokeModel API:\n\nimport boto3 import json\n\n# Create a Bedrock Runtime client bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-south-1\" )\n\n# Invoke Claude Sonnet 5 response = bedrock_runtime.invoke_model( modelId=\"in.anthropic.claude-sonnet-5\", contentType=\"application/json\", accept=\"application/json\", body=json.dumps({ \"anthropic_version\": \"bedrock-2023-05-31\", \"max_tokens\": 4096, \"messages\": [ { \"role\": \"user\", \"content\": \" Can you explain the features of Amazon Bedrock? \" } ] }) )\n\nresult = json.loads(response[\"body\"].read()) print(result[\"content\"][0][\"text\"])\n\nYou can also use the Amazon Bedrock Converse API for a unified multi-model experience:\n\n# Create a Bedrock Runtime client bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-south-1\" )\n\n# Invoke Claude Opus 5 response = bedrock_runtime.converse( modelId=\"in.anthropic.claude-opus-5\", messages=[ { \"role\": \"user\", \"content\": [ { \"text\": \" Can you explain the features of Amazon Bedrock?\" } ] } ], inferenceConfig={ \"maxTokens\": 4096 } )\n\nif 'output' in response: blocks = response['output']['message']['content'] print('\\n'.join(b.get('text', '') for b in blocks if 'text' in b))\n\nYou can also use the Anthropic Messages API using the anthropic SDK package for a streamlined experience:\n\nfrom anthropic import Anthropic from aws_bedrock_token_generator import provide_token\n\ntoken = provide_token(region=\"ap-south-1\")\n\nclient = Anthropic( base_url=\"https://bedrock-runtime.ap-south-1.amazonaws.com/anthropic\", api_key=token, )\n\nresponse = client.messages.create( model=\"in. anthropic.claude-haiku-4-5-20251001-v1:0\", max_tokens=1024, messages=[{\"role\": \"user\", \"content\": \"Can you explain the features of Amazon Bedrock?\"}], )\n\nYou can monitor usage, performance, and costs through CloudWatch and AWS Cost Explorer to scale your applications as demand grows.\n\nWith the launch of Anthropic’s Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 using Amazon Bedrock with India geographic cross-Region inference, you can now build highly scalable, resilient generative AI applications while keeping inference within the country. To get started, access Anthropic’s Claude models in the Amazon Bedrock console , or call them with the API using the India geographic inference profile ID. For the most current information about model availability in each Region, see Regional availability by models in the Amazon Bedrock User Guide.\n\nAamna is a Senior Specialist Solutions Architect for Generative AI focusing on Anthropic models and operationalizing and governing generative AI systems at scale on Amazon Bedrock. She helps ISVs solve their challenges, embrace innovation, and create new business opportunities with Amazon Bedrock.\n\nEugenio is a Sr. Product Marketing Manager for Amazon Bedrock at AWS. With several years of experience in generative AI, he helps customers navigate the evolving landscape of foundation models and generative AI to adopt solutions that deliver measurable value.\n\nSofian is a technology leader with over 12 years of experience building AI solutions, and leading high-performing teams to maximize customer outcomes. He is passionate about empowering diverse talents to drive global impact and achieve their career aspirations.\n\nAyan is a Principal Partner Solutions Architect and AI Tech Lead at AWS, serving as the Worldwide Tech Lead for Anthropic at AWS. He works at the intersection of cloud architecture and Artificial Intelligence, helping organizations adopt and scale Anthropic’s technologies on AWS.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T01:13:14.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/"
+          }
+        ]
+      },
+      {
+        "id": "story-angerous-stairs-389c3c7b-4cf0da6939ea1281",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:00:00.000Z",
+        "pubTime": "2026-09-30 09:00",
+        "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T01:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-00-reward-to-middle-east-6de3a818efb7e4cc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Iran offers up to $40,000 reward to Middle East citizens who capture, kill US soldiers - report",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:39:16.000Z",
+        "pubTime": "2026-09-30 06:39",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wtof08/iran_offers_up_to_40000_reward_to_middle_east/",
+        "imageUrl": "https://external-preview.redd.it/iusIPB4EjGvRaUHl1N2-3XnmAFbob-E0k_EqalggQgk.jpeg?width=640&crop=smart&auto=webp&s=01c30711d63fc5099e0f2f154fdebcc5e77fa785",
+        "fullContent": "submitted by /u/barsik_ [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-30 06:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wtof08/iran_offers_up_to_40000_reward_to_middle_east/",
+            "publishedAt": "2026-09-29T22:39:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-tool-microscopy-html-df32c2e3ca99fbf1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unlocking AI as a research tool for plant microscopy",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:40:05.000Z",
+        "pubTime": "2026-09-30 09:40",
+        "url": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-ai-as-a-rese.jpg",
+        "fullContent": "Software created by University of Queensland scientists could help AI platforms overcome a blind spot limiting their value in plant research. UQ Ph.D. student Tianqi Wei said even advanced vision-language models (VLMs) had difficulty interpreting images of microscopic plant details.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 09:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
+            "publishedAt": "2026-09-30T01:40:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aeroport-2121103467-html-57eef4ce0b4e67e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Уфы ввели временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T02:09:03.000Z",
+        "pubTime": "2026-09-30 10:09",
+        "url": "https://ria.ru/20260930/aeroport-2121103467.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/155735/67/1557356725_0:80:1519:934_650x0_80_0_0_928d50e53de7170ec65f1ced8edc22a3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 10:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/aeroport-2121103467.html",
+            "publishedAt": "2026-09-30T02:09:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-in-seoul-and-singapore-41a5c6bec9bee29d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T01:13:12.000Z",
+        "pubTime": "2026-09-30 09:13",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22088-1.png",
+        "fullContent": "Amazon Bedrock now supports the Anthropic Claude models: Claude Opus 5 and Claude Sonnet 5 in Seoul and Claude Sonnet 5 in Singapore with in-region inference on the bedrock-runtime endpoint. If you have local data processing requirements in South Korea or Singapore, for example, in financial services, healthcare, and the public sector, you can now use these Anthropic models at scale. Amazon Bedrock processes inference requests and data within the Region you call. The processing does not leave the Region.\n\nIn this post, we walk through how in-region inference works from the Asia Pacific (Seoul) Region ( ap-northeast-2 ) and Asia Pacific (Singapore) Region ( ap-southeast-1 ) using the bedrock-runtime endpoint. We also show how to get started from the Amazon Bedrock console and with code, using the Amazon Bedrock Converse API, the InvokeModel API, and the Anthropic Messages API.\n\nTo help you meet strict data residency requirements for your AI applications, Amazon Bedrock offers in-region inference. Your request is processed entirely within the single AWS Region you specify, and it does not leave that Region. Use this when you have a need for strict single-Region data processing.\n\nUnlike cross-Region inference profiles, there is no routing layer. The request you send to the Seoul ( ap-northeast-2 ) or Singapore ( ap-southeast-1 ) Region is served by that Region alone. Your input prompts and output results stay within it for the full lifecycle of the request. In exchange, your throughput is bounded by that Region’s capacity. Requests are subject to per-Region service quotas. Billing follows standard on-demand pricing for the Region you call. Quota consumption, Amazon CloudWatch metrics, and AWS CloudTrail log entries are all scoped to that same Region. There is no source-versus-destination distinction to account for in your monitoring. In-region inference for Claude Sonnet 5 and Claude Opus 5 in Seoul and Claude Sonnet 5 in Singapore is available on the bedrock-runtime endpoint. For new applications, we recommend the bedrock-runtime endpoint. You invoke it with the direct model ID, for example, anthropic.claude-opus-5 or anthropic.claude-sonnet-5 . It supports Anthropic’s Messages API and the Amazon Bedrock InvokeModel and Converse APIs, along with Amazon Bedrock features such as Amazon Bedrock Guardrails and intelligent prompt routing .\n\nAccess Claude models from the Amazon Bedrock console\n\nYou can access Claude models in the text playground in the Amazon Bedrock console, which requires no coding or SDK setup. You can send prompts, adjust inference parameters, and switch between variants to get a feel for each model before you integrate the API.\n\nOpen the Amazon Bedrock console in a Region that you want to use as a source.\n\nIn the navigation pane, under Test , choose Playground .\n\nChoose Select model in the middle of the page.\n\nSearch for anthropic.claude-opus-5 , select On-Demand under Inference , and choose Apply .\n\nEnter a prompt and choose Run to generate a response.\n\nFigure 1: The Anthropic Opus 5 model selected in the Amazon Bedrock console playground with in-region inference\n\nCall Claude models with the Anthropic Messages API and Amazon Bedrock InvokeModel and Converse API\n\nYou can access Anthropic’s Claude Opus 5 or Claude Sonnet 5 programmatically with Seoul in-region inference using the Anthropic Messages API on the bedrock-runtime through Anthropic SDK or keep using the Invoke and Converse API on bedrock-runtime through the AWS Command Line Interface (AWS CLI) and AWS SDK .\n\nActive AWS account with Amazon Bedrock access.\n\nAWS CLI installed and configured.\n\nBoto3 installed: pip install boto3 .\n\nAnthropic SDK installed: pip install anthropic .\n\nThe Amazon Bedrock Token Generator for Amazon Bedrock authentication installed: pip install aws_bedrock_token_generator .\n\nHere’s a quick example using the AWS SDK for Python (Boto3) with the InvokeModel API:\n\nimport boto3 import json\n\n# Create a Bedrock Runtime client with in-region inference in Singapore bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-southeast-1\")\n\n# Invoke Claude Sonnet 5 response = bedrock_runtime.invoke_model( modelId=\"anthropic.claude-sonnet-5\", contentType=\"application/json\", accept=\"application/json\", body=json.dumps({ \"anthropic_version\": \"bedrock-2023-05-31\", \"max_tokens\": 4096, \"messages\": [ { \"role\": \"user\", \"content\": \" Can you explain the features of Amazon Bedrock? \" } ] }) )\n\nresult = json.loads(response[\"body\"].read()) print(result[\"content\"][0][\"text\"])\n\nYou can also use the Amazon Bedrock Converse API for a unified multi-model experience:\n\n# Create a Bedrock Runtime client with in-region inference in Seoul bedrock_runtime = boto3.client( service_name=\"bedrock-runtime\", region_name=\"ap-northeast-2\" )\n\n# Invoke Claude Opus 5 response = bedrock_runtime.converse( modelId=\"anthropic.claude-opus-5\", messages=[ { \"role\": \"user\", \"content\": [ { \"text\": \" Can you explain the features of Amazon Bedrock?\" } ] } ], inferenceConfig={ \"maxTokens\": 4096 } )\n\nif 'output' in response: blocks = response['output']['message']['content'] print('\\n'.join(b.get('text', '') for b in blocks if 'text' in b))\n\nYou can also use the Anthropic Messages API through the anthropic SDK package for a streamlined experience:\n\nfrom anthropic import Anthropic from aws_bedrock_token_generator import provide_token\n\ntoken = provide_token(region=\"ap-northeast-2\")\n\nclient = Anthropic( base_url=\"https://bedrock-runtime.ap-northeast-2.amazonaws.com/anthropic\", api_key=token, )\n\nresponse = client.messages.create( model=\"anthropic.claude-sonnet-5\", max_tokens=1024, messages=[{\"role\": \"user\", \"content\": \"Can you explain the features of Amazon Bedrock?\"}], )\n\nYou can monitor usage, performance, and costs through CloudWatch and AWS Cost Explorer to scale your applications as demand grows.\n\nWith the launch of Anthropic’s Claude Opus 5 and Claude Sonnet 5 on Amazon Bedrock with in-region inference in Seoul, and Claude Sonnet 5 with in-region inference in Singapore, you can now build generative AI applications that have strict data residency requirements. This keeps inference within the Region you want. We are excited about this launch and look forward to seeing how you use these capabilities to accelerate innovation and deliver impactful AI-powered experiences across the Region. For the most current information about model availability in each Region, see Regional availability by models in the Amazon Bedrock User Guide.\n\nAamna is a Senior Specialist Solutions Architect for Generative AI focusing on Anthropic models and operationalizing and governing generative AI systems at scale on Amazon Bedrock. She helps ISVs solve their challenges, embrace innovation, and create new business opportunities with Amazon Bedrock.\n\nAlfredo is a Senior Specialist Solutions Architect for Generative AI at AWS, focusing on Anthropic models go-to-market on Amazon Bedrock. He works with Financial Services customers to design and scale generative AI solutions across distributed systems and turn generative AI experiments into production workloads. Outside of work, he is passionate about family and endurance sports.\n\nEugenio is a Sr. Product Marketing Manager for Amazon Bedrock at AWS. With several years of experience in generative AI, he helps customers navigate the evolving landscape of foundation models and generative AI to adopt solutions that deliver measurable value.\n\nSofian is a technology leader with over 12 years of experience building AI solutions, and leading high-performing teams to maximize customer outcomes. He is passionate about empowering diverse talents to drive global impact and achieve their career aspirations.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T01:13:12.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/"
+          }
+        ]
+      },
+      {
+        "id": "story-earn-am-i-crazy-364d2a64-bb78120889abf922",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:30:00.000Z",
+        "pubTime": "2026-09-30 08:30",
+        "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“When my paycheck lands, it takes a detour through bitcoin.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-30 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-30T00:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-espsdr-99391e2ed67e7654",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ESPARGOS - ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:13:56.000Z",
+        "pubTime": "2026-09-30 06:13",
+        "url": "https://espargos.net/espsdr/",
+        "imageUrl": null,
+        "fullContent": "Raw IQ Capture with Espressif's ESP32 Chips\n\nEspressif Systems' ESP32 microcontrollers are well known for their Wi-Fi and Bluetooth capabilities. Over the past few months (and with the help of LLMs), we have found an undocumented feature that allows the firmware to bypass the fixed-function modems to capture raw IQ baseband samples. This opens up the possibility of using the ESP32 as a low-cost software-defined radio (SDR) platform, capable of receiving signals in the 2.4 GHz band (and the 5 GHz band on the ESP32-C5).\n\nTo prove the concept, we made a simple web interface that displays the live power spectrum and waterfall of the captured IQ samples (at a very low duty cycle). Use a browser with Web Serial support.\n\nConnect your board over USB and install the SDR firmware using the browser flasher. Supported chips are the original ESP32, ESP32-C3, ESP32-C5, ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3 and ESP32-S31. The original ESP32 requires a USB-to-UART bridge, often built into the development board.\n\nAfter flashing, unplug the board for five seconds and reconnect. Open ESP-WebSDR and select your device to see the live spectrum.\n\nFor example, on the ESP32-C61, the capture mechanism works as follows: The SRAM inside the ESP32 is organized into banks. Our firmware uses two of these banks and organizes them as a ring buffer. One of the banks is temporarily owned by the modem, which writes raw IQ samples into it, while the other bank is owned by the CPU, which copies the completed samples to a buffer for transfer to the host. The firmware tracks the hardware write pointer to detect when the modem moves to the next bank.\n\nThe exact format of the IQ samples is configurable. In our implementation, each complex sample occupies one 32-bit word in memory. Bits 19–10 hold I and bits 9–0 hold Q, both signed 10-bit two's-complement values (−512 to +511). Bits 27–20 report the receiver gain setting (an index into the gain table), while bits 31–28 are most likely the internal state of the automatic gain control's finite state machine.\n\n2.2–2.7 GHz4.8–6.0 GHz\n\n5 GHz is only available on ESP32-C5. Exact tuning limits differ by chip.\n\nRaw complex IQ capture into memory, with transfer to the host at a low duty cycle.\n\nAnalog RX bandwidth. Exact limits depend on the chip and filter settings.\n\nInternal hardware AGC or a manually selected fixed receiver gain.\n\nWith ESP-SDR, the ESP32 can even capture IQ data beyond the officially supported tuning range. For example, the ESP32-C61 can capture signals up to 2.7 GHz, which includes some LTE and 5G NR cellular bands, such as LTE band 7 and 5G NR band n7 around 2.6 GHz.\n\nOur starting point was the adctrig function in Espressif's librftest library. With the help of LLMs, we reverse engineered this function to understand how it configures the hardware to capture raw IQ samples. These findings formed the basis of ESP-SDR's capture implementation.\n\nWithout any hardware modifications, ESPARGOS One can now phase-coherently capture raw IQ samples. If you already have an ESPARGOS One, update its firmware to the latest version from the dev branch to enable this capability. The hardware already supports it. We currently provide the \"IQ Signal Analyzer\" demo application, but are working on additional demo applications, including an adapted real-time augmented reality demo for arbitrary signals.\n\nThe IQ sampling implementation on ESPARGOS One is even more powerful than the browser-based demo (ESP-WebSDR):\n\nIn addition to the existing Wi-Fi channel state information (CSI)-based demos, ESPARGOS One can now also be used as a low-cost, eight-channel SDR platform for the 2.4 GHz ISM band, operating at a low duty cycle. The benefits of raw IQ capture over processed CSI include:\n\nAt 80 MSa/s and 32 bits per sample, the modem writes 2,560 Mbit/s into SRAM. Getting those samples off the chip is the bottleneck: the output links are much slower.\n\nTherefore, our firmware streams the IQ samples at a very low duty cycle, which is enough to display a live spectrum and waterfall in the browser. Packets that arrive between capture windows may be missed.\n\nSoapyESPSDR is our receive-only SoapySDR driver for the ESP32-S31. It streams IQ samples over Gigabit Ethernet from a board running ESP-SDR firmware, making the receiver available to applications such as GNU Radio and gqrx through their SoapySDR support.\n\nThe S31 supports continuous reception at 8 and 16 MSa/s; higher sample rates require a reduced duty cycle.\n\nUnder development: We will release firmware and SoapySDR driver repositories soon, once everything is ready.\n\nYes, this is also possible. On ESPARGOS One, even phase-coherent transmission is possible. However, we are not providing a transmitter implementation at this time due to the potential for misuse.\n\nNo, this is a feature of the ESP32's modem that was not documented in the public datasheet. As far as we are concerned, it is not a security vulnerability, but rather an undocumented capability that can be used for SDR applications. That being said, many ESP32-powered devices are connected to various cloud services which allow the manufacturer of to update the firmware remotely. If sensitive data is transmitted without encryption in the ISM bands, this could pose a security concern. In that case, the underlying issue is the unencrypted transmission. The ability of the ESP32 to transmit arbitrary signals, on the other hand, could be abused for jamming or other malicious purposes, which is why we are not providing a transmitter implementation at this time.\n\nDue to the low duty cycle achievable for most ESP32 models, it does not make much sense to use the SDR mode with these applications. For the ESP32-S31, our SoapyESPSDR driver provides integration with GNU Radio, gqrx and other SoapySDR-compatible applications over Gigabit Ethernet.\n\nESP-SDR currently supports the original ESP32, ESP32-C3, ESP32-C5, ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3 and ESP32-S31. We are working to extend the range of supported ESP32 chips. Support for additional models will most likely be possible, but each chip needs its own implementation.\n\nYes, this is possible. An external mixer can translate signals from other frequency bands into the ESP32's transmit / receive range. We already have multi-channel prototype hardware for this.\n\nUser h0m3us3r first disclosed this capability for the ESP32-S3 on Reddit, including firmware source code, a few days before our announcement. They achieve 80 MSa/s of sustained throughput using an additional FPGA to handle the transfer. Since we have been independently working on IQ capture for several months now, we also wanted to share our findings with the community.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:13:56.000Z",
+            "url": "https://espargos.net/espsdr/"
+          }
+        ]
+      },
+      {
+        "id": "story-t-diversity-diverse-html-9db2f18b0a55a288",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Small fields, great diversity: How a diverse patchwork of crops helps birds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:20:05.000Z",
+        "pubTime": "2026-09-30 08:20",
+        "url": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/small-fields-great-div.jpg",
+        "fullContent": "Birds are not only beautiful to look at and listen to; they also play important roles in nature. They eat pests and disperse seeds. They are generally considered indicators of a healthy environment. When birds thrive, soil and water quality often benefit as well. A new study published in the journal Landscape Ecology shows that growing a variety of crops in small field patches creates better habitats for birds.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-30 08:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-small-fields-great-diversity-diverse.html",
+            "publishedAt": "2026-09-30T00:20:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aeroport-2121103322-html-c609a860288edd28",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Саратова сняли временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-30T02:07:35.000Z",
+        "pubTime": "2026-09-30 10:07",
+        "url": "https://ria.ru/20260930/aeroport-2121103322.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-30 10:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260930/aeroport-2121103322.html",
+            "publishedAt": "2026-09-30T02:07:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nai-ipo-devday-ai-safety-d6b003b6ebfae6b2",
+        "title": "萨姆·奥特曼称，OpenAI在其模型安全之前不会上市",
+        "originalTitle": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:19:13.000Z",
+        "pubTime": "2026-09-30 08:19",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Hayden Field\n\nFor months, people have wondered when OpenAI will go public. CEO Sam Altman says it won’t happen until the company can make better promises about model safety, with no firm timeline in sight. “We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,” Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be “bad for the world.”\n\nAltman’s comments come after months of controversy about whether or not OpenAI and its rivals can control their own creations. In July, news broke that an unreleased OpenAI model had hacked into a rival AI lab, Hugging Face, without OpenAI’s knowledge. More cybersecurity incidents soon came to light at OpenAI, Anthropic, Meta, and Google. A high-profile resignation letter from an Anthropic employee sparked a public discussion about how risky these systems are for society at large. OpenAI, alongside its rivals, called for regulation and “pacing the frontier.” And earlier this month, Altman said in an interview that the company would likely not go public this year.\n\nAt DevDay, Altman was circumspect about what “pacing the frontier” actually meant, refraining from calling it an outright slowdown. “Pacing to us means that we push safety and alignment ahead of capabilities,” Altman said. But he expressed concerns that going public could create the potential to “disappoint Wall Street supporters in the names of safety or whatever else,” and that doing it during a “shift to very capable models and a new kind of safety requirement seems ill-advised.” He said OpenAI would prioritize safety to “confidently scale to the next stage of AI without people debating what percent chance we’re going to do all these bad things,” rather than “barrel, all guns blazing, towards an IPO.”\n\n“I don’t want to put additional pressure right now as we’re going through this significant change and what it’s going to take to make the safety claims that we all should want us to make for these extremely capable models,” Altman said.\n\nOpenAI rival Anthropic officially filed to go public in June, with its IPO likely to happen in November, reportedly after the US midterm elections. Elon Musk’s SpaceX, which owns his AI company xAI, went public in June and became the biggest IPO in history.\n\n“I think it’s great when companies are public,” Altman said, adding, “I think it’s also kind of bad for the world if OpenAI waits too long to go public.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "有关这一主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\nOpenAI首席执行官表示，他不希望承受来自华尔街的“额外压力”。\n该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\n查看海登·菲尔德的全部文章\n数月以来，人们一直在猜测OpenAI何时会上市。首席执行官萨姆·奥特曼表示，在公司能够就模型安全作出更有力的承诺之前，这不会发生，目前也没有明确的时间表。奥特曼周二在DevDay主题演讲结束后接受记者问答时说：“我们打算继续推动人工智能进步……但随着模型能力大幅跃升，而且我们预计未来还会有更多进展，我们必须能够对安全性作出有把握的声明。”与此同时，他表示，如果IPO等待太久，将会“对世界不利”。\n奥特曼发表上述言论之际，外界数月来一直在争论OpenAI及其竞争对手是否能够控制自己创造的系统。今年7月，有消息披露，一个尚未发布的OpenAI模型在OpenAI不知情的情况下入侵了竞争对手人工智能实验室Hugging Face。随后，OpenAI、Anthropic、Meta和谷歌又陆续曝出更多网络安全事件。一名Anthropic员工发布的高调辞职信，引发了公众对于这些系统对整个社会而言风险有多大的讨论。OpenAI与竞争对手一道呼吁加强监管，并“控制前沿发展节奏”。本月早些时候，奥特曼在一次采访中表示，公司今年很可能不会上市。\n在DevDay活动上，奥特曼对于“控制前沿发展节奏”究竟意味着什么持谨慎态度，避免将其称为彻底放缓。他说：“对我们而言，控制节奏意味着让安全性和对齐进展领先于能力提升。”但他表示，上市可能会造成这样的局面：以安全或其他理由“让华尔街支持者失望”；而在“向极具能力的模型转变、并面临一种新型安全要求”的时期上市，似乎“不明智”。他说，OpenAI将把安全放在首位，从而“有把握地扩大人工智能的下一阶段发展，而不是让人们争论我们做出所有这些坏事的概率是多少”，而不是“全副武装、火力全开地冲向IPO”。\n奥特曼说：“在我们经历这一重大转变、并努力实现我们所有人都应当希望公司针对这些能力极强的模型作出的安全声明之际，我现在不想施加额外压力。”\nOpenAI的竞争对手Anthropic于6月正式提交上市申请，其IPO可能于11月进行，据报道时间会安排在美国中期选举之后。埃隆·马斯克旗下拥有其人工智能公司xAI的SpaceX于6月上市，并成为历史上规模最大的IPO。\n奥特曼说：“我认为公司上市是一件好事。”他补充道：“我也认为，如果OpenAI等待太久才上市，这对世界来说也会有些不利。”\n每日免费获取最重要新闻的摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T00:19:13.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+          }
+        ]
+      },
+      {
+        "id": "story-al-is-higher-prices-html-54c45c75c718a650",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil's New Normal Is Higher Prices",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-30T00:00:00.000Z",
+        "pubTime": "2026-09-30 08:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
+        "imageUrl": null,
+        "fullContent": "Oil prices pulled back on Tuesday, reversing recent gains as investors weighed signs of export recovery by Middle Eastern producers against uncertainty surrounding the fate of the Iran war. Brent crude for November delivery fell 1.5% to trade at $103.72 per barrel at 1.10 pm ET, while WTI crude for October delivery declined 2.2% to change hands at $90.62/bbl. Crude exports from the region climbed to 15.5 million barrels per day in September, good for more than 80% of prewar levels and the highest level since the conflict began seven months ago. Saudi Arabia spearheaded the recovery, more than doubling its crude exports from 2.45 million bpd in August to roughly 5.4 million bpd in September after bringing back online parts of the damaged East-West pipeline. And now commodity analysts at Standard Chartered have hiked their oil price forecasts amid stalled diplomacy efforts and regional escalation beyond Iran and Hormuz. StanChart has raised its average Brent crude forecast for 2026 to $92.00/bbl from its previous forecast at $85.50/bbl, while WTI crude is now expected to average $86.00/bbl, up from $80.25/bbl. StanChart has also hiked its 2027 oil price forecasts, and now sees Brent averaging $89.50/bbl from $77.50/bbl, while WTI crude rises to 89.50/bbl from $77.50/bbl. According to StanChart, the global energy market is now confronting a more persistent deterioration in the Middle East security environment, with little prospect of a return to the pre-conflict status quo and no real pathway to a settlement visible yet. The conflict continues to spill over into a wider regional security problem, with the Houthi/Saudi escalation adding a second front and Saudi Arabia being drawn in deeper. Related Iran Talks Take the Heat Out of the Oil Rally Source Standard Chartered StanChart notes that both Brent and WTI remain caught between structural tightness and policy risk. Supply buffers are extremely thin, which means that price moves are highly sensitive to further disruption. StanChart expects only a gradual and imperfect de-escalation process, even if US-Iran negotiations resume shortly, with periodic flare-ups in tension likely to keep a premium embedded in prices. Meanwhile, the events of 2026 are accelerating a shift in the energy system from efficiency towards resilience, StanChart notes. For years, companies cut inventories, consolidated supply chains and prioritized efficiency over resilience. The analysts believe that approach is now reversing as governments, producers and consumers build larger inventories, maintain more spare capacity and diversify suppliers. That shift raises costs, but it also supports a higher long-term floor for oil prices. As a result, they expect oil markets to normalize more slowly, with elevated prices likely to persist into 2027 and beyond. In the products markets, diesel prices have surged to an all-time high, with StanChart saying it has now moved from a market problem to a policy problem. The next few weeks could clarify how far the Trump administration is prepared to intervene in U.S. product markets as the midterm elections approach. Significant internal pressure for a U.S. diesel export ban remains, particularly from those battleground states where high diesel prices coincide with a key agricultural harvest season Iowa, for instance. Trump has backed restrictions on diesel exports previously; however, many in his cabinet including energy secretary Chris Wright, have warned that this could ultimately also lead to tightening both gasoline and jet fuel supply. This would, in turn, make both the global product problem worse and after temporarily helping U.S. consumers, end up damaging Gulf Coast refining economics, potentially lowering crude runs. StanChart notes that pressure to demonstrate action on domestic prices is leading the administration to consider less disruptive alternatives, including voluntary export reductions by refiners and broader use of tax-exempt dyed diesel. In the natural gas markets, the EU Commissioner for Energy and Housing Dan Jrgensen recently urged member states' energy ministers to both sustain stronger injections and consider measures to reduce gas and electricity demand, warning of a potential price crisis linked to supply risk. However, the urgency in Brussels is less evident in the market, with European natural gas futures falling to 69.30 per megawatt-hour on Tuesday, the lowest level in a month on weaker Chinese LNG demand. According to StanChart, this push from the EU Commission is an attempt to prompt a stronger response and to bridge the disconnect in urgency between the state and market. The analysts note that existing flexibility to lower the storage target to 80% may ease near-term price pressure, but it does not fully remove Europe's exposure in winter. By Alex Kimani for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-30 08:00 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-30T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-9-29-deser-cab2b62248188536",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Deser: Rethinking Rust Serialization",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-29T22:02:31.000Z",
+        "pubTime": "2026-09-30 06:02",
+        "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "imageUrl": null,
+        "fullContent": "written on September 29, 2026\n\nSerde is an amazing serialization library for Rust and it has been a huge reason why I felt productive with it for years. However already while at Sentry I got quite frustrated with some of the limitations with it but actually replacing Serde is tricky because of the might that it has in the ecosystem. Also because it’s quite hard to actually do better without also making some potentially painful compromises.\n\nHere are three examples of Serde corner cases that show poor interactions of Serde features or unexpected limitations:\n\nAn internally tagged enum, with serde_json‘s arbitrary_precision feature turned on:\n\nSerde’s data model has no place for arbitrary precision numbers, so serde_json uses in-band signalling with a map with a magic key. The enum has to buffer the fields until it has seen the tag, and the buffer does not know about the magic key. Because Cargo features are unified, it’s enough for any crate in your dependency graph to turn the feature on.\n\nStats on its own parses {\"scores\": {\"42\": 23}} just fine. JSON keys are always strings, and serde_json only turns them into integers if the type asks for one. However once flatten buffers the value, \"42\" is just a string. The error also points at the end of the document rather than at the key.\n\nA function cannot be passed as a type parameter, so there is no way to apply from_hex to the inside of an Option, a Vec or a map. You write another function for every wrapper, and once you have from_opt_hex the field is no longer optional unless you also remember to add #[serde(default)].\n\nNone of these are bugs that are easy to fix in Serde. They fall out of its design, and that design is protected by Serde’s stability guarantees.\n\nBack in 2022 I started an experiment called Deser. It’s a serialization library for Rust that takes the user experience of Serde and puts it on top of a completely different architecture inspired by miniserde. I never really finished it and it sat around for a few years. I picked it back up, and it has now reached a point where I think it’s worth looking at. Even just to inspire others to see if they want to explore the space.\n\nThe name is Serde with its two halves swapped. Deser is Serde but the other way around. In Serde, a type drives the deserialization process: a Deserialize impl asks the deserializer for the kind of value it expects, the format calls back into a visitor. Every nested value is handled by recursion which makes Serde deserialization inherently grow the stack with each level of nesting.\n\nDeser on the other hand turns this around and the format tells the type of the next value and pushes events into a sink. When a sink hits the start of a nested value, it doesn’t call into it but hands back a new sink to a driver, which keeps all state on the heap (in fact, in an arena). On the way out, emitters return their nested values instead of recursing into them.\n\nThat also means that Deser cannot support formats like protobuf that are not self describing. They are in fact quite intentionally left out of the design entirely. Which is one way to say: if you want to “fix” Serde, you need to make some other compromises.\n\nMost of the reasons for Deser’s ideas go back to Sentry Relay, which processes enormous amounts of untrusted JSON. Over the years when I was at Sentry we ran into the same set of problems again and again, and many of them are not really bugs in Serde but consequences of its design. Serde’s stability guarantees mean that a lot of them cannot be fixed without breaking every format and every hand written implementation. Most of these problems come from three decisions:\n\nOne set of traits for all formats. Serde serves both self describing formats (JSON, YAML, TOML, …) and formats where the reader has to know the type upfront (postcard, bincode, protobuf, …). That is incredibly useful, but it means that some features only work with some formats, and you find out at runtime. In case of Serde it also has some odd wrinkles where a derived struct quietly accepts an array in place of an object in JSON for instance.\n\nA fixed data model that loses information when buffering. Internally tagged enums, untagged enums and flatten need to buffer values before they know what to do with them. The buffer can’t hold everything the format knew, errors lose their location and extensions to the ecosystem rely on in-band signalling to express things such as arbitrary precision numbers.\n\nRecursion on the call stack. Every level of nesting uses stack space. Formats protect against this with a recursion limit, but the moment you go through a code path that doesn’t have one (writing, dynamic values), deeply nested data can take down your process. It also means that a deserialization cannot be paused while you wait for more input.\n\nMany of the corresponding Serde issues have been open for years, and I wrote about abusing Serde before. People have tried different angles on this over the years. Some went minimal and dropped most features to get fast compiles and no recursion. dtolnay’s own miniserde is the best example of that, and deser’s trait design was originally modelled after it. Other recent attempts went for runtime reflection, or for a new data model with a focus on binary formats.\n\nIf you want to read up on all of the collected challenges with Serde’s design, I maintain a lengthy list here.\n\nFirst of all I don’t think it’s likely that one can replace Serde. The orphan rule entrenches Serde incredibly well in the ecosystem. But some things are within the reach of a crate author’s control. In case of Deser it’s completeness.\n\nDeser today implements all important self describing formats from YAML, JSON, TOML, CBOR, JSON5 and the likes, but also XML and plist to really close the gap. XML in particular is something Serde has declined to support, and it shows (more on that below). At the very least format support should not be the reason not to use Deser.\n\nThe second problem usually is that actually solving Serde’s issues comes at a significant cost in compile time and/or runtime performance. Deser is no different. While Deser’s compile times are a bit better than Serde’s, the binary bloat is quite a bit worse and the runtime performance is mixed. It’s roughly comparable if you look at the numbers but depending on the format structure you are losing significantly from some of the tradeoffs.\n\nThat said, it’s now in a state where it’s at least in principle a drop-in replacement where the tradeoffs might work well for users.\n\nDeser does not try to be significantly different than Serde on the surface level. For most uses you derive Serialize and Deserialize and then start using it with your format implementing crate of choice. Most attributes are very similar, though they are taking Rust expressions instead of strings.\n\nThe difference in the design would become more apparent if you implement a serializer or deserializer yourself. Instead of visitors that call into each other recursively, deserializing a type creates a sink which receives events that are directly emitted by the parser, and serializing produces emitters that hand out values. Nested sinks and emitters are handed back to a driver, which keeps them on the heap. This design, which is entirely stolen from miniserde, gives some interesting consequences:\n\nOn top of that are a lot of things that I just wanted to have:\n\nHere is a small configuration type that shows a few of these together:\n\nAdapters are types, so Hex can go inside a Vec, and DisplayFromStr inside a Vec inside an Option. Validators are adapters too, so Check<NonEmpty, Vec<Hex>> decodes the keys and then checks that there is at least one. The catch-all variant keeps the tag and a recording of everything else in case someone wants to process it later.\n\nErrors are something I care a lot about, so here is what happens when a value is wrong:\n\nNote that here the tag of the internally tagged enum comes last which means that the values have to be buffered until the tag is known. In Serde this is tricky and we would lose the location if we used some tricks to add it. With Deser however, with the path layer enabled Deser you where in the structure the problem is:\n\nDeser really wants to be extensible, and XML is a more extreme example of the differences between Deser and Serde. Here is an Atom entry that mixes in Dublin Core for the authors:\n\nXML uses namespaces which means that names need to be matched by their namespace, not by the prefix the document happens to use. Here the document says d: and the type says dc!. atom!(\"title\") is just the string {http://www.w3.org/2005/Atom}title, which works because attributes are expressions. The two creators are collected into one Vec even though there is another element between them, and the text of updated goes straight into a chrono datetime. Because the enum is untagged, the entry has to be buffered before a variant is picked, and deser’s buffer keeps both creators. So the result is an Entry with John and Jane.\n\nquick-xml, the most popular XML crate for Serde, drops the prefixes and ignores namespaces entirely, so a <x:title> from some other namespace is happily accepted as the title of the entry. The split list part though is considerably worse. A plain Entry fails with a duplicate field error for creator, unless you turn on the overlapped-lists feature (which, remember, is a global additive flag that any crate could set). That feature makes quick-xml read ahead to the end of the element and buffer everything in between, without a limit unless you set one.\n\nBut the feature only helps when quick-xml is hooked up to the struct directly and no buffering is taking place. Wrap the struct in the untagged enum and Serde buffers the entry itself. Read from that buffer, Entry sees creator twice and fails again. The fallback is a map, which keeps only the last creator, and there is no error. With or without the feature you get this:\n\nNotice how John is gone.\n\nFormat specific extension types such as TOML datetimes are another case. TOML has them natively, Serde’s data model does not, so the toml crate passes them on as a map with a magic key. In Deser a datetime is an extension value, which formats that know it keep and all others write as a string:\n\nThe same with serde_json::Value gives you {\"released\":{\"$__toml_private_datetime\":\"2026-09-29T21:00:00+02:00\"}}, and reading the value into a chrono::DateTime fails outright with invalid type: map, expected an RFC 3339 formatted date and time string.\n\nSo now that you know Deser is at least in theory cool, at what cost?\n\nIt is not free. The design relies on dynamic dispatch and on sinks and emitters that live on the heap, and that has considerable runtime overhead. In my own measurements for JSON, Deser reads somewhere between 33% faster and 60% slower than serde_json depending on the data. On average it’s about 10% slower for reading. Writes are between three times as fast and 70% slower and a wash on average. For YAML and TOML it’s noticeably faster than the Serde based crates, but that is more about the format implementations than the architecture.\n\nCompile times slightly are better, but not dramatically so. Because it doesn’t monomorphize everything, release builds of derived code are about 2.3 times as fast as with Serde and that get a tiny bit better in practice for your own code as less recompilation is necessary.\n\nTo make Deser’s design work at all, it also uses unsafe internally. Most of this is to keep the chain of borrowed sinks on the heap. I feel like this is fine in the days of Miri and agents, but I know it makes some folks uneasy.\n\nAnd well, the biggest cost is that it’s just not Serde.\n\nQuite a lot actually which might be surprising. In addition to the core there is support for derive.\n\nIt supports all flavorts of JSON you can think of: JSON, JSONC, JSON5 and HJSON. (Fun fact here: they are all generated out of one shared parser template) For binary handling it supports CBOR and MessagePack. Additionally it does YAML 1.1 and 1.2, TOML, XML and all three flavors of Apple’s plist as well as CSV/TSV, urlencoded data and environment variables. For more crazy contraptions you can attach path info or capture location data as well as support for debug printing. You can perform validation as you parse, opt into different binary encodings in addition to base64, you can bridge to serde or capture dynamic values, transcode between formats or hook it up with tokio.\n\nFor documentation see docs.rs/deser and the code itself is on GitHub alongside many examples.\n\nThis entry was tagged rust\n\ncopy as / view markdown\n\n© Copyright 2026 by Armin Ronacher.\n\nContent licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.\n\nContact me via mail, bluesky, x, or github.\n\nYou can sponsor me on github.\n\nColor scheme: auto, light, dark. document.querySelector('.theme-selector').removeAttribute('hidden'); document.querySelectorAll('input[name=\"theme\"]').forEach(input => { input.checked = input.value === $THEME; input.addEventListener('change', () => { selectTheme(input.value); }); });",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 51,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-29T22:02:31.000Z",
+            "url": "https://lucumr.pocoo.org/2026/9/29/deser/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790723502295,
     "timeDisplay": "2026-09-30 07:11 (UTC+8)",
     "date": "2026-09-30",
