@@ -42,14 +42,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **93** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **94** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-01 05:04 (UTC+8)
+- **最新归档时间**：2026-10-01 08:50 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-01 08:50 (UTC+8)" title="全球要闻情报简报 · 08:50" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-01 08:37 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】埃隆·马斯克的 Grokipedia 采用了“焕然一新”的设计：SpaceXAI 推出的人工智能驱动维基百科竞争对手 Grokipedia 最近重新开始纳入编辑内容。今天，作为 v0.3 更新的一部分，该网站进行了一些设计调整，包括启用新标志，并更新主页和实时编辑页面。SpaceXAI 设计负责人本吉·泰勒称其为“焕然一新的 Grokipedia”。Grokipedia 旧版主页基本上只有一个标志和一个搜索栏，而更新后的主页则加入了精选文章列表、最受欢迎文章列表，以及一个显示“最新编辑”的追踪器。新；【undefined】EDG C/C++ 编译器项目：在2025年11月举行的 C++ ISO 会议期间，Edison Design Group 宣布他们将逐步结束运营，并将把其前端开源。这是包含该前端的代码仓库，同时还包含其他组件，例如 C 和 C++ 后端。此外，还有一个提供更多过渡信息的网站，以及一个文档网站。；【undefined】NBA球星拉梅洛·鲍尔的女友安娜·蒙大拿在北卡罗来纳州因重罪毒品指控被捕：新加盟森林狼队的后卫拉梅洛·鲍尔的 longtime 女友安娜·蒙大拿因在北卡罗来纳州遭到重罪毒品指控，再次因场外事件登上新闻头条，而且原因并不光彩。；【undefined】谷歌发布Gemini 4 Argon，称其为迄今最强大的模型：谷歌母公司Alphabet已推出Gemini 4 Argon，这是一款旨在处理编码、研究和写作等多种任务的新型人工智能模型。不过，谷歌表示，网络安全才是Gemini 4 Argon尤其擅长的领域。；【undefined】DHS：ICE逮捕涉嫌性侵儿童的非法移民，此人曾在费尔法克斯县获释：据国土安全部（DHS）称，一名面临多项儿童性犯罪指控的洪都拉斯非法移民，在弗吉尼亚州费尔法克斯县当局解除移民拘留令并将其释放后，目前已重新被联邦政府拘押。；【undefined】AEW明星震惊离世享年40岁后，“巨石”强森向Pac致以深情悼念：全精英摔角（AEW）明星本杰明·萨特利周日去世，年仅40岁。德韦恩·“巨石”·强森随后向萨特利及其家人表达了深切悼念。；【undefined】五角大楼邀请埃隆·马斯克和帕尔默·拉基协助决定军方下一步行动：美国国防部长皮特·赫格塞思周三在“部队现状”演讲中宣布启动一项新计划，研究随着技术快速发展，未来战争可能如何进行。该计划被称为“子午线计划”（Project Meridian）。；【undefined】56k.rip——1996年的拨号上网体验：在浏览器中模拟1996年的拨号上网体验。你从一台桌面电脑开始，打开“拨号网络”，然后经历完整的仪式：摘机声、按键音、持续20秒的握手过程，接着，一个主页开始一次传来一段文字。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261001/oruzhie-2121350074.html) <span class="news-meta-time">🕒 2026-10-01 08:30</span>
+- [The Verge (前沿数码科技)] [埃隆·马斯克的 Grokipedia 采用了“焕然一新”的设计](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai) <span class="news-meta-time">🕒 2026-10-01 08:23</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-01 08:20</span>
+- [Lobste.rs (极客思想社区)] [EDG C/C++ 编译器项目](https://github.com/edgcpp/compiler) <span class="news-meta-time">🕒 2026-10-01 06:06</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-celebrity-traitors-contestants-game-tougher.html) <span class="news-meta-time">🕒 2026-10-01 08:20</span>
+- [FOX News Latest (美国FOX快讯)] [NBA球星拉梅洛·鲍尔的女友安娜·蒙大拿在北卡罗来纳州因重罪毒品指控被捕](https://www.foxnews.com/outkick-sports/ana-montana-girlfriend-nba-star-lamelo-ball-arrested-felony-drug-charges-north-carolina) <span class="news-meta-time">🕒 2026-10-01 08:29</span>
+:::
 :::timeline-item{start="2026-10-01 05:04 (UTC+8)" title="全球要闻情报简报 · 05:04" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-01 04:52 (UTC+8) 完成，共获得 21 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -642,18 +655,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) <span class="news-meta-time">🕒 2026-09-18 05:21</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html) <span class="news-meta-time">🕒 2026-09-18 06:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/ovechkin-2118357303.html) <span class="news-meta-time">🕒 2026-09-18 06:10</span>
-:::
-:::timeline-item{start="2026-09-18 02:33 (UTC+8)" title="全球要闻情报简报 · 02:33" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-18 02:20 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】就连英国国王对人工智能也有所顾虑：英国国王查尔斯周四主持了一场闭门峰会，出席者包括人工智能领域和英国政府中一些最具影响力的人物，其中有英伟达首席执行官黄仁勋、OpenAI和Anthropic的领导人、英国新任人工智能事务大臣卡尼什卡·纳拉扬，甚至还有英国外交情报机构负责人。为教皇提供人工智能事务建议的保罗·贝南蒂也参加了峰会。；【undefined】我不喜欢大型语言模型：我对人工智能和大型语言模型（LLM）技术有着许多复杂的感受。我着迷于它对我们这一职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们可以快速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：智能体群接管我们的虚拟和实体基础设施，设计生物武器。不过，回到积极的一面，LLM也可能设计出奇迹般的疗法，并想出巧妙的方法来提升我们的繁荣程度。从根本上说，我不认为我们有选择，只能登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望；【undefined】Base Labs携手Hugging Face和Goodfire启动开放权重人工智能安全合作：Baseten周三与Hugging Face和Goodfire AI达成合作，并与其旗下的Base Labs研究部门共同推出一项新的安全基础设施标准，旨在为开放权重模型构建安全评估和监测基础设施。；【undefined】《侠探杰克》主演艾伦·里奇森曝光据称引发其自杀未遂的敲诈阴谋：本文涉及自杀。如果你或你认识的人有自杀念头，请拨打988联系自杀与危机生命线。；【undefined】Pinterest预告全新“Restyle”功能，借助人工智能重新设计你的房间：Pinterest正借助人工智能，帮助消费者从寻找产品灵感，进一步到设想重新设计空间后的效果，或比较家居装饰方案在自己房间中的呈现效果。周四，该公司表示，将在美国和加拿大以测试版形式推出一项名为“Restyle”的全新面向消费者的功能，该功能由Pinterest Intelligence提供支持。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】Show HN：Aclif——智能体CLI框架：统一语法与跨SaaS规范化名称：aclif 为 AI 智能体（Agent）构建命令行工具。智能体只需获取一个单一工具，即可在所有 SaaS 服务商之间实现统一抽象：统一的语法，以及在任何平台上都能通过相同名称访问同一记录的规范化名称。；【undefined】要闻：请重新加载此页面：加载时出错。请重新加载此页面。
-
-**重点要闻索引：**
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/economy/2189255) <span class="news-meta-time">🕒 2026-09-18 02:17</span>
-- [AWS Machine Learning Blog (亚马逊云科技官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/) <span class="news-meta-time">🕒 2026-09-18 01:55</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html) <span class="news-meta-time">🕒 2026-09-18 02:00</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles) <span class="news-meta-time">🕒 2026-09-18 00:01</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-real-quantum.html) <span class="news-meta-time">🕒 2026-09-18 02:00</span>
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2189251) <span class="news-meta-time">🕒 2026-09-18 02:16</span>
 :::
 ::::
