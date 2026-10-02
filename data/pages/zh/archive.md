@@ -43,14 +43,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **95** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **96** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-02 09:06 (UTC+8)
+- **最新归档时间**：2026-10-02 15:07 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-02 15:07 (UTC+8)" title="全球要闻情报简报 · 15:07" org="ARCHIVE"}
+**速报纪要：** 本时段国际焦点涵盖多国选举与政治争议，巴西大选中生成式人工智能的应用引发虚假信息隐患，印度德里爆发要求选举委员会负责人辞职的集会预期，美国大选前夕亦出现针对柴油出口限制的表态。与此同时，全球液化天然气长期供应协议敲定，展现能源市场应对地缘波动的布局；国内方面，基层民生就业实践带来温暖样本。
+
+**关键信号：** 生成式人工智能广泛渗透选举政治，数字虚假信息成为监管新挑战。；全球能源市场持续调整，企业加速锁定液化天然气长约以对冲地缘不确定性。；国内基层探索特殊群体就业新模式，依托社区商业助力民生保障。
+
+**重点要闻索引：**
+- [France 24 (FR 官方法语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/fr/%C3%A9missions/focus/20261002-bresil-ia-pieges-deepfake-bolsonaro-fraude-desinformation-reportage) <span class="news-meta-time">🕒 2026-10-02 15:03</span>
+- [Hugging Face (开源模型社区)] [AutoSynthData：为企业级智能体生成训练数据](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) <span class="news-meta-time">🕒 2026-10-02 12:01</span>
+- [OilPrice (全球能源与原油大宗)] [康菲石油与Venture Global签署20年期液化天然气长协](https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Signs-20-Year-LNG-Deal-With-Venture-Global.html) <span class="news-meta-time">🕒 2026-10-02 15:00</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/oct/02/royal-college-of-nursing-cuts-ties-with-israeli-drug-company) <span class="news-meta-time">🕒 2026-10-02 14:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-swarming-moth-spectacle-australia-flutter.html) <span class="news-meta-time">🕒 2026-10-02 14:40</span>
+- [中新网 (全球要闻原版)] [探访杭州“无声烧饼摊”：烟火街巷里，圆残疾人就业梦](https://www.chinanews.com.cn/sh/2026/10-02/10707146.shtml) <span class="news-meta-time">🕒 2026-10-02 15:03</span>
+:::
 :::timeline-item{start="2026-10-02 09:06 (UTC+8)" title="全球要闻情报简报 · 09:06" org="ARCHIVE"}
 **速报纪要：** 本小时关注涉嫌协助胡塞武装的技术支持指控案、欧洲司法规则变动的法律争议，以及资深媒体人的职业回顾。
 
@@ -641,18 +654,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/lifeandstyle/2026/sep/18/hyrox-joanna-wietrzyk-history-of-athletes-pooing-mid-race-why-and-how) <span class="news-meta-time">🕒 2026-09-18 10:00</span>
 - [NASA News (深空探索与航天)] [APOD：2026年9月18日——M33：三角座星系](https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/) <span class="news-meta-time">🕒 2026-09-18 12:05</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/prazdniki-2118391522.html) <span class="news-meta-time">🕒 2026-09-18 13:59</span>
-:::
-:::timeline-item{start="2026-09-18 08:40 (UTC+8)" title="全球要闻情报简报 · 08:40" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-18 08:29 (UTC+8) 完成，共获得 17 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】获得科斯拉支持的 Mazama Energy 刚筹集1.35亿美元，拟向超高温岩石地热领域钻得更深：这笔新融资将帮助该公司在超高温岩石中开发水平井；每口井能够产生15兆瓦电力。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】与丈夫安德鲁·福姆分居数月后，亚历山德拉·达达里奥身穿格纹比基尼惊艳亮相：亚历山德拉·达达里奥正在享受远离喧嚣的时光，而这一年她经历了诸多重大变化。；【undefined】人类数学遭遇至暗时刻？：发于2026.9.21总第1253期《中国新闻周刊》杂志；【undefined】美国正在为燃料支付高昂代价，但并没有耗尽汽油：汽油价格昂贵，柴油价格更糟。社交媒体正在陷入混乱，而且似乎已经认定美国的燃料快用光了。美国能源信息署（EIA）称，上周美国汽油库存增加了80万桶，达到2.077亿桶。库存比往年同期五年平均水平低5%。供应确实偏紧，但远没有到油箱见底的程度。上周炼油厂日均加工原油1,730万桶，产能利用率为96.8%。汽油产量增至日均960万桶。过去四周汽油需求日均为880万桶，较上年同期下降1%。但这并没有阻止汽油价格上涨。美国汽车协会（AAA）称，周；【undefined】亚马逊旗下Zoox在内华达州的100辆自动驾驶出租车上限即将取消：内华达州限制Zoox最多运营100辆自动驾驶出租车的监管上限将于本月到期。这将为这家亚马逊旗下公司扩大其在拉斯维加斯运营的定制自动驾驶出租车车队扫清障碍，而此时市场竞争正日益升温。；【undefined】PrismML希望其微型大语言模型改变我们所有人使用人工智能的方式：如果你还没有关注人工智能实验室PrismML，那么现在应该关注了——这并不是因为它已经筹集了大笔资金（目前还没有，它只有一轮2,225万美元的种子融资），而是因为参与其中的技术人才，以及它正在开发的、可能改变行业的技术。；【undefined】FAA解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成这一短缺的原因多种多样，但政府已表示正在寻找解决这一问题的创新方案。
-
-**重点要闻索引：**
-- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria) <span class="news-meta-time">🕒 2026-09-18 08:27</span>
-- [TechCrunch (硅谷创业与资本)] [获得科斯拉支持的 Mazama Energy 刚筹集1.35亿美元，拟向超高温岩石地热领域钻得更深](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/) <span class="news-meta-time">🕒 2026-09-18 08:02</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html) <span class="news-meta-time">🕒 2026-09-18 08:00</span>
-- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wj75jm/amazon_has_become_pathetically_reliant_on_food/) <span class="news-meta-time">🕒 2026-09-18 05:37</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html) <span class="news-meta-time">🕒 2026-09-18 08:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/vybory-2118364799.html) <span class="news-meta-time">🕒 2026-09-18 08:26</span>
 :::
 ::::
