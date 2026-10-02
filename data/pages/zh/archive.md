@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-02 · 今日](/INFO-LIVE/archive-2026-10-02/)
+- [2026-10-03 · 今日](/INFO-LIVE/archive-2026-10-03/)
+- [2026-10-02 · 历史快照](/INFO-LIVE/archive-2026-10-02/)
 - [2026-10-01 · 历史快照](/INFO-LIVE/archive-2026-10-01/)
 - [2026-09-30 · 历史快照](/INFO-LIVE/archive-2026-09-30/)
 - [2026-09-29 · 历史快照](/INFO-LIVE/archive-2026-09-29/)
@@ -43,14 +44,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **96** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **97** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-02 15:07 (UTC+8)
+- **最新归档时间**：2026-10-03 03:38 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-03 03:38 (UTC+8)" title="全球要闻情报简报 · 03:38" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-03 03:24 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】受到裁员影响？别错过这份75美元的 TechCrunch Disrupt 2026 Expo+ 通行证优惠：如果你最近遭遇裁员，可以仅花75美元获得一张 TechCrunch Disrupt 2026 Expo+ 通行证。这项优惠仅限前100名符合条件的人士，或截至太平洋时间10月13日上午8点 Disrupt 开幕时有效。100张通行证全部领取完毕后，该优惠将不再提供。；【undefined】美国7款最佳搅拌机：适合制作奶昔、冰饮等：一台出色的搅拌机是厨房里的多面手——我测试了十多款产品，包括Vitamix和Breville，考察了价格、尺寸、搅拌细腻度、速度，以及它们配备的是塑料杯还是玻璃杯；【undefined】苹果称将收紧 macOS“完全磁盘访问”控制，以应对 AI 代理带来的新风险：就在一名记者声称，Meta 在 Mac 上推出的 Muse 应用读取了其私人消息、但 Meta 对此予以否认的几天后，苹果宣布将在 macOS 上针对一项名为“完全磁盘访问”（Full Disk Access）的设置引入额外控制措施。苹果表示，这项功能原本是为确保备份正常运行而设计的，但如今 AI 代理已经“增加了与这一访问级别相关的风险”。；【undefined】BetMGM促销代码FOXNEWS：本周末投注NHL、MLB季后赛和橄榄球，下注10美元获150美元：10月是体育赛历中最繁忙的月份之一，而本周末将迎来精彩赛事。我们将看到NHL、MLB、NFL以及大学橄榄球赛事。BetMGM希望通过一项优惠吸引你参与：本周末使用促销代码FOXNEWS，在上述任何联赛中下注10美元，即可获得150美元的奖金投注额。这项优惠仅限密歇根州、新泽西州、宾夕法尼亚州和西弗吉尼亚州的用户参加。；【undefined】塞斯·梅耶斯、约翰·奥利弗告诉吉米·金梅尔：谈到特朗普时，他是他们的“防弹背心”：深夜节目主持人塞斯·梅耶斯和约翰·奥利弗周四告诉《吉米·金梅尔直播秀》主持人吉米·金梅尔，谈到美国总统唐纳德·特朗普时，金梅尔就是他们的“防弹背心”。；【undefined】美国石油钻井数量在油价下跌之际小幅上升：据贝克休斯周五公布的最新数据，本周美国石油和天然气活跃钻井平台总数下降，美国钻井平台总数降至598座，但较去年同期增加49座。数据显示，在最新报告期内，活跃石油钻井平台数量增加1座，达到456座，比去年同期高出34座。天然气钻井平台数量减少2座，降至133座，比去年同期多15座。其他类型钻井平台数量维持在9座不变。；【undefined】AI已经不再是AI，而是“超级智能”（据白宫说法）：本周，白宫将几乎所有主要科技公司的首席执行官召集到同一间屋子里——其中包括扎克伯格、贝索斯、马斯克以及Anthropic的达里奥·阿莫代伊——让他们签署一项人工智能安全承诺。美国总统唐纳德·特朗普称这份承诺具有“道德约束力”。特朗普还签署了一项行政命令，正式将人工智能重新命名为“超级智能”。与此同时，Meta和OpenAI正为其人工智能产品塑造更加亲和的形象，尽管人工智能领域最大规模的资金似乎仍来自企业端。；【undefined】Rivian销量增长，随着公司押注R2开始取得回报：该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看全部交通运输内容 查看全部电动汽车内容 该公司报告称，第三季度销量增长45%，产量更是大幅增加85%。 该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看Andrew J. Hawkins的全部文章 如果您通过链接购买商品，《The Verge》可能会获得佣金。请参阅我们的道德声明。 Rivian曾对价格更亲民的R2抱有很高期望——截至目前，这些期望似乎正在实
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261002/vsu-2121923117.html) <span class="news-meta-time">🕒 2026-10-03 03:23</span>
+- [TechCrunch (硅谷创业与资本)] [受到裁员影响？别错过这份75美元的 TechCrunch Disrupt 2026 Expo+ 通行证优惠](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) <span class="news-meta-time">🕒 2026-10-03 03:15</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-03 03:23</span>
+- [The Guardian Society (卫报社会与民生)] [美国7款最佳搅拌机：适合制作奶昔、冰饮等](https://www.theguardian.com/thefilter-us/best-blenders) <span class="news-meta-time">🕒 2026-10-03 03:05</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html) <span class="news-meta-time">🕒 2026-10-03 03:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261002/mosty-2121922946.html) <span class="news-meta-time">🕒 2026-10-03 03:20</span>
+:::
 :::timeline-item{start="2026-10-02 15:07 (UTC+8)" title="全球要闻情报简报 · 15:07" org="ARCHIVE"}
 **速报纪要：** 本时段国际焦点涵盖多国选举与政治争议，巴西大选中生成式人工智能的应用引发虚假信息隐患，印度德里爆发要求选举委员会负责人辞职的集会预期，美国大选前夕亦出现针对柴油出口限制的表态。与此同时，全球液化天然气长期供应协议敲定，展现能源市场应对地缘波动的布局；国内方面，基层民生就业实践带来温暖样本。
 
@@ -641,18 +655,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/) <span class="news-meta-time">🕒 2026-09-19 07:15</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-peer-sexual-emerges-early-highlighting.html) <span class="news-meta-time">🕒 2026-09-19 09:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/grenlandiya-2118671580.html) <span class="news-meta-time">🕒 2026-09-19 09:13</span>
-:::
-:::timeline-item{start="2026-09-18 14:13 (UTC+8)" title="全球要闻情报简报 · 14:13" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-18 14:01 (UTC+8) 完成，共获得 8 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】APOD：2026年9月18日——M33：三角座星系：APOD：2026年9月18日——…… 每日天文图片 探索宇宙！每天都会展示一幅迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。；【undefined】李在明：韩国不会向霍尔木兹海峡派兵：中新网9月18日电 据韩国MBC电视台报道，韩国总统李在明18日强调，韩国不会派兵参与或介入伊朗战事。；【undefined】Waymo称新加坡将成为其下一个国际Robotaxi城市：该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看全部交通运输内容 查看全部自动驾驶汽车内容；【undefined】获科斯拉支持的Mazama Energy刚融资1.35亿美元，向超高温岩石地热钻探更深处：这笔新融资将帮助该公司在能够使每口井发电1500万千瓦的超高温岩石中开发水平井。；【undefined】美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制人员短缺问题。造成短缺的原因多种多样，但政府已表示，正在寻求创新方案来解决这一问题。；【undefined】Bend——一种通过证明在 CPU 和 GPU 上阻止 AI 犯错的语言：一种通过证明阻止 AI 犯错的高速语言 C 语言速度 · CUDA 并行能力 · Lean 证明 · Python 语法 在后 AGI 经济中，人类最终将不再编写和阅读代码，但我们仍然需要一种无歧义的方式，告诉那些正在构建我们周围世界的 AI 我们希望它们完成什么。 借助法则，我们的意图可以比自然语言精确得多。借助证明，我们可以验证 AI 是否正确实现了我们的提示。而快速的编译器则能让它高速运行。 这就是 Bend——别无其他。 Ben；【undefined】请提高警惕：针对知名 Rust 社区成员的定向攻击：我们认为，目前正有一场持续进行的行动，目标是 Rust-lang 成员和热门 crate 的维护者，企图入侵他们的设备和账户，进而利用这些设备和账户发布恶意软件。；【undefined】我不喜欢大型语言模型：我对人工智能和大型语言模型技术有着许多复杂的感受。一方面，我着迷于它对我们这个职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们能够迅速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：代理群接管我们的虚拟和物理基础设施，设计生物武器。不过，换个角度想，大型语言模型也可能设计出奇效药物，想出巧妙的方法来提高我们的繁荣程度。从根本上说，我不认为我们可以选择不登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望我们最终能
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/nauka-2118295421.html) <span class="news-meta-time">🕒 2026-09-18 14:00</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) <span class="news-meta-time">🕒 2026-09-18 12:20</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html) <span class="news-meta-time">🕒 2026-09-18 13:30</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/lifeandstyle/2026/sep/18/hyrox-joanna-wietrzyk-history-of-athletes-pooing-mid-race-why-and-how) <span class="news-meta-time">🕒 2026-09-18 10:00</span>
-- [NASA News (深空探索与航天)] [APOD：2026年9月18日——M33：三角座星系](https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/) <span class="news-meta-time">🕒 2026-09-18 12:05</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/prazdniki-2118391522.html) <span class="news-meta-time">🕒 2026-09-18 13:59</span>
 :::
 ::::

@@ -1,5 +1,1562 @@
 [
   {
+    "timestamp": 1790969939972,
+    "timeDisplay": "2026-10-03 03:38 (UTC+8)",
+    "date": "2026-10-03",
+    "runId": "feed-20261002T192416442Z-yiope2",
+    "generatedAt": "2026-10-02T19:38:59.972Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 03:24",
+      "lead": "本轮抓取于 2026-10-03 03:24 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】受到裁员影响？别错过这份75美元的 TechCrunch Disrupt 2026 Expo+ 通行证优惠：如果你最近遭遇裁员，可以仅花75美元获得一张 TechCrunch Disrupt 2026 Expo+ 通行证。这项优惠仅限前100名符合条件的人士，或截至太平洋时间10月13日上午8点 Disrupt 开幕时有效。100张通行证全部领取完毕后，该优惠将不再提供。",
+        "【undefined】美国7款最佳搅拌机：适合制作奶昔、冰饮等：一台出色的搅拌机是厨房里的多面手——我测试了十多款产品，包括Vitamix和Breville，考察了价格、尺寸、搅拌细腻度、速度，以及它们配备的是塑料杯还是玻璃杯",
+        "【undefined】苹果称将收紧 macOS“完全磁盘访问”控制，以应对 AI 代理带来的新风险：就在一名记者声称，Meta 在 Mac 上推出的 Muse 应用读取了其私人消息、但 Meta 对此予以否认的几天后，苹果宣布将在 macOS 上针对一项名为“完全磁盘访问”（Full Disk Access）的设置引入额外控制措施。苹果表示，这项功能原本是为确保备份正常运行而设计的，但如今 AI 代理已经“增加了与这一访问级别相关的风险”。",
+        "【undefined】BetMGM促销代码FOXNEWS：本周末投注NHL、MLB季后赛和橄榄球，下注10美元获150美元：10月是体育赛历中最繁忙的月份之一，而本周末将迎来精彩赛事。我们将看到NHL、MLB、NFL以及大学橄榄球赛事。BetMGM希望通过一项优惠吸引你参与：本周末使用促销代码FOXNEWS，在上述任何联赛中下注10美元，即可获得150美元的奖金投注额。这项优惠仅限密歇根州、新泽西州、宾夕法尼亚州和西弗吉尼亚州的用户参加。",
+        "【undefined】塞斯·梅耶斯、约翰·奥利弗告诉吉米·金梅尔：谈到特朗普时，他是他们的“防弹背心”：深夜节目主持人塞斯·梅耶斯和约翰·奥利弗周四告诉《吉米·金梅尔直播秀》主持人吉米·金梅尔，谈到美国总统唐纳德·特朗普时，金梅尔就是他们的“防弹背心”。",
+        "【undefined】美国石油钻井数量在油价下跌之际小幅上升：据贝克休斯周五公布的最新数据，本周美国石油和天然气活跃钻井平台总数下降，美国钻井平台总数降至598座，但较去年同期增加49座。数据显示，在最新报告期内，活跃石油钻井平台数量增加1座，达到456座，比去年同期高出34座。天然气钻井平台数量减少2座，降至133座，比去年同期多15座。其他类型钻井平台数量维持在9座不变。",
+        "【undefined】AI已经不再是AI，而是“超级智能”（据白宫说法）：本周，白宫将几乎所有主要科技公司的首席执行官召集到同一间屋子里——其中包括扎克伯格、贝索斯、马斯克以及Anthropic的达里奥·阿莫代伊——让他们签署一项人工智能安全承诺。美国总统唐纳德·特朗普称这份承诺具有“道德约束力”。特朗普还签署了一项行政命令，正式将人工智能重新命名为“超级智能”。与此同时，Meta和OpenAI正为其人工智能产品塑造更加亲和的形象，尽管人工智能领域最大规模的资金似乎仍来自企业端。",
+        "【undefined】Rivian销量增长，随着公司押注R2开始取得回报：该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看全部交通运输内容 查看全部电动汽车内容 该公司报告称，第三季度销量增长45%，产量更是大幅增加85%。 该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看Andrew J. Hawkins的全部文章 如果您通过链接购买商品，《The Verge》可能会获得佣金。请参阅我们的道德声明。 Rivian曾对价格更亲民的R2抱有很高期望——截至目前，这些期望似乎正在实"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包缺少文章标题、正文、来源、发布时间和可引用证据，无法进行可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 96,
+      "completedTasks": 96,
+      "succeeded": 49,
+      "degraded": 47,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 96,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 883479,
+      "byRole": {
+        "translator": {
+          "attempts": 68,
+          "succeeded": 29,
+          "degraded": 39
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "degraded": 5,
+          "succeeded": 3
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 6,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 96,
+          "succeeded": 49,
+          "degraded": 47
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-13-translator-1",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-18-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-23-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-29-translator-2",
+      "article-31-translator-0",
+      "article-31-translator-1",
+      "article-32-translator-0",
+      "article-32-translator-1",
+      "article-35-translator-0",
+      "article-35-translator-1",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-37-translator-1",
+      "article-38-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-42-translator-1",
+      "article-42-translator-2",
+      "article-43-translator-0",
+      "article-44-translator-0",
+      "article-45-translator-0",
+      "article-0-fact-extractor",
+      "article-2-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-7-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:58.204Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.117Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:58.375Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.174Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.729Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.007Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.752Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.022Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:01.189Z",
+        "lastSuccessAt": "2026-10-02T19:24:02.919Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:01.071Z",
+        "lastSuccessAt": "2026-10-02T19:24:02.736Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:02.982Z",
+        "lastSuccessAt": "2026-10-02T19:24:03.581Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:58.868Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.088Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.022Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.233Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.018Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.279Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.413Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.729Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.329Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.714Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.117Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.871Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.174Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.581Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:02.838Z",
+        "lastSuccessAt": "2026-10-02T19:24:03.239Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:02.568Z",
+        "lastSuccessAt": "2026-10-02T19:24:03.506Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:02.736Z",
+        "lastSuccessAt": "2026-10-02T19:24:02.982Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.170Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.649Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.714Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.825Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.581Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.752Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:58.831Z",
+        "lastSuccessAt": "2026-10-02T19:23:58.868Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:56.657Z",
+        "lastSuccessAt": "2026-10-02T19:23:58.831Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.500Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.792Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.478Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.642Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-02T19:24:00.279Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.487Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.674Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.772Z",
+        "lastSuccessAt": "2026-10-02T19:24:01.263Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.164Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.283Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:02.919Z",
+        "lastSuccessAt": "2026-10-02T19:24:04.717Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.629Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.772Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.837Z",
+        "lastSuccessAt": "2026-10-02T19:24:01.189Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-10-02T19:24:00.792Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.981Z",
+        "lastSuccessAt": "2026-10-02T19:24:01.398Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:02.957Z",
+        "lastSuccessAt": "2026-10-02T19:24:03.457Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.825Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.018Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.233Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.860Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.406Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.629Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.860Z",
+        "lastSuccessAt": "2026-10-02T19:24:01.305Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.674Z",
+        "lastSuccessAt": "2026-10-02T19:24:01.071Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-02T19:24:00.649Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:56.655Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.336Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.810Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.981Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:56.656Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.406Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:01.263Z",
+        "lastSuccessAt": "2026-10-02T19:24:03.338Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.336Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.500Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.088Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.329Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.642Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.810Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.283Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.487Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:01.305Z",
+        "lastSuccessAt": "2026-10-02T19:24:02.568Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:01.398Z",
+        "lastSuccessAt": "2026-10-02T19:24:02.957Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:24:00.007Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.170Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:59.871Z",
+        "lastSuccessAt": "2026-10-02T19:24:00.164Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:56.640Z",
+        "lastSuccessAt": "2026-10-02T19:23:58.375Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:56.653Z",
+        "lastSuccessAt": "2026-10-02T19:23:58.204Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T19:23:56.654Z",
+        "lastSuccessAt": "2026-10-02T19:23:59.413Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-1002-vsu-2121923117-html-c35917b02e8c82d5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Запорожской области ВСУ повредили здание избиркома",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T19:23:02.000Z",
+        "pubTime": "2026-10-03 03:23",
+        "url": "https://ria.ru/20261002/vsu-2121923117.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/02/1b/2077138654_0:0:3017:1698_650x0_80_0_0_132baad004b1e473a8014ac8fbe952ff.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-03 03:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/vsu-2121923117.html",
+            "publishedAt": "2026-10-02T19:23:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-available-for-75-dollars-32cf0543bf398136",
+        "title": "受到裁员影响？别错过这份75美元的 TechCrunch Disrupt 2026 Expo+ 通行证优惠",
+        "originalTitle": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:15:51.000Z",
+        "pubTime": "2026-10-03 03:15",
+        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "imageUrl": null,
+        "fullContent": "If you’ve been laid off, you can get a TechCrunch Disrupt 2026 Expo+ Pass for just $75. The offer is limited to the first 100 qualifying people, or until Disrupt doors open on October 13 at 8 a.m. PT. Once all 100 passes are claimed, the offer is no longer available.\n\nJoin 10,000+ founders, investors, operators, and tech leaders at San Francisco’s Moscone West on October 13-15, and put yourself back in the room where new opportunities are taking shape. Meet companies and people who could help open your next door, build your network, discover new career paths, and get a closer look at what’s happening across the startup and tech ecosystem.\n\nDon’t let a layoff keep you on the sidelines. Come to Disrupt, meet new people, explore new opportunities, and take your next step. Grab your Layoff Expo+ Pass before all 100 are claimed, or by the time Disrupt kicks off on October 13.\n\nWhen you’re in between jobs, networking can be critical. Disrupt gives you three full days to make meaningful connections in one place.\n\nAt the center of Disrupt is the Expo Hall, where all 10,000+ attendees converge — founders, investors, tech leaders, innovators, and builders. Explore 300+ exhibiting startups, connect directly with founders and tech leaders, learn about new companies, and put yourself in the room for your next career opportunity.\n\nYou don’t have to wait until Disrupt to grow your network. Start networking as soon as you buy your ticket and download the TechCrunch Events app. Use the app’s AI-powered matchmaking to discover relevant people and make connections based on your interests and goals. Then take those connections offline through 1:1 meetings, conversations in the Expo Hall, and events throughout Disrupt.\n\nGet practical insights through breakout sessions and get your questions answered directly by the tech leaders shaping the startup and technology landscape. Take what you learn back to your job search, your next interview, or your next career move.\n\nDisrupt isn’t just about finding an open role. It’s a chance to meet people you wouldn’t encounter through a job board, learn about companies before you apply, and put yourself in conversations that can lead somewhere unexpected.\n\nYour Expo+ Pass gives you access to:\n\nLearn more and secure your pass before they’re all claimed.\n\nThe Expo+ Pass is designed to help you get into the heart of Disrupt, but it does not include access to industry stages and roundtable sessions.\n\nWant the full conference experience? Explore our other ticket options for access to additional Disrupt programming and experiences.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "如果你最近遭遇裁员，可以仅花75美元获得一张 TechCrunch Disrupt 2026 Expo+ 通行证。这项优惠仅限前100名符合条件的人士，或截至太平洋时间10月13日上午8点 Disrupt 开幕时有效。100张通行证全部领取完毕后，该优惠将不再提供。\n\n10月13日至15日，加入在旧金山莫斯科尼西馆（Moscone West）汇聚的1万多名创始人、投资者、企业运营者和科技领袖，回到新机会正在形成的现场。结识可能帮助你打开下一扇门、拓展人脉、探索新的职业道路，并更深入了解创业和科技生态系统动态的公司与人士。\n\n不要让裁员把你挡在场外。来参加 Disrupt，结识新朋友，探索新机会，迈出下一步。在全部100张通行证被领取完毕之前，或在10月13日 Disrupt 开幕之前，领取你的“裁员 Expo+ 通行证”。\n\n在工作转换期间，人脉拓展可能至关重要。Disrupt 为你提供完整的三天时间，让你在同一个地方建立有意义的联系。\n\nDisrupt 的核心是展览大厅，所有1万多名参会者——包括创始人、投资者、科技领袖、创新者和建设者——都会汇聚于此。你可以探索300多家参展初创企业，直接与创始人和科技领袖交流，了解新公司，并置身于可能带来下一份职业机会的现场。\n\n你不必等到 Disrupt 开始后才拓展人脉。购买门票并下载 TechCrunch Events 应用后，你就可以立即开始建立联系。利用该应用由人工智能驱动的匹配功能，根据自己的兴趣和目标发现相关人士并建立联系。随后，通过一对一会面、展览大厅交流以及 Disrupt 期间的各类活动，将这些线上联系转化为线下交流。\n\n通过分组会议获得实用见解，并直接向那些正在塑造创业和科技格局的科技领袖提问。将你学到的内容运用到求职、下一场面试或下一步职业发展中。\n\nDisrupt 不只是为了寻找空缺职位。它让你有机会结识通过招聘网站不会遇到的人，在申请之前了解相关公司，并参与可能带来意外机会的交流。\n\n你的 Expo+ 通行证可让你获得以下权益：\n\n详细了解相关信息，并在通行证全部领取完毕之前锁定名额。\n\nExpo+ 通行证旨在帮助你进入 Disrupt 的核心区域，但不包括进入行业舞台和圆桌会议的权限。\n\n想要完整的会议体验？了解我们的其他门票选项，以获得更多 Disrupt 活动内容和体验的参与权限。\n\n当你通过我们文章中的链接购买时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n第二张通行证可享受五折优惠\nDisrupt 体验旨在与他人分享。购买你的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并发现创业生态系统中的下一步，获得更多收获。\n\n谷歌认为，SpaceX 的星舰必须发射1800次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·拉奇协助决定美军下一步行动\n\nOpenAI 发布 Dots，这是一款外形活泼的智能体化身\n\nAMD 将以82亿美元收购李飞飞的 World Labs\n\n走红的人工智能智能体 Instinct 完成10亿美元 C轮融资，估值达到100亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "来源叙事重点：将裁员后的求职困境框架化为网络拓展和线下活动参与机会，突出以75美元购买Disrupt 2026 Expo+ Pass、限前100名符合条件者或截至10月13日活动开始前有效。报道强调活动可接触1万多名创始人、投资者、运营者和科技领袖，浏览300多家初创公司，使用AI匹配工具建立联系，并将这些互动描述为潜在职业机会来源。同时突出限量、截止时间和第二张票五折等促销信息；明确说明Expo+ Pass不包含行业舞台和圆桌环节。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T19:15:51.000Z",
+            "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+          }
+        ]
+      },
+      {
+        "id": "story-k-labor-figures-7a9727da-328fbdd556c3d1b0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:23:00.000Z",
+        "pubTime": "2026-10-03 03:23",
+        "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A weak U.S. jobs report did what bad news hadn’t done in a while: It made U.S. debt look attractive again — albeit briefly.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-03 03:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T19:23:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-efilter-us-best-blenders-1c0251ae51bddd86",
+        "title": "美国7款最佳搅拌机：适合制作奶昔、冰饮等",
+        "originalTitle": "The 7 best blenders in the US: For smoothies, frozen drinks and more",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:05:24.000Z",
+        "pubTime": "2026-10-03 03:05",
+        "url": "https://www.theguardian.com/thefilter-us/best-blenders",
+        "imageUrl": "https://i.guim.co.uk/img/media/191411d3061b24a4a60719a4fd81052601ad2ca8/134_0_4220_3375/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=b49817a914796cee72ed197c5b10d36e",
+        "fullContent": "A great blender is a kitchen workhouse – I tested more than a dozen options including the Vitamix and Breville for budget, size, mulch factor, speed and whether they had plastic or glass jars\n\nIn the UK? Check out Filter UK’s top-rated blenders here\n\nThere are few breakfasts that feel as healthy and refreshing as the ever-mutable smoothie. You can make them virtuous, with lots of greens and nut milk, or luscious, with full-fat dairy and cocoa powder – but in order to make a good one, you need a really good blender.\n\nAnd while smoothies are the classic use for a blender, these appliances can do so much more; a truly great blender is a kitchen workhorse that can make your morning smoothie, your afternoon dip , your evening soup and even a frozen drink if you’re feeling frisky.\n\nBest overall blender:\n\nBreville Fresh & Furious\n\nBest personal blender:\n\nThe Beast Mega 1200 Plus\n\nBest blender for smoothies on the go:\n\nBest blender for the plastic-averse:\n\nOster Classic Series Heritage Blender with 6-Cup Glass Jar",
+        "fullTranslation": "一台出色的搅拌机是厨房里的多面手——我测试了十多款产品，包括Vitamix和Breville，考察了价格、尺寸、搅拌细腻度、速度，以及它们配备的是塑料杯还是玻璃杯\n\n在英国？请查看Filter UK评选的顶级搅拌机\n\n很少有哪种早餐能像灵活多变的奶昔一样，让人感觉既健康又清爽。你可以加入大量绿叶蔬菜和坚果奶，把它做得健康清新；也可以加入全脂乳制品和可可粉，把它做得浓郁醇厚——但要做好一杯奶昔，你需要一台真正出色的搅拌机。\n\n虽然奶昔是搅拌机最经典的用途，但这些电器能做的远不止这些；真正出色的搅拌机是厨房里的多面手，既能制作早晨的奶昔、下午的蘸酱、晚上的汤，甚至还能在你兴致来时调制一杯冰饮。\n\n综合最佳搅拌机：\nBreville Fresh & Furious\n\n最佳个人搅拌机：\nThe Beast Mega 1200 Plus\n\n最适合外带奶昔的搅拌机：\n\n最适合不喜欢塑料材质者的搅拌机：\nOster Classic Series Heritage Blender with 6-Cup Glass Jar",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "文章原标题为“The 7 best blenders in the US: For smoothies, frozen drinks and more”。",
+          "文章来源为 The Guardian Society（卫报社会与民生），原文语言为英语。",
+          "来源叙事重点：将搅拌机叙述为可承担多种厨房任务的实用型家电，重点比较价格、尺寸、粉碎效果、速度及容器材质，并按综合表现、个人使用和偏好玻璃容器等场景进行推荐。文章也以冰沙、蘸酱、汤和冷冻饮品等使用场景强化产品的多功能性。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T19:05:24.000Z",
+            "url": "https://www.theguardian.com/thefilter-us/best-blenders"
+          }
+        ]
+      },
+      {
+        "id": "story-ability-transitions-html-d39ffc4c739595d5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Small changes can have a big impact on sustainability transitions",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:20:13.000Z",
+        "pubTime": "2026-10-03 03:20",
+        "url": "https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/circular-economy.jpg",
+        "fullContent": "In her dissertation, Hanna Entsalo examines how public policies, such as policy strategies and legislation, influence transitions toward the circular economy and sustainability. Entsalo works as a researcher in the Circular Economy Solutions Unit at the Finnish Environment Institute. Her work focuses on circular economy policy instruments, sustainability transitions and innovation policy, particularly at the national and EU levels.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-03 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html",
+            "publishedAt": "2026-10-02T19:20:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-02-mosty-2121922946-html-be7a0f49b1a6c4ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Почти все мосты в Киеве находятся в аварийном состоянии, заявил эксперт",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T19:20:18.000Z",
+        "pubTime": "2026-10-03 03:20",
+        "url": "https://ria.ru/20261002/mosty-2121922946.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-03 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/mosty-2121922946.html",
+            "publishedAt": "2026-10-02T19:20:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-new-risks-from-ai-agents-593a5e64b60b1296",
+        "title": "苹果称将收紧 macOS“完全磁盘访问”控制，以应对 AI 代理带来的新风险",
+        "originalTitle": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:11:27.000Z",
+        "pubTime": "2026-10-03 02:11",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "imageUrl": null,
+        "fullContent": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — a claim that Meta disputed — Apple announced that it’s introducing additional controls around a setting called “Full Disk Access” on macOS. The feature was designed to allow backups to function properly, but AI agents have now increased “the risks associated with this level of access,” Apple said.\n\nApple’s statement comes shortly after Inc. columnist Jason Aten reported that Muse knew the content of his private messages — even though he claimed to have not given the AI agent permission. The report raised questions about the level of security and trust users have in desktop-based AI, which can control things on their systems and read their files and messages.\n\nThe decision to limit the Mac feature also comes after a Wired report cited that a flaw in ChatGPT’s Mac app could have allowed hackers to access sensitive data.\n\nAI agents that run on the desktop allow users to provide their respective apps with greater access to the files, messages, and other personal content on their computers by adjusting macOS settings.\n\nIn Muse’s case, the AI optionally allows users to enable Full Disk Access. This setting, Apple explains, gives an app permission to access files, mail, messages, and even browsing history.\n\n“Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems…without users’ full knowledge and understanding,” Apple said in a new blog post aimed at developers.\n\nThe company says that, going forward, it will introduce new controls aimed at ensuring that users who “genuinely wish to grant an app this extraordinary level of access” can do so only with “very explicit user action.”\n\n“Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy,” Apple wrote.\n\nApple did not respond to TechCrunch’s inquiry about the feature change.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nConsumer News Editor\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "就在一名记者声称，Meta 在 Mac 上推出的 Muse 应用读取了其私人消息、但 Meta 对此予以否认的几天后，苹果宣布将在 macOS 上针对一项名为“完全磁盘访问”（Full Disk Access）的设置引入额外控制措施。苹果表示，这项功能原本是为确保备份正常运行而设计的，但如今 AI 代理已经“增加了与这一访问级别相关的风险”。\n\n苹果发表上述声明前不久，《Inc.》专栏作家 Jason Aten 报道称，Muse 知道其私人消息的内容——尽管他声称自己并未授予该 AI 代理相关权限。这篇报道引发了人们对用户对桌面 AI 所抱有的安全感和信任程度的质疑，因为这类 AI 可以控制用户系统上的一些功能，并读取文件和消息。\n\n在 Wired 的一篇报道援引消息称，ChatGPT 的 Mac 应用存在一个漏洞，可能使黑客访问敏感数据之后，苹果也决定限制 Mac 的这项功能。\n\n在桌面上运行的 AI 代理允许用户通过调整 macOS 设置，让相关应用获得对电脑中文件、消息及其他个人内容更大的访问权限。\n\n就 Muse 而言，该 AI 应用会选择性地允许用户启用“完全磁盘访问”。苹果解释称，这项设置会授予应用访问文件、邮件、消息甚至浏览历史记录的权限。\n\n苹果在一篇面向开发者发布的新博客文章中表示：“一些开发者正在以可能让用户面临风险的方式使用‘完全磁盘访问’，在用户并未充分知情和理解的情况下，暴露其系统上的一切……”\n\n苹果表示，今后将引入新的控制措施，确保那些“确实希望授予应用这一非同寻常访问级别”的用户，只有通过“非常明确的用户操作”才能完成授权。\n\n苹果写道：“解决这一问题至关重要。随着 AI 代理变得日益强大和自主，与这一访问级别相关的风险将大幅增加。我们致力于确保用户在授予此类访问权限之前，能够清楚了解相关风险，从而就自身数据和隐私作出知情决定。”\n\n苹果没有回应 TechCrunch 就这一功能变化提出的询问。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n消费新闻编辑\n\n第二张通行证可享五折优惠。Disrupt 体验旨在与他人共享。购买您的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄动力并探索创业生态系统的下一步，拓展您的视野。\n\n谷歌认为，SpaceX 的“星舰”必须发射 1800 次，太空数据中心才能升空\n\n全球首座增强型地热发电厂仅用 23 个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定美国军方下一步该做什么\n\nOpenAI 推出 Dots，这是一款外形活泼的代理型头像\n\nAMD 将以 82 亿美元收购李飞飞创办的 World Labs\n\n病毒式传播的 AI 代理 Instinct 完成 10 亿美元 C 轮融资，估值达 100 亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "来源叙事重点：将 AI 代理能力增强与桌面系统高权限访问风险联系起来，重点呈现苹果对 Full Disk Access 权限收紧的解释，以及 Muse 私信读取争议和 ChatGPT Mac 应用潜在漏洞报道所引发的隐私与安全担忧。报道主要依赖苹果开发者博客和其他媒体报道，未提供独立技术验证。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T18:11:27.000Z",
+            "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+          }
+        ]
+      },
+      {
+        "id": "story-earn-am-i-crazy-364d2a64-bb78120889abf922",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:08:00.000Z",
+        "pubTime": "2026-10-03 03:08",
+        "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“When my paycheck lands, it takes a detour through bitcoin.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-03 03:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T19:08:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-pe-assault-ketamine-laws-970c28be10adcc2e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:49:33.000Z",
+        "pubTime": "2026-10-03 02:49",
+        "url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws",
+        "imageUrl": "https://i.guim.co.uk/img/media/e0efc5180899ae2bc674c03b3db258a043942b6c/648_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=1547cf173461d8512ddc1c0aed8a8be8",
+        "fullContent": "After a Jane Doe claimed she was encouraged to take ketamine in an alleged gang rape, advocates are urging for tighter laws around the dissociative\n\nThe effects of the drug ketamine have come into sharp focus after a former Cornell University student alleged in a lawsuit that several fraternity members gang raped her at a frat house party after she nasally ingested the drug.\n\nKetamine is a dissociative anaesthetic consumed increasingly in the US as both an illegal party drug and legal mental health treatment .",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《卫报》社会与民生版于2026年10月2日发布了题为“Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’”的文章。",
+          "文章称，一名前康奈尔大学学生在一份诉讼中指称，数名兄弟会成员在一次兄弟会住宅派对上对她实施了轮奸；她此前曾通过鼻吸方式摄入氯胺酮。",
+          "来源叙事重点：以一名前康奈尔大学学生在诉讼中的指称为切入点，将氯胺酮置于涉嫌性侵、受害者可能无法充分意识或作出反应以及监管是否需要收紧的框架中；同时强调氯胺酮兼具非法派对毒品和合法心理健康治疗用途，形成公共安全与医疗使用之间的张力。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T18:49:33.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws"
+          }
+        ]
+      },
+      {
+        "id": "story-ly-galaxies-violent-html-684124434cd41640",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Black holes may grow quietly alongside galaxies even without violent mergers",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:20:02.000Z",
+        "pubTime": "2026-10-03 03:20",
+        "url": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-holes-may-grow-q-1.jpg",
+        "fullContent": "Astronomers analyzed 2,435 galaxies hosting actively feeding black holes using data from the Dark Energy Spectroscopic Instrument (DESI). Among them, they identified 546 \"bulgeless\" galaxies—systems with little or no central stellar bulge. Their paper, published in Monthly Notices of the Royal Astronomical Society, suggests that galaxies without a central bulge grow black holes just as effectively as galaxies that have one—a surprising sign that black holes don't need galaxy mergers to grow norm",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-03 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+            "publishedAt": "2026-10-02T19:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-armeniya-2121922177-html-5f6457fea0bfe713",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Оверчук заявил об ощутимой выгоде Армении от членства в ЕАЭС",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T19:15:55.000Z",
+        "pubTime": "2026-10-03 03:15",
+        "url": "https://ria.ru/20261002/armeniya-2121922177.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/06/08/2097735172_0:96:3203:1898_650x0_80_0_0_3e42d035d8c9ca7d527f9436af1616f7.jpg",
+        "fullContent": "\"За те 10 лет, чуть больше 10 лет, пока Армения является участником союза, ВВП этой страны увеличился почти в три раза. Наша торговля в пиковый 2024 год достигала 12,4 миллиарда долларов, при том, что ВВП Армении в тот период был примерно на уровне 26-27 миллиардов долларов\", - сказал Оверчук в эфире телеканала \"Россия 1\".",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-03 03:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/armeniya-2121922177.html",
+            "publishedAt": "2026-10-02T19:15:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tgpt-dots-hands-on-agent-b19a7eb5407edebb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:00:00.000Z",
+        "pubTime": "2026-10-03 02:00",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "It’s a tale as old as last week: OpenAI’s new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito — emphasis on work.  OpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you’ll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface. The interface looks similar to Muse’s; you chat with the agent in one window and follow its work in another as it clicks around on a virtual machine. But Dots are less personal shoppers, even though they can help you buy stuff. They’re more like coworkers: business software that can use other software. Your Dot’s virtual machine can access apps like Blender and GIMP right off the bat. You can also give it access to your own computer through the desktop ChatGPT app, and you can call your Dot if you need to work through things out loud. And OpenAI is offering Dots first to users on its highest-tier accounts, including the $100-per-month Pro account I expensed to test it. Muse and its buzzy competitor Instinct cost you nothing — at least now, and at least until Meta can get it off the ground and presumably start using it to serve you ads, etc. But OpenAI’s gated rollout says a lot about who the product is for, cute avatars notwithstanding. I’ve been testing other AI agents with day-to-day personal tasks — yielding mixed results — and I was curious how OpenAI’s bot would compare. Despite its more enterprise-y vibes, OpenAI says Dots “can do nearly anything” with its cloud computer and access to apps, so I gave it a shot with some more pedestrian use cases.  To start, I had Dot try to schedule an installation appointment for a new internet service provider at my house (you hear that, Comcast? You’re on notice). It almost got there, and even found a $100 promotional discount in my email that I had mass deleted, but got stuck at a “human check.” Which is problematic for a bot. “This particular check needs a sustained mouse hold that my browser controls don’t support,” it said. “Please open my browser here and hold ‘Press & Hold’ until it completes, then tell me and I’ll continue with installation dates.” I obliged, but it felt a little bit like some teenagers outside of the convenience store asking me to buy them some wine coolers.  [Image: I want to know how many meetings Quantum had about adding “(and not a bot)” to this pop-up. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dot_captcha_screenshot.jpg?quality=90&strip=all] With my human ability to click and hold a button, Dot got all the way to the checkout screen, where it asked me to input my bank account details. Turns out there’s no slick Stripe integration like Muse has to save your credit card info and use a virtual card for checkout. And in any case, the new provider needed my bank account to get a $5 discount on my bill every month. Dot paused to let me enter the numbers into the virtual browser; I didn’t trust it well enough to punch in my checking account number and decided to just do it all myself on my own computer. Not exactly a spectacular start.  I gave Dot a few other personal tasks, and the results were mixed. It couldn’t find the option for a free tour and entry at a coworking space I’ve been meaning to try out, and instead offered to sign me up for a $35 day pass. I had Instinct’s agent, which I’ve also been testing, look for the trial option; it found it and set up an appointment within minutes. “Why did you miss this option?” I questioned Dot over the phone after the incident. “I jumped to the wrong conclusion,” it said. I hung up. [Image: I’m going to start calling this the Teriyaki Test. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dot_dinner.jpg?quality=90&strip=all] Later, I had it try to retrieve some information in my Ikea account about a hanging planter I bought. It reported that it was unable to log in to my Ikea account because it got stuck in a looping security check. Elsewhere on the internet, the neighborhood teriyaki spot wouldn’t allow Dot onto its ordering page. Something about Dot’s footprint seems to get it tripped up on security checks more often than Muse or Instinct; Dot offered a link to OpenAI’s page about websites blocking its cloud browser traffic as an explanation. Whatever the reason, it required more manual input and browser takeovers than other AI agents, possibly because it wasn’t purpose-built for ordering teriyaki or handling your Ikea returns. I really saw Dot come into its element when I gave it access to something fully within my control: my personal website. It is embarrassingly outdated and I asked Dot to pull together a new, more streamlined design. It did, and when I sat down to type out some changes I want made for the next version, I thought, “To hell with it. I’ll just give it a call.” I hashed out the changes I wanted section by section over 10 minutes, walked away to do some dishes, and got a ping that the next iteration was ready for me to review. Not perfect, but better. Once again, AI proves most helpful when you give it a large dataset (me rambling for 10 minutes) it can turn into something useful. I carried out a few more rounds of iterations chatting with Dot in a browser window on my computer and using voice-to-text on the phone app as I walked around the house cleaning up Brio train tracks and stuffies.  Dot made a lot more sense once I gave it access to my computer. There, I gave it two tasks: Put together a handful of video files on my desktop featuring a TV hit I did into one clip sized properly for social media, and deploy the changes to my personal website that we had worked through in a prototype. I had to give it a shocking number of permissions, but it worked. I watched it click around the website backend and re-create the prototype block by block. I walked away from the computer and got updates on the ChatGPT app on my phone — the consolidated video clip was ready, which I reviewed while I drank a coffee. It was the most Silicon Valley I’ve ever felt in my life. I absolutely could have figured out how to put all those clips together myself. In fact, I did the first time around, but it looked janky and was too big to upload on any social media website. Dot did a much better job and I had a clip to share within minutes. It handled the website update, too. The new design is basic, but it’s miles ahead of the complicated, out-of-date version I’d been rocking until yesterday. Gotta hand it to Dotty McDotface. [Image: Helping you update a website while ordering dinner is the AI agent future we were promised. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-01-at-8.44.31-AM.png?quality=90&strip=all] Dot makes a lot more sense when you think of it and use it as “Codex, but for regular people” — a cute little blob that can take care of some part of your business while you do other things. Where the more personal AI agents like Muse feel like glorified autofill and a universal online shopping cart, Dot seems like a harbinger of the future of work.  Or a future of work. Presumably, since you pay for it upfront, it won’t be subject to the kind of monetization pressure as Muse and Instinct eventually will, which makes sense for enterprise software. Nobody wants to be nagged by AI while they work. That is, assuming you do the kind of work that AI can help you with, and you trust OpenAI to do it. Big caveats! It helped me out with some tasks that, if I’m being honest, I would have just not gotten around to doing. That’s pretty handy. But I don’t think it’s $100-a-month handy, at least in my line of work. I can see how it would be much more useful to someone like our friend Casey Newton, who’s in the thick of launching a new business.   And with some help logging into my Uber Eats account, it did actually order my teriyaki in the end.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T18:00:00.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+          }
+        ]
+      },
+      {
+        "id": "story-e-us-sanctions-risk-html-ac68e771cc440586",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:00:00.000Z",
+        "pubTime": "2026-10-03 03:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+        "imageUrl": null,
+        "fullContent": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sector. The ministry has not disclosed the volume of the shipments, their commercial terms, or how the oil and petroleum products were transported to Tajikistan. The move also raises questions about potential US secondary sanctions for doing business with Iran, particularly as Washington has stepped up pressure on Tehran's oil revenues. US Treasury spokeswoman Gigi O'Connell said the department would not comment on specific allegations of sanctions violations but warned that Iran's petroleum and petrochemical sectors are subject to increased sanctions risk. \"Anyone operating in that sector incurs that risk themselves should they continue to choose to do so,\" O'Connell said in an e-mailed response to RFE/RL. Tajikistan has asked Iran to supply up to 2.55 million tons of crude oil and petroleum products annually, including gasoline, diesel, and jet fuel. But that figure represents a requested or potential volume rather than the amount currently being delivered. The potential shift toward Iranian supplies could give Dushanbe another option, although the economics and logistics of moving large quantities of Iranian oil to landlocked Tajikistan remain unclear. The oil deal comes as Tajikistan faces continued uncertainty over fuel supplies from Russia, which accounted for more than 91 percent of the country's petroleum-product imports in the first half of 2026. Russian fuel shortages and export restrictions, exacerbated by Ukrainian drone strikes on Russian oil refineries, have prompted Tajikistan and other Central Asian countries to seek alternative sources. In July, Tajik authorities said they were in talks with neighboring countries to secure future supplies. Tajik political analyst Parviz Mullojonov said the search for Iranian supplies was being driven in part by Tajikistan's need to secure alternative energy sources. Warming Relations The Iranian deliveries also come amid a broader warming of relations between Dushanbe and Tehran. \"The report that Iran has started to sell oil to Tajikistan comes as the relation between Dushanbe and Tehran is warming and they're becoming closer,\" said Edward Lemon, president of the Oxus Society for Central Asian Affairs. Tajikistan and Iran, which share close linguistic and historic ties, established diplomatic relations in 1992. Tajikistan's Foreign Ministry says bilateral trade reached $438 million in 2025, up 28 percent from the previous year, and that the countries have signed more than 200 agreements and memorandums. At a meeting of the Tajik-Iranian intergovernmental commission in Dushanbe in May, officials discussed energy, transport, industry, investment, science, and technology. The two countries also have defense ties. In 2022, Iran and Tajikistan inaugurated a drone-manufacturing facility in Dushanbe, designed to produce Iranian-designed Ababil-2 drones. But relations between the two countries have not always been close. Ties deteriorated sharply in the mid-2010s, with Dushanbe wary of Tehran's alleged support for Tajikistan's banned Islamic Renaissance Party. In 2017, Dushanbe also accused Tehran of involvement in a series of political killings in Tajikistan in the 1990s, allegations that Tehran denied. The relationship began to thaw in the early 2020s. In 2022, Tajik President Emomali Rahmon visited Tehran, and the two sides pledged to strengthen diplomatic, trade, and security ties. The Sanctions Question A Tajik delegation that visited Tehran in August held talks with Iranian officials responsible for oil products and railways, with energy supplies and logistics among the issues discussed, according to the Tajik Embassy in Tehran. But closer energy cooperation with Iran could also create complications for Dushanbe as Washington increases pressure on Tehran. Under US Iran sanctions authorities, foreign companies and financial institutions can face sanctions for certain significant transactions involving Iranian petroleum and petroleum products. O'Connell also emphasized the secondary sanctions exposure for those who continue doing business with the Iranian regime and said any entity facilitating money laundering or sanctions evasion on behalf of Iran risks being cut off from the US financial system. The Treasury Department has repeatedly warned of sanctions exposure linked to Iranian oil and in August announced an expansion of conduct that could trigger secondary sanctions. A State Department spokesperson said in an e-mailed response to RFE/RL that the United States would continue to \"disrupt, expose, and dismantle\" Iranian military and proliferation activities, procurement schemes, malicious cyberoperations, and illicit oil trade that sustain what Washington calls the Iranian regime's \"malign behavior.\" The spokesperson called on the international community to join the United States in holding those involved accountable. Lemon said the possibility of secondary sanctions should factor into Dushanbe's calculations as it expands purchases from Iran. \"Tajikistan could of course become one of those countries,\" he said. At the same time, Lemon said, the scale of Tajik-Iranian cooperation could be important in determining how seriously Washington views the relationship. \"The scale of cooperation is quite low, much in contrast to countries such as Russia or China,\" he said. Mullojonov said Tajikistan was seeking to balance relations with the United States, Russia, China, Turkey, and other powers while pursuing its own economic interests. \"Maintaining a diplomatic balance is incredibly difficult because these global powers often have conflicting agendas,\" Mullojonov said. For now, it remains unclear whether Iranian oil can become a substantial alternative to Russian supplies. RFE/RL contacted Tajikistan's Energy and Foreign Affairs ministries for comment but has not received a response. By RFE/RL",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ease-and-desist-order-to-202a90da55176303",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:48:31.000Z",
+        "pubTime": "2026-10-03 02:48",
+        "url": "https://www.reddit.com/r/technology/comments/1ww1ted/dem_candidate_sends_cease_and_desist_order_to/",
+        "imageUrl": "https://external-preview.redd.it/f0xZXZWkoTbZIVQ3edtojA3VV4nGOytHZNm98Uz8UVI.jpeg?width=640&crop=smart&auto=webp&s=c45d77ea7cf6c0029c7cbf581330b752536385d0",
+        "fullContent": "submitted by /u/Wagamaga [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-03 02:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1ww1ted/dem_candidate_sends_cease_and_desist_order_to/",
+            "publishedAt": "2026-10-02T18:48:31.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-1002-vsu-2121923117-html-c35917b02e8c82d5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Запорожской области ВСУ повредили здание избиркома",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T19:23:02.000Z",
+        "pubTime": "2026-10-03 03:23",
+        "url": "https://ria.ru/20261002/vsu-2121923117.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/02/1b/2077138654_0:0:3017:1698_650x0_80_0_0_132baad004b1e473a8014ac8fbe952ff.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-03 03:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/vsu-2121923117.html",
+            "publishedAt": "2026-10-02T19:23:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-available-for-75-dollars-32cf0543bf398136",
+        "title": "受到裁员影响？别错过这份75美元的 TechCrunch Disrupt 2026 Expo+ 通行证优惠",
+        "originalTitle": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:15:51.000Z",
+        "pubTime": "2026-10-03 03:15",
+        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "imageUrl": null,
+        "fullContent": "If you’ve been laid off, you can get a TechCrunch Disrupt 2026 Expo+ Pass for just $75. The offer is limited to the first 100 qualifying people, or until Disrupt doors open on October 13 at 8 a.m. PT. Once all 100 passes are claimed, the offer is no longer available.\n\nJoin 10,000+ founders, investors, operators, and tech leaders at San Francisco’s Moscone West on October 13-15, and put yourself back in the room where new opportunities are taking shape. Meet companies and people who could help open your next door, build your network, discover new career paths, and get a closer look at what’s happening across the startup and tech ecosystem.\n\nDon’t let a layoff keep you on the sidelines. Come to Disrupt, meet new people, explore new opportunities, and take your next step. Grab your Layoff Expo+ Pass before all 100 are claimed, or by the time Disrupt kicks off on October 13.\n\nWhen you’re in between jobs, networking can be critical. Disrupt gives you three full days to make meaningful connections in one place.\n\nAt the center of Disrupt is the Expo Hall, where all 10,000+ attendees converge — founders, investors, tech leaders, innovators, and builders. Explore 300+ exhibiting startups, connect directly with founders and tech leaders, learn about new companies, and put yourself in the room for your next career opportunity.\n\nYou don’t have to wait until Disrupt to grow your network. Start networking as soon as you buy your ticket and download the TechCrunch Events app. Use the app’s AI-powered matchmaking to discover relevant people and make connections based on your interests and goals. Then take those connections offline through 1:1 meetings, conversations in the Expo Hall, and events throughout Disrupt.\n\nGet practical insights through breakout sessions and get your questions answered directly by the tech leaders shaping the startup and technology landscape. Take what you learn back to your job search, your next interview, or your next career move.\n\nDisrupt isn’t just about finding an open role. It’s a chance to meet people you wouldn’t encounter through a job board, learn about companies before you apply, and put yourself in conversations that can lead somewhere unexpected.\n\nYour Expo+ Pass gives you access to:\n\nLearn more and secure your pass before they’re all claimed.\n\nThe Expo+ Pass is designed to help you get into the heart of Disrupt, but it does not include access to industry stages and roundtable sessions.\n\nWant the full conference experience? Explore our other ticket options for access to additional Disrupt programming and experiences.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "如果你最近遭遇裁员，可以仅花75美元获得一张 TechCrunch Disrupt 2026 Expo+ 通行证。这项优惠仅限前100名符合条件的人士，或截至太平洋时间10月13日上午8点 Disrupt 开幕时有效。100张通行证全部领取完毕后，该优惠将不再提供。\n\n10月13日至15日，加入在旧金山莫斯科尼西馆（Moscone West）汇聚的1万多名创始人、投资者、企业运营者和科技领袖，回到新机会正在形成的现场。结识可能帮助你打开下一扇门、拓展人脉、探索新的职业道路，并更深入了解创业和科技生态系统动态的公司与人士。\n\n不要让裁员把你挡在场外。来参加 Disrupt，结识新朋友，探索新机会，迈出下一步。在全部100张通行证被领取完毕之前，或在10月13日 Disrupt 开幕之前，领取你的“裁员 Expo+ 通行证”。\n\n在工作转换期间，人脉拓展可能至关重要。Disrupt 为你提供完整的三天时间，让你在同一个地方建立有意义的联系。\n\nDisrupt 的核心是展览大厅，所有1万多名参会者——包括创始人、投资者、科技领袖、创新者和建设者——都会汇聚于此。你可以探索300多家参展初创企业，直接与创始人和科技领袖交流，了解新公司，并置身于可能带来下一份职业机会的现场。\n\n你不必等到 Disrupt 开始后才拓展人脉。购买门票并下载 TechCrunch Events 应用后，你就可以立即开始建立联系。利用该应用由人工智能驱动的匹配功能，根据自己的兴趣和目标发现相关人士并建立联系。随后，通过一对一会面、展览大厅交流以及 Disrupt 期间的各类活动，将这些线上联系转化为线下交流。\n\n通过分组会议获得实用见解，并直接向那些正在塑造创业和科技格局的科技领袖提问。将你学到的内容运用到求职、下一场面试或下一步职业发展中。\n\nDisrupt 不只是为了寻找空缺职位。它让你有机会结识通过招聘网站不会遇到的人，在申请之前了解相关公司，并参与可能带来意外机会的交流。\n\n你的 Expo+ 通行证可让你获得以下权益：\n\n详细了解相关信息，并在通行证全部领取完毕之前锁定名额。\n\nExpo+ 通行证旨在帮助你进入 Disrupt 的核心区域，但不包括进入行业舞台和圆桌会议的权限。\n\n想要完整的会议体验？了解我们的其他门票选项，以获得更多 Disrupt 活动内容和体验的参与权限。\n\n当你通过我们文章中的链接购买时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n第二张通行证可享受五折优惠\nDisrupt 体验旨在与他人分享。购买你的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并发现创业生态系统中的下一步，获得更多收获。\n\n谷歌认为，SpaceX 的星舰必须发射1800次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·拉奇协助决定美军下一步行动\n\nOpenAI 发布 Dots，这是一款外形活泼的智能体化身\n\nAMD 将以82亿美元收购李飞飞的 World Labs\n\n走红的人工智能智能体 Instinct 完成10亿美元 C轮融资，估值达到100亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "来源叙事重点：将裁员后的求职困境框架化为网络拓展和线下活动参与机会，突出以75美元购买Disrupt 2026 Expo+ Pass、限前100名符合条件者或截至10月13日活动开始前有效。报道强调活动可接触1万多名创始人、投资者、运营者和科技领袖，浏览300多家初创公司，使用AI匹配工具建立联系，并将这些互动描述为潜在职业机会来源。同时突出限量、截止时间和第二张票五折等促销信息；明确说明Expo+ Pass不包含行业舞台和圆桌环节。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T19:15:51.000Z",
+            "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+          }
+        ]
+      },
+      {
+        "id": "story-k-labor-figures-7a9727da-328fbdd556c3d1b0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:23:00.000Z",
+        "pubTime": "2026-10-03 03:23",
+        "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A weak U.S. jobs report did what bad news hadn’t done in a while: It made U.S. debt look attractive again — albeit briefly.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-03 03:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T19:23:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-efilter-us-best-blenders-1c0251ae51bddd86",
+        "title": "美国7款最佳搅拌机：适合制作奶昔、冰饮等",
+        "originalTitle": "The 7 best blenders in the US: For smoothies, frozen drinks and more",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:05:24.000Z",
+        "pubTime": "2026-10-03 03:05",
+        "url": "https://www.theguardian.com/thefilter-us/best-blenders",
+        "imageUrl": "https://i.guim.co.uk/img/media/191411d3061b24a4a60719a4fd81052601ad2ca8/134_0_4220_3375/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=b49817a914796cee72ed197c5b10d36e",
+        "fullContent": "A great blender is a kitchen workhouse – I tested more than a dozen options including the Vitamix and Breville for budget, size, mulch factor, speed and whether they had plastic or glass jars\n\nIn the UK? Check out Filter UK’s top-rated blenders here\n\nThere are few breakfasts that feel as healthy and refreshing as the ever-mutable smoothie. You can make them virtuous, with lots of greens and nut milk, or luscious, with full-fat dairy and cocoa powder – but in order to make a good one, you need a really good blender.\n\nAnd while smoothies are the classic use for a blender, these appliances can do so much more; a truly great blender is a kitchen workhorse that can make your morning smoothie, your afternoon dip , your evening soup and even a frozen drink if you’re feeling frisky.\n\nBest overall blender:\n\nBreville Fresh & Furious\n\nBest personal blender:\n\nThe Beast Mega 1200 Plus\n\nBest blender for smoothies on the go:\n\nBest blender for the plastic-averse:\n\nOster Classic Series Heritage Blender with 6-Cup Glass Jar",
+        "fullTranslation": "一台出色的搅拌机是厨房里的多面手——我测试了十多款产品，包括Vitamix和Breville，考察了价格、尺寸、搅拌细腻度、速度，以及它们配备的是塑料杯还是玻璃杯\n\n在英国？请查看Filter UK评选的顶级搅拌机\n\n很少有哪种早餐能像灵活多变的奶昔一样，让人感觉既健康又清爽。你可以加入大量绿叶蔬菜和坚果奶，把它做得健康清新；也可以加入全脂乳制品和可可粉，把它做得浓郁醇厚——但要做好一杯奶昔，你需要一台真正出色的搅拌机。\n\n虽然奶昔是搅拌机最经典的用途，但这些电器能做的远不止这些；真正出色的搅拌机是厨房里的多面手，既能制作早晨的奶昔、下午的蘸酱、晚上的汤，甚至还能在你兴致来时调制一杯冰饮。\n\n综合最佳搅拌机：\nBreville Fresh & Furious\n\n最佳个人搅拌机：\nThe Beast Mega 1200 Plus\n\n最适合外带奶昔的搅拌机：\n\n最适合不喜欢塑料材质者的搅拌机：\nOster Classic Series Heritage Blender with 6-Cup Glass Jar",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "文章原标题为“The 7 best blenders in the US: For smoothies, frozen drinks and more”。",
+          "文章来源为 The Guardian Society（卫报社会与民生），原文语言为英语。",
+          "来源叙事重点：将搅拌机叙述为可承担多种厨房任务的实用型家电，重点比较价格、尺寸、粉碎效果、速度及容器材质，并按综合表现、个人使用和偏好玻璃容器等场景进行推荐。文章也以冰沙、蘸酱、汤和冷冻饮品等使用场景强化产品的多功能性。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T19:05:24.000Z",
+            "url": "https://www.theguardian.com/thefilter-us/best-blenders"
+          }
+        ]
+      },
+      {
+        "id": "story-ability-transitions-html-d39ffc4c739595d5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Small changes can have a big impact on sustainability transitions",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:20:13.000Z",
+        "pubTime": "2026-10-03 03:20",
+        "url": "https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/circular-economy.jpg",
+        "fullContent": "In her dissertation, Hanna Entsalo examines how public policies, such as policy strategies and legislation, influence transitions toward the circular economy and sustainability. Entsalo works as a researcher in the Circular Economy Solutions Unit at the Finnish Environment Institute. Her work focuses on circular economy policy instruments, sustainability transitions and innovation policy, particularly at the national and EU levels.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-03 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-small-big-impact-sustainability-transitions.html",
+            "publishedAt": "2026-10-02T19:20:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-02-mosty-2121922946-html-be7a0f49b1a6c4ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Почти все мосты в Киеве находятся в аварийном состоянии, заявил эксперт",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T19:20:18.000Z",
+        "pubTime": "2026-10-03 03:20",
+        "url": "https://ria.ru/20261002/mosty-2121922946.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-03 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/mosty-2121922946.html",
+            "publishedAt": "2026-10-02T19:20:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-new-risks-from-ai-agents-593a5e64b60b1296",
+        "title": "苹果称将收紧 macOS“完全磁盘访问”控制，以应对 AI 代理带来的新风险",
+        "originalTitle": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:11:27.000Z",
+        "pubTime": "2026-10-03 02:11",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "imageUrl": null,
+        "fullContent": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — a claim that Meta disputed — Apple announced that it’s introducing additional controls around a setting called “Full Disk Access” on macOS. The feature was designed to allow backups to function properly, but AI agents have now increased “the risks associated with this level of access,” Apple said.\n\nApple’s statement comes shortly after Inc. columnist Jason Aten reported that Muse knew the content of his private messages — even though he claimed to have not given the AI agent permission. The report raised questions about the level of security and trust users have in desktop-based AI, which can control things on their systems and read their files and messages.\n\nThe decision to limit the Mac feature also comes after a Wired report cited that a flaw in ChatGPT’s Mac app could have allowed hackers to access sensitive data.\n\nAI agents that run on the desktop allow users to provide their respective apps with greater access to the files, messages, and other personal content on their computers by adjusting macOS settings.\n\nIn Muse’s case, the AI optionally allows users to enable Full Disk Access. This setting, Apple explains, gives an app permission to access files, mail, messages, and even browsing history.\n\n“Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems…without users’ full knowledge and understanding,” Apple said in a new blog post aimed at developers.\n\nThe company says that, going forward, it will introduce new controls aimed at ensuring that users who “genuinely wish to grant an app this extraordinary level of access” can do so only with “very explicit user action.”\n\n“Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy,” Apple wrote.\n\nApple did not respond to TechCrunch’s inquiry about the feature change.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nConsumer News Editor\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "就在一名记者声称，Meta 在 Mac 上推出的 Muse 应用读取了其私人消息、但 Meta 对此予以否认的几天后，苹果宣布将在 macOS 上针对一项名为“完全磁盘访问”（Full Disk Access）的设置引入额外控制措施。苹果表示，这项功能原本是为确保备份正常运行而设计的，但如今 AI 代理已经“增加了与这一访问级别相关的风险”。\n\n苹果发表上述声明前不久，《Inc.》专栏作家 Jason Aten 报道称，Muse 知道其私人消息的内容——尽管他声称自己并未授予该 AI 代理相关权限。这篇报道引发了人们对用户对桌面 AI 所抱有的安全感和信任程度的质疑，因为这类 AI 可以控制用户系统上的一些功能，并读取文件和消息。\n\n在 Wired 的一篇报道援引消息称，ChatGPT 的 Mac 应用存在一个漏洞，可能使黑客访问敏感数据之后，苹果也决定限制 Mac 的这项功能。\n\n在桌面上运行的 AI 代理允许用户通过调整 macOS 设置，让相关应用获得对电脑中文件、消息及其他个人内容更大的访问权限。\n\n就 Muse 而言，该 AI 应用会选择性地允许用户启用“完全磁盘访问”。苹果解释称，这项设置会授予应用访问文件、邮件、消息甚至浏览历史记录的权限。\n\n苹果在一篇面向开发者发布的新博客文章中表示：“一些开发者正在以可能让用户面临风险的方式使用‘完全磁盘访问’，在用户并未充分知情和理解的情况下，暴露其系统上的一切……”\n\n苹果表示，今后将引入新的控制措施，确保那些“确实希望授予应用这一非同寻常访问级别”的用户，只有通过“非常明确的用户操作”才能完成授权。\n\n苹果写道：“解决这一问题至关重要。随着 AI 代理变得日益强大和自主，与这一访问级别相关的风险将大幅增加。我们致力于确保用户在授予此类访问权限之前，能够清楚了解相关风险，从而就自身数据和隐私作出知情决定。”\n\n苹果没有回应 TechCrunch 就这一功能变化提出的询问。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n消费新闻编辑\n\n第二张通行证可享五折优惠。Disrupt 体验旨在与他人共享。购买您的通行证，并以五折价格带上一位同事、合作伙伴或同行。通过建立联系、积蓄动力并探索创业生态系统的下一步，拓展您的视野。\n\n谷歌认为，SpaceX 的“星舰”必须发射 1800 次，太空数据中心才能升空\n\n全球首座增强型地热发电厂仅用 23 个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定美国军方下一步该做什么\n\nOpenAI 推出 Dots，这是一款外形活泼的代理型头像\n\nAMD 将以 82 亿美元收购李飞飞创办的 World Labs\n\n病毒式传播的 AI 代理 Instinct 完成 10 亿美元 C 轮融资，估值达 100 亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "来源叙事重点：将 AI 代理能力增强与桌面系统高权限访问风险联系起来，重点呈现苹果对 Full Disk Access 权限收紧的解释，以及 Muse 私信读取争议和 ChatGPT Mac 应用潜在漏洞报道所引发的隐私与安全担忧。报道主要依赖苹果开发者博客和其他媒体报道，未提供独立技术验证。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T18:11:27.000Z",
+            "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+          }
+        ]
+      },
+      {
+        "id": "story-earn-am-i-crazy-364d2a64-bb78120889abf922",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:08:00.000Z",
+        "pubTime": "2026-10-03 03:08",
+        "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“When my paycheck lands, it takes a detour through bitcoin.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-03 03:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T19:08:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-pe-assault-ketamine-laws-970c28be10adcc2e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:49:33.000Z",
+        "pubTime": "2026-10-03 02:49",
+        "url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws",
+        "imageUrl": "https://i.guim.co.uk/img/media/e0efc5180899ae2bc674c03b3db258a043942b6c/648_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=1547cf173461d8512ddc1c0aed8a8be8",
+        "fullContent": "After a Jane Doe claimed she was encouraged to take ketamine in an alleged gang rape, advocates are urging for tighter laws around the dissociative\n\nThe effects of the drug ketamine have come into sharp focus after a former Cornell University student alleged in a lawsuit that several fraternity members gang raped her at a frat house party after she nasally ingested the drug.\n\nKetamine is a dissociative anaesthetic consumed increasingly in the US as both an illegal party drug and legal mental health treatment .",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《卫报》社会与民生版于2026年10月2日发布了题为“Cornell case raises questions about rise of ketamine in sexual assaults: ‘You might not realize you’re being touched’”的文章。",
+          "文章称，一名前康奈尔大学学生在一份诉讼中指称，数名兄弟会成员在一次兄弟会住宅派对上对她实施了轮奸；她此前曾通过鼻吸方式摄入氯胺酮。",
+          "来源叙事重点：以一名前康奈尔大学学生在诉讼中的指称为切入点，将氯胺酮置于涉嫌性侵、受害者可能无法充分意识或作出反应以及监管是否需要收紧的框架中；同时强调氯胺酮兼具非法派对毒品和合法心理健康治疗用途，形成公共安全与医疗使用之间的张力。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T18:49:33.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/02/cornell-rape-assault-ketamine-laws"
+          }
+        ]
+      },
+      {
+        "id": "story-ly-galaxies-violent-html-684124434cd41640",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Black holes may grow quietly alongside galaxies even without violent mergers",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:20:02.000Z",
+        "pubTime": "2026-10-03 03:20",
+        "url": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-holes-may-grow-q-1.jpg",
+        "fullContent": "Astronomers analyzed 2,435 galaxies hosting actively feeding black holes using data from the Dark Energy Spectroscopic Instrument (DESI). Among them, they identified 546 \"bulgeless\" galaxies—systems with little or no central stellar bulge. Their paper, published in Monthly Notices of the Royal Astronomical Society, suggests that galaxies without a central bulge grow black holes just as effectively as galaxies that have one—a surprising sign that black holes don't need galaxy mergers to grow norm",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-03 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+            "publishedAt": "2026-10-02T19:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-armeniya-2121922177-html-5f6457fea0bfe713",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Оверчук заявил об ощутимой выгоде Армении от членства в ЕАЭС",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T19:15:55.000Z",
+        "pubTime": "2026-10-03 03:15",
+        "url": "https://ria.ru/20261002/armeniya-2121922177.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/06/08/2097735172_0:96:3203:1898_650x0_80_0_0_3e42d035d8c9ca7d527f9436af1616f7.jpg",
+        "fullContent": "\"За те 10 лет, чуть больше 10 лет, пока Армения является участником союза, ВВП этой страны увеличился почти в три раза. Наша торговля в пиковый 2024 год достигала 12,4 миллиарда долларов, при том, что ВВП Армении в тот период был примерно на уровне 26-27 миллиардов долларов\", - сказал Оверчук в эфире телеканала \"Россия 1\".",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-03 03:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/armeniya-2121922177.html",
+            "publishedAt": "2026-10-02T19:15:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tgpt-dots-hands-on-agent-b19a7eb5407edebb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:00:00.000Z",
+        "pubTime": "2026-10-03 02:00",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "It’s a tale as old as last week: OpenAI’s new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito — emphasis on work.  OpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you’ll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface. The interface looks similar to Muse’s; you chat with the agent in one window and follow its work in another as it clicks around on a virtual machine. But Dots are less personal shoppers, even though they can help you buy stuff. They’re more like coworkers: business software that can use other software. Your Dot’s virtual machine can access apps like Blender and GIMP right off the bat. You can also give it access to your own computer through the desktop ChatGPT app, and you can call your Dot if you need to work through things out loud. And OpenAI is offering Dots first to users on its highest-tier accounts, including the $100-per-month Pro account I expensed to test it. Muse and its buzzy competitor Instinct cost you nothing — at least now, and at least until Meta can get it off the ground and presumably start using it to serve you ads, etc. But OpenAI’s gated rollout says a lot about who the product is for, cute avatars notwithstanding. I’ve been testing other AI agents with day-to-day personal tasks — yielding mixed results — and I was curious how OpenAI’s bot would compare. Despite its more enterprise-y vibes, OpenAI says Dots “can do nearly anything” with its cloud computer and access to apps, so I gave it a shot with some more pedestrian use cases.  To start, I had Dot try to schedule an installation appointment for a new internet service provider at my house (you hear that, Comcast? You’re on notice). It almost got there, and even found a $100 promotional discount in my email that I had mass deleted, but got stuck at a “human check.” Which is problematic for a bot. “This particular check needs a sustained mouse hold that my browser controls don’t support,” it said. “Please open my browser here and hold ‘Press & Hold’ until it completes, then tell me and I’ll continue with installation dates.” I obliged, but it felt a little bit like some teenagers outside of the convenience store asking me to buy them some wine coolers.  [Image: I want to know how many meetings Quantum had about adding “(and not a bot)” to this pop-up. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dot_captcha_screenshot.jpg?quality=90&strip=all] With my human ability to click and hold a button, Dot got all the way to the checkout screen, where it asked me to input my bank account details. Turns out there’s no slick Stripe integration like Muse has to save your credit card info and use a virtual card for checkout. And in any case, the new provider needed my bank account to get a $5 discount on my bill every month. Dot paused to let me enter the numbers into the virtual browser; I didn’t trust it well enough to punch in my checking account number and decided to just do it all myself on my own computer. Not exactly a spectacular start.  I gave Dot a few other personal tasks, and the results were mixed. It couldn’t find the option for a free tour and entry at a coworking space I’ve been meaning to try out, and instead offered to sign me up for a $35 day pass. I had Instinct’s agent, which I’ve also been testing, look for the trial option; it found it and set up an appointment within minutes. “Why did you miss this option?” I questioned Dot over the phone after the incident. “I jumped to the wrong conclusion,” it said. I hung up. [Image: I’m going to start calling this the Teriyaki Test. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dot_dinner.jpg?quality=90&strip=all] Later, I had it try to retrieve some information in my Ikea account about a hanging planter I bought. It reported that it was unable to log in to my Ikea account because it got stuck in a looping security check. Elsewhere on the internet, the neighborhood teriyaki spot wouldn’t allow Dot onto its ordering page. Something about Dot’s footprint seems to get it tripped up on security checks more often than Muse or Instinct; Dot offered a link to OpenAI’s page about websites blocking its cloud browser traffic as an explanation. Whatever the reason, it required more manual input and browser takeovers than other AI agents, possibly because it wasn’t purpose-built for ordering teriyaki or handling your Ikea returns. I really saw Dot come into its element when I gave it access to something fully within my control: my personal website. It is embarrassingly outdated and I asked Dot to pull together a new, more streamlined design. It did, and when I sat down to type out some changes I want made for the next version, I thought, “To hell with it. I’ll just give it a call.” I hashed out the changes I wanted section by section over 10 minutes, walked away to do some dishes, and got a ping that the next iteration was ready for me to review. Not perfect, but better. Once again, AI proves most helpful when you give it a large dataset (me rambling for 10 minutes) it can turn into something useful. I carried out a few more rounds of iterations chatting with Dot in a browser window on my computer and using voice-to-text on the phone app as I walked around the house cleaning up Brio train tracks and stuffies.  Dot made a lot more sense once I gave it access to my computer. There, I gave it two tasks: Put together a handful of video files on my desktop featuring a TV hit I did into one clip sized properly for social media, and deploy the changes to my personal website that we had worked through in a prototype. I had to give it a shocking number of permissions, but it worked. I watched it click around the website backend and re-create the prototype block by block. I walked away from the computer and got updates on the ChatGPT app on my phone — the consolidated video clip was ready, which I reviewed while I drank a coffee. It was the most Silicon Valley I’ve ever felt in my life. I absolutely could have figured out how to put all those clips together myself. In fact, I did the first time around, but it looked janky and was too big to upload on any social media website. Dot did a much better job and I had a clip to share within minutes. It handled the website update, too. The new design is basic, but it’s miles ahead of the complicated, out-of-date version I’d been rocking until yesterday. Gotta hand it to Dotty McDotface. [Image: Helping you update a website while ordering dinner is the AI agent future we were promised. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-01-at-8.44.31-AM.png?quality=90&strip=all] Dot makes a lot more sense when you think of it and use it as “Codex, but for regular people” — a cute little blob that can take care of some part of your business while you do other things. Where the more personal AI agents like Muse feel like glorified autofill and a universal online shopping cart, Dot seems like a harbinger of the future of work.  Or a future of work. Presumably, since you pay for it upfront, it won’t be subject to the kind of monetization pressure as Muse and Instinct eventually will, which makes sense for enterprise software. Nobody wants to be nagged by AI while they work. That is, assuming you do the kind of work that AI can help you with, and you trust OpenAI to do it. Big caveats! It helped me out with some tasks that, if I’m being honest, I would have just not gotten around to doing. That’s pretty handy. But I don’t think it’s $100-a-month handy, at least in my line of work. I can see how it would be much more useful to someone like our friend Casey Newton, who’s in the thick of launching a new business.   And with some help logging into my Uber Eats account, it did actually order my teriyaki in the end.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T18:00:00.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+          }
+        ]
+      },
+      {
+        "id": "story-e-us-sanctions-risk-html-ac68e771cc440586",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T19:00:00.000Z",
+        "pubTime": "2026-10-03 03:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+        "imageUrl": null,
+        "fullContent": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sector. The ministry has not disclosed the volume of the shipments, their commercial terms, or how the oil and petroleum products were transported to Tajikistan. The move also raises questions about potential US secondary sanctions for doing business with Iran, particularly as Washington has stepped up pressure on Tehran's oil revenues. US Treasury spokeswoman Gigi O'Connell said the department would not comment on specific allegations of sanctions violations but warned that Iran's petroleum and petrochemical sectors are subject to increased sanctions risk. \"Anyone operating in that sector incurs that risk themselves should they continue to choose to do so,\" O'Connell said in an e-mailed response to RFE/RL. Tajikistan has asked Iran to supply up to 2.55 million tons of crude oil and petroleum products annually, including gasoline, diesel, and jet fuel. But that figure represents a requested or potential volume rather than the amount currently being delivered. The potential shift toward Iranian supplies could give Dushanbe another option, although the economics and logistics of moving large quantities of Iranian oil to landlocked Tajikistan remain unclear. The oil deal comes as Tajikistan faces continued uncertainty over fuel supplies from Russia, which accounted for more than 91 percent of the country's petroleum-product imports in the first half of 2026. Russian fuel shortages and export restrictions, exacerbated by Ukrainian drone strikes on Russian oil refineries, have prompted Tajikistan and other Central Asian countries to seek alternative sources. In July, Tajik authorities said they were in talks with neighboring countries to secure future supplies. Tajik political analyst Parviz Mullojonov said the search for Iranian supplies was being driven in part by Tajikistan's need to secure alternative energy sources. Warming Relations The Iranian deliveries also come amid a broader warming of relations between Dushanbe and Tehran. \"The report that Iran has started to sell oil to Tajikistan comes as the relation between Dushanbe and Tehran is warming and they're becoming closer,\" said Edward Lemon, president of the Oxus Society for Central Asian Affairs. Tajikistan and Iran, which share close linguistic and historic ties, established diplomatic relations in 1992. Tajikistan's Foreign Ministry says bilateral trade reached $438 million in 2025, up 28 percent from the previous year, and that the countries have signed more than 200 agreements and memorandums. At a meeting of the Tajik-Iranian intergovernmental commission in Dushanbe in May, officials discussed energy, transport, industry, investment, science, and technology. The two countries also have defense ties. In 2022, Iran and Tajikistan inaugurated a drone-manufacturing facility in Dushanbe, designed to produce Iranian-designed Ababil-2 drones. But relations between the two countries have not always been close. Ties deteriorated sharply in the mid-2010s, with Dushanbe wary of Tehran's alleged support for Tajikistan's banned Islamic Renaissance Party. In 2017, Dushanbe also accused Tehran of involvement in a series of political killings in Tajikistan in the 1990s, allegations that Tehran denied. The relationship began to thaw in the early 2020s. In 2022, Tajik President Emomali Rahmon visited Tehran, and the two sides pledged to strengthen diplomatic, trade, and security ties. The Sanctions Question A Tajik delegation that visited Tehran in August held talks with Iranian officials responsible for oil products and railways, with energy supplies and logistics among the issues discussed, according to the Tajik Embassy in Tehran. But closer energy cooperation with Iran could also create complications for Dushanbe as Washington increases pressure on Tehran. Under US Iran sanctions authorities, foreign companies and financial institutions can face sanctions for certain significant transactions involving Iranian petroleum and petroleum products. O'Connell also emphasized the secondary sanctions exposure for those who continue doing business with the Iranian regime and said any entity facilitating money laundering or sanctions evasion on behalf of Iran risks being cut off from the US financial system. The Treasury Department has repeatedly warned of sanctions exposure linked to Iranian oil and in August announced an expansion of conduct that could trigger secondary sanctions. A State Department spokesperson said in an e-mailed response to RFE/RL that the United States would continue to \"disrupt, expose, and dismantle\" Iranian military and proliferation activities, procurement schemes, malicious cyberoperations, and illicit oil trade that sustain what Washington calls the Iranian regime's \"malign behavior.\" The spokesperson called on the international community to join the United States in holding those involved accountable. Lemon said the possibility of secondary sanctions should factor into Dushanbe's calculations as it expands purchases from Iran. \"Tajikistan could of course become one of those countries,\" he said. At the same time, Lemon said, the scale of Tajik-Iranian cooperation could be important in determining how seriously Washington views the relationship. \"The scale of cooperation is quite low, much in contrast to countries such as Russia or China,\" he said. Mullojonov said Tajikistan was seeking to balance relations with the United States, Russia, China, Turkey, and other powers while pursuing its own economic interests. \"Maintaining a diplomatic balance is incredibly difficult because these global powers often have conflicting agendas,\" Mullojonov said. For now, it remains unclear whether Iranian oil can become a substantial alternative to Russian supplies. RFE/RL contacted Tajikistan's Energy and Foreign Affairs ministries for comment but has not received a response. By RFE/RL",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ease-and-desist-order-to-202a90da55176303",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T18:48:31.000Z",
+        "pubTime": "2026-10-03 02:48",
+        "url": "https://www.reddit.com/r/technology/comments/1ww1ted/dem_candidate_sends_cease_and_desist_order_to/",
+        "imageUrl": "https://external-preview.redd.it/f0xZXZWkoTbZIVQ3edtojA3VV4nGOytHZNm98Uz8UVI.jpeg?width=640&crop=smart&auto=webp&s=c45d77ea7cf6c0029c7cbf581330b752536385d0",
+        "fullContent": "submitted by /u/Wagamaga [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-03 02:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1ww1ted/dem_candidate_sends_cease_and_desist_order_to/",
+            "publishedAt": "2026-10-02T18:48:31.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790924874635,
     "timeDisplay": "2026-10-02 15:07 (UTC+8)",
     "date": "2026-10-02",
