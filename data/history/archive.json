@@ -1,5 +1,1550 @@
 [
   {
+    "timestamp": 1790903187450,
+    "timeDisplay": "2026-10-02 09:06 (UTC+8)",
+    "date": "2026-10-02",
+    "runId": "feed-20261002T005323758Z-0hucbh",
+    "generatedAt": "2026-10-02T01:06:27.450Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态简报",
+      "lead": "本小时关注涉嫌协助胡塞武装的技术支持指控案、欧洲司法规则变动的法律争议，以及资深媒体人的职业回顾。",
+      "keySignals": [
+        "司法与国家安全：Ashton Hamed Ellaboudy 涉嫌利用电气工程专业技能向胡塞武装提供通信、无人机及简易爆炸物制造支持。",
+        "欧洲法制动态：有关法院调整规则的举措引发对“过多法律不确定性”的舆论关切。",
+        "媒体人生态：前诉讼律师 Gregg Jarrett 探讨了从法律界转型至新闻行业近25年的职业反思。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "文章信息缺失，无法形成日尺度分析",
+      "lead": "证据包未提供文章标题、来源、正文、发布时间、网址或可核验事实与引文；相关目录中的标题仍处于待翻译状态，仅有少量摘要片段，信息不足以支持可靠判断。",
+      "themes": [
+        {
+          "name": "证据不足与信息待补充",
+          "analysis": "当前没有可引用的文章内容或结构化事实，无法确认核心事件、涉及主体、影响范围及后续趋势。目录中仅有关于法律职业经历、司法规则变化，以及涉嫌协助胡塞武装通信、无人机和爆炸物生产的零散摘要，彼此缺乏明确关联，也不足以构成日尺度主题分析。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 79,
+      "completedTasks": 79,
+      "succeeded": 40,
+      "degraded": 39,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 79,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 783634,
+      "byRole": {
+        "translator": {
+          "attempts": 60,
+          "degraded": 33,
+          "succeeded": 27
+        },
+        "fact-extractor": {
+          "attempts": 5,
+          "degraded": 4,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 5,
+          "succeeded": 3,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 5,
+          "succeeded": 5
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 79,
+          "degraded": 39,
+          "succeeded": 40
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-3-translator-0",
+      "article-3-translator-1",
+      "article-3-translator-2",
+      "article-3-translator-3",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-16-translator-0",
+      "article-20-translator-0",
+      "article-20-translator-1",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-29-translator-2",
+      "article-32-translator-0",
+      "article-32-translator-1",
+      "article-34-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-41-translator-1",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-4-source-positioner"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:04.524Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.360Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:04.572Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.303Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.785Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.983Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.815Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.991Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.105Z",
+        "lastSuccessAt": "2026-10-02T00:53:08.681Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.050Z",
+        "lastSuccessAt": "2026-10-02T00:53:08.509Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:08.681Z",
+        "lastSuccessAt": "2026-10-02T00:53:09.173Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:04.796Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.160Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.080Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.272Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.005Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.345Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.360Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.151Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.304Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.883Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.160Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.080Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.298Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.720Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:08.459Z",
+        "lastSuccessAt": "2026-10-02T00:53:09.223Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.376Z",
+        "lastSuccessAt": "2026-10-02T00:53:09.392Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:08.090Z",
+        "lastSuccessAt": "2026-10-02T00:53:08.569Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.156Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.558Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.720Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.785Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.379Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.815Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:04.771Z",
+        "lastSuccessAt": "2026-10-02T00:53:04.796Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:03.568Z",
+        "lastSuccessAt": "2026-10-02T00:53:04.771Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.478Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.655Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.396Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.742Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-02T00:53:06.177Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.397Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.765Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.734Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.143Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.151Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.239Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:08.509Z",
+        "lastSuccessAt": "2026-10-02T00:53:11.719Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.487Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.666Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.797Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.138Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.742Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.105Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.027Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.147Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:08.569Z",
+        "lastSuccessAt": "2026-10-02T00:53:09.195Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.883Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.005Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.160Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.908Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.345Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.478Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.908Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.376Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.666Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.050Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-02T00:53:06.655Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:03.566Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.379Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.765Z",
+        "lastSuccessAt": "2026-10-02T00:53:07.027Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:03.567Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.177Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.138Z",
+        "lastSuccessAt": "2026-10-02T00:53:09.367Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.272Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.487Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.138Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.298Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.558Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.734Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:06.239Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.396Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.143Z",
+        "lastSuccessAt": "2026-10-02T00:53:08.090Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:07.147Z",
+        "lastSuccessAt": "2026-10-02T00:53:08.459Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.991Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.160Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:05.983Z",
+        "lastSuccessAt": "2026-10-02T00:53:06.156Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:03.551Z",
+        "lastSuccessAt": "2026-10-02T00:53:04.572Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:03.564Z",
+        "lastSuccessAt": "2026-10-02T00:53:04.524Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-02T00:53:03.565Z",
+        "lastSuccessAt": "2026-10-02T00:53:05.138Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-2-polsha-2121657438-html-5eead64fd1879356",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Польше ждут новую волну миграции с Украины на фоне энергокризиса",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T00:49:11.000Z",
+        "pubTime": "2026-10-02 08:49",
+        "url": "https://ria.ru/20261002/polsha-2121657438.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e6/02/19/1775023066_0:230:2692:1744_650x0_80_0_0_4f70ffe4707ce67b1beeedd5ff8dee2d.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-02 08:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/polsha-2121657438.html",
+            "publishedAt": "2026-10-02T00:49:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rything-you-need-to-know-71bf6afee5fc842d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:03:23.000Z",
+        "pubTime": "2026-10-02 08:03",
+        "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "imageUrl": null,
+        "fullContent": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that, based on the feedback we’ve gotten from the community and the reality on the ground.\n\nLast year at Disrupt, we spoke with founders about their experiences and discovered the results of their attendance firsthand. One founder saw a 3x oversubscription rate after their confirmation for Startup Battlefield and more than 100 investor inbounds helping fuel conversations about a future fundraising round. Another founder had nearly 30 back-to-back conversations with investors who flocked to them after a pitch onstage and followed them to their booth.\n\nThat’s not the exception at Disrupt — that’s the point. And those opportunities aren’t just available for Battlefield finalists. Every conversation in the Expo Hall or in a Side Event can create an opportunity for your startup. For years, whether it’s been held in New York, San Francisco, or elsewhere, Disrupt has brought together thousands of founders, investors, startup team members, and tech leaders.\n\nWe’re keeping that mission alive at SF’s Moscone West, this October 13-15 with a packed lineup of speakers, more than 200 expert sessions, a wealth of organized and serendipitous networking opportunities, and most of all, the chance to be in the same room as the person who could change your nascent idea for a company or your current startup’s trajectory.\n\nThis guide is for the founders out there who are just learning about Disrupt, who need a refresher, or are skeptical of whether it’s worth it. TechCrunch has been around for more than 20 years; we can take it. And before you dive in, we have two discounts that run up until Disrupt begins you should be know about. Founders can bring a team member along for 50% off their ticket by following this link, or you can help laid off members of your network find their next opportunity at Disrupt with our steep discount of Expo+ passes.\n\nIf you’re asking Claude or ChatGPT if TechCrunch Disrupt is worth it, you’re not alone. The reality is that Disrupt is a unique event, and it’s happening at a unique time for the startup community.\n\nThis year’s Disrupt isn’t about predicting the future of AI; it’s about building companies in it. Across six editorially curated stages, founders will hear practical lessons from the CEOs, investors, engineers, and operators shaping the next decade of technology.\n\nWhether you’re raising your first round, scaling your team, or deciding how AI changes your product, every session is designed to answer one question: “What can I take back to my company on Monday morning?”\n\nDisrupt works a bit differently, depending on where you are in your founding journey, with different tracks you can follow to make the most of the three days:\n\nYou’re here to pressure-test your thesis, meet your first angel or pre-seed investors, and figure out who else is building in your space. Prioritize the Builders Stage, the Startup Battlefield semifinalist pitches, and the Expo Hall, along with roundtables tied to your industry and conversations you’ll want to learn more from.\n\nYou’re here for capital and validation above all else, and your time is valuable. Prioritize our investor-matchmaking tools and the connections that come with your Founder Pass, including the networking tools in our app. You also get access to the Deal Flow Café, where we foster one-on-one conversations between founders and investors.\n\nAnd when your schedule isn’t packed with dealmaking, learn from VC perspectives and fundraising-focused sessions at the Builders Stage.\n\nYou’re here in search of talent, strategic partners, and market visibility. Those same networking tools and opportunities can help you meet potential hires and partners and deepen those connections or make new ones. Disrupt’s Side Events aren’t to be missed — there’s one for every industry, interest, or post-event vibe you could be looking to find.\n\nThe Startup Battlefield winner’s reveal packs the Disrupt stage and is each year’s capstone event. But it’s the lead-up to that $100,000 check and the deluge of attention the winner receives that’s the most valuable for founders attending Disrupt.\n\nThe 200 startups chosen on August 20 to compete go through a rigorous prep process and get the opportunity to pitch onstage in front of top-tier VCs and the Disrupt crowds. You’ll also get to watch those pitches, take notes, learn from the peaks and valleys, and potentially meet the teams behind the ideas and innovations. It could be in a follow-up meeting or just walking through the halls of Moscone.\n\nAnd if that all leaves you inspired, here’s an insider tip: Most Battlefield participants, and several winners, have gone through the process multiple times. We’re no longer taking applications for 2026’s competition, but we’re expanding the program to more international markets, and the 2027 process will be similar to this year’s, so take note for the future!\n\nDisrupt 2026 spans several stages, each built around a different founder need:\n\nAnd that’s just the beginning — we’ll have more speakers to announce as we get closer to Disrupt. Check out the full lineup of speakers across all stages and events here.\n\nDisrupt’s prices increase as we get closer to the event, but we have a couple of promotions for Founders looking to save. You can save 50% on a second ticket by following the link here, and bring a coworker or co-founder along for the ride.\n\nIf there are colleagues in your network who have been impacted by layoffs who you’d like to have join up, we have an option for them as well, with a special $75 Expo+ Pass available at a limited volume for those impacted by cutbacks this year.\n\nYour time at Disrupt is valuable, too, so before you head there, check on our regularly updated schedule of speakers and Side Events, get ahead of competitors’ schedules by booking your networking opportunities in advance, and get your own elevator pitches in order to make the most of those magical Disrupt moments that can come at any point October 13-15!\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将Disrupt塑造为AI时代创业者获取融资、人才、合作伙伴、市场曝光和实践经验的综合平台，核心叙事是“在AI时代建设持久公司”，并通过往届创始人案例、Startup Battlefield、投资人配对、展区和主题活动等内容证明参会价值。文章同时提供参会路径、折扣信息、议程安排和行动建议，明显引导目标受众购票并参与活动。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T00:03:23.000Z",
+            "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+          }
+        ]
+      },
+      {
+        "id": "story-the-right-thing-aaedcaa4-eb32812b788db870",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:30:00.000Z",
+        "pubTime": "2026-10-02 08:30",
+        "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I have $152,000 in my IRA and Roth accounts.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-02 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T00:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mail-trucks-into-rolling-a9a846b9613c63ed",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "USPS Is Turning Mail Trucks Into Rolling Surveillance Cameras",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T22:48:56.000Z",
+        "pubTime": "2026-10-02 06:48",
+        "url": "https://www.reddit.com/r/technology/comments/1wvdokm/usps_is_turning_mail_trucks_into_rolling/",
+        "imageUrl": "https://external-preview.redd.it/uUkVrnXbdIhZ2hJQmADeeA-BGI0w75pMnPAlMWYvVjQ.jpeg?width=640&crop=smart&auto=webp&s=e1a8a9d72990a5f805cb511a53f95a7eb8cdf549",
+        "fullContent": "submitted by /u/stenspect [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-02 06:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wvdokm/usps_is_turning_mail_trucks_into_rolling/",
+            "publishedAt": "2026-10-01T22:48:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ular-tune-magnetism-html-655b5d46d8afd1c0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Counteranions reshape molecular packing to tune magnetism in copper complexes",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T23:40:01.000Z",
+        "pubTime": "2026-10-02 07:40",
+        "url": "https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/counteranions-reshape.jpg",
+        "fullContent": "Magnetic properties in molecular materials depend not only on the molecular components themselves but also on their solid-state organization. In charged π-electronic systems, electrostatic and dispersion forces can organize molecules into distinct ion-pairing structures.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-02 07:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html",
+            "publishedAt": "2026-10-01T23:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vice-led-career-lifetime-0646f049e117ee10",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "GREGG JARRETT: My mother’s advice led me to the career of a lifetime",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:49:06.000Z",
+        "pubTime": "2026-10-02 08:49",
+        "url": "https://www.foxnews.com/opinion/gregg-jarrett-mothers-advice-led-career-lifetime",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/gregg-jarrett-final.jpg?ve=1&tl=1",
+        "fullContent": "Fox News legal analyst Gregg Jarrett responds to exclusive video from the Lindsay Clancy trial holdout juror on 'Hannity.'\n\nDecades ago, when I was agonizing over the decision to forsake my profession as a trial lawyer to pursue a far riskier and more uncertain career in television news, my mother offered sage advice. \"The worst thing you can do is choose the easy course and be haunted by regret over what might have been.\"\n\nI embraced her counsel, realizing that the only thing scarier than change is the absence of imagination. I quit my secure and lucrative job as an attorney in San Francisco and moved forward into the unknown. Fortunately, I was too naive to understand that the chances of success were remote.\n\nI discovered that change hurts. It can be difficult and discouraging. But the fear of failure forced me to persevere. My early ventures up the ladder from local news channels to larger network operations felt like Churchill’s \"wilderness years.\" It was a long slog in search of advancement and fulfillment. Self-doubt was always hovering nearby.\n\nDANA PERINO: THE UNTOLD STORY OF THE REMARKABLE PEOPLE WHO MAKE FOX NEWS POSSIBLE\n\nBut all of that vanished when I landed at Fox News nearly a quarter of a century ago. I have been grateful ever since to have played a small role in a network that has changed the face of television news for the better.\n\nI could tell at the outset that the people at Fox were different. They were dedicated and passionate. The common denominator was an unwavering commitment to excellence. We supported one another.\n\nBut the heart and soul of our network are the viewers themselves. They watch with consistency because they trust what they see and hear. They feel engaged. In turn, those of us on air and the many people behind the scenes do our level best to maintain that trust by providing the highest-quality news and information available.\n\nAs a 24-hour news operation, that level of devotion and diligence is not easy to sustain. Yet I am consistently impressed by the energy, creativity, and intelligence that my colleagues bring to the on-air product every hour of every day. They are tireless and enthusiastic even when they have every right not to be. Those are rare qualities.\n\nMARTHA MACCALLUM: AFTER 22 YEARS, HERE'S WHY I'M GRATEFUL TO CALL FOX HOME\n\nDuring my many years at Fox, I have covered a multitude of stories—the War on Terror, hurricanes, disasters, presidential elections, the dot-com crash, financial calamities, social upheavals, cultural controversies, criminal trials, Supreme Court decisions, and the COVID-19 pandemic, to name a few.\n\nFox never said \"no\" when I wanted to venture beyond the newsroom. They encouraged it.\n\nI have grown and evolved in ways that I never imagined. Fox made that possible. And I’ve enjoyed every minute of it.\n\nHaving previously reported from conflict zones in the Middle East, I volunteered in 2003 as a correspondent during the Iraq War. For a time, I was embedded with the 3rd Infantry Division. These were courageous young soldiers who took good care of me. The experience gave me a renewed respect and admiration for our nation’s military. There are none better anywhere.\n\nCLICK HERE FOR MORE FOX NEWS OPINION\n\nThe world has changed dramatically since I first stepped into the Fox studios back in 2002. America has become more digital, diverse, and technologically advanced. Smartphones, e-commerce, social media, cloud computing, and now AI have transformed our lives. The Dow Jones Industrial Average hovered around 10,000 back then. It now exceeds 50,000.\n\nIn my time at Fox News, I have served as an anchor, reporter, documentary host, opinion columnist, and, most recently, legal analyst for the network. I penned four books along the way. I have grown and evolved in ways that I never imagined. Fox made that possible. And I’ve enjoyed every minute of it.\n\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\nIt has certainly been a different life than what I envisioned as a young man exiting law school so long ago. Far more rewarding. During the journey, I learned some valuable lessons. Sometimes it pays to take a chance. And to listen to your mother.\n\nSo, may I offer my sincere thanks to Fox News and a hearty congratulations on its 30th anniversary!\n\nGregg Jarrett is a Fox News legal analyst and commentator, and formerly worked as a defense attorney and adjunct law professor. His recent book, \"The Trial of the Century,\" about the famous \"Scopes Monkey Trial\" is available in bookstores nationwide or can be ordered online at the Simon & Schuster website. Jarrett’s latest book, \"The Constitution of the United States and Other Patriotic Documents,\" was published by Broadside Books, a division of HarperCollins on November 14, 2023. Gregg is the author of the No. 1 New York Times best-selling book \"The Russia Hoax: The Illicit Scheme to Clear Hillary Clinton and Frame Donald Trump.\" His follow-up book was also a New York Times bestseller, \"Witch Hunt: The Story of the Greatest Mass Delusion in American Political History.\"\n\nGet the recap of top opinion commentary and original content throughout the week.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“听从母亲建议、放弃稳定法律职业并进入电视新闻”为主线，将作者近25年的职业经历叙述为冒险、坚持与个人成长的成功故事；重点赞扬福克斯新闻的同事、专业表现、观众信任和机构影响力，并将其个人经历与福克斯成立30周年联系起来。文章还提及作者报道战争、灾害、选举、司法案件和疫情等经历，以及美国社会和技术环境的长期变化。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T00:49:06.000Z",
+            "url": "https://www.foxnews.com/opinion/gregg-jarrett-mothers-advice-led-career-lifetime"
+          }
+        ]
+      },
+      {
+        "id": "story-security-camera-no-video-b18ced003f0a5e35",
+        "title": "据报道，苹果正在开发一款不录制视频的智能家居摄像头",
+        "originalTitle": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T22:51:36.000Z",
+        "pubTime": "2026-10-02 06:51",
+        "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nWith Apple rumored to launch a smart home hub next month, it could come with a privacy-protecting security camera too.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Stevie Bonifield\n\nApple’s rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of “a new Apple smart home ecosystem,” alongside Apple’s rumored smart home hub:\n\nThey’re also building home security products, both first-party and third-party home security products. And the biggest thing is a program called J450. And this is an offshoot and a companion product to the J490 smart home display. And these are little cameras that you can put around your house. They have very low frame rate. It looks like a cylinder. It looks like a metal giant, you know, chapstick.\n\nAnd what does that mean? No video recording. So it’s a sensor that cannot actually pull in real video footage. It’s analyzing your environment in your home and around your home simply using AI.\n\nGurman also mentions that the camera uses “a very similar technology” to what Apple’s reportedly developing for a pair of AirPods with cameras that leaked earlier this year.\n\nInstead of using something like mmWave for presence sensing, using an image sensor with AI embedded that processes everything on-device, like these Sony IMX500 sensors, could work without passing images that would need to be stored and secured. Apple Home currently has a “Detect Activity” setting for HomeKit Secure Video cameras that stops video streaming and recording, but continues tracking motion, similar to what Gurman describes.\n\nHe goes on to add that the smart home camera will have facial recognition for things like detecting when someone enters a room, but, “You’re not getting anything but text descriptions. There’s nothing you can do with it. There’s no video recording.”\n\nSee All Apple Rumors\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\n\n据传苹果将于下月推出智能家居中枢设备，而这款产品或许还会配备一台注重隐私保护的安防摄像头。\n\n该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\n\n查看 Stevie Bonifield 的全部文章\n\n据传苹果进军智能家居技术的计划可能包括一款智能家居安防摄像头，它只向用户提供文字形式的事件描述，而不是视频画面。Mark Gurman 在《Power On》播客的第一期节目中表示，这款摄像头将成为“全新苹果智能家居生态系统”的一部分，并与苹果传闻中的智能家居中枢设备搭配使用：\n\n“他们还在开发家居安防产品，包括苹果自有的家居安防产品和第三方家居安防产品。其中最重要的是一个名为 J450 的项目。这是 J490 智能家居显示屏的衍生产品和配套产品。这些是你可以放置在家中各处的小型摄像头。它们的帧率非常低。外形看起来像一个圆柱体，像一个金属制成的巨大润唇膏管。”\n\n“这意味着什么？不录制视频。因此，它是一种实际上无法获取真实视频画面的传感器。它只是利用人工智能分析你家中及周围的环境。”\n\nGurman 还提到，这款摄像头采用了与苹果据报道正在为一款摄像头版 AirPods 开发的技术“非常相似”的技术；这款 AirPods 今年早些时候曾被泄露相关信息。\n\n与使用毫米波进行存在感知不同，采用内置人工智能的图像传感器在设备端处理所有信息——例如索尼的 IMX500 传感器——或许可以在无需传输图像的情况下运行，从而无需存储和保护这些图像。目前，Apple Home 针对 HomeKit 安全视频摄像头提供了“检测活动”设置。启用后，该设置会停止视频流传输和录制，但会继续追踪运动，效果与 Gurman 所描述的情况类似。\n\n他还补充说，这款智能家居摄像头将具备面部识别功能，例如检测有人进入房间。不过，“你得到的只有文字描述。你无法用它做任何事。它不会录制视频。”\n\n查看所有苹果传闻\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "据报道，苹果可能正在开发一款智能家居安防摄像头，只向用户提供文字事件描述，而不是视频画面。",
+          "Mark Gurman 在《Power On》播客第一期中表示，这款摄像头将成为“新的苹果智能家居生态系统”的一部分。",
+          "来源叙事重点：将传闻置于苹果智能家居生态扩张和隐私保护的框架下，突出J450安防摄像头可能采用低帧率图像传感器、端侧AI分析、仅输出文字事件描述且不录制视频的产品设想，同时将其与J490智能家居显示器、带摄像头AirPods及HomeKit Secure Video联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-01T22:51:36.000Z",
+            "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+          }
+        ]
+      },
+      {
+        "id": "story-t-savings-50-50-f0727f82-c3a164c455cff49c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:15:00.000Z",
+        "pubTime": "2026-10-02 08:15",
+        "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-02 08:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T00:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-against-palantir-draws-dfa3cbbe33ba7c95",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SF protest Wednesday against Palantir draws hundreds",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T19:29:10.000Z",
+        "pubTime": "2026-10-02 03:29",
+        "url": "https://www.reddit.com/r/technology/comments/1wv8uwb/sf_protest_wednesday_against_palantir_draws/",
+        "imageUrl": "https://external-preview.redd.it/blH2uWjDuAvNZU9uuedefX19laxtyNLxt6i-WPkOC4U.jpeg?width=640&crop=smart&auto=webp&s=fc78aaa191177c89cbae6cb326f59c2aa06d2897",
+        "fullContent": "submitted by /u/ansyhrrian [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-02 03:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wv8uwb/sf_protest_wednesday_against_palantir_draws/",
+            "publishedAt": "2026-10-01T19:29:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-uses-rumbles-groups-html-403e1da2f1f0377a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Learning to speak elephant: Choruses of rumbles help groups coordinate",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T23:20:01.000Z",
+        "pubTime": "2026-10-02 07:20",
+        "url": "https://phys.org/news/2026-10-elephant-choruses-rumbles-groups.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant-1.jpg",
+        "fullContent": "Choruses of African elephant rumbles appear to become more similar in certain situations, including reuniting or coordinating what to do next. Now, new research published in Scientific Reports provides evidence that elephant rumble choruses function as group signals.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-02 07:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-elephant-choruses-rumbles-groups.html",
+            "publishedAt": "2026-10-01T23:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-icheniya-2121657321-html-0349834563b33a57",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Самары ввели ограничения на полеты",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T00:47:42.000Z",
+        "pubTime": "2026-10-02 08:47",
+        "url": "https://ria.ru/20261002/ogranicheniya-2121657321.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/146063/10/1460631037_0:160:3076:1890_650x0_80_0_0_ff36002ad4403c14648157adcd21f593.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-02 08:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/ogranicheniya-2121657321.html",
+            "publishedAt": "2026-10-02T00:47:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-amazon-bedrock-agentcore-c8364c18fa741f01",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T22:06:14.000Z",
+        "pubTime": "2026-10-02 06:06",
+        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/REVBLOG-1301-1-1.png",
+        "fullContent": "October 2026: This post was reviewed and updated for accuracy.\n\nScaling cloud migrations with agentic AI on Amazon Bedrock AgentCore raises a practical question. Which parts of a large migration program belong to a managed service, and which parts need custom automation? One enterprise program answered that question across 300+ applications and a fixed fiscal year deadline. The four-agent pattern in this post reduced infrastructure as code (IaC) development time from 3 to 4 weeks per application to minutes, based on internal project tracking data.\n\nThis pattern runs alongside AWS Transform rather than in place of it, as a hybrid that adds custom agents where your program requires them. AWS Transform covers the migration and modernization work, and AWS Database Migration Service (AWS DMS) covers the database tier. The agents in this post attach to those services and carry one further requirement: sources and destinations reached through Model Context Protocol (MCP) tools that your organization builds and maintains.\n\nAWS Professional Services builds a suite of purpose-built AI agents for programs with that requirement. The agents use the Strands Agents SDK and run on Amazon Bedrock AgentCore, a platform to build, connect, and optimize agents at scale, with any framework or model. Each agent reaches its sources and destinations through MCP tools exposed by AgentCore Gateway.\n\nIn this post, you explore the architecture of a four-agent pattern for MCP-connected environments. You also see the code that defines an agent, connects it to its tools, and applies responsible AI controls. The pattern includes four agents:\n\nThe Intake Agent, which reads migration inputs from document and collaboration systems through MCP tools.\n\nThe IaC Agent, which generates IaC that composes your approved internal modules.\n\nThe Migration Intelligence and Governance Agent, which reports and governs inside your own program tools.\n\nThe Site Reliability Engineering (SRE) Agent for operations after cutover.\n\nTo follow along, you need an AWS account with access to Amazon Bedrock AgentCore and to Amazon Bedrock foundation models. You also need familiarity with the Strands Agents SDK and MCP server patterns, plus the IaC tooling used by your organization. Confirm first that an AWS managed service does not already cover your migration path.\n\nWhen this pattern applies\n\nAWS Transform covers migration and modernization for server, network, mainframe, .NET, and application code workloads as a managed service, and AWS DMS covers databases. This pattern adds agents for the requirements that stay specific to your organization.\n\nOn the program described here, three conditions held together.\n\nMCP-connected sources and destinations: The systems holding the migration inputs, and the systems receiving the outputs, were reached through MCP tools that the delivery team built and maintained. They included an internal wiki holding security standards, a ticketing system, a collaboration platform, and an in-house provisioning API.\n\nOrganization-specific IaC composition: Generated infrastructure code had to compose an internal module library that the security office reviews and approves. Writing that composition by hand took 3 to 4 weeks per application, which across a 300+ application portfolio translates to years of engineering effort.\n\nWork continuing past cutover: Program scope included operations after handover, which sits outside the migration services.\n\nArchitecture overview\n\nThis pattern uses four purpose-built agents. The architecture attaches to a migration program at three points: the systems holding migration inputs, IaC composition, and operations after cutover. The pattern applies security at each of those points. The following diagram shows how the agents, tools, and AWS services connect.\n\nFigure 1: How the agents connect across the migration and operations journeys through Model Context Protocol tool calling\n\nThe pattern organizes agents into two journeys. The migration journey agents handle discovery through deployment. The operations journey agent handles post-migration monitoring.\n\nMigration journey agents:\n\nIntake Agent (Phase 1): Reads architecture documents, questionnaires, and dependency records through MCP tools, then defines target state architecture.\n\nIaC Agent (Phase 2): Generates IaC that composes your approved internal modules for each application.\n\nMigration Intelligence and Governance Agent: Provides automated portfolio reporting, well-architected assessments, and governance across Jira, Confluence, and Webex.\n\nOperations journey agents:\n\nSRE Agent (Phase 3): Provides monitoring and automated remediation after cutover.\n\nAWS managed services carry the migration and complement the custom agents:\n\nAWS Database Migration Service (AWS DMS) : Generative AI-assisted schema conversion and automated cutover for database migration.\n\nAWS Transform : Discovery, wave planning, landing zone creation, network conversion, rehost or replatform execution, and modernization for mainframe, virtualized, and .NET workloads.\n\nHow the components connect\n\nThis section describes how the framework components interact at runtime.\n\nEach agent is a Strands agent, defined by a foundation model, a system prompt, and a set of tools. Amazon Bedrock AgentCore runtime hosts them in a serverless environment with session isolation and multi-agent orchestration. Amazon Bedrock foundation models power the reasoning that interprets documents, generates code, and drives multi-step workflows. For model availability by AWS Region, refer to Supported foundation models in Amazon Bedrock .\n\nEach agent calls MCP tools scoped to its function through AgentCore Gateway , a capability of Amazon Bedrock AgentCore, which converts your APIs, AWS Lambda functions, and existing services into MCP-compatible tools. AgentCore Identity , a capability of Amazon Bedrock AgentCore, authenticates each call through scoped AWS Identity and Access Management (IAM) roles and your identity provider.\n\nAmazon Bedrock AgentCore memory stores agent session state and shared context. Agents use this shared context to persist outputs and track migration progress across over 300 applications. When the Intake Agent completes discovery, it writes the target architecture and dependency mappings to AgentCore memory. The IaC Agent reads this shared context to begin code generation without manual handoff.\n\nDefining an agent in code\n\nThe following Python example defines the IaC Agent and prepares it for Amazon Bedrock AgentCore runtime. The agent reaches your MCP tools through AgentCore Gateway, and it calls a foundation model through Amazon Bedrock with an Amazon Bedrock Guardrails policy attached.\n\nimport json import logging import os import uuid from bedrock_agentcore.runtime import BedrockAgentCoreApp from strands import Agent from strands.models import BedrockModel from strands.tools.mcp import MCPClient from strands.tools.mcp.mcp_types import MCPClientCredentials\n\nlogger = logging.getLogger(__name__) app = BedrockAgentCoreApp()\n\nREGION = os.environ[\"AWS_REGION\"]\n\n# url+auth lets the SDK run the client_credentials grant and re-mint the # token on expiry. A statically captured bearer token would go stale. gateway = MCPClient( url=os.environ[\"GATEWAY_MCP_URL\"], auth=MCPClientCredentials( client_id=os.environ[\"GATEWAY_CLIENT_ID\"], client_secret=get_secret(\"gateway/client_secret\"), scopes=[os.environ[\"GATEWAY_SCOPE\"]], ), )\n\nmodel = BedrockModel( model_id=os.environ[\"MODEL_ID\"], region_name=REGION, guardrail_id=os.environ[\"GUARDRAIL_ID\"], guardrail_version=os.environ.get(\"GUARDRAIL_VERSION\", \"1\"), guardrail_trace=\"enabled\", )\n\n@app.entrypoint def invoke(payload, context): prompt = (payload.get(\"prompt\") or \"\").strip() if not prompt: return {\"status\": \"error\", \"error\": \"missing required field: prompt\"}\n\ntry: with gateway: # Fetch the approved policies for this wave first, so the rules # travel in the system prompt instead of depending on the model # to ask for them. lookup = gateway.call_tool_sync( tool_use_id=str(uuid.uuid4()), name=\"get_policies\", arguments={ \"resource_types\": payload.get(\"resource_types\", []), \"wave\": payload.get(\"wave\"), }, ) if lookup[\"status\"] != \"success\": return {\"status\": \"error\", \"error\": \"policy lookup failed\"} policies = lookup.get(\"structuredContent\", {})\n\n# tools=[gateway]: SDK owns the connection lifecycle and paginates # tool discovery, which list_tools_sync() alone does not. agent = Agent( model=model, system_prompt=( f\"{IAC_AGENT_PROMPT}\\n\\n\" f\"Generated IaC satisfies these approved policies:\\n\" f\"{json.dumps(policies.get('policies', []), indent=2)}\" ), tools=[gateway], ) result = agent(prompt)\n\nif result.stop_reason == \"guardrail_intervened\": logger.warning(\"guardrail blocked request, session_id=%s\", getattr(context, \"session_id\", None)) return {\"status\": \"blocked_by_guardrail\"}\n\nreturn { \"status\": \"ok\", \"iac\": str(result), \"policy_set_version\": policies.get(\"version\"), \"waived_policies\": policies.get(\"waived\", []), }\n\nexcept Exception as e: logger.exception(\"invocation failed, session_id=%s\", getattr(context, \"session_id\", None)) return {\"status\": \"error\", \"error\": str(e)}\n\nif __name__ == \"__main__\": app.run()\n\nThe entrypoint returns the generated IaC together with the policy set version that shaped it, so a reviewer traces the output back to a signed-off standard. AgentCore Runtime handles session isolation and scaling. For deployable examples, see the Amazon Bedrock AgentCore samples repository and the Strands Agents samples repository on GitHub. For the deployment steps, refer to Getting started with AgentCore runtime .\n\nPhase 1: Intake Agent for automated discovery\n\nThe Intake Agent reads the migration inputs that live in your document and collaboration systems. On this program, those systems were reachable through MCP tools the delivery team built and maintained.\n\nThe agent ingests architecture documentation, application inventory lists, intake questionnaires, and dependency records through those tools. It then produces a target AWS architecture with a recommended migration pattern, resource sizing specifications, and a compliance validation report.\n\nThe output feeds directly into the IaC Agent, creating an automated handoff from intake to infrastructure provisioning.\n\nPhase 2: IaC Agent for automated infrastructure code generation\n\nAWS Professional Services deployed the IaC Agent first in the portfolio, and it delivers the most immediately measurable impact. It generates IaC code adhering to your security best practices and standards.\n\nThe agent workflow proceeds through five steps:\n\nStep 1: Ingest the steering document. The agent reads the steering document from the wave team. It extracts deployment scope, compliance constraints, and Security Office-approved wave-specific overrides.\n\nStep 2: Interpret the target state architecture diagram. Using the Intake Agent’s output, the IaC Agent identifies infrastructure components, their relationships, and dependencies.\n\nStep 3: Generate IaC. Based on this interpretation, the agent generates IaC using your defined and established patterns. It populates configurations with wave-specific parameters and configures remote state management. It then applies mandatory tagging and adds monitoring configurations required by organizational standards.\n\nStep 4: Validate through Policy in Amazon Bedrock AgentCore. Before execution, Policy in AgentCore evaluates each tool call against Cedar rules. It calculates the scope of potential change, checks dependency conflicts with concurrent waves, and confirms compliance window validity.\n\nStep 5: Execute and report. The centralized execution plane triggers the IaC, monitors deployment, and reports outcomes through AgentCore Observability, a capability of Amazon Bedrock AgentCore. Post-deployment validation runs automatically and compliance metrics update in real time.\n\nCustom MCP tools: The security foundation\n\nEach action passes through custom MCP tools exposed by Amazon Bedrock AgentCore Gateway and governed by AgentCore Identity and Policy in AgentCore. AgentCore Identity authenticates each agent action through scoped IAM roles with least-privilege access. The framework validates inputs against defined schemas and rejects malformed inputs at the boundary.\n\nNo credentials or sensitive values pass through agent context, because AgentCore Identity resolves secrets at runtime from a centralized credential provider. AgentCore Observability and AWS CloudTrail write each agent action to an immutable, centralized audit trail. Policy in AgentCore enforces Cedar rules that help prevent a single operation from affecting more than a defined threshold.\n\nCurated organizational policies as MCP tools\n\nThe security office curates the policy set, not the agent. A versioned document holds each rule, the resource types it covers, a machine-checkable assertion, and the approval record. The following example shows three policies and one wave exception.\n\n{ \"policy_set\": \"security-office/baseline\", \"version\": \"2026.09.1\", \"policies\": [ { \"id\": \"SEC-ENC-001\", \"applies_to\": [\"aws_s3_bucket\", \"aws_ebs_volume\", \"aws_rds_cluster\"], \"requirement\": \"Encrypt data at rest with a customer managed KMS key\", \"assertion\": \"kms_key_id != null and sse_algorithm == 'aws:kms'\", \"severity\": \"blocking\", \"source\": \"SecOffice/Encryption-Standard-v4\" }, { \"id\": \"SEC-NET-014\", \"applies_to\": [\"aws_security_group_rule\"], \"requirement\": \"No ingress from 0.0.0.0/0 on administrative ports\", \"assertion\": \"not (cidr_blocks contains '0.0.0.0/0' and to_port in [22, 3389])\", \"severity\": \"blocking\", \"source\": \"SecOffice/Network-Standard-v7\" }, { \"id\": \"OPS-TAG-003\", \"applies_to\": [\"*\"], \"requirement\": \"Carry owner, cost-center, data-classification, and wave tags\", \"assertion\": \"tags has_keys ['owner', 'cost-center', 'data-classification', 'wave']\", \"severity\": \"blocking\", \"source\": \"SecOffice/Tagging-Standard-v2\" } ], \"wave_overrides\": [ { \"wave\": \"wave-14\", \"policy_id\": \"SEC-NET-014\", \"decision\": \"exception\", \"expires_on\": \"2026-10-31\", \"approved_by\": \"security-office\" } ] }\n\nAn AWS Lambda function serves that document, and AgentCore Gateway exposes the function as an MCP tool named get_policies. The IaC Agent requests only the policies in scope for the resource types in the wave it generates.\n\nimport json from datetime import date from pathlib import Path\n\nPOLICY_SET = Path(\"policies/security-office-baseline.json\")\n\ndef get_policies(event, context): \"\"\"Return the approved policies for the requested resource types and wave.\n\nAgentCore Gateway exposes this function as the get_policies MCP tool. \"\"\" doc = json.loads(POLICY_SET.read_text()) requested = set(event.get(\"resource_types\") or []) today = date.today() waived = { o[\"policy_id\"] for o in doc[\"wave_overrides\"] if o[\"wave\"] == event.get(\"wave\") and date.fromisoformat(o[\"expires_on\"]) >= today } policies = [ p for p in doc[\"policies\"] if (p[\"applies_to\"] == [\"*\"] or requested & set(p[\"applies_to\"])) and p[\"id\"] not in waived ] return { \"version\": doc[\"version\"], \"policies\": policies, \"waived\": sorted(waived), }\n\nThe response carries the policy set version, so generated code records which rules produced it and a reviewer traces a resource back to a signed-off standard. Waived policies travel in their own field rather than disappearing, and the compliance report lists them for the wave. Each exception carries an expiry date, so a lapsed waiver stops applying without manual cleanup.\n\nTwo policy layers operate here, and they answer different questions. AgentCore Policy evaluates Cedar rules to decide whether an agent calls a tool at all. The curated policy set decides what the generated infrastructure satisfies.\n\nIaC generation based on your patterns\n\nThe IaC Agent generates infrastructure code based on your defined and established patterns. These patterns encode organizational standards into reusable constructs. They include network configurations, security group rules, IAM roles, Amazon CloudWatch alarms, Amazon Elastic Compute Cloud (Amazon EC2) configurations, Amazon Virtual Private Cloud (Amazon VPC) layouts, and mandatory tagging.\n\nThis approach provides consistency across waves, speed for wave teams who don’t write infrastructure code from scratch, and governance where security updates propagate to consumers on their next deployment cycle.\n\nThe agent produces IaC code, automated test cases, compliance reports, and deployment runbooks for each application.\n\nThe IaC Agent pushes generated code directly to your code repository (such as AWS CodeCommit , GitLab, or Bitbucket). From there, it enters your existing review and deployment pipeline without requiring changes to your existing toolchain.\n\nMigration Intelligence and Governance Agent: Portfolio-wide visibility\n\nA 300+ application portfolio needs status reporting, progress tracking, follow-up actions, and well-architected validation. On this program, that work ran inside the customer’s own Jira, Confluence, and Webex. Performing it by hand creates significant overhead for project managers and delivery leads.\n\nThe Migration Intelligence and Governance Agent addresses this with automated, on-demand intelligence and governance across the portfolio. It aggregates data from three sources through AgentCore Gateway. Jira provides sprint progress and impediments. Confluence provides architecture documentation and runbooks. Webex provides meeting notes and action items.\n\nThe agent provides well-architected assessments across migrated workloads, compliance and governance validation, and architecture pattern adherence tracking.\n\nAutomated actions include updating Confluence pages with latest migration status, creating Jira tasks for identified action items, and generating ServiceNow tickets for escalations. These actions require explicit human approval before execution. This approval-gated architecture is a core design principle across the four agents. Agents support human decision-making rather than replacing it.\n\nOn-demand reporting across the 300+ application portfolio replaces manual aggregation, based on internal project tracking data. Your results might vary based on portfolio size and tool integrations.\n\nPhase 3: SRE Agent for proactive post-migration operations\n\nThe SRE Agent covers the phase after handover. The migration services complete at cutover. After applications run on AWS, the SRE Agent shifts the team from reactive response to proactive improvement.\n\nThe agent monitors Amazon CloudWatch metrics, application performance data, and historical patterns. It raises alerts before issues affect production. The agent also publishes automated remediation playbooks for common failure patterns and recommends efficiency improvements.\n\nTarget areas (with human-in-the-loop approval) include database cluster right-sizing, performance tuning, storage tiering, and compute scaling and efficiency improvements.\n\nThe SRE Agent extends the pattern past migration. Applications don’t land on AWS and stop there. They continuously improve over time.\n\nData migration with AWS DMS\n\nAlongside the custom AI agents, two AWS managed services handle the data and application modernization, server and network migration layer.\n\nDMS Schema Conversion with generative AI reduces manual schema mapping effort. It converts code objects that rules-based conversion leaves unfinished, such as stored procedures, functions, and triggers. This capability is generally available in a subset of AWS Regions, so confirm Region support during wave planning. AWS DMS then shortens the cutover window with automated migration tasks. The service integrates directly into the agent pipeline. The IaC Agent provisions target infrastructure, then AWS DMS migrates the data.\n\nAWS Transform covers the server, network, and code layers of the same program. The AWS Transform User Guide lists the current capabilities by workload type.\n\nSecurity and compliance: Embedded, not bolted on\n\nThis architecture embeds security from the start, not as an afterthought, applying it at each phase of the migration lifecycle. Key controls across the agent suite:\n\nSecurity standards enforcement: The IaC Agent pulls your security office standards directly from Confluence and applies them across generated IaC using custom MCP tools.\n\nLanding zone validation: The framework validates generated infrastructure against the enterprise’s landing zone compliance requirements before deployment.\n\nHuman-in-the-loop approval gates: Automated actions across all agents in the suite require explicit human approval before execution. No agent acts autonomously on production systems.\n\nAgentCore Gateway coordination: Amazon Bedrock AgentCore Gateway coordinates context and security controls across agents, maintaining consistent policy application throughout the migration lifecycle.\n\nContinuous integration and continuous delivery (CI/CD) integration: The framework integrates security controls into the CI/CD pipeline, with automated test cases generated alongside IaC to catch compliance issues before they reach production.\n\nResponsible AI controls at the inference layer: Amazon Bedrock Guardrails applies content filters, denied topics, sensitive information filters, and contextual grounding checks to each prompt and each model response. An agent acts only on output that clears the guardrail. Guardrail traces flow into AgentCore Observability alongside the tool-call audit trail.\n\nThis approach aligns with the AWS shared responsibility model. AWS provides security of the underlying infrastructure, while you’re responsible for security in the cloud. The agents automate your configuration responsibilities while maintaining human oversight for approval decisions.\n\nIn this implementation, the pattern maintained enterprise security standards across the over 300 application portfolio at speeds manual processes could not match. Your results might vary based on your security requirements and organizational standards.\n\nAcross the migration program, this framework delivered the following results. These metrics reflect this specific implementation. Your results might vary based on application complexity, team size, and organizational requirements.\n\nIaC development time reduced from weeks to minutes: from 3–4 weeks per application to minutes of automated generation (based on internal project tracking data).\n\nPattern consistency applied across waves: no wave can deviate from the approved IaC patterns baseline.\n\nSecurity compliance: verified automatically at each deployment, with a complete audit trail requiring zero manual effort.\n\nArchitecture-to-deployment fidelity improved: the agent interprets the diagram, and the IaC realizes it as designed.\n\nOn-demand portfolio reporting across over 300 applications with precise metrics and zero manual aggregation.\n\nWave team onboarding improved: teams upload documents and the agents produce the IaC and the reports.\n\nRunning this pattern adds cost in a few predictable places. Foundation model tokens usually dominate, because intake and IaC generation push documents, policies, and architecture context through a model and return generated code. Amazon Bedrock AgentCore bills on consumption. Runtime charges per second for the CPU and memory a session uses, and CPU scales to zero while an agent waits on a model response or a human approval. Gateway, Memory, Policy, and Guardrails each bill per unit of use, and Observability telemetry bills at Amazon CloudWatch rates.\n\nAcross a 300+ application portfolio the agents run for the length of the migration program rather than as a single job, so treat this as a running cost that tracks wave activity. Token volume follows document size and tool-call count more than application count, so a pilot wave gives you a per-application baseline. On the AWS Transform side, the assessment and the migration agents for virtualized, Windows, and mainframe workloads are available at no cost. The resources a migration creates bill normally, and custom transformations are priced per agent minute. For current rates, refer to Amazon Bedrock pricing , Amazon Bedrock AgentCore pricing , AWS Transform pricing , Amazon CloudWatch pricing , and the AWS Pricing Calculator .\n\nTo avoid ongoing charges after you finish testing the framework, remove the resources that you created:\n\nDelete the agents from AgentCore runtime, then remove the Gateway targets and the Gateway.\n\nDelete the AgentCore memory resources that hold session state and shared context.\n\nDelete the guardrail, the Policy in AgentCore definitions, and the IAM roles created for the agents.\n\nDelete the CloudWatch log groups that AgentCore Observability wrote to, if you no longer need the history.\n\nDelete any AWS DMS replication instances and endpoints provisioned for test migrations.\n\nConfirm in the Amazon Bedrock AgentCore console that no agent sessions remain active.\n\nMigrating 300+ applications to AWS on an aggressive timeline needs more than added engineers. Managed services carry most of that work. Where a requirement falls outside them, an agent pattern can close the gap while humans keep decisions, approvals, and strategy.\n\nThis pattern delivered measurable results on one program whose sources and destinations sat behind MCP tools. Purpose-built Strands agents addressed those specific requirements, Amazon Bedrock AgentCore applied security structurally, and human-in-the-loop design kept automation supporting decision-making rather than replacing it. Use AWS Transform and AWS DMS for the migration, and run these agents with them where MCP-connected sources and destinations call for it.\n\nBased on your use case, consider these paths:\n\nPlanning a migration? Connect AWS Transform to your favorite AI code companion and get started with server, network, and code migration and modernizations, and AWS DMS for database.\n\nSources and destinations behind MCP tools? Evaluate this pattern. See Amazon Bedrock AgentCore to learn how to build and deploy agents.\n\nInternal module library to honor? Evaluate the IaC Agent. IaC development time dropped from weeks to minutes against a manual baseline on this program.\n\nGovernance inside your own program tools? Consider the Migration Intelligence and Governance Agent for status reporting and well-architected assessments. Learn more about Amazon Bedrock AgentCore Memory for agent state management.\n\nPost-migration? Explore the SRE Agent pattern to shift from reactive operations to proactive improvement. Use Amazon CloudWatch for monitoring and automated alerting.\n\nBuilding your own agents? Start with the Strands Agents SDK and Amazon Bedrock AgentCore , using MCP servers tailored to your migration bottlenecks. Open the Amazon Bedrock AgentCore console to get started, read Deploying Strands Agents to Amazon Bedrock AgentCore runtime .\n\nTo explore the services used in this post:\n\nAmazon Bedrock AgentCore : Deploy and operate AI agents securely at scale.\n\nAWS Transform : Migrate and modernize infrastructure, applications, and code.\n\nStrands Agents SDK : Build AI agents with a model, a prompt, and tools.\n\nAWS Database Migration Service (AWS DMS) : Migrate databases to AWS.\n\nAWS Identity and Access Management (IAM) : Manage access to AWS services.\n\nAmazon CloudWatch : Monitor AWS resources and applications.\n\nAmazon Bedrock AgentCore documentation : Runtime, Gateway, Memory, Identity, and Observability.\n\nFor background on the services and SDKs used here, read these AWS posts:\n\nIntroducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale .\n\nIntroducing Strands Agents, an open source AI agents SDK .\n\nAccelerate database modernization with agentic AI on AWS DMS Schema Conversion .\n\nNikhil is a Principal at AWS Professional Services, focused on building AI, Cloud Infra and data solutions that help enterprises move from legacy complexity to modern, intelligent systems. He brings deep expertise in Generative AI, agentic architectures, and cloud modernization.\n\nTarun is a Senior Delivery Consultant at AWS Professional Services, focused on building AI, Cloud Infrastructure, and data solutions that help enterprises move from legacy complexity to modern systems. He brings deep expertise in Generative AI, agentic architectures, cloud modernization, and large-scale migration & disaster recovery, spanning multi-tier architectures, databases, and infrastructure-as-code. His technical depth across Amazon Bedrock, AWS DMS, and DR orchestration enables customers to achieve resilient, high-performing cloud environments at enterprise scale.\n\nVyas is a Delivery Consultant at AWS Professional Services, with experience building scalable, distributed systems. He specializes in designing and building AI-powered, high-availability, multi-region architectures and helps customers deploy resilient, production ready solutions on AWS.\n\nKaushal is a Principal Technology Delivery Leader for the Digital Native Segment of AWS Professional Services, working with top-tier customers to deliver innovation at the intersection of AI and Cloud.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 145,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-01T22:06:14.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
+          }
+        ]
+      },
+      {
+        "id": "story--latest-shakeup-07280a15-e90992c0ef28cf6d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:14:00.000Z",
+        "pubTime": "2026-10-02 08:14",
+        "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-02 08:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T00:14:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-change-our-languages-9527d6c673e1f09d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We Should be Able to Change our Languages",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T18:55:58.000Z",
+        "pubTime": "2026-10-02 02:55",
+        "url": "https://jimmyhmiller.com/change-our-languages",
+        "imageUrl": null,
+        "fullContent": "Programming languages are fixed artifacts. Defined by committee or that one really smart person. They are sacred artifacts whose contours are fixed for good reasons. The idea of changing your programming language, of customizing it for your own needs, is a drastic measure that should never be done. Or at least that's how people act. In a world where software is becoming increasingly flexible, moldable, editable, our programming languages resist this change.\n\nInstead, we build incredibly complicated build systems. We create complex conventions that give us the semantics we wished our languages had. We reuse existing language constructs and give them different meanings. We form committees to advocate for changes to our languages, bike-shedding endlessly, because the idea of just letting each individual codebase make its own decisions offends our sensibilities.\n\nThe ability for people to define their language to be the way they want is not new. It isn't difficult. But there has been a large backlash against it for decades. People avoid languages that offer this functionality. Even in languages that have it, some teams choose to completely ban it. But why exactly is this? I think the most straightforward version of the argument typically given is put quite well in Raymond Chen's 2005 blog post A rant against flow control macros.\n\nWhen you create a flow-control macro, you’re modifying the language. When I fire up an editor on a file whose name ends in “.cpp” I expect that what I see will be C++ and not some strange dialect that strongly resembles C++ except in the places where it doesn’t.\n\nChen argues in the body of the post that these kinds of control flow macros obscure what one needs to understand when debugging. They hide the actual operations of the code. They replace the semantics expected of (in this case) cpp files with new semantics that are not known immediately to the person debugging the code.\n\nThe argument that only the authors of the macros will understand them and for everyone else, they will be a hindrance has been echoed by many, even those who are big proponents of languages with this exact kind of power.\n\nMacros encourage people who are not good at language design to do something equivalent to language design, using tools that don't help, and with effects that are too powerful. This makes code unreadable to people joining later and for the authors after time has passed. Well-designed macros are well documented, but this doesn't happen much. - Richard P. Gabriel\n\nGabriel isn't fully against macros. But is hesitant for people to write them. Believing there is some bar that must be met that most people don't meet.\n\nNow, of course, there are other arguments that can be given. But I'll admit, I haven't really heard any that can't be cast in this same light. Reading code chock-full of macros is confusing. You are reading a new programming language, and we don't learn those super often. People hate macros for the same reason google made a language without generics: they make things more complicated.\n\nI'll be honest, I've never found the arguments against macros convincing. Control flow macros I've seen in the wild were always introduced to solve the very things Chen was worried about (I was in Clojure, not cpp though); they made sure that every site's resources were handled well. I didn't have to audit the code over and over at each call site, but once at a macro point. But I doubt most of my readers feel the same way. Defining our own language constructs has remained controversial, and these arguments hold weight in the minds of many. So instead, I will try to convince you that the times have changed. That given the state of programming today, macros no longer pose as serious a problem even if we take the criticisms seriously.\n\nToday, you aren't reliant on finding a local expert on some code, consulting the original author, asking on stackoverflow and hoping someone answers you, or spending a long time trying things out and reading docs to understand a complicated piece of code. Instead, you can use an LLM to help you gain understanding in the ways that fit how you learn. For me, this often means custom visualizations, demos, and asking increasingly specific questions. But sometimes a simple explanation and example are more than enough. Consider code I recently found that I didn't fully understand (not macro-related).\n\nThis is the kind of code where I can kind of piece together what each individual part might be doing, but trying to understand the why and the what is difficult for me. I get lost in all the details. But with two questions to claude it was all cleared up for me. If you don't understand it, do the same. See how much easier this is than in the past?\n\nThere's quite a bit of controversy around the idea of committing code that no one has read and understood. I've always worked in codebases large enough and old enough (and ugly enough) that no one understands all the code written in them. In fact, I'll even contend that much of the code that was written wasn't understood when it was written. So this idea isn't super controversial to me. But I think people are starting to see what can be accomplished today without anyone understanding the code underneath. Full, useful applications can be built. Complicated projects can be launched.\n\nThings have been changing drastically. There was once a point where it made sense to create suboptimal code if it meant that your team understood it better. Why? Because changes to the code provided more business value than the code itself being optimal, and if your team didn't understand it, no one could change things. But this is becoming less and less the case. If you can make code faster, better, even at the cost of readability and understandability, by you, but the AI can work with it perfectly fine, why wouldn't you?\n\nSo I think the time is ripe for macros. AI makes it trivial to write macros. AI makes it trivial to understand complex macros. Debugging code has become easier. And as I'll touch on later, I think AI-written code might benefit greatly from macros. But there still is a problem. Languages don't have them. At least not powerful ones. C-style macros don't count. Rust has intentionally limited its macros in a way where they are not language constructs at all, but rather explicit, delimited things. Lisps are too weird for people. For a brief period in time, SweetJs was the perfect vehicle. But sadly, with the rewrite of it being abandoned, it no longer served that purpose. So, I have resurrected the idea of it, now aimed at TypeScript, called Sweetener.\n\nSo let's take a super brief tour of the kinds of things you can do with macros in sweetener. The pipe operator is a much-debated, almost certainly dead proposal to JavaScript. Here is the good version (imo) of the pipe operator. The simple thread-first version.\n\nRather than waiting for a committee for nearly a decade. We can create the operator ourselves. And what code do we need to accomplish this?\n\nBut simply adding a custom operator is not enough. You can add any constructor you want. Maybe you're a fan of Rust-style enums, aka algebraic datatypes.\n\nNow, you can easily define them yourself and customize things however you want. This version has pattern matching and exhaustiveness checking built-in.\n\nI know a ton of people hate writing the map stuff in tsx. With sweetener, you can define anything you want and add it to your tsx without any pain or asking anyone else to support it.\n\nIt is perhaps the greatest irony that I am proposing things that make code look different when many people are no longer looking at code. Don't AIs just not care about all this higher-level stuff? Can't we just have them write the lowest-level code? Deal with all the boilerplate, and they will just get it right?\n\nI actually think macros might have an even greater benefit for AI-written code. In my experience, AI-written code is quite good at introducing inconsistencies across repeated things. As codebases grow, they are not seeing the codebase as a whole. They do not follow the full conventions. What they do is instead copy code around them and match the constructs they see. A file full of macros for some nice error handling or for defining types in a nice standard way, or using the pipeline operator to make sure you have a nice discipline for how functions are defined, can help you tame your codebases implicitly. Macros encode larger patterns and automatically make sure AIs follow them.\n\nI created sweetener in the hopes that it can give more people a chance to explore macros in a familiar context. But also, because macros in a setting like this are a fantastic way to explore language design. Rather than needing to create a compiler, we can play with the shape of a language feature that no existing language has and see if we can make something interesting. For example, the morning paper covered a paper that generalizes the idea of method names to allow regular expression like parts. We can now prototype this and play with it.\n\nBut there is so much more we need to do with our languages. We have spent countless engineering hours building tooling, parsers, linters, type checkers, build tools, all because our languages don't give us the ability to do what we need. Rather than letting us express the concepts we need to express as first-class parts of our programs, rather than trusting us to use our powers well, to give us full expressivity, we have outsourced this to complicated external build tools, complicated external linting systems, testing frameworks with their own runners and conventions for running code.\n\nAnd why? Because we didn't trust the average programmer to do it right. We didn't trust them to document it well. We didn't trust our future coworkers to understand what we had written. Code that was homegrown was suspicious. Instead, we needed others to build our tooling for us. We needed to buy into a complicated external framework. We needed that division, because it was just too hard.\n\nThat's no longer the case.\n\nIt has never been easier to build what you want to build. To imagine things and bring them to life. It's also never been easier to learn new things in programming. It has never been easier to migrate to a new language. To adopt new technology, or to make the customizations you need to if your language lets you. We are living with languages created when this wasn't reality. Languages that are afraid that their users will use them wrong. Languages that don't give us the power to do what we want to do. It is time that changed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-01T18:55:58.000Z",
+            "url": "https://jimmyhmiller.com/change-our-languages"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-2-polsha-2121657438-html-5eead64fd1879356",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Польше ждут новую волну миграции с Украины на фоне энергокризиса",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T00:49:11.000Z",
+        "pubTime": "2026-10-02 08:49",
+        "url": "https://ria.ru/20261002/polsha-2121657438.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e6/02/19/1775023066_0:230:2692:1744_650x0_80_0_0_4f70ffe4707ce67b1beeedd5ff8dee2d.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-02 08:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/polsha-2121657438.html",
+            "publishedAt": "2026-10-02T00:49:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rything-you-need-to-know-71bf6afee5fc842d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:03:23.000Z",
+        "pubTime": "2026-10-02 08:03",
+        "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "imageUrl": null,
+        "fullContent": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that, based on the feedback we’ve gotten from the community and the reality on the ground.\n\nLast year at Disrupt, we spoke with founders about their experiences and discovered the results of their attendance firsthand. One founder saw a 3x oversubscription rate after their confirmation for Startup Battlefield and more than 100 investor inbounds helping fuel conversations about a future fundraising round. Another founder had nearly 30 back-to-back conversations with investors who flocked to them after a pitch onstage and followed them to their booth.\n\nThat’s not the exception at Disrupt — that’s the point. And those opportunities aren’t just available for Battlefield finalists. Every conversation in the Expo Hall or in a Side Event can create an opportunity for your startup. For years, whether it’s been held in New York, San Francisco, or elsewhere, Disrupt has brought together thousands of founders, investors, startup team members, and tech leaders.\n\nWe’re keeping that mission alive at SF’s Moscone West, this October 13-15 with a packed lineup of speakers, more than 200 expert sessions, a wealth of organized and serendipitous networking opportunities, and most of all, the chance to be in the same room as the person who could change your nascent idea for a company or your current startup’s trajectory.\n\nThis guide is for the founders out there who are just learning about Disrupt, who need a refresher, or are skeptical of whether it’s worth it. TechCrunch has been around for more than 20 years; we can take it. And before you dive in, we have two discounts that run up until Disrupt begins you should be know about. Founders can bring a team member along for 50% off their ticket by following this link, or you can help laid off members of your network find their next opportunity at Disrupt with our steep discount of Expo+ passes.\n\nIf you’re asking Claude or ChatGPT if TechCrunch Disrupt is worth it, you’re not alone. The reality is that Disrupt is a unique event, and it’s happening at a unique time for the startup community.\n\nThis year’s Disrupt isn’t about predicting the future of AI; it’s about building companies in it. Across six editorially curated stages, founders will hear practical lessons from the CEOs, investors, engineers, and operators shaping the next decade of technology.\n\nWhether you’re raising your first round, scaling your team, or deciding how AI changes your product, every session is designed to answer one question: “What can I take back to my company on Monday morning?”\n\nDisrupt works a bit differently, depending on where you are in your founding journey, with different tracks you can follow to make the most of the three days:\n\nYou’re here to pressure-test your thesis, meet your first angel or pre-seed investors, and figure out who else is building in your space. Prioritize the Builders Stage, the Startup Battlefield semifinalist pitches, and the Expo Hall, along with roundtables tied to your industry and conversations you’ll want to learn more from.\n\nYou’re here for capital and validation above all else, and your time is valuable. Prioritize our investor-matchmaking tools and the connections that come with your Founder Pass, including the networking tools in our app. You also get access to the Deal Flow Café, where we foster one-on-one conversations between founders and investors.\n\nAnd when your schedule isn’t packed with dealmaking, learn from VC perspectives and fundraising-focused sessions at the Builders Stage.\n\nYou’re here in search of talent, strategic partners, and market visibility. Those same networking tools and opportunities can help you meet potential hires and partners and deepen those connections or make new ones. Disrupt’s Side Events aren’t to be missed — there’s one for every industry, interest, or post-event vibe you could be looking to find.\n\nThe Startup Battlefield winner’s reveal packs the Disrupt stage and is each year’s capstone event. But it’s the lead-up to that $100,000 check and the deluge of attention the winner receives that’s the most valuable for founders attending Disrupt.\n\nThe 200 startups chosen on August 20 to compete go through a rigorous prep process and get the opportunity to pitch onstage in front of top-tier VCs and the Disrupt crowds. You’ll also get to watch those pitches, take notes, learn from the peaks and valleys, and potentially meet the teams behind the ideas and innovations. It could be in a follow-up meeting or just walking through the halls of Moscone.\n\nAnd if that all leaves you inspired, here’s an insider tip: Most Battlefield participants, and several winners, have gone through the process multiple times. We’re no longer taking applications for 2026’s competition, but we’re expanding the program to more international markets, and the 2027 process will be similar to this year’s, so take note for the future!\n\nDisrupt 2026 spans several stages, each built around a different founder need:\n\nAnd that’s just the beginning — we’ll have more speakers to announce as we get closer to Disrupt. Check out the full lineup of speakers across all stages and events here.\n\nDisrupt’s prices increase as we get closer to the event, but we have a couple of promotions for Founders looking to save. You can save 50% on a second ticket by following the link here, and bring a coworker or co-founder along for the ride.\n\nIf there are colleagues in your network who have been impacted by layoffs who you’d like to have join up, we have an option for them as well, with a special $75 Expo+ Pass available at a limited volume for those impacted by cutbacks this year.\n\nYour time at Disrupt is valuable, too, so before you head there, check on our regularly updated schedule of speakers and Side Events, get ahead of competitors’ schedules by booking your networking opportunities in advance, and get your own elevator pitches in order to make the most of those magical Disrupt moments that can come at any point October 13-15!\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation\n\nCrusoe abandons $1.25B plan to use Boom turbines at AI data centers\n\nAstra and Opus just passed Turing’s other test",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将Disrupt塑造为AI时代创业者获取融资、人才、合作伙伴、市场曝光和实践经验的综合平台，核心叙事是“在AI时代建设持久公司”，并通过往届创始人案例、Startup Battlefield、投资人配对、展区和主题活动等内容证明参会价值。文章同时提供参会路径、折扣信息、议程安排和行动建议，明显引导目标受众购票并参与活动。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T00:03:23.000Z",
+            "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+          }
+        ]
+      },
+      {
+        "id": "story-the-right-thing-aaedcaa4-eb32812b788db870",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:30:00.000Z",
+        "pubTime": "2026-10-02 08:30",
+        "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I have $152,000 in my IRA and Roth accounts.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-02 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T00:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mail-trucks-into-rolling-a9a846b9613c63ed",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "USPS Is Turning Mail Trucks Into Rolling Surveillance Cameras",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T22:48:56.000Z",
+        "pubTime": "2026-10-02 06:48",
+        "url": "https://www.reddit.com/r/technology/comments/1wvdokm/usps_is_turning_mail_trucks_into_rolling/",
+        "imageUrl": "https://external-preview.redd.it/uUkVrnXbdIhZ2hJQmADeeA-BGI0w75pMnPAlMWYvVjQ.jpeg?width=640&crop=smart&auto=webp&s=e1a8a9d72990a5f805cb511a53f95a7eb8cdf549",
+        "fullContent": "submitted by /u/stenspect [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-02 06:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wvdokm/usps_is_turning_mail_trucks_into_rolling/",
+            "publishedAt": "2026-10-01T22:48:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ular-tune-magnetism-html-655b5d46d8afd1c0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Counteranions reshape molecular packing to tune magnetism in copper complexes",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T23:40:01.000Z",
+        "pubTime": "2026-10-02 07:40",
+        "url": "https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/counteranions-reshape.jpg",
+        "fullContent": "Magnetic properties in molecular materials depend not only on the molecular components themselves but also on their solid-state organization. In charged π-electronic systems, electrostatic and dispersion forces can organize molecules into distinct ion-pairing structures.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-02 07:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html",
+            "publishedAt": "2026-10-01T23:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vice-led-career-lifetime-0646f049e117ee10",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "GREGG JARRETT: My mother’s advice led me to the career of a lifetime",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:49:06.000Z",
+        "pubTime": "2026-10-02 08:49",
+        "url": "https://www.foxnews.com/opinion/gregg-jarrett-mothers-advice-led-career-lifetime",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/gregg-jarrett-final.jpg?ve=1&tl=1",
+        "fullContent": "Fox News legal analyst Gregg Jarrett responds to exclusive video from the Lindsay Clancy trial holdout juror on 'Hannity.'\n\nDecades ago, when I was agonizing over the decision to forsake my profession as a trial lawyer to pursue a far riskier and more uncertain career in television news, my mother offered sage advice. \"The worst thing you can do is choose the easy course and be haunted by regret over what might have been.\"\n\nI embraced her counsel, realizing that the only thing scarier than change is the absence of imagination. I quit my secure and lucrative job as an attorney in San Francisco and moved forward into the unknown. Fortunately, I was too naive to understand that the chances of success were remote.\n\nI discovered that change hurts. It can be difficult and discouraging. But the fear of failure forced me to persevere. My early ventures up the ladder from local news channels to larger network operations felt like Churchill’s \"wilderness years.\" It was a long slog in search of advancement and fulfillment. Self-doubt was always hovering nearby.\n\nDANA PERINO: THE UNTOLD STORY OF THE REMARKABLE PEOPLE WHO MAKE FOX NEWS POSSIBLE\n\nBut all of that vanished when I landed at Fox News nearly a quarter of a century ago. I have been grateful ever since to have played a small role in a network that has changed the face of television news for the better.\n\nI could tell at the outset that the people at Fox were different. They were dedicated and passionate. The common denominator was an unwavering commitment to excellence. We supported one another.\n\nBut the heart and soul of our network are the viewers themselves. They watch with consistency because they trust what they see and hear. They feel engaged. In turn, those of us on air and the many people behind the scenes do our level best to maintain that trust by providing the highest-quality news and information available.\n\nAs a 24-hour news operation, that level of devotion and diligence is not easy to sustain. Yet I am consistently impressed by the energy, creativity, and intelligence that my colleagues bring to the on-air product every hour of every day. They are tireless and enthusiastic even when they have every right not to be. Those are rare qualities.\n\nMARTHA MACCALLUM: AFTER 22 YEARS, HERE'S WHY I'M GRATEFUL TO CALL FOX HOME\n\nDuring my many years at Fox, I have covered a multitude of stories—the War on Terror, hurricanes, disasters, presidential elections, the dot-com crash, financial calamities, social upheavals, cultural controversies, criminal trials, Supreme Court decisions, and the COVID-19 pandemic, to name a few.\n\nFox never said \"no\" when I wanted to venture beyond the newsroom. They encouraged it.\n\nI have grown and evolved in ways that I never imagined. Fox made that possible. And I’ve enjoyed every minute of it.\n\nHaving previously reported from conflict zones in the Middle East, I volunteered in 2003 as a correspondent during the Iraq War. For a time, I was embedded with the 3rd Infantry Division. These were courageous young soldiers who took good care of me. The experience gave me a renewed respect and admiration for our nation’s military. There are none better anywhere.\n\nCLICK HERE FOR MORE FOX NEWS OPINION\n\nThe world has changed dramatically since I first stepped into the Fox studios back in 2002. America has become more digital, diverse, and technologically advanced. Smartphones, e-commerce, social media, cloud computing, and now AI have transformed our lives. The Dow Jones Industrial Average hovered around 10,000 back then. It now exceeds 50,000.\n\nIn my time at Fox News, I have served as an anchor, reporter, documentary host, opinion columnist, and, most recently, legal analyst for the network. I penned four books along the way. I have grown and evolved in ways that I never imagined. Fox made that possible. And I’ve enjoyed every minute of it.\n\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\nIt has certainly been a different life than what I envisioned as a young man exiting law school so long ago. Far more rewarding. During the journey, I learned some valuable lessons. Sometimes it pays to take a chance. And to listen to your mother.\n\nSo, may I offer my sincere thanks to Fox News and a hearty congratulations on its 30th anniversary!\n\nGregg Jarrett is a Fox News legal analyst and commentator, and formerly worked as a defense attorney and adjunct law professor. His recent book, \"The Trial of the Century,\" about the famous \"Scopes Monkey Trial\" is available in bookstores nationwide or can be ordered online at the Simon & Schuster website. Jarrett’s latest book, \"The Constitution of the United States and Other Patriotic Documents,\" was published by Broadside Books, a division of HarperCollins on November 14, 2023. Gregg is the author of the No. 1 New York Times best-selling book \"The Russia Hoax: The Illicit Scheme to Clear Hillary Clinton and Frame Donald Trump.\" His follow-up book was also a New York Times bestseller, \"Witch Hunt: The Story of the Greatest Mass Delusion in American Political History.\"\n\nGet the recap of top opinion commentary and original content throughout the week.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“听从母亲建议、放弃稳定法律职业并进入电视新闻”为主线，将作者近25年的职业经历叙述为冒险、坚持与个人成长的成功故事；重点赞扬福克斯新闻的同事、专业表现、观众信任和机构影响力，并将其个人经历与福克斯成立30周年联系起来。文章还提及作者报道战争、灾害、选举、司法案件和疫情等经历，以及美国社会和技术环境的长期变化。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-02T00:49:06.000Z",
+            "url": "https://www.foxnews.com/opinion/gregg-jarrett-mothers-advice-led-career-lifetime"
+          }
+        ]
+      },
+      {
+        "id": "story-security-camera-no-video-b18ced003f0a5e35",
+        "title": "据报道，苹果正在开发一款不录制视频的智能家居摄像头",
+        "originalTitle": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T22:51:36.000Z",
+        "pubTime": "2026-10-02 06:51",
+        "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nWith Apple rumored to launch a smart home hub next month, it could come with a privacy-protecting security camera too.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Stevie Bonifield\n\nApple’s rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of “a new Apple smart home ecosystem,” alongside Apple’s rumored smart home hub:\n\nThey’re also building home security products, both first-party and third-party home security products. And the biggest thing is a program called J450. And this is an offshoot and a companion product to the J490 smart home display. And these are little cameras that you can put around your house. They have very low frame rate. It looks like a cylinder. It looks like a metal giant, you know, chapstick.\n\nAnd what does that mean? No video recording. So it’s a sensor that cannot actually pull in real video footage. It’s analyzing your environment in your home and around your home simply using AI.\n\nGurman also mentions that the camera uses “a very similar technology” to what Apple’s reportedly developing for a pair of AirPods with cameras that leaked earlier this year.\n\nInstead of using something like mmWave for presence sensing, using an image sensor with AI embedded that processes everything on-device, like these Sony IMX500 sensors, could work without passing images that would need to be stored and secured. Apple Home currently has a “Detect Activity” setting for HomeKit Secure Video cameras that stops video streaming and recording, but continues tracking motion, similar to what Gurman describes.\n\nHe goes on to add that the smart home camera will have facial recognition for things like detecting when someone enters a room, but, “You’re not getting anything but text descriptions. There’s nothing you can do with it. There’s no video recording.”\n\nSee All Apple Rumors\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\n\n据传苹果将于下月推出智能家居中枢设备，而这款产品或许还会配备一台注重隐私保护的安防摄像头。\n\n该作者发布的帖子将被添加到你的每日电子邮件摘要和首页信息流中。\n\n查看 Stevie Bonifield 的全部文章\n\n据传苹果进军智能家居技术的计划可能包括一款智能家居安防摄像头，它只向用户提供文字形式的事件描述，而不是视频画面。Mark Gurman 在《Power On》播客的第一期节目中表示，这款摄像头将成为“全新苹果智能家居生态系统”的一部分，并与苹果传闻中的智能家居中枢设备搭配使用：\n\n“他们还在开发家居安防产品，包括苹果自有的家居安防产品和第三方家居安防产品。其中最重要的是一个名为 J450 的项目。这是 J490 智能家居显示屏的衍生产品和配套产品。这些是你可以放置在家中各处的小型摄像头。它们的帧率非常低。外形看起来像一个圆柱体，像一个金属制成的巨大润唇膏管。”\n\n“这意味着什么？不录制视频。因此，它是一种实际上无法获取真实视频画面的传感器。它只是利用人工智能分析你家中及周围的环境。”\n\nGurman 还提到，这款摄像头采用了与苹果据报道正在为一款摄像头版 AirPods 开发的技术“非常相似”的技术；这款 AirPods 今年早些时候曾被泄露相关信息。\n\n与使用毫米波进行存在感知不同，采用内置人工智能的图像传感器在设备端处理所有信息——例如索尼的 IMX500 传感器——或许可以在无需传输图像的情况下运行，从而无需存储和保护这些图像。目前，Apple Home 针对 HomeKit 安全视频摄像头提供了“检测活动”设置。启用后，该设置会停止视频流传输和录制，但会继续追踪运动，效果与 Gurman 所描述的情况类似。\n\n他还补充说，这款智能家居摄像头将具备面部识别功能，例如检测有人进入房间。不过，“你得到的只有文字描述。你无法用它做任何事。它不会录制视频。”\n\n查看所有苹果传闻\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "据报道，苹果可能正在开发一款智能家居安防摄像头，只向用户提供文字事件描述，而不是视频画面。",
+          "Mark Gurman 在《Power On》播客第一期中表示，这款摄像头将成为“新的苹果智能家居生态系统”的一部分。",
+          "来源叙事重点：将传闻置于苹果智能家居生态扩张和隐私保护的框架下，突出J450安防摄像头可能采用低帧率图像传感器、端侧AI分析、仅输出文字事件描述且不录制视频的产品设想，同时将其与J490智能家居显示器、带摄像头AirPods及HomeKit Secure Video联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-01T22:51:36.000Z",
+            "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+          }
+        ]
+      },
+      {
+        "id": "story-t-savings-50-50-f0727f82-c3a164c455cff49c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:15:00.000Z",
+        "pubTime": "2026-10-02 08:15",
+        "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-02 08:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T00:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-against-palantir-draws-dfa3cbbe33ba7c95",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SF protest Wednesday against Palantir draws hundreds",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T19:29:10.000Z",
+        "pubTime": "2026-10-02 03:29",
+        "url": "https://www.reddit.com/r/technology/comments/1wv8uwb/sf_protest_wednesday_against_palantir_draws/",
+        "imageUrl": "https://external-preview.redd.it/blH2uWjDuAvNZU9uuedefX19laxtyNLxt6i-WPkOC4U.jpeg?width=640&crop=smart&auto=webp&s=fc78aaa191177c89cbae6cb326f59c2aa06d2897",
+        "fullContent": "submitted by /u/ansyhrrian [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-02 03:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wv8uwb/sf_protest_wednesday_against_palantir_draws/",
+            "publishedAt": "2026-10-01T19:29:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-uses-rumbles-groups-html-403e1da2f1f0377a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Learning to speak elephant: Choruses of rumbles help groups coordinate",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T23:20:01.000Z",
+        "pubTime": "2026-10-02 07:20",
+        "url": "https://phys.org/news/2026-10-elephant-choruses-rumbles-groups.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/elephant-1.jpg",
+        "fullContent": "Choruses of African elephant rumbles appear to become more similar in certain situations, including reuniting or coordinating what to do next. Now, new research published in Scientific Reports provides evidence that elephant rumble choruses function as group signals.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-02 07:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-elephant-choruses-rumbles-groups.html",
+            "publishedAt": "2026-10-01T23:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-icheniya-2121657321-html-0349834563b33a57",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Самары ввели ограничения на полеты",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-02T00:47:42.000Z",
+        "pubTime": "2026-10-02 08:47",
+        "url": "https://ria.ru/20261002/ogranicheniya-2121657321.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/146063/10/1460631037_0:160:3076:1890_650x0_80_0_0_ff36002ad4403c14648157adcd21f593.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-02 08:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261002/ogranicheniya-2121657321.html",
+            "publishedAt": "2026-10-02T00:47:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-amazon-bedrock-agentcore-c8364c18fa741f01",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T22:06:14.000Z",
+        "pubTime": "2026-10-02 06:06",
+        "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/01/REVBLOG-1301-1-1.png",
+        "fullContent": "October 2026: This post was reviewed and updated for accuracy.\n\nScaling cloud migrations with agentic AI on Amazon Bedrock AgentCore raises a practical question. Which parts of a large migration program belong to a managed service, and which parts need custom automation? One enterprise program answered that question across 300+ applications and a fixed fiscal year deadline. The four-agent pattern in this post reduced infrastructure as code (IaC) development time from 3 to 4 weeks per application to minutes, based on internal project tracking data.\n\nThis pattern runs alongside AWS Transform rather than in place of it, as a hybrid that adds custom agents where your program requires them. AWS Transform covers the migration and modernization work, and AWS Database Migration Service (AWS DMS) covers the database tier. The agents in this post attach to those services and carry one further requirement: sources and destinations reached through Model Context Protocol (MCP) tools that your organization builds and maintains.\n\nAWS Professional Services builds a suite of purpose-built AI agents for programs with that requirement. The agents use the Strands Agents SDK and run on Amazon Bedrock AgentCore, a platform to build, connect, and optimize agents at scale, with any framework or model. Each agent reaches its sources and destinations through MCP tools exposed by AgentCore Gateway.\n\nIn this post, you explore the architecture of a four-agent pattern for MCP-connected environments. You also see the code that defines an agent, connects it to its tools, and applies responsible AI controls. The pattern includes four agents:\n\nThe Intake Agent, which reads migration inputs from document and collaboration systems through MCP tools.\n\nThe IaC Agent, which generates IaC that composes your approved internal modules.\n\nThe Migration Intelligence and Governance Agent, which reports and governs inside your own program tools.\n\nThe Site Reliability Engineering (SRE) Agent for operations after cutover.\n\nTo follow along, you need an AWS account with access to Amazon Bedrock AgentCore and to Amazon Bedrock foundation models. You also need familiarity with the Strands Agents SDK and MCP server patterns, plus the IaC tooling used by your organization. Confirm first that an AWS managed service does not already cover your migration path.\n\nWhen this pattern applies\n\nAWS Transform covers migration and modernization for server, network, mainframe, .NET, and application code workloads as a managed service, and AWS DMS covers databases. This pattern adds agents for the requirements that stay specific to your organization.\n\nOn the program described here, three conditions held together.\n\nMCP-connected sources and destinations: The systems holding the migration inputs, and the systems receiving the outputs, were reached through MCP tools that the delivery team built and maintained. They included an internal wiki holding security standards, a ticketing system, a collaboration platform, and an in-house provisioning API.\n\nOrganization-specific IaC composition: Generated infrastructure code had to compose an internal module library that the security office reviews and approves. Writing that composition by hand took 3 to 4 weeks per application, which across a 300+ application portfolio translates to years of engineering effort.\n\nWork continuing past cutover: Program scope included operations after handover, which sits outside the migration services.\n\nArchitecture overview\n\nThis pattern uses four purpose-built agents. The architecture attaches to a migration program at three points: the systems holding migration inputs, IaC composition, and operations after cutover. The pattern applies security at each of those points. The following diagram shows how the agents, tools, and AWS services connect.\n\nFigure 1: How the agents connect across the migration and operations journeys through Model Context Protocol tool calling\n\nThe pattern organizes agents into two journeys. The migration journey agents handle discovery through deployment. The operations journey agent handles post-migration monitoring.\n\nMigration journey agents:\n\nIntake Agent (Phase 1): Reads architecture documents, questionnaires, and dependency records through MCP tools, then defines target state architecture.\n\nIaC Agent (Phase 2): Generates IaC that composes your approved internal modules for each application.\n\nMigration Intelligence and Governance Agent: Provides automated portfolio reporting, well-architected assessments, and governance across Jira, Confluence, and Webex.\n\nOperations journey agents:\n\nSRE Agent (Phase 3): Provides monitoring and automated remediation after cutover.\n\nAWS managed services carry the migration and complement the custom agents:\n\nAWS Database Migration Service (AWS DMS) : Generative AI-assisted schema conversion and automated cutover for database migration.\n\nAWS Transform : Discovery, wave planning, landing zone creation, network conversion, rehost or replatform execution, and modernization for mainframe, virtualized, and .NET workloads.\n\nHow the components connect\n\nThis section describes how the framework components interact at runtime.\n\nEach agent is a Strands agent, defined by a foundation model, a system prompt, and a set of tools. Amazon Bedrock AgentCore runtime hosts them in a serverless environment with session isolation and multi-agent orchestration. Amazon Bedrock foundation models power the reasoning that interprets documents, generates code, and drives multi-step workflows. For model availability by AWS Region, refer to Supported foundation models in Amazon Bedrock .\n\nEach agent calls MCP tools scoped to its function through AgentCore Gateway , a capability of Amazon Bedrock AgentCore, which converts your APIs, AWS Lambda functions, and existing services into MCP-compatible tools. AgentCore Identity , a capability of Amazon Bedrock AgentCore, authenticates each call through scoped AWS Identity and Access Management (IAM) roles and your identity provider.\n\nAmazon Bedrock AgentCore memory stores agent session state and shared context. Agents use this shared context to persist outputs and track migration progress across over 300 applications. When the Intake Agent completes discovery, it writes the target architecture and dependency mappings to AgentCore memory. The IaC Agent reads this shared context to begin code generation without manual handoff.\n\nDefining an agent in code\n\nThe following Python example defines the IaC Agent and prepares it for Amazon Bedrock AgentCore runtime. The agent reaches your MCP tools through AgentCore Gateway, and it calls a foundation model through Amazon Bedrock with an Amazon Bedrock Guardrails policy attached.\n\nimport json import logging import os import uuid from bedrock_agentcore.runtime import BedrockAgentCoreApp from strands import Agent from strands.models import BedrockModel from strands.tools.mcp import MCPClient from strands.tools.mcp.mcp_types import MCPClientCredentials\n\nlogger = logging.getLogger(__name__) app = BedrockAgentCoreApp()\n\nREGION = os.environ[\"AWS_REGION\"]\n\n# url+auth lets the SDK run the client_credentials grant and re-mint the # token on expiry. A statically captured bearer token would go stale. gateway = MCPClient( url=os.environ[\"GATEWAY_MCP_URL\"], auth=MCPClientCredentials( client_id=os.environ[\"GATEWAY_CLIENT_ID\"], client_secret=get_secret(\"gateway/client_secret\"), scopes=[os.environ[\"GATEWAY_SCOPE\"]], ), )\n\nmodel = BedrockModel( model_id=os.environ[\"MODEL_ID\"], region_name=REGION, guardrail_id=os.environ[\"GUARDRAIL_ID\"], guardrail_version=os.environ.get(\"GUARDRAIL_VERSION\", \"1\"), guardrail_trace=\"enabled\", )\n\n@app.entrypoint def invoke(payload, context): prompt = (payload.get(\"prompt\") or \"\").strip() if not prompt: return {\"status\": \"error\", \"error\": \"missing required field: prompt\"}\n\ntry: with gateway: # Fetch the approved policies for this wave first, so the rules # travel in the system prompt instead of depending on the model # to ask for them. lookup = gateway.call_tool_sync( tool_use_id=str(uuid.uuid4()), name=\"get_policies\", arguments={ \"resource_types\": payload.get(\"resource_types\", []), \"wave\": payload.get(\"wave\"), }, ) if lookup[\"status\"] != \"success\": return {\"status\": \"error\", \"error\": \"policy lookup failed\"} policies = lookup.get(\"structuredContent\", {})\n\n# tools=[gateway]: SDK owns the connection lifecycle and paginates # tool discovery, which list_tools_sync() alone does not. agent = Agent( model=model, system_prompt=( f\"{IAC_AGENT_PROMPT}\\n\\n\" f\"Generated IaC satisfies these approved policies:\\n\" f\"{json.dumps(policies.get('policies', []), indent=2)}\" ), tools=[gateway], ) result = agent(prompt)\n\nif result.stop_reason == \"guardrail_intervened\": logger.warning(\"guardrail blocked request, session_id=%s\", getattr(context, \"session_id\", None)) return {\"status\": \"blocked_by_guardrail\"}\n\nreturn { \"status\": \"ok\", \"iac\": str(result), \"policy_set_version\": policies.get(\"version\"), \"waived_policies\": policies.get(\"waived\", []), }\n\nexcept Exception as e: logger.exception(\"invocation failed, session_id=%s\", getattr(context, \"session_id\", None)) return {\"status\": \"error\", \"error\": str(e)}\n\nif __name__ == \"__main__\": app.run()\n\nThe entrypoint returns the generated IaC together with the policy set version that shaped it, so a reviewer traces the output back to a signed-off standard. AgentCore Runtime handles session isolation and scaling. For deployable examples, see the Amazon Bedrock AgentCore samples repository and the Strands Agents samples repository on GitHub. For the deployment steps, refer to Getting started with AgentCore runtime .\n\nPhase 1: Intake Agent for automated discovery\n\nThe Intake Agent reads the migration inputs that live in your document and collaboration systems. On this program, those systems were reachable through MCP tools the delivery team built and maintained.\n\nThe agent ingests architecture documentation, application inventory lists, intake questionnaires, and dependency records through those tools. It then produces a target AWS architecture with a recommended migration pattern, resource sizing specifications, and a compliance validation report.\n\nThe output feeds directly into the IaC Agent, creating an automated handoff from intake to infrastructure provisioning.\n\nPhase 2: IaC Agent for automated infrastructure code generation\n\nAWS Professional Services deployed the IaC Agent first in the portfolio, and it delivers the most immediately measurable impact. It generates IaC code adhering to your security best practices and standards.\n\nThe agent workflow proceeds through five steps:\n\nStep 1: Ingest the steering document. The agent reads the steering document from the wave team. It extracts deployment scope, compliance constraints, and Security Office-approved wave-specific overrides.\n\nStep 2: Interpret the target state architecture diagram. Using the Intake Agent’s output, the IaC Agent identifies infrastructure components, their relationships, and dependencies.\n\nStep 3: Generate IaC. Based on this interpretation, the agent generates IaC using your defined and established patterns. It populates configurations with wave-specific parameters and configures remote state management. It then applies mandatory tagging and adds monitoring configurations required by organizational standards.\n\nStep 4: Validate through Policy in Amazon Bedrock AgentCore. Before execution, Policy in AgentCore evaluates each tool call against Cedar rules. It calculates the scope of potential change, checks dependency conflicts with concurrent waves, and confirms compliance window validity.\n\nStep 5: Execute and report. The centralized execution plane triggers the IaC, monitors deployment, and reports outcomes through AgentCore Observability, a capability of Amazon Bedrock AgentCore. Post-deployment validation runs automatically and compliance metrics update in real time.\n\nCustom MCP tools: The security foundation\n\nEach action passes through custom MCP tools exposed by Amazon Bedrock AgentCore Gateway and governed by AgentCore Identity and Policy in AgentCore. AgentCore Identity authenticates each agent action through scoped IAM roles with least-privilege access. The framework validates inputs against defined schemas and rejects malformed inputs at the boundary.\n\nNo credentials or sensitive values pass through agent context, because AgentCore Identity resolves secrets at runtime from a centralized credential provider. AgentCore Observability and AWS CloudTrail write each agent action to an immutable, centralized audit trail. Policy in AgentCore enforces Cedar rules that help prevent a single operation from affecting more than a defined threshold.\n\nCurated organizational policies as MCP tools\n\nThe security office curates the policy set, not the agent. A versioned document holds each rule, the resource types it covers, a machine-checkable assertion, and the approval record. The following example shows three policies and one wave exception.\n\n{ \"policy_set\": \"security-office/baseline\", \"version\": \"2026.09.1\", \"policies\": [ { \"id\": \"SEC-ENC-001\", \"applies_to\": [\"aws_s3_bucket\", \"aws_ebs_volume\", \"aws_rds_cluster\"], \"requirement\": \"Encrypt data at rest with a customer managed KMS key\", \"assertion\": \"kms_key_id != null and sse_algorithm == 'aws:kms'\", \"severity\": \"blocking\", \"source\": \"SecOffice/Encryption-Standard-v4\" }, { \"id\": \"SEC-NET-014\", \"applies_to\": [\"aws_security_group_rule\"], \"requirement\": \"No ingress from 0.0.0.0/0 on administrative ports\", \"assertion\": \"not (cidr_blocks contains '0.0.0.0/0' and to_port in [22, 3389])\", \"severity\": \"blocking\", \"source\": \"SecOffice/Network-Standard-v7\" }, { \"id\": \"OPS-TAG-003\", \"applies_to\": [\"*\"], \"requirement\": \"Carry owner, cost-center, data-classification, and wave tags\", \"assertion\": \"tags has_keys ['owner', 'cost-center', 'data-classification', 'wave']\", \"severity\": \"blocking\", \"source\": \"SecOffice/Tagging-Standard-v2\" } ], \"wave_overrides\": [ { \"wave\": \"wave-14\", \"policy_id\": \"SEC-NET-014\", \"decision\": \"exception\", \"expires_on\": \"2026-10-31\", \"approved_by\": \"security-office\" } ] }\n\nAn AWS Lambda function serves that document, and AgentCore Gateway exposes the function as an MCP tool named get_policies. The IaC Agent requests only the policies in scope for the resource types in the wave it generates.\n\nimport json from datetime import date from pathlib import Path\n\nPOLICY_SET = Path(\"policies/security-office-baseline.json\")\n\ndef get_policies(event, context): \"\"\"Return the approved policies for the requested resource types and wave.\n\nAgentCore Gateway exposes this function as the get_policies MCP tool. \"\"\" doc = json.loads(POLICY_SET.read_text()) requested = set(event.get(\"resource_types\") or []) today = date.today() waived = { o[\"policy_id\"] for o in doc[\"wave_overrides\"] if o[\"wave\"] == event.get(\"wave\") and date.fromisoformat(o[\"expires_on\"]) >= today } policies = [ p for p in doc[\"policies\"] if (p[\"applies_to\"] == [\"*\"] or requested & set(p[\"applies_to\"])) and p[\"id\"] not in waived ] return { \"version\": doc[\"version\"], \"policies\": policies, \"waived\": sorted(waived), }\n\nThe response carries the policy set version, so generated code records which rules produced it and a reviewer traces a resource back to a signed-off standard. Waived policies travel in their own field rather than disappearing, and the compliance report lists them for the wave. Each exception carries an expiry date, so a lapsed waiver stops applying without manual cleanup.\n\nTwo policy layers operate here, and they answer different questions. AgentCore Policy evaluates Cedar rules to decide whether an agent calls a tool at all. The curated policy set decides what the generated infrastructure satisfies.\n\nIaC generation based on your patterns\n\nThe IaC Agent generates infrastructure code based on your defined and established patterns. These patterns encode organizational standards into reusable constructs. They include network configurations, security group rules, IAM roles, Amazon CloudWatch alarms, Amazon Elastic Compute Cloud (Amazon EC2) configurations, Amazon Virtual Private Cloud (Amazon VPC) layouts, and mandatory tagging.\n\nThis approach provides consistency across waves, speed for wave teams who don’t write infrastructure code from scratch, and governance where security updates propagate to consumers on their next deployment cycle.\n\nThe agent produces IaC code, automated test cases, compliance reports, and deployment runbooks for each application.\n\nThe IaC Agent pushes generated code directly to your code repository (such as AWS CodeCommit , GitLab, or Bitbucket). From there, it enters your existing review and deployment pipeline without requiring changes to your existing toolchain.\n\nMigration Intelligence and Governance Agent: Portfolio-wide visibility\n\nA 300+ application portfolio needs status reporting, progress tracking, follow-up actions, and well-architected validation. On this program, that work ran inside the customer’s own Jira, Confluence, and Webex. Performing it by hand creates significant overhead for project managers and delivery leads.\n\nThe Migration Intelligence and Governance Agent addresses this with automated, on-demand intelligence and governance across the portfolio. It aggregates data from three sources through AgentCore Gateway. Jira provides sprint progress and impediments. Confluence provides architecture documentation and runbooks. Webex provides meeting notes and action items.\n\nThe agent provides well-architected assessments across migrated workloads, compliance and governance validation, and architecture pattern adherence tracking.\n\nAutomated actions include updating Confluence pages with latest migration status, creating Jira tasks for identified action items, and generating ServiceNow tickets for escalations. These actions require explicit human approval before execution. This approval-gated architecture is a core design principle across the four agents. Agents support human decision-making rather than replacing it.\n\nOn-demand reporting across the 300+ application portfolio replaces manual aggregation, based on internal project tracking data. Your results might vary based on portfolio size and tool integrations.\n\nPhase 3: SRE Agent for proactive post-migration operations\n\nThe SRE Agent covers the phase after handover. The migration services complete at cutover. After applications run on AWS, the SRE Agent shifts the team from reactive response to proactive improvement.\n\nThe agent monitors Amazon CloudWatch metrics, application performance data, and historical patterns. It raises alerts before issues affect production. The agent also publishes automated remediation playbooks for common failure patterns and recommends efficiency improvements.\n\nTarget areas (with human-in-the-loop approval) include database cluster right-sizing, performance tuning, storage tiering, and compute scaling and efficiency improvements.\n\nThe SRE Agent extends the pattern past migration. Applications don’t land on AWS and stop there. They continuously improve over time.\n\nData migration with AWS DMS\n\nAlongside the custom AI agents, two AWS managed services handle the data and application modernization, server and network migration layer.\n\nDMS Schema Conversion with generative AI reduces manual schema mapping effort. It converts code objects that rules-based conversion leaves unfinished, such as stored procedures, functions, and triggers. This capability is generally available in a subset of AWS Regions, so confirm Region support during wave planning. AWS DMS then shortens the cutover window with automated migration tasks. The service integrates directly into the agent pipeline. The IaC Agent provisions target infrastructure, then AWS DMS migrates the data.\n\nAWS Transform covers the server, network, and code layers of the same program. The AWS Transform User Guide lists the current capabilities by workload type.\n\nSecurity and compliance: Embedded, not bolted on\n\nThis architecture embeds security from the start, not as an afterthought, applying it at each phase of the migration lifecycle. Key controls across the agent suite:\n\nSecurity standards enforcement: The IaC Agent pulls your security office standards directly from Confluence and applies them across generated IaC using custom MCP tools.\n\nLanding zone validation: The framework validates generated infrastructure against the enterprise’s landing zone compliance requirements before deployment.\n\nHuman-in-the-loop approval gates: Automated actions across all agents in the suite require explicit human approval before execution. No agent acts autonomously on production systems.\n\nAgentCore Gateway coordination: Amazon Bedrock AgentCore Gateway coordinates context and security controls across agents, maintaining consistent policy application throughout the migration lifecycle.\n\nContinuous integration and continuous delivery (CI/CD) integration: The framework integrates security controls into the CI/CD pipeline, with automated test cases generated alongside IaC to catch compliance issues before they reach production.\n\nResponsible AI controls at the inference layer: Amazon Bedrock Guardrails applies content filters, denied topics, sensitive information filters, and contextual grounding checks to each prompt and each model response. An agent acts only on output that clears the guardrail. Guardrail traces flow into AgentCore Observability alongside the tool-call audit trail.\n\nThis approach aligns with the AWS shared responsibility model. AWS provides security of the underlying infrastructure, while you’re responsible for security in the cloud. The agents automate your configuration responsibilities while maintaining human oversight for approval decisions.\n\nIn this implementation, the pattern maintained enterprise security standards across the over 300 application portfolio at speeds manual processes could not match. Your results might vary based on your security requirements and organizational standards.\n\nAcross the migration program, this framework delivered the following results. These metrics reflect this specific implementation. Your results might vary based on application complexity, team size, and organizational requirements.\n\nIaC development time reduced from weeks to minutes: from 3–4 weeks per application to minutes of automated generation (based on internal project tracking data).\n\nPattern consistency applied across waves: no wave can deviate from the approved IaC patterns baseline.\n\nSecurity compliance: verified automatically at each deployment, with a complete audit trail requiring zero manual effort.\n\nArchitecture-to-deployment fidelity improved: the agent interprets the diagram, and the IaC realizes it as designed.\n\nOn-demand portfolio reporting across over 300 applications with precise metrics and zero manual aggregation.\n\nWave team onboarding improved: teams upload documents and the agents produce the IaC and the reports.\n\nRunning this pattern adds cost in a few predictable places. Foundation model tokens usually dominate, because intake and IaC generation push documents, policies, and architecture context through a model and return generated code. Amazon Bedrock AgentCore bills on consumption. Runtime charges per second for the CPU and memory a session uses, and CPU scales to zero while an agent waits on a model response or a human approval. Gateway, Memory, Policy, and Guardrails each bill per unit of use, and Observability telemetry bills at Amazon CloudWatch rates.\n\nAcross a 300+ application portfolio the agents run for the length of the migration program rather than as a single job, so treat this as a running cost that tracks wave activity. Token volume follows document size and tool-call count more than application count, so a pilot wave gives you a per-application baseline. On the AWS Transform side, the assessment and the migration agents for virtualized, Windows, and mainframe workloads are available at no cost. The resources a migration creates bill normally, and custom transformations are priced per agent minute. For current rates, refer to Amazon Bedrock pricing , Amazon Bedrock AgentCore pricing , AWS Transform pricing , Amazon CloudWatch pricing , and the AWS Pricing Calculator .\n\nTo avoid ongoing charges after you finish testing the framework, remove the resources that you created:\n\nDelete the agents from AgentCore runtime, then remove the Gateway targets and the Gateway.\n\nDelete the AgentCore memory resources that hold session state and shared context.\n\nDelete the guardrail, the Policy in AgentCore definitions, and the IAM roles created for the agents.\n\nDelete the CloudWatch log groups that AgentCore Observability wrote to, if you no longer need the history.\n\nDelete any AWS DMS replication instances and endpoints provisioned for test migrations.\n\nConfirm in the Amazon Bedrock AgentCore console that no agent sessions remain active.\n\nMigrating 300+ applications to AWS on an aggressive timeline needs more than added engineers. Managed services carry most of that work. Where a requirement falls outside them, an agent pattern can close the gap while humans keep decisions, approvals, and strategy.\n\nThis pattern delivered measurable results on one program whose sources and destinations sat behind MCP tools. Purpose-built Strands agents addressed those specific requirements, Amazon Bedrock AgentCore applied security structurally, and human-in-the-loop design kept automation supporting decision-making rather than replacing it. Use AWS Transform and AWS DMS for the migration, and run these agents with them where MCP-connected sources and destinations call for it.\n\nBased on your use case, consider these paths:\n\nPlanning a migration? Connect AWS Transform to your favorite AI code companion and get started with server, network, and code migration and modernizations, and AWS DMS for database.\n\nSources and destinations behind MCP tools? Evaluate this pattern. See Amazon Bedrock AgentCore to learn how to build and deploy agents.\n\nInternal module library to honor? Evaluate the IaC Agent. IaC development time dropped from weeks to minutes against a manual baseline on this program.\n\nGovernance inside your own program tools? Consider the Migration Intelligence and Governance Agent for status reporting and well-architected assessments. Learn more about Amazon Bedrock AgentCore Memory for agent state management.\n\nPost-migration? Explore the SRE Agent pattern to shift from reactive operations to proactive improvement. Use Amazon CloudWatch for monitoring and automated alerting.\n\nBuilding your own agents? Start with the Strands Agents SDK and Amazon Bedrock AgentCore , using MCP servers tailored to your migration bottlenecks. Open the Amazon Bedrock AgentCore console to get started, read Deploying Strands Agents to Amazon Bedrock AgentCore runtime .\n\nTo explore the services used in this post:\n\nAmazon Bedrock AgentCore : Deploy and operate AI agents securely at scale.\n\nAWS Transform : Migrate and modernize infrastructure, applications, and code.\n\nStrands Agents SDK : Build AI agents with a model, a prompt, and tools.\n\nAWS Database Migration Service (AWS DMS) : Migrate databases to AWS.\n\nAWS Identity and Access Management (IAM) : Manage access to AWS services.\n\nAmazon CloudWatch : Monitor AWS resources and applications.\n\nAmazon Bedrock AgentCore documentation : Runtime, Gateway, Memory, Identity, and Observability.\n\nFor background on the services and SDKs used here, read these AWS posts:\n\nIntroducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale .\n\nIntroducing Strands Agents, an open source AI agents SDK .\n\nAccelerate database modernization with agentic AI on AWS DMS Schema Conversion .\n\nNikhil is a Principal at AWS Professional Services, focused on building AI, Cloud Infra and data solutions that help enterprises move from legacy complexity to modern, intelligent systems. He brings deep expertise in Generative AI, agentic architectures, and cloud modernization.\n\nTarun is a Senior Delivery Consultant at AWS Professional Services, focused on building AI, Cloud Infrastructure, and data solutions that help enterprises move from legacy complexity to modern systems. He brings deep expertise in Generative AI, agentic architectures, cloud modernization, and large-scale migration & disaster recovery, spanning multi-tier architectures, databases, and infrastructure-as-code. His technical depth across Amazon Bedrock, AWS DMS, and DR orchestration enables customers to achieve resilient, high-performing cloud environments at enterprise scale.\n\nVyas is a Delivery Consultant at AWS Professional Services, with experience building scalable, distributed systems. He specializes in designing and building AI-powered, high-availability, multi-region architectures and helps customers deploy resilient, production ready solutions on AWS.\n\nKaushal is a Principal Technology Delivery Leader for the Digital Native Segment of AWS Professional Services, working with top-tier customers to deliver innovation at the intersection of AI and Cloud.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 145,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-01T22:06:14.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
+          }
+        ]
+      },
+      {
+        "id": "story--latest-shakeup-07280a15-e90992c0ef28cf6d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-02T00:14:00.000Z",
+        "pubTime": "2026-10-02 08:14",
+        "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-02 08:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-02T00:14:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-change-our-languages-9527d6c673e1f09d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We Should be Able to Change our Languages",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-01T18:55:58.000Z",
+        "pubTime": "2026-10-02 02:55",
+        "url": "https://jimmyhmiller.com/change-our-languages",
+        "imageUrl": null,
+        "fullContent": "Programming languages are fixed artifacts. Defined by committee or that one really smart person. They are sacred artifacts whose contours are fixed for good reasons. The idea of changing your programming language, of customizing it for your own needs, is a drastic measure that should never be done. Or at least that's how people act. In a world where software is becoming increasingly flexible, moldable, editable, our programming languages resist this change.\n\nInstead, we build incredibly complicated build systems. We create complex conventions that give us the semantics we wished our languages had. We reuse existing language constructs and give them different meanings. We form committees to advocate for changes to our languages, bike-shedding endlessly, because the idea of just letting each individual codebase make its own decisions offends our sensibilities.\n\nThe ability for people to define their language to be the way they want is not new. It isn't difficult. But there has been a large backlash against it for decades. People avoid languages that offer this functionality. Even in languages that have it, some teams choose to completely ban it. But why exactly is this? I think the most straightforward version of the argument typically given is put quite well in Raymond Chen's 2005 blog post A rant against flow control macros.\n\nWhen you create a flow-control macro, you’re modifying the language. When I fire up an editor on a file whose name ends in “.cpp” I expect that what I see will be C++ and not some strange dialect that strongly resembles C++ except in the places where it doesn’t.\n\nChen argues in the body of the post that these kinds of control flow macros obscure what one needs to understand when debugging. They hide the actual operations of the code. They replace the semantics expected of (in this case) cpp files with new semantics that are not known immediately to the person debugging the code.\n\nThe argument that only the authors of the macros will understand them and for everyone else, they will be a hindrance has been echoed by many, even those who are big proponents of languages with this exact kind of power.\n\nMacros encourage people who are not good at language design to do something equivalent to language design, using tools that don't help, and with effects that are too powerful. This makes code unreadable to people joining later and for the authors after time has passed. Well-designed macros are well documented, but this doesn't happen much. - Richard P. Gabriel\n\nGabriel isn't fully against macros. But is hesitant for people to write them. Believing there is some bar that must be met that most people don't meet.\n\nNow, of course, there are other arguments that can be given. But I'll admit, I haven't really heard any that can't be cast in this same light. Reading code chock-full of macros is confusing. You are reading a new programming language, and we don't learn those super often. People hate macros for the same reason google made a language without generics: they make things more complicated.\n\nI'll be honest, I've never found the arguments against macros convincing. Control flow macros I've seen in the wild were always introduced to solve the very things Chen was worried about (I was in Clojure, not cpp though); they made sure that every site's resources were handled well. I didn't have to audit the code over and over at each call site, but once at a macro point. But I doubt most of my readers feel the same way. Defining our own language constructs has remained controversial, and these arguments hold weight in the minds of many. So instead, I will try to convince you that the times have changed. That given the state of programming today, macros no longer pose as serious a problem even if we take the criticisms seriously.\n\nToday, you aren't reliant on finding a local expert on some code, consulting the original author, asking on stackoverflow and hoping someone answers you, or spending a long time trying things out and reading docs to understand a complicated piece of code. Instead, you can use an LLM to help you gain understanding in the ways that fit how you learn. For me, this often means custom visualizations, demos, and asking increasingly specific questions. But sometimes a simple explanation and example are more than enough. Consider code I recently found that I didn't fully understand (not macro-related).\n\nThis is the kind of code where I can kind of piece together what each individual part might be doing, but trying to understand the why and the what is difficult for me. I get lost in all the details. But with two questions to claude it was all cleared up for me. If you don't understand it, do the same. See how much easier this is than in the past?\n\nThere's quite a bit of controversy around the idea of committing code that no one has read and understood. I've always worked in codebases large enough and old enough (and ugly enough) that no one understands all the code written in them. In fact, I'll even contend that much of the code that was written wasn't understood when it was written. So this idea isn't super controversial to me. But I think people are starting to see what can be accomplished today without anyone understanding the code underneath. Full, useful applications can be built. Complicated projects can be launched.\n\nThings have been changing drastically. There was once a point where it made sense to create suboptimal code if it meant that your team understood it better. Why? Because changes to the code provided more business value than the code itself being optimal, and if your team didn't understand it, no one could change things. But this is becoming less and less the case. If you can make code faster, better, even at the cost of readability and understandability, by you, but the AI can work with it perfectly fine, why wouldn't you?\n\nSo I think the time is ripe for macros. AI makes it trivial to write macros. AI makes it trivial to understand complex macros. Debugging code has become easier. And as I'll touch on later, I think AI-written code might benefit greatly from macros. But there still is a problem. Languages don't have them. At least not powerful ones. C-style macros don't count. Rust has intentionally limited its macros in a way where they are not language constructs at all, but rather explicit, delimited things. Lisps are too weird for people. For a brief period in time, SweetJs was the perfect vehicle. But sadly, with the rewrite of it being abandoned, it no longer served that purpose. So, I have resurrected the idea of it, now aimed at TypeScript, called Sweetener.\n\nSo let's take a super brief tour of the kinds of things you can do with macros in sweetener. The pipe operator is a much-debated, almost certainly dead proposal to JavaScript. Here is the good version (imo) of the pipe operator. The simple thread-first version.\n\nRather than waiting for a committee for nearly a decade. We can create the operator ourselves. And what code do we need to accomplish this?\n\nBut simply adding a custom operator is not enough. You can add any constructor you want. Maybe you're a fan of Rust-style enums, aka algebraic datatypes.\n\nNow, you can easily define them yourself and customize things however you want. This version has pattern matching and exhaustiveness checking built-in.\n\nI know a ton of people hate writing the map stuff in tsx. With sweetener, you can define anything you want and add it to your tsx without any pain or asking anyone else to support it.\n\nIt is perhaps the greatest irony that I am proposing things that make code look different when many people are no longer looking at code. Don't AIs just not care about all this higher-level stuff? Can't we just have them write the lowest-level code? Deal with all the boilerplate, and they will just get it right?\n\nI actually think macros might have an even greater benefit for AI-written code. In my experience, AI-written code is quite good at introducing inconsistencies across repeated things. As codebases grow, they are not seeing the codebase as a whole. They do not follow the full conventions. What they do is instead copy code around them and match the constructs they see. A file full of macros for some nice error handling or for defining types in a nice standard way, or using the pipeline operator to make sure you have a nice discipline for how functions are defined, can help you tame your codebases implicitly. Macros encode larger patterns and automatically make sure AIs follow them.\n\nI created sweetener in the hopes that it can give more people a chance to explore macros in a familiar context. But also, because macros in a setting like this are a fantastic way to explore language design. Rather than needing to create a compiler, we can play with the shape of a language feature that no existing language has and see if we can make something interesting. For example, the morning paper covered a paper that generalizes the idea of method names to allow regular expression like parts. We can now prototype this and play with it.\n\nBut there is so much more we need to do with our languages. We have spent countless engineering hours building tooling, parsers, linters, type checkers, build tools, all because our languages don't give us the ability to do what we need. Rather than letting us express the concepts we need to express as first-class parts of our programs, rather than trusting us to use our powers well, to give us full expressivity, we have outsourced this to complicated external build tools, complicated external linting systems, testing frameworks with their own runners and conventions for running code.\n\nAnd why? Because we didn't trust the average programmer to do it right. We didn't trust them to document it well. We didn't trust our future coworkers to understand what we had written. Code that was homegrown was suspicious. Instead, we needed others to build our tooling for us. We needed to buy into a complicated external framework. We needed that division, because it was just too hard.\n\nThat's no longer the case.\n\nIt has never been easier to build what you want to build. To imagine things and bring them to life. It's also never been easier to learn new things in programming. It has never been easier to migrate to a new language. To adopt new technology, or to make the customizations you need to if your language lets you. We are living with languages created when this wasn't reality. Languages that are afraid that their users will use them wrong. Languages that don't give us the power to do what we want to do. It is time that changed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-01T18:55:58.000Z",
+            "url": "https://jimmyhmiller.com/change-our-languages"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790815823753,
     "timeDisplay": "2026-10-01 08:50 (UTC+8)",
     "date": "2026-10-01",

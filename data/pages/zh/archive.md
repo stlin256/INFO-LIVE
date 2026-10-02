@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-01 · 今日](/INFO-LIVE/archive-2026-10-01/)
+- [2026-10-02 · 今日](/INFO-LIVE/archive-2026-10-02/)
+- [2026-10-01 · 历史快照](/INFO-LIVE/archive-2026-10-01/)
 - [2026-09-30 · 历史快照](/INFO-LIVE/archive-2026-09-30/)
 - [2026-09-29 · 历史快照](/INFO-LIVE/archive-2026-09-29/)
 - [2026-09-28 · 历史快照](/INFO-LIVE/archive-2026-09-28/)
@@ -42,14 +43,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **94** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **95** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-01 08:50 (UTC+8)
+- **最新归档时间**：2026-10-02 09:06 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-02 09:06 (UTC+8)" title="全球要闻情报简报 · 09:06" org="ARCHIVE"}
+**速报纪要：** 本小时关注涉嫌协助胡塞武装的技术支持指控案、欧洲司法规则变动的法律争议，以及资深媒体人的职业回顾。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261002/polsha-2121657438.html) <span class="news-meta-time">🕒 2026-10-02 08:49</span>
+- [TechCrunch (硅谷创业与资本)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/) <span class="news-meta-time">🕒 2026-10-02 08:03</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-02 08:30</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wvdokm/usps_is_turning_mail_trucks_into_rolling/) <span class="news-meta-time">🕒 2026-10-02 06:48</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html) <span class="news-meta-time">🕒 2026-10-02 07:40</span>
+- [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/opinion/gregg-jarrett-mothers-advice-led-career-lifetime) <span class="news-meta-time">🕒 2026-10-02 08:49</span>
+:::
 :::timeline-item{start="2026-10-01 08:50 (UTC+8)" title="全球要闻情报简报 · 08:50" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-01 08:37 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -642,18 +654,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wj75jm/amazon_has_become_pathetically_reliant_on_food/) <span class="news-meta-time">🕒 2026-09-18 05:37</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html) <span class="news-meta-time">🕒 2026-09-18 08:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/vybory-2118364799.html) <span class="news-meta-time">🕒 2026-09-18 08:26</span>
-:::
-:::timeline-item{start="2026-09-18 06:27 (UTC+8)" title="全球要闻情报简报 · 06:27" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-18 06:16 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成短缺的原因多种多样，但美国政府已明确表示，正在寻找这一问题的创新解决方案。；【undefined】Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据：今天上午，DDoSecrets 发布了一份令人兴奋的新数据集：一台正在使用中的 Flock 自动车牌识别（ALPR）摄像头各分区的类文件系统镜像。404 Media 与《连线》（Wired）对此联合发布了调查报道。我下载了该数据集，现在已经完全沉迷于技术逆向之中。；【undefined】我恨你，微软：难得有一次，我需要打开一个 PowerPoint 文档，而这一刻到了。和往常一样，我用机构账号登录了他们的“服务”，因为我的大学每年与这家大型软件供应商签订的合同金额大约高达数十万欧元，把钱付给微软这个垃圾公司（microslop）。；【undefined】NFL收入最高的近端锋乔治·基特尔透露最喜欢的消费：为巨型美国国旗建一根50英尺高的旗杆：乔治·基特尔于2025年4月签下了NFL历史上近端锋金额最高的合同，但那也是他的第三份大合同。到最终合同于2029年到期时，这三份合同将为他带来约1.55亿美元的收入。；【undefined】福克斯新闻民调：71%选民认为特朗普政府缺乏结束伊朗战争的计划：在对伊朗战争爆发近七个月之际，福克斯新闻（Fox News）的一项最新全国民意调查显示，选民态度正日趋恶化：选民认为特朗普政府缺乏结束战争的明确战略，越来越多的人认为这场冲突将使美国变得更加不安全，且大多数人认为采取军事行动的决定是错误的。；【undefined】福克斯新闻民调：多数人认为移民执法已经越界：福克斯新闻最新民调显示，53%的登记选民认为，特朗普政府对移民法的执行已经走得太远；自2025年6月以来，这一看法一直保持稳定。；【undefined】中方反对在安理会强推恢复对伊朗制裁：中国常驻联合国代表傅聪17日在安理会就伊朗制裁委员会专家小组授权延期决议草案投票后发言，表示中方反对在安理会强推恢复对伊朗制裁。；【undefined】俄罗斯第九届国家杜马选举开始投票：俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/minpromtorg-2118357474.html) <span class="news-meta-time">🕒 2026-09-18 06:14</span>
-- [TechCrunch (硅谷创业与资本)] [美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/) <span class="news-meta-time">🕒 2026-09-18 06:14</span>
-- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-18 06:03</span>
-- [Lobste.rs (极客思想社区)] [Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) <span class="news-meta-time">🕒 2026-09-18 05:21</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html) <span class="news-meta-time">🕒 2026-09-18 06:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260918/ovechkin-2118357303.html) <span class="news-meta-time">🕒 2026-09-18 06:10</span>
 :::
 ::::
