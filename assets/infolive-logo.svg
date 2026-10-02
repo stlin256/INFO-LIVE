@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" role="img" aria-labelledby="title desc">
+  <title id="title">InfoLive</title>
+  <desc id="desc">InfoLive global signal matrix logo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102844"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#35d6d2"/>
+      <stop offset="0.58" stop-color="#74f0d5"/>
+      <stop offset="1" stop-color="#ffb454"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g transform="translate(20 20) scale(.39)">
+    <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+    <path d="M76 332a184 184 0 0 1 360 0" fill="none" stroke="#24415d" stroke-width="16" stroke-linecap="round"/>
+    <path d="M122 332a138 138 0 0 1 268 0" fill="none" stroke="#2b6a78" stroke-width="12" stroke-linecap="round"/>
+    <path d="M170 332a90 90 0 0 1 172 0" fill="none" stroke="#3ca7a0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M256 332V126" stroke="#d8fff1" stroke-width="14" stroke-linecap="round" opacity=".94"/>
+    <path d="M256 332 403 204" stroke="url(#signal)" stroke-width="18" stroke-linecap="round" filter="url(#glow)"/>
+    <circle cx="256" cy="332" r="26" fill="#f6fff9"/>
+    <circle cx="403" cy="204" r="19" fill="#ffbd62" filter="url(#glow)"/>
+    <circle cx="403" cy="204" r="7" fill="#fff6dd"/>
+    <path d="M106 382h300" stroke="#2b506d" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="250" y="120" font-family="Newsreader, Georgia, serif" font-size="86" font-weight="650" letter-spacing="-3" fill="#0c1b2a">Info<tspan fill="#1da9a0">Live</tspan></text>
+  <text x="255" y="166" font-family="JetBrains Mono, monospace" font-size="17" font-weight="700" letter-spacing="4.6" fill="#547084">GLOBAL SIGNAL MATRIX</text>
+  <path d="M255 190h570" stroke="#d3e3e7" stroke-width="2"/>
+  <circle cx="837" cy="190" r="5" fill="#ffb454"/>
+</svg>
