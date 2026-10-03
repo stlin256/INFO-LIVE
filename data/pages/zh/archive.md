@@ -45,14 +45,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **98** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **99** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-04 04:11 (UTC+8)
+- **最新归档时间**：2026-10-04 07:21 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-04 07:21 (UTC+8)" title="全球要闻情报简报 · 07:21" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-04 07:09 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】智能体自称已完成，数据库却并不认同：图 1：ThinkingBox 在隔离的 MCP 工具会话中运行智能体，随后对其留下的终端后端状态和副作用进行评分。摘自我们的 ThinkingBox 论文。；【undefined】伊朗战争正展现ADNOC的人工智能究竟能做什么：多年来，石油公司一直利用人工智能加快钻井、预测设备故障，并从现有油田中挤出更多产量。如今，阿联酋国营石油巨头阿布扎比国家石油公司（ADNOC）正在了解：当问题不再是提高效率，而是一场最初令阿联酋石油出口量减少约三分之二的战争时，同样的技术究竟能发挥什么作用。冲突爆发前，阿联酋石油出口量约为每日510万桶，3月时降至仅190万桶。近七个月后，ADNOC正通过一个截然不同的出口体系开展运营，而该体系高度依赖人工智能。；【undefined】联邦法官称Flock为“无差别大规模监控”：本周，一名联邦法官裁定，俄克拉何马州塔尔萨县一名警长办公室副警长在没有搜查令的情况下使用Flock Safety查找一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。 据404 Media报道，这一裁决并不构成具有约束力的先例，但这是联邦法官首次认定Flock搜索违宪的案例之一。 在此案中，萨拉·希尔法官表示，这名副警长在查询Flock数据库中的该女性车牌之前本应取得搜查令，因为他“没有明显理由”进行这项搜索，“除了[该女性的车辆；【undefined】伊朗革命卫队近日对7艘“违规”油轮采取行动：当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。；【undefined】获佩洛西支持的美国候选人呼吁对以色列实施“全面武器禁运”：获南希·佩洛西支持、将接替她代表加利福尼亚州第11国会选区的美国民主党人康妮·陈表示，她将投票“终结加沙地带的种族灭绝”。；【undefined】美国海岸警卫队搜寻一架载有6人的失踪医疗飞机：美国海岸警卫队表示，已出动一架直升机（图为今年7月拍摄的同型号直升机）、两架搜救飞机和一艘机动救生艇，搜寻当地时间周六在马萨诸塞州海岸外失踪的飞机。Heather Diehl/Getty Images 图片说明隐藏；【undefined】卢拉还是博索纳罗：巴西大选两种截然不同的结果令华尔街严阵以待：巴西总统选举首轮投票将于周日举行。对于这场势均力敌的竞选，华尔街正根据不同结果准备截然不同的市场预测。；【undefined】卡普空正在为“我们与人工智能共同创造游戏的未来”做准备：关于这一主题的文章将被添加到您的每日电子邮件简报和主页信息流中。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/dokhod-2122064979.html) <span class="news-meta-time">🕒 2026-10-04 07:03</span>
+- [Hugging Face (开源模型社区)] [智能体自称已完成，数据库却并不认同](https://huggingface.co/blog/microsoft/thinkingbox) <span class="news-meta-time">🕒 2026-10-04 06:56</span>
+- [OilPrice (全球能源与原油大宗)] [伊朗战争正展现ADNOC的人工智能究竟能做什么](https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Showing-What-ADNOCs-AI-Can-Really-Do.html) <span class="news-meta-time">🕒 2026-10-04 07:00</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) <span class="news-meta-time">🕒 2026-10-04 05:35</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html) <span class="news-meta-time">🕒 2026-10-04 05:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/astrahan-2122064843.html) <span class="news-meta-time">🕒 2026-10-04 07:01</span>
+:::
 :::timeline-item{start="2026-10-04 04:11 (UTC+8)" title="全球要闻情报简报 · 04:11" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-04 03:59 (UTC+8) 完成，共获得 21 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,18 +656,5 @@ notice:
 - [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wkl7bs/us_state_department_approves_268_billion_air/) <span class="news-meta-time">🕒 2026-09-19 20:40</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-earth-wild-cat-species-century.html) <span class="news-meta-time">🕒 2026-09-19 22:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/ukraina-2118782178.html) <span class="news-meta-time">🕒 2026-09-19 22:25</span>
-:::
-:::timeline-item{start="2026-09-19 19:12 (UTC+8)" title="全球要闻情报简报 · 19:12" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-19 19:10 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】AI生成的活动海报不一定非要丑得千篇一律：一条如今广为人知的脸书（Facebook）帖子向我们展示了AI生成的千篇一律的海报所带来的灾难。 这里有一篇来自《独立报》（The Independent）关于该话题的文章。 这是我在现实中发现的另一个例子。在此向皇家利明顿温泉啤酒节（Leamington Beer Festival）致歉——他们绝非个例。 这些海报的问题并不完全在于它们设计得有多差。其实还行，我谈不上喜欢。核心问题在于，当你把同一种风格看过20次后，仅仅是那种纯粹的重；【undefined】OpenAI 如何利用自家大语言模型设计 Jalapeño 芯片：8月25日，OpenAI 正式发布了其首款人工智能加速芯片 Jalapeño。Jalapeño 提供高达 13.4 petaflops 的 4 位浮点计算能力，并可访问 232 GB 目前最先进的内存，连接带宽达到惊人的每秒 15.4 TB。OpenAI 引用的基准测试表明，与该公司目前依赖的英伟达 GB300 相比，Jalapeño 可将端到端延迟（从输入提示词到输出最后一个 token 的时间）降低多达 3.6 倍，同时功耗更低。；【undefined】尊敬的客户：去你的吧：一家前沿人工智能实验室带着一张金额足够庞大的支票登门，让“我们是否该出售用户数据？”这个问题变成了多此一举的反问。既不是“也许我们可以做匿名化和聚合处理”，也不是“仅在用户主动同意时才出售”。只有一句：这就是报价。这个数字足以终结公司内部的一切争论，并让法务团队开始起草“继续使用即视为接受”的条款表述。这个数字正是“老子不伺候了/爱谁谁（fuck-you money）”的全新定义。正因为拿到了这笔巨款，一家公司才会欣然接受该实验室的条件；【undefined】GPT-6 Astra 破译一战德国无线电密码：德国科学博客门户网站 Scienceblogs.de 曾列出一份较为著名的“50大未解密码”清单，其中包括从连环杀手发布的密码信到著名的伏尼契手稿等各类谜题。；【undefined】如果数学不仅是证明，我们就需要更好地赞赏它的其他部分：[这是格兰特·桑德森（Grant Sanderson）的一篇特邀博文。这篇博文最初以另一种文件格式撰写，并使用人工智能进行了格式转换。——T.]；【undefined】加比·佩蒂托遇害五年后，其母亲呼吁公众形成“涟漪效应”以协助寻找失踪人员：如果您或您认识的人是家庭暴力的受害者，请拨打全国家庭暴力求助热线：800-799-7233。；【undefined】马特维延科表示：俄罗斯每位选民的选票都将被计入：统一投票日正在如火如荼地进行中。；【undefined】俄罗斯在乌克兰致死8人，并袭击黑海两艘船只：乌克兰空军表示，俄罗斯在夜间向该国发射了数十架无人机和两枚反舰导弹。
-
-**重点要闻索引：**
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2190063) <span class="news-meta-time">🕒 2026-09-19 19:08</span>
-- [Hacker News (科技前沿论坛)] [AI生成的活动海报不一定非要丑得千篇一律](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) <span class="news-meta-time">🕒 2026-09-19 17:20</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-19 19:00</span>
-- [Lobste.rs (极客思想社区)] [OpenAI 如何利用自家大语言模型设计 Jalapeño 芯片](https://spectrum.ieee.org/llms-for-chip-design) <span class="news-meta-time">🕒 2026-09-19 17:52</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html) <span class="news-meta-time">🕒 2026-09-19 19:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/vrach-2118747457.html) <span class="news-meta-time">🕒 2026-09-19 19:07</span>
 :::
 ::::
