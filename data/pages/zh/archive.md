@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-03 · 今日](/INFO-LIVE/archive-2026-10-03/)
+- [2026-10-04 · 今日](/INFO-LIVE/archive-2026-10-04/)
+- [2026-10-03 · 历史快照](/INFO-LIVE/archive-2026-10-03/)
 - [2026-10-02 · 历史快照](/INFO-LIVE/archive-2026-10-02/)
 - [2026-10-01 · 历史快照](/INFO-LIVE/archive-2026-10-01/)
 - [2026-09-30 · 历史快照](/INFO-LIVE/archive-2026-09-30/)
@@ -44,14 +45,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **97** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **98** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-03 03:38 (UTC+8)
+- **最新归档时间**：2026-10-04 04:11 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-04 04:11 (UTC+8)" title="全球要闻情报简报 · 04:11" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-04 03:59 (UTC+8) 完成，共获得 21 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】联邦法官称Flock构成“无差别大规模监控”：本周，一名联邦法官裁定，俄克拉何马州塔尔萨县一名警长办公室副警长在没有搜查令的情况下使用Flock Safety搜查一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。；【undefined】“沉默太多了”：我们是否造就了一个新的“孤独一代”？：学会在人群中成为一个独立的人，一直都多少带着些孤独和不知所措。但如今，世界各地的年轻人比以往任何时候都更加孤独。为什么会这样？；【undefined】卡普空正在为“我们与人工智能共同制作游戏的未来”做准备：关于这一主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。；【undefined】北卡罗来纳大学给圣母大学制造开局惊险，但爱尔兰战士队在雨战中取胜，保持不败：周六下午，圣母大学在肯南体育场的雨战中以37比26击败北卡罗来纳大学，短暂化解了对手制造的惊险局面。；【undefined】保加利亚沙皇萨穆伊尔遗骸千年后“回家”：这位皇帝是保加利亚民族身份的象征，而他的遗骸归国曾激化与希腊之间的紧张关系。；【undefined】称希伯来语标点符号是残酷殖民体系遗物的书籍观点引发批评：《纽约客》刊登了一篇新书书评后，遭到网上多名评论人士批评。该书作者将希伯来语标点符号与殖民主义以及犹太人移民以色列的历史联系起来。；【undefined】大学橄榄球赛季最疯狂的爆冷，发生在周五夜里，当时所有人都已入睡：秋季的周五夜晚通常属于高中橄榄球，但大学橄榄球赛场也上演了几场相当精彩的对决，为周六密集赛程预热。；【undefined】卢拉还是博索纳罗：巴西大选可能产生截然不同的结果，华尔街严阵以待：巴西总统选举第一轮投票将于周日举行。鉴于这场势均力敌的竞选可能出现不同结果，华尔街正据此准备截然不同的市场预测。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261003/belgorod-2122057020.html) <span class="news-meta-time">🕒 2026-10-04 03:50</span>
+- [TechCrunch (硅谷创业与资本)] [联邦法官称Flock构成“无差别大规模监控”](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) <span class="news-meta-time">🕒 2026-10-04 03:33</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-04 03:30</span>
+- [The Guardian Society (卫报社会与民生)] [“沉默太多了”：我们是否造就了一个新的“孤独一代”？](https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence) <span class="news-meta-time">🕒 2026-10-04 03:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html) <span class="news-meta-time">🕒 2026-10-04 03:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261003/bpla-2122056866.html) <span class="news-meta-time">🕒 2026-10-04 03:49</span>
+:::
 :::timeline-item{start="2026-10-03 03:38 (UTC+8)" title="全球要闻情报简报 · 03:38" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-03 03:24 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -642,18 +656,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [OpenAI 如何利用自家大语言模型设计 Jalapeño 芯片](https://spectrum.ieee.org/llms-for-chip-design) <span class="news-meta-time">🕒 2026-09-19 17:52</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html) <span class="news-meta-time">🕒 2026-09-19 19:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/vrach-2118747457.html) <span class="news-meta-time">🕒 2026-09-19 19:07</span>
-:::
-:::timeline-item{start="2026-09-19 09:19 (UTC+8)" title="全球要闻情报简报 · 09:19" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-19 09:16 (UTC+8) 完成，共获得 25 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】印度强制来电显示应用向电信运营商同步垃圾电话举报数据：印度已扩大其反垃圾通信监管范围，要求来电显示和通话管理应用与电信运营商共享用户的垃圾电话举报信息。此举引发垃圾电话拦截应用开发商Truecaller的反对，称该裁定具有反竞争性。；【undefined】蒂莉·诺伍德的新闻宣传巡回正如你对AI所预期的那样进展不顺：AI生成的“女演员”蒂莉·诺伍德（Tilly Norwood）在其首场新闻宣传巡展中遭遇了窘境。打造它的制作公司Particle6集团安排了它与记者进行75场同步采访，而它似乎在每一场采访中都在频频出错。（我并没有受邀与它对话，坦白讲，我完全想不通为什么Particle6不想安排那场会面。）；【undefined】一家专门孵化初创企业的公司获1亿美元融资，全力押注物理AI：四年前，一家既非传统孵化器、加速器项目，也非风投机构的创业实验室正式成立。当时名为 UP.Labs 的这家机构，专门打造旨在为阿拉斯加航空（Alaska Airlines）和保时捷（Porsche）等企业客户以及外部市场解决难题的初创企业。；【undefined】欧洲航天局与宝可梦国际公司公布全欧巡展及宇航员皮卡丘体验活动：欧洲航天局（ESA）与宝可梦国际公司（TPCI）已展开官方合作，共同庆祝将于2026年10月4日至10日举行的2026年世界空间周。；【undefined】卢拉加强安保措施以捍卫巴西资源：巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦宣布了多项旨在加强国家安全与主权的措施。据埃菲社（Efe）报道，该计划将把138所监狱改建为最高警戒级别安全设施，并加强边境巡逻监控。在里约热内卢举行的一场活动中，卢拉就国际社会对该国资源的干预发出警告，指责唐纳德·特朗普治下的美国企图觊觎其关键矿产和稀土资源。“如今我们在赤道边缘（Margine Equatoriale）也拥有了石油。因此我们必须守护好它，”他表示。在定于10月4日举行的选举前夕；【undefined】军事专家：俄军在顿涅茨克人民共和国德鲁日科夫卡附近的两个防区占领新阵线：卢甘斯克，9月19日。/塔斯社/。军事专家安德烈·马罗奇科（Andrey Marochko）向塔斯社表示，在过去几天里，俄罗斯军队在顿涅茨克人民共和国（DPR）德鲁日科夫卡东南方向和东侧的两个防区内控制了新阵地。；【undefined】称被塞进“兄弟”而非姐妹情谊：女联谊会校友将法律战打至联邦法院：周一，前女联谊会校友重返联邦法院，请求法官恢复她们针对卡帕·卡帕·伽马（Kappa Kappa Gamma）联谊会的诉讼。此前她们指控该联谊会的全国领导层违规允许某分会接纳一名跨性别女性入会。；【undefined】Anthropic正在运营一家进行生物实验的实验室：Anthropic已向TechCrunch证实，该公司在湾区拥有一家湿实验生物实验室，可在其中利用其AI模型开展实体实验。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/vrachi-2118671783.html) <span class="news-meta-time">🕒 2026-09-19 09:14</span>
-- [TechCrunch (硅谷创业与资本)] [印度强制来电显示应用向电信运营商同步垃圾电话举报数据](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/) <span class="news-meta-time">🕒 2026-09-19 09:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-19 07:30</span>
-- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/) <span class="news-meta-time">🕒 2026-09-19 07:15</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-peer-sexual-emerges-early-highlighting.html) <span class="news-meta-time">🕒 2026-09-19 09:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/grenlandiya-2118671580.html) <span class="news-meta-time">🕒 2026-09-19 09:13</span>
 :::
 ::::

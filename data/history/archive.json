@@ -1,5 +1,1562 @@
 [
   {
+    "timestamp": 1791058268857,
+    "timeDisplay": "2026-10-04 04:11 (UTC+8)",
+    "date": "2026-10-04",
+    "runId": "feed-20261003T195936401Z-qdu1as",
+    "generatedAt": "2026-10-03T20:11:08.857Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 03:59",
+      "lead": "本轮抓取于 2026-10-04 03:59 (UTC+8) 完成，共获得 21 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】联邦法官称Flock构成“无差别大规模监控”：本周，一名联邦法官裁定，俄克拉何马州塔尔萨县一名警长办公室副警长在没有搜查令的情况下使用Flock Safety搜查一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。",
+        "【undefined】“沉默太多了”：我们是否造就了一个新的“孤独一代”？：学会在人群中成为一个独立的人，一直都多少带着些孤独和不知所措。但如今，世界各地的年轻人比以往任何时候都更加孤独。为什么会这样？",
+        "【undefined】卡普空正在为“我们与人工智能共同制作游戏的未来”做准备：关于这一主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。",
+        "【undefined】北卡罗来纳大学给圣母大学制造开局惊险，但爱尔兰战士队在雨战中取胜，保持不败：周六下午，圣母大学在肯南体育场的雨战中以37比26击败北卡罗来纳大学，短暂化解了对手制造的惊险局面。",
+        "【undefined】保加利亚沙皇萨穆伊尔遗骸千年后“回家”：这位皇帝是保加利亚民族身份的象征，而他的遗骸归国曾激化与希腊之间的紧张关系。",
+        "【undefined】称希伯来语标点符号是残酷殖民体系遗物的书籍观点引发批评：《纽约客》刊登了一篇新书书评后，遭到网上多名评论人士批评。该书作者将希伯来语标点符号与殖民主义以及犹太人移民以色列的历史联系起来。",
+        "【undefined】大学橄榄球赛季最疯狂的爆冷，发生在周五夜里，当时所有人都已入睡：秋季的周五夜晚通常属于高中橄榄球，但大学橄榄球赛场也上演了几场相当精彩的对决，为周六密集赛程预热。",
+        "【undefined】卢拉还是博索纳罗：巴西大选可能产生截然不同的结果，华尔街严阵以待：巴西总统选举第一轮投票将于周日举行。鉴于这场势均力敌的竞选可能出现不同结果，华尔街正据此准备截然不同的市场预测。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-10-04",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】联邦法官称Flock构成“无差别大规模监控”：本周，一名联邦法官裁定，俄克拉何马州塔尔萨县一名警长办公室副警长在没有搜查令的情况下使用Flock Safety搜查一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。；【undefined】卡普空正在为“我们与人工智能共同制作游戏的未来”做准备：关于这一主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。；【undefined】北卡罗来纳大学给圣母大学制造开局惊险，但爱尔兰战士队在雨战中取胜，保持不败：周六下午，圣母大学在肯南体育场的雨战中以37比26击败北卡罗来纳大学，短暂化解了对手制造的惊险局面。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】“沉默太多了”：我们是否造就了一个新的“孤独一代”？：学会在人群中成为一个独立的人，一直都多少带着些孤独和不知所措。但如今，世界各地的年轻人比以往任何时候都更加孤独。为什么会这样？"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】保加利亚沙皇萨穆伊尔遗骸千年后“回家”：这位皇帝是保加利亚民族身份的象征，而他的遗骸归国曾激化与希腊之间的紧张关系。；【undefined】称希伯来语标点符号是残酷殖民体系遗物的书籍观点引发批评：《纽约客》刊登了一篇新书书评后，遭到网上多名评论人士批评。该书作者将希伯来语标点符号与殖民主义以及犹太人移民以色列的历史联系起来。；【undefined】大学橄榄球赛季最疯狂的爆冷，发生在周五夜里，当时所有人都已入睡：秋季的周五夜晚通常属于高中橄榄球，但大学橄榄球赛场也上演了几场相当精彩的对决，为周六密集赛程预热。"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】卢拉还是博索纳罗：巴西大选可能产生截然不同的结果，华尔街严阵以待：巴西总统选举第一轮投票将于周日举行。鉴于这场势均力敌的竞选可能出现不同结果，华尔街正据此准备截然不同的市场预测。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 79,
+      "completedTasks": 79,
+      "succeeded": 45,
+      "degraded": 34,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 79,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 692391,
+      "byRole": {
+        "translator": {
+          "attempts": 51,
+          "succeeded": 30,
+          "degraded": 21
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "degraded": 7,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "degraded": 3,
+          "succeeded": 5
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 79,
+          "succeeded": 45,
+          "degraded": 34
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-16-translator-0",
+      "article-18-translator-0",
+      "article-21-translator-0",
+      "article-21-translator-1",
+      "article-23-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-34-translator-1",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-7-fact-extractor",
+      "article-7-source-positioner",
+      "hourly-editor",
+      "daily-analyst",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:20.602Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.399Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:20.787Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.350Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.677Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.797Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.701Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.973Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.577Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.693Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.551Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.497Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:23.771Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.969Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.021Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.292Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.797Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.004Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.766Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.000Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.516Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.746Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.439Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.724Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.350Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.766Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.399Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.516Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:23.693Z",
+        "lastSuccessAt": "2026-10-03T19:59:24.162Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:23.387Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.983Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:23.497Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.715Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.949Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.198Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.637Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.701Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.617Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.677Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:20.994Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.021Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:19.887Z",
+        "lastSuccessAt": "2026-10-03T19:59:20.994Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.203Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.373Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.178Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.359Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-03T19:59:21.985Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.198Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.351Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.373Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.577Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.910Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.027Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:23.715Z",
+        "lastSuccessAt": "2026-10-03T19:59:27.254Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.311Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.420Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-03T19:59:22.420Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-10-03T19:59:22.386Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.535Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.931Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:23.730Z",
+        "lastSuccessAt": "2026-10-03T19:59:24.933Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.710Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.985Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.973Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.461Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.027Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.311Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.461Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.778Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-03T19:59:22.359Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.351Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.535Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:19.885Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.617Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.407Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.806Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:19.886Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.710Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.778Z",
+        "lastSuccessAt": "2026-10-03T19:59:24.072Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.004Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.203Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.292Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.439Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.323Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.386Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.000Z",
+        "lastSuccessAt": "2026-10-03T19:59:22.178Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.806Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.387Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:22.931Z",
+        "lastSuccessAt": "2026-10-03T19:59:23.730Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.746Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.949Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:21.724Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.910Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:19.869Z",
+        "lastSuccessAt": "2026-10-03T19:59:20.602Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:19.882Z",
+        "lastSuccessAt": "2026-10-03T19:59:20.787Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-03T19:59:19.884Z",
+        "lastSuccessAt": "2026-10-03T19:59:21.637Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-belgorod-2122057020-html-65515982338dbe3b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Двое пострадавших при ударе БПЛА по Белгороду находятся в тяжелом состоянии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-03T19:50:39.000Z",
+        "pubTime": "2026-10-04 03:50",
+        "url": "https://ria.ru/20261003/belgorod-2122057020.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/08/0e/2110898424_0:159:3077:1890_650x0_80_0_0_578c933ec8c3a332526296604eb74ec7.jpg",
+        "fullContent": "\"Кроме того, в больницу бригады скорой медицинской помощи доставили троих взрослых с различными травмами, двое из которых находятся в тяжелом состоянии. Всем пострадавшим оказывается необходимая медицинская помощь\", - написал он в канале на платформе \"Макс\".",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 03:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261003/belgorod-2122057020.html",
+            "publishedAt": "2026-10-03T19:50:39.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minate-mass-surveillance-d3e5e8c1a81ab330",
+        "title": "联邦法官称Flock构成“无差别大规模监控”",
+        "originalTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:33:15.000Z",
+        "pubTime": "2026-10-04 03:33",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "imageUrl": null,
+        "fullContent": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAs reported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court case focused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "本周，一名联邦法官裁定，俄克拉何马州塔尔萨县一名警长办公室副警长在没有搜查令的情况下使用Flock Safety搜查一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。\n\n据404 Media报道，这一裁决并不构成具有约束力的先例，但这是联邦法官首次认定Flock搜查违宪的案例之一。\n\n在本案中，萨拉·希尔法官表示，该副警长在查询Flock数据库、搜查这名女性的车牌之前本应取得搜查令，因为他“没有明显理由”进行搜查，“除了[该女性的车辆]悬挂加利福尼亚州车牌这一事实之外”。\n\n随后，这名副警长利用该女性在Flock系统中的出行记录，作为搜查其汽车的理由之一；据称，他在车内发现了91磅冰毒。但希尔法官写道，Flock搜查之后取得的所有证据“都必须作为毒树之果予以排除”。\n\n希尔法官还将矛头更广泛地指向对Flock数据库进行无搜查令查询的做法。她写道，追踪人们的位置——即便他们身处公共场所——“当执法部门能够在较长时间内不加区别、被动地记录你的行踪，并在任何方便的时候出于任何目的使用这些信息时，就会产生宪法层面的问题”。\n\n希尔写道：“这是一种无差别大规模监控。它并非像[‘卡彭特诉美国案’——一起聚焦政府机构如何获取手机位置数据的最高法院案件]那样，针对某一个人。它是一种始终收集所有经过任何联网摄像头的车辆信息的工具，并按执法部门要求提供这些信息。”\n\n希尔加入了来自不同政治立场、日益壮大的Flock批评者行列。包括佛罗里达州和得克萨斯州在内的众多地方及州政府表示将停止使用这项技术。而在周五，佛蒙特州民主党参议员伯尼·桑德斯提出《阻止Flock法案》，该法案将禁止联邦机构使用Flock等自动车牌识别器。\n\nFlock首席执行官加雷蒂·兰利——我们将在TechCrunch Disrupt大会现场对他进行采访——曾呼吁在隐私与安全之间达成“妥协”，并向那些遭到使用Flock系统的执法人员跟踪的女性致歉。随着这些取消使用的决定陆续出现，据报道，Flock还提出了自愿离职买断方案，以此缩减员工规模。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是TechCrunch的周末版编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司内容副总裁。他现居纽约市。\n\n如需联系安东尼或核实来自他的联络信息，可发送电子邮件至anthony.ha@techcrunch.com。\n\n第二张通行证享受五折优惠\nDisrupt体验旨在与他人共享。购买您的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的交流范围。\n\n谷歌认为，SpaceX的星舰必须发射1800次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定美国军方下一步行动\n\nOpenAI推出Dots，这是一款气泡风格的智能代理化身\n\nAMD将以82亿美元收购李飞飞的World Labs\n\n病毒式传播的人工智能代理Instinct完成10亿美元C轮融资，估值达到100亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:33:15.000Z",
+            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+          }
+        ]
+      },
+      {
+        "id": "story--finally-retire-369abcf9-d84ab72b2f49dd16",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:30:00.000Z",
+        "pubTime": "2026-10-04 03:30",
+        "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 03:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-03T19:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eneration-lonely-silence-dc1c192b3e522a4a",
+        "title": "“沉默太多了”：我们是否造就了一个新的“孤独一代”？",
+        "originalTitle": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:00:07.000Z",
+        "pubTime": "2026-10-04 03:00",
+        "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
+        "imageUrl": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=140&quality=85&auto=format&fit=max&s=2294cb4e4935ab4e14cce4ebdf329690",
+        "fullContent": "Learning to be one human among many has always been a little lonely and discombobulating. But young people around the world are lonelier than ever. Why?\n\nIn September, a Reddit user identifying themselves as a 25-year-old man turned to the r/ForeverAlone subreddit with a question : How do you deal with touch starvation? “It’s becoming obvious to me that I’ll probably be alone forever,” he wrote. He used to be worried about missing out on sex, but now he just misses hugs. Cuddles.\n\n“I don’t have many friends and none with that kind of physical relationship. I don’t really hug family either anymore. Some days, I feel so desperate for a hug with someone I love.”",
+        "fullTranslation": "学会在人群中成为一个独立的人，一直都多少带着些孤独和不知所措。但如今，世界各地的年轻人比以往任何时候都更加孤独。为什么会这样？\n\n今年9月，一名自称25岁男性的 Reddit 用户在 r/ForeverAlone 子版块发帖提问：如何应对“触摸饥渴”？他写道：“我越来越清楚地意识到，我可能会永远孤独下去。”他过去担心的是错过性生活，但现在，他只是想念拥抱，想念依偎。\n\n“我没有多少朋友，而且没有谁能和我有那种身体上的亲密关系。我现在也不太再拥抱家人了。有些时候，我非常渴望能和我所爱的人拥抱一下。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "来源叙事重点：将年轻人的孤独、缺乏亲密身体接触和社会联结置于“是否形成新一代孤独世代”的问题框架下，突出“拥抱和依偎”等情感与身体亲密需求，并提出年轻人可能比以往更孤独这一待解释判断。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:00:07.000Z",
+            "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence"
+          }
+        ]
+      },
+      {
+        "id": "story-ck-synthesis-oxygen-html-8247c264ac19a641",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New reactor design improves plastic feedstock synthesis using oxygen and electricity",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:20:01.000Z",
+        "pubTime": "2026-10-04 03:20",
+        "url": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/producing-plastic-feed.jpg",
+        "fullContent": "by Seoul National University\n\nedited by Gaby Clark, reviewed by Alexander Pol\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nA \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.\n\nA research team led by Jaeyune Ryu, a professor in the Department of Chemical and Biological Engineering at Seoul National University College of Engineering, has developed a method for improving the efficiency and selectivity of organic compound synthesis using oxygen and electricity by controlling \"local pH,\" or the acidity in the immediate vicinity of an electrode. Without separately adding peroxide oxidants, the researchers synthesized lactones and epoxides, which serve as feedstocks for plastics and fine chemicals, and increased target-product selectivity from approximately 16% to 97% through reactor design that controls electrode spacing and electrolyte flow.\n\nThe compounds examined in this study are closely connected to materials used in everyday life. Lactones are used as feedstocks for biodegradable plastics and polyurethanes, while epoxides are key feedstocks for adhesives, coatings and epoxy resins used in electronic materials. Both are also widely used as intermediates in the production of pharmaceuticals and fine chemicals. Improving the way these widely used compounds are synthesized could therefore contribute to the development of safer and more sustainable chemical processes.\n\nThe findings were published in the Journal of the American Chemical Society.\n\nOrganic electrosynthesis is a technology that uses electricity to produce organic compounds. It has attracted attention as an alternative approach to sustainable chemical processing because it can reduce the use of oxidizing and reducing agents required in conventional chemical synthesis. Previous studies, however, have focused primarily on optimizing bulk-solution conditions such as voltage, electrode materials and electrolyte composition. By comparison, the microscopic environment immediately surrounding the electrode—where molecules actually exchange electrons and undergo reactions—has received relatively little attention.\n\nThe researchers focused on the possibility that this microscopic environment could determine the outcome of a synthesis reaction. When protons are generated or consumed at an electrode faster than they can be transported through the solution, the local pH can differ substantially from the pH of the bulk solution. The team found that this difference affects not only the generation of the reactive oxygen species required for the reaction but also the reactivity of organic molecules and the stability of the products. The researchers then proposed a way to control this environment through reactor design.\n\nThe team also examined how broadly this phenomenon may occur in organic electrosynthesis. After analyzing more than 600 related papers published since 2010, the researchers found that in approximately 89% of the studies examined, reactions at one or both electrodes involved the transfer not only of electrons but also of protons, or hydrogen ions. This suggests that local changes in acidity may not be limited to a handful of specialized reactions but could be a variable that should be considered across organic electrosynthesis more broadly.\n\nThe differences were also clear in electrochemical measurements. Even when the bulk solution was nominally neutral, the environment near the cathode was estimated to become alkaline at approximately pH 11, while the region near the anode became acidic at approximately pH 2.5. Under such extreme local conditions, the supply of reactive oxygen species required for the reaction can decrease, the chemical form of the starting material can change, and degradation of the resulting product can be accelerated. This explains why adjusting the pH of the bulk solution alone is not sufficient and why the microscopic environment surrounding the electrode, where the reaction actually takes place, must also be considered.\n\nTo demonstrate this principle, the researchers used the Baeyer–Villiger oxidation as a representative reaction. Baeyer–Villiger oxidation is an organic oxidation reaction that inserts an oxygen atom into a ketone to convert it into an ester or lactone. Lactones, in particular, are cyclic ester compounds used as feedstocks for materials including biodegradable plastics and polyurethanes.\n\nConventional Baeyer–Villiger oxidation often relies on highly reactive oxidants such as peroxyacids, creating challenges in reagent handling and byproduct treatment. Instead of adding such oxidants externally, the researchers established an electrochemical reaction pathway in which oxygen gas is activated at the electrode and an oxygen atom is transferred to an organic molecule. Isotope-tracing experiments confirmed that the oxygen atom incorporated into the product originated from oxygen gas rather than water.\n\nThe researchers also identified a pathway in which reactive oxygen species generated by oxygen reduction at the cathode initiate the oxygen-transfer reaction, while the hydrogen peroxide produced in the process is converted back into reactive oxygen species at the anode. In other words, the two electrodes do not perform entirely separate roles; rather, they work together to maintain the supply of the reactive species required for the reaction. The team confirmed that this process is highly sensitive to local pH, providing a mechanistic basis for controlling acidity near the electrodes.\n\nThe researchers combined computer simulations with electrochemical measurements to analyze changes in local pH. Based on these findings, they designed a reactor that narrows the distance between the electrodes and allows the electrolyte to flow between them. The principle is to reduce extreme pH deviations by allowing the acidic environment near the anode and the alkaline environment near the cathode to counterbalance each other.\n\nThe effect of this control strategy was quantitatively evaluated by varying electrode spacing and electrolyte flow conditions. Compared with conditions in which local pH deviations were not mitigated, the proportion of the target product formed selectively increased from approximately 16% to approximately 97%. The amount produced per unit time also increased steadily as the electrolyte flow rate increased, with an approximately 14-fold difference between the lowest and highest flow rates tested.\n\nWhen the electrode spacing was reduced from 20 mm to 4 mm, the production rate increased by approximately 2.2-fold. Notably, when the solution was not allowed to flow, almost none of the target product was obtained even though the voltage and solution composition remained the same. These results demonstrate that the success or failure of a reaction can depend strongly not only on the electrode material and applied voltage but also on the local reaction environment.\n\nUnder the conditions established through this approach, the researchers synthesized lactones from 18 ketone compounds, obtaining the representative product ε-caprolactone at an 82% yield. ε-Caprolactone is a feedstock for the biodegradable polymer polycaprolactone, which is used in medical materials including surgical sutures and drug-delivery systems. The same local pH control principle was also applied to epoxide synthesis, yielding products from six alkene substrates. This demonstrates the potential to apply the principle to the synthesis of a wide range of chemical feedstocks, including those used in adhesives, coatings and resins for electronic materials.\n\nThe significance of this study lies in establishing both a reaction pathway and a reactor-design principle for synthesizing organic compounds using oxygen and electricity while reducing reliance on externally added peroxide oxidants. In particular, the reaction proceeds at room temperature and atmospheric pressure, eliminating the need for separate heating or pressurization equipment. Because electricity serves as the energy source, the approach may also have potential for future chemical processes coupled with electricity generated from renewable energy.\n\nFrom an industrial perspective, potential applications could be explored in areas such as pharmaceutical and fine-chemical intermediates. Because these products have high added value and require careful safety management, they align with the advantages of electrochemical processes, which can reduce the burden associated with hazardous oxidants and can be operated using relatively compact equipment.\n\nHowever, further process optimization and validation at production scale will be required before commercial application. More broadly, an important aspect of the study is that it expands organic electrosynthesis beyond optimizing voltage or solution composition toward \"designing the environment in which molecules actually react.\" The researchers expect that considering local pH in other electrosynthetic reactions involving proton transfer could reveal new design opportunities for improving reaction efficiency and selectivity.\n\nRyu, who supervised the research, said, \"This study transforms 'local pH' near the electrode from a hidden variable into a controllable design principle. To improve the efficiency of organic electrosynthesis, we need to design not only the reaction substrates and catalysts but also the environment in which the molecules actually react.\"\n\nSeonghyeon Min and Junghoon Lee, M.S. students in the Department of Chemical and Biological Engineering at Seoul National University, participated in the study as co-first authors, while Hanju Kim, an integrated M.S./Ph.D. student, participated as a co-author. Ryu supervised the research. Min and Lee plan to build on their research into organic electrosynthesis that takes local reaction environments into account and expand their work toward electrochemical reactions and processes applicable to the synthesis of a wide range of organic compounds.\n\nSeonghyeon Min et al, Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis, Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c12994\n\nJournal information: Journal of the American Chemical Society\n\nProvided by Seoul National University\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nPhD nano-engineering from Delft University. Published researcher and journal reviewer. Brings scientific insight to content standards. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦通过控制电极附近的局部 pH，改进以氧气和电力驱动的有机电合成。报道强调：局部反应环境可能是影响反应成败的关键变量；通过缩短电极间距、促进电解液流动，可将目标产物选择性从约16%提高至约97%，并合成可用于塑料、涂料、树脂、医药和精细化学品的内酯与环氧化物。叙事重点偏向机制发现、反应器设计创新、减少外加过氧化物氧化剂，以及未来与可再生电力结合的潜力。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:20:01.000Z",
+            "url": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html"
+          }
+        ]
+      },
+      {
+        "id": "story-003-bpla-2122056866-html-39c05b3db25a9589",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Белгороде при детонации БПЛА загорелись квартира и шесть машин",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-03T19:49:11.000Z",
+        "pubTime": "2026-10-04 03:49",
+        "url": "https://ria.ru/20261003/bpla-2122056866.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e8/05/1f/1949649982_0:318:2782:1883_650x0_80_0_0_7ffa7eafe5684b253353ee163afedeb9.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 03:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261003/bpla-2122056866.html",
+            "publishedAt": "2026-10-03T19:49:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-it-no-longer-uses-ndas-67dac9f5f51307d8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "pubTime": "2026-10-04 02:43",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "imageUrl": null,
+        "fullContent": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.\n\nGarman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.\n\nNDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”\n\nAs a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.\n\n“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”\n\nGarman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.\n\nPointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”\n\nNvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.\n\nAs for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”\n\nOn the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.\n\nWhen it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.\n\n“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”\n\nAs for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”\n\nWill this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust,” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:43:57.000Z",
+            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+          }
+        ]
+      },
+      {
+        "id": "story-he-strait-of-hormuz-html-333117802d2fac47",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:00:00.000Z",
+        "pubTime": "2026-10-04 03:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+        "imageUrl": null,
+        "fullContent": "The flow of crude from the Persian Gulf has recovered to near-prewar levels, but the latest data shows that much of the oil is reaching markets through routes and shipping arrangements that did not exist before the war, raising the question of whether Iran is losing its leverage in the Strait of Hormuz. At least 16.5 million barrels per day of crude left the region between September 1 and 28, matching the prewar average when Iran is excluded, according to commodity analytics firm Kpler. But while crude levels have risen, the refinery bottleneck that has caused a global spike in diesel prices persists. European Union figures published on October 1 showed diesel pump prices at record levels. Prices have also surged in the United States despite the recovery in oil exports. The route, meanwhile, has changed dramatically. Before the war, 83 percent of the region's crude crossed the Strait of Hormuz. In September, 40 percent bypassed the strait, with oil instead moving through pipelines and other routes via Saudi Arabia and the United Arab Emirates. About 60 percent, or 9.9 million barrels per day, physically crossed Hormuz. Kpler said more than 70 percent of the crude that crossed the strait in August -- the most recent month available -- changed tankers offshore in the Gulf of Oman, highlighting how far the current system is from normal commercial shipping. For Iran, the recovery is a sign that its ability to disrupt the waterway has been significantly degraded. Mohammad Ghaedi, a lecturer at George Washington University, told RFE/RL's Radio Farda that the current level of traffic was already too much for Tehran and \"unacceptable\" to authorities there. But the figures do not mean Iran has simply lost control of Hormuz. Tehran never formally controlled the strait in the first place. Its leverage has instead rested on its ability to make the passage dangerous, forcing shipping companies to weigh the risks and costs of entering the Gulf. That ability appears to have weakened as US forces provide protection for commercial shipping and companies develop ways to move oil while limiting their exposure to the strait. Ellen R. Wald, author and energy markets analyst, told RFE/RL that Iran's \"ability and/or will to attack ships in the Gulf is declining,\" allowing vessels to transit under US military cover. But she cautioned that the recovery in flows should not be mistaken for a return to normalcy. Some shipping companies are accepting significant risks to effectively ferry oil through the strait to larger tankers waiting outside the Gulf. Others are operating without insurance or under unusually difficult conditions. \"This is not a return to normal,\" Wald said. \"These are significant risks and come with high costs.\" And that is why oil prices aren't dropping much despite oil flows increasing. War Premium The rebound in crude flows has reduced some of the immediate pressure on global supplies, but Wald does not expect oil prices to return to prewar levels yet. The continued threat to vessels, elevated insurance costs, and dependence on US military protection mean that a \"war premium\" remains embedded in the price of oil. The latest Kpler figures also show why the recovery in exports should not be confused with the restoration of the old Gulf oil-trading system. Before the war, almost all of the region's crude exports depended on Hormuz. Now, pipelines, Red Sea routes, and offshore ship-to-ship transfers are helping producers circumvent the chokepoint. Kpler said the region's export system has effectively been rebuilt around the disruption. The more oil that moves without being stopped, the weaker Tehran's ability to use Hormuz as a coercive tool becomes. But the extraordinary measures required to keep that oil moving also demonstrate that the strait remains a source of leverage. Ghaedi said he does not believe Iran is likely to attack regional energy infrastructure, despite commentary from Tehran that it could escalate by targeting oil facilities. He argued that reports portraying Iran as having lost control of Hormuz could themselves risk provoking such a response. For now, however, the evidence points to a gradual erosion rather than a complete disappearance of Iranian leverage. And as long as ships still require military protection, unusual routing and costly workarounds to move that oil, Hormuz remains a vulnerability for Washington, even if Iran is no longer able to exercise the same degree of pressure over it that it did at the height of the war. By RFE/RL",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将原油出口量接近战前水平与运输体系发生结构性变化并置，提出伊朗利用霍尔木兹海峡施加压力的能力正在减弱，但尚未消失。报道重点包括：部分原油通过沙特和阿联酋管道、红海航线及海上船对船转运绕开海峡；美国军事护航和替代运输安排维持了出口；高保险费、军事保护需求和异常航运方式表明市场尚未恢复正常；因此油价仍包含“战争溢价”，霍尔木兹海峡依旧是供应链脆弱点。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ep-up-strikes-on-russian-b162af7d17876f27",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ukraine will step up strikes on Russian refineries in response to Moscow's aerial terror, Zelenskyy says",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T17:45:10.000Z",
+        "pubTime": "2026-10-04 01:45",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wwt8ka/ukraine_will_step_up_strikes_on_russian/",
+        "imageUrl": "https://external-preview.redd.it/wnKafUG2vBbZ2EFIHVu5qCll5oMvlCZvk1652XHdH9M.jpeg?width=640&crop=smart&auto=webp&s=c5017cbdbfb40fb1fb8bb58311bfe2a1a255ec2b",
+        "fullContent": "submitted by /u/pravda_eng_official [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-04 01:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wwt8ka/ukraine_will_step_up_strikes_on_russian/",
+            "publishedAt": "2026-10-03T17:45:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-er-violence-reveals-html-2fd3c97fdcccdd65",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Recovery after intimate partner violence: New study reveals what works",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:00:01.000Z",
+        "pubTime": "2026-10-04 02:00",
+        "url": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/mothers-love.jpg",
+        "fullContent": "by Judith Zijp, Leiden University\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nViolence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Every year, more than 1 million people in the Netherlands age 16 and older experience domestic violence. This type of violence is often perpetrated by a current or former partner, in which case it is referred to as intimate partner violence.\n\nSometimes, the violence becomes so severe that a person's own home is no longer safe. In such cases, they may seek refuge in a domestic violence shelter. Although these are traditionally known in the Netherlands as women's shelters, they do not exclusively accommodate women. Men and children can stay there, too.\n\nAround 6,000 people seek refuge in these shelters each year. They include almost 3,000 women, nearly as many children and around 140 men (2023 figures). This means that many children stay in these shelters with their mothers.\n\nFor her doctoral research, Willemien van den Dorpel, of the Institute of Education and Child Studies, and her colleagues followed 52 women and their young children, up to age 6, who were staying in domestic violence shelters. They followed the families for 13 weeks. Van den Dorpel defends her dissertation on Sept. 29, 2026.\n\nWhat did they want to find out? \"We wanted to know what type of treatment works for parents who end up in a domestic violence shelter with their children after experiencing intimate partner violence. This is because there are still very few interventions with proven effectiveness for this specific group.\"\n\nAnd yet these parents and their children need all the support they can get. Research shows that intimate partner violence can be a highly traumatic experience for both parents and children.\n\nIt increases the risk of developing symptoms associated with post-traumatic stress disorder (PTSD), as well as other mental health problems. Parents may also have difficulty parenting their children after experiencing intimate partner violence.\n\nVan den Dorpel's study shows that the mothers who participated did experience PTSD symptoms at above-average rates.\n\n\"The analyses also showed relatively high levels of insensitive and disrupted parenting behavior,\" she says. \"Sensitivity refers to a parent's ability to recognize their child's signals, interpret them correctly and then respond appropriately. When a parent is insensitive, they are less able to do this. And when we talk about disrupted parenting behavior, we mean active behaviors that may, for example, be frightening or confusing for a child. This could involve repeatedly moving a frightening-looking doll close to a young child's face, or a parent suddenly responding to their child in a very distant or negative way.\"\n\nThis does not mean that parents deliberately behave this way. Their behavior can be almost reflexive, without them being aware of it, for example because they are experiencing mental health problems. They may also have experienced a great deal of fear and confusion during their own childhood.\n\n\"Of all the mothers who took part in the study, 80% had themselves experienced some form of child abuse during childhood,\" says Van den Dorpel.\n\nBut if the problems are so serious, why is there no tried-and-tested treatment yet?\n\nThere are several reasons. Parents often already have a great deal to deal with, which can make it difficult to start treatment in the first place.\n\n\"They haven't ended up in a domestic violence shelter for no reason. There are often extremely complex problems involved. The violent ex-partner may suddenly reappear, for example. These parents also often have many appointments with other professionals, perhaps because they are dealing with legal or financial problems. As a consequence of the intimate partner violence, some people may not have access to their own bank account, may have substantial debts or may be involved in legal proceedings with their ex-partner.\n\n\"Alongside all the mental health problems, this creates even more stress and, of course, a very full schedule,\" Van den Dorpel explains.\n\nThis web of complex circumstances can also make it difficult for professionals to assess what a parent can cope with and what kind of support they need. For parents, meanwhile, it can be challenging to continue treatment alongside all their other appointments during such a stressful period. As a result, parents and children may end up receiving no treatment for their mental health difficulties, even though they desperately need it.\n\nThere is another obstacle: Treatment for conditions such as PTSD is not always covered by insurance when a parent is staying in a domestic violence shelter. According to Van den Dorpel, insurers may still consider the situation too unsafe or unstable.\n\nIt is also possible that the other parent with parental responsibility, who is often the reason the family is staying in the shelter in the first place, may refuse to consent to a parenting intervention involving the child and the parent staying at the shelter, or to trauma treatment for the child. Existing laws and regulations can therefore also form a barrier.\n\nAlthough the lives of people staying in domestic violence shelters have often been turned upside down and providing treatment may seem difficult, Van den Dorpel's study shows that there are many possibilities.\n\n\"During the study, we investigated the effects of NIKA and EMDR therapy on the symptoms experienced by parents and their children. We found that both interventions reduced symptoms.\"\n\nParents who participated in the study first received NIKA, which stands for Nederlandse Interventie Kortdurend op Atypisch opvoedgedrag, a Dutch short-term intervention targeting atypical parenting behavior. The intervention is designed to help parents adapt their parenting behavior more closely to their child's needs.\n\n\"In the study, this involved five sessions in which the parents were filmed while playing with their child. They then watched the footage together with the therapist and received feedback,\" Van den Dorpel explains.\n\nThe approach worked. \"Before starting NIKA, parents had an average sensitivity score of 4 on a scale from 1 to 9. That is considered insufficiently sensitive. Afterward, their average score was 5, which is considered sensitive. That is a very encouraging result.\"\n\nThe researchers also observed a reduction in disrupted parenting behavior following NIKA.\n\nAfter NIKA, the parents received trauma treatment using EMDR therapy. EMDR stands for Eye Movement Desensitization and Reprocessing and is an established method of trauma treatment frequently used by psychologists and other mental health professionals.\n\nThe results showed that the mothers' PTSD symptoms decreased substantially following this intervention.\n\nVan den Dorpel explains: \"The participants completed a PTSD questionnaire and initially had an average score of around 50, while 31 is the clinical cutoff score for PTSD. After treatment, the average score was 24.\"\n\nVan den Dorpel also found that treating parents' trauma symptoms did not appear to affect their parenting behavior. Providing a combination of both treatments in domestic violence shelters would therefore be the ideal situation, she emphasizes. In some cases, children also require trauma treatment.\n\nTo make it easier for practitioners to determine the most appropriate order of treatment for each parent and child, Van den Dorpel and her colleagues developed practical guidance for professionals.\n\nVan den Dorpel hopes that the guidance will ultimately ensure that more parents and children receive the care they need after intimate partner violence, helping them move toward a more stable and positive life.\n\n\"The younger the child, the more of their life they still have ahead of them, and the greater the opportunity to finally break this cycle of violence and trauma.\"\n\nProvided by Leiden University\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以亲密伴侣暴力受害者及其幼儿的创伤恢复为中心，突出荷兰家庭暴力庇护所居民面临的心理健康、育儿困难、法律与经济压力，以及一项跟踪52名女性及其6岁以下子女、持续13周的研究。报道将NIKA育儿干预和EMDR创伤治疗描述为具有积极效果，并强调将两者结合、根据个体情况安排治疗以及改善服务可及性的必要性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html"
+          }
+        ]
+      },
+      {
+        "id": "story-1003-vsu-2122056722-html-9db2c1449c145b77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Власти о сообщили о состоянии подростка, раненного при ударе по Белгороду",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-03T19:45:58.000Z",
+        "pubTime": "2026-10-04 03:45",
+        "url": "https://ria.ru/20261003/vsu-2122056722.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/05/15/2018293593_0:160:3076:1890_650x0_80_0_0_0d0c5919138f14c1a221c4fcd1476a6e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 03:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261003/vsu-2122056722.html",
+            "publishedAt": "2026-10-03T19:45:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-pcom-ai-game-development-5cb80ade64def456",
+        "title": "卡普空正在为“我们与人工智能共同制作游戏的未来”做准备",
+        "originalTitle": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T16:49:10.000Z",
+        "pubTime": "2026-10-04 00:49",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nDuring a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nCapcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.” During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is “successfully integrating AI technology into development workflows.”\n\nCapcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "关于这一主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n\n在一次关于 RE Engine 未来的演讲中，卡普空公布了其在“开发工作流程”中拥抱人工智能的计划。\n\n关于这位作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\n卡普空的《Pragmata》或许完全在讲述人工智能的恐怖，但在实际操作中，这家工作室似乎并不排斥这项技术。在卡普空开放大会 RE: 2026 期间，程序员 Satoshi Ishida 作了一场演讲，标题冗长得令人咋舌：“REX 项目展望与未来：为下一代进一步发展 RE Engine”。演讲中，他阐述了制作《生化危机》这种规模游戏的工作室所面临的挑战——即便是简单任务，也可能耗费极长时间。Ishida 表示，解决方案是“将人工智能技术成功整合进开发工作流程”。\n\n卡普空此前曾表示，不会在其游戏中使用人工智能生成的资产，而是将重点放在利用这项技术提高开发效率上。Ishida 的评论似乎与这一说法一致，不过显然也为更广泛的应用留下了空间。据 IGN 的翻译，他提出了一项计划：逐步、循序渐进地将 RE Engine 转变为“人工智能生成游戏引擎”，朝着“我们与人工智能共同制作游戏的未来”迈进。\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "卡普空程序员石田聪在 Capcom Open Conference RE: 2026 上发表了关于 RE Engine 未来的演讲，演讲题目为“REX 项目的展望与未来：为下一代进一步进化 RE Engine”。",
+          "石田聪表示，解决大型游戏开发中部分任务耗时过长问题的方案是“成功将 AI 技术整合进开发工作流程”。",
+          "来源叙事重点：报道将卡普空对 AI 的态度呈现为从“利用 AI 提高开发效率”逐步走向“与 AI 共同创作游戏”的技术路线，同时以《Pragmata》中对 AI 的负面主题与卡普空实际推进 AI 的做法形成对照。文章重点关注 RE Engine 和大型游戏开发流程的技术演进，而非具体产品中已经使用了哪些 AI 功能。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T16:49:10.000Z",
+            "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+          }
+        ]
+      },
+      {
+        "id": "story-rn-on-your-cash-5fa45ccd-61d14de60f61eb7c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "These bond strategies can help you get a safe 5% return on your cash",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:49:00.000Z",
+        "pubTime": "2026-10-04 02:49",
+        "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 02:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-03T18:49:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-date-orion-linux-windows-79c0ecc656c81ee6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "An Update on Orion for Linux and Windows",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T15:57:16.000Z",
+        "pubTime": "2026-10-03 23:57",
+        "url": "https://blog.kagi.com/update-orion-linux-windows",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-03 23:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://blog.kagi.com/update-orion-linux-windows",
+            "publishedAt": "2026-10-03T15:57:16.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-belgorod-2122057020-html-65515982338dbe3b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Двое пострадавших при ударе БПЛА по Белгороду находятся в тяжелом состоянии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-03T19:50:39.000Z",
+        "pubTime": "2026-10-04 03:50",
+        "url": "https://ria.ru/20261003/belgorod-2122057020.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/08/0e/2110898424_0:159:3077:1890_650x0_80_0_0_578c933ec8c3a332526296604eb74ec7.jpg",
+        "fullContent": "\"Кроме того, в больницу бригады скорой медицинской помощи доставили троих взрослых с различными травмами, двое из которых находятся в тяжелом состоянии. Всем пострадавшим оказывается необходимая медицинская помощь\", - написал он в канале на платформе \"Макс\".",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 03:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261003/belgorod-2122057020.html",
+            "publishedAt": "2026-10-03T19:50:39.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minate-mass-surveillance-d3e5e8c1a81ab330",
+        "title": "联邦法官称Flock构成“无差别大规模监控”",
+        "originalTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:33:15.000Z",
+        "pubTime": "2026-10-04 03:33",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "imageUrl": null,
+        "fullContent": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAs reported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court case focused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "本周，一名联邦法官裁定，俄克拉何马州塔尔萨县一名警长办公室副警长在没有搜查令的情况下使用Flock Safety搜查一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。\n\n据404 Media报道，这一裁决并不构成具有约束力的先例，但这是联邦法官首次认定Flock搜查违宪的案例之一。\n\n在本案中，萨拉·希尔法官表示，该副警长在查询Flock数据库、搜查这名女性的车牌之前本应取得搜查令，因为他“没有明显理由”进行搜查，“除了[该女性的车辆]悬挂加利福尼亚州车牌这一事实之外”。\n\n随后，这名副警长利用该女性在Flock系统中的出行记录，作为搜查其汽车的理由之一；据称，他在车内发现了91磅冰毒。但希尔法官写道，Flock搜查之后取得的所有证据“都必须作为毒树之果予以排除”。\n\n希尔法官还将矛头更广泛地指向对Flock数据库进行无搜查令查询的做法。她写道，追踪人们的位置——即便他们身处公共场所——“当执法部门能够在较长时间内不加区别、被动地记录你的行踪，并在任何方便的时候出于任何目的使用这些信息时，就会产生宪法层面的问题”。\n\n希尔写道：“这是一种无差别大规模监控。它并非像[‘卡彭特诉美国案’——一起聚焦政府机构如何获取手机位置数据的最高法院案件]那样，针对某一个人。它是一种始终收集所有经过任何联网摄像头的车辆信息的工具，并按执法部门要求提供这些信息。”\n\n希尔加入了来自不同政治立场、日益壮大的Flock批评者行列。包括佛罗里达州和得克萨斯州在内的众多地方及州政府表示将停止使用这项技术。而在周五，佛蒙特州民主党参议员伯尼·桑德斯提出《阻止Flock法案》，该法案将禁止联邦机构使用Flock等自动车牌识别器。\n\nFlock首席执行官加雷蒂·兰利——我们将在TechCrunch Disrupt大会现场对他进行采访——曾呼吁在隐私与安全之间达成“妥协”，并向那些遭到使用Flock系统的执法人员跟踪的女性致歉。随着这些取消使用的决定陆续出现，据报道，Flock还提出了自愿离职买断方案，以此缩减员工规模。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是TechCrunch的周末版编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司内容副总裁。他现居纽约市。\n\n如需联系安东尼或核实来自他的联络信息，可发送电子邮件至anthony.ha@techcrunch.com。\n\n第二张通行证享受五折优惠\nDisrupt体验旨在与他人共享。购买您的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的交流范围。\n\n谷歌认为，SpaceX的星舰必须发射1800次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定美国军方下一步行动\n\nOpenAI推出Dots，这是一款气泡风格的智能代理化身\n\nAMD将以82亿美元收购李飞飞的World Labs\n\n病毒式传播的人工智能代理Instinct完成10亿美元C轮融资，估值达到100亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:33:15.000Z",
+            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+          }
+        ]
+      },
+      {
+        "id": "story--finally-retire-369abcf9-d84ab72b2f49dd16",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:30:00.000Z",
+        "pubTime": "2026-10-04 03:30",
+        "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 03:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-03T19:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eneration-lonely-silence-dc1c192b3e522a4a",
+        "title": "“沉默太多了”：我们是否造就了一个新的“孤独一代”？",
+        "originalTitle": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:00:07.000Z",
+        "pubTime": "2026-10-04 03:00",
+        "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
+        "imageUrl": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=140&quality=85&auto=format&fit=max&s=2294cb4e4935ab4e14cce4ebdf329690",
+        "fullContent": "Learning to be one human among many has always been a little lonely and discombobulating. But young people around the world are lonelier than ever. Why?\n\nIn September, a Reddit user identifying themselves as a 25-year-old man turned to the r/ForeverAlone subreddit with a question : How do you deal with touch starvation? “It’s becoming obvious to me that I’ll probably be alone forever,” he wrote. He used to be worried about missing out on sex, but now he just misses hugs. Cuddles.\n\n“I don’t have many friends and none with that kind of physical relationship. I don’t really hug family either anymore. Some days, I feel so desperate for a hug with someone I love.”",
+        "fullTranslation": "学会在人群中成为一个独立的人，一直都多少带着些孤独和不知所措。但如今，世界各地的年轻人比以往任何时候都更加孤独。为什么会这样？\n\n今年9月，一名自称25岁男性的 Reddit 用户在 r/ForeverAlone 子版块发帖提问：如何应对“触摸饥渴”？他写道：“我越来越清楚地意识到，我可能会永远孤独下去。”他过去担心的是错过性生活，但现在，他只是想念拥抱，想念依偎。\n\n“我没有多少朋友，而且没有谁能和我有那种身体上的亲密关系。我现在也不太再拥抱家人了。有些时候，我非常渴望能和我所爱的人拥抱一下。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "来源叙事重点：将年轻人的孤独、缺乏亲密身体接触和社会联结置于“是否形成新一代孤独世代”的问题框架下，突出“拥抱和依偎”等情感与身体亲密需求，并提出年轻人可能比以往更孤独这一待解释判断。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:00:07.000Z",
+            "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence"
+          }
+        ]
+      },
+      {
+        "id": "story-ck-synthesis-oxygen-html-8247c264ac19a641",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New reactor design improves plastic feedstock synthesis using oxygen and electricity",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:20:01.000Z",
+        "pubTime": "2026-10-04 03:20",
+        "url": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/producing-plastic-feed.jpg",
+        "fullContent": "by Seoul National University\n\nedited by Gaby Clark, reviewed by Alexander Pol\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nA \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.\n\nA research team led by Jaeyune Ryu, a professor in the Department of Chemical and Biological Engineering at Seoul National University College of Engineering, has developed a method for improving the efficiency and selectivity of organic compound synthesis using oxygen and electricity by controlling \"local pH,\" or the acidity in the immediate vicinity of an electrode. Without separately adding peroxide oxidants, the researchers synthesized lactones and epoxides, which serve as feedstocks for plastics and fine chemicals, and increased target-product selectivity from approximately 16% to 97% through reactor design that controls electrode spacing and electrolyte flow.\n\nThe compounds examined in this study are closely connected to materials used in everyday life. Lactones are used as feedstocks for biodegradable plastics and polyurethanes, while epoxides are key feedstocks for adhesives, coatings and epoxy resins used in electronic materials. Both are also widely used as intermediates in the production of pharmaceuticals and fine chemicals. Improving the way these widely used compounds are synthesized could therefore contribute to the development of safer and more sustainable chemical processes.\n\nThe findings were published in the Journal of the American Chemical Society.\n\nOrganic electrosynthesis is a technology that uses electricity to produce organic compounds. It has attracted attention as an alternative approach to sustainable chemical processing because it can reduce the use of oxidizing and reducing agents required in conventional chemical synthesis. Previous studies, however, have focused primarily on optimizing bulk-solution conditions such as voltage, electrode materials and electrolyte composition. By comparison, the microscopic environment immediately surrounding the electrode—where molecules actually exchange electrons and undergo reactions—has received relatively little attention.\n\nThe researchers focused on the possibility that this microscopic environment could determine the outcome of a synthesis reaction. When protons are generated or consumed at an electrode faster than they can be transported through the solution, the local pH can differ substantially from the pH of the bulk solution. The team found that this difference affects not only the generation of the reactive oxygen species required for the reaction but also the reactivity of organic molecules and the stability of the products. The researchers then proposed a way to control this environment through reactor design.\n\nThe team also examined how broadly this phenomenon may occur in organic electrosynthesis. After analyzing more than 600 related papers published since 2010, the researchers found that in approximately 89% of the studies examined, reactions at one or both electrodes involved the transfer not only of electrons but also of protons, or hydrogen ions. This suggests that local changes in acidity may not be limited to a handful of specialized reactions but could be a variable that should be considered across organic electrosynthesis more broadly.\n\nThe differences were also clear in electrochemical measurements. Even when the bulk solution was nominally neutral, the environment near the cathode was estimated to become alkaline at approximately pH 11, while the region near the anode became acidic at approximately pH 2.5. Under such extreme local conditions, the supply of reactive oxygen species required for the reaction can decrease, the chemical form of the starting material can change, and degradation of the resulting product can be accelerated. This explains why adjusting the pH of the bulk solution alone is not sufficient and why the microscopic environment surrounding the electrode, where the reaction actually takes place, must also be considered.\n\nTo demonstrate this principle, the researchers used the Baeyer–Villiger oxidation as a representative reaction. Baeyer–Villiger oxidation is an organic oxidation reaction that inserts an oxygen atom into a ketone to convert it into an ester or lactone. Lactones, in particular, are cyclic ester compounds used as feedstocks for materials including biodegradable plastics and polyurethanes.\n\nConventional Baeyer–Villiger oxidation often relies on highly reactive oxidants such as peroxyacids, creating challenges in reagent handling and byproduct treatment. Instead of adding such oxidants externally, the researchers established an electrochemical reaction pathway in which oxygen gas is activated at the electrode and an oxygen atom is transferred to an organic molecule. Isotope-tracing experiments confirmed that the oxygen atom incorporated into the product originated from oxygen gas rather than water.\n\nThe researchers also identified a pathway in which reactive oxygen species generated by oxygen reduction at the cathode initiate the oxygen-transfer reaction, while the hydrogen peroxide produced in the process is converted back into reactive oxygen species at the anode. In other words, the two electrodes do not perform entirely separate roles; rather, they work together to maintain the supply of the reactive species required for the reaction. The team confirmed that this process is highly sensitive to local pH, providing a mechanistic basis for controlling acidity near the electrodes.\n\nThe researchers combined computer simulations with electrochemical measurements to analyze changes in local pH. Based on these findings, they designed a reactor that narrows the distance between the electrodes and allows the electrolyte to flow between them. The principle is to reduce extreme pH deviations by allowing the acidic environment near the anode and the alkaline environment near the cathode to counterbalance each other.\n\nThe effect of this control strategy was quantitatively evaluated by varying electrode spacing and electrolyte flow conditions. Compared with conditions in which local pH deviations were not mitigated, the proportion of the target product formed selectively increased from approximately 16% to approximately 97%. The amount produced per unit time also increased steadily as the electrolyte flow rate increased, with an approximately 14-fold difference between the lowest and highest flow rates tested.\n\nWhen the electrode spacing was reduced from 20 mm to 4 mm, the production rate increased by approximately 2.2-fold. Notably, when the solution was not allowed to flow, almost none of the target product was obtained even though the voltage and solution composition remained the same. These results demonstrate that the success or failure of a reaction can depend strongly not only on the electrode material and applied voltage but also on the local reaction environment.\n\nUnder the conditions established through this approach, the researchers synthesized lactones from 18 ketone compounds, obtaining the representative product ε-caprolactone at an 82% yield. ε-Caprolactone is a feedstock for the biodegradable polymer polycaprolactone, which is used in medical materials including surgical sutures and drug-delivery systems. The same local pH control principle was also applied to epoxide synthesis, yielding products from six alkene substrates. This demonstrates the potential to apply the principle to the synthesis of a wide range of chemical feedstocks, including those used in adhesives, coatings and resins for electronic materials.\n\nThe significance of this study lies in establishing both a reaction pathway and a reactor-design principle for synthesizing organic compounds using oxygen and electricity while reducing reliance on externally added peroxide oxidants. In particular, the reaction proceeds at room temperature and atmospheric pressure, eliminating the need for separate heating or pressurization equipment. Because electricity serves as the energy source, the approach may also have potential for future chemical processes coupled with electricity generated from renewable energy.\n\nFrom an industrial perspective, potential applications could be explored in areas such as pharmaceutical and fine-chemical intermediates. Because these products have high added value and require careful safety management, they align with the advantages of electrochemical processes, which can reduce the burden associated with hazardous oxidants and can be operated using relatively compact equipment.\n\nHowever, further process optimization and validation at production scale will be required before commercial application. More broadly, an important aspect of the study is that it expands organic electrosynthesis beyond optimizing voltage or solution composition toward \"designing the environment in which molecules actually react.\" The researchers expect that considering local pH in other electrosynthetic reactions involving proton transfer could reveal new design opportunities for improving reaction efficiency and selectivity.\n\nRyu, who supervised the research, said, \"This study transforms 'local pH' near the electrode from a hidden variable into a controllable design principle. To improve the efficiency of organic electrosynthesis, we need to design not only the reaction substrates and catalysts but also the environment in which the molecules actually react.\"\n\nSeonghyeon Min and Junghoon Lee, M.S. students in the Department of Chemical and Biological Engineering at Seoul National University, participated in the study as co-first authors, while Hanju Kim, an integrated M.S./Ph.D. student, participated as a co-author. Ryu supervised the research. Min and Lee plan to build on their research into organic electrosynthesis that takes local reaction environments into account and expand their work toward electrochemical reactions and processes applicable to the synthesis of a wide range of organic compounds.\n\nSeonghyeon Min et al, Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis, Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c12994\n\nJournal information: Journal of the American Chemical Society\n\nProvided by Seoul National University\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nPhD nano-engineering from Delft University. Published researcher and journal reviewer. Brings scientific insight to content standards. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦通过控制电极附近的局部 pH，改进以氧气和电力驱动的有机电合成。报道强调：局部反应环境可能是影响反应成败的关键变量；通过缩短电极间距、促进电解液流动，可将目标产物选择性从约16%提高至约97%，并合成可用于塑料、涂料、树脂、医药和精细化学品的内酯与环氧化物。叙事重点偏向机制发现、反应器设计创新、减少外加过氧化物氧化剂，以及未来与可再生电力结合的潜力。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:20:01.000Z",
+            "url": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html"
+          }
+        ]
+      },
+      {
+        "id": "story-003-bpla-2122056866-html-39c05b3db25a9589",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Белгороде при детонации БПЛА загорелись квартира и шесть машин",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-03T19:49:11.000Z",
+        "pubTime": "2026-10-04 03:49",
+        "url": "https://ria.ru/20261003/bpla-2122056866.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e8/05/1f/1949649982_0:318:2782:1883_650x0_80_0_0_7ffa7eafe5684b253353ee163afedeb9.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 03:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261003/bpla-2122056866.html",
+            "publishedAt": "2026-10-03T19:49:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-it-no-longer-uses-ndas-67dac9f5f51307d8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "pubTime": "2026-10-04 02:43",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "imageUrl": null,
+        "fullContent": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.\n\nGarman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.\n\nNDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”\n\nAs a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.\n\n“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”\n\nGarman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.\n\nPointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”\n\nNvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.\n\nAs for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”\n\nOn the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.\n\nWhen it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.\n\n“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”\n\nAs for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”\n\nWill this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust,” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:43:57.000Z",
+            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+          }
+        ]
+      },
+      {
+        "id": "story-he-strait-of-hormuz-html-333117802d2fac47",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:00:00.000Z",
+        "pubTime": "2026-10-04 03:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+        "imageUrl": null,
+        "fullContent": "The flow of crude from the Persian Gulf has recovered to near-prewar levels, but the latest data shows that much of the oil is reaching markets through routes and shipping arrangements that did not exist before the war, raising the question of whether Iran is losing its leverage in the Strait of Hormuz. At least 16.5 million barrels per day of crude left the region between September 1 and 28, matching the prewar average when Iran is excluded, according to commodity analytics firm Kpler. But while crude levels have risen, the refinery bottleneck that has caused a global spike in diesel prices persists. European Union figures published on October 1 showed diesel pump prices at record levels. Prices have also surged in the United States despite the recovery in oil exports. The route, meanwhile, has changed dramatically. Before the war, 83 percent of the region's crude crossed the Strait of Hormuz. In September, 40 percent bypassed the strait, with oil instead moving through pipelines and other routes via Saudi Arabia and the United Arab Emirates. About 60 percent, or 9.9 million barrels per day, physically crossed Hormuz. Kpler said more than 70 percent of the crude that crossed the strait in August -- the most recent month available -- changed tankers offshore in the Gulf of Oman, highlighting how far the current system is from normal commercial shipping. For Iran, the recovery is a sign that its ability to disrupt the waterway has been significantly degraded. Mohammad Ghaedi, a lecturer at George Washington University, told RFE/RL's Radio Farda that the current level of traffic was already too much for Tehran and \"unacceptable\" to authorities there. But the figures do not mean Iran has simply lost control of Hormuz. Tehran never formally controlled the strait in the first place. Its leverage has instead rested on its ability to make the passage dangerous, forcing shipping companies to weigh the risks and costs of entering the Gulf. That ability appears to have weakened as US forces provide protection for commercial shipping and companies develop ways to move oil while limiting their exposure to the strait. Ellen R. Wald, author and energy markets analyst, told RFE/RL that Iran's \"ability and/or will to attack ships in the Gulf is declining,\" allowing vessels to transit under US military cover. But she cautioned that the recovery in flows should not be mistaken for a return to normalcy. Some shipping companies are accepting significant risks to effectively ferry oil through the strait to larger tankers waiting outside the Gulf. Others are operating without insurance or under unusually difficult conditions. \"This is not a return to normal,\" Wald said. \"These are significant risks and come with high costs.\" And that is why oil prices aren't dropping much despite oil flows increasing. War Premium The rebound in crude flows has reduced some of the immediate pressure on global supplies, but Wald does not expect oil prices to return to prewar levels yet. The continued threat to vessels, elevated insurance costs, and dependence on US military protection mean that a \"war premium\" remains embedded in the price of oil. The latest Kpler figures also show why the recovery in exports should not be confused with the restoration of the old Gulf oil-trading system. Before the war, almost all of the region's crude exports depended on Hormuz. Now, pipelines, Red Sea routes, and offshore ship-to-ship transfers are helping producers circumvent the chokepoint. Kpler said the region's export system has effectively been rebuilt around the disruption. The more oil that moves without being stopped, the weaker Tehran's ability to use Hormuz as a coercive tool becomes. But the extraordinary measures required to keep that oil moving also demonstrate that the strait remains a source of leverage. Ghaedi said he does not believe Iran is likely to attack regional energy infrastructure, despite commentary from Tehran that it could escalate by targeting oil facilities. He argued that reports portraying Iran as having lost control of Hormuz could themselves risk provoking such a response. For now, however, the evidence points to a gradual erosion rather than a complete disappearance of Iranian leverage. And as long as ships still require military protection, unusual routing and costly workarounds to move that oil, Hormuz remains a vulnerability for Washington, even if Iran is no longer able to exercise the same degree of pressure over it that it did at the height of the war. By RFE/RL",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将原油出口量接近战前水平与运输体系发生结构性变化并置，提出伊朗利用霍尔木兹海峡施加压力的能力正在减弱，但尚未消失。报道重点包括：部分原油通过沙特和阿联酋管道、红海航线及海上船对船转运绕开海峡；美国军事护航和替代运输安排维持了出口；高保险费、军事保护需求和异常航运方式表明市场尚未恢复正常；因此油价仍包含“战争溢价”，霍尔木兹海峡依旧是供应链脆弱点。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ep-up-strikes-on-russian-b162af7d17876f27",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ukraine will step up strikes on Russian refineries in response to Moscow's aerial terror, Zelenskyy says",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T17:45:10.000Z",
+        "pubTime": "2026-10-04 01:45",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wwt8ka/ukraine_will_step_up_strikes_on_russian/",
+        "imageUrl": "https://external-preview.redd.it/wnKafUG2vBbZ2EFIHVu5qCll5oMvlCZvk1652XHdH9M.jpeg?width=640&crop=smart&auto=webp&s=c5017cbdbfb40fb1fb8bb58311bfe2a1a255ec2b",
+        "fullContent": "submitted by /u/pravda_eng_official [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-04 01:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wwt8ka/ukraine_will_step_up_strikes_on_russian/",
+            "publishedAt": "2026-10-03T17:45:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-er-violence-reveals-html-2fd3c97fdcccdd65",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Recovery after intimate partner violence: New study reveals what works",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:00:01.000Z",
+        "pubTime": "2026-10-04 02:00",
+        "url": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/mothers-love.jpg",
+        "fullContent": "by Judith Zijp, Leiden University\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nViolence in the home can range from intimidation to physical abuse. When it occurs there, we refer to it as domestic violence. Every year, more than 1 million people in the Netherlands age 16 and older experience domestic violence. This type of violence is often perpetrated by a current or former partner, in which case it is referred to as intimate partner violence.\n\nSometimes, the violence becomes so severe that a person's own home is no longer safe. In such cases, they may seek refuge in a domestic violence shelter. Although these are traditionally known in the Netherlands as women's shelters, they do not exclusively accommodate women. Men and children can stay there, too.\n\nAround 6,000 people seek refuge in these shelters each year. They include almost 3,000 women, nearly as many children and around 140 men (2023 figures). This means that many children stay in these shelters with their mothers.\n\nFor her doctoral research, Willemien van den Dorpel, of the Institute of Education and Child Studies, and her colleagues followed 52 women and their young children, up to age 6, who were staying in domestic violence shelters. They followed the families for 13 weeks. Van den Dorpel defends her dissertation on Sept. 29, 2026.\n\nWhat did they want to find out? \"We wanted to know what type of treatment works for parents who end up in a domestic violence shelter with their children after experiencing intimate partner violence. This is because there are still very few interventions with proven effectiveness for this specific group.\"\n\nAnd yet these parents and their children need all the support they can get. Research shows that intimate partner violence can be a highly traumatic experience for both parents and children.\n\nIt increases the risk of developing symptoms associated with post-traumatic stress disorder (PTSD), as well as other mental health problems. Parents may also have difficulty parenting their children after experiencing intimate partner violence.\n\nVan den Dorpel's study shows that the mothers who participated did experience PTSD symptoms at above-average rates.\n\n\"The analyses also showed relatively high levels of insensitive and disrupted parenting behavior,\" she says. \"Sensitivity refers to a parent's ability to recognize their child's signals, interpret them correctly and then respond appropriately. When a parent is insensitive, they are less able to do this. And when we talk about disrupted parenting behavior, we mean active behaviors that may, for example, be frightening or confusing for a child. This could involve repeatedly moving a frightening-looking doll close to a young child's face, or a parent suddenly responding to their child in a very distant or negative way.\"\n\nThis does not mean that parents deliberately behave this way. Their behavior can be almost reflexive, without them being aware of it, for example because they are experiencing mental health problems. They may also have experienced a great deal of fear and confusion during their own childhood.\n\n\"Of all the mothers who took part in the study, 80% had themselves experienced some form of child abuse during childhood,\" says Van den Dorpel.\n\nBut if the problems are so serious, why is there no tried-and-tested treatment yet?\n\nThere are several reasons. Parents often already have a great deal to deal with, which can make it difficult to start treatment in the first place.\n\n\"They haven't ended up in a domestic violence shelter for no reason. There are often extremely complex problems involved. The violent ex-partner may suddenly reappear, for example. These parents also often have many appointments with other professionals, perhaps because they are dealing with legal or financial problems. As a consequence of the intimate partner violence, some people may not have access to their own bank account, may have substantial debts or may be involved in legal proceedings with their ex-partner.\n\n\"Alongside all the mental health problems, this creates even more stress and, of course, a very full schedule,\" Van den Dorpel explains.\n\nThis web of complex circumstances can also make it difficult for professionals to assess what a parent can cope with and what kind of support they need. For parents, meanwhile, it can be challenging to continue treatment alongside all their other appointments during such a stressful period. As a result, parents and children may end up receiving no treatment for their mental health difficulties, even though they desperately need it.\n\nThere is another obstacle: Treatment for conditions such as PTSD is not always covered by insurance when a parent is staying in a domestic violence shelter. According to Van den Dorpel, insurers may still consider the situation too unsafe or unstable.\n\nIt is also possible that the other parent with parental responsibility, who is often the reason the family is staying in the shelter in the first place, may refuse to consent to a parenting intervention involving the child and the parent staying at the shelter, or to trauma treatment for the child. Existing laws and regulations can therefore also form a barrier.\n\nAlthough the lives of people staying in domestic violence shelters have often been turned upside down and providing treatment may seem difficult, Van den Dorpel's study shows that there are many possibilities.\n\n\"During the study, we investigated the effects of NIKA and EMDR therapy on the symptoms experienced by parents and their children. We found that both interventions reduced symptoms.\"\n\nParents who participated in the study first received NIKA, which stands for Nederlandse Interventie Kortdurend op Atypisch opvoedgedrag, a Dutch short-term intervention targeting atypical parenting behavior. The intervention is designed to help parents adapt their parenting behavior more closely to their child's needs.\n\n\"In the study, this involved five sessions in which the parents were filmed while playing with their child. They then watched the footage together with the therapist and received feedback,\" Van den Dorpel explains.\n\nThe approach worked. \"Before starting NIKA, parents had an average sensitivity score of 4 on a scale from 1 to 9. That is considered insufficiently sensitive. Afterward, their average score was 5, which is considered sensitive. That is a very encouraging result.\"\n\nThe researchers also observed a reduction in disrupted parenting behavior following NIKA.\n\nAfter NIKA, the parents received trauma treatment using EMDR therapy. EMDR stands for Eye Movement Desensitization and Reprocessing and is an established method of trauma treatment frequently used by psychologists and other mental health professionals.\n\nThe results showed that the mothers' PTSD symptoms decreased substantially following this intervention.\n\nVan den Dorpel explains: \"The participants completed a PTSD questionnaire and initially had an average score of around 50, while 31 is the clinical cutoff score for PTSD. After treatment, the average score was 24.\"\n\nVan den Dorpel also found that treating parents' trauma symptoms did not appear to affect their parenting behavior. Providing a combination of both treatments in domestic violence shelters would therefore be the ideal situation, she emphasizes. In some cases, children also require trauma treatment.\n\nTo make it easier for practitioners to determine the most appropriate order of treatment for each parent and child, Van den Dorpel and her colleagues developed practical guidance for professionals.\n\nVan den Dorpel hopes that the guidance will ultimately ensure that more parents and children receive the care they need after intimate partner violence, helping them move toward a more stable and positive life.\n\n\"The younger the child, the more of their life they still have ahead of them, and the greater the opportunity to finally break this cycle of violence and trauma.\"\n\nProvided by Leiden University\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以亲密伴侣暴力受害者及其幼儿的创伤恢复为中心，突出荷兰家庭暴力庇护所居民面临的心理健康、育儿困难、法律与经济压力，以及一项跟踪52名女性及其6岁以下子女、持续13周的研究。报道将NIKA育儿干预和EMDR创伤治疗描述为具有积极效果，并强调将两者结合、根据个体情况安排治疗以及改善服务可及性的必要性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-recovery-intimate-partner-violence-reveals.html"
+          }
+        ]
+      },
+      {
+        "id": "story-1003-vsu-2122056722-html-9db2c1449c145b77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Власти о сообщили о состоянии подростка, раненного при ударе по Белгороду",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-03T19:45:58.000Z",
+        "pubTime": "2026-10-04 03:45",
+        "url": "https://ria.ru/20261003/vsu-2122056722.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/05/15/2018293593_0:160:3076:1890_650x0_80_0_0_0d0c5919138f14c1a221c4fcd1476a6e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 03:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261003/vsu-2122056722.html",
+            "publishedAt": "2026-10-03T19:45:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-pcom-ai-game-development-5cb80ade64def456",
+        "title": "卡普空正在为“我们与人工智能共同制作游戏的未来”做准备",
+        "originalTitle": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T16:49:10.000Z",
+        "pubTime": "2026-10-04 00:49",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nDuring a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nCapcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.” During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is “successfully integrating AI technology into development workflows.”\n\nCapcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "关于这一主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n\n在一次关于 RE Engine 未来的演讲中，卡普空公布了其在“开发工作流程”中拥抱人工智能的计划。\n\n关于这位作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\n卡普空的《Pragmata》或许完全在讲述人工智能的恐怖，但在实际操作中，这家工作室似乎并不排斥这项技术。在卡普空开放大会 RE: 2026 期间，程序员 Satoshi Ishida 作了一场演讲，标题冗长得令人咋舌：“REX 项目展望与未来：为下一代进一步发展 RE Engine”。演讲中，他阐述了制作《生化危机》这种规模游戏的工作室所面临的挑战——即便是简单任务，也可能耗费极长时间。Ishida 表示，解决方案是“将人工智能技术成功整合进开发工作流程”。\n\n卡普空此前曾表示，不会在其游戏中使用人工智能生成的资产，而是将重点放在利用这项技术提高开发效率上。Ishida 的评论似乎与这一说法一致，不过显然也为更广泛的应用留下了空间。据 IGN 的翻译，他提出了一项计划：逐步、循序渐进地将 RE Engine 转变为“人工智能生成游戏引擎”，朝着“我们与人工智能共同制作游戏的未来”迈进。\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "卡普空程序员石田聪在 Capcom Open Conference RE: 2026 上发表了关于 RE Engine 未来的演讲，演讲题目为“REX 项目的展望与未来：为下一代进一步进化 RE Engine”。",
+          "石田聪表示，解决大型游戏开发中部分任务耗时过长问题的方案是“成功将 AI 技术整合进开发工作流程”。",
+          "来源叙事重点：报道将卡普空对 AI 的态度呈现为从“利用 AI 提高开发效率”逐步走向“与 AI 共同创作游戏”的技术路线，同时以《Pragmata》中对 AI 的负面主题与卡普空实际推进 AI 的做法形成对照。文章重点关注 RE Engine 和大型游戏开发流程的技术演进，而非具体产品中已经使用了哪些 AI 功能。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T16:49:10.000Z",
+            "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+          }
+        ]
+      },
+      {
+        "id": "story-rn-on-your-cash-5fa45ccd-61d14de60f61eb7c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "These bond strategies can help you get a safe 5% return on your cash",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:49:00.000Z",
+        "pubTime": "2026-10-04 02:49",
+        "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 02:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-03T18:49:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-date-orion-linux-windows-79c0ecc656c81ee6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "An Update on Orion for Linux and Windows",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T15:57:16.000Z",
+        "pubTime": "2026-10-03 23:57",
+        "url": "https://blog.kagi.com/update-orion-linux-windows",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-03 23:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://blog.kagi.com/update-orion-linux-windows",
+            "publishedAt": "2026-10-03T15:57:16.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790969939972,
     "timeDisplay": "2026-10-03 03:38 (UTC+8)",
     "date": "2026-10-03",
