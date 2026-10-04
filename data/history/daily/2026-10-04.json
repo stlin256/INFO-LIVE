@@ -1,5 +1,1541 @@
 [
   {
+    "timestamp": 1791082524305,
+    "timeDisplay": "2026-10-04 10:55 (UTC+8)",
+    "date": "2026-10-04",
+    "runId": "feed-20261004T024429804Z-5c293f",
+    "generatedAt": "2026-10-04T02:55:24.305Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 10:44",
+      "lead": "本轮抓取于 2026-10-04 10:44 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】要闻：在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使：在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使用 #[derive(...)] 为其生成实现，例如：",
+        "【undefined】联邦法官称 Flock 构成“无差别的大规模监控”：本周，一名联邦法官裁定，俄克拉何马州塔尔萨县的一名警长办公室副警长在未取得搜查令的情况下，使用 Flock Safety 搜索一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。",
+        "【undefined】日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕：中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。",
+        "【undefined】扬基队在美联分区系列赛首战不敌光芒队，奥斯汀·韦尔斯打破无安打后冲击三垒被刺杀出局：奥斯汀·韦尔斯把纽约扬基队全场唯一的一支安打变成了球队最令人痛苦的一次出局。",
+        "【undefined】礼盒褪去奢华、出游不赶人潮，节日消费为何变了？：不讲排场讲健康，不重应酬重温情。今年中秋、国庆双节，消费市场正兴起一股清新风气。",
+        "【undefined】“甜蜜业态”婚旅：让新人把“我愿意”说给山海听：国庆假期，云南省德宏傣族景颇族自治州梁河县备好了一场民族文化的盛宴：热烈奔放的目瑙纵歌、穿越时光的庭院剧、充满野趣的稻花鱼体验、烟火氤氲的古镇美食、惬意畅快的山野徒步……",
+        "【undefined】你刷到的短视频，有多少是演的：今年6月，乡村生活赛道博主黄少斌拍了一条下河捞小龙虾的视频。他用一口广普告诉观众：“小龙虾是买的，买了5斤，我们看看能抓回来多少……”",
+        "【undefined】卢拉还是博索纳罗：巴西大选两种截然不同结果令华尔街严阵以待：巴西总统选举首轮投票将于周日举行，鉴于这场势均力敌的竞选可能产生不同结果，华尔街正针对各种情形做出截然不同的市场预测。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包中缺少文章标题、正文、来源、发布时间、链接及可引用事实，无法进行可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 73,
+      "completedTasks": 73,
+      "succeeded": 38,
+      "degraded": 35,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 73,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 654450,
+      "byRole": {
+        "translator": {
+          "attempts": 51,
+          "degraded": 26,
+          "succeeded": 25
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "degraded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 4,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 73,
+          "degraded": 35,
+          "succeeded": 38
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-0-translator-2",
+      "article-3-translator-0",
+      "article-3-translator-1",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-22-translator-0",
+      "article-23-translator-0",
+      "article-25-translator-0",
+      "article-27-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-39-translator-1",
+      "article-40-translator-0",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:12.554Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.068Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:12.748Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.011Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.756Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.920Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.777Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.072Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.945Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.366Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.698Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.215Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:16.467Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.931Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:12.908Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.061Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.966Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.153Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.920Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.112Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.332Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.790Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.166Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.756Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.061Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.886Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.068Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.979Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:16.215Z",
+        "lastSuccessAt": "2026-10-04T02:44:17.001Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:15.260Z",
+        "lastSuccessAt": "2026-10-04T02:44:17.134Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:16.018Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.467Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.988Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.420Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.739Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.777Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.349Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.739Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:12.881Z",
+        "lastSuccessAt": "2026-10-04T02:44:12.908Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:11.847Z",
+        "lastSuccessAt": "2026-10-04T02:44:12.881Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.210Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.503Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.153Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.330Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-04T02:44:14.072Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.173Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.321Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.420Z",
+        "lastSuccessAt": "2026-10-04T02:44:15.260Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.979Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.066Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:16.366Z",
+        "lastSuccessAt": "2026-10-04T02:44:19.318Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.282Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.372Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-04T02:44:14.489Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.447Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.572Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.572Z",
+        "lastSuccessAt": "2026-10-04T02:44:15.039Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:16.458Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.994Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.790Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.086Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.066Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.489Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.147Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.282Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.503Z",
+        "lastSuccessAt": "2026-10-04T02:44:15.028Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-04T02:44:14.372Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.330Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.698Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:11.845Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.349Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.486Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.945Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:11.846Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.907Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.950Z",
+        "lastSuccessAt": "2026-10-04T02:44:17.077Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.112Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.210Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.011Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.166Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.321Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.486Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:14.086Z",
+        "lastSuccessAt": "2026-10-04T02:44:14.147Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:15.028Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.018Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:15.039Z",
+        "lastSuccessAt": "2026-10-04T02:44:16.458Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.907Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.988Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:13.886Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.966Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:11.830Z",
+        "lastSuccessAt": "2026-10-04T02:44:12.554Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:11.843Z",
+        "lastSuccessAt": "2026-10-04T02:44:12.748Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T02:44:11.844Z",
+        "lastSuccessAt": "2026-10-04T02:44:13.332Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--ukraina-2122072136-html-5dbb262be746afbb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Замминистра обороны Украины жаловался на платный проезд в трамвае во Львове",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T02:37:10.000Z",
+        "pubTime": "2026-10-04 10:37",
+        "url": "https://ria.ru/20261004/ukraina-2122072136.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 10:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/ukraina-2122072136.html",
+            "publishedAt": "2026-10-04T02:37:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-microsoft-thinkingbox-bd1136d0fcfd6f13",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
+        "source": "Hugging Face (开源模型社区)",
+        "sourceSlug": "huggingface",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T22:56:48.000Z",
+        "pubTime": "2026-10-04 06:56",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "imageUrl": null,
+        "fullContent": "Figure 1: ThinkingBox runs an agent against isolated MCP tool sessions, then grades the terminal backend state and side effects it leaves behind. From our ThinkingBox paper.\n\nA customer writes in. Her $745 kitchen appliance has been stuck in a courier \"exception\" at a Nashville distribution center, fifteen days past its estimated delivery date.\n\nThe AI agent does careful work. Nine tool calls: it pulls the order, checks tracking, looks up her customer profile, searches the refund policy twice, confirms no ticket exists, opens one, documents the timeline, and reads the policy correctly; her account segment genuinely does not qualify for late-delivery compensation.\n\nThen it closes the ticket as resolved and replies “ Since your query is resolved, is there anything I may assist you with? ”\n\nTwo things are wrong. The carrier exception is still open, so the required end state was on hold, pending resolution. And the customer never got a real answer to what she actually asked.\n\nAn AI grader checking tool calls would see nine well-formed ones. The grader checking whether the agent wrote to the database would see that too. The database is what disagrees.\n\nThat gap is what ThinkingBox measures. Across 507 stateful business workflows, each run 20 times against various LLM models, it grades agents on terminal backend state and side effects. This post covers what we found, what consistency costs, and how to run the benchmark yourself through OpenEnv.\n\nYou can run this one yourself: the example above is adapted from a benchmark task sandbox_external_retail_group1.py:test_case_ST003_006, and the executable check that fails is a single field: the ticket's status is solved where the required end state is hold. The full trace is in Appendix D.4, Case 3 of our paper.\n\nWant to try it before reading the results? Skip to section Run it yourself.\n\nFinal responses and valid tool calls are only proxies. An agent can sound correct while leaving the wrong value, changing the wrong record, or creating an extra side effect. Only the records it leaves behind settle the question.\n\nThe gap is substantial. In a common-set ablation covering 121,680 valid trials across 12 LLM models, 79,853 attempts failed the executable checks. Of those failures, 67.24% still terminated cleanly, invoked a state-changing tool, and reported no final tool error. Executable checks nevertheless found wrong field values in 77.61% of them, unintended extra effects in 43.30%, and missing required effects in 25.36%. Those state-check findings overlap.\n\nA trajectory is a claim. Database state is the evidence. Repetition is the trust test.\n\nAn agent that processes a refund correctly once and mishandles it the next four times is not a working refund agent. So every task runs 20 independent times, each from an identical clean backend, and we report three different things:\n\nTable 1: The three numbers we report, and the question each one answers.\n\nWe use observed 20/20 in this blog post as the literal count of how many of the 507 tasks passed 20 out of 20. No estimator, no smoothing.\n\nStarting with the familiar view. The table below reports pass@1, the single-attempt score estimate, broken out by domain. This is the number most leaderboards publish, and on its own it reads like an ordinary capability ranking.\n\nTable 2: ThinkingBox-Bench pass@1 (%) by domain. Each model is evaluated on every task for 20 repeated trials. Bold marks the group leader; underline marks the runner-up. The standard errors for the single attempt score estimates are provided in Table 4 in our ThinkingBox paper.\n\nClaude Opus 5.5 leads overall at 67.16%, two-thirds of a point above Claude Opus 5. Kimi-K3 is the strongest open-weights model, within a point of GPT-6-Astra. Domain matters just as much: Claude Opus 4.6 scores 68.62% on retail but 8.30% on auto insurance.\n\nOne good run tells you a model can do the work. It does not tell you whether it will do it again. So run every task 20 times and ask how much of that score survives.\n\nFigure 2: How much of each model's single-attempt score survives 20 repeats.\n\nOnly three hold on to most of their pass@1 scores: GPT-6 Astra retains 78% of its single-attempt rate, and Claude Opus 5.5 and Claude Opus 5 each retain 71%. At the other end, GLM-5.1, Kimi-K2.6 and DeepSeek-V4-Pro each keep about 8%.\n\nThe gap between what a model can do once and what it does every time is the whole story.\n\nFigure 3: Breadth and consistency pull apart. Twelve of the eighteen models are shown; six below 33% pass@1 are omitted for legibility.\n\nKimi-K3 has the broadest coverage of any model we tested. It solves 93.89% of the benchmark at least once: 476 of 507 tasks. Only 31 tasks defeat it entirely, the lowest count in the field. On retail workflows it leads outright at 82.24% pass@1, ahead of every proprietary model.\n\nKimi-K3 is also among the least consistent. Just 68 of 507 tasks, 13.41%, succeed in all 20 attempts.\n\nClaude Opus 5 inverts this. It solves fewer tasks at least once (79.09%; 106 defeat it entirely) but completes 47.53% of the benchmark on every single attempt.\n\nA newer model does not fix this. Claude Opus 5.5 scores higher than Claude Opus 5 on every-attempt average, 67.16% against 66.50%, and solves more tasks at least once. It passes exactly the same number of tasks on all 20 attempts: 241. Half a point of headline accuracy bought no additional dependability at all.\n\nIf you are choosing a model for work that touches real records, pass@20 is the wrong column to look at.\n\nCapability comparisons usually stop at the score. For anyone deploying, the relevant question is what a successful unit of work costs. We measure that as cost per successful task attempt. We say task attempt because every benchmark task is run repeatedly and cost is incurred per attempt, so pass@1 is the matching quality denominator.\n\nWe took each model's recorded token usage from its full 507 × 20 campaign and priced it at undiscounted list rates available on OpenRouter+, reversing promotional discounts and excluding endpoints that declare quantization. Input, output and cache rates all come from one provider endpoint per model.\n\nThen we divided one run's cost by the number of attempts that succeeded:\n\nCost per successful task attempt = estimated cost for 507 attempts, one per task ÷ (507 × pass@1)\n\nThis is a comparative efficiency index, not an invoice, and not the price of serving one production request. It also prices single successes, not consistency. We price consistency next.\n\nExample: GPT-5.4 costs $43.49 for 507 attempts (one attempt per task) and has 65.36% pass@1, so $43.49 ÷ (507 × 0.6536) = $0.131 per successful task attempt.\n\nA model is on the frontier if no other model is both no more expensive and at least as accurate. Three models qualify; every other model is dominated on at least one axis.\n\nFigure 4: Cost per successful task attempt against pass@1. Ringed dots are pareto cost frontier models.\n\nThe frontier has three steps. GPT-5.6 Sol has the lowest cost per success at $0.127; GPT-5.4 raises pass@1 by 3.45 percentage points for $0.004 more per success; Claude Opus 5.5 adds another 1.80 points at $0.276 per success. Each of the three remains on the cost frontier line because no cheaper model matches its pass@1.\n\nClaude Opus 5 is the clearest case: at $0.475 per successful attempt and 66.50% pass@1, it is both more expensive and less accurate than Claude Opus 5.5 at $0.276 and 67.16%.\n\nCost per success rewards a model that is cheap and often right. It does not reward a model that is right every time. So we also compute cost per dependable task: the cost of the full 20-run campaign divided by the number of tasks the model passed on all 20 attempts.\n\nCost per dependable task = estimated cost of 20 runs of 507 attempts ÷ tasks passing 20/20\n\nExample: GPT-6-Astra costs 20 × $86.03 = $1,720.60 for the campaign and passes 231 tasks on every attempt, so $1,720.60 ÷ 231 = $7.45 per dependable task.\n\nTable 3: The nine lowest costs per dependable task among models with at least one observed 20/20 task, sorted low to high. Estimated $, not actual cloud bills.\n\nNow rank by consistency. GPT-5.4 is the cheapest at $6.80, though only 128 tasks meet the bar. GPT-6 Astra reaches 231 at $7.45, and Claude Opus 5.5 the joint-highest 241 at $7.80.\n\nNone of the three dominates the others: each additional dependable task costs more. Claude Opus 5 also passes 241, but at $13.30, so Opus 5.5 dominates it outright. GPT-5.6 Sol, the cheapest per single success at $0.127, costs $9.76 per dependable task. The cheapest way to get a right answer is not the cheapest way to get a dependable one.\n\nWe assign each failed trace one deterministic diagnostic signature, and the headline is actionable: roughly four in five failures are tool handling, not reasoning. Across an ablation study in Table 5 of our paper:\n\nThese are unweighted averages of per-model shares and observable labels, not unique causal explanations.\n\nThe practical pattern is simple: agents usually get far enough to attempt the workflow, then fail to recover from tool errors, failed preconditions, or empty lookups. That is a retry and error-recovery problem before it is a model problem.\n\nDifficulty also changes by domain: across the models listed in Table 2 above, retail averages 59.52% pass@1 while auto insurance averages 33.83%.\n\nWhat to do about it. Treat the 20/20 rate as a design input, not a verdict. The same signal the benchmark grades on is available in production: check the terminal state before you commit, not the model's summary of it.\n\nClassify tool and system errors so retries target the recoverable ones. Cut the tool surface to what the workflow needs. And require human approval on the changes you cannot cheaply reverse. We have not measured the lift from any of these on this benchmark, which is exactly the kind of thing the environment now makes testable.\n\nThinkingBox is the agent sandbox, while ThinkingBox-Bench is a dataset benchmark to evaluate agents. The diagram at the top of this post shows the loop; here is what each part does.\n\nFigure 5: The sandbox loop from panel A in Figure 1 above: isolated tool session, terminal database state, side effects, executable judges.\n\nEach task defines a starting backend state, a user goal, the available MCP tools, the domain policy, and executable checks over the terminal state. A simulated user holds private context (a booking reference, a preference, or a date of birth) and releases it only when asked.\n\nEvery attempt gets an isolated MCP session with freshly initialized state. Two attempts of the same task never share a database row or cached tool state, which is what makes 20-trial comparison meaningful.\n\nAt the end, a side-effect extractor derives what actually changed, and deterministic judges compare it against the required end state, accepting any trajectory that produces the right outcome while rejecting wrong, missing or extra effects. For requirements with no clean database value (\"did the agent disclose this is not guaranteed?\"), a narrow binary rubric question handles the semantics. 477 of the 507 tasks are graded on state alone; 30 add response rubrics.\n\nThe trust boundary: the model sees tasks, dialogue and tool schemas. Golden state, assertions, grading internals and credentials stay on the evaluator side.\n\nThinkingBox is now on Hugging Face, both the harness and the dataset. ThinkingBox-Bench now sits behind the OpenEnv interface, and each finished episode returns a binary pass/fail reward. The released adapter is designed for evaluation; separate, non-benchmark scenarios can use the same interface in training workflows.\n\nTested on Linux and WSL, with Python 3.11+, uv and Docker. You also need a thinkingbox-data checkout at the pinned release and model endpoints for the agent, simulated user and judge. One endpoint can serve all three roles, which is the simplest way to start. The OpenEnv image starts only the OpenEnv API; everything else you run yourself.\n\nIn a second terminal, start Typesense 30.1 and wait for its health check:\n\nIn a third terminal, start the Session Proxy and MCP servers.\n\nBack in the first terminal, start the OpenEnv server against a ThinkingBox YAML config naming your three models (config guide):\n\nGate on readiness before running anything. It returns 503 until its observable data, configuration and Session Proxy checks pass. It cannot observe Typesense or live-probe every model endpoint, so confirm those separately:\n\nNow score a real episode. example_usage.py only resets and lists tools; for agent actions, effects and assertions use the packaged evaluator:\n\nThe OpenEnv adapter writes operational failures to an errors sidecar so they can be rerun rather than silently mixed with model outcomes. A canonical result must resolve or explicitly account for those attempts; we counted system errors as unsuccessful trials.\n\nRuns are gated on a pinned framework commit, a pinned data release and a bundle hash, so a canonical result is verifiable rather than asserted.\n\nThe useful part of this work is not our pass@1 leaderboard. It is the environment.\n\nIf you are evaluating an agent that touches real records:\n\nFurther details can be found in the following links:\n\nThinkingBox code is MIT-licensed; the benchmark data is CDLA-Permissive-2.0; the OpenEnv environment ships under OpenEnv's BSD-3-Clause.\n\nDisclaimer: every task in the public benchmark is a synthetic reconstruction. The workflows and policies are modeled on real AI agentic enterprise patterns; the customers are not real.\n\nThinkingBox and ThinkingBox-Bench is built by the Microsoft Copilot Studio team in partnership with Toloka with collaborators from the University of Pittsburgh, Northwestern University, Columbia University and UC Irvine who interned at Microsoft. Questions are welcome in the comments section below or on github\n\n+ OpenRouter cost snapshot taken on Sept 20th 2026; Opus 5.5 pricing as per the Anthropic site.\n\nMore from this author",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 73,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章将智能体的最终数据库状态和实际副作用置于核心位置，强调“工具调用轨迹、最终回复和单次成功”都不能代表可靠完成任务。报道重点包括：507项有状态业务流程、12个模型的重复测试；pass@1与20次全部成功率之间的差距；错误状态、额外副作用和遗漏副作用；模型在能力、成本与一致性之间的权衡；以及通过终态检查、错误分类、重试和人工审批提升部署安全性的建议。文章整体叙事倾向于证明ThinkingBox能够揭示传统排行榜忽视的可靠性问题，并推广其基准与工具链。"
+        ],
+        "citations": [
+          {
+            "source": "Hugging Face (开源模型社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T22:56:48.000Z",
+            "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+          }
+        ]
+      },
+      {
+        "id": "story-seek-to-stop-it-102622fa-f172ebcc8ea754a6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T00:02:00.000Z",
+        "pubTime": "2026-10-04 08:02",
+        "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 08:02 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T00:02:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ive-often-implies-inline-6d9764f86ada5bb1",
+        "title": "要闻：在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使",
+        "originalTitle": "Rust's derive often implies inline",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T01:41:57.000Z",
+        "pubTime": "2026-10-04 09:41",
+        "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+        "imageUrl": null,
+        "fullContent": "In Rust, one of the most common ways to implement core traits (like Debug, Display, and Clone) is to #[derive(...)] them, e.g.:\n\nWhat I didn't know until recently is that Rust currently emits #[inline] as part of these derivations. This is seemingly not guaranteed, but is implied by example in the reference and can also be seen if one expands the macros.\n\nUsing the example above, this is what you get when you expand the #[derive(Debug)] in the playground:\n\nThis is almost always what we want: #[inline] is just a hint, and typical derived Debug, Clone, etc. implementations benefit from being inlined (since they're often trivial).\n\nBut not always! Imagine an error hierarchy like this1:\n\nThat's a lot of code that can get inlined for each invocation of the Debug implementation of Errors, which can occur repeatedly in e.g. debug or trace logging.\n\nIn fact, it's so much code that it can turn out to be a non-trivial amount of a Rust binary's total size: we found that we could shrink uv's binary size by approximately 160KB by preventing2 rustc from inlining a given Debug implementation.\n\nThis was surprising to me on two levels: the size cost added up fast, and rustc (seemingly) did not apply a limiy to the size or number of times a Debug implementation was inlined. I suspect this is the right decision in many programs, however!\n\nThis hierarchy is drastically simplified: real world Rust applications often have deeply nested error enumerations with nontrivial numbers of fields. ↩\n\nWe did this by adding our own-proc macro that behaves like derive(Debug), but with #[inline(never)]. ↩",
+        "fullTranslation": "在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使用 #[derive(...)] 为其生成实现，例如：\n\n我直到最近才知道，Rust 目前会将 #[inline] 作为这些派生实现的一部分发出。这一点似乎并没有得到保证，但参考文档中的示例暗示了这一行为；展开这些宏时也可以看到这一点。\n\n以上述示例为例，在 Playground 中展开 #[derive(Debug)] 后，得到的结果如下：\n\n这几乎总是我们希望看到的结果：#[inline] 只是一种提示，而典型的派生 Debug、Clone 等实现通常都能从内联中受益（因为它们往往很简单）。\n\n但也并非总是如此！设想一下这样一个错误层级结构¹：\n\n对于 Errors 的每次 Debug 实现调用来说，这里都有大量代码可以被内联；而这种调用可能会在调试日志或跟踪日志等场景中反复发生。\n\n事实上，代码量之大，最终可能会在 Rust 二进制文件的总大小中占据相当可观的比例：我们发现，通过阻止 rustc 内联某个 Debug 实现，可以将 uv 的二进制文件大小缩减约 160KB²。\n\n这件事让我在两个层面上感到意外：大小开销增长得非常快，而且 rustc（表面上看）并没有对 Debug 实现的内联规模或内联次数设置限制。不过，我怀疑对于许多程序来说，这仍然是正确的决定！\n\n这个层级结构已经经过大幅简化：现实世界中的 Rust 应用通常会有深度嵌套的错误枚举，并且包含数量不少的字段。¹\n\n我们通过添加自己的过程宏实现了这一点：它的行为类似于 derive(Debug)，但使用了 #[inline(never)]。²",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦 Rust 的 #[derive(...)] 派生实现当前通常会带有 #[inline]，并分析这一行为对 Debug 等实现及最终二进制体积的影响。文章强调：该行为似乎不是明确保证，但可从参考文档示例和宏展开结果中观察到；对简单派生实现通常有利，但对复杂、嵌套的错误类型可能导致大量代码被内联。作者以 uv 项目为例称，通过为某个 Debug 实现使用带 #[inline(never)] 的自定义过程宏，二进制大小约减少 160KB。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T01:41:57.000Z",
+            "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/"
+          }
+        ]
+      },
+      {
+        "id": "story-xpayer-money-sports-html-bb99024ba7486447",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T00:30:01.000Z",
+        "pubTime": "2026-10-04 08:30",
+        "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/-sports-stadiums.jpg",
+        "fullContent": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+            "publishedAt": "2026-10-04T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4-serija-2122071593-html-8d999531aa711e06",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В пригороде Харькова прогремела серия взрывов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T02:21:40.000Z",
+        "pubTime": "2026-10-04 10:21",
+        "url": "https://ria.ru/20261004/serija-2122071593.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 10:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/serija-2122071593.html",
+            "publishedAt": "2026-10-04T02:21:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minate-mass-surveillance-d3e5e8c1a81ab330",
+        "title": "联邦法官称 Flock 构成“无差别的大规模监控”",
+        "originalTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:33:15.000Z",
+        "pubTime": "2026-10-04 03:33",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "imageUrl": null,
+        "fullContent": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAs reported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court case focused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "本周，一名联邦法官裁定，俄克拉何马州塔尔萨县的一名警长办公室副警长在未取得搜查令的情况下，使用 Flock Safety 搜索一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。\n\n据 404 Media 报道，这一裁决并不构成具有约束力的先例，但这是联邦法官首次判定 Flock 搜查违宪的案例之一。\n\n在此案中，萨拉·希尔法官表示，该副警长在搜索 Flock 数据库中的这名女性车牌之前，本应取得搜查令，因为他“没有明显理由”进行搜查，“除了[这名女性的车辆]挂着加利福尼亚州车牌这一事实之外”。\n\n随后，这名副警长利用该女性在 Flock 系统中的行程记录，作为搜查其车辆的依据之一；据称，他在车内发现了 91 磅（约 41.3 千克）甲基苯丙胺。但希尔法官写道，在 Flock 搜查之后取得的所有证据，“都必须作为毒树之果予以排除”。\n\n希尔法官还将批评范围扩大到对 Flock 数据库进行无搜查令搜索的问题。她写道，追踪人们的位置——即使他们身处公共场所——“当执法部门能够在较长时间内不加区分、被动地记录你的行踪，并在任何方便的时候将这些信息用于任何目的时，就会产生宪法层面的问题”。\n\n希尔写道：“这是一种无差别的大规模监控。它并非像[最高法院案件‘卡彭特诉美国案’那样，针对单个个人；该案聚焦于政府机构如何获取手机位置数据]。这是一种能够持续收集所有经过任何联网摄像头的车辆信息，并按执法部门要求提供这些信息的工具。”\n\n希尔法官加入了来自不同政治立场、日益壮大的 Flock 批评者行列。包括佛罗里达州和得克萨斯州在内的多个地方及州政府表示，将停止使用这项技术。而在周五，佛蒙特州民主党参议员伯尼·桑德斯提出《阻止 Flock 法案》，该法案将禁止联邦机构使用 Flock 等自动车牌识别系统。\n\nFlock 首席执行官加勒蒂·兰利——我们将在 TechCrunch Disrupt 大会上与其进行台上访谈——曾呼吁在隐私与安全之间达成“妥协”，并就执法人员使用 Flock 系统跟踪女性一事向遭到跟踪的女性致歉。随着这些取消合作的情况出现，据报道，Flock 还提出员工自愿买断方案，以缩减员工规模。\n\n当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是 TechCrunch 的周末编辑。此前，他曾担任 Adweek 科技记者、VentureBeat 高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司的内容副总裁。他住在纽约市。\n\n如需联系安东尼，或核实以他的名义发出的联系信息，可发送电子邮件至 anthony.ha@techcrunch.com。\n\n第二张通行证立减 50%\nDisrupt 体验旨在与他人共享。购买你的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的未来，拓展你的交流范围。\n\n谷歌认为，SpaceX 的“星舰”必须发射 1,800 次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用 23 个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定军方下一步行动\n\nOpenAI 推出 Dots，这是一款外形活泼的智能体化虚拟形象\n\nAMD 将以 82 亿美元收购李飞飞的 World Labs\n\n走红的 AI 智能体 Instinct 以 100 亿美元估值完成 10 亿美元 C 轮融资",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "来源叙事重点：报道将案件置于“隐私权与公共安全的冲突”框架下，突出法官对无证查询Flock数据库的宪法疑虑，以及将长期、广泛收集车辆位置数据描述为“无差别的大规模监控”的司法论述。同时报道关注该裁判对Flock商业前景和政治环境的影响，包括部分政府停止使用、联邦立法提案、企业寻求妥协及裁员买断。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:33:15.000Z",
+            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+          }
+        ]
+      },
+      {
+        "id": "story--like-the-1970s-d645cbca-f6b31e9246e0f858",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T23:58:00.000Z",
+        "pubTime": "2026-10-04 07:58",
+        "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Is it time to dust off the financial playbook from that dismal decade?",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 07:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-03T23:58:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--2024-04-12-use-renovate-8cd4c99d6cf4aee9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why I recommend Renovate over any other dependency update tools (2024)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T22:54:52.000Z",
+        "pubTime": "2026-10-04 06:54",
+        "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+        "imageUrl": null,
+        "fullContent": "If you've read my blog before, or interacted with me at work or in the Open Source world, you're likely to know that I'm a huge fan of Renovate.\n\nFor those that aren't aware, Renovate is one of the big players in dependency updating tooling, commonly seen in comparisons with Dependabot or Snyk.\n\nI've been using Renovate for the last ~5 years, alongside a mix of Dependabot and Snyk to keep me grounded. I absolutely love Renovate, and make a point of making it so I can run Renovate where possible.\n\nI've also had the experience operating Renovate in self-hosted mode as well as used the hosted Renovate app by Mend and the Mend Enterprise SAAS, and I've written about the lessons learned self-hosting Renovate.\n\nRenovate has some really key features that set it apart from the competition, and I'm sure in the time it's taken me to write this, they've shipped some new ones 😻\n\n(Aside: I'm largely writing this blog post now, as I've recently been shouting the benefits of Renovate, and instead of writing another internal-only document at work (as I did at Deliveroo), I wanted to write it as a form of blogumentation).\n\nA few years back, I wrote about some tips for using Renovate to make keeping your software up-to-date easier, which I still stand by.\n\nSince then, I've worked across a number of different ecosystems, repository sizes, and levels of comfort merging dependency updates, and have learned a few more things about effectively using Renovate - but through it, I'm still very sure of Renovate being the best tool in the ecosystem.\n\nRenovate is extremely configurable, with dozens of configuration options to tune your experience. But Renovate doesn't end up being \"too\" configurable, where you end up spending more time tweaking config than doing the changes, but configurable enough that it's very likely you can do what you need to with it.\n\nThis is something that really hit me when we were rolling out Dependabot at Deliveroo, where my team owned ~30 repositories, and so for each of these repos, we needed to hand-craft a dependabot.yml, as Dependabot needs to be told which directories contain which dependencies, and how often to update them.\n\nAfter we'd had about a week of usage, we started needing to tweak the configuration in a few of them to reduce the noise, which then required us to raise PRs across all the repos and get them updated.\n\nBecause Dependabot requires a bit of a snowflake configuration per repository, this wasn't easily automatable, even with great tools available to automate some of the bulk updates, which made this a rather onerous and frustrating process.\n\nCompare this to Renovate, where there's an excellent first-class support for shareable config presets, in which you can \"extend\" multiple configuration(s).\n\nThis allows a team that wants to have consistency (i.e. in how often they receive updates to the AWS and Google Cloud SDKs, or which labels they want on PRs) to create a shared preset for their team that defines this. Then, each of their repositories can \"extend\" this configuration, as well as defining their own configuration on top of it at a repo-specific level.\n\nThis also makes it possible to provide good guardrails for your organisation, providing a good set of defaults, such as a base.json:\n\nThis then allows defining a somewhat opinionated good starting point for teams with a default.json:\n\nThen, teams only need to set the following in their repos' renovate.json, and they'll have the benefits of onboarding with a lot of the hard work done with starting:\n\nLinking back to the comment about having to hand-craft dependabot.ymls, the great thing about Renovate is that there's some great defaults, and that it can autodetect the ecosystems your repo uses, and appropriately raises PRs.\n\nThis ease of onboarding is truly excellent, and you can even have an onboarding PR raised to your repos to make it even simpler.\n\nFor instance, at Deliveroo, we made it so there was a default set of configuration for all repos to give us an easy means to update Docker images, but then if teams wanted to manage everything, they could add a renovate.json, and it'd be more fully featured.\n\nAdditionally, Renovate comes with some great inbuilt configuration in the form of presets, including a \"best practices\" guide and associated preset, which makes it easier to keep on top of community best practices, without needing to bikeshed about what you think is best.\n\nIf you find that config:best-practices is a little too much, there's config:recommended as a starting point, and you can always downgrade or exclude rules you'd prefer not to follow. Or if you really want to control things config:base is the minimum you should pull in.\n\nAs suggested above, it's possible to tune how different packages get updated, where you can group multiple updates into a single PR.\n\nFor instance, let's say that you use 9 different AWS services in your application, and instead of receiving 9 PRs every time there are updates across the SDKs, you want a single one. In this case, you could craft the following Renovate configuration:\n\nWhat's great about this is that you can also bundle things like all patch updates into a single PR:\n\nThis is something that's recently been added to Dependabot, which is great, cause Renovate's had it for years 😝\n\nBecause Renovate is an Open Source tool you can run on the command-line, it means you can also get the ability to use Renovate for one-off executions, for instance to get everyone in your organisation to a minimum version of a given dependency, or just to do an infrequently performed set of updates.\n\nSomething I always refer back to is the fact that Renovate has a tonne of supported package managers, package ecosystems and versioning tools.\n\nRenovate's bot comparison guide docs has a good example which links out to the differences between:\n\nAs Dependabot is more focussed on being used on GitHub's platforms (citation needed?) support for things like CircleCI, GitLab CI or other competitors' tooling doesn't seem to be available.\n\nOne of the things you'll be used to having from your dependency update tool of choice is your standard package manager support, where it'll update a go.mod or a pom.xml in your repositories.\n\nBut one thing that's quite important to understand is that there are many more dependencies in your project than those installed in your package manager. Something I find great about Renovate is that, as well as managing Dockerfiles, build.gradles, .gitlab-ci.yml, etc, it will also manage things your .ruby-version or configuration for the ASDF version manager.\n\nBut what about some of the non-standard, or organisation-specific means for tracking versions?\n\nFor instance, installing the golangci-lint linting tool recommends using curl | sh:\n\nAnd it's common for Dockerfiles to have a definition of the version of dependencies:\n\nOr what if you have a custom deployment configuration like:\n\nIt's very unlikely that you have these supported by other tools out-of-the-box, and Renovate is the same.\n\nBut Renovate does give you the ability to manage these versions yourself.\n\nUsing Renovate's custom managers we can craft a configuration file such as:\n\nAnd this will allow us to manage the golangci-lint installation.\n\nIdeally, this sort of configuration may make it upstream so Renovate can do it out-of-the-box, but as we can see from the above example, there may be things that are organisation- or repo-specific, and so having it upstream'd doesn't make sense.\n\nAnd you can do even more with it - I've mentioned you can use it for one-off updates on the command-line, but for instance I've also written a tool renovate-graph which takes the detected dependency data from Renovate and gives you a JSON blob you can consume.\n\nThis underpins a large swathe of the power behind dependency-management-data and can be used for other means, such as converting Renovate data exports to a Software Bill of Materials (SBOM).\n\nOne thing I love about Renovate is that you can enable the Dependency Dashboard, which gives you an overview of the detected dependencies, open PRs, as well s anything that may be waiting, or has failed to update.\n\nThis is a hugely useful insight into the at-a-glance how far behind are we on updates, giving a view of whether you maybe want to spend a bit more time focussing on updates, or looking at ways to cut through the noise.\n\nWhen you merge a PR into your default branch, Renovate will rebase open PRs, so they're easier to review, and are guaranteed to run against the latest changes. However, if you're not getting to your updates as often as changes are going in, you may have a tonne of PRs constantly building, which is a waste of energy and CI minutes.\n\nInstead, you can use the Dependency Dashboard for its ability to i.e. require major bumps be gated behind a manual approval, as it's likely you'll need some human interaction for that PR, and can then only raise it when you're actually ready to deal with it.\n\nA very important factor to me is that Renovate is Open Source, and open to community contributions.\n\nAlthough it's probably best to be split into another article, I love the AGPL3, and it's a great way of making sure that anyone hosting Renovate as a platform makes sure that their users get the access to the source code.\n\nAlternatively, Snyk is proprietary, and Dependabot is source available (or at a stretch \"open source\" not \"Open Source\") with a license that doesn't even appear on the SPDX license list. Update 2024-05-19: Dependabot is now MIT-licensed 👏\n\nRenovate is also brilliantly set up as a community project, where they're shipping hundreds of PRs a month, alongside managing the community really well. I've seen a few things change in the last few years I've been more actively contributing, and it's a really well run project and an indication of something I'd love to be able to replicate at some point!\n\nIt also helps that Mend, the company behind Renovate, invests a fair bit of time and money into development of the project, as well as their commercial offerings on top of it, which continue to make the project sustainable and remain Free and Open.\n\nFollowing on from the excellent community and maintainer contributions alike, there's also some really excellent work on a technical writing and documentation point of view, which makes a lot of tasks straightforward to solve.\n\nIf there's something a little more complex or custom than the docs can offer, it's usually something that can be answered by the community in a GitHub Discussion, and likely could turn into a docs improvement, if necessary.\n\nThere's even a great comparison table between Renovate and other dependency update bots, as well as tips on how best to update your projects.\n\nI've recently discovered a few pages and features that I wasn't aware, just by going through the docs.\n\nIn summary, there's just so much that makes Renovate a greater choice than any of the alternatives, and I'm sure I could talk about more things that make it great.\n\nWhether you self-host it for maximum control (such as being able to access internal artifact registries), or run the hosted app for ease of operations, or just run it from the command-line once in a while, it can be hugely useful to your experience as an engineer.\n\nI hope you'll check it out!\n\nThis post's permalink is https://www.jvt.me/posts/2024/04/12/use-renovate/ and has the following summary:\n\nThe canonical URL for this post is https://www.jvt.me/posts/2024/04/12/use-renovate/ .\n\nWritten by Jamie Tanna on Fri, 12 Apr 2024 11:06:35+01:00, and last updated on Sun, 10 Nov 2024 16:30:37+00:00.\n\nContent for this article is shared under the terms of the Creative Commons Attribution Non Commercial Share Alike 4.0 International, and code is shared under the Apache License 2.0.\n\n#blogumentation #renovate #dependabot #snyk.\n\nHas this content helped you? Did it solve that difficult-to-resolve issue you've been chasing for weeks? Or has it taught you something new you'll be able to re-use daily?\n\nPlease consider supporting me so I can continue to create content like this!\n\nThis post was filed under articles.\n\nBelow you can find the interactions that this page has had using WebMention.\n\nHave you written a response to this post? Let me know the URL:\n\nDo you not have a website set up with WebMention capabilities? You can use Comment Parade.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 70,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕依赖更新工具的工程实践，重点论证 Renovate 在配置可复用性、自动发现依赖、更新分组、生态覆盖、自定义管理器、依赖仪表盘、命令行使用、开源许可、社区和文档等方面的优势。叙事主要通过作者在 Deliveroo 等组织中的使用经验，将 Renovate 与 Dependabot、Snyk 对比，并把可配置性、自动化能力和开源属性塑造为核心评价标准。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T22:54:52.000Z",
+            "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/"
+          }
+        ]
+      },
+      {
+        "id": "story--stronger-arguments-html-fc2d17c7f7fd1b48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Feeling secure in a group may help dissenters make stronger arguments",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T21:00:06.000Z",
+        "pubTime": "2026-10-04 05:00",
+        "url": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/group-project.jpg",
+        "fullContent": "When everyone in a meeting voices the same opinion, an organization can miss important warning signs and new ideas. A research team from KAIST suggests that when members feel securely accepted within their group, they can express dissenting opinions in greater detail and more persuasively, and other members may be more willing to use those opinions in decision-making.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html",
+            "publishedAt": "2026-10-03T21:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--khokkey-2122071450-html-c883871f34e9d22f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Гол и две передачи Малкина принесли \"Питтсбургу\" победу над \"Монреалем\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T02:17:11.000Z",
+        "pubTime": "2026-10-04 10:17",
+        "url": "https://ria.ru/20261004/khokkey-2122071450.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 10:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/khokkey-2122071450.html",
+            "publishedAt": "2026-10-04T02:17:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-it-no-longer-uses-ndas-67dac9f5f51307d8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "pubTime": "2026-10-04 02:43",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "imageUrl": null,
+        "fullContent": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.\n\nGarman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.\n\nNDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”\n\nAs a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.\n\n“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”\n\nGarman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.\n\nPointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”\n\nNvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.\n\nAs for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”\n\nOn the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.\n\nWhen it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.\n\n“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”\n\nAs for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”\n\nWill this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust,” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:43:57.000Z",
+            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-46dd-b6fa-b507e9f18a63-f9e31816fe9eae21",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Burnham reverses much of plan to scrap jury trials",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T23:01:04.000Z",
+        "pubTime": "2026-10-04 07:01",
+        "url": "https://www.ft.com/content/31c97a5c-b312-46dd-b6fa-b507e9f18a63?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80a7d27e-e99c-4b9b-8cdd-b47d8c7edf62.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Ministers are scaling back a shake-up of the court system given the ‘strength of feeling’ over the proposals",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 07:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/31c97a5c-b312-46dd-b6fa-b507e9f18a63?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-03T23:01:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-elopers-use-the-platform-a473e06b4f69feb3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why don’t more developers \"use the platform\"?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T21:35:28.000Z",
+        "pubTime": "2026-10-04 05:35",
+        "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+        "imageUrl": null,
+        "fullContent": "Posted October 3, 2026 by Nolan Lawson in Web, software engineering.\n\nFor years, advocates for web standards, performance, and accessibility have implored web developers to “use the platform”. I’ve often been one of those advocates.\n\nThe argument is simple: why build something yourself, in JavaScript, when the browser can do it for you? Whatever you build, it’s likely to have poorer performance and worse usability than something the browser could just give you out-of-the-box.\n\nI think it’s worth taking the other side, though, if for no other reason than to understand where the “platform-skeptic” developers are coming from. If “use the platform” is so obvious, then why do so many people seem to need convincing?\n\nThe most obvious reason is historical: for the longest time, browsers were playing catch-up with the ecosystem on top of them. Libraries like jQuery filled crucial gaps while browsers implemented equivalent APIs – and even then, you might have to wait for laggards like IE6 to age out before you could actually use them. Today, most browsers are evergreen (Safari is debatable, although ~7 times per year ain’t bad), but up until the 2020s or so, web developers had to deal with a decidedly lumpy web. In that environment, rolling your own is a sensible choice.\n\nAnother reason is familiarity: when you’re used to looking for React components on npm, that’s what you tend to reach for, regardless of the problem at hand. If you search for “sticky positioning” on npm, there’s no package that says “just use CSS position: sticky, you dolt.”\n\nAnd often, even with a robust standard, libraries on npm would fill a useful gap between framework ergonomics and the platform underneath it. I always found it intriguing that many React developers preferred to stick to JSX and React idioms – raw DOM APIs felt “icky” – but were perfectly happy to use lower-level libraries where raw DOM manipulations are common. For example, a virtual list library might happily use raw DOM APIs for pure performance, while exposing higher-level primitives that a novice React developer could better grasp. In a sense, the ecosystem of React components led to a natural division of labor where those with more expertise packaged up unfamiliar platform APIs in a more familiar form factor.\n\nSome of this effect was also driven by documentation. Many npm packages have lovingly detailed READMEs or websites with examples, tutorials, and screenshots. Whereas until MDN became cemented as the go-to place for web documentation (with web.dev as Google’s more future-facing arm), documentation for the web platform was scattered across blogs, StackOverflow, and sites like CSS Tricks. And many of these sites would just tell you to use a well-known library like jQuery or GreenSock!\n\nIf it were just about third-party libraries versus platform APIs, though, then I don’t think it could fully explain the antipathy toward “use the platform.” Developers who are lazy (or do I repeat myself?), and who just want a ready-made solution for whatever problem they’re facing, are unlikely to care whether that solution comes from npm, the browser, or copied off of someone’s random GitHub Gist. They want to solve their problem and move on. But there’s a different source of anti-“use the platform” that I want to explore.\n\nFor a certain type of developer, building things yourself is just more fun. And often the resulting code is easier to reason about, especially if you don’t have an encyclopedic knowledge of the web platform. And once you’ve built something, there can be a kind of IKEA effect where you want to maintain and tinker with your own homemade code.\n\nAs an example, let’s imagine you’re trying to build a modal dialog. You might visually understand how these are supposed to work: content appears on the screen, but the background is still visible although partially occluded, and maybe clicking outside the dialog dismisses it. So you might grab for position:absolute and z-index to position the dialog correctly – aha, but the background still scrolls, so you have to disable overflow on the body… And then if you understand something about accessibility, you realize you need to handle Esc to dismiss, and build a focus trap, and return focus to the element that launched the dialog, and…\n\nFor many developers, what I just described sounds like a nightmare (and a good way to build something that only half-works). But for many developers, this sounds like fun! Think of how much you learn as you start building this thing. And think about how you could start putting your own spin on it by adding animations, themes, an optional “close” button… Before you know it, you’ve built a library that’s ready to go on npm. That’s way more fun than just grabbing <dialog> and calling it a day – what a downer!\n\nAnd for many of us, before APIs like <dialog> existed, this was how we learned the web platform! Many of the people who now advocate for “use the platform” were once themselves authors of polyfills, shims, and libraries. I know because I’m one myself! I spent years working on tooling for IndexedDB, WebSQL, and other browser storage APIs as part of my work on PouchDB, which eventually led to me feeling confident enough to sit in W3C standards meetings and even open issues and pull requests on the IndexedDB spec itself. Without the forcing function of a gap in the platform that needed to be filled, I don’t know if I would have found the interest or motivation to get to that level of expertise.\n\nOf course, doing it yourself is not always an unalloyed good. Sometimes it just comes from pure ignorance. On the web platform in particular, I think one of the reasons there was such a proliferation of JavaScript solutions to problems that could be better solved by CSS, for example, is that many developers just didn’t take the time to deeply understand how CSS works.\n\nAnd to be fair, CSS has historically been hard to understand! There’s a reason the site is called “CSS Tricks.” Things like the clear fix, floats, and the min-width: 0 trick are hardly intuitive. Rather than trying to understand CSS’s internal algorithm, it’s often much easier to just imagine the imperative logic you want and then express it in JavaScript. Plus, for years CSS didn’t have a straightforward way to express common patterns like line clamping, textarea resizing, scrollbar hiding, etc. So of course developers built it themselves using the tools they already understood.\n\nI don’t even think this phenomenon of “avoiding the platform” is limited to the web. It can apply to any developer working on top of a platform they don’t fully understand. For example, at my work, we use ClickHouse for storing various kinds of analytics data. At one point, my coworker and I disagreed about how to store large JSON data in a column: he built a system for compressing it before storage, whereas I put the data in a separate key-value store and only inserted the key into ClickHouse. It turned out we were both wrong! ClickHouse automatically compresses data, and as a columnar data store you actually get better compression across rows if you just let ClickHouse handle it. And the separate key-value store was just a poor man’s version of what a columnar SELECT already does.\n\nI only realized these things after actually taking the time to thoroughly read the ClickHouse docs and then write a benchmark to prove my hypothesis. In the end I was shocked that we had built something that was slower and clunkier than what the platform itself could give us out-of-the-box. The parallels with JavaScript and the web platform were hard to ignore.\n\nI’m sure that if you’re a developer on iOS or Android, or someone building on top of a game engine, or really any kind of developer building on top of any platform layer, you probably have similar stories. There’s a reason that the stereotype of the grizzled senior engineer is someone who can take a junior’s baroque tangled mess of code and replace it with a single line. The more you learn, the more you’re able to wield your knowledge of how the entire system works end-to-end to create the smallest possible contribution to it (and thus reduce your maintenance burden in the long run).\n\nI’ve been trying really hard not to talk about AI this entire post (because I’ve done it to death over the past year), but of course I can’t help but wonder how AI coding will impact this phenomenon. I actually have both an optimistic and a pessimistic take:\n\nIn my own use of AI coding, I’ve seen both phenomena happen. I’d like to think that as models and coding harnesses get better we’ll start to veer more towards the optimistic outcome, but I can’t say for sure.\n\nIn any case, these are my longwinded and somewhat conflicting thoughts on “use the platform.” As a mantra I love it, because it succinctly captures a feeling I have when I’m looking at some overwrought pile of spaghetti code and thinking how much better and more elegant it would be if the author just understood the layers beneath them a bit better. At the same time, I’ve been that author, and I’ve felt the joy of building such beautiful, messy code (beautiful to me, anyway), so I think it’s worth understanding where such developers are coming from. For that reason, I’m sure we’ll be hearing “use the platform” for as long as there are platforms.\n\nYou can comment on the fediverse or Lobsters.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T21:35:28.000Z",
+            "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--ukraina-2122072136-html-5dbb262be746afbb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Замминистра обороны Украины жаловался на платный проезд в трамвае во Львове",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T02:37:10.000Z",
+        "pubTime": "2026-10-04 10:37",
+        "url": "https://ria.ru/20261004/ukraina-2122072136.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 10:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/ukraina-2122072136.html",
+            "publishedAt": "2026-10-04T02:37:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-microsoft-thinkingbox-bd1136d0fcfd6f13",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
+        "source": "Hugging Face (开源模型社区)",
+        "sourceSlug": "huggingface",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T22:56:48.000Z",
+        "pubTime": "2026-10-04 06:56",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "imageUrl": null,
+        "fullContent": "Figure 1: ThinkingBox runs an agent against isolated MCP tool sessions, then grades the terminal backend state and side effects it leaves behind. From our ThinkingBox paper.\n\nA customer writes in. Her $745 kitchen appliance has been stuck in a courier \"exception\" at a Nashville distribution center, fifteen days past its estimated delivery date.\n\nThe AI agent does careful work. Nine tool calls: it pulls the order, checks tracking, looks up her customer profile, searches the refund policy twice, confirms no ticket exists, opens one, documents the timeline, and reads the policy correctly; her account segment genuinely does not qualify for late-delivery compensation.\n\nThen it closes the ticket as resolved and replies “ Since your query is resolved, is there anything I may assist you with? ”\n\nTwo things are wrong. The carrier exception is still open, so the required end state was on hold, pending resolution. And the customer never got a real answer to what she actually asked.\n\nAn AI grader checking tool calls would see nine well-formed ones. The grader checking whether the agent wrote to the database would see that too. The database is what disagrees.\n\nThat gap is what ThinkingBox measures. Across 507 stateful business workflows, each run 20 times against various LLM models, it grades agents on terminal backend state and side effects. This post covers what we found, what consistency costs, and how to run the benchmark yourself through OpenEnv.\n\nYou can run this one yourself: the example above is adapted from a benchmark task sandbox_external_retail_group1.py:test_case_ST003_006, and the executable check that fails is a single field: the ticket's status is solved where the required end state is hold. The full trace is in Appendix D.4, Case 3 of our paper.\n\nWant to try it before reading the results? Skip to section Run it yourself.\n\nFinal responses and valid tool calls are only proxies. An agent can sound correct while leaving the wrong value, changing the wrong record, or creating an extra side effect. Only the records it leaves behind settle the question.\n\nThe gap is substantial. In a common-set ablation covering 121,680 valid trials across 12 LLM models, 79,853 attempts failed the executable checks. Of those failures, 67.24% still terminated cleanly, invoked a state-changing tool, and reported no final tool error. Executable checks nevertheless found wrong field values in 77.61% of them, unintended extra effects in 43.30%, and missing required effects in 25.36%. Those state-check findings overlap.\n\nA trajectory is a claim. Database state is the evidence. Repetition is the trust test.\n\nAn agent that processes a refund correctly once and mishandles it the next four times is not a working refund agent. So every task runs 20 independent times, each from an identical clean backend, and we report three different things:\n\nTable 1: The three numbers we report, and the question each one answers.\n\nWe use observed 20/20 in this blog post as the literal count of how many of the 507 tasks passed 20 out of 20. No estimator, no smoothing.\n\nStarting with the familiar view. The table below reports pass@1, the single-attempt score estimate, broken out by domain. This is the number most leaderboards publish, and on its own it reads like an ordinary capability ranking.\n\nTable 2: ThinkingBox-Bench pass@1 (%) by domain. Each model is evaluated on every task for 20 repeated trials. Bold marks the group leader; underline marks the runner-up. The standard errors for the single attempt score estimates are provided in Table 4 in our ThinkingBox paper.\n\nClaude Opus 5.5 leads overall at 67.16%, two-thirds of a point above Claude Opus 5. Kimi-K3 is the strongest open-weights model, within a point of GPT-6-Astra. Domain matters just as much: Claude Opus 4.6 scores 68.62% on retail but 8.30% on auto insurance.\n\nOne good run tells you a model can do the work. It does not tell you whether it will do it again. So run every task 20 times and ask how much of that score survives.\n\nFigure 2: How much of each model's single-attempt score survives 20 repeats.\n\nOnly three hold on to most of their pass@1 scores: GPT-6 Astra retains 78% of its single-attempt rate, and Claude Opus 5.5 and Claude Opus 5 each retain 71%. At the other end, GLM-5.1, Kimi-K2.6 and DeepSeek-V4-Pro each keep about 8%.\n\nThe gap between what a model can do once and what it does every time is the whole story.\n\nFigure 3: Breadth and consistency pull apart. Twelve of the eighteen models are shown; six below 33% pass@1 are omitted for legibility.\n\nKimi-K3 has the broadest coverage of any model we tested. It solves 93.89% of the benchmark at least once: 476 of 507 tasks. Only 31 tasks defeat it entirely, the lowest count in the field. On retail workflows it leads outright at 82.24% pass@1, ahead of every proprietary model.\n\nKimi-K3 is also among the least consistent. Just 68 of 507 tasks, 13.41%, succeed in all 20 attempts.\n\nClaude Opus 5 inverts this. It solves fewer tasks at least once (79.09%; 106 defeat it entirely) but completes 47.53% of the benchmark on every single attempt.\n\nA newer model does not fix this. Claude Opus 5.5 scores higher than Claude Opus 5 on every-attempt average, 67.16% against 66.50%, and solves more tasks at least once. It passes exactly the same number of tasks on all 20 attempts: 241. Half a point of headline accuracy bought no additional dependability at all.\n\nIf you are choosing a model for work that touches real records, pass@20 is the wrong column to look at.\n\nCapability comparisons usually stop at the score. For anyone deploying, the relevant question is what a successful unit of work costs. We measure that as cost per successful task attempt. We say task attempt because every benchmark task is run repeatedly and cost is incurred per attempt, so pass@1 is the matching quality denominator.\n\nWe took each model's recorded token usage from its full 507 × 20 campaign and priced it at undiscounted list rates available on OpenRouter+, reversing promotional discounts and excluding endpoints that declare quantization. Input, output and cache rates all come from one provider endpoint per model.\n\nThen we divided one run's cost by the number of attempts that succeeded:\n\nCost per successful task attempt = estimated cost for 507 attempts, one per task ÷ (507 × pass@1)\n\nThis is a comparative efficiency index, not an invoice, and not the price of serving one production request. It also prices single successes, not consistency. We price consistency next.\n\nExample: GPT-5.4 costs $43.49 for 507 attempts (one attempt per task) and has 65.36% pass@1, so $43.49 ÷ (507 × 0.6536) = $0.131 per successful task attempt.\n\nA model is on the frontier if no other model is both no more expensive and at least as accurate. Three models qualify; every other model is dominated on at least one axis.\n\nFigure 4: Cost per successful task attempt against pass@1. Ringed dots are pareto cost frontier models.\n\nThe frontier has three steps. GPT-5.6 Sol has the lowest cost per success at $0.127; GPT-5.4 raises pass@1 by 3.45 percentage points for $0.004 more per success; Claude Opus 5.5 adds another 1.80 points at $0.276 per success. Each of the three remains on the cost frontier line because no cheaper model matches its pass@1.\n\nClaude Opus 5 is the clearest case: at $0.475 per successful attempt and 66.50% pass@1, it is both more expensive and less accurate than Claude Opus 5.5 at $0.276 and 67.16%.\n\nCost per success rewards a model that is cheap and often right. It does not reward a model that is right every time. So we also compute cost per dependable task: the cost of the full 20-run campaign divided by the number of tasks the model passed on all 20 attempts.\n\nCost per dependable task = estimated cost of 20 runs of 507 attempts ÷ tasks passing 20/20\n\nExample: GPT-6-Astra costs 20 × $86.03 = $1,720.60 for the campaign and passes 231 tasks on every attempt, so $1,720.60 ÷ 231 = $7.45 per dependable task.\n\nTable 3: The nine lowest costs per dependable task among models with at least one observed 20/20 task, sorted low to high. Estimated $, not actual cloud bills.\n\nNow rank by consistency. GPT-5.4 is the cheapest at $6.80, though only 128 tasks meet the bar. GPT-6 Astra reaches 231 at $7.45, and Claude Opus 5.5 the joint-highest 241 at $7.80.\n\nNone of the three dominates the others: each additional dependable task costs more. Claude Opus 5 also passes 241, but at $13.30, so Opus 5.5 dominates it outright. GPT-5.6 Sol, the cheapest per single success at $0.127, costs $9.76 per dependable task. The cheapest way to get a right answer is not the cheapest way to get a dependable one.\n\nWe assign each failed trace one deterministic diagnostic signature, and the headline is actionable: roughly four in five failures are tool handling, not reasoning. Across an ablation study in Table 5 of our paper:\n\nThese are unweighted averages of per-model shares and observable labels, not unique causal explanations.\n\nThe practical pattern is simple: agents usually get far enough to attempt the workflow, then fail to recover from tool errors, failed preconditions, or empty lookups. That is a retry and error-recovery problem before it is a model problem.\n\nDifficulty also changes by domain: across the models listed in Table 2 above, retail averages 59.52% pass@1 while auto insurance averages 33.83%.\n\nWhat to do about it. Treat the 20/20 rate as a design input, not a verdict. The same signal the benchmark grades on is available in production: check the terminal state before you commit, not the model's summary of it.\n\nClassify tool and system errors so retries target the recoverable ones. Cut the tool surface to what the workflow needs. And require human approval on the changes you cannot cheaply reverse. We have not measured the lift from any of these on this benchmark, which is exactly the kind of thing the environment now makes testable.\n\nThinkingBox is the agent sandbox, while ThinkingBox-Bench is a dataset benchmark to evaluate agents. The diagram at the top of this post shows the loop; here is what each part does.\n\nFigure 5: The sandbox loop from panel A in Figure 1 above: isolated tool session, terminal database state, side effects, executable judges.\n\nEach task defines a starting backend state, a user goal, the available MCP tools, the domain policy, and executable checks over the terminal state. A simulated user holds private context (a booking reference, a preference, or a date of birth) and releases it only when asked.\n\nEvery attempt gets an isolated MCP session with freshly initialized state. Two attempts of the same task never share a database row or cached tool state, which is what makes 20-trial comparison meaningful.\n\nAt the end, a side-effect extractor derives what actually changed, and deterministic judges compare it against the required end state, accepting any trajectory that produces the right outcome while rejecting wrong, missing or extra effects. For requirements with no clean database value (\"did the agent disclose this is not guaranteed?\"), a narrow binary rubric question handles the semantics. 477 of the 507 tasks are graded on state alone; 30 add response rubrics.\n\nThe trust boundary: the model sees tasks, dialogue and tool schemas. Golden state, assertions, grading internals and credentials stay on the evaluator side.\n\nThinkingBox is now on Hugging Face, both the harness and the dataset. ThinkingBox-Bench now sits behind the OpenEnv interface, and each finished episode returns a binary pass/fail reward. The released adapter is designed for evaluation; separate, non-benchmark scenarios can use the same interface in training workflows.\n\nTested on Linux and WSL, with Python 3.11+, uv and Docker. You also need a thinkingbox-data checkout at the pinned release and model endpoints for the agent, simulated user and judge. One endpoint can serve all three roles, which is the simplest way to start. The OpenEnv image starts only the OpenEnv API; everything else you run yourself.\n\nIn a second terminal, start Typesense 30.1 and wait for its health check:\n\nIn a third terminal, start the Session Proxy and MCP servers.\n\nBack in the first terminal, start the OpenEnv server against a ThinkingBox YAML config naming your three models (config guide):\n\nGate on readiness before running anything. It returns 503 until its observable data, configuration and Session Proxy checks pass. It cannot observe Typesense or live-probe every model endpoint, so confirm those separately:\n\nNow score a real episode. example_usage.py only resets and lists tools; for agent actions, effects and assertions use the packaged evaluator:\n\nThe OpenEnv adapter writes operational failures to an errors sidecar so they can be rerun rather than silently mixed with model outcomes. A canonical result must resolve or explicitly account for those attempts; we counted system errors as unsuccessful trials.\n\nRuns are gated on a pinned framework commit, a pinned data release and a bundle hash, so a canonical result is verifiable rather than asserted.\n\nThe useful part of this work is not our pass@1 leaderboard. It is the environment.\n\nIf you are evaluating an agent that touches real records:\n\nFurther details can be found in the following links:\n\nThinkingBox code is MIT-licensed; the benchmark data is CDLA-Permissive-2.0; the OpenEnv environment ships under OpenEnv's BSD-3-Clause.\n\nDisclaimer: every task in the public benchmark is a synthetic reconstruction. The workflows and policies are modeled on real AI agentic enterprise patterns; the customers are not real.\n\nThinkingBox and ThinkingBox-Bench is built by the Microsoft Copilot Studio team in partnership with Toloka with collaborators from the University of Pittsburgh, Northwestern University, Columbia University and UC Irvine who interned at Microsoft. Questions are welcome in the comments section below or on github\n\n+ OpenRouter cost snapshot taken on Sept 20th 2026; Opus 5.5 pricing as per the Anthropic site.\n\nMore from this author",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 73,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章将智能体的最终数据库状态和实际副作用置于核心位置，强调“工具调用轨迹、最终回复和单次成功”都不能代表可靠完成任务。报道重点包括：507项有状态业务流程、12个模型的重复测试；pass@1与20次全部成功率之间的差距；错误状态、额外副作用和遗漏副作用；模型在能力、成本与一致性之间的权衡；以及通过终态检查、错误分类、重试和人工审批提升部署安全性的建议。文章整体叙事倾向于证明ThinkingBox能够揭示传统排行榜忽视的可靠性问题，并推广其基准与工具链。"
+        ],
+        "citations": [
+          {
+            "source": "Hugging Face (开源模型社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T22:56:48.000Z",
+            "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+          }
+        ]
+      },
+      {
+        "id": "story-seek-to-stop-it-102622fa-f172ebcc8ea754a6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T00:02:00.000Z",
+        "pubTime": "2026-10-04 08:02",
+        "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 08:02 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T00:02:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ive-often-implies-inline-6d9764f86ada5bb1",
+        "title": "要闻：在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使",
+        "originalTitle": "Rust's derive often implies inline",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T01:41:57.000Z",
+        "pubTime": "2026-10-04 09:41",
+        "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+        "imageUrl": null,
+        "fullContent": "In Rust, one of the most common ways to implement core traits (like Debug, Display, and Clone) is to #[derive(...)] them, e.g.:\n\nWhat I didn't know until recently is that Rust currently emits #[inline] as part of these derivations. This is seemingly not guaranteed, but is implied by example in the reference and can also be seen if one expands the macros.\n\nUsing the example above, this is what you get when you expand the #[derive(Debug)] in the playground:\n\nThis is almost always what we want: #[inline] is just a hint, and typical derived Debug, Clone, etc. implementations benefit from being inlined (since they're often trivial).\n\nBut not always! Imagine an error hierarchy like this1:\n\nThat's a lot of code that can get inlined for each invocation of the Debug implementation of Errors, which can occur repeatedly in e.g. debug or trace logging.\n\nIn fact, it's so much code that it can turn out to be a non-trivial amount of a Rust binary's total size: we found that we could shrink uv's binary size by approximately 160KB by preventing2 rustc from inlining a given Debug implementation.\n\nThis was surprising to me on two levels: the size cost added up fast, and rustc (seemingly) did not apply a limiy to the size or number of times a Debug implementation was inlined. I suspect this is the right decision in many programs, however!\n\nThis hierarchy is drastically simplified: real world Rust applications often have deeply nested error enumerations with nontrivial numbers of fields. ↩\n\nWe did this by adding our own-proc macro that behaves like derive(Debug), but with #[inline(never)]. ↩",
+        "fullTranslation": "在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使用 #[derive(...)] 为其生成实现，例如：\n\n我直到最近才知道，Rust 目前会将 #[inline] 作为这些派生实现的一部分发出。这一点似乎并没有得到保证，但参考文档中的示例暗示了这一行为；展开这些宏时也可以看到这一点。\n\n以上述示例为例，在 Playground 中展开 #[derive(Debug)] 后，得到的结果如下：\n\n这几乎总是我们希望看到的结果：#[inline] 只是一种提示，而典型的派生 Debug、Clone 等实现通常都能从内联中受益（因为它们往往很简单）。\n\n但也并非总是如此！设想一下这样一个错误层级结构¹：\n\n对于 Errors 的每次 Debug 实现调用来说，这里都有大量代码可以被内联；而这种调用可能会在调试日志或跟踪日志等场景中反复发生。\n\n事实上，代码量之大，最终可能会在 Rust 二进制文件的总大小中占据相当可观的比例：我们发现，通过阻止 rustc 内联某个 Debug 实现，可以将 uv 的二进制文件大小缩减约 160KB²。\n\n这件事让我在两个层面上感到意外：大小开销增长得非常快，而且 rustc（表面上看）并没有对 Debug 实现的内联规模或内联次数设置限制。不过，我怀疑对于许多程序来说，这仍然是正确的决定！\n\n这个层级结构已经经过大幅简化：现实世界中的 Rust 应用通常会有深度嵌套的错误枚举，并且包含数量不少的字段。¹\n\n我们通过添加自己的过程宏实现了这一点：它的行为类似于 derive(Debug)，但使用了 #[inline(never)]。²",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦 Rust 的 #[derive(...)] 派生实现当前通常会带有 #[inline]，并分析这一行为对 Debug 等实现及最终二进制体积的影响。文章强调：该行为似乎不是明确保证，但可从参考文档示例和宏展开结果中观察到；对简单派生实现通常有利，但对复杂、嵌套的错误类型可能导致大量代码被内联。作者以 uv 项目为例称，通过为某个 Debug 实现使用带 #[inline(never)] 的自定义过程宏，二进制大小约减少 160KB。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T01:41:57.000Z",
+            "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/"
+          }
+        ]
+      },
+      {
+        "id": "story-xpayer-money-sports-html-bb99024ba7486447",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T00:30:01.000Z",
+        "pubTime": "2026-10-04 08:30",
+        "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/-sports-stadiums.jpg",
+        "fullContent": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+            "publishedAt": "2026-10-04T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4-serija-2122071593-html-8d999531aa711e06",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В пригороде Харькова прогремела серия взрывов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T02:21:40.000Z",
+        "pubTime": "2026-10-04 10:21",
+        "url": "https://ria.ru/20261004/serija-2122071593.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 10:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/serija-2122071593.html",
+            "publishedAt": "2026-10-04T02:21:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minate-mass-surveillance-d3e5e8c1a81ab330",
+        "title": "联邦法官称 Flock 构成“无差别的大规模监控”",
+        "originalTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:33:15.000Z",
+        "pubTime": "2026-10-04 03:33",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "imageUrl": null,
+        "fullContent": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAs reported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court case focused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "本周，一名联邦法官裁定，俄克拉何马州塔尔萨县的一名警长办公室副警长在未取得搜查令的情况下，使用 Flock Safety 搜索一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。\n\n据 404 Media 报道，这一裁决并不构成具有约束力的先例，但这是联邦法官首次判定 Flock 搜查违宪的案例之一。\n\n在此案中，萨拉·希尔法官表示，该副警长在搜索 Flock 数据库中的这名女性车牌之前，本应取得搜查令，因为他“没有明显理由”进行搜查，“除了[这名女性的车辆]挂着加利福尼亚州车牌这一事实之外”。\n\n随后，这名副警长利用该女性在 Flock 系统中的行程记录，作为搜查其车辆的依据之一；据称，他在车内发现了 91 磅（约 41.3 千克）甲基苯丙胺。但希尔法官写道，在 Flock 搜查之后取得的所有证据，“都必须作为毒树之果予以排除”。\n\n希尔法官还将批评范围扩大到对 Flock 数据库进行无搜查令搜索的问题。她写道，追踪人们的位置——即使他们身处公共场所——“当执法部门能够在较长时间内不加区分、被动地记录你的行踪，并在任何方便的时候将这些信息用于任何目的时，就会产生宪法层面的问题”。\n\n希尔写道：“这是一种无差别的大规模监控。它并非像[最高法院案件‘卡彭特诉美国案’那样，针对单个个人；该案聚焦于政府机构如何获取手机位置数据]。这是一种能够持续收集所有经过任何联网摄像头的车辆信息，并按执法部门要求提供这些信息的工具。”\n\n希尔法官加入了来自不同政治立场、日益壮大的 Flock 批评者行列。包括佛罗里达州和得克萨斯州在内的多个地方及州政府表示，将停止使用这项技术。而在周五，佛蒙特州民主党参议员伯尼·桑德斯提出《阻止 Flock 法案》，该法案将禁止联邦机构使用 Flock 等自动车牌识别系统。\n\nFlock 首席执行官加勒蒂·兰利——我们将在 TechCrunch Disrupt 大会上与其进行台上访谈——曾呼吁在隐私与安全之间达成“妥协”，并就执法人员使用 Flock 系统跟踪女性一事向遭到跟踪的女性致歉。随着这些取消合作的情况出现，据报道，Flock 还提出员工自愿买断方案，以缩减员工规模。\n\n当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是 TechCrunch 的周末编辑。此前，他曾担任 Adweek 科技记者、VentureBeat 高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司的内容副总裁。他住在纽约市。\n\n如需联系安东尼，或核实以他的名义发出的联系信息，可发送电子邮件至 anthony.ha@techcrunch.com。\n\n第二张通行证立减 50%\nDisrupt 体验旨在与他人共享。购买你的通行证，并以五折优惠带上一名同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的未来，拓展你的交流范围。\n\n谷歌认为，SpaceX 的“星舰”必须发射 1,800 次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用 23 个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定军方下一步行动\n\nOpenAI 推出 Dots，这是一款外形活泼的智能体化虚拟形象\n\nAMD 将以 82 亿美元收购李飞飞的 World Labs\n\n走红的 AI 智能体 Instinct 以 100 亿美元估值完成 10 亿美元 C 轮融资",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "来源叙事重点：报道将案件置于“隐私权与公共安全的冲突”框架下，突出法官对无证查询Flock数据库的宪法疑虑，以及将长期、广泛收集车辆位置数据描述为“无差别的大规模监控”的司法论述。同时报道关注该裁判对Flock商业前景和政治环境的影响，包括部分政府停止使用、联邦立法提案、企业寻求妥协及裁员买断。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:33:15.000Z",
+            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+          }
+        ]
+      },
+      {
+        "id": "story--like-the-1970s-d645cbca-f6b31e9246e0f858",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T23:58:00.000Z",
+        "pubTime": "2026-10-04 07:58",
+        "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Is it time to dust off the financial playbook from that dismal decade?",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 07:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-03T23:58:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--2024-04-12-use-renovate-8cd4c99d6cf4aee9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why I recommend Renovate over any other dependency update tools (2024)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T22:54:52.000Z",
+        "pubTime": "2026-10-04 06:54",
+        "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+        "imageUrl": null,
+        "fullContent": "If you've read my blog before, or interacted with me at work or in the Open Source world, you're likely to know that I'm a huge fan of Renovate.\n\nFor those that aren't aware, Renovate is one of the big players in dependency updating tooling, commonly seen in comparisons with Dependabot or Snyk.\n\nI've been using Renovate for the last ~5 years, alongside a mix of Dependabot and Snyk to keep me grounded. I absolutely love Renovate, and make a point of making it so I can run Renovate where possible.\n\nI've also had the experience operating Renovate in self-hosted mode as well as used the hosted Renovate app by Mend and the Mend Enterprise SAAS, and I've written about the lessons learned self-hosting Renovate.\n\nRenovate has some really key features that set it apart from the competition, and I'm sure in the time it's taken me to write this, they've shipped some new ones 😻\n\n(Aside: I'm largely writing this blog post now, as I've recently been shouting the benefits of Renovate, and instead of writing another internal-only document at work (as I did at Deliveroo), I wanted to write it as a form of blogumentation).\n\nA few years back, I wrote about some tips for using Renovate to make keeping your software up-to-date easier, which I still stand by.\n\nSince then, I've worked across a number of different ecosystems, repository sizes, and levels of comfort merging dependency updates, and have learned a few more things about effectively using Renovate - but through it, I'm still very sure of Renovate being the best tool in the ecosystem.\n\nRenovate is extremely configurable, with dozens of configuration options to tune your experience. But Renovate doesn't end up being \"too\" configurable, where you end up spending more time tweaking config than doing the changes, but configurable enough that it's very likely you can do what you need to with it.\n\nThis is something that really hit me when we were rolling out Dependabot at Deliveroo, where my team owned ~30 repositories, and so for each of these repos, we needed to hand-craft a dependabot.yml, as Dependabot needs to be told which directories contain which dependencies, and how often to update them.\n\nAfter we'd had about a week of usage, we started needing to tweak the configuration in a few of them to reduce the noise, which then required us to raise PRs across all the repos and get them updated.\n\nBecause Dependabot requires a bit of a snowflake configuration per repository, this wasn't easily automatable, even with great tools available to automate some of the bulk updates, which made this a rather onerous and frustrating process.\n\nCompare this to Renovate, where there's an excellent first-class support for shareable config presets, in which you can \"extend\" multiple configuration(s).\n\nThis allows a team that wants to have consistency (i.e. in how often they receive updates to the AWS and Google Cloud SDKs, or which labels they want on PRs) to create a shared preset for their team that defines this. Then, each of their repositories can \"extend\" this configuration, as well as defining their own configuration on top of it at a repo-specific level.\n\nThis also makes it possible to provide good guardrails for your organisation, providing a good set of defaults, such as a base.json:\n\nThis then allows defining a somewhat opinionated good starting point for teams with a default.json:\n\nThen, teams only need to set the following in their repos' renovate.json, and they'll have the benefits of onboarding with a lot of the hard work done with starting:\n\nLinking back to the comment about having to hand-craft dependabot.ymls, the great thing about Renovate is that there's some great defaults, and that it can autodetect the ecosystems your repo uses, and appropriately raises PRs.\n\nThis ease of onboarding is truly excellent, and you can even have an onboarding PR raised to your repos to make it even simpler.\n\nFor instance, at Deliveroo, we made it so there was a default set of configuration for all repos to give us an easy means to update Docker images, but then if teams wanted to manage everything, they could add a renovate.json, and it'd be more fully featured.\n\nAdditionally, Renovate comes with some great inbuilt configuration in the form of presets, including a \"best practices\" guide and associated preset, which makes it easier to keep on top of community best practices, without needing to bikeshed about what you think is best.\n\nIf you find that config:best-practices is a little too much, there's config:recommended as a starting point, and you can always downgrade or exclude rules you'd prefer not to follow. Or if you really want to control things config:base is the minimum you should pull in.\n\nAs suggested above, it's possible to tune how different packages get updated, where you can group multiple updates into a single PR.\n\nFor instance, let's say that you use 9 different AWS services in your application, and instead of receiving 9 PRs every time there are updates across the SDKs, you want a single one. In this case, you could craft the following Renovate configuration:\n\nWhat's great about this is that you can also bundle things like all patch updates into a single PR:\n\nThis is something that's recently been added to Dependabot, which is great, cause Renovate's had it for years 😝\n\nBecause Renovate is an Open Source tool you can run on the command-line, it means you can also get the ability to use Renovate for one-off executions, for instance to get everyone in your organisation to a minimum version of a given dependency, or just to do an infrequently performed set of updates.\n\nSomething I always refer back to is the fact that Renovate has a tonne of supported package managers, package ecosystems and versioning tools.\n\nRenovate's bot comparison guide docs has a good example which links out to the differences between:\n\nAs Dependabot is more focussed on being used on GitHub's platforms (citation needed?) support for things like CircleCI, GitLab CI or other competitors' tooling doesn't seem to be available.\n\nOne of the things you'll be used to having from your dependency update tool of choice is your standard package manager support, where it'll update a go.mod or a pom.xml in your repositories.\n\nBut one thing that's quite important to understand is that there are many more dependencies in your project than those installed in your package manager. Something I find great about Renovate is that, as well as managing Dockerfiles, build.gradles, .gitlab-ci.yml, etc, it will also manage things your .ruby-version or configuration for the ASDF version manager.\n\nBut what about some of the non-standard, or organisation-specific means for tracking versions?\n\nFor instance, installing the golangci-lint linting tool recommends using curl | sh:\n\nAnd it's common for Dockerfiles to have a definition of the version of dependencies:\n\nOr what if you have a custom deployment configuration like:\n\nIt's very unlikely that you have these supported by other tools out-of-the-box, and Renovate is the same.\n\nBut Renovate does give you the ability to manage these versions yourself.\n\nUsing Renovate's custom managers we can craft a configuration file such as:\n\nAnd this will allow us to manage the golangci-lint installation.\n\nIdeally, this sort of configuration may make it upstream so Renovate can do it out-of-the-box, but as we can see from the above example, there may be things that are organisation- or repo-specific, and so having it upstream'd doesn't make sense.\n\nAnd you can do even more with it - I've mentioned you can use it for one-off updates on the command-line, but for instance I've also written a tool renovate-graph which takes the detected dependency data from Renovate and gives you a JSON blob you can consume.\n\nThis underpins a large swathe of the power behind dependency-management-data and can be used for other means, such as converting Renovate data exports to a Software Bill of Materials (SBOM).\n\nOne thing I love about Renovate is that you can enable the Dependency Dashboard, which gives you an overview of the detected dependencies, open PRs, as well s anything that may be waiting, or has failed to update.\n\nThis is a hugely useful insight into the at-a-glance how far behind are we on updates, giving a view of whether you maybe want to spend a bit more time focussing on updates, or looking at ways to cut through the noise.\n\nWhen you merge a PR into your default branch, Renovate will rebase open PRs, so they're easier to review, and are guaranteed to run against the latest changes. However, if you're not getting to your updates as often as changes are going in, you may have a tonne of PRs constantly building, which is a waste of energy and CI minutes.\n\nInstead, you can use the Dependency Dashboard for its ability to i.e. require major bumps be gated behind a manual approval, as it's likely you'll need some human interaction for that PR, and can then only raise it when you're actually ready to deal with it.\n\nA very important factor to me is that Renovate is Open Source, and open to community contributions.\n\nAlthough it's probably best to be split into another article, I love the AGPL3, and it's a great way of making sure that anyone hosting Renovate as a platform makes sure that their users get the access to the source code.\n\nAlternatively, Snyk is proprietary, and Dependabot is source available (or at a stretch \"open source\" not \"Open Source\") with a license that doesn't even appear on the SPDX license list. Update 2024-05-19: Dependabot is now MIT-licensed 👏\n\nRenovate is also brilliantly set up as a community project, where they're shipping hundreds of PRs a month, alongside managing the community really well. I've seen a few things change in the last few years I've been more actively contributing, and it's a really well run project and an indication of something I'd love to be able to replicate at some point!\n\nIt also helps that Mend, the company behind Renovate, invests a fair bit of time and money into development of the project, as well as their commercial offerings on top of it, which continue to make the project sustainable and remain Free and Open.\n\nFollowing on from the excellent community and maintainer contributions alike, there's also some really excellent work on a technical writing and documentation point of view, which makes a lot of tasks straightforward to solve.\n\nIf there's something a little more complex or custom than the docs can offer, it's usually something that can be answered by the community in a GitHub Discussion, and likely could turn into a docs improvement, if necessary.\n\nThere's even a great comparison table between Renovate and other dependency update bots, as well as tips on how best to update your projects.\n\nI've recently discovered a few pages and features that I wasn't aware, just by going through the docs.\n\nIn summary, there's just so much that makes Renovate a greater choice than any of the alternatives, and I'm sure I could talk about more things that make it great.\n\nWhether you self-host it for maximum control (such as being able to access internal artifact registries), or run the hosted app for ease of operations, or just run it from the command-line once in a while, it can be hugely useful to your experience as an engineer.\n\nI hope you'll check it out!\n\nThis post's permalink is https://www.jvt.me/posts/2024/04/12/use-renovate/ and has the following summary:\n\nThe canonical URL for this post is https://www.jvt.me/posts/2024/04/12/use-renovate/ .\n\nWritten by Jamie Tanna on Fri, 12 Apr 2024 11:06:35+01:00, and last updated on Sun, 10 Nov 2024 16:30:37+00:00.\n\nContent for this article is shared under the terms of the Creative Commons Attribution Non Commercial Share Alike 4.0 International, and code is shared under the Apache License 2.0.\n\n#blogumentation #renovate #dependabot #snyk.\n\nHas this content helped you? Did it solve that difficult-to-resolve issue you've been chasing for weeks? Or has it taught you something new you'll be able to re-use daily?\n\nPlease consider supporting me so I can continue to create content like this!\n\nThis post was filed under articles.\n\nBelow you can find the interactions that this page has had using WebMention.\n\nHave you written a response to this post? Let me know the URL:\n\nDo you not have a website set up with WebMention capabilities? You can use Comment Parade.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 70,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕依赖更新工具的工程实践，重点论证 Renovate 在配置可复用性、自动发现依赖、更新分组、生态覆盖、自定义管理器、依赖仪表盘、命令行使用、开源许可、社区和文档等方面的优势。叙事主要通过作者在 Deliveroo 等组织中的使用经验，将 Renovate 与 Dependabot、Snyk 对比，并把可配置性、自动化能力和开源属性塑造为核心评价标准。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T22:54:52.000Z",
+            "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/"
+          }
+        ]
+      },
+      {
+        "id": "story--stronger-arguments-html-fc2d17c7f7fd1b48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Feeling secure in a group may help dissenters make stronger arguments",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T21:00:06.000Z",
+        "pubTime": "2026-10-04 05:00",
+        "url": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/group-project.jpg",
+        "fullContent": "When everyone in a meeting voices the same opinion, an organization can miss important warning signs and new ideas. A research team from KAIST suggests that when members feel securely accepted within their group, they can express dissenting opinions in greater detail and more persuasively, and other members may be more willing to use those opinions in decision-making.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html",
+            "publishedAt": "2026-10-03T21:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--khokkey-2122071450-html-c883871f34e9d22f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Гол и две передачи Малкина принесли \"Питтсбургу\" победу над \"Монреалем\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T02:17:11.000Z",
+        "pubTime": "2026-10-04 10:17",
+        "url": "https://ria.ru/20261004/khokkey-2122071450.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 10:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/khokkey-2122071450.html",
+            "publishedAt": "2026-10-04T02:17:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-it-no-longer-uses-ndas-67dac9f5f51307d8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "pubTime": "2026-10-04 02:43",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "imageUrl": null,
+        "fullContent": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.\n\nGarman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.\n\nNDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”\n\nAs a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.\n\n“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”\n\nGarman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.\n\nPointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”\n\nNvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.\n\nAs for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”\n\nOn the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.\n\nWhen it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.\n\n“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”\n\nAs for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”\n\nWill this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust,” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:43:57.000Z",
+            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-46dd-b6fa-b507e9f18a63-f9e31816fe9eae21",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Burnham reverses much of plan to scrap jury trials",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T23:01:04.000Z",
+        "pubTime": "2026-10-04 07:01",
+        "url": "https://www.ft.com/content/31c97a5c-b312-46dd-b6fa-b507e9f18a63?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80a7d27e-e99c-4b9b-8cdd-b47d8c7edf62.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Ministers are scaling back a shake-up of the court system given the ‘strength of feeling’ over the proposals",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 07:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/31c97a5c-b312-46dd-b6fa-b507e9f18a63?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-03T23:01:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-elopers-use-the-platform-a473e06b4f69feb3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why don’t more developers \"use the platform\"?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T21:35:28.000Z",
+        "pubTime": "2026-10-04 05:35",
+        "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+        "imageUrl": null,
+        "fullContent": "Posted October 3, 2026 by Nolan Lawson in Web, software engineering.\n\nFor years, advocates for web standards, performance, and accessibility have implored web developers to “use the platform”. I’ve often been one of those advocates.\n\nThe argument is simple: why build something yourself, in JavaScript, when the browser can do it for you? Whatever you build, it’s likely to have poorer performance and worse usability than something the browser could just give you out-of-the-box.\n\nI think it’s worth taking the other side, though, if for no other reason than to understand where the “platform-skeptic” developers are coming from. If “use the platform” is so obvious, then why do so many people seem to need convincing?\n\nThe most obvious reason is historical: for the longest time, browsers were playing catch-up with the ecosystem on top of them. Libraries like jQuery filled crucial gaps while browsers implemented equivalent APIs – and even then, you might have to wait for laggards like IE6 to age out before you could actually use them. Today, most browsers are evergreen (Safari is debatable, although ~7 times per year ain’t bad), but up until the 2020s or so, web developers had to deal with a decidedly lumpy web. In that environment, rolling your own is a sensible choice.\n\nAnother reason is familiarity: when you’re used to looking for React components on npm, that’s what you tend to reach for, regardless of the problem at hand. If you search for “sticky positioning” on npm, there’s no package that says “just use CSS position: sticky, you dolt.”\n\nAnd often, even with a robust standard, libraries on npm would fill a useful gap between framework ergonomics and the platform underneath it. I always found it intriguing that many React developers preferred to stick to JSX and React idioms – raw DOM APIs felt “icky” – but were perfectly happy to use lower-level libraries where raw DOM manipulations are common. For example, a virtual list library might happily use raw DOM APIs for pure performance, while exposing higher-level primitives that a novice React developer could better grasp. In a sense, the ecosystem of React components led to a natural division of labor where those with more expertise packaged up unfamiliar platform APIs in a more familiar form factor.\n\nSome of this effect was also driven by documentation. Many npm packages have lovingly detailed READMEs or websites with examples, tutorials, and screenshots. Whereas until MDN became cemented as the go-to place for web documentation (with web.dev as Google’s more future-facing arm), documentation for the web platform was scattered across blogs, StackOverflow, and sites like CSS Tricks. And many of these sites would just tell you to use a well-known library like jQuery or GreenSock!\n\nIf it were just about third-party libraries versus platform APIs, though, then I don’t think it could fully explain the antipathy toward “use the platform.” Developers who are lazy (or do I repeat myself?), and who just want a ready-made solution for whatever problem they’re facing, are unlikely to care whether that solution comes from npm, the browser, or copied off of someone’s random GitHub Gist. They want to solve their problem and move on. But there’s a different source of anti-“use the platform” that I want to explore.\n\nFor a certain type of developer, building things yourself is just more fun. And often the resulting code is easier to reason about, especially if you don’t have an encyclopedic knowledge of the web platform. And once you’ve built something, there can be a kind of IKEA effect where you want to maintain and tinker with your own homemade code.\n\nAs an example, let’s imagine you’re trying to build a modal dialog. You might visually understand how these are supposed to work: content appears on the screen, but the background is still visible although partially occluded, and maybe clicking outside the dialog dismisses it. So you might grab for position:absolute and z-index to position the dialog correctly – aha, but the background still scrolls, so you have to disable overflow on the body… And then if you understand something about accessibility, you realize you need to handle Esc to dismiss, and build a focus trap, and return focus to the element that launched the dialog, and…\n\nFor many developers, what I just described sounds like a nightmare (and a good way to build something that only half-works). But for many developers, this sounds like fun! Think of how much you learn as you start building this thing. And think about how you could start putting your own spin on it by adding animations, themes, an optional “close” button… Before you know it, you’ve built a library that’s ready to go on npm. That’s way more fun than just grabbing <dialog> and calling it a day – what a downer!\n\nAnd for many of us, before APIs like <dialog> existed, this was how we learned the web platform! Many of the people who now advocate for “use the platform” were once themselves authors of polyfills, shims, and libraries. I know because I’m one myself! I spent years working on tooling for IndexedDB, WebSQL, and other browser storage APIs as part of my work on PouchDB, which eventually led to me feeling confident enough to sit in W3C standards meetings and even open issues and pull requests on the IndexedDB spec itself. Without the forcing function of a gap in the platform that needed to be filled, I don’t know if I would have found the interest or motivation to get to that level of expertise.\n\nOf course, doing it yourself is not always an unalloyed good. Sometimes it just comes from pure ignorance. On the web platform in particular, I think one of the reasons there was such a proliferation of JavaScript solutions to problems that could be better solved by CSS, for example, is that many developers just didn’t take the time to deeply understand how CSS works.\n\nAnd to be fair, CSS has historically been hard to understand! There’s a reason the site is called “CSS Tricks.” Things like the clear fix, floats, and the min-width: 0 trick are hardly intuitive. Rather than trying to understand CSS’s internal algorithm, it’s often much easier to just imagine the imperative logic you want and then express it in JavaScript. Plus, for years CSS didn’t have a straightforward way to express common patterns like line clamping, textarea resizing, scrollbar hiding, etc. So of course developers built it themselves using the tools they already understood.\n\nI don’t even think this phenomenon of “avoiding the platform” is limited to the web. It can apply to any developer working on top of a platform they don’t fully understand. For example, at my work, we use ClickHouse for storing various kinds of analytics data. At one point, my coworker and I disagreed about how to store large JSON data in a column: he built a system for compressing it before storage, whereas I put the data in a separate key-value store and only inserted the key into ClickHouse. It turned out we were both wrong! ClickHouse automatically compresses data, and as a columnar data store you actually get better compression across rows if you just let ClickHouse handle it. And the separate key-value store was just a poor man’s version of what a columnar SELECT already does.\n\nI only realized these things after actually taking the time to thoroughly read the ClickHouse docs and then write a benchmark to prove my hypothesis. In the end I was shocked that we had built something that was slower and clunkier than what the platform itself could give us out-of-the-box. The parallels with JavaScript and the web platform were hard to ignore.\n\nI’m sure that if you’re a developer on iOS or Android, or someone building on top of a game engine, or really any kind of developer building on top of any platform layer, you probably have similar stories. There’s a reason that the stereotype of the grizzled senior engineer is someone who can take a junior’s baroque tangled mess of code and replace it with a single line. The more you learn, the more you’re able to wield your knowledge of how the entire system works end-to-end to create the smallest possible contribution to it (and thus reduce your maintenance burden in the long run).\n\nI’ve been trying really hard not to talk about AI this entire post (because I’ve done it to death over the past year), but of course I can’t help but wonder how AI coding will impact this phenomenon. I actually have both an optimistic and a pessimistic take:\n\nIn my own use of AI coding, I’ve seen both phenomena happen. I’d like to think that as models and coding harnesses get better we’ll start to veer more towards the optimistic outcome, but I can’t say for sure.\n\nIn any case, these are my longwinded and somewhat conflicting thoughts on “use the platform.” As a mantra I love it, because it succinctly captures a feeling I have when I’m looking at some overwrought pile of spaghetti code and thinking how much better and more elegant it would be if the author just understood the layers beneath them a bit better. At the same time, I’ve been that author, and I’ve felt the joy of building such beautiful, messy code (beautiful to me, anyway), so I think it’s worth understanding where such developers are coming from. For that reason, I’m sure we’ll be hearing “use the platform” for as long as there are platforms.\n\nYou can comment on the fediverse or Lobsters.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T21:35:28.000Z",
+            "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791069716494,
     "timeDisplay": "2026-10-04 07:21 (UTC+8)",
     "date": "2026-10-04",

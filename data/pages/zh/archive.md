@@ -45,14 +45,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **99** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **100** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-04 07:21 (UTC+8)
+- **最新归档时间**：2026-10-04 10:55 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-04 10:55 (UTC+8)" title="全球要闻情报简报 · 10:55" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-04 10:44 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】联邦法官称 Flock 构成“无差别的大规模监控”：本周，一名联邦法官裁定，俄克拉何马州塔尔萨县的一名警长办公室副警长在未取得搜查令的情况下，使用 Flock Safety 搜索一名女性的车牌，侵犯了她受美国宪法第四修正案保护的权利。；【undefined】日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕：中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。；【undefined】扬基队在美联分区系列赛首战不敌光芒队，奥斯汀·韦尔斯打破无安打后冲击三垒被刺杀出局：奥斯汀·韦尔斯把纽约扬基队全场唯一的一支安打变成了球队最令人痛苦的一次出局。；【undefined】礼盒褪去奢华、出游不赶人潮，节日消费为何变了？：不讲排场讲健康，不重应酬重温情。今年中秋、国庆双节，消费市场正兴起一股清新风气。；【undefined】“甜蜜业态”婚旅：让新人把“我愿意”说给山海听：国庆假期，云南省德宏傣族景颇族自治州梁河县备好了一场民族文化的盛宴：热烈奔放的目瑙纵歌、穿越时光的庭院剧、充满野趣的稻花鱼体验、烟火氤氲的古镇美食、惬意畅快的山野徒步……；【undefined】你刷到的短视频，有多少是演的：今年6月，乡村生活赛道博主黄少斌拍了一条下河捞小龙虾的视频。他用一口广普告诉观众：“小龙虾是买的，买了5斤，我们看看能抓回来多少……”；【undefined】卢拉还是博索纳罗：巴西大选两种截然不同结果令华尔街严阵以待：巴西总统选举首轮投票将于周日举行，鉴于这场势均力敌的竞选可能产生不同结果，华尔街正针对各种情形做出截然不同的市场预测。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/ukraina-2122072136.html) <span class="news-meta-time">🕒 2026-10-04 10:37</span>
+- [Hugging Face (开源模型社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://huggingface.co/blog/microsoft/thinkingbox) <span class="news-meta-time">🕒 2026-10-04 06:56</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-04 08:02</span>
+- [Lobste.rs (极客思想社区)] [要闻：在 Rust 中，实现核心 trait（如 Debug、Display 和 Clone）最常见的方式之一，就是使](https://yossarian.net/til/post/rust-s-derive-often-implies-inline/) <span class="news-meta-time">🕒 2026-10-04 09:41</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html) <span class="news-meta-time">🕒 2026-10-04 08:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/serija-2122071593.html) <span class="news-meta-time">🕒 2026-10-04 10:21</span>
+:::
 :::timeline-item{start="2026-10-04 07:21 (UTC+8)" title="全球要闻情报简报 · 07:21" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-04 07:09 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,18 +656,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/) <span class="news-meta-time">🕒 2026-09-20 07:10</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html) <span class="news-meta-time">🕒 2026-09-20 07:30</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/shkola-2118841702.html) <span class="news-meta-time">🕒 2026-09-20 09:13</span>
-:::
-:::timeline-item{start="2026-09-19 22:33 (UTC+8)" title="全球要闻情报简报 · 22:33" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-19 22:31 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】要闻：即时分享代码、笔记和代码片段：即时分享代码、笔记和代码片段。 我终于有机会实测体验一下 jev（jev-1.13.0）了。我原以为它在玩 2048 游戏时会表现得非常出色。 我采用的策略是：将当前的棋盘状态提供给它，并给它“上、下、左、右”这几个选项。我尝试了 4 种方式（即表格中对应 jev 的各行）……每一行都链接到了我发送的请求。 如果仅提供棋盘状态，它的表现大概和随机走法差不多。当由代码预先计算出每一步移动会对棋盘产生什么结果、再由 jev 从中进行选择时，；【undefined】从 Rust 转向 Zig 是怎样一种体验：过去 7 年里我一直是一名 Rust 开发者，主要从事开源项目的工作。我觉得一路走来，自己对这门语言及其生态系统已经建立起了扎实的体会。我偏爱 Rust 中偏函数式的一面，比如纯净的函数、富有表达力的类型等等。但我对其他语言始终抱有好奇心，而 Zig 作为 C 语言继任者的候选之一，已经进入我的视野有一段时间了：它更偏底层、更轻量，并且正在稳步赢得作为人们认真对待的编程语言的一席之地。我职业生涯早期接触过 C，因此做一番对比总觉得会很有；【undefined】《电路的秘密生活》现已面世：就在我们说话的同时，出版社的直销订单正在陆续发货；你可以在这里订购： No Starch 订购页面；【undefined】库兹巴斯选举投票率超过58%：统一投票日正处于最关键阶段。 投票将持续三天——从9月18日到20日。 在联邦选区参选的党派包括：“统一俄罗斯”党、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯”党、“祖国”党、俄罗斯联邦共产党（KPRF）、退休者党、“俄罗斯共产党人”党以及“新人”党。 总计将举行2200多场不同级别的竞选活动。俄罗斯人将选出2.07万名议员和行政长官。 大多数投票站的开放时间为08:00至20:00。边境地区的部分投票站属于例外—；【undefined】盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌：在盖恩斯维尔，大学橄榄球赛季就是一切。；【undefined】意大利驻安卡拉大使馆举办反洗钱研讨会：（安莎社）- 伊斯坦布尔，9月19日 - 意大利与土耳其在反洗钱领域的经验交流成为在安卡拉举行的一场研讨会的焦点。该研讨会由意大利大使馆与土耳其财政部联合举办，共有200名与会者出席，其中包括土耳其政府官员、外交官以及来自20多个国家的专家。“我们在地中海地区是土耳其最大的贸易伙伴。我们正在加强双边经贸关系，这部分得益于外交部的出口计划，而在打击非法资金流动方面的合作是深化这一伙伴关系的极佳工具，”意大利驻土耳其大使朱塞佩·曼佐（Giu；【undefined】尽管经济表现稳健消费者信心却持续低迷，高盛归咎于“幸福感下降”：高盛（Goldman Sachs）指出了导致消费者信心数据低迷的一个潜在元凶：幸福感下降。；【undefined】Tin：面向 Postgres 的全文搜索扩展：博客 | 工程 | PostgreSQL PlanetScale，最快速的云端 Postgres，每月 5 美元起。 Eric Ridge, Patrick Reynolds | 2026年9月16日 客户向我们提出最多的 Postgres 功能需求之一就是全文搜索。今天，我们非常激动地宣布推出 TIN：一个快速、功能完备且可靠的 Postgres 全文搜索扩展。TIN 代表“文本索引”（Text INdex），而这也正是它的功能所在。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/rossija-2118782433.html) <span class="news-meta-time">🕒 2026-09-19 22:28</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.com/mindbox77/zxdesk) <span class="news-meta-time">🕒 2026-09-19 22:01</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-19 22:23</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wkl7bs/us_state_department_approves_268_billion_air/) <span class="news-meta-time">🕒 2026-09-19 20:40</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-earth-wild-cat-species-century.html) <span class="news-meta-time">🕒 2026-09-19 22:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260919/ukraina-2118782178.html) <span class="news-meta-time">🕒 2026-09-19 22:25</span>
 :::
 ::::
