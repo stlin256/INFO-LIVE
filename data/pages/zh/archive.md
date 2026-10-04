@@ -46,14 +46,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **103** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **104** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-05 03:54 (UTC+8)
+- **最新归档时间**：2026-10-05 07:28 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-05 07:28 (UTC+8)" title="全球要闻情报简报 · 07:28" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-05 07:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】要闻：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中。；【undefined】由于人工智能提交数量“大幅增加”，谷歌暂停了其开源漏洞奖励计划：谷歌称人工智能提交数量“大幅增加”，因此暂停了其开源漏洞奖励计划，预计明年恢复。；【undefined】吉普赛·罗斯·布兰查德在伴侣突然去世后发起反欺凌运动：吉普赛·罗斯·布兰查德在伴侣肯南·“肯”·乌尔克突然去世后，正努力将自己的“痛苦转化为使命”。；【undefined】泰国洪灾持续 政府启动大范围救助：中新社曼谷10月4日电 (李映民 王茜)泰国防灾减灾厅10月4日公布的数据显示，截至4日6时，泰国首都曼谷及27个府仍持续受到洪灾影响，约117.1万个家庭、326.3万人被波及。泰国政府正加紧开展灾害救助，并部署应对未来数日可能出现的强降雨。；【undefined】巴西总统选举开启首轮投票：中新社圣保罗10月4日电 (记者 林春茵)巴西利亚时间4日8时，巴西2026年总统选举开启首轮投票。首轮结果预计在当天投票结束后的数小时内揭晓。；【undefined】沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击：当地时间10月4日，沙特阿拉伯主导的多国联军司令部发表声明称，联军将继续向也门政府及其武装部队提供全面作战支持，以“恢复国家”。；【undefined】初步调查显示迪拜航空袭击者系单独作案：据以色列方面4日消息，初步调查显示，在迪拜航空公司客机驾驶舱中袭击机长的副驾驶系单独作案。；【undefined】德昂特·班克斯终场锁定胜局的抄截回攻达阵，助巨人队跻身2015年以来未曾达到的位置：纽约巨人队在大都会人寿体育场再次凭借最后时刻的防守英雄表现化险为夷，而这一次，他们因此登上了国联东区榜首。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261005/kaspiyskoe-2122206338.html) <span class="news-meta-time">🕒 2026-10-05 07:14</span>
+- [The Verge (前沿数码科技)] [要闻：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks) <span class="news-meta-time">🕒 2026-10-05 05:02</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html) <span class="news-meta-time">🕒 2026-10-05 07:00</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/) <span class="news-meta-time">🕒 2026-10-05 05:04</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html) <span class="news-meta-time">🕒 2026-10-05 07:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261005/latinskaya-amerika-2122206094.html) <span class="news-meta-time">🕒 2026-10-05 07:10</span>
+:::
 :::timeline-item{start="2026-10-05 03:54 (UTC+8)" title="全球要闻情报简报 · 03:54" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-05 03:42 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -644,18 +657,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/) <span class="news-meta-time">🕒 2026-09-21 08:05</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html) <span class="news-meta-time">🕒 2026-09-21 08:30</span>
 - [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney) <span class="news-meta-time">🕒 2026-09-21 09:09</span>
-:::
-:::timeline-item{start="2026-09-21 06:34 (UTC+8)" title="全球要闻情报简报 · 06:34" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-21 06:32 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】乳晕纹身师对网络审查感到“沮丧”：一名医疗纹身师将针对乳房切除术患者乳头纹身的网络审查描述为“完全不公且具有歧视性”。；【undefined】TechCrunch Disrupt 2026 门票优惠仅剩 6 天，最高可立省 200 美元：最高可省 200 美元的优惠窗口即将关闭。当前门票优惠价格将于太平洋时间 9 月 25 日晚上 11:59 截止。届时门票价格将会上涨。；【undefined】确定性核心，非确定性外壳：十四年前，加里·伯恩哈特（Gary Bernhardt）提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一概念。就像计算机领域大多数优秀思想一样，它并非全新之物，但他的构想极其清晰，为探讨现有系统中的测试与确定性打下了绝佳的基础。；【undefined】澳大利亚新闻直播：阿尔巴尼斯将向特朗普表达对人工智能的关切；前警官博·拉马尔-康登谋杀案庭审即将开始：追踪今日实时新闻 获取我们的突发新闻邮件、免费应用程序或每日新闻播客；【undefined】喷气机末节崩盘遭包装工逆转，加时告负错失2015年以来首次2胜0负开局：在周日下午的大部分时间里，纽约喷气机队看起来都胜券在握，有望迎来2015年以来的首次2胜0负开局。在大都会人寿体育场对阵绿湾包装工队的比赛中，喷气机队掌控了大部分时间的局势，但在最后关头犯下了几次致命错误，白白葬送了第四节10分的领先优势。；【undefined】爱国者获胜后弗拉贝尔因德雷克·梅耶状态挣扎怒斥记者：“你休想毁了我的周日”：新英格兰爱国者队在周日收获了本赛季的首场胜利，而主教练迈克·弗拉贝尔（Mike Vrabel）可不打算让几个针对其四分卫的完全合情合理的问题破坏庆祝气氛。；【undefined】纽约州750亿美元气候责任法案前途未卜：2024年，纽约州州长凯西·霍楚尔（Kathy Hochul）签署了一项法律，要求大型化石燃料污染企业支付高达750亿美元的赔偿金。然而两年后，一名联邦法官裁定该法律与联邦法律相抵触，无法继续推进。；【undefined】“太糟糕了”：关税、飙升的燃料成本和走高的利率如何挤压美国企业：航班减少且票价上涨。货运附加费层出不穷。制造商大举囤积库存。甚至走向破产。 对于规模各异的美国企业而言，唐纳德·特朗普总统贸易政策下征收的关税、伊朗战争引发的燃料价格飙升，以及如今不断上升的利率，三者叠加正迫使高管们做出艰难抉择。 艾伦·埃登（Allen Eden）一直在为其拥有25名员工的企业——位于爱荷华州布里特的Original Saw Co.——储备额外库存。该公司生产用于木工和金属加工的工业动力锯，目前他正在全力应对铝、钢材和
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/volodin-2119123289.html) <span class="news-meta-time">🕒 2026-09-21 06:30</span>
-- [Hacker News (科技前沿论坛)] [乳晕纹身师对网络审查感到“沮丧”](https://www.bbc.com/news/articles/cx2z7ejn891o) <span class="news-meta-time">🕒 2026-09-21 05:51</span>
-- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-21 05:47</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board) <span class="news-meta-time">🕒 2026-09-21 05:53</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html) <span class="news-meta-time">🕒 2026-09-21 05:30</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/vybory-2119123188.html) <span class="news-meta-time">🕒 2026-09-21 06:30</span>
 :::
 ::::

@@ -1,5 +1,1549 @@
 [
   {
+    "timestamp": 1791156500930,
+    "timeDisplay": "2026-10-05 07:28 (UTC+8)",
+    "date": "2026-10-05",
+    "runId": "feed-20261004T231733506Z-rgsto1",
+    "generatedAt": "2026-10-04T23:28:20.930Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 07:17",
+      "lead": "本轮抓取于 2026-10-05 07:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】要闻：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中。",
+        "【undefined】由于人工智能提交数量“大幅增加”，谷歌暂停了其开源漏洞奖励计划：谷歌称人工智能提交数量“大幅增加”，因此暂停了其开源漏洞奖励计划，预计明年恢复。",
+        "【undefined】吉普赛·罗斯·布兰查德在伴侣突然去世后发起反欺凌运动：吉普赛·罗斯·布兰查德在伴侣肯南·“肯”·乌尔克突然去世后，正努力将自己的“痛苦转化为使命”。",
+        "【undefined】泰国洪灾持续 政府启动大范围救助：中新社曼谷10月4日电 (李映民 王茜)泰国防灾减灾厅10月4日公布的数据显示，截至4日6时，泰国首都曼谷及27个府仍持续受到洪灾影响，约117.1万个家庭、326.3万人被波及。泰国政府正加紧开展灾害救助，并部署应对未来数日可能出现的强降雨。",
+        "【undefined】巴西总统选举开启首轮投票：中新社圣保罗10月4日电 (记者 林春茵)巴西利亚时间4日8时，巴西2026年总统选举开启首轮投票。首轮结果预计在当天投票结束后的数小时内揭晓。",
+        "【undefined】沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击：当地时间10月4日，沙特阿拉伯主导的多国联军司令部发表声明称，联军将继续向也门政府及其武装部队提供全面作战支持，以“恢复国家”。",
+        "【undefined】初步调查显示迪拜航空袭击者系单独作案：据以色列方面4日消息，初步调查显示，在迪拜航空公司客机驾驶舱中袭击机长的副驾驶系单独作案。",
+        "【undefined】德昂特·班克斯终场锁定胜局的抄截回攻达阵，助巨人队跻身2015年以来未曾达到的位置：纽约巨人队在大都会人寿体育场再次凭借最后时刻的防守英雄表现化险为夷，而这一次，他们因此登上了国联东区榜首。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包未提供文章标题、正文、来源、发布时间或可核验引用，无法进行可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息缺失",
+          "analysis": "目标文章内容状态为缺失，证据事实、引述、实体和引用均为空；相关条目也未提供可识别的中文标题或来源，因此无法确认具体事件、主题及其影响。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 65,
+      "completedTasks": 65,
+      "succeeded": 36,
+      "degraded": 29,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 65,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 647390,
+      "byRole": {
+        "translator": {
+          "attempts": 49,
+          "succeeded": 25,
+          "degraded": 24
+        },
+        "fact-extractor": {
+          "attempts": 4,
+          "degraded": 3,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 4,
+          "succeeded": 3,
+          "degraded": 1
+        },
+        "topic-classifier": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 65,
+          "succeeded": 36,
+          "degraded": 29
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-13-translator-0",
+      "article-13-translator-1",
+      "article-15-translator-0",
+      "article-23-translator-0",
+      "article-23-translator-1",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-32-translator-0",
+      "article-34-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-37-translator-1",
+      "article-37-translator-2",
+      "article-38-translator-0",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-3-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:16.226Z",
+        "lastSuccessAt": "2026-10-04T23:17:16.952Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:16.234Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.012Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.614Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.748Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.626Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.915Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.604Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.241Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.576Z",
+        "lastSuccessAt": "2026-10-04T23:17:19.945Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:20.245Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.650Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:16.732Z",
+        "lastSuccessAt": "2026-10-04T23:17:16.928Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.796Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.066Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.748Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.945Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.142Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.693Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.108Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.681Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:16.952Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.888Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.012Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.494Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:19.945Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.906Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.929Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.825Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:19.768Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.245Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.888Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.212Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.494Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.626Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.470Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.614Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:16.708Z",
+        "lastSuccessAt": "2026-10-04T23:17:16.732Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:15.188Z",
+        "lastSuccessAt": "2026-10-04T23:17:16.708Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.091Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.266Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.066Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.307Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-04T23:17:17.915Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.074Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.209Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.297Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.929Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.842Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.900Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:20.207Z",
+        "lastSuccessAt": "2026-10-04T23:17:22.017Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.137Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.297Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.355Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.576Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.307Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.469Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.568Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.746Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:20.241Z",
+        "lastSuccessAt": "2026-10-04T23:17:21.112Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.639Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.796Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.900Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.344Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.020Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.137Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.469Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.634Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-04T23:17:18.266Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.212Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.604Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:15.186Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.142Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.344Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.568Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:15.187Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.470Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.622Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.693Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.019Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.074Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:16.928Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.108Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.209Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.622Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.945Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.019Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.634Z",
+        "lastSuccessAt": "2026-10-04T23:17:19.768Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:18.746Z",
+        "lastSuccessAt": "2026-10-04T23:17:20.207Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.693Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.842Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:17.681Z",
+        "lastSuccessAt": "2026-10-04T23:17:18.091Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:15.175Z",
+        "lastSuccessAt": "2026-10-04T23:17:16.234Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:15.185Z",
+        "lastSuccessAt": "2026-10-04T23:17:16.226Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T23:17:15.186Z",
+        "lastSuccessAt": "2026-10-04T23:17:17.639Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-spiyskoe-2122206338-html-0ea981f9f2e01ce2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Росрыболовсте рассказали про новый запретный участок в Каспийском море",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T23:14:55.000Z",
+        "pubTime": "2026-10-05 07:14",
+        "url": "https://ria.ru/20261005/kaspiyskoe-2122206338.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/155931/37/1559313712_0:320:3072:2048_650x0_80_0_0_893e5613d7f5279d0bd27cf21e39ab36.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 07:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/kaspiyskoe-2122206338.html",
+            "publishedAt": "2026-10-04T23:14:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-he-new-fitbit-edge-leaks-5502c042ada317c3",
+        "title": "要闻：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中",
+        "originalTitle": "The new Fitbit Edge leaks",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:02:09.000Z",
+        "pubTime": "2026-10-05 05:02",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nWe don’t know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google’s rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn’t as expansive as a proper smartwatch.\n\nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support for things like Google Maps and YouTube Music. Beyond that, not a ton is known.\n\nThe Fitbit Charge line was last updated in 2023, so a new midrange tracker is long overdue. While we don’t have any word on price or release date yet, somewhere in the $150 to $200 range seems like a safe bet. The Air costs $99.99 and the Watch starts at $399.99, so the Edge would clearly fall somewhere in the middle. The Charge 6 currently goes for $159.95.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中。\n\n谷歌的中端 Fitbit Edge 在泄露图片中展示了其多种外观和配色。\n\n该作者发布的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\n我们目前对 Fitbit Edge 了解不多，但它似乎是中端 Charge 系列的继任产品。此前已有相关信息泄露，而从 Android Headlines 发布的这些图片中，我们可以清楚地看到，这款传闻中的谷歌健身追踪器似乎介于 Pixel Watch 和 Fitbit Air 之间。它配备了一块小型屏幕，可以显示一些小组件，但显然不如真正的智能手表那样宽大。\n\n据称，这款以健身为核心的可穿戴设备将拥有长达七天的续航时间，并内置 GPS 和高度计，因此功能远胜于简约的 Air。它还将有限支持 Google 地图和 YouTube Music 等应用。除此之外，目前所知信息并不多。\n\nFitbit Charge 系列上一次更新是在 2023 年，因此推出一款新的中端追踪器早已迫在眉睫。虽然目前还没有价格或发布日期方面的消息，但其价格预计会在 150 至 200 美元之间，这似乎是一个稳妥的判断。Air 的售价为 99.99 美元，而 Watch 的起售价为 399.99 美元，因此 Edge 显然会处于两者之间。目前 Charge 6 的售价为 159.95 美元。\n\n每天免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦传闻中的Google Fitbit Edge定位及功能，强调其可能是Fitbit Charge中端产品线的后继者，介于Pixel Watch与Fitbit Air之间；文章同时根据现有产品价格对其可能售价进行推测。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T21:02:09.000Z",
+            "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+          }
+        ]
+      },
+      {
+        "id": "story-w-50-for-first-time-html-e5de1749278418ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:00.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+        "imageUrl": null,
+        "fullContent": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. A few years ago, China blew past the threshold of 50% of all car sales being hybrids and EVs, and the share is now about 55%. But the rest of the world didn't follow until the Iran war disrupted the fuel markets. Global sales shares of EVs are far from the Chinese numbers, but the shift toward electric vehicles has been remarkably fast amid spiking gasoline and diesel prices, which pushed many consumers to choose EVs. The surge in gasoline prices this year led to the first dip in the share of gasoline-fueled cars below 50%, ever, according to data by automotive data and analytics provider Mobility Global cited by Nikkei Asia. Between January and June, sales of gas-powered vehicles, excluding hybrids, slumped by 10% from a year earlier, to 20.25 million cars, and their share of total global automotive sales fell by 3 percentage points to 49%, the data showed. Related G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis For years, the EV uptake in markets outside China was sluggish and lagging forecasts, but the Hormuz crisis, the $100 oil prices, and record diesel and gasoline prices pushed many consumers in Europe, South America, and Asia Pacific toward EVs. Battery electric vehicle sales in Europe, including the UK, Switzerland, and Norway, surged by 52.2% in August from a year earlier as record-high gasoline and diesel prices prompted drivers to flock to battery and hybrid vehicles, data by the European Automobile Manufacturers' Association, ACEA, showed last month. BEV sales in Germany, the biggest car market in Europe, soared by 75% in August year-over-year, as gasoline prices in Germany hit an all-time high of 2.31 euros per liter, or the equivalent of about $10 per gallon. EV sales in France, another major European market, more than doubled. In Germany, where the government introduced a purchase premium for EVs from January 2026, sales are accelerating, an analysis by the German Institute for Economic Research, DIW, showed earlier this week. One in every four passenger cars sold in Germany between January and August was a pure battery electric vehicle, while the share in August was even higher one in every three passenger cars sold was a BEV, according to the analysis. This compares to an average of 19% in 2025. Globally, electric vehicle sales have surged this year following the oil supply disruption in the Middle East and the second oil price shock in four years. Following a subdued start to the year, EV sales jumped in the second quarter after the Middle East crisis slashed crude supply and hiked oil and fuel prices, the International Energy Agency IEA said in July in an update to its annual EV outlook. EV sales rebounded sharply in the second quarter, rising by 35% compared with the first quarter \"as the energy crisis sparked by the war in the Middle East brought fuel price volatility back into sharp focus,\" the agency said. EV sales in the second quarter reached record-high levels in 50 countries as drivers preferred electric vehicles amid soaring fuel prices. In sizable car markets such as Brazil, India, Australia, and Vietnam, electric car sales roughly doubled between March and June compared with the same period in 2025, according to the IEA's analysis in the report. Moreover, as many as 90 countries saw annual growth in EV sales in the first half of the year. The accelerating EV adoption that began with the spike in oil and fuel prices is set to remain a trend in the global markets and could push the share of EVs in the passenger fleet above earlier expectations, analysts at Wood Mackenzie say. Challenges to accelerated adoption still remain, including the need for billions of U.S. dollars in investments in critical battery minerals supply and charging networks. Yet, the longer the Strait of Hormuz crisis roils global fuel markets, the stronger the case for EV adoption could become. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html"
+          }
+        ]
+      },
+      {
+        "id": "story-bombers-from-british-air-df3c22a6cbf12b89",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:04:45.000Z",
+        "pubTime": "2026-10-05 05:04",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+        "imageUrl": "https://external-preview.redd.it/jKJF7R6Ght6g2httx3J1jkZyW1eOpSw9Sf7nEyae8q8.png?width=640&crop=smart&auto=webp&s=54afd751269ce11a7923740bcab2e340402a00e9",
+        "fullContent": "submitted by /u/Immediate-Link490 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 05:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+            "publishedAt": "2026-10-04T21:04:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--beneath-antarctica-html-b8cba6b205e9e37d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A climate threat may lurk beneath Antarctica's last great unknown",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:01.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-scientis.jpg",
+        "fullContent": "A region of Antarctica with some of the greatest potential to reshape the natural world and human society is also the least scientifically understood and explored.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+            "publishedAt": "2026-10-04T23:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--amerika-2122206094-html-dad228b2c0449063",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "МИД назвал участие Латинской Америки в инициативах США суверенным правом",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T23:10:56.000Z",
+        "pubTime": "2026-10-05 07:10",
+        "url": "https://ria.ru/20261005/latinskaya-amerika-2122206094.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/155735/50/1557355085_0:0:3068:1727_650x0_80_0_0_93f79c79350af98d13cdd84f7cc103f3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 07:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/latinskaya-amerika-2122206094.html",
+            "publishedAt": "2026-10-04T23:10:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t-rise-in-ai-submissions-562acc36900e8903",
+        "title": "由于人工智能提交数量“大幅增加”，谷歌暂停了其开源漏洞奖励计划",
+        "originalTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:31:07.000Z",
+        "pubTime": "2026-10-05 04:31",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "imageUrl": null,
+        "fullContent": "Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.\n\nLast year, TechCrunch reported that cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software.\n\nIn posts on X and the program website, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027. According to Tom’s Hardware, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations.\n\n“This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said.\n\nIn the meantime, participants are encouraged to consider Google’s other bug bounty programs.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "谷歌称人工智能提交数量“大幅增加”，因此暂停了其开源漏洞奖励计划，预计明年恢复。\n\n去年，《TechCrunch》报道称，网络安全专家警告称，人工智能生成的低质内容对漏洞奖励计划构成严重风险。现在看来，这正是谷歌开源软件漏洞奖励计划所面临的问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。\n\n谷歌在X平台和该计划网站发布消息称，漏洞奖励计划已于10月1日起暂停，并承诺将在2027年第一季度提供“更新”。据《Tom's Hardware》报道，谷歌工程师和开源软件维护者不堪应对大量无效或包含虚构信息的报告。\n\n该公司表示：“此次暂停是由于自动化提交数量大幅增加，其中绝大多数提交均无效。”\n\n与此同时，谷歌鼓励参与者考虑参加其其他漏洞奖励计划。\n\n第二张通行证可享受五折优惠\nThe Disrupt体验旨在与他人共享。购买自己的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的下一步，拓展你的视野。\n\n每个工作日和周日，你都可以获取TechCrunch报道的精华内容。\n\nTechCrunch Mobility是你获取交通领域新闻与洞察的目的地。\n\n初创企业是TechCrunch报道的核心，因此每周获取我们精选的相关报道。\n\n为行业中的活跃人士和关键人物提供开启一天所需的信息。\n\n提交电子邮件即表示你同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "Google暂停了其开源漏洞奖励计划，暂停自10月1日起生效，预计将在2027年第一季度提供更新。",
+          "该计划名为Google开源软件漏洞奖励计划，旨在奖励发现Google开源软件漏洞的研究人员。",
+          "来源叙事重点：将Google暂停计划主要框定为自动化、可能由AI生成的大量低质量漏洞提交所致，强调这些提交中绝大多数无效，并将其与此前网络安全专家对“AI低质量内容”冲击漏洞奖励计划的警告联系起来。报道也交代了暂停时间、预计更新时间及Google建议参与者转向其他漏洞奖励计划。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:31:07.000Z",
+            "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+          }
+        ]
+      },
+      {
+        "id": "story-b-43d0-a067-576be636f876-36b1a1d5a77f2758",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US recalls B-1 bombers from UK air base following alleged terror plot",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T22:24:04.000Z",
+        "pubTime": "2026-10-05 06:24",
+        "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc4e27f64-5e13-4243-aec4-f2cbf53ef4e4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 06:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T22:24:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lague-laboratory-dies-of-43d9fa13934c9f83",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researcher at Russian plague laboratory dies of ‘unknown’ infection",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:50:55.000Z",
+        "pubTime": "2026-10-05 04:50",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxq8z2/researcher_at_russian_plague_laboratory_dies_of/",
+        "imageUrl": "https://external-preview.redd.it/fz4nC5AEL6l4Ex0b_zzoPj6jZ_s0pyj-txskAiyca2g.jpeg?width=640&crop=smart&auto=webp&s=6ff163d4e1011b6ed460bcffb7c28f66937c4b52",
+        "fullContent": "submitted by /u/bendubberley_ [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 04:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxq8z2/researcher_at_russian_plague_laboratory_dies_of/",
+            "publishedAt": "2026-10-04T20:50:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ashing-in-at-cache-creek-6f8f713ea15a1ab9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:13:07.000Z",
+        "pubTime": "2026-10-05 05:13",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05023_mhli_5023MH0009060011804392C00_DXXX.jpg?w=1632&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NASA News (深空探索与航天)】于 2026-10-05 05:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+            "publishedAt": "2026-10-04T21:13:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rossiya-2122205999-html-5e4d74ae690c0ddf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия следит за ситуацией на таджикско-афганской границе, заявили в МИД",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T23:10:28.000Z",
+        "pubTime": "2026-10-05 07:10",
+        "url": "https://ria.ru/20261005/rossiya-2122205999.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/03/2121993689_0:30:2832:1622_650x0_80_0_0_f9bf35c3e57bd684c2e2f234b7944179.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 07:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/rossiya-2122205999.html",
+            "publishedAt": "2026-10-04T23:10:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--solve-ais-image-problem-5eabcfd97d22a1c1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:08:34.000Z",
+        "pubTime": "2026-10-05 04:08",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "imageUrl": null,
+        "fullContent": "President Donald Trump hosted many of the biggest names in artificial intelligence this week — in part to announce that the U.S. government isn’t calling it artificial intelligence anymore. Now it’s super intelligence.\n\nOn the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the motivation behind the meeting and what effect it might have on the AI industry. We were all pretty skeptical that the “Joint Commitment on Frontier Responsibilities” that the executives signed will amount to much, especially since — as Sean noted — it’s “deeply non-binding,” at least from a legal prospective. (Instead, Trump said he considers it “morally binding.”)\n\nKirsten suggested that the meeting’s real significance may have been as “a rebranding effort around AI.” (An effort that continued this weekend with Trump’s announcement of a new Super Intelligence Force.) For her, the big message was, “AI is going to kill us, it’s scary, it is going to take jobs — but super intelligence is not.”\n\nKeep reading for a preview of our conversation, edited for length and clarity.\n\nAnthony Ha: Officially, by order of the president of the United States, it’s not artificial intelligence anymore, it’s super intelligence. We were talking about this last week, because this is something [Trump has] been hinting at — he doesn’t do hints, he’s been saying [it] for a while. But now it’s signed into executive order. If you’re an official U.S. representative, you are supposed to say super intelligence, not artificial intelligence.\n\nAnd this was also part of this broader announcement around AI safety, which I think is both interesting for this pact that was announced, but also the fact that it happened at all. It seemed to have come together fairly quickly, because just two weeks ago, a week ago, President Trump was saying, “We don’t need any of this, we need to lead in AI, we can’t constrain it in any way, we don’t need any regulation, anyone who’s saying that there’s any danger from AI is essentially a Chinese or Democratic plant.” And yet all these AI CEOs got together with him earlier this week and signed this pact.\n\nKirsten Korosec: Leading up to that, we should say, not only was there pushback on regulation, and we can talk about whether this executive order even does any of that — I would say no, there’s a little bit of theater there — but the important and interesting thing is that just days ago, Anthropic was really in the doghouse, if you will, in terms of what was happening behind the scenes with President Trump.\n\nThat all changed when [Anthropic CEO] Dario Amodei was invited to a 10 p.m. dinner. He had this sit-down, and then just days later, we had this luncheon, and at this luncheon, we have pretty much every tech power broker from every major tech company that exists. So Mark Zuckerberg was there, Jeff Bezos was there, Elon Musk was there, Dario of course was there, they were all there.\n\nI’m wondering if any of you watched the press conference that happened afterwards, which there’s been many, many memes about, because of the interesting, funny behavior when you bring a bunch of tech CEOs together.\n\nBut I guess my bigger question for both of you is: What does this all mean? And does it mean anything?\n\nSean O’Kane: How much time do you have? First off, sure, they had dinner, Trump and Dario. If you read the Time magazine interview that Trump just did, your guess is as good as mine as to how informed he was that that dinner was even going to be happening, which is a strange reality to live in, but it’s just the one we inhabit.\n\nI will also say one other thing that makes me skeptical — surprise, surprise — of how repaired the relationship is between the administration and Anthropic, is that for as much as there are clearly people trying to put those two groups together, the Defense Department is still very adamant that Anthropic is terrible and woke and and a national security risk. Emil Michael goes off on Anthropic every other day on X, it seems. I think there’s still some distance there despite Dario showing up to this thing.\n\nAs far as the agreement and all of that, let’s be real, they misspelled the United States on the agreement that they all signed. It is also just deeply non-binding. I mean, it is completely voluntary. I think my favorite aspect about it was that Trump described it as quote “morally binding,” which is just a level of abstraction and terminology that I’ve never heard of before.\n\nAnthony: In terms of Anthropic and their relationship with the Trump administration, there’s been a sort of a lot of reporting, especially during that big blow up with the Defense Department, that different parts of the White House had different relationships with Anthropic. The Treasury Secretary seemed to be a big fan, whereas the Defense Department — definitely not big fans, or at least unhappy with some of the conditions that Anthropic were trying to put on the use of their technology.\n\nIn that sense, it feels like nothing has necessarily changed. There are people in the White House who want to use Anthropic’s technology, want them involved in these decisions, and others who really, really, really, really don’t.\n\nIn terms of the agreement, it seems not super meaningful. What is meaningful is just the fact that they felt that this was something worth doing. As indicated by the fact that they misspelled United States, it seemed like they rushed to put all of this together. [But] the fact that this kind of gesture was needed seems significant, even if I don’t think the agreement itself is going to lead to any major changes.\n\nKirsten: I do think that there was one important thing that happened. And to me, this is the point of it, which was a rebranding exercise around AI. “AI is going to kill us, it’s scary, it is going to take jobs, but super intelligence is not.” This isn’t my personal belief. To me, that was the message.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦特朗普政府将“人工智能”重新表述为“超级智能”、多家科技公司高管签署《前沿责任联合承诺》以及美国政府与Anthropic关系的变化。文章的核心叙事判断是：该承诺缺乏法律约束力，实际政策效果可能有限，但会议和承诺本身可能具有政治沟通与品牌重塑功能，旨在降低公众对AI导致失业、安全风险和社会影响的担忧。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:08:34.000Z",
+            "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+          }
+        ]
+      },
+      {
+        "id": "story-9-4130-a5e6-b98929a6e633-73b349cdd93c5d3f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Schneider Electric nears deal to buy software group PTC for $20bn",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:51:33.000Z",
+        "pubTime": "2026-10-05 05:51",
+        "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9cc75e8c-b172-4e12-a542-6c642d8cd1b1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 05:51 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T21:51:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t18-fast18-alagappan-pdf-38e6496030bcd9da",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Protocol-aware recovery for consensus-based storage (2018)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:00:34.000Z",
+        "pubTime": "2026-10-05 04:00",
+        "url": "https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf",
+            "publishedAt": "2026-10-04T20:00:34.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-spiyskoe-2122206338-html-0ea981f9f2e01ce2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Росрыболовсте рассказали про новый запретный участок в Каспийском море",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T23:14:55.000Z",
+        "pubTime": "2026-10-05 07:14",
+        "url": "https://ria.ru/20261005/kaspiyskoe-2122206338.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/155931/37/1559313712_0:320:3072:2048_650x0_80_0_0_893e5613d7f5279d0bd27cf21e39ab36.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 07:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/kaspiyskoe-2122206338.html",
+            "publishedAt": "2026-10-04T23:14:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-he-new-fitbit-edge-leaks-5502c042ada317c3",
+        "title": "要闻：该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中",
+        "originalTitle": "The new Fitbit Edge leaks",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:02:09.000Z",
+        "pubTime": "2026-10-05 05:02",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nWe don’t know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google’s rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn’t as expansive as a proper smartwatch.\n\nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support for things like Google Maps and YouTube Music. Beyond that, not a ton is known.\n\nThe Fitbit Charge line was last updated in 2023, so a new midrange tracker is long overdue. While we don’t have any word on price or release date yet, somewhere in the $150 to $200 range seems like a safe bet. The Air costs $99.99 and the Watch starts at $399.99, so the Edge would clearly fall somewhere in the middle. The Charge 6 currently goes for $159.95.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中。\n\n谷歌的中端 Fitbit Edge 在泄露图片中展示了其多种外观和配色。\n\n该作者发布的帖子将被添加到你的每日电子邮件新闻摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\n我们目前对 Fitbit Edge 了解不多，但它似乎是中端 Charge 系列的继任产品。此前已有相关信息泄露，而从 Android Headlines 发布的这些图片中，我们可以清楚地看到，这款传闻中的谷歌健身追踪器似乎介于 Pixel Watch 和 Fitbit Air 之间。它配备了一块小型屏幕，可以显示一些小组件，但显然不如真正的智能手表那样宽大。\n\n据称，这款以健身为核心的可穿戴设备将拥有长达七天的续航时间，并内置 GPS 和高度计，因此功能远胜于简约的 Air。它还将有限支持 Google 地图和 YouTube Music 等应用。除此之外，目前所知信息并不多。\n\nFitbit Charge 系列上一次更新是在 2023 年，因此推出一款新的中端追踪器早已迫在眉睫。虽然目前还没有价格或发布日期方面的消息，但其价格预计会在 150 至 200 美元之间，这似乎是一个稳妥的判断。Air 的售价为 99.99 美元，而 Watch 的起售价为 399.99 美元，因此 Edge 显然会处于两者之间。目前 Charge 6 的售价为 159.95 美元。\n\n每天免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦传闻中的Google Fitbit Edge定位及功能，强调其可能是Fitbit Charge中端产品线的后继者，介于Pixel Watch与Fitbit Air之间；文章同时根据现有产品价格对其可能售价进行推测。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T21:02:09.000Z",
+            "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+          }
+        ]
+      },
+      {
+        "id": "story-w-50-for-first-time-html-e5de1749278418ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:00.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+        "imageUrl": null,
+        "fullContent": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. A few years ago, China blew past the threshold of 50% of all car sales being hybrids and EVs, and the share is now about 55%. But the rest of the world didn't follow until the Iran war disrupted the fuel markets. Global sales shares of EVs are far from the Chinese numbers, but the shift toward electric vehicles has been remarkably fast amid spiking gasoline and diesel prices, which pushed many consumers to choose EVs. The surge in gasoline prices this year led to the first dip in the share of gasoline-fueled cars below 50%, ever, according to data by automotive data and analytics provider Mobility Global cited by Nikkei Asia. Between January and June, sales of gas-powered vehicles, excluding hybrids, slumped by 10% from a year earlier, to 20.25 million cars, and their share of total global automotive sales fell by 3 percentage points to 49%, the data showed. Related G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis For years, the EV uptake in markets outside China was sluggish and lagging forecasts, but the Hormuz crisis, the $100 oil prices, and record diesel and gasoline prices pushed many consumers in Europe, South America, and Asia Pacific toward EVs. Battery electric vehicle sales in Europe, including the UK, Switzerland, and Norway, surged by 52.2% in August from a year earlier as record-high gasoline and diesel prices prompted drivers to flock to battery and hybrid vehicles, data by the European Automobile Manufacturers' Association, ACEA, showed last month. BEV sales in Germany, the biggest car market in Europe, soared by 75% in August year-over-year, as gasoline prices in Germany hit an all-time high of 2.31 euros per liter, or the equivalent of about $10 per gallon. EV sales in France, another major European market, more than doubled. In Germany, where the government introduced a purchase premium for EVs from January 2026, sales are accelerating, an analysis by the German Institute for Economic Research, DIW, showed earlier this week. One in every four passenger cars sold in Germany between January and August was a pure battery electric vehicle, while the share in August was even higher one in every three passenger cars sold was a BEV, according to the analysis. This compares to an average of 19% in 2025. Globally, electric vehicle sales have surged this year following the oil supply disruption in the Middle East and the second oil price shock in four years. Following a subdued start to the year, EV sales jumped in the second quarter after the Middle East crisis slashed crude supply and hiked oil and fuel prices, the International Energy Agency IEA said in July in an update to its annual EV outlook. EV sales rebounded sharply in the second quarter, rising by 35% compared with the first quarter \"as the energy crisis sparked by the war in the Middle East brought fuel price volatility back into sharp focus,\" the agency said. EV sales in the second quarter reached record-high levels in 50 countries as drivers preferred electric vehicles amid soaring fuel prices. In sizable car markets such as Brazil, India, Australia, and Vietnam, electric car sales roughly doubled between March and June compared with the same period in 2025, according to the IEA's analysis in the report. Moreover, as many as 90 countries saw annual growth in EV sales in the first half of the year. The accelerating EV adoption that began with the spike in oil and fuel prices is set to remain a trend in the global markets and could push the share of EVs in the passenger fleet above earlier expectations, analysts at Wood Mackenzie say. Challenges to accelerated adoption still remain, including the need for billions of U.S. dollars in investments in critical battery minerals supply and charging networks. Yet, the longer the Strait of Hormuz crisis roils global fuel markets, the stronger the case for EV adoption could become. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html"
+          }
+        ]
+      },
+      {
+        "id": "story-bombers-from-british-air-df3c22a6cbf12b89",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:04:45.000Z",
+        "pubTime": "2026-10-05 05:04",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+        "imageUrl": "https://external-preview.redd.it/jKJF7R6Ght6g2httx3J1jkZyW1eOpSw9Sf7nEyae8q8.png?width=640&crop=smart&auto=webp&s=54afd751269ce11a7923740bcab2e340402a00e9",
+        "fullContent": "submitted by /u/Immediate-Link490 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 05:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+            "publishedAt": "2026-10-04T21:04:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--beneath-antarctica-html-b8cba6b205e9e37d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A climate threat may lurk beneath Antarctica's last great unknown",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:01.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-scientis.jpg",
+        "fullContent": "A region of Antarctica with some of the greatest potential to reshape the natural world and human society is also the least scientifically understood and explored.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+            "publishedAt": "2026-10-04T23:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--amerika-2122206094-html-dad228b2c0449063",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "МИД назвал участие Латинской Америки в инициативах США суверенным правом",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T23:10:56.000Z",
+        "pubTime": "2026-10-05 07:10",
+        "url": "https://ria.ru/20261005/latinskaya-amerika-2122206094.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/155735/50/1557355085_0:0:3068:1727_650x0_80_0_0_93f79c79350af98d13cdd84f7cc103f3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 07:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/latinskaya-amerika-2122206094.html",
+            "publishedAt": "2026-10-04T23:10:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t-rise-in-ai-submissions-562acc36900e8903",
+        "title": "由于人工智能提交数量“大幅增加”，谷歌暂停了其开源漏洞奖励计划",
+        "originalTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:31:07.000Z",
+        "pubTime": "2026-10-05 04:31",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "imageUrl": null,
+        "fullContent": "Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.\n\nLast year, TechCrunch reported that cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software.\n\nIn posts on X and the program website, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027. According to Tom’s Hardware, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations.\n\n“This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said.\n\nIn the meantime, participants are encouraged to consider Google’s other bug bounty programs.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "谷歌称人工智能提交数量“大幅增加”，因此暂停了其开源漏洞奖励计划，预计明年恢复。\n\n去年，《TechCrunch》报道称，网络安全专家警告称，人工智能生成的低质内容对漏洞奖励计划构成严重风险。现在看来，这正是谷歌开源软件漏洞奖励计划所面临的问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。\n\n谷歌在X平台和该计划网站发布消息称，漏洞奖励计划已于10月1日起暂停，并承诺将在2027年第一季度提供“更新”。据《Tom's Hardware》报道，谷歌工程师和开源软件维护者不堪应对大量无效或包含虚构信息的报告。\n\n该公司表示：“此次暂停是由于自动化提交数量大幅增加，其中绝大多数提交均无效。”\n\n与此同时，谷歌鼓励参与者考虑参加其其他漏洞奖励计划。\n\n第二张通行证可享受五折优惠\nThe Disrupt体验旨在与他人共享。购买自己的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的下一步，拓展你的视野。\n\n每个工作日和周日，你都可以获取TechCrunch报道的精华内容。\n\nTechCrunch Mobility是你获取交通领域新闻与洞察的目的地。\n\n初创企业是TechCrunch报道的核心，因此每周获取我们精选的相关报道。\n\n为行业中的活跃人士和关键人物提供开启一天所需的信息。\n\n提交电子邮件即表示你同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "Google暂停了其开源漏洞奖励计划，暂停自10月1日起生效，预计将在2027年第一季度提供更新。",
+          "该计划名为Google开源软件漏洞奖励计划，旨在奖励发现Google开源软件漏洞的研究人员。",
+          "来源叙事重点：将Google暂停计划主要框定为自动化、可能由AI生成的大量低质量漏洞提交所致，强调这些提交中绝大多数无效，并将其与此前网络安全专家对“AI低质量内容”冲击漏洞奖励计划的警告联系起来。报道也交代了暂停时间、预计更新时间及Google建议参与者转向其他漏洞奖励计划。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:31:07.000Z",
+            "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+          }
+        ]
+      },
+      {
+        "id": "story-b-43d0-a067-576be636f876-36b1a1d5a77f2758",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US recalls B-1 bombers from UK air base following alleged terror plot",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T22:24:04.000Z",
+        "pubTime": "2026-10-05 06:24",
+        "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc4e27f64-5e13-4243-aec4-f2cbf53ef4e4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 06:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T22:24:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lague-laboratory-dies-of-43d9fa13934c9f83",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researcher at Russian plague laboratory dies of ‘unknown’ infection",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:50:55.000Z",
+        "pubTime": "2026-10-05 04:50",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxq8z2/researcher_at_russian_plague_laboratory_dies_of/",
+        "imageUrl": "https://external-preview.redd.it/fz4nC5AEL6l4Ex0b_zzoPj6jZ_s0pyj-txskAiyca2g.jpeg?width=640&crop=smart&auto=webp&s=6ff163d4e1011b6ed460bcffb7c28f66937c4b52",
+        "fullContent": "submitted by /u/bendubberley_ [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 04:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxq8z2/researcher_at_russian_plague_laboratory_dies_of/",
+            "publishedAt": "2026-10-04T20:50:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ashing-in-at-cache-creek-6f8f713ea15a1ab9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:13:07.000Z",
+        "pubTime": "2026-10-05 05:13",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05023_mhli_5023MH0009060011804392C00_DXXX.jpg?w=1632&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NASA News (深空探索与航天)】于 2026-10-05 05:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+            "publishedAt": "2026-10-04T21:13:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rossiya-2122205999-html-5e4d74ae690c0ddf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия следит за ситуацией на таджикско-афганской границе, заявили в МИД",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T23:10:28.000Z",
+        "pubTime": "2026-10-05 07:10",
+        "url": "https://ria.ru/20261005/rossiya-2122205999.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/03/2121993689_0:30:2832:1622_650x0_80_0_0_f9bf35c3e57bd684c2e2f234b7944179.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 07:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/rossiya-2122205999.html",
+            "publishedAt": "2026-10-04T23:10:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--solve-ais-image-problem-5eabcfd97d22a1c1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:08:34.000Z",
+        "pubTime": "2026-10-05 04:08",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "imageUrl": null,
+        "fullContent": "President Donald Trump hosted many of the biggest names in artificial intelligence this week — in part to announce that the U.S. government isn’t calling it artificial intelligence anymore. Now it’s super intelligence.\n\nOn the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the motivation behind the meeting and what effect it might have on the AI industry. We were all pretty skeptical that the “Joint Commitment on Frontier Responsibilities” that the executives signed will amount to much, especially since — as Sean noted — it’s “deeply non-binding,” at least from a legal prospective. (Instead, Trump said he considers it “morally binding.”)\n\nKirsten suggested that the meeting’s real significance may have been as “a rebranding effort around AI.” (An effort that continued this weekend with Trump’s announcement of a new Super Intelligence Force.) For her, the big message was, “AI is going to kill us, it’s scary, it is going to take jobs — but super intelligence is not.”\n\nKeep reading for a preview of our conversation, edited for length and clarity.\n\nAnthony Ha: Officially, by order of the president of the United States, it’s not artificial intelligence anymore, it’s super intelligence. We were talking about this last week, because this is something [Trump has] been hinting at — he doesn’t do hints, he’s been saying [it] for a while. But now it’s signed into executive order. If you’re an official U.S. representative, you are supposed to say super intelligence, not artificial intelligence.\n\nAnd this was also part of this broader announcement around AI safety, which I think is both interesting for this pact that was announced, but also the fact that it happened at all. It seemed to have come together fairly quickly, because just two weeks ago, a week ago, President Trump was saying, “We don’t need any of this, we need to lead in AI, we can’t constrain it in any way, we don’t need any regulation, anyone who’s saying that there’s any danger from AI is essentially a Chinese or Democratic plant.” And yet all these AI CEOs got together with him earlier this week and signed this pact.\n\nKirsten Korosec: Leading up to that, we should say, not only was there pushback on regulation, and we can talk about whether this executive order even does any of that — I would say no, there’s a little bit of theater there — but the important and interesting thing is that just days ago, Anthropic was really in the doghouse, if you will, in terms of what was happening behind the scenes with President Trump.\n\nThat all changed when [Anthropic CEO] Dario Amodei was invited to a 10 p.m. dinner. He had this sit-down, and then just days later, we had this luncheon, and at this luncheon, we have pretty much every tech power broker from every major tech company that exists. So Mark Zuckerberg was there, Jeff Bezos was there, Elon Musk was there, Dario of course was there, they were all there.\n\nI’m wondering if any of you watched the press conference that happened afterwards, which there’s been many, many memes about, because of the interesting, funny behavior when you bring a bunch of tech CEOs together.\n\nBut I guess my bigger question for both of you is: What does this all mean? And does it mean anything?\n\nSean O’Kane: How much time do you have? First off, sure, they had dinner, Trump and Dario. If you read the Time magazine interview that Trump just did, your guess is as good as mine as to how informed he was that that dinner was even going to be happening, which is a strange reality to live in, but it’s just the one we inhabit.\n\nI will also say one other thing that makes me skeptical — surprise, surprise — of how repaired the relationship is between the administration and Anthropic, is that for as much as there are clearly people trying to put those two groups together, the Defense Department is still very adamant that Anthropic is terrible and woke and and a national security risk. Emil Michael goes off on Anthropic every other day on X, it seems. I think there’s still some distance there despite Dario showing up to this thing.\n\nAs far as the agreement and all of that, let’s be real, they misspelled the United States on the agreement that they all signed. It is also just deeply non-binding. I mean, it is completely voluntary. I think my favorite aspect about it was that Trump described it as quote “morally binding,” which is just a level of abstraction and terminology that I’ve never heard of before.\n\nAnthony: In terms of Anthropic and their relationship with the Trump administration, there’s been a sort of a lot of reporting, especially during that big blow up with the Defense Department, that different parts of the White House had different relationships with Anthropic. The Treasury Secretary seemed to be a big fan, whereas the Defense Department — definitely not big fans, or at least unhappy with some of the conditions that Anthropic were trying to put on the use of their technology.\n\nIn that sense, it feels like nothing has necessarily changed. There are people in the White House who want to use Anthropic’s technology, want them involved in these decisions, and others who really, really, really, really don’t.\n\nIn terms of the agreement, it seems not super meaningful. What is meaningful is just the fact that they felt that this was something worth doing. As indicated by the fact that they misspelled United States, it seemed like they rushed to put all of this together. [But] the fact that this kind of gesture was needed seems significant, even if I don’t think the agreement itself is going to lead to any major changes.\n\nKirsten: I do think that there was one important thing that happened. And to me, this is the point of it, which was a rebranding exercise around AI. “AI is going to kill us, it’s scary, it is going to take jobs, but super intelligence is not.” This isn’t my personal belief. To me, that was the message.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦特朗普政府将“人工智能”重新表述为“超级智能”、多家科技公司高管签署《前沿责任联合承诺》以及美国政府与Anthropic关系的变化。文章的核心叙事判断是：该承诺缺乏法律约束力，实际政策效果可能有限，但会议和承诺本身可能具有政治沟通与品牌重塑功能，旨在降低公众对AI导致失业、安全风险和社会影响的担忧。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:08:34.000Z",
+            "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+          }
+        ]
+      },
+      {
+        "id": "story-9-4130-a5e6-b98929a6e633-73b349cdd93c5d3f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Schneider Electric nears deal to buy software group PTC for $20bn",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:51:33.000Z",
+        "pubTime": "2026-10-05 05:51",
+        "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9cc75e8c-b172-4e12-a542-6c642d8cd1b1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 05:51 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T21:51:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t18-fast18-alagappan-pdf-38e6496030bcd9da",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Protocol-aware recovery for consensus-based storage (2018)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:00:34.000Z",
+        "pubTime": "2026-10-05 04:00",
+        "url": "https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf",
+            "publishedAt": "2026-10-04T20:00:34.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791143691080,
     "timeDisplay": "2026-10-05 03:54 (UTC+8)",
     "date": "2026-10-05",
