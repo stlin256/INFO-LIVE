@@ -45,14 +45,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **100** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **101** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-04 10:55 (UTC+8)
+- **最新归档时间**：2026-10-04 17:58 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-04 17:58 (UTC+8)" title="全球要闻情报简报 · 17:58" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-04 17:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】每日天文一图：2026年10月4日——新泽西州上空的附属虹：每日天文一图：2026年10月4日——…… 每日天文一图 探索宇宙！每天都会展示我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 新泽西州上空的附属虹 说明：是的，但你见过的彩虹能做到这一点吗？2018年，当飓风“佛罗伦斯”（Hurricane Florence）的残余云系掠过美国新泽西州的泽西海岸后，太阳从一个方向破云而出，而在相反的方向却出现了一种极不寻常的景象：彩虹长廊。在接下来的半小时里，令摄影师及其女儿欣喜若狂的是；【undefined】联邦法官称Flock属于“无差别的群体大规模监控”：一名联邦法官本周裁定，俄克拉何马州塔尔萨市的一名副警长在未取得搜查令的情况下使用Flock Safety系统检索一名女性的车牌信息，侵犯了该女性在宪法第四修正案下的权利。；【undefined】工会谈判破裂 格拉斯哥市议会员工在“先解雇再返聘”方案中面临降薪：公共服务业总工会（Unison）拒绝就一项将导致数千名市议会员工待遇恶化的方案组织会员投票。；【undefined】亚马逊回应数据中心抵制潮，称已不再使用保密协议（NDA）：亚马逊云科技（Amazon Web Services，AWS）首席执行官马特·加曼（Matt Garman）表示，该公司在寻求批准建设新数据中心时，已停止在与政府机构的往来中使用保密协议（NDA）。；【undefined】我们几乎对所有服务都需要默认的硬性预算上限：在接下来的数月乃至数年里，全世界将越来越需要这样一项产品特性：默认的硬性预算上限（hard budget caps）。我指的是按用量计费的服务和 API 中的一种功能，它允许你设定“当月费用达到 X 美元后，直接关停该服务并返回错误”。这必须是硬性限制。所谓“当月达到 X 美元后给我发送提醒邮件”的软性上限，根本无济于事。；【undefined】德国总理突访基辅之际，基辅桥梁在俄罗斯新一轮无人机袭击中遇袭：皮夫尼奇内大桥（Pivnichnyi Bridge，周六拍摄）已连续第二天遭到袭击。；【undefined】加沙一本书的故事：重获新生的珍贵之物：在种族灭绝的阴影下，加沙的一群爱书人士正努力维系巴勒斯坦的文学传承。；【undefined】Capcom正为“与AI共同制作游戏的未来”做准备：来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/vpk-2122115144.html) <span class="news-meta-time">🕒 2026-10-04 17:52</span>
+- [Hugging Face (开源模型社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://huggingface.co/blog/microsoft/thinkingbox) <span class="news-meta-time">🕒 2026-10-04 06:56</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-10-04 17:33</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://cognit.rajtilak.tech/) <span class="news-meta-time">🕒 2026-10-04 17:21</span>
+- [NASA News (深空探索与航天)] [每日天文一图：2026年10月4日——新泽西州上空的附属虹](https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/) <span class="news-meta-time">🕒 2026-10-04 12:05</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/bespilotnik-2122114909.html) <span class="news-meta-time">🕒 2026-10-04 17:49</span>
+:::
 :::timeline-item{start="2026-10-04 10:55 (UTC+8)" title="全球要闻情报简报 · 10:55" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-04 10:44 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,18 +656,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope) <span class="news-meta-time">🕒 2026-09-20 14:00</span>
 - [NASA News (深空探索与航天)] [每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/) <span class="news-meta-time">🕒 2026-09-20 12:05</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/pamfilova--2118891677.html) <span class="news-meta-time">🕒 2026-09-20 15:46</span>
-:::
-:::timeline-item{start="2026-09-20 09:22 (UTC+8)" title="全球要闻情报简报 · 09:22" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-20 09:18 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”：歌手埃德·希兰（Ed Sheeran）在他最新一场演唱会中独自登台开场，并就处理美国说唱歌手麦克勒莫尔（Macklemore）因发表亲巴勒斯坦言论被踢出巡演所引发的争议向歌迷道歉，承认自己犯了“错误”。；【undefined】国家杜马选举马来西亚投票站开放：统一投票日正在全面展开。；【undefined】死亡人数攀升 刚果（金）为卫生工作者推广接种埃博拉疫苗：5万名前线人员将接种针对另一种埃博拉病毒毒株的疫苗，其中2万人已参与为期一年的临床试验。；【undefined】五月谜题：2026年6月22日 - 2026年6月22日 我平时不太沉迷于 Facebook，但是——哇——MM（五月谜题）Facebook 群组里的人确实多得惊人。 近期内容：来自 phoenixmag.com 的《亚利桑那的达·芬奇密码》 万物皆有终结，但谜题依然存在。 嘿，快看——这里有个 Facebook 群组。另外：该 Facebook 群组现在也有了邮政信箱 :) 信箱由罗伯特打理，地址为：Robert Bannon 2719 Gol；【undefined】Hacker News 排名机制解析：评分、争议与惩罚（2013）：通过对 Hacker News 前 60 篇热门文章进行为期数天的仔细分析，我可以回答这些问题以及更多细节。官方公开的排名公式大体上是准确的。但排名的微调程度远超你的想象，首页上有 20% 的文章会受到各种形式的惩罚。标题中包含“NSA”（美国国家安全局）的任何内容都会受到惩罚并迅速下榜。一篇“具争议性”的文章在达到 40 条评论后会受到严厉惩罚。本文详细介绍了其评分机制和惩罚机制。[编辑说明：HN 现已不再对涉及 NSA 的文章施加惩；【undefined】Meta 的 Muse 令人毛骨悚然，但原因或许与你想的不同：来自该话题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。；【undefined】报道称Flock试图通过员工买断计划缩减人员规模：据《连线》（Wired）杂志报道，深陷舆论漩涡的监控技术公司Flock Safety于周五公布了一项针对员工自愿离职的“丰厚”遣散方案。；【undefined】监测互联网审查。为规模最大的开放数据集贡献力量：为全球最大的互联网审查开放数据集贡献力量。
-
-**重点要闻索引：**
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2190179) <span class="news-meta-time">🕒 2026-09-20 09:14</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.com/theguysudo/ENZO) <span class="news-meta-time">🕒 2026-09-20 07:47</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-20 09:03</span>
-- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/) <span class="news-meta-time">🕒 2026-09-20 07:10</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html) <span class="news-meta-time">🕒 2026-09-20 07:30</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/shkola-2118841702.html) <span class="news-meta-time">🕒 2026-09-20 09:13</span>
 :::
 ::::

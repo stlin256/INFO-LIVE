@@ -1,5 +1,1552 @@
 [
   {
+    "timestamp": 1791107902797,
+    "timeDisplay": "2026-10-04 17:58 (UTC+8)",
+    "date": "2026-10-04",
+    "runId": "feed-20261004T095559875Z-sijwry",
+    "generatedAt": "2026-10-04T09:58:22.797Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 17:55",
+      "lead": "本轮抓取于 2026-10-04 17:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】每日天文一图：2026年10月4日——新泽西州上空的附属虹：每日天文一图：2026年10月4日——…… 每日天文一图 探索宇宙！每天都会展示我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 新泽西州上空的附属虹 说明：是的，但你见过的彩虹能做到这一点吗？2018年，当飓风“佛罗伦斯”（Hurricane Florence）的残余云系掠过美国新泽西州的泽西海岸后，太阳从一个方向破云而出，而在相反的方向却出现了一种极不寻常的景象：彩虹长廊。在接下来的半小时里，令摄影师及其女儿欣喜若狂的是",
+        "【undefined】联邦法官称Flock属于“无差别的群体大规模监控”：一名联邦法官本周裁定，俄克拉何马州塔尔萨市的一名副警长在未取得搜查令的情况下使用Flock Safety系统检索一名女性的车牌信息，侵犯了该女性在宪法第四修正案下的权利。",
+        "【undefined】工会谈判破裂 格拉斯哥市议会员工在“先解雇再返聘”方案中面临降薪：公共服务业总工会（Unison）拒绝就一项将导致数千名市议会员工待遇恶化的方案组织会员投票。",
+        "【undefined】亚马逊回应数据中心抵制潮，称已不再使用保密协议（NDA）：亚马逊云科技（Amazon Web Services，AWS）首席执行官马特·加曼（Matt Garman）表示，该公司在寻求批准建设新数据中心时，已停止在与政府机构的往来中使用保密协议（NDA）。",
+        "【undefined】我们几乎对所有服务都需要默认的硬性预算上限：在接下来的数月乃至数年里，全世界将越来越需要这样一项产品特性：默认的硬性预算上限（hard budget caps）。我指的是按用量计费的服务和 API 中的一种功能，它允许你设定“当月费用达到 X 美元后，直接关停该服务并返回错误”。这必须是硬性限制。所谓“当月达到 X 美元后给我发送提醒邮件”的软性上限，根本无济于事。",
+        "【undefined】德国总理突访基辅之际，基辅桥梁在俄罗斯新一轮无人机袭击中遇袭：皮夫尼奇内大桥（Pivnichnyi Bridge，周六拍摄）已连续第二天遭到袭击。",
+        "【undefined】加沙一本书的故事：重获新生的珍贵之物：在种族灭绝的阴影下，加沙的一群爱书人士正努力维系巴勒斯坦的文学传承。",
+        "【undefined】Capcom正为“与AI共同制作游戏的未来”做准备：来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包未提供文章标题、正文、来源、发布时间或可核验引文，现有相关目录条目也缺少明确标题与来源，因此无法形成有证据支持的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息缺失",
+          "analysis": "当前主文章内容状态为缺失，证据事实、引文、实体、冲突与引用均为空。相关条目仅提供少量未核验摘要，且未标明来源，不能据此确认具体事件、主体或趋势。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 71,
+      "completedTasks": 71,
+      "succeeded": 61,
+      "degraded": 10,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 71,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 142867,
+      "byRole": {
+        "translator": {
+          "attempts": 49,
+          "succeeded": 40,
+          "degraded": 9
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 71,
+          "succeeded": 61,
+          "degraded": 10
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-2",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-32-translator-0",
+      "article-35-translator-1",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.455Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.921Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.483Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.040Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.716Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.810Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.767Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.845Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.481Z",
+        "lastSuccessAt": "2026-10-04T09:55:46.220Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.477Z",
+        "lastSuccessAt": "2026-10-04T09:55:45.840Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:46.059Z",
+        "lastSuccessAt": "2026-10-04T09:55:46.204Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.762Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.802Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.916Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.060Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.845Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.054Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.040Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.916Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.957Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.072Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.911Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.944Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.921Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.716Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:45.657Z",
+        "lastSuccessAt": "2026-10-04T09:55:46.389Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.861Z",
+        "lastSuccessAt": "2026-10-04T09:55:46.059Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:45.397Z",
+        "lastSuccessAt": "2026-10-04T09:55:45.657Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.023Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.334Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.467Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.781Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.162Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.767Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.654Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.762Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:41.692Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.654Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.151Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.378Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.124Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.327Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-04T09:55:44.054Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.150Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.360Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.360Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.861Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.944Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.064Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:45.746Z",
+        "lastSuccessAt": "2026-10-04T09:55:48.322Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.222Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.320Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.419Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.476Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.378Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.419Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.476Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.516Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:45.840Z",
+        "lastSuccessAt": "2026-10-04T09:55:46.133Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.781Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.825Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.029Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.481Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.072Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.222Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.462Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.522Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.334Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.735Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-04T09:55:44.327Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:41.690Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.957Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.395Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.462Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:41.691Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.467Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.516Z",
+        "lastSuccessAt": "2026-10-04T09:55:46.254Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.064Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.150Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:42.802Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.911Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.320Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.395Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.060Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.124Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.522Z",
+        "lastSuccessAt": "2026-10-04T09:55:45.397Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:44.735Z",
+        "lastSuccessAt": "2026-10-04T09:55:45.746Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.825Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.029Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:43.810Z",
+        "lastSuccessAt": "2026-10-04T09:55:44.023Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:41.674Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.455Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:41.687Z",
+        "lastSuccessAt": "2026-10-04T09:55:42.483Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T09:55:41.689Z",
+        "lastSuccessAt": "2026-10-04T09:55:43.162Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-1004-vpk-2122115144-html-defef090b1dbf512",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минобороны заявило об усилении ударов по ВПК Украины после слов Зеленского",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T09:52:14.000Z",
+        "pubTime": "2026-10-04 17:52",
+        "url": "https://ria.ru/20261004/vpk-2122115144.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 17:52 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/vpk-2122115144.html",
+            "publishedAt": "2026-10-04T09:52:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-microsoft-thinkingbox-bd1136d0fcfd6f13",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
+        "source": "Hugging Face (开源模型社区)",
+        "sourceSlug": "huggingface",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T22:56:48.000Z",
+        "pubTime": "2026-10-04 06:56",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "imageUrl": null,
+        "fullContent": "Figure 1: ThinkingBox runs an agent against isolated MCP tool sessions, then grades the terminal backend state and side effects it leaves behind. From our ThinkingBox paper.\n\nA customer writes in. Her $745 kitchen appliance has been stuck in a courier \"exception\" at a Nashville distribution center, fifteen days past its estimated delivery date.\n\nThe AI agent does careful work. Nine tool calls: it pulls the order, checks tracking, looks up her customer profile, searches the refund policy twice, confirms no ticket exists, opens one, documents the timeline, and reads the policy correctly; her account segment genuinely does not qualify for late-delivery compensation.\n\nThen it closes the ticket as resolved and replies “ Since your query is resolved, is there anything I may assist you with? ”\n\nTwo things are wrong. The carrier exception is still open, so the required end state was on hold, pending resolution. And the customer never got a real answer to what she actually asked.\n\nAn AI grader checking tool calls would see nine well-formed ones. The grader checking whether the agent wrote to the database would see that too. The database is what disagrees.\n\nThat gap is what ThinkingBox measures. Across 507 stateful business workflows, each run 20 times against various LLM models, it grades agents on terminal backend state and side effects. This post covers what we found, what consistency costs, and how to run the benchmark yourself through OpenEnv.\n\nYou can run this one yourself: the example above is adapted from a benchmark task sandbox_external_retail_group1.py:test_case_ST003_006, and the executable check that fails is a single field: the ticket's status is solved where the required end state is hold. The full trace is in Appendix D.4, Case 3 of our paper.\n\nWant to try it before reading the results? Skip to section Run it yourself.\n\nFinal responses and valid tool calls are only proxies. An agent can sound correct while leaving the wrong value, changing the wrong record, or creating an extra side effect. Only the records it leaves behind settle the question.\n\nThe gap is substantial. In a common-set ablation covering 121,680 valid trials across 12 LLM models, 79,853 attempts failed the executable checks. Of those failures, 67.24% still terminated cleanly, invoked a state-changing tool, and reported no final tool error. Executable checks nevertheless found wrong field values in 77.61% of them, unintended extra effects in 43.30%, and missing required effects in 25.36%. Those state-check findings overlap.\n\nA trajectory is a claim. Database state is the evidence. Repetition is the trust test.\n\nAn agent that processes a refund correctly once and mishandles it the next four times is not a working refund agent. So every task runs 20 independent times, each from an identical clean backend, and we report three different things:\n\nTable 1: The three numbers we report, and the question each one answers.\n\nWe use observed 20/20 in this blog post as the literal count of how many of the 507 tasks passed 20 out of 20. No estimator, no smoothing.\n\nStarting with the familiar view. The table below reports pass@1, the single-attempt score estimate, broken out by domain. This is the number most leaderboards publish, and on its own it reads like an ordinary capability ranking.\n\nTable 2: ThinkingBox-Bench pass@1 (%) by domain. Each model is evaluated on every task for 20 repeated trials. Bold marks the group leader; underline marks the runner-up. The standard errors for the single attempt score estimates are provided in Table 4 in our ThinkingBox paper.\n\nClaude Opus 5.5 leads overall at 67.16%, two-thirds of a point above Claude Opus 5. Kimi-K3 is the strongest open-weights model, within a point of GPT-6-Astra. Domain matters just as much: Claude Opus 4.6 scores 68.62% on retail but 8.30% on auto insurance.\n\nOne good run tells you a model can do the work. It does not tell you whether it will do it again. So run every task 20 times and ask how much of that score survives.\n\nFigure 2: How much of each model's single-attempt score survives 20 repeats.\n\nOnly three hold on to most of their pass@1 scores: GPT-6 Astra retains 78% of its single-attempt rate, and Claude Opus 5.5 and Claude Opus 5 each retain 71%. At the other end, GLM-5.1, Kimi-K2.6 and DeepSeek-V4-Pro each keep about 8%.\n\nThe gap between what a model can do once and what it does every time is the whole story.\n\nFigure 3: Breadth and consistency pull apart. Twelve of the eighteen models are shown; six below 33% pass@1 are omitted for legibility.\n\nKimi-K3 has the broadest coverage of any model we tested. It solves 93.89% of the benchmark at least once: 476 of 507 tasks. Only 31 tasks defeat it entirely, the lowest count in the field. On retail workflows it leads outright at 82.24% pass@1, ahead of every proprietary model.\n\nKimi-K3 is also among the least consistent. Just 68 of 507 tasks, 13.41%, succeed in all 20 attempts.\n\nClaude Opus 5 inverts this. It solves fewer tasks at least once (79.09%; 106 defeat it entirely) but completes 47.53% of the benchmark on every single attempt.\n\nA newer model does not fix this. Claude Opus 5.5 scores higher than Claude Opus 5 on every-attempt average, 67.16% against 66.50%, and solves more tasks at least once. It passes exactly the same number of tasks on all 20 attempts: 241. Half a point of headline accuracy bought no additional dependability at all.\n\nIf you are choosing a model for work that touches real records, pass@20 is the wrong column to look at.\n\nCapability comparisons usually stop at the score. For anyone deploying, the relevant question is what a successful unit of work costs. We measure that as cost per successful task attempt. We say task attempt because every benchmark task is run repeatedly and cost is incurred per attempt, so pass@1 is the matching quality denominator.\n\nWe took each model's recorded token usage from its full 507 × 20 campaign and priced it at undiscounted list rates available on OpenRouter+, reversing promotional discounts and excluding endpoints that declare quantization. Input, output and cache rates all come from one provider endpoint per model.\n\nThen we divided one run's cost by the number of attempts that succeeded:\n\nCost per successful task attempt = estimated cost for 507 attempts, one per task ÷ (507 × pass@1)\n\nThis is a comparative efficiency index, not an invoice, and not the price of serving one production request. It also prices single successes, not consistency. We price consistency next.\n\nExample: GPT-5.4 costs $43.49 for 507 attempts (one attempt per task) and has 65.36% pass@1, so $43.49 ÷ (507 × 0.6536) = $0.131 per successful task attempt.\n\nA model is on the frontier if no other model is both no more expensive and at least as accurate. Three models qualify; every other model is dominated on at least one axis.\n\nFigure 4: Cost per successful task attempt against pass@1. Ringed dots are pareto cost frontier models.\n\nThe frontier has three steps. GPT-5.6 Sol has the lowest cost per success at $0.127; GPT-5.4 raises pass@1 by 3.45 percentage points for $0.004 more per success; Claude Opus 5.5 adds another 1.80 points at $0.276 per success. Each of the three remains on the cost frontier line because no cheaper model matches its pass@1.\n\nClaude Opus 5 is the clearest case: at $0.475 per successful attempt and 66.50% pass@1, it is both more expensive and less accurate than Claude Opus 5.5 at $0.276 and 67.16%.\n\nCost per success rewards a model that is cheap and often right. It does not reward a model that is right every time. So we also compute cost per dependable task: the cost of the full 20-run campaign divided by the number of tasks the model passed on all 20 attempts.\n\nCost per dependable task = estimated cost of 20 runs of 507 attempts ÷ tasks passing 20/20\n\nExample: GPT-6-Astra costs 20 × $86.03 = $1,720.60 for the campaign and passes 231 tasks on every attempt, so $1,720.60 ÷ 231 = $7.45 per dependable task.\n\nTable 3: The nine lowest costs per dependable task among models with at least one observed 20/20 task, sorted low to high. Estimated $, not actual cloud bills.\n\nNow rank by consistency. GPT-5.4 is the cheapest at $6.80, though only 128 tasks meet the bar. GPT-6 Astra reaches 231 at $7.45, and Claude Opus 5.5 the joint-highest 241 at $7.80.\n\nNone of the three dominates the others: each additional dependable task costs more. Claude Opus 5 also passes 241, but at $13.30, so Opus 5.5 dominates it outright. GPT-5.6 Sol, the cheapest per single success at $0.127, costs $9.76 per dependable task. The cheapest way to get a right answer is not the cheapest way to get a dependable one.\n\nWe assign each failed trace one deterministic diagnostic signature, and the headline is actionable: roughly four in five failures are tool handling, not reasoning. Across an ablation study in Table 5 of our paper:\n\nThese are unweighted averages of per-model shares and observable labels, not unique causal explanations.\n\nThe practical pattern is simple: agents usually get far enough to attempt the workflow, then fail to recover from tool errors, failed preconditions, or empty lookups. That is a retry and error-recovery problem before it is a model problem.\n\nDifficulty also changes by domain: across the models listed in Table 2 above, retail averages 59.52% pass@1 while auto insurance averages 33.83%.\n\nWhat to do about it. Treat the 20/20 rate as a design input, not a verdict. The same signal the benchmark grades on is available in production: check the terminal state before you commit, not the model's summary of it.\n\nClassify tool and system errors so retries target the recoverable ones. Cut the tool surface to what the workflow needs. And require human approval on the changes you cannot cheaply reverse. We have not measured the lift from any of these on this benchmark, which is exactly the kind of thing the environment now makes testable.\n\nThinkingBox is the agent sandbox, while ThinkingBox-Bench is a dataset benchmark to evaluate agents. The diagram at the top of this post shows the loop; here is what each part does.\n\nFigure 5: The sandbox loop from panel A in Figure 1 above: isolated tool session, terminal database state, side effects, executable judges.\n\nEach task defines a starting backend state, a user goal, the available MCP tools, the domain policy, and executable checks over the terminal state. A simulated user holds private context (a booking reference, a preference, or a date of birth) and releases it only when asked.\n\nEvery attempt gets an isolated MCP session with freshly initialized state. Two attempts of the same task never share a database row or cached tool state, which is what makes 20-trial comparison meaningful.\n\nAt the end, a side-effect extractor derives what actually changed, and deterministic judges compare it against the required end state, accepting any trajectory that produces the right outcome while rejecting wrong, missing or extra effects. For requirements with no clean database value (\"did the agent disclose this is not guaranteed?\"), a narrow binary rubric question handles the semantics. 477 of the 507 tasks are graded on state alone; 30 add response rubrics.\n\nThe trust boundary: the model sees tasks, dialogue and tool schemas. Golden state, assertions, grading internals and credentials stay on the evaluator side.\n\nThinkingBox is now on Hugging Face, both the harness and the dataset. ThinkingBox-Bench now sits behind the OpenEnv interface, and each finished episode returns a binary pass/fail reward. The released adapter is designed for evaluation; separate, non-benchmark scenarios can use the same interface in training workflows.\n\nTested on Linux and WSL, with Python 3.11+, uv and Docker. You also need a thinkingbox-data checkout at the pinned release and model endpoints for the agent, simulated user and judge. One endpoint can serve all three roles, which is the simplest way to start. The OpenEnv image starts only the OpenEnv API; everything else you run yourself.\n\nIn a second terminal, start Typesense 30.1 and wait for its health check:\n\nIn a third terminal, start the Session Proxy and MCP servers.\n\nBack in the first terminal, start the OpenEnv server against a ThinkingBox YAML config naming your three models (config guide):\n\nGate on readiness before running anything. It returns 503 until its observable data, configuration and Session Proxy checks pass. It cannot observe Typesense or live-probe every model endpoint, so confirm those separately:\n\nNow score a real episode. example_usage.py only resets and lists tools; for agent actions, effects and assertions use the packaged evaluator:\n\nThe OpenEnv adapter writes operational failures to an errors sidecar so they can be rerun rather than silently mixed with model outcomes. A canonical result must resolve or explicitly account for those attempts; we counted system errors as unsuccessful trials.\n\nRuns are gated on a pinned framework commit, a pinned data release and a bundle hash, so a canonical result is verifiable rather than asserted.\n\nThe useful part of this work is not our pass@1 leaderboard. It is the environment.\n\nIf you are evaluating an agent that touches real records:\n\nFurther details can be found in the following links:\n\nThinkingBox code is MIT-licensed; the benchmark data is CDLA-Permissive-2.0; the OpenEnv environment ships under OpenEnv's BSD-3-Clause.\n\nDisclaimer: every task in the public benchmark is a synthetic reconstruction. The workflows and policies are modeled on real AI agentic enterprise patterns; the customers are not real.\n\nThinkingBox and ThinkingBox-Bench is built by the Microsoft Copilot Studio team in partnership with Toloka with collaborators from the University of Pittsburgh, Northwestern University, Columbia University and UC Irvine who interned at Microsoft. Questions are welcome in the comments section below or on github\n\n+ OpenRouter cost snapshot taken on Sept 20th 2026; Opus 5.5 pricing as per the Anthropic site.\n\nMore from this author",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 73,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "ThinkingBox 是一套面向 AI Agent 的基准测试环境，通过 507 个有状态的业务工作流程评估 Agent 在终端后端状态和副作用上的表现，且每个任务在各模型上独立运行 20 次。",
+          "在涵盖 12 个 LLM 模型、共计 121,680 次有效试验的测试中，有 79,853 次尝试未通过可执行检查。",
+          "来源叙事重点：揭示 AI Agent 在工具调用和文本输出看似成功但实际数据库终端状态错误的‘幻觉可靠性’现象，主张从单次通过率（pass@1）转向基于后端状态检查与20次全量重复（pass@20）的稳定性及成本效益评估。"
+        ],
+        "citations": [
+          {
+            "source": "Hugging Face (开源模型社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T22:56:48.000Z",
+            "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+          }
+        ]
+      },
+      {
+        "id": "story-f-4b68-8cfa-553b205a4bb0-e05340e481d33701",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tories vow to end £100,000 childcare trap but keep pensions triple lock",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:33:49.000Z",
+        "pubTime": "2026-10-04 17:33",
+        "url": "https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33490a6f-b07b-4bd0-97e3-1cd4c391e163.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Kemi Badenoch says current threshold for free hours, introduced by previous Conservative government, punishes parents for working more",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 17:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T09:33:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-cafb7612ac5e075a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:21:18.000Z",
+        "pubTime": "2026-10-04 17:21",
+        "url": "https://cognit.rajtilak.tech/",
+        "imageUrl": null,
+        "fullContent": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed. 100% is fully normative. 0% matches the biased answer. How to read a row.\n\nAn LLM scored these answers. The judge's name is in the Judge column.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-04 17:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://cognit.rajtilak.tech/",
+            "publishedAt": "2026-10-04T09:21:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rainbows-over-new-jersey-518ef5b89828b862",
+        "title": "每日天文一图：2026年10月4日——新泽西州上空的附属虹",
+        "originalTitle": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T04:05:00.000Z",
+        "pubTime": "2026-10-04 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 October 4 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nSupernumerary Rainbows over New Jersey\n\nExplanation: Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey , USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows . Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere , a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light’s wave nature .\n\nYour Sky Surprise: What picture did APOD feature on your birthday? (post 1995)\n\nTomorrow’s picture: open space\n\nCredit &#038; Copyright\n\nAuthors &#038; editors:\n\nRobert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 October 3 – Selfie at Vera Rubin Ridge\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "每日天文一图：2026年10月4日——……\n每日天文一图\n探索宇宙！每天都会展示我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。\n新泽西州上空的附属虹\n说明：是的，但你见过的彩虹能做到这一点吗？2018年，当飓风“佛罗伦斯”（Hurricane Florence）的残余云系掠过美国新泽西州的泽西海岸后，太阳从一个方向破云而出，而在相反的方向却出现了一种极不寻常的景象：彩虹长廊。在接下来的半小时里，令摄影师及其女儿欣喜若狂的是，鲜艳的附属虹（supernumerary rainbows，又称复虹）时隐时现，在这张精选的单次曝光照片中至少捕捉到了五道附属虹。附属虹只有当下落的水滴大小几乎完全相同且直径通常小于一毫米时才会形成。此时，阳光不仅会在雨滴内部反射，还会发生干涉——这是一种类似于石子投入池塘时激起涟漪的波动现象。事实上，附属虹只能用光的波动性来解释，早在19世纪初对它们的记录就被视为光具有波动性的早期证据。\n你的天空惊喜：在你生日那天每日天文一图展示了什么照片？（1995年之后）\n明天的图片：广阔空间\n鸣谢与版权\n作者与编辑：\n罗伯特·内米罗夫（Robert Nemiroff）、杰瑞·邦内尔（Jerry Bonnell）、塞西莉亚·奇伦蒂（Cecilia Chirenti）、凯斯利·罗克利夫（Keighley Rockcliffe）\nNASA科学激活计划（NASA Science Activation）与密歇根理工大学\n随机APOD生成器\n昨日图像\n每日天文一图：2026年10月3日——维拉·鲁宾山脊自拍\n明日图像",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "2018年飓风佛罗伦萨的残余经过美国新泽西州泽西海岸后，摄影师及其女儿观察并拍摄到了附属虹（supernumerary rainbows）。",
+          "在随后的半小时内，附属虹时隐时现，精选的单张照片中至少捕捉到了五道附属虹。",
+          "来源叙事重点：以2018年飓风过境后新泽西州上空罕见的“附属虹”摄影作品为切入点，重点解读该大气光学现象的形成机理（水滴直径均一且小于1毫米、光波干涉现象），并阐释其在19世纪初作为证明光的波动性关键历史证据的科学内涵。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
+          }
+        ]
+      },
+      {
+        "id": "story-pilotnik-2122114909-html-f807cf0781b58ad3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На Кубани при падении обломков БПЛА пострадали три человека",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T09:49:37.000Z",
+        "pubTime": "2026-10-04 17:49",
+        "url": "https://ria.ru/20261004/bespilotnik-2122114909.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e6/0b/18/1834036932_0:160:3072:1888_650x0_80_0_0_50783085aa7565ace36547c8aa9c3598.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 17:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/bespilotnik-2122114909.html",
+            "publishedAt": "2026-10-04T09:49:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minate-mass-surveillance-d3e5e8c1a81ab330",
+        "title": "联邦法官称Flock属于“无差别的群体大规模监控”",
+        "originalTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:33:15.000Z",
+        "pubTime": "2026-10-04 03:33",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "imageUrl": null,
+        "fullContent": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAs reported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court case focused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "一名联邦法官本周裁定，俄克拉何马州塔尔萨市的一名副警长在未取得搜查令的情况下使用Flock Safety系统检索一名女性的车牌信息，侵犯了该女性在宪法第四修正案下的权利。\n\n正如404 Media所报道的，该裁决并未形成具有约束力的先例，但这属于联邦法官首次认定Flock搜查违宪的案件之一。\n\n在本案中，萨拉·希尔（Sara Hill）法官表示，该副警长在Flock数据库中检索该女性车牌之前本应取得搜查令，因为除了“（该女性的车辆）悬挂加利福尼亚州车牌这一事实”之外，他“没有明显的理由”进行该检索。\n\n随后，该副警长将该女性在Flock系统中的行驶轨迹记录作为搜查其车辆的正当理由之一，并据称在车内发现了91磅冰毒。但希尔法官在裁决书中写道，在Flock搜查之后获得的所有证据“均属于毒树之果，必须予以排除”。\n\n希尔法官还将批评矛头更广泛地指向了对Flock数据库的无令状检索，写道追踪人们的行踪——即使他们身处公共场所——也会“在执法部门能够长期无差别且被动地记录你的行踪，并在任何方便的时候将其用于任何目的时，引发宪法层面的问题”。\n\n“这是一种无差别的群体大规模监控，”希尔写道。“它并非像[卡彭特诉美国案（Carpenter v. United States，最高法院审理的一起关于政府机构如何获取手机位置数据的案件）]中那样针对单个个人。它是一种每时每刻都在收集途经任何联网摄像头的全部车辆信息的工具，并根据执法部门的需求随时提供这些信息。”\n\n希尔加入到了跨越不同政治立场的越来越多对Flock提出批评的人士行列中。包括佛罗里达州和得克萨斯州在内的众多地方和州政府已表示将停止使用该技术。周五，来自佛蒙特州的民主党参议员伯尼·桑德斯（Bernie Sanders）提出了《阻止Flock法案》（Block Flock Act），该法案将禁止联邦机构使用如Flock之类的自动车牌识别系统。\n\nFlock首席执行官加勒特·兰利（Garrett Langley）——我们将在TechCrunch Disrupt大会的舞台上对他进行采访——此前曾呼吁在隐私与安全之间达成“妥协”，并向那些曾遭到执法人员利用Flock系统进行跟踪的女性道歉。随着众多合作被取消，据报道Flock还提供了自愿买断离职方案以精简员工规模。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任《Adweek》的技术记者、VentureBeat的高级编辑、《Hollister Free Lance》的地方政府报道记者，以及一家风投公司的内容副总裁。他现居纽约市。\n\n您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实其外联信息。\n\n购买第二张门票立享五折优惠。Disrupt大会的体验本就应当与人分享。获取您的门票，携手同事、合伙人或同行参会，第二张可享半价优惠。通过建立人脉、汇聚动力以及探索初创生态系统的下一站，拓宽更多视野。\n\n谷歌认为SpaceX的星舰必须发射1800次后太空数据中心才能真正起步\n全球首座增强型地热发电站仅用23个月即告完工\n谷歌发布Gemini 4 Argon，称其为迄今为止最强大的模型\n五角大楼邀请埃隆·马斯克和帕尔默·拉齐协助决定军方的下一步行动\nOpenAI推出具有泡泡风格的智能体虚拟化身Dots\nAMD将以82亿美元收购李飞飞的World Labs\n爆火的AI智能体公司Instinct以100亿美元估值完成10亿美元C轮融资",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "美国俄克拉荷马州塔尔萨的一名联邦法官裁定，一名副警长在没有搜查令的情况下使用Flock Safety搜索一名女性的车牌，侵犯了该女性的第四修正案权利。",
+          "该裁决并未确立有约束力的判例，但属于联邦法官首次认定Flock搜索违宪的裁决之一。",
+          "来源叙事重点：聚焦联邦司法对警用监控技术Flock Safety违宪审查的先例性裁决，强调无令状搜查对宪法第四修正案权利的侵犯，并串联起多州政界抵制、联邦立法限制及Flock公司深陷的公关与经营危机"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:33:15.000Z",
+            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+          }
+        ]
+      },
+      {
+        "id": "story-6-4d0c-9016-32deaae67b62-3403c814aa4c7188",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why the IPO market is booming and busting",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:29:09.000Z",
+        "pubTime": "2026-10-04 17:29",
+        "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38ced831-9e85-4e1d-bbb6-1d7e5edc5f49.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Flotations have stalled and returns from new listings have been weak",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 17:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+            "publishedAt": "2026-10-04T09:29:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-union-talks-break-down-144c2d7ccb3028b4",
+        "title": "工会谈判破裂 格拉斯哥市议会员工在“先解雇再返聘”方案中面临降薪",
+        "originalTitle": "Glasgow council workers face pay cuts in fire-and-rehire plan after union talks break down",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:13:29.000Z",
+        "pubTime": "2026-10-04 17:13",
+        "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+        "imageUrl": "https://i.guim.co.uk/img/media/ef6bee5f1a6e5f86067c875a941f58da2299ab64/235_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=57b7369d6945ba2f888843d4da6156b9",
+        "fullContent": "Unison refuses to ballot members on offer that would see thousands of council employees worse off\n\nThousands of Glasgow council workers face being sacked and reappointed under less favourable terms in one of the UK’s biggest ever “fire-and-rehire” exercises, after union negotiations broke down once again this week.\n\nAbout 23,000 workers – all of the council’s non-teaching staff – first heard they were affected last week when talks between the SNP-led council and the GMB, Unison and Unite unions fell apart. Those negotiations concerned a new pay and grading system designed to resolve historical pay equality issues. Unison refused to ballot its members on an offer that would see pay cuts for 11% of council employees, prompting the council to begin issuing fire-and-rehire letters.",
+        "fullTranslation": "公共服务业总工会（Unison）拒绝就一项将导致数千名市议会员工待遇恶化的方案组织会员投票。\n\n在本周工会谈判再度破裂后，数千名格拉斯哥市议会员工面临被解雇后按更不利条件重新录用的处境，这成为英国有史以来规模最大的“先解雇再返聘”操作之一。\n\n约23,000名员工——即该市议会的所有非教职人员——在上周苏格兰民族党（SNP）领导的市议会与GMB、Unison及Unite工会的谈判破裂时，首次得知自己受到影响。相关谈判涉及一套旨在解决历史薪酬平等问题的新薪酬与职级体系。Unison拒绝就导致11%市议会雇员降薪的方案付诸会员投票，促使市议会开始发放“先解雇再返聘”通知函。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "在工会谈判破裂后，数千名格拉斯哥市议会工作人员面临通过‘解雇并重新聘用’方案以降薪及更不利的条件被重新录用。",
+          "约23,000名格拉斯哥市议会非教学员工受到该事件影响。",
+          "来源叙事重点：聚焦格拉斯哥市议会谈判破裂后对2.3万名非教学员工实施‘解雇并重新聘用’争议方案，强调数千名基层员工面临降薪及苛刻条件的劳资危机与社会影响"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T09:13:29.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down"
+          }
+        ]
+      },
+      {
+        "id": "story-xpayer-money-sports-html-bb99024ba7486447",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T00:30:01.000Z",
+        "pubTime": "2026-10-04 08:30",
+        "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/-sports-stadiums.jpg",
+        "fullContent": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+            "publishedAt": "2026-10-04T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4-peskov-2122114780-html-59ae59ddfb8cd228",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия готова бороться даже за 0,01 процента территории ДНР, заявил Песков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T09:49:19.000Z",
+        "pubTime": "2026-10-04 17:49",
+        "url": "https://ria.ru/20261004/peskov-2122114780.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/0c/13/2063307862_0:209:2788:1777_650x0_80_0_0_4be27acc677c1259421e05bdfdafe683.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 17:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/peskov-2122114780.html",
+            "publishedAt": "2026-10-04T09:49:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-it-no-longer-uses-ndas-67dac9f5f51307d8",
+        "title": "亚马逊回应数据中心抵制潮，称已不再使用保密协议（NDA）",
+        "originalTitle": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "pubTime": "2026-10-04 02:43",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "imageUrl": null,
+        "fullContent": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.\n\nGarman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.\n\nNDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”\n\nAs a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.\n\n“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”\n\nGarman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.\n\nPointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”\n\nNvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.\n\nAs for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”\n\nOn the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.\n\nWhen it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.\n\n“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”\n\nAs for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”\n\nWill this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust,” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "亚马逊云科技（Amazon Web Services，AWS）首席执行官马特·加曼（Matt Garman）表示，该公司在寻求批准建设新数据中心时，已停止在与政府机构的往来中使用保密协议（NDA）。\n\n加曼的这一表态出自一篇较长博文中的一句话。他在文中试图回击外界对数据中心普遍存在的疑虑，并论证数据中心实际上对当地社区有益。\n\n保密协议是更广泛的数据中心抵制潮中的关键焦点之一。例如，环保活动人士埃琳·布罗克维奇（Erin Brockovich）最近表示，她听到的关于数据中心的第一大抱怨就是透明度问题，这些项目普遍遵循一种套路：“在获得许可证后才宣布项目、开发商拒不回电、地方官员在邻居们根本不知道项目正在审议前就已经签署了保密协议。”\n\n受此类抵制的影响，纽约州宣布对大型数据中心审批实施为期一年的暂缓令；据加曼称，目前全美有超过100项数据中心暂缓令正在审议中。\n\n“如果这些措施得以实施，美国可能正在亲手写下输掉这场竞赛的败局，其后果将延续几代人，”加曼坚称，“作为一个国家，我们承受不起陷入这种境地的代价。”\n\n加曼还试图破除他所称的围绕数据中心的“四大误区”：消耗过多水资源、推高电费、排放大量污染物，以及未给当地社区带来任何益处。\n\n加曼援引亚马逊自身用水报告指出，“直接数据中心用水量”仅占美国所有工业用水量的0.5%，“比高尔夫球场、杏仁种植以及许多其他行业低了几个数量级”。\n\n英伟达（Nvidia）最近表示其全新冷却系统消除了数据中心内部“几乎所有的水资源使用”，但这些言论——就像亚马逊的说法一样——似乎忽略了发电和芯片制造过程中涉及的更广泛用水。科学家们也表示，鉴于联邦或州层面并未对科技公司如何报告此类数据作出强制要求，他们需要对数据中心的水资源和能源消耗进行独立研究。\n\n至于电费问题，加曼表示，电费仅在部分拥有大量数据中心的州有所上涨，而在其他州则有所下降，或至少涨幅较为平缓。他辩称：“在能源价格上涨的情况下，主要是因为电网老旧，在需求激增之前未能获得足够的投资与扩建。”\n\n然而另一方面，一家独立监管机构最近表示，数据中心是美国最大电网电价同比上涨76%的主要元凶。\n\n谈及污染问题——美国全国有色人种协进会（NAACP）目前正就此问题起诉埃隆·马斯克的SpaceX/xAI——加曼抱怨批评者总是紧盯着数据中心许可证所允许的最大排污量。例如，亚马逊计划在得克萨斯州建设的一座数据中心获准每年排放3300万吨二氧化碳，这一规模超过了美国任何一座发电厂。\n\n“事实是，数据中心的发电机几乎从不运行，”加曼说，“它们99.9%的时间都处于闲置状态（每年大约只运行10小时，主要用于合规维护测试）。”\n\n关于社区福祉，加曼正是写道：“在与我们项目合作的政府机构中，我们不再使用保密协议。”此外，他表示：“在过去三年中，亚马逊已向我们在美开展重大数据中心业务的各个社区捐款超过10亿美元。”\n\n这是否足以平息社区的猜疑？也许并不能——Anthropic首席执行官达里奥·阿莫迪（Dario Amodei）最近指出，围绕人工智能的抵制“从根本上说是一场信任危机”，人们总是认为政府和科技公司在“暗中酝酿某种坑害他们的新手段”。同样，作家贾斯敏·孙（Jasmine Sun）指出，当数据中心的反对者面对科技公司的论据时，他们的反应通常只是：“我才不信他们。”\n\n当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任Adweek的技术记者、VentureBeat的高级编辑、Hollister Free Lance的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。\n\n您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼联系或核实来信。\n\n第二张门票立减50%：Disrupt大会的体验本就应当与人分享。购买您的门票，即可以5折优惠携带同事、合伙人或同行参会。通过建立人脉、蓄积势能并发现创业生态系统的下一站，拓宽更广阔的视野。\n\n谷歌认为SpaceX的“星舰”（Starship）须发射1800次后，太空数据中心才能真正起步\n全球首座增强型地热发电厂历时仅23个月便宣告竣工\n谷歌发布Gemini 4 Argon，号称其迄今为止最强大的模型\n五角大楼招募埃隆·马斯克与帕尔默·拉齐，协助决策军方下一步行动\nOpenAI推出具有活泼智能体化身的Dots\nAMD将以82亿美元收购李飞飞的World Labs\n爆火AI智能体Instinct完成10亿美元C轮融资，估值达100亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "亚马逊AWS首席执行官马特·加曼表示，该公司在寻求建设新数据中心的审批过程中，已停止在与政府机构的往来中使用保密协议（NDA）。",
+          "纽约州宣布对大型数据中心许可证实施为期一年的暂停令。",
+          "来源叙事重点：呈现亚马逊应对数据中心公众抵制而弃用保密协议（NDA）的举措，并对比科技高管对资源消耗的辩解与独立监督机构、环保组织提出的尖锐质疑，揭示AI扩张背后的社会信任危机"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:43:57.000Z",
+            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+          }
+        ]
+      },
+      {
+        "id": "story-f-401e-887e-97ce639d0329-917b97c3a70686e7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Australian authorities probe Flydubai attacker’s links to the country",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:25:03.000Z",
+        "pubTime": "2026-10-04 17:25",
+        "url": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02c351da-b0cd-4d90-881d-995fe2b27455.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Recriminations among various governments have escalated after the attempted hijacking of a flight from Dubai to Tel Aviv last week",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 17:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+            "publishedAt": "2026-10-04T09:25:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-default-hard-budget-caps-345f1755705d282a",
+        "title": "我们几乎对所有服务都需要默认的硬性预算上限",
+        "originalTitle": "We’re going to need default hard budget caps on pretty much everything",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T07:58:14.000Z",
+        "pubTime": "2026-10-04 15:58",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "imageUrl": null,
+        "fullContent": "Here’s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I’m talking about the feature of pay-by-usage services and APIs that lets you say “after $X/month, cut this thing off and return errors”. These need to be hard limits. Soft caps, “after $X/month, send me a warning email”, will not cut it.\n\nCoding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money—calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute.\n\nNobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage.\n\nAn argument against this is that businesses don’t want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill.\n\nI think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent:\n\nRemove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges.\n\nThe service I most want to see this from is AWS. I’ve heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I’ve also heard stories from people who didn’t anticipate this and ended up seriously burned.\n\n... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September:\n\nWhen you’re ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project’s usage reaches its spend limit, your project is paused for that month.\n\nSee also Create a spend limit in AWS Settings, though that page warns that “We’re currently releasing our new experience to a limited number of customers.” Here’s hoping that hits general availability for existing accounts soon.\n\nGoogle Cloud launched a similar feature in July, called Spend Caps, which lets you “set a monthly financial cap on specific services within a project”. Looks like this is becoming a trend!\n\nIn an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble.\n\nThis is We’re going to need default hard budget caps on pretty much everything by Simon Willison, posted on 3rd October 2026.\n\nPrevious: OpenAI DevDay 2026 live blog\n\nSponsor me for $10/month and get a curated email digest of the month's most important LLM developments.\n\nPay me to send you less!",
+        "fullTranslation": "在接下来的数月乃至数年里，全世界将越来越需要这样一项产品特性：默认的硬性预算上限（hard budget caps）。我指的是按用量计费的服务和 API 中的一种功能，它允许你设定“当月费用达到 X 美元后，直接关停该服务并返回错误”。这必须是硬性限制。所谓“当月达到 X 美元后给我发送提醒邮件”的软性上限，根本无济于事。\n\n编程智能体（coding agents）以及个人智能体（包裹在更友好的 UI 之下的编程智能体），极大地降低了编写并运行实用代码的门槛。有时这些操作是需要花钱的——比如调用付费 API、托管 Web 应用程序，或是会因额外存储与计算资源而计费的系统。\n\n没有人想在半夜收到一封关于超出预算限制的警告邮件，醒来后却发现，就在自己睡觉的时候，失控的服务又消耗了数百（甚至数千）美元的费用。\n\n反对这种做法的一个论点是，企业不希望由于超出某些预算限制，导致其托管的应用程序开始报错。但我认为，大多数企业和个人宁愿面对系统报错，也不愿面对突如其来的 10,000 美元以上的巨额账单。\n\n我认为硬性预算上限应当成为默认设置。如果有人想冒风险，他们当然可以这么做，但这必须基于主动选择（opt-in）。应该在显眼的位置提供一个清晰明了的复选框：\n\n“取消预算上限。如果超出设定的预算限制，我的应用程序将不会被关闭，我将承担后续产生的费用。”\n\n我最希望提供这一功能的服务商是 AWS。我听过太多人出于（合情合理的）恐惧而拒绝在个人项目中使用 AWS，生怕失控的服务会让他们破产。我也听过有人因为没有预料到这一点而遭受惨重损失的经历。\n\n……结果事实证明，AWS 几周前终于推出了支出限制功能！正如他们在 9 月 16 日发布的公告《全新 AWS 体验帮助构建者快速起步并加速交付》中所述：\n\n“当您准备升级到付费计划时，您可以根据自己的使用习惯为项目设置每月支出限制，以确保费用控制在预算之内。如果某个项目的使用量达到了支出限制，您的项目将在当月暂停运行。”\n\n另请参阅 AWS 设置中的《创建支出限制》，尽管该页面提醒称“我们目前仅面向有限数量的客户推出这一新体验”。希望该功能很快能向所有现有账户全面开放。\n\nGoogle Cloud 也在 7 月推出了类似的功能，名为“支出上限”（Spend Caps），它允许你“为项目内的特定服务设定每月财务上限”。看来这正在成为一种趋势！\n\n在理想情况下，我们的智能体也能在这方面提供帮助。如果智能体能开始倾向于推荐那些具有硬性预算上限的提供商，并警告新手和缺乏经验的开发者不要部署那些没有上限、可能带来麻烦的服务，那就太好了。\n\n本文由 Simon Willison 撰写，发布于 2026 年 10 月 3 日，标题为《我们几乎对所有服务都需要默认的硬性预算上限》。\n\n上一篇：OpenAI DevDay 2026 实时图文播报\n\n每月赞助我 10 美元，即可获取本月最重要的 LLM 进展精选邮件文摘。\n\n付费支持我，让我少发点邮件打扰你！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "AWS 于 2026 年 9 月 16 日发布公告《New AWS experience helps builders get started and ship faster》，推出了支出限额（spending limits）功能，支持在项目达到月度支出限额时于当月暂停该项目。",
+          "AWS 设置页面中的“Create a spend limit”功能当时仅面向有限数量的客户发布，尚未对现有账户普遍可用（General Availability）。",
+          "来源叙事重点：呼吁按量计费的云服务和 API 服务商将“硬性预算上限（Hard Budget Caps）”设为默认配置，强调在 AI 编码智能体普及降低部署门槛的背景下，仅靠邮件预警的软性上限已无法防范失控程序引发的灾难性账单风险，同时赞赏 AWS 与 Google Cloud 近期在支出上限功能上的进展。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T07:58:14.000Z",
+            "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-1004-vpk-2122115144-html-defef090b1dbf512",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минобороны заявило об усилении ударов по ВПК Украины после слов Зеленского",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T09:52:14.000Z",
+        "pubTime": "2026-10-04 17:52",
+        "url": "https://ria.ru/20261004/vpk-2122115144.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 17:52 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/vpk-2122115144.html",
+            "publishedAt": "2026-10-04T09:52:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-microsoft-thinkingbox-bd1136d0fcfd6f13",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
+        "source": "Hugging Face (开源模型社区)",
+        "sourceSlug": "huggingface",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T22:56:48.000Z",
+        "pubTime": "2026-10-04 06:56",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "imageUrl": null,
+        "fullContent": "Figure 1: ThinkingBox runs an agent against isolated MCP tool sessions, then grades the terminal backend state and side effects it leaves behind. From our ThinkingBox paper.\n\nA customer writes in. Her $745 kitchen appliance has been stuck in a courier \"exception\" at a Nashville distribution center, fifteen days past its estimated delivery date.\n\nThe AI agent does careful work. Nine tool calls: it pulls the order, checks tracking, looks up her customer profile, searches the refund policy twice, confirms no ticket exists, opens one, documents the timeline, and reads the policy correctly; her account segment genuinely does not qualify for late-delivery compensation.\n\nThen it closes the ticket as resolved and replies “ Since your query is resolved, is there anything I may assist you with? ”\n\nTwo things are wrong. The carrier exception is still open, so the required end state was on hold, pending resolution. And the customer never got a real answer to what she actually asked.\n\nAn AI grader checking tool calls would see nine well-formed ones. The grader checking whether the agent wrote to the database would see that too. The database is what disagrees.\n\nThat gap is what ThinkingBox measures. Across 507 stateful business workflows, each run 20 times against various LLM models, it grades agents on terminal backend state and side effects. This post covers what we found, what consistency costs, and how to run the benchmark yourself through OpenEnv.\n\nYou can run this one yourself: the example above is adapted from a benchmark task sandbox_external_retail_group1.py:test_case_ST003_006, and the executable check that fails is a single field: the ticket's status is solved where the required end state is hold. The full trace is in Appendix D.4, Case 3 of our paper.\n\nWant to try it before reading the results? Skip to section Run it yourself.\n\nFinal responses and valid tool calls are only proxies. An agent can sound correct while leaving the wrong value, changing the wrong record, or creating an extra side effect. Only the records it leaves behind settle the question.\n\nThe gap is substantial. In a common-set ablation covering 121,680 valid trials across 12 LLM models, 79,853 attempts failed the executable checks. Of those failures, 67.24% still terminated cleanly, invoked a state-changing tool, and reported no final tool error. Executable checks nevertheless found wrong field values in 77.61% of them, unintended extra effects in 43.30%, and missing required effects in 25.36%. Those state-check findings overlap.\n\nA trajectory is a claim. Database state is the evidence. Repetition is the trust test.\n\nAn agent that processes a refund correctly once and mishandles it the next four times is not a working refund agent. So every task runs 20 independent times, each from an identical clean backend, and we report three different things:\n\nTable 1: The three numbers we report, and the question each one answers.\n\nWe use observed 20/20 in this blog post as the literal count of how many of the 507 tasks passed 20 out of 20. No estimator, no smoothing.\n\nStarting with the familiar view. The table below reports pass@1, the single-attempt score estimate, broken out by domain. This is the number most leaderboards publish, and on its own it reads like an ordinary capability ranking.\n\nTable 2: ThinkingBox-Bench pass@1 (%) by domain. Each model is evaluated on every task for 20 repeated trials. Bold marks the group leader; underline marks the runner-up. The standard errors for the single attempt score estimates are provided in Table 4 in our ThinkingBox paper.\n\nClaude Opus 5.5 leads overall at 67.16%, two-thirds of a point above Claude Opus 5. Kimi-K3 is the strongest open-weights model, within a point of GPT-6-Astra. Domain matters just as much: Claude Opus 4.6 scores 68.62% on retail but 8.30% on auto insurance.\n\nOne good run tells you a model can do the work. It does not tell you whether it will do it again. So run every task 20 times and ask how much of that score survives.\n\nFigure 2: How much of each model's single-attempt score survives 20 repeats.\n\nOnly three hold on to most of their pass@1 scores: GPT-6 Astra retains 78% of its single-attempt rate, and Claude Opus 5.5 and Claude Opus 5 each retain 71%. At the other end, GLM-5.1, Kimi-K2.6 and DeepSeek-V4-Pro each keep about 8%.\n\nThe gap between what a model can do once and what it does every time is the whole story.\n\nFigure 3: Breadth and consistency pull apart. Twelve of the eighteen models are shown; six below 33% pass@1 are omitted for legibility.\n\nKimi-K3 has the broadest coverage of any model we tested. It solves 93.89% of the benchmark at least once: 476 of 507 tasks. Only 31 tasks defeat it entirely, the lowest count in the field. On retail workflows it leads outright at 82.24% pass@1, ahead of every proprietary model.\n\nKimi-K3 is also among the least consistent. Just 68 of 507 tasks, 13.41%, succeed in all 20 attempts.\n\nClaude Opus 5 inverts this. It solves fewer tasks at least once (79.09%; 106 defeat it entirely) but completes 47.53% of the benchmark on every single attempt.\n\nA newer model does not fix this. Claude Opus 5.5 scores higher than Claude Opus 5 on every-attempt average, 67.16% against 66.50%, and solves more tasks at least once. It passes exactly the same number of tasks on all 20 attempts: 241. Half a point of headline accuracy bought no additional dependability at all.\n\nIf you are choosing a model for work that touches real records, pass@20 is the wrong column to look at.\n\nCapability comparisons usually stop at the score. For anyone deploying, the relevant question is what a successful unit of work costs. We measure that as cost per successful task attempt. We say task attempt because every benchmark task is run repeatedly and cost is incurred per attempt, so pass@1 is the matching quality denominator.\n\nWe took each model's recorded token usage from its full 507 × 20 campaign and priced it at undiscounted list rates available on OpenRouter+, reversing promotional discounts and excluding endpoints that declare quantization. Input, output and cache rates all come from one provider endpoint per model.\n\nThen we divided one run's cost by the number of attempts that succeeded:\n\nCost per successful task attempt = estimated cost for 507 attempts, one per task ÷ (507 × pass@1)\n\nThis is a comparative efficiency index, not an invoice, and not the price of serving one production request. It also prices single successes, not consistency. We price consistency next.\n\nExample: GPT-5.4 costs $43.49 for 507 attempts (one attempt per task) and has 65.36% pass@1, so $43.49 ÷ (507 × 0.6536) = $0.131 per successful task attempt.\n\nA model is on the frontier if no other model is both no more expensive and at least as accurate. Three models qualify; every other model is dominated on at least one axis.\n\nFigure 4: Cost per successful task attempt against pass@1. Ringed dots are pareto cost frontier models.\n\nThe frontier has three steps. GPT-5.6 Sol has the lowest cost per success at $0.127; GPT-5.4 raises pass@1 by 3.45 percentage points for $0.004 more per success; Claude Opus 5.5 adds another 1.80 points at $0.276 per success. Each of the three remains on the cost frontier line because no cheaper model matches its pass@1.\n\nClaude Opus 5 is the clearest case: at $0.475 per successful attempt and 66.50% pass@1, it is both more expensive and less accurate than Claude Opus 5.5 at $0.276 and 67.16%.\n\nCost per success rewards a model that is cheap and often right. It does not reward a model that is right every time. So we also compute cost per dependable task: the cost of the full 20-run campaign divided by the number of tasks the model passed on all 20 attempts.\n\nCost per dependable task = estimated cost of 20 runs of 507 attempts ÷ tasks passing 20/20\n\nExample: GPT-6-Astra costs 20 × $86.03 = $1,720.60 for the campaign and passes 231 tasks on every attempt, so $1,720.60 ÷ 231 = $7.45 per dependable task.\n\nTable 3: The nine lowest costs per dependable task among models with at least one observed 20/20 task, sorted low to high. Estimated $, not actual cloud bills.\n\nNow rank by consistency. GPT-5.4 is the cheapest at $6.80, though only 128 tasks meet the bar. GPT-6 Astra reaches 231 at $7.45, and Claude Opus 5.5 the joint-highest 241 at $7.80.\n\nNone of the three dominates the others: each additional dependable task costs more. Claude Opus 5 also passes 241, but at $13.30, so Opus 5.5 dominates it outright. GPT-5.6 Sol, the cheapest per single success at $0.127, costs $9.76 per dependable task. The cheapest way to get a right answer is not the cheapest way to get a dependable one.\n\nWe assign each failed trace one deterministic diagnostic signature, and the headline is actionable: roughly four in five failures are tool handling, not reasoning. Across an ablation study in Table 5 of our paper:\n\nThese are unweighted averages of per-model shares and observable labels, not unique causal explanations.\n\nThe practical pattern is simple: agents usually get far enough to attempt the workflow, then fail to recover from tool errors, failed preconditions, or empty lookups. That is a retry and error-recovery problem before it is a model problem.\n\nDifficulty also changes by domain: across the models listed in Table 2 above, retail averages 59.52% pass@1 while auto insurance averages 33.83%.\n\nWhat to do about it. Treat the 20/20 rate as a design input, not a verdict. The same signal the benchmark grades on is available in production: check the terminal state before you commit, not the model's summary of it.\n\nClassify tool and system errors so retries target the recoverable ones. Cut the tool surface to what the workflow needs. And require human approval on the changes you cannot cheaply reverse. We have not measured the lift from any of these on this benchmark, which is exactly the kind of thing the environment now makes testable.\n\nThinkingBox is the agent sandbox, while ThinkingBox-Bench is a dataset benchmark to evaluate agents. The diagram at the top of this post shows the loop; here is what each part does.\n\nFigure 5: The sandbox loop from panel A in Figure 1 above: isolated tool session, terminal database state, side effects, executable judges.\n\nEach task defines a starting backend state, a user goal, the available MCP tools, the domain policy, and executable checks over the terminal state. A simulated user holds private context (a booking reference, a preference, or a date of birth) and releases it only when asked.\n\nEvery attempt gets an isolated MCP session with freshly initialized state. Two attempts of the same task never share a database row or cached tool state, which is what makes 20-trial comparison meaningful.\n\nAt the end, a side-effect extractor derives what actually changed, and deterministic judges compare it against the required end state, accepting any trajectory that produces the right outcome while rejecting wrong, missing or extra effects. For requirements with no clean database value (\"did the agent disclose this is not guaranteed?\"), a narrow binary rubric question handles the semantics. 477 of the 507 tasks are graded on state alone; 30 add response rubrics.\n\nThe trust boundary: the model sees tasks, dialogue and tool schemas. Golden state, assertions, grading internals and credentials stay on the evaluator side.\n\nThinkingBox is now on Hugging Face, both the harness and the dataset. ThinkingBox-Bench now sits behind the OpenEnv interface, and each finished episode returns a binary pass/fail reward. The released adapter is designed for evaluation; separate, non-benchmark scenarios can use the same interface in training workflows.\n\nTested on Linux and WSL, with Python 3.11+, uv and Docker. You also need a thinkingbox-data checkout at the pinned release and model endpoints for the agent, simulated user and judge. One endpoint can serve all three roles, which is the simplest way to start. The OpenEnv image starts only the OpenEnv API; everything else you run yourself.\n\nIn a second terminal, start Typesense 30.1 and wait for its health check:\n\nIn a third terminal, start the Session Proxy and MCP servers.\n\nBack in the first terminal, start the OpenEnv server against a ThinkingBox YAML config naming your three models (config guide):\n\nGate on readiness before running anything. It returns 503 until its observable data, configuration and Session Proxy checks pass. It cannot observe Typesense or live-probe every model endpoint, so confirm those separately:\n\nNow score a real episode. example_usage.py only resets and lists tools; for agent actions, effects and assertions use the packaged evaluator:\n\nThe OpenEnv adapter writes operational failures to an errors sidecar so they can be rerun rather than silently mixed with model outcomes. A canonical result must resolve or explicitly account for those attempts; we counted system errors as unsuccessful trials.\n\nRuns are gated on a pinned framework commit, a pinned data release and a bundle hash, so a canonical result is verifiable rather than asserted.\n\nThe useful part of this work is not our pass@1 leaderboard. It is the environment.\n\nIf you are evaluating an agent that touches real records:\n\nFurther details can be found in the following links:\n\nThinkingBox code is MIT-licensed; the benchmark data is CDLA-Permissive-2.0; the OpenEnv environment ships under OpenEnv's BSD-3-Clause.\n\nDisclaimer: every task in the public benchmark is a synthetic reconstruction. The workflows and policies are modeled on real AI agentic enterprise patterns; the customers are not real.\n\nThinkingBox and ThinkingBox-Bench is built by the Microsoft Copilot Studio team in partnership with Toloka with collaborators from the University of Pittsburgh, Northwestern University, Columbia University and UC Irvine who interned at Microsoft. Questions are welcome in the comments section below or on github\n\n+ OpenRouter cost snapshot taken on Sept 20th 2026; Opus 5.5 pricing as per the Anthropic site.\n\nMore from this author",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 73,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "ThinkingBox 是一套面向 AI Agent 的基准测试环境，通过 507 个有状态的业务工作流程评估 Agent 在终端后端状态和副作用上的表现，且每个任务在各模型上独立运行 20 次。",
+          "在涵盖 12 个 LLM 模型、共计 121,680 次有效试验的测试中，有 79,853 次尝试未通过可执行检查。",
+          "来源叙事重点：揭示 AI Agent 在工具调用和文本输出看似成功但实际数据库终端状态错误的‘幻觉可靠性’现象，主张从单次通过率（pass@1）转向基于后端状态检查与20次全量重复（pass@20）的稳定性及成本效益评估。"
+        ],
+        "citations": [
+          {
+            "source": "Hugging Face (开源模型社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T22:56:48.000Z",
+            "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+          }
+        ]
+      },
+      {
+        "id": "story-f-4b68-8cfa-553b205a4bb0-e05340e481d33701",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tories vow to end £100,000 childcare trap but keep pensions triple lock",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:33:49.000Z",
+        "pubTime": "2026-10-04 17:33",
+        "url": "https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33490a6f-b07b-4bd0-97e3-1cd4c391e163.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Kemi Badenoch says current threshold for free hours, introduced by previous Conservative government, punishes parents for working more",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 17:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T09:33:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-cafb7612ac5e075a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:21:18.000Z",
+        "pubTime": "2026-10-04 17:21",
+        "url": "https://cognit.rajtilak.tech/",
+        "imageUrl": null,
+        "fullContent": "Models ranked by normative score across twelve paradigms, once neutral and once human-primed. 100% is fully normative. 0% matches the biased answer. How to read a row.\n\nAn LLM scored these answers. The judge's name is in the Judge column.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-04 17:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://cognit.rajtilak.tech/",
+            "publishedAt": "2026-10-04T09:21:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rainbows-over-new-jersey-518ef5b89828b862",
+        "title": "每日天文一图：2026年10月4日——新泽西州上空的附属虹",
+        "originalTitle": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T04:05:00.000Z",
+        "pubTime": "2026-10-04 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg?w=1362&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 October 4 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nSupernumerary Rainbows over New Jersey\n\nExplanation: Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey , USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows . Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere , a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light’s wave nature .\n\nYour Sky Surprise: What picture did APOD feature on your birthday? (post 1995)\n\nTomorrow’s picture: open space\n\nCredit &#038; Copyright\n\nAuthors &#038; editors:\n\nRobert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 October 3 – Selfie at Vera Rubin Ridge\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "每日天文一图：2026年10月4日——……\n每日天文一图\n探索宇宙！每天都会展示我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。\n新泽西州上空的附属虹\n说明：是的，但你见过的彩虹能做到这一点吗？2018年，当飓风“佛罗伦斯”（Hurricane Florence）的残余云系掠过美国新泽西州的泽西海岸后，太阳从一个方向破云而出，而在相反的方向却出现了一种极不寻常的景象：彩虹长廊。在接下来的半小时里，令摄影师及其女儿欣喜若狂的是，鲜艳的附属虹（supernumerary rainbows，又称复虹）时隐时现，在这张精选的单次曝光照片中至少捕捉到了五道附属虹。附属虹只有当下落的水滴大小几乎完全相同且直径通常小于一毫米时才会形成。此时，阳光不仅会在雨滴内部反射，还会发生干涉——这是一种类似于石子投入池塘时激起涟漪的波动现象。事实上，附属虹只能用光的波动性来解释，早在19世纪初对它们的记录就被视为光具有波动性的早期证据。\n你的天空惊喜：在你生日那天每日天文一图展示了什么照片？（1995年之后）\n明天的图片：广阔空间\n鸣谢与版权\n作者与编辑：\n罗伯特·内米罗夫（Robert Nemiroff）、杰瑞·邦内尔（Jerry Bonnell）、塞西莉亚·奇伦蒂（Cecilia Chirenti）、凯斯利·罗克利夫（Keighley Rockcliffe）\nNASA科学激活计划（NASA Science Activation）与密歇根理工大学\n随机APOD生成器\n昨日图像\n每日天文一图：2026年10月3日——维拉·鲁宾山脊自拍\n明日图像",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "2018年飓风佛罗伦萨的残余经过美国新泽西州泽西海岸后，摄影师及其女儿观察并拍摄到了附属虹（supernumerary rainbows）。",
+          "在随后的半小时内，附属虹时隐时现，精选的单张照片中至少捕捉到了五道附属虹。",
+          "来源叙事重点：以2018年飓风过境后新泽西州上空罕见的“附属虹”摄影作品为切入点，重点解读该大气光学现象的形成机理（水滴直径均一且小于1毫米、光波干涉现象），并阐释其在19世纪初作为证明光的波动性关键历史证据的科学内涵。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
+          }
+        ]
+      },
+      {
+        "id": "story-pilotnik-2122114909-html-f807cf0781b58ad3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На Кубани при падении обломков БПЛА пострадали три человека",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T09:49:37.000Z",
+        "pubTime": "2026-10-04 17:49",
+        "url": "https://ria.ru/20261004/bespilotnik-2122114909.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e6/0b/18/1834036932_0:160:3072:1888_650x0_80_0_0_50783085aa7565ace36547c8aa9c3598.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 17:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/bespilotnik-2122114909.html",
+            "publishedAt": "2026-10-04T09:49:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minate-mass-surveillance-d3e5e8c1a81ab330",
+        "title": "联邦法官称Flock属于“无差别的群体大规模监控”",
+        "originalTitle": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T19:33:15.000Z",
+        "pubTime": "2026-10-04 03:33",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "imageUrl": null,
+        "fullContent": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant.\n\nAs reported by 404 Media, this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional.\n\nIn this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.”\n\nThe deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.”\n\nJudge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.”\n\n“This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [Carpenter v. United States, a Supreme Court case focused on how government agencies access location data from cell phones]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.”\n\nHill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas, have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act, which would bar federal agencies from using automated license plate readers such as Flock.\n\nFlock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "一名联邦法官本周裁定，俄克拉何马州塔尔萨市的一名副警长在未取得搜查令的情况下使用Flock Safety系统检索一名女性的车牌信息，侵犯了该女性在宪法第四修正案下的权利。\n\n正如404 Media所报道的，该裁决并未形成具有约束力的先例，但这属于联邦法官首次认定Flock搜查违宪的案件之一。\n\n在本案中，萨拉·希尔（Sara Hill）法官表示，该副警长在Flock数据库中检索该女性车牌之前本应取得搜查令，因为除了“（该女性的车辆）悬挂加利福尼亚州车牌这一事实”之外，他“没有明显的理由”进行该检索。\n\n随后，该副警长将该女性在Flock系统中的行驶轨迹记录作为搜查其车辆的正当理由之一，并据称在车内发现了91磅冰毒。但希尔法官在裁决书中写道，在Flock搜查之后获得的所有证据“均属于毒树之果，必须予以排除”。\n\n希尔法官还将批评矛头更广泛地指向了对Flock数据库的无令状检索，写道追踪人们的行踪——即使他们身处公共场所——也会“在执法部门能够长期无差别且被动地记录你的行踪，并在任何方便的时候将其用于任何目的时，引发宪法层面的问题”。\n\n“这是一种无差别的群体大规模监控，”希尔写道。“它并非像[卡彭特诉美国案（Carpenter v. United States，最高法院审理的一起关于政府机构如何获取手机位置数据的案件）]中那样针对单个个人。它是一种每时每刻都在收集途经任何联网摄像头的全部车辆信息的工具，并根据执法部门的需求随时提供这些信息。”\n\n希尔加入到了跨越不同政治立场的越来越多对Flock提出批评的人士行列中。包括佛罗里达州和得克萨斯州在内的众多地方和州政府已表示将停止使用该技术。周五，来自佛蒙特州的民主党参议员伯尼·桑德斯（Bernie Sanders）提出了《阻止Flock法案》（Block Flock Act），该法案将禁止联邦机构使用如Flock之类的自动车牌识别系统。\n\nFlock首席执行官加勒特·兰利（Garrett Langley）——我们将在TechCrunch Disrupt大会的舞台上对他进行采访——此前曾呼吁在隐私与安全之间达成“妥协”，并向那些曾遭到执法人员利用Flock系统进行跟踪的女性道歉。随着众多合作被取消，据报道Flock还提供了自愿买断离职方案以精简员工规模。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任《Adweek》的技术记者、VentureBeat的高级编辑、《Hollister Free Lance》的地方政府报道记者，以及一家风投公司的内容副总裁。他现居纽约市。\n\n您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实其外联信息。\n\n购买第二张门票立享五折优惠。Disrupt大会的体验本就应当与人分享。获取您的门票，携手同事、合伙人或同行参会，第二张可享半价优惠。通过建立人脉、汇聚动力以及探索初创生态系统的下一站，拓宽更多视野。\n\n谷歌认为SpaceX的星舰必须发射1800次后太空数据中心才能真正起步\n全球首座增强型地热发电站仅用23个月即告完工\n谷歌发布Gemini 4 Argon，称其为迄今为止最强大的模型\n五角大楼邀请埃隆·马斯克和帕尔默·拉齐协助决定军方的下一步行动\nOpenAI推出具有泡泡风格的智能体虚拟化身Dots\nAMD将以82亿美元收购李飞飞的World Labs\n爆火的AI智能体公司Instinct以100亿美元估值完成10亿美元C轮融资",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "美国俄克拉荷马州塔尔萨的一名联邦法官裁定，一名副警长在没有搜查令的情况下使用Flock Safety搜索一名女性的车牌，侵犯了该女性的第四修正案权利。",
+          "该裁决并未确立有约束力的判例，但属于联邦法官首次认定Flock搜索违宪的裁决之一。",
+          "来源叙事重点：聚焦联邦司法对警用监控技术Flock Safety违宪审查的先例性裁决，强调无令状搜查对宪法第四修正案权利的侵犯，并串联起多州政界抵制、联邦立法限制及Flock公司深陷的公关与经营危机"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T19:33:15.000Z",
+            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+          }
+        ]
+      },
+      {
+        "id": "story-6-4d0c-9016-32deaae67b62-3403c814aa4c7188",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why the IPO market is booming and busting",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:29:09.000Z",
+        "pubTime": "2026-10-04 17:29",
+        "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38ced831-9e85-4e1d-bbb6-1d7e5edc5f49.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Flotations have stalled and returns from new listings have been weak",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 17:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+            "publishedAt": "2026-10-04T09:29:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-union-talks-break-down-144c2d7ccb3028b4",
+        "title": "工会谈判破裂 格拉斯哥市议会员工在“先解雇再返聘”方案中面临降薪",
+        "originalTitle": "Glasgow council workers face pay cuts in fire-and-rehire plan after union talks break down",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:13:29.000Z",
+        "pubTime": "2026-10-04 17:13",
+        "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+        "imageUrl": "https://i.guim.co.uk/img/media/ef6bee5f1a6e5f86067c875a941f58da2299ab64/235_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=57b7369d6945ba2f888843d4da6156b9",
+        "fullContent": "Unison refuses to ballot members on offer that would see thousands of council employees worse off\n\nThousands of Glasgow council workers face being sacked and reappointed under less favourable terms in one of the UK’s biggest ever “fire-and-rehire” exercises, after union negotiations broke down once again this week.\n\nAbout 23,000 workers – all of the council’s non-teaching staff – first heard they were affected last week when talks between the SNP-led council and the GMB, Unison and Unite unions fell apart. Those negotiations concerned a new pay and grading system designed to resolve historical pay equality issues. Unison refused to ballot its members on an offer that would see pay cuts for 11% of council employees, prompting the council to begin issuing fire-and-rehire letters.",
+        "fullTranslation": "公共服务业总工会（Unison）拒绝就一项将导致数千名市议会员工待遇恶化的方案组织会员投票。\n\n在本周工会谈判再度破裂后，数千名格拉斯哥市议会员工面临被解雇后按更不利条件重新录用的处境，这成为英国有史以来规模最大的“先解雇再返聘”操作之一。\n\n约23,000名员工——即该市议会的所有非教职人员——在上周苏格兰民族党（SNP）领导的市议会与GMB、Unison及Unite工会的谈判破裂时，首次得知自己受到影响。相关谈判涉及一套旨在解决历史薪酬平等问题的新薪酬与职级体系。Unison拒绝就导致11%市议会雇员降薪的方案付诸会员投票，促使市议会开始发放“先解雇再返聘”通知函。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "在工会谈判破裂后，数千名格拉斯哥市议会工作人员面临通过‘解雇并重新聘用’方案以降薪及更不利的条件被重新录用。",
+          "约23,000名格拉斯哥市议会非教学员工受到该事件影响。",
+          "来源叙事重点：聚焦格拉斯哥市议会谈判破裂后对2.3万名非教学员工实施‘解雇并重新聘用’争议方案，强调数千名基层员工面临降薪及苛刻条件的劳资危机与社会影响"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T09:13:29.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down"
+          }
+        ]
+      },
+      {
+        "id": "story-xpayer-money-sports-html-bb99024ba7486447",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T00:30:01.000Z",
+        "pubTime": "2026-10-04 08:30",
+        "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/-sports-stadiums.jpg",
+        "fullContent": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
+            "publishedAt": "2026-10-04T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4-peskov-2122114780-html-59ae59ddfb8cd228",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия готова бороться даже за 0,01 процента территории ДНР, заявил Песков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T09:49:19.000Z",
+        "pubTime": "2026-10-04 17:49",
+        "url": "https://ria.ru/20261004/peskov-2122114780.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/0c/13/2063307862_0:209:2788:1777_650x0_80_0_0_4be27acc677c1259421e05bdfdafe683.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 17:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/peskov-2122114780.html",
+            "publishedAt": "2026-10-04T09:49:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-it-no-longer-uses-ndas-67dac9f5f51307d8",
+        "title": "亚马逊回应数据中心抵制潮，称已不再使用保密协议（NDA）",
+        "originalTitle": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "pubTime": "2026-10-04 02:43",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "imageUrl": null,
+        "fullContent": "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.\n\nGarman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.\n\nNDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”\n\nAs a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.\n\n“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”\n\nGarman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.\n\nPointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”\n\nNvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.\n\nAs for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”\n\nOn the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.\n\nWhen it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.\n\n“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”\n\nAs for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”\n\nWill this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust,” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "亚马逊云科技（Amazon Web Services，AWS）首席执行官马特·加曼（Matt Garman）表示，该公司在寻求批准建设新数据中心时，已停止在与政府机构的往来中使用保密协议（NDA）。\n\n加曼的这一表态出自一篇较长博文中的一句话。他在文中试图回击外界对数据中心普遍存在的疑虑，并论证数据中心实际上对当地社区有益。\n\n保密协议是更广泛的数据中心抵制潮中的关键焦点之一。例如，环保活动人士埃琳·布罗克维奇（Erin Brockovich）最近表示，她听到的关于数据中心的第一大抱怨就是透明度问题，这些项目普遍遵循一种套路：“在获得许可证后才宣布项目、开发商拒不回电、地方官员在邻居们根本不知道项目正在审议前就已经签署了保密协议。”\n\n受此类抵制的影响，纽约州宣布对大型数据中心审批实施为期一年的暂缓令；据加曼称，目前全美有超过100项数据中心暂缓令正在审议中。\n\n“如果这些措施得以实施，美国可能正在亲手写下输掉这场竞赛的败局，其后果将延续几代人，”加曼坚称，“作为一个国家，我们承受不起陷入这种境地的代价。”\n\n加曼还试图破除他所称的围绕数据中心的“四大误区”：消耗过多水资源、推高电费、排放大量污染物，以及未给当地社区带来任何益处。\n\n加曼援引亚马逊自身用水报告指出，“直接数据中心用水量”仅占美国所有工业用水量的0.5%，“比高尔夫球场、杏仁种植以及许多其他行业低了几个数量级”。\n\n英伟达（Nvidia）最近表示其全新冷却系统消除了数据中心内部“几乎所有的水资源使用”，但这些言论——就像亚马逊的说法一样——似乎忽略了发电和芯片制造过程中涉及的更广泛用水。科学家们也表示，鉴于联邦或州层面并未对科技公司如何报告此类数据作出强制要求，他们需要对数据中心的水资源和能源消耗进行独立研究。\n\n至于电费问题，加曼表示，电费仅在部分拥有大量数据中心的州有所上涨，而在其他州则有所下降，或至少涨幅较为平缓。他辩称：“在能源价格上涨的情况下，主要是因为电网老旧，在需求激增之前未能获得足够的投资与扩建。”\n\n然而另一方面，一家独立监管机构最近表示，数据中心是美国最大电网电价同比上涨76%的主要元凶。\n\n谈及污染问题——美国全国有色人种协进会（NAACP）目前正就此问题起诉埃隆·马斯克的SpaceX/xAI——加曼抱怨批评者总是紧盯着数据中心许可证所允许的最大排污量。例如，亚马逊计划在得克萨斯州建设的一座数据中心获准每年排放3300万吨二氧化碳，这一规模超过了美国任何一座发电厂。\n\n“事实是，数据中心的发电机几乎从不运行，”加曼说，“它们99.9%的时间都处于闲置状态（每年大约只运行10小时，主要用于合规维护测试）。”\n\n关于社区福祉，加曼正是写道：“在与我们项目合作的政府机构中，我们不再使用保密协议。”此外，他表示：“在过去三年中，亚马逊已向我们在美开展重大数据中心业务的各个社区捐款超过10亿美元。”\n\n这是否足以平息社区的猜疑？也许并不能——Anthropic首席执行官达里奥·阿莫迪（Dario Amodei）最近指出，围绕人工智能的抵制“从根本上说是一场信任危机”，人们总是认为政府和科技公司在“暗中酝酿某种坑害他们的新手段”。同样，作家贾斯敏·孙（Jasmine Sun）指出，当数据中心的反对者面对科技公司的论据时，他们的反应通常只是：“我才不信他们。”\n\n当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任Adweek的技术记者、VentureBeat的高级编辑、Hollister Free Lance的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。\n\n您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼联系或核实来信。\n\n第二张门票立减50%：Disrupt大会的体验本就应当与人分享。购买您的门票，即可以5折优惠携带同事、合伙人或同行参会。通过建立人脉、蓄积势能并发现创业生态系统的下一站，拓宽更广阔的视野。\n\n谷歌认为SpaceX的“星舰”（Starship）须发射1800次后，太空数据中心才能真正起步\n全球首座增强型地热发电厂历时仅23个月便宣告竣工\n谷歌发布Gemini 4 Argon，号称其迄今为止最强大的模型\n五角大楼招募埃隆·马斯克与帕尔默·拉齐，协助决策军方下一步行动\nOpenAI推出具有活泼智能体化身的Dots\nAMD将以82亿美元收购李飞飞的World Labs\n爆火AI智能体Instinct完成10亿美元C轮融资，估值达100亿美元",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "亚马逊AWS首席执行官马特·加曼表示，该公司在寻求建设新数据中心的审批过程中，已停止在与政府机构的往来中使用保密协议（NDA）。",
+          "纽约州宣布对大型数据中心许可证实施为期一年的暂停令。",
+          "来源叙事重点：呈现亚马逊应对数据中心公众抵制而弃用保密协议（NDA）的举措，并对比科技高管对资源消耗的辩解与独立监督机构、环保组织提出的尖锐质疑，揭示AI扩张背后的社会信任危机"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-03T18:43:57.000Z",
+            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+          }
+        ]
+      },
+      {
+        "id": "story-f-401e-887e-97ce639d0329-917b97c3a70686e7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Australian authorities probe Flydubai attacker’s links to the country",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T09:25:03.000Z",
+        "pubTime": "2026-10-04 17:25",
+        "url": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02c351da-b0cd-4d90-881d-995fe2b27455.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Recriminations among various governments have escalated after the attempted hijacking of a flight from Dubai to Tel Aviv last week",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-04 17:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+            "publishedAt": "2026-10-04T09:25:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-default-hard-budget-caps-345f1755705d282a",
+        "title": "我们几乎对所有服务都需要默认的硬性预算上限",
+        "originalTitle": "We’re going to need default hard budget caps on pretty much everything",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T07:58:14.000Z",
+        "pubTime": "2026-10-04 15:58",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "imageUrl": null,
+        "fullContent": "Here’s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I’m talking about the feature of pay-by-usage services and APIs that lets you say “after $X/month, cut this thing off and return errors”. These need to be hard limits. Soft caps, “after $X/month, send me a warning email”, will not cut it.\n\nCoding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money—calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute.\n\nNobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage.\n\nAn argument against this is that businesses don’t want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill.\n\nI think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent:\n\nRemove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges.\n\nThe service I most want to see this from is AWS. I’ve heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I’ve also heard stories from people who didn’t anticipate this and ended up seriously burned.\n\n... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September:\n\nWhen you’re ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project’s usage reaches its spend limit, your project is paused for that month.\n\nSee also Create a spend limit in AWS Settings, though that page warns that “We’re currently releasing our new experience to a limited number of customers.” Here’s hoping that hits general availability for existing accounts soon.\n\nGoogle Cloud launched a similar feature in July, called Spend Caps, which lets you “set a monthly financial cap on specific services within a project”. Looks like this is becoming a trend!\n\nIn an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble.\n\nThis is We’re going to need default hard budget caps on pretty much everything by Simon Willison, posted on 3rd October 2026.\n\nPrevious: OpenAI DevDay 2026 live blog\n\nSponsor me for $10/month and get a curated email digest of the month's most important LLM developments.\n\nPay me to send you less!",
+        "fullTranslation": "在接下来的数月乃至数年里，全世界将越来越需要这样一项产品特性：默认的硬性预算上限（hard budget caps）。我指的是按用量计费的服务和 API 中的一种功能，它允许你设定“当月费用达到 X 美元后，直接关停该服务并返回错误”。这必须是硬性限制。所谓“当月达到 X 美元后给我发送提醒邮件”的软性上限，根本无济于事。\n\n编程智能体（coding agents）以及个人智能体（包裹在更友好的 UI 之下的编程智能体），极大地降低了编写并运行实用代码的门槛。有时这些操作是需要花钱的——比如调用付费 API、托管 Web 应用程序，或是会因额外存储与计算资源而计费的系统。\n\n没有人想在半夜收到一封关于超出预算限制的警告邮件，醒来后却发现，就在自己睡觉的时候，失控的服务又消耗了数百（甚至数千）美元的费用。\n\n反对这种做法的一个论点是，企业不希望由于超出某些预算限制，导致其托管的应用程序开始报错。但我认为，大多数企业和个人宁愿面对系统报错，也不愿面对突如其来的 10,000 美元以上的巨额账单。\n\n我认为硬性预算上限应当成为默认设置。如果有人想冒风险，他们当然可以这么做，但这必须基于主动选择（opt-in）。应该在显眼的位置提供一个清晰明了的复选框：\n\n“取消预算上限。如果超出设定的预算限制，我的应用程序将不会被关闭，我将承担后续产生的费用。”\n\n我最希望提供这一功能的服务商是 AWS。我听过太多人出于（合情合理的）恐惧而拒绝在个人项目中使用 AWS，生怕失控的服务会让他们破产。我也听过有人因为没有预料到这一点而遭受惨重损失的经历。\n\n……结果事实证明，AWS 几周前终于推出了支出限制功能！正如他们在 9 月 16 日发布的公告《全新 AWS 体验帮助构建者快速起步并加速交付》中所述：\n\n“当您准备升级到付费计划时，您可以根据自己的使用习惯为项目设置每月支出限制，以确保费用控制在预算之内。如果某个项目的使用量达到了支出限制，您的项目将在当月暂停运行。”\n\n另请参阅 AWS 设置中的《创建支出限制》，尽管该页面提醒称“我们目前仅面向有限数量的客户推出这一新体验”。希望该功能很快能向所有现有账户全面开放。\n\nGoogle Cloud 也在 7 月推出了类似的功能，名为“支出上限”（Spend Caps），它允许你“为项目内的特定服务设定每月财务上限”。看来这正在成为一种趋势！\n\n在理想情况下，我们的智能体也能在这方面提供帮助。如果智能体能开始倾向于推荐那些具有硬性预算上限的提供商，并警告新手和缺乏经验的开发者不要部署那些没有上限、可能带来麻烦的服务，那就太好了。\n\n本文由 Simon Willison 撰写，发布于 2026 年 10 月 3 日，标题为《我们几乎对所有服务都需要默认的硬性预算上限》。\n\n上一篇：OpenAI DevDay 2026 实时图文播报\n\n每月赞助我 10 美元，即可获取本月最重要的 LLM 进展精选邮件文摘。\n\n付费支持我，让我少发点邮件打扰你！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "AWS 于 2026 年 9 月 16 日发布公告《New AWS experience helps builders get started and ship faster》，推出了支出限额（spending limits）功能，支持在项目达到月度支出限额时于当月暂停该项目。",
+          "AWS 设置页面中的“Create a spend limit”功能当时仅面向有限数量的客户发布，尚未对现有账户普遍可用（General Availability）。",
+          "来源叙事重点：呼吁按量计费的云服务和 API 服务商将“硬性预算上限（Hard Budget Caps）”设为默认配置，强调在 AI 编码智能体普及降低部署门槛的背景下，仅靠邮件预警的软性上限已无法防范失控程序引发的灾难性账单风险，同时赞赏 AWS 与 Google Cloud 近期在支出上限功能上的进展。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T07:58:14.000Z",
+            "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791082524305,
     "timeDisplay": "2026-10-04 10:55 (UTC+8)",
     "date": "2026-10-04",
