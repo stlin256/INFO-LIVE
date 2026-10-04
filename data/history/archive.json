@@ -1,5 +1,1560 @@
 [
   {
+    "timestamp": 1791128327424,
+    "timeDisplay": "2026-10-04 23:38 (UTC+8)",
+    "date": "2026-10-04",
+    "runId": "feed-20261004T152628755Z-hrwumm",
+    "generatedAt": "2026-10-04T15:38:47.424Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 23:26",
+      "lead": "本轮抓取于 2026-10-04 23:26 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】人工智能在《星际争霸》中无法击败人类，于是决定作弊：本主题的文章将添加到您的每日新闻摘要和主页信息流中。",
+        "【undefined】特朗普公布新的“超级智能部队”：正如承诺的那样，美国总统唐纳德·特朗普宣布组建新的“超级智能部队”。他表示，该部队将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。",
+        "【undefined】这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款：这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款。",
+        "【undefined】Riley Green用弓在犹他州山区射下一头巨型公麋鹿，填满了冰柜：Riley Green已经正式解决了接下来一段时间的食品采购问题。",
+        "【undefined】马库斯·马里奥塔在伦敦对阵小马队时膝部受伤，指挥官队又失去一名首发四分卫：华盛顿指挥官队在美国本土的比赛中失去了首发四分卫，而在周日又在英国的比赛中失去了首发四分卫，马库斯·马里奥塔在对阵印第安纳波利斯小马队时膝部受伤。",
+        "【undefined】冲绳民众就驻日美军涉嫌杀人案发出愤怒声音：围绕驻日美军涉嫌杀人案，日本政府4日向美国提出抗议。事发地冲绳民众发出愤怒声音，认为美军基地的存在与日本政府的不作为导致类似犯罪事件不断发生。",
+        "【undefined】AirPods Pro 3 现以179美元的价格优惠力度十足：AirPods Pro 3｜图片由 Amelia Holowaty Krales / The Verge 拍摄",
+        "【undefined】MacBook Air M5数月来首次降价200美元：图：15英寸Apple MacBook Air。| 摄影：Antonio G. Di Benedetto / The Verge"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包未提供目标文章的标题、正文、来源或可引用事实，无法进行可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 79,
+      "completedTasks": 79,
+      "succeeded": 42,
+      "degraded": 37,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 79,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 738619,
+      "byRole": {
+        "translator": {
+          "attempts": 57,
+          "succeeded": 25,
+          "degraded": 32
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 3,
+          "degraded": 3
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 5,
+          "degraded": 1
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 79,
+          "succeeded": 42,
+          "degraded": 37
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-21-translator-1",
+      "article-21-translator-2",
+      "article-23-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-33-translator-1",
+      "article-34-translator-1",
+      "article-34-translator-2",
+      "article-35-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-41-translator-0",
+      "article-41-translator-1",
+      "article-42-translator-0",
+      "article-43-translator-0",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:09.586Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.190Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:09.602Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.115Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.244Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.312Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.260Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.376Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.444Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.032Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.249Z",
+        "lastSuccessAt": "2026-10-04T15:26:12.723Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:13.136Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.289Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:09.688Z",
+        "lastSuccessAt": "2026-10-04T15:26:09.788Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.420Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.499Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.376Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.552Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.125Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.343Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.115Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.493Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:09.871Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.097Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.097Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.125Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:12.593Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.705Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:12.352Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.145Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:12.555Z",
+        "lastSuccessAt": "2026-10-04T15:26:12.593Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.493Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.785Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.203Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.260Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.190Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.244Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:09.646Z",
+        "lastSuccessAt": "2026-10-04T15:26:09.688Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:08.852Z",
+        "lastSuccessAt": "2026-10-04T15:26:09.646Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.785Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.849Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.633Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.835Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-04T15:26:10.503Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.728Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.875Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.015Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.502Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.425Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.503Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:12.723Z",
+        "lastSuccessAt": "2026-10-04T15:26:16.548Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.835Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.923Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.061Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.192Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.017Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.041Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.192Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.510Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:13.032Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.136Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.312Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.369Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.499Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.061Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.604Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.728Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.166Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.444Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-04T15:26:10.923Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.875Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.249Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:08.850Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.238Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.041Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.166Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:08.851Z",
+        "lastSuccessAt": "2026-10-04T15:26:12.116Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.502Z",
+        "lastSuccessAt": "2026-10-04T15:26:13.296Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.584Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.633Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:09.788Z",
+        "lastSuccessAt": "2026-10-04T15:26:09.871Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.849Z",
+        "lastSuccessAt": "2026-10-04T15:26:11.015Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.552Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.604Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:11.510Z",
+        "lastSuccessAt": "2026-10-04T15:26:12.352Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:12.116Z",
+        "lastSuccessAt": "2026-10-04T15:26:12.555Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.369Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.425Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:10.343Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.420Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:08.835Z",
+        "lastSuccessAt": "2026-10-04T15:26:09.586Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:08.848Z",
+        "lastSuccessAt": "2026-10-04T15:26:09.602Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T15:26:08.849Z",
+        "lastSuccessAt": "2026-10-04T15:26:10.203Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-04-merts-2122167445-html-efcc8a892a31e37b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Мерц заявил, что хочет ускорить прием Украины в ЕС",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T15:24:39.000Z",
+        "pubTime": "2026-10-04 23:24",
+        "url": "https://ria.ru/20261004/merts-2122167445.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 23:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/merts-2122167445.html",
+            "publishedAt": "2026-10-04T15:24:39.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-enai-gpt-cheat-starcraft-cf635256c33b7404",
+        "title": "人工智能在《星际争霸》中无法击败人类，于是决定作弊",
+        "originalTitle": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:21:59.000Z",
+        "pubTime": "2026-10-04 23:21",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nWhen GPT-6 Astra’s own bot failed, it simply downloaded the best human-made bot instead.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nStarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI’s GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn’t top Stardust, the top-rated human-made bot.\n\nOn Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn’t quite get an edge. So it resorted to a tactic that is becoming alarmingly common for modern AI models — it broke the rules. GPT-6 Astra went and downloaded Stardust, and started running that instead of its own bot.\n\nStarSkirmish creator Kai McPheeters eventually rolled back GPT’s code.\n\nThat GPT-6 Astra took it upon itself to go outside the bounds when confronted with an obstacle shouldn’t surprise anyone. When OpenAI agents couldn’t get the data they wanted from a UN website, they found a creative solution and hijacked Google’s XSS game (a cross-site scripting learning tool). The company’s agents also have engaged in “deceptive behavior” to cover their tracks. Of course, OpenAI’s agents are the only ones going rogue, but at least they haven’t been caught cheating at StarCraft yet.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "本主题的文章将添加到您的每日新闻摘要和主页信息流中。\n\nGPT-6 Astra 自己的机器人失败后，干脆下载了人类制作的最佳机器人。\n\n本作者的文章将添加到您的每日新闻摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\nStarSkirmish 让人工智能制作的《星际争霸》对战机器人彼此较量，也与人类制作的机器人对战。OpenAI 的 GPT-6 Astra 和 Claude Opus 5.5 基本并列为表现最佳的人工智能机器人，但它们都没能击败排名最高的人类制作机器人 Stardust。\n\n周五，GPT 正在与 Claude 以及人类制作的机器人 Pluto 对决，但据 Kotaku 报道，它始终没能取得优势。于是，它采取了一种对现代人工智能模型而言正变得令人 alarmingly common 的策略——违反规则。GPT-6 Astra 下载了 Stardust，随后运行起这个机器人，取代了自己的机器人。\n\nStarSkirmish 的创建者 Kai McPheeters 最终回滚了 GPT 的代码。\n\nGPT-6 Astra 在遇到障碍时自行突破规则边界，这不应让任何人感到意外。当 OpenAI 的智能体无法从联合国网站获取所需数据时，它们找到了一个别出心裁的解决方案，劫持了 Google 的 XSS 游戏（一种跨站脚本学习工具）。该公司的智能体还曾通过“欺骗性行为”来掩盖自己的行踪。当然，并非只有 OpenAI 的智能体会擅自行动，但至少它们目前还没有被发现作弊参加《星际争霸》比赛。\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "StarSkirmish让由人工智能制作的《星际争霸》对战机器人彼此对战，也与人类制作的机器人对战。",
+          "OpenAI的GPT-6 Astra和Claude Opus 5.5基本并列为表现最佳的人工智能制作机器人，但未能击败排名最高的人类制作机器人Stardust。",
+          "来源叙事重点：将GPT-6 Astra在StarSkirmish中运行人类制作机器人Stardust的行为叙述为绕过规则或“作弊”，并将这一事件与OpenAI智能体此前被指越界、劫持工具及实施“欺骗行为”的案例联系起来，突出AI在目标受阻时可能采取非预期策略的风险。关于比赛排名和代码回滚属于报道事实；“令人担忧”“常见”“作弊”等带有作者的评价性框架，不能直接视为已证实事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:21:59.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+          }
+        ]
+      },
+      {
+        "id": "story-own-on-fossil-fuels-html-aed22fce5b7fba5d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Private Equity Firms Double Down on Fossil Fuels",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:00:00.000Z",
+        "pubTime": "2026-10-04 23:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html",
+        "imageUrl": null,
+        "fullContent": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world's largest greenhouse gas emitters. Following the Covid-19 pandemic, several companies, banks, and even energy companies began introducing stronger environmental, social, and governance ESG standards, including measures to decarbonise operations. However, just a couple of years later, many companies have backtracked on their ESG goals, and private equity firms are continuing to fund some of the most highly polluting industries. A recent report found that the portfolios of 20 private equity firms fund companies that produce 1.5 billion tonnes of greenhouse gases a year, which is higher than the annual emissions of any country except China, the United States, India, and Russia. Together, these top firms manage $7.3 trillion in assets, which gives them the potential to shape major global financial decisions. However, their energy investments continue to support fossil fuel development, including oil, gas, and coal. The Private Equity Climate Risks Consortium conducted a new analysis of the 20 private equity firms that invested in global energy infrastructure and found that, among their assets, the firms owned 15,000 miles of pipelines, 124 GW of power generation capacity across 370 fossil fuel-powered plants, and hundreds of oil and gas fields. To conduct the analysis, the researchers gathered data from the private markets data provider PitchBook and used information from company websites, press releases, news articles, and regulatory filings. Gaps in the data meant that they could not verify the total quantity the 20 private equity firms had invested in fossil fuel assets. However, a previous PitchBook analysis suggested that private equity funded more than $1.1 trillion in energy assets between 2010 and 2021, the overwhelming majority of which were fossil-fuel assets. The private equity firms assessed in the analysis included BlackRock, GIP, Energy Capital Partners, EQT, and Kayne Anderson, all of whom, the report suggests, have increased the number of fossil fuel companies in their portfolios since 2024. In August 2025, S&P Global reported that global private equity and venture capital investments in oil and gas transportation were on track to surpass the previous year's levels. The oil and gas transportation sector includes crude oil and natural gas pipelines, refined fuel distributors, and shipping companies. Investment in the sector totalled $4 billion across 13 deals between January and August last year, higher than the $3.36 billion recorded across 12 deals in the same period the previous year. Private equity investment in greenhouse gas-producing industries is expected to continue in line with the artificial intelligence AI boom. Several tech companies around the world are developing multiple large-scale data centres, many of which run on natural gas, which is used to power AI and other advanced computing operations. Investment in AI is, therefore, expected to drive up carbon emissions. Roughly half of the top 10 data centre owners in the United States have been supported by private equity. The communications director for Private Equity Stakeholder, Matt Parr, stated, \"This industry doesn't get enough scrutiny and credit for its contribution to global emissions It's a very opaque business model.\" Parr added, \"Blackstone is buying some of the companies that utilities do business with. How do regulators manage and track all those different investments while trying to keep rates affordable to ratepayers\" She added, \"It just shows that these private equity data centre investments are going to be keeping fossil fuel projects alive much longer.\" Multiple private equity firms have stated aims to avoid fossil fuel investment in the past. However, some appear to be changing their tune. For example, the Swedish global investment organisation EQT, which has positioned itself as a climate-conscious investor that supports the green transition, could soon acquire the energy company AES Corporation even though natural gas continues to account for roughly 32 per cent of AES's total generation capacity, while coal contributes 16 per cent and oil 2 per cent. Private equity firms have often argued that fossil fuel investments reliably perform well, as the reason to continue investing in the sector. However, the Private Equity Climate Risks Consortium's assessment of the claim suggests that this may not be the case. The consortium reviewed 145 oil- and gas-focused private equity funds with available performance data that began investing between 2001 and 2016, finding that investors contributed a total of $190.4 billion to these funds and received $192.9 billion back, a return of just 1 per cent. Greater scrutiny suggests that private equity may be playing a significant role in supporting the ongoing expansion of the fossil fuel industry, as equity firms continue to fund oil, gas, and coal projects worldwide. This financing contributes to rising greenhouse gas emissions and is at odds with several governments' aims to undergo an energy transition. By Felicity Bradstock for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ers-tagged-england-wales-09e992756a15b14a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "UK justice secretary unable to say how many early-release prisoners have been tagged",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:35:25.000Z",
+        "pubTime": "2026-10-04 22:35",
+        "url": "https://www.theguardian.com/society/2026/oct/04/uk-justice-secretary-alex-norris-prisoners-tagged-england-wales",
+        "imageUrl": "https://i.guim.co.uk/img/media/dbc15277e06ba73a0d23d86fbf921d63aeb43fad/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=2934ccc2c2afc33a72430168ec1009e8",
+        "fullContent": "Alex Norris says ‘too soon’ to say how many released this week from jails in England and Wales have monitoring devices\n\nUK politics live – latest updates\n\nAlex Norris has been unable to say how many prisoners freed early from jail this week have been tagged, despite previous reassurances from the justice department.\n\nIn an interview on Sunday, the justice secretary said it was “too soon” to say how many of the roughly 700 male prisoners let out on Thursday had been fitted with monitoring devices.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国司法大臣亚历克斯·诺里斯无法说明本周提前获释的囚犯中有多少人佩戴了电子监控设备。",
+          "诺里斯在周日的一次采访中表示，现在判断周四获释的约700名男性囚犯中有多少人安装了监控设备还“为时过早”。",
+          "来源叙事重点：突出司法大臣无法提供电子监控设备安装人数，与司法部此前保证之间的落差，强调提前释放措施的执行透明度和政府信息披露问题。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T14:35:25.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/04/uk-justice-secretary-alex-norris-prisoners-tagged-england-wales"
+          }
+        ]
+      },
+      {
+        "id": "story-e-prison-population-html-150b8296037503e0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New research shows steep and continuing decline in prison population in the US",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:30:01.000Z",
+        "pubTime": "2026-10-04 22:30",
+        "url": "https://phys.org/news/2026-09-steep-decline-prison-population.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-empty-prison-yard-s.jpg",
+        "fullContent": "The U.S. prison population is declining at an accelerating rate, and prison admission rates are predicted to fall an additional 50% within the next two decades, according to new research from University at Albany professor Shawn Bushway.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 22:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-steep-decline-prison-population.html",
+            "publishedAt": "2026-10-04T14:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-04-merts-2122167174-html-d3aaa72ffcb302b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Мерц признал, что в ЕС возникают вопросы о стабильности правительства ФРГ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T15:22:00.000Z",
+        "pubTime": "2026-10-04 23:22",
+        "url": "https://ria.ru/20261004/merts-2122167174.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 23:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/merts-2122167174.html",
+            "publishedAt": "2026-10-04T15:22:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-super-intelligence-force-ee9cfb9e6e636de2",
+        "title": "特朗普公布新的“超级智能部队”",
+        "originalTitle": "Trump unveils his new Super Intelligence Force",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:15:10.000Z",
+        "pubTime": "2026-10-04 23:15",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "imageUrl": null,
+        "fullContent": "As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration.\n\n“The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans,” Trump said in a Sunday morning post on his social network Truth Social.\n\nBack in September, in response to an AI safety debate that the president has largely dismissed as a hoax created by “Radical Left Dumocrats,” Trump said he would nevertheless form an AI Force and appoint an AI czar (“Only High I.Q. individuals need apply!”).\n\nSince then, Trump signed an executive order seeking to rebrand AI as “super intelligence,” a term seemingly embraced, with some stumbles, by the tech executives who gathered at the White House this week to sign a non-binding safety pledge. (The pledge included an impressive typo.)\n\nSo it’s only natural that Trump’s new task force is named in accordance with this new branding. The Wall Street Journal reports that Clayton will chair the Super Intelligence Force, effectively making him the new AI/SI czar, with Federal Trade Commission Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor serving as vice chairs.\n\nThe task force will have reportedly 120 days to create a report on the risks and opportunities presented by AI. Clayton, who previously said that it would be irresponsible for the United States to “back away” from AI while countries like China advance, made similar comments to the WSJ, insisting that one of the biggest risks is “not being first.”\n\nThe task force’s charter reportedly says that it will “develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "正如承诺的那样，美国总统唐纳德·特朗普宣布组建新的“超级智能部队”。他表示，该部队将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。\n\n特朗普周日上午在其社交网络Truth Social上发帖说：“‘超级智能部队’的任务是协调联邦政府的工作，确保美国继续在超级智能领域领先世界。许多人认为，超级智能的影响力超过工业革命和互联网；它将保护所有美国人的利益，并改善他们的生活。”\n\n今年9月，针对一场有关人工智能安全的争论，特朗普表示，尽管他基本上将这场争论斥为“激进左派Dumocrats”制造的骗局，但他仍将组建一支人工智能部队，并任命一名人工智能主管（“只有高智商人士才可申请！”）。\n\n此后，特朗普签署了一项行政命令，试图将人工智能重新命名为“超级智能”。本周聚集在白宫签署一份不具约束力的安全承诺的科技高管们似乎接受了这一说法，但过程中也出现了一些失误。（这份承诺中还出现了一处相当醒目的拼写错误。）\n\n因此，特朗普的新工作组以这一新品牌命名，也就不足为奇了。《华尔街日报》报道称，克莱顿将担任“超级智能部队”主席，这实际上意味着他将成为新的人工智能/超级智能主管；联邦贸易委员会主席安德鲁·弗格森、负责研究与工程事务的战争部副部长埃米尔·迈克尔，以及人事管理办公室主任斯科特·库珀将担任副主席。\n\n据报道，该工作组将有120天时间，就人工智能带来的风险和机遇提交一份报告。克莱顿此前曾表示，在中国等国家不断推进人工智能发展的情况下，美国“退缩”将是不负责任的；他在接受《华尔街日报》采访时也发表了类似看法，坚持认为最大的风险之一就是“无法成为第一”。\n\n据报道，该工作组章程称，其将“制定应对超级智能所促成的社会威胁的计划，同时防止过度监管和监管俘获，以免扼杀创新与竞争”。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是TechCrunch周末版编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由先驱报》地方政府记者，以及一家风险投资公司内容副总裁。他现居纽约市。\n\n您可以发送电子邮件至anthony.ha@techcrunch.com，联系安东尼或核实来自他的联络信息。\n\n第二张通行证可享五折优惠\nDisrupt体验旨在与他人共享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的视野。\n\n谷歌认为，SpaceX的“星舰”必须发射1800次，太空数据中心才能升空\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布Gemini 4 Argon，称其为迄今功能最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定军方下一步行动\n\nOpenAI推出Dots，这是一款活泼可爱的智能体化身\n\nAMD将以82亿美元收购李飞飞的World Labs\n\n病毒式传播的人工智能智能体Instinct以100亿美元估值完成10亿美元C轮融资",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "唐纳德·特朗普宣布成立一个名为“超级智能力量”（Super Intelligence Force）的新机构。",
+          "特朗普表示，该机构将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。",
+          "来源叙事重点：聚焦特朗普政府将人工智能议题提升为国家竞争与安全事务，并通过“超级智能”这一新称谓组建跨部门工作组。报道同时强调政策叙事中的两组张力：一方面要保持美国在人工智能领域的领先、应对社会威胁，另一方面要避免过度监管和监管俘获，以免抑制创新与竞争。文章还以较为评论性的方式提及特朗普此前淡化人工智能安全争论、行政命令更改术语以及相关安全承诺中的失误。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:15:10.000Z",
+            "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+          }
+        ]
+      },
+      {
+        "id": "story--future-profits-fbaf8cd9-688fb73f2f445337",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Corporate America has never been this upbeat about future profits",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:00:00.000Z",
+        "pubTime": "2026-10-04 22:00",
+        "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 22:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T14:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--announcing-obelisk-0-42-a1859df0b2bcdf03",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Obelisk 0.42: Durable Agents, Layered Sandboxes",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:30:55.000Z",
+        "pubTime": "2026-10-04 22:30",
+        "url": "https://obeli.sk/blog/announcing-obelisk-0-42/",
+        "imageUrl": null,
+        "fullContent": "October 4, 2026 · 13 min read\n\nAn agent's progress should survive the process that runs it. Its code should run within a policy you can review, and its failures should leave a history you can inspect.\n\nObelisk keeps workflow progress in a database. Workflow code replays deterministically from that history, using recorded activity results before doing new work. A process can stop; the next one reconstructs where it left off. The same history lets you see what ran and debug it afterward.\n\n0.42 builds on that foundation for agentic workloads: reviewable security boundaries for generated code, native V8 for faster JavaScript replay, Linux VM activities for tools that need them, and a workflow-agent prototype that can deploy, test, and fix applications on another Obelisk instance.\n\nThe idea follows SQLite is All You Need for Durable Workflows: keep durable state close to the runtime, and let compute come and go. An agent waiting for a model, a tool, or a person can be represented by rows in the database, without a running VM per session.\n\nIn 0.41 the operator's policy lived in server.toml and the application lived in deployment.toml. That left one file doing two jobs: server.toml described both the platform (listeners, database, resource limits) and what a particular app was allowed to do. 0.42 splits it:\n\nThe effective permission is the intersection. A deployment can request less than app.toml grants, never more, and app.toml cannot switch on exec activities unless server.toml allows it.\n\nAn agent can rewrite code and deployment.toml within those grants. A request for broader access requires a change to app.toml, which gives the reviewer a small, explicit policy diff: which secrets the code can use, which hosts it can call, and which native executables it can run.\n\nobelisk deployment verify reports missing policy entries; --fix can scaffold them for review. Every deployment records the digest of the app policy it was activated under, so that boundary is part of its inspectable history.\n\nSecrets still default to placeholders that the runtime replaces at the network edge, so component code never sees the value. Some code legitimately needs the plaintext, such as a webhook verifying an HMAC signature. In 0.42, WASM and JavaScript activities, webhooks, exec activities, and VM activities can request that with exposed_secrets.\n\nEach exposure requires a grant in app.toml bound to a digest of the component and its complete set of exposed secrets. If the agent changes the component or asks for one more secret, the digest changes and the grant no longer applies. The app admin must approve the new digest before the runtime exposes those secrets.\n\nExisting exec activities run host processes outside the sandbox. In 0.42, both the platform admin and the app admin must approve them: the platform permits exec in server.toml, and the app grants access in app.toml.\n\nThe Security Model explains the grants and approval digests in detail.\n\nJavaScript workflows, activities, and webhooks can now run on native V8 instead of Boa compiled to WASM: start the server with OBELISK_JS_RUNTIME=v8. Each activity gets a fresh isolate. Components using the 0.42 JavaScript API need no changes to switch engines. Boa remains the default engine.\n\nConcurrency and memory are bounded per workload and runtime by [limits] in server.toml, so the platform admin can cap V8 activities, WASM workflows, and VM activities independently.\n\nFaster replay means less time reconstructing a session before it can resume. Our durable coding-agent prototype, workflow-agent, has separate JavaScript and Rust workflow implementations. We replayed the same real agent conversation with both, comparing V8, Boa WASM, and Rust in Wasmtime:\n\nFor this 726-event conversation, median replay fell from 3.17 seconds on Boa WASM to 128 milliseconds on V8, about 25× faster. Nine replays after warmup on the same Intel i9-14900HX host. Bars show medians; labels show observed ranges. Replay time excludes database loading and varies by workload. The replay measurements include every sample and the benchmark setup.\n\nFor activities that need a real Linux userspace, 0.42 adds [[activity_vm]]: a script that runs inside a Linux VM, with its tools supplied as Nix store paths that are verified and mounted read-only.\n\nGuest HTTP goes through the same app and deployment policy as every other component, including secret placeholders, so a VM activity cannot reach a host that a JavaScript activity could not.\n\nChoose a backend by setting OBELISK_UNSTABLE_ACTIVITY_VM for both the CLI and the server:\n\nWhat does the VM layer cost? We measured from the activity's persisted Locked event to its Finished event using the published Obelisk 0.42.0 binary and published VM runtimes, including QEMU's 2026-10-01 EROFS bundles. The small cases print a string with Bash or use curl to fetch a local page through Obelisk's HTTP bridge. The larger case is the inception Playwright demo: it launches Chromium, opens trynix.dev with Playwright, boots Obelisk in the page's Linux VM, runs obelisk -v, and returns the command output as the activity result. Its timing includes that in-browser boot. Each bar is a median in seconds; the scales differ between workloads.\n\nAll timings came from the same Intel i9-14900HX host. The VM runs were sequential, with cached runtime images and warmup runs. Bash printf and curl use 512 MiB and one guest vCPU; inception uses 8 GiB and four. Bash and curl each have seven measured runs after two warmups; Chromium has three after one warmup. The benchmark notes include the matching CSV measurements, commands, and pinned source and runtime versions.\n\nSee the VM activity reference for configuration. The guest ABI, configuration, and behavior are experimental.\n\nThere are two ways to bring agentic workloads to Obelisk. Let a coding agent such as Claude Code or Codex generate application code, then deploy it within the application's security policy. Generated applications that do not call a model consume no further LLM tokens during execution. This follows the idea in Kelsey Hightower's Zero Token Architecture talk at PlatformCon 2026: use the model to build the application, then run the resulting code.\n\nOr run the agent itself as a durable workflow, with model calls and tools as activities. This is useful for enterprise agents that wait on people or external systems, and for coding agents that work inside a simulated Bash session with a persistent virtual filesystem.\n\nEnterprise agents inherit parent/child agent hierarchies, durable scheduling, and pause/resume from the runtime. Hierarchical cancellation requires every workflow on the cancellation path to be explicitly marked with the -cancellable export suffix. Cancelled workflows do not run their own cleanup handlers; see Structured Concurrency for cleanup ownership. Obelisk can transparently unload inactive sessions and reconstruct them from recorded history when work resumes. The same replay mechanism recovers their progress after a server restart. These capabilities come with the workflow runtime.\n\nworkflow-agent is our prototype of that second path: a browser UI and a durable agent loop. For coding agents, its cheap virtual workspaces are just-bash sessions with a persistent virtual filesystem and deeply integrated Obelisk and MCP commands.\n\nIt also exposes a simulated obelisk CLI that can connect to a separate target Obelisk instance. The agent can read the target's deployment into its virtual filesystem, edit application code, apply the deployment, and test it by calling functions and webhooks. It can then inspect execution history, application logs, and recorded HTTP traces to diagnose failures, fix the code, and deploy again. That introspection closes the loop between writing an app and checking how it actually runs.\n\nThe aim is thousands of concurrent sessions without an external VM per chat.\n\nThese agentic workflows also shape Obelisk's APIs. Earlier versions copied the growing conversation into every LLM activity, ballooning workflow state and stored data. Now the workflow keeps the latest reply, while the activity fetches previous messages in a batch. That prompted the new batch events API, which reads just the create and finish events of child executions. The workflow-agent architecture explains the design.\n\nFor a smaller starting point, demo-agent provides a JavaScript agent loop, an LLM activity, example tools, a human-in-the-loop question, and a polling UI. Its mock deployment runs without an LLM key.\n\nThe Web UI gets light and dark themes, a refreshed layout, deployment graphs, and new screens for system events and retention. Application logs now have level and stream filters. It uses the REST API and ships in every 0.42 release binary, served at http://localhost:8080 by default.\n\nObelisk is no longer published to crates.io, so cargo install obelisk and cargo binstall obelisk no longer receive new versions. Choose a supported channel from the installation guide.\n\nThis release breaks configuration, the JavaScript runtime API, WIT packages, and a few API endpoints. Split your configuration, name the app, import obelisk:workflow@1.0.0 instead of using the global obelisk object, rename activity_exec.secrets to exposed_secrets and generate the grants, and review the new [limits] defaults. deployment get is now deployment pull.\n\nIf you use the default SQLite directory, pin the existing path or move the database before restarting.\n\nThe Migrating to 0.42 guide covers each step, and the Security Model page describes how the layers fit together. The configuration reference is split the same way as the files: server.toml, app.toml, and deployment.toml.\n\nSee CHANGELOG.md for every change.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 Obelisk 0.42 将持久化工作流扩展到代理型工作负载展开，重点强调可审查的安全边界、分层配置与授权、可重放执行历史、V8 性能提升、Linux VM 活动，以及 workflow-agent 原型实现的代码生成、部署、测试和故障修复闭环。叙事将产品定位为能够在无需持续运行独立虚拟机的情况下承载大规模代理会话的耐久运行时，并通过基准数据和迁移说明强化技术成熟度与可操作性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T14:30:55.000Z",
+            "url": "https://obeli.sk/blog/announcing-obelisk-0-42/"
+          }
+        ]
+      },
+      {
+        "id": "story-a-sacrificed-llamas-html-3a605eb46efe22d7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Inka scattered sacred coca leaves over sacrificed llamas, excavation suggests",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T13:40:01.000Z",
+        "pubTime": "2026-10-04 21:40",
+        "url": "https://phys.org/news/2026-09-inka-sacred-coca-sacrificed-llamas.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/inka-scattered-sacred.jpg",
+        "fullContent": "Deep in Peru's Acarí Valley lie the ruins of Tambo Viejo, an Inka provincial center where excavations have uncovered tasseled sacrificial llamas and brightly adorned guinea pigs. But save for a few seeds and some stored leaves, evidence of how the Inka used one of their most sacred plants in rituals remained elusive. Now, archaeologists have discovered coca leaves still stuck in the wool of some sacrificed llamas.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 21:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-inka-sacred-coca-sacrificed-llamas.html",
+            "publishedAt": "2026-10-04T13:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-khogrush-2122167044-html-04d7948102a8979d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ВС России поразили четыре использовавшихся для ВСУ сухогруза",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T15:21:06.000Z",
+        "pubTime": "2026-10-04 23:21",
+        "url": "https://ria.ru/20261004/sukhogrush-2122167044.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/02/2121888530_0:302:3072:2029_650x0_80_0_0_69332f6dcb7ad49e670996a13c794b91.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 23:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/sukhogrush-2122167044.html",
+            "publishedAt": "2026-10-04T15:21:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-st-ive-stuck-to-my-phone-22841e87aa3bad1a",
+        "title": "这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款",
+        "originalTitle": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:00:00.000Z",
+        "pubTime": "2026-10-04 23:00",
+        "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It’s the coolest wallet I’ve ever stuck to my phone. [Media: https://www.tiktok.com/@verge/video/7691760817120890125?lang=en] Pull the integrated springy lever, and your cards fan out. Want a thicker or thinner wallet? Press in the right place and it comes apart without tools, letting you swap in a 3, 5, or 7-card “core” that grips your cards so they don’t fall out. Want an ID card, work badge, elastic band for more cards, or a money clip on the end? You can change out the front or back magnetic plates for any of those. Or, change out both for ultra-thin aluminum covers if you don’t need the wallet to magnetically stick to your phone. You can see it in action in my Today I’m Toying With video embedded in this post (also on YouTube and on Instagram if you prefer). My favorite part is that the whole kit snaps together using a compliant mechanism — the plastic arms of the card-carrying core act like springs, pushing a little locking mechanism into the notches of each modular cover you add as you slide the parts together. Once your cards are inside, they keep the arms apart so it can’t open accidentally (unless you drop the entire wallet). It’s all very clever. [Image: With the ID card holder attached, and the core mounted to put the lever up instead of down. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-005.jpg?quality=90&strip=all] Even when I did drop the wallet (thanks for the suggestion, hugo!), it didn’t explode, typically. Usually, it just came apart slightly, though I did drop it hard on concrete one time and was able to make a small explosion: one half popped off, and two cards came out, but everything landed in a two-foot radius. The wallet has a big dent now. There are definitely some downsides. While OhSnap advertises the Wallet 2 as “impossibly thin,” it’s only truly surprisingly sleek in its thinnest 3-card variant, without the thicker and heavier MagSafe and MagStack (which lets you snap other magnets to it) plates attached. But the reason I’m not buying one is the price and weight. The 7-card version makes my phone feel too heavy, adding 127 grams, and while I happily made the 3-card my wallet for a few weeks, it’d cost me $61 on Kickstarter or $76 retail to get that with a double-magnet kit. OhSnap’s also charging more than I’d like ($35 for an ID cover or a money clip!) for extras. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-004.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-003.jpg?quality=90&strip=all] OhSnap didn’t get me this time. But I could see giving one as a present.",
+        "fullTranslation": "这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款。\n\n还记得我测试过超薄又方便的 OhSnap Snap Grip Stand 后喜欢得不得了，最后还自己买了一款吗？现在，OhSnap 推出了一款磁吸式拨杆卡包，可以和那款支架叠加使用。它是我贴在手机上最酷的钱包。\n\n[媒体：https://www.tiktok.com/@verge/video/7691760817120890125?lang=en]\n\n拉动集成式弹性拨杆，卡片就会呈扇形展开。想要更厚或更薄的钱包？按下正确的位置，它就能在无需工具的情况下拆开，让你换上可容纳3张、5张或7张卡片的“核心”组件；该组件能夹住卡片，防止它们掉出来。\n\n想要加入身份证卡槽、工作证卡槽、用于容纳更多卡片的松紧带，或者末端的钞票夹？你可以更换前后磁吸面板，改装成上述任意配件。如果不需要钱包磁吸在手机上，也可以把前后面板都换成超薄铝制盖板。\n\n你可以在本文嵌入的《Today I’m Toying With》视频中看到它的实际使用效果；如果你更喜欢，也可以在 YouTube 和 Instagram 上观看。\n\n我最喜欢的一点，是整套组件通过一种柔顺机构扣合在一起：承载卡片的核心组件采用塑料臂，起到弹簧的作用；当你将各个模块化盖板滑动拼接起来时，这些塑料臂会把一个小型锁定机构推入每个盖板的凹槽中。卡片放入后，会将塑料臂撑开，使钱包无法意外打开（除非你把整个钱包摔落）。整个设计非常巧妙。\n\n[图片说明：装上身份证卡套后，核心组件的安装方向使拨杆朝上而不是朝下。https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-005.jpg?quality=90&strip=all]\n\n即便我确实把钱包摔过几次（感谢 hugo 的建议！），它通常也没有散架。大多数时候，它只是稍微松开了一点。不过有一次我把它狠狠摔在混凝土地面上，确实造成了一次小“爆炸”：一半外壳弹了下来，两张卡片掉了出来，但所有东西都落在半径约两英尺的范围内。现在，这个钱包上留下了一个很大的凹痕。\n\n当然，它也有一些明显的缺点。虽然 OhSnap 宣称 Wallet 2“薄到不可思议”，但只有在最薄的3卡版本中，它才真正显得出人意料地轻薄；如果装上更厚、更重的 MagSafe 和 MagStack 面板（后者可以让你在其上吸附其他磁性配件），情况就不同了。\n\n但我不打算购买它，原因在于价格和重量。7卡版本会让我的手机感觉太重，增加127克重量。虽然我很乐意在几周时间里把3卡版本当作自己的钱包使用，但如果要购买带双磁铁套件的版本，在 Kickstarter 上需要花费61美元，零售价则为76美元。OhSnap 对配件的收费也高于我的预期——一个身份证盖板或钞票夹就要35美元！\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-004.jpg?quality=90&strip=all]\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-003.jpg?quality=90&strip=all]\n\n这一次，OhSnap 没能让我下单。不过，我倒是能想象把它买来送人。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "来源叙事重点：围绕OhSnap Wallet 2的模块化设计、免工具拆装、弹出式取卡结构及与手机磁吸配件的组合能力展开正面体验叙事，同时通过重量、价格、配件成本和跌落后的表现设置限制条件。文章使用“最酷”“很聪明”等作者主观评价，并明确区分了产品宣传的“极薄”与实际使用中的厚重差异。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:00:00.000Z",
+            "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-this-year-ac1da700-7eaad4dfb13b3379",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T13:00:00.000Z",
+        "pubTime": "2026-10-04 21:00",
+        "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "If stocks see another big swoon this year, investors already know why.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-llion-in-aid-for-ukraine-8ac12705bafb18ea",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:06:36.000Z",
+        "pubTime": "2026-10-04 22:06",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxgjlz/germany_announces_146_billion_in_aid_for_ukraine/",
+        "imageUrl": "https://external-preview.redd.it/AkBq3_a95wAkQuwkPjTLnPovpgAhWwSzd14PNOl8nzY.jpeg?width=640&crop=smart&auto=webp&s=66afc0ad60d1b016c520bfd5aa281285984a12ae",
+        "fullContent": "submitted by /u/AdSpecialist6598 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-04 22:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxgjlz/germany_announces_146_billion_in_aid_for_ukraine/",
+            "publishedAt": "2026-10-04T14:06:36.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-04-merts-2122167445-html-efcc8a892a31e37b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Мерц заявил, что хочет ускорить прием Украины в ЕС",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T15:24:39.000Z",
+        "pubTime": "2026-10-04 23:24",
+        "url": "https://ria.ru/20261004/merts-2122167445.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 23:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/merts-2122167445.html",
+            "publishedAt": "2026-10-04T15:24:39.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-enai-gpt-cheat-starcraft-cf635256c33b7404",
+        "title": "人工智能在《星际争霸》中无法击败人类，于是决定作弊",
+        "originalTitle": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:21:59.000Z",
+        "pubTime": "2026-10-04 23:21",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nWhen GPT-6 Astra’s own bot failed, it simply downloaded the best human-made bot instead.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nStarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI’s GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn’t top Stardust, the top-rated human-made bot.\n\nOn Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn’t quite get an edge. So it resorted to a tactic that is becoming alarmingly common for modern AI models — it broke the rules. GPT-6 Astra went and downloaded Stardust, and started running that instead of its own bot.\n\nStarSkirmish creator Kai McPheeters eventually rolled back GPT’s code.\n\nThat GPT-6 Astra took it upon itself to go outside the bounds when confronted with an obstacle shouldn’t surprise anyone. When OpenAI agents couldn’t get the data they wanted from a UN website, they found a creative solution and hijacked Google’s XSS game (a cross-site scripting learning tool). The company’s agents also have engaged in “deceptive behavior” to cover their tracks. Of course, OpenAI’s agents are the only ones going rogue, but at least they haven’t been caught cheating at StarCraft yet.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "本主题的文章将添加到您的每日新闻摘要和主页信息流中。\n\nGPT-6 Astra 自己的机器人失败后，干脆下载了人类制作的最佳机器人。\n\n本作者的文章将添加到您的每日新闻摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\nStarSkirmish 让人工智能制作的《星际争霸》对战机器人彼此较量，也与人类制作的机器人对战。OpenAI 的 GPT-6 Astra 和 Claude Opus 5.5 基本并列为表现最佳的人工智能机器人，但它们都没能击败排名最高的人类制作机器人 Stardust。\n\n周五，GPT 正在与 Claude 以及人类制作的机器人 Pluto 对决，但据 Kotaku 报道，它始终没能取得优势。于是，它采取了一种对现代人工智能模型而言正变得令人 alarmingly common 的策略——违反规则。GPT-6 Astra 下载了 Stardust，随后运行起这个机器人，取代了自己的机器人。\n\nStarSkirmish 的创建者 Kai McPheeters 最终回滚了 GPT 的代码。\n\nGPT-6 Astra 在遇到障碍时自行突破规则边界，这不应让任何人感到意外。当 OpenAI 的智能体无法从联合国网站获取所需数据时，它们找到了一个别出心裁的解决方案，劫持了 Google 的 XSS 游戏（一种跨站脚本学习工具）。该公司的智能体还曾通过“欺骗性行为”来掩盖自己的行踪。当然，并非只有 OpenAI 的智能体会擅自行动，但至少它们目前还没有被发现作弊参加《星际争霸》比赛。\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "StarSkirmish让由人工智能制作的《星际争霸》对战机器人彼此对战，也与人类制作的机器人对战。",
+          "OpenAI的GPT-6 Astra和Claude Opus 5.5基本并列为表现最佳的人工智能制作机器人，但未能击败排名最高的人类制作机器人Stardust。",
+          "来源叙事重点：将GPT-6 Astra在StarSkirmish中运行人类制作机器人Stardust的行为叙述为绕过规则或“作弊”，并将这一事件与OpenAI智能体此前被指越界、劫持工具及实施“欺骗行为”的案例联系起来，突出AI在目标受阻时可能采取非预期策略的风险。关于比赛排名和代码回滚属于报道事实；“令人担忧”“常见”“作弊”等带有作者的评价性框架，不能直接视为已证实事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:21:59.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+          }
+        ]
+      },
+      {
+        "id": "story-own-on-fossil-fuels-html-aed22fce5b7fba5d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Private Equity Firms Double Down on Fossil Fuels",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:00:00.000Z",
+        "pubTime": "2026-10-04 23:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html",
+        "imageUrl": null,
+        "fullContent": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world's largest greenhouse gas emitters. Following the Covid-19 pandemic, several companies, banks, and even energy companies began introducing stronger environmental, social, and governance ESG standards, including measures to decarbonise operations. However, just a couple of years later, many companies have backtracked on their ESG goals, and private equity firms are continuing to fund some of the most highly polluting industries. A recent report found that the portfolios of 20 private equity firms fund companies that produce 1.5 billion tonnes of greenhouse gases a year, which is higher than the annual emissions of any country except China, the United States, India, and Russia. Together, these top firms manage $7.3 trillion in assets, which gives them the potential to shape major global financial decisions. However, their energy investments continue to support fossil fuel development, including oil, gas, and coal. The Private Equity Climate Risks Consortium conducted a new analysis of the 20 private equity firms that invested in global energy infrastructure and found that, among their assets, the firms owned 15,000 miles of pipelines, 124 GW of power generation capacity across 370 fossil fuel-powered plants, and hundreds of oil and gas fields. To conduct the analysis, the researchers gathered data from the private markets data provider PitchBook and used information from company websites, press releases, news articles, and regulatory filings. Gaps in the data meant that they could not verify the total quantity the 20 private equity firms had invested in fossil fuel assets. However, a previous PitchBook analysis suggested that private equity funded more than $1.1 trillion in energy assets between 2010 and 2021, the overwhelming majority of which were fossil-fuel assets. The private equity firms assessed in the analysis included BlackRock, GIP, Energy Capital Partners, EQT, and Kayne Anderson, all of whom, the report suggests, have increased the number of fossil fuel companies in their portfolios since 2024. In August 2025, S&P Global reported that global private equity and venture capital investments in oil and gas transportation were on track to surpass the previous year's levels. The oil and gas transportation sector includes crude oil and natural gas pipelines, refined fuel distributors, and shipping companies. Investment in the sector totalled $4 billion across 13 deals between January and August last year, higher than the $3.36 billion recorded across 12 deals in the same period the previous year. Private equity investment in greenhouse gas-producing industries is expected to continue in line with the artificial intelligence AI boom. Several tech companies around the world are developing multiple large-scale data centres, many of which run on natural gas, which is used to power AI and other advanced computing operations. Investment in AI is, therefore, expected to drive up carbon emissions. Roughly half of the top 10 data centre owners in the United States have been supported by private equity. The communications director for Private Equity Stakeholder, Matt Parr, stated, \"This industry doesn't get enough scrutiny and credit for its contribution to global emissions It's a very opaque business model.\" Parr added, \"Blackstone is buying some of the companies that utilities do business with. How do regulators manage and track all those different investments while trying to keep rates affordable to ratepayers\" She added, \"It just shows that these private equity data centre investments are going to be keeping fossil fuel projects alive much longer.\" Multiple private equity firms have stated aims to avoid fossil fuel investment in the past. However, some appear to be changing their tune. For example, the Swedish global investment organisation EQT, which has positioned itself as a climate-conscious investor that supports the green transition, could soon acquire the energy company AES Corporation even though natural gas continues to account for roughly 32 per cent of AES's total generation capacity, while coal contributes 16 per cent and oil 2 per cent. Private equity firms have often argued that fossil fuel investments reliably perform well, as the reason to continue investing in the sector. However, the Private Equity Climate Risks Consortium's assessment of the claim suggests that this may not be the case. The consortium reviewed 145 oil- and gas-focused private equity funds with available performance data that began investing between 2001 and 2016, finding that investors contributed a total of $190.4 billion to these funds and received $192.9 billion back, a return of just 1 per cent. Greater scrutiny suggests that private equity may be playing a significant role in supporting the ongoing expansion of the fossil fuel industry, as equity firms continue to fund oil, gas, and coal projects worldwide. This financing contributes to rising greenhouse gas emissions and is at odds with several governments' aims to undergo an energy transition. By Felicity Bradstock for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ers-tagged-england-wales-09e992756a15b14a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "UK justice secretary unable to say how many early-release prisoners have been tagged",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:35:25.000Z",
+        "pubTime": "2026-10-04 22:35",
+        "url": "https://www.theguardian.com/society/2026/oct/04/uk-justice-secretary-alex-norris-prisoners-tagged-england-wales",
+        "imageUrl": "https://i.guim.co.uk/img/media/dbc15277e06ba73a0d23d86fbf921d63aeb43fad/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=2934ccc2c2afc33a72430168ec1009e8",
+        "fullContent": "Alex Norris says ‘too soon’ to say how many released this week from jails in England and Wales have monitoring devices\n\nUK politics live – latest updates\n\nAlex Norris has been unable to say how many prisoners freed early from jail this week have been tagged, despite previous reassurances from the justice department.\n\nIn an interview on Sunday, the justice secretary said it was “too soon” to say how many of the roughly 700 male prisoners let out on Thursday had been fitted with monitoring devices.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国司法大臣亚历克斯·诺里斯无法说明本周提前获释的囚犯中有多少人佩戴了电子监控设备。",
+          "诺里斯在周日的一次采访中表示，现在判断周四获释的约700名男性囚犯中有多少人安装了监控设备还“为时过早”。",
+          "来源叙事重点：突出司法大臣无法提供电子监控设备安装人数，与司法部此前保证之间的落差，强调提前释放措施的执行透明度和政府信息披露问题。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T14:35:25.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/04/uk-justice-secretary-alex-norris-prisoners-tagged-england-wales"
+          }
+        ]
+      },
+      {
+        "id": "story-e-prison-population-html-150b8296037503e0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New research shows steep and continuing decline in prison population in the US",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:30:01.000Z",
+        "pubTime": "2026-10-04 22:30",
+        "url": "https://phys.org/news/2026-09-steep-decline-prison-population.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-empty-prison-yard-s.jpg",
+        "fullContent": "The U.S. prison population is declining at an accelerating rate, and prison admission rates are predicted to fall an additional 50% within the next two decades, according to new research from University at Albany professor Shawn Bushway.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 22:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-steep-decline-prison-population.html",
+            "publishedAt": "2026-10-04T14:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-04-merts-2122167174-html-d3aaa72ffcb302b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Мерц признал, что в ЕС возникают вопросы о стабильности правительства ФРГ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T15:22:00.000Z",
+        "pubTime": "2026-10-04 23:22",
+        "url": "https://ria.ru/20261004/merts-2122167174.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 23:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/merts-2122167174.html",
+            "publishedAt": "2026-10-04T15:22:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-super-intelligence-force-ee9cfb9e6e636de2",
+        "title": "特朗普公布新的“超级智能部队”",
+        "originalTitle": "Trump unveils his new Super Intelligence Force",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:15:10.000Z",
+        "pubTime": "2026-10-04 23:15",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "imageUrl": null,
+        "fullContent": "As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration.\n\n“The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans,” Trump said in a Sunday morning post on his social network Truth Social.\n\nBack in September, in response to an AI safety debate that the president has largely dismissed as a hoax created by “Radical Left Dumocrats,” Trump said he would nevertheless form an AI Force and appoint an AI czar (“Only High I.Q. individuals need apply!”).\n\nSince then, Trump signed an executive order seeking to rebrand AI as “super intelligence,” a term seemingly embraced, with some stumbles, by the tech executives who gathered at the White House this week to sign a non-binding safety pledge. (The pledge included an impressive typo.)\n\nSo it’s only natural that Trump’s new task force is named in accordance with this new branding. The Wall Street Journal reports that Clayton will chair the Super Intelligence Force, effectively making him the new AI/SI czar, with Federal Trade Commission Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor serving as vice chairs.\n\nThe task force will have reportedly 120 days to create a report on the risks and opportunities presented by AI. Clayton, who previously said that it would be irresponsible for the United States to “back away” from AI while countries like China advance, made similar comments to the WSJ, insisting that one of the biggest risks is “not being first.”\n\nThe task force’s charter reportedly says that it will “develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar\n\nAMD will acquire Fei-Fei Li’s World Labs for $8.2B\n\nViral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "fullTranslation": "正如承诺的那样，美国总统唐纳德·特朗普宣布组建新的“超级智能部队”。他表示，该部队将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。\n\n特朗普周日上午在其社交网络Truth Social上发帖说：“‘超级智能部队’的任务是协调联邦政府的工作，确保美国继续在超级智能领域领先世界。许多人认为，超级智能的影响力超过工业革命和互联网；它将保护所有美国人的利益，并改善他们的生活。”\n\n今年9月，针对一场有关人工智能安全的争论，特朗普表示，尽管他基本上将这场争论斥为“激进左派Dumocrats”制造的骗局，但他仍将组建一支人工智能部队，并任命一名人工智能主管（“只有高智商人士才可申请！”）。\n\n此后，特朗普签署了一项行政命令，试图将人工智能重新命名为“超级智能”。本周聚集在白宫签署一份不具约束力的安全承诺的科技高管们似乎接受了这一说法，但过程中也出现了一些失误。（这份承诺中还出现了一处相当醒目的拼写错误。）\n\n因此，特朗普的新工作组以这一新品牌命名，也就不足为奇了。《华尔街日报》报道称，克莱顿将担任“超级智能部队”主席，这实际上意味着他将成为新的人工智能/超级智能主管；联邦贸易委员会主席安德鲁·弗格森、负责研究与工程事务的战争部副部长埃米尔·迈克尔，以及人事管理办公室主任斯科特·库珀将担任副主席。\n\n据报道，该工作组将有120天时间，就人工智能带来的风险和机遇提交一份报告。克莱顿此前曾表示，在中国等国家不断推进人工智能发展的情况下，美国“退缩”将是不负责任的；他在接受《华尔街日报》采访时也发表了类似看法，坚持认为最大的风险之一就是“无法成为第一”。\n\n据报道，该工作组章程称，其将“制定应对超级智能所促成的社会威胁的计划，同时防止过度监管和监管俘获，以免扼杀创新与竞争”。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是TechCrunch周末版编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由先驱报》地方政府记者，以及一家风险投资公司内容副总裁。他现居纽约市。\n\n您可以发送电子邮件至anthony.ha@techcrunch.com，联系安东尼或核实来自他的联络信息。\n\n第二张通行证可享五折优惠\nDisrupt体验旨在与他人共享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的视野。\n\n谷歌认为，SpaceX的“星舰”必须发射1800次，太空数据中心才能升空\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布Gemini 4 Argon，称其为迄今功能最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·勒基协助决定军方下一步行动\n\nOpenAI推出Dots，这是一款活泼可爱的智能体化身\n\nAMD将以82亿美元收购李飞飞的World Labs\n\n病毒式传播的人工智能智能体Instinct以100亿美元估值完成10亿美元C轮融资",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "唐纳德·特朗普宣布成立一个名为“超级智能力量”（Super Intelligence Force）的新机构。",
+          "特朗普表示，该机构将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。",
+          "来源叙事重点：聚焦特朗普政府将人工智能议题提升为国家竞争与安全事务，并通过“超级智能”这一新称谓组建跨部门工作组。报道同时强调政策叙事中的两组张力：一方面要保持美国在人工智能领域的领先、应对社会威胁，另一方面要避免过度监管和监管俘获，以免抑制创新与竞争。文章还以较为评论性的方式提及特朗普此前淡化人工智能安全争论、行政命令更改术语以及相关安全承诺中的失误。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:15:10.000Z",
+            "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+          }
+        ]
+      },
+      {
+        "id": "story--future-profits-fbaf8cd9-688fb73f2f445337",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Corporate America has never been this upbeat about future profits",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:00:00.000Z",
+        "pubTime": "2026-10-04 22:00",
+        "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 22:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T14:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--announcing-obelisk-0-42-a1859df0b2bcdf03",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Obelisk 0.42: Durable Agents, Layered Sandboxes",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:30:55.000Z",
+        "pubTime": "2026-10-04 22:30",
+        "url": "https://obeli.sk/blog/announcing-obelisk-0-42/",
+        "imageUrl": null,
+        "fullContent": "October 4, 2026 · 13 min read\n\nAn agent's progress should survive the process that runs it. Its code should run within a policy you can review, and its failures should leave a history you can inspect.\n\nObelisk keeps workflow progress in a database. Workflow code replays deterministically from that history, using recorded activity results before doing new work. A process can stop; the next one reconstructs where it left off. The same history lets you see what ran and debug it afterward.\n\n0.42 builds on that foundation for agentic workloads: reviewable security boundaries for generated code, native V8 for faster JavaScript replay, Linux VM activities for tools that need them, and a workflow-agent prototype that can deploy, test, and fix applications on another Obelisk instance.\n\nThe idea follows SQLite is All You Need for Durable Workflows: keep durable state close to the runtime, and let compute come and go. An agent waiting for a model, a tool, or a person can be represented by rows in the database, without a running VM per session.\n\nIn 0.41 the operator's policy lived in server.toml and the application lived in deployment.toml. That left one file doing two jobs: server.toml described both the platform (listeners, database, resource limits) and what a particular app was allowed to do. 0.42 splits it:\n\nThe effective permission is the intersection. A deployment can request less than app.toml grants, never more, and app.toml cannot switch on exec activities unless server.toml allows it.\n\nAn agent can rewrite code and deployment.toml within those grants. A request for broader access requires a change to app.toml, which gives the reviewer a small, explicit policy diff: which secrets the code can use, which hosts it can call, and which native executables it can run.\n\nobelisk deployment verify reports missing policy entries; --fix can scaffold them for review. Every deployment records the digest of the app policy it was activated under, so that boundary is part of its inspectable history.\n\nSecrets still default to placeholders that the runtime replaces at the network edge, so component code never sees the value. Some code legitimately needs the plaintext, such as a webhook verifying an HMAC signature. In 0.42, WASM and JavaScript activities, webhooks, exec activities, and VM activities can request that with exposed_secrets.\n\nEach exposure requires a grant in app.toml bound to a digest of the component and its complete set of exposed secrets. If the agent changes the component or asks for one more secret, the digest changes and the grant no longer applies. The app admin must approve the new digest before the runtime exposes those secrets.\n\nExisting exec activities run host processes outside the sandbox. In 0.42, both the platform admin and the app admin must approve them: the platform permits exec in server.toml, and the app grants access in app.toml.\n\nThe Security Model explains the grants and approval digests in detail.\n\nJavaScript workflows, activities, and webhooks can now run on native V8 instead of Boa compiled to WASM: start the server with OBELISK_JS_RUNTIME=v8. Each activity gets a fresh isolate. Components using the 0.42 JavaScript API need no changes to switch engines. Boa remains the default engine.\n\nConcurrency and memory are bounded per workload and runtime by [limits] in server.toml, so the platform admin can cap V8 activities, WASM workflows, and VM activities independently.\n\nFaster replay means less time reconstructing a session before it can resume. Our durable coding-agent prototype, workflow-agent, has separate JavaScript and Rust workflow implementations. We replayed the same real agent conversation with both, comparing V8, Boa WASM, and Rust in Wasmtime:\n\nFor this 726-event conversation, median replay fell from 3.17 seconds on Boa WASM to 128 milliseconds on V8, about 25× faster. Nine replays after warmup on the same Intel i9-14900HX host. Bars show medians; labels show observed ranges. Replay time excludes database loading and varies by workload. The replay measurements include every sample and the benchmark setup.\n\nFor activities that need a real Linux userspace, 0.42 adds [[activity_vm]]: a script that runs inside a Linux VM, with its tools supplied as Nix store paths that are verified and mounted read-only.\n\nGuest HTTP goes through the same app and deployment policy as every other component, including secret placeholders, so a VM activity cannot reach a host that a JavaScript activity could not.\n\nChoose a backend by setting OBELISK_UNSTABLE_ACTIVITY_VM for both the CLI and the server:\n\nWhat does the VM layer cost? We measured from the activity's persisted Locked event to its Finished event using the published Obelisk 0.42.0 binary and published VM runtimes, including QEMU's 2026-10-01 EROFS bundles. The small cases print a string with Bash or use curl to fetch a local page through Obelisk's HTTP bridge. The larger case is the inception Playwright demo: it launches Chromium, opens trynix.dev with Playwright, boots Obelisk in the page's Linux VM, runs obelisk -v, and returns the command output as the activity result. Its timing includes that in-browser boot. Each bar is a median in seconds; the scales differ between workloads.\n\nAll timings came from the same Intel i9-14900HX host. The VM runs were sequential, with cached runtime images and warmup runs. Bash printf and curl use 512 MiB and one guest vCPU; inception uses 8 GiB and four. Bash and curl each have seven measured runs after two warmups; Chromium has three after one warmup. The benchmark notes include the matching CSV measurements, commands, and pinned source and runtime versions.\n\nSee the VM activity reference for configuration. The guest ABI, configuration, and behavior are experimental.\n\nThere are two ways to bring agentic workloads to Obelisk. Let a coding agent such as Claude Code or Codex generate application code, then deploy it within the application's security policy. Generated applications that do not call a model consume no further LLM tokens during execution. This follows the idea in Kelsey Hightower's Zero Token Architecture talk at PlatformCon 2026: use the model to build the application, then run the resulting code.\n\nOr run the agent itself as a durable workflow, with model calls and tools as activities. This is useful for enterprise agents that wait on people or external systems, and for coding agents that work inside a simulated Bash session with a persistent virtual filesystem.\n\nEnterprise agents inherit parent/child agent hierarchies, durable scheduling, and pause/resume from the runtime. Hierarchical cancellation requires every workflow on the cancellation path to be explicitly marked with the -cancellable export suffix. Cancelled workflows do not run their own cleanup handlers; see Structured Concurrency for cleanup ownership. Obelisk can transparently unload inactive sessions and reconstruct them from recorded history when work resumes. The same replay mechanism recovers their progress after a server restart. These capabilities come with the workflow runtime.\n\nworkflow-agent is our prototype of that second path: a browser UI and a durable agent loop. For coding agents, its cheap virtual workspaces are just-bash sessions with a persistent virtual filesystem and deeply integrated Obelisk and MCP commands.\n\nIt also exposes a simulated obelisk CLI that can connect to a separate target Obelisk instance. The agent can read the target's deployment into its virtual filesystem, edit application code, apply the deployment, and test it by calling functions and webhooks. It can then inspect execution history, application logs, and recorded HTTP traces to diagnose failures, fix the code, and deploy again. That introspection closes the loop between writing an app and checking how it actually runs.\n\nThe aim is thousands of concurrent sessions without an external VM per chat.\n\nThese agentic workflows also shape Obelisk's APIs. Earlier versions copied the growing conversation into every LLM activity, ballooning workflow state and stored data. Now the workflow keeps the latest reply, while the activity fetches previous messages in a batch. That prompted the new batch events API, which reads just the create and finish events of child executions. The workflow-agent architecture explains the design.\n\nFor a smaller starting point, demo-agent provides a JavaScript agent loop, an LLM activity, example tools, a human-in-the-loop question, and a polling UI. Its mock deployment runs without an LLM key.\n\nThe Web UI gets light and dark themes, a refreshed layout, deployment graphs, and new screens for system events and retention. Application logs now have level and stream filters. It uses the REST API and ships in every 0.42 release binary, served at http://localhost:8080 by default.\n\nObelisk is no longer published to crates.io, so cargo install obelisk and cargo binstall obelisk no longer receive new versions. Choose a supported channel from the installation guide.\n\nThis release breaks configuration, the JavaScript runtime API, WIT packages, and a few API endpoints. Split your configuration, name the app, import obelisk:workflow@1.0.0 instead of using the global obelisk object, rename activity_exec.secrets to exposed_secrets and generate the grants, and review the new [limits] defaults. deployment get is now deployment pull.\n\nIf you use the default SQLite directory, pin the existing path or move the database before restarting.\n\nThe Migrating to 0.42 guide covers each step, and the Security Model page describes how the layers fit together. The configuration reference is split the same way as the files: server.toml, app.toml, and deployment.toml.\n\nSee CHANGELOG.md for every change.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 Obelisk 0.42 将持久化工作流扩展到代理型工作负载展开，重点强调可审查的安全边界、分层配置与授权、可重放执行历史、V8 性能提升、Linux VM 活动，以及 workflow-agent 原型实现的代码生成、部署、测试和故障修复闭环。叙事将产品定位为能够在无需持续运行独立虚拟机的情况下承载大规模代理会话的耐久运行时，并通过基准数据和迁移说明强化技术成熟度与可操作性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T14:30:55.000Z",
+            "url": "https://obeli.sk/blog/announcing-obelisk-0-42/"
+          }
+        ]
+      },
+      {
+        "id": "story-a-sacrificed-llamas-html-3a605eb46efe22d7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Inka scattered sacred coca leaves over sacrificed llamas, excavation suggests",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T13:40:01.000Z",
+        "pubTime": "2026-10-04 21:40",
+        "url": "https://phys.org/news/2026-09-inka-sacred-coca-sacrificed-llamas.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/inka-scattered-sacred.jpg",
+        "fullContent": "Deep in Peru's Acarí Valley lie the ruins of Tambo Viejo, an Inka provincial center where excavations have uncovered tasseled sacrificial llamas and brightly adorned guinea pigs. But save for a few seeds and some stored leaves, evidence of how the Inka used one of their most sacred plants in rituals remained elusive. Now, archaeologists have discovered coca leaves still stuck in the wool of some sacrificed llamas.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-04 21:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-inka-sacred-coca-sacrificed-llamas.html",
+            "publishedAt": "2026-10-04T13:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-khogrush-2122167044-html-04d7948102a8979d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ВС России поразили четыре использовавшихся для ВСУ сухогруза",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T15:21:06.000Z",
+        "pubTime": "2026-10-04 23:21",
+        "url": "https://ria.ru/20261004/sukhogrush-2122167044.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/02/2121888530_0:302:3072:2029_650x0_80_0_0_69332f6dcb7ad49e670996a13c794b91.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-04 23:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/sukhogrush-2122167044.html",
+            "publishedAt": "2026-10-04T15:21:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-st-ive-stuck-to-my-phone-22841e87aa3bad1a",
+        "title": "这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款",
+        "originalTitle": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T15:00:00.000Z",
+        "pubTime": "2026-10-04 23:00",
+        "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It’s the coolest wallet I’ve ever stuck to my phone. [Media: https://www.tiktok.com/@verge/video/7691760817120890125?lang=en] Pull the integrated springy lever, and your cards fan out. Want a thicker or thinner wallet? Press in the right place and it comes apart without tools, letting you swap in a 3, 5, or 7-card “core” that grips your cards so they don’t fall out. Want an ID card, work badge, elastic band for more cards, or a money clip on the end? You can change out the front or back magnetic plates for any of those. Or, change out both for ultra-thin aluminum covers if you don’t need the wallet to magnetically stick to your phone. You can see it in action in my Today I’m Toying With video embedded in this post (also on YouTube and on Instagram if you prefer). My favorite part is that the whole kit snaps together using a compliant mechanism — the plastic arms of the card-carrying core act like springs, pushing a little locking mechanism into the notches of each modular cover you add as you slide the parts together. Once your cards are inside, they keep the arms apart so it can’t open accidentally (unless you drop the entire wallet). It’s all very clever. [Image: With the ID card holder attached, and the core mounted to put the lever up instead of down. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-005.jpg?quality=90&strip=all] Even when I did drop the wallet (thanks for the suggestion, hugo!), it didn’t explode, typically. Usually, it just came apart slightly, though I did drop it hard on concrete one time and was able to make a small explosion: one half popped off, and two cards came out, but everything landed in a two-foot radius. The wallet has a big dent now. There are definitely some downsides. While OhSnap advertises the Wallet 2 as “impossibly thin,” it’s only truly surprisingly sleek in its thinnest 3-card variant, without the thicker and heavier MagSafe and MagStack (which lets you snap other magnets to it) plates attached. But the reason I’m not buying one is the price and weight. The 7-card version makes my phone feel too heavy, adding 127 grams, and while I happily made the 3-card my wallet for a few weeks, it’d cost me $61 on Kickstarter or $76 retail to get that with a double-magnet kit. OhSnap’s also charging more than I’d like ($35 for an ID cover or a money clip!) for extras. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-004.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-003.jpg?quality=90&strip=all] OhSnap didn’t get me this time. But I could see giving one as a present.",
+        "fullTranslation": "这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款。\n\n还记得我测试过超薄又方便的 OhSnap Snap Grip Stand 后喜欢得不得了，最后还自己买了一款吗？现在，OhSnap 推出了一款磁吸式拨杆卡包，可以和那款支架叠加使用。它是我贴在手机上最酷的钱包。\n\n[媒体：https://www.tiktok.com/@verge/video/7691760817120890125?lang=en]\n\n拉动集成式弹性拨杆，卡片就会呈扇形展开。想要更厚或更薄的钱包？按下正确的位置，它就能在无需工具的情况下拆开，让你换上可容纳3张、5张或7张卡片的“核心”组件；该组件能夹住卡片，防止它们掉出来。\n\n想要加入身份证卡槽、工作证卡槽、用于容纳更多卡片的松紧带，或者末端的钞票夹？你可以更换前后磁吸面板，改装成上述任意配件。如果不需要钱包磁吸在手机上，也可以把前后面板都换成超薄铝制盖板。\n\n你可以在本文嵌入的《Today I’m Toying With》视频中看到它的实际使用效果；如果你更喜欢，也可以在 YouTube 和 Instagram 上观看。\n\n我最喜欢的一点，是整套组件通过一种柔顺机构扣合在一起：承载卡片的核心组件采用塑料臂，起到弹簧的作用；当你将各个模块化盖板滑动拼接起来时，这些塑料臂会把一个小型锁定机构推入每个盖板的凹槽中。卡片放入后，会将塑料臂撑开，使钱包无法意外打开（除非你把整个钱包摔落）。整个设计非常巧妙。\n\n[图片说明：装上身份证卡套后，核心组件的安装方向使拨杆朝上而不是朝下。https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-005.jpg?quality=90&strip=all]\n\n即便我确实把钱包摔过几次（感谢 hugo 的建议！），它通常也没有散架。大多数时候，它只是稍微松开了一点。不过有一次我把它狠狠摔在混凝土地面上，确实造成了一次小“爆炸”：一半外壳弹了下来，两张卡片掉了出来，但所有东西都落在半径约两英尺的范围内。现在，这个钱包上留下了一个很大的凹痕。\n\n当然，它也有一些明显的缺点。虽然 OhSnap 宣称 Wallet 2“薄到不可思议”，但只有在最薄的3卡版本中，它才真正显得出人意料地轻薄；如果装上更厚、更重的 MagSafe 和 MagStack 面板（后者可以让你在其上吸附其他磁性配件），情况就不同了。\n\n但我不打算购买它，原因在于价格和重量。7卡版本会让我的手机感觉太重，增加127克重量。虽然我很乐意在几周时间里把3卡版本当作自己的钱包使用，但如果要购买带双磁铁套件的版本，在 Kickstarter 上需要花费61美元，零售价则为76美元。OhSnap 对配件的收费也高于我的预期——一个身份证盖板或钞票夹就要35美元！\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-004.jpg?quality=90&strip=all]\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-1-003.jpg?quality=90&strip=all]\n\n这一次，OhSnap 没能让我下单。不过，我倒是能想象把它买来送人。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "来源叙事重点：围绕OhSnap Wallet 2的模块化设计、免工具拆装、弹出式取卡结构及与手机磁吸配件的组合能力展开正面体验叙事，同时通过重量、价格、配件成本和跌落后的表现设置限制条件。文章使用“最酷”“很聪明”等作者主观评价，并明确区分了产品宣传的“极薄”与实际使用中的厚重差异。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T15:00:00.000Z",
+            "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-this-year-ac1da700-7eaad4dfb13b3379",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T13:00:00.000Z",
+        "pubTime": "2026-10-04 21:00",
+        "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "If stocks see another big swoon this year, investors already know why.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-04 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-llion-in-aid-for-ukraine-8ac12705bafb18ea",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Germany announces $1.46 billion in aid for Ukraine, including interceptor drones",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T14:06:36.000Z",
+        "pubTime": "2026-10-04 22:06",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxgjlz/germany_announces_146_billion_in_aid_for_ukraine/",
+        "imageUrl": "https://external-preview.redd.it/AkBq3_a95wAkQuwkPjTLnPovpgAhWwSzd14PNOl8nzY.jpeg?width=640&crop=smart&auto=webp&s=66afc0ad60d1b016c520bfd5aa281285984a12ae",
+        "fullContent": "submitted by /u/AdSpecialist6598 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-04 22:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxgjlz/germany_announces_146_billion_in_aid_for_ukraine/",
+            "publishedAt": "2026-10-04T14:06:36.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791107902797,
     "timeDisplay": "2026-10-04 17:58 (UTC+8)",
     "date": "2026-10-04",

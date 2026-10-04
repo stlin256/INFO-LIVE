@@ -45,14 +45,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **101** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **102** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-04 17:58 (UTC+8)
+- **最新归档时间**：2026-10-04 23:38 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-04 23:38 (UTC+8)" title="全球要闻情报简报 · 23:38" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-04 23:26 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】人工智能在《星际争霸》中无法击败人类，于是决定作弊：本主题的文章将添加到您的每日新闻摘要和主页信息流中。；【undefined】特朗普公布新的“超级智能部队”：正如承诺的那样，美国总统唐纳德·特朗普宣布组建新的“超级智能部队”。他表示，该部队将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。；【undefined】这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款：这款无需工具的模块化拨杆式钱包，是我贴在手机上最酷的一款。；【undefined】Riley Green用弓在犹他州山区射下一头巨型公麋鹿，填满了冰柜：Riley Green已经正式解决了接下来一段时间的食品采购问题。；【undefined】马库斯·马里奥塔在伦敦对阵小马队时膝部受伤，指挥官队又失去一名首发四分卫：华盛顿指挥官队在美国本土的比赛中失去了首发四分卫，而在周日又在英国的比赛中失去了首发四分卫，马库斯·马里奥塔在对阵印第安纳波利斯小马队时膝部受伤。；【undefined】冲绳民众就驻日美军涉嫌杀人案发出愤怒声音：围绕驻日美军涉嫌杀人案，日本政府4日向美国提出抗议。事发地冲绳民众发出愤怒声音，认为美军基地的存在与日本政府的不作为导致类似犯罪事件不断发生。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/merts-2122167445.html) <span class="news-meta-time">🕒 2026-10-04 23:24</span>
+- [The Verge (前沿数码科技)] [人工智能在《星际争霸》中无法击败人类，于是决定作弊](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) <span class="news-meta-time">🕒 2026-10-04 23:21</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html) <span class="news-meta-time">🕒 2026-10-04 23:00</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/oct/04/uk-justice-secretary-alex-norris-prisoners-tagged-england-wales) <span class="news-meta-time">🕒 2026-10-04 22:35</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-steep-decline-prison-population.html) <span class="news-meta-time">🕒 2026-10-04 22:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/merts-2122167174.html) <span class="news-meta-time">🕒 2026-10-04 23:22</span>
+:::
 :::timeline-item{start="2026-10-04 17:58 (UTC+8)" title="全球要闻情报简报 · 17:58" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-04 17:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,18 +656,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [Notion 如何借助 CRDT 处理并发编辑](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts) <span class="news-meta-time">🕒 2026-09-20 20:06</span>
 - [NASA News (深空探索与航天)] [每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/) <span class="news-meta-time">🕒 2026-09-20 12:05</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/reyndzhers-2118986398.html) <span class="news-meta-time">🕒 2026-09-20 21:03</span>
-:::
-:::timeline-item{start="2026-09-20 15:50 (UTC+8)" title="全球要闻情报简报 · 15:50" org="ARCHIVE"}
-**速报纪要：** 截至当前监控节点，抓取的外文信源正在进行转译与信息提取处理，暂无可供验证的实质事实细节更新。
-
-**关键信号：** 信源数据正在排队处理中，内容详情暂缺；当前周期内未捕获到已完成核实的事实实体与引用论据
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/vybory-2118891815.html) <span class="news-meta-time">🕒 2026-09-20 15:46</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.dropbox.com/terms2026) <span class="news-meta-time">🕒 2026-09-20 14:42</span>
-- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-20 15:00</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope) <span class="news-meta-time">🕒 2026-09-20 14:00</span>
-- [NASA News (深空探索与航天)] [每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/) <span class="news-meta-time">🕒 2026-09-20 12:05</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/pamfilova--2118891677.html) <span class="news-meta-time">🕒 2026-09-20 15:46</span>
 :::
 ::::
