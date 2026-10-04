@@ -1,5 +1,1564 @@
 [
   {
+    "timestamp": 1791143691080,
+    "timeDisplay": "2026-10-05 03:54 (UTC+8)",
+    "date": "2026-10-05",
+    "runId": "feed-20261004T194245448Z-wqsiyd",
+    "generatedAt": "2026-10-04T19:54:51.080Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 03:42",
+      "lead": "本轮抓取于 2026-10-05 03:42 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】ncdu：NCurses 磁盘使用情况分析工具（一个更新版分支）：Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析工具。它旨在帮助用户在无法使用完整图形环境的远程服务器上找出占用大量空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 致力于做到快速、简单且易于使用，并且应能在安装了 ncurses 的任何精简类 POSIX 环境中运行。",
+        "【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰：本话题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。",
+        "【undefined】梅尔茨希望德国人更加努力工作以支持乌克兰——俄直接投资基金首席执行官：莫斯科，10月4日。/塔斯社/。俄罗斯总统负责对外投资和经济合作的特别代表、俄罗斯直接投资基金（RDIF）首席执行官基里尔·德米特里耶夫表示，德国总理弗里德里希·梅尔茨显然希望德国人更加努力工作，以继续支持乌克兰。",
+        "【undefined】小奥德尔·贝克汉姆感叹自己短暂重返纽约巨人队：“我本该更清楚”：对于奥德尔·贝克汉姆来说，这次命运般重返纽约巨人队的经历，持续的时间虽短，却也曾令人愉快。上周球队将他裁掉时，他一直保持沉默，这似乎表明他对球队给予的机会以及这次重聚持续的时间心存感激。",
+        "【undefined】乡村歌星Ella Langley只想要一样东西——一头巨大、“壮实”的白尾鹿公鹿：显然，Ella Langley对自己的梦想狩猎有着非常具体的设想。",
+        "【undefined】克鲁兹与万斯的竞争升温：这名得州参议员暗示副总统“缺乏安全感”：得州联邦参议员特德·克鲁兹指责副总统J·D·万斯“缺乏安全感”。此前，万斯暗示这名得州共和党人已经在为2028年竞选总统铺路，导致两名可能争夺共和党总统候选人提名的人士之间的公开冲突升级。",
+        "【undefined】AI无法在《星际争霸》中击败人类，于是决定作弊：有关这一主题的文章将添加到您的每日电子邮件摘要和首页信息流中。",
+        "【undefined】特朗普公布新的“超级智能部队”：正如承诺的那样，美国总统唐纳德·特朗普宣布成立新的“超级智能部队”。他表示，该部队将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-10-05",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】ncdu：NCurses 磁盘使用情况分析工具（一个更新版分支）：Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析工具。它旨在帮助用户在无法使用完整图形环境的远程服务器上找出占用大量空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 致力于做到快速、简单且易于使用，并且应能在安装了 ncurses 的任何精简类 POSIX 环境中运行。；【undefined】良好的姑息治疗与协助死亡可以并行不悖｜读者来信：读者回应一篇关于迫切需要改革姑息治疗的文章；【undefined】“全民医保”在中期选举前仍是民主党的关键压力点：这一关于在美国实现全民医保的主张受到民主党左翼拥护，但中间派往往认为它会成为一种负担。"
+        },
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰：本话题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。；【undefined】梅尔茨希望德国人更加努力工作以支持乌克兰——俄直接投资基金首席执行官：莫斯科，10月4日。/塔斯社/。俄罗斯总统负责对外投资和经济合作的特别代表、俄罗斯直接投资基金（RDIF）首席执行官基里尔·德米特里耶夫表示，德国总理弗里德里希·梅尔茨显然希望德国人更加努力工作，以继续支持乌克兰。；【undefined】小奥德尔·贝克汉姆感叹自己短暂重返纽约巨人队：“我本该更清楚”：对于奥德尔·贝克汉姆来说，这次命运般重返纽约巨人队的经历，持续的时间虽短，却也曾令人愉快。上周球队将他裁掉时，他一直保持沉默，这似乎表明他对球队给予的机会以及这次重聚持续的时间心存感激。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 81,
+      "completedTasks": 81,
+      "succeeded": 44,
+      "degraded": 37,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 81,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 725568,
+      "byRole": {
+        "translator": {
+          "attempts": 56,
+          "degraded": 29,
+          "succeeded": 27
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "degraded": 6,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 81,
+          "degraded": 37,
+          "succeeded": 44
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-30-translator-2",
+      "article-32-translator-0",
+      "article-35-translator-0",
+      "article-35-translator-1",
+      "article-38-translator-0",
+      "article-40-translator-0",
+      "article-40-translator-1",
+      "article-41-translator-0",
+      "article-41-translator-1",
+      "article-45-translator-0",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:27.681Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.088Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:27.692Z",
+        "lastSuccessAt": "2026-10-04T19:42:28.696Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.202Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.407Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.254Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.400Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.486Z",
+        "lastSuccessAt": "2026-10-04T19:42:31.924Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.471Z",
+        "lastSuccessAt": "2026-10-04T19:42:31.610Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:31.984Z",
+        "lastSuccessAt": "2026-10-04T19:42:32.623Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:28.523Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.202Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.566Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.785Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.431Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.733Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.088Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.637Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.003Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.566Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:28.689Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.586Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:28.696Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.142Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:31.873Z",
+        "lastSuccessAt": "2026-10-04T19:42:32.447Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.936Z",
+        "lastSuccessAt": "2026-10-04T19:42:32.790Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:31.610Z",
+        "lastSuccessAt": "2026-10-04T19:42:31.984Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.618Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.033Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.187Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.271Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.142Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.254Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:28.386Z",
+        "lastSuccessAt": "2026-10-04T19:42:28.523Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:26.919Z",
+        "lastSuccessAt": "2026-10-04T19:42:28.386Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.906Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.153Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.825Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.012Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-04T19:42:29.637Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.904Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.094Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.111Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.583Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.586Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.683Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:31.924Z",
+        "lastSuccessAt": "2026-10-04T19:42:33.980Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.975Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.186Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.194Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.471Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.153Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.258Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.258Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.936Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:31.953Z",
+        "lastSuccessAt": "2026-10-04T19:42:32.685Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.271Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.431Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.623Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.111Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.785Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.904Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.205Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.729Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-04T19:42:30.094Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.033Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.486Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:26.917Z",
+        "lastSuccessAt": "2026-10-04T19:42:28.588Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.186Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.651Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:26.918Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.187Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.583Z",
+        "lastSuccessAt": "2026-10-04T19:42:32.355Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.733Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.975Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:28.588Z",
+        "lastSuccessAt": "2026-10-04T19:42:28.689Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.012Z",
+        "lastSuccessAt": "2026-10-04T19:42:30.205Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.683Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.825Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.651Z",
+        "lastSuccessAt": "2026-10-04T19:42:31.873Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:30.729Z",
+        "lastSuccessAt": "2026-10-04T19:42:31.953Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.407Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.618Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:29.400Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.623Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:26.902Z",
+        "lastSuccessAt": "2026-10-04T19:42:27.692Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:26.915Z",
+        "lastSuccessAt": "2026-10-04T19:42:27.681Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-04T19:42:26.916Z",
+        "lastSuccessAt": "2026-10-04T19:42:29.003Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-aeroport-2122194146-html-a166929ac54ae3e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Аэропорты Внуково и Домодедово принимают и отправляют рейсы по согласованию",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T19:39:52.000Z",
+        "pubTime": "2026-10-05 03:39",
+        "url": "https://ria.ru/20261004/aeroport-2122194146.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/08/08/1888812396_0:0:3132:1763_650x0_80_0_0_69107b37f226a37fe6196b69758edc72.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 03:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/aeroport-2122194146.html",
+            "publishedAt": "2026-10-04T19:39:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-big-deals-sale-october-69e0173d7c364d3a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The best early October Prime Day deals happening now",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T17:18:00.000Z",
+        "pubTime": "2026-10-05 01:18",
+        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day , which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT).\n\nOctober Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays.\n\nThe most recent update to this post on October 4th was a big one. There are several deals from Apple and Beats, plus Kindle-related ones from Amazon, to name a few. Previously, we added a couple of Bose speakers and Belkin charging products. This post will be updated ahead of October 6th as new deals become available.\n\nBelkin Charging Case Pro\n\nWhile it won’t charge your Switch 2 any faster than the cheaper Belkin option, the clever battery-meets-kickstand with a built-in display simply looks better.\n\n$99.99 $80.74 at Amazon (sand)\n\n$99.99 $84.99 at Belkin (sand)\n\nThe Nex Playground is a motion-controlled console that connects to your TV and uses a built-in camera and AI to track your movements as you play. Designed for ages five and up, it comes with games like Fruit Ninja and Whack-a-Mole Deluxe . You can download more games, including titles featuring popular characters like Elmo, with a paid Play Pass subscription.\n\n$299 $239 at Best Buy\n\nKindle Scribe Colorsoft\n\nThe Kindle Scribe Colorsoft is Amazon’s first note-taking e-reader with a color screen. It features an 11-inch display, a slimmer design, an improved interface, an updated stylus, and a new AI-powered search feature that can quickly summarize documents.\n\n$629.99 $479.99 at Amazon (32GB)\n\n$629.99 $479.99 at Best Buy (32GB)\n\n$679.99 $519.99 at Amazon (64GB)\n\nThe third-gen Kindle Scribe 32GB is even bigger than its 10.2-inch predecessor; it offers an 11-inch display with 300ppi resolution and the same great battery life that Kindles are known for.\n\n$499.99 $379.99 at Amazon\n\n$499.99 $379.99 at Best Buy\n\nThe seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review .\n\n$599 $499 at Amazon (128GB, Wi-Fi)\n\n$599 $449 at Best Buy (128GB, Wi-Fi)\n\n$699 $599 at Amazon (256GB, Wi-Fi)\n\nApple 13-inch MacBook Air (M5)\n\nPowered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review .\n\n$1299 $1099 at Amazon\n\n$1299 $1099 at Best Buy\n\nApple MacBook Air (15-inch, M5, 2026)\n\nThe 15-inch version of the M5 MacBook Air has better speakers and a slightly better GPU than the base 13-inch model.\n\n$1499 $1299 at Amazon\n\n$1499 $1299 at Best Buy\n\nDespite the familiar design, there were plenty of upgrades in the latest Studio Pro, including noise cancellation, transparency mode, and lossless USB-C audio. Here’s our review .\n\n$349.99 $149.95 at Amazon\n\n$349.99 $219.95 at Walmart\n\n$349.99 $149.99 at Best Buy\n\nBeats Powerbeats Pro 2\n\nThe latest Powerbeats Pro are a no-brainer for athletes. They pack fantastic sound and thumping bass, along with active noise cancellation, IPX4 water resistance, and heart rate monitoring. Read our review .\n\n$249 $179.95 at Amazon\n\n$249 $224.95 at Walmart\n\n$249.99 $179.99 at Best Buy\n\nA new version of the Fit Pro wireless earbuds, which are upgraded with a redesigned wing tip that Beats says is 20 percent more flexible, a smaller case, and other advantages.\n\n$199.99 $159.95 at Amazon\n\n$199.99 $159.99 at Best Buy\n\n$199.95 $159.95 at B&H Photo\n\nRoku’s latest Ultra streamer has built-in ethernet, a rechargeable voice remote with backlit buttons, and AirPlay 2 support. You can also control it with Amazon Alexa through a compatible smart speaker. The Roku Channel app lets you stream over 400 free live TV stations, plus exclusive movies like Weird: The Al Yankovic Story .\n\n$149.99 $99.99 at Amazon\n\n$149.99 $99.99 at Best Buy\n\n$149.99 $99.99 at B&H Photo\n\nRoku Streaming Stick Plus\n\nRoku’s Streaming Stick Plus supports 4K playback and features a slim design, so it won’t block nearby ports. It plugs straight into your TV’s HDMI port and can be powered by your TV’s USB port, so you don’t need an additional plug. It also comes with Roku’s Voice Remote, giving you hands-free control.\n\n$59.99 $34.99 at Amazon\n\n$59.99 $34.99 at Walmart\n\n$59.99 $34.99 at Best Buy\n\nKindle Colorsoft (16GB)\n\nThe 16GB Kindle Colorsoft is Amazon’s latest color e-reader. It features a 7-inch 300ppi screen, an adjustable frontlight, and a battery that can last up to eight weeks.\n\n$249.99 $189.99 at Amazon\n\n$249.99 $189.99 at Best Buy\n\n$249.99 $189.99 at Target\n\nKindle Paperwhite Signature Edition\n\nThe 2024 version of the Paperwhite is steeply discounted, and nearly identical to the latest model. The Signature Edition includes double the storage (to 32GB), no ads, and wireless charging. Read our review.\n\n$199.99 $169.99 at Amazon\n\n$199.99 $169.99 at Best Buy\n\n$199.99 $169.99 at Target\n\nWhile the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review .\n\n$269 $179 at Best Buy\n\nBose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review .\n\n$399 $279 at Best Buy\n\nBelkin Qi2.2 25W 2-in-1 foldable charging dock\n\nSlap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter.\n\n$100 $75 at Amazon (w/ Apple Watch support)\n\nBelkin Charging Case for Nintendo Switch 2\n\nThe case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker).\n\n$69.99 $59.49 at Amazon (in black or sand)\n\nAsus ProArt 27-inch 1440p USB-C monitor\n\nAn affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor.\n\nBelkin MagSafe 15W 2-in-1 wireless charging dock\n\nA slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories.\n\n$120 $59.99 at Amazon\n\nRing Battery Doorbell 2K\n\nAt more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C.\n\n$99.99 $39.99 at Amazon\n\n$99.99 $39.99 at Best Buy\n\nBissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner\n\nBissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range.\n\n$279.99 $209.99 at Amazon\n\n$279.99 $209.99 at Bissell\n\nRing Floodlight Cam 2K\n\nThis model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it.\n\n$199.99 $99.99 at Amazon\n\nRing Battery Doorbell 4K Pro\n\nThe highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges.\n\n$249.99 $149.99 at Amazon\n\n$249.99 $149.99 at Best Buy\n\nAmazon Fire HD 8 tablet\n\nThe eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it.\n\n$129.99 $79.99 at Amazon (4GB RAM, 64GB)\n\n$99.99 $54.99 at Best Buy (3GB RAM, 32GB)\n\nEcovacs Deebot X12 OmniCyclone\n\nThe X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs.\n\n$1499.99 $799 at Amazon\n\n$1499.99 $841.99 at Best Buy\n\n$1499.99 $842 at Ecovacs\n\nBlink Mini pan and tilt camera\n\nThe panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself.\n\n$39.99 $23.99 at Amazon\n\n$39.99 $23.99 at Best Buy\n\nAmazon Fire TV Stick 4K Plus\n\nThe latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus.\n\n$69.99 $37.99 at Amazon\n\n$69.99 $37.99 at Best Buy\n\nAmazon Fire TV Stick 4K Max (2023, latest model)\n\nAmazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch.\n\n$84.99 $44.99 at Amazon\n\n$84.99 $44.99 at Best Buy\n\nAmazon Fire TV Cube (2022, latest model)\n\nThe hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review .\n\n$199.99 $89.99 at Amazon\n\n$199.99 $89.99 at Best Buy\n\nAmazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review.\n\n$109.99 $54.99 at Amazon\n\n$109.99 $54.99 at Best Buy\n\n$109.99 $54.99 at Target\n\nThe Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box.\n\n$119.99 $79.99 at Amazon\n\n$119.99 $79.99 at Best Buy\n\n$119.99 $79.99 at Target\n\nAmazon Echo Dot (Fifth-Gen)\n\nAmazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review .\n\n$79.99 $39.99 at Amazon\n\n$79.99 $39.99 at Best Buy\n\n$79.99 $39.99 at Target\n\nAmazon Echo Show 11 (2025)\n\nThe Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review.\n\n$249.99 $149.99 at Amazon\n\n$249.99 $149.99 at Best Buy\n\n$249.99 $149.99 at Target\n\nThe new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices.\n\n$349.99 $249.99 at Amazon\n\n$349.99 $249.99 at Best Buy\n\n$349.99 $249.99 at Target\n\nEero Pro 6E tri-band router\n\nEero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review .\n\n$199.99 $149.99 at Amazon (single pack)\n\n$499.99 $374.99 at Best Buy (three-pack)\n\n$499.99 $374.99 at Amazon (three-pack)\n\nSamsung 32-inch Movingstyle smart display\n\nSimilar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery.\n\n$699.99 $499.99 at Amazon\n\nWith high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid.\n\n$1099.99 $899.99 at Amazon (for Prime members)\n\n$1099.99 $849.99 at Dreame (with free account)",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 149,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将十月Prime Day包装为假日购物季提前启动的重要节点，强调“现在即可购买”的折扣机会、热门品牌覆盖和部分产品的性价比；同时通过简短的产品体验判断突出值得购买的商品，并提示部分折扣可能在黑色星期五和网络星期一再次出现。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T17:18:00.000Z",
+            "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+          }
+        ]
+      },
+      {
+        "id": "story-t-savings-50-50-f0727f82-c3a164c455cff49c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:30:00.000Z",
+        "pubTime": "2026-10-05 03:30",
+        "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-05 03:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T19:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rcalixte-ncdu-3af14f43c577d81b",
+        "title": "ncdu：NCurses 磁盘使用情况分析工具（一个更新版分支）",
+        "originalTitle": "ncdu: NCurses Disk Usage (an updated fork)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:30:36.000Z",
+        "pubTime": "2026-10-05 03:30",
+        "url": "https://github.com/rcalixte/ncdu",
+        "imageUrl": null,
+        "fullContent": "Ncdu is a disk usage analyzer with an ncurses interface. It is designed to find space hogs on a remote server where you don't have an entire graphical setup available, but it is a useful tool even on regular desktop systems. Ncdu aims to be fast, simple and easy to use, and should be able to run in any minimal POSIX-like environment with ncurses installed.\n\nSee the ncdu 2 release announcement for information about the differences between this Zig implementation (2.x) and the C version (1.x).\n\nYou can use the Zig build system if you're familiar with that.\n\nThere's also a handy Makefile that supports the typical targets, e.g.:\n\nNCurses Disk Usage (an updated fork)",
+        "fullTranslation": "Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析工具。它旨在帮助用户在无法使用完整图形环境的远程服务器上找出占用大量空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 致力于做到快速、简单且易于使用，并且应能在安装了 ncurses 的任何精简类 POSIX 环境中运行。\n\n有关这一 Zig 实现（2.x）与 C 版本（1.x）之间差异的信息，请参阅 ncdu 2 发布公告。\n\n如果你熟悉 Zig 的构建系统，也可以使用它。\n\n此外，还有一个便捷的 Makefile，支持常见目标，例如：\n\nNCurses 磁盘使用情况分析工具（一个更新版分支）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 ncdu 这一磁盘占用分析工具的功能、使用场景和实现版本展开介绍，突出其在无图形界面的远程服务器上的实用性，以及“快速、简单、易用”和适配精简 POSIX 类环境的定位。文本还提示 2.x Zig 实现与 1.x C 实现存在差异，并提及 Zig 构建系统和 Makefile。上述“快速、简单、易用”等属于项目自我定位或叙事表述，不应视为独立测评结论。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T19:30:36.000Z",
+            "url": "https://github.com/rcalixte/ncdu"
+          }
+        ]
+      },
+      {
+        "id": "story-s-dark-annihilation-html-80ad02b70a62ed0e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:20:01.000Z",
+        "pubTime": "2026-10-05 03:20",
+        "url": "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-sets-new-limits.jpg",
+        "fullContent": "Dark matter could be a type of matter in the universe that does not emit, absorb or reflect detectable light and appears to interact very weakly with regular matter. Although physicists have observed gravitational effects attributed to dark matter, they have not yet been able to determine what it is made of.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html",
+            "publishedAt": "2026-10-04T19:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4-vybory-2122193973-html-83fe515aade5b5fc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ЦИК Боснии и Герцеговины заявил о низкой явке на всеобщих выборах",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T19:39:09.000Z",
+        "pubTime": "2026-10-05 03:39",
+        "url": "https://ria.ru/20261004/vybory-2122193973.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 03:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/vybory-2122193973.html",
+            "publishedAt": "2026-10-04T19:39:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--said-it-it-must-be-true-5a1ea27ad999afed",
+        "title": "新泽西州前副州长利用人工智能声称自己没有性骚扰",
+        "originalTitle": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T16:16:04.000Z",
+        "pubTime": "2026-10-05 00:16",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nDale Caldwell resigned over a sexual harassment investigation, but insists AI says he’s innocent.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nNew Jersey’s lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ PBS.\n\nCaldwell claims he’s being unfairly targeted, and multiple AI agents back that up. He told host Rob Nelson that he “AIed” the report on the investigation “from multiple AI platforms.” “I put it through AI,” he said, “and it said 59 times, it [sic] said, ‘What would your findings be?’ There was no instance in any of the AIs that said there would be a finding of sexual harassment.”\n\nAI chatbots are notoriously sycophantic and often tell users what they want to hear. And it seems highly unlikely that Caldwell would want to hear an AI confirm findings that he engaged in sexual harassment.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "本话题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n\n戴尔·考德威尔因性骚扰调查辞职，但坚称人工智能表明他是清白的。\n\n这位作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n\n查看特伦斯·奥布莱恩的所有文章\n\n新泽西州副州长戴尔·考德威尔于9月25日被迫辞职，此前一项调查认定他曾对一名工作人员实施性骚扰，并多次违反道德规范。这位如今已卸任的副州长近日频繁接受媒体采访，试图为自己洗清名誉。但他在接受新泽西州公共电视台（NJ PBS）采访时采取了一种格外奇怪的做法。\n\n考德威尔声称自己遭到了不公正的针对，而多个人工智能代理为这一说法背书。他告诉主持人罗布·纳尔逊，自己“用多个人工智能平台对调查报告进行了AI处理”。他说：“我把它交给了人工智能，”人工智能“59次”回答道：“你认为调查结果会是什么？”他说，在所有人工智能的回答中，没有一次表示调查结果会认定存在性骚扰。\n\n聊天机器人一向以谄媚著称，经常会告诉用户他们想听的话。而且，考德威尔似乎不太可能希望听到人工智能确认他实施了性骚扰这一调查结论。\n\n一份汇集最重要新闻的免费每日摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "文章称，新泽西州副州长戴尔·考德威尔于9月25日被迫辞职。",
+          "文章称，一项调查认定考德威尔对一名工作人员实施性骚扰，并多次违反道德规范。",
+          "来源叙事重点：将考德威尔的申辩置于人工智能可能迎合用户、不能替代事实调查的框架下，突出其反复向多个人工智能平台询问后获得有利回答这一做法的反常与讽刺意味。文章重点不是复核性骚扰调查本身，而是质疑把聊天机器人输出当作无罪证据的合理性。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T16:16:04.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4f23-a6fe-63f39c52c275-f9ed79a57b3e8cd7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jewish groups attack Greens after anti-Zionism motion passes",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:20:50.000Z",
+        "pubTime": "2026-10-05 03:20",
+        "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F923395b0-317b-40ca-a2b7-856d5141ee70.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T19:20:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--blog-2026-http-over-ssh-3f60dc189f199545",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Self-hosted HTTP tunnels with SSH and nginx",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:08:58.000Z",
+        "pubTime": "2026-10-05 03:08",
+        "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+        "imageUrl": null,
+        "fullContent": "A friend wants to proofread your work-in-progress blog post, but its preview only runs on localhost:8080. Several tools can help. Some run as a commercial service, like ngrok or Cloudflare Quick Tunnels. Some are self-hostable but require a specific client, like frp or localtunnel. Some only require a plain SSH client but rely on a specific SSH server, like sish. Let’s implement a self-hosted solution with only OpenSSH and nginx!\n\nFirst, we forward connections from a port on a remote server to your local service:\n\nWhen you specify 0 as the remote port, the server allocates a free port. Then, we configure nginx to proxy requests from https://p41535.ssh.luffy.cx to http://127.0.0.1:41535:\n\nWe also need to add DNS records for *.ssh.luffy.cx and get a wildcard certificate through Let’s Encrypt:\n\nacme.luffy.cx is a zone hosted on Route 53. I use it for ACME DNS-01 challenges, both for wildcard certificates and for domains served by several web servers. In my case, NixOS gets the certificates automatically.\n\nThe port is the only “secret”1 keeping the content confidential. Other forwarding solutions add a random string to the domain name to prevent an intruder from enumerating the possible values.\n\nSince the kernel allocates it from the local port range, its entropy is low. Moreover, we lose one more bit because the kernel favors odd ports when it picks a random free port.\n\nThanks to ngx_http_secure_link_module, we can secure this setup a bit. This module computes a hash2 over a set of values, including a secret, and compares it with the hash from the request. The hash is base64-encoded, so we cannot put it in the domain name, which is case-insensitive. Instead, we put it in the URL as a username, along with its expiration timestamp:3\n\nThe module relies on MD5. Its security is weak but good enough for this use. ❦\n\nWe need an expiration date because a later session could reuse the port, and we have no way to detect this case. ❦\n\nThe client sends the username to the server with HTTP basic authentication. This works with most HTTP clients, including curl. Nginx exposes the username in the $remote_user variable. The module expects the hash and the expiration timestamp separated by a comma. We use a map directive to extract the two parts from $remote_user and join them with a comma.4 We also give the module the string to hash. It contains the expiration timestamp, the port, and a secret:\n\nThe username could use a comma directly instead of a double dash. But some applications do not recognize the URL correctly, making it harder to share. ❦\n\nThe module returns the status of the check in the $secure_link variable:\n\nIf the hash is incorrect or missing, we return a 401 error with a WWW-Authenticate header to ask for credentials. If the link has expired, we return a 410 error. We remove the Authorization header before forwarding the request and add a few directives to proxy WebSocket connections. Here is the complete configuration:5\n\nThis configuration exposes any TCP port listening on 127.0.0.1 or 0.0.0.0 to anyone with the secret, bypassing most firewall rules. You could strengthen it by limiting the server_name regex to the ephemeral port range. ❦\n\nI think you are now asking yourself the obvious question: “How should I generate the hash?” Easy peasy!\n\nWell, I suppose you are now saying: “Vincent, this is not very convenient! I’ll stick with ngrok if you don’t mind.” Okay, I hear you. Let’s write a helper script.\n\nThe main difficulty is finding the ephemeral port that OpenSSH allocates, as it does not appear in any environment variable.6 To work around this obstacle, we look for the ancestor sshd-session processes:7\n\nOne SSH session can contain several tunnels, and the client can add or remove them at any time. This is unlike tun device forwarding (ssh -w), which gets its own SSH_TUNNEL environment variable. ❦\n\nSince OpenSSH 9.8, sshd-session is the name of the helper handling the session. With older versions, look for sshd instead. ❦\n\nThen, we get the listening ports associated with these sshd-session processes:8\n\nWe need sudo because the sshd-session process dropped its privileges. The kernel then marks it as not dumpable, and its /proc/PID/fd directory belongs to root. Without access to this directory, ss cannot find which process owns a socket. ❦\n\nFinally, we display the URLs and keep the session open:\n\nI install this script as http-over-ssh on the server and add this entry to my ~/.ssh/config:\n\nWith this solution, I only rely on OpenSSH and nginx, two pieces of software already running on this server. One short command gives me a self-hosted tunnel and a URL to share. To try it, grab the complete helper script, which includes a few minor improvements. If you run NixOS, as any person of taste would, have a look at my http-over-ssh.nix instead. ❄️",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“仅依赖现有 OpenSSH 和 nginx、无需专用客户端”的便利性展开实现说明，同时明确指出端口枚举、低熵、链接复用、MD5 安全性较弱，以及配置可能暴露本机 TCP 服务等风险。文章重点是可复现的配置、辅助脚本和 NixOS 集成，而不是与 ngrok、Cloudflare Quick Tunnels、frp 等方案进行系统性测评。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T19:08:58.000Z",
+            "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh"
+          }
+        ]
+      },
+      {
+        "id": "story-aturing-richard-spolzino-daace20f47f2cb1b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:10:59.000Z",
+        "pubTime": "2026-10-05 03:10",
+        "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+        "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg?w=1365",
+        "fullContent": "&#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221;\n\nThat&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At NASA&#8217;s Langley Research Center in Hampton, Virginia, Spolzino works within Moon Base&#8217;s mission architecture and systems interoperability effort, helping identify what NASA still doesn&#8217;t know about the Moon and Mars, and making sure that missing information gets found before it becomes a problem.\n\nAerospace engineer Richard Spolzino\n\n&#8220; For me, it kept coming back to where can I have the most impact? Where can my work touch the most things? &#8220;\n\nFrom History to Aerospace\n\nSpolzino didn&#8217;t set out to end up here.\n\nHe started college as a history major. He switched to a physics track at Santa Clara University, thinking he&#8217;d end up in astrophysics. A research stint at Lick Observatory studying interstellar dust polarization taught him two things: the work was fascinating and, &#8220;I don&#8217;t think the staying-up-all-night thing is for me,&#8221; he says.\n\nSpolzino (on right) at Lick Observatory with his physics research adviser Dr. Kristin Kulas (left, front) and then-grad student Dr. Ilija Medan (back).\n\nCredit: Richard Spolzino\n\nAfter graduation, he started down the path of Officer Candidate School in the Navy, hoping to fly jets. It didn&#8217;t pan out, and that detour led him to a graduate program at the University of Houston, combining aerospace engineering and space architecture — not the habitat-design kind of architecture people usually picture, but the systems-level kind, where a lunar oxygen plant connects to the rovers that feed it, which connect to the processor, which connects to the user drawing down the resource. &#8220;I was always more attracted to how all the pieces work together than to any single piece,&#8221; he says.\n\nAsk Spolzino if he dreamed of working at NASA, and the honest answer is no.\n\n&#8220;I really admire people who&#8217;ve had that drive their whole life,” he says. &#8220;For me, it kept coming back to where can I have the most impact? Where can my work touch the most things?&#8221; A University of Houston program with strong ties to Johnson Space Center put NASA on his radar alongside other options in industry and government. What ultimately drew him in wasn&#8217;t the agency&#8217;s name, it was the scope of the problems and the direct line he saw to senior decision-makers shaping the return to the Moon.\n\nThat&#8217;s also, he adds, exactly why NASA is worth considering for people who aren&#8217;t sure it&#8217;s their calling yet. The culture rewards people willing to take on more than their assigned lane and gives early-career employees room to grow into problems bigger than their job description, something he says he might not have found moving up more slowly in industry.\n\nDocumenting the Missing Piece\n\nSpolzino&#8217;s day-to-day work centers on a deceptively simple idea: the data gap.\n\n&#8220;You can think of it as synonymous with a knowledge gap,&#8221; he explains. &#8220;It&#8217;s a way of documenting the thing we don&#8217;t know.&#8221; Take the geotechnical properties of lunar regolith — moon dust, essentially, but the specifics matter enormously. How much weight can it bear? What&#8217;s its shear strength? Answering those questions shapes everything from how far a rover can safely drive to whether a habitat&#8217;s foundation will hold.\n\nA data gap lays that out formally: what we don&#8217;t know, why it matters, what we currently have that falls short, and, critically, a specific measurable target industry and international partners can aim for. &#8220;Once we&#8217;ve identified what&#8217;s missing,” he says, “our partners can look at that list and see exactly where their contribution would be valuable.&#8221;\n\nHis team started with roughly 25 published data gaps last year. They&#8217;re on track for 60 by the end of this year.\n\nFrom Concept to Cargo\n\nThe concept only matters if it changes decisions, and Spolzino cites two recent examples where it did.\n\nWhen the lunar lander company now known as Voyager (formerly Astrobotic) was preparing its upcoming Griffin-1 mission, the team didn&#8217;t help them figure out what instruments to fly since that was already locked in. Instead, Spolzino&#8217;s team helped them prioritize what data gets sent home first through a communication pipeline that can&#8217;t carry everything at once. &#8220;How do you prioritize all the things you say you want, and what gets sent back through that constrained pipeline?&#8221; he asks.\n\nArtist’s rendering of Astrobotic’s Griffin Mission One lunar lander delivering the FLIP rover to the lunar surface. The mission is part of NASA’s Commercial Lunar Payload Services (CLPS) initiative supporting future lunar exploration and technology demonstrations.\n\nOn the other side of the pipeline, Spolzino has spent recent months evaluating proposed instruments (spectrometers, sample collection tools, tech demonstrations) against the published data gaps to help leadership decide what&#8217;s worth flying. Some proposals map cleanly onto a documented need. Others don&#8217;t align with anything NASA has said it&#8217;s missing. &#8220;That&#8217;s used to filter down what gets pushed forward as a real candidate,&#8221; he says. Industry partners have taken notice, and leadership now asks companies pitching new instruments to show how their proposal maps to a data gap before the conversation goes any further.\n\nFiguring It Out Takes Work\n\nSpolzino admits the job reshaped an assumption he carried out of graduate school — that NASA had everything figured out, and that the agency&#8217;s reputation meant every question already had an answer somewhere inside its walls.\n\nThree years in, he sees it differently. &#8220;Keeping the kind of reputation NASA has takes constant, deliberate work,” he says. “Everyone&#8217;s genuinely trying to pull in the right direction, but it&#8217;s not automatic.&#8221; That realization was clarifying for him. The agency runs on people figuring things out in real time, which means there&#8217;s room for someone early in their career to contribute meaningfully, rather than just executing someone else&#8217;s playbook.\n\nHis advice to students considering NASA is practical, not sentimental: Grades matter less than people think. &#8220;The projects you work on, and the results of that work, are what people look at first,&#8221; he says. His advice is to join clubs, take on real projects, and build something. “It’s less about credentials and more about giving yourself something to show up with.”\n\nOn Spolzino&#8217;s Sci-Fi Shelf\n\nThe Three-Body Problem trilogy by Liu Cixin\n\nSpolzino was already deep into the second book, The Dark Forest , on a flight from New York to Houston when the plane was diverted to San Antonio. &#8220;I did not care that I was three or four hours late,&#8221; he says. &#8220;I had that book, and I was just devouring it.&#8221;\n\nAn older game, but a formative one. Spolzino credits it with cementing his interest in space before college even started. &#8220;It&#8217;s a space program simulator where you build rockets piece by piece, and the physics are simplified but accurate enough that you&#8217;re doing a lot of the same math as an actual mission design tool,&#8221; he says. &#8220;That really had a huge impact on me figuring out that space was the thing I wanted to do.&#8221;\n\nPart of the Systems Analysis and Concepts Directorate at NASA&#8217;s Langley Research Center.\n\nLearn more about our work by visiting our website.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以Richard Spolzino的职业转向和日常工作为主线，突出NASA如何通过识别月球与火星探测中的“数据缺口”来支持任务规划、仪器筛选、数据传输优先级和商业伙伴协作。文章同时塑造NASA为开放、允许年轻员工承担重要问题、仍在持续解决复杂挑战的组织，并借此传递职业发展和加入NASA的吸引力。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T19:10:59.000Z",
+            "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+          }
+        ]
+      },
+      {
+        "id": "story-04-sochi-2122193859-html-20e03e6ae0106674",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Сочи сняли временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T19:35:09.000Z",
+        "pubTime": "2026-10-05 03:35",
+        "url": "https://ria.ru/20261004/sochi-2122193859.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/01/09/1592395700_0:311:2982:1988_650x0_80_0_0_63b026899969411028a59ff0fc88ac48.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 03:35 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/sochi-2122193859.html",
+            "publishedAt": "2026-10-04T19:35:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ity-reining-in-robotaxis-443bfe9a215f7a99",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "TechCrunch Mobility: Reining in robotaxis",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T16:05:00.000Z",
+        "pubTime": "2026-10-05 00:05",
+        "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+        "imageUrl": null,
+        "fullContent": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-05 00:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+            "publishedAt": "2026-10-04T16:05:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--finally-retire-369abcf9-d84ab72b2f49dd16",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:08:00.000Z",
+        "pubTime": "2026-10-05 03:08",
+        "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-05 03:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T19:08:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-2026-go-netip-addrto6-e838451548a01982",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T18:49:55.000Z",
+        "pubTime": "2026-10-05 02:49",
+        "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
+        "imageUrl": null,
+        "fullContent": "netip.Addr features an Unmap() method returning the unwrapped IPv4 contained in an IPv4-mapped IPv6 address: from ::ffff:203.0.113.10 or ::ffff:cb00:710a, it returns 203.0.113.10.1 There is no Map() or To6() method for the reverse direction. Such a method is trivial to implement, but Go maintainers have rejected it on the grounds that users should write netip.AddrFrom16(ip.As16()) and let the compiler optimize it.2 Today, this pattern is eight times slower than a native method. How can we teach the compiler to optimize this sequence?\n\nIPv4-mapped IPv6 addresses let you handle only IPv6 addresses in your code and keep conversions at a few well-defined boundaries. I use them in Akvorado. ❦\n\nThis is not strictly equivalent. The zero value becomes :: while it would make more sense to leave it untouched. ❦\n\nLet’s explore three ways to implement the map semantics for netip.Addr. My favorite is to add it to the Go standard library. Go maintainers prefer a small external helper chaining netip.AddrFrom16() and netip.Addr.As16(), hoping the compiler eventually optimizes it. The unsafe package opens a third path, with the same performance as the first solution.\n\nInternally, netip.Addr stores any IP address as a 128-bit value with an extra field z to encode the family and the zone:\n\nAddrFrom4() encodes an IPv4 address as an IPv4-mapped IPv6 address and sets z to the unique value z4:\n\nUnmap() turns an IPv4-mapped IPv6 address into an IPv4 address by setting the z field to z4:\n\nImplementing the reverse direction inside the Go standard library is trivial: we set the z field to z6noz if the address is IPv4.\n\nWe can’t access the z field from outside the net/netip package. Instead, we build a small helper around the netip.AddrFrom16(ip.As16()) pattern:\n\nAnother solution uses the unsafe package to alter the Addr struct through a proxy with the same memory layout:3\n\nTo avoid catastrophic bugs when netip.Addr’s layout changes, you must add tests to detect it. This is more dangerous if you put this code in a package. Either ask users to run the tests themselves, or detect the change at run time and panic. Hiding this optimization behind a build tag would make users aware of this potential trap. ❦\n\nOn my computer, with Go 1.27.1, the standard library solution costs 0.88 ns per operation, while the solution favored by Go maintainers costs 7.14 ns. The unsafe solution matches the performance of the first one.\n\nLet’s check the assembly code the compiler generates for each solution.4 The one built into the standard library looks like this:5\n\nI produced the assembly code with GOTOOLCHAIN=go1.26.8 GOAMD64=v3 ./go-asm '\\.asm' from the companion repository, then edited it a bit to keep this article from turning into an endless rabbit hole. Due to an unfortunate sequence of events, we switch between versions: Go 1.27 introduced a regression that blurs the point of this article. ❦\n\nThe function is short enough for the compiler to inline it, so the assembly code may vary depending on the surrounding code. ❦\n\nThe unsafe solution looks almost the same:\n\nThe helper solution has far more instructions. To understand why, let’s look at the code for As16() and AddrFrom16(). They are short enough for the compiler to inline them.\n\nWe can already guess the pattern to optimize: the code packs the IP address into an array, copies it, then unpacks it. If we inline the Go code by hand, we get:\n\nAs humans, we can mentally derive the optimized form:\n\nUnfortunately, as of Go 1.26.8, the compiler is not smart enough to do the same:\n\nMOVBEQ requires GOAMD64=v3, matching the x86-64-v3 microarchitecture from 2013. Otherwise, the compiler translates BEPutUint64() to BSWAPQ+MOVQ and BEUint64() to MOVQ+BSWAPQ. ❦\n\nThe Go compiler has several phases:\n\nMy first idea is to replace occurrences of netip.AddrFrom16(ip.As16()) with netip.Addr{addr: ip.addr, z: netip.z6noz} as early as possible, during the “noding” process. Before that, the type checking phase prevents us from accessing unexported struct fields.\n\nGo 1.27 introduced a convenient debug option to dump the IR of a function at interesting points during compilation:\n\nIn the HTML file, the first column shows the IR as it comes out of noding:\n\nIn the body of the if statement, we spot the calls to the method netip.Addr.As16() and to the function netip.AddrFrom16(). Our goal is to patch them with a struct literal:\n\nIn noder’s reader.go, the expr() method builds the IR tree for an expression. At the end of the exprCall case, we add a call to a rewriteAddrFrom16As16() function. It takes the current node and returns the struct literal on success, or nil if the rewrite is not possible. First, we check that we have the expected pattern: a call to the netip.AddrFrom16() function with a call to the netip.Addr.As16() method as its only argument:\n\nThen, we fetch netip.z6noz:\n\nAnd we build the struct literal:\n\nHave a look at the complete patch.7 We can test it with the following commands:\n\nWhen the call is used as a statement, a struct literal alone is invalid. The patch then turns it into _ = netip.Addr{…}. ❦\n\nThe generated code for the helper is now the shortest possible version!\n\nGo maintainers are unlikely to accept this change. It relies on the internal structure of net/netip.Addr. It’s an ugly hack in the noder, whose job is to faithfully translate the type-checked AST into the IR. And it’s harder to maintain than adding a To6() method.\n\nThe right place for such an optimization is the generic SSA phase. One of the last machine-independent passes is memcombine. With the appropriate debug flag, the compiler dumps the SSA form after this pass:8\n\nThe compiler can also write an HTML file with the result of each pass:\n\nThe result of the memcombine pass follows the same structure as the assembly code for AddrTo6Safe() we looked at earlier: two stores, one move, and two loads we would like to optimize away.\n\nEach line features a value identifier (v442), an operation with its type (Bswap64 <uint64>), and its arguments (v490).9 Values are the basic building blocks of SSA and are defined exactly once. Square brackets enclose integer parameters ([8]) and curly braces contain auxiliary arguments ({netip.addr}). Operations writing to memory produce a new memory state. Every memory operation takes the current state as its last argument, which keeps them in order.\n\nSource line numbers in parentheses follow value identifiers, but I removed them from the examples. The SSA form also features branches, but we don’t need them to understand our optimizations. ❦\n\nLet’s focus on output.addr.lo, aka v39:\n\nTo simplify this code, we could apply three rewriting rules:\n\nThe first one adds a shortcut when loading through a move: (Load (OffPtr [o] p) (Move p src mem)) => (Load (OffPtr [o] src) mem). This matches v174 with its arguments v415 and v286 and creates a new value v600:\n\nThe second one simplifies a load following a store: (Load p (Store p x _)) => x. The load is forwarded: the stored value replaces it and no memory access remains. It matches v174. It notices that v600 and v173 are the same address and replaces v174 with a copy of v442:\n\nThe last step cancels the two byte swaps: (Bswap64 (Bswap64 x)) => x. v39 becomes a copy of v490:\n\nIf we ignore the values not needed to compute v39, only this SSA form remains:\n\nLet’s switch to output.addr.hi, aka v299:\n\nTo optimize it away, we also apply three rewriting rules:\n\nThe first one also adds a shortcut when loading through a move, but without an offset: (Load p (Move p src mem)) => (Load src mem). This rewrites v416 to use arguments from v286:\n\nThe second rule forwards a value stored one step earlier, skipping over a store to another address: (Load p (Store q _ (Store p x _))) => x. This matches v416: x is v542, p is v22 (&a16), q is v173 (&a16[8]), and p and q do not overlap for uint64.\n\nThe third rule cancels two byte swaps: (Bswap64 (Bswap64 x)) => x. v299 becomes a copy of v502:\n\nIf we remove the values not used to compute v299, we get this SSA form:\n\nMost of these rules already exist in generic.rules. They use conditions to validate their context: ssa.IsSamePtr() for the same address, ssa.Disjoint() for addresses that do not overlap. The rule forwarding a stored value to a load already exists with three variants looking through several other stores. Here are the two we need:\n\nGo 1.27 added the rule loading through a move with CL 748200 to fix issue #77720:\n\nIt lacks a variant without an offset:\n\nThere is no generic rule to cancel two byte swaps, but the AMD64 lowering pass includes this rule:\n\nAfter switching to Go’s development branch and adding the missing rule, the generated assembly code is worse than with Go 1.26.8, even though our additional rule slightly improves the situation at the end:\n\nThe rule loading through a move, added in Go 1.27, introduced this regression.\n\nLet’s not give up now! In reality, the rewriting rules run before memcombine, notably in the late opt pass. At this point, the inlined versions of BEPutUint64() and BEUint64() still expand to sixteen byte stores and sixteen byte loads, matching their source code:\n\nLet’s follow two bytes of output.addr.lo: addr[15] and addr[11]. Here is a simplified SSA form before late opt:\n\nThe first rule loads through the move: (Load (OffPtr [o] p) (Move p src mem)) => (Load (OffPtr [o] src) mem). It matches both loads, which now read a16 with the memory state before the copy:\n\nThe second rule shortcuts a load following a store: (Load p (Store p x _)) => x. It matches v435, as v282 stores a16[15]. It does not match v481: v235 stores a16[11] four stores earlier in the chain, while the variants of this rule look through three stores at most.\n\nThe same happens to the other bytes: the rule forwards the four bytes stored last, a16[12] to a16[15]. The twelve other loads now read a16 instead of addr.\n\nBEUint64() becomes a chain of Or64, each one adding a byte shifted into place. memcombine is a pass written in Go, not a set of rewrite rules. It starts from the last Or64 of the chain and collects up to eight terms. If each term is a byte load, extended to 64 bits and shifted, and if the eight loads read consecutive addresses from the same pointer with the same memory state, it replaces the whole chain with a single 64-bit load and a byte swap. Otherwise, it tries again with four, then two terms, and from each intermediate Or64. Here is the loop checking each term in a simplified version of combineLoads():\n\nFor output.addr.hi, the eight loads read a16 with the same memory state v282:\n\nmemcombine merges them into one load and a swap:\n\nFor output.addr.lo, here is the chain memcombine sees after late opt:\n\nFrom v520, four of the eight terms are forwarded bytes, not loads from memory, and memcombine can’t combine them. It doesn’t merge the four remaining loads either, as they sit on top of the forwarded bytes.\n\nIn summary, the rewriting rules run too early to be effective. A quick workaround exists: run an earlier round of memcombine before late opt. After this change, the generated code for the helper is back to the shortest possible version:\n\nAnd the benchmark confirms it! ✌️\n\nI think Go maintainers would reject this change because of the additional memcombine pass. Instead, I plan to publish this blog post and bring up the subject again as a follow-up to issue #54365. Either the sheer complexity and the Go 1.27 regression convince the maintainers that adding a To6() method is simpler and more efficient, or they advise me on how to move forward. Either way, digging into this subject taught me a lot about the Go compiler! ⚙️\n\nI opened issue #81994 to propose Addr.To6(). Give it a 👍 if you want it in Go!",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 70,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 netip.Addr 将 IPv4 表示为 IPv4-mapped IPv6 的反向转换性能展开，比较标准库新增方法、外部辅助函数和 unsafe 实现三种方案，并通过汇编、SSA 和编译器重写规则分析性能差异。叙事倾向于认为标准库提供直接方法最清晰、性能最好，同时主张应在通用 SSA 优化阶段解决编译器未能消除的中间内存操作；作者也承认其在编译器早期阶段加入特定模式重写不太可能被维护者接受。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T18:49:55.000Z",
+            "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-aeroport-2122194146-html-a166929ac54ae3e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Аэропорты Внуково и Домодедово принимают и отправляют рейсы по согласованию",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T19:39:52.000Z",
+        "pubTime": "2026-10-05 03:39",
+        "url": "https://ria.ru/20261004/aeroport-2122194146.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/08/08/1888812396_0:0:3132:1763_650x0_80_0_0_69107b37f226a37fe6196b69758edc72.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 03:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/aeroport-2122194146.html",
+            "publishedAt": "2026-10-04T19:39:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-big-deals-sale-october-69e0173d7c364d3a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The best early October Prime Day deals happening now",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T17:18:00.000Z",
+        "pubTime": "2026-10-05 01:18",
+        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day , which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT).\n\nOctober Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays.\n\nThe most recent update to this post on October 4th was a big one. There are several deals from Apple and Beats, plus Kindle-related ones from Amazon, to name a few. Previously, we added a couple of Bose speakers and Belkin charging products. This post will be updated ahead of October 6th as new deals become available.\n\nBelkin Charging Case Pro\n\nWhile it won’t charge your Switch 2 any faster than the cheaper Belkin option, the clever battery-meets-kickstand with a built-in display simply looks better.\n\n$99.99 $80.74 at Amazon (sand)\n\n$99.99 $84.99 at Belkin (sand)\n\nThe Nex Playground is a motion-controlled console that connects to your TV and uses a built-in camera and AI to track your movements as you play. Designed for ages five and up, it comes with games like Fruit Ninja and Whack-a-Mole Deluxe . You can download more games, including titles featuring popular characters like Elmo, with a paid Play Pass subscription.\n\n$299 $239 at Best Buy\n\nKindle Scribe Colorsoft\n\nThe Kindle Scribe Colorsoft is Amazon’s first note-taking e-reader with a color screen. It features an 11-inch display, a slimmer design, an improved interface, an updated stylus, and a new AI-powered search feature that can quickly summarize documents.\n\n$629.99 $479.99 at Amazon (32GB)\n\n$629.99 $479.99 at Best Buy (32GB)\n\n$679.99 $519.99 at Amazon (64GB)\n\nThe third-gen Kindle Scribe 32GB is even bigger than its 10.2-inch predecessor; it offers an 11-inch display with 300ppi resolution and the same great battery life that Kindles are known for.\n\n$499.99 $379.99 at Amazon\n\n$499.99 $379.99 at Best Buy\n\nThe seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review .\n\n$599 $499 at Amazon (128GB, Wi-Fi)\n\n$599 $449 at Best Buy (128GB, Wi-Fi)\n\n$699 $599 at Amazon (256GB, Wi-Fi)\n\nApple 13-inch MacBook Air (M5)\n\nPowered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review .\n\n$1299 $1099 at Amazon\n\n$1299 $1099 at Best Buy\n\nApple MacBook Air (15-inch, M5, 2026)\n\nThe 15-inch version of the M5 MacBook Air has better speakers and a slightly better GPU than the base 13-inch model.\n\n$1499 $1299 at Amazon\n\n$1499 $1299 at Best Buy\n\nDespite the familiar design, there were plenty of upgrades in the latest Studio Pro, including noise cancellation, transparency mode, and lossless USB-C audio. Here’s our review .\n\n$349.99 $149.95 at Amazon\n\n$349.99 $219.95 at Walmart\n\n$349.99 $149.99 at Best Buy\n\nBeats Powerbeats Pro 2\n\nThe latest Powerbeats Pro are a no-brainer for athletes. They pack fantastic sound and thumping bass, along with active noise cancellation, IPX4 water resistance, and heart rate monitoring. Read our review .\n\n$249 $179.95 at Amazon\n\n$249 $224.95 at Walmart\n\n$249.99 $179.99 at Best Buy\n\nA new version of the Fit Pro wireless earbuds, which are upgraded with a redesigned wing tip that Beats says is 20 percent more flexible, a smaller case, and other advantages.\n\n$199.99 $159.95 at Amazon\n\n$199.99 $159.99 at Best Buy\n\n$199.95 $159.95 at B&H Photo\n\nRoku’s latest Ultra streamer has built-in ethernet, a rechargeable voice remote with backlit buttons, and AirPlay 2 support. You can also control it with Amazon Alexa through a compatible smart speaker. The Roku Channel app lets you stream over 400 free live TV stations, plus exclusive movies like Weird: The Al Yankovic Story .\n\n$149.99 $99.99 at Amazon\n\n$149.99 $99.99 at Best Buy\n\n$149.99 $99.99 at B&H Photo\n\nRoku Streaming Stick Plus\n\nRoku’s Streaming Stick Plus supports 4K playback and features a slim design, so it won’t block nearby ports. It plugs straight into your TV’s HDMI port and can be powered by your TV’s USB port, so you don’t need an additional plug. It also comes with Roku’s Voice Remote, giving you hands-free control.\n\n$59.99 $34.99 at Amazon\n\n$59.99 $34.99 at Walmart\n\n$59.99 $34.99 at Best Buy\n\nKindle Colorsoft (16GB)\n\nThe 16GB Kindle Colorsoft is Amazon’s latest color e-reader. It features a 7-inch 300ppi screen, an adjustable frontlight, and a battery that can last up to eight weeks.\n\n$249.99 $189.99 at Amazon\n\n$249.99 $189.99 at Best Buy\n\n$249.99 $189.99 at Target\n\nKindle Paperwhite Signature Edition\n\nThe 2024 version of the Paperwhite is steeply discounted, and nearly identical to the latest model. The Signature Edition includes double the storage (to 32GB), no ads, and wireless charging. Read our review.\n\n$199.99 $169.99 at Amazon\n\n$199.99 $169.99 at Best Buy\n\n$199.99 $169.99 at Target\n\nWhile the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review .\n\n$269 $179 at Best Buy\n\nBose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review .\n\n$399 $279 at Best Buy\n\nBelkin Qi2.2 25W 2-in-1 foldable charging dock\n\nSlap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter.\n\n$100 $75 at Amazon (w/ Apple Watch support)\n\nBelkin Charging Case for Nintendo Switch 2\n\nThe case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker).\n\n$69.99 $59.49 at Amazon (in black or sand)\n\nAsus ProArt 27-inch 1440p USB-C monitor\n\nAn affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor.\n\nBelkin MagSafe 15W 2-in-1 wireless charging dock\n\nA slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories.\n\n$120 $59.99 at Amazon\n\nRing Battery Doorbell 2K\n\nAt more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C.\n\n$99.99 $39.99 at Amazon\n\n$99.99 $39.99 at Best Buy\n\nBissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner\n\nBissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range.\n\n$279.99 $209.99 at Amazon\n\n$279.99 $209.99 at Bissell\n\nRing Floodlight Cam 2K\n\nThis model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it.\n\n$199.99 $99.99 at Amazon\n\nRing Battery Doorbell 4K Pro\n\nThe highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges.\n\n$249.99 $149.99 at Amazon\n\n$249.99 $149.99 at Best Buy\n\nAmazon Fire HD 8 tablet\n\nThe eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it.\n\n$129.99 $79.99 at Amazon (4GB RAM, 64GB)\n\n$99.99 $54.99 at Best Buy (3GB RAM, 32GB)\n\nEcovacs Deebot X12 OmniCyclone\n\nThe X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs.\n\n$1499.99 $799 at Amazon\n\n$1499.99 $841.99 at Best Buy\n\n$1499.99 $842 at Ecovacs\n\nBlink Mini pan and tilt camera\n\nThe panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself.\n\n$39.99 $23.99 at Amazon\n\n$39.99 $23.99 at Best Buy\n\nAmazon Fire TV Stick 4K Plus\n\nThe latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus.\n\n$69.99 $37.99 at Amazon\n\n$69.99 $37.99 at Best Buy\n\nAmazon Fire TV Stick 4K Max (2023, latest model)\n\nAmazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch.\n\n$84.99 $44.99 at Amazon\n\n$84.99 $44.99 at Best Buy\n\nAmazon Fire TV Cube (2022, latest model)\n\nThe hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review .\n\n$199.99 $89.99 at Amazon\n\n$199.99 $89.99 at Best Buy\n\nAmazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review.\n\n$109.99 $54.99 at Amazon\n\n$109.99 $54.99 at Best Buy\n\n$109.99 $54.99 at Target\n\nThe Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box.\n\n$119.99 $79.99 at Amazon\n\n$119.99 $79.99 at Best Buy\n\n$119.99 $79.99 at Target\n\nAmazon Echo Dot (Fifth-Gen)\n\nAmazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review .\n\n$79.99 $39.99 at Amazon\n\n$79.99 $39.99 at Best Buy\n\n$79.99 $39.99 at Target\n\nAmazon Echo Show 11 (2025)\n\nThe Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review.\n\n$249.99 $149.99 at Amazon\n\n$249.99 $149.99 at Best Buy\n\n$249.99 $149.99 at Target\n\nThe new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices.\n\n$349.99 $249.99 at Amazon\n\n$349.99 $249.99 at Best Buy\n\n$349.99 $249.99 at Target\n\nEero Pro 6E tri-band router\n\nEero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review .\n\n$199.99 $149.99 at Amazon (single pack)\n\n$499.99 $374.99 at Best Buy (three-pack)\n\n$499.99 $374.99 at Amazon (three-pack)\n\nSamsung 32-inch Movingstyle smart display\n\nSimilar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery.\n\n$699.99 $499.99 at Amazon\n\nWith high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid.\n\n$1099.99 $899.99 at Amazon (for Prime members)\n\n$1099.99 $849.99 at Dreame (with free account)",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 149,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将十月Prime Day包装为假日购物季提前启动的重要节点，强调“现在即可购买”的折扣机会、热门品牌覆盖和部分产品的性价比；同时通过简短的产品体验判断突出值得购买的商品，并提示部分折扣可能在黑色星期五和网络星期一再次出现。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T17:18:00.000Z",
+            "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
+          }
+        ]
+      },
+      {
+        "id": "story-t-savings-50-50-f0727f82-c3a164c455cff49c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:30:00.000Z",
+        "pubTime": "2026-10-05 03:30",
+        "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-05 03:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T19:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rcalixte-ncdu-3af14f43c577d81b",
+        "title": "ncdu：NCurses 磁盘使用情况分析工具（一个更新版分支）",
+        "originalTitle": "ncdu: NCurses Disk Usage (an updated fork)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:30:36.000Z",
+        "pubTime": "2026-10-05 03:30",
+        "url": "https://github.com/rcalixte/ncdu",
+        "imageUrl": null,
+        "fullContent": "Ncdu is a disk usage analyzer with an ncurses interface. It is designed to find space hogs on a remote server where you don't have an entire graphical setup available, but it is a useful tool even on regular desktop systems. Ncdu aims to be fast, simple and easy to use, and should be able to run in any minimal POSIX-like environment with ncurses installed.\n\nSee the ncdu 2 release announcement for information about the differences between this Zig implementation (2.x) and the C version (1.x).\n\nYou can use the Zig build system if you're familiar with that.\n\nThere's also a handy Makefile that supports the typical targets, e.g.:\n\nNCurses Disk Usage (an updated fork)",
+        "fullTranslation": "Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析工具。它旨在帮助用户在无法使用完整图形环境的远程服务器上找出占用大量空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 致力于做到快速、简单且易于使用，并且应能在安装了 ncurses 的任何精简类 POSIX 环境中运行。\n\n有关这一 Zig 实现（2.x）与 C 版本（1.x）之间差异的信息，请参阅 ncdu 2 发布公告。\n\n如果你熟悉 Zig 的构建系统，也可以使用它。\n\n此外，还有一个便捷的 Makefile，支持常见目标，例如：\n\nNCurses 磁盘使用情况分析工具（一个更新版分支）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 ncdu 这一磁盘占用分析工具的功能、使用场景和实现版本展开介绍，突出其在无图形界面的远程服务器上的实用性，以及“快速、简单、易用”和适配精简 POSIX 类环境的定位。文本还提示 2.x Zig 实现与 1.x C 实现存在差异，并提及 Zig 构建系统和 Makefile。上述“快速、简单、易用”等属于项目自我定位或叙事表述，不应视为独立测评结论。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T19:30:36.000Z",
+            "url": "https://github.com/rcalixte/ncdu"
+          }
+        ]
+      },
+      {
+        "id": "story-s-dark-annihilation-html-80ad02b70a62ed0e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:20:01.000Z",
+        "pubTime": "2026-10-05 03:20",
+        "url": "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-sets-new-limits.jpg",
+        "fullContent": "Dark matter could be a type of matter in the universe that does not emit, absorb or reflect detectable light and appears to interact very weakly with regular matter. Although physicists have observed gravitational effects attributed to dark matter, they have not yet been able to determine what it is made of.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html",
+            "publishedAt": "2026-10-04T19:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4-vybory-2122193973-html-83fe515aade5b5fc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ЦИК Боснии и Герцеговины заявил о низкой явке на всеобщих выборах",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T19:39:09.000Z",
+        "pubTime": "2026-10-05 03:39",
+        "url": "https://ria.ru/20261004/vybory-2122193973.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 03:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/vybory-2122193973.html",
+            "publishedAt": "2026-10-04T19:39:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--said-it-it-must-be-true-5a1ea27ad999afed",
+        "title": "新泽西州前副州长利用人工智能声称自己没有性骚扰",
+        "originalTitle": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T16:16:04.000Z",
+        "pubTime": "2026-10-05 00:16",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nDale Caldwell resigned over a sexual harassment investigation, but insists AI says he’s innocent.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nNew Jersey’s lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ PBS.\n\nCaldwell claims he’s being unfairly targeted, and multiple AI agents back that up. He told host Rob Nelson that he “AIed” the report on the investigation “from multiple AI platforms.” “I put it through AI,” he said, “and it said 59 times, it [sic] said, ‘What would your findings be?’ There was no instance in any of the AIs that said there would be a finding of sexual harassment.”\n\nAI chatbots are notoriously sycophantic and often tell users what they want to hear. And it seems highly unlikely that Caldwell would want to hear an AI confirm findings that he engaged in sexual harassment.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "本话题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n\n戴尔·考德威尔因性骚扰调查辞职，但坚称人工智能表明他是清白的。\n\n这位作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n\n查看特伦斯·奥布莱恩的所有文章\n\n新泽西州副州长戴尔·考德威尔于9月25日被迫辞职，此前一项调查认定他曾对一名工作人员实施性骚扰，并多次违反道德规范。这位如今已卸任的副州长近日频繁接受媒体采访，试图为自己洗清名誉。但他在接受新泽西州公共电视台（NJ PBS）采访时采取了一种格外奇怪的做法。\n\n考德威尔声称自己遭到了不公正的针对，而多个人工智能代理为这一说法背书。他告诉主持人罗布·纳尔逊，自己“用多个人工智能平台对调查报告进行了AI处理”。他说：“我把它交给了人工智能，”人工智能“59次”回答道：“你认为调查结果会是什么？”他说，在所有人工智能的回答中，没有一次表示调查结果会认定存在性骚扰。\n\n聊天机器人一向以谄媚著称，经常会告诉用户他们想听的话。而且，考德威尔似乎不太可能希望听到人工智能确认他实施了性骚扰这一调查结论。\n\n一份汇集最重要新闻的免费每日摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "文章称，新泽西州副州长戴尔·考德威尔于9月25日被迫辞职。",
+          "文章称，一项调查认定考德威尔对一名工作人员实施性骚扰，并多次违反道德规范。",
+          "来源叙事重点：将考德威尔的申辩置于人工智能可能迎合用户、不能替代事实调查的框架下，突出其反复向多个人工智能平台询问后获得有利回答这一做法的反常与讽刺意味。文章重点不是复核性骚扰调查本身，而是质疑把聊天机器人输出当作无罪证据的合理性。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T16:16:04.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4f23-a6fe-63f39c52c275-f9ed79a57b3e8cd7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jewish groups attack Greens after anti-Zionism motion passes",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:20:50.000Z",
+        "pubTime": "2026-10-05 03:20",
+        "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F923395b0-317b-40ca-a2b7-856d5141ee70.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T19:20:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--blog-2026-http-over-ssh-3f60dc189f199545",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Self-hosted HTTP tunnels with SSH and nginx",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:08:58.000Z",
+        "pubTime": "2026-10-05 03:08",
+        "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+        "imageUrl": null,
+        "fullContent": "A friend wants to proofread your work-in-progress blog post, but its preview only runs on localhost:8080. Several tools can help. Some run as a commercial service, like ngrok or Cloudflare Quick Tunnels. Some are self-hostable but require a specific client, like frp or localtunnel. Some only require a plain SSH client but rely on a specific SSH server, like sish. Let’s implement a self-hosted solution with only OpenSSH and nginx!\n\nFirst, we forward connections from a port on a remote server to your local service:\n\nWhen you specify 0 as the remote port, the server allocates a free port. Then, we configure nginx to proxy requests from https://p41535.ssh.luffy.cx to http://127.0.0.1:41535:\n\nWe also need to add DNS records for *.ssh.luffy.cx and get a wildcard certificate through Let’s Encrypt:\n\nacme.luffy.cx is a zone hosted on Route 53. I use it for ACME DNS-01 challenges, both for wildcard certificates and for domains served by several web servers. In my case, NixOS gets the certificates automatically.\n\nThe port is the only “secret”1 keeping the content confidential. Other forwarding solutions add a random string to the domain name to prevent an intruder from enumerating the possible values.\n\nSince the kernel allocates it from the local port range, its entropy is low. Moreover, we lose one more bit because the kernel favors odd ports when it picks a random free port.\n\nThanks to ngx_http_secure_link_module, we can secure this setup a bit. This module computes a hash2 over a set of values, including a secret, and compares it with the hash from the request. The hash is base64-encoded, so we cannot put it in the domain name, which is case-insensitive. Instead, we put it in the URL as a username, along with its expiration timestamp:3\n\nThe module relies on MD5. Its security is weak but good enough for this use. ❦\n\nWe need an expiration date because a later session could reuse the port, and we have no way to detect this case. ❦\n\nThe client sends the username to the server with HTTP basic authentication. This works with most HTTP clients, including curl. Nginx exposes the username in the $remote_user variable. The module expects the hash and the expiration timestamp separated by a comma. We use a map directive to extract the two parts from $remote_user and join them with a comma.4 We also give the module the string to hash. It contains the expiration timestamp, the port, and a secret:\n\nThe username could use a comma directly instead of a double dash. But some applications do not recognize the URL correctly, making it harder to share. ❦\n\nThe module returns the status of the check in the $secure_link variable:\n\nIf the hash is incorrect or missing, we return a 401 error with a WWW-Authenticate header to ask for credentials. If the link has expired, we return a 410 error. We remove the Authorization header before forwarding the request and add a few directives to proxy WebSocket connections. Here is the complete configuration:5\n\nThis configuration exposes any TCP port listening on 127.0.0.1 or 0.0.0.0 to anyone with the secret, bypassing most firewall rules. You could strengthen it by limiting the server_name regex to the ephemeral port range. ❦\n\nI think you are now asking yourself the obvious question: “How should I generate the hash?” Easy peasy!\n\nWell, I suppose you are now saying: “Vincent, this is not very convenient! I’ll stick with ngrok if you don’t mind.” Okay, I hear you. Let’s write a helper script.\n\nThe main difficulty is finding the ephemeral port that OpenSSH allocates, as it does not appear in any environment variable.6 To work around this obstacle, we look for the ancestor sshd-session processes:7\n\nOne SSH session can contain several tunnels, and the client can add or remove them at any time. This is unlike tun device forwarding (ssh -w), which gets its own SSH_TUNNEL environment variable. ❦\n\nSince OpenSSH 9.8, sshd-session is the name of the helper handling the session. With older versions, look for sshd instead. ❦\n\nThen, we get the listening ports associated with these sshd-session processes:8\n\nWe need sudo because the sshd-session process dropped its privileges. The kernel then marks it as not dumpable, and its /proc/PID/fd directory belongs to root. Without access to this directory, ss cannot find which process owns a socket. ❦\n\nFinally, we display the URLs and keep the session open:\n\nI install this script as http-over-ssh on the server and add this entry to my ~/.ssh/config:\n\nWith this solution, I only rely on OpenSSH and nginx, two pieces of software already running on this server. One short command gives me a self-hosted tunnel and a URL to share. To try it, grab the complete helper script, which includes a few minor improvements. If you run NixOS, as any person of taste would, have a look at my http-over-ssh.nix instead. ❄️",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“仅依赖现有 OpenSSH 和 nginx、无需专用客户端”的便利性展开实现说明，同时明确指出端口枚举、低熵、链接复用、MD5 安全性较弱，以及配置可能暴露本机 TCP 服务等风险。文章重点是可复现的配置、辅助脚本和 NixOS 集成，而不是与 ngrok、Cloudflare Quick Tunnels、frp 等方案进行系统性测评。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T19:08:58.000Z",
+            "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh"
+          }
+        ]
+      },
+      {
+        "id": "story-aturing-richard-spolzino-daace20f47f2cb1b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:10:59.000Z",
+        "pubTime": "2026-10-05 03:10",
+        "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+        "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg?w=1365",
+        "fullContent": "&#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221;\n\nThat&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At NASA&#8217;s Langley Research Center in Hampton, Virginia, Spolzino works within Moon Base&#8217;s mission architecture and systems interoperability effort, helping identify what NASA still doesn&#8217;t know about the Moon and Mars, and making sure that missing information gets found before it becomes a problem.\n\nAerospace engineer Richard Spolzino\n\n&#8220; For me, it kept coming back to where can I have the most impact? Where can my work touch the most things? &#8220;\n\nFrom History to Aerospace\n\nSpolzino didn&#8217;t set out to end up here.\n\nHe started college as a history major. He switched to a physics track at Santa Clara University, thinking he&#8217;d end up in astrophysics. A research stint at Lick Observatory studying interstellar dust polarization taught him two things: the work was fascinating and, &#8220;I don&#8217;t think the staying-up-all-night thing is for me,&#8221; he says.\n\nSpolzino (on right) at Lick Observatory with his physics research adviser Dr. Kristin Kulas (left, front) and then-grad student Dr. Ilija Medan (back).\n\nCredit: Richard Spolzino\n\nAfter graduation, he started down the path of Officer Candidate School in the Navy, hoping to fly jets. It didn&#8217;t pan out, and that detour led him to a graduate program at the University of Houston, combining aerospace engineering and space architecture — not the habitat-design kind of architecture people usually picture, but the systems-level kind, where a lunar oxygen plant connects to the rovers that feed it, which connect to the processor, which connects to the user drawing down the resource. &#8220;I was always more attracted to how all the pieces work together than to any single piece,&#8221; he says.\n\nAsk Spolzino if he dreamed of working at NASA, and the honest answer is no.\n\n&#8220;I really admire people who&#8217;ve had that drive their whole life,” he says. &#8220;For me, it kept coming back to where can I have the most impact? Where can my work touch the most things?&#8221; A University of Houston program with strong ties to Johnson Space Center put NASA on his radar alongside other options in industry and government. What ultimately drew him in wasn&#8217;t the agency&#8217;s name, it was the scope of the problems and the direct line he saw to senior decision-makers shaping the return to the Moon.\n\nThat&#8217;s also, he adds, exactly why NASA is worth considering for people who aren&#8217;t sure it&#8217;s their calling yet. The culture rewards people willing to take on more than their assigned lane and gives early-career employees room to grow into problems bigger than their job description, something he says he might not have found moving up more slowly in industry.\n\nDocumenting the Missing Piece\n\nSpolzino&#8217;s day-to-day work centers on a deceptively simple idea: the data gap.\n\n&#8220;You can think of it as synonymous with a knowledge gap,&#8221; he explains. &#8220;It&#8217;s a way of documenting the thing we don&#8217;t know.&#8221; Take the geotechnical properties of lunar regolith — moon dust, essentially, but the specifics matter enormously. How much weight can it bear? What&#8217;s its shear strength? Answering those questions shapes everything from how far a rover can safely drive to whether a habitat&#8217;s foundation will hold.\n\nA data gap lays that out formally: what we don&#8217;t know, why it matters, what we currently have that falls short, and, critically, a specific measurable target industry and international partners can aim for. &#8220;Once we&#8217;ve identified what&#8217;s missing,” he says, “our partners can look at that list and see exactly where their contribution would be valuable.&#8221;\n\nHis team started with roughly 25 published data gaps last year. They&#8217;re on track for 60 by the end of this year.\n\nFrom Concept to Cargo\n\nThe concept only matters if it changes decisions, and Spolzino cites two recent examples where it did.\n\nWhen the lunar lander company now known as Voyager (formerly Astrobotic) was preparing its upcoming Griffin-1 mission, the team didn&#8217;t help them figure out what instruments to fly since that was already locked in. Instead, Spolzino&#8217;s team helped them prioritize what data gets sent home first through a communication pipeline that can&#8217;t carry everything at once. &#8220;How do you prioritize all the things you say you want, and what gets sent back through that constrained pipeline?&#8221; he asks.\n\nArtist’s rendering of Astrobotic’s Griffin Mission One lunar lander delivering the FLIP rover to the lunar surface. The mission is part of NASA’s Commercial Lunar Payload Services (CLPS) initiative supporting future lunar exploration and technology demonstrations.\n\nOn the other side of the pipeline, Spolzino has spent recent months evaluating proposed instruments (spectrometers, sample collection tools, tech demonstrations) against the published data gaps to help leadership decide what&#8217;s worth flying. Some proposals map cleanly onto a documented need. Others don&#8217;t align with anything NASA has said it&#8217;s missing. &#8220;That&#8217;s used to filter down what gets pushed forward as a real candidate,&#8221; he says. Industry partners have taken notice, and leadership now asks companies pitching new instruments to show how their proposal maps to a data gap before the conversation goes any further.\n\nFiguring It Out Takes Work\n\nSpolzino admits the job reshaped an assumption he carried out of graduate school — that NASA had everything figured out, and that the agency&#8217;s reputation meant every question already had an answer somewhere inside its walls.\n\nThree years in, he sees it differently. &#8220;Keeping the kind of reputation NASA has takes constant, deliberate work,” he says. “Everyone&#8217;s genuinely trying to pull in the right direction, but it&#8217;s not automatic.&#8221; That realization was clarifying for him. The agency runs on people figuring things out in real time, which means there&#8217;s room for someone early in their career to contribute meaningfully, rather than just executing someone else&#8217;s playbook.\n\nHis advice to students considering NASA is practical, not sentimental: Grades matter less than people think. &#8220;The projects you work on, and the results of that work, are what people look at first,&#8221; he says. His advice is to join clubs, take on real projects, and build something. “It’s less about credentials and more about giving yourself something to show up with.”\n\nOn Spolzino&#8217;s Sci-Fi Shelf\n\nThe Three-Body Problem trilogy by Liu Cixin\n\nSpolzino was already deep into the second book, The Dark Forest , on a flight from New York to Houston when the plane was diverted to San Antonio. &#8220;I did not care that I was three or four hours late,&#8221; he says. &#8220;I had that book, and I was just devouring it.&#8221;\n\nAn older game, but a formative one. Spolzino credits it with cementing his interest in space before college even started. &#8220;It&#8217;s a space program simulator where you build rockets piece by piece, and the physics are simplified but accurate enough that you&#8217;re doing a lot of the same math as an actual mission design tool,&#8221; he says. &#8220;That really had a huge impact on me figuring out that space was the thing I wanted to do.&#8221;\n\nPart of the Systems Analysis and Concepts Directorate at NASA&#8217;s Langley Research Center.\n\nLearn more about our work by visiting our website.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以Richard Spolzino的职业转向和日常工作为主线，突出NASA如何通过识别月球与火星探测中的“数据缺口”来支持任务规划、仪器筛选、数据传输优先级和商业伙伴协作。文章同时塑造NASA为开放、允许年轻员工承担重要问题、仍在持续解决复杂挑战的组织，并借此传递职业发展和加入NASA的吸引力。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T19:10:59.000Z",
+            "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+          }
+        ]
+      },
+      {
+        "id": "story-04-sochi-2122193859-html-20e03e6ae0106674",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Сочи сняли временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-04T19:35:09.000Z",
+        "pubTime": "2026-10-05 03:35",
+        "url": "https://ria.ru/20261004/sochi-2122193859.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/01/09/1592395700_0:311:2982:1988_650x0_80_0_0_63b026899969411028a59ff0fc88ac48.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 03:35 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261004/sochi-2122193859.html",
+            "publishedAt": "2026-10-04T19:35:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ity-reining-in-robotaxis-443bfe9a215f7a99",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "TechCrunch Mobility: Reining in robotaxis",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T16:05:00.000Z",
+        "pubTime": "2026-10-05 00:05",
+        "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+        "imageUrl": null,
+        "fullContent": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-05 00:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+            "publishedAt": "2026-10-04T16:05:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--finally-retire-369abcf9-d84ab72b2f49dd16",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T19:08:00.000Z",
+        "pubTime": "2026-10-05 03:08",
+        "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-05 03:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-04T19:08:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-2026-go-netip-addrto6-e838451548a01982",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T18:49:55.000Z",
+        "pubTime": "2026-10-05 02:49",
+        "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
+        "imageUrl": null,
+        "fullContent": "netip.Addr features an Unmap() method returning the unwrapped IPv4 contained in an IPv4-mapped IPv6 address: from ::ffff:203.0.113.10 or ::ffff:cb00:710a, it returns 203.0.113.10.1 There is no Map() or To6() method for the reverse direction. Such a method is trivial to implement, but Go maintainers have rejected it on the grounds that users should write netip.AddrFrom16(ip.As16()) and let the compiler optimize it.2 Today, this pattern is eight times slower than a native method. How can we teach the compiler to optimize this sequence?\n\nIPv4-mapped IPv6 addresses let you handle only IPv6 addresses in your code and keep conversions at a few well-defined boundaries. I use them in Akvorado. ❦\n\nThis is not strictly equivalent. The zero value becomes :: while it would make more sense to leave it untouched. ❦\n\nLet’s explore three ways to implement the map semantics for netip.Addr. My favorite is to add it to the Go standard library. Go maintainers prefer a small external helper chaining netip.AddrFrom16() and netip.Addr.As16(), hoping the compiler eventually optimizes it. The unsafe package opens a third path, with the same performance as the first solution.\n\nInternally, netip.Addr stores any IP address as a 128-bit value with an extra field z to encode the family and the zone:\n\nAddrFrom4() encodes an IPv4 address as an IPv4-mapped IPv6 address and sets z to the unique value z4:\n\nUnmap() turns an IPv4-mapped IPv6 address into an IPv4 address by setting the z field to z4:\n\nImplementing the reverse direction inside the Go standard library is trivial: we set the z field to z6noz if the address is IPv4.\n\nWe can’t access the z field from outside the net/netip package. Instead, we build a small helper around the netip.AddrFrom16(ip.As16()) pattern:\n\nAnother solution uses the unsafe package to alter the Addr struct through a proxy with the same memory layout:3\n\nTo avoid catastrophic bugs when netip.Addr’s layout changes, you must add tests to detect it. This is more dangerous if you put this code in a package. Either ask users to run the tests themselves, or detect the change at run time and panic. Hiding this optimization behind a build tag would make users aware of this potential trap. ❦\n\nOn my computer, with Go 1.27.1, the standard library solution costs 0.88 ns per operation, while the solution favored by Go maintainers costs 7.14 ns. The unsafe solution matches the performance of the first one.\n\nLet’s check the assembly code the compiler generates for each solution.4 The one built into the standard library looks like this:5\n\nI produced the assembly code with GOTOOLCHAIN=go1.26.8 GOAMD64=v3 ./go-asm '\\.asm' from the companion repository, then edited it a bit to keep this article from turning into an endless rabbit hole. Due to an unfortunate sequence of events, we switch between versions: Go 1.27 introduced a regression that blurs the point of this article. ❦\n\nThe function is short enough for the compiler to inline it, so the assembly code may vary depending on the surrounding code. ❦\n\nThe unsafe solution looks almost the same:\n\nThe helper solution has far more instructions. To understand why, let’s look at the code for As16() and AddrFrom16(). They are short enough for the compiler to inline them.\n\nWe can already guess the pattern to optimize: the code packs the IP address into an array, copies it, then unpacks it. If we inline the Go code by hand, we get:\n\nAs humans, we can mentally derive the optimized form:\n\nUnfortunately, as of Go 1.26.8, the compiler is not smart enough to do the same:\n\nMOVBEQ requires GOAMD64=v3, matching the x86-64-v3 microarchitecture from 2013. Otherwise, the compiler translates BEPutUint64() to BSWAPQ+MOVQ and BEUint64() to MOVQ+BSWAPQ. ❦\n\nThe Go compiler has several phases:\n\nMy first idea is to replace occurrences of netip.AddrFrom16(ip.As16()) with netip.Addr{addr: ip.addr, z: netip.z6noz} as early as possible, during the “noding” process. Before that, the type checking phase prevents us from accessing unexported struct fields.\n\nGo 1.27 introduced a convenient debug option to dump the IR of a function at interesting points during compilation:\n\nIn the HTML file, the first column shows the IR as it comes out of noding:\n\nIn the body of the if statement, we spot the calls to the method netip.Addr.As16() and to the function netip.AddrFrom16(). Our goal is to patch them with a struct literal:\n\nIn noder’s reader.go, the expr() method builds the IR tree for an expression. At the end of the exprCall case, we add a call to a rewriteAddrFrom16As16() function. It takes the current node and returns the struct literal on success, or nil if the rewrite is not possible. First, we check that we have the expected pattern: a call to the netip.AddrFrom16() function with a call to the netip.Addr.As16() method as its only argument:\n\nThen, we fetch netip.z6noz:\n\nAnd we build the struct literal:\n\nHave a look at the complete patch.7 We can test it with the following commands:\n\nWhen the call is used as a statement, a struct literal alone is invalid. The patch then turns it into _ = netip.Addr{…}. ❦\n\nThe generated code for the helper is now the shortest possible version!\n\nGo maintainers are unlikely to accept this change. It relies on the internal structure of net/netip.Addr. It’s an ugly hack in the noder, whose job is to faithfully translate the type-checked AST into the IR. And it’s harder to maintain than adding a To6() method.\n\nThe right place for such an optimization is the generic SSA phase. One of the last machine-independent passes is memcombine. With the appropriate debug flag, the compiler dumps the SSA form after this pass:8\n\nThe compiler can also write an HTML file with the result of each pass:\n\nThe result of the memcombine pass follows the same structure as the assembly code for AddrTo6Safe() we looked at earlier: two stores, one move, and two loads we would like to optimize away.\n\nEach line features a value identifier (v442), an operation with its type (Bswap64 <uint64>), and its arguments (v490).9 Values are the basic building blocks of SSA and are defined exactly once. Square brackets enclose integer parameters ([8]) and curly braces contain auxiliary arguments ({netip.addr}). Operations writing to memory produce a new memory state. Every memory operation takes the current state as its last argument, which keeps them in order.\n\nSource line numbers in parentheses follow value identifiers, but I removed them from the examples. The SSA form also features branches, but we don’t need them to understand our optimizations. ❦\n\nLet’s focus on output.addr.lo, aka v39:\n\nTo simplify this code, we could apply three rewriting rules:\n\nThe first one adds a shortcut when loading through a move: (Load (OffPtr [o] p) (Move p src mem)) => (Load (OffPtr [o] src) mem). This matches v174 with its arguments v415 and v286 and creates a new value v600:\n\nThe second one simplifies a load following a store: (Load p (Store p x _)) => x. The load is forwarded: the stored value replaces it and no memory access remains. It matches v174. It notices that v600 and v173 are the same address and replaces v174 with a copy of v442:\n\nThe last step cancels the two byte swaps: (Bswap64 (Bswap64 x)) => x. v39 becomes a copy of v490:\n\nIf we ignore the values not needed to compute v39, only this SSA form remains:\n\nLet’s switch to output.addr.hi, aka v299:\n\nTo optimize it away, we also apply three rewriting rules:\n\nThe first one also adds a shortcut when loading through a move, but without an offset: (Load p (Move p src mem)) => (Load src mem). This rewrites v416 to use arguments from v286:\n\nThe second rule forwards a value stored one step earlier, skipping over a store to another address: (Load p (Store q _ (Store p x _))) => x. This matches v416: x is v542, p is v22 (&a16), q is v173 (&a16[8]), and p and q do not overlap for uint64.\n\nThe third rule cancels two byte swaps: (Bswap64 (Bswap64 x)) => x. v299 becomes a copy of v502:\n\nIf we remove the values not used to compute v299, we get this SSA form:\n\nMost of these rules already exist in generic.rules. They use conditions to validate their context: ssa.IsSamePtr() for the same address, ssa.Disjoint() for addresses that do not overlap. The rule forwarding a stored value to a load already exists with three variants looking through several other stores. Here are the two we need:\n\nGo 1.27 added the rule loading through a move with CL 748200 to fix issue #77720:\n\nIt lacks a variant without an offset:\n\nThere is no generic rule to cancel two byte swaps, but the AMD64 lowering pass includes this rule:\n\nAfter switching to Go’s development branch and adding the missing rule, the generated assembly code is worse than with Go 1.26.8, even though our additional rule slightly improves the situation at the end:\n\nThe rule loading through a move, added in Go 1.27, introduced this regression.\n\nLet’s not give up now! In reality, the rewriting rules run before memcombine, notably in the late opt pass. At this point, the inlined versions of BEPutUint64() and BEUint64() still expand to sixteen byte stores and sixteen byte loads, matching their source code:\n\nLet’s follow two bytes of output.addr.lo: addr[15] and addr[11]. Here is a simplified SSA form before late opt:\n\nThe first rule loads through the move: (Load (OffPtr [o] p) (Move p src mem)) => (Load (OffPtr [o] src) mem). It matches both loads, which now read a16 with the memory state before the copy:\n\nThe second rule shortcuts a load following a store: (Load p (Store p x _)) => x. It matches v435, as v282 stores a16[15]. It does not match v481: v235 stores a16[11] four stores earlier in the chain, while the variants of this rule look through three stores at most.\n\nThe same happens to the other bytes: the rule forwards the four bytes stored last, a16[12] to a16[15]. The twelve other loads now read a16 instead of addr.\n\nBEUint64() becomes a chain of Or64, each one adding a byte shifted into place. memcombine is a pass written in Go, not a set of rewrite rules. It starts from the last Or64 of the chain and collects up to eight terms. If each term is a byte load, extended to 64 bits and shifted, and if the eight loads read consecutive addresses from the same pointer with the same memory state, it replaces the whole chain with a single 64-bit load and a byte swap. Otherwise, it tries again with four, then two terms, and from each intermediate Or64. Here is the loop checking each term in a simplified version of combineLoads():\n\nFor output.addr.hi, the eight loads read a16 with the same memory state v282:\n\nmemcombine merges them into one load and a swap:\n\nFor output.addr.lo, here is the chain memcombine sees after late opt:\n\nFrom v520, four of the eight terms are forwarded bytes, not loads from memory, and memcombine can’t combine them. It doesn’t merge the four remaining loads either, as they sit on top of the forwarded bytes.\n\nIn summary, the rewriting rules run too early to be effective. A quick workaround exists: run an earlier round of memcombine before late opt. After this change, the generated code for the helper is back to the shortest possible version:\n\nAnd the benchmark confirms it! ✌️\n\nI think Go maintainers would reject this change because of the additional memcombine pass. Instead, I plan to publish this blog post and bring up the subject again as a follow-up to issue #54365. Either the sheer complexity and the Go 1.27 regression convince the maintainers that adding a To6() method is simpler and more efficient, or they advise me on how to move forward. Either way, digging into this subject taught me a lot about the Go compiler! ⚙️\n\nI opened issue #81994 to propose Addr.To6(). Give it a 👍 if you want it in Go!",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 70,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 netip.Addr 将 IPv4 表示为 IPv4-mapped IPv6 的反向转换性能展开，比较标准库新增方法、外部辅助函数和 unsafe 实现三种方案，并通过汇编、SSA 和编译器重写规则分析性能差异。叙事倾向于认为标准库提供直接方法最清晰、性能最好，同时主张应在通用 SSA 优化阶段解决编译器未能消除的中间内存操作；作者也承认其在编译器早期阶段加入特定模式重写不太可能被维护者接受。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T18:49:55.000Z",
+            "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791128327424,
     "timeDisplay": "2026-10-04 23:38 (UTC+8)",
     "date": "2026-10-04",

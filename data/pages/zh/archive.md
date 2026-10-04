@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-04 · 今日](/INFO-LIVE/archive-2026-10-04/)
+- [2026-10-05 · 今日](/INFO-LIVE/archive-2026-10-05/)
+- [2026-10-04 · 历史快照](/INFO-LIVE/archive-2026-10-04/)
 - [2026-10-03 · 历史快照](/INFO-LIVE/archive-2026-10-03/)
 - [2026-10-02 · 历史快照](/INFO-LIVE/archive-2026-10-02/)
 - [2026-10-01 · 历史快照](/INFO-LIVE/archive-2026-10-01/)
@@ -45,14 +46,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **102** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **103** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-04 23:38 (UTC+8)
+- **最新归档时间**：2026-10-05 03:54 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-05 03:54 (UTC+8)" title="全球要闻情报简报 · 03:54" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-05 03:42 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】ncdu：NCurses 磁盘使用情况分析工具（一个更新版分支）：Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析工具。它旨在帮助用户在无法使用完整图形环境的远程服务器上找出占用大量空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 致力于做到快速、简单且易于使用，并且应能在安装了 ncurses 的任何精简类 POSIX 环境中运行。；【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰：本话题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。；【undefined】梅尔茨希望德国人更加努力工作以支持乌克兰——俄直接投资基金首席执行官：莫斯科，10月4日。/塔斯社/。俄罗斯总统负责对外投资和经济合作的特别代表、俄罗斯直接投资基金（RDIF）首席执行官基里尔·德米特里耶夫表示，德国总理弗里德里希·梅尔茨显然希望德国人更加努力工作，以继续支持乌克兰。；【undefined】小奥德尔·贝克汉姆感叹自己短暂重返纽约巨人队：“我本该更清楚”：对于奥德尔·贝克汉姆来说，这次命运般重返纽约巨人队的经历，持续的时间虽短，却也曾令人愉快。上周球队将他裁掉时，他一直保持沉默，这似乎表明他对球队给予的机会以及这次重聚持续的时间心存感激。；【undefined】乡村歌星Ella Langley只想要一样东西——一头巨大、“壮实”的白尾鹿公鹿：显然，Ella Langley对自己的梦想狩猎有着非常具体的设想。；【undefined】克鲁兹与万斯的竞争升温：这名得州参议员暗示副总统“缺乏安全感”：得州联邦参议员特德·克鲁兹指责副总统J·D·万斯“缺乏安全感”。此前，万斯暗示这名得州共和党人已经在为2028年竞选总统铺路，导致两名可能争夺共和党总统候选人提名的人士之间的公开冲突升级。；【undefined】AI无法在《星际争霸》中击败人类，于是决定作弊：有关这一主题的文章将添加到您的每日电子邮件摘要和首页信息流中。；【undefined】特朗普公布新的“超级智能部队”：正如承诺的那样，美国总统唐纳德·特朗普宣布成立新的“超级智能部队”。他表示，该部队将由国家情报总监杰伊·克莱顿及其政府的其他成员领导。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/aeroport-2122194146.html) <span class="news-meta-time">🕒 2026-10-05 03:39</span>
+- [The Verge (前沿数码科技)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october) <span class="news-meta-time">🕒 2026-10-05 01:18</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-05 03:30</span>
+- [Lobste.rs (极客思想社区)] [ncdu：NCurses 磁盘使用情况分析工具（一个更新版分支）](https://github.com/rcalixte/ncdu) <span class="news-meta-time">🕒 2026-10-05 03:30</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html) <span class="news-meta-time">🕒 2026-10-05 03:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261004/vybory-2122193973.html) <span class="news-meta-time">🕒 2026-10-05 03:39</span>
+:::
 :::timeline-item{start="2026-10-04 23:38 (UTC+8)" title="全球要闻情报简报 · 23:38" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-04 23:26 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,18 +657,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board) <span class="news-meta-time">🕒 2026-09-21 05:53</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html) <span class="news-meta-time">🕒 2026-09-21 05:30</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/vybory-2119123188.html) <span class="news-meta-time">🕒 2026-09-21 06:30</span>
-:::
-:::timeline-item{start="2026-09-20 21:08 (UTC+8)" title="全球要闻情报简报 · 21:08" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-20 21:05 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】A24的声誉因《SCP基金会》电影面临严峻考验：该话题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看所有娱乐内容 该公司正对一部必须在知识共享许可协议（Creative Commons license）下发行的电影主张“全球版权”。 来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看特伦斯·奥布莱恩（Terrence O'Brien）的所有文章；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹：每日天文一图：2026年9月20日 –…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同影像或照片，并由专业天文学家撰写简短说明。；【undefined】“太糟糕了”：关税、燃料成本飙升与利率上升如何挤压美国企业：航班减少、票价上涨。货运附加费。制造商囤积库存。甚至是破产。 对大大小小的美国企业而言，唐纳德·特朗普总统贸易政策下征收的关税、伊朗战争引发的燃料价格飙升，以及如今不断上升的利率，三者交织在一起，正迫使高管们做出艰难抉择。 艾伦·埃登（Allen Eden）一直在为其位于艾奥瓦州布里特的25人企业“原力锯业公司”（Original Saw Co.）保留额外库存。该企业生产用于木工和金属加工的工业动力电锯，目前他正在应对铝、钢以及关键零部；【undefined】美国对狂犬病的担忧加剧——但目前尚不清楚这种致命疾病是否真正有所增加：北卡罗来纳州一家宠物动物园内患有狂犬病的山羊，以及马里兰州一只患病海狸袭击男孩的事件，让公众神经紧绷。；【undefined】达吉斯坦选举投票率超过80%：俄罗斯正迎来国家杜马选举的最后一天。；【undefined】FanDuel优惠码：小马对阵酋长赛前可获350美元红利投注金：想在周日橄榄球观赛之夜的尾声也参与一点博彩激情吗？FanDuel体育博彩（FanDuel Sportsbook）为新用户提供了一个机会：在小马队对阵酋长队的周日夜赛中下注，即有机会获得350美元的红利投注金。；【undefined】Caesars体育博彩促销代码FOXNEWSDYW为小马对阵酋长比赛提供10次投注奖金翻倍优惠：周日橄榄球之夜（Sunday Night Football）几乎总是整个赛程中最精彩的一场对决。对于黄金时段上演的小马对阵酋长这场较量，你或许并不算十分青睐，但你一定会喜欢Caesars Sportsbook推出的这项优惠：使用促销代码FOXNEWSDYW即可在10次投注中获得奖金翻倍。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/pamfilova-2118986525.html) <span class="news-meta-time">🕒 2026-09-20 21:04</span>
-- [The Verge (前沿数码科技)] [A24的声誉因《SCP基金会》电影面临严峻考验](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license) <span class="news-meta-time">🕒 2026-09-20 20:45</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-20 21:00</span>
-- [Lobste.rs (极客思想社区)] [Notion 如何借助 CRDT 处理并发编辑](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts) <span class="news-meta-time">🕒 2026-09-20 20:06</span>
-- [NASA News (深空探索与航天)] [每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/) <span class="news-meta-time">🕒 2026-09-20 12:05</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/reyndzhers-2118986398.html) <span class="news-meta-time">🕒 2026-09-20 21:03</span>
 :::
 ::::

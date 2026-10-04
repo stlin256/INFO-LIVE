@@ -16,161 +16,198 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story--bull-elk-utah-mountains-a0379cde5cebc915" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1070" data-content-paragraphs="20" data-published-at="2026-10-04T15:16:52.000Z" data-time-source="publication">
+<div id="story-politics-2197437-87d50bf477c860f6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="311" data-content-paragraphs="4" data-published-at="2026-10-04T19:31:31.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-04 23:16</span>
-</div>
-
-### [Riley Green用弓在犹他州山区射下一头巨型公麋鹿，填满了冰柜](https://www.foxnews.com/outkick-sports/riley-green-fills-freezer-scoring-massive-bull-elk-utah-mountains)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Riley Green fills the freezer after scoring a massive bull elk with a bow in the Utah mountains</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/riley-green-performs-today-rockefeller.jpg?ve=1&amp;tl=1" alt="Riley Green用弓在犹他州山区射下一头巨型公麋鹿，填满了冰柜" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>Riley Green已经正式解决了接下来一段时间的食品采购问题。</p>
-<p>这位乡村音乐明星近日离开舞台，前往犹他州山区，而这次行程最终以Green站在一头体格异常出众的公麋鹿身后告终——这头麋鹿是他用复合弓猎获的。</p>
-<p>点击这里，获取OutKick户外频道的更多报道</p>
-<p>“冰柜已经装满了，”Green周五在Instagram上写道。“很少有什么事情能像用弓猎麋鹿这样考验人……感谢有几天时间在犹他州山区追猎它们，也很庆幸自己成功完成了整个过程，猎获了一头出色的公麋鹿。”</p>
-<p>而且，说它“出色”可能还有些低估了。</p>
-<p>Green分享的照片显示，这是一头体型巨大、已经成年的公麋鹿，鹿角十分壮观。他还展示了把这么多肉从山里搬出来是什么样子——这本身就是一项艰巨的任务。</p>
-<p>如果你关注过Green在乡村音乐之外的生活，那么这一切应该并不会让你感到特别意外。</p>
-<p>他长期从事狩猎，尤其热衷于使用弓箭狩猎。事实上，Green经常担任《Major League Bowhunter》的客座主持人；这档节目此前还跟随他进行了一次蒙大拿州麋鹿狩猎，并恰如其分地将那一期命名为《第三次一定成功》。</p>
-<p>他还谈到过，在巡演生活之余安排一次弓猎麋鹿之旅究竟有多么困难。</p>
-<p>在此前参加《Bussin&#39; With The Boys》节目时，Green解释说，麋鹿狩猎季时间短，而真正找到麋鹿并接近它们又需要投入时间，这使得按照巡演日程安排弓猎麋鹿变得格外棘手。他回忆说，自己曾连续多年抽中麋鹿狩猎许可证，但每年只有几天时间可以进行狩猎。</p>
-<p>乡村音乐明星Sam Barber在最近的阿拉斯加狩猎之旅中猎获一头巨型驯鹿</p>
-<p>这也是他此次在犹他州猎获的这头公麋鹿如此令人印象深刻的原因之一。</p>
-<p>与步枪狩猎不同，弓猎要求猎人必须在射击前更加接近麋鹿。更何况，麋鹿是一种体重可达数百磅、活动范围遍布大片山地、而且完全不愿意让你的行动变得轻松的动物。</p>
-<p>显然，这一次Green成功把所有环节都安排妥当了。</p>
-<p>有趣的是，最近用犹他州麋鹿肉填满冰柜的乡村音乐明星并不只有Green一人。</p>
-<p>Luke Combs最近在犹他州与Jason Phelps一同狩猎时，也猎获了属于自己的公麋鹿；Combs曾表示，正是那次狩猎帮助激励他最近减重30磅。</p>
-<p>Combs原本希望用弓射下那头麋鹿，但最终改用步枪，才成功完成狩猎。</p>
-<p>而Green则坚持使用弓箭。</p>
-<p>不过，我们并不是要在这里分个高下。</p>
-<p>喜欢狩猎和户外活动的一切内容吗？请在Instagram和TikTok上关注OutKick Outdoors！</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-04 23:16 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/riley-green-fills-freezer-scoring-massive-bull-elk-utah-mountains" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-manders-lose-starting-qb-dbfe56ff605fcd27" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="834" data-content-paragraphs="15" data-published-at="2026-10-04T15:08:21.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-04 23:08</span>
-</div>
-
-### [马库斯·马里奥塔在伦敦对阵小马队时膝部受伤，指挥官队又失去一名首发四分卫](https://www.foxnews.com/outkick-sports/marcus-mariota-suffers-knee-injury-colts-london-commanders-lose-starting-qb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Marcus Mariota suffers knee injury against Colts in London as Commanders lose another starting QB</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/laiatu-latu-sacks-mariota-colts-commanders.jpg?ve=1&amp;tl=1" alt="马库斯·马里奥塔在伦敦对阵小马队时膝部受伤，指挥官队又失去一名首发四分卫" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>华盛顿指挥官队在美国本土的比赛中失去了首发四分卫，而在周日又在英国的比赛中失去了首发四分卫，马库斯·马里奥塔在对阵印第安纳波利斯小马队时膝部受伤。</p>
-<p>马里奥塔似乎是在被小马队防守截锋莱亚图·拉图擒杀时受伤的，拉图在传球保护区内压到了这名四分卫身上。</p>
-<p>《克雷格·卡顿秀》——不加过滤、不道歉、不容错过。立即下载他的每日播客！</p>
-<p>指挥官队最初表示，马里奥塔右膝受伤，能否回归仍待观察；但半场结束后，球队宣布他无法回归。</p>
-<p>杰克逊·达特的内侧副韧带和半月板撕裂，需要接受手术，其2026赛季就此报销，他效力于纽约巨人队。</p>
-<p>OutKick医疗专家大卫·超医生曾担任圣迭戈闪电队首席队医长达17年，他表示，目前对马里奥塔的担忧是内侧副韧带受伤。</p>
-<p>Sports Injury Central创始人超医生最初还对马里奥塔回归抱有希望，但随着指挥官队获得了多次进攻机会，球队本有充足时间让这名四分卫戴上护具回归，外界开始担心马里奥塔不会再回到场上。</p>
-<p>这位医生对马里奥塔能否出场的担忧最终被证实是正确的。马里奥塔此前曾在2022年遭遇内侧副韧带伤势，并因此接受手术。</p>
-<p>需要知道的是，马里奥塔在本场伦敦比赛中首发，上周也曾首发，因为首发四分卫杰登·丹尼尔斯在9月20日对阵达拉斯牛仔队的比赛中左肘脱臼。</p>
-<p>丹尼尔斯此后一直没有出场，但上周他已经恢复了有限度的训练，指挥官队希望他能在第5周对阵纽约巨人队的比赛中重返首发阵容。</p>
-<p>没有废话，只有达基奇。带着《别@我》播客上路。立即下载！</p>
-<p>这显然无法帮助球队应对本场比赛。马里奥塔由第三顺位四分卫阿坦·卡利亚克马尼斯替换下场。</p>
-<p>卡利亚克马尼斯是一名新秀四分卫。华盛顿队在2026年NFL选秀大会第七轮、总第223顺位选中了他；在大学期间，他曾效力于明尼苏达大学和罗格斯大学。</p>
-<p>指挥官队希望卡利亚克马尼斯在本场比赛中完成的传球次数，至少能与他全名的字母数一样多。</p>
-<p>在X平台关注阿曼多·萨尔格罗：@ARMANDOSALGUERO</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-04 23:08 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/marcus-mariota-suffers-knee-injury-colts-london-commanders-lose-starting-qb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-10-04-10707993-shtml-55c673101eb2c732" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1082" data-content-paragraphs="27" data-published-at="2026-10-04T14:57:24.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-04 22:57</span>
+  <span class="news-meta-time">🕒 2026-10-05 03:31</span>
 </div>
 
-### [冲绳民众就驻日美军涉嫌杀人案发出愤怒声音](https://www.chinanews.com.cn/gj/2026/10-04/10707993.shtml)
+### [梅尔茨希望德国人更加努力工作以支持乌克兰——俄直接投资基金首席执行官](https://tass.com/politics/2197437)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Merz wants Germans to work more to support Ukraine — RDIF CEO</div>
 
-<div class="article-body" data-article-body="true"><p>围绕驻日美军涉嫌杀人案，日本政府4日向美国提出抗议。事发地冲绳民众发出愤怒声音，认为美军基地的存在与日本政府的不作为导致类似犯罪事件不断发生。</p>
-<p>日本冲绳县警方4日逮捕了一名驻冲绳美国士兵，此人涉嫌于3日凌晨在冲绳一家酒店抢劫并杀害一名当地女性。</p>
-<p>日本首相高市早苗就此案在社交媒体平台X上发帖称“极为遗憾”。日本外务大臣茂木敏充和防卫大臣小泉进次郎分别召见美国驻日大使乔治·格拉斯和驻日美军司令斯蒂芬·约斯特提出抗议，并强烈要求美军整顿军纪、彻底防止类似案件再次发生。</p>
-<p>据日本方面4日消息，冲绳民众当天就此案表达了愤怒之情。当地居民新川秀清说，驻冲绳美军基地的存在招致各种案件和事故，自美军驻扎以来当地有很多人失去了生命。另一名50多岁的男子说：“这不是冲绳的问题，而是日本政府的问题，案件一再发生，日本政府却没有采取对策。”</p>
-<p>据悉，在冲绳县宇流麻市，当地民众手举写有“让冲绳成为一个能安心生活的地方”等字样的牌子进行抗议。一名抗议者担心地说：“不知道自己和孩子们什么时候会遭到伤害。”</p>
-<p>当天，冲绳县警方还逮捕了两名涉嫌酒后驾驶的美军士兵。</p>
-<p>长期以来，驻日美军犯罪事件频发，其中不乏强奸、杀人、抢劫等恶性案件。统计显示，仅2025年，冲绳县警方处理的涉及驻日美军及相关人员的刑事犯罪案件就超过100起。</p>
-<p>人均带三个空箱来华购物的“China Haul”火了</p>
-<p>景区NPC丰富文化体验 中国人从“看景”到“搭戏”青睐沉浸感</p>
-<p>国庆文旅消费从“打卡观光”转向“深度体验”</p>
-<p>“十·一”黄金周，为什么越来越多人涌向主题公园？</p>
-<p>探访杭州“无声烧饼摊”：烟火街巷里，圆残疾人就业梦</p>
-<p>中国“交旅融合”焕新体验 盘活旅途“闲置”时空</p>
-<p>让机器人“能干活” 具身智能从“中国量产”走向“全球落地”</p>
-<p>这支巴西球队为何三年国庆赴约贵州“村超”？</p>
-<p>中国健儿逐梦亚运：“代表祖国，就要全力以赴”</p>
-<p>“闪身步”闪到台湾，社交媒体“全民跟风”，有运动员赛后“边哭边跳”</p>
-<p>埃及汉学家哈赛宁：中国故事如何真正抵达阿拉伯读者？</p>
-<p>鏖战抽筋、老将坚守、对手互敬……亚运会上，那些超越胜负的动人场面</p>
-<p>“天下第一潮”涌动 钱塘江畔千年古镇焕新机</p>
-<p>走进江西万年神农宫：溶洞藏仙境 石笋记流年</p>
-<p>上海地铁大屏致敬“国之栋梁”：把城市C位献给科学家</p>
-<p>2026成都非遗灯会：“打铁花”技艺惊艳游人</p>
-<p>郑钦文：相比成为世界第一，更向往大满贯冠军</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+<div class="article-body" data-article-body="true"><p>莫斯科，10月4日。/塔斯社/。俄罗斯总统负责对外投资和经济合作的特别代表、俄罗斯直接投资基金（RDIF）首席执行官基里尔·德米特里耶夫表示，德国总理弗里德里希·梅尔茨显然希望德国人更加努力工作，以继续支持乌克兰。</p>
+<p>他在社交平台X上就德国选择党（AfD）联席主席爱丽丝·魏德尔对梅尔茨政策的批评发表评论称：“好战分子梅尔茨只是希望德国人民不要再懒惰，为乌克兰更加努力地工作，并与乌克兰分享他们的社会福利——这一切都是为了延长战争，而不是寻求和平。”</p>
+<p>魏德尔抨击了总理继续援助基辅的计划，称德国自身需要这笔钱。她表示，拒绝支持基辅的德国人数量仍在增加。</p>
+<p>德米特里耶夫补充说：“不知为何，只有10%的德国人喜欢梅尔茨。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-10-04 22:57 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事重点：将德国总理弗里德里希·梅尔茨继续援助乌克兰的政策描述为延长战争、牺牲德国民众福利，并借德米特里耶夫和魏德尔的表述突出梅尔茨在德国国内可能面临的低支持度。文中“好战”“德国人懒惰”“分享社会福利”等属于引述者的评价性表述，不是报道已证实的事实。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/politics/2197437" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-should-have-known-better-d2dda1912c0a99ea" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1307" data-content-paragraphs="24" data-published-at="2026-10-04T19:14:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-05 03:14</span>
+</div>
+
+### [小奥德尔·贝克汉姆感叹自己短暂重返纽约巨人队：“我本该更清楚”](https://www.foxnews.com/outkick-sports/odell-beckham-jr-laments-short-lived-return-new-york-giants-should-have-known-better)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Odell Beckham Jr laments his short-lived return to the New York Giants: &#39;I should have known better&#39;</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/odell-beckham-jr.jpg?ve=1&amp;tl=1" alt="小奥德尔·贝克汉姆感叹自己短暂重返纽约巨人队：“我本该更清楚”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>对于奥德尔·贝克汉姆来说，这次命运般重返纽约巨人队的经历，持续的时间虽短，却也曾令人愉快。上周球队将他裁掉时，他一直保持沉默，这似乎表明他对球队给予的机会以及这次重聚持续的时间心存感激。</p>
+<p>然而，周六贝克汉姆在一名球迷的Instagram账号下留言后，事情的叙事完全改变了。</p>
+<p>前NFL球星认为，重返巨人队的奥德尔·贝克汉姆二世“仍比NFL大多数外接手更出色”</p>
+<p>没错，这就是2026年：球迷可以发布对NFL球队教练、总经理和经营决策的抱怨，而一名心怀不满的前球员也可以加入讨论并表示认同。</p>
+<p>显然，贝克汉姆认同这样一种说法：巨人队利用了他，而作为回报只给了他很少的钱。这令人意外。</p>
+<p>贝克汉姆在回复这条帖子时抱怨道：“我非常聪明！！！！但我没看透这一点，我的兄弟。他们把我骗了！！！”</p>
+<p>“除了你说的钱之外，他们还赢在了我身上，我成就了他们。我谦卑地来到这里，接受了老将最低薪资，然后靠自己赢得了位置，而且从没提过钱的事——我知道自己能为所有人带来收入。”</p>
+<p>“我告诉你，我是个成年人，这件事并没有伤害到我，但他们那样裁掉我时，确实让我受伤了，因为我心里有一部分在想：我本该更清楚。”</p>
+<p>巨人队试训包括奥德尔·贝克汉姆二世在内的多名外接手，而老鹰队则寻求交易A·J·布朗</p>
+<p>贝克汉姆与巨人队签下了一份为期一年的老将薪资福利合同。这意味着球队无需向他支付老将最低薪资，合同中也没有保障性收入。</p>
+<p>这份合同价值130万美元。</p>
+<p>而且，这曾经是一个有趣的话题，至少短暂如此。贝克汉姆最初于2014年至2018年效力于巨人队，那段时间他一度像是这座城市的王子。</p>
+<p>他的回归被视为一次温暖的主场团聚。贝克汉姆曾表示，他从未想过离开，也很高兴能够回来。他甚至没有要求拿回自己原来的号码。</p>
+<p>但相比球场上的表现，这次回归在媒体报道中更有看点，因为现年33岁的贝克汉姆只参加了3场比赛，在仅被传球一次后，竟然一次接球也没有。</p>
+<p>贝克汉姆于9月29日被裁。几天后，被裁的刺痛感袭来。</p>
+<p>贝克汉姆写道：“现在让我告诉你真正的事实，真正刺痛我内心深处的是：回到家，看到我的儿子在完全不知道发生了什么的情况下，因为我回来而如此开心，还谈论我的工作和13号球衣，这让我彻底崩溃了。”</p>
+<p>贝克汉姆指责巨人队“敷衍地打发了他”，对此感到不满，因为这意味着在训练营、季前赛以及9月的大部分时间里，他都无法争取其他球队的机会。</p>
+<p>“我不知道他们为什么还要那样敷衍我。我本来完全可以在今年为某支球队效力并产生影响——我这话是发自内心的，一个因上帝和人生而保持谦卑的人这样说。”</p>
+<p>《克雷格·卡顿秀》——不加过滤、不道歉、不容错过。立即下载他的每日播客！</p>
+<p>可以想见，贝克汉姆把心中的一切公开说出来后，感觉轻松了一些。</p>
+<p>但这或许并不是明智之举。因为裁掉一名球员，就像签下一名球员一样，都可能只是暂时的决定。</p>
+<p>如果巨人队的外接手遭遇伤病等情况，球队完全可能考虑让贝克汉姆回归。但如今贝克汉姆已经公开批评球队，这可能会带来问题。</p>
+<p>毕竟，大多数球队都不愿重新签回曾公开批评过自己的球员。</p>
+<p>在X上关注阿曼多·萨尔格罗：@ARMANDOSALGUERO</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-05 03:14 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-04/10707993.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/odell-beckham-jr-laments-short-lived-return-new-york-giants-should-have-known-better" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-big-beefy-whitetail-buck-5cb3c2fb039d3b8d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1400" data-content-paragraphs="24" data-published-at="2026-10-04T19:08:51.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-05 03:08</span>
+</div>
+
+### [乡村歌星Ella Langley只想要一样东西——一头巨大、“壮实”的白尾鹿公鹿](https://www.foxnews.com/outkick-sports/country-star-ella-langley-wants-one-thing-big-beefy-whitetail-buck)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Country star Ella Langley only wants one thing — and it&#39;s a big, &#39;beefy&#39; whitetail buck</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ella-langley-performs-nashville.jpg?ve=1&amp;tl=1" alt="乡村歌星Ella Langley只想要一样东西——一头巨大、“壮实”的白尾鹿公鹿" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>显然，Ella Langley对自己的梦想狩猎有着非常具体的设想。</p>
+<p>而且，出人意料的是，这个设想并不包括任何 exotic 的猎物。</p>
+<p>点击此处获取OutKick Outdoors的更多报道</p>
+<p>在一段于2024年CMA音乐节期间拍摄、最近重新流传起来的视频中，这位乡村歌手被问及她的梦想狩猎会是什么样。她的回答相当简单。</p>
+<p>“我的梦想是一头巨大的白尾鹿，”Langley说。</p>
+<p>在被追问细节后，她说得更具体了。Langley表示，她想要一头巨大、 “壮实”的公鹿，并且更倾向于使用步枪，可能是她的.30-06或.308——她说自己曾用后者猎杀过许多鹿。她还开玩笑说，虽然自己也可以用弓箭，但与步枪相比，那样“更像是一场猜谜游戏”。</p>
+<p>总结一下：用步枪猎一头大公鹿。没必要把事情想得太复杂，对吧？</p>
+<p>这段旧视频在一个颇为微妙的时间点重新流传起来。最近，Langley因狩猎一事遭遇了网络上某些完全可以预料的愤怒批评。</p>
+<p>几周前，Langley在阿拉巴马州与自己猎获的公鹿合影的旧照片，开始再次在社交媒体上流传。批评者表现得好像他们揭露了什么黑暗秘密，尽管这些照片本来就是Langley本人发布的。</p>
+<p>如果说发现某人公开发布的照片、证明她正在公开做自己公开喜欢做的事，也算“当场抓获”，那可真是再合适不过了。</p>
+<p>9月21日，Porch Light Unfiltered页面最近发布的另一段旧狩猎视频，则更加明显地展现了Ella对这项运动的热爱。</p>
+<p>在那段视频中，Langley被问及自己在狩猎中犯过的最大错误或最大的遗憾。她的回答十分令人难受。</p>
+<p>“我猎杀过的最大的一头鹿，我从来没有找到它，”她说，并称那是“我在猎鹿过程中学到的最艰难的教训之一”。</p>
+<p>RILEY GREEN在犹他州山区用弓箭猎获一头巨大的公麋鹿后，填满了冷冻柜</p>
+<p>Langley解释说，她是在高中时射中那头公鹿的，当时距离参加ACT考试已经很近了。她兴奋过度，过快地去寻找猎物，没有给鹿在中箭后留下足够的时间。她最终意识到，自己的行动惊扰了那头鹿；尽管她和父亲一起寻找，他们始终没能找到那只动物。</p>
+<p>显然，这件事至今仍让她感到非常难过。</p>
+<p>“噢，这件事一直折磨着我，”Langley说。她补充道，除了失去那头鹿之外，这段经历之所以令她难受，还因为夺走一只动物的生命是“一件严肃的事情”。</p>
+<p>与任何一张旧照片相比，这一点或许更能说明Langley是一名怎样的猎人。她并不是因为错失一件可以挂在墙上的战利品而悲伤。真正困扰她的是，她夺走了一只动物的生命，却没能找到它，也没能取回并利用它的肉——显然，她并不轻视这份责任。</p>
+<p>这样一来，近期围绕她那些旧鹿猎获照片产生的愤怒，看起来就更加可笑了。</p>
+<p>Langley从来没有刻意隐瞒自己打猎这一事实。这些重新流传的视频只不过进一步印证了这一点。</p>
+<p>不过，网上有人因此生气，大概还不至于让她夜不能寐。</p>
+<p>毕竟，她的热门歌曲《Choosin’ Texas》如今已经连续24周位居《公告牌》百强单曲榜第一，延续了其作为历史上持续时间最长榜首歌曲的纪录。</p>
+<p>所以，当仇恨者们对旧狩猎照片怒火中烧、试图寻找取消她的理由时，Ella Langley正忙着追逐巨大的白尾鹿，并改写《公告牌》历史。</p>
+<p>喜欢狩猎和户外活动的一切内容？请在Instagram和TikTok上关注OutKick Outdoors！</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-05 03:08 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/country-star-ella-langley-wants-one-thing-big-beefy-whitetail-buck" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ests-vp-feeling-insecure-429c4f714bc4f627" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="955" data-content-paragraphs="14" data-published-at="2026-10-04T19:00:56.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-05 03:00</span>
+</div>
+
+### [克鲁兹与万斯的竞争升温：这名得州参议员暗示副总统“缺乏安全感”](https://www.foxnews.com/politics/cruz-vance-rivalry-heats-texas-senator-suggests-vp-feeling-insecure)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Cruz-Vance rivalry heats up as Texas senator suggests VP is &#39;feeling insecure&#39;</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ted-cruz-jd-vance-republican-convention.jpg?ve=1&amp;tl=1" alt="克鲁兹与万斯的竞争升温：这名得州参议员暗示副总统“缺乏安全感”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>得州联邦参议员特德·克鲁兹指责副总统J·D·万斯“缺乏安全感”。此前，万斯暗示这名得州共和党人已经在为2028年竞选总统铺路，导致两名可能争夺共和党总统候选人提名的人士之间的公开冲突升级。</p>
+<p>克鲁兹周六在接受《政客》杂志电话采访时回应万斯的说法称：“根据我的经验，人们在缺乏安全感时，会进行政治上的猛烈抨击。”万斯此前在接受美国全国广播公司新闻台（NBC News）采访时声称，克鲁兹已经在竞选总统，“这一点非常明显”。</p>
+<p>克鲁兹对《政客》杂志表示：“所以，他想发表什么评论都可以。我会继续专注于中期选举，并在未来30天的选举日帮助我们取得胜利。”</p>
+<p>万斯在共和党全国代表大会主题演讲中透露其美国愿景的那句话</p>
+<p>万斯是在周四接受NBC News采访时作出上述指责的。</p>
+<p>万斯对该媒体表示：“在我看来，此时此刻，特德·克鲁兹显然正在竞选总统。此时此刻，我没有这样做。我正努力帮助共和党人当选。这就是我将继续做的事情。”</p>
+<p>万斯被认为是2028年共和党总统候选人提名的可能竞争者。克鲁兹曾在2016年竞逐共和党总统候选人提名，也没有排除再次竞选白宫的可能性。</p>
+<p>今年8月，在被问及2028年大选时，克鲁兹告诉MS NOW：“我当然会参与讨论。”</p>
+<p>独家：共和党人面临艰难的中期选举形势之际，万斯在国会山举行小范围亲密会谈的内幕</p>
+<p>克鲁兹周六告诉《政客》杂志，他仍专注于帮助共和党人在11月继续控制众议院和参议院，并提到自己代表共和党候选人在佐治亚州、艾奥瓦州、内布拉斯加州、南卡罗来纳州以及他的家乡俄亥俄州开展竞选活动。他告诉该媒体，本月还计划前往阿拉斯加州、佛罗里达州、北卡罗来纳州和南卡罗来纳州。</p>
+<p>克鲁兹对该媒体表示：“在过去10年里，美国没有哪位共和党人比我为更多的参议员候选人、众议员候选人和州长候选人助选，而今年也不会例外。”</p>
+<p>这类竞选活动包括在万斯2022年成功竞选俄亥俄州联邦参议员期间为其提供帮助。</p>
+<p>克鲁兹对《政客》杂志表示：“事实上，具有讽刺意味的是，万斯竞选俄亥俄州参议员时，我曾与J·D·万斯一起在路上奔波一整天，为他助选。他赢得那场选举让我非常高兴，也很高兴能够帮助他。”</p>
+<p>万斯也一直在为共和党候选人助选，上周曾在得州和佛罗里达州参加竞选活动。他计划于周一在阿拉斯加州举行一场集会。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-05 03:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/cruz-vance-rivalry-heats-texas-senator-suggests-vp-feeling-insecure" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 ::::
