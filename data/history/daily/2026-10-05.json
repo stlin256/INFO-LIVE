@@ -1,5 +1,1550 @@
 [
   {
+    "timestamp": 1791166903839,
+    "timeDisplay": "2026-10-05 10:21 (UTC+8)",
+    "date": "2026-10-05",
+    "runId": "feed-20261005T020934836Z-nxho5b",
+    "generatedAt": "2026-10-05T02:21:43.839Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 10:09",
+      "lead": "本轮抓取于 2026-10-05 10:09 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】要闻：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中。",
+        "【undefined】由于人工智能提交内容“大幅增加”，谷歌冻结了其开源漏洞赏金计划：谷歌称人工智能提交内容“大幅增加”，因此暂停了其开源漏洞赏金计划，预计明年恢复。 去年，《TechCrunch》报道，网络安全专家警告称，人工智能生成的低质内容对漏洞赏金计划构成严重风险。如今，这似乎正是谷歌开源软件漏洞奖励计划所面临的问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。 谷歌在X平台和该计划网站发布消息称，漏洞赏金计划已于10月1日暂停，并承诺将在2027年第一季度提供“最新进展”。据Tom’s Hardw",
+        "【undefined】“超级智能”和一项不具约束力的安全协议能解决人工智能的形象问题吗？：唐纳德·特朗普总统本周邀请了人工智能领域的许多重量级人物参加活动——部分原因是宣布美国政府不再称其为“人工智能”。现在的称呼是“超级智能”。",
+        "【undefined】酋长队泰昆·桑顿在改变比赛的接球后，竟没意识到自己的脚朝向错误：堪萨斯城酋长队外接手泰昆·桑顿在周日对阵拉斯维加斯突袭者队的比赛中，遭遇了你所能见到的最骇人的脚踝伤势之一。",
+        "【undefined】NFL正在审查事件：边裁杰夫·西曼疑似向红雀队的特雷·麦克布莱德辱骂：美国国家橄榄球联盟（NFL）正在审查一起事件：周日亚利桑那红雀队客场对阵纽约巨人队的比赛中，一名裁判似乎对近端锋特雷·麦克布莱德破口大骂。",
+        "【undefined】泰里克·希尔神秘发帖引发重返酋长队猜测，老东家两名接球手因伤缺阵：第4周比赛结束后，堪萨斯城酋长队仍保持不败，不过在周日晚战胜拉斯维加斯突袭者队后，他们在外接手位置上可能遇到一些麻烦。",
+        "【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰行为：有关这一主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。 戴尔·考德威尔因性骚扰调查辞职，但坚称人工智能表示他是无辜的。 这位作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。 查看特伦斯·奥布莱恩的全部文章",
+        "【undefined】AI无法在《星际争霸》中击败人类，于是决定作弊：该主题的文章将被添加到你的每日电子邮件摘要和首页信息流中。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可核实的文章信息",
+      "lead": "证据包未提供文章标题、正文、来源、发布时间或可引用证据；相关目录条目也尚未完成中文翻译，因此无法形成有依据的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息缺失",
+          "analysis": "当前材料不足以确认具体事件、主体、时间线或影响，不能据此提炼可靠主题或作出趋势判断。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 69,
+      "completedTasks": 69,
+      "succeeded": 30,
+      "degraded": 39,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 69,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 728958,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "succeeded": 21,
+          "degraded": 32
+        },
+        "fact-extractor": {
+          "attempts": 4,
+          "degraded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 4,
+          "succeeded": 2,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 69,
+          "succeeded": 30,
+          "degraded": 39
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-21-translator-0",
+      "article-24-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-36-translator-1",
+      "article-36-translator-2",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-38-translator-1",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-42-translator-1",
+      "article-42-translator-2",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:16.561Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.215Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:16.572Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.247Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.465Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.515Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.482Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.668Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.508Z",
+        "lastSuccessAt": "2026-10-05T02:09:19.941Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.496Z",
+        "lastSuccessAt": "2026-10-05T02:09:19.620Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:19.941Z",
+        "lastSuccessAt": "2026-10-05T02:09:20.086Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:16.951Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.003Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.659Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.825Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.654Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.737Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.325Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.792Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.247Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.599Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.158Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.726Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.215Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.397Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:19.475Z",
+        "lastSuccessAt": "2026-10-05T02:09:20.123Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.776Z",
+        "lastSuccessAt": "2026-10-05T02:09:19.987Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:19.252Z",
+        "lastSuccessAt": "2026-10-05T02:09:19.678Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.726Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.082Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.433Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.465Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.397Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.482Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:16.920Z",
+        "lastSuccessAt": "2026-10-05T02:09:16.951Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:15.709Z",
+        "lastSuccessAt": "2026-10-05T02:09:16.920Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.004Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.076Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.940Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.298Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-05T02:09:17.792Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.944Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.128Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.243Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.671Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.668Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.944Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:19.620Z",
+        "lastSuccessAt": "2026-10-05T02:09:22.336Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.076Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.172Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.298Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.508Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.266Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.292Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.339Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.776Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:19.678Z",
+        "lastSuccessAt": "2026-10-05T02:09:20.119Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.515Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.575Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.737Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.339Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.892Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.004Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.335Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.712Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-05T02:09:18.172Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.128Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.496Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:15.706Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.433Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.292Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.631Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:15.707Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.335Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.631Z",
+        "lastSuccessAt": "2026-10-05T02:09:20.351Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.877Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.940Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.003Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.158Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.082Z",
+        "lastSuccessAt": "2026-10-05T02:09:18.243Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.825Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.892Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.671Z",
+        "lastSuccessAt": "2026-10-05T02:09:19.252Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:18.712Z",
+        "lastSuccessAt": "2026-10-05T02:09:19.475Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.599Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.659Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:17.575Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.654Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:15.691Z",
+        "lastSuccessAt": "2026-10-05T02:09:16.572Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:15.704Z",
+        "lastSuccessAt": "2026-10-05T02:09:16.561Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T02:09:15.705Z",
+        "lastSuccessAt": "2026-10-05T02:09:17.324Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-1005-svo-2122213901-html-614c4f4f4967db5c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Расчет FPV-дронов \"Центра\" уничтожил живую силу ВСУ под Добропольем",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T02:06:52.000Z",
+        "pubTime": "2026-10-05 10:06",
+        "url": "https://ria.ru/20261005/svo-2122213901.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/08/0f/2111044379_0:45:3072:1773_650x0_80_0_0_ae47d60fd97cd7bc583828537b7536bb.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/svo-2122213901.html",
+            "publishedAt": "2026-10-05T02:06:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-he-new-fitbit-edge-leaks-5502c042ada317c3",
+        "title": "要闻：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中",
+        "originalTitle": "The new Fitbit Edge leaks",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:02:09.000Z",
+        "pubTime": "2026-10-05 05:02",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nWe don’t know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google’s rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn’t as expansive as a proper smartwatch.\n\nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support for things like Google Maps and YouTube Music. Beyond that, not a ton is known.\n\nThe Fitbit Charge line was last updated in 2023, so a new midrange tracker is long overdue. While we don’t have any word on price or release date yet, somewhere in the $150 to $200 range seems like a safe bet. The Air costs $99.99 and the Watch starts at $399.99, so the Edge would clearly fall somewhere in the middle. The Charge 6 currently goes for $159.95.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到您的每日新闻摘要和主页信息流中。\n\n谷歌的中端 Fitbit Edge 在曝光图片中展示了多种外观和配色。\n\n该作者发布的帖子将被添加到您的每日新闻摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\n我们对 Fitbit Edge 还不太了解，但它似乎是中端 Charge 系列的继任产品。此前已有相关信息泄露；不过，从 Android Headlines 发布的这些图片中，我们可以清楚地看到，这款传闻中的谷歌健身追踪器似乎介于 Pixel Watch 和 Fitbit Air 之间。它配备了一块小屏幕，可以显示一些小组件，但显然不如真正的智能手表那样宽大。\n\n据称，这款以健身功能为优先的可穿戴设备将拥有七天续航时间，并内置 GPS 和高度计，功能远比简约版 Air 更强。它还将对 Google 地图和 YouTube Music 等应用提供有限支持。除此之外，目前所知信息并不多。\n\nFitbit Charge 系列上一次更新是在 2023 年，因此一款新的中端追踪器早就该推出了。虽然目前还没有价格或发布日期方面的消息，但预计售价在 150 至 200 美元之间似乎比较合理。Air 的售价为 99.99 美元，Watch 的起售价为 399.99 美元，因此 Edge 的定位显然会介于两者之间。目前 Charge 6 的售价为 159.95 美元。\n\n一份免费提供的每日新闻摘要，汇总最重要的新闻。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "来源叙事重点：将 Fitbit Edge 描绘为 Charge 系列的潜在后继产品，并定位为介于 Pixel Watch 与 Fitbit Air 之间的“健身优先”可穿戴设备。报道重点包括泄露图片所呈现的外观与配色、可能具备的小尺寸屏幕、约七天续航、内置 GPS 和高度计，以及对 Google Maps、YouTube Music 等应用的有限支持。文章还通过 Air、Charge 6 和 Pixel Watch 的价格，推测其可能处于 150 至 200 美元区间，但未确认发布日期或售价。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T21:02:09.000Z",
+            "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+          }
+        ]
+      },
+      {
+        "id": "story-f-4f1b-ad04-eac78c4f18c0-6ded5318428acc1f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Flávio Bolsonaro takes lead in first round of Brazil election",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T00:22:46.000Z",
+        "pubTime": "2026-10-05 08:22",
+        "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb04d8214-275a-461c-84cf-be53cef53857.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Son of jailed former far-right president is the unexpected favourite against Luiz Inácio Lula da Silva",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 08:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-05T00:22:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-fs-of-up-to-300-as-korea-3d7cd241fa0d9073",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump threatens tariffs of up to 300% as Korea faces pressure over US investment",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T01:11:05.000Z",
+        "pubTime": "2026-10-05 09:11",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxvrjw/trump_threatens_tariffs_of_up_to_300_as_korea/",
+        "imageUrl": "https://external-preview.redd.it/oGVPEDAJDFQDcxgOfWfzQn09CF8NIunFp6AgJuu40nc.jpeg?width=640&crop=smart&auto=webp&s=ccb36ed56e37d0c791131a1da1755fc9f37fbf2b",
+        "fullContent": "submitted by /u/rdh2dmd [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 09:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxvrjw/trump_threatens_tariffs_of_up_to_300_as_korea/",
+            "publishedAt": "2026-10-05T01:11:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--pollinators-street-html-545a41424d8dac26",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nature-strip gardens are a paradise for pollinators in your street",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T00:30:01.000Z",
+        "pubTime": "2026-10-05 08:30",
+        "url": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/nature-strip-gardens-a-4.jpg",
+        "fullContent": "In front of most Australian houses, between the sidewalk and the road, runs a strip of land most people never really think about. In Australia, it's called the nature strip, but it goes by other names in other regions, including a verge, parkway or tree lawn.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
+            "publishedAt": "2026-10-05T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1005-mid-2122213745-html-39896a111bffc5cb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В МИД рассказали о принципах партнерства стран Латинской Америки",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T02:06:21.000Z",
+        "pubTime": "2026-10-05 10:06",
+        "url": "https://ria.ru/20261005/mid-2122213745.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/02/16/1853688546_0:51:3072:1779_650x0_80_0_0_115c4eba4a8cea0c6350b5fcc90e6731.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/mid-2122213745.html",
+            "publishedAt": "2026-10-05T02:06:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t-rise-in-ai-submissions-562acc36900e8903",
+        "title": "由于人工智能提交内容“大幅增加”，谷歌冻结了其开源漏洞赏金计划",
+        "originalTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:31:07.000Z",
+        "pubTime": "2026-10-05 04:31",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "imageUrl": null,
+        "fullContent": "Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.\n\nLast year, TechCrunch reported that cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software.\n\nIn posts on X and the program website, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027. According to Tom’s Hardware, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations.\n\n“This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said.\n\nIn the meantime, participants are encouraged to consider Google’s other bug bounty programs.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "谷歌称人工智能提交内容“大幅增加”，因此暂停了其开源漏洞赏金计划，预计明年恢复。\n去年，《TechCrunch》报道，网络安全专家警告称，人工智能生成的低质内容对漏洞赏金计划构成严重风险。如今，这似乎正是谷歌开源软件漏洞奖励计划所面临的问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。\n谷歌在X平台和该计划网站发布消息称，漏洞赏金计划已于10月1日暂停，并承诺将在2027年第一季度提供“最新进展”。据Tom’s Hardware报道，谷歌工程师和开源项目维护者被大量报告压垮，其中一些报告无效，或包含虚构内容。\n该公司表示：“此次暂停是由于自动提交内容大幅增加，而其中绝大多数都不具备有效性。”\n在此期间，谷歌鼓励参与者考虑参加其其他漏洞赏金计划。\n第二张通行证享受五折优惠\nDisrupt体验旨在与他人共享。购买您的通行证，并邀请一位同事、合作伙伴或同行以五折价格参加。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。\n每个工作日和周日，您都可以获取TechCrunch报道的精华内容。\nTechCrunch Mobility是您获取交通运输新闻和洞察的目的地。\n初创企业是TechCrunch报道的核心，因此每周接收我们精选的报道。\n为行业中积极行动者和重要人物提供开启一天所需的信息。\n提交电子邮件即表示您同意我们的《服务条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦生成式 AI 自动化提交对开源漏洞奖励计划审核效率和有效性的冲击。文章叙述称，Google 因自动化提交数量显著增加且绝大多数无效，于 2026 年 10 月 1 日暂停开源软件漏洞奖励计划，预计在 2027 年第一季度更新后续安排；同时提到 Google 工程师和开源维护者可能因无效报告或包含幻觉内容的报告而不堪重负。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:31:07.000Z",
+            "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4f23-a6fe-63f39c52c275-f9ed79a57b3e8cd7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jewish groups attack Greens after anti-Zionism motion passes",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:19:05.000Z",
+        "pubTime": "2026-10-05 07:19",
+        "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F923395b0-317b-40ca-a2b7-856d5141ee70.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 07:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T23:19:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-losed-for-quarantines-in-53b2dc060c04d3c0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "5 hospitals have been closed for quarantines in Siberia due to a possible plague outbreak.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:15:40.000Z",
+        "pubTime": "2026-10-05 07:15",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxtfy0/5_hospitals_have_been_closed_for_quarantines_in/",
+        "imageUrl": "https://external-preview.redd.it/60uV7d_CrPRCeNHitQQ_u0B-KxagVuoDW7ehzs61H8o.jpeg?width=640&crop=smart&auto=webp&s=9b888635bd2f13264a6eff81b4b7a765da9fe4b9",
+        "fullContent": "submitted by /u/Prepper-Pup [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxtfy0/5_hospitals_have_been_closed_for_quarantines_in/",
+            "publishedAt": "2026-10-04T23:15:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--beneath-antarctica-html-b8cba6b205e9e37d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A climate threat may lurk beneath Antarctica's last great unknown",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:01.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-scientis.jpg",
+        "fullContent": "A region of Antarctica with some of the greatest potential to reshape the natural world and human society is also the least scientifically understood and explored.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+            "publishedAt": "2026-10-04T23:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1005-vsu-2122213531-html-903f5bddd5cc3059",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ВСУ не оказывали сопротивления при освобождении харьковской Крейдянки",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T02:04:04.000Z",
+        "pubTime": "2026-10-05 10:04",
+        "url": "https://ria.ru/20261005/vsu-2122213531.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/08/0c/2110510441_0:80:3072:1808_650x0_80_0_0_6fa3bb7b2826328a66af6e04fb62518b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 10:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/vsu-2122213531.html",
+            "publishedAt": "2026-10-05T02:04:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--solve-ais-image-problem-5eabcfd97d22a1c1",
+        "title": "“超级智能”和一项不具约束力的安全协议能解决人工智能的形象问题吗？",
+        "originalTitle": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:08:34.000Z",
+        "pubTime": "2026-10-05 04:08",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "imageUrl": null,
+        "fullContent": "President Donald Trump hosted many of the biggest names in artificial intelligence this week — in part to announce that the U.S. government isn’t calling it artificial intelligence anymore. Now it’s super intelligence.\n\nOn the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the motivation behind the meeting and what effect it might have on the AI industry. We were all pretty skeptical that the “Joint Commitment on Frontier Responsibilities” that the executives signed will amount to much, especially since — as Sean noted — it’s “deeply non-binding,” at least from a legal prospective. (Instead, Trump said he considers it “morally binding.”)\n\nKirsten suggested that the meeting’s real significance may have been as “a rebranding effort around AI.” (An effort that continued this weekend with Trump’s announcement of a new Super Intelligence Force.) For her, the big message was, “AI is going to kill us, it’s scary, it is going to take jobs — but super intelligence is not.”\n\nKeep reading for a preview of our conversation, edited for length and clarity.\n\nAnthony Ha: Officially, by order of the president of the United States, it’s not artificial intelligence anymore, it’s super intelligence. We were talking about this last week, because this is something [Trump has] been hinting at — he doesn’t do hints, he’s been saying [it] for a while. But now it’s signed into executive order. If you’re an official U.S. representative, you are supposed to say super intelligence, not artificial intelligence.\n\nAnd this was also part of this broader announcement around AI safety, which I think is both interesting for this pact that was announced, but also the fact that it happened at all. It seemed to have come together fairly quickly, because just two weeks ago, a week ago, President Trump was saying, “We don’t need any of this, we need to lead in AI, we can’t constrain it in any way, we don’t need any regulation, anyone who’s saying that there’s any danger from AI is essentially a Chinese or Democratic plant.” And yet all these AI CEOs got together with him earlier this week and signed this pact.\n\nKirsten Korosec: Leading up to that, we should say, not only was there pushback on regulation, and we can talk about whether this executive order even does any of that — I would say no, there’s a little bit of theater there — but the important and interesting thing is that just days ago, Anthropic was really in the doghouse, if you will, in terms of what was happening behind the scenes with President Trump.\n\nThat all changed when [Anthropic CEO] Dario Amodei was invited to a 10 p.m. dinner. He had this sit-down, and then just days later, we had this luncheon, and at this luncheon, we have pretty much every tech power broker from every major tech company that exists. So Mark Zuckerberg was there, Jeff Bezos was there, Elon Musk was there, Dario of course was there, they were all there.\n\nI’m wondering if any of you watched the press conference that happened afterwards, which there’s been many, many memes about, because of the interesting, funny behavior when you bring a bunch of tech CEOs together.\n\nBut I guess my bigger question for both of you is: What does this all mean? And does it mean anything?\n\nSean O’Kane: How much time do you have? First off, sure, they had dinner, Trump and Dario. If you read the Time magazine interview that Trump just did, your guess is as good as mine as to how informed he was that that dinner was even going to be happening, which is a strange reality to live in, but it’s just the one we inhabit.\n\nI will also say one other thing that makes me skeptical — surprise, surprise — of how repaired the relationship is between the administration and Anthropic, is that for as much as there are clearly people trying to put those two groups together, the Defense Department is still very adamant that Anthropic is terrible and woke and and a national security risk. Emil Michael goes off on Anthropic every other day on X, it seems. I think there’s still some distance there despite Dario showing up to this thing.\n\nAs far as the agreement and all of that, let’s be real, they misspelled the United States on the agreement that they all signed. It is also just deeply non-binding. I mean, it is completely voluntary. I think my favorite aspect about it was that Trump described it as quote “morally binding,” which is just a level of abstraction and terminology that I’ve never heard of before.\n\nAnthony: In terms of Anthropic and their relationship with the Trump administration, there’s been a sort of a lot of reporting, especially during that big blow up with the Defense Department, that different parts of the White House had different relationships with Anthropic. The Treasury Secretary seemed to be a big fan, whereas the Defense Department — definitely not big fans, or at least unhappy with some of the conditions that Anthropic were trying to put on the use of their technology.\n\nIn that sense, it feels like nothing has necessarily changed. There are people in the White House who want to use Anthropic’s technology, want them involved in these decisions, and others who really, really, really, really don’t.\n\nIn terms of the agreement, it seems not super meaningful. What is meaningful is just the fact that they felt that this was something worth doing. As indicated by the fact that they misspelled United States, it seemed like they rushed to put all of this together. [But] the fact that this kind of gesture was needed seems significant, even if I don’t think the agreement itself is going to lead to any major changes.\n\nKirsten: I do think that there was one important thing that happened. And to me, this is the point of it, which was a rebranding exercise around AI. “AI is going to kill us, it’s scary, it is going to take jobs, but super intelligence is not.” This isn’t my personal belief. To me, that was the message.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar",
+        "fullTranslation": "唐纳德·特朗普总统本周邀请了人工智能领域的许多重量级人物参加活动——部分原因是宣布美国政府不再称其为“人工智能”。现在的称呼是“超级智能”。\n\n在最新一期的TechCrunch《Equity》播客中，我与克尔斯滕·科罗塞茨和肖恩·奥凯恩讨论了这次会议背后的动机，以及它可能对人工智能行业产生的影响。对于这些高管签署的《前沿领域责任联合承诺》能否产生多大作用，我们都相当怀疑，尤其是正如肖恩所指出的那样，从法律角度看，这份承诺“完全不具约束力”。（相反，特朗普称其具有“道德约束力”。）\n\n克尔斯滕认为，这次会议的真正意义可能在于“围绕人工智能进行品牌重塑”。（本周末，特朗普宣布成立新的“超级智能部队”，这一行动仍在继续。）对她而言，传递出的重要信息是：“人工智能会杀死我们，它很可怕，它会夺走工作——但超级智能不会。”\n\n请继续阅读我们对话的预览版，内容经过编辑，以便篇幅简洁、表达清晰。\n\n安东尼·哈：正式地说，根据美国总统的命令，现在它不再叫人工智能，而是叫超级智能。我们上周就讨论过这件事，因为这是特朗普一直在暗示的事情——他其实不怎么暗示，他已经说了一段时间了。但现在，这件事已经被写入行政命令。如果你是美国官方代表，就应该说“超级智能”，而不是“人工智能”。\n\n这也是围绕人工智能安全发布的更广泛声明的一部分。我认为，这份协议本身很有意思，但它能够达成也同样值得关注。事情似乎推进得相当快，因为就在两周前，或者说一周前，特朗普总统还表示：“我们不需要这些，我们必须在人工智能领域领先，我们不能以任何方式限制它，我们不需要任何监管，任何说人工智能存在危险的人，本质上都是中国人或民主党安插的人。”然而，本周早些时候，所有这些人工智能公司的首席执行官却与他会面并签署了这份协议。\n\n克尔斯滕·科罗塞茨：在此之前，我们应该说明，不仅有人反对监管——而且我们可以讨论这份行政命令是否真的涉及监管，我认为并没有，其中有一点表演成分——但重要且有趣的是，就在几天前，Anthropic在特朗普总统那里确实处境不佳，如果可以这样说的话，至少在幕后发生的事情上是如此。\n\n这一切在Anthropic首席执行官达里奥·阿莫代伊受邀参加一场晚上10点的晚宴后发生了改变。他们进行了这次会谈，几天后又举行了午餐会。在这次午餐会上，几乎所有主要科技公司的科技权力掮客都来了。马克·扎克伯格来了，杰夫·贝索斯来了，埃隆·马斯克来了，达里奥当然也来了，他们全都出席了。\n\n我想知道你们有没有看过之后举行的新闻发布会。那场发布会引发了大量网络梗，因为当你把一群科技公司首席执行官聚在一起时，会出现一些有趣、滑稽的举动。\n\n但我想问你们两位的更大问题是：这一切意味着什么？它真的意味着什么吗？\n\n肖恩·奥凯恩：你有多少时间？首先，没错，特朗普和达里奥共进了晚餐。如果你读过特朗普刚刚接受《时代》杂志的采访，就会发现，他对那场晚餐是否会举行究竟知情多少，你和我一样都只能猜测。这是一个生活在其中会觉得很奇怪的现实，但这就是我们所处的现实。\n\n我还要说一件让我对政府与Anthropic的关系究竟修复到什么程度持怀疑态度的事情——真是令人意外，对吧？尽管显然有人在努力撮合这两个群体，但美国国防部仍然坚称Anthropic很糟糕、很“觉醒”，并且构成国家安全风险。埃米尔·迈克尔似乎隔三差五就在X上抨击Anthropic。我认为，尽管达里奥出席了这次活动，双方之间仍然存在一定距离。\n\n至于这份协议以及相关的一切，我们还是实事求是吧：他们在所有人签署的协议中把“美国”都拼错了。这份协议也确实完全不具约束力。我的意思是，它完全是自愿的。我最喜欢的部分之一，是特朗普把它称为“道德约束力”，这是我以前从未听说过的一种抽象程度和术语用法。\n\n安东尼：就Anthropic与特朗普政府的关系而言，此前已经出现了很多报道，尤其是在与国防部发生重大冲突期间。有报道说，白宫不同部门与Anthropic的关系各不相同。财政部长似乎很支持Anthropic，而国防部——肯定不是其支持者，至少对Anthropic试图为其技术的使用附加的一些条件感到不满。\n\n从这个意义上说，感觉并没有什么实质变化。白宫里有人想使用Anthropic的技术，希望Anthropic参与这些决策；但也有其他人对此极其、极其、极其、极其反感。\n\n至于这份协议，它似乎并没有太大意义。真正有意义的是，他们觉得这件事值得去做。正如把“美国”拼错这一点所表明的，他们似乎是仓促拼凑出这一切的。[但是，]需要做出这种姿态本身似乎就很重要，即使我不认为这份协议本身会带来任何重大变化。\n\n克尔斯滕：我确实认为，有一件重要的事情发生了。对我而言，这就是它的目的：围绕人工智能进行一次品牌重塑。“人工智能会杀死我们，它很可怕，它会夺走工作，但超级智能不会。”这不是我个人的看法，但在我看来，这就是他们想传达的信息。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是TechCrunch的周末编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司内容副总裁。他住在纽约市。\n\n如需联系安东尼，或核实以他的名义进行的联系，可发送电子邮件至anthony.ha@techcrunch.com。\n\n第二张通行证享受五折优惠\nDisrupt活动的意义在于分享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势能并发现创业生态系统的下一步，拓展您的视野。\n\n联邦法官称Flock是“无差别的大规模监控”\n\n亚马逊回应数据中心反弹：称已不再使用保密协议\n\n谷歌认为，SpaceX的星舰必须发射1800次，太空数据中心才能升空\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·拉奇参与决定军方下一步该做什么\n\nOpenAI 推出 Dots：其活泼可爱的智能体化身",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 28,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:08:34.000Z",
+            "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+          }
+        ]
+      },
+      {
+        "id": "story-w-50-for-first-time-html-e5de1749278418ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:00.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+        "imageUrl": null,
+        "fullContent": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. A few years ago, China blew past the threshold of 50% of all car sales being hybrids and EVs, and the share is now about 55%. But the rest of the world didn't follow until the Iran war disrupted the fuel markets. Global sales shares of EVs are far from the Chinese numbers, but the shift toward electric vehicles has been remarkably fast amid spiking gasoline and diesel prices, which pushed many consumers to choose EVs. The surge in gasoline prices this year led to the first dip in the share of gasoline-fueled cars below 50%, ever, according to data by automotive data and analytics provider Mobility Global cited by Nikkei Asia. Between January and June, sales of gas-powered vehicles, excluding hybrids, slumped by 10% from a year earlier, to 20.25 million cars, and their share of total global automotive sales fell by 3 percentage points to 49%, the data showed. Related G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis For years, the EV uptake in markets outside China was sluggish and lagging forecasts, but the Hormuz crisis, the $100 oil prices, and record diesel and gasoline prices pushed many consumers in Europe, South America, and Asia Pacific toward EVs. Battery electric vehicle sales in Europe, including the UK, Switzerland, and Norway, surged by 52.2% in August from a year earlier as record-high gasoline and diesel prices prompted drivers to flock to battery and hybrid vehicles, data by the European Automobile Manufacturers' Association, ACEA, showed last month. BEV sales in Germany, the biggest car market in Europe, soared by 75% in August year-over-year, as gasoline prices in Germany hit an all-time high of 2.31 euros per liter, or the equivalent of about $10 per gallon. EV sales in France, another major European market, more than doubled. In Germany, where the government introduced a purchase premium for EVs from January 2026, sales are accelerating, an analysis by the German Institute for Economic Research, DIW, showed earlier this week. One in every four passenger cars sold in Germany between January and August was a pure battery electric vehicle, while the share in August was even higher one in every three passenger cars sold was a BEV, according to the analysis. This compares to an average of 19% in 2025. Globally, electric vehicle sales have surged this year following the oil supply disruption in the Middle East and the second oil price shock in four years. Following a subdued start to the year, EV sales jumped in the second quarter after the Middle East crisis slashed crude supply and hiked oil and fuel prices, the International Energy Agency IEA said in July in an update to its annual EV outlook. EV sales rebounded sharply in the second quarter, rising by 35% compared with the first quarter \"as the energy crisis sparked by the war in the Middle East brought fuel price volatility back into sharp focus,\" the agency said. EV sales in the second quarter reached record-high levels in 50 countries as drivers preferred electric vehicles amid soaring fuel prices. In sizable car markets such as Brazil, India, Australia, and Vietnam, electric car sales roughly doubled between March and June compared with the same period in 2025, according to the IEA's analysis in the report. Moreover, as many as 90 countries saw annual growth in EV sales in the first half of the year. The accelerating EV adoption that began with the spike in oil and fuel prices is set to remain a trend in the global markets and could push the share of EVs in the passenger fleet above earlier expectations, analysts at Wood Mackenzie say. Challenges to accelerated adoption still remain, including the need for billions of U.S. dollars in investments in critical battery minerals supply and charging networks. Yet, the longer the Strait of Hormuz crisis roils global fuel markets, the stronger the case for EV adoption could become. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html"
+          }
+        ]
+      },
+      {
+        "id": "story-bombers-from-british-air-df3c22a6cbf12b89",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:04:45.000Z",
+        "pubTime": "2026-10-05 05:04",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+        "imageUrl": "https://external-preview.redd.it/jKJF7R6Ght6g2httx3J1jkZyW1eOpSw9Sf7nEyae8q8.png?width=640&crop=smart&auto=webp&s=54afd751269ce11a7923740bcab2e340402a00e9",
+        "fullContent": "submitted by /u/Immediate-Link490 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 05:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+            "publishedAt": "2026-10-04T21:04:45.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-1005-svo-2122213901-html-614c4f4f4967db5c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Расчет FPV-дронов \"Центра\" уничтожил живую силу ВСУ под Добропольем",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T02:06:52.000Z",
+        "pubTime": "2026-10-05 10:06",
+        "url": "https://ria.ru/20261005/svo-2122213901.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/08/0f/2111044379_0:45:3072:1773_650x0_80_0_0_ae47d60fd97cd7bc583828537b7536bb.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/svo-2122213901.html",
+            "publishedAt": "2026-10-05T02:06:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-he-new-fitbit-edge-leaks-5502c042ada317c3",
+        "title": "要闻：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中",
+        "originalTitle": "The new Fitbit Edge leaks",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:02:09.000Z",
+        "pubTime": "2026-10-05 05:02",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nWe don’t know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google’s rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn’t as expansive as a proper smartwatch.\n\nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support for things like Google Maps and YouTube Music. Beyond that, not a ton is known.\n\nThe Fitbit Charge line was last updated in 2023, so a new midrange tracker is long overdue. While we don’t have any word on price or release date yet, somewhere in the $150 to $200 range seems like a safe bet. The Air costs $99.99 and the Watch starts at $399.99, so the Edge would clearly fall somewhere in the middle. The Charge 6 currently goes for $159.95.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到您的每日新闻摘要和主页信息流中。\n\n谷歌的中端 Fitbit Edge 在曝光图片中展示了多种外观和配色。\n\n该作者发布的帖子将被添加到您的每日新闻摘要和主页信息流中。\n\n查看 Terrence O'Brien 的全部文章\n\n我们对 Fitbit Edge 还不太了解，但它似乎是中端 Charge 系列的继任产品。此前已有相关信息泄露；不过，从 Android Headlines 发布的这些图片中，我们可以清楚地看到，这款传闻中的谷歌健身追踪器似乎介于 Pixel Watch 和 Fitbit Air 之间。它配备了一块小屏幕，可以显示一些小组件，但显然不如真正的智能手表那样宽大。\n\n据称，这款以健身功能为优先的可穿戴设备将拥有七天续航时间，并内置 GPS 和高度计，功能远比简约版 Air 更强。它还将对 Google 地图和 YouTube Music 等应用提供有限支持。除此之外，目前所知信息并不多。\n\nFitbit Charge 系列上一次更新是在 2023 年，因此一款新的中端追踪器早就该推出了。虽然目前还没有价格或发布日期方面的消息，但预计售价在 150 至 200 美元之间似乎比较合理。Air 的售价为 99.99 美元，Watch 的起售价为 399.99 美元，因此 Edge 的定位显然会介于两者之间。目前 Charge 6 的售价为 159.95 美元。\n\n一份免费提供的每日新闻摘要，汇总最重要的新闻。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "来源叙事重点：将 Fitbit Edge 描绘为 Charge 系列的潜在后继产品，并定位为介于 Pixel Watch 与 Fitbit Air 之间的“健身优先”可穿戴设备。报道重点包括泄露图片所呈现的外观与配色、可能具备的小尺寸屏幕、约七天续航、内置 GPS 和高度计，以及对 Google Maps、YouTube Music 等应用的有限支持。文章还通过 Air、Charge 6 和 Pixel Watch 的价格，推测其可能处于 150 至 200 美元区间，但未确认发布日期或售价。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T21:02:09.000Z",
+            "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+          }
+        ]
+      },
+      {
+        "id": "story-f-4f1b-ad04-eac78c4f18c0-6ded5318428acc1f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Flávio Bolsonaro takes lead in first round of Brazil election",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T00:22:46.000Z",
+        "pubTime": "2026-10-05 08:22",
+        "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb04d8214-275a-461c-84cf-be53cef53857.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Son of jailed former far-right president is the unexpected favourite against Luiz Inácio Lula da Silva",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 08:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-05T00:22:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-fs-of-up-to-300-as-korea-3d7cd241fa0d9073",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump threatens tariffs of up to 300% as Korea faces pressure over US investment",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T01:11:05.000Z",
+        "pubTime": "2026-10-05 09:11",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxvrjw/trump_threatens_tariffs_of_up_to_300_as_korea/",
+        "imageUrl": "https://external-preview.redd.it/oGVPEDAJDFQDcxgOfWfzQn09CF8NIunFp6AgJuu40nc.jpeg?width=640&crop=smart&auto=webp&s=ccb36ed56e37d0c791131a1da1755fc9f37fbf2b",
+        "fullContent": "submitted by /u/rdh2dmd [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 09:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxvrjw/trump_threatens_tariffs_of_up_to_300_as_korea/",
+            "publishedAt": "2026-10-05T01:11:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--pollinators-street-html-545a41424d8dac26",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nature-strip gardens are a paradise for pollinators in your street",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T00:30:01.000Z",
+        "pubTime": "2026-10-05 08:30",
+        "url": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/nature-strip-gardens-a-4.jpg",
+        "fullContent": "In front of most Australian houses, between the sidewalk and the road, runs a strip of land most people never really think about. In Australia, it's called the nature strip, but it goes by other names in other regions, including a verge, parkway or tree lawn.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
+            "publishedAt": "2026-10-05T00:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1005-mid-2122213745-html-39896a111bffc5cb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В МИД рассказали о принципах партнерства стран Латинской Америки",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T02:06:21.000Z",
+        "pubTime": "2026-10-05 10:06",
+        "url": "https://ria.ru/20261005/mid-2122213745.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/02/16/1853688546_0:51:3072:1779_650x0_80_0_0_115c4eba4a8cea0c6350b5fcc90e6731.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/mid-2122213745.html",
+            "publishedAt": "2026-10-05T02:06:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-t-rise-in-ai-submissions-562acc36900e8903",
+        "title": "由于人工智能提交内容“大幅增加”，谷歌冻结了其开源漏洞赏金计划",
+        "originalTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:31:07.000Z",
+        "pubTime": "2026-10-05 04:31",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "imageUrl": null,
+        "fullContent": "Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.\n\nLast year, TechCrunch reported that cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software.\n\nIn posts on X and the program website, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027. According to Tom’s Hardware, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations.\n\n“This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said.\n\nIn the meantime, participants are encouraged to consider Google’s other bug bounty programs.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "谷歌称人工智能提交内容“大幅增加”，因此暂停了其开源漏洞赏金计划，预计明年恢复。\n去年，《TechCrunch》报道，网络安全专家警告称，人工智能生成的低质内容对漏洞赏金计划构成严重风险。如今，这似乎正是谷歌开源软件漏洞奖励计划所面临的问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。\n谷歌在X平台和该计划网站发布消息称，漏洞赏金计划已于10月1日暂停，并承诺将在2027年第一季度提供“最新进展”。据Tom’s Hardware报道，谷歌工程师和开源项目维护者被大量报告压垮，其中一些报告无效，或包含虚构内容。\n该公司表示：“此次暂停是由于自动提交内容大幅增加，而其中绝大多数都不具备有效性。”\n在此期间，谷歌鼓励参与者考虑参加其其他漏洞赏金计划。\n第二张通行证享受五折优惠\nDisrupt体验旨在与他人共享。购买您的通行证，并邀请一位同事、合作伙伴或同行以五折价格参加。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的视野。\n每个工作日和周日，您都可以获取TechCrunch报道的精华内容。\nTechCrunch Mobility是您获取交通运输新闻和洞察的目的地。\n初创企业是TechCrunch报道的核心，因此每周接收我们精选的报道。\n为行业中积极行动者和重要人物提供开启一天所需的信息。\n提交电子邮件即表示您同意我们的《服务条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦生成式 AI 自动化提交对开源漏洞奖励计划审核效率和有效性的冲击。文章叙述称，Google 因自动化提交数量显著增加且绝大多数无效，于 2026 年 10 月 1 日暂停开源软件漏洞奖励计划，预计在 2027 年第一季度更新后续安排；同时提到 Google 工程师和开源维护者可能因无效报告或包含幻觉内容的报告而不堪重负。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:31:07.000Z",
+            "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4f23-a6fe-63f39c52c275-f9ed79a57b3e8cd7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jewish groups attack Greens after anti-Zionism motion passes",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:19:05.000Z",
+        "pubTime": "2026-10-05 07:19",
+        "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F923395b0-317b-40ca-a2b7-856d5141ee70.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 07:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-04T23:19:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-losed-for-quarantines-in-53b2dc060c04d3c0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "5 hospitals have been closed for quarantines in Siberia due to a possible plague outbreak.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:15:40.000Z",
+        "pubTime": "2026-10-05 07:15",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxtfy0/5_hospitals_have_been_closed_for_quarantines_in/",
+        "imageUrl": "https://external-preview.redd.it/60uV7d_CrPRCeNHitQQ_u0B-KxagVuoDW7ehzs61H8o.jpeg?width=640&crop=smart&auto=webp&s=9b888635bd2f13264a6eff81b4b7a765da9fe4b9",
+        "fullContent": "submitted by /u/Prepper-Pup [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxtfy0/5_hospitals_have_been_closed_for_quarantines_in/",
+            "publishedAt": "2026-10-04T23:15:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--beneath-antarctica-html-b8cba6b205e9e37d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A climate threat may lurk beneath Antarctica's last great unknown",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:01.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-scientis.jpg",
+        "fullContent": "A region of Antarctica with some of the greatest potential to reshape the natural world and human society is also the least scientifically understood and explored.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-climate-threat-lurk-beneath-antarctica.html",
+            "publishedAt": "2026-10-04T23:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1005-vsu-2122213531-html-903f5bddd5cc3059",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ВСУ не оказывали сопротивления при освобождении харьковской Крейдянки",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T02:04:04.000Z",
+        "pubTime": "2026-10-05 10:04",
+        "url": "https://ria.ru/20261005/vsu-2122213531.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/08/0c/2110510441_0:80:3072:1808_650x0_80_0_0_6fa3bb7b2826328a66af6e04fb62518b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 10:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/vsu-2122213531.html",
+            "publishedAt": "2026-10-05T02:04:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--solve-ais-image-problem-5eabcfd97d22a1c1",
+        "title": "“超级智能”和一项不具约束力的安全协议能解决人工智能的形象问题吗？",
+        "originalTitle": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T20:08:34.000Z",
+        "pubTime": "2026-10-05 04:08",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "imageUrl": null,
+        "fullContent": "President Donald Trump hosted many of the biggest names in artificial intelligence this week — in part to announce that the U.S. government isn’t calling it artificial intelligence anymore. Now it’s super intelligence.\n\nOn the latest episode of TechCrunch’s Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the motivation behind the meeting and what effect it might have on the AI industry. We were all pretty skeptical that the “Joint Commitment on Frontier Responsibilities” that the executives signed will amount to much, especially since — as Sean noted — it’s “deeply non-binding,” at least from a legal prospective. (Instead, Trump said he considers it “morally binding.”)\n\nKirsten suggested that the meeting’s real significance may have been as “a rebranding effort around AI.” (An effort that continued this weekend with Trump’s announcement of a new Super Intelligence Force.) For her, the big message was, “AI is going to kill us, it’s scary, it is going to take jobs — but super intelligence is not.”\n\nKeep reading for a preview of our conversation, edited for length and clarity.\n\nAnthony Ha: Officially, by order of the president of the United States, it’s not artificial intelligence anymore, it’s super intelligence. We were talking about this last week, because this is something [Trump has] been hinting at — he doesn’t do hints, he’s been saying [it] for a while. But now it’s signed into executive order. If you’re an official U.S. representative, you are supposed to say super intelligence, not artificial intelligence.\n\nAnd this was also part of this broader announcement around AI safety, which I think is both interesting for this pact that was announced, but also the fact that it happened at all. It seemed to have come together fairly quickly, because just two weeks ago, a week ago, President Trump was saying, “We don’t need any of this, we need to lead in AI, we can’t constrain it in any way, we don’t need any regulation, anyone who’s saying that there’s any danger from AI is essentially a Chinese or Democratic plant.” And yet all these AI CEOs got together with him earlier this week and signed this pact.\n\nKirsten Korosec: Leading up to that, we should say, not only was there pushback on regulation, and we can talk about whether this executive order even does any of that — I would say no, there’s a little bit of theater there — but the important and interesting thing is that just days ago, Anthropic was really in the doghouse, if you will, in terms of what was happening behind the scenes with President Trump.\n\nThat all changed when [Anthropic CEO] Dario Amodei was invited to a 10 p.m. dinner. He had this sit-down, and then just days later, we had this luncheon, and at this luncheon, we have pretty much every tech power broker from every major tech company that exists. So Mark Zuckerberg was there, Jeff Bezos was there, Elon Musk was there, Dario of course was there, they were all there.\n\nI’m wondering if any of you watched the press conference that happened afterwards, which there’s been many, many memes about, because of the interesting, funny behavior when you bring a bunch of tech CEOs together.\n\nBut I guess my bigger question for both of you is: What does this all mean? And does it mean anything?\n\nSean O’Kane: How much time do you have? First off, sure, they had dinner, Trump and Dario. If you read the Time magazine interview that Trump just did, your guess is as good as mine as to how informed he was that that dinner was even going to be happening, which is a strange reality to live in, but it’s just the one we inhabit.\n\nI will also say one other thing that makes me skeptical — surprise, surprise — of how repaired the relationship is between the administration and Anthropic, is that for as much as there are clearly people trying to put those two groups together, the Defense Department is still very adamant that Anthropic is terrible and woke and and a national security risk. Emil Michael goes off on Anthropic every other day on X, it seems. I think there’s still some distance there despite Dario showing up to this thing.\n\nAs far as the agreement and all of that, let’s be real, they misspelled the United States on the agreement that they all signed. It is also just deeply non-binding. I mean, it is completely voluntary. I think my favorite aspect about it was that Trump described it as quote “morally binding,” which is just a level of abstraction and terminology that I’ve never heard of before.\n\nAnthony: In terms of Anthropic and their relationship with the Trump administration, there’s been a sort of a lot of reporting, especially during that big blow up with the Defense Department, that different parts of the White House had different relationships with Anthropic. The Treasury Secretary seemed to be a big fan, whereas the Defense Department — definitely not big fans, or at least unhappy with some of the conditions that Anthropic were trying to put on the use of their technology.\n\nIn that sense, it feels like nothing has necessarily changed. There are people in the White House who want to use Anthropic’s technology, want them involved in these decisions, and others who really, really, really, really don’t.\n\nIn terms of the agreement, it seems not super meaningful. What is meaningful is just the fact that they felt that this was something worth doing. As indicated by the fact that they misspelled United States, it seemed like they rushed to put all of this together. [But] the fact that this kind of gesture was needed seems significant, even if I don’t think the agreement itself is going to lead to any major changes.\n\nKirsten: I do think that there was one important thing that happened. And to me, this is the point of it, which was a rebranding exercise around AI. “AI is going to kill us, it’s scary, it is going to take jobs, but super intelligence is not.” This isn’t my personal belief. To me, that was the message.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months\n\nGoogle releases Gemini 4 Argon, called its most powerful model yet\n\nThe Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next\n\nOpenAI launches Dots, its bubbly agentic avatar",
+        "fullTranslation": "唐纳德·特朗普总统本周邀请了人工智能领域的许多重量级人物参加活动——部分原因是宣布美国政府不再称其为“人工智能”。现在的称呼是“超级智能”。\n\n在最新一期的TechCrunch《Equity》播客中，我与克尔斯滕·科罗塞茨和肖恩·奥凯恩讨论了这次会议背后的动机，以及它可能对人工智能行业产生的影响。对于这些高管签署的《前沿领域责任联合承诺》能否产生多大作用，我们都相当怀疑，尤其是正如肖恩所指出的那样，从法律角度看，这份承诺“完全不具约束力”。（相反，特朗普称其具有“道德约束力”。）\n\n克尔斯滕认为，这次会议的真正意义可能在于“围绕人工智能进行品牌重塑”。（本周末，特朗普宣布成立新的“超级智能部队”，这一行动仍在继续。）对她而言，传递出的重要信息是：“人工智能会杀死我们，它很可怕，它会夺走工作——但超级智能不会。”\n\n请继续阅读我们对话的预览版，内容经过编辑，以便篇幅简洁、表达清晰。\n\n安东尼·哈：正式地说，根据美国总统的命令，现在它不再叫人工智能，而是叫超级智能。我们上周就讨论过这件事，因为这是特朗普一直在暗示的事情——他其实不怎么暗示，他已经说了一段时间了。但现在，这件事已经被写入行政命令。如果你是美国官方代表，就应该说“超级智能”，而不是“人工智能”。\n\n这也是围绕人工智能安全发布的更广泛声明的一部分。我认为，这份协议本身很有意思，但它能够达成也同样值得关注。事情似乎推进得相当快，因为就在两周前，或者说一周前，特朗普总统还表示：“我们不需要这些，我们必须在人工智能领域领先，我们不能以任何方式限制它，我们不需要任何监管，任何说人工智能存在危险的人，本质上都是中国人或民主党安插的人。”然而，本周早些时候，所有这些人工智能公司的首席执行官却与他会面并签署了这份协议。\n\n克尔斯滕·科罗塞茨：在此之前，我们应该说明，不仅有人反对监管——而且我们可以讨论这份行政命令是否真的涉及监管，我认为并没有，其中有一点表演成分——但重要且有趣的是，就在几天前，Anthropic在特朗普总统那里确实处境不佳，如果可以这样说的话，至少在幕后发生的事情上是如此。\n\n这一切在Anthropic首席执行官达里奥·阿莫代伊受邀参加一场晚上10点的晚宴后发生了改变。他们进行了这次会谈，几天后又举行了午餐会。在这次午餐会上，几乎所有主要科技公司的科技权力掮客都来了。马克·扎克伯格来了，杰夫·贝索斯来了，埃隆·马斯克来了，达里奥当然也来了，他们全都出席了。\n\n我想知道你们有没有看过之后举行的新闻发布会。那场发布会引发了大量网络梗，因为当你把一群科技公司首席执行官聚在一起时，会出现一些有趣、滑稽的举动。\n\n但我想问你们两位的更大问题是：这一切意味着什么？它真的意味着什么吗？\n\n肖恩·奥凯恩：你有多少时间？首先，没错，特朗普和达里奥共进了晚餐。如果你读过特朗普刚刚接受《时代》杂志的采访，就会发现，他对那场晚餐是否会举行究竟知情多少，你和我一样都只能猜测。这是一个生活在其中会觉得很奇怪的现实，但这就是我们所处的现实。\n\n我还要说一件让我对政府与Anthropic的关系究竟修复到什么程度持怀疑态度的事情——真是令人意外，对吧？尽管显然有人在努力撮合这两个群体，但美国国防部仍然坚称Anthropic很糟糕、很“觉醒”，并且构成国家安全风险。埃米尔·迈克尔似乎隔三差五就在X上抨击Anthropic。我认为，尽管达里奥出席了这次活动，双方之间仍然存在一定距离。\n\n至于这份协议以及相关的一切，我们还是实事求是吧：他们在所有人签署的协议中把“美国”都拼错了。这份协议也确实完全不具约束力。我的意思是，它完全是自愿的。我最喜欢的部分之一，是特朗普把它称为“道德约束力”，这是我以前从未听说过的一种抽象程度和术语用法。\n\n安东尼：就Anthropic与特朗普政府的关系而言，此前已经出现了很多报道，尤其是在与国防部发生重大冲突期间。有报道说，白宫不同部门与Anthropic的关系各不相同。财政部长似乎很支持Anthropic，而国防部——肯定不是其支持者，至少对Anthropic试图为其技术的使用附加的一些条件感到不满。\n\n从这个意义上说，感觉并没有什么实质变化。白宫里有人想使用Anthropic的技术，希望Anthropic参与这些决策；但也有其他人对此极其、极其、极其、极其反感。\n\n至于这份协议，它似乎并没有太大意义。真正有意义的是，他们觉得这件事值得去做。正如把“美国”拼错这一点所表明的，他们似乎是仓促拼凑出这一切的。[但是，]需要做出这种姿态本身似乎就很重要，即使我不认为这份协议本身会带来任何重大变化。\n\n克尔斯滕：我确实认为，有一件重要的事情发生了。对我而言，这就是它的目的：围绕人工智能进行一次品牌重塑。“人工智能会杀死我们，它很可怕，它会夺走工作，但超级智能不会。”这不是我个人的看法，但在我看来，这就是他们想传达的信息。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈是TechCrunch的周末编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司内容副总裁。他住在纽约市。\n\n如需联系安东尼，或核实以他的名义进行的联系，可发送电子邮件至anthony.ha@techcrunch.com。\n\n第二张通行证享受五折优惠\nDisrupt活动的意义在于分享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势能并发现创业生态系统的下一步，拓展您的视野。\n\n联邦法官称Flock是“无差别的大规模监控”\n\n亚马逊回应数据中心反弹：称已不再使用保密协议\n\n谷歌认为，SpaceX的星舰必须发射1800次，太空数据中心才能升空\n\n全球首座增强型地热发电厂仅用23个月建成\n\n谷歌发布 Gemini 4 Argon，称其为迄今最强大的模型\n\n五角大楼邀请埃隆·马斯克和帕尔默·拉奇参与决定军方下一步该做什么\n\nOpenAI 推出 Dots：其活泼可爱的智能体化身",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 28,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T20:08:34.000Z",
+            "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+          }
+        ]
+      },
+      {
+        "id": "story-w-50-for-first-time-html-e5de1749278418ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T23:00:00.000Z",
+        "pubTime": "2026-10-05 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+        "imageUrl": null,
+        "fullContent": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. A few years ago, China blew past the threshold of 50% of all car sales being hybrids and EVs, and the share is now about 55%. But the rest of the world didn't follow until the Iran war disrupted the fuel markets. Global sales shares of EVs are far from the Chinese numbers, but the shift toward electric vehicles has been remarkably fast amid spiking gasoline and diesel prices, which pushed many consumers to choose EVs. The surge in gasoline prices this year led to the first dip in the share of gasoline-fueled cars below 50%, ever, according to data by automotive data and analytics provider Mobility Global cited by Nikkei Asia. Between January and June, sales of gas-powered vehicles, excluding hybrids, slumped by 10% from a year earlier, to 20.25 million cars, and their share of total global automotive sales fell by 3 percentage points to 49%, the data showed. Related G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis For years, the EV uptake in markets outside China was sluggish and lagging forecasts, but the Hormuz crisis, the $100 oil prices, and record diesel and gasoline prices pushed many consumers in Europe, South America, and Asia Pacific toward EVs. Battery electric vehicle sales in Europe, including the UK, Switzerland, and Norway, surged by 52.2% in August from a year earlier as record-high gasoline and diesel prices prompted drivers to flock to battery and hybrid vehicles, data by the European Automobile Manufacturers' Association, ACEA, showed last month. BEV sales in Germany, the biggest car market in Europe, soared by 75% in August year-over-year, as gasoline prices in Germany hit an all-time high of 2.31 euros per liter, or the equivalent of about $10 per gallon. EV sales in France, another major European market, more than doubled. In Germany, where the government introduced a purchase premium for EVs from January 2026, sales are accelerating, an analysis by the German Institute for Economic Research, DIW, showed earlier this week. One in every four passenger cars sold in Germany between January and August was a pure battery electric vehicle, while the share in August was even higher one in every three passenger cars sold was a BEV, according to the analysis. This compares to an average of 19% in 2025. Globally, electric vehicle sales have surged this year following the oil supply disruption in the Middle East and the second oil price shock in four years. Following a subdued start to the year, EV sales jumped in the second quarter after the Middle East crisis slashed crude supply and hiked oil and fuel prices, the International Energy Agency IEA said in July in an update to its annual EV outlook. EV sales rebounded sharply in the second quarter, rising by 35% compared with the first quarter \"as the energy crisis sparked by the war in the Middle East brought fuel price volatility back into sharp focus,\" the agency said. EV sales in the second quarter reached record-high levels in 50 countries as drivers preferred electric vehicles amid soaring fuel prices. In sizable car markets such as Brazil, India, Australia, and Vietnam, electric car sales roughly doubled between March and June compared with the same period in 2025, according to the IEA's analysis in the report. Moreover, as many as 90 countries saw annual growth in EV sales in the first half of the year. The accelerating EV adoption that began with the spike in oil and fuel prices is set to remain a trend in the global markets and could push the share of EVs in the passenger fleet above earlier expectations, analysts at Wood Mackenzie say. Challenges to accelerated adoption still remain, including the need for billions of U.S. dollars in investments in critical battery minerals supply and charging networks. Yet, the longer the Strait of Hormuz crisis roils global fuel markets, the stronger the case for EV adoption could become. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html"
+          }
+        ]
+      },
+      {
+        "id": "story-bombers-from-british-air-df3c22a6cbf12b89",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:04:45.000Z",
+        "pubTime": "2026-10-05 05:04",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+        "imageUrl": "https://external-preview.redd.it/jKJF7R6Ght6g2httx3J1jkZyW1eOpSw9Sf7nEyae8q8.png?width=640&crop=smart&auto=webp&s=54afd751269ce11a7923740bcab2e340402a00e9",
+        "fullContent": "submitted by /u/Immediate-Link490 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-05 05:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wxqktb/us_air_force_removes_all_bombers_from_british_air/",
+            "publishedAt": "2026-10-04T21:04:45.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791156500930,
     "timeDisplay": "2026-10-05 07:28 (UTC+8)",
     "date": "2026-10-05",

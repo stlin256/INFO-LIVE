@@ -46,14 +46,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **104** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **105** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-05 07:28 (UTC+8)
+- **最新归档时间**：2026-10-05 10:21 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-05 10:21 (UTC+8)" title="全球要闻情报简报 · 10:21" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-05 10:09 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】要闻：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中。；【undefined】由于人工智能提交内容“大幅增加”，谷歌冻结了其开源漏洞赏金计划：谷歌称人工智能提交内容“大幅增加”，因此暂停了其开源漏洞赏金计划，预计明年恢复。 去年，《TechCrunch》报道，网络安全专家警告称，人工智能生成的低质内容对漏洞赏金计划构成严重风险。如今，这似乎正是谷歌开源软件漏洞奖励计划所面临的问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。 谷歌在X平台和该计划网站发布消息称，漏洞赏金计划已于10月1日暂停，并承诺将在2027年第一季度提供“最新进展”。据Tom’s Hardw；【undefined】“超级智能”和一项不具约束力的安全协议能解决人工智能的形象问题吗？：唐纳德·特朗普总统本周邀请了人工智能领域的许多重量级人物参加活动——部分原因是宣布美国政府不再称其为“人工智能”。现在的称呼是“超级智能”。；【undefined】酋长队泰昆·桑顿在改变比赛的接球后，竟没意识到自己的脚朝向错误：堪萨斯城酋长队外接手泰昆·桑顿在周日对阵拉斯维加斯突袭者队的比赛中，遭遇了你所能见到的最骇人的脚踝伤势之一。；【undefined】NFL正在审查事件：边裁杰夫·西曼疑似向红雀队的特雷·麦克布莱德辱骂：美国国家橄榄球联盟（NFL）正在审查一起事件：周日亚利桑那红雀队客场对阵纽约巨人队的比赛中，一名裁判似乎对近端锋特雷·麦克布莱德破口大骂。；【undefined】泰里克·希尔神秘发帖引发重返酋长队猜测，老东家两名接球手因伤缺阵：第4周比赛结束后，堪萨斯城酋长队仍保持不败，不过在周日晚战胜拉斯维加斯突袭者队后，他们在外接手位置上可能遇到一些麻烦。；【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰行为：有关这一主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。 戴尔·考德威尔因性骚扰调查辞职，但坚称人工智能表示他是无辜的。 这位作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。 查看特伦斯·奥布莱恩的全部文章；【undefined】AI无法在《星际争霸》中击败人类，于是决定作弊：该主题的文章将被添加到你的每日电子邮件摘要和首页信息流中。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261005/svo-2122213901.html) <span class="news-meta-time">🕒 2026-10-05 10:06</span>
+- [The Verge (前沿数码科技)] [要闻：该主题的帖子将被添加到您的每日新闻摘要和主页信息流中](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks) <span class="news-meta-time">🕒 2026-10-05 05:02</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-10-05 08:22</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wxvrjw/trump_threatens_tariffs_of_up_to_300_as_korea/) <span class="news-meta-time">🕒 2026-10-05 09:11</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html) <span class="news-meta-time">🕒 2026-10-05 08:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261005/mid-2122213745.html) <span class="news-meta-time">🕒 2026-10-05 10:06</span>
+:::
 :::timeline-item{start="2026-10-05 07:28 (UTC+8)" title="全球要闻情报简报 · 07:28" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-05 07:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -646,16 +659,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims) <span class="news-meta-time">🕒 2026-09-22 07:01</span>
 - [Phys.org (基础物理与技术前沿)] [清澈湖泊中发现的蓝藻毒性潜力微弱](https://phys.org/news/2026-09-cyanobacterium-lakes-toxic-potential.html) <span class="news-meta-time">🕒 2026-09-22 07:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/krivoy-rog-2119400334.html) <span class="news-meta-time">🕒 2026-09-22 07:15</span>
-:::
-:::timeline-item{start="2026-09-21 09:15 (UTC+8)" title="全球要闻情报简报 · 09:15" org="ARCHIVE"}
-**速报纪要：** 本小时内，全球外交、区域政治、地缘安全与金融市场出现多项动态。法国与加拿大领导人在圣皮埃尔和密克隆会晤，承诺加强双边联系以应对地缘局势及贸易摩擦；澳大利亚国内围绕燃油消费税削减与生活成本压力展开政党辩论；俄罗斯官方对乌克兰针对领空及无人机使用的言论作出回应；日本金融市场方面，日元兑美元跌破157关口，日经225指数上涨。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/paramount-2119134912.html) <span class="news-meta-time">🕒 2026-09-21 09:11</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://amigaux.org/) <span class="news-meta-time">🕒 2026-09-21 07:57</span>
-- [CNBC Economy (CNBC 宏观经济)] [为何日本央行加息后市场走势反转常规剧本](https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html) <span class="news-meta-time">🕒 2026-09-21 09:02</span>
-- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/) <span class="news-meta-time">🕒 2026-09-21 08:05</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html) <span class="news-meta-time">🕒 2026-09-21 08:30</span>
-- [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney) <span class="news-meta-time">🕒 2026-09-21 09:09</span>
 :::
 ::::
