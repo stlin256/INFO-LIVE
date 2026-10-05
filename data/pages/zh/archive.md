@@ -46,14 +46,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **105** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **106** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-05 10:21 (UTC+8)
+- **最新归档时间**：2026-10-05 17:25 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-05 17:25 (UTC+8)" title="全球要闻情报简报 · 17:25" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-05 17:13 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】要闻：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Lon：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Longin（@timolongin）发现了 Apple iCloud 电子邮件基础设施中的两种罕见电子邮件伪造漏洞。；【undefined】全新 Fitbit Edge 遭泄露：与这一主题相关的文章将被添加到你的每日电子邮件摘要和首页信息流中。；【undefined】华尔街迎来新对手，而它就深植于这个南方州的腹地：达拉斯——长期以来，华尔街一直是美国金融业毋庸置疑的中心。如今，一个南方州希望在这张桌子旁占有一席之地。；【undefined】报告称霍尔木兹海峡原油流量超过战前水平，油价下跌：由于克普勒（Kpler）的一份报告显示，霍尔木兹海峡的原油外运量目前已超过战前水平，原油价格在早盘交易中下跌，但布伦特原油价格仍高于每桶100美元。上周，这家公司曾因表示经由霍尔木兹海峡的油轮通行量已接近战前水平而成为新闻焦点，尽管胡塞武装袭击了沙特能源基础设施，伊朗也袭击了霍尔木兹海峡的油轮。截至发稿时，布伦特原油报每桶101.20美元，西得克萨斯中质原油报每桶89.73美元。按绝对价格计算，布伦特原油实际上较周五有所上涨，西得克萨斯；【undefined】由于人工智能投稿“大幅增加”，谷歌冻结了其开源漏洞赏金计划：谷歌称人工智能投稿“大幅增加”，因此暂停了其开源漏洞赏金计划，计划暂停至明年。 去年，《TechCrunch》报道称，网络安全专家警告称，人工智能生成的低质内容对漏洞赏金计划构成严重风险。如今，谷歌的开源软件漏洞奖励计划似乎正面临这一问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。 谷歌在X平台和该计划网站发布消息称，漏洞赏金计划已于10月1日起暂停，并承诺在2027年第一季度提供“最新情况”。据《Tom’s Hardw；【undefined】Prick的戏剧化工业朋克，完美契合惊悚季：本主题的文章将添加到你的每日电子邮件摘要和主页信息流中。 查看所有娱乐内容 如果特伦特·雷兹诺研究的是音乐剧而不是计算机工程，那么九寸钉乐队的声音或许会像Prick。 该作者发布的文章将添加到你的每日电子邮件摘要和主页信息流中。 查看Terrence O'Brien的所有文章；【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰行为：与这一主题相关的帖子将添加到你的每日电子邮件摘要和主页信息流中。；【undefined】AI无法在《星际争霸》中击败人类，于是决定作弊：该主题的帖子将添加到你的每日电子邮件摘要和主页信息流中。
+
+**重点要闻索引：**
+- [UN News (联合国官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://news.un.org/feed/view/en/story/2026/10/1168518) <span class="news-meta-time">🕒 2026-10-05 20:00</span>
+- [MIT Tech Review (麻省理工科技评论)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/) <span class="news-meta-time">🕒 2026-10-05 16:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-05 17:05</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tuftesrazor.scienceux.org/) <span class="news-meta-time">🕒 2026-10-05 17:08</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-electrical-technique-life-space.html) <span class="news-meta-time">🕒 2026-10-05 17:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261005/minzdrav-2122280238.html) <span class="news-meta-time">🕒 2026-10-05 17:10</span>
+:::
 :::timeline-item{start="2026-10-05 10:21 (UTC+8)" title="全球要闻情报简报 · 10:21" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-05 10:09 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -646,18 +659,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [遭受家庭暴力出逃后被指控拐带子女的英国母亲迎来希望](https://www.theguardian.com/society/2026/sep/22/uk-mothers-domestic-abuse-child-abduction) <span class="news-meta-time">🕒 2026-09-22 12:00</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-written-women-studios-money-male.html) <span class="news-meta-time">🕒 2026-09-22 12:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/punkty-2119419129.html) <span class="news-meta-time">🕒 2026-09-22 13:04</span>
-:::
-:::timeline-item{start="2026-09-22 07:28 (UTC+8)" title="全球要闻情报简报 · 07:28" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-22 07:22 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】亚马逊欲助力科罗拉多河保护，但外界对其真实用水量仍所知甚少：该主题的相关文章将添加到您的每日电子邮件文摘和主页动态中。 随着数据中心对水资源需求激增，科罗拉多河正面临“前所未有”的干旱。 该作者发布的内容将添加到您的每日电子邮件文摘和主页动态中。 查看贾斯汀·卡尔马（Justine Calma）的所有文章；【undefined】清澈湖泊中发现的蓝藻毒性潜力微弱：文 / 毕格罗海洋科学实验室（Bigelow Laboratory for Ocean Sciences） 编辑 / 罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与准则完成审核。编辑在确保内容可信度的同时，重点强调了以下特征：；【undefined】是间谍标记，而非水印：用于监视用户的水印绝非普通的水印。 “水印”正在经历一种隐蔽的新演变，我们不妨称之为——间谍标记（spymark）。；【undefined】研究发现：世界杯观众每7秒就接触一次垃圾食品、酒精和博彩品牌营销：布里斯托大学供稿 编辑：萨迪·哈利（Sadie Harley），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程和方针进行审核。编辑在确保内容可信度的同时强调了以下属性：；【undefined】普卡·纳库阿正式缺席“周一橄榄球之夜”，公羊队进攻端遭遇重创：洛杉矶公羊队外接手普卡·纳库阿（Puka Nacua）正式确认缺席今晚在SoFi体育场对阵纽约巨人队的“周一橄榄球之夜”比赛。；【undefined】巴西：Quaest/Globo民调显示弗拉维奥·博索纳罗在决选中领先卢拉：在定于10月25日举行的巴西总统选举潜在第二轮决选中，自由党（PL）候选人弗拉维奥·博索纳罗（Flávio Bolsonaro）以42%对41%领先劳工党（PT）的路易斯·伊纳西奥·卢拉·达席尔瓦（Luiz Inácio Lula da Silva）一个百分点。这是今日发布的一项Quaest民调所显示的结果。该差距落在两个百分点的误差范围之内，因此属于技术性平局。在定于10月4日举行的第一轮投票中，卢拉支持率为37%，上升了一个百分点；；【undefined】受台风影响 日本关东地区发生山体滑坡已致2死4失联：中新网9月22日电 据日本共同社等日媒22日报道，今年第25号台风“杜鹃”逼近日本，日本关东地区21日遭遇强降雨，发生多起山体滑坡，已致2人死亡，4人失联。；【undefined】小号发生故障，小号手杰西·麦圭尔博士在大联盟难忘时刻高唱国歌：曾作为亚利桑那响尾蛇队2001年世界大赛夺冠征程中的“吉祥物”，小号手杰西·麦圭尔博士（Dr. Jesse McGuire）再次为这支美国职业棒球大联盟（MLB）球队演奏国歌，以纪念那次秋季经典赛夺冠25周年。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/britanija-2119400489.html) <span class="news-meta-time">🕒 2026-09-22 07:17</span>
-- [The Verge (前沿数码科技)] [亚马逊欲助力科罗拉多河保护，但外界对其真实用水量仍所知甚少](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river) <span class="news-meta-time">🕒 2026-09-22 07:15</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Crude-Oil/New-US-Sanctions-Law-Threatens-Indias-Huge-Russian-Oil-Trade.html) <span class="news-meta-time">🕒 2026-09-22 07:00</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims) <span class="news-meta-time">🕒 2026-09-22 07:01</span>
-- [Phys.org (基础物理与技术前沿)] [清澈湖泊中发现的蓝藻毒性潜力微弱](https://phys.org/news/2026-09-cyanobacterium-lakes-toxic-potential.html) <span class="news-meta-time">🕒 2026-09-22 07:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/krivoy-rog-2119400334.html) <span class="news-meta-time">🕒 2026-09-22 07:15</span>
 :::
 ::::

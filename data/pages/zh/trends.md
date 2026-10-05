@@ -27,8 +27,47 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story--apple-icloud-identities-9699ab14008584a4" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="831" data-content-paragraphs="7" data-published-at="2026-10-05T06:50:55.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-05 14:50</span>
+</div>
+
+### [要闻：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Lon](https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities</div>
+
+<div class="article-body" data-article-body="true"><p>在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Longin（@timolongin）发现了 Apple iCloud 电子邮件基础设施中的两种罕见电子邮件伪造漏洞。</p>
+<p>2023 年年底，SMTP 走私攻击以一种戏剧性的方式登场，使全球数百万台电子邮件服务器面临电子邮件伪造风险。是否曾经想过，在通过 SPF 检查的同时，以 admin@outlook.com 的身份发送电子邮件？SMTP 走私攻击可以满足这一需求！</p>
+<p>然而，到了 2024 年，大多数 SMTP 实现都进行了调整，并发布了软件安全更新。这是否意味着 SMTP 走私攻击就此终结？还是说，这种攻击还有更多可能性？</p>
+<p>让我们深入研究 Apple iCloud 的 SMTP 解析丛林，并再次尝试伪造电子邮件！</p>
+<p>注意：这篇博客文章与《SMTP 走私——在全球范围内伪造电子邮件》有关。如需了解更多上下文和背景信息，我们建议先阅读该文章。</p>
+<p>尽管研究没有发现传统 SMTP 走私攻击的新技术，但研究人员探索了一类电子邮件伪造的子类型——标头走私。这再次凸显了 SMTP 实现中的解析差异；标头走私建立在其“前辈”SMTP 走私攻击的经验之上。基于对 Apple iCloud 电子邮件服务的案例研究，我们再次揭示了盲目信任电子邮件的危险：攻击者能够从任意 icloud.com 地址发送消息。</p>
+<p>首先，让我们简要回顾一下 SMTP 走私攻击。在传统的 SMTP 走私攻击中，我们利用了出站（发送）SMTP 服务器与入站（接收）SMTP 服务器对 SMTP 协议的理解差异。更具体地说，我们利用了这样一个事实：大量 SMTP 实现偏离了 RFC 标准，导致它们对所谓的“数据结束序列”产生不同理解。由于数据结束序列标示了消息数据的结束位置，因此在存在漏洞的出站 SMTP 服务器与入站 SMTP 服务器之间，我们可以实现以下效果（见图 1）。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>文章称，Timo Longin（@timolongin）在与 SEC Consult Vulnerability Lab 合作开展研究期间，发现了 Apple iCloud 邮件基础设施中的两种电子邮件欺骗漏洞。</li>
+    <li>文章称，SMTP smuggling 在 2023 年底引起关注，并使针对全球数百万邮件服务器的电子邮件欺骗成为可能。</li>
+    <li>来源叙事重点：聚焦 Apple iCloud 邮件基础设施中的电子邮件身份伪造风险，强调 SMTP smuggling 与 header smuggling 所利用的不同邮件服务器解析逻辑，并以研究者声称能够从任意 icloud.com 地址发送邮件作为案例。文章同时将该发现置于 2023 年 SMTP smuggling 受到关注、2024 年相关实现陆续修复的背景中。文中“dramatic entrance”“parsing jungle”“dangers of trusting emails”等表述体现了安全研究和风险警示框架，不应视为独立验证的事实。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-rcalixte-ncdu-3af14f43c577d81b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="283" data-content-paragraphs="1" data-published-at="2026-10-04T19:30:36.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="287" data-content-paragraphs="5" data-published-at="2026-10-04T19:30:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -37,10 +76,14 @@ notice:
   <span class="news-meta-time">🕒 2026-10-05 03:30</span>
 </div>
 
-### [ncdu：NCurses 磁盘使用情况分析器（更新版分支）](https://github.com/rcalixte/ncdu)
+### [ncdu：NCurses 磁盘使用情况（更新版分支）](https://github.com/rcalixte/ncdu)
 <div class="original-title-sub"><span class="orig-tag">原文</span> ncdu: NCurses Disk Usage (an updated fork)</div>
 
-<div class="article-body" data-article-body="true"><p>Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析器。它旨在帮助用户在无法使用完整图形环境的远程服务器上找出占用大量空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 追求快速、简单且易于使用，并且应当能够在任何安装了 ncurses 的精简类 POSIX 环境中运行。<br />有关这个 Zig 实现（2.x）与 C 版本（1.x）之间差异的信息，请参阅 ncdu 2 发布公告。<br />如果你熟悉 Zig，可以使用 Zig 构建系统。<br />此外，还有一个便捷的 Makefile，支持典型目标，例如：<br />NCurses 磁盘使用情况分析器（更新版分支）</p></div>
+<div class="article-body" data-article-body="true"><p>Ncdu 是一款带有 ncurses 界面的磁盘使用情况分析器。它旨在帮助用户在无法使用完整图形化环境的远程服务器上找出占用大量磁盘空间的文件或目录，但即使在普通桌面系统上，它也是一款实用工具。Ncdu 力求快速、简单且易于使用，并且应能在安装了 ncurses 的任何精简类 POSIX 环境中运行。</p>
+<p>有关这一 Zig 实现（2.x）与 C 版本（1.x）之间差异的信息，请参阅 ncdu 2 版本发布公告。</p>
+<p>如果你熟悉 Zig，可以使用 Zig 构建系统。</p>
+<p>此外，还有一个便捷的 Makefile，支持常见目标，例如：</p>
+<p>NCurses 磁盘使用情况（更新版分支）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -59,8 +102,64 @@ notice:
 :::
 
 :::cell
+<div id="story--blog-2026-http-over-ssh-3f60dc189f199545" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2190" data-content-paragraphs="25" data-published-at="2026-10-04T19:08:58.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-05 03:08</span>
+</div>
+
+### [使用 SSH 和 nginx 自托管 HTTP 隧道](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Self-hosted HTTP tunnels with SSH and nginx</div>
+
+<div class="article-body" data-article-body="true"><p>一位朋友想要校对你正在撰写的博客文章，但文章预览只能在 localhost:8080 上运行。有一些工具可以提供帮助。有些工具以商业服务的形式运行，例如 ngrok 或 Cloudflare Quick Tunnels。有些工具可以自行托管，但需要特定的客户端，例如 frp 或 localtunnel。还有一些工具只需要普通的 SSH 客户端，但依赖特定的 SSH 服务器，例如 sish。让我们仅使用 OpenSSH 和 nginx 实现一个自托管解决方案！</p>
+<p>首先，我们将连接从远程服务器上的一个端口转发到你的本地服务：</p>
+<p>当你将远程端口指定为 0 时，服务器会分配一个空闲端口。然后，我们配置 nginx，将来自 https://p41535.ssh.luffy.cx 的请求代理到 http://127.0.0.1:41535：</p>
+<p>我们还需要为 *.ssh.luffy.cx 添加 DNS 记录，并通过 Let’s Encrypt 获取一个通配符证书：</p>
+<p>acme.luffy.cx 是托管在 Route 53 上的一个区域。我使用它来完成 ACME DNS-01 验证，既用于通配符证书，也用于由多台 Web 服务器提供服务的域名。就我而言，NixOS 会自动获取证书。</p>
+<p>端口是唯一用于保护内容机密性的“秘密”1。其他转发解决方案会在域名中加入一个随机字符串，以防止入侵者枚举可能的取值。</p>
+<p>由于该端口由内核从本地端口范围中分配，其熵很低。此外，内核选择随机空闲端口时偏好奇数端口，这又使我们损失了 1 个比特。</p>
+<p>借助 ngx_http_secure_link_module，我们可以让这一设置更加安全一些。该模块会对一组值（包括一个秘密值）计算哈希值2，并将其与请求中的哈希值进行比较。哈希值采用 Base64 编码，因此不能放入域名中，因为域名不区分大小写。相反，我们将它与过期时间戳一起放入 URL 的用户名部分：3</p>
+<p>该模块依赖 MD5。其安全性较弱，但对于此用途已经足够。❦</p>
+<p>我们需要设置过期时间，因为后续会话可能重新使用这个端口，而我们没有办法检测这种情况。❦</p>
+<p>客户端通过 HTTP 基本身份验证将用户名发送给服务器。这适用于包括 curl 在内的大多数 HTTP 客户端。nginx 会将用户名暴露在 $remote_user 变量中。该模块要求哈希值和过期时间戳以逗号分隔。我们使用 map 指令从 $remote_user 中提取这两个部分，并将它们用逗号连接起来。4 我们还要向该模块提供待哈希的字符串。该字符串包含过期时间戳、端口和一个秘密值：</p>
+<p>用户名本可以直接使用逗号，而不是使用两个连字符。但有些应用无法正确识别这样的 URL，从而使分享链接更加困难。❦</p>
+<p>该模块会通过 $secure_link 变量返回检查结果：</p>
+<p>如果哈希值不正确或缺失，我们就返回 401 错误，并附带 WWW-Authenticate 标头以请求凭据。如果链接已过期，则返回 410 错误。我们会在转发请求之前移除 Authorization 标头，并添加几条用于代理 WebSocket 连接的指令。以下是完整配置：5</p>
+<p>这一配置会将监听在 127.0.0.1 或 0.0.0.0 上的任何 TCP 端口暴露给持有该秘密值的任何人，从而绕过大多数防火墙规则。你可以将 server_name 的正则表达式限制在临时端口范围内，以进一步增强安全性。❦</p>
+<p>我想你现在已经在问自己那个显而易见的问题：“我该如何生成哈希值？”这很简单！</p>
+<p>好吧，我猜你现在会说：“Vincent，这太不方便了！如果你不介意，我还是继续用 ngrok 吧。”好，我明白了。让我们写一个辅助脚本。</p>
+<p>主要困难在于找到 OpenSSH 分配的临时端口，因为它不会出现在任何环境变量中。6 为了解决这一障碍，我们查找 sshd-session 进程的祖先进程：7</p>
+<p>一个 SSH 会话可以包含多个隧道，客户端可以随时添加或删除这些隧道。这不同于 tun 设备转发（ssh -w），后者拥有自己的 SSH_TUNNEL 环境变量。❦</p>
+<p>从 OpenSSH 9.8 开始，负责处理会话的辅助进程名称是 sshd-session。在更早的版本中，则应查找 sshd。❦</p>
+<p>然后，我们获取与这些 sshd-session 进程相关联的监听端口：8</p>
+<p>我们需要使用 sudo，因为 sshd-session 进程已经放弃了自身的权限。内核随后会将其标记为不可转储，而其 /proc/PID/fd 目录归 root 所有。如果无法访问该目录，ss 就无法找到哪个进程拥有某个套接字。❦</p>
+<p>最后，我们显示 URL 并保持会话开启：</p>
+<p>我将这个脚本安装在服务器上，并命名为 http-over-ssh，然后在我的 ~/.ssh/config 中添加以下条目：</p>
+<p>通过这一解决方案，我只依赖 OpenSSH 和 nginx 这两款已经在该服务器上运行的软件。只需一条简短的命令，我就能获得一个自托管隧道和一个可供分享的 URL。想要试用的话，可以获取完整的辅助脚本，其中还包含一些小的改进。如果你运行的是 NixOS——任何有品位的人都会如此选择——不妨看看我的 http-over-ssh.nix。❄️</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 03:08 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-ying-can-go-hand-in-hand-e68612a6cbb70759" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="373" data-content-paragraphs="3" data-published-at="2026-10-04T17:06:32.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="408" data-content-paragraphs="3" data-published-at="2026-10-04T17:06:32.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -69,14 +168,14 @@ notice:
   <span class="news-meta-time">🕒 2026-10-05 01:06</span>
 </div>
 
-### [优质姑息照护与协助死亡可以并行不悖｜读者来信](https://www.theguardian.com/society/2026/oct/04/good-palliative-care-and-assisted-dying-can-go-hand-in-hand)
+### [良好的姑息治疗与协助死亡可以并行不悖｜读者来信](https://www.theguardian.com/society/2026/oct/04/good-palliative-care-and-assisted-dying-can-go-hand-in-hand)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Good palliative care and assisted dying can go hand in hand | Letters</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/477ea97176d8641992a2ec5d7bab5c8a985f44da/375_0_3751_3001/master/3751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be76170231ff99cb02b2e5c436a18961" alt="优质姑息照护与协助死亡可以并行不悖｜读者来信" loading="lazy" /></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/477ea97176d8641992a2ec5d7bab5c8a985f44da/375_0_3751_3001/master/3751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be76170231ff99cb02b2e5c436a18961" alt="良好的姑息治疗与协助死亡可以并行不悖｜读者来信" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>读者就一篇呼吁紧急改革姑息照护的文章作出回应</p>
-<p>简·特纳说得对，临终关怀需要改进（议员们，我们已经明确告诉你们，英国的临终关怀体系已经失灵。因此，现在需要你们加以修复，9月28日），而我认为，这一问题需要同时从两个方面着手解决。我的丈夫约翰今年3月去世，享年43岁。在近六年的肠癌治疗期间，他接受了70多轮化疗，一心想看着我们的孩子长大。他生命的最后三个月是在临终关怀医院度过的，接受了当时所能提供的最佳姑息照护。即便如此，他仍饱受折磨。</p>
-<p>有些疼痛无法迅速得到控制，有些痛苦则根本无法治疗。一天晚上，他被困在浴缸里，无法动弹，在极度痛苦中尖叫了将近一个小时，之后才得到缓解。随着癌症使他的躯干肿胀，他逐渐窒息——没有任何药物能够阻止这一过程。他始终神志清醒，一再告诉我自己撑不下去了。在他生命的最后几个小时里，我戴上耳塞，才能忍受他喘息的声音。</p></div>
+<div class="article-body" data-article-body="true"><p>读者回应一篇关于迫切需要改革姑息治疗的文章</p>
+<p>简·特纳说得对，临终关怀需要得到改善（《议员们，你们已经清楚地告诉我们，英国的临终关怀体系已经失灵。所以现在需要你们来修复它》，9月28日），而我认为，这一问题需要从两个方面同时着手解决。我的丈夫约翰今年3月去世，享年43岁，此前他接受了近六年的结肠癌治疗。他接受了70多轮化疗，一心想看着我们的孩子长大。他生命的最后三个月是在一家临终关怀 hospice 中度过的，接受了当时能够提供的最佳姑息治疗。即便如此，他仍遭受了极大的痛苦。</p>
+<p>有些疼痛无法迅速得到控制，有些痛苦则根本无法治疗。一天晚上，他被困在浴缸里，无法动弹，在剧烈疼痛中尖叫了近一个小时，直到缓解措施终于起效。随着癌症使他的躯干逐渐肿胀，他慢慢窒息——没有任何药物能够阻止这一过程。在整个过程中，他都完全清醒，并反复告诉我，他已经无法继续下去了。在生命的最后几个小时里，我戴上耳塞，才能忍受他喘息的声音。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>

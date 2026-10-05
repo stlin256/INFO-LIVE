@@ -1,5 +1,1555 @@
 [
   {
+    "timestamp": 1791192358177,
+    "timeDisplay": "2026-10-05 17:25 (UTC+8)",
+    "date": "2026-10-05",
+    "runId": "feed-20261005T091345810Z-0hvrlk",
+    "generatedAt": "2026-10-05T09:25:58.177Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 17:13",
+      "lead": "本轮抓取于 2026-10-05 17:13 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】要闻：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Lon：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Longin（@timolongin）发现了 Apple iCloud 电子邮件基础设施中的两种罕见电子邮件伪造漏洞。",
+        "【undefined】全新 Fitbit Edge 遭泄露：与这一主题相关的文章将被添加到你的每日电子邮件摘要和首页信息流中。",
+        "【undefined】华尔街迎来新对手，而它就深植于这个南方州的腹地：达拉斯——长期以来，华尔街一直是美国金融业毋庸置疑的中心。如今，一个南方州希望在这张桌子旁占有一席之地。",
+        "【undefined】报告称霍尔木兹海峡原油流量超过战前水平，油价下跌：由于克普勒（Kpler）的一份报告显示，霍尔木兹海峡的原油外运量目前已超过战前水平，原油价格在早盘交易中下跌，但布伦特原油价格仍高于每桶100美元。上周，这家公司曾因表示经由霍尔木兹海峡的油轮通行量已接近战前水平而成为新闻焦点，尽管胡塞武装袭击了沙特能源基础设施，伊朗也袭击了霍尔木兹海峡的油轮。截至发稿时，布伦特原油报每桶101.20美元，西得克萨斯中质原油报每桶89.73美元。按绝对价格计算，布伦特原油实际上较周五有所上涨，西得克萨斯",
+        "【undefined】由于人工智能投稿“大幅增加”，谷歌冻结了其开源漏洞赏金计划：谷歌称人工智能投稿“大幅增加”，因此暂停了其开源漏洞赏金计划，计划暂停至明年。 去年，《TechCrunch》报道称，网络安全专家警告称，人工智能生成的低质内容对漏洞赏金计划构成严重风险。如今，谷歌的开源软件漏洞奖励计划似乎正面临这一问题。在该计划中，研究人员因发现谷歌开源软件中的漏洞而获得奖励。 谷歌在X平台和该计划网站发布消息称，漏洞赏金计划已于10月1日起暂停，并承诺在2027年第一季度提供“最新情况”。据《Tom’s Hardw",
+        "【undefined】Prick的戏剧化工业朋克，完美契合惊悚季：本主题的文章将添加到你的每日电子邮件摘要和主页信息流中。 查看所有娱乐内容 如果特伦特·雷兹诺研究的是音乐剧而不是计算机工程，那么九寸钉乐队的声音或许会像Prick。 该作者发布的文章将添加到你的每日电子邮件摘要和主页信息流中。 查看Terrence O'Brien的所有文章",
+        "【undefined】新泽西州前副州长利用人工智能声称自己没有性骚扰行为：与这一主题相关的帖子将添加到你的每日电子邮件摘要和主页信息流中。",
+        "【undefined】AI无法在《星际争霸》中击败人类，于是决定作弊：该主题的帖子将添加到你的每日电子邮件摘要和主页信息流中。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录信息不足，暂无法形成可靠日尺度分析",
+      "lead": "当前证据包中的主文章缺少标题、来源、发布时间、正文及引文，相关目录标题也均处于待翻译状态。因此，暂不能对整体新闻脉络作出可靠判断。目录中仅有一条摘要转述俄罗斯国防部关于俄军在扎波罗热地区“解放”萨莫伊洛夫卡的说法，尚无独立来源或上下文可供核实。",
+      "themes": [
+        {
+          "name": "信息完整性与可核验性",
+          "analysis": "主文章内容状态为缺失，证据事实、引文、实体、冲突记录和引用均为空；相关文章的标题、来源和链接也未提供，无法确认报道主题、可信度或事件之间的关联。"
+        },
+        {
+          "name": "俄乌战事动态（待核实）",
+          "analysis": "一条相关摘要称，俄罗斯国防部表示俄军“东方”战斗群已在扎波罗热地区占领萨莫伊洛夫卡。该信息仅代表俄方官方说法，证据包未提供乌方回应、第三方核验或具体时间背景，因此不能据此确认战场态势变化。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 78,
+      "completedTasks": 78,
+      "succeeded": 47,
+      "degraded": 31,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 78,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 732317,
+      "byRole": {
+        "translator": {
+          "attempts": 56,
+          "succeeded": 32,
+          "degraded": 24
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "degraded": 5,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 5,
+          "degraded": 1
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 78,
+          "succeeded": 47,
+          "degraded": 31
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-9-translator-0",
+      "article-9-translator-1",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-11-translator-1",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-19-translator-0",
+      "article-19-translator-1",
+      "article-21-translator-0",
+      "article-29-translator-0",
+      "article-31-translator-0",
+      "article-33-translator-0",
+      "article-36-translator-0",
+      "article-36-translator-1",
+      "article-38-translator-0",
+      "article-38-translator-1",
+      "article-40-translator-0",
+      "article-0-fact-extractor",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:28.404Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.082Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:28.601Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.002Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.315Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.501Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.332Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.656Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.311Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.550Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.260Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.305Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:31.550Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.755Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:28.810Z",
+        "lastSuccessAt": "2026-10-05T09:13:28.907Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.592Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.710Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.501Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.730Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.175Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.382Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.082Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.454Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:28.996Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.209Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.002Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.175Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:31.305Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.588Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.539Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.690Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:31.170Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.391Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.646Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.129Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.247Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.315Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.209Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.332Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:28.770Z",
+        "lastSuccessAt": "2026-10-05T09:13:28.810Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:27.479Z",
+        "lastSuccessAt": "2026-10-05T09:13:28.770Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.938Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.012Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.819Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.023Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-05T09:13:29.656Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.825Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.970Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.034Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.311Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.610Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.743Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:31.324Z",
+        "lastSuccessAt": "2026-10-05T09:13:34.833Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.970Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.034Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.089Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.323Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.056Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.139Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.139Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.524Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:31.391Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.681Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.382Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.592Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.651Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.068Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.743Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.938Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.129Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.539Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.023Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.260Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-05T09:13:30.014Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:27.477Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.429Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.068Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.386Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:27.478Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.247Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.323Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.777Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.730Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.825Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:28.907Z",
+        "lastSuccessAt": "2026-10-05T09:13:28.996Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.012Z",
+        "lastSuccessAt": "2026-10-05T09:13:30.056Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.710Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.819Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.386Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.170Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:30.524Z",
+        "lastSuccessAt": "2026-10-05T09:13:31.324Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.454Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.646Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:29.429Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.651Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:27.462Z",
+        "lastSuccessAt": "2026-10-05T09:13:28.404Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:27.475Z",
+        "lastSuccessAt": "2026-10-05T09:13:28.601Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-05T09:13:27.476Z",
+        "lastSuccessAt": "2026-10-05T09:13:29.610Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-en-story-2026-10-1168518-663dd8966731bcaa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+        "source": "UN News (联合国官方英文)",
+        "sourceSlug": "un",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
+        "pubTime": "2026-10-05 20:00",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
+        "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/29-09-2026-UNODC-Thailand-prison-04.jpg/image560x340cropped.jpg",
+        "fullContent": "“Your mind follows the thread, one by one, row by row. You know? It’s like meditation. I don’t like machines.”\n\nWeo, a prisoner at the Central Women’s Correctional Institution in Bangkok, prefers to sew by hand. She tried the sewing machine, but noticed that her mind was calmer when threading with her fingers directly. By not using a machine, she can produce a unique pattern that is hard to find in conventional shops.She is explaining this to a group of design students who, sketchbooks in hand, are walking through the rows, observing the women who sew. As time passes, some lose their initial apprehension and sit across from them, picking up fabric samples. Others ask about the products they are making. Some borrow their needles and, with the women’s guidance, try a bit of sewing themselves. A few sit on the floor in the basket-weaving corner with the women who have, by now, mastered the skill.Today, the students have left the classroom behind to spend their morning at Thailand’s first women’s prison, where approximately 150 women learn weaving, knitting and machine sewing to make marketable products. The students’ task is to design a product that these women can manufacture during their sentences. © UNODC/Laura Gil Thai university students arrive at Bangkok Women's Prison in the Thai capital. Through the wallThe initiative, launched in November 2025 by the UN Office on Drugs and Crime (UNODC) and the Thailand Institute of Justice (TIJ) pairs design students with incarcerated women to create modern, sustainable products that can be sold outside prison.Earlier this year, 22 students visited the prison and interacted with the women who are now manufacturing new products. Their designs had to appeal to modern consumers, be practical and tell a story linked to rehabilitation that would raise awareness of the critical role vocational training plays in reducing recidivism.“The stigma surrounding those who have made mistakes has long been a wall in our society. To help them cross that barrier, we must restore their human dignity,” said TIJ’s Chontit Chuenurah.“By weaving their stories into these products, we use the creativity of the youth to build a bridge between the prison and the outside world, replacing fear with understanding.”Under the theme Through the Wall, the initiative seeks to dismantle physical and social barriers, helping incarcerated women return successfully to society, she added.“The project aims to create prison-made goods that appeal to modern consumers while equipping correctional officers with essential marketing skills,” said Aki Okanan, former prison reform expert at UNODC. The project also raises international awareness of the role of rehabilitation and vocational training in reducing re-offending she added.Time well spentA panel of judges evaluated nine projects from 19 students in a competition earlier this year. The winner was Time-Made, featuring intricately smocked watch straps. For the students behind the design, time has a two-fold meaning: the sentence that prisoners can reduce by working in prison, and the time that people outside value, a privilege sometimes taken for granted.“We wanted our product to remind people that we can use time carefully and meaningfully. That we can watch our time,” says Game, 21, co-winner of the competition. © UNODC/Laura Gil Incarcerated women learn sewing skills at Bangkok Women's Prison. First stepsAll designs received support for product development and marketing, and the winning product, together with a selection of others, will be produced in collaboration with partner correctional facilities.Natty, also 21, has been studying lifestyle products for three years. She had expected the prison to look gloomy and scary and was surprised to find the workroom bright and airy. Still, she noticed that most prisoners used dark colours.“I want to take the skills they have and show them brighter fabrics and see what happens,” she said.Sitting by Weo’s side, Ana*, from Latin America, tells the story of how she was caught attempting to smuggle cocaine into Bangkok. After four years in prison, she can produce perfect stuffed animals and is fluent in Thai, although she has never seen Thailand outside prison.“I heard it’s beautiful here, but it doesn’t matter. After this, when I manage to get back to Brazil, I will start an import business and sell stuffed animals from Thailand. I know how to do it. I have the connections, and I speak the language.”As the students pass through the gates and security controls to leave, their enthusiasm wanes. Although the prisoners cannot leave, this collaboration connects them to the outside world, the first step in reintegration.*Name changed to protect identity.\n\nWeo, a prisoner at the Central Women’s Correctional Institution in Bangkok, prefers to sew by hand. She tried the sewing machine, but noticed that her mind was calmer when threading with her fingers directly. By not using a machine, she can produce a unique pattern that is hard to find in conventional shops.\n\nShe is explaining this to a group of design students who, sketchbooks in hand, are walking through the rows, observing the women who sew.\n\nAs time passes, some lose their initial apprehension and sit across from them, picking up fabric samples. Others ask about the products they are making. Some borrow their needles and, with the women’s guidance, try a bit of sewing themselves. A few sit on the floor in the basket-weaving corner with the women who have, by now, mastered the skill.\n\nToday, the students have left the classroom behind to spend their morning at Thailand’s first women’s prison, where approximately 150 women learn weaving, knitting and machine sewing to make marketable products.\n\nThe students’ task is to design a product that these women can manufacture during their sentences.\n\nThe initiative, launched in November 2025 by the UN Office on Drugs and Crime (UNODC) and the Thailand Institute of Justice (TIJ) pairs design students with incarcerated women to create modern, sustainable products that can be sold outside prison.\n\nEarlier this year, 22 students visited the prison and interacted with the women who are now manufacturing new products. Their designs had to appeal to modern consumers, be practical and tell a story linked to rehabilitation that would raise awareness of the critical role vocational training plays in reducing recidivism.\n\n“The stigma surrounding those who have made mistakes has long been a wall in our society. To help them cross that barrier, we must restore their human dignity,” said TIJ’s Chontit Chuenurah.\n\n“By weaving their stories into these products, we use the creativity of the youth to build a bridge between the prison and the outside world, replacing fear with understanding.”\n\nUnder the theme Through the Wall, the initiative seeks to dismantle physical and social barriers, helping incarcerated women return successfully to society, she added.\n\n“The project aims to create prison-made goods that appeal to modern consumers while equipping correctional officers with essential marketing skills,” said Aki Okanan, former prison reform expert at UNODC.\n\nThe project also raises international awareness of the role of rehabilitation and vocational training in reducing re-offending she added.\n\nA panel of judges evaluated nine projects from 19 students in a competition earlier this year.\n\nThe winner was Time-Made, featuring intricately smocked watch straps.\n\nFor the students behind the design, time has a two-fold meaning: the sentence that prisoners can reduce by working in prison, and the time that people outside value, a privilege sometimes taken for granted.\n\n“We wanted our product to remind people that we can use time carefully and meaningfully. That we can watch our time,” says Game, 21, co-winner of the competition.\n\nAll designs received support for product development and marketing, and the winning product, together with a selection of others, will be produced in collaboration with partner correctional facilities.\n\nNatty, also 21, has been studying lifestyle products for three years. She had expected the prison to look gloomy and scary and was surprised to find the workroom bright and airy. Still, she noticed that most prisoners used dark colours.\n\n“I want to take the skills they have and show them brighter fabrics and see what happens,” she said.\n\nSitting by Weo’s side, Ana*, from Latin America, tells the story of how she was caught attempting to smuggle cocaine into Bangkok. After four years in prison, she can produce perfect stuffed animals and is fluent in Thai, although she has never seen Thailand outside prison.\n\n“I heard it’s beautiful here, but it doesn’t matter. After this, when I manage to get back to Brazil, I will start an import business and sell stuffed animals from Thailand. I know how to do it. I have the connections, and I speak the language.”\n\nAs the students pass through the gates and security controls to leave, their enthusiasm wanes. Although the prisoners cannot leave, this collaboration connects them to the outside world, the first step in reintegration.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“穿越高墙”为核心框架，将服刑女性参与编织、缝纫等职业培训，以及与设计学生合作开发商品，叙述为恢复尊严、减少污名、连接监狱与社会并促进回归社会的第一步。报道突出个体故事、创意产品和人与人之间的接触，较少讨论监禁制度、刑罚背景及项目执行中的结构性问题。"
+        ],
+        "citations": [
+          {
+            "source": "UN News (联合国官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T12:00:00.000Z",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168518"
+          }
+        ]
+      },
+      {
+        "id": "story-why-cant-they-get-enough-07a3961b77d07a47",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "People really hate AI, so why can’t they get enough?",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T08:00:00.000Z",
+        "pubTime": "2026-10-05 16:00",
+        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "imageUrl": null,
+        "fullContent": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI company. We don’t know if we really like what we’re doing.”\n\n“I guess that makes me a self-loathing AI journalist,” I replied. It was a joke! I love my job. But I do not love many of the things the technology I write about has become: warped by hype , steered by zealots, inescapable.\n\nThe CEO of Springboards and I are far from alone. Around the world, a love/hate attitude toward AI is very much the vibe right now.\n\nOn the one hand, public feelings are souring fast. According to the Pew Research Center, more adults in the US think AI will have a negative impact on them personally, and on society in general, than expect a positive one. The pessimism is strongest among the young.\n\nMore than half of people worldwide say that AI products and services make them nervous, according to a report from Stanford University . In a Gallup poll in May, 71% of US adults said they would oppose construction of a new AI data center in their area, far more than the 53% who said they would oppose a new nuclear power plant. And in an NBC poll in March, AI was less popular than ICE.\n\nYet the number of people using AI is still skyrocketing. ChatGPT hit a billion monthly users in May, according to the market analysis firm Sensor Tower. Google DeepMind’s Gemini is close behind, logging 950 million users in July.\n\nAccording to Pew, half of US adults now say they use a chatbot , more than twice the number who said they did in 2023. One in four people say they do so every day. And it’s a global habit: More than a third of adults across all 38 OECD countries (a group of the world’s wealthiest democracies) report having used generative AI tools in the last three months .\n\nAll these surveys paint a picture of two contradictory truths: A lot of people really do not like AI, and at the same time, a lot of people cannot get enough of it. What’s going on?\n\nIt’s possible that these are two distinct groups, but I doubt it. The numbers don’t add up unless the Venn diagram is on its way to being a circle.\n\nIt’s also possible that the more people use AI, the more negative their opinions about it will be. There’s at least a correlation to back this up : The Global North, where adoption is highest, skews pessimistic. In the Global South, where adoption levels are lower, people are more optimistic.\n\nBut here’s what I really think is going on: When people say they hate AI it’s not the technology they dislike but, rather, the relentless drive of the companies behind it to push the tech upon us in as many ways as possible . They’re telling us to brace for the biggest social and economic upheaval in generations. How do they expect people to feel?\n\nIn many ways, we’ve been here before. We saw a similar dynamic play out with social media over the last 20 years. Billions flocked to Facebook and Twitter despite mounting techlash against the companies that ran those services. Ditto for Google search.\n\nWith social media there wasn’t much anyone could do. Quitting a platform meant losing all your content and connections, giving you the choice to suck it up or start over. But with AI there’s still a chance for people to have some sway. There’s certainly more political appetite for regulation this time around. All 50 US states have either passed or proposed laws governing the development and deployment of AI , creating a patchwork of more than 2,100 bills across the country—a tenfold increase in three years.&nbsp;\n\nAnd with a number of top-class open-source alternatives to Google and OpenAI and Anthropic already on the market, there’s also (for now, at least) the potential for more consumer choice and the market pressure that goes with it.&nbsp;\n\nI don’t want to be naïve. Trillion-dollar companies are hard to move. But what comes next is not as inevitable as those companies often imply. When I asked the Springboards CEO why his firm was developing a new model if he didn’t really like AI, he told me there was no walking back from LLMs—but you could still make them do something different.&nbsp;\n\nHere’s hoping we see a lot more of something different: AI that’s clear about what it can and can’t do and, crucially, that’s not posturing as if it’s about to take over the world.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T08:00:00.000Z",
+            "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+          }
+        ]
+      },
+      {
+        "id": "story-for-165-million-6a9c71d2-01ed64b899e0066c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Larry Ellison to list Palm Beach property for $165 million",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:05:00.000Z",
+        "pubTime": "2026-10-05 17:05",
+        "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Billionaire Oracle co-founder Larry Ellison is planning to bid farewell to the third-largest oceanfront parcel in Florida’s Palm Beach County, with hopes to fetch $165 million.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-05 17:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-05T09:05:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-a3789b7dee97726c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tufte's Razor: an interactive guide to the data-ink ratio",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:08:15.000Z",
+        "pubTime": "2026-10-05 17:08",
+        "url": "https://tuftesrazor.scienceux.org/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 17:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://tuftesrazor.scienceux.org/",
+            "publishedAt": "2026-10-05T09:08:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-echnique-life-space-html-944b015f919e6570",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Electrical technique could help identify signs of life in space",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:00:06.000Z",
+        "pubTime": "2026-10-05 17:00",
+        "url": "https://phys.org/news/2026-10-electrical-technique-life-space.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-electrical-techniqu.jpg",
+        "fullContent": "The truth is out there—but identifying signs of life in space involves an intense search for biosignatures within our solar system and beyond. However, developing sensitive yet compact technologies capable of detection has proven to be an out-of-this-world challenge.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-electrical-technique-life-space.html",
+            "publishedAt": "2026-10-05T09:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minzdrav-2122280238-html-b4c602f4de84e3cc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Минздраве рассказали об объеме финансирования медпомощи онкобольным",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T09:10:07.000Z",
+        "pubTime": "2026-10-05 17:10",
+        "url": "https://ria.ru/20261005/minzdrav-2122280238.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/05/1a/2094835151_0:181:2998:1867_650x0_80_0_0_3792c1f84afa0e0a67846f3b37e722cb.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 17:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/minzdrav-2122280238.html",
+            "publishedAt": "2026-10-05T09:10:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-when-ai-meets-everything-99203639eb51dfe3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "EmTech Future 2026: When AI Meets Everything",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T04:00:00.000Z",
+        "pubTime": "2026-10-05 12:00",
+        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+        "fullContent": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&nbsp;\n\nStep inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily.&nbsp;\n\nThere’s much more to discover &nbsp;\n\nThese are just&nbsp;two&nbsp;sessions from&nbsp; EmTech&nbsp;Future 2026 .\n\nAcross three days,&nbsp;EmTech&nbsp;Future explored some of the most important questions shaping technology right now: how AI is&nbsp;impacting industries, where quantum is heading, what new energy systems could make possible, how robotics are evolving, and what&nbsp;challenges and&nbsp;opportunities&nbsp;arise&nbsp;when these technologies start to converge.&nbsp;&nbsp;\n\nHear the ideas, insights, and perspectives you missed at&nbsp;EmTech&nbsp;Future&nbsp;2026. &nbsp;\n\nThe full&nbsp;program&nbsp;is now available on demand, giving you access to&nbsp;all&nbsp;the conversations and sessions from the event, including:&nbsp;\n\nQua ntum in context &nbsp;Hartmut Neven,&nbsp;founder and lead at&nbsp;Google Quantum AI, explores&nbsp;how quantum is advancing alongside other frontiers&nbsp;and why its significance may lie not only in what it can do on its own, but in how it begins to interact with the systems around it.&nbsp;\n\nEnergy Systems for the&nbsp;Future &nbsp;Evelyn&nbsp;Wang, VP for&nbsp;energy &&nbsp;climate at MIT, explores how energy, computing, infrastructure, and climate technologies are increasingly interconnected, and what these converging systems could mean for the future of industry and society.&nbsp;\n\nRethinking our relationship with AI &nbsp;–Cory Doctorow, bestselling author and award-winning writer, explores how AI is changing the way we work and think.&nbsp;\n\nAs an&nbsp;MIT Technology Review subscriber,&nbsp;you’ll&nbsp;get a&nbsp; 20% discount ,&nbsp;meaning you can access the full&nbsp;EmTech&nbsp;Future 2026 program&nbsp;for just $596.&nbsp;",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“技术汇聚与跨领域交叉”为核心叙事，强调人工智能正与生物学、基础设施、制造业、科学、能源、量子计算和机器人等领域发生联系，并将这种技术融合描述为影响产业和社会的重要方向。文章同时突出活动内容的延展性和可获取性，具有明显的会议宣传和内容销售导向。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T04:00:00.000Z",
+            "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+          }
+        ]
+      },
+      {
+        "id": "story-e-4009-b130-6f7a191336c4-14bc1ca491736b3a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Spanish prime minister Pedro Sánchez calls snap election",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:00:07.000Z",
+        "pubTime": "2026-10-05 17:00",
+        "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52d48099-1eb4-414f-bda3-722bac155761.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-05T09:00:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--apple-icloud-identities-9699ab14008584a4",
+        "title": "要闻：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Lon",
+        "originalTitle": "From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T06:50:55.000Z",
+        "pubTime": "2026-10-05 14:50",
+        "url": "https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/",
+        "imageUrl": null,
+        "fullContent": "In the course of a research project in collaboration with the SEC Consult Vulnerability Lab, Timo Longin (@timolongin) - known for SMTP smuggling - discovered two exotic email spoofing vulnerabilities in Apple iCloud's emailing infrastructure.\n\nAt the end of 2023 SMTP smuggling made a dramatic entrance, allowing email spoofing for millions of email servers worldwide. Ever wanted to send emails as admin@outlook.com while still passing SPF checks? SMTP smuggling had you covered!\n\nHowever, in 2024, most SMTP implementations adapted, and released security updates for their software. Does this mean the end of SMTP smuggling? Or does this attack have more to offer?\n\nLet's dive into a case study of Apple iCloud's SMTP parsing jungle and try to spoof emails once more!\n\nNote: This blog post is related to SMTP Smuggling - Spoofing E-Mails Worldwide. For additional contextual and background information, we recommend reading it first.\n\nEven though no novel techniques for traditional SMTP smuggling were discovered, a subclass of email spoofing was explored - header smuggling. Again highlighting the parsing discrepancies in SMTP implementations, header smuggling builds upon the lessons of its bigger brother SMTP smuggling. Based on a case study of Apple iCloud's emailing services, we once again reveal the dangers of trusting emails by being able to send messages from arbitrary icloud.com addresses.\n\nFirst of all, let's have a short recap on SMTP smuggling. With traditional SMTP smuggling, we exploited interpretation differences of the SMTP protocol between outbound (sending) and inbound (receiving) SMTP servers. More specifically, we capitalized on the fact that lots of SMTP implementations deviated from RFCs, leading to different understandings of the so-called end-of-data sequence. Since the end-of-data sequence indicates where the message data ends, we could achieve the following between vulnerable outbound and inbound SMTP servers (figure 1).",
+        "fullTranslation": "在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Longin（@timolongin）发现了 Apple iCloud 电子邮件基础设施中的两种罕见电子邮件伪造漏洞。\n\n2023 年年底，SMTP 走私攻击以一种戏剧性的方式登场，使全球数百万台电子邮件服务器面临电子邮件伪造风险。是否曾经想过，在通过 SPF 检查的同时，以 admin@outlook.com 的身份发送电子邮件？SMTP 走私攻击可以满足这一需求！\n\n然而，到了 2024 年，大多数 SMTP 实现都进行了调整，并发布了软件安全更新。这是否意味着 SMTP 走私攻击就此终结？还是说，这种攻击还有更多可能性？\n\n让我们深入研究 Apple iCloud 的 SMTP 解析丛林，并再次尝试伪造电子邮件！\n\n注意：这篇博客文章与《SMTP 走私——在全球范围内伪造电子邮件》有关。如需了解更多上下文和背景信息，我们建议先阅读该文章。\n\n尽管研究没有发现传统 SMTP 走私攻击的新技术，但研究人员探索了一类电子邮件伪造的子类型——标头走私。这再次凸显了 SMTP 实现中的解析差异；标头走私建立在其“前辈”SMTP 走私攻击的经验之上。基于对 Apple iCloud 电子邮件服务的案例研究，我们再次揭示了盲目信任电子邮件的危险：攻击者能够从任意 icloud.com 地址发送消息。\n\n首先，让我们简要回顾一下 SMTP 走私攻击。在传统的 SMTP 走私攻击中，我们利用了出站（发送）SMTP 服务器与入站（接收）SMTP 服务器对 SMTP 协议的理解差异。更具体地说，我们利用了这样一个事实：大量 SMTP 实现偏离了 RFC 标准，导致它们对所谓的“数据结束序列”产生不同理解。由于数据结束序列标示了消息数据的结束位置，因此在存在漏洞的出站 SMTP 服务器与入站 SMTP 服务器之间，我们可以实现以下效果（见图 1）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "文章称，Timo Longin（@timolongin）在与 SEC Consult Vulnerability Lab 合作开展研究期间，发现了 Apple iCloud 邮件基础设施中的两种电子邮件欺骗漏洞。",
+          "文章称，SMTP smuggling 在 2023 年底引起关注，并使针对全球数百万邮件服务器的电子邮件欺骗成为可能。",
+          "来源叙事重点：聚焦 Apple iCloud 邮件基础设施中的电子邮件身份伪造风险，强调 SMTP smuggling 与 header smuggling 所利用的不同邮件服务器解析逻辑，并以研究者声称能够从任意 icloud.com 地址发送邮件作为案例。文章同时将该发现置于 2023 年 SMTP smuggling 受到关注、2024 年相关实现陆续修复的背景中。文中“dramatic entrance”“parsing jungle”“dangers of trusting emails”等表述体现了安全研究和风险警示框架，不应视为独立验证的事实。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T06:50:55.000Z",
+            "url": "https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/"
+          }
+        ]
+      },
+      {
+        "id": "story-en-newborns-climate-html-256b1c23173b0da4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T07:30:01.000Z",
+        "pubTime": "2026-10-05 15:30",
+        "url": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/newborn.jpg",
+        "fullContent": "Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 15:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
+            "publishedAt": "2026-10-05T07:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ogorodsk-2122280071-html-cd4aea34a2690acb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Подмосковье при пожаре погибли женщина и ее трехлетний ребенок",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T09:10:03.000Z",
+        "pubTime": "2026-10-05 17:10",
+        "url": "https://ria.ru/20261005/bogorodsk-2122280071.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/05/17/2018690913_0:137:2470:1526_650x0_80_0_0_ad93e3f59172faac05203350239e3d92.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 17:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/bogorodsk-2122280071.html",
+            "publishedAt": "2026-10-05T09:10:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-he-new-fitbit-edge-leaks-5502c042ada317c3",
+        "title": "全新 Fitbit Edge 遭泄露",
+        "originalTitle": "The new Fitbit Edge leaks",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:02:09.000Z",
+        "pubTime": "2026-10-05 05:02",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nWe don’t know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google’s rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn’t as expansive as a proper smartwatch.\n\nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support for things like Google Maps and YouTube Music. Beyond that, not a ton is known.\n\nThe Fitbit Charge line was last updated in 2023, so a new midrange tracker is long overdue. While we don’t have any word on price or release date yet, somewhere in the $150 to $200 range seems like a safe bet. The Air costs $99.99 and the Watch starts at $399.99, so the Edge would clearly fall somewhere in the middle. The Charge 6 currently goes for $159.95.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "与这一主题相关的文章将被添加到你的每日电子邮件摘要和首页信息流中。\n\n谷歌中端产品 Fitbit Edge 在泄露图片中展示了多种外观和配色。\n\n与这位作者相关的文章将被添加到你的每日电子邮件摘要和首页信息流中。\n\n查看 Terrence O'Brien 的所有文章\n\n我们对 Fitbit Edge 目前所知不多，但它似乎是中端 Charge 产品线的继任者。此前已有相关泄露信息，而从 Android Headlines 发布的这些图片中可以清楚看到，传闻中的这款谷歌健身追踪器似乎介于 Pixel Watch 和 Fitbit Air 之间。它配备了一块小屏幕，能够显示一些小组件，但显然没有真正的智能手表那么大的显示范围。\n\n据称，这款以健身为核心的可穿戴设备续航时间将达到七天，并内置 GPS 和高度计，因此功能远比极简的 Air 更强。它还将有限支持 Google 地图和 YouTube Music 等应用。除此之外，目前尚无太多信息。\n\nFitbit Charge 产品线最近一次更新是在 2023 年，因此一款新的中端追踪器早就应该推出了。虽然目前还没有价格或发布日期方面的消息，但预计售价在 150 至 200 美元之间应该比较稳妥。Air 的售价为 99.99 美元，而 Watch 的起售价为 399.99 美元，因此 Edge 显然会处于两者之间。目前 Charge 6 的售价为 159.95 美元。\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "来源叙事重点：将Fitbit Edge叙述为Fitbit Charge系列的潜在中端继任产品，并强调其定位介于Pixel Watch与Fitbit Air之间。报道重点包括泄露图片所呈现的小尺寸屏幕、据称约七天续航、内置GPS和高度计，以及对Google Maps和YouTube Music等应用的有限支持；价格和发布时间主要属于媒体推测，而非已确认事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T21:02:09.000Z",
+            "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+          }
+        ]
+      },
+      {
+        "id": "story-rrel-stocks-release-html-e88d4893f760170d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:00:00.000Z",
+        "pubTime": "2026-10-05 17:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Margins-Slide-as-G7-Announces-100-Million-Barrel-Stocks-Release.html",
+        "imageUrl": null,
+        "fullContent": "The G7 announcement of a release of 100 million barrels of crude oil and diesel has pressured down middle distillate refinery margins, which had hit record highs last month. The start of stock releases over the next four months and the reduced risk of a U.S. ban on diesel exports sent the ICE gasoil crack down to about $70 per barrel now, from as high as $85 a barrel in the middle of last week, Warren Patterson, Head of Commodities Strategy at ING, said on in a note on Monday. Crack spreads are indicators of the profitability of refining crude oil into petroleum products such as gasoline and diesel and are used as a proxy for refinery margins. The diesel crack spread is the gross profit margin an oil refinery makes by converting a barrel of crude oil into diesel fuel. Despite the markedly weaker diesel crack at the start of this week, the margins remain historically high as the G7 stocks release does not solve the tightness beyond some immediate market relief, according to ING and other analysts. The stock release &ldquo;is helpful in the short term, but the only permanent solution to the tightness in middle distillate markets is getting refined products flowing from the Persian Gulf once again,&rdquo; ING&rsquo;s Patterson said. In the Middle East right now, &ldquo;there&rsquo;s still little sign of an end to tensions. We have seen an increase in attacks on commercial vessels in the Persian Gulf recently,&rdquo; the strategist added. UK Maritime Trade Operations UKMTO, which is affiliated with the Royal Navy, has reported seven strikes on vessels around the Strait of Hormuz since September 28. Iran&rsquo;s ability to target ships has also improved in recent weeks, which makes transits through the chokepoint riskier than a few weeks ago, a U.S. official has recently told the Wall Street Journal. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将G7宣布未来四个月释放1亿桶原油和柴油库存，与柴油裂解价差及炼厂利润率下滑联系起来。文章强调，库存释放可在短期缓解中间馏分油市场压力，但无法解决更持久的供应紧张；其核心解释框架是波斯湾及霍尔木兹海峡航运风险上升，导致成品油供应恢复受阻。文中称ICE柴油裂解价差约为每桶70美元，低于前一周中期约85美元，但仍处于历史高位。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T09:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Margins-Slide-as-G7-Announces-100-Million-Barrel-Stocks-Release.html"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-7688fd71a26ddaa8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Implementing Undo",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T04:36:02.000Z",
+        "pubTime": "2026-10-05 12:36",
+        "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 12:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+            "publishedAt": "2026-10-05T04:36:02.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-en-story-2026-10-1168518-663dd8966731bcaa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+        "source": "UN News (联合国官方英文)",
+        "sourceSlug": "un",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T12:00:00.000Z",
+        "pubTime": "2026-10-05 20:00",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
+        "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/29-09-2026-UNODC-Thailand-prison-04.jpg/image560x340cropped.jpg",
+        "fullContent": "“Your mind follows the thread, one by one, row by row. You know? It’s like meditation. I don’t like machines.”\n\nWeo, a prisoner at the Central Women’s Correctional Institution in Bangkok, prefers to sew by hand. She tried the sewing machine, but noticed that her mind was calmer when threading with her fingers directly. By not using a machine, she can produce a unique pattern that is hard to find in conventional shops.She is explaining this to a group of design students who, sketchbooks in hand, are walking through the rows, observing the women who sew. As time passes, some lose their initial apprehension and sit across from them, picking up fabric samples. Others ask about the products they are making. Some borrow their needles and, with the women’s guidance, try a bit of sewing themselves. A few sit on the floor in the basket-weaving corner with the women who have, by now, mastered the skill.Today, the students have left the classroom behind to spend their morning at Thailand’s first women’s prison, where approximately 150 women learn weaving, knitting and machine sewing to make marketable products. The students’ task is to design a product that these women can manufacture during their sentences. © UNODC/Laura Gil Thai university students arrive at Bangkok Women's Prison in the Thai capital. Through the wallThe initiative, launched in November 2025 by the UN Office on Drugs and Crime (UNODC) and the Thailand Institute of Justice (TIJ) pairs design students with incarcerated women to create modern, sustainable products that can be sold outside prison.Earlier this year, 22 students visited the prison and interacted with the women who are now manufacturing new products. Their designs had to appeal to modern consumers, be practical and tell a story linked to rehabilitation that would raise awareness of the critical role vocational training plays in reducing recidivism.“The stigma surrounding those who have made mistakes has long been a wall in our society. To help them cross that barrier, we must restore their human dignity,” said TIJ’s Chontit Chuenurah.“By weaving their stories into these products, we use the creativity of the youth to build a bridge between the prison and the outside world, replacing fear with understanding.”Under the theme Through the Wall, the initiative seeks to dismantle physical and social barriers, helping incarcerated women return successfully to society, she added.“The project aims to create prison-made goods that appeal to modern consumers while equipping correctional officers with essential marketing skills,” said Aki Okanan, former prison reform expert at UNODC. The project also raises international awareness of the role of rehabilitation and vocational training in reducing re-offending she added.Time well spentA panel of judges evaluated nine projects from 19 students in a competition earlier this year. The winner was Time-Made, featuring intricately smocked watch straps. For the students behind the design, time has a two-fold meaning: the sentence that prisoners can reduce by working in prison, and the time that people outside value, a privilege sometimes taken for granted.“We wanted our product to remind people that we can use time carefully and meaningfully. That we can watch our time,” says Game, 21, co-winner of the competition. © UNODC/Laura Gil Incarcerated women learn sewing skills at Bangkok Women's Prison. First stepsAll designs received support for product development and marketing, and the winning product, together with a selection of others, will be produced in collaboration with partner correctional facilities.Natty, also 21, has been studying lifestyle products for three years. She had expected the prison to look gloomy and scary and was surprised to find the workroom bright and airy. Still, she noticed that most prisoners used dark colours.“I want to take the skills they have and show them brighter fabrics and see what happens,” she said.Sitting by Weo’s side, Ana*, from Latin America, tells the story of how she was caught attempting to smuggle cocaine into Bangkok. After four years in prison, she can produce perfect stuffed animals and is fluent in Thai, although she has never seen Thailand outside prison.“I heard it’s beautiful here, but it doesn’t matter. After this, when I manage to get back to Brazil, I will start an import business and sell stuffed animals from Thailand. I know how to do it. I have the connections, and I speak the language.”As the students pass through the gates and security controls to leave, their enthusiasm wanes. Although the prisoners cannot leave, this collaboration connects them to the outside world, the first step in reintegration.*Name changed to protect identity.\n\nWeo, a prisoner at the Central Women’s Correctional Institution in Bangkok, prefers to sew by hand. She tried the sewing machine, but noticed that her mind was calmer when threading with her fingers directly. By not using a machine, she can produce a unique pattern that is hard to find in conventional shops.\n\nShe is explaining this to a group of design students who, sketchbooks in hand, are walking through the rows, observing the women who sew.\n\nAs time passes, some lose their initial apprehension and sit across from them, picking up fabric samples. Others ask about the products they are making. Some borrow their needles and, with the women’s guidance, try a bit of sewing themselves. A few sit on the floor in the basket-weaving corner with the women who have, by now, mastered the skill.\n\nToday, the students have left the classroom behind to spend their morning at Thailand’s first women’s prison, where approximately 150 women learn weaving, knitting and machine sewing to make marketable products.\n\nThe students’ task is to design a product that these women can manufacture during their sentences.\n\nThe initiative, launched in November 2025 by the UN Office on Drugs and Crime (UNODC) and the Thailand Institute of Justice (TIJ) pairs design students with incarcerated women to create modern, sustainable products that can be sold outside prison.\n\nEarlier this year, 22 students visited the prison and interacted with the women who are now manufacturing new products. Their designs had to appeal to modern consumers, be practical and tell a story linked to rehabilitation that would raise awareness of the critical role vocational training plays in reducing recidivism.\n\n“The stigma surrounding those who have made mistakes has long been a wall in our society. To help them cross that barrier, we must restore their human dignity,” said TIJ’s Chontit Chuenurah.\n\n“By weaving their stories into these products, we use the creativity of the youth to build a bridge between the prison and the outside world, replacing fear with understanding.”\n\nUnder the theme Through the Wall, the initiative seeks to dismantle physical and social barriers, helping incarcerated women return successfully to society, she added.\n\n“The project aims to create prison-made goods that appeal to modern consumers while equipping correctional officers with essential marketing skills,” said Aki Okanan, former prison reform expert at UNODC.\n\nThe project also raises international awareness of the role of rehabilitation and vocational training in reducing re-offending she added.\n\nA panel of judges evaluated nine projects from 19 students in a competition earlier this year.\n\nThe winner was Time-Made, featuring intricately smocked watch straps.\n\nFor the students behind the design, time has a two-fold meaning: the sentence that prisoners can reduce by working in prison, and the time that people outside value, a privilege sometimes taken for granted.\n\n“We wanted our product to remind people that we can use time carefully and meaningfully. That we can watch our time,” says Game, 21, co-winner of the competition.\n\nAll designs received support for product development and marketing, and the winning product, together with a selection of others, will be produced in collaboration with partner correctional facilities.\n\nNatty, also 21, has been studying lifestyle products for three years. She had expected the prison to look gloomy and scary and was surprised to find the workroom bright and airy. Still, she noticed that most prisoners used dark colours.\n\n“I want to take the skills they have and show them brighter fabrics and see what happens,” she said.\n\nSitting by Weo’s side, Ana*, from Latin America, tells the story of how she was caught attempting to smuggle cocaine into Bangkok. After four years in prison, she can produce perfect stuffed animals and is fluent in Thai, although she has never seen Thailand outside prison.\n\n“I heard it’s beautiful here, but it doesn’t matter. After this, when I manage to get back to Brazil, I will start an import business and sell stuffed animals from Thailand. I know how to do it. I have the connections, and I speak the language.”\n\nAs the students pass through the gates and security controls to leave, their enthusiasm wanes. Although the prisoners cannot leave, this collaboration connects them to the outside world, the first step in reintegration.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“穿越高墙”为核心框架，将服刑女性参与编织、缝纫等职业培训，以及与设计学生合作开发商品，叙述为恢复尊严、减少污名、连接监狱与社会并促进回归社会的第一步。报道突出个体故事、创意产品和人与人之间的接触，较少讨论监禁制度、刑罚背景及项目执行中的结构性问题。"
+        ],
+        "citations": [
+          {
+            "source": "UN News (联合国官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T12:00:00.000Z",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168518"
+          }
+        ]
+      },
+      {
+        "id": "story-why-cant-they-get-enough-07a3961b77d07a47",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "People really hate AI, so why can’t they get enough?",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T08:00:00.000Z",
+        "pubTime": "2026-10-05 16:00",
+        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "imageUrl": null,
+        "fullContent": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI company. We don’t know if we really like what we’re doing.”\n\n“I guess that makes me a self-loathing AI journalist,” I replied. It was a joke! I love my job. But I do not love many of the things the technology I write about has become: warped by hype , steered by zealots, inescapable.\n\nThe CEO of Springboards and I are far from alone. Around the world, a love/hate attitude toward AI is very much the vibe right now.\n\nOn the one hand, public feelings are souring fast. According to the Pew Research Center, more adults in the US think AI will have a negative impact on them personally, and on society in general, than expect a positive one. The pessimism is strongest among the young.\n\nMore than half of people worldwide say that AI products and services make them nervous, according to a report from Stanford University . In a Gallup poll in May, 71% of US adults said they would oppose construction of a new AI data center in their area, far more than the 53% who said they would oppose a new nuclear power plant. And in an NBC poll in March, AI was less popular than ICE.\n\nYet the number of people using AI is still skyrocketing. ChatGPT hit a billion monthly users in May, according to the market analysis firm Sensor Tower. Google DeepMind’s Gemini is close behind, logging 950 million users in July.\n\nAccording to Pew, half of US adults now say they use a chatbot , more than twice the number who said they did in 2023. One in four people say they do so every day. And it’s a global habit: More than a third of adults across all 38 OECD countries (a group of the world’s wealthiest democracies) report having used generative AI tools in the last three months .\n\nAll these surveys paint a picture of two contradictory truths: A lot of people really do not like AI, and at the same time, a lot of people cannot get enough of it. What’s going on?\n\nIt’s possible that these are two distinct groups, but I doubt it. The numbers don’t add up unless the Venn diagram is on its way to being a circle.\n\nIt’s also possible that the more people use AI, the more negative their opinions about it will be. There’s at least a correlation to back this up : The Global North, where adoption is highest, skews pessimistic. In the Global South, where adoption levels are lower, people are more optimistic.\n\nBut here’s what I really think is going on: When people say they hate AI it’s not the technology they dislike but, rather, the relentless drive of the companies behind it to push the tech upon us in as many ways as possible . They’re telling us to brace for the biggest social and economic upheaval in generations. How do they expect people to feel?\n\nIn many ways, we’ve been here before. We saw a similar dynamic play out with social media over the last 20 years. Billions flocked to Facebook and Twitter despite mounting techlash against the companies that ran those services. Ditto for Google search.\n\nWith social media there wasn’t much anyone could do. Quitting a platform meant losing all your content and connections, giving you the choice to suck it up or start over. But with AI there’s still a chance for people to have some sway. There’s certainly more political appetite for regulation this time around. All 50 US states have either passed or proposed laws governing the development and deployment of AI , creating a patchwork of more than 2,100 bills across the country—a tenfold increase in three years.&nbsp;\n\nAnd with a number of top-class open-source alternatives to Google and OpenAI and Anthropic already on the market, there’s also (for now, at least) the potential for more consumer choice and the market pressure that goes with it.&nbsp;\n\nI don’t want to be naïve. Trillion-dollar companies are hard to move. But what comes next is not as inevitable as those companies often imply. When I asked the Springboards CEO why his firm was developing a new model if he didn’t really like AI, he told me there was no walking back from LLMs—but you could still make them do something different.&nbsp;\n\nHere’s hoping we see a lot more of something different: AI that’s clear about what it can and can’t do and, crucially, that’s not posturing as if it’s about to take over the world.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T08:00:00.000Z",
+            "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+          }
+        ]
+      },
+      {
+        "id": "story-for-165-million-6a9c71d2-01ed64b899e0066c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Larry Ellison to list Palm Beach property for $165 million",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:05:00.000Z",
+        "pubTime": "2026-10-05 17:05",
+        "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Billionaire Oracle co-founder Larry Ellison is planning to bid farewell to the third-largest oceanfront parcel in Florida’s Palm Beach County, with hopes to fetch $165 million.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-05 17:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-05T09:05:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-a3789b7dee97726c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tufte's Razor: an interactive guide to the data-ink ratio",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:08:15.000Z",
+        "pubTime": "2026-10-05 17:08",
+        "url": "https://tuftesrazor.scienceux.org/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 17:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://tuftesrazor.scienceux.org/",
+            "publishedAt": "2026-10-05T09:08:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-echnique-life-space-html-944b015f919e6570",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Electrical technique could help identify signs of life in space",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:00:06.000Z",
+        "pubTime": "2026-10-05 17:00",
+        "url": "https://phys.org/news/2026-10-electrical-technique-life-space.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-electrical-techniqu.jpg",
+        "fullContent": "The truth is out there—but identifying signs of life in space involves an intense search for biosignatures within our solar system and beyond. However, developing sensitive yet compact technologies capable of detection has proven to be an out-of-this-world challenge.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-electrical-technique-life-space.html",
+            "publishedAt": "2026-10-05T09:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-minzdrav-2122280238-html-b4c602f4de84e3cc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Минздраве рассказали об объеме финансирования медпомощи онкобольным",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T09:10:07.000Z",
+        "pubTime": "2026-10-05 17:10",
+        "url": "https://ria.ru/20261005/minzdrav-2122280238.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/05/1a/2094835151_0:181:2998:1867_650x0_80_0_0_3792c1f84afa0e0a67846f3b37e722cb.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 17:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/minzdrav-2122280238.html",
+            "publishedAt": "2026-10-05T09:10:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-when-ai-meets-everything-99203639eb51dfe3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "EmTech Future 2026: When AI Meets Everything",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T04:00:00.000Z",
+        "pubTime": "2026-10-05 12:00",
+        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+        "fullContent": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&nbsp;\n\nStep inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily.&nbsp;\n\nThere’s much more to discover &nbsp;\n\nThese are just&nbsp;two&nbsp;sessions from&nbsp; EmTech&nbsp;Future 2026 .\n\nAcross three days,&nbsp;EmTech&nbsp;Future explored some of the most important questions shaping technology right now: how AI is&nbsp;impacting industries, where quantum is heading, what new energy systems could make possible, how robotics are evolving, and what&nbsp;challenges and&nbsp;opportunities&nbsp;arise&nbsp;when these technologies start to converge.&nbsp;&nbsp;\n\nHear the ideas, insights, and perspectives you missed at&nbsp;EmTech&nbsp;Future&nbsp;2026. &nbsp;\n\nThe full&nbsp;program&nbsp;is now available on demand, giving you access to&nbsp;all&nbsp;the conversations and sessions from the event, including:&nbsp;\n\nQua ntum in context &nbsp;Hartmut Neven,&nbsp;founder and lead at&nbsp;Google Quantum AI, explores&nbsp;how quantum is advancing alongside other frontiers&nbsp;and why its significance may lie not only in what it can do on its own, but in how it begins to interact with the systems around it.&nbsp;\n\nEnergy Systems for the&nbsp;Future &nbsp;Evelyn&nbsp;Wang, VP for&nbsp;energy &&nbsp;climate at MIT, explores how energy, computing, infrastructure, and climate technologies are increasingly interconnected, and what these converging systems could mean for the future of industry and society.&nbsp;\n\nRethinking our relationship with AI &nbsp;–Cory Doctorow, bestselling author and award-winning writer, explores how AI is changing the way we work and think.&nbsp;\n\nAs an&nbsp;MIT Technology Review subscriber,&nbsp;you’ll&nbsp;get a&nbsp; 20% discount ,&nbsp;meaning you can access the full&nbsp;EmTech&nbsp;Future 2026 program&nbsp;for just $596.&nbsp;",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以“技术汇聚与跨领域交叉”为核心叙事，强调人工智能正与生物学、基础设施、制造业、科学、能源、量子计算和机器人等领域发生联系，并将这种技术融合描述为影响产业和社会的重要方向。文章同时突出活动内容的延展性和可获取性，具有明显的会议宣传和内容销售导向。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T04:00:00.000Z",
+            "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+          }
+        ]
+      },
+      {
+        "id": "story-e-4009-b130-6f7a191336c4-14bc1ca491736b3a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Spanish prime minister Pedro Sánchez calls snap election",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:00:07.000Z",
+        "pubTime": "2026-10-05 17:00",
+        "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52d48099-1eb4-414f-bda3-722bac155761.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-05 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-05T09:00:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--apple-icloud-identities-9699ab14008584a4",
+        "title": "要闻：在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Lon",
+        "originalTitle": "From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T06:50:55.000Z",
+        "pubTime": "2026-10-05 14:50",
+        "url": "https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/",
+        "imageUrl": null,
+        "fullContent": "In the course of a research project in collaboration with the SEC Consult Vulnerability Lab, Timo Longin (@timolongin) - known for SMTP smuggling - discovered two exotic email spoofing vulnerabilities in Apple iCloud's emailing infrastructure.\n\nAt the end of 2023 SMTP smuggling made a dramatic entrance, allowing email spoofing for millions of email servers worldwide. Ever wanted to send emails as admin@outlook.com while still passing SPF checks? SMTP smuggling had you covered!\n\nHowever, in 2024, most SMTP implementations adapted, and released security updates for their software. Does this mean the end of SMTP smuggling? Or does this attack have more to offer?\n\nLet's dive into a case study of Apple iCloud's SMTP parsing jungle and try to spoof emails once more!\n\nNote: This blog post is related to SMTP Smuggling - Spoofing E-Mails Worldwide. For additional contextual and background information, we recommend reading it first.\n\nEven though no novel techniques for traditional SMTP smuggling were discovered, a subclass of email spoofing was explored - header smuggling. Again highlighting the parsing discrepancies in SMTP implementations, header smuggling builds upon the lessons of its bigger brother SMTP smuggling. Based on a case study of Apple iCloud's emailing services, we once again reveal the dangers of trusting emails by being able to send messages from arbitrary icloud.com addresses.\n\nFirst of all, let's have a short recap on SMTP smuggling. With traditional SMTP smuggling, we exploited interpretation differences of the SMTP protocol between outbound (sending) and inbound (receiving) SMTP servers. More specifically, we capitalized on the fact that lots of SMTP implementations deviated from RFCs, leading to different understandings of the so-called end-of-data sequence. Since the end-of-data sequence indicates where the message data ends, we could achieve the following between vulnerable outbound and inbound SMTP servers (figure 1).",
+        "fullTranslation": "在与 SEC Consult 漏洞实验室合作开展一项研究项目期间，以 SMTP 走私攻击闻名的 Timo Longin（@timolongin）发现了 Apple iCloud 电子邮件基础设施中的两种罕见电子邮件伪造漏洞。\n\n2023 年年底，SMTP 走私攻击以一种戏剧性的方式登场，使全球数百万台电子邮件服务器面临电子邮件伪造风险。是否曾经想过，在通过 SPF 检查的同时，以 admin@outlook.com 的身份发送电子邮件？SMTP 走私攻击可以满足这一需求！\n\n然而，到了 2024 年，大多数 SMTP 实现都进行了调整，并发布了软件安全更新。这是否意味着 SMTP 走私攻击就此终结？还是说，这种攻击还有更多可能性？\n\n让我们深入研究 Apple iCloud 的 SMTP 解析丛林，并再次尝试伪造电子邮件！\n\n注意：这篇博客文章与《SMTP 走私——在全球范围内伪造电子邮件》有关。如需了解更多上下文和背景信息，我们建议先阅读该文章。\n\n尽管研究没有发现传统 SMTP 走私攻击的新技术，但研究人员探索了一类电子邮件伪造的子类型——标头走私。这再次凸显了 SMTP 实现中的解析差异；标头走私建立在其“前辈”SMTP 走私攻击的经验之上。基于对 Apple iCloud 电子邮件服务的案例研究，我们再次揭示了盲目信任电子邮件的危险：攻击者能够从任意 icloud.com 地址发送消息。\n\n首先，让我们简要回顾一下 SMTP 走私攻击。在传统的 SMTP 走私攻击中，我们利用了出站（发送）SMTP 服务器与入站（接收）SMTP 服务器对 SMTP 协议的理解差异。更具体地说，我们利用了这样一个事实：大量 SMTP 实现偏离了 RFC 标准，导致它们对所谓的“数据结束序列”产生不同理解。由于数据结束序列标示了消息数据的结束位置，因此在存在漏洞的出站 SMTP 服务器与入站 SMTP 服务器之间，我们可以实现以下效果（见图 1）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "文章称，Timo Longin（@timolongin）在与 SEC Consult Vulnerability Lab 合作开展研究期间，发现了 Apple iCloud 邮件基础设施中的两种电子邮件欺骗漏洞。",
+          "文章称，SMTP smuggling 在 2023 年底引起关注，并使针对全球数百万邮件服务器的电子邮件欺骗成为可能。",
+          "来源叙事重点：聚焦 Apple iCloud 邮件基础设施中的电子邮件身份伪造风险，强调 SMTP smuggling 与 header smuggling 所利用的不同邮件服务器解析逻辑，并以研究者声称能够从任意 icloud.com 地址发送邮件作为案例。文章同时将该发现置于 2023 年 SMTP smuggling 受到关注、2024 年相关实现陆续修复的背景中。文中“dramatic entrance”“parsing jungle”“dangers of trusting emails”等表述体现了安全研究和风险警示框架，不应视为独立验证的事实。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T06:50:55.000Z",
+            "url": "https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/"
+          }
+        ]
+      },
+      {
+        "id": "story-en-newborns-climate-html-256b1c23173b0da4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Extreme heat putting pregnant women, newborns at risk: UN climate chief",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T07:30:01.000Z",
+        "pubTime": "2026-10-05 15:30",
+        "url": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/newborn.jpg",
+        "fullContent": "Extreme heat is putting pregnant mothers and their newborns at increasing risk, United Nations climate chief Simon Stiell will warn on Monday.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-05 15:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-extreme-pregnant-women-newborns-climate.html",
+            "publishedAt": "2026-10-05T07:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ogorodsk-2122280071-html-cd4aea34a2690acb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Подмосковье при пожаре погибли женщина и ее трехлетний ребенок",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-05T09:10:03.000Z",
+        "pubTime": "2026-10-05 17:10",
+        "url": "https://ria.ru/20261005/bogorodsk-2122280071.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/05/17/2018690913_0:137:2470:1526_650x0_80_0_0_ad93e3f59172faac05203350239e3d92.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-05 17:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261005/bogorodsk-2122280071.html",
+            "publishedAt": "2026-10-05T09:10:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-he-new-fitbit-edge-leaks-5502c042ada317c3",
+        "title": "全新 Fitbit Edge 遭泄露",
+        "originalTitle": "The new Fitbit Edge leaks",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-04T21:02:09.000Z",
+        "pubTime": "2026-10-05 05:02",
+        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nWe don’t know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google’s rumored fitness tracker sort of splits the difference between the Pixel Watch and the Fitbit Air. It has a small screen that is able to display some widgets, but clearly isn’t as expansive as a proper smartwatch.\n\nSupposedly, this fitness-first wearable will have a seven-day battery life, as well as built-in GPS and an altimeter, making it far more capable than the minimalist Air. It will also have limited app support for things like Google Maps and YouTube Music. Beyond that, not a ton is known.\n\nThe Fitbit Charge line was last updated in 2023, so a new midrange tracker is long overdue. While we don’t have any word on price or release date yet, somewhere in the $150 to $200 range seems like a safe bet. The Air costs $99.99 and the Watch starts at $399.99, so the Edge would clearly fall somewhere in the middle. The Charge 6 currently goes for $159.95.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "与这一主题相关的文章将被添加到你的每日电子邮件摘要和首页信息流中。\n\n谷歌中端产品 Fitbit Edge 在泄露图片中展示了多种外观和配色。\n\n与这位作者相关的文章将被添加到你的每日电子邮件摘要和首页信息流中。\n\n查看 Terrence O'Brien 的所有文章\n\n我们对 Fitbit Edge 目前所知不多，但它似乎是中端 Charge 产品线的继任者。此前已有相关泄露信息，而从 Android Headlines 发布的这些图片中可以清楚看到，传闻中的这款谷歌健身追踪器似乎介于 Pixel Watch 和 Fitbit Air 之间。它配备了一块小屏幕，能够显示一些小组件，但显然没有真正的智能手表那么大的显示范围。\n\n据称，这款以健身为核心的可穿戴设备续航时间将达到七天，并内置 GPS 和高度计，因此功能远比极简的 Air 更强。它还将有限支持 Google 地图和 YouTube Music 等应用。除此之外，目前尚无太多信息。\n\nFitbit Charge 产品线最近一次更新是在 2023 年，因此一款新的中端追踪器早就应该推出了。虽然目前还没有价格或发布日期方面的消息，但预计售价在 150 至 200 美元之间应该比较稳妥。Air 的售价为 99.99 美元，而 Watch 的起售价为 399.99 美元，因此 Edge 显然会处于两者之间。目前 Charge 6 的售价为 159.95 美元。\n\n每日免费获取最重要的新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "来源叙事重点：将Fitbit Edge叙述为Fitbit Charge系列的潜在中端继任产品，并强调其定位介于Pixel Watch与Fitbit Air之间。报道重点包括泄露图片所呈现的小尺寸屏幕、据称约七天续航、内置GPS和高度计，以及对Google Maps和YouTube Music等应用的有限支持；价格和发布时间主要属于媒体推测，而非已确认事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-04T21:02:09.000Z",
+            "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+          }
+        ]
+      },
+      {
+        "id": "story-rrel-stocks-release-html-e88d4893f760170d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T09:00:00.000Z",
+        "pubTime": "2026-10-05 17:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Margins-Slide-as-G7-Announces-100-Million-Barrel-Stocks-Release.html",
+        "imageUrl": null,
+        "fullContent": "The G7 announcement of a release of 100 million barrels of crude oil and diesel has pressured down middle distillate refinery margins, which had hit record highs last month. The start of stock releases over the next four months and the reduced risk of a U.S. ban on diesel exports sent the ICE gasoil crack down to about $70 per barrel now, from as high as $85 a barrel in the middle of last week, Warren Patterson, Head of Commodities Strategy at ING, said on in a note on Monday. Crack spreads are indicators of the profitability of refining crude oil into petroleum products such as gasoline and diesel and are used as a proxy for refinery margins. The diesel crack spread is the gross profit margin an oil refinery makes by converting a barrel of crude oil into diesel fuel. Despite the markedly weaker diesel crack at the start of this week, the margins remain historically high as the G7 stocks release does not solve the tightness beyond some immediate market relief, according to ING and other analysts. The stock release &ldquo;is helpful in the short term, but the only permanent solution to the tightness in middle distillate markets is getting refined products flowing from the Persian Gulf once again,&rdquo; ING&rsquo;s Patterson said. In the Middle East right now, &ldquo;there&rsquo;s still little sign of an end to tensions. We have seen an increase in attacks on commercial vessels in the Persian Gulf recently,&rdquo; the strategist added. UK Maritime Trade Operations UKMTO, which is affiliated with the Royal Navy, has reported seven strikes on vessels around the Strait of Hormuz since September 28. Iran&rsquo;s ability to target ships has also improved in recent weeks, which makes transits through the chokepoint riskier than a few weeks ago, a U.S. official has recently told the Wall Street Journal. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将G7宣布未来四个月释放1亿桶原油和柴油库存，与柴油裂解价差及炼厂利润率下滑联系起来。文章强调，库存释放可在短期缓解中间馏分油市场压力，但无法解决更持久的供应紧张；其核心解释框架是波斯湾及霍尔木兹海峡航运风险上升，导致成品油供应恢复受阻。文中称ICE柴油裂解价差约为每桶70美元，低于前一周中期约85美元，但仍处于历史高位。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T09:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Margins-Slide-as-G7-Announces-100-Million-Barrel-Stocks-Release.html"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-7688fd71a26ddaa8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Implementing Undo",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T04:36:02.000Z",
+        "pubTime": "2026-10-05 12:36",
+        "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-10-05 12:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+            "publishedAt": "2026-10-05T04:36:02.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791166903839,
     "timeDisplay": "2026-10-05 10:21 (UTC+8)",
     "date": "2026-10-05",
