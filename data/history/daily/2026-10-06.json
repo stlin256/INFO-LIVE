@@ -1,0 +1,1541 @@
+[
+  {
+    "timestamp": 1791273062570,
+    "timeDisplay": "2026-10-06 15:51 (UTC+8)",
+    "date": "2026-10-06",
+    "runId": "feed-20261006T073925503Z-goujlo",
+    "generatedAt": "2026-10-06T07:51:02.570Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 15:39",
+      "lead": "本轮抓取于 2026-10-06 15:39 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】外交官：过去一周乌克兰袭击造成29名俄罗斯平民死亡：卢甘斯克，10月6日。/塔斯社/——俄罗斯外交部无任所大使罗季翁·米罗什尼克告诉塔斯社，过去一周，乌克兰发动的袭击造成29名俄罗斯平民死亡，其中包括两名儿童。",
+        "【undefined】Gemini 的“Call for Me”或许会告诉你妈妈你要迟到了：该主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 据传，一项安卓更新将利用 Gemini AI 自动处理私人电话。 该作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 查看 Stevie Bonifield 的所有文章 谷歌可能正在扩展其“Call for Me”人工智能功能，使其不再局限于商务电话，从而让你可以利用它向朋友和家人发送消息。Android Authority 报道称，其在对一个 APK 文件进行拆解",
+        "【undefined】世界银行在将东亚和太平洋地区增长预期上调至4.5%的同时警告人工智能集中度风险：世界银行在人工智能相关出口的推动下上调了东亚和太平洋地区的增长预测，同时警告称，该地区对人工智能繁荣的依赖，使其容易受到全球科技支出可能逆转的冲击。",
+        "【undefined】Lucid Motors电动汽车产量降至近两年来最低水平：Lucid Motors今年第三季度生产了2954辆电动汽车（EV），同比下降54%。该公司正在有意限制产量，以更好地匹配电动汽车的市场需求。",
+        "【undefined】反向工程游戏：关于电子游戏反编译、重新编译、VR、网页及3D移植的所有消息：对于复古游戏而言，这是一个疯狂的时代。得益于对经典游戏的反编译和重新编译，这些游戏正逐渐摆脱专有代码和原始硬件的束缚，被移植到新设备上，或以彻底改变原作的方式进行更新。你是否曾设想过在《使命召唤》中玩滑板？或者直接在网页浏览器中游玩原版《光环》，而且还带有多人游戏功能？",
+        "【undefined】Matic 是首款获得 FCC 禁令豁免的扫地机器人，尽管它并不需要这项豁免：关于这一主题的文章将被添加到你的每日电子邮件摘要和主页信息流中。",
+        "【undefined】OpenAI将在欧盟开始为ChatGPT生成的文本添加水印：OpenAI周一在一篇博客文章中表示，为遵守欧盟《人工智能法案》，公司将开始为ChatGPT和Codex在欧盟生成的文本添加不可见水印。",
+        "【undefined】消息人士称，Etched获融资报价估值超过400亿美元：据熟悉该公司情况的人士透露，距离Etched以210亿美元估值筹得7亿美元仅过去几个月，这家人工智能芯片初创公司已经收到估值至少是当前两倍的投资报价。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可核实文章",
+      "lead": "当前证据包未提供可核实的文章标题、正文、来源或引用，无法进行日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 83,
+      "completedTasks": 83,
+      "succeeded": 44,
+      "degraded": 39,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 83,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 697011,
+      "byRole": {
+        "translator": {
+          "attempts": 55,
+          "succeeded": 28,
+          "degraded": 27
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "degraded": 7,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "degraded": 4,
+          "succeeded": 4
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 83,
+          "succeeded": 44,
+          "degraded": 39
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-1",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-1",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-24-translator-0",
+      "article-28-translator-0",
+      "article-31-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-1",
+      "article-40-translator-0",
+      "article-42-translator-0",
+      "article-44-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.985Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.422Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.145Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.417Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.654Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.717Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.670Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.835Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.615Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.013Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.535Z",
+        "lastSuccessAt": "2026-10-06T07:39:09.860Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:10.188Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.494Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.322Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.365Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.823Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.878Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.767Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.937Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.506Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.685Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.455Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.654Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.417Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.561Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.422Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.506Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:09.713Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.311Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:09.486Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.188Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:09.676Z",
+        "lastSuccessAt": "2026-10-06T07:39:09.713Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.835Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.098Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.645Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.670Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.561Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.645Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.283Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.322Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.071Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.283Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.171Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.346Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.093Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.435Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-06T07:39:07.937Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.098Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.231Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.425Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.799Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.829Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.002Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:09.860Z",
+        "lastSuccessAt": "2026-10-06T07:39:11.714Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.231Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.383Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.469Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.535Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.435Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.462Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.515Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.755Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:10.013Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.257Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.685Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.767Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.878Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.354Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.071Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.171Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.510Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.615Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-06T07:39:08.383Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.354Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.740Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.069Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.838Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.462Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.515Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.070Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.425Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.740Z",
+        "lastSuccessAt": "2026-10-06T07:39:10.372Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.012Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.093Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.365Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.455Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.346Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.510Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.002Z",
+        "lastSuccessAt": "2026-10-06T07:39:08.071Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.755Z",
+        "lastSuccessAt": "2026-10-06T07:39:09.486Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:08.799Z",
+        "lastSuccessAt": "2026-10-06T07:39:09.676Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.736Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.829Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:07.717Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.823Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.053Z",
+        "lastSuccessAt": "2026-10-06T07:39:06.985Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.067Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.145Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T07:39:06.068Z",
+        "lastSuccessAt": "2026-10-06T07:39:07.736Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--deputat-2122518179-html-5bdf7503c0fe2676",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Южнокорейский депутат, изучающий русский, назвал Россию важным партнером",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T07:37:28.000Z",
+        "pubTime": "2026-10-06 15:37",
+        "url": "https://ria.ru/20261006/deputat-2122518179.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/02/2121720676_0:191:2923:1835_650x0_80_0_0_39bac34dda1c6a10087ef89ef073583f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-06 15:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/deputat-2122518179.html",
+            "publishedAt": "2026-10-06T07:37:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-tiiuae-falcon-emirati-fe424883c3cacf66",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "source": "Hugging Face (开源模型社区)",
+        "sourceSlug": "huggingface",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:44:39.000Z",
+        "pubTime": "2026-10-06 14:44",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "imageUrl": null,
+        "fullContent": "Try Falcon Emirati →\n\nArabic is really a family of languages living under one name. Modern Standard Arabic is what you read in the news or a textbook, but it's rarely how people actually talk to each other. In the UAE, day-to-day conversation, humor, negotiation, and storytelling happen in Emirati Arabic, a Gulf dialect with its own vocabulary, its own rhythm, and a culture wrapped tightly around it. Emirati poetry, especially nabati poetry, along with proverbs and short anecdotes, carries meaning that doesn't survive a literal, word-for-word reading. A model that only knows MSA can translate every word of an Emirati sentence and still miss what it actually means.\n\nThat's the gap Falcon-Emirati-7B is built to close. It's a dialect-specialized model on top of Falcon-H1-Arabic, aimed at understanding and generating Emirati Arabic the way a native speaker would: the vocabulary, the tone, and the cultural context behind it.\n\nWe didn't start from scratch. Falcon-Emirati-7B is built on Falcon-H1-Arabic, our Arabic model family that already set new benchmarks for the language earlier this year. Falcon-H1-Arabic uses the Falcon-H1 hybrid architecture: State Space Models (Mamba) and Transformer attention running in parallel inside every block, with their outputs fused before each block's projection. That combination gives the linear-time efficiency of Mamba on long sequences while keeping the precision of attention for long-range dependencies, which matters for a morphologically rich language like Arabic. The family spans three scales (3B, 7B, and 34B parameters) with context windows up to 128K and 256K tokens, and it was already trained on a broad mix of MSA and dialectal Arabic (Gulf, Levantine, Egyptian, Maghrebi) alongside English and multilingual data.\n\nThat gave us a strong starting point: a model that already understood Arabic broadly, handled long context well, and had some dialectal exposure baked in. Falcon-Emirati-7B takes that foundation and pushes it specifically toward the Emirati dialect, the vocabulary, the grammar, and the cultural knowledge that a general Arabic model, however capable, doesn't pick up on its own.\n\nWe built Falcon-Emirati-7B on the 7B variant specifically. It's the sweet spot in the family: large enough to hold onto the nuance that dialect adaptation needs, but small enough that both training and inference stay practical. The 34B model would likely push quality a bit further, but at a training and serving cost that doesn't make sense for a dialect-specialized chat model, and the 3B model doesn't leave enough headroom for the depth of cultural and linguistic understanding we were after. 7B gave us the best balance of quality against training and inference cost.\n\nTurning a general Arabic model into an Emirati-dialect specialist sounds like a smaller job than building the base model in the first place. It isn't. A few things make it genuinely difficult:\n\nThat last point shaped how we worked. A lot of building Falcon-Emirati-7B came down to trial and error: testing different data mixes, training stages, and supervision strategies, and using both human judgment and benchmark scores to figure out what actually moved the needle.\n\nWe built a dedicated Emirati data pipeline on top of Falcon-H1-Arabic's pretraining, drawing on three complementary sources.\n\nWe crawled and curated content from Emirati websites and forums written natively in the dialect, not translated or transliterated from MSA. This is where we got our ground truth: how Emiratis actually write and speak online, the everyday phrasing, the colloquial expressions, and the natural back-and-forth between Emirati and MSA that shows up in real usage.\n\nAlongside the dialectal text, we pulled in MSA-language material specifically about Emirati culture, heritage, and language: articles and references on local customs, values, history, and social norms, including how Emiratis are perceived and stereotyped. This doesn't teach the model to write in dialect, but it teaches the model what it's talking about when Emirati topics come up, things like heritage, etiquette, and the context a native speaker just knows.\n\nAuthentic dialectal text alone wasn't enough to cover the range of topics a chat model actually needs to handle day to day. So we generated a large amount of synthetic Emirati-dialect data to fill the gaps. We didn't just let a generator model improvise in \"Gulf-ish\" Arabic. We constrained it with strict rules and glossaries and dictionaries built specifically for Emirati vocabulary and grammar. Those guardrails made the difference between synthetic output that reads as authentically Emirati and output that's grammatically fine but sounds off to anyone who actually speaks the dialect.\n\nSince there's no standard recipe for MSA-to-dialect adaptation, we treated the training strategy itself as something to figure out experimentally. We ran ablations on how much dialectal data to inject and at which stage of training, how to balance authentic crawled data against synthetic data without the model overfitting to synthetic patterns, and how much MSA cultural context was actually needed to keep it culturally grounded rather than just fluent on the surface. At each step we leaned on a mix of automatic scoring and native-speaker review, since automatic metrics alone don't capture naturalness, tone, or cultural fit well enough to trust on their own.\n\nWe tracked progress throughout training with two complementary approaches:\n\nEmirati native speakers reviewed model outputs directly, judging not just whether an answer was correct but whether it sounded right: naturalness, tone, cultural appropriateness. These are the things a benchmark score won't tell you but a native ear catches immediately.\n\nFor quantitative tracking, we used Alyah (الياه, \"North Star\"), a benchmark we and the community released specifically to evaluate Emirati-dialect capability in Arabic LLMs. Alyah is a fully native multiple-choice benchmark of 1,173 samples, collected manually from native Emirati speakers and spanning categories from everyday greetings and etiquette to figurative language, heritage knowledge, and Emirati poetry: the categories where dialect and culture matter most and where generic Arabic models tend to struggle. Full details on Alyah's construction and category breakdown are available in our benchmark blog post, and background on the base model family is available in the Falcon-H1-Arabic announcement.\n\nFalcon-Emirati-7B scores 84.83% on Alyah, ahead of every other Arabic and multilingual model we compared it against, including several models many times its size. The chart below shows where it lands next to a representative set of leading instruction-tuned models on the Alyah leaderboard.\n\nAlyah accuracy (%), instruction-tuned models. Falcon-H1-Arabic family models are excluded from this comparison since Falcon-Emirati-7B is built on top of them.\n\nA couple of things jump out from this comparison. Size alone doesn't buy you dialect competence. Some of the largest multilingual models here score well below smaller, more dialect-aware ones, which tells you Emirati proficiency has to be trained for on purpose, not picked up as a side effect of scale. The models that do best also tend to be Arabic-native or Arabic-focused to begin with, which lines up with what we saw during our own ablations: general Arabic and dialect coverage is a necessary starting point, but it still takes targeted, dialect-specific work to close the rest of the gap, particularly on the hardest parts of Alyah, like poetry, heritage knowledge, and the language-and-dialect category itself.\n\nThis also matches what came out of the Alyah benchmark release more broadly: even strong models show real degradation once you move into genuinely dialectal, culturally embedded content. That gap doesn't close on its own with bigger models. It takes data and evaluation built specifically for the dialect.\n\nMultiple-choice accuracy tells you whether a model can recognize the right answer among four options. It doesn't tell you whether the model will actually produce Emirati Arabic on its own when someone just talks to it. So alongside Alyah, we ran a second evaluation: open-ended generation on the same 1,173 Alyah questions, scored by an LLM judge (Gemini 3.7 Flash) against five models, Falcon-Emirati-7B, ALLaM-7B-Instruct-preview, gemma-3-27b-it, Jais-2-8B-Chat, and Fanar-2-27B-Instruct, chosen as the strongest competing models from the Alyah leaderboard.\n\nThe judge scored each answer on two separate dimensions: whether the content was correct, and, independently, whether the answer actually came back in Emirati dialect rather than MSA. We report both a partial-credit score (the judge's graded assessment) and a stricter pass/fail version, plus how often each model abstained instead of answering.\n\nLLM-judged correctness on the 1,173 Alyah questions, open-ended generation, Gemini 3.7 as judge.\n\nLLM-judged dialect fidelity on the same questions: does the answer actually come back in Emirati, or does the model default to MSA?\n\nFalcon-Emirati-7B leads on correctness, but the real gap is in the second chart. On dialect fidelity, Falcon-Emirati-7B scores 0.52 (partial credit) against 0.05 for ALLaM, 0.03 for gemma-3-27b-it, 0.02 for Jais-2-8B-Chat, and effectively 0.00 for Fanar-2-27B-Instruct. That's not a small edge, it's close to two orders of magnitude at the low end. In practice, this means the other models often know the right answer but say it in Modern Standard Arabic by default, even when asked directly in Emirati. Falcon-Emirati-7B is the only one of the five that reliably answers back in the dialect it was asked in.\n\nDialect fidelity by Alyah category, partial credit. Falcon-Emirati-7B is the only model that consistently switches into Emirati; the others stay in MSA across nearly every category.\n\nAs a third lens on the same question, we ran head-to-head pairwise judging: for every Alyah question, the judge (Gemini 3.7 Flash) was shown Falcon-Emirati-7B's answer next to a competing model's answer, blind to which was which, and asked to pick the better one. The radar charts below show the resulting win rate by category against three competing models: Jais-2-8B-Chat, ALLaM-7B-Instruct-preview, and Fanar-2-27B-Instruct.\n\nPairwise win rate by category, Falcon-Emirati-7B vs. Jais-2-8B-Chat, ALLaM-7B-Instruct-preview and Fanar-2-27B-Instruct judged head-to-head by Gemini 3.7.\n\nFalcon-Emirati-7B wins the majority of categories against all three competitors, and by a wide margin in the categories that depend most on dialect and cultural fluency. Against Jais-2-8B-Chat, the gap is largest in Poetry & Creative Expression (0.69 vs. 0.31) and Language & Dialect (0.62 vs. 0.38). Against ALLaM-7B-Instruct-preview, the same two categories again show the widest margins: Poetry & Creative Expression (0.66 vs. 0.34) and Language & Dialect (0.58 vs. 0.42). Against Fanar-2-27B-Instruct, the margins are the widest of all three matchups, and Falcon-Emirati-7B wins every single category, topping out at Poetry & Creative Expression (0.88 vs. 0.12) and Religious & Social Sensitivity (0.80 vs. 0.20).\n\nThe one category where competing models hold their own is Greetings & Daily Expressions: Falcon-Emirati-7B narrowly loses it to Jais-2-8B-Chat (0.46 vs. 0.54) and ties ALLaM-7B-Instruct-preview at 0.50, though it still wins clearly against Fanar-2-27B-Instruct (0.70 vs. 0.30). That's broadly consistent with what we saw in the dialect-fidelity breakdown above, greetings are the category where Emirati and MSA overlap most, so it's the easiest place for a generic Arabic model to sound native even without dedicated dialect training. Everywhere the dialect is more distinctive, poetry, figurative language, heritage knowledge, Falcon-Emirati-7B's advantage holds up clearly across every competing model we've tested it against.\n\nWe tested all four models on the same 283 UAE scenarios, in both Emirati Arabic and Modern Standard Arabic, with varying amounts of location information.\n\nOverall accuracy on the UAE multiple-choice task, averaged across both language varieties and all location settings. These are our evaluation results.\n\nFalcon-Emirati-7B scored 85.57%, the highest among the four models tested, ahead of ALLaM-7B (83.39%), Jais-2-8B (73.79%), and Fanar-2-27B (71.50%). These results highlight its ability to recognize culturally appropriate responses in Emirati conversations.\n\nNumbers only tell part of the story, so below is a live, interactive comparison: five real Emirati prompts, run through Falcon-Emirati-7B side by side with Fanar-2-27B-Instruct and ALLaM-7B-Instruct-preview. Swipe or use the arrows to move between prompts, and expand any response to read it in full.\n\nInteractive comparison: Falcon-Emirati-7B vs. Fanar-2-27B-Instruct vs. ALLaM-7B-Instruct-preview on five Emirati prompts, covering Eid greetings, local history, poetry, and heritage knowledge. Outputs are shown as generated and may contain errors; highlighting identifies our model, not a factual rating.\n\nFalcon-Emirati-7B is available on our chat platform. 🚀 Try it now: https://chat.falconllm.tii.ae/?model=Falcon-Emirati-7B\n\nLike any language model, Falcon-Emirati-7B can reflect biases in its training data and will sometimes get things wrong, especially on rare expressions, highly localized references, or edge cases we didn't have much data for. Dialect and cultural nuance are subjective in places, and even native speakers won't always agree on the \"right\" answer. We'd recommend evaluating the model for your specific use case before relying on it for anything sensitive, official, or high-stakes, and we'd genuinely welcome feedback from the Emirati community to help us improve both the model and Alyah going forward.\n\nWe would like to extend our sincere thanks to Mikhail Lubinets and Matthieu Berjon for their continuous support with the compute infrastructure, and to Jatin Mittal for his help in making the model accessible through the Falcon Chat app.\n\nMore from this author",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hugging Face (开源模型社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T06:44:39.000Z",
+            "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+          }
+        ]
+      },
+      {
+        "id": "story--fight-energy-shock-html-7963c6d00eb93310",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T07:00:00.000Z",
+        "pubTime": "2026-10-06 15:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html",
+        "imageUrl": null,
+        "fullContent": "Asian countries have responded more aggressively than others to the energy supply crunch caused by the U.S. and Israeli war on Iran and now they are running out of resources to continue their response, the World Bank warned in a new report. The report actually focuses on the potential of artificial intelligence to help Asian economies grow but names energy import vulnerability as one major headwind to that growth. &ldquo;Subsidies have been by far the most common policy response [to the crisis] among emerging and developing economies,&rdquo; the World Bank said, adding that &ldquo;Countries with substantial subsidies in place generally have had smaller increases in retail gasoline prices than non-subsidizers, but this relationship weakened considerably for headline inflation.&rdquo; Energy remains a spot of weakness for Asian countries due to their overwhelming dependence on imports but, according to the World Bank, AI can change that by motivating a shift towards greater domestic electricity generation, which would in turn lead to lower demand for imported energy commodities. Meanwhile, Asian countries&rsquo; response to the energy crunch has led to lower prices at the cost of lower foreign exchange reserves, the lender also said. The longer the crisis continues, the greater the effect on their fiscal health would be, the World Bank warned, noting as examples Indonesia, Thailand, and Vietnam, which saw their dollar reserves decline by between 15% and 40% since the start of the war because of their crisis response actions. These response actions, however, have had no effect on inflation anywhere in the world, and &ldquo;headline inflation has sharply increased in many countries, even as core inflation has remained more subdued.&rdquo; For Asia, however, there is hope for a reversal, driven by information technology generally and AI specifically, according to the World Bank. &ldquo;The region&rsquo;s dependence on AI-related industrial activity has been a source of strength, but it could become a weakness if global AI activity slows or reverses,&rdquo; the institution said in its report. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T07:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html"
+          }
+        ]
+      },
+      {
+        "id": "story--largescale-drone-attack-f6292deb0eae308f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Moscow comes under large-scale drone attack",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:02:57.000Z",
+        "pubTime": "2026-10-06 14:02",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wyv2mm/moscow_comes_under_largescale_drone_attack/",
+        "imageUrl": "https://external-preview.redd.it/1CWzcqPB7LlWglPZIbZZAoZfpiK4x9nVzS7CeKv6gXg.jpeg?width=640&crop=smart&auto=webp&s=ba0b228058a3212a0c39f188b780312ab8242b67",
+        "fullContent": "submitted by /u/EnoughPrimary6700 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-06 14:02 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wyv2mm/moscow_comes_under_largescale_drone_attack/",
+            "publishedAt": "2026-10-06T06:02:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--nobel-prize-school-html-52ad5778187b4107",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "California scientist wins a Nobel Prize, then makes school lunches for his kids",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:20:09.000Z",
+        "pubTime": "2026-10-06 14:20",
+        "url": "https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/california-scientist-w.jpg",
+        "fullContent": "Dr. Karl Deisseroth spent hours fielding congratulatory calls after learning early Monday that he had won a Nobel Prize for medicine for helping to open a new field of brain science called optogenetics.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-06 14:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html",
+            "publishedAt": "2026-10-06T06:20:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--deputat-2122518017-html-ec282d8f13b652cc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Южнокорейский депутат назвал изучение русского языка необходимым",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T07:37:08.000Z",
+        "pubTime": "2026-10-06 15:37",
+        "url": "https://ria.ru/20261006/deputat-2122518017.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/02/2121720676_0:191:2923:1835_650x0_80_0_0_39bac34dda1c6a10087ef89ef073583f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-06 15:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/deputat-2122518017.html",
+            "publishedAt": "2026-10-06T07:37:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lm-5-3-on-amazon-bedrock-5c72c009e4c7e00c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Introducing GLM 5.3 on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T23:25:17.000Z",
+        "pubTime": "2026-10-06 07:25",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/17/ML-21636-3.jpg",
+        "fullContent": "Coding and agentic workloads are asking more of AI models than ever: refactor a repository spanning hundreds of files, sustain a multi-hour agentic workflow without losing context, and reason through complex systems problems with tool use at every step. Meeting those demands with open-weight models has historically meant provisioning and operating your own inference infrastructure.\n\nGLM 5.3 from Z.ai (Zhipu AI) is now available on Amazon Bedrock . GLM 5.3, as published on Hugging Face Hub , is a 753B-parameter mixture-of-experts model optimized for coding and long-horizon agentic tasks. In particular, Z.ai has reported the model shows notable cyber security capabilities. On Amazon Bedrock, you can now use it through fully managed APIs with cross-Region inference, prompt caching, and service tiers. You don’t manage any infrastructure. Access to GLM 5.3 on Bedrock is available to eligible enterprise customers.\n\nIn this post, we show you how to invoke GLM 5.3 on Amazon Bedrock using the OpenAI-compatible APIs and reduce cost and latency with prompt caching. We then put the model to work in a realistic agentic workflow: running an authorized security test of your own application with Strix, an open-source AI penetration testing agent.\n\nWhat’s new compared to GLM 5\n\nGLM 5 arrived on Amazon Bedrock earlier this year. GLM 5.3 builds on the same lineage, with a range of important gains:\n\nStronger coding: Z.ai claims competitive performance on a range of coding benchmarks including DeepSWE, Terminal Bench 3.0, and FrontierSWE. They also report a 50% improvement over GLM 5.2 on their own internal coding benchmark. Direct comparisons to GLM 5 were not reported, because the magnitude of improvements led to updating the benchmark tests themselves since the GLM 5.1 announcement .\n\nEmergent cyber security capabilities: Reported benchmark performance on security tasks stands out, which makes the model a natural fit for defensive security workflows. For example, Z.ai measured a leading score of 84.5 on the CyberGym benchmark at release.\n\nBroader Amazon Bedrock integration: Cross-Region inference profiles, implicit and explicit prompt caching, and improved feature parity of the OpenAI-compatible Responses and Chat Completions APIs alongside Invoke and Converse.\n\nFrontier coding and agentic performance. GLM 5.3 is designed for complex systems engineering and long-horizon agentic tasks. These include multi-step reasoning, tool-augmented workflows, and sustained context across large code bases.\n\nFlexible API access. You can invoke GLM 5.3 through the OpenAI-compatible Responses and Chat Completions APIs, or the Amazon Bedrock Invoke and Converse APIs.\n\nPrompt caching. GLM 5.3 supports implicit (automatic) prompt caching by default, and explicit cache controls (recommended) on the Responses and Chat Completions APIs. For agentic workloads that resend large system prompts or repository context every turn, caching reduces both latency and input cost.\n\nCross-Region inference. GLM 5.3 is available through US cross-Region inference ( us.zai.glm-5.3 ) and Global cross-Region inference ( global.zai.glm-5.3 ) profiles. You send requests to the “source” AWS Region of your choice, and Amazon Bedrock securely routes each request for processing. Refer to the Amazon Bedrock User Guide for more details.\n\nService tiers. Choose Flex to optimize cost for less-time-sensitive workloads, Priority to prioritize latency-critical requests in return for a higher price, or Standard for the default balance between price and speed.\n\nFor the following usage examples, you need:\n\nAn AWS account with access to Amazon Bedrock.\n\nAWS Identity and Access Management (IAM) permissions to call the base model and the target inference profile: bedrock:InvokeModel , bedrock:InvokeModelWithResponseStream , and bedrock:CallWithBearerToken .\n\n(For the code-based demos) Python 3.10 or later.\n\n(For the optional security-testing demo only) install Docker and Strix with the bedrock extra .\n\nTry GLM 5.3 on the Amazon Bedrock console\n\nYou can start sending prompts to GLM 5.3 on the AWS Management Console, with no need to write code or install developer tools. To get started, navigate to Amazon Bedrock and then choose Test > Playground from the left sidebar menu.\n\nFrom this playground interface you can select GLM 5.3 from the model list and send your first prompts through the chat UI, as shown in the following screenshot:\n\nFigure 1: Chatting with GLM 5.3 on the Amazon Bedrock console\n\nGet started with the Responses API\n\nProgrammatically, you can call the model through the bedrock-runtime endpoint. This supports both the OpenAI-compatible Responses and Chat Completions APIs, and the Amazon Bedrock Invoke and Converse APIs for GLM 5.3. For new applications the OpenAI-compatible APIs are recommended as they support a more complete set of features.\n\nAmazon Bedrock does support generating API keys for OpenAI-compatible integrations that require them. However, we strongly recommend preferring short-lived credentials over long-lived API keys where possible.\n\nIn the following example, we will call the Responses API from Python using the OpenAI Python SDK, and the aws-bedrock-token-generator library to generate short-term tokens from your standard AWS Command Line Interface (AWS CLI) credentials .\n\nInstall the required packages.\n\npip install -U openai aws-bedrock-token-generator\n\nSave the following code as bedrock-request.py .\n\nfrom aws_bedrock_token_generator import provide_token from openai import OpenAI\n\nregion = \"us-west-2\" # Your source AWS Region\n\nclient = OpenAI( api_key=provide_token(region=region), base_url=f\"https://bedrock-runtime.{region}.amazonaws.com/openai/v1\", )\n\nresp = client.responses.create( input=\"Refactor this Python function to be iterative instead of recursive: ...\", model=\"global.zai.glm-5.3\", )\n\nprint(resp.output_text)\n\nRun the script, which will display the model’s output.\n\npython bedrock-request.py\n\nOptimize inference with explicit prompt caching\n\nLong-running coding and knowledge workflows often resend stable context across multiple conversation turns, such as system prompts, tool definitions, or repository files.\n\nGLM 5.3 on Amazon Bedrock supports implicit prompt caching by default, which helps reduce response latency and input token costs for repeated calls sharing the same initial prompt prefix.\n\nWith explicit prompt caching mode you specifically identify the reusable prompt prefixes, which can further improve cache hit rate (and therefore latency and cost savings) over implicit caching.\n\nTo use explicit prompt caching with GLM 5.3, as shown in the following example:\n\nSelect the explicit caching mode through prompt_cache_options on your request.\n\nAdd one or more prompt_cache_breakpoint markers on input content blocks to indicate the end (inclusive) of reusable prompt prefixes. Each breakpoint must contain at least 1,024 tokens to be eligible for caching.\n\nresp = client.responses.create( model=\"global.zai.glm-5.3\", # Enable explicit caching mode: extra_body={\"prompt_cache_options\": {\"mode\": \"explicit\"}}, input=[ { \"type\": \"message\", \"role\": \"system\", \"content\": [ { \"type\": \"input_text\", \"text\": SYSTEM_PROMPT, # A long, static system prompt is a great target for caching: \"prompt_cache_breakpoint\": {\"mode\": \"explicit\"}, }, ] }, { \"type\": \"message\", \"role\": \"user\", \"content\": [ { \"type\": \"input_text\", \"text\": USER_INPUT, # Multiple breakpoints can also be defined, for layered cache: \"prompt_cache_breakpoint\": {\"mode\": \"explicit\"}, }, ], }, ], )\n\nif resp.usage.input_tokens_details.cached_tokens: print(\"Hit cache!\")\n\nFor more information, refer to the prompt caching section of the Amazon Bedrock User Guide.\n\nExample agentic workload: Authorized security testing with Strix\n\nOne workload that benefits directly from GLM 5.3’s strengths is automated security testing of your own applications. Strix is an open-source AI penetration testing agent that runs your code dynamically, finds vulnerabilities, and validates them with proof-of-concept tests. As of this writing, the Strix documentation uses GLM 5.3 as its default model. You can configure Strix to use GLM 5.3 on Amazon Bedrock instead of a third-party inference provider, so model inference runs under your AWS account’s controls.\n\nOnly test applications you own or have explicit written permission to test. Unauthorized security testing of systems you don’t own is illegal in most jurisdictions and violates the AWS Acceptable Use Policy. In this walkthrough, the target is OWASP Juice Shop , a deliberately vulnerable sample application running locally on your machine.\n\nIf you want fully managed, continuous security testing beyond running open-source agents yourself, AWS Continuum provides on-demand penetration testing and other security analyses as a managed service. The two approaches are complementary: open-source agents like Strix give you developer-driven, in-the-loop, and deeply customizable testing against local builds, while AWS Continuum runs managed assessments at scale.\n\nTo run an authorized security test\n\nStart the example Juice Shop target application locally.\n\ndocker run --rm -p 3000:3000 bkimminich/juice-shop\n\nConfigure Strix to use GLM 5.3 on Amazon Bedrock. Strix uses LiteLLM under the hood so (as described in their documentation for Amazon Bedrock ) your AWS CLI credentials will be picked up automatically. This means no API key is required, but you might want to set environment variables like AWS_PROFILE and AWS_REGION to configure your connection. At the time of writing, LiteLLM does not yet resolve bedrock/global.zai.glm-5.3 . Until this is fixed, you can explicitly specify the Converse API route and the inference profile Amazon Resource Name (ARN) as shown in the following snippet:\n\n# Fill in the REGION and ACCOUNT_ID placeholders below before running! export STRIX_LLM=\"bedrock/converse/arn:aws:bedrock:{AWS_REGION}:{AWS_ACCOUNT_ID}:inference-profile/global.zai.glm-5.3\"\n\nRun Strix against the local target.\n\nstrix --target http://localhost:3000\n\nWait for the root Strix agent to complete, then review the findings.\n\nStrix spins up a team of sub-agents to map the threat surface, explore a range of potential vulnerability categories, and attempt to validate each finding with a working proof of concept. This helps minimize time spent triaging false positives. A successful run will generate a report including severity, evidence, and remediation guidance for each finding.\n\nThe following video shows the end-to-end journey of setting up and running Strix against the example application, and exploring the results:\n\nFigure 2: Running an example security test with GLM 5.3 and Strix\n\nStop the Juice Shop container with Ctrl+C in the terminal where it’s running, or run docker ps to find the container ID and stop it with docker stop <container-id> . Amazon Bedrock inference is pay-per-token with no persistent resources, so there are no further charges after your requests complete. If you generated an Amazon Bedrock API key for this walkthrough and no longer need it, delete it on the Amazon Bedrock console.\n\nGive GLM 5.3 a try on the Amazon Bedrock console , use it through coding assistants like OpenCode as shown in our recent post with Kimi K3 , or connect your custom applications through the supported APIs.\n\nInterested in how Amazon Bedrock can support your team? Connect with us to start the conversation.\n\nAlex is an AI Specialist Solutions Architect at AWS, based in Singapore. He focuses on how open source technologies and open weight models can help customers around the world to build innovative AI solutions and tackle AI governance challenges.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 65,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "AWS Machine Learning Blog文章称，来自Z.ai（智谱AI）的GLM 5.3现已在Amazon Bedrock上提供。",
+          "文章称，GLM 5.3是一个拥有7530亿参数的混合专家模型，针对编程和长时程智能体任务进行了优化。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T23:25:17.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
+          }
+        ]
+      },
+      {
+        "id": "story-61006-bc94400297-en-html-6e91d203ed24e708",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Philip R. Lane: Interview with Ansa",
+        "source": "European Central Bank (欧洲央行官方英文)",
+        "sourceSlug": "ecb",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T07:00:00.000Z",
+        "pubTime": "2026-10-06 15:00",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+        "imageUrl": null,
+        "fullContent": "The first question is about the scenarios that the ECB has run since the start of the Middle East war. Where we are right now in relation to these scenarios?\n\nWe have found it useful to put out these scenarios. But let me emphasise, they make different assumptions about the price of oil and the price of gas. But they also make different assumptions, for example, about the strength of the second round effects, how quickly the energy prices will transmit to the wider inflation rate and to the economy.\n\nThis is something we don’t learn about every day. What is true is that energy prices are higher than we expected in our baseline. But I don't want to convert that into any one scenario. Because the scenarios are a collection of different assumptions. And on the second round effects, we have not seen, so far, very strong second round effects. We continue to look at them. That's why, even though I am a promoter of the scenarios, it is too simplistic to say we're in the adverse scenario or the baseline scenario. They are helpful illustrations. But we try to do a comprehensive analysis. And to repeat, clearly, energy prices are high but the strength of the pass-through to the rest of the economy remains uncertain.\n\nWe are seeing a mixed picture regarding growth. We have had some very good data in the second quarter. Also, the ECB has made it clear that the third quarter could be moderately good. But we have risks, of course, geopolitical risk, the energy shock. Now we have this marked increase in long-term yields propagating from the United States, with lots of European countries that are facing a pretty stark increase in yields. Would you single out the biggest risk that you are monitoring right now?\n\nYour question has highlighted the range of factors. But, maybe behind everything, globally, the biggest issue is AI. AI has meant that world trade has been strong this year because it is leading to a lot of trade, including in semiconductor chips and other materials. And European firms are part of that. We are part of the AI supply chain to some extent. But as you know, the investment in AI in America also means that these firms are raising a lot of long-term debt.\n\nAnd one factor behind the increase in the yields you mentioned is the investment surge in the United States. We spend a lot of time looking at broad financing conditions, including the importance of the long-term interest rate. And we do think it has a material effect on the economy and on inflation. So absolutely, we've always said part of our monetary policy evaluation is to take into account the full set of financial indicators, not just the policy rate that we set.\n\nWe know that the Federal Reserve has tasked five working groups with analysing a number of topics, including AI, the impact of AI on productivity and inflation especially. Does the ECB run any similar working groups or research specifically devoted to AI? And do you have any early results?\n\nWhat I would say is that AI is driving a lot of the research here at the ECB, but also in the national central banks, including the Banca d'Italia. But because AI affects different parts of the economy, our labour market experts are looking at the effect of AI on employment. Our banking experts are looking at the effect of AI on the financial sector. Our investment experts are looking at it in terms of the investment dynamic. AI is so pervasive, it's not a question of setting up a single task force. It's many different groups at the ECB and across the Eurosystem working on this topic. A few months ago, I aggregated findings across all of these different work streams in a a speech entitled “AI and the euro area economy”, which reports on this very rich, very diverse work agenda.\n\nOn many occasions recently, the ECB has highlighted that the euro area economy is showing resilience, despite many risks and despite those headwinds coming from the energy shock. To what extent has this resilience provided a basis for gradually raising rates in the past few months?\n\nThe main driver of the interest rate decision has been the inflation implications of the energy shock. This year, in the spring, when the Middle East conflict erupted, there was a concern that we would see more damage to the economy. That turned out not to be visible over the summer, in part because there was a period when energy prices fell back, when the memorandum of understanding between Iran and the United States was agreed we saw an improvement in sentiment and some fall in energy prices. I think that helped the European economy over the summer.\n\nBut now with the new wave of price increases, new uncertainty about how long this conflict is going to last, this is one of the questions we will be exploring in the data. Will that support for the economy hold up? Let me also mention that on top of the energy shock, there's been fiscal support this year. Let me highlight two factors.\n\nOne is the German programme on infrastructure and defence. Also remember that this is the final year of the Next Generation EU project. Public investment in a number of countries, including in Italy, is relatively strong this year. But the NGEU programme comes to an end this year. So when we look forward to how much fiscal policy will support the economy in 2027 and 2028, that will be different to 2026.\n\nAnd then the other element is that we do see AI supporting the economy. We're not seeing the very large investment boom we have in America, but we are seeing some pickup in investment.\n\nThe dominant issue in terms of interest rate policy so far has been the energy shock. But the interaction with the overall economy is important. The resilience of the economy means that so far we have not seen the materialisation of the downside risk to activity that could have happened.\n\nItaly had a very strong inflation reading yesterday, at 4.1 per cent. And one of the things that politically came up is that Italy needs to ask the European Union for more budget flexibility. We have elections next year. How does the interplay work in this case with monetary policy? I mean, in which way would this change the equation for a central bank?\n\nWe recognise and we have said many times that people on low incomes do require, I think, fiscal support. We've emphasised that this support should be as targeted as possible because a broad-based fiscal support essentially adds to demand in the economy and that is not going to help inflation return to 2 per cent in a timely manner. I would say that those involved in the fiscal decisions across Europe should indeed do what is needed on a targeted basis to support those on low incomes. But having a very general, widespread fiscal expansion is not going to help.\n\nOne more risk that has been highlighted recently by the President, Christine Lagarde, was the global increase in long-term rates we are seeing and the possibility that this would slow growth and reduce pass-through by more than projected in the September exercise. So do the recent developments we've seen affect the ECB policy approach?\n\nWe have identified broader financial conditions, including long-term interest rates, as an important factor that enters the monetary policy decisions. We do think that an increase in long-term interest rates, especially if it's driven by external, global factors more than European factors, slows down the European economy and, on its own, reduces the inflation rate. That will be in the mix, along with the inflation analysis and the risk analysis, in determining where we need to go with the policy rate. There is a clear role for that analysis.\n\nFor your readers it’s worth remembering that, over the last four years, since early 2022, there has been an increase in long-term interest rates. We have a new wave of increases now. But before the pandemic, there was a phase of “low for long”. People were convinced that interest rates would be low indefinitely. Now, from early 2022 onwards, there was a step up. But now there's a further increase. And so it's very important to look carefully at this through, for example, our bank lending survey, in our firm surveys especially, to see how this is affecting investment decisions, employment decisions and so on. So absolutely, we are very data-dependent and we will be studying this trend in the financial data very closely.\n\nYou mentioned budget policies by the governments. In Italy, we have a debate about wages. A lot of people are calling for an increase in wages. Containing wages was a way for Italy to regain a lot of competitiveness after the pandemic, if you look at the net foreign position of Italy. Would you like to say something about this debate that we're having? Some people are saying that we need higher wages to grow more in Italy.\n\nWages and employment are an essential part of the overall economy. In our September projections, we do see wages in Italy running ahead of inflation in 2027 and in 2028. Even though this year workers are not being fully compensated for the inflation surge that we're seeing right now, we do think the good performance of the Italian economy should allow wages to improve in terms of living standards next year and the year after.\n\nSo although right now I'm very mindful of the fact that a lot of people are not seeing their incomes go up as quickly as inflation because of the energy shock, the underlying strength of the Italian economy should allow some recovery next year and the year after. When any member country is having a debate about the overall trend in wages, it’s worth remembering that relative wages are an important part of competitiveness and that allowing wages to grow too quickly does not help in terms of attracting foreign investment, in terms of encouraging firms across the economy to recruit and so on. So there's no simple answer to this. But in the end, Italy and Europe in general is a major importer of energy. Collectively, this very high energy price is a loss for the European economy. And unfortunately, it's impossible to say we should fully protect all workers at all times from that. But again, to repeat, we do think it's important for those on low incomes to be especially protected through targeted measures.\n\nItaly has been very supportive of the euro traditionally. Less so in more recent years. We see in Italy an attitude that tends to criticise the ECB whenever there is an interest rate hike, regardless of the macroeconomic conditions. At the same time, people sometimes don't really understand why it is so important to have a central bank that manages price stability. Would you like to say anything about this to the Italian people?\n\nInflation is very damaging. People really suffer if inflation gets too high. By the way, we also think there are problems if inflation runs too low compared to our 2 per cent target.\n\nBefore the pandemic, inflation was running below 2 per cent and we brought the interest rate to very low levels. In other words, when inflation is too low, the interest rate is going to be low.\n\nWhen inflation is too high, the policy rate has to go up. Last time, we brought it up to 4 per cent. But then once the inflation dynamic improved, we cut rates from 4 per cent to 2 per cent fairly quickly.\n\nCompared to the five years before the pandemic, 2014 to 2019, when the interest rates did not move very much, this period has meant a lot of movement in interest rates. But again, what we showed last time is we had to have a temporary campaign of raising rates, but then we cut them again. So I think the message for your readers is that interest rate policy is important to bring inflation back to our 2 per cent target.\n\nIf the inflation rate remained at 3 or 4 per cent, that would be very damaging for the Italian workers, Italian households. So we do what is necessary, and the main way to make sure inflation comes back to 2 per cent is by adjusting the interest rate. If we didn't do it, inflation would be too high and if people expect inflation to be too high, the long-term rates we talked about would go up.\n\nSo, in the end, interest rate adjustments are a source of stability because they help maintain price stability around the 2 per cent target on this cyclical basis.\n\nOne last question, about market rates. We have seen, again, the impact of higher long-term rates in markets in the United States and European countries. This also affects, of course, debt funding. And this for countries like Italy, which has a rather important size in its debt, can be problematic. What would you say about this current phase, with markets being a little jittery about debt, for countries that are experiencing an increase in long-term yields in the markets?\n\nWhat is important is that governments look beyond the immediate horizon. They need to decide their budgets for 2027, but when you think about the challenge over the next five or ten years, it's very important to look at these long-term interest rates. It's also very important to look at the growth of the economy. Governments have to be realistic about this. They have to incorporate the interest rates they will face in the coming years.\n\nIt really reinforces the importance of boosting the growth rate of the economy. All the reforms that Mario Draghi and Enrico Letta have recommended become even more important when you face a high interest rate environment.\n\nDisclaimer Please note that related topic tags are currently available for selected content only.\n\nReproduction is permitted provided that the source is acknowledged.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "European Central Bank (欧洲央行官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T07:00:00.000Z",
+            "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
+          }
+        ]
+      },
+      {
+        "id": "story-far-right-street-patrols-b06487a9121b6dc5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:00:05.000Z",
+        "pubTime": "2026-10-06 14:00",
+        "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
+        "imageUrl": "https://i.guim.co.uk/img/media/dc69fea4e767a8d051863bf6eaf380637d27858a/535_0_5330_4264/master/5330.jpg?width=140&quality=85&auto=format&fit=max&s=fa0c5f0086827e321782cd73a265a336",
+        "fullContent": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movement\n\nDuring their relationship, Lisa’s ex-partner was controlling. He kept her at home where he was emotionally and physically abusive towards her, including once attacking her with a machete.\n\nThese days, he runs protests outside houses of multiple occupancy that he claims are housing asylum seekers. He coordinates groups of men to patrol the streets of his town, claiming to protect women but often using these patrols to profile and target men of colour.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将反移民街头巡逻与部分组织者或参与者被前伴侣指控的控制、情感及身体暴力经历联系起来，并强调“保护女性”的公开说法与针对有色人种男性进行画像、监视或骚扰之间的张力。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T06:00:05.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols"
+          }
+        ]
+      },
+      {
+        "id": "story-cience-optogenetics-html-fe4158d804d897db",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Switching on brain cells: The Nobel-winning science of optogenetics",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:20:04.000Z",
+        "pubTime": "2026-10-06 14:20",
+        "url": "https://phys.org/news/2026-10-brain-cells-nobel-science-optogenetics.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-optogenetic-discov.jpg",
+        "fullContent": "In optogenetics, scientists control neurons by stimulating them with light—potentially unlocking breakthroughs for conditions such as dementia, depression and blindness.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-06 14:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-brain-cells-nobel-science-optogenetics.html",
+            "publishedAt": "2026-10-06T06:20:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-politics-2197953-0bfab640fb8d46bd",
+        "title": "外交官：过去一周乌克兰袭击造成29名俄罗斯平民死亡",
+        "originalTitle": "Ukrainian attacks kill 29 Russian civilians over past week — diplomat",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T07:33:53.000Z",
+        "pubTime": "2026-10-06 15:33",
+        "url": "https://tass.com/politics/2197953",
+        "imageUrl": null,
+        "fullContent": "LUGANSK, October 6. /TASS/. Ukrainian attacks killed 29 Russian civilians, including two children, over the past week, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik told TASS.\n\n\"A total of 235 civilians were affected by Ukrainian Nazis’ attacks in the past week: 29 people, including two children, were killed, and 206 others, among them 19 minors, were injured. <...> The majority of civilian casualties were recorded in the Belgorod, Bryansk, Zaporozhye, Kursk and Kherson regions, as well as in the Donetsk and Lugansk people’s republics,\" he said.\n\nAccording to Miroshnik, 230 civilian casualties were caused by Ukrainian drone strikes, accounting for 98% of all casualties reported in the past week.\n\nThe Ukrainian army fired almost 8,400 projectiles at Russian regions over the week, the diplomat added.",
+        "fullTranslation": "卢甘斯克，10月6日。/塔斯社/——俄罗斯外交部无任所大使罗季翁·米罗什尼克告诉塔斯社，过去一周，乌克兰发动的袭击造成29名俄罗斯平民死亡，其中包括两名儿童。\n\n他说：“过去一周，共有235名平民受到乌克兰纳粹分子袭击的影响：29人死亡，其中包括两名儿童；另有206人受伤，其中包括19名未成年人。大多数平民伤亡发生在别尔哥罗德州、布良斯克州、扎波罗热州、库尔斯克州和赫尔松州，以及顿涅茨克和卢甘斯克人民共和国。”\n\n米罗什尼克表示，230名平民伤亡是由乌克兰无人机袭击造成的，占过去一周报告的全部伤亡人数的98%。\n\n这名外交官补充说，乌克兰军队一周内向俄罗斯各地区发射了近8,400枚炮弹。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 4,
+        "keyTakeaways": [
+          "来源叙事重点：强调乌克兰袭击造成俄罗斯及俄方控制地区平民伤亡，突出无人机袭击占比和炮击数量，并通过“Ukrainian Nazis”等带有政治立场的称谓强化俄方对乌方的负面叙事。文中称一周内235名平民受影响，其中29人死亡、206人受伤；230人据称因无人机袭击受伤亡，占总数约98%。这些属于俄方官员的陈述，不应直接视为已独立确认的事实。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T07:33:53.000Z",
+            "url": "https://tass.com/politics/2197953"
+          }
+        ]
+      },
+      {
+        "id": "story--for-me-expansion-rumors-19745539452346e8",
+        "title": "Gemini 的“Call for Me”或许会告诉你妈妈你要迟到了",
+        "originalTitle": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T23:09:55.000Z",
+        "pubTime": "2026-10-06 07:09",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nA rumored Android update would automate personal phone calls with Gemini AI.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Stevie Bonifield\n\nGoogle may be expanding its “Call for Me” AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a “Gemini Calling” introductory screen in an APK teardown with examples that include “Call Mom and tell her I will be 15 minutes late” and “Call John and ask if he is coming for dinner.”\n\nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google’s AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or even still have a landline phone.\n\nAndroid Authority also says it found “granular permissions” for Gemini actions in individual apps, including what appear to be settings for phone call permissions. These settings would allow users to pick and choose which app capabilities they want to allow Gemini to access, potentially giving users an option to opt out of receiving incoming automated calls from Gemini. However, as Android Authority notes, it’s also possible Google might not publicly release this expansion or the granular Gemini app settings.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n据传，一项安卓更新将利用 Gemini AI 自动处理私人电话。\n该作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n查看 Stevie Bonifield 的所有文章\n谷歌可能正在扩展其“Call for Me”人工智能功能，使其不再局限于商务电话，从而让你可以利用它向朋友和家人发送消息。Android Authority 报道称，其在对一个 APK 文件进行拆解时发现了一个“Gemini Calling”介绍页面，其中的示例包括：“打电话给妈妈，告诉她我会晚到 15 分钟”和“打电话给约翰，问问他是否要来吃晚饭”。\n根据这些示例，即使功能得到扩展，Gemini 可能仍将局限于进行类似短信的基础通话。谷歌的人工智能或许无法自动完成一次与亲戚的完整叙旧电话，但它可以向那些更喜欢打电话、经常错过短信，甚至仍在使用座机的人快速传达消息。\nAndroid Authority 还表示，它发现了 Gemini 在各个应用中执行操作时所需的“细粒度权限”，其中包括看起来与电话权限有关的设置。这些设置将允许用户自行选择希望授权 Gemini 访问的应用功能，并可能让用户选择不接收来自 Gemini 的自动来电。不过，正如 Android Authority 所指出的，谷歌也有可能不会公开发布这项扩展功能或这些细粒度的 Gemini 应用设置。\n一份免费每日摘要，提供最重要的新闻。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Google Gemini可能将“Call for Me”从商业电话扩展到个人通信的设想，包括代用户拨打电话并传达迟到或询问晚餐等简短信息。报道同时推测该功能可能仅适合类似短信的基础通话，并讨论Gemini应用权限设置可能带来的授权和拒接自动来电选项。文章明确提示，相关扩展和细粒度权限设置可能不会正式发布。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T23:09:55.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+          }
+        ]
+      },
+      {
+        "id": "story-7-44ad-983d-1a03f50f66f5-1c21caa8b1748470",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI models used in bank cyber attacks, warns South Korea’s president",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:19:09.000Z",
+        "pubTime": "2026-10-06 14:19",
+        "url": "https://www.ft.com/content/fb32e9f8-4bf7-44ad-983d-1a03f50f66f5",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2bbbaf0-6506-4cee-aa6a-f9f5b3013cca.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Lee Jae Myung highlights public anxiety over what one official calls a ‘completely new kind of crisis’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-06 14:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/fb32e9f8-4bf7-44ad-983d-1a03f50f66f5",
+            "publishedAt": "2026-10-06T06:19:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-view-interface-for-magit-faf4b438f8208e4a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "hutch: local code reviews in emacs for the mildly disenfranchised",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T05:39:57.000Z",
+        "pubTime": "2026-10-06 13:39",
+        "url": "https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/",
+        "imageUrl": null,
+        "fullContent": "I haven't had a real job in four years. I closed down a startup I'd been building, just last month. During all these years, I spent most of that time at the back end of the frontier of AI agents. But I've finally caught up. It's been some 500 days since coding agents have really picked up, and they're genuinely more productive than, previously, instructed.\n\nEven though I still prefer the pedagogical aspect of AI over the task-completing automaton aspects, the latter has driven all sorts of tooling around reviewing code, and not just writing and deploying it. The typical review agent party-line is: agents jump in, before your colleagues do, spray logorrhea across twenty pull requests before you have had a chance to wake up and look at your phone. This works, sometimes, for some people. But if you're like me, you still have humans reviewing code before it ships to users, and it's better to respect those people and their time. This is the case, regardless of where you sit on the balance of game-changer to curmudgeon.\n\nAll that is to say, no matter which direction agents take to get better with time, I hope we still care about things. Not in the way of formalizing care, with high-fidelity agent instructions and prompts or some superior upholding of taste sort of thing, but something as simple as announcing: hey I'm still here, and I understand all this.\n\nSo as a long-time emacs user, I present yet another attempt at wedging LLMs, agents and coding harnesses, now inside your text buffers (!) with Hutch. It's a small, Magit-induced code-review interface that fits a standard Magit commit-push workflow locally and hopefully helps reclaim some load created upstream.\n\nOpen up Magit, and hit the dispatcher binding (usually d) and you'll see a Hutch code review action put up next to the DWIM binding. Hutch operates on three different scopes: staged changes, un-pushed changes, and changes between current branch and working branch. By default, it's staged changes only, since that's most useful.\n\nOnce a review starts, you'll see a nice little progress bar in a new *magit-hutch: code review* buffer until the findings1 are complete. This is a read-only buffer, but you can still perform the pre-bound actions.\n\nThen bulk-apply all queued suggestions with A. The application is scope-aware, so if you queue a finding for staged changes, it will apply the fix directly to the staged files.\n\nThat's it! Getting started should hopefully be pretty simple and intuitive for existing emacs users. There are of course a few interesting things going on behind the scenes, some of which I'll cover in the next few sections.\n\nA big UX handicap of showing review comments and suggested patches in-buffer is that there is no existing connective tissue of a commenting system. With GitHub, though, the review UI collapses outdated comments on new commits and most review bots sit over the suggestion mechanic if they have changes to suggest.\n\nHutch is made with a bias towards patches, rather than just prosaic comments. According to the Aider leaderboard (and through some of my own experiments), the SEARCH/REPLACE diffs are a lot more obedient across different models than just asking the model to author correct patches with precise line numbers.\n\nFor an Aider-style diff, you have to ensure there's enough surrounding context for the SEARCH to be unique, and ideally also preserve indentation. In Hutch's case, the tool's function schema naturally decomposes the file, search, and replace fields:\n\nI've noticed that a lot of older (or cheaper) models tend to recall the SEARCH block from memory when asked for diffs, instead of copying it verbatim from read_file, read_diff or surrounding_context calls. This invariably botches them entirely. So we get them verified before submission. If SEARCH is missing or matches more than once, the finding is downgraded to a plain comment. On a unique hit, Hutch locally creates a unified diff:\n\nSEARCH/REPLACE blocks are verified against the file, then emitted as a unified diff Flowchart in two stages. Agent loop: the agent calls tools (read_*), then verifies old_lines. If verification is AMBIGUOUS, it fixes old_lines and loops back to the tools step. If OK, it submits the review: comments and patches. Post loop: each patch goes through a patch verification gate. If it passes (OK), hutch emits a unified diff and renders it in the UI. If it fails (FAIL), the patch is downgraded to a plain comment, which is also rendered in the UI.\n\nOnce a series of udiffs and comments are rendered, they can be marked and bulk applied. Hutch applies them per-file, lowest hunk first (bottom-up) so line positions are minimally disturbed. Each finding runs its own git apply and a bad application marks itself invalid so the rest can continue to land.\n\nAll this patching and commenting infrastructure pulls its weight, since with only a couple of keystrokes, you hopefully get less reading and parsing work and more actionable triaging. None of this guarantees patches-always of course, and it shouldn't.\n\nWith more powerful models, a simpler diffing method might generally work pretty well. But for a tool that's built to work across different and cheaper models, it's essential to be maximally supportive. In general, I feel like a key point of much of the agentic infrastructure we build is to have knobs for optimizing token:cost ratios. This could often mean thorny workarounds for good-enough models.\n\nHutch has a fairly minimal toolset for pulling context:\n\nOut of these, surrounding_context is the more interesting one. It wraps over Tree-sitter and uses grammars that are installed. It works by letting the model widen out to the enclosing definition of a relevant line and further out, as needed. In my tests, the overall read token consumption compared to simply blasting read_file was anecdotally lower with comparable levels of review quality2.\n\nAll the findings from the model are submitted to the agent at once. On the write side of things, verify_block locally verifies diffs, and along with other comments and LGTM notices, submits them through a submit_review tool call. submit_review itself runs through some post-processing work, like gating hallucinations about files and line numbers, trimming the length of descriptions and downgrading patches to comments if they don't apply cleanly.\n\nOnce the submission lands, the output from all this work is persisted durably under refs/hutch/id and can be separately committed as a means of sharing (with magit-post-commit-hook) or for repainting later. If you squint hard enough, it might appear like a change identifier for a stacked-diff review tool, but its purpose is to keep reviews in the git tree, rather than identify changesets for human reviews. We don't really care about multi-party human reviews, it's all local.\n\nThe one unfortunate part about benchmarking Hutch is how ungainly it is to pull comparison-ready output from text buffers. I initially ran the evals by invoking multiple headless emacsen and tee-ing the agent output before it was rendered, but eventually settled on emitting Perfetto traces and using them as the underlying medium for evals.\n\nI haven't seen agents traced through Perfetto elsewhere. This is likely for good reason. They aren't meant for this kind of thing really. They don't have a first-class notion of what a \"prompt\" or a \"tool call\" is. It's designed for kernels and browsers and not an abstract system with tons of prose.\n\nBut for a single-player, emacs-local agent, it sort of works. You can answer all kinds of structural questions like why did this review take 40 rounds?, what tools were run in parallel?, or how much wall time was spent in reading diffs?, and so on. But more importantly, it's free and infra-free. If you set hutch-trace-dir, it will emit Perfetto traces and you can just load them up on ui.perfetto.dev. Easy.\n\nHere's an example to fetch tool calls and their total times. This is the entire pipeline. No dashboards or SDKs required:\n\nWith this set up, we take a mix of strategies from Martian’s code review benchmark and the CR-Bench preprint and compute Precision, Recall, and Fβ scores. The evals are described in more detail3 in the eval/README.org section. But broadly, we run the bench against 40 PRs, 132 goldens, and use GPT 5.2 as a classifying judge. The eval pipeline goes off and runs queries directly on the traces. Looking at the numbers, I believe we land somewhere around the #16 mark on Martian’s Offline Benchmark leaderboard, which is pretty competitive for a no-memory, single-shot agent.\n\nOutside of classified scoring, there are a few interesting things about the agent itself:\n\nStacked bar chart of distinct goldens hit per model, split into unique, shared with one other model, and shared with both. opus-4.8: 15 unique, 17 shared with one, 18 shared with both (50 total). glm-5.2: 13, 19, 18 (50). gpt-5.5: 6, 16, 18 (40). The union across all three is 78.0102030405060708090distinct goldens hitopus-4.8glm-5.2gpt-5.5union = 78uniqueshared with 1shared with both\n\nDifferent models tend to catch different bugs. Out of 132 goldens, each model hits 40-50 goldens, with an overlap of 18 hits across all three models. Which means hypothetically, if all three ran combined, it would catch ~55% more bugs than one model alone.\n\nPretty lousy agreement across the models on what a bug is, I'd say.\n\nThree bar charts of agent rounds per PR across 40 PRs, sorted ascending. opus-4.8: median 8 rounds, max 26. glm-5.2: median 11, max 39. gpt-5.5: median 35, max 81, with several PRs near the 80-round limit.020406080roundsopus-4.8glm-5.2gpt-5.540 PRs sorted by rounds40 PRs sorted by rounds40 PRs sorted by rounds\n\nGPT 5.5 tends to hit my default round limit (80) a lot more than the other models for roughly the same hit rate. Opus 4.8 takes 3x fewer turns to complete.\n\nThree bar charts of output tokens per useful finding, one bar per PR, sorted ascending. opus-4.8: 31 PRs, median about 2,600, max about 13,000. glm-5.2: 34 PRs, median about 3,600, max about 15,000. gpt-5.5: 34 PRs, median about 3,000, max about 27,500.05,00010,00015,00020,00025,000output tokens / useful findingopus-4.8glm-5.2gpt-5.5PRs sorted by tokens per useful findingPRs sorted by tokens per useful findingPRs sorted by tokens per useful finding\n\nOn token efficiency, Opus is much cheaper on output tokens used per good finding by a respectable margin, but burns 3x more context on inputs, possibly due to the growing context Hutch resends each round.\n\nThis is all probably too late, as I've been told. No one really writes or reviews code, uses editors or version control by hand any longer. I made this for myself and for workflows that I still practice. I don't want to purport any arguments about whether one should or shouldn't use LLMs with emacs. The tool has more to do with unlocking a certain kind of workflow than the overreach of agents in niche locations.\n\nIf this continues to be useful, I'd like to add a conversational mode for every finding (like CodeRabbit) and perhaps maintain a context tree learnt from and committable to the codebase to improve review quality and speed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 Emacs/Magit 用户的本地化 AI 代码审查工具 Hutch 展开，强调让代理生成可验证、可批量应用的补丁，而不是大量向协作者发送审查评论。叙事将本地、单用户、低基础设施依赖和对人工审查者时间的尊重，置于“代理先于同事批量审查”的常见工作流之上；同时通过 40 个 PR、132 个标注缺陷及多个模型的测试，论证不同模型在缺陷发现、轮次和 token 效率上存在明显差异。文中也保留了作者的技术限制判断，例如补丁并不总能应用、模型间对缺陷的判断一致性较低，以及 Perfetto 追踪并非为代理系统设计。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T05:39:57.000Z",
+            "url": "https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--deputat-2122518179-html-5bdf7503c0fe2676",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Южнокорейский депутат, изучающий русский, назвал Россию важным партнером",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T07:37:28.000Z",
+        "pubTime": "2026-10-06 15:37",
+        "url": "https://ria.ru/20261006/deputat-2122518179.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/02/2121720676_0:191:2923:1835_650x0_80_0_0_39bac34dda1c6a10087ef89ef073583f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-06 15:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/deputat-2122518179.html",
+            "publishedAt": "2026-10-06T07:37:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-tiiuae-falcon-emirati-fe424883c3cacf66",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "source": "Hugging Face (开源模型社区)",
+        "sourceSlug": "huggingface",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:44:39.000Z",
+        "pubTime": "2026-10-06 14:44",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "imageUrl": null,
+        "fullContent": "Try Falcon Emirati →\n\nArabic is really a family of languages living under one name. Modern Standard Arabic is what you read in the news or a textbook, but it's rarely how people actually talk to each other. In the UAE, day-to-day conversation, humor, negotiation, and storytelling happen in Emirati Arabic, a Gulf dialect with its own vocabulary, its own rhythm, and a culture wrapped tightly around it. Emirati poetry, especially nabati poetry, along with proverbs and short anecdotes, carries meaning that doesn't survive a literal, word-for-word reading. A model that only knows MSA can translate every word of an Emirati sentence and still miss what it actually means.\n\nThat's the gap Falcon-Emirati-7B is built to close. It's a dialect-specialized model on top of Falcon-H1-Arabic, aimed at understanding and generating Emirati Arabic the way a native speaker would: the vocabulary, the tone, and the cultural context behind it.\n\nWe didn't start from scratch. Falcon-Emirati-7B is built on Falcon-H1-Arabic, our Arabic model family that already set new benchmarks for the language earlier this year. Falcon-H1-Arabic uses the Falcon-H1 hybrid architecture: State Space Models (Mamba) and Transformer attention running in parallel inside every block, with their outputs fused before each block's projection. That combination gives the linear-time efficiency of Mamba on long sequences while keeping the precision of attention for long-range dependencies, which matters for a morphologically rich language like Arabic. The family spans three scales (3B, 7B, and 34B parameters) with context windows up to 128K and 256K tokens, and it was already trained on a broad mix of MSA and dialectal Arabic (Gulf, Levantine, Egyptian, Maghrebi) alongside English and multilingual data.\n\nThat gave us a strong starting point: a model that already understood Arabic broadly, handled long context well, and had some dialectal exposure baked in. Falcon-Emirati-7B takes that foundation and pushes it specifically toward the Emirati dialect, the vocabulary, the grammar, and the cultural knowledge that a general Arabic model, however capable, doesn't pick up on its own.\n\nWe built Falcon-Emirati-7B on the 7B variant specifically. It's the sweet spot in the family: large enough to hold onto the nuance that dialect adaptation needs, but small enough that both training and inference stay practical. The 34B model would likely push quality a bit further, but at a training and serving cost that doesn't make sense for a dialect-specialized chat model, and the 3B model doesn't leave enough headroom for the depth of cultural and linguistic understanding we were after. 7B gave us the best balance of quality against training and inference cost.\n\nTurning a general Arabic model into an Emirati-dialect specialist sounds like a smaller job than building the base model in the first place. It isn't. A few things make it genuinely difficult:\n\nThat last point shaped how we worked. A lot of building Falcon-Emirati-7B came down to trial and error: testing different data mixes, training stages, and supervision strategies, and using both human judgment and benchmark scores to figure out what actually moved the needle.\n\nWe built a dedicated Emirati data pipeline on top of Falcon-H1-Arabic's pretraining, drawing on three complementary sources.\n\nWe crawled and curated content from Emirati websites and forums written natively in the dialect, not translated or transliterated from MSA. This is where we got our ground truth: how Emiratis actually write and speak online, the everyday phrasing, the colloquial expressions, and the natural back-and-forth between Emirati and MSA that shows up in real usage.\n\nAlongside the dialectal text, we pulled in MSA-language material specifically about Emirati culture, heritage, and language: articles and references on local customs, values, history, and social norms, including how Emiratis are perceived and stereotyped. This doesn't teach the model to write in dialect, but it teaches the model what it's talking about when Emirati topics come up, things like heritage, etiquette, and the context a native speaker just knows.\n\nAuthentic dialectal text alone wasn't enough to cover the range of topics a chat model actually needs to handle day to day. So we generated a large amount of synthetic Emirati-dialect data to fill the gaps. We didn't just let a generator model improvise in \"Gulf-ish\" Arabic. We constrained it with strict rules and glossaries and dictionaries built specifically for Emirati vocabulary and grammar. Those guardrails made the difference between synthetic output that reads as authentically Emirati and output that's grammatically fine but sounds off to anyone who actually speaks the dialect.\n\nSince there's no standard recipe for MSA-to-dialect adaptation, we treated the training strategy itself as something to figure out experimentally. We ran ablations on how much dialectal data to inject and at which stage of training, how to balance authentic crawled data against synthetic data without the model overfitting to synthetic patterns, and how much MSA cultural context was actually needed to keep it culturally grounded rather than just fluent on the surface. At each step we leaned on a mix of automatic scoring and native-speaker review, since automatic metrics alone don't capture naturalness, tone, or cultural fit well enough to trust on their own.\n\nWe tracked progress throughout training with two complementary approaches:\n\nEmirati native speakers reviewed model outputs directly, judging not just whether an answer was correct but whether it sounded right: naturalness, tone, cultural appropriateness. These are the things a benchmark score won't tell you but a native ear catches immediately.\n\nFor quantitative tracking, we used Alyah (الياه, \"North Star\"), a benchmark we and the community released specifically to evaluate Emirati-dialect capability in Arabic LLMs. Alyah is a fully native multiple-choice benchmark of 1,173 samples, collected manually from native Emirati speakers and spanning categories from everyday greetings and etiquette to figurative language, heritage knowledge, and Emirati poetry: the categories where dialect and culture matter most and where generic Arabic models tend to struggle. Full details on Alyah's construction and category breakdown are available in our benchmark blog post, and background on the base model family is available in the Falcon-H1-Arabic announcement.\n\nFalcon-Emirati-7B scores 84.83% on Alyah, ahead of every other Arabic and multilingual model we compared it against, including several models many times its size. The chart below shows where it lands next to a representative set of leading instruction-tuned models on the Alyah leaderboard.\n\nAlyah accuracy (%), instruction-tuned models. Falcon-H1-Arabic family models are excluded from this comparison since Falcon-Emirati-7B is built on top of them.\n\nA couple of things jump out from this comparison. Size alone doesn't buy you dialect competence. Some of the largest multilingual models here score well below smaller, more dialect-aware ones, which tells you Emirati proficiency has to be trained for on purpose, not picked up as a side effect of scale. The models that do best also tend to be Arabic-native or Arabic-focused to begin with, which lines up with what we saw during our own ablations: general Arabic and dialect coverage is a necessary starting point, but it still takes targeted, dialect-specific work to close the rest of the gap, particularly on the hardest parts of Alyah, like poetry, heritage knowledge, and the language-and-dialect category itself.\n\nThis also matches what came out of the Alyah benchmark release more broadly: even strong models show real degradation once you move into genuinely dialectal, culturally embedded content. That gap doesn't close on its own with bigger models. It takes data and evaluation built specifically for the dialect.\n\nMultiple-choice accuracy tells you whether a model can recognize the right answer among four options. It doesn't tell you whether the model will actually produce Emirati Arabic on its own when someone just talks to it. So alongside Alyah, we ran a second evaluation: open-ended generation on the same 1,173 Alyah questions, scored by an LLM judge (Gemini 3.7 Flash) against five models, Falcon-Emirati-7B, ALLaM-7B-Instruct-preview, gemma-3-27b-it, Jais-2-8B-Chat, and Fanar-2-27B-Instruct, chosen as the strongest competing models from the Alyah leaderboard.\n\nThe judge scored each answer on two separate dimensions: whether the content was correct, and, independently, whether the answer actually came back in Emirati dialect rather than MSA. We report both a partial-credit score (the judge's graded assessment) and a stricter pass/fail version, plus how often each model abstained instead of answering.\n\nLLM-judged correctness on the 1,173 Alyah questions, open-ended generation, Gemini 3.7 as judge.\n\nLLM-judged dialect fidelity on the same questions: does the answer actually come back in Emirati, or does the model default to MSA?\n\nFalcon-Emirati-7B leads on correctness, but the real gap is in the second chart. On dialect fidelity, Falcon-Emirati-7B scores 0.52 (partial credit) against 0.05 for ALLaM, 0.03 for gemma-3-27b-it, 0.02 for Jais-2-8B-Chat, and effectively 0.00 for Fanar-2-27B-Instruct. That's not a small edge, it's close to two orders of magnitude at the low end. In practice, this means the other models often know the right answer but say it in Modern Standard Arabic by default, even when asked directly in Emirati. Falcon-Emirati-7B is the only one of the five that reliably answers back in the dialect it was asked in.\n\nDialect fidelity by Alyah category, partial credit. Falcon-Emirati-7B is the only model that consistently switches into Emirati; the others stay in MSA across nearly every category.\n\nAs a third lens on the same question, we ran head-to-head pairwise judging: for every Alyah question, the judge (Gemini 3.7 Flash) was shown Falcon-Emirati-7B's answer next to a competing model's answer, blind to which was which, and asked to pick the better one. The radar charts below show the resulting win rate by category against three competing models: Jais-2-8B-Chat, ALLaM-7B-Instruct-preview, and Fanar-2-27B-Instruct.\n\nPairwise win rate by category, Falcon-Emirati-7B vs. Jais-2-8B-Chat, ALLaM-7B-Instruct-preview and Fanar-2-27B-Instruct judged head-to-head by Gemini 3.7.\n\nFalcon-Emirati-7B wins the majority of categories against all three competitors, and by a wide margin in the categories that depend most on dialect and cultural fluency. Against Jais-2-8B-Chat, the gap is largest in Poetry & Creative Expression (0.69 vs. 0.31) and Language & Dialect (0.62 vs. 0.38). Against ALLaM-7B-Instruct-preview, the same two categories again show the widest margins: Poetry & Creative Expression (0.66 vs. 0.34) and Language & Dialect (0.58 vs. 0.42). Against Fanar-2-27B-Instruct, the margins are the widest of all three matchups, and Falcon-Emirati-7B wins every single category, topping out at Poetry & Creative Expression (0.88 vs. 0.12) and Religious & Social Sensitivity (0.80 vs. 0.20).\n\nThe one category where competing models hold their own is Greetings & Daily Expressions: Falcon-Emirati-7B narrowly loses it to Jais-2-8B-Chat (0.46 vs. 0.54) and ties ALLaM-7B-Instruct-preview at 0.50, though it still wins clearly against Fanar-2-27B-Instruct (0.70 vs. 0.30). That's broadly consistent with what we saw in the dialect-fidelity breakdown above, greetings are the category where Emirati and MSA overlap most, so it's the easiest place for a generic Arabic model to sound native even without dedicated dialect training. Everywhere the dialect is more distinctive, poetry, figurative language, heritage knowledge, Falcon-Emirati-7B's advantage holds up clearly across every competing model we've tested it against.\n\nWe tested all four models on the same 283 UAE scenarios, in both Emirati Arabic and Modern Standard Arabic, with varying amounts of location information.\n\nOverall accuracy on the UAE multiple-choice task, averaged across both language varieties and all location settings. These are our evaluation results.\n\nFalcon-Emirati-7B scored 85.57%, the highest among the four models tested, ahead of ALLaM-7B (83.39%), Jais-2-8B (73.79%), and Fanar-2-27B (71.50%). These results highlight its ability to recognize culturally appropriate responses in Emirati conversations.\n\nNumbers only tell part of the story, so below is a live, interactive comparison: five real Emirati prompts, run through Falcon-Emirati-7B side by side with Fanar-2-27B-Instruct and ALLaM-7B-Instruct-preview. Swipe or use the arrows to move between prompts, and expand any response to read it in full.\n\nInteractive comparison: Falcon-Emirati-7B vs. Fanar-2-27B-Instruct vs. ALLaM-7B-Instruct-preview on five Emirati prompts, covering Eid greetings, local history, poetry, and heritage knowledge. Outputs are shown as generated and may contain errors; highlighting identifies our model, not a factual rating.\n\nFalcon-Emirati-7B is available on our chat platform. 🚀 Try it now: https://chat.falconllm.tii.ae/?model=Falcon-Emirati-7B\n\nLike any language model, Falcon-Emirati-7B can reflect biases in its training data and will sometimes get things wrong, especially on rare expressions, highly localized references, or edge cases we didn't have much data for. Dialect and cultural nuance are subjective in places, and even native speakers won't always agree on the \"right\" answer. We'd recommend evaluating the model for your specific use case before relying on it for anything sensitive, official, or high-stakes, and we'd genuinely welcome feedback from the Emirati community to help us improve both the model and Alyah going forward.\n\nWe would like to extend our sincere thanks to Mikhail Lubinets and Matthieu Berjon for their continuous support with the compute infrastructure, and to Jatin Mittal for his help in making the model accessible through the Falcon Chat app.\n\nMore from this author",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hugging Face (开源模型社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T06:44:39.000Z",
+            "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+          }
+        ]
+      },
+      {
+        "id": "story--fight-energy-shock-html-7963c6d00eb93310",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T07:00:00.000Z",
+        "pubTime": "2026-10-06 15:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html",
+        "imageUrl": null,
+        "fullContent": "Asian countries have responded more aggressively than others to the energy supply crunch caused by the U.S. and Israeli war on Iran and now they are running out of resources to continue their response, the World Bank warned in a new report. The report actually focuses on the potential of artificial intelligence to help Asian economies grow but names energy import vulnerability as one major headwind to that growth. &ldquo;Subsidies have been by far the most common policy response [to the crisis] among emerging and developing economies,&rdquo; the World Bank said, adding that &ldquo;Countries with substantial subsidies in place generally have had smaller increases in retail gasoline prices than non-subsidizers, but this relationship weakened considerably for headline inflation.&rdquo; Energy remains a spot of weakness for Asian countries due to their overwhelming dependence on imports but, according to the World Bank, AI can change that by motivating a shift towards greater domestic electricity generation, which would in turn lead to lower demand for imported energy commodities. Meanwhile, Asian countries&rsquo; response to the energy crunch has led to lower prices at the cost of lower foreign exchange reserves, the lender also said. The longer the crisis continues, the greater the effect on their fiscal health would be, the World Bank warned, noting as examples Indonesia, Thailand, and Vietnam, which saw their dollar reserves decline by between 15% and 40% since the start of the war because of their crisis response actions. These response actions, however, have had no effect on inflation anywhere in the world, and &ldquo;headline inflation has sharply increased in many countries, even as core inflation has remained more subdued.&rdquo; For Asia, however, there is hope for a reversal, driven by information technology generally and AI specifically, according to the World Bank. &ldquo;The region&rsquo;s dependence on AI-related industrial activity has been a source of strength, but it could become a weakness if global AI activity slows or reverses,&rdquo; the institution said in its report. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T07:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html"
+          }
+        ]
+      },
+      {
+        "id": "story--largescale-drone-attack-f6292deb0eae308f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Moscow comes under large-scale drone attack",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:02:57.000Z",
+        "pubTime": "2026-10-06 14:02",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wyv2mm/moscow_comes_under_largescale_drone_attack/",
+        "imageUrl": "https://external-preview.redd.it/1CWzcqPB7LlWglPZIbZZAoZfpiK4x9nVzS7CeKv6gXg.jpeg?width=640&crop=smart&auto=webp&s=ba0b228058a3212a0c39f188b780312ab8242b67",
+        "fullContent": "submitted by /u/EnoughPrimary6700 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-10-06 14:02 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wyv2mm/moscow_comes_under_largescale_drone_attack/",
+            "publishedAt": "2026-10-06T06:02:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--nobel-prize-school-html-52ad5778187b4107",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "California scientist wins a Nobel Prize, then makes school lunches for his kids",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:20:09.000Z",
+        "pubTime": "2026-10-06 14:20",
+        "url": "https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/california-scientist-w.jpg",
+        "fullContent": "Dr. Karl Deisseroth spent hours fielding congratulatory calls after learning early Monday that he had won a Nobel Prize for medicine for helping to open a new field of brain science called optogenetics.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-06 14:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html",
+            "publishedAt": "2026-10-06T06:20:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--deputat-2122518017-html-ec282d8f13b652cc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Южнокорейский депутат назвал изучение русского языка необходимым",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T07:37:08.000Z",
+        "pubTime": "2026-10-06 15:37",
+        "url": "https://ria.ru/20261006/deputat-2122518017.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/0a/02/2121720676_0:191:2923:1835_650x0_80_0_0_39bac34dda1c6a10087ef89ef073583f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-06 15:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/deputat-2122518017.html",
+            "publishedAt": "2026-10-06T07:37:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lm-5-3-on-amazon-bedrock-5c72c009e4c7e00c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Introducing GLM 5.3 on Amazon Bedrock",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T23:25:17.000Z",
+        "pubTime": "2026-10-06 07:25",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/17/ML-21636-3.jpg",
+        "fullContent": "Coding and agentic workloads are asking more of AI models than ever: refactor a repository spanning hundreds of files, sustain a multi-hour agentic workflow without losing context, and reason through complex systems problems with tool use at every step. Meeting those demands with open-weight models has historically meant provisioning and operating your own inference infrastructure.\n\nGLM 5.3 from Z.ai (Zhipu AI) is now available on Amazon Bedrock . GLM 5.3, as published on Hugging Face Hub , is a 753B-parameter mixture-of-experts model optimized for coding and long-horizon agentic tasks. In particular, Z.ai has reported the model shows notable cyber security capabilities. On Amazon Bedrock, you can now use it through fully managed APIs with cross-Region inference, prompt caching, and service tiers. You don’t manage any infrastructure. Access to GLM 5.3 on Bedrock is available to eligible enterprise customers.\n\nIn this post, we show you how to invoke GLM 5.3 on Amazon Bedrock using the OpenAI-compatible APIs and reduce cost and latency with prompt caching. We then put the model to work in a realistic agentic workflow: running an authorized security test of your own application with Strix, an open-source AI penetration testing agent.\n\nWhat’s new compared to GLM 5\n\nGLM 5 arrived on Amazon Bedrock earlier this year. GLM 5.3 builds on the same lineage, with a range of important gains:\n\nStronger coding: Z.ai claims competitive performance on a range of coding benchmarks including DeepSWE, Terminal Bench 3.0, and FrontierSWE. They also report a 50% improvement over GLM 5.2 on their own internal coding benchmark. Direct comparisons to GLM 5 were not reported, because the magnitude of improvements led to updating the benchmark tests themselves since the GLM 5.1 announcement .\n\nEmergent cyber security capabilities: Reported benchmark performance on security tasks stands out, which makes the model a natural fit for defensive security workflows. For example, Z.ai measured a leading score of 84.5 on the CyberGym benchmark at release.\n\nBroader Amazon Bedrock integration: Cross-Region inference profiles, implicit and explicit prompt caching, and improved feature parity of the OpenAI-compatible Responses and Chat Completions APIs alongside Invoke and Converse.\n\nFrontier coding and agentic performance. GLM 5.3 is designed for complex systems engineering and long-horizon agentic tasks. These include multi-step reasoning, tool-augmented workflows, and sustained context across large code bases.\n\nFlexible API access. You can invoke GLM 5.3 through the OpenAI-compatible Responses and Chat Completions APIs, or the Amazon Bedrock Invoke and Converse APIs.\n\nPrompt caching. GLM 5.3 supports implicit (automatic) prompt caching by default, and explicit cache controls (recommended) on the Responses and Chat Completions APIs. For agentic workloads that resend large system prompts or repository context every turn, caching reduces both latency and input cost.\n\nCross-Region inference. GLM 5.3 is available through US cross-Region inference ( us.zai.glm-5.3 ) and Global cross-Region inference ( global.zai.glm-5.3 ) profiles. You send requests to the “source” AWS Region of your choice, and Amazon Bedrock securely routes each request for processing. Refer to the Amazon Bedrock User Guide for more details.\n\nService tiers. Choose Flex to optimize cost for less-time-sensitive workloads, Priority to prioritize latency-critical requests in return for a higher price, or Standard for the default balance between price and speed.\n\nFor the following usage examples, you need:\n\nAn AWS account with access to Amazon Bedrock.\n\nAWS Identity and Access Management (IAM) permissions to call the base model and the target inference profile: bedrock:InvokeModel , bedrock:InvokeModelWithResponseStream , and bedrock:CallWithBearerToken .\n\n(For the code-based demos) Python 3.10 or later.\n\n(For the optional security-testing demo only) install Docker and Strix with the bedrock extra .\n\nTry GLM 5.3 on the Amazon Bedrock console\n\nYou can start sending prompts to GLM 5.3 on the AWS Management Console, with no need to write code or install developer tools. To get started, navigate to Amazon Bedrock and then choose Test > Playground from the left sidebar menu.\n\nFrom this playground interface you can select GLM 5.3 from the model list and send your first prompts through the chat UI, as shown in the following screenshot:\n\nFigure 1: Chatting with GLM 5.3 on the Amazon Bedrock console\n\nGet started with the Responses API\n\nProgrammatically, you can call the model through the bedrock-runtime endpoint. This supports both the OpenAI-compatible Responses and Chat Completions APIs, and the Amazon Bedrock Invoke and Converse APIs for GLM 5.3. For new applications the OpenAI-compatible APIs are recommended as they support a more complete set of features.\n\nAmazon Bedrock does support generating API keys for OpenAI-compatible integrations that require them. However, we strongly recommend preferring short-lived credentials over long-lived API keys where possible.\n\nIn the following example, we will call the Responses API from Python using the OpenAI Python SDK, and the aws-bedrock-token-generator library to generate short-term tokens from your standard AWS Command Line Interface (AWS CLI) credentials .\n\nInstall the required packages.\n\npip install -U openai aws-bedrock-token-generator\n\nSave the following code as bedrock-request.py .\n\nfrom aws_bedrock_token_generator import provide_token from openai import OpenAI\n\nregion = \"us-west-2\" # Your source AWS Region\n\nclient = OpenAI( api_key=provide_token(region=region), base_url=f\"https://bedrock-runtime.{region}.amazonaws.com/openai/v1\", )\n\nresp = client.responses.create( input=\"Refactor this Python function to be iterative instead of recursive: ...\", model=\"global.zai.glm-5.3\", )\n\nprint(resp.output_text)\n\nRun the script, which will display the model’s output.\n\npython bedrock-request.py\n\nOptimize inference with explicit prompt caching\n\nLong-running coding and knowledge workflows often resend stable context across multiple conversation turns, such as system prompts, tool definitions, or repository files.\n\nGLM 5.3 on Amazon Bedrock supports implicit prompt caching by default, which helps reduce response latency and input token costs for repeated calls sharing the same initial prompt prefix.\n\nWith explicit prompt caching mode you specifically identify the reusable prompt prefixes, which can further improve cache hit rate (and therefore latency and cost savings) over implicit caching.\n\nTo use explicit prompt caching with GLM 5.3, as shown in the following example:\n\nSelect the explicit caching mode through prompt_cache_options on your request.\n\nAdd one or more prompt_cache_breakpoint markers on input content blocks to indicate the end (inclusive) of reusable prompt prefixes. Each breakpoint must contain at least 1,024 tokens to be eligible for caching.\n\nresp = client.responses.create( model=\"global.zai.glm-5.3\", # Enable explicit caching mode: extra_body={\"prompt_cache_options\": {\"mode\": \"explicit\"}}, input=[ { \"type\": \"message\", \"role\": \"system\", \"content\": [ { \"type\": \"input_text\", \"text\": SYSTEM_PROMPT, # A long, static system prompt is a great target for caching: \"prompt_cache_breakpoint\": {\"mode\": \"explicit\"}, }, ] }, { \"type\": \"message\", \"role\": \"user\", \"content\": [ { \"type\": \"input_text\", \"text\": USER_INPUT, # Multiple breakpoints can also be defined, for layered cache: \"prompt_cache_breakpoint\": {\"mode\": \"explicit\"}, }, ], }, ], )\n\nif resp.usage.input_tokens_details.cached_tokens: print(\"Hit cache!\")\n\nFor more information, refer to the prompt caching section of the Amazon Bedrock User Guide.\n\nExample agentic workload: Authorized security testing with Strix\n\nOne workload that benefits directly from GLM 5.3’s strengths is automated security testing of your own applications. Strix is an open-source AI penetration testing agent that runs your code dynamically, finds vulnerabilities, and validates them with proof-of-concept tests. As of this writing, the Strix documentation uses GLM 5.3 as its default model. You can configure Strix to use GLM 5.3 on Amazon Bedrock instead of a third-party inference provider, so model inference runs under your AWS account’s controls.\n\nOnly test applications you own or have explicit written permission to test. Unauthorized security testing of systems you don’t own is illegal in most jurisdictions and violates the AWS Acceptable Use Policy. In this walkthrough, the target is OWASP Juice Shop , a deliberately vulnerable sample application running locally on your machine.\n\nIf you want fully managed, continuous security testing beyond running open-source agents yourself, AWS Continuum provides on-demand penetration testing and other security analyses as a managed service. The two approaches are complementary: open-source agents like Strix give you developer-driven, in-the-loop, and deeply customizable testing against local builds, while AWS Continuum runs managed assessments at scale.\n\nTo run an authorized security test\n\nStart the example Juice Shop target application locally.\n\ndocker run --rm -p 3000:3000 bkimminich/juice-shop\n\nConfigure Strix to use GLM 5.3 on Amazon Bedrock. Strix uses LiteLLM under the hood so (as described in their documentation for Amazon Bedrock ) your AWS CLI credentials will be picked up automatically. This means no API key is required, but you might want to set environment variables like AWS_PROFILE and AWS_REGION to configure your connection. At the time of writing, LiteLLM does not yet resolve bedrock/global.zai.glm-5.3 . Until this is fixed, you can explicitly specify the Converse API route and the inference profile Amazon Resource Name (ARN) as shown in the following snippet:\n\n# Fill in the REGION and ACCOUNT_ID placeholders below before running! export STRIX_LLM=\"bedrock/converse/arn:aws:bedrock:{AWS_REGION}:{AWS_ACCOUNT_ID}:inference-profile/global.zai.glm-5.3\"\n\nRun Strix against the local target.\n\nstrix --target http://localhost:3000\n\nWait for the root Strix agent to complete, then review the findings.\n\nStrix spins up a team of sub-agents to map the threat surface, explore a range of potential vulnerability categories, and attempt to validate each finding with a working proof of concept. This helps minimize time spent triaging false positives. A successful run will generate a report including severity, evidence, and remediation guidance for each finding.\n\nThe following video shows the end-to-end journey of setting up and running Strix against the example application, and exploring the results:\n\nFigure 2: Running an example security test with GLM 5.3 and Strix\n\nStop the Juice Shop container with Ctrl+C in the terminal where it’s running, or run docker ps to find the container ID and stop it with docker stop <container-id> . Amazon Bedrock inference is pay-per-token with no persistent resources, so there are no further charges after your requests complete. If you generated an Amazon Bedrock API key for this walkthrough and no longer need it, delete it on the Amazon Bedrock console.\n\nGive GLM 5.3 a try on the Amazon Bedrock console , use it through coding assistants like OpenCode as shown in our recent post with Kimi K3 , or connect your custom applications through the supported APIs.\n\nInterested in how Amazon Bedrock can support your team? Connect with us to start the conversation.\n\nAlex is an AI Specialist Solutions Architect at AWS, based in Singapore. He focuses on how open source technologies and open weight models can help customers around the world to build innovative AI solutions and tackle AI governance challenges.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 65,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "AWS Machine Learning Blog文章称，来自Z.ai（智谱AI）的GLM 5.3现已在Amazon Bedrock上提供。",
+          "文章称，GLM 5.3是一个拥有7530亿参数的混合专家模型，针对编程和长时程智能体任务进行了优化。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T23:25:17.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
+          }
+        ]
+      },
+      {
+        "id": "story-61006-bc94400297-en-html-6e91d203ed24e708",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Philip R. Lane: Interview with Ansa",
+        "source": "European Central Bank (欧洲央行官方英文)",
+        "sourceSlug": "ecb",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T07:00:00.000Z",
+        "pubTime": "2026-10-06 15:00",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+        "imageUrl": null,
+        "fullContent": "The first question is about the scenarios that the ECB has run since the start of the Middle East war. Where we are right now in relation to these scenarios?\n\nWe have found it useful to put out these scenarios. But let me emphasise, they make different assumptions about the price of oil and the price of gas. But they also make different assumptions, for example, about the strength of the second round effects, how quickly the energy prices will transmit to the wider inflation rate and to the economy.\n\nThis is something we don’t learn about every day. What is true is that energy prices are higher than we expected in our baseline. But I don't want to convert that into any one scenario. Because the scenarios are a collection of different assumptions. And on the second round effects, we have not seen, so far, very strong second round effects. We continue to look at them. That's why, even though I am a promoter of the scenarios, it is too simplistic to say we're in the adverse scenario or the baseline scenario. They are helpful illustrations. But we try to do a comprehensive analysis. And to repeat, clearly, energy prices are high but the strength of the pass-through to the rest of the economy remains uncertain.\n\nWe are seeing a mixed picture regarding growth. We have had some very good data in the second quarter. Also, the ECB has made it clear that the third quarter could be moderately good. But we have risks, of course, geopolitical risk, the energy shock. Now we have this marked increase in long-term yields propagating from the United States, with lots of European countries that are facing a pretty stark increase in yields. Would you single out the biggest risk that you are monitoring right now?\n\nYour question has highlighted the range of factors. But, maybe behind everything, globally, the biggest issue is AI. AI has meant that world trade has been strong this year because it is leading to a lot of trade, including in semiconductor chips and other materials. And European firms are part of that. We are part of the AI supply chain to some extent. But as you know, the investment in AI in America also means that these firms are raising a lot of long-term debt.\n\nAnd one factor behind the increase in the yields you mentioned is the investment surge in the United States. We spend a lot of time looking at broad financing conditions, including the importance of the long-term interest rate. And we do think it has a material effect on the economy and on inflation. So absolutely, we've always said part of our monetary policy evaluation is to take into account the full set of financial indicators, not just the policy rate that we set.\n\nWe know that the Federal Reserve has tasked five working groups with analysing a number of topics, including AI, the impact of AI on productivity and inflation especially. Does the ECB run any similar working groups or research specifically devoted to AI? And do you have any early results?\n\nWhat I would say is that AI is driving a lot of the research here at the ECB, but also in the national central banks, including the Banca d'Italia. But because AI affects different parts of the economy, our labour market experts are looking at the effect of AI on employment. Our banking experts are looking at the effect of AI on the financial sector. Our investment experts are looking at it in terms of the investment dynamic. AI is so pervasive, it's not a question of setting up a single task force. It's many different groups at the ECB and across the Eurosystem working on this topic. A few months ago, I aggregated findings across all of these different work streams in a a speech entitled “AI and the euro area economy”, which reports on this very rich, very diverse work agenda.\n\nOn many occasions recently, the ECB has highlighted that the euro area economy is showing resilience, despite many risks and despite those headwinds coming from the energy shock. To what extent has this resilience provided a basis for gradually raising rates in the past few months?\n\nThe main driver of the interest rate decision has been the inflation implications of the energy shock. This year, in the spring, when the Middle East conflict erupted, there was a concern that we would see more damage to the economy. That turned out not to be visible over the summer, in part because there was a period when energy prices fell back, when the memorandum of understanding between Iran and the United States was agreed we saw an improvement in sentiment and some fall in energy prices. I think that helped the European economy over the summer.\n\nBut now with the new wave of price increases, new uncertainty about how long this conflict is going to last, this is one of the questions we will be exploring in the data. Will that support for the economy hold up? Let me also mention that on top of the energy shock, there's been fiscal support this year. Let me highlight two factors.\n\nOne is the German programme on infrastructure and defence. Also remember that this is the final year of the Next Generation EU project. Public investment in a number of countries, including in Italy, is relatively strong this year. But the NGEU programme comes to an end this year. So when we look forward to how much fiscal policy will support the economy in 2027 and 2028, that will be different to 2026.\n\nAnd then the other element is that we do see AI supporting the economy. We're not seeing the very large investment boom we have in America, but we are seeing some pickup in investment.\n\nThe dominant issue in terms of interest rate policy so far has been the energy shock. But the interaction with the overall economy is important. The resilience of the economy means that so far we have not seen the materialisation of the downside risk to activity that could have happened.\n\nItaly had a very strong inflation reading yesterday, at 4.1 per cent. And one of the things that politically came up is that Italy needs to ask the European Union for more budget flexibility. We have elections next year. How does the interplay work in this case with monetary policy? I mean, in which way would this change the equation for a central bank?\n\nWe recognise and we have said many times that people on low incomes do require, I think, fiscal support. We've emphasised that this support should be as targeted as possible because a broad-based fiscal support essentially adds to demand in the economy and that is not going to help inflation return to 2 per cent in a timely manner. I would say that those involved in the fiscal decisions across Europe should indeed do what is needed on a targeted basis to support those on low incomes. But having a very general, widespread fiscal expansion is not going to help.\n\nOne more risk that has been highlighted recently by the President, Christine Lagarde, was the global increase in long-term rates we are seeing and the possibility that this would slow growth and reduce pass-through by more than projected in the September exercise. So do the recent developments we've seen affect the ECB policy approach?\n\nWe have identified broader financial conditions, including long-term interest rates, as an important factor that enters the monetary policy decisions. We do think that an increase in long-term interest rates, especially if it's driven by external, global factors more than European factors, slows down the European economy and, on its own, reduces the inflation rate. That will be in the mix, along with the inflation analysis and the risk analysis, in determining where we need to go with the policy rate. There is a clear role for that analysis.\n\nFor your readers it’s worth remembering that, over the last four years, since early 2022, there has been an increase in long-term interest rates. We have a new wave of increases now. But before the pandemic, there was a phase of “low for long”. People were convinced that interest rates would be low indefinitely. Now, from early 2022 onwards, there was a step up. But now there's a further increase. And so it's very important to look carefully at this through, for example, our bank lending survey, in our firm surveys especially, to see how this is affecting investment decisions, employment decisions and so on. So absolutely, we are very data-dependent and we will be studying this trend in the financial data very closely.\n\nYou mentioned budget policies by the governments. In Italy, we have a debate about wages. A lot of people are calling for an increase in wages. Containing wages was a way for Italy to regain a lot of competitiveness after the pandemic, if you look at the net foreign position of Italy. Would you like to say something about this debate that we're having? Some people are saying that we need higher wages to grow more in Italy.\n\nWages and employment are an essential part of the overall economy. In our September projections, we do see wages in Italy running ahead of inflation in 2027 and in 2028. Even though this year workers are not being fully compensated for the inflation surge that we're seeing right now, we do think the good performance of the Italian economy should allow wages to improve in terms of living standards next year and the year after.\n\nSo although right now I'm very mindful of the fact that a lot of people are not seeing their incomes go up as quickly as inflation because of the energy shock, the underlying strength of the Italian economy should allow some recovery next year and the year after. When any member country is having a debate about the overall trend in wages, it’s worth remembering that relative wages are an important part of competitiveness and that allowing wages to grow too quickly does not help in terms of attracting foreign investment, in terms of encouraging firms across the economy to recruit and so on. So there's no simple answer to this. But in the end, Italy and Europe in general is a major importer of energy. Collectively, this very high energy price is a loss for the European economy. And unfortunately, it's impossible to say we should fully protect all workers at all times from that. But again, to repeat, we do think it's important for those on low incomes to be especially protected through targeted measures.\n\nItaly has been very supportive of the euro traditionally. Less so in more recent years. We see in Italy an attitude that tends to criticise the ECB whenever there is an interest rate hike, regardless of the macroeconomic conditions. At the same time, people sometimes don't really understand why it is so important to have a central bank that manages price stability. Would you like to say anything about this to the Italian people?\n\nInflation is very damaging. People really suffer if inflation gets too high. By the way, we also think there are problems if inflation runs too low compared to our 2 per cent target.\n\nBefore the pandemic, inflation was running below 2 per cent and we brought the interest rate to very low levels. In other words, when inflation is too low, the interest rate is going to be low.\n\nWhen inflation is too high, the policy rate has to go up. Last time, we brought it up to 4 per cent. But then once the inflation dynamic improved, we cut rates from 4 per cent to 2 per cent fairly quickly.\n\nCompared to the five years before the pandemic, 2014 to 2019, when the interest rates did not move very much, this period has meant a lot of movement in interest rates. But again, what we showed last time is we had to have a temporary campaign of raising rates, but then we cut them again. So I think the message for your readers is that interest rate policy is important to bring inflation back to our 2 per cent target.\n\nIf the inflation rate remained at 3 or 4 per cent, that would be very damaging for the Italian workers, Italian households. So we do what is necessary, and the main way to make sure inflation comes back to 2 per cent is by adjusting the interest rate. If we didn't do it, inflation would be too high and if people expect inflation to be too high, the long-term rates we talked about would go up.\n\nSo, in the end, interest rate adjustments are a source of stability because they help maintain price stability around the 2 per cent target on this cyclical basis.\n\nOne last question, about market rates. We have seen, again, the impact of higher long-term rates in markets in the United States and European countries. This also affects, of course, debt funding. And this for countries like Italy, which has a rather important size in its debt, can be problematic. What would you say about this current phase, with markets being a little jittery about debt, for countries that are experiencing an increase in long-term yields in the markets?\n\nWhat is important is that governments look beyond the immediate horizon. They need to decide their budgets for 2027, but when you think about the challenge over the next five or ten years, it's very important to look at these long-term interest rates. It's also very important to look at the growth of the economy. Governments have to be realistic about this. They have to incorporate the interest rates they will face in the coming years.\n\nIt really reinforces the importance of boosting the growth rate of the economy. All the reforms that Mario Draghi and Enrico Letta have recommended become even more important when you face a high interest rate environment.\n\nDisclaimer Please note that related topic tags are currently available for selected content only.\n\nReproduction is permitted provided that the source is acknowledged.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "European Central Bank (欧洲央行官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T07:00:00.000Z",
+            "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
+          }
+        ]
+      },
+      {
+        "id": "story-far-right-street-patrols-b06487a9121b6dc5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:00:05.000Z",
+        "pubTime": "2026-10-06 14:00",
+        "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
+        "imageUrl": "https://i.guim.co.uk/img/media/dc69fea4e767a8d051863bf6eaf380637d27858a/535_0_5330_4264/master/5330.jpg?width=140&quality=85&auto=format&fit=max&s=fa0c5f0086827e321782cd73a265a336",
+        "fullContent": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movement\n\nDuring their relationship, Lisa’s ex-partner was controlling. He kept her at home where he was emotionally and physically abusive towards her, including once attacking her with a machete.\n\nThese days, he runs protests outside houses of multiple occupancy that he claims are housing asylum seekers. He coordinates groups of men to patrol the streets of his town, claiming to protect women but often using these patrols to profile and target men of colour.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将反移民街头巡逻与部分组织者或参与者被前伴侣指控的控制、情感及身体暴力经历联系起来，并强调“保护女性”的公开说法与针对有色人种男性进行画像、监视或骚扰之间的张力。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T06:00:05.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols"
+          }
+        ]
+      },
+      {
+        "id": "story-cience-optogenetics-html-fe4158d804d897db",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Switching on brain cells: The Nobel-winning science of optogenetics",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:20:04.000Z",
+        "pubTime": "2026-10-06 14:20",
+        "url": "https://phys.org/news/2026-10-brain-cells-nobel-science-optogenetics.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-optogenetic-discov.jpg",
+        "fullContent": "In optogenetics, scientists control neurons by stimulating them with light—potentially unlocking breakthroughs for conditions such as dementia, depression and blindness.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-06 14:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-brain-cells-nobel-science-optogenetics.html",
+            "publishedAt": "2026-10-06T06:20:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-politics-2197953-0bfab640fb8d46bd",
+        "title": "外交官：过去一周乌克兰袭击造成29名俄罗斯平民死亡",
+        "originalTitle": "Ukrainian attacks kill 29 Russian civilians over past week — diplomat",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T07:33:53.000Z",
+        "pubTime": "2026-10-06 15:33",
+        "url": "https://tass.com/politics/2197953",
+        "imageUrl": null,
+        "fullContent": "LUGANSK, October 6. /TASS/. Ukrainian attacks killed 29 Russian civilians, including two children, over the past week, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik told TASS.\n\n\"A total of 235 civilians were affected by Ukrainian Nazis’ attacks in the past week: 29 people, including two children, were killed, and 206 others, among them 19 minors, were injured. <...> The majority of civilian casualties were recorded in the Belgorod, Bryansk, Zaporozhye, Kursk and Kherson regions, as well as in the Donetsk and Lugansk people’s republics,\" he said.\n\nAccording to Miroshnik, 230 civilian casualties were caused by Ukrainian drone strikes, accounting for 98% of all casualties reported in the past week.\n\nThe Ukrainian army fired almost 8,400 projectiles at Russian regions over the week, the diplomat added.",
+        "fullTranslation": "卢甘斯克，10月6日。/塔斯社/——俄罗斯外交部无任所大使罗季翁·米罗什尼克告诉塔斯社，过去一周，乌克兰发动的袭击造成29名俄罗斯平民死亡，其中包括两名儿童。\n\n他说：“过去一周，共有235名平民受到乌克兰纳粹分子袭击的影响：29人死亡，其中包括两名儿童；另有206人受伤，其中包括19名未成年人。大多数平民伤亡发生在别尔哥罗德州、布良斯克州、扎波罗热州、库尔斯克州和赫尔松州，以及顿涅茨克和卢甘斯克人民共和国。”\n\n米罗什尼克表示，230名平民伤亡是由乌克兰无人机袭击造成的，占过去一周报告的全部伤亡人数的98%。\n\n这名外交官补充说，乌克兰军队一周内向俄罗斯各地区发射了近8,400枚炮弹。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 4,
+        "keyTakeaways": [
+          "来源叙事重点：强调乌克兰袭击造成俄罗斯及俄方控制地区平民伤亡，突出无人机袭击占比和炮击数量，并通过“Ukrainian Nazis”等带有政治立场的称谓强化俄方对乌方的负面叙事。文中称一周内235名平民受影响，其中29人死亡、206人受伤；230人据称因无人机袭击受伤亡，占总数约98%。这些属于俄方官员的陈述，不应直接视为已独立确认的事实。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T07:33:53.000Z",
+            "url": "https://tass.com/politics/2197953"
+          }
+        ]
+      },
+      {
+        "id": "story--for-me-expansion-rumors-19745539452346e8",
+        "title": "Gemini 的“Call for Me”或许会告诉你妈妈你要迟到了",
+        "originalTitle": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-05T23:09:55.000Z",
+        "pubTime": "2026-10-06 07:09",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nA rumored Android update would automate personal phone calls with Gemini AI.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Stevie Bonifield\n\nGoogle may be expanding its “Call for Me” AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a “Gemini Calling” introductory screen in an APK teardown with examples that include “Call Mom and tell her I will be 15 minutes late” and “Call John and ask if he is coming for dinner.”\n\nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google’s AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or even still have a landline phone.\n\nAndroid Authority also says it found “granular permissions” for Gemini actions in individual apps, including what appear to be settings for phone call permissions. These settings would allow users to pick and choose which app capabilities they want to allow Gemini to access, potentially giving users an option to opt out of receiving incoming automated calls from Gemini. However, as Android Authority notes, it’s also possible Google might not publicly release this expansion or the granular Gemini app settings.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n据传，一项安卓更新将利用 Gemini AI 自动处理私人电话。\n该作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。\n查看 Stevie Bonifield 的所有文章\n谷歌可能正在扩展其“Call for Me”人工智能功能，使其不再局限于商务电话，从而让你可以利用它向朋友和家人发送消息。Android Authority 报道称，其在对一个 APK 文件进行拆解时发现了一个“Gemini Calling”介绍页面，其中的示例包括：“打电话给妈妈，告诉她我会晚到 15 分钟”和“打电话给约翰，问问他是否要来吃晚饭”。\n根据这些示例，即使功能得到扩展，Gemini 可能仍将局限于进行类似短信的基础通话。谷歌的人工智能或许无法自动完成一次与亲戚的完整叙旧电话，但它可以向那些更喜欢打电话、经常错过短信，甚至仍在使用座机的人快速传达消息。\nAndroid Authority 还表示，它发现了 Gemini 在各个应用中执行操作时所需的“细粒度权限”，其中包括看起来与电话权限有关的设置。这些设置将允许用户自行选择希望授权 Gemini 访问的应用功能，并可能让用户选择不接收来自 Gemini 的自动来电。不过，正如 Android Authority 所指出的，谷歌也有可能不会公开发布这项扩展功能或这些细粒度的 Gemini 应用设置。\n一份免费每日摘要，提供最重要的新闻。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Google Gemini可能将“Call for Me”从商业电话扩展到个人通信的设想，包括代用户拨打电话并传达迟到或询问晚餐等简短信息。报道同时推测该功能可能仅适合类似短信的基础通话，并讨论Gemini应用权限设置可能带来的授权和拒接自动来电选项。文章明确提示，相关扩展和细粒度权限设置可能不会正式发布。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-05T23:09:55.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+          }
+        ]
+      },
+      {
+        "id": "story-7-44ad-983d-1a03f50f66f5-1c21caa8b1748470",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI models used in bank cyber attacks, warns South Korea’s president",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T06:19:09.000Z",
+        "pubTime": "2026-10-06 14:19",
+        "url": "https://www.ft.com/content/fb32e9f8-4bf7-44ad-983d-1a03f50f66f5",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2bbbaf0-6506-4cee-aa6a-f9f5b3013cca.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Lee Jae Myung highlights public anxiety over what one official calls a ‘completely new kind of crisis’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-06 14:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/fb32e9f8-4bf7-44ad-983d-1a03f50f66f5",
+            "publishedAt": "2026-10-06T06:19:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-view-interface-for-magit-faf4b438f8208e4a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "hutch: local code reviews in emacs for the mildly disenfranchised",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T05:39:57.000Z",
+        "pubTime": "2026-10-06 13:39",
+        "url": "https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/",
+        "imageUrl": null,
+        "fullContent": "I haven't had a real job in four years. I closed down a startup I'd been building, just last month. During all these years, I spent most of that time at the back end of the frontier of AI agents. But I've finally caught up. It's been some 500 days since coding agents have really picked up, and they're genuinely more productive than, previously, instructed.\n\nEven though I still prefer the pedagogical aspect of AI over the task-completing automaton aspects, the latter has driven all sorts of tooling around reviewing code, and not just writing and deploying it. The typical review agent party-line is: agents jump in, before your colleagues do, spray logorrhea across twenty pull requests before you have had a chance to wake up and look at your phone. This works, sometimes, for some people. But if you're like me, you still have humans reviewing code before it ships to users, and it's better to respect those people and their time. This is the case, regardless of where you sit on the balance of game-changer to curmudgeon.\n\nAll that is to say, no matter which direction agents take to get better with time, I hope we still care about things. Not in the way of formalizing care, with high-fidelity agent instructions and prompts or some superior upholding of taste sort of thing, but something as simple as announcing: hey I'm still here, and I understand all this.\n\nSo as a long-time emacs user, I present yet another attempt at wedging LLMs, agents and coding harnesses, now inside your text buffers (!) with Hutch. It's a small, Magit-induced code-review interface that fits a standard Magit commit-push workflow locally and hopefully helps reclaim some load created upstream.\n\nOpen up Magit, and hit the dispatcher binding (usually d) and you'll see a Hutch code review action put up next to the DWIM binding. Hutch operates on three different scopes: staged changes, un-pushed changes, and changes between current branch and working branch. By default, it's staged changes only, since that's most useful.\n\nOnce a review starts, you'll see a nice little progress bar in a new *magit-hutch: code review* buffer until the findings1 are complete. This is a read-only buffer, but you can still perform the pre-bound actions.\n\nThen bulk-apply all queued suggestions with A. The application is scope-aware, so if you queue a finding for staged changes, it will apply the fix directly to the staged files.\n\nThat's it! Getting started should hopefully be pretty simple and intuitive for existing emacs users. There are of course a few interesting things going on behind the scenes, some of which I'll cover in the next few sections.\n\nA big UX handicap of showing review comments and suggested patches in-buffer is that there is no existing connective tissue of a commenting system. With GitHub, though, the review UI collapses outdated comments on new commits and most review bots sit over the suggestion mechanic if they have changes to suggest.\n\nHutch is made with a bias towards patches, rather than just prosaic comments. According to the Aider leaderboard (and through some of my own experiments), the SEARCH/REPLACE diffs are a lot more obedient across different models than just asking the model to author correct patches with precise line numbers.\n\nFor an Aider-style diff, you have to ensure there's enough surrounding context for the SEARCH to be unique, and ideally also preserve indentation. In Hutch's case, the tool's function schema naturally decomposes the file, search, and replace fields:\n\nI've noticed that a lot of older (or cheaper) models tend to recall the SEARCH block from memory when asked for diffs, instead of copying it verbatim from read_file, read_diff or surrounding_context calls. This invariably botches them entirely. So we get them verified before submission. If SEARCH is missing or matches more than once, the finding is downgraded to a plain comment. On a unique hit, Hutch locally creates a unified diff:\n\nSEARCH/REPLACE blocks are verified against the file, then emitted as a unified diff Flowchart in two stages. Agent loop: the agent calls tools (read_*), then verifies old_lines. If verification is AMBIGUOUS, it fixes old_lines and loops back to the tools step. If OK, it submits the review: comments and patches. Post loop: each patch goes through a patch verification gate. If it passes (OK), hutch emits a unified diff and renders it in the UI. If it fails (FAIL), the patch is downgraded to a plain comment, which is also rendered in the UI.\n\nOnce a series of udiffs and comments are rendered, they can be marked and bulk applied. Hutch applies them per-file, lowest hunk first (bottom-up) so line positions are minimally disturbed. Each finding runs its own git apply and a bad application marks itself invalid so the rest can continue to land.\n\nAll this patching and commenting infrastructure pulls its weight, since with only a couple of keystrokes, you hopefully get less reading and parsing work and more actionable triaging. None of this guarantees patches-always of course, and it shouldn't.\n\nWith more powerful models, a simpler diffing method might generally work pretty well. But for a tool that's built to work across different and cheaper models, it's essential to be maximally supportive. In general, I feel like a key point of much of the agentic infrastructure we build is to have knobs for optimizing token:cost ratios. This could often mean thorny workarounds for good-enough models.\n\nHutch has a fairly minimal toolset for pulling context:\n\nOut of these, surrounding_context is the more interesting one. It wraps over Tree-sitter and uses grammars that are installed. It works by letting the model widen out to the enclosing definition of a relevant line and further out, as needed. In my tests, the overall read token consumption compared to simply blasting read_file was anecdotally lower with comparable levels of review quality2.\n\nAll the findings from the model are submitted to the agent at once. On the write side of things, verify_block locally verifies diffs, and along with other comments and LGTM notices, submits them through a submit_review tool call. submit_review itself runs through some post-processing work, like gating hallucinations about files and line numbers, trimming the length of descriptions and downgrading patches to comments if they don't apply cleanly.\n\nOnce the submission lands, the output from all this work is persisted durably under refs/hutch/id and can be separately committed as a means of sharing (with magit-post-commit-hook) or for repainting later. If you squint hard enough, it might appear like a change identifier for a stacked-diff review tool, but its purpose is to keep reviews in the git tree, rather than identify changesets for human reviews. We don't really care about multi-party human reviews, it's all local.\n\nThe one unfortunate part about benchmarking Hutch is how ungainly it is to pull comparison-ready output from text buffers. I initially ran the evals by invoking multiple headless emacsen and tee-ing the agent output before it was rendered, but eventually settled on emitting Perfetto traces and using them as the underlying medium for evals.\n\nI haven't seen agents traced through Perfetto elsewhere. This is likely for good reason. They aren't meant for this kind of thing really. They don't have a first-class notion of what a \"prompt\" or a \"tool call\" is. It's designed for kernels and browsers and not an abstract system with tons of prose.\n\nBut for a single-player, emacs-local agent, it sort of works. You can answer all kinds of structural questions like why did this review take 40 rounds?, what tools were run in parallel?, or how much wall time was spent in reading diffs?, and so on. But more importantly, it's free and infra-free. If you set hutch-trace-dir, it will emit Perfetto traces and you can just load them up on ui.perfetto.dev. Easy.\n\nHere's an example to fetch tool calls and their total times. This is the entire pipeline. No dashboards or SDKs required:\n\nWith this set up, we take a mix of strategies from Martian’s code review benchmark and the CR-Bench preprint and compute Precision, Recall, and Fβ scores. The evals are described in more detail3 in the eval/README.org section. But broadly, we run the bench against 40 PRs, 132 goldens, and use GPT 5.2 as a classifying judge. The eval pipeline goes off and runs queries directly on the traces. Looking at the numbers, I believe we land somewhere around the #16 mark on Martian’s Offline Benchmark leaderboard, which is pretty competitive for a no-memory, single-shot agent.\n\nOutside of classified scoring, there are a few interesting things about the agent itself:\n\nStacked bar chart of distinct goldens hit per model, split into unique, shared with one other model, and shared with both. opus-4.8: 15 unique, 17 shared with one, 18 shared with both (50 total). glm-5.2: 13, 19, 18 (50). gpt-5.5: 6, 16, 18 (40). The union across all three is 78.0102030405060708090distinct goldens hitopus-4.8glm-5.2gpt-5.5union = 78uniqueshared with 1shared with both\n\nDifferent models tend to catch different bugs. Out of 132 goldens, each model hits 40-50 goldens, with an overlap of 18 hits across all three models. Which means hypothetically, if all three ran combined, it would catch ~55% more bugs than one model alone.\n\nPretty lousy agreement across the models on what a bug is, I'd say.\n\nThree bar charts of agent rounds per PR across 40 PRs, sorted ascending. opus-4.8: median 8 rounds, max 26. glm-5.2: median 11, max 39. gpt-5.5: median 35, max 81, with several PRs near the 80-round limit.020406080roundsopus-4.8glm-5.2gpt-5.540 PRs sorted by rounds40 PRs sorted by rounds40 PRs sorted by rounds\n\nGPT 5.5 tends to hit my default round limit (80) a lot more than the other models for roughly the same hit rate. Opus 4.8 takes 3x fewer turns to complete.\n\nThree bar charts of output tokens per useful finding, one bar per PR, sorted ascending. opus-4.8: 31 PRs, median about 2,600, max about 13,000. glm-5.2: 34 PRs, median about 3,600, max about 15,000. gpt-5.5: 34 PRs, median about 3,000, max about 27,500.05,00010,00015,00020,00025,000output tokens / useful findingopus-4.8glm-5.2gpt-5.5PRs sorted by tokens per useful findingPRs sorted by tokens per useful findingPRs sorted by tokens per useful finding\n\nOn token efficiency, Opus is much cheaper on output tokens used per good finding by a respectable margin, but burns 3x more context on inputs, possibly due to the growing context Hutch resends each round.\n\nThis is all probably too late, as I've been told. No one really writes or reviews code, uses editors or version control by hand any longer. I made this for myself and for workflows that I still practice. I don't want to purport any arguments about whether one should or shouldn't use LLMs with emacs. The tool has more to do with unlocking a certain kind of workflow than the overreach of agents in niche locations.\n\nIf this continues to be useful, I'd like to add a conversational mode for every finding (like CodeRabbit) and perhaps maintain a context tree learnt from and committable to the codebase to improve review quality and speed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 Emacs/Magit 用户的本地化 AI 代码审查工具 Hutch 展开，强调让代理生成可验证、可批量应用的补丁，而不是大量向协作者发送审查评论。叙事将本地、单用户、低基础设施依赖和对人工审查者时间的尊重，置于“代理先于同事批量审查”的常见工作流之上；同时通过 40 个 PR、132 个标注缺陷及多个模型的测试，论证不同模型在缺陷发现、轮次和 token 效率上存在明显差异。文中也保留了作者的技术限制判断，例如补丁并不总能应用、模型间对缺陷的判断一致性较低，以及 Perfetto 追踪并非为代理系统设计。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T05:39:57.000Z",
+            "url": "https://kitallis.in/p/hutch-a-local-code-review-interface-for-magit/"
+          }
+        ]
+      }
+    ]
+  }
+]

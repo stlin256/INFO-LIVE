@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-05 · 今日](/INFO-LIVE/archive-2026-10-05/)
+- [2026-10-06 · 今日](/INFO-LIVE/archive-2026-10-06/)
+- [2026-10-05 · 历史快照](/INFO-LIVE/archive-2026-10-05/)
 - [2026-10-04 · 历史快照](/INFO-LIVE/archive-2026-10-04/)
 - [2026-10-03 · 历史快照](/INFO-LIVE/archive-2026-10-03/)
 - [2026-10-02 · 历史快照](/INFO-LIVE/archive-2026-10-02/)
@@ -46,14 +47,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **106** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **107** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-05 17:25 (UTC+8)
+- **最新归档时间**：2026-10-06 15:51 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-06 15:51 (UTC+8)" title="全球要闻情报简报 · 15:51" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-06 15:39 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】外交官：过去一周乌克兰袭击造成29名俄罗斯平民死亡：卢甘斯克，10月6日。/塔斯社/——俄罗斯外交部无任所大使罗季翁·米罗什尼克告诉塔斯社，过去一周，乌克兰发动的袭击造成29名俄罗斯平民死亡，其中包括两名儿童。；【undefined】Gemini 的“Call for Me”或许会告诉你妈妈你要迟到了：该主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 据传，一项安卓更新将利用 Gemini AI 自动处理私人电话。 该作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。 查看 Stevie Bonifield 的所有文章 谷歌可能正在扩展其“Call for Me”人工智能功能，使其不再局限于商务电话，从而让你可以利用它向朋友和家人发送消息。Android Authority 报道称，其在对一个 APK 文件进行拆解；【undefined】世界银行在将东亚和太平洋地区增长预期上调至4.5%的同时警告人工智能集中度风险：世界银行在人工智能相关出口的推动下上调了东亚和太平洋地区的增长预测，同时警告称，该地区对人工智能繁荣的依赖，使其容易受到全球科技支出可能逆转的冲击。；【undefined】Lucid Motors电动汽车产量降至近两年来最低水平：Lucid Motors今年第三季度生产了2954辆电动汽车（EV），同比下降54%。该公司正在有意限制产量，以更好地匹配电动汽车的市场需求。；【undefined】反向工程游戏：关于电子游戏反编译、重新编译、VR、网页及3D移植的所有消息：对于复古游戏而言，这是一个疯狂的时代。得益于对经典游戏的反编译和重新编译，这些游戏正逐渐摆脱专有代码和原始硬件的束缚，被移植到新设备上，或以彻底改变原作的方式进行更新。你是否曾设想过在《使命召唤》中玩滑板？或者直接在网页浏览器中游玩原版《光环》，而且还带有多人游戏功能？；【undefined】Matic 是首款获得 FCC 禁令豁免的扫地机器人，尽管它并不需要这项豁免：关于这一主题的文章将被添加到你的每日电子邮件摘要和主页信息流中。；【undefined】OpenAI将在欧盟开始为ChatGPT生成的文本添加水印：OpenAI周一在一篇博客文章中表示，为遵守欧盟《人工智能法案》，公司将开始为ChatGPT和Codex在欧盟生成的文本添加不可见水印。；【undefined】消息人士称，Etched获融资报价估值超过400亿美元：据熟悉该公司情况的人士透露，距离Etched以210亿美元估值筹得7亿美元仅过去几个月，这家人工智能芯片初创公司已经收到估值至少是当前两倍的投资报价。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261006/deputat-2122518179.html) <span class="news-meta-time">🕒 2026-10-06 15:37</span>
+- [Hugging Face (开源模型社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://huggingface.co/blog/tiiuae/falcon-emirati) <span class="news-meta-time">🕒 2026-10-06 14:44</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html) <span class="news-meta-time">🕒 2026-10-06 15:00</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wyv2mm/moscow_comes_under_largescale_drone_attack/) <span class="news-meta-time">🕒 2026-10-06 14:02</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-california-scientist-nobel-prize-school.html) <span class="news-meta-time">🕒 2026-10-06 14:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261006/deputat-2122518017.html) <span class="news-meta-time">🕒 2026-10-06 15:37</span>
+:::
 :::timeline-item{start="2026-10-05 17:25 (UTC+8)" title="全球要闻情报简报 · 17:25" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-05 17:13 (UTC+8) 完成，共获得 19 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -646,18 +660,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/prisons-uk-organised-crime-good-lads-respectful-pia-sinha) <span class="news-meta-time">🕒 2026-09-22 17:00</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html) <span class="news-meta-time">🕒 2026-09-22 17:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/minoborony-2119483578.html) <span class="news-meta-time">🕒 2026-09-22 18:04</span>
-:::
-:::timeline-item{start="2026-09-22 13:20 (UTC+8)" title="全球要闻情报简报 · 13:20" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-22 13:08 (UTC+8) 完成，共获得 8 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】遭受家庭暴力出逃后被指控拐带子女的英国母亲迎来希望：对《海牙公约》的法律分析可能为逃离海外虐待伴侣的女性带来新的保护 英国母亲在逃离海外家庭暴力后带着子女返回英国，可能因此被指控拐带子女；她们或将获得更有力的法律保护和支持。 英国政府已同意审查家庭暴力在国际儿童诱拐案件中所涉及的情况，旨在为家庭暴力幸存者提供更多帮助，使她们能够应对伴侣要求将子女送返其原籍国的诉求。 在英国，请拨打全国反家庭暴力求助热线0808 2000 247，或访问Women’s Aid网站。在美国，可拨打全国反家庭；【undefined】“大牙刷”崛起：我们的口腔是如何变成一个利润丰厚的市场的？：英国人对口腔健康的关注前所未有——如今，你可以买到益生元牙膏和价格高达600英镑的牙刷。然而，我们仍处于一场严重的牙科危机之中。；【undefined】一根被切断的电缆导致美国各地数百个航班受影响：来自这一主题的帖子将被添加到您的每日新闻摘要和主页信息流中。 查看全部交通运输内容 线路已经修复，但延误仍在持续。 来自这位作者的帖子将被添加到您的每日新闻摘要和主页信息流中。 查看TC·索泰克撰写的全部内容 周一，新泽西州的施工人员意外切断了一根供空中交通管制使用的威瑞森光纤电缆，导致数百个航班被取消或延误。 美国联邦航空管理局局长布莱恩·贝德福德表示，一起电路故障导致人们发现了这根被切断的光纤电缆。据美国广播公司（ABC News）；【undefined】意大利设计：The Italian Lounge第四届活动在上海举行：The Italian Lounge第四届活动在上海落幕。该项目由Edimotion策划并组织，作为第58届中国国际家具展览会（Ciff）的一部分，于9月5日至8日举行。活动汇聚了14个意大利设计、家具、照明、表面材料、家用电器及家居用品品牌，旨在促进意大利与中国之间建立新的联系。参展品牌包括Arflex、Bialetti、Foscarini、Natuzzi Italia、Oluce、Seletti、Smeg、Tabu和Zafferan；【undefined】私人调查员监视自由党部长并向让·纳西夫提供录音设备，反腐委员会听证会获悉：沙恩·德·考威告诉反腐调查机构，他受Toplace律师沙朗甘·马赫斯瓦兰指示调查部长大卫·埃利奥特。；【undefined】OpenAI组建数学顾问组，其人工智能已解决100多个未决问题：周一，OpenAI宣布成立一个新的独立顾问组。该小组设在新泽西州普林斯顿的高等研究院，名为“数学与人工智能顾问组”，旨在让数学家更多地参与该公司以数学为导向的研究。；【undefined】探索未来：距离在TechCrunch Disrupt 2026门票上最高节省200美元仅剩5天：距离在TechCrunch Disrupt 2026门票上最高节省200美元仅剩5天。接下来每一天，我们都会列出一个理由，说明你为什么应该在10月13日至15日前往旧金山莫斯科尼西馆（Moscone West），与1万多名创始人、投资者和企业运营者相聚。；【undefined】macOS 的平铺式窗口管理器 rift：加载时出错。请重新加载此页面。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/bpla-2119419268.html) <span class="news-meta-time">🕒 2026-09-22 13:05</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://status.claude.com/incidents/7g1qpkyz5gxh) <span class="news-meta-time">🕒 2026-09-22 09:05</span>
-- [European Central Bank (欧洲央行官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html) <span class="news-meta-time">🕒 2026-09-22 13:00</span>
-- [The Guardian Society (卫报社会与民生)] [遭受家庭暴力出逃后被指控拐带子女的英国母亲迎来希望](https://www.theguardian.com/society/2026/sep/22/uk-mothers-domestic-abuse-child-abduction) <span class="news-meta-time">🕒 2026-09-22 12:00</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-written-women-studios-money-male.html) <span class="news-meta-time">🕒 2026-09-22 12:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/punkty-2119419129.html) <span class="news-meta-time">🕒 2026-09-22 13:04</span>
 :::
 ::::
