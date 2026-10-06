@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-06 · 今日](/INFO-LIVE/archive-2026-10-06/)
+- [2026-10-07 · 今日](/INFO-LIVE/archive-2026-10-07/)
+- [2026-10-06 · 历史快照](/INFO-LIVE/archive-2026-10-06/)
 - [2026-10-05 · 历史快照](/INFO-LIVE/archive-2026-10-05/)
 - [2026-10-04 · 历史快照](/INFO-LIVE/archive-2026-10-04/)
 - [2026-10-03 · 历史快照](/INFO-LIVE/archive-2026-10-03/)
@@ -47,14 +48,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **107** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **108** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-06 15:51 (UTC+8)
+- **最新归档时间**：2026-10-07 04:31 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-07 04:31 (UTC+8)" title="全球要闻情报简报 · 04:31" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-07 04:25 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】AI计算初创公司Lambda将在拟议IPO前筹资40亿美元：据《华尔街日报》报道，云服务提供商Lambda正以145亿美元的投前估值筹集至多40亿美元，这可能是该公司计划于2027年进行首次公开募股（IPO）前的最后一轮私募融资。Coatue Management和贝莱德集团（Blackstone）牵头本轮融资。；【undefined】一份可持续的网络职业生涯，等这一切过去之后：2026年10月7日，星期三；【undefined】亚马逊上一代 Kindle Paperwhite 直降 30%：称某款产品为“上一代”，通常意味着与最新版本相比，它存在较大的妥协。与其他一些科技产品相比，上一代 Kindle Paperwhite 并非如此。新款打开书籍的速度快了 30%（这与翻页速度不是一回事），铝制机身也薄了 1 毫米——但价格贵了 50 美元。；【undefined】在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型：解压下载文件，然后将 Pared 拖入“应用程序”文件夹。；【undefined】EmbeddingGemma 2：一款开源、轻量级的多模态嵌入模型：EmbeddingGemma 2 是目前能力最强的端侧多模态嵌入模型，能够原生将文本、图像、音频和视频的组合映射到统一的嵌入空间中。 Google DeepMind 研究工程师 Henrique Schechter Vera 您的浏览器不支持音频播放元素。 我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。；【undefined】为什么我们应该采用依赖注入：即时分享代码、笔记和代码片段。；【undefined】法国骚乱蔓延之际马克龙炮轰美式言论自由 网友群嘲：“奇蠢无比”：法国总统埃马纽埃尔·马克龙（Emmanuel Macron）在批评美式言论自由理念并主张自由需要“共同框架”后，引发了强烈的网络抨击——这番言论发表之际，他的政府正面临来自全法范围内的学生抗议、学校封锁以及与防暴警察冲突带来的巨大压力。；【undefined】被搜出逾4000万美元金条的前中情局官员就1.94亿美元欺诈案认罪：联邦检察官透露，一名从中情局挪用近2亿美元联邦政府资金的前高级官员，曾伪造其军旅背景和教育经历，以此在这家情报机构步步晋升。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261006/tramp-2122769313.html) <span class="news-meta-time">🕒 2026-10-07 04:23</span>
+- [TechCrunch (硅谷创业与资本)] [AI计算初创公司Lambda将在拟议IPO前筹资40亿美元](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/) <span class="news-meta-time">🕒 2026-10-07 04:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-07 04:21</span>
+- [Lobste.rs (极客思想社区)] [一份可持续的网络职业生涯，等这一切过去之后](https://dbushell.com/2026/10/07/sustainable-web-career/) <span class="news-meta-time">🕒 2026-10-07 02:29</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-shifting-sensory-cells-insects-visual.html) <span class="news-meta-time">🕒 2026-10-07 04:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261006/samolet-2122769139.html) <span class="news-meta-time">🕒 2026-10-07 04:23</span>
+:::
 :::timeline-item{start="2026-10-06 15:51 (UTC+8)" title="全球要闻情报简报 · 15:51" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-06 15:39 (UTC+8) 完成，共获得 18 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -647,18 +661,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death) <span class="news-meta-time">🕒 2026-09-22 22:43</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-hot-amoeba-tolerance-complex-life.html) <span class="news-meta-time">🕒 2026-09-22 23:00</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2191227) <span class="news-meta-time">🕒 2026-09-22 22:59</span>
-:::
-:::timeline-item{start="2026-09-22 18:08 (UTC+8)" title="全球要闻情报简报 · 18:08" org="ARCHIVE"}
-**速报纪要：** 本时段国际动态涵盖俄乌局势表态、德国地方政局应对讨论、斯里兰卡恐袭历史回顾以及科技巨头Meta面临的安全指控与高层回应。
-
-**关键信号：** 克里姆林宫发言人就乌克兰实现持久和平所需做出的决定作出公开表态。；德国联邦政府就萨克森-安哈尔特州可能出现的极端政党执政前景讨论“联邦强制”手段。；针对有关危害儿童的举报指控，Meta首席执行官扎克伯格的历史反驳与回应立场受到持续关注。
-
-**重点要闻索引：**
-- [Sputnik Globe (官方国际英文电讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://sputnikglobe.com/20260922/ukraine-aware-of-what-decisions-it-must-make-for-sustainable-peace-in-ukraine---kremlin-1124771993.html) <span class="news-meta-time">🕒 2026-09-22 18:04</span>
-- [The Verge (前沿数码科技)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram) <span class="news-meta-time">🕒 2026-09-22 18:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-22 17:23</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/prisons-uk-organised-crime-good-lads-respectful-pia-sinha) <span class="news-meta-time">🕒 2026-09-22 17:00</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html) <span class="news-meta-time">🕒 2026-09-22 17:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/minoborony-2119483578.html) <span class="news-meta-time">🕒 2026-09-22 18:04</span>
 :::
 ::::

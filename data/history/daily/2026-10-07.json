@@ -1,0 +1,1552 @@
+[
+  {
+    "timestamp": 1791318676162,
+    "timeDisplay": "2026-10-07 04:31 (UTC+8)",
+    "date": "2026-10-07",
+    "runId": "feed-20261006T202520629Z-bn1rzp",
+    "generatedAt": "2026-10-06T20:31:16.162Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 04:25",
+      "lead": "本轮抓取于 2026-10-07 04:25 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】AI计算初创公司Lambda将在拟议IPO前筹资40亿美元：据《华尔街日报》报道，云服务提供商Lambda正以145亿美元的投前估值筹集至多40亿美元，这可能是该公司计划于2027年进行首次公开募股（IPO）前的最后一轮私募融资。Coatue Management和贝莱德集团（Blackstone）牵头本轮融资。",
+        "【undefined】一份可持续的网络职业生涯，等这一切过去之后：2026年10月7日，星期三",
+        "【undefined】亚马逊上一代 Kindle Paperwhite 直降 30%：称某款产品为“上一代”，通常意味着与最新版本相比，它存在较大的妥协。与其他一些科技产品相比，上一代 Kindle Paperwhite 并非如此。新款打开书籍的速度快了 30%（这与翻页速度不是一回事），铝制机身也薄了 1 毫米——但价格贵了 50 美元。",
+        "【undefined】在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型：解压下载文件，然后将 Pared 拖入“应用程序”文件夹。",
+        "【undefined】EmbeddingGemma 2：一款开源、轻量级的多模态嵌入模型：EmbeddingGemma 2 是目前能力最强的端侧多模态嵌入模型，能够原生将文本、图像、音频和视频的组合映射到统一的嵌入空间中。 Google DeepMind 研究工程师 Henrique Schechter Vera 您的浏览器不支持音频播放元素。 我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。",
+        "【undefined】为什么我们应该采用依赖注入：即时分享代码、笔记和代码片段。",
+        "【undefined】法国骚乱蔓延之际马克龙炮轰美式言论自由 网友群嘲：“奇蠢无比”：法国总统埃马纽埃尔·马克龙（Emmanuel Macron）在批评美式言论自由理念并主张自由需要“共同框架”后，引发了强烈的网络抨击——这番言论发表之际，他的政府正面临来自全法范围内的学生抗议、学校封锁以及与防暴警察冲突带来的巨大压力。",
+        "【undefined】被搜出逾4000万美元金条的前中情局官员就1.94亿美元欺诈案认罪：联邦检察官透露，一名从中情局挪用近2亿美元联邦政府资金的前高级官员，曾伪造其军旅背景和教育经历，以此在这家情报机构步步晋升。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包未提供文章标题、正文、来源、发布时间或有效引文，无法形成可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息缺失",
+          "analysis": "主文章内容状态为缺失，事实、引语、实体和引用均为空，因此无法判断事件、影响或趋势。"
+        },
+        {
+          "name": "相关线索不足",
+          "analysis": "相关文章仅包含若干待翻译占位标题，缺乏来源与正文；现有少量摘要不足以支撑跨文章归纳或结论。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 84,
+      "completedTasks": 84,
+      "succeeded": 72,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 84,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 355484,
+      "byRole": {
+        "translator": {
+          "attempts": 62,
+          "succeeded": 52,
+          "degraded": 10
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 5,
+          "degraded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 84,
+          "succeeded": 72,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-17-translator-0",
+      "article-34-translator-2",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-3-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:01.225Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.488Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:01.233Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.430Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.662Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.845Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.730Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.963Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.690Z",
+        "lastSuccessAt": "2026-10-06T20:25:04.894Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.614Z",
+        "lastSuccessAt": "2026-10-06T20:25:04.734Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:04.894Z",
+        "lastSuccessAt": "2026-10-06T20:25:05.083Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:01.831Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.038Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.909Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.083Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.859Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.240Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.488Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.859Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.430Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.800Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.162Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.940Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.189Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.662Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:04.734Z",
+        "lastSuccessAt": "2026-10-06T20:25:05.356Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.909Z",
+        "lastSuccessAt": "2026-10-06T20:25:05.158Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:04.560Z",
+        "lastSuccessAt": "2026-10-06T20:25:04.845Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.926Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.325Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.574Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.742Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.544Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.730Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:01.810Z",
+        "lastSuccessAt": "2026-10-06T20:25:01.831Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:00.625Z",
+        "lastSuccessAt": "2026-10-06T20:25:01.810Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.230Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.400Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.104Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.311Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-06T20:25:02.963Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.141Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.271Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.325Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.690Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.923Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.985Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:04.765Z",
+        "lastSuccessAt": "2026-10-06T20:25:06.621Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.240Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.345Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.405Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.562Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.345Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.458Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.562Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.858Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:04.845Z",
+        "lastSuccessAt": "2026-10-06T20:25:05.114Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.742Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.909Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.940Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.614Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.083Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.230Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.458Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.742Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.311Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.767Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-06T20:25:03.294Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:00.623Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.162Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.400Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.909Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:00.624Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.544Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.742Z",
+        "lastSuccessAt": "2026-10-06T20:25:05.781Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.073Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.141Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.038Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.189Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.271Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.294Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.985Z",
+        "lastSuccessAt": "2026-10-06T20:25:03.104Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.767Z",
+        "lastSuccessAt": "2026-10-06T20:25:04.560Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:03.858Z",
+        "lastSuccessAt": "2026-10-06T20:25:04.765Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.845Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.926Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:02.800Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.923Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:00.612Z",
+        "lastSuccessAt": "2026-10-06T20:25:01.233Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:00.622Z",
+        "lastSuccessAt": "2026-10-06T20:25:01.225Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-06T20:25:00.623Z",
+        "lastSuccessAt": "2026-10-06T20:25:02.574Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-06-tramp-2122769313-html-9b4131af1d2270e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп заявил, что работает над урегулированием конфликта на Украине",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T20:23:14.000Z",
+        "pubTime": "2026-10-07 04:23",
+        "url": "https://ria.ru/20261006/tramp-2122769313.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 04:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/tramp-2122769313.html",
+            "publishedAt": "2026-10-06T20:23:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--4b-ahead-of-planned-ipo-170c70f0f66eeaa2",
+        "title": "AI计算初创公司Lambda将在拟议IPO前筹资40亿美元",
+        "originalTitle": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:00:30.000Z",
+        "pubTime": "2026-10-07 04:00",
+        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "imageUrl": null,
+        "fullContent": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round.\n\nA letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, much of that increase appears to be driven by a $35 billion commitment from one company: Anthropic, which signed a deal with Lambda in late August.\n\nThat means Lambda’s valuation, which has climbed significantly since its 2025 funding round, could be leaning heavily on Anthropic’s ability to keep paying. Still, with reliable GPU capacity so scarce, investors are clearly still willing to bet on companies that provide it, especially ones with large contracts with a major AI lab.\n\nFor neoclouds like Lambda, demand isn’t so much the problem as is the cost of meeting it. Data center buildouts are largely funded by debt — of which Lambda just raised an additional $1 billion last week — and lenders are getting choosier about who they offer cash to and under what circumstances. Lambda’s decision to raise more now not only sets the tone for its IPO pricing, but also gives it access to more capital before the scrutiny of public markets arrives.\n\nIf and when Lambda does IPO — the company was reportedly meant to debut this year, but has pushed that back amid market uncertainty — it will join other Nvidia-backed neoclouds, like CoreWeave and Nebius, that now depend on the health of their stock to fund their data center buildouts. British neocloud Nscale filed for an IPO last month and is expected to begin trading soon.\n\nLambda, Coatue, and Blackstone did not immediately respond to a request for comment.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "据《华尔街日报》报道，云服务提供商Lambda正以145亿美元的投前估值筹集至多40亿美元，这可能是该公司计划于2027年进行首次公开募股（IPO）前的最后一轮私募融资。Coatue Management和贝莱德集团（Blackstone）牵头本轮融资。\n\n《华尔街日报》查阅的一封致投资者信显示，Lambda的积压订单金额从6月的150亿美元增至9月的500亿美元。虽然这看起来像是需求大幅增长，但其中相当一部分增幅似乎来自一家公司的350亿美元承诺：Anthropic于8月底与Lambda签署了一项协议。\n\n这意味着，自2025年融资以来估值已大幅攀升的Lambda，其估值可能严重依赖Anthropic持续付款的能力。不过，鉴于可靠的GPU算力供应极其稀缺，投资者显然仍愿意押注提供这类算力的公司，尤其是那些与大型人工智能实验室签有大额合同的公司。\n\n对于Lambda这类新型云服务商而言，需求本身与满足需求的成本相比，并不是更大的问题。数据中心建设在很大程度上依靠债务融资，而Lambda上周刚刚额外筹集了10亿美元债务；放贷方也越来越谨慎，开始挑选向哪些对象、在什么情况下提供资金。Lambda此时决定进一步融资，不仅为其IPO定价定下基调，也让公司能够在公开市场审视到来之前获得更多资本。\n\n如果Lambda最终进行IPO——据报道，该公司原计划今年上市，但因市场不确定性而推迟——它将加入其他由英伟达支持的新型云服务商行列，例如CoreWeave和Nebius。这些公司如今都依赖自身股票的表现，为数据中心建设提供资金。英国新型云服务商Nscale上月提交了IPO申请，预计很快开始交易。\n\nLambda、Coatue和贝莱德集团未立即回应置评请求。\n\n第二张票享受五折优惠\nThe Disrupt体验旨在与他人共享。购买您的入场券，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的下一步，拓展您的视野。\n\n每个工作日和周日，您都可以获取TechCrunch报道中的精华内容。\n\nTechCrunch Mobility是您获取交通领域新闻与洞察的平台。\n\n初创企业是TechCrunch报道的核心，订阅后每周获取我们最精彩的报道。\n\n为业界活跃人士提供开启一天所需的信息。\n\n提交电子邮件即表示您同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Lambda正在筹集最多40亿美元，投前估值为145亿美元。",
+          "Coatue Management和Blackstone领投该轮融资。",
+          "来源叙事重点：聚焦AI算力云服务商Lambda拟以145亿美元估值融资40亿美元的IPO前轮融资，深入分析其订单暴增背后对单一客户Anthropic的重度依赖，以及算力基础设施公司面临的重资产借贷与资本开支风险"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T20:00:30.000Z",
+            "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+          }
+        ]
+      },
+      {
+        "id": "story--a-better-story-57fbbf23-0823fa31a80da4a4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:21:00.000Z",
+        "pubTime": "2026-10-07 04:21",
+        "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 04:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-06T20:21:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-7-sustainable-web-career-49ae93f0c5dc5363",
+        "title": "一份可持续的网络职业生涯，等这一切过去之后",
+        "originalTitle": "A sustainable web career, for when all this blows over",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T18:29:11.000Z",
+        "pubTime": "2026-10-07 02:29",
+        "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+        "imageUrl": null,
+        "fullContent": "Wednesday 7 Oct 2026\n\nFor better or worse the web industry is going through a bit of a phase. The reasons are largely irrational. People still need the web, nothing has changed there. Regardless, the financials of this business are a struggle. Longterm career prospects are looking dicey.\n\nBecause I openly reject the driving force intent on destroying my profession, and ruffle a few feathers doing so, I often get asked privately for advice from like-minded peers. I can only offer an uninspired but sensible reply: don’t quit a paying job without a fallback. Go to the Winchester, have a nice cold pint, and wait for all of this to blow over.\n\nCharacters from Shaun of the Dead (2004) enjoying drinks in the Winchester pub. Simon Pegg's character is holding a pint in a cheers pose and is winking at the camera.\n\nI’m confident the situation will improve. Before it does, what can we focus on to accelerate past the intellectual slump, and better position ourselves once things calm down?\n\nFor a sustainable web career, where better to look than critical skills in desperately short supply? My focus is on front-end development, but these areas of knowledge are relevant to anyone in the business of making websites.\n\nAccessibility has always been a foundation of web development but it’s never been more critical for everyone to champion it. Understand why accessibility is for everyone. Learn how to talk about accessibility in respect to real needs and practical implementation.\n\nAccessibility has unfortunately become a virtue signal for certain tech groups. (I’m told LinkedIn is rife with misinformation.) Accessibility is not a feature that can be tacked on to a website like garnish. Accessibility issues can’t be fixed with an automated process at the end. Web professionals must be able to counter this mindset by respecting accessibility in all decisions from day one.\n\nLearn and adopt the guidelines as your baseline. Speak to and test with real people. Defer to specialists who are eager for you to understand the realities.\n\nCSS is the most vibrant and evolving of the front-end standards. To architecture a good stylesheet takes deep understanding of the language features. Newer features like cascade layers and selectors that reduce specificity make this much easier.\n\nCSS has always been equipped to handle well organised styles, but developers who refuse to learn and respect the language have sought to push complexity elsewhere, using simplified abstractions or “CSS-in-JS” solutions. These are inherently limiting, lead to poor performance, and don’t actually solve the problems they claim.\n\nCommunication is a “soft skill” in short supply (for obvious reasons). It’s a great skill if you wish to stand out as an expert, or simply be heard amongst the noise. Learn brevity and focus on important points. Don’t be afraid to ask questions.\n\nAddress concerns tactfully and early before they escalate. Don’t point fingers, but “cover your ass” — everyone on a project should be working towards the same goal, but some may be misguided in their approach. Remain positive and don’t meet negativity head-on.\n\nIf you can communicate well you’ll be highly respected in your role.\n\nYou probably weren’t expecting this one, but here we are.\n\nThe luxury of not “getting political” has abated. Far-right political ideology is on the rise and dormant hatred is waking up in tech. The epicentre of fash-tech is Musk’s “X” with people like David Heinemeier Hansson spewing racism and abusing authority in communities to push an agenda, and Guillermo Rauch taking a selfie with a war criminal. Large tech giants like Digital Ocean are funding this power grab. Be wary of those denying this threat.\n\nIf you want to avoid being pushed away from this industry, recognise and reject fascism before it comes for you. Don’t stay silent.\n\nI’ve covered topics that’ll see us well for the future, but what should we forget?\n\nFacebook’s experiment turned cargo cult is a legacy framework that still lingers, but there’s no reason to learn it today. React has entrenched itself as a lingua franca of code extruders. React code is generated faster than any human can possibly read it. Suffice it to say that despite stale job vacancies still demanding experience, React is not worth investing time. The days of high-paying React development are numbered.\n\nGitHub is now a liability. For private repositories use self-hosted git forges. I’d recommend Forgejo. One of the many Tailscale-like services is an easy way to gate remote access. Don’t make stuff public for the dead internet to attack! For CI/CD go local too, or use independent services not tied to tech giants. Take the time to learn basic git commands. A little technical and infrastructure knowledge goes a long way.\n\nThese people are handsome, charismatic, highly personable. I’m talking about: developer relations, youtubers, start-up founders, etc. When the tech industry met us halfway, influencers were entertaining and a good chinwag at after parties. Now the game has changed and we should not allow false narratives to dominate and dictate a closed-web future. Normal people still use the web. Incredibly few can afford to pay for the novelties that influencers peddle. Their attention economy is no longer our concern.\n\nSo that’s my focus for a sustainable web career, when all this blows over.\n\nRemember that above all else: the web is a human creation for human needs. Those needs are not going anywhere. Drop the dead weight accumulated in times of prosperity. Go back to basics and position yourself well for when professional demand returns.\n\nAll opinions are my own and not those of a large language model. Everything I write is one hundred percent human. Because I care!\n\nI founded Valley Fold to help you, so let’s make your website happen. Whether you have requirements scoped or you’re lost for ideas, we can work with you at any stage.",
+        "fullTranslation": "2026年10月7日，星期三\n\n不管是好是坏，网络行业正经历一个阶段。原因在很大程度上是不理性的。人们仍然需要网络，这一点没有任何改变。然而，这门生意的财务状况举步维艰，长期职业前景也显得不容乐观。\n\n由于我公开反对那股意图摧毁我所从事职业的力量，并因此得罪了一些人，我经常会私下收到志同道合同行的求建议。我只能给出一个不太振奋、但很实际的回答：不要在没有退路的情况下辞掉一份有收入的工作。去温彻斯特酒吧，喝上一杯冰啤酒，等这一切过去吧。\n\n《僵尸肖恩》（2004年）中的人物在温彻斯特酒吧喝酒。西蒙·佩吉饰演的角色举着一品脱啤酒，做出干杯的姿势，并朝镜头眨眼。\n\n我相信情况会好转。在那之前，我们能专注于什么，来加速走出这场智力低迷，并在一切平静下来后让自己处于更有利的位置？\n\n要想拥有一份可持续的网络职业生涯，还有什么地方会比那些极度短缺的关键技能更值得关注？我关注的是前端开发，但这些知识领域与所有从事网站制作的人都有关。\n\n无障碍一直是网络开发的基础，但它从未像现在这样需要每个人积极倡导。理解为什么无障碍服务于所有人。学会如何围绕真实需求和实际实施来讨论无障碍。\n\n遗憾的是，无障碍已经成了某些科技群体用来表达立场的工具。（有人告诉我，LinkedIn上充斥着错误信息。）无障碍不是可以像装饰一样，在网站上最后临时添加的一项功能。无障碍问题无法在最后通过自动化流程解决。网络从业者必须从第一天起就在所有决策中尊重无障碍，以此对抗这种思维方式。\n\n学习并采纳相关指南，把它们作为你的基准。与真实的人交流并进行测试。对于那些愿意让你了解现实情况的专业人士，应当听取他们的意见。\n\nCSS是前端标准中最有活力、发展最快的一项。要设计出良好的样式表架构，需要深入理解这门语言的特性。级联层以及能够降低特异性的选择器等新特性，让这件事变得容易得多。\n\nCSS一直具备处理组织良好样式的能力，但一些拒绝学习和尊重这门语言的开发者，试图使用简化抽象或“CSS-in-JS”等方案，把复杂性转移到别处。这些方案本质上存在局限，会导致性能不佳，而且实际上并没有解决它们声称要解决的问题。\n\n沟通是一项供不应求的“软技能”（原因显而易见）。如果你希望以专家身份脱颖而出，或者只是在嘈杂的环境中让别人听见你，这是一项很棒的技能。学会简洁，专注于重要的观点。不要害怕提问。\n\n以恰当的方式尽早处理疑虑，避免事态升级。不要相互指责，但要“保护好自己”——项目中的每个人都应朝着同一个目标努力，只是有些人采用的方法可能存在偏差。保持积极，不要正面迎击消极情绪。\n\n如果你善于沟通，就会在自己的岗位上受到高度尊重。\n\n你可能没想到这一点，但我们确实要谈谈它。\n\n“不谈政治”的特权已经不复存在。极右翼政治意识形态正在抬头，科技行业中沉睡的仇恨也在苏醒。法西斯科技的中心是马斯克的“X”；David Heinemeier Hansson等人在那里散播种族主义，并在社区中滥用权力来推动某种议程；而Guillermo Rauch则与一名战争罪犯自拍。DigitalOcean等大型科技巨头正在为这场夺权行动提供资金。对于那些否认这一威胁的人，要保持警惕。\n\n如果你不想被迫离开这个行业，就要在法西斯主义找上你之前认清并拒绝它。不要保持沉默。\n\n我已经谈到了有助于我们应对未来的话题，但我们应该忘掉什么？\n\nFacebook的实验如今已变成一种货物崇拜式的遗留框架，但今天已经没有理由再学习它。React已经牢牢确立为代码生产者之间的通用语。React代码的生成速度，快到任何人都不可能读完。简单地说，尽管过时的招聘信息仍然要求相关经验，但React不值得投入时间。高薪React开发的日子已经屈指可数。\n\nGitHub如今成了一项负担。对于私有代码仓库，请使用自托管的Git代码托管平台。我推荐Forgejo。许多类似Tailscale的服务都可以轻松控制远程访问。不要把东西公开，任由死互联网来攻击！CI/CD也采用本地方案，或者使用不隶属于科技巨头的独立服务。花时间学习基本的Git命令。一点技术和基础设施知识，就能带来很大帮助。\n\n这些人外表英俊、魅力十足、非常善于与人交往。我说的是：开发者关系从业者、YouTuber、初创公司创始人等。过去，科技行业愿意与我们各让一步时，影响者很有娱乐性，在派对后的聚会中聊上几句也很愉快。现在游戏规则变了，我们不应允许虚假叙事主导一切，并决定一个封闭网络的未来。普通人仍在使用网络。能负担影响者兜售的新奇玩意儿的人少之又少。他们所处的注意力经济已不再是我们需要关心的事。\n\n这就是我对可持续网络职业生涯的关注重点，等这一切过去之后。\n\n请牢记最重要的一点：网络是人类为满足人类需求而创造的。这些需求不会消失。丢掉在繁荣时期积累下来的沉重负担。回归基础，为职业需求回归之时做好准备。\n\n所有观点仅代表我个人，不代表任何大型语言模型。我写下的一切百分之百出自人类之手。因为我在乎！\n\n我创办了Valley Fold，就是为了帮助你，所以让我们一起实现你的网站吧。无论你已经明确了需求，还是完全没有头绪，我们都可以在任何阶段与你合作。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 25,
+        "keyTakeaways": [
+          "文章原文标题为《A sustainable web career, for when all this blows over》。",
+          "文章页面显示日期为2026年10月7日，来源标注为Lobste.rs（极客思想社区）。",
+          "来源叙事重点：倡导在Web开发行业低谷期回归基础技术（Web无障碍、原生CSS、人际沟通），抵制大厂技术垄断、中心化平台（GitHub、React）与极右翼技术意识形态，构建可持续的职业发展路径。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T18:29:11.000Z",
+            "url": "https://dbushell.com/2026/10/07/sustainable-web-career/"
+          }
+        ]
+      },
+      {
+        "id": "story-ells-insects-visual-html-5af53627a91079eb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shape-shifting sensory cells may help insects process visual information with less delay",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:20:12.000Z",
+        "pubTime": "2026-10-07 04:20",
+        "url": "https://phys.org/news/2026-10-shifting-sensory-cells-insects-visual.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/shape-shifting-brain-c.jpg",
+        "fullContent": "Anyone who has ever tried and failed to swat a fly has experienced the speed of a tiny nervous system. Now, a new review brings together evidence that its secret lies partly in microscopic movements and shape changes within sensory cells and neurons, challenging conventional views of how brains process information.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 04:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-shifting-sensory-cells-insects-visual.html",
+            "publishedAt": "2026-10-06T20:20:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--samolet-2122769139-html-f748e8a752fce204",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Тихом океане ученые ищут пропавший самолет Амелии Эрхарт",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T20:23:00.000Z",
+        "pubTime": "2026-10-07 04:23",
+        "url": "https://ria.ru/20261006/samolet-2122769139.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 04:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/samolet-2122769139.html",
+            "publishedAt": "2026-10-06T20:23:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hite-prime-day-deal-sale-c42d7dbbbff6374a",
+        "title": "亚马逊上一代 Kindle Paperwhite 直降 30%",
+        "originalTitle": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:00:00.000Z",
+        "pubTime": "2026-10-07 04:00",
+        "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed), and its aluminum design is a millimeter thinner — but it costs $50 more .\n\nThe 2024 edition has the same fantastic 300ppi screen, an auto-adjusting front light, and waterproof (IPX8) design. And the Signature Edition that’s discounted has no lockscreen ads, twice the storage (32GB) of the base model, plus wireless charging and an ambient light sensor, and it’s down to $169.99 (originally $249.99) at Amazon .\n\nKindle Paperwhite Signature Edition\n\nThe premium Kindle Paperwhite Signature Edition offers the same design and performance as the standard model but with more storage and support for wireless charging.\n\n$249.99 $169.99 at Amazon\n\n$249.99 $169.99 at Best Buy\n\n$249.99 $169.99 at Target\n\nThe standard Paperwhite is $149.99 (was $199.99) at Amazon , and while the lower price is nice, I’d suggest only opting for that model if you’re alright with what you’re giving up (which is a lot): it has half the storage, no wireless charging, and lockscreen ads.",
+        "fullTranslation": "称某款产品为“上一代”，通常意味着与最新版本相比，它存在较大的妥协。与其他一些科技产品相比，上一代 Kindle Paperwhite 并非如此。新款打开书籍的速度快了 30%（这与翻页速度不是一回事），铝制机身也薄了 1 毫米——但价格贵了 50 美元。\n\n2024 款拥有同样出色的 300ppi 屏幕、自动调节前光以及具备防水性能（IPX8）的设计。此外，目前正在打折的 Signature Edition 没有锁屏广告，存储空间是基础版的两倍（32GB），还支持无线充电并配备环境光传感器。目前在亚马逊售价降至 169.99 美元（原价 249.99 美元）。\n\nKindle Paperwhite Signature Edition\n\n高端 Kindle Paperwhite Signature Edition 采用与标准版相同的设计和性能，但拥有更大的存储空间，并支持无线充电。\n\n亚马逊：249.99 美元，现价 169.99 美元\n百思买：249.99 美元，现价 169.99 美元\n塔吉特：249.99 美元，现价 169.99 美元\n\n标准版 Paperwhite 在亚马逊售价 149.99 美元（原价 199.99 美元）。虽然价格更低很不错，但我建议只有在你能接受需要放弃的功能（而且还不少）的情况下，才选择这一型号：它的存储空间减半、不支持无线充电，并带有锁屏广告。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Kindle Paperwhite 签名版在亚马逊的售价从 249.99 美元降至 169.99 美元。",
+          "Kindle Paperwhite 签名版在 Best Buy 和 Target 的售价亦降至 169.99 美元（原价 249.99 美元）。",
+          "来源叙事重点：强调上一代 Kindle Paperwhite 相比新款溢价产品具有极高性价比，并在横向对比中极力主推配置更全、降价幅度更大的签名版，淡化代际性能升级的实际必要性。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T20:00:00.000Z",
+            "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-for-trouble-6a52e04e-fbcdc84ab719fec2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:15:00.000Z",
+        "pubTime": "2026-10-07 04:15",
+        "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“People in the U.S. need to wake up.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 04:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-06T20:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4evy-pared-e00b9b1fbb0aec85",
+        "title": "在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型",
+        "originalTitle": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T18:27:16.000Z",
+        "pubTime": "2026-10-07 02:27",
+        "url": "https://github.com/4evy/pared",
+        "imageUrl": null,
+        "fullContent": "Unzip the download and drag Pared to Applications.\n\nPrefer the terminal? Run this to open the setup wizard:\n\nRequires Apple silicon and macOS 27 or newer. No Xcode or Homebrew needed.\n\nWebsite · Documentation · More install options\n\nChoose which Apple Intelligence features stay on your Mac, then remove models you no longer need. Pared includes a native app, terminal wizard, and Nix modules. System Integrity Protection stays enabled.\n\nKeep Writing Tools, turn off Genmoji, or switch everything off. Pared keeps shared models needed by features in its catalog that you leave on or unmanaged.\n\nWant a feature back? Turn it on, install the updated profile, then request its models in Pared. For features Pared can’t download directly, use their Apple app.\n\nOpen Pared or run pared wizard. Opening either changes nothing; feature choices stay in a draft until you save.\n\nSee the app manual or command-line guide for setup and commands.\n\nUse the nix-darwin or Home Manager module to manage your choices. Both remove eligible models during activation by default; set programs.pared.cleanupOnActivation = false; to opt out. Install the generated profile in System Settings to block future downloads.\n\nSee the Nix setup guide and option reference.\n\nWith Xcode 27 or newer, run from this checkout:\n\nFor CLI and offline installation, see the command-line guide.\n\nPared uses Apple’s asset service to remove models. Read how profiles and model removal work for the implementation and compatibility limits.\n\nRemove unwanted Apple Intelligence models without disabling SIP. CLI, nix-darwin, and Home Manager support.",
+        "fullTranslation": "解压下载文件，然后将 Pared 拖入“应用程序”文件夹。\n\n更喜欢使用终端？运行以下命令以打开设置向导：\n\n需要 Apple 芯片和 macOS 27 或更高版本。无需 Xcode 或 Homebrew。\n\n网站 · 文档 · 更多安装选项\n\n选择要保留在 Mac 上的 Apple Intelligence 功能，然后移除不再需要的模型。Pared 提供原生应用、终端向导和 Nix 模块。系统完整性保护（SIP）保持启用状态。\n\n保留“写作工具”、关闭 Genmoji，或全部关闭。对于目录中已启用或未托管的功能，Pared 会保留这些功能所需的共享模型。\n\n想恢复某项功能？将其启用，安装更新后的配置文件，然后在 Pared 中请求该功能所需的模型。对于 Pared 无法直接下载的功能，请使用对应的 Apple 应用。\n\n打开 Pared 或运行 pared wizard。无论采取哪种方式，打开操作都不会立即更改任何内容；在保存之前，功能选择会一直保留在草稿中。\n\n有关设置和命令，请参阅应用手册或命令行指南。\n\n使用 nix-darwin 或 Home Manager 模块管理你的选择。默认情况下，两者都会在激活期间移除符合条件的模型；如需退出此行为，可设置 programs.pared.cleanupOnActivation = false;。将生成的配置文件安装到“系统设置”中，以阻止今后的下载。\n\n请参阅 Nix 设置指南和选项参考。\n\n使用 Xcode 27 或更高版本时，请从此代码检出目录运行：\n\n有关 CLI 和离线安装的信息，请参阅命令行指南。\n\nPared 使用 Apple 的资源服务来移除模型。有关配置文件和模型移除的工作方式，以及实现细节和兼容性限制，请参阅相关说明。\n\n在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型。支持 CLI、nix-darwin 和 Home Manager。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "来源叙事重点：介绍 Pared 工具的技术实现与使用方法，强调在不关闭 macOS 系统完整性保护（SIP）的前提下，实现对 Apple Intelligence 本地模型的选择性卸载与磁盘空间控制。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T18:27:16.000Z",
+            "url": "https://github.com/4evy/pared"
+          }
+        ]
+      },
+      {
+        "id": "story-ic-partner-suddenly-html-c384cdd4d2a4714d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The ick: The psychology of why a romantic partner can suddenly repulse you",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:20:01.000Z",
+        "pubTime": "2026-10-07 04:20",
+        "url": "https://phys.org/news/2026-10-ick-psychology-romantic-partner-suddenly.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/romantic-partner.jpg",
+        "fullContent": "Ever felt a sudden wave of cringe toward someone you were into—all because they wore questionable shoes or chewed a bit too loudly? Congratulations, you've caught \"the ick.\"",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 04:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-ick-psychology-romantic-partner-suddenly.html",
+            "publishedAt": "2026-10-06T20:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-6-harkov-2122768991-html-ef4ea98a83b11450",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Харькове прогремел взрыв",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T20:22:44.000Z",
+        "pubTime": "2026-10-07 04:22",
+        "url": "https://ria.ru/20261006/harkov-2122768991.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 04:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/harkov-2122768991.html",
+            "publishedAt": "2026-10-06T20:22:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ltimodal-embedding-model-c11a83f73b42d756",
+        "title": "EmbeddingGemma 2：一款开源、轻量级的多模态嵌入模型",
+        "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "source": "Google DeepMind (AI前沿研究)",
+        "sourceSlug": "deepmind",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T19:57:04.000Z",
+        "pubTime": "2026-10-07 03:57",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "imageUrl": null,
+        "fullContent": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.\n\nResearch Engineer, Google DeepMind\n\nHenrique Schechter Vera\n\nYour browser does not support the audio element.\n\nWe introduced EmbeddingGemma last year to provide a lightweight option for high-quality text embeddings, to help your apps organize, search, and connect information directly on consumer hardware. The developer community’s response blew past our expectations. With more than 20 million downloads, builders have used it to power smarter on-device search tools and privacy-first retrieval augmented generation (RAG) pipelines.Today, we’re launching EmbeddingGemma 2, expanding beyond text to unify code, images, video, and audio in a shared embedding space. Built on the Gemma 4 architecture and released under a commercially permissive Apache 2.0 license, EmbeddingGemma 2 has 740 million parameters, making it optimal for on-device inference. It can help find a specific video clip from a voice memo, or search through hours of audio recordings based on a text query, all processed by a single, natively multimodal model.\n\nWe introduced EmbeddingGemma last year to provide a lightweight option for high-quality text embeddings, to help your apps organize, search, and connect information directly on consumer hardware. The developer community’s response blew past our expectations. With more than 20 million downloads, builders have used it to power smarter on-device search tools and privacy-first retrieval augmented generation (RAG) pipelines.\n\nToday, we’re launching EmbeddingGemma 2, expanding beyond text to unify code, images, video, and audio in a shared embedding space. Built on the Gemma 4 architecture and released under a commercially permissive Apache 2.0 license, EmbeddingGemma 2 has 740 million parameters, making it optimal for on-device inference. It can help find a specific video clip from a voice memo, or search through hours of audio recordings based on a text query, all processed by a single, natively multimodal model.\n\nBuilt from the same technology as Gemini Embedding models, EmbeddingGemma 2 is:Best-in-class for its size: Achieves leading scores among sub-1B multimodal embedders for its size across benchmarks like MTEB (Massive Text Embedding Benchmark) Code and MAEB (Massive Audio Embedding Benchmark), while matching or outperforming many larger models across text, vision, and audio tasks.Modular by design: Requires as little as 270M parameters for text-only workloads with optional vision (170M) and audio (300M) encoders for full multimodal support.Storage-efficient: Using Matryoshka Representation Learning (MRL), developers can dynamically truncate output vectors from 768 dimensions down to 512, 256, or 128 dimensions. This provides up to 6x storage reduction for local vector databases and memory usage.Optimized for on-device performance: Runs efficiently within tight resource constraints. With quantization, on a Google Pixel 11 Pro, EmbeddingGemma 2 requires as little as ~191MB active RAM for text-only weights and ~567MB for the full multimodal model.Extended context ready: Features an 8K token context window (4x larger than EmbeddingGemma 1), allowing it to process up to 5.5 minutes of audio, 29 images, 58 video frames, or interleaved combinations thereof directly on local hardware.\n\nBuilt from the same technology as Gemini Embedding models, EmbeddingGemma 2 is:\n\nAchieving top-tier quality for code, vision, and audioEmbeddingGemma 2 matches the strong multilingual text performance of EmbeddingGemma while delivering a significant 9.92-point improvement on code performance (in MTEB Code, from 68.76 to 78.68), making it well-suited for local codebase indexing, semantic code search, and coding agent retrieval. Across image, video, documents, and audio, it sets a new standard in quality-per-parameter for sub-1B models and even outperforms some specialist models more than twice its size.\n\nEmbeddingGemma 2 matches the strong multilingual text performance of EmbeddingGemma while delivering a significant 9.92-point improvement on code performance (in MTEB Code, from 68.76 to 78.68), making it well-suited for local codebase indexing, semantic code search, and coding agent retrieval. Across image, video, documents, and audio, it sets a new standard in quality-per-parameter for sub-1B models and even outperforms some specialist models more than twice its size.\n\nFind full evaluation metrics and model information in the EmbeddingGemma 2 model card.\n\nEnabling semantic search, routing, and retrieval, fully on-deviceEmbeddingGemma 2 brings robust capabilities directly to edge hardware. Generating embeddings locally helps ensure data privacy, reduces pipeline latency, and empowers developers to build cross-modal search and retrieval that works entirely offline.When paired with generative models such as Gemma 4, EmbeddingGemma 2 enables on-device RAG pipelines that understand complex multimodal data. Because EmbeddingGemma 2 is built on Gemma 4 and shares its text tokenizer and audio encoder, developers can run both models together in a unified pipeline with a lower combined total memory footprint.\n\nEmbeddingGemma 2 brings robust capabilities directly to edge hardware. Generating embeddings locally helps ensure data privacy, reduces pipeline latency, and empowers developers to build cross-modal search and retrieval that works entirely offline.\n\nWhen paired with generative models such as Gemma 4, EmbeddingGemma 2 enables on-device RAG pipelines that understand complex multimodal data. Because EmbeddingGemma 2 is built on Gemma 4 and shares its text tokenizer and audio encoder, developers can run both models together in a unified pipeline with a lower combined total memory footprint.\n\nUse text or an image to find the top matches in your media library based on semantic similarity. Try it in Google AI Edge Gallery’s Instant Media Search.\n\nLocate specific moments in video using text or audio queries. Try it in Google AI Edge Gallery’s Video Moments Finder.\n\nPair EmbeddingGemma 2 for local file retrieval with Gemma 4 for contextual reasoning. Try it in the Google AI Edge Foresight app.\n\nCreate real-time decision engines leveraging multimodal context for classification, routing, and predictive capabilities via the MediaPipe Decision Task API.\n\nTo learn how to build on-device search and RAG systems with LiteRT, read the Google AI Edge blog post.\n\nGetting started with EmbeddingGemma 2We worked closely with the following partners to ensure EmbeddingGemma 2 works immediately where you build:Download the models: Find the model weights on Hugging Face and Kaggle, with Gemini Enterprise Agent Platform Model Garden availability coming soon. Visit LiteRT Community on Hugging Face for models optimized for on-device.On-device deployment: Develop cross-platform apps with Google AI Edge MediaPipe for turnkey embedding, retrieval & decision tasks or LiteRT for custom model integration. Build for the browser with transformers.js or WebGPU.Use your favorite development tools: Serve the model efficiently using transformers, sentence-transformers, MLX, vLLM, llama.cpp, SGLang, Ollama, and LMStudio. Store your embedding vectors with Qdrant.Fine-tuning: Follow guidance by Unsloth for how to fine-tune EmbeddingGemma 2 for your use cases.Explore our developer guide, documentation, and guides for inference and fine-tuning.\n\nWe worked closely with the following partners to ensure EmbeddingGemma 2 works immediately where you build:\n\nExplore our developer guide, documentation, and guides for inference and fine-tuning.",
+        "fullTranslation": "EmbeddingGemma 2 是目前能力最强的端侧多模态嵌入模型，能够原生将文本、图像、音频和视频的组合映射到统一的嵌入空间中。\nGoogle DeepMind 研究工程师\nHenrique Schechter Vera\n您的浏览器不支持音频播放元素。\n我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。凭借超过2000万次的下载量，构建者们已将其用于驱动更智能的端侧搜索工具以及注重隐私的检索增强生成（RAG）流程。今天，我们正式发布 EmbeddingGemma 2，在文本之外进一步扩展，将代码、图像、视频和音频统一在共享的嵌入空间中。EmbeddingGemma 2 基于 Gemma 4 架构构建，并采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数，非常适合端侧推理。它可以帮助用户通过语音备忘录查找特定视频片段，或根据文本查询在数小时的录音中进行检索，所有处理均由单个原生多模态模型完成。\n我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。凭借超过2000万次的下载量，构建者们已将其用于驱动更智能的端侧搜索工具以及注重隐私的检索增强生成（RAG）流程。\n今天，我们正式发布 EmbeddingGemma 2，在文本之外进一步扩展，将代码、图像、视频和音频统一在共享的嵌入空间中。EmbeddingGemma 2 基于 Gemma 4 架构构建，并采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数，非常适合端侧推理。它可以帮助用户通过语音备忘录查找特定视频片段，或根据文本查询在数小时的录音中进行检索，所有处理均由单个原生多模态模型完成。\n基于与 Gemini 嵌入模型相同的技术构建，EmbeddingGemma 2 具有以下特点：在同等体量中表现最佳：在 MTEB（海量文本嵌入基准）Code 和 MAEB（海量音频嵌入基准）等基准测试中，在 10 亿参数以下的多模态嵌入模型中取得了领先分数，同时在文本、视觉和音频任务上匹敌或超越了许多更大的模型。模块化设计：仅纯文本工作负载仅需低至 2.7 亿参数，并配备可选的视觉（1.7 亿）和音频（3 亿）编码器以实现完整的全模态支持。高存储效率：利用俄罗斯套娃表示学习（MRL），开发者可以将输出向量维度从 768 维动态截断至 512、256 或 128 维。这为本地向量数据库和内存占用提供了高达 6 倍的存储缩减。针对端侧性能优化：在严格的资源限制下高效运行。通过量化，在 Google Pixel 11 Pro 上，EmbeddingGemma 2 的纯文本权重仅需约 191MB 的活动 RAM，完整多模态模型仅需约 567MB。支持扩展上下文：具备 8K token 的上下文窗口（是 EmbeddingGemma 1 的 4 倍），使其能够直接在本地硬件上处理长达 5.5 分钟的音频、29 张图像、58 帧视频，或它们的交错组合。\n基于与 Gemini 嵌入模型相同的技术构建，EmbeddingGemma 2 具有以下特点：\n在代码、视觉和音频方面达到顶尖品质。EmbeddingGemma 2 保持了 EmbeddingGemma 强大的多语言文本性能，同时在代码性能上实现了 9.92 分的显著提升（在 MTEB Code 中从 68.76 分升至 78.68 分），非常适合本地代码库索引、语义代码搜索和代码智能体检索。在图像、视频、文档和音频领域，它树立了 10 亿参数以下模型“每参数质量”的新标杆，甚至超越了体积为其两倍以上的某些专用模型。\nEmbeddingGemma 2 保持了 EmbeddingGemma 强大的多语言文本性能，同时在代码性能上实现了 9.92 分的显著提升（在 MTEB Code 中从 68.76 分升至 78.68 分），非常适合本地代码库索引、语义代码搜索和代码智能体检索。在图像、视频、文档和音频领域，它树立了 10 亿参数以下模型“每参数质量”的新标杆，甚至超越了体积为其两倍以上的某些专用模型。\n在 EmbeddingGemma 2 模型卡片中可查看完整评测指标及模型信息。\n完全在端侧实现语义搜索、路由与检索。EmbeddingGemma 2 直接为边缘硬件带来强大能力。在本地生成嵌入有助于确保数据隐私、降低流程延迟，并使开发者能够构建完全离线运行的跨模态搜索和检索系统。当与 Gemma 4 等生成模型搭配使用时，EmbeddingGemma 2 能够实现理解复杂多模态数据的端侧 RAG 流程。由于 EmbeddingGemma 2 基于 Gemma 4 构建并共享其文本分词器及音频编码器，开发者可以在统一流程中同时运行这两个模型，从而降低总体内存占用。\nEmbeddingGemma 2 直接为边缘硬件带来强大能力。在本地生成嵌入有助于确保数据隐私、降低流程延迟，并使开发者能够构建完全离线运行的跨模态搜索和检索系统。\n当与 Gemma 4 等生成模型搭配使用时，EmbeddingGemma 2 能够实现理解复杂多模态数据的端侧 RAG 流程。由于 EmbeddingGemma 2 基于 Gemma 4 构建并共享其文本分词器及音频编码器，开发者可以在统一流程中同时运行这两个模型，从而降低总体内存占用。\n使用文本或图像根据语义相似度在媒体库中查找最匹配的结果。可在 Google AI Edge Gallery 的“即时媒体搜索（Instant Media Search）”中体验。\n使用文本或音频查询定位视频中的特定时刻。可在 Google AI Edge Gallery 的“视频精彩片段查找器（Video Moments Finder）”中体验。\n将用于本地文件检索的 EmbeddingGemma 2 与用于上下文推理的 Gemma 4 配对使用。可在 Google AI Edge Foresight 应用中体验。\n通过 MediaPipe Decision Task API，利用多模态上下文创建具备分类、路由和预测能力的实时决策引擎。\n如需了解如何使用 LiteRT 构建端侧搜索和 RAG 系统，请阅读 Google AI Edge 官方博文。\n\n上手使用 EmbeddingGemma 2。我们与以下合作伙伴紧密合作，以确保 EmbeddingGemma 2 能够在您构建应用的环境中即开即用：下载模型：可在 Hugging Face 和 Kaggle 上获取模型权重，Gemini Enterprise Agent Platform Model Garden 也即将上线支持。访问 Hugging Face 上的 LiteRT 社区以获取针对端侧优化的模型。端侧部署：利用 Google AI Edge MediaPipe 开发跨平台应用，实现开箱即用的嵌入、检索和决策任务，或使用 LiteRT 进行自定义模型集成。使用 transformers.js 或 WebGPU 面向浏览器构建应用。使用您喜爱的开发工具：使用 transformers、sentence-transformers、MLX、vLLM、llama.cpp、SGLang、Ollama 和 LMStudio 高效提供模型服务。使用 Qdrant 存储您的嵌入向量。微调：参考 Unsloth 的指南，了解如何针对您的具体用例对 EmbeddingGemma 2 进行微调。探索我们的开发者指南、文档以及推理和微调指南。\n\n我们与以下合作伙伴紧密合作，以确保 EmbeddingGemma 2 能够在您构建应用的环境中即开即用：\n\n探索我们的开发者指南、文档以及推理和微调指南。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 4,
+        "keyTakeaways": [
+          "Google DeepMind 正式推出 EmbeddingGemma 2，这是一款用于端侧多模态嵌入的模型，将代码、图像、视频和音频统一在共享嵌入空间中。",
+          "EmbeddingGemma 2 基于 Gemma 4 架构构建，采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数。",
+          "来源叙事重点：宣传 EmbeddingGemma 2 的端侧多模态嵌入能力，重点强调其 740M 紧凑参数规模、模块化与量化后的极低内存占用、Apache 2.0 开源商用友好性，以及在保护隐私和离线环境下的端侧 RAG 检索潜力与生态工具适配能力。"
+        ],
+        "citations": [
+          {
+            "source": "Google DeepMind (AI前沿研究)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T19:57:04.000Z",
+            "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+          }
+        ]
+      },
+      {
+        "id": "story-8-4f1e-acf5-bba7193b4e6e-3fe694bda0c4c2f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:00:08.000Z",
+        "pubTime": "2026-10-07 04:00",
+        "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c7c2b48-a025-48b9-9c64-9f6bbb8442cc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Salaries and bonuses spiral for seafarers willing to risk perilous trip through waterway in face of Iranian attacks",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-07 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-06T20:00:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-dae20ddd991a8cd3cd90d347-c1383a7e0a41a0d8",
+        "title": "为什么我们应该采用依赖注入",
+        "originalTitle": "Why We Should Inject Dependencies",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T18:03:04.000Z",
+        "pubTime": "2026-10-07 02:03",
+        "url": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347",
+        "imageUrl": null,
+        "fullContent": "Instantly share code, notes, and snippets.\n\nDependency Injection frameworks have existed for a long time, but Rubyists have traditionally avoided doing this, likely because it is perceived as being unnecessary complexity.\n\nHowever, the \"simplicity\" afforded by not doing this has negative effects, as this document attempts to demonstrate. Ruby's flexibility allows us to approach DI in a much more friendly way than e.g. Java.\n\nFrequently, parameters to an object are passed as a combination of initialization params and method arguments with no clear difference.\n\nHere's a representative bit of imaginary code that follows this pattern:\n\n@email and @password are initialized as instance state for this class. How often are we to assume these will change? Is it reasonable for these values to persist across multiple calls?\n\nWhat if we look at the usage of this class in the controller and find:\n\nWe can see from the invocation of this class that @email and @password comes from user-input, therefore this requires initializing the new value for every signup. The instance of UserRegistration is immediately discarded once the computation is finished.\n\nThis class uses a couple external interfaces: EmailValidator, BCrypt::Password, UserRepository, and ConfirmationMailer. These are constants, and so do not change between calls. They are dependencies.\n\nThe constants are referenced directly in implementation code, and can't easily be replaced under test. So in order to write a test for this, we have to stub global API based on knowledge of the internal details of the object.\n\nWhat if EmailValidator changes its rules in a way that breaks our test email? Suddenly our tests might fail for reasons totally unrelated to the behavior we're testing. We need a better way to replace these with test doubles.\n\nDependencies are references that could be used multiple times during the lifetime of an object. Arguments are one-time parameters that pertain to an individual request.\n\nRuby is object-oriented in design; every thing you interact with is an object. Classes exist to define a repeatable pattern for building objects of a particular type, but those class instances are treated as separate things.\n\nWhen one object interacts with another, this creates a dependency relationship between them. We will call these coordinating objects. Managing complexity in a system is primarily about limiting these dependency relationships.\n\nIf coordinating objects may be referenced at any point within an object, visually determining the totality of its dependencies is more difficult.\n\nDeclaring all coordinating objects as explicit dependencies at the top makes visually determining a class's dependencies very easy.\n\nWe can now determine at a glance that this class depends on EmailValidator, BCrypt::Password, UserRepository, and ConfirmationMailer by looking in one place. It's not such a big change in this small example, but you've certainly seen larger classes where dependency usage is spread throughout. Think about how each pattern would scale, and which would be harder to comprehend.\n\nImagine that a requirement comes down that staff emails should use a stronger digest algorithm. Previously, this would have required changing the implementation. But all we would need to do is pass in a different dependency.\n\nThis construction allows us to decouple class initialization from its usage.\n\nUse initialize as the interface to inject dependencies for an object.\n\nThe validation behavior in this code should be tested in isolation, so in some cases you're going to want it to always pass or always fail.\n\nIn the original code, we cannot change this from the outside. So you'd most likely have to stub EmailValidator, which encodes knowledge of the implementation of this object into the test code itself. Test Behavior, Not Implementation\n\nNow that we are injecting it, we can do this by passing in an alternate implementation:\n\nUse injection to replace dependencies with test doubles.\n\nMoving to Dependency Injection via initialize has solved some problems, but this has created a new problem: often objects have many dependencies, and writing them out as keyword arguments becomes very awkward.\n\nIn addition to a verbose arguments list, it also requires assigning each kwarg to an instance variable, so you have to type out each argument twice.\n\nThere is a system that helps you define initialize without the redundancy:\n\nIf we look at the Command base class, we see extend Dry::Initializer, which is providing this option helper.\n\noption defines a keyword argument for the initialize function to accept, and provides an instance method to access the value. It also has the added benefit of supporting type-checks.\n\nYou can also include it inline into any plain Ruby class:\n\nInstead of a permanent option interface, define uses a module builder pattern instead which keeps the class interface simple. Using extend is fine for cases where you already have a base class, and don't want to repeat yourself in the children.\n\nBy using a simple DSL, we can eliminate the redundancy of defining kwargs explicitly. This works well for simple cases.\n\nObject-building should be handled in a systematic way that follows a generic convention.\n\nSo far, there is no need for the instance of a class to have its own identity separate from the class itself. But, what if we need to replace one class with another based on a feature gate?\n\nThis is where a simple DSL like Dry::Initializer breaks down; we need to be able to dynamically choose our injected dependencies, and this means we need a way of identifying them aside from their class constant.\n\nThe code consuming UserRegistration should ideally not have to know these internal details in order to call it. You really shouldn't have to think about how to construct this object when all you need to do is call it.\n\nYou can simplify the caller code by pushing this branch down into UserRegistration:\n\nBut this this has merely moved the problem: now, UserRegistration is made responsible for knowing which client to use. Dependents of NotificationService should not know about this, because this requires duplicating that branch every place it is used.\n\nDry::Core::Container gives us a better place to encode this information:\n\nThis defines a key in container named confirmation. Next we define a Deps constant using this container:\n\nYou can now inject this into any object by name:\n\nYou can alter this name to suit yourself:\n\nWill become notify within the instance. Let's move the remaining dependencies:\n\nAnd now we can simplify the original code:\n\nA Container key registration represents the details of how to instantiate a particular dependency that the consuming code can use by name without knowing the internal details.\n\nWhen we reserve initialize arguments for injecting dependencies, we can systematize it to reduce toil.\n\nWhen we systematize building our objects, we can give them unique identities apart from their class constants.\n\nWhen we decouple class constant from instance identity, our code can eliminate knowledge of how they are constructed and only focus on our defined public interface.\n\nThe purpose of a class in this paradigm is to define dependency relationships between classes and establish a public interface.\n\nThe purpose of the class instance is to do work, perform some kind of business function. You no longer need to hold both these things in your head simultaneously; they are separate concerns.\n\nJohnson, R.E. & Foote, B. (1988). Designing Reusable Classes. Journal of Object-Oriented Programming http://www.laputan.org/drc/drc.html\n\nFowler, M. (2005). Inversion of Control. https://martinfowler.com/bliki/InversionOfControl.html\n\nWeirich, J. (2004). Dependency Injection In Ruby. { | one, step, back | }. https://web.archive.org/web/20080203042721/http://onestepback.org/index.cgi/Tech/Ruby/DependencyInjectionInRuby.rdoc\n\nCodeAesthetic. (2023). Dependency Injection, The Best Pattern [Video]. YouTube. https://youtu.be/J1f5b4vcxCQ",
+        "fullTranslation": "即时分享代码、笔记和代码片段。\n\n依赖注入（Dependency Injection，DI）框架已经存在了很长时间，但 Ruby 开发者传统上一直对其敬而远之，这很可能是因为大家认为它带来了不必要的复杂性。\n\n然而，正如本文试图阐明的那样，不采用依赖注入所换来的“简单性”其实会带来负面效应。与 Java 等语言相比，Ruby 的灵活性使我们能够以一种友好得多的方式来实现 DI。\n\n在很多情况下，传递给对象的参数往往混合了初始化参数与方法参数，两者之间缺乏明确的界限。\n\n下面是一段遵循这种模式的代表性示例代码：\n\n在这个类中，@email 和 @password 被初始化为实例状态。我们能假定它们多久会改变一次？这些值在多次调用之间保持存在是合理的吗？\n\n如果我们看一下该类在控制器中的使用方式，会发现：\n\n从该类的调用方式可以看出，@email 和 @password 均来自用户输入，因此每次注册时都需要初始化新值。而一旦计算完成，UserRegistration 的实例就会立即被废弃。\n\n该类使用了几个外部接口：EmailValidator、BCrypt::Password、UserRepository 以及 ConfirmationMailer。这些都是常量，因此在多次调用之间不会发生改变。它们就是依赖项（Dependencies）。\n\n这些常量在实现代码中被直接引用，无法在测试环境中轻易替换。因此，为了为其编写测试，我们必须基于对对象内部细节的了解来对全局 API 进行打桩（stub）。\n\n如果 EmailValidator 更改了规则，导致我们的测试邮箱无法通过验证怎么办？突然之间，我们的测试可能会因为与被测行为完全无关的原因而失败。我们需要一种更好的方法来将它们替换为测试替身（test doubles）。\n\n依赖项（Dependencies）是在对象生命周期内可能被多次使用的引用。参数（Arguments）则是与单次请求相关的单次入参。\n\nRuby 在设计上是面向对象的；你所交互的每一个实体都是对象。类的存在是为了定义构建特定类型对象的可复用模式，但这些类实例本身是作为独立个体对待的。\n\n当一个对象与另一个对象发生交互时，它们之间便建立了依赖关系。我们称这些为协作对象（coordinating objects）。管理系统复杂性主要就是要限制这些依赖关系。\n\n如果协作对象可以在一个对象内部的任意位置被引用，那么从视觉上直观判断其所有依赖就会变得更加困难。\n\n将所有协作对象作为显式依赖在顶部统一声明，能使通过视觉直观判断类的依赖关系变得非常容易。\n\n现在，我们只需看一个地方，就能一目了然地确定该类依赖于 EmailValidator、BCrypt::Password、UserRepository 和 ConfirmationMailer。在这个小例子中这看起来变化不大，但你肯定见过依赖散布在各处的更大规模的类。想一想这两种模式将如何扩展，以及哪一种会更难理解。\n\n设想出现了一个新需求：员工邮箱需要使用更强大的摘要算法。在以前，这需要修改实现代码。但现在，我们所需要做的仅仅是传入一个不同的依赖项。\n\n这种结构允许我们将类的初始化与其具体使用分离开来。\n\n使用 initialize 作为向对象注入依赖的接口。\n\n这段代码中的验证行为应当被孤立测试，因此在某些测试场景下，你可能希望它始终通过或始终失败。\n\n在原始代码中，我们无法从外部改变这一点。因此你很可能不得不对 EmailValidator 进行打桩，而这会把该对象的内部实现细节编码进测试代码本身。记住：测试行为，而非测试实现。\n\n既然我们现在对其进行了注入，就可以通过传入一个替代实现来完成这一点：\n\n使用依赖注入将依赖项替换为测试替身。\n\n通过 initialize 转为依赖注入解决了一些问题，但同时也带来了新问题：通常对象拥有许多依赖项，将它们作为关键字参数逐一写出会变得非常别扭。\n\n除了冗长的参数列表之外，它还要求将每个关键字参数赋值给实例变量，因此你不得不将每个参数重复输入两次。\n\n有一个机制可以帮助你在没有这种冗余的情况下定义 initialize：\n\n如果查看 Command 基类，我们会看到 extend Dry::Initializer，正是它提供了这个 option 辅助方法。\n\noption 为 initialize 函数定义了要接收的关键字参数，并提供了一个用于访问该值的实例方法。此外，它还具有支持类型检查的额外优势。\n\n你也可以直接将其内联包含在任何普通 Ruby 类中：\n\ndefine 没有采用固定的 option 接口，而是使用了模块构建器模式，从而保持了类接口的精简。在你已经拥有基类且不想在子类中重复自身代码的情况下，使用 extend 是很合适的。\n\n通过使用简单的 DSL，我们可以消除显式定义关键字参数所带来的冗余。这在简单场景下运作良好。\n\n对象的构建应当以遵循通用约定的系统化方式进行处理。\n\n到目前为止，类的实例尚不需要拥有独立于类本身的标识。但是，如果我们根据特性开关（feature gate）需要将一个类替换为另一个类，该怎么办？\n\n这正是像 Dry::Initializer 这样简单的 DSL 面临局限的地方；我们需要能够动态选择注入的依赖项，这意味着我们需要一种除了类常量之外的方式来标识它们。\n\n调用 UserRegistration 的代码在理想情况下不应该为了调用它而必须了解这些内部细节。当你所需要的仅仅是调用它时，你实在不应该需要去考虑如何构建这个对象。\n\n你可以通过将该分支逻辑下推到 UserRegistration 中来简化调用方代码：\n\n但这仅仅是转移了问题：现在，UserRegistration 被赋予了负责知晓该使用哪个客户端的职责。NotificationService 的依赖方不应该对此知情，因为这会导致该分支逻辑在每一个使用它的地方都被重复一遍。\n\nDry::Core::Container 为我们提供了一个更好的位置来编码这些信息：\n\n这在容器中定义了一个名为 confirmation 的键。接下来我们使用该容器定义一个 Deps 常量：\n\n现在你可以通过名称将它注入到任何对象中：\n\n你可以根据需要修改这个名称：\n\n在实例内部它将变为 notify。让我们把其余的依赖项也迁移过来：\n\n现在我们可以简化原始代码了：\n\n容器键的注册代表了关于如何实例化特定依赖项的细节，消费代码可以按名称使用它，而无需知晓其内部细节。\n\n当我们保留 initialize 参数专用于注入依赖时，我们可以将其系统化以减少样板劳动。\n\n当我们将对象的构建系统化时，我们就可以赋予它们独立于类常量的唯一标识。\n\n当我们把类常量与实例标识解耦时，我们的代码便无需了解它们是如何被构建的，只需专注于我们所定义的公开接口。\n\n在这种范式下，类的作用是定义类之间的依赖关系，并确立公开接口。\n\n而类实例的作用是执行工作、实现某种业务功能。你不再需要在大脑中同时兼顾这两件事；它们是各自独立的关注点。\n\nJohnson, R.E. & Foote, B. (1988). Designing Reusable Classes. Journal of Object-Oriented Programming http://www.laputan.org/drc/drc.html\nFowler, M. (2005). Inversion of Control. https://martinfowler.com/bliki/InversionOfControl.html\nWeirich, J. (2004). Dependency Injection In Ruby. { | one, step, back | }. https://web.archive.org/web/20080203042721/http://onestepback.org/index.cgi/Tech/Ruby/DependencyInjectionInRuby.rdoc\nCodeAesthetic. (2023). Dependency Injection, The Best Pattern [Video]. YouTube. https://youtu.be/J1f5b4vcxCQ",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 54,
+        "translationParagraphs": 51,
+        "keyTakeaways": [
+          "依赖注入（Dependency Injection）框架存在已久，但 Ruby 开发者传统上普遍避免使用它，这可能是因为人们认为它带来了不必要的复杂性。",
+          "示例中 UserRegistration 类使用的外部接口常量包括 EmailValidator、BCrypt::Password、UserRepository 以及 ConfirmationMailer。",
+          "来源叙事重点：系统性论证在 Ruby 项目中引入依赖注入（DI）的必要性与工程优势，批判社区回避 DI 的传统惯性，并演示从构造器注入到引入轻量容器（如 dry-initializer、dry-container）的具体重构路径。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T18:03:04.000Z",
+            "url": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-06-tramp-2122769313-html-9b4131af1d2270e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп заявил, что работает над урегулированием конфликта на Украине",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T20:23:14.000Z",
+        "pubTime": "2026-10-07 04:23",
+        "url": "https://ria.ru/20261006/tramp-2122769313.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 04:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/tramp-2122769313.html",
+            "publishedAt": "2026-10-06T20:23:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--4b-ahead-of-planned-ipo-170c70f0f66eeaa2",
+        "title": "AI计算初创公司Lambda将在拟议IPO前筹资40亿美元",
+        "originalTitle": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:00:30.000Z",
+        "pubTime": "2026-10-07 04:00",
+        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "imageUrl": null,
+        "fullContent": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round.\n\nA letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, much of that increase appears to be driven by a $35 billion commitment from one company: Anthropic, which signed a deal with Lambda in late August.\n\nThat means Lambda’s valuation, which has climbed significantly since its 2025 funding round, could be leaning heavily on Anthropic’s ability to keep paying. Still, with reliable GPU capacity so scarce, investors are clearly still willing to bet on companies that provide it, especially ones with large contracts with a major AI lab.\n\nFor neoclouds like Lambda, demand isn’t so much the problem as is the cost of meeting it. Data center buildouts are largely funded by debt — of which Lambda just raised an additional $1 billion last week — and lenders are getting choosier about who they offer cash to and under what circumstances. Lambda’s decision to raise more now not only sets the tone for its IPO pricing, but also gives it access to more capital before the scrutiny of public markets arrives.\n\nIf and when Lambda does IPO — the company was reportedly meant to debut this year, but has pushed that back amid market uncertainty — it will join other Nvidia-backed neoclouds, like CoreWeave and Nebius, that now depend on the health of their stock to fund their data center buildouts. British neocloud Nscale filed for an IPO last month and is expected to begin trading soon.\n\nLambda, Coatue, and Blackstone did not immediately respond to a request for comment.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "据《华尔街日报》报道，云服务提供商Lambda正以145亿美元的投前估值筹集至多40亿美元，这可能是该公司计划于2027年进行首次公开募股（IPO）前的最后一轮私募融资。Coatue Management和贝莱德集团（Blackstone）牵头本轮融资。\n\n《华尔街日报》查阅的一封致投资者信显示，Lambda的积压订单金额从6月的150亿美元增至9月的500亿美元。虽然这看起来像是需求大幅增长，但其中相当一部分增幅似乎来自一家公司的350亿美元承诺：Anthropic于8月底与Lambda签署了一项协议。\n\n这意味着，自2025年融资以来估值已大幅攀升的Lambda，其估值可能严重依赖Anthropic持续付款的能力。不过，鉴于可靠的GPU算力供应极其稀缺，投资者显然仍愿意押注提供这类算力的公司，尤其是那些与大型人工智能实验室签有大额合同的公司。\n\n对于Lambda这类新型云服务商而言，需求本身与满足需求的成本相比，并不是更大的问题。数据中心建设在很大程度上依靠债务融资，而Lambda上周刚刚额外筹集了10亿美元债务；放贷方也越来越谨慎，开始挑选向哪些对象、在什么情况下提供资金。Lambda此时决定进一步融资，不仅为其IPO定价定下基调，也让公司能够在公开市场审视到来之前获得更多资本。\n\n如果Lambda最终进行IPO——据报道，该公司原计划今年上市，但因市场不确定性而推迟——它将加入其他由英伟达支持的新型云服务商行列，例如CoreWeave和Nebius。这些公司如今都依赖自身股票的表现，为数据中心建设提供资金。英国新型云服务商Nscale上月提交了IPO申请，预计很快开始交易。\n\nLambda、Coatue和贝莱德集团未立即回应置评请求。\n\n第二张票享受五折优惠\nThe Disrupt体验旨在与他人共享。购买您的入场券，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的下一步，拓展您的视野。\n\n每个工作日和周日，您都可以获取TechCrunch报道中的精华内容。\n\nTechCrunch Mobility是您获取交通领域新闻与洞察的平台。\n\n初创企业是TechCrunch报道的核心，订阅后每周获取我们最精彩的报道。\n\n为业界活跃人士提供开启一天所需的信息。\n\n提交电子邮件即表示您同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Lambda正在筹集最多40亿美元，投前估值为145亿美元。",
+          "Coatue Management和Blackstone领投该轮融资。",
+          "来源叙事重点：聚焦AI算力云服务商Lambda拟以145亿美元估值融资40亿美元的IPO前轮融资，深入分析其订单暴增背后对单一客户Anthropic的重度依赖，以及算力基础设施公司面临的重资产借贷与资本开支风险"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T20:00:30.000Z",
+            "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+          }
+        ]
+      },
+      {
+        "id": "story--a-better-story-57fbbf23-0823fa31a80da4a4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:21:00.000Z",
+        "pubTime": "2026-10-07 04:21",
+        "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 04:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-06T20:21:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-7-sustainable-web-career-49ae93f0c5dc5363",
+        "title": "一份可持续的网络职业生涯，等这一切过去之后",
+        "originalTitle": "A sustainable web career, for when all this blows over",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T18:29:11.000Z",
+        "pubTime": "2026-10-07 02:29",
+        "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+        "imageUrl": null,
+        "fullContent": "Wednesday 7 Oct 2026\n\nFor better or worse the web industry is going through a bit of a phase. The reasons are largely irrational. People still need the web, nothing has changed there. Regardless, the financials of this business are a struggle. Longterm career prospects are looking dicey.\n\nBecause I openly reject the driving force intent on destroying my profession, and ruffle a few feathers doing so, I often get asked privately for advice from like-minded peers. I can only offer an uninspired but sensible reply: don’t quit a paying job without a fallback. Go to the Winchester, have a nice cold pint, and wait for all of this to blow over.\n\nCharacters from Shaun of the Dead (2004) enjoying drinks in the Winchester pub. Simon Pegg's character is holding a pint in a cheers pose and is winking at the camera.\n\nI’m confident the situation will improve. Before it does, what can we focus on to accelerate past the intellectual slump, and better position ourselves once things calm down?\n\nFor a sustainable web career, where better to look than critical skills in desperately short supply? My focus is on front-end development, but these areas of knowledge are relevant to anyone in the business of making websites.\n\nAccessibility has always been a foundation of web development but it’s never been more critical for everyone to champion it. Understand why accessibility is for everyone. Learn how to talk about accessibility in respect to real needs and practical implementation.\n\nAccessibility has unfortunately become a virtue signal for certain tech groups. (I’m told LinkedIn is rife with misinformation.) Accessibility is not a feature that can be tacked on to a website like garnish. Accessibility issues can’t be fixed with an automated process at the end. Web professionals must be able to counter this mindset by respecting accessibility in all decisions from day one.\n\nLearn and adopt the guidelines as your baseline. Speak to and test with real people. Defer to specialists who are eager for you to understand the realities.\n\nCSS is the most vibrant and evolving of the front-end standards. To architecture a good stylesheet takes deep understanding of the language features. Newer features like cascade layers and selectors that reduce specificity make this much easier.\n\nCSS has always been equipped to handle well organised styles, but developers who refuse to learn and respect the language have sought to push complexity elsewhere, using simplified abstractions or “CSS-in-JS” solutions. These are inherently limiting, lead to poor performance, and don’t actually solve the problems they claim.\n\nCommunication is a “soft skill” in short supply (for obvious reasons). It’s a great skill if you wish to stand out as an expert, or simply be heard amongst the noise. Learn brevity and focus on important points. Don’t be afraid to ask questions.\n\nAddress concerns tactfully and early before they escalate. Don’t point fingers, but “cover your ass” — everyone on a project should be working towards the same goal, but some may be misguided in their approach. Remain positive and don’t meet negativity head-on.\n\nIf you can communicate well you’ll be highly respected in your role.\n\nYou probably weren’t expecting this one, but here we are.\n\nThe luxury of not “getting political” has abated. Far-right political ideology is on the rise and dormant hatred is waking up in tech. The epicentre of fash-tech is Musk’s “X” with people like David Heinemeier Hansson spewing racism and abusing authority in communities to push an agenda, and Guillermo Rauch taking a selfie with a war criminal. Large tech giants like Digital Ocean are funding this power grab. Be wary of those denying this threat.\n\nIf you want to avoid being pushed away from this industry, recognise and reject fascism before it comes for you. Don’t stay silent.\n\nI’ve covered topics that’ll see us well for the future, but what should we forget?\n\nFacebook’s experiment turned cargo cult is a legacy framework that still lingers, but there’s no reason to learn it today. React has entrenched itself as a lingua franca of code extruders. React code is generated faster than any human can possibly read it. Suffice it to say that despite stale job vacancies still demanding experience, React is not worth investing time. The days of high-paying React development are numbered.\n\nGitHub is now a liability. For private repositories use self-hosted git forges. I’d recommend Forgejo. One of the many Tailscale-like services is an easy way to gate remote access. Don’t make stuff public for the dead internet to attack! For CI/CD go local too, or use independent services not tied to tech giants. Take the time to learn basic git commands. A little technical and infrastructure knowledge goes a long way.\n\nThese people are handsome, charismatic, highly personable. I’m talking about: developer relations, youtubers, start-up founders, etc. When the tech industry met us halfway, influencers were entertaining and a good chinwag at after parties. Now the game has changed and we should not allow false narratives to dominate and dictate a closed-web future. Normal people still use the web. Incredibly few can afford to pay for the novelties that influencers peddle. Their attention economy is no longer our concern.\n\nSo that’s my focus for a sustainable web career, when all this blows over.\n\nRemember that above all else: the web is a human creation for human needs. Those needs are not going anywhere. Drop the dead weight accumulated in times of prosperity. Go back to basics and position yourself well for when professional demand returns.\n\nAll opinions are my own and not those of a large language model. Everything I write is one hundred percent human. Because I care!\n\nI founded Valley Fold to help you, so let’s make your website happen. Whether you have requirements scoped or you’re lost for ideas, we can work with you at any stage.",
+        "fullTranslation": "2026年10月7日，星期三\n\n不管是好是坏，网络行业正经历一个阶段。原因在很大程度上是不理性的。人们仍然需要网络，这一点没有任何改变。然而，这门生意的财务状况举步维艰，长期职业前景也显得不容乐观。\n\n由于我公开反对那股意图摧毁我所从事职业的力量，并因此得罪了一些人，我经常会私下收到志同道合同行的求建议。我只能给出一个不太振奋、但很实际的回答：不要在没有退路的情况下辞掉一份有收入的工作。去温彻斯特酒吧，喝上一杯冰啤酒，等这一切过去吧。\n\n《僵尸肖恩》（2004年）中的人物在温彻斯特酒吧喝酒。西蒙·佩吉饰演的角色举着一品脱啤酒，做出干杯的姿势，并朝镜头眨眼。\n\n我相信情况会好转。在那之前，我们能专注于什么，来加速走出这场智力低迷，并在一切平静下来后让自己处于更有利的位置？\n\n要想拥有一份可持续的网络职业生涯，还有什么地方会比那些极度短缺的关键技能更值得关注？我关注的是前端开发，但这些知识领域与所有从事网站制作的人都有关。\n\n无障碍一直是网络开发的基础，但它从未像现在这样需要每个人积极倡导。理解为什么无障碍服务于所有人。学会如何围绕真实需求和实际实施来讨论无障碍。\n\n遗憾的是，无障碍已经成了某些科技群体用来表达立场的工具。（有人告诉我，LinkedIn上充斥着错误信息。）无障碍不是可以像装饰一样，在网站上最后临时添加的一项功能。无障碍问题无法在最后通过自动化流程解决。网络从业者必须从第一天起就在所有决策中尊重无障碍，以此对抗这种思维方式。\n\n学习并采纳相关指南，把它们作为你的基准。与真实的人交流并进行测试。对于那些愿意让你了解现实情况的专业人士，应当听取他们的意见。\n\nCSS是前端标准中最有活力、发展最快的一项。要设计出良好的样式表架构，需要深入理解这门语言的特性。级联层以及能够降低特异性的选择器等新特性，让这件事变得容易得多。\n\nCSS一直具备处理组织良好样式的能力，但一些拒绝学习和尊重这门语言的开发者，试图使用简化抽象或“CSS-in-JS”等方案，把复杂性转移到别处。这些方案本质上存在局限，会导致性能不佳，而且实际上并没有解决它们声称要解决的问题。\n\n沟通是一项供不应求的“软技能”（原因显而易见）。如果你希望以专家身份脱颖而出，或者只是在嘈杂的环境中让别人听见你，这是一项很棒的技能。学会简洁，专注于重要的观点。不要害怕提问。\n\n以恰当的方式尽早处理疑虑，避免事态升级。不要相互指责，但要“保护好自己”——项目中的每个人都应朝着同一个目标努力，只是有些人采用的方法可能存在偏差。保持积极，不要正面迎击消极情绪。\n\n如果你善于沟通，就会在自己的岗位上受到高度尊重。\n\n你可能没想到这一点，但我们确实要谈谈它。\n\n“不谈政治”的特权已经不复存在。极右翼政治意识形态正在抬头，科技行业中沉睡的仇恨也在苏醒。法西斯科技的中心是马斯克的“X”；David Heinemeier Hansson等人在那里散播种族主义，并在社区中滥用权力来推动某种议程；而Guillermo Rauch则与一名战争罪犯自拍。DigitalOcean等大型科技巨头正在为这场夺权行动提供资金。对于那些否认这一威胁的人，要保持警惕。\n\n如果你不想被迫离开这个行业，就要在法西斯主义找上你之前认清并拒绝它。不要保持沉默。\n\n我已经谈到了有助于我们应对未来的话题，但我们应该忘掉什么？\n\nFacebook的实验如今已变成一种货物崇拜式的遗留框架，但今天已经没有理由再学习它。React已经牢牢确立为代码生产者之间的通用语。React代码的生成速度，快到任何人都不可能读完。简单地说，尽管过时的招聘信息仍然要求相关经验，但React不值得投入时间。高薪React开发的日子已经屈指可数。\n\nGitHub如今成了一项负担。对于私有代码仓库，请使用自托管的Git代码托管平台。我推荐Forgejo。许多类似Tailscale的服务都可以轻松控制远程访问。不要把东西公开，任由死互联网来攻击！CI/CD也采用本地方案，或者使用不隶属于科技巨头的独立服务。花时间学习基本的Git命令。一点技术和基础设施知识，就能带来很大帮助。\n\n这些人外表英俊、魅力十足、非常善于与人交往。我说的是：开发者关系从业者、YouTuber、初创公司创始人等。过去，科技行业愿意与我们各让一步时，影响者很有娱乐性，在派对后的聚会中聊上几句也很愉快。现在游戏规则变了，我们不应允许虚假叙事主导一切，并决定一个封闭网络的未来。普通人仍在使用网络。能负担影响者兜售的新奇玩意儿的人少之又少。他们所处的注意力经济已不再是我们需要关心的事。\n\n这就是我对可持续网络职业生涯的关注重点，等这一切过去之后。\n\n请牢记最重要的一点：网络是人类为满足人类需求而创造的。这些需求不会消失。丢掉在繁荣时期积累下来的沉重负担。回归基础，为职业需求回归之时做好准备。\n\n所有观点仅代表我个人，不代表任何大型语言模型。我写下的一切百分之百出自人类之手。因为我在乎！\n\n我创办了Valley Fold，就是为了帮助你，所以让我们一起实现你的网站吧。无论你已经明确了需求，还是完全没有头绪，我们都可以在任何阶段与你合作。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 25,
+        "keyTakeaways": [
+          "文章原文标题为《A sustainable web career, for when all this blows over》。",
+          "文章页面显示日期为2026年10月7日，来源标注为Lobste.rs（极客思想社区）。",
+          "来源叙事重点：倡导在Web开发行业低谷期回归基础技术（Web无障碍、原生CSS、人际沟通），抵制大厂技术垄断、中心化平台（GitHub、React）与极右翼技术意识形态，构建可持续的职业发展路径。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T18:29:11.000Z",
+            "url": "https://dbushell.com/2026/10/07/sustainable-web-career/"
+          }
+        ]
+      },
+      {
+        "id": "story-ells-insects-visual-html-5af53627a91079eb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shape-shifting sensory cells may help insects process visual information with less delay",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:20:12.000Z",
+        "pubTime": "2026-10-07 04:20",
+        "url": "https://phys.org/news/2026-10-shifting-sensory-cells-insects-visual.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/shape-shifting-brain-c.jpg",
+        "fullContent": "Anyone who has ever tried and failed to swat a fly has experienced the speed of a tiny nervous system. Now, a new review brings together evidence that its secret lies partly in microscopic movements and shape changes within sensory cells and neurons, challenging conventional views of how brains process information.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 04:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-shifting-sensory-cells-insects-visual.html",
+            "publishedAt": "2026-10-06T20:20:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--samolet-2122769139-html-f748e8a752fce204",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Тихом океане ученые ищут пропавший самолет Амелии Эрхарт",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T20:23:00.000Z",
+        "pubTime": "2026-10-07 04:23",
+        "url": "https://ria.ru/20261006/samolet-2122769139.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 04:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/samolet-2122769139.html",
+            "publishedAt": "2026-10-06T20:23:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hite-prime-day-deal-sale-c42d7dbbbff6374a",
+        "title": "亚马逊上一代 Kindle Paperwhite 直降 30%",
+        "originalTitle": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:00:00.000Z",
+        "pubTime": "2026-10-07 04:00",
+        "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed), and its aluminum design is a millimeter thinner — but it costs $50 more .\n\nThe 2024 edition has the same fantastic 300ppi screen, an auto-adjusting front light, and waterproof (IPX8) design. And the Signature Edition that’s discounted has no lockscreen ads, twice the storage (32GB) of the base model, plus wireless charging and an ambient light sensor, and it’s down to $169.99 (originally $249.99) at Amazon .\n\nKindle Paperwhite Signature Edition\n\nThe premium Kindle Paperwhite Signature Edition offers the same design and performance as the standard model but with more storage and support for wireless charging.\n\n$249.99 $169.99 at Amazon\n\n$249.99 $169.99 at Best Buy\n\n$249.99 $169.99 at Target\n\nThe standard Paperwhite is $149.99 (was $199.99) at Amazon , and while the lower price is nice, I’d suggest only opting for that model if you’re alright with what you’re giving up (which is a lot): it has half the storage, no wireless charging, and lockscreen ads.",
+        "fullTranslation": "称某款产品为“上一代”，通常意味着与最新版本相比，它存在较大的妥协。与其他一些科技产品相比，上一代 Kindle Paperwhite 并非如此。新款打开书籍的速度快了 30%（这与翻页速度不是一回事），铝制机身也薄了 1 毫米——但价格贵了 50 美元。\n\n2024 款拥有同样出色的 300ppi 屏幕、自动调节前光以及具备防水性能（IPX8）的设计。此外，目前正在打折的 Signature Edition 没有锁屏广告，存储空间是基础版的两倍（32GB），还支持无线充电并配备环境光传感器。目前在亚马逊售价降至 169.99 美元（原价 249.99 美元）。\n\nKindle Paperwhite Signature Edition\n\n高端 Kindle Paperwhite Signature Edition 采用与标准版相同的设计和性能，但拥有更大的存储空间，并支持无线充电。\n\n亚马逊：249.99 美元，现价 169.99 美元\n百思买：249.99 美元，现价 169.99 美元\n塔吉特：249.99 美元，现价 169.99 美元\n\n标准版 Paperwhite 在亚马逊售价 149.99 美元（原价 199.99 美元）。虽然价格更低很不错，但我建议只有在你能接受需要放弃的功能（而且还不少）的情况下，才选择这一型号：它的存储空间减半、不支持无线充电，并带有锁屏广告。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Kindle Paperwhite 签名版在亚马逊的售价从 249.99 美元降至 169.99 美元。",
+          "Kindle Paperwhite 签名版在 Best Buy 和 Target 的售价亦降至 169.99 美元（原价 249.99 美元）。",
+          "来源叙事重点：强调上一代 Kindle Paperwhite 相比新款溢价产品具有极高性价比，并在横向对比中极力主推配置更全、降价幅度更大的签名版，淡化代际性能升级的实际必要性。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T20:00:00.000Z",
+            "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-for-trouble-6a52e04e-fbcdc84ab719fec2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:15:00.000Z",
+        "pubTime": "2026-10-07 04:15",
+        "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“People in the U.S. need to wake up.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 04:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-06T20:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-4evy-pared-e00b9b1fbb0aec85",
+        "title": "在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型",
+        "originalTitle": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T18:27:16.000Z",
+        "pubTime": "2026-10-07 02:27",
+        "url": "https://github.com/4evy/pared",
+        "imageUrl": null,
+        "fullContent": "Unzip the download and drag Pared to Applications.\n\nPrefer the terminal? Run this to open the setup wizard:\n\nRequires Apple silicon and macOS 27 or newer. No Xcode or Homebrew needed.\n\nWebsite · Documentation · More install options\n\nChoose which Apple Intelligence features stay on your Mac, then remove models you no longer need. Pared includes a native app, terminal wizard, and Nix modules. System Integrity Protection stays enabled.\n\nKeep Writing Tools, turn off Genmoji, or switch everything off. Pared keeps shared models needed by features in its catalog that you leave on or unmanaged.\n\nWant a feature back? Turn it on, install the updated profile, then request its models in Pared. For features Pared can’t download directly, use their Apple app.\n\nOpen Pared or run pared wizard. Opening either changes nothing; feature choices stay in a draft until you save.\n\nSee the app manual or command-line guide for setup and commands.\n\nUse the nix-darwin or Home Manager module to manage your choices. Both remove eligible models during activation by default; set programs.pared.cleanupOnActivation = false; to opt out. Install the generated profile in System Settings to block future downloads.\n\nSee the Nix setup guide and option reference.\n\nWith Xcode 27 or newer, run from this checkout:\n\nFor CLI and offline installation, see the command-line guide.\n\nPared uses Apple’s asset service to remove models. Read how profiles and model removal work for the implementation and compatibility limits.\n\nRemove unwanted Apple Intelligence models without disabling SIP. CLI, nix-darwin, and Home Manager support.",
+        "fullTranslation": "解压下载文件，然后将 Pared 拖入“应用程序”文件夹。\n\n更喜欢使用终端？运行以下命令以打开设置向导：\n\n需要 Apple 芯片和 macOS 27 或更高版本。无需 Xcode 或 Homebrew。\n\n网站 · 文档 · 更多安装选项\n\n选择要保留在 Mac 上的 Apple Intelligence 功能，然后移除不再需要的模型。Pared 提供原生应用、终端向导和 Nix 模块。系统完整性保护（SIP）保持启用状态。\n\n保留“写作工具”、关闭 Genmoji，或全部关闭。对于目录中已启用或未托管的功能，Pared 会保留这些功能所需的共享模型。\n\n想恢复某项功能？将其启用，安装更新后的配置文件，然后在 Pared 中请求该功能所需的模型。对于 Pared 无法直接下载的功能，请使用对应的 Apple 应用。\n\n打开 Pared 或运行 pared wizard。无论采取哪种方式，打开操作都不会立即更改任何内容；在保存之前，功能选择会一直保留在草稿中。\n\n有关设置和命令，请参阅应用手册或命令行指南。\n\n使用 nix-darwin 或 Home Manager 模块管理你的选择。默认情况下，两者都会在激活期间移除符合条件的模型；如需退出此行为，可设置 programs.pared.cleanupOnActivation = false;。将生成的配置文件安装到“系统设置”中，以阻止今后的下载。\n\n请参阅 Nix 设置指南和选项参考。\n\n使用 Xcode 27 或更高版本时，请从此代码检出目录运行：\n\n有关 CLI 和离线安装的信息，请参阅命令行指南。\n\nPared 使用 Apple 的资源服务来移除模型。有关配置文件和模型移除的工作方式，以及实现细节和兼容性限制，请参阅相关说明。\n\n在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型。支持 CLI、nix-darwin 和 Home Manager。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "来源叙事重点：介绍 Pared 工具的技术实现与使用方法，强调在不关闭 macOS 系统完整性保护（SIP）的前提下，实现对 Apple Intelligence 本地模型的选择性卸载与磁盘空间控制。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T18:27:16.000Z",
+            "url": "https://github.com/4evy/pared"
+          }
+        ]
+      },
+      {
+        "id": "story-ic-partner-suddenly-html-c384cdd4d2a4714d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The ick: The psychology of why a romantic partner can suddenly repulse you",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:20:01.000Z",
+        "pubTime": "2026-10-07 04:20",
+        "url": "https://phys.org/news/2026-10-ick-psychology-romantic-partner-suddenly.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/romantic-partner.jpg",
+        "fullContent": "Ever felt a sudden wave of cringe toward someone you were into—all because they wore questionable shoes or chewed a bit too loudly? Congratulations, you've caught \"the ick.\"",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 04:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-ick-psychology-romantic-partner-suddenly.html",
+            "publishedAt": "2026-10-06T20:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-6-harkov-2122768991-html-ef4ea98a83b11450",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Харькове прогремел взрыв",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-06T20:22:44.000Z",
+        "pubTime": "2026-10-07 04:22",
+        "url": "https://ria.ru/20261006/harkov-2122768991.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 04:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261006/harkov-2122768991.html",
+            "publishedAt": "2026-10-06T20:22:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ltimodal-embedding-model-c11a83f73b42d756",
+        "title": "EmbeddingGemma 2：一款开源、轻量级的多模态嵌入模型",
+        "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "source": "Google DeepMind (AI前沿研究)",
+        "sourceSlug": "deepmind",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T19:57:04.000Z",
+        "pubTime": "2026-10-07 03:57",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "imageUrl": null,
+        "fullContent": "EmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.\n\nResearch Engineer, Google DeepMind\n\nHenrique Schechter Vera\n\nYour browser does not support the audio element.\n\nWe introduced EmbeddingGemma last year to provide a lightweight option for high-quality text embeddings, to help your apps organize, search, and connect information directly on consumer hardware. The developer community’s response blew past our expectations. With more than 20 million downloads, builders have used it to power smarter on-device search tools and privacy-first retrieval augmented generation (RAG) pipelines.Today, we’re launching EmbeddingGemma 2, expanding beyond text to unify code, images, video, and audio in a shared embedding space. Built on the Gemma 4 architecture and released under a commercially permissive Apache 2.0 license, EmbeddingGemma 2 has 740 million parameters, making it optimal for on-device inference. It can help find a specific video clip from a voice memo, or search through hours of audio recordings based on a text query, all processed by a single, natively multimodal model.\n\nWe introduced EmbeddingGemma last year to provide a lightweight option for high-quality text embeddings, to help your apps organize, search, and connect information directly on consumer hardware. The developer community’s response blew past our expectations. With more than 20 million downloads, builders have used it to power smarter on-device search tools and privacy-first retrieval augmented generation (RAG) pipelines.\n\nToday, we’re launching EmbeddingGemma 2, expanding beyond text to unify code, images, video, and audio in a shared embedding space. Built on the Gemma 4 architecture and released under a commercially permissive Apache 2.0 license, EmbeddingGemma 2 has 740 million parameters, making it optimal for on-device inference. It can help find a specific video clip from a voice memo, or search through hours of audio recordings based on a text query, all processed by a single, natively multimodal model.\n\nBuilt from the same technology as Gemini Embedding models, EmbeddingGemma 2 is:Best-in-class for its size: Achieves leading scores among sub-1B multimodal embedders for its size across benchmarks like MTEB (Massive Text Embedding Benchmark) Code and MAEB (Massive Audio Embedding Benchmark), while matching or outperforming many larger models across text, vision, and audio tasks.Modular by design: Requires as little as 270M parameters for text-only workloads with optional vision (170M) and audio (300M) encoders for full multimodal support.Storage-efficient: Using Matryoshka Representation Learning (MRL), developers can dynamically truncate output vectors from 768 dimensions down to 512, 256, or 128 dimensions. This provides up to 6x storage reduction for local vector databases and memory usage.Optimized for on-device performance: Runs efficiently within tight resource constraints. With quantization, on a Google Pixel 11 Pro, EmbeddingGemma 2 requires as little as ~191MB active RAM for text-only weights and ~567MB for the full multimodal model.Extended context ready: Features an 8K token context window (4x larger than EmbeddingGemma 1), allowing it to process up to 5.5 minutes of audio, 29 images, 58 video frames, or interleaved combinations thereof directly on local hardware.\n\nBuilt from the same technology as Gemini Embedding models, EmbeddingGemma 2 is:\n\nAchieving top-tier quality for code, vision, and audioEmbeddingGemma 2 matches the strong multilingual text performance of EmbeddingGemma while delivering a significant 9.92-point improvement on code performance (in MTEB Code, from 68.76 to 78.68), making it well-suited for local codebase indexing, semantic code search, and coding agent retrieval. Across image, video, documents, and audio, it sets a new standard in quality-per-parameter for sub-1B models and even outperforms some specialist models more than twice its size.\n\nEmbeddingGemma 2 matches the strong multilingual text performance of EmbeddingGemma while delivering a significant 9.92-point improvement on code performance (in MTEB Code, from 68.76 to 78.68), making it well-suited for local codebase indexing, semantic code search, and coding agent retrieval. Across image, video, documents, and audio, it sets a new standard in quality-per-parameter for sub-1B models and even outperforms some specialist models more than twice its size.\n\nFind full evaluation metrics and model information in the EmbeddingGemma 2 model card.\n\nEnabling semantic search, routing, and retrieval, fully on-deviceEmbeddingGemma 2 brings robust capabilities directly to edge hardware. Generating embeddings locally helps ensure data privacy, reduces pipeline latency, and empowers developers to build cross-modal search and retrieval that works entirely offline.When paired with generative models such as Gemma 4, EmbeddingGemma 2 enables on-device RAG pipelines that understand complex multimodal data. Because EmbeddingGemma 2 is built on Gemma 4 and shares its text tokenizer and audio encoder, developers can run both models together in a unified pipeline with a lower combined total memory footprint.\n\nEmbeddingGemma 2 brings robust capabilities directly to edge hardware. Generating embeddings locally helps ensure data privacy, reduces pipeline latency, and empowers developers to build cross-modal search and retrieval that works entirely offline.\n\nWhen paired with generative models such as Gemma 4, EmbeddingGemma 2 enables on-device RAG pipelines that understand complex multimodal data. Because EmbeddingGemma 2 is built on Gemma 4 and shares its text tokenizer and audio encoder, developers can run both models together in a unified pipeline with a lower combined total memory footprint.\n\nUse text or an image to find the top matches in your media library based on semantic similarity. Try it in Google AI Edge Gallery’s Instant Media Search.\n\nLocate specific moments in video using text or audio queries. Try it in Google AI Edge Gallery’s Video Moments Finder.\n\nPair EmbeddingGemma 2 for local file retrieval with Gemma 4 for contextual reasoning. Try it in the Google AI Edge Foresight app.\n\nCreate real-time decision engines leveraging multimodal context for classification, routing, and predictive capabilities via the MediaPipe Decision Task API.\n\nTo learn how to build on-device search and RAG systems with LiteRT, read the Google AI Edge blog post.\n\nGetting started with EmbeddingGemma 2We worked closely with the following partners to ensure EmbeddingGemma 2 works immediately where you build:Download the models: Find the model weights on Hugging Face and Kaggle, with Gemini Enterprise Agent Platform Model Garden availability coming soon. Visit LiteRT Community on Hugging Face for models optimized for on-device.On-device deployment: Develop cross-platform apps with Google AI Edge MediaPipe for turnkey embedding, retrieval & decision tasks or LiteRT for custom model integration. Build for the browser with transformers.js or WebGPU.Use your favorite development tools: Serve the model efficiently using transformers, sentence-transformers, MLX, vLLM, llama.cpp, SGLang, Ollama, and LMStudio. Store your embedding vectors with Qdrant.Fine-tuning: Follow guidance by Unsloth for how to fine-tune EmbeddingGemma 2 for your use cases.Explore our developer guide, documentation, and guides for inference and fine-tuning.\n\nWe worked closely with the following partners to ensure EmbeddingGemma 2 works immediately where you build:\n\nExplore our developer guide, documentation, and guides for inference and fine-tuning.",
+        "fullTranslation": "EmbeddingGemma 2 是目前能力最强的端侧多模态嵌入模型，能够原生将文本、图像、音频和视频的组合映射到统一的嵌入空间中。\nGoogle DeepMind 研究工程师\nHenrique Schechter Vera\n您的浏览器不支持音频播放元素。\n我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。凭借超过2000万次的下载量，构建者们已将其用于驱动更智能的端侧搜索工具以及注重隐私的检索增强生成（RAG）流程。今天，我们正式发布 EmbeddingGemma 2，在文本之外进一步扩展，将代码、图像、视频和音频统一在共享的嵌入空间中。EmbeddingGemma 2 基于 Gemma 4 架构构建，并采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数，非常适合端侧推理。它可以帮助用户通过语音备忘录查找特定视频片段，或根据文本查询在数小时的录音中进行检索，所有处理均由单个原生多模态模型完成。\n我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。凭借超过2000万次的下载量，构建者们已将其用于驱动更智能的端侧搜索工具以及注重隐私的检索增强生成（RAG）流程。\n今天，我们正式发布 EmbeddingGemma 2，在文本之外进一步扩展，将代码、图像、视频和音频统一在共享的嵌入空间中。EmbeddingGemma 2 基于 Gemma 4 架构构建，并采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数，非常适合端侧推理。它可以帮助用户通过语音备忘录查找特定视频片段，或根据文本查询在数小时的录音中进行检索，所有处理均由单个原生多模态模型完成。\n基于与 Gemini 嵌入模型相同的技术构建，EmbeddingGemma 2 具有以下特点：在同等体量中表现最佳：在 MTEB（海量文本嵌入基准）Code 和 MAEB（海量音频嵌入基准）等基准测试中，在 10 亿参数以下的多模态嵌入模型中取得了领先分数，同时在文本、视觉和音频任务上匹敌或超越了许多更大的模型。模块化设计：仅纯文本工作负载仅需低至 2.7 亿参数，并配备可选的视觉（1.7 亿）和音频（3 亿）编码器以实现完整的全模态支持。高存储效率：利用俄罗斯套娃表示学习（MRL），开发者可以将输出向量维度从 768 维动态截断至 512、256 或 128 维。这为本地向量数据库和内存占用提供了高达 6 倍的存储缩减。针对端侧性能优化：在严格的资源限制下高效运行。通过量化，在 Google Pixel 11 Pro 上，EmbeddingGemma 2 的纯文本权重仅需约 191MB 的活动 RAM，完整多模态模型仅需约 567MB。支持扩展上下文：具备 8K token 的上下文窗口（是 EmbeddingGemma 1 的 4 倍），使其能够直接在本地硬件上处理长达 5.5 分钟的音频、29 张图像、58 帧视频，或它们的交错组合。\n基于与 Gemini 嵌入模型相同的技术构建，EmbeddingGemma 2 具有以下特点：\n在代码、视觉和音频方面达到顶尖品质。EmbeddingGemma 2 保持了 EmbeddingGemma 强大的多语言文本性能，同时在代码性能上实现了 9.92 分的显著提升（在 MTEB Code 中从 68.76 分升至 78.68 分），非常适合本地代码库索引、语义代码搜索和代码智能体检索。在图像、视频、文档和音频领域，它树立了 10 亿参数以下模型“每参数质量”的新标杆，甚至超越了体积为其两倍以上的某些专用模型。\nEmbeddingGemma 2 保持了 EmbeddingGemma 强大的多语言文本性能，同时在代码性能上实现了 9.92 分的显著提升（在 MTEB Code 中从 68.76 分升至 78.68 分），非常适合本地代码库索引、语义代码搜索和代码智能体检索。在图像、视频、文档和音频领域，它树立了 10 亿参数以下模型“每参数质量”的新标杆，甚至超越了体积为其两倍以上的某些专用模型。\n在 EmbeddingGemma 2 模型卡片中可查看完整评测指标及模型信息。\n完全在端侧实现语义搜索、路由与检索。EmbeddingGemma 2 直接为边缘硬件带来强大能力。在本地生成嵌入有助于确保数据隐私、降低流程延迟，并使开发者能够构建完全离线运行的跨模态搜索和检索系统。当与 Gemma 4 等生成模型搭配使用时，EmbeddingGemma 2 能够实现理解复杂多模态数据的端侧 RAG 流程。由于 EmbeddingGemma 2 基于 Gemma 4 构建并共享其文本分词器及音频编码器，开发者可以在统一流程中同时运行这两个模型，从而降低总体内存占用。\nEmbeddingGemma 2 直接为边缘硬件带来强大能力。在本地生成嵌入有助于确保数据隐私、降低流程延迟，并使开发者能够构建完全离线运行的跨模态搜索和检索系统。\n当与 Gemma 4 等生成模型搭配使用时，EmbeddingGemma 2 能够实现理解复杂多模态数据的端侧 RAG 流程。由于 EmbeddingGemma 2 基于 Gemma 4 构建并共享其文本分词器及音频编码器，开发者可以在统一流程中同时运行这两个模型，从而降低总体内存占用。\n使用文本或图像根据语义相似度在媒体库中查找最匹配的结果。可在 Google AI Edge Gallery 的“即时媒体搜索（Instant Media Search）”中体验。\n使用文本或音频查询定位视频中的特定时刻。可在 Google AI Edge Gallery 的“视频精彩片段查找器（Video Moments Finder）”中体验。\n将用于本地文件检索的 EmbeddingGemma 2 与用于上下文推理的 Gemma 4 配对使用。可在 Google AI Edge Foresight 应用中体验。\n通过 MediaPipe Decision Task API，利用多模态上下文创建具备分类、路由和预测能力的实时决策引擎。\n如需了解如何使用 LiteRT 构建端侧搜索和 RAG 系统，请阅读 Google AI Edge 官方博文。\n\n上手使用 EmbeddingGemma 2。我们与以下合作伙伴紧密合作，以确保 EmbeddingGemma 2 能够在您构建应用的环境中即开即用：下载模型：可在 Hugging Face 和 Kaggle 上获取模型权重，Gemini Enterprise Agent Platform Model Garden 也即将上线支持。访问 Hugging Face 上的 LiteRT 社区以获取针对端侧优化的模型。端侧部署：利用 Google AI Edge MediaPipe 开发跨平台应用，实现开箱即用的嵌入、检索和决策任务，或使用 LiteRT 进行自定义模型集成。使用 transformers.js 或 WebGPU 面向浏览器构建应用。使用您喜爱的开发工具：使用 transformers、sentence-transformers、MLX、vLLM、llama.cpp、SGLang、Ollama 和 LMStudio 高效提供模型服务。使用 Qdrant 存储您的嵌入向量。微调：参考 Unsloth 的指南，了解如何针对您的具体用例对 EmbeddingGemma 2 进行微调。探索我们的开发者指南、文档以及推理和微调指南。\n\n我们与以下合作伙伴紧密合作，以确保 EmbeddingGemma 2 能够在您构建应用的环境中即开即用：\n\n探索我们的开发者指南、文档以及推理和微调指南。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 4,
+        "keyTakeaways": [
+          "Google DeepMind 正式推出 EmbeddingGemma 2，这是一款用于端侧多模态嵌入的模型，将代码、图像、视频和音频统一在共享嵌入空间中。",
+          "EmbeddingGemma 2 基于 Gemma 4 架构构建，采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数。",
+          "来源叙事重点：宣传 EmbeddingGemma 2 的端侧多模态嵌入能力，重点强调其 740M 紧凑参数规模、模块化与量化后的极低内存占用、Apache 2.0 开源商用友好性，以及在保护隐私和离线环境下的端侧 RAG 检索潜力与生态工具适配能力。"
+        ],
+        "citations": [
+          {
+            "source": "Google DeepMind (AI前沿研究)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T19:57:04.000Z",
+            "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+          }
+        ]
+      },
+      {
+        "id": "story-8-4f1e-acf5-bba7193b4e6e-3fe694bda0c4c2f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T20:00:08.000Z",
+        "pubTime": "2026-10-07 04:00",
+        "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c7c2b48-a025-48b9-9c64-9f6bbb8442cc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Salaries and bonuses spiral for seafarers willing to risk perilous trip through waterway in face of Iranian attacks",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-10-07 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-06T20:00:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-dae20ddd991a8cd3cd90d347-c1383a7e0a41a0d8",
+        "title": "为什么我们应该采用依赖注入",
+        "originalTitle": "Why We Should Inject Dependencies",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T18:03:04.000Z",
+        "pubTime": "2026-10-07 02:03",
+        "url": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347",
+        "imageUrl": null,
+        "fullContent": "Instantly share code, notes, and snippets.\n\nDependency Injection frameworks have existed for a long time, but Rubyists have traditionally avoided doing this, likely because it is perceived as being unnecessary complexity.\n\nHowever, the \"simplicity\" afforded by not doing this has negative effects, as this document attempts to demonstrate. Ruby's flexibility allows us to approach DI in a much more friendly way than e.g. Java.\n\nFrequently, parameters to an object are passed as a combination of initialization params and method arguments with no clear difference.\n\nHere's a representative bit of imaginary code that follows this pattern:\n\n@email and @password are initialized as instance state for this class. How often are we to assume these will change? Is it reasonable for these values to persist across multiple calls?\n\nWhat if we look at the usage of this class in the controller and find:\n\nWe can see from the invocation of this class that @email and @password comes from user-input, therefore this requires initializing the new value for every signup. The instance of UserRegistration is immediately discarded once the computation is finished.\n\nThis class uses a couple external interfaces: EmailValidator, BCrypt::Password, UserRepository, and ConfirmationMailer. These are constants, and so do not change between calls. They are dependencies.\n\nThe constants are referenced directly in implementation code, and can't easily be replaced under test. So in order to write a test for this, we have to stub global API based on knowledge of the internal details of the object.\n\nWhat if EmailValidator changes its rules in a way that breaks our test email? Suddenly our tests might fail for reasons totally unrelated to the behavior we're testing. We need a better way to replace these with test doubles.\n\nDependencies are references that could be used multiple times during the lifetime of an object. Arguments are one-time parameters that pertain to an individual request.\n\nRuby is object-oriented in design; every thing you interact with is an object. Classes exist to define a repeatable pattern for building objects of a particular type, but those class instances are treated as separate things.\n\nWhen one object interacts with another, this creates a dependency relationship between them. We will call these coordinating objects. Managing complexity in a system is primarily about limiting these dependency relationships.\n\nIf coordinating objects may be referenced at any point within an object, visually determining the totality of its dependencies is more difficult.\n\nDeclaring all coordinating objects as explicit dependencies at the top makes visually determining a class's dependencies very easy.\n\nWe can now determine at a glance that this class depends on EmailValidator, BCrypt::Password, UserRepository, and ConfirmationMailer by looking in one place. It's not such a big change in this small example, but you've certainly seen larger classes where dependency usage is spread throughout. Think about how each pattern would scale, and which would be harder to comprehend.\n\nImagine that a requirement comes down that staff emails should use a stronger digest algorithm. Previously, this would have required changing the implementation. But all we would need to do is pass in a different dependency.\n\nThis construction allows us to decouple class initialization from its usage.\n\nUse initialize as the interface to inject dependencies for an object.\n\nThe validation behavior in this code should be tested in isolation, so in some cases you're going to want it to always pass or always fail.\n\nIn the original code, we cannot change this from the outside. So you'd most likely have to stub EmailValidator, which encodes knowledge of the implementation of this object into the test code itself. Test Behavior, Not Implementation\n\nNow that we are injecting it, we can do this by passing in an alternate implementation:\n\nUse injection to replace dependencies with test doubles.\n\nMoving to Dependency Injection via initialize has solved some problems, but this has created a new problem: often objects have many dependencies, and writing them out as keyword arguments becomes very awkward.\n\nIn addition to a verbose arguments list, it also requires assigning each kwarg to an instance variable, so you have to type out each argument twice.\n\nThere is a system that helps you define initialize without the redundancy:\n\nIf we look at the Command base class, we see extend Dry::Initializer, which is providing this option helper.\n\noption defines a keyword argument for the initialize function to accept, and provides an instance method to access the value. It also has the added benefit of supporting type-checks.\n\nYou can also include it inline into any plain Ruby class:\n\nInstead of a permanent option interface, define uses a module builder pattern instead which keeps the class interface simple. Using extend is fine for cases where you already have a base class, and don't want to repeat yourself in the children.\n\nBy using a simple DSL, we can eliminate the redundancy of defining kwargs explicitly. This works well for simple cases.\n\nObject-building should be handled in a systematic way that follows a generic convention.\n\nSo far, there is no need for the instance of a class to have its own identity separate from the class itself. But, what if we need to replace one class with another based on a feature gate?\n\nThis is where a simple DSL like Dry::Initializer breaks down; we need to be able to dynamically choose our injected dependencies, and this means we need a way of identifying them aside from their class constant.\n\nThe code consuming UserRegistration should ideally not have to know these internal details in order to call it. You really shouldn't have to think about how to construct this object when all you need to do is call it.\n\nYou can simplify the caller code by pushing this branch down into UserRegistration:\n\nBut this this has merely moved the problem: now, UserRegistration is made responsible for knowing which client to use. Dependents of NotificationService should not know about this, because this requires duplicating that branch every place it is used.\n\nDry::Core::Container gives us a better place to encode this information:\n\nThis defines a key in container named confirmation. Next we define a Deps constant using this container:\n\nYou can now inject this into any object by name:\n\nYou can alter this name to suit yourself:\n\nWill become notify within the instance. Let's move the remaining dependencies:\n\nAnd now we can simplify the original code:\n\nA Container key registration represents the details of how to instantiate a particular dependency that the consuming code can use by name without knowing the internal details.\n\nWhen we reserve initialize arguments for injecting dependencies, we can systematize it to reduce toil.\n\nWhen we systematize building our objects, we can give them unique identities apart from their class constants.\n\nWhen we decouple class constant from instance identity, our code can eliminate knowledge of how they are constructed and only focus on our defined public interface.\n\nThe purpose of a class in this paradigm is to define dependency relationships between classes and establish a public interface.\n\nThe purpose of the class instance is to do work, perform some kind of business function. You no longer need to hold both these things in your head simultaneously; they are separate concerns.\n\nJohnson, R.E. & Foote, B. (1988). Designing Reusable Classes. Journal of Object-Oriented Programming http://www.laputan.org/drc/drc.html\n\nFowler, M. (2005). Inversion of Control. https://martinfowler.com/bliki/InversionOfControl.html\n\nWeirich, J. (2004). Dependency Injection In Ruby. { | one, step, back | }. https://web.archive.org/web/20080203042721/http://onestepback.org/index.cgi/Tech/Ruby/DependencyInjectionInRuby.rdoc\n\nCodeAesthetic. (2023). Dependency Injection, The Best Pattern [Video]. YouTube. https://youtu.be/J1f5b4vcxCQ",
+        "fullTranslation": "即时分享代码、笔记和代码片段。\n\n依赖注入（Dependency Injection，DI）框架已经存在了很长时间，但 Ruby 开发者传统上一直对其敬而远之，这很可能是因为大家认为它带来了不必要的复杂性。\n\n然而，正如本文试图阐明的那样，不采用依赖注入所换来的“简单性”其实会带来负面效应。与 Java 等语言相比，Ruby 的灵活性使我们能够以一种友好得多的方式来实现 DI。\n\n在很多情况下，传递给对象的参数往往混合了初始化参数与方法参数，两者之间缺乏明确的界限。\n\n下面是一段遵循这种模式的代表性示例代码：\n\n在这个类中，@email 和 @password 被初始化为实例状态。我们能假定它们多久会改变一次？这些值在多次调用之间保持存在是合理的吗？\n\n如果我们看一下该类在控制器中的使用方式，会发现：\n\n从该类的调用方式可以看出，@email 和 @password 均来自用户输入，因此每次注册时都需要初始化新值。而一旦计算完成，UserRegistration 的实例就会立即被废弃。\n\n该类使用了几个外部接口：EmailValidator、BCrypt::Password、UserRepository 以及 ConfirmationMailer。这些都是常量，因此在多次调用之间不会发生改变。它们就是依赖项（Dependencies）。\n\n这些常量在实现代码中被直接引用，无法在测试环境中轻易替换。因此，为了为其编写测试，我们必须基于对对象内部细节的了解来对全局 API 进行打桩（stub）。\n\n如果 EmailValidator 更改了规则，导致我们的测试邮箱无法通过验证怎么办？突然之间，我们的测试可能会因为与被测行为完全无关的原因而失败。我们需要一种更好的方法来将它们替换为测试替身（test doubles）。\n\n依赖项（Dependencies）是在对象生命周期内可能被多次使用的引用。参数（Arguments）则是与单次请求相关的单次入参。\n\nRuby 在设计上是面向对象的；你所交互的每一个实体都是对象。类的存在是为了定义构建特定类型对象的可复用模式，但这些类实例本身是作为独立个体对待的。\n\n当一个对象与另一个对象发生交互时，它们之间便建立了依赖关系。我们称这些为协作对象（coordinating objects）。管理系统复杂性主要就是要限制这些依赖关系。\n\n如果协作对象可以在一个对象内部的任意位置被引用，那么从视觉上直观判断其所有依赖就会变得更加困难。\n\n将所有协作对象作为显式依赖在顶部统一声明，能使通过视觉直观判断类的依赖关系变得非常容易。\n\n现在，我们只需看一个地方，就能一目了然地确定该类依赖于 EmailValidator、BCrypt::Password、UserRepository 和 ConfirmationMailer。在这个小例子中这看起来变化不大，但你肯定见过依赖散布在各处的更大规模的类。想一想这两种模式将如何扩展，以及哪一种会更难理解。\n\n设想出现了一个新需求：员工邮箱需要使用更强大的摘要算法。在以前，这需要修改实现代码。但现在，我们所需要做的仅仅是传入一个不同的依赖项。\n\n这种结构允许我们将类的初始化与其具体使用分离开来。\n\n使用 initialize 作为向对象注入依赖的接口。\n\n这段代码中的验证行为应当被孤立测试，因此在某些测试场景下，你可能希望它始终通过或始终失败。\n\n在原始代码中，我们无法从外部改变这一点。因此你很可能不得不对 EmailValidator 进行打桩，而这会把该对象的内部实现细节编码进测试代码本身。记住：测试行为，而非测试实现。\n\n既然我们现在对其进行了注入，就可以通过传入一个替代实现来完成这一点：\n\n使用依赖注入将依赖项替换为测试替身。\n\n通过 initialize 转为依赖注入解决了一些问题，但同时也带来了新问题：通常对象拥有许多依赖项，将它们作为关键字参数逐一写出会变得非常别扭。\n\n除了冗长的参数列表之外，它还要求将每个关键字参数赋值给实例变量，因此你不得不将每个参数重复输入两次。\n\n有一个机制可以帮助你在没有这种冗余的情况下定义 initialize：\n\n如果查看 Command 基类，我们会看到 extend Dry::Initializer，正是它提供了这个 option 辅助方法。\n\noption 为 initialize 函数定义了要接收的关键字参数，并提供了一个用于访问该值的实例方法。此外，它还具有支持类型检查的额外优势。\n\n你也可以直接将其内联包含在任何普通 Ruby 类中：\n\ndefine 没有采用固定的 option 接口，而是使用了模块构建器模式，从而保持了类接口的精简。在你已经拥有基类且不想在子类中重复自身代码的情况下，使用 extend 是很合适的。\n\n通过使用简单的 DSL，我们可以消除显式定义关键字参数所带来的冗余。这在简单场景下运作良好。\n\n对象的构建应当以遵循通用约定的系统化方式进行处理。\n\n到目前为止，类的实例尚不需要拥有独立于类本身的标识。但是，如果我们根据特性开关（feature gate）需要将一个类替换为另一个类，该怎么办？\n\n这正是像 Dry::Initializer 这样简单的 DSL 面临局限的地方；我们需要能够动态选择注入的依赖项，这意味着我们需要一种除了类常量之外的方式来标识它们。\n\n调用 UserRegistration 的代码在理想情况下不应该为了调用它而必须了解这些内部细节。当你所需要的仅仅是调用它时，你实在不应该需要去考虑如何构建这个对象。\n\n你可以通过将该分支逻辑下推到 UserRegistration 中来简化调用方代码：\n\n但这仅仅是转移了问题：现在，UserRegistration 被赋予了负责知晓该使用哪个客户端的职责。NotificationService 的依赖方不应该对此知情，因为这会导致该分支逻辑在每一个使用它的地方都被重复一遍。\n\nDry::Core::Container 为我们提供了一个更好的位置来编码这些信息：\n\n这在容器中定义了一个名为 confirmation 的键。接下来我们使用该容器定义一个 Deps 常量：\n\n现在你可以通过名称将它注入到任何对象中：\n\n你可以根据需要修改这个名称：\n\n在实例内部它将变为 notify。让我们把其余的依赖项也迁移过来：\n\n现在我们可以简化原始代码了：\n\n容器键的注册代表了关于如何实例化特定依赖项的细节，消费代码可以按名称使用它，而无需知晓其内部细节。\n\n当我们保留 initialize 参数专用于注入依赖时，我们可以将其系统化以减少样板劳动。\n\n当我们将对象的构建系统化时，我们就可以赋予它们独立于类常量的唯一标识。\n\n当我们把类常量与实例标识解耦时，我们的代码便无需了解它们是如何被构建的，只需专注于我们所定义的公开接口。\n\n在这种范式下，类的作用是定义类之间的依赖关系，并确立公开接口。\n\n而类实例的作用是执行工作、实现某种业务功能。你不再需要在大脑中同时兼顾这两件事；它们是各自独立的关注点。\n\nJohnson, R.E. & Foote, B. (1988). Designing Reusable Classes. Journal of Object-Oriented Programming http://www.laputan.org/drc/drc.html\nFowler, M. (2005). Inversion of Control. https://martinfowler.com/bliki/InversionOfControl.html\nWeirich, J. (2004). Dependency Injection In Ruby. { | one, step, back | }. https://web.archive.org/web/20080203042721/http://onestepback.org/index.cgi/Tech/Ruby/DependencyInjectionInRuby.rdoc\nCodeAesthetic. (2023). Dependency Injection, The Best Pattern [Video]. YouTube. https://youtu.be/J1f5b4vcxCQ",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 54,
+        "translationParagraphs": 51,
+        "keyTakeaways": [
+          "依赖注入（Dependency Injection）框架存在已久，但 Ruby 开发者传统上普遍避免使用它，这可能是因为人们认为它带来了不必要的复杂性。",
+          "示例中 UserRegistration 类使用的外部接口常量包括 EmailValidator、BCrypt::Password、UserRepository 以及 ConfirmationMailer。",
+          "来源叙事重点：系统性论证在 Ruby 项目中引入依赖注入（DI）的必要性与工程优势，批判社区回避 DI 的传统惯性，并演示从构造器注入到引入轻量容器（如 dry-initializer、dry-container）的具体重构路径。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T18:03:04.000Z",
+            "url": "https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347"
+          }
+        ]
+      }
+    ]
+  }
+]
