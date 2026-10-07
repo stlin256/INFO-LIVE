@@ -48,14 +48,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **110** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **111** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-07 15:27 (UTC+8)
+- **最新归档时间**：2026-10-07 23:42 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-07 23:42 (UTC+8)" title="全球要闻情报简报 · 23:42" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-07 23:37 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】要闻：该话题的文章将添加到您的每日电子邮件摘要和主页信息流中：该话题的文章将添加到您的每日电子邮件摘要和主页信息流中。；【undefined】Healthleap为其用于标记可能需要进一步检查的住院患者的AI融资3800万美元：据TechCrunch独家获悉，Healthleap是一家开发人工智能平台的初创公司，该平台通过读取患者病历，识别可能患有未确诊疾病的高风险患者。该公司已通过种子轮和A轮融资筹集3800万美元。；【undefined】霍尔木兹海峡受阻导致石油收入锐减，伊拉克将第纳尔贬值14.5%：周三，伊拉克将第纳尔贬值14.5%，汇率定为1美元兑1520第纳尔。此前数月，通过霍尔木兹海峡的石油出口持续受阻，严重削弱了该国政府的主要收入来源。；【undefined】面向 Rust 程序员的 C 语言：我最早学会的系统编程语言是 Rust。与许多其他程序员相比，这种情况并不常见；更有可能的是，一个人先学习 C 或 C++，之后才接触 Rust。因此，互联网上有大量“面向 C 程序员的 Rust”文章，但几乎没有“面向 Rust 程序员的 C”文章。；【undefined】Bloom获360万美元融资，欲打造美国制造业的“阿里巴巴”：贾斯汀·科斯米德斯（Justin Kosmides）在2023年联合创立Bloom时，他的目标是成为出行行业的救星。他曾目睹许多电动自行车和电动滑板车公司走向失败，原因在于它们无力——或不愿——将物流、制造或供应链搭建等一些最棘手的问题外包出去。他希望能说服幸存者和新入局者，把这些工作交给Bloom来处理。；【undefined】软件写作中的反模式：作者：Michael Lynch，发布于 2026 年 10 月 7 日 在软件开发中，我们收集反模式来识别那些导致软件产出不良的常见特征。我认为将同样的方法应用于软件技术博客写作也会大有裨益，因此我整理了初学者博主中最常犯的错误。 到目前为止，软件博客中最普遍的错误就是行文漫无边际、偏离主题。我经常发现自己读了一篇文章好几段，却依然完全不知道作者到底想表达什么。 开发者热衷于细节和具体背景，因此他们在写博客时往往以幕后故事、历史背景以；【undefined】今年前八个月俄罗斯对土耳其管道天然气供应量下降17%：塔斯社莫斯科10月7日电 据塔斯社根据欧盟统计局（Eurostat）数据测算，2026年1月至8月，俄罗斯对土耳其的管道天然气供应量同比下降17%。；【undefined】翁布里亚大区签署参加2027年贝尔格莱德世博会协议：（安莎社）- 罗马，10月7日 - 2027年贝尔格莱德世博会意大利展区总代表、驻塞尔维亚大使卢卡·戈里（Luca Gori）与翁布里亚大区主席斯特凡妮娅·普罗耶蒂（Stefania Proietti）签署了一项协议，明确了该大区参与这项专业类世博会的相关条款。该博览会定于2027年5月15日至8月15日在塞尔维亚首都举行。以“为人性而玩：面向人人的体育与音乐”（Playing for Humanity: Sports and Musi
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261007/rossiya-2123006501.html) <span class="news-meta-time">🕒 2026-10-07 23:37</span>
+- [The Verge (前沿数码科技)] [要闻：该话题的文章将添加到您的每日电子邮件摘要和主页信息流中](https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support) <span class="news-meta-time">🕒 2026-10-07 23:37</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-07 23:35</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/oct/07/bail-hostels-due-to-house-early-release-prisoners-in-england-and-wales-closed) <span class="news-meta-time">🕒 2026-10-07 23:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-combining-science-community-knowledge-coral.html) <span class="news-meta-time">🕒 2026-10-07 23:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261007/genkonsulstvo-2123006158.html) <span class="news-meta-time">🕒 2026-10-07 23:36</span>
+:::
 :::timeline-item{start="2026-10-07 15:27 (UTC+8)" title="全球要闻情报简报 · 15:27" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-07 15:19 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -648,18 +661,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426) <span class="news-meta-time">🕒 2026-09-23 08:32</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-parents-squabbles-kids.html) <span class="news-meta-time">🕒 2026-09-23 09:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/moskva-2119635738.html) <span class="news-meta-time">🕒 2026-09-23 09:27</span>
-:::
-:::timeline-item{start="2026-09-23 06:29 (UTC+8)" title="全球要闻情报简报 · 06:29" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-23 06:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元：旨在帮助人工智能实验室及企业构建训练数据集与模拟环境的初创公司 Snorkel AI，已在 E 轮融资中筹集了 3.5 亿美元，估值达到 35 亿美元。；【undefined】物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制：作者：汤姆·丁基（Tom Dinki），纽约州立大学布法罗分校 编辑：罗伯特·伊根（Robert Egan） 本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时强调了以下属性：同行评审发表。；【undefined】紫外线指数并不是裸露皮肤感受到的阳光温度：阳光的温暖并不是衡量你在特定情况下会多快被晒伤的可靠指标。一方面，即使在较凉爽的阴天，你仍然可能被晒伤；另一方面，早晨阳光照在皮肤上可能感觉灼热，但你却不会（很快）被晒伤。；【undefined】澳大利亚新闻直播：美国广播公司监督机构批评《四角》节目事实核查及“保密文化”：实时关注当天新闻；【undefined】第81届联大一般性辩论开幕：中新社联合国9月22日电 (记者 王帆)第81届联合国大会一般性辩论22日在纽约联合国总部开幕。；【undefined】西蒙娜·拜尔斯买了一辆新保时捷，因为她的旧车如今带着令人 unmistakable 的盗窃气味：西蒙娜·拜尔斯在社交媒体上透露，自己的保时捷被盗后，最近去买了一辆车。；【undefined】NBA球星凯文·杜兰特对恩尼斯·坎特·弗里德姆关于WNBA跨性别争议的看法不屑一顾：“我根本不在乎”：凯文·杜兰特不想参与WNBA关于性别参赛资格的争论。；【undefined】美联储理事会宣布批准班克第一公司（BancFirst Corporation）的申请：美国政府官方网站
-
-**重点要闻索引：**
-- [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next) <span class="news-meta-time">🕒 2026-09-23 06:11</span>
-- [TechCrunch (硅谷创业与资本)] [AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) <span class="news-meta-time">🕒 2026-09-23 05:56</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html) <span class="news-meta-time">🕒 2026-09-23 06:00</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/) <span class="news-meta-time">🕒 2026-09-23 05:03</span>
-- [Phys.org (基础物理与技术前沿)] [物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制](https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html) <span class="news-meta-time">🕒 2026-09-23 06:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/pensionery-2119627917.html) <span class="news-meta-time">🕒 2026-09-23 06:08</span>
 :::
 ::::
