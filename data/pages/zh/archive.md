@@ -48,14 +48,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **109** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **110** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-07 08:54 (UTC+8)
+- **最新归档时间**：2026-10-07 15:27 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-07 15:27 (UTC+8)" title="全球要闻情报简报 · 15:27" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-07 15:19 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Spotify将有声读物服务扩展至180多个市场：Spotify周三宣布，将把有声读物服务扩展至全球180多个市场，包括欧洲、美洲、加勒比地区、中东、非洲和亚洲的多个地区。这项推广从今天开始，并将在未来几个月持续进行。此举实施后，将有超过7.5亿用户能够使用有声读物，帮助Spotify更好地与音乐流媒体服务商以及Audible等有声读物应用展开竞争。；【undefined】花瓣“天窗”影响花朵内部微生物丰度：编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评议出版物 一些花朵的花瓣上具有微小的半透明区域。发表在《新植物学家》（New Phytologist）上的一项研究揭示，这些“天窗”会改变进入花朵的光线和热量，并创造出影响微生物丰度的环境条件。 野外实验表明，与有色组织相比，花瓣天窗能透射；【undefined】OpenAI 再度发布一批数学突破性成果：该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。 据称，OpenAI 发布的一批手稿中包含了“数百个”公开数学问题的解法。 该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。 查看罗伯特·哈特（Robert Hart）的全部文章 OpenAI 在一批共 722 篇手稿中公布了由一款未发布的前沿模型得出的诸多长期未决数学问题的解答，涵盖将相关论文归类的 372 个成果族。这延续了一系列突破，这些突破既让数学界部分学者感到惊艳；【undefined】可生物降解纳米颗粒技术或可提升农业生产效益：编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已按照 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物；【undefined】如何查看亚马逊是否认为你“屁股扁平”：亚马逊根据你的购买记录收集你的个人数据，这并不令人意外。如果你买了很多猫砂，亚马逊大概会推断你养了猫；如果你买了许多祛痘护肤品，亚马逊可能会猜测你容易长痘。即便我们知道亚马逊会根据购买历史为我们定制购物体验，但看到所有这些个人细节被整理成一份一目了然的清单，依然让人感到吃惊——尤其是当这些细节变得令人尴尬地私密时。；【undefined】IMF总裁格奥尔基耶娃：为何人工智能对世界各国领导人来说既是希望又是隐患：新加坡——国际货币基金组织（IMF）总裁表示，投资者和各国政府寄予厚望以提振全球经济的这项技术，同时也正在带来威胁增长的压力；她敦促政策制定者不要再推迟在债务问题上做出痛苦抉择。；【undefined】OpenAI 公开数学研究成果目录：本仓库包含由 OpenAI 内部模型生成的数学论文手稿及辅助证明材料。；【undefined】网约车服务除出行功能外或带来公共安全效益：由 Sadie Harley 编辑，Robert Egan 审校 本文已按照 Science X 的编辑流程与准则进行审校。编辑在确保内容真实可信的同时突出了以下属性： 发表在《经济探询》（Economic Inquiry）上的一项新研究揭示，优步（Uber）和 Lyft 等网约车服务可能会降低某些地区的犯罪率。 基于 2010 年以来网约车服务在美国各城市分阶段推广期间收集的数据，该研究表明，这些服务与暴力犯罪率下降 4.6%、财产犯
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261007/aksenov-2122827164.html) <span class="news-meta-time">🕒 2026-10-07 15:18</span>
+- [TechCrunch (硅谷创业与资本)] [Spotify将有声读物服务扩展至180多个市场](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/) <span class="news-meta-time">🕒 2026-10-07 15:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-07 15:08</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/) <span class="news-meta-time">🕒 2026-10-07 13:34</span>
+- [Phys.org (基础物理与技术前沿)] [花瓣“天窗”影响花朵内部微生物丰度](https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html) <span class="news-meta-time">🕒 2026-10-07 15:10</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261007/kirill-2122826649.html) <span class="news-meta-time">🕒 2026-10-07 15:15</span>
+:::
 :::timeline-item{start="2026-10-07 08:54 (UTC+8)" title="全球要闻情报简报 · 08:54" org="ARCHIVE"}
 **速报纪要：** 本时段监测到苏丹局部冲突加剧致平民伤亡与流离失所、数字平台合规调整恢复区域访问、美国政治表态以及体育界法律诉讼等动态。
 
@@ -648,16 +661,5 @@ notice:
 - [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/) <span class="news-meta-time">🕒 2026-09-23 05:03</span>
 - [Phys.org (基础物理与技术前沿)] [物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制](https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html) <span class="news-meta-time">🕒 2026-09-23 06:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/pensionery-2119627917.html) <span class="news-meta-time">🕒 2026-09-23 06:08</span>
-:::
-:::timeline-item{start="2026-09-23 03:10 (UTC+8)" title="全球要闻情报简报 · 03:10" org="ARCHIVE"}
-**速报纪要：** 本时段重点聚焦国际多边外交交锋、区域天然气库存警报、武装冲突联盟组建以及校园暴力隐患等核心动态。
-
-**重点要闻索引：**
-- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html) <span class="news-meta-time">🕒 2026-09-23 02:59</span>
-- [TechCrunch (硅谷创业与资本)] [黑客组织ShinyHunters声称入侵美国联邦调查局，窃取特工及求职者数据](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) <span class="news-meta-time">🕒 2026-09-23 02:40</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-23 02:33</span>
-- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49) <span class="news-meta-time">🕒 2026-09-23 01:14</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-sheep-grazing-pose-greater-threat.html) <span class="news-meta-time">🕒 2026-09-23 02:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/gosduma-2119614785.html) <span class="news-meta-time">🕒 2026-09-23 02:58</span>
 :::
 ::::

@@ -1,5 +1,1605 @@
 [
   {
+    "timestamp": 1791358067879,
+    "timeDisplay": "2026-10-07 15:27 (UTC+8)",
+    "date": "2026-10-07",
+    "runId": "feed-20261007T071946019Z-b81efh",
+    "generatedAt": "2026-10-07T07:27:47.879Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 15:19",
+      "lead": "本轮抓取于 2026-10-07 15:19 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Spotify将有声读物服务扩展至180多个市场：Spotify周三宣布，将把有声读物服务扩展至全球180多个市场，包括欧洲、美洲、加勒比地区、中东、非洲和亚洲的多个地区。这项推广从今天开始，并将在未来几个月持续进行。此举实施后，将有超过7.5亿用户能够使用有声读物，帮助Spotify更好地与音乐流媒体服务商以及Audible等有声读物应用展开竞争。",
+        "【undefined】花瓣“天窗”影响花朵内部微生物丰度：编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评议出版物 一些花朵的花瓣上具有微小的半透明区域。发表在《新植物学家》（New Phytologist）上的一项研究揭示，这些“天窗”会改变进入花朵的光线和热量，并创造出影响微生物丰度的环境条件。 野外实验表明，与有色组织相比，花瓣天窗能透射",
+        "【undefined】OpenAI 再度发布一批数学突破性成果：该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。 据称，OpenAI 发布的一批手稿中包含了“数百个”公开数学问题的解法。 该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。 查看罗伯特·哈特（Robert Hart）的全部文章 OpenAI 在一批共 722 篇手稿中公布了由一款未发布的前沿模型得出的诸多长期未决数学问题的解答，涵盖将相关论文归类的 372 个成果族。这延续了一系列突破，这些突破既让数学界部分学者感到惊艳",
+        "【undefined】可生物降解纳米颗粒技术或可提升农业生产效益：编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已按照 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物",
+        "【undefined】如何查看亚马逊是否认为你“屁股扁平”：亚马逊根据你的购买记录收集你的个人数据，这并不令人意外。如果你买了很多猫砂，亚马逊大概会推断你养了猫；如果你买了许多祛痘护肤品，亚马逊可能会猜测你容易长痘。即便我们知道亚马逊会根据购买历史为我们定制购物体验，但看到所有这些个人细节被整理成一份一目了然的清单，依然让人感到吃惊——尤其是当这些细节变得令人尴尬地私密时。",
+        "【undefined】IMF总裁格奥尔基耶娃：为何人工智能对世界各国领导人来说既是希望又是隐患：新加坡——国际货币基金组织（IMF）总裁表示，投资者和各国政府寄予厚望以提振全球经济的这项技术，同时也正在带来威胁增长的压力；她敦促政策制定者不要再推迟在债务问题上做出痛苦抉择。",
+        "【undefined】OpenAI 公开数学研究成果目录：本仓库包含由 OpenAI 内部模型生成的数学论文手稿及辅助证明材料。",
+        "【undefined】网约车服务除出行功能外或带来公共安全效益：由 Sadie Harley 编辑，Robert Egan 审校 本文已按照 Science X 的编辑流程与准则进行审校。编辑在确保内容真实可信的同时突出了以下属性： 发表在《经济探询》（Economic Inquiry）上的一项新研究揭示，优步（Uber）和 Lyft 等网约车服务可能会降低某些地区的犯罪率。 基于 2010 年以来网约车服务在美国各城市分阶段推广期间收集的数据，该研究表明，这些服务与暴力犯罪率下降 4.6%、财产犯"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-10-07",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】Spotify将有声读物服务扩展至180多个市场：Spotify周三宣布，将把有声读物服务扩展至全球180多个市场，包括欧洲、美洲、加勒比地区、中东、非洲和亚洲的多个地区。这项推广从今天开始，并将在未来几个月持续进行。此举实施后，将有超过7.5亿用户能够使用有声读物，帮助Spotify更好地与音乐流媒体服务商以及Audible等有声读物应用展开竞争。；【undefined】OpenAI 再度发布一批数学突破性成果：该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。 据称，OpenAI 发布的一批手稿中包含了“数百个”公开数学问题的解法。 该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。 查看罗伯特·哈特（Robert Hart）的全部文章 OpenAI 在一批共 722 篇手稿中公布了由一款未发布的前沿模型得出的诸多长期未决数学问题的解答，涵盖将相关论文归类的 372 个成果族。这延续了一系列突破，这些突破既让数学界部分学者感到惊艳；【undefined】可生物降解纳米颗粒技术或可提升农业生产效益：编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已按照 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】花瓣“天窗”影响花朵内部微生物丰度：编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评议出版物 一些花朵的花瓣上具有微小的半透明区域。发表在《新植物学家》（New Phytologist）上的一项研究揭示，这些“天窗”会改变进入花朵的光线和热量，并创造出影响微生物丰度的环境条件。 野外实验表明，与有色组织相比，花瓣天窗能透射；【undefined】网约车服务除出行功能外或带来公共安全效益：由 Sadie Harley 编辑，Robert Egan 审校 本文已按照 Science X 的编辑流程与准则进行审校。编辑在确保内容真实可信的同时突出了以下属性： 发表在《经济探询》（Economic Inquiry）上的一项新研究揭示，优步（Uber）和 Lyft 等网约车服务可能会降低某些地区的犯罪率。 基于 2010 年以来网约车服务在美国各城市分阶段推广期间收集的数据，该研究表明，这些服务与暴力犯罪率下降 4.6%、财产犯"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】IMF总裁格奥尔基耶娃：为何人工智能对世界各国领导人来说既是希望又是隐患：新加坡——国际货币基金组织（IMF）总裁表示，投资者和各国政府寄予厚望以提振全球经济的这项技术，同时也正在带来威胁增长的压力；她敦促政策制定者不要再推迟在债务问题上做出痛苦抉择。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】律师称美国死刑犯克丽丝塔·派克在执行死刑失败后已苏醒并能说话：该视频无法播放 观看：关于克丽丝塔·派克在执行死刑失败后“史无前例”的复苏，我们所了解到的情况"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】Python 3.15 到底有多快？：又到十月了，这也意味着是时候体验一下 Python 的最新版本了（严格来说，我使用的是 3.15.0rc3 版本，官方的 3.15 正式版还有几天才会发布）。正如一年前我写的 Python 3.14 性能文章一样，今天我将分享新一轮非正式的 Python 基准测试结果，对比 Python 3.15 与自 3.10 以来历代解释器的表现。；【undefined】当随机其实不够随机时：我们在随处可见的代码库中常常能发现一个普遍的模式，而且我们许多人也曾写过这样的代码：给定一组对象，随机抽取其中一个。每个对象被抽中的概率应当相同。一个相当简单且直接的解决方案是抽取一个很大的随机数，然后通过取模将该数字限制在候选数量的范围内：；【undefined】x32 架构下的 Janet：32 位指针、64 位速度，内存占用减少 25%：通过在 64 位系统上使用 32 位指针，有可能大幅节省内存（对于堆中包含大量指针的程序，节省幅度接近一半），并能在一定程度上提升程序运行速度（得益于更多数据能够装入缓存）。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 115,
+      "completedTasks": 115,
+      "succeeded": 81,
+      "degraded": 34,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 115,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 481800,
+      "byRole": {
+        "translator": {
+          "attempts": 78,
+          "succeeded": 47,
+          "degraded": 31
+        },
+        "fact-extractor": {
+          "attempts": 11,
+          "succeeded": 10,
+          "degraded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 11,
+          "succeeded": 11
+        },
+        "topic-classifier": {
+          "attempts": 11,
+          "succeeded": 11
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 115,
+          "succeeded": 81,
+          "degraded": 34
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-21-translator-0",
+      "article-23-translator-0",
+      "article-28-translator-0",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-30-translator-2",
+      "article-30-translator-3",
+      "article-30-translator-4",
+      "article-30-translator-5",
+      "article-30-translator-6",
+      "article-30-translator-7",
+      "article-30-translator-8",
+      "article-30-translator-9",
+      "article-30-translator-10",
+      "article-34-translator-0",
+      "article-38-translator-0",
+      "article-40-translator-1",
+      "article-43-translator-1",
+      "article-44-translator-0",
+      "article-50-translator-0",
+      "article-51-translator-0",
+      "article-6-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.958Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.501Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.970Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.510Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.922Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.995Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.933Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.311Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.181Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.438Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.144Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.321Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:23.559Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.662Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.359Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.649Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.299Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.516Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.072Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.435Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.820Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.962Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.649Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.820Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.510Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.855Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.545Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.881Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:23.287Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.619Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:23.028Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.559Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:23.166Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.287Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.311Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.891Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.881Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.933Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.855Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.922Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.314Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.359Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.300Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.314Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.869Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.946Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.802Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.012Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-07T07:19:21.501Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.809Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.869Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.970Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.134Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.307Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.501Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:23.321Z",
+        "lastSuccessAt": "2026-10-07T07:19:25.812Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.877Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.988Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.012Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.144Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.988Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.029Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.134Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.325Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:23.438Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.689Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.962Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.008Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.435Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.809Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.688Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.802Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.029Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.181Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-07T07:19:21.955Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.946Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.190Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.299Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.955Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.994Z",
+        "lastSuccessAt": "2026-10-07T07:19:22.183Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.299Z",
+        "lastSuccessAt": "2026-10-07T07:19:24.295Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "fetch failed",
+        "checkedAt": "2026-10-07T07:19:22.183Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.666Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.688Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.501Z",
+        "lastSuccessAt": "2026-10-07T07:19:20.545Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.891Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.970Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.516Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.666Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.190Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.028Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:22.325Z",
+        "lastSuccessAt": "2026-10-07T07:19:23.166Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:21.008Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.307Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:20.996Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.299Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.287Z",
+        "lastSuccessAt": "2026-10-07T07:19:19.958Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.297Z",
+        "lastSuccessAt": "2026-10-07T07:19:19.970Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T07:19:19.298Z",
+        "lastSuccessAt": "2026-10-07T07:19:21.072Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--aksenov-2122827164-html-83e77f4cd590f1e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия сплотилась вокруг своего президента, заявил Аксенов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T07:18:07.000Z",
+        "pubTime": "2026-10-07 15:18",
+        "url": "https://ria.ru/20261007/aksenov-2122827164.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/09/12/2118580483_341:0:3154:1582_650x0_80_0_0_f46f810c5d51a2874362e97cfc73321f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 15:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/aksenov-2122827164.html",
+            "publishedAt": "2026-10-07T07:18:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ooks-to-over-180-markets-360a70e1b653192c",
+        "title": "Spotify将有声读物服务扩展至180多个市场",
+        "originalTitle": "Spotify expands audiobooks to over 180 markets",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:00:00.000Z",
+        "pubTime": "2026-10-07 15:00",
+        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+        "imageUrl": null,
+        "fullContent": "Spotify announced on Wednesday that it’s expanding audiobook access to over 180 markets worldwide, including regions across Europe, the Americas, the Caribbean, the Middle East, Africa, and Asia. The rollout is starting today and will continue over the coming months. With this move, more than 750 million users will be able to access audiobooks, allowing Spotify to better compete with both music streaming providers and audiobook apps like Audible.\n\nBefore this, audiobooks were available primarily in English-speaking markets like the U.S., U.K., Ireland, Australia, and New Zealand, as well as in Germany.\n\nThe audio platform said it has more than 350,000 titles for its new markets and has increased its collection to include over 120 languages. With its launch in Spain, users in the country will have access to over 45,000 titles in Spanish.\n\nSpotify is working with more than 300 publishers worldwide, including Planeta and Mondadori, to increase the number of titles available in different markets.\n\nWith a Premium subscription, users can listen to 12 hours of audiobooks in eligible countries such as Brazil, Mexico, Colombia, Poland, Chile, Norway, and Peru. People across the world can also purchase an Audiobook+ standalone subscription to get access to titles with a 15-hour allowance. Alternatively, users can buy individual titles directly.\n\nIn February, the company launched a “Page Match” feature, which lets users scan a page of a physical book and find the corresponding point in the audiobook to listen to. Since the launch, 1 million people have been using the feature monthly, the company noted.\n\nSpotify said that over the last year, monthly listeners of audiobooks grew by 40% and listening hours increased by 30%.\n\nThis year, the company introduced Audiobook Charts to let people discover popular titles. It also launched an AI-powered tool for authors to turn their books into audiobooks using models from ElevenLabs. Plus, Spotify started experimenting with physical sales of books through its audiobook platform in select markets like the U.S. and the U.K.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "Spotify周三宣布，将把有声读物服务扩展至全球180多个市场，包括欧洲、美洲、加勒比地区、中东、非洲和亚洲的多个地区。这项推广从今天开始，并将在未来几个月持续进行。此举实施后，将有超过7.5亿用户能够使用有声读物，帮助Spotify更好地与音乐流媒体服务商以及Audible等有声读物应用展开竞争。\n\n此前，有声读物主要面向美国、英国、爱尔兰、澳大利亚和新西兰等英语市场，以及德国市场提供。\n\n这家音频平台表示，已为新市场准备了超过35万部作品，并将其藏书扩展至包含120多种语言。随着Spotify在西班牙推出服务，该国用户将可以使用超过4.5万部西班牙语作品。\n\nSpotify正与全球300多家出版商合作，包括Planeta和Mondadori，以增加不同市场可用的作品数量。\n\n在符合条件的巴西、墨西哥、哥伦比亚、波兰、智利、挪威和秘鲁等国家，用户通过Premium订阅可收听12小时有声读物。全球各地的用户还可以单独购买Audiobook+订阅，以获得包含15小时额度的服务。此外，用户也可以直接购买单部作品。\n\n今年2月，公司推出了“Page Match”功能，用户可以扫描实体书中的一页，找到有声读物中对应的位置并开始收听。公司指出，自该功能推出以来，每月已有100万人使用。\n\nSpotify表示，在过去一年中，有声读物的月度听众数量增长了40%，收听时长增加了30%。\n\n今年，公司推出了有声读物榜单，帮助用户发现热门作品。公司还推出了一款由人工智能驱动的工具，利用ElevenLabs的模型帮助作者将书籍制作成有声读物。此外，Spotify还开始在美国和英国等部分市场试验通过其有声读物平台销售实体书。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\nIvan负责报道TechCrunch的全球消费科技发展动态。他常驻印度，此前曾任职于《赫芬顿邮报》和The Next Web等媒体。\n\n如需联系Ivan或核实来自Ivan的联络信息，可发送电子邮件至im@ivanmehta.com，或通过Signal上的加密消息联系账号ivan.42。\n\n第二张通行证享受五折优惠。Disrupt体验旨在与他人分享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的交流范围。\n\n19岁创始人为Ghost融资1100万美元；Ghost是一家生产售价3499美元个人AI电脑的公司\n\n联邦法官称Flock构成“无差别的大规模监控”\n\n亚马逊回应数据中心引发的反弹，称其不再使用保密协议\n\nOpenAI安全员工辞职，称公司“文化已经崩坏”\n\nMeta希望你的下一款设备融入Muse\n\n谷歌认为，SpaceX的星舰必须发射1800次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用23个月建成",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "Spotify宣布将有声书服务扩展至全球180多个市场，涵盖欧洲、美洲、加勒比地区、中东、非洲和亚洲。",
+          "此次扩张使超过7.5亿用户能够访问有声书服务。",
+          "来源叙事重点：聚焦Spotify将其有声书业务全球扩张至180多个市场，突出其对Audible等竞品的直接竞争、支持的多语言/书目规模、订阅模式设计以及AI辅助制作等产品功能进展。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T07:00:00.000Z",
+            "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+          }
+        ]
+      },
+      {
+        "id": "story--making-process-12285e18-40ebd004813ed7ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:08:00.000Z",
+        "pubTime": "2026-10-07 15:08",
+        "url": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "One trend-following fund has outperformed rivals this year by deciding to take profits.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 15:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-07T07:08:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ons-to-dislike-ai-coding-4707edb81cbb1852",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reasons to dislike AI coding",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T05:34:50.000Z",
+        "pubTime": "2026-10-07 13:34",
+        "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+        "imageUrl": null,
+        "fullContent": "I covered this before in Art or tool? If you think of software as artistic output then generated software isn’t real because it doesn’t have the creative ineffability that’s a sign of true art.\n\nThere’s no argument against this one except that the people who want software typically aren’t paying for artworks, they’re paying for outcomes. And the outcomes of using a given artefact are the same regardless of how the artefact is made.\n\nThat also means there’s no argument for this one, unless you accept as axiomatic the ideas that things that can be considered art should only be made by people, and that using this particular set of tools is too big a separation between the person and the work when no other historical set of tools was too big a separation between the person and the work.\n\nI covered this one before too, in On working machines. If you think of typing in code as the thing you get paid for, and the employers now have access to a machine that can do the typing, then the machine “stole your jobs”.\n\nExcept that the job was never to type code, it was to deliver valuable software. People who can still do that can still get paid by organisations that need that to be done. And, as I said in the linked post, demand only increases as application becomes more efficient.\n\nIf you think that software creation is an interpersonal endeavour, then taking task descriptions generated by software and turning them into prompts that the software uses to generate more software is a dehumanising experience.\n\nThis has been the trajectory of society for centuries. Here’s a quote from the Fragment on Machines:\n\n…once adopted into the production process of capital, the means of labour passes through different metamorphoses, whose culmination is the machine, or rather, an automatic system of machinery (system of machinery: the automatic one is merely its most complete, most adequate form, and alone transforms machinery into a system), set in motion by an automaton, a moving power that moves itself; this automaton consisting of numerous mechanical and intellectual organs, so that the workers themselves are cast merely as its conscious linkages. […]\n\nThe accumulation of knowledge and of skill, of the general productive forces of the social brain, is thus absorbed into capital, as opposed to labour, and hence appears as an attribute of capital, and more specifically of fixed capital, in so far as it enters into the production process as a means of production proper.\n\nThis passage, written by Karl Marx in about 1857-1858, shows that both mechanical and intellectual work was always intended to be replaced by machinery (in predicting the alienation of intellectual work, Marx probably relied on his knowledge of contemporary mathematician Charles Babbage). In this situation it isn’t the technology that takes the job, it’s the mode of production. And given that programming is intellectual work, the means of production is literally our heads, we ought to be able to seize those.\n\nMotivated by Bertrand Meyer’s AI for Smarties, if you believe that software engineering is the careful application of the mysterious knowledge of software engineers, encapsulated in rules like the SOLID principles, “prefer composition over inheritance”, “use you’re type’s good“, the Law of Demeter and so on, then AI can’t possibly write software because it doesn’t apply those rules, it just generates text that happens to compile.\n\nNever mind that much of the history of computing involves people taking an empiricist approach to software: copying it from Stack Overflow and tweaking it until it works; writing it out from a listing in Numerical Recipes or Sinclair User and tweaking it until it works; writing macros to automate the copying phase, and so on.\n\nIf you believe that the big AI companies is run by people who don’t have humanity’s best interests at heart (further reading: all the Karl Marx writings I didn’t already quote above), then AI coding is bad because it supports those companies. As long as you don’t allow for the creation of other companies, the use of non-corporate models like academic or community models, and so on.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《机器论片断》（Fragment on Machines）由卡尔·马克思（Karl Marx）大约写于1857年至1858年。",
+          "作者此前曾撰写过题为《Art or tool?》和《On working machines》的文章讨论相关话题。",
+          "来源叙事重点：从哲学、历史与生产关系（援引马克思《机器论片断》）角度，解构与反驳程序员群体反感AI编程的几种常见论点（包括艺术独特性、岗位替代、劳动异化、工程原则神秘化及对大科技公司的抵触），主张以实用主义和生产方式变革的视角审视AI编程。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T05:34:50.000Z",
+            "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
+          }
+        ]
+      },
+      {
+        "id": "story--abundance-microbes-html-cc7764ebbc4d8a90",
+        "title": "花瓣“天窗”影响花朵内部微生物丰度",
+        "originalTitle": "Petal 'windows' affect the abundance of microbes within flowers",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:10:18.000Z",
+        "pubTime": "2026-10-07 15:10",
+        "url": "https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/translucent-petals.jpg",
+        "fullContent": "edited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nSome flowers have petals with small semitranslucent sections. Research in New Phytologist reveals that these \"windows\" alter the amount of light and heat entering the flower and create conditions that influence microbial abundance.\n\nField experiments showed that petal windows transmitted more ultraviolet and infrared radiation than pigmented tissue. Also, internal floral temperature predicted microbial numbers, with warmer flowers harboring fewer microbes.\n\nBecause microbial communities that live inside flowers can affect nectar quality, this discovery indicates that petal windows may influence how pollinators interact with flowers.\n\n\"One of the exciting things about this work is that a seemingly small floral trait can change the physical environment inside a flower in ways that affect its microbial community,\" said corresponding author Jessica Williams, a Ph.D. student at Florida Atlantic University.\n\n\"Because floral microbes can influence nectar traits and plant-pollinator interactions, these results suggest that flower structure may have ecological consequences that extend beyond the flower itself.\"\n\nPetal infrared transmission warms flowers and reduces microbial abundance, New Phytologist (2026). DOI: 10.1111/nph.71608\n\nJournal information: New Phytologist\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：\n同行评议出版物\n一些花朵的花瓣上具有微小的半透明区域。发表在《新植物学家》（New Phytologist）上的一项研究揭示，这些“天窗”会改变进入花朵的光线和热量，并创造出影响微生物丰度的环境条件。\n野外实验表明，与有色组织相比，花瓣天窗能透射更多的紫外线和红外线辐射。此外，花内温度可以预测微生物数量，温度较高的花朵所含微生物较少。\n由于生活在花朵内部的微生物群落能够影响花蜜品质，这一发现表明花瓣天窗可能会影响传粉者与花朵的相互作用方式。\n“这项工作令人兴奋的要点之一在于，一个看似微小的花部特征可以改变花内物理环境，进而影响其微生物群落，”通讯作者、佛罗里达大西洋大学（Florida Atlantic University）博士生杰西卡·威廉姆斯（Jessica Williams）表示。\n“由于花内微生物能影响花蜜特征以及植物与传粉者的相互作用，这些结果表明花朵结构所产生的生态效应可能会延伸至花朵本身之外。”\n论文信息：Petal infrared transmission warms flowers and reduces microbial abundance, New Phytologist (2026). DOI: 10.1111/nph.71608\n期刊信息：《新植物学家》（New Phytologist）\n生命科学与生态学学士。具备微生物实验室背景，并拥有石油、天然气和可再生能源领域的医药新闻采写经验。查看完整简介 →\n数学生物学学士，创意写作硕士。履历丰富，对科学和语言持有独特视角。查看完整简介 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "部分花朵的花瓣具有半透明的小区域（花瓣窗）。",
+          "发表在《新植物学家》（New Phytologist）上的研究显示，花瓣窗改变了进入花朵的光和热量，并创造出影响微生物丰度的条件。",
+          "来源叙事重点：聚焦佛罗里达大西洋大学在《New Phytologist》发表的最新研究，报道花瓣半透明微结构（花瓣窗）如何通过透射紫外线与红外线提升花内温度、减少微生物丰度，并推测该生理特征对花蜜品质及植物-传粉者相互作用的潜在生态级联影响。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T07:10:18.000Z",
+            "url": "https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-7-kirill-2122826649-html-144b57a7df68458f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Патриарх Кирилл поздравил Путина с днем рождения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T07:15:37.000Z",
+        "pubTime": "2026-10-07 15:15",
+        "url": "https://ria.ru/20261007/kirill-2122826649.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/01/0f/2068118251_0:168:3045:1881_650x0_80_0_0_b6dde5b072197897b5265b46e39f5996.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 15:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/kirill-2122826649.html",
+            "publishedAt": "2026-10-07T07:15:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-enai-math-release-github-0e401bad0dd434d6",
+        "title": "OpenAI 再度发布一批数学突破性成果",
+        "originalTitle": "OpenAI drops another batch of mathematical breakthroughs",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:26:38.000Z",
+        "pubTime": "2026-10-07 07:26",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSolutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Robert Hart\n\nOpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to “hundreds” of open questions.\n\nThe results have been expected for weeks, although until now OpenAI had not provided details about which problems the model had solved or exactly when they would be published. In September, the company said its model had “resolved more than 100 long-standing open problems across most areas of mathematics.” The released papers and other details also include some summaries of the model’s reasoning, estimates of the compute used, and stats about the number of problems attempted. OpenAI claims the “average result” used the equivalent of three hours of ChatGPT Pro thinking.\n\nAGMAI, or the Advisory Group on Mathematics and Artificial Intelligence, published its first recommendations in late September, urging AI labs to release mathematical results promptly and through established academic channels where possible, while disclosing details such as the name of the model used, prompts, and compute costs. The group also implored AI companies to “refrain from treating the release of mathematical results as marketing vehicles to promote their models,” a practice they said inflicts significant harm on the mathematical community.\n\nHere’s how OpenAI described its process for this release:\n\nFor this release, we’re publishing the results in a GitHub repository, with protocols for paper revisions and citations. We’re continuing to explore other community-hosted alternatives for this release which meet the committee’s guidelines. For future releases, we are committed to further improving the quality of the papers via the citations, mathematical exposition, and presentation of the results for better understanding\n\nThe full impact of the results will likely take some time to be felt as mathematicians assess and digest them. They add to a rapidly growing body of mathematical results from OpenAI and rival labs like Anthropic that the field is still processing, including results concerning a Millennium Prize problem, among the most famous open questions in the field. The speed at which AI labs have barreled into the discipline this year — particularly their handling of announcements — has provoked fierce debate over research practices, ethics, and how companies credit the human mathematicians whose work their systems build upon and potentially use to produce results.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。\n据称，OpenAI 发布的一批手稿中包含了“数百个”公开数学问题的解法。\n该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。\n查看罗伯特·哈特（Robert Hart）的全部文章\nOpenAI 在一批共 722 篇手稿中公布了由一款未发布的前沿模型得出的诸多长期未决数学问题的解答，涵盖将相关论文归类的 372 个成果族。这延续了一系列突破，这些突破既让数学界部分学者感到惊艳，也引发了他们的不安，同时也对研究伦理和学术行为提出了疑问。据 AGMAI（新成立的由顶尖数学家组成的独立顾问小组，旨在负责任地沟通与传达这些成果）称，此次发布的内容包含“数百个”开放性问题的解答。\n各方对这些结果已有数周的预期，尽管此前 OpenAI 尚未提供该模型具体解决了哪些问题以及确切何时公布的细节。今年 9 月，该公司表示其模型已“在绝大多数数学领域解决了 100 多个长期未决的开放问题”。此次发布的论文和其他细节还包括模型推理过程的部分总结、所用算力的估算以及尝试解答问题数量的统计数据。OpenAI 声称，“平均成果”消耗的算力相当于 ChatGPT Pro 思考三小时。\nAGMAI，即“数学与人工智能顾问小组”（Advisory Group on Mathematics and Artificial Intelligence），于 9 月底发布了首份建议，敦促各大人工智能实验室及时发布数学研究成果，并在可能的情况下通过成熟的学术渠道进行发布，同时披露所用模型名称、提示词和算力成本等细节。该小组还恳请 AI 公司“不要将发布数学成果作为推销其模型的营销手段”，并称这种做法对数学界造成了严重伤害。\n以下是 OpenAI 对本次发布流程的说明：\n在本次发布中，我们正在一个 GitHub 代码库中公开发布这些结果，并附有论文修订和引用的规范方案。我们正继续探索其他符合委员会指导准则的社区托管替代方案。对于未来的发布，我们致力于通过引用、数学阐述以及为了更好理解而呈现结果的方式，进一步提升论文的质量。\n随着数学家们对这些结果进行评估和消化，其全部影响可能还需要一段时间才能完全显现。它们使 OpenAI 以及 Anthropic 等竞争实验室迅速增加的数学成果体量进一步扩大，而该领域目前仍在对这些成果进行消化吸收，其中还包括涉及“千禧年大奖难题”（该领域最著名的未解难题之一）的相关结果。今年各 AI 实验室冲入该学科的速度——特别是他们处理成果发布的方式——引发了一场围绕研究规范、伦理以及企业如何归功于人类数学家的激烈辩论，毕竟 AI 系统的构建及其产生结果所依据的工作正是建立在这些人类数学家的成果之上。\n最重要新闻的免费每日摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "OpenAI 通过未发布的前沿模型生成了 722 篇手稿，涵盖 372 个结果族，展示了一系列长期存在的数学问题的解决方案。",
+          "OpenAI 将本次发布的论文及结果存放在 GitHub 仓库中，并附带论文修订与引用协议。",
+          "来源叙事重点：OpenAI 批量发布前沿 AI 模型得出的数学突破手稿，以及数学学术界（以 AGMAI 为代表）对其绕过传统学术同行评审、将研究作为市场营销手段等行为所引发的伦理与学术规范争议"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:26:38.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+          }
+        ]
+      },
+      {
+        "id": "story--ahead-of-hurricane-html-5bba224810b43a7a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T06:30:00.000Z",
+        "pubTime": "2026-10-07 14:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
+        "imageUrl": null,
+        "fullContent": "Chevron is evacuating workers from all its platforms in the Gulf of Mexico as meteorologists warn of a tropical storm approaching the area. For now, Chevron is only evacuating non-essential personnel, Reuters reported, saying that oil production at the facilities remains normal. Some analysts, however, see the storm warning as a further complication for already jittery oil markets. Shell is also evacuating non-essential personnel from six offshore platforms, CNN reported, and so is BP, in anticipation of the storm&rsquo;s approach. The report cited data suggesting the storm could reach the Gulf Coast by Friday by which time it could have grown into a Category 2 hurricane. The storm was an &ldquo;unwelcome complication for crude, raising the prospect of production and refining disruptions at a time when the market already has enough supply-side headaches,&rdquo; said KCM Trade&rsquo;s chief analyst Tim Waterer, as quoted by Reuters. The publication noted that if the storm lives up to forecasts, it could affect the operations of as many as six Gulf Coast refineries. Gulf Coast refineries represent half of the United States&rsquo; national refining capacity, or 14.1 million barrels daily. If the storm leads to refinery closures, they would come at the worst possible moment, as the global fuel crunch becomes increasingly severe. Platforms in the Gulf, for their part, account for 15% of the country&rsquo;s crude oil production and 5% of natural gas production. Weather forecasts say that the tropical storm could become the first hurricane of this year&rsquo;s Atlantic hurricane season, which has been a lot quieter than the seasons of previous years. That&rsquo;s despite grim warnings of multiple and increasingly severe hurricanes that were blamed on climate change driving more frequent extreme weather. The National Oceanic and Atmospheric Administration predicted a below-normal hurricane season for this year, to be fair, and it has turned out to be right.  By Charles Kennedy for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "雪佛龙（Chevron）正从墨西哥湾的所有平台撤离非必要人员，相关设施的原油生产仍保持正常。",
+          "壳牌（Shell）正从六个海上平台撤离非必要人员，英国石油（BP）也在风暴来临前撤离人员。",
+          "来源叙事重点：将热带风暴逼近墨西哥湾与雪佛龙、壳牌、BP撤离非必要人员联系起来，重点强调潜在的石油生产、炼油和燃料供应风险，以及天气事件对本已紧张的原油市场可能造成的额外扰动。文章同时援引NOAA低于常年水平的飓风季预测，形成对本次风暴影响的背景说明。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T06:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html"
+          }
+        ]
+      },
+      {
+        "id": "story-th-blood-pressure-ageing-71921fd44f244ff8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The generation raised on sugar rations – and what their health reveals 70 years later",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T05:00:35.000Z",
+        "pubTime": "2026-10-07 13:00",
+        "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
+        "imageUrl": "https://i.guim.co.uk/img/media/afb1d92ab75c8612d226af77908059ae6edf3836/31_0_3384_2709/master/3384.jpg?width=140&quality=85&auto=format&fit=max&s=71ed31cde09d04bfd320ae2c5aaed43f",
+        "fullContent": "From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on health\n\nThey were born into a Britain still recovering from the hardships of war. Though the air-raid sirens had fallen silent, many everyday foods remained rationed, including sugar. Adults were restricted to about 3 tablespoons (40g) a day to stretch between cups of tea, baking and desserts; children were limited to less than a tablespoon. Babies and very young children were expected to have little or no added sugar.\n\nThen, in 1953, the brakes came off. Separate restrictions on sweets and chocolate were lifted in February, followed by sugar in September. By the second half of 1954, average sugar consumption had almost doubled.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "战后英国许多日常食品实行配给制，其中包括糖。",
+          "糖配给期间，成年人每天糖摄入量限制在约3汤匙（40克），儿童少于1汤匙，婴儿及幼儿几乎没有添加糖。",
+          "来源叙事重点：以战后英国糖配给及1953—1954年配给解除为历史切入点，强调儿童早期糖摄入可能与成年后的血压、衰老等健康结果存在长期关联；报道同时突出糖消费在配给解除后迅速上升这一变化。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T05:00:35.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing"
+          }
+        ]
+      },
+      {
+        "id": "story-cultural-production-html-40ff29bf99b611ff",
+        "title": "可生物降解纳米颗粒技术或可提升农业生产效益",
+        "originalTitle": "Biodegradable nanoparticle technology may improve agricultural production",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:10:14.000Z",
+        "pubTime": "2026-10-07 15:10",
+        "url": "https://phys.org/news/2026-10-biodegradable-nanoparticle-technology-agricultural-production.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2023/grapevines-1.jpg",
+        "fullContent": "edited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nFarmers use a manufactured version of a natural plant hormone called gibberellic acid to improve the health and growth of crops, but it is highly sensitive to heat and light. A study in the Journal of the Science of Food and Agriculture shows that loading gibberellic acid into biodegradable nanoparticles can improve grape yield and quality, making it a promising and environmentally friendly approach for sustainable agricultural production.\n\nField applications demonstrated that treatment with gibberellic acid–loaded nanoparticles increased grape cluster weight by 104% and length by 67% compared with free gibberellic acid treatment, while berry weight, length and width increased by 15%, 4% and 13%, respectively.\n\n\"Compared to traditional products, nanocarrier systems ensure more efficient delivery of active substances such as plant growth regulators in agricultural applications,\" the authors wrote.\n\nPolymeric Nano-Delivery of Gibberellic Acid Enhances Fruit Quality, Yield, and Pedicel Strength in Grapevine (Vitis vinifera L.), Journal of the Science of Food and Agriculture (2026). DOI: 10.1002/jsfa.71082\n\nJournal information: Journal of the Science of Food and Agriculture\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已按照 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：\n同行评审出版物\n\n农民常使用一种名为赤霉酸的天然植物激素的人工合成制剂来改善农作物的健康状况并促进其生长，但这种物质对热和光高度敏感。《食品与农业科学杂志》（Journal of the Science of Food and Agriculture）刊登的一项研究表明，将赤霉酸载入可生物降解的纳米颗粒中可以提高葡萄的产量和品质，使其成为一种极具前景且环境友好的可持续农业生产途径。\n\n田间应用表明，与游离赤霉酸处理相比，经载赤霉酸纳米颗粒处理后，葡萄果穗重增加了104%，果穗长增加了67%，同时单果重、果实长度和果实宽度分别增加了15%、4%和13%。\n\n研究作者写道：“与传统产品相比，纳米载体系统确保了植物生长调节剂等活性物质在农业应用中能够实现更高效的递送。”\n\n论文信息：Polymeric Nano-Delivery of Gibberellic Acid Enhances Fruit Quality, Yield, and Pedicel Strength in Grapevine (Vitis vinifera L.), Journal of the Science of Food and Agriculture (2026). DOI: 10.1002/jsfa.71082\n期刊信息：《食品与农业科学杂志》（Journal of the Science of Food and Agriculture）\n生命科学与生态学学士。拥有微生物学实验室背景，以及石油、天然气和可再生能源行业的医药新闻经验。完整个人资料 →\n数学生物学学士，创意写作硕士。阅历丰富，对科学和语言具有独到见解。完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "来源叙事重点：报道一项发表于《Journal of the Science of Food and Agriculture》的新研究，聚焦通过可生物降解纳米颗粒递送赤霉酸技术，克服传统植物激素光热敏感缺陷，大幅提升葡萄产量与果实品质，倡导其在可持续农业中的应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T07:10:14.000Z",
+            "url": "https://phys.org/news/2026-10-biodegradable-nanoparticle-technology-agricultural-production.html"
+          }
+        ]
+      },
+      {
+        "id": "story-7-rapira-2122826249-html-b5d358b2684e3069",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Кассара стал генменеджером сборной России по рапире",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T07:12:48.000Z",
+        "pubTime": "2026-10-07 15:12",
+        "url": "https://ria.ru/20261007/rapira-2122826249.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/rsport/112009/86/1120098653_0:0:3072:1728_650x0_80_0_0_1e7867c621443756973048c3b942ea94.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 15:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/rapira-2122826249.html",
+            "publishedAt": "2026-10-07T07:12:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-you-have-flat-buttocks-bab40b499814a2c6",
+        "title": "如何查看亚马逊是否认为你“屁股扁平”",
+        "originalTitle": "How to find out if Amazon thinks you have ‘flat buttocks’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:55:39.000Z",
+        "pubTime": "2026-10-07 06:55",
+        "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "imageUrl": null,
+        "fullContent": "It shouldn’t come as a surprise that Amazon collects data about you based on what you buy. If you buy a lot of cat litter, Amazon will probably infer that you have cats, or if you buy a lot of anti-acne skin products, then Amazon might guess you’re prone to breakouts. Even if we know that Amazon customizes our shopping experiences based on our purchase history, it still comes as a surprise to see all of these personal details laid out in a convenient list. Especially when those details get uncomfortably intimate.\n\nOne Threads user came across this section of her Amazon settings where you can see who the shopping giant thinks you are, and alongside more benign assumptions like “Shops from women’s departments” and “Probably owns a Shark robot vacuum,” she found that Amazon assumes she “has flat buttocks.”\n\n“I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,” an Amazon customer, @fangirlinmegan, wrote on Threads. “I mean it ain’t wrong but damn did you have to call me out like that?”\n\nIn less than a day, the post garnered over a million views, including many from users who were curious what their own Amazon profiles might reveal. Here’s how you find out.\n\nOn desktop, you can find this page by hovering over where Amazon says “Hello, [your name]” in the upper right corner. Then click “Account” under the “Your Account” section. Under the “Ordering and shopping preferences” section, click “Your Shopping preferences.” From here, you can add in information of your own, like your shoe size, interests, and dietary preferences. But we’re not here to tell Amazon that it should stop selling you beef jerky since you’re a vegetarian. We’re here to see if Amazon thinks you have “flat buttocks.” When you scroll to the bottom of the page, you’ll see a blue hyperlinked option that says “Manage your information.” Once you click that, you’ll see what dirt Amazon has on you.\n\nFor me, Amazon has gleaned that I am someone who “practices photography,” “plays collectible card games,” and is “invested in the Apple ecosystem.” This is all true. Amazon has even flattered me by noting that I “read diverse non-fiction,” to which I say — why yes, I am indeed an open-minded intellectual with a thirst for knowledge. Thank you for noticing.\n\nOther colleagues of mine found that Amazon correctly noted their interests in vinyl records and ceramics, as well as a penchant for “natural materials” in home decor and clothing that “prioritizes comfort.” None of us had anything as affronting as “has flat buttocks,” but the Threads user noted that this was likely because she had purchased “butt scrunch leggings.”\n\nTech companies know too much about us, and it’s jarring to realize just how closely they’re paying attention to how we use their platforms. We live in a world of alarming surveillance, but at least I know that Amazon doesn’t think my butt is flat.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "亚马逊根据你的购买记录收集你的个人数据，这并不令人意外。如果你买了很多猫砂，亚马逊大概会推断你养了猫；如果你买了许多祛痘护肤品，亚马逊可能会猜测你容易长痘。即便我们知道亚马逊会根据购买历史为我们定制购物体验，但看到所有这些个人细节被整理成一份一目了然的清单，依然让人感到吃惊——尤其是当这些细节变得令人尴尬地私密时。\n\n一位 Threads 用户在亚马逊设置中偶然发现了这样一个区域，在这里你可以看到这家电商巨头眼中你是一个怎样的人。除了诸如“在女装部购物”和“可能拥有一台 Shark 扫地机器人”等较为平常的推论外，她还发现亚马逊推测自己“拥有扁平臀部”。\n\n“我偶然发现了一个页面，上面全是亚马逊根据我的购买记录对我做出的推论，我真的无语了，”亚马逊用户 @fangirlinmegan 在 Threads 上写道，“我的意思是，它说得没错，但天哪，你有必要这么当面揭我老底吗？”\n\n在不到一天的时间里，该帖子的浏览量就突破了百万，许多用户都非常好奇自己的亚马逊档案会揭示出什么。以下是查看方法：\n\n在电脑端，你可以将鼠标悬停在页面右上角显示“Hello, [你的名字]”的位置。接着点击“Your Account”（您的账户）下方的“Account”（账户）。在“Ordering and shopping preferences”（订购与购物偏好）部分下，点击“Your Shopping preferences”（您的购物偏好）。在这里，你可以自行添加信息，例如鞋码、兴趣爱好和饮食偏好。但我们来这里并不是为了告诉亚马逊由于你是素食主义者就该停止推荐牛肉干，我们是来看看亚马逊是否认为你“拥有扁平臀部”。当你滚动到页面底部时，会看到一个名为“Manage your information”（管理您的信息）的蓝色超链接选项。点击之后，你就能看到亚马逊掌握了你哪些底细。\n\n对我而言，亚马逊推断出我是一个“热爱摄影”、“玩集换式卡牌游戏”并且“深度融入苹果生态系统”的人。这些全都属实。亚马逊甚至还奉承了我一番，指出我“阅读广泛的非虚构类书籍”，对此我想说——没错，我确实是一位思想开明、求知若渴的知识分子，感谢你的关注。\n\n我的其他同事发现，亚马逊准确记录了他们对黑胶唱片和陶瓷的兴趣，以及在家具装饰中对“天然材质”的偏好和“舒适优先”的着装风格。我们中没有人的标签像“拥有扁平臀部”那样令人难堪，不过那位 Threads 用户指出，这很可能是因为她曾购买过“提臀紧身裤”。\n\n科技公司对我们了解得太多了，意识到它们在如此密切地关注我们如何使用其平台，确实令人不安。我们生活在一个监控无处不在、令人心惊的世界里，但至少我知道亚马逊并不觉得我的屁股是扁的。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nAmanda Silberling 是 TechCrunch 的资深撰稿人，报道技术与文化的交叉领域。她还曾为 Polygon、MTV、《凯尼恩评论》、NPR 和《商业内幕》等媒体撰稿。她与科幻作家 Isabel J. Kim 共同主持探讨网络文化的播客《Wow If True》。在加入 TechCrunch 之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语文学学士学位，并曾作为“普林斯顿在亚洲”学者赴老挝交流。\n\n您可以通过发送邮件至 amanda@techcrunch.com 或通过 Signal 加密消息 @amanda.100 联系 Amanda 或核实其外联信息。\n\n第二张通行证可享五折优惠。Disrupt 的体验理应与他人分享。购买通行证并携同事、合作伙伴或同行以半价入场。拓展人脉、汇聚动能，探索创业生态系统的最新动态，触达更广阔的领域。\n\n19岁创始人为 Ghost 筹集 1100 万美元，该公司打造了一款售价 3499 美元的个人 AI 电脑\n\n联邦法官称 Flock 是“无差别的群体监控”\n\n亚马逊回应数据中心引发的反对声浪，称不再使用保密协议\n\nOpenAI 安全团队员工辞职，称公司“文化已崩坏”\n\nMeta 希望你的下一款智能设备注入 Muse 体验\n\n谷歌认为 SpaceX 的星舰需发射 1800 次，太空数据中心才可能真正落地\n\n全球首座增强型地热发电厂仅用 23 个月即完工",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "一名Threads用户在亚马逊设置中发现亚马逊根据购买记录对其作出的推测列表中包含“has flat buttocks”（扁平臀）等假设。",
+          "用户@fangirlinmegan在Threads上发布关于亚马逊对其推测的帖子，在不到一天内获得了超过100万次浏览量。",
+          "来源叙事重点：以社交媒体爆款事件为切入点，探讨亚马逊等科技巨头利用消费行为深度推测用户个人特征甚至隐私身体特征的算法监控现象，并向读者提供查看自身被平台画像标签的实用指南。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:55:39.000Z",
+            "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
+          }
+        ]
+      },
+      {
+        "id": "story-f-iran-hormuz-trump-html-8024f71c6d7916ec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T06:16:39.000Z",
+        "pubTime": "2026-10-07 14:16",
+        "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+        "imageUrl": null,
+        "fullContent": "SINGAPORE — The technology that investors and governments are counting on to lift the global economy is also adding pressure that threatens growth, the head of the International Monetary Fund said, urging policymakers to stop delaying painful choices on debt.\n\nManaging Director Kristalina Georgieva told the audience at a Wednesday event in Singapore that artificial intelligence is \"rapidly becoming a key driver of countries' relative fortunes in the world economy.\"\n\nBut the triple forces of AI advancement, soaring energy costs and record public debt are challenging the already \"underwhelming\" growth this decade.\n\n\"Love it, hate it, or fear it, AI is here,\" Georgieva said.\n\nSpeaking ahead of a series of IMF and World Bank annual meetings that kick off next week, Georgieva framed the global economy as being tugged in two directions at once: a \"negative energy supply shock\" from the war in the Gulf, now in its eighth month, and a \"positive demand shock\" from the AI investment boom. The combined effect, she said, is \"highly uneven across the world.\"\n\nOn the upside, global AI investment as a share of GDP will reach, and likely exceed, the amounts that went into building the railroads, electricity grid, or telecommunications network. AI hardware and related technology products already account for more than a tenth of world goods trade, she said.\n\nThe IMF estimates that AI could add up to half a percentage point to annual world growth if done right. \"Going from 3% to 3.5% over a decade — that is like adding an economy the size of ASEAN to the world economy,\" Georgieva said.\n\nBut the benefits are likely highly concentrated. The boom largely bypasses economies less involved in the global AI supply chain, \"increasing the risk of widening economic inequality across the globe,\" she said.\n\nThe boom also feeds the inflation worry that has dogged policymakers from the U.S. to Europe and Asia. \"The AI building boom is inflationary,\" she said, as are energy and food shocks, tariffs and defense spending.\n\nOil prices have stayed above $100 per barrel as the Middle East conflict dragged on with few signs of a diplomatic off-ramp. Retail diesel prices also rose to record highs as refining capacity squeezed energy supplies.\n\nThat inflation pressure flows straight into bond markets, as bond yields in the U.S., Germany, and Japan have surged to their highest levels in decades. Ballooning long-term private bond issuance by AI-related borrowers also competes with governments for capital, although part of the rise may reflect expectations of faster growth, Georgieva said.\n\nGlobal public debt is near its highest level since World War II and on track to soon exceed 100% of GDP, with advanced economies the \"worst offenders,\" Georgieva said. For 17 years, governments had \"a relatively easy ride\" because interest rates stayed below growth rates. \"Higher interest rates now put an end to that.\"\n\nThe interest-to-growth differential is now \"much less favourable\" and \"set to climb higher,\" she said, which means the growth needed to reduce debt ratios without fiscal effort is now \"out of reach in the near term.\"\n\nThe strain is already visible in Europe, where spreads over German bunds are widening not just for France and Italy but for Ireland, Portugal and others that had reduced debt and deficits after the euro-area crisis.\n\nAfter a string of shocks that have ballooned public debt and most countries' fiscal deficits remained above pre-pandemic averages, \"fiscal space is crying out for replenishment,\" Georgieva said.\n\nGeorgieva also pointed to a financial stability risk in the AI boom itself. Strong corporate earnings are driving share prices and wealth effects, she said, but \"should earnings fall short, however, hyperscaler leverage and large and growing global holdings of U.S. equities could turn a disappointment into a far-reaching shock.\"\n\nCiting Amara's Law, which holds that people overestimate a new technology in the short run and underestimate it in the long run, she said it is \"somewhere in the transition between today's AI building boom and tomorrow's arrival of AI's benefits that we will traverse the period of maximum risk.\"\n\nGeorgieva said the first line of defense is regulation and supervision. \"Now may be a good time for a prudently hawkish bias in many countries' monetary policy,\" she said.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃在新加坡的一场活动上表示，人工智能正迅速成为决定各国在世界经济中相对命运的关键驱动力，但AI发展、能源成本飙升和创纪录的公共债务三重力量正在对本十年本已乏力的增长构成挑战。",
+          "海湾地区的战争已进入第八个月，引发了负面能源供给冲击，而AI投资繁荣则带来了正面需求冲击。",
+          "来源叙事重点：聚焦IMF总裁格奥尔基耶娃对全球宏观经济与金融稳定风险的预警，重点关注AI投资热潮带来的高通胀与资本竞争压力、中东冲突导致的能源危机，以及全球公共债务逼近GDP 100%引发的财政与主权债务脆弱性。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T06:16:39.000Z",
+            "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html"
+          }
+        ]
+      },
+      {
+        "id": "story-openai-math-a209d5dc0c353563",
+        "title": "OpenAI 公开数学研究成果目录",
+        "originalTitle": "OpenAI shares mathematics research catalogue",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T03:16:26.000Z",
+        "pubTime": "2026-10-07 11:16",
+        "url": "https://github.com/openai/math",
+        "imageUrl": null,
+        "fullContent": "This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model.\n\nAs part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations saturated. Some outputs build upon earlier results produced by the models.\n\nThis collection includes results at different stages of verification. Not all have accompanying Lean formalizations. We will continue to update this repository with Lean formalizations as we obtain them.\n\nSome of the unformalized results could have issues. We will endeavor to fix any such issues quickly. We are also exploring community-hosted repositories for these materials.\n\nThe current catalogue contains 722 manuscripts organized into 372 families. A family groups related papers, which may include a principal result, companion arguments, consequences, or alternative proofs. Each family is classified by mathematical discipline.\n\nWe are also releasing abridged summaries of the model's reasoning, covering the following results:\n\nThe vast majority of results were obtained with the same procedure using an unreleased internal OpenAI model. On average, each result used three hours of ChatGPT Pro thinking compute with that model. Over the course of the evaluation, the model was posed approximately 4,000 problems. Aggregating the output into result families and manuscripts and requiring an appropriate level of significance led to the catalog outlined above.\n\nExceptions to this fixed procedure include work on a zero-free region for the Riemann zeta function and proof of the Hodge Conjecture for CM abelian varieties. Additionally, the writeup for the Re(s) > 11/12 zero-free region for the Riemann zeta function was human edited for readability.\n\nWe will preserve the public release history of this collection. Corrections and revisions will be recorded as new versions, with previously released versions remaining accessible.\n\nTo cite the individual manuscript, use the BibTeX block in its directory.",
+        "fullTranslation": "本仓库包含由 OpenAI 内部模型生成的数学论文手稿及辅助证明材料。\n\n作为模型研发工作的一部分，我们在开放式研究问题上对模型进行了评测。在我们现有的数学基准评测表现达到饱和后，我们扩大了这些评测的范围。部分产出建立在模型先前生成的成果之上。\n\n该合集包含处于不同验证阶段的成果。并非所有成果都附带 Lean 形式化证明。随着我们获得相应的 Lean 形式化成果，我们将持续更新此仓库。\n\n部分尚未形式化的成果可能存在纰漏。我们将努力尽快修复任何此类问题。我们同时也在探索为这些材料设立社区托管的存储库。\n\n当前目录包含 722 篇论文手稿，划分为 372 个成果族（families）。一个成果族将相关论文归并在一起，其中可能包含一项主要成果、配套论证、推论或替代证明。每个成果族均按数学学科门类进行了分类。\n\n我们还发布了模型推理过程的精简摘要，涵盖以下成果：\n\n绝大多数成果均采用相同流程、利用 OpenAI 尚未发布的内部模型获得。平均而言，针对该模型，每个成果耗费了 3 小时的 ChatGPT Pro 思考算力（thinking compute）。在整个评测过程中，模型被提出了大约 4,000 个问题。将输出聚合为成果族和手稿，并筛选出具备相应显著性水平的内容后，便形成了上文所列的目录。\n\n该固定流程的例外情况包括：关于黎曼 zeta 函数无零点区域的研究，以及 CM 阿贝尔簇霍奇猜想（Hodge Conjecture for CM abelian varieties）的证明。此外，关于黎曼 zeta 函数 Re(s) > 11/12 无零点区域的手稿经过了人工编辑以提高可读性。\n\n我们将保留该合集的公开发布历史。更正和修订将记录为新版本，此前发布的版本仍将保持可访问状态。\n\n如需引用单篇论文手稿，请使用其目录下的 BibTeX 代码块。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "OpenAI 在其代码库中发布了由其内部模型生成的数学手稿及支持性证明构件。",
+          "该研究目录包含 722 篇手稿，整理为 372 个族系，每个族系按数学学科进行分类。",
+          "来源叙事重点：宣布公开内部模型生成的 722 篇前沿数学手稿目录，突出模型在开放数学问题上的长程推理与解决能力，同时说明计算成本、验证状态及 Lean 形式化局限。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T03:16:26.000Z",
+            "url": "https://github.com/openai/math"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--aksenov-2122827164-html-83e77f4cd590f1e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия сплотилась вокруг своего президента, заявил Аксенов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T07:18:07.000Z",
+        "pubTime": "2026-10-07 15:18",
+        "url": "https://ria.ru/20261007/aksenov-2122827164.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/09/12/2118580483_341:0:3154:1582_650x0_80_0_0_f46f810c5d51a2874362e97cfc73321f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 15:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/aksenov-2122827164.html",
+            "publishedAt": "2026-10-07T07:18:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ooks-to-over-180-markets-360a70e1b653192c",
+        "title": "Spotify将有声读物服务扩展至180多个市场",
+        "originalTitle": "Spotify expands audiobooks to over 180 markets",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:00:00.000Z",
+        "pubTime": "2026-10-07 15:00",
+        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+        "imageUrl": null,
+        "fullContent": "Spotify announced on Wednesday that it’s expanding audiobook access to over 180 markets worldwide, including regions across Europe, the Americas, the Caribbean, the Middle East, Africa, and Asia. The rollout is starting today and will continue over the coming months. With this move, more than 750 million users will be able to access audiobooks, allowing Spotify to better compete with both music streaming providers and audiobook apps like Audible.\n\nBefore this, audiobooks were available primarily in English-speaking markets like the U.S., U.K., Ireland, Australia, and New Zealand, as well as in Germany.\n\nThe audio platform said it has more than 350,000 titles for its new markets and has increased its collection to include over 120 languages. With its launch in Spain, users in the country will have access to over 45,000 titles in Spanish.\n\nSpotify is working with more than 300 publishers worldwide, including Planeta and Mondadori, to increase the number of titles available in different markets.\n\nWith a Premium subscription, users can listen to 12 hours of audiobooks in eligible countries such as Brazil, Mexico, Colombia, Poland, Chile, Norway, and Peru. People across the world can also purchase an Audiobook+ standalone subscription to get access to titles with a 15-hour allowance. Alternatively, users can buy individual titles directly.\n\nIn February, the company launched a “Page Match” feature, which lets users scan a page of a physical book and find the corresponding point in the audiobook to listen to. Since the launch, 1 million people have been using the feature monthly, the company noted.\n\nSpotify said that over the last year, monthly listeners of audiobooks grew by 40% and listening hours increased by 30%.\n\nThis year, the company introduced Audiobook Charts to let people discover popular titles. It also launched an AI-powered tool for authors to turn their books into audiobooks using models from ElevenLabs. Plus, Spotify started experimenting with physical sales of books through its audiobook platform in select markets like the U.S. and the U.K.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "Spotify周三宣布，将把有声读物服务扩展至全球180多个市场，包括欧洲、美洲、加勒比地区、中东、非洲和亚洲的多个地区。这项推广从今天开始，并将在未来几个月持续进行。此举实施后，将有超过7.5亿用户能够使用有声读物，帮助Spotify更好地与音乐流媒体服务商以及Audible等有声读物应用展开竞争。\n\n此前，有声读物主要面向美国、英国、爱尔兰、澳大利亚和新西兰等英语市场，以及德国市场提供。\n\n这家音频平台表示，已为新市场准备了超过35万部作品，并将其藏书扩展至包含120多种语言。随着Spotify在西班牙推出服务，该国用户将可以使用超过4.5万部西班牙语作品。\n\nSpotify正与全球300多家出版商合作，包括Planeta和Mondadori，以增加不同市场可用的作品数量。\n\n在符合条件的巴西、墨西哥、哥伦比亚、波兰、智利、挪威和秘鲁等国家，用户通过Premium订阅可收听12小时有声读物。全球各地的用户还可以单独购买Audiobook+订阅，以获得包含15小时额度的服务。此外，用户也可以直接购买单部作品。\n\n今年2月，公司推出了“Page Match”功能，用户可以扫描实体书中的一页，找到有声读物中对应的位置并开始收听。公司指出，自该功能推出以来，每月已有100万人使用。\n\nSpotify表示，在过去一年中，有声读物的月度听众数量增长了40%，收听时长增加了30%。\n\n今年，公司推出了有声读物榜单，帮助用户发现热门作品。公司还推出了一款由人工智能驱动的工具，利用ElevenLabs的模型帮助作者将书籍制作成有声读物。此外，Spotify还开始在美国和英国等部分市场试验通过其有声读物平台销售实体书。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\nIvan负责报道TechCrunch的全球消费科技发展动态。他常驻印度，此前曾任职于《赫芬顿邮报》和The Next Web等媒体。\n\n如需联系Ivan或核实来自Ivan的联络信息，可发送电子邮件至im@ivanmehta.com，或通过Signal上的加密消息联系账号ivan.42。\n\n第二张通行证享受五折优惠。Disrupt体验旨在与他人分享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索创业生态系统的下一步，拓展您的交流范围。\n\n19岁创始人为Ghost融资1100万美元；Ghost是一家生产售价3499美元个人AI电脑的公司\n\n联邦法官称Flock构成“无差别的大规模监控”\n\n亚马逊回应数据中心引发的反弹，称其不再使用保密协议\n\nOpenAI安全员工辞职，称公司“文化已经崩坏”\n\nMeta希望你的下一款设备融入Muse\n\n谷歌认为，SpaceX的星舰必须发射1800次，太空数据中心才能启动\n\n全球首座增强型地热发电厂仅用23个月建成",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "Spotify宣布将有声书服务扩展至全球180多个市场，涵盖欧洲、美洲、加勒比地区、中东、非洲和亚洲。",
+          "此次扩张使超过7.5亿用户能够访问有声书服务。",
+          "来源叙事重点：聚焦Spotify将其有声书业务全球扩张至180多个市场，突出其对Audible等竞品的直接竞争、支持的多语言/书目规模、订阅模式设计以及AI辅助制作等产品功能进展。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T07:00:00.000Z",
+            "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+          }
+        ]
+      },
+      {
+        "id": "story--making-process-12285e18-40ebd004813ed7ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:08:00.000Z",
+        "pubTime": "2026-10-07 15:08",
+        "url": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "One trend-following fund has outperformed rivals this year by deciding to take profits.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 15:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-07T07:08:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ons-to-dislike-ai-coding-4707edb81cbb1852",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reasons to dislike AI coding",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T05:34:50.000Z",
+        "pubTime": "2026-10-07 13:34",
+        "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+        "imageUrl": null,
+        "fullContent": "I covered this before in Art or tool? If you think of software as artistic output then generated software isn’t real because it doesn’t have the creative ineffability that’s a sign of true art.\n\nThere’s no argument against this one except that the people who want software typically aren’t paying for artworks, they’re paying for outcomes. And the outcomes of using a given artefact are the same regardless of how the artefact is made.\n\nThat also means there’s no argument for this one, unless you accept as axiomatic the ideas that things that can be considered art should only be made by people, and that using this particular set of tools is too big a separation between the person and the work when no other historical set of tools was too big a separation between the person and the work.\n\nI covered this one before too, in On working machines. If you think of typing in code as the thing you get paid for, and the employers now have access to a machine that can do the typing, then the machine “stole your jobs”.\n\nExcept that the job was never to type code, it was to deliver valuable software. People who can still do that can still get paid by organisations that need that to be done. And, as I said in the linked post, demand only increases as application becomes more efficient.\n\nIf you think that software creation is an interpersonal endeavour, then taking task descriptions generated by software and turning them into prompts that the software uses to generate more software is a dehumanising experience.\n\nThis has been the trajectory of society for centuries. Here’s a quote from the Fragment on Machines:\n\n…once adopted into the production process of capital, the means of labour passes through different metamorphoses, whose culmination is the machine, or rather, an automatic system of machinery (system of machinery: the automatic one is merely its most complete, most adequate form, and alone transforms machinery into a system), set in motion by an automaton, a moving power that moves itself; this automaton consisting of numerous mechanical and intellectual organs, so that the workers themselves are cast merely as its conscious linkages. […]\n\nThe accumulation of knowledge and of skill, of the general productive forces of the social brain, is thus absorbed into capital, as opposed to labour, and hence appears as an attribute of capital, and more specifically of fixed capital, in so far as it enters into the production process as a means of production proper.\n\nThis passage, written by Karl Marx in about 1857-1858, shows that both mechanical and intellectual work was always intended to be replaced by machinery (in predicting the alienation of intellectual work, Marx probably relied on his knowledge of contemporary mathematician Charles Babbage). In this situation it isn’t the technology that takes the job, it’s the mode of production. And given that programming is intellectual work, the means of production is literally our heads, we ought to be able to seize those.\n\nMotivated by Bertrand Meyer’s AI for Smarties, if you believe that software engineering is the careful application of the mysterious knowledge of software engineers, encapsulated in rules like the SOLID principles, “prefer composition over inheritance”, “use you’re type’s good“, the Law of Demeter and so on, then AI can’t possibly write software because it doesn’t apply those rules, it just generates text that happens to compile.\n\nNever mind that much of the history of computing involves people taking an empiricist approach to software: copying it from Stack Overflow and tweaking it until it works; writing it out from a listing in Numerical Recipes or Sinclair User and tweaking it until it works; writing macros to automate the copying phase, and so on.\n\nIf you believe that the big AI companies is run by people who don’t have humanity’s best interests at heart (further reading: all the Karl Marx writings I didn’t already quote above), then AI coding is bad because it supports those companies. As long as you don’t allow for the creation of other companies, the use of non-corporate models like academic or community models, and so on.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《机器论片断》（Fragment on Machines）由卡尔·马克思（Karl Marx）大约写于1857年至1858年。",
+          "作者此前曾撰写过题为《Art or tool?》和《On working machines》的文章讨论相关话题。",
+          "来源叙事重点：从哲学、历史与生产关系（援引马克思《机器论片断》）角度，解构与反驳程序员群体反感AI编程的几种常见论点（包括艺术独特性、岗位替代、劳动异化、工程原则神秘化及对大科技公司的抵触），主张以实用主义和生产方式变革的视角审视AI编程。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T05:34:50.000Z",
+            "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
+          }
+        ]
+      },
+      {
+        "id": "story--abundance-microbes-html-cc7764ebbc4d8a90",
+        "title": "花瓣“天窗”影响花朵内部微生物丰度",
+        "originalTitle": "Petal 'windows' affect the abundance of microbes within flowers",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:10:18.000Z",
+        "pubTime": "2026-10-07 15:10",
+        "url": "https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/translucent-petals.jpg",
+        "fullContent": "edited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nSome flowers have petals with small semitranslucent sections. Research in New Phytologist reveals that these \"windows\" alter the amount of light and heat entering the flower and create conditions that influence microbial abundance.\n\nField experiments showed that petal windows transmitted more ultraviolet and infrared radiation than pigmented tissue. Also, internal floral temperature predicted microbial numbers, with warmer flowers harboring fewer microbes.\n\nBecause microbial communities that live inside flowers can affect nectar quality, this discovery indicates that petal windows may influence how pollinators interact with flowers.\n\n\"One of the exciting things about this work is that a seemingly small floral trait can change the physical environment inside a flower in ways that affect its microbial community,\" said corresponding author Jessica Williams, a Ph.D. student at Florida Atlantic University.\n\n\"Because floral microbes can influence nectar traits and plant-pollinator interactions, these results suggest that flower structure may have ecological consequences that extend beyond the flower itself.\"\n\nPetal infrared transmission warms flowers and reduces microbial abundance, New Phytologist (2026). DOI: 10.1111/nph.71608\n\nJournal information: New Phytologist\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：\n同行评议出版物\n一些花朵的花瓣上具有微小的半透明区域。发表在《新植物学家》（New Phytologist）上的一项研究揭示，这些“天窗”会改变进入花朵的光线和热量，并创造出影响微生物丰度的环境条件。\n野外实验表明，与有色组织相比，花瓣天窗能透射更多的紫外线和红外线辐射。此外，花内温度可以预测微生物数量，温度较高的花朵所含微生物较少。\n由于生活在花朵内部的微生物群落能够影响花蜜品质，这一发现表明花瓣天窗可能会影响传粉者与花朵的相互作用方式。\n“这项工作令人兴奋的要点之一在于，一个看似微小的花部特征可以改变花内物理环境，进而影响其微生物群落，”通讯作者、佛罗里达大西洋大学（Florida Atlantic University）博士生杰西卡·威廉姆斯（Jessica Williams）表示。\n“由于花内微生物能影响花蜜特征以及植物与传粉者的相互作用，这些结果表明花朵结构所产生的生态效应可能会延伸至花朵本身之外。”\n论文信息：Petal infrared transmission warms flowers and reduces microbial abundance, New Phytologist (2026). DOI: 10.1111/nph.71608\n期刊信息：《新植物学家》（New Phytologist）\n生命科学与生态学学士。具备微生物实验室背景，并拥有石油、天然气和可再生能源领域的医药新闻采写经验。查看完整简介 →\n数学生物学学士，创意写作硕士。履历丰富，对科学和语言持有独特视角。查看完整简介 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "部分花朵的花瓣具有半透明的小区域（花瓣窗）。",
+          "发表在《新植物学家》（New Phytologist）上的研究显示，花瓣窗改变了进入花朵的光和热量，并创造出影响微生物丰度的条件。",
+          "来源叙事重点：聚焦佛罗里达大西洋大学在《New Phytologist》发表的最新研究，报道花瓣半透明微结构（花瓣窗）如何通过透射紫外线与红外线提升花内温度、减少微生物丰度，并推测该生理特征对花蜜品质及植物-传粉者相互作用的潜在生态级联影响。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T07:10:18.000Z",
+            "url": "https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-7-kirill-2122826649-html-144b57a7df68458f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Патриарх Кирилл поздравил Путина с днем рождения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T07:15:37.000Z",
+        "pubTime": "2026-10-07 15:15",
+        "url": "https://ria.ru/20261007/kirill-2122826649.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/01/0f/2068118251_0:168:3045:1881_650x0_80_0_0_b6dde5b072197897b5265b46e39f5996.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 15:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/kirill-2122826649.html",
+            "publishedAt": "2026-10-07T07:15:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-enai-math-release-github-0e401bad0dd434d6",
+        "title": "OpenAI 再度发布一批数学突破性成果",
+        "originalTitle": "OpenAI drops another batch of mathematical breakthroughs",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:26:38.000Z",
+        "pubTime": "2026-10-07 07:26",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSolutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Robert Hart\n\nOpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to “hundreds” of open questions.\n\nThe results have been expected for weeks, although until now OpenAI had not provided details about which problems the model had solved or exactly when they would be published. In September, the company said its model had “resolved more than 100 long-standing open problems across most areas of mathematics.” The released papers and other details also include some summaries of the model’s reasoning, estimates of the compute used, and stats about the number of problems attempted. OpenAI claims the “average result” used the equivalent of three hours of ChatGPT Pro thinking.\n\nAGMAI, or the Advisory Group on Mathematics and Artificial Intelligence, published its first recommendations in late September, urging AI labs to release mathematical results promptly and through established academic channels where possible, while disclosing details such as the name of the model used, prompts, and compute costs. The group also implored AI companies to “refrain from treating the release of mathematical results as marketing vehicles to promote their models,” a practice they said inflicts significant harm on the mathematical community.\n\nHere’s how OpenAI described its process for this release:\n\nFor this release, we’re publishing the results in a GitHub repository, with protocols for paper revisions and citations. We’re continuing to explore other community-hosted alternatives for this release which meet the committee’s guidelines. For future releases, we are committed to further improving the quality of the papers via the citations, mathematical exposition, and presentation of the results for better understanding\n\nThe full impact of the results will likely take some time to be felt as mathematicians assess and digest them. They add to a rapidly growing body of mathematical results from OpenAI and rival labs like Anthropic that the field is still processing, including results concerning a Millennium Prize problem, among the most famous open questions in the field. The speed at which AI labs have barreled into the discipline this year — particularly their handling of announcements — has provoked fierce debate over research practices, ethics, and how companies credit the human mathematicians whose work their systems build upon and potentially use to produce results.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。\n据称，OpenAI 发布的一批手稿中包含了“数百个”公开数学问题的解法。\n该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。\n查看罗伯特·哈特（Robert Hart）的全部文章\nOpenAI 在一批共 722 篇手稿中公布了由一款未发布的前沿模型得出的诸多长期未决数学问题的解答，涵盖将相关论文归类的 372 个成果族。这延续了一系列突破，这些突破既让数学界部分学者感到惊艳，也引发了他们的不安，同时也对研究伦理和学术行为提出了疑问。据 AGMAI（新成立的由顶尖数学家组成的独立顾问小组，旨在负责任地沟通与传达这些成果）称，此次发布的内容包含“数百个”开放性问题的解答。\n各方对这些结果已有数周的预期，尽管此前 OpenAI 尚未提供该模型具体解决了哪些问题以及确切何时公布的细节。今年 9 月，该公司表示其模型已“在绝大多数数学领域解决了 100 多个长期未决的开放问题”。此次发布的论文和其他细节还包括模型推理过程的部分总结、所用算力的估算以及尝试解答问题数量的统计数据。OpenAI 声称，“平均成果”消耗的算力相当于 ChatGPT Pro 思考三小时。\nAGMAI，即“数学与人工智能顾问小组”（Advisory Group on Mathematics and Artificial Intelligence），于 9 月底发布了首份建议，敦促各大人工智能实验室及时发布数学研究成果，并在可能的情况下通过成熟的学术渠道进行发布，同时披露所用模型名称、提示词和算力成本等细节。该小组还恳请 AI 公司“不要将发布数学成果作为推销其模型的营销手段”，并称这种做法对数学界造成了严重伤害。\n以下是 OpenAI 对本次发布流程的说明：\n在本次发布中，我们正在一个 GitHub 代码库中公开发布这些结果，并附有论文修订和引用的规范方案。我们正继续探索其他符合委员会指导准则的社区托管替代方案。对于未来的发布，我们致力于通过引用、数学阐述以及为了更好理解而呈现结果的方式，进一步提升论文的质量。\n随着数学家们对这些结果进行评估和消化，其全部影响可能还需要一段时间才能完全显现。它们使 OpenAI 以及 Anthropic 等竞争实验室迅速增加的数学成果体量进一步扩大，而该领域目前仍在对这些成果进行消化吸收，其中还包括涉及“千禧年大奖难题”（该领域最著名的未解难题之一）的相关结果。今年各 AI 实验室冲入该学科的速度——特别是他们处理成果发布的方式——引发了一场围绕研究规范、伦理以及企业如何归功于人类数学家的激烈辩论，毕竟 AI 系统的构建及其产生结果所依据的工作正是建立在这些人类数学家的成果之上。\n最重要新闻的免费每日摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "OpenAI 通过未发布的前沿模型生成了 722 篇手稿，涵盖 372 个结果族，展示了一系列长期存在的数学问题的解决方案。",
+          "OpenAI 将本次发布的论文及结果存放在 GitHub 仓库中，并附带论文修订与引用协议。",
+          "来源叙事重点：OpenAI 批量发布前沿 AI 模型得出的数学突破手稿，以及数学学术界（以 AGMAI 为代表）对其绕过传统学术同行评审、将研究作为市场营销手段等行为所引发的伦理与学术规范争议"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:26:38.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+          }
+        ]
+      },
+      {
+        "id": "story--ahead-of-hurricane-html-5bba224810b43a7a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T06:30:00.000Z",
+        "pubTime": "2026-10-07 14:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
+        "imageUrl": null,
+        "fullContent": "Chevron is evacuating workers from all its platforms in the Gulf of Mexico as meteorologists warn of a tropical storm approaching the area. For now, Chevron is only evacuating non-essential personnel, Reuters reported, saying that oil production at the facilities remains normal. Some analysts, however, see the storm warning as a further complication for already jittery oil markets. Shell is also evacuating non-essential personnel from six offshore platforms, CNN reported, and so is BP, in anticipation of the storm&rsquo;s approach. The report cited data suggesting the storm could reach the Gulf Coast by Friday by which time it could have grown into a Category 2 hurricane. The storm was an &ldquo;unwelcome complication for crude, raising the prospect of production and refining disruptions at a time when the market already has enough supply-side headaches,&rdquo; said KCM Trade&rsquo;s chief analyst Tim Waterer, as quoted by Reuters. The publication noted that if the storm lives up to forecasts, it could affect the operations of as many as six Gulf Coast refineries. Gulf Coast refineries represent half of the United States&rsquo; national refining capacity, or 14.1 million barrels daily. If the storm leads to refinery closures, they would come at the worst possible moment, as the global fuel crunch becomes increasingly severe. Platforms in the Gulf, for their part, account for 15% of the country&rsquo;s crude oil production and 5% of natural gas production. Weather forecasts say that the tropical storm could become the first hurricane of this year&rsquo;s Atlantic hurricane season, which has been a lot quieter than the seasons of previous years. That&rsquo;s despite grim warnings of multiple and increasingly severe hurricanes that were blamed on climate change driving more frequent extreme weather. The National Oceanic and Atmospheric Administration predicted a below-normal hurricane season for this year, to be fair, and it has turned out to be right.  By Charles Kennedy for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "雪佛龙（Chevron）正从墨西哥湾的所有平台撤离非必要人员，相关设施的原油生产仍保持正常。",
+          "壳牌（Shell）正从六个海上平台撤离非必要人员，英国石油（BP）也在风暴来临前撤离人员。",
+          "来源叙事重点：将热带风暴逼近墨西哥湾与雪佛龙、壳牌、BP撤离非必要人员联系起来，重点强调潜在的石油生产、炼油和燃料供应风险，以及天气事件对本已紧张的原油市场可能造成的额外扰动。文章同时援引NOAA低于常年水平的飓风季预测，形成对本次风暴影响的背景说明。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T06:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html"
+          }
+        ]
+      },
+      {
+        "id": "story-th-blood-pressure-ageing-71921fd44f244ff8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The generation raised on sugar rations – and what their health reveals 70 years later",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T05:00:35.000Z",
+        "pubTime": "2026-10-07 13:00",
+        "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing",
+        "imageUrl": "https://i.guim.co.uk/img/media/afb1d92ab75c8612d226af77908059ae6edf3836/31_0_3384_2709/master/3384.jpg?width=140&quality=85&auto=format&fit=max&s=71ed31cde09d04bfd320ae2c5aaed43f",
+        "fullContent": "From blood pressure to ageing, research suggests the first 1,000 days of sugar exposure could leave a decades-long mark on health\n\nThey were born into a Britain still recovering from the hardships of war. Though the air-raid sirens had fallen silent, many everyday foods remained rationed, including sugar. Adults were restricted to about 3 tablespoons (40g) a day to stretch between cups of tea, baking and desserts; children were limited to less than a tablespoon. Babies and very young children were expected to have little or no added sugar.\n\nThen, in 1953, the brakes came off. Separate restrictions on sweets and chocolate were lifted in February, followed by sugar in September. By the second half of 1954, average sugar consumption had almost doubled.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "战后英国许多日常食品实行配给制，其中包括糖。",
+          "糖配给期间，成年人每天糖摄入量限制在约3汤匙（40克），儿童少于1汤匙，婴儿及幼儿几乎没有添加糖。",
+          "来源叙事重点：以战后英国糖配给及1953—1954年配给解除为历史切入点，强调儿童早期糖摄入可能与成年后的血压、衰老等健康结果存在长期关联；报道同时突出糖消费在配给解除后迅速上升这一变化。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T05:00:35.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing"
+          }
+        ]
+      },
+      {
+        "id": "story-cultural-production-html-40ff29bf99b611ff",
+        "title": "可生物降解纳米颗粒技术或可提升农业生产效益",
+        "originalTitle": "Biodegradable nanoparticle technology may improve agricultural production",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T07:10:14.000Z",
+        "pubTime": "2026-10-07 15:10",
+        "url": "https://phys.org/news/2026-10-biodegradable-nanoparticle-technology-agricultural-production.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2023/grapevines-1.jpg",
+        "fullContent": "edited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nFarmers use a manufactured version of a natural plant hormone called gibberellic acid to improve the health and growth of crops, but it is highly sensitive to heat and light. A study in the Journal of the Science of Food and Agriculture shows that loading gibberellic acid into biodegradable nanoparticles can improve grape yield and quality, making it a promising and environmentally friendly approach for sustainable agricultural production.\n\nField applications demonstrated that treatment with gibberellic acid–loaded nanoparticles increased grape cluster weight by 104% and length by 67% compared with free gibberellic acid treatment, while berry weight, length and width increased by 15%, 4% and 13%, respectively.\n\n\"Compared to traditional products, nanocarrier systems ensure more efficient delivery of active substances such as plant growth regulators in agricultural applications,\" the authors wrote.\n\nPolymeric Nano-Delivery of Gibberellic Acid Enhances Fruit Quality, Yield, and Pedicel Strength in Grapevine (Vitis vinifera L.), Journal of the Science of Food and Agriculture (2026). DOI: 10.1002/jsfa.71082\n\nJournal information: Journal of the Science of Food and Agriculture\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已按照 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：\n同行评审出版物\n\n农民常使用一种名为赤霉酸的天然植物激素的人工合成制剂来改善农作物的健康状况并促进其生长，但这种物质对热和光高度敏感。《食品与农业科学杂志》（Journal of the Science of Food and Agriculture）刊登的一项研究表明，将赤霉酸载入可生物降解的纳米颗粒中可以提高葡萄的产量和品质，使其成为一种极具前景且环境友好的可持续农业生产途径。\n\n田间应用表明，与游离赤霉酸处理相比，经载赤霉酸纳米颗粒处理后，葡萄果穗重增加了104%，果穗长增加了67%，同时单果重、果实长度和果实宽度分别增加了15%、4%和13%。\n\n研究作者写道：“与传统产品相比，纳米载体系统确保了植物生长调节剂等活性物质在农业应用中能够实现更高效的递送。”\n\n论文信息：Polymeric Nano-Delivery of Gibberellic Acid Enhances Fruit Quality, Yield, and Pedicel Strength in Grapevine (Vitis vinifera L.), Journal of the Science of Food and Agriculture (2026). DOI: 10.1002/jsfa.71082\n期刊信息：《食品与农业科学杂志》（Journal of the Science of Food and Agriculture）\n生命科学与生态学学士。拥有微生物学实验室背景，以及石油、天然气和可再生能源行业的医药新闻经验。完整个人资料 →\n数学生物学学士，创意写作硕士。阅历丰富，对科学和语言具有独到见解。完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "来源叙事重点：报道一项发表于《Journal of the Science of Food and Agriculture》的新研究，聚焦通过可生物降解纳米颗粒递送赤霉酸技术，克服传统植物激素光热敏感缺陷，大幅提升葡萄产量与果实品质，倡导其在可持续农业中的应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T07:10:14.000Z",
+            "url": "https://phys.org/news/2026-10-biodegradable-nanoparticle-technology-agricultural-production.html"
+          }
+        ]
+      },
+      {
+        "id": "story-7-rapira-2122826249-html-b5d358b2684e3069",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Кассара стал генменеджером сборной России по рапире",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T07:12:48.000Z",
+        "pubTime": "2026-10-07 15:12",
+        "url": "https://ria.ru/20261007/rapira-2122826249.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/rsport/112009/86/1120098653_0:0:3072:1728_650x0_80_0_0_1e7867c621443756973048c3b942ea94.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 15:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/rapira-2122826249.html",
+            "publishedAt": "2026-10-07T07:12:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-you-have-flat-buttocks-bab40b499814a2c6",
+        "title": "如何查看亚马逊是否认为你“屁股扁平”",
+        "originalTitle": "How to find out if Amazon thinks you have ‘flat buttocks’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:55:39.000Z",
+        "pubTime": "2026-10-07 06:55",
+        "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "imageUrl": null,
+        "fullContent": "It shouldn’t come as a surprise that Amazon collects data about you based on what you buy. If you buy a lot of cat litter, Amazon will probably infer that you have cats, or if you buy a lot of anti-acne skin products, then Amazon might guess you’re prone to breakouts. Even if we know that Amazon customizes our shopping experiences based on our purchase history, it still comes as a surprise to see all of these personal details laid out in a convenient list. Especially when those details get uncomfortably intimate.\n\nOne Threads user came across this section of her Amazon settings where you can see who the shopping giant thinks you are, and alongside more benign assumptions like “Shops from women’s departments” and “Probably owns a Shark robot vacuum,” she found that Amazon assumes she “has flat buttocks.”\n\n“I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,” an Amazon customer, @fangirlinmegan, wrote on Threads. “I mean it ain’t wrong but damn did you have to call me out like that?”\n\nIn less than a day, the post garnered over a million views, including many from users who were curious what their own Amazon profiles might reveal. Here’s how you find out.\n\nOn desktop, you can find this page by hovering over where Amazon says “Hello, [your name]” in the upper right corner. Then click “Account” under the “Your Account” section. Under the “Ordering and shopping preferences” section, click “Your Shopping preferences.” From here, you can add in information of your own, like your shoe size, interests, and dietary preferences. But we’re not here to tell Amazon that it should stop selling you beef jerky since you’re a vegetarian. We’re here to see if Amazon thinks you have “flat buttocks.” When you scroll to the bottom of the page, you’ll see a blue hyperlinked option that says “Manage your information.” Once you click that, you’ll see what dirt Amazon has on you.\n\nFor me, Amazon has gleaned that I am someone who “practices photography,” “plays collectible card games,” and is “invested in the Apple ecosystem.” This is all true. Amazon has even flattered me by noting that I “read diverse non-fiction,” to which I say — why yes, I am indeed an open-minded intellectual with a thirst for knowledge. Thank you for noticing.\n\nOther colleagues of mine found that Amazon correctly noted their interests in vinyl records and ceramics, as well as a penchant for “natural materials” in home decor and clothing that “prioritizes comfort.” None of us had anything as affronting as “has flat buttocks,” but the Threads user noted that this was likely because she had purchased “butt scrunch leggings.”\n\nTech companies know too much about us, and it’s jarring to realize just how closely they’re paying attention to how we use their platforms. We live in a world of alarming surveillance, but at least I know that Amazon doesn’t think my butt is flat.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "亚马逊根据你的购买记录收集你的个人数据，这并不令人意外。如果你买了很多猫砂，亚马逊大概会推断你养了猫；如果你买了许多祛痘护肤品，亚马逊可能会猜测你容易长痘。即便我们知道亚马逊会根据购买历史为我们定制购物体验，但看到所有这些个人细节被整理成一份一目了然的清单，依然让人感到吃惊——尤其是当这些细节变得令人尴尬地私密时。\n\n一位 Threads 用户在亚马逊设置中偶然发现了这样一个区域，在这里你可以看到这家电商巨头眼中你是一个怎样的人。除了诸如“在女装部购物”和“可能拥有一台 Shark 扫地机器人”等较为平常的推论外，她还发现亚马逊推测自己“拥有扁平臀部”。\n\n“我偶然发现了一个页面，上面全是亚马逊根据我的购买记录对我做出的推论，我真的无语了，”亚马逊用户 @fangirlinmegan 在 Threads 上写道，“我的意思是，它说得没错，但天哪，你有必要这么当面揭我老底吗？”\n\n在不到一天的时间里，该帖子的浏览量就突破了百万，许多用户都非常好奇自己的亚马逊档案会揭示出什么。以下是查看方法：\n\n在电脑端，你可以将鼠标悬停在页面右上角显示“Hello, [你的名字]”的位置。接着点击“Your Account”（您的账户）下方的“Account”（账户）。在“Ordering and shopping preferences”（订购与购物偏好）部分下，点击“Your Shopping preferences”（您的购物偏好）。在这里，你可以自行添加信息，例如鞋码、兴趣爱好和饮食偏好。但我们来这里并不是为了告诉亚马逊由于你是素食主义者就该停止推荐牛肉干，我们是来看看亚马逊是否认为你“拥有扁平臀部”。当你滚动到页面底部时，会看到一个名为“Manage your information”（管理您的信息）的蓝色超链接选项。点击之后，你就能看到亚马逊掌握了你哪些底细。\n\n对我而言，亚马逊推断出我是一个“热爱摄影”、“玩集换式卡牌游戏”并且“深度融入苹果生态系统”的人。这些全都属实。亚马逊甚至还奉承了我一番，指出我“阅读广泛的非虚构类书籍”，对此我想说——没错，我确实是一位思想开明、求知若渴的知识分子，感谢你的关注。\n\n我的其他同事发现，亚马逊准确记录了他们对黑胶唱片和陶瓷的兴趣，以及在家具装饰中对“天然材质”的偏好和“舒适优先”的着装风格。我们中没有人的标签像“拥有扁平臀部”那样令人难堪，不过那位 Threads 用户指出，这很可能是因为她曾购买过“提臀紧身裤”。\n\n科技公司对我们了解得太多了，意识到它们在如此密切地关注我们如何使用其平台，确实令人不安。我们生活在一个监控无处不在、令人心惊的世界里，但至少我知道亚马逊并不觉得我的屁股是扁的。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nAmanda Silberling 是 TechCrunch 的资深撰稿人，报道技术与文化的交叉领域。她还曾为 Polygon、MTV、《凯尼恩评论》、NPR 和《商业内幕》等媒体撰稿。她与科幻作家 Isabel J. Kim 共同主持探讨网络文化的播客《Wow If True》。在加入 TechCrunch 之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语文学学士学位，并曾作为“普林斯顿在亚洲”学者赴老挝交流。\n\n您可以通过发送邮件至 amanda@techcrunch.com 或通过 Signal 加密消息 @amanda.100 联系 Amanda 或核实其外联信息。\n\n第二张通行证可享五折优惠。Disrupt 的体验理应与他人分享。购买通行证并携同事、合作伙伴或同行以半价入场。拓展人脉、汇聚动能，探索创业生态系统的最新动态，触达更广阔的领域。\n\n19岁创始人为 Ghost 筹集 1100 万美元，该公司打造了一款售价 3499 美元的个人 AI 电脑\n\n联邦法官称 Flock 是“无差别的群体监控”\n\n亚马逊回应数据中心引发的反对声浪，称不再使用保密协议\n\nOpenAI 安全团队员工辞职，称公司“文化已崩坏”\n\nMeta 希望你的下一款智能设备注入 Muse 体验\n\n谷歌认为 SpaceX 的星舰需发射 1800 次，太空数据中心才可能真正落地\n\n全球首座增强型地热发电厂仅用 23 个月即完工",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "一名Threads用户在亚马逊设置中发现亚马逊根据购买记录对其作出的推测列表中包含“has flat buttocks”（扁平臀）等假设。",
+          "用户@fangirlinmegan在Threads上发布关于亚马逊对其推测的帖子，在不到一天内获得了超过100万次浏览量。",
+          "来源叙事重点：以社交媒体爆款事件为切入点，探讨亚马逊等科技巨头利用消费行为深度推测用户个人特征甚至隐私身体特征的算法监控现象，并向读者提供查看自身被平台画像标签的实用指南。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:55:39.000Z",
+            "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
+          }
+        ]
+      },
+      {
+        "id": "story-f-iran-hormuz-trump-html-8024f71c6d7916ec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T06:16:39.000Z",
+        "pubTime": "2026-10-07 14:16",
+        "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+        "imageUrl": null,
+        "fullContent": "SINGAPORE — The technology that investors and governments are counting on to lift the global economy is also adding pressure that threatens growth, the head of the International Monetary Fund said, urging policymakers to stop delaying painful choices on debt.\n\nManaging Director Kristalina Georgieva told the audience at a Wednesday event in Singapore that artificial intelligence is \"rapidly becoming a key driver of countries' relative fortunes in the world economy.\"\n\nBut the triple forces of AI advancement, soaring energy costs and record public debt are challenging the already \"underwhelming\" growth this decade.\n\n\"Love it, hate it, or fear it, AI is here,\" Georgieva said.\n\nSpeaking ahead of a series of IMF and World Bank annual meetings that kick off next week, Georgieva framed the global economy as being tugged in two directions at once: a \"negative energy supply shock\" from the war in the Gulf, now in its eighth month, and a \"positive demand shock\" from the AI investment boom. The combined effect, she said, is \"highly uneven across the world.\"\n\nOn the upside, global AI investment as a share of GDP will reach, and likely exceed, the amounts that went into building the railroads, electricity grid, or telecommunications network. AI hardware and related technology products already account for more than a tenth of world goods trade, she said.\n\nThe IMF estimates that AI could add up to half a percentage point to annual world growth if done right. \"Going from 3% to 3.5% over a decade — that is like adding an economy the size of ASEAN to the world economy,\" Georgieva said.\n\nBut the benefits are likely highly concentrated. The boom largely bypasses economies less involved in the global AI supply chain, \"increasing the risk of widening economic inequality across the globe,\" she said.\n\nThe boom also feeds the inflation worry that has dogged policymakers from the U.S. to Europe and Asia. \"The AI building boom is inflationary,\" she said, as are energy and food shocks, tariffs and defense spending.\n\nOil prices have stayed above $100 per barrel as the Middle East conflict dragged on with few signs of a diplomatic off-ramp. Retail diesel prices also rose to record highs as refining capacity squeezed energy supplies.\n\nThat inflation pressure flows straight into bond markets, as bond yields in the U.S., Germany, and Japan have surged to their highest levels in decades. Ballooning long-term private bond issuance by AI-related borrowers also competes with governments for capital, although part of the rise may reflect expectations of faster growth, Georgieva said.\n\nGlobal public debt is near its highest level since World War II and on track to soon exceed 100% of GDP, with advanced economies the \"worst offenders,\" Georgieva said. For 17 years, governments had \"a relatively easy ride\" because interest rates stayed below growth rates. \"Higher interest rates now put an end to that.\"\n\nThe interest-to-growth differential is now \"much less favourable\" and \"set to climb higher,\" she said, which means the growth needed to reduce debt ratios without fiscal effort is now \"out of reach in the near term.\"\n\nThe strain is already visible in Europe, where spreads over German bunds are widening not just for France and Italy but for Ireland, Portugal and others that had reduced debt and deficits after the euro-area crisis.\n\nAfter a string of shocks that have ballooned public debt and most countries' fiscal deficits remained above pre-pandemic averages, \"fiscal space is crying out for replenishment,\" Georgieva said.\n\nGeorgieva also pointed to a financial stability risk in the AI boom itself. Strong corporate earnings are driving share prices and wealth effects, she said, but \"should earnings fall short, however, hyperscaler leverage and large and growing global holdings of U.S. equities could turn a disappointment into a far-reaching shock.\"\n\nCiting Amara's Law, which holds that people overestimate a new technology in the short run and underestimate it in the long run, she said it is \"somewhere in the transition between today's AI building boom and tomorrow's arrival of AI's benefits that we will traverse the period of maximum risk.\"\n\nGeorgieva said the first line of defense is regulation and supervision. \"Now may be a good time for a prudently hawkish bias in many countries' monetary policy,\" she said.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃在新加坡的一场活动上表示，人工智能正迅速成为决定各国在世界经济中相对命运的关键驱动力，但AI发展、能源成本飙升和创纪录的公共债务三重力量正在对本十年本已乏力的增长构成挑战。",
+          "海湾地区的战争已进入第八个月，引发了负面能源供给冲击，而AI投资繁荣则带来了正面需求冲击。",
+          "来源叙事重点：聚焦IMF总裁格奥尔基耶娃对全球宏观经济与金融稳定风险的预警，重点关注AI投资热潮带来的高通胀与资本竞争压力、中东冲突导致的能源危机，以及全球公共债务逼近GDP 100%引发的财政与主权债务脆弱性。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T06:16:39.000Z",
+            "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html"
+          }
+        ]
+      },
+      {
+        "id": "story-openai-math-a209d5dc0c353563",
+        "title": "OpenAI 公开数学研究成果目录",
+        "originalTitle": "OpenAI shares mathematics research catalogue",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T03:16:26.000Z",
+        "pubTime": "2026-10-07 11:16",
+        "url": "https://github.com/openai/math",
+        "imageUrl": null,
+        "fullContent": "This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model.\n\nAs part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations saturated. Some outputs build upon earlier results produced by the models.\n\nThis collection includes results at different stages of verification. Not all have accompanying Lean formalizations. We will continue to update this repository with Lean formalizations as we obtain them.\n\nSome of the unformalized results could have issues. We will endeavor to fix any such issues quickly. We are also exploring community-hosted repositories for these materials.\n\nThe current catalogue contains 722 manuscripts organized into 372 families. A family groups related papers, which may include a principal result, companion arguments, consequences, or alternative proofs. Each family is classified by mathematical discipline.\n\nWe are also releasing abridged summaries of the model's reasoning, covering the following results:\n\nThe vast majority of results were obtained with the same procedure using an unreleased internal OpenAI model. On average, each result used three hours of ChatGPT Pro thinking compute with that model. Over the course of the evaluation, the model was posed approximately 4,000 problems. Aggregating the output into result families and manuscripts and requiring an appropriate level of significance led to the catalog outlined above.\n\nExceptions to this fixed procedure include work on a zero-free region for the Riemann zeta function and proof of the Hodge Conjecture for CM abelian varieties. Additionally, the writeup for the Re(s) > 11/12 zero-free region for the Riemann zeta function was human edited for readability.\n\nWe will preserve the public release history of this collection. Corrections and revisions will be recorded as new versions, with previously released versions remaining accessible.\n\nTo cite the individual manuscript, use the BibTeX block in its directory.",
+        "fullTranslation": "本仓库包含由 OpenAI 内部模型生成的数学论文手稿及辅助证明材料。\n\n作为模型研发工作的一部分，我们在开放式研究问题上对模型进行了评测。在我们现有的数学基准评测表现达到饱和后，我们扩大了这些评测的范围。部分产出建立在模型先前生成的成果之上。\n\n该合集包含处于不同验证阶段的成果。并非所有成果都附带 Lean 形式化证明。随着我们获得相应的 Lean 形式化成果，我们将持续更新此仓库。\n\n部分尚未形式化的成果可能存在纰漏。我们将努力尽快修复任何此类问题。我们同时也在探索为这些材料设立社区托管的存储库。\n\n当前目录包含 722 篇论文手稿，划分为 372 个成果族（families）。一个成果族将相关论文归并在一起，其中可能包含一项主要成果、配套论证、推论或替代证明。每个成果族均按数学学科门类进行了分类。\n\n我们还发布了模型推理过程的精简摘要，涵盖以下成果：\n\n绝大多数成果均采用相同流程、利用 OpenAI 尚未发布的内部模型获得。平均而言，针对该模型，每个成果耗费了 3 小时的 ChatGPT Pro 思考算力（thinking compute）。在整个评测过程中，模型被提出了大约 4,000 个问题。将输出聚合为成果族和手稿，并筛选出具备相应显著性水平的内容后，便形成了上文所列的目录。\n\n该固定流程的例外情况包括：关于黎曼 zeta 函数无零点区域的研究，以及 CM 阿贝尔簇霍奇猜想（Hodge Conjecture for CM abelian varieties）的证明。此外，关于黎曼 zeta 函数 Re(s) > 11/12 无零点区域的手稿经过了人工编辑以提高可读性。\n\n我们将保留该合集的公开发布历史。更正和修订将记录为新版本，此前发布的版本仍将保持可访问状态。\n\n如需引用单篇论文手稿，请使用其目录下的 BibTeX 代码块。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "OpenAI 在其代码库中发布了由其内部模型生成的数学手稿及支持性证明构件。",
+          "该研究目录包含 722 篇手稿，整理为 372 个族系，每个族系按数学学科进行分类。",
+          "来源叙事重点：宣布公开内部模型生成的 722 篇前沿数学手稿目录，突出模型在开放数学问题上的长程推理与解决能力，同时说明计算成本、验证状态及 Lean 形式化局限。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T03:16:26.000Z",
+            "url": "https://github.com/openai/math"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791334482748,
     "timeDisplay": "2026-10-07 08:54 (UTC+8)",
     "date": "2026-10-07",
