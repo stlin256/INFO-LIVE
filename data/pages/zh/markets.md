@@ -16,8 +16,166 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-oil-is-hard-to-kill-html-73a38368906625b8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1880" data-content-paragraphs="19" data-published-at="2026-10-07T00:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 08:00</span>
+</div>
+
+### [为什么100美元的油价难以被打压](https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Why $100 Oil Is Hard to Kill</div>
+
+<div class="article-body" data-article-body="true"><p>过去一个月的大部分时间里，布伦特原油价格一直维持在每桶100美元以上，尽管油轮追踪机构和投资银行近几周发布了大量报告和数据，表明霍尔木兹海峡的原油流量已经恢复，甚至超过了战前水平。但如果有这么多原油再次运出中东，为什么布伦特油价仍旧徘徊在每桶100美元关口附近，远高于战前的60美元？</p>
+<p>完美风暴</p>
+<p>因为原油流动恢复到战前水平并不意味着市场已恢复正常。远非如此。将石油运出中东的代价极其高昂，运费创下历史新高。随着油轮在霍尔木兹海峡继续遭到袭击，战争风险溢价大幅飙升。海湾产油国已找到替代路线来绕开受阻的原油流动通道，但这些路线效率较低、买家成本更高，并且需要额外的数周时间才能将原油运送至炼油厂。</p>
+<p>炼油厂方面则在争分夺秒地维持高负荷加工率，以把握创纪录的炼油利润，并生产更多的柴油——柴油仍然是整个石油链条中最为紧张的产品。来自中东的成品油出口依然受限，由于莫斯科对柴油出口下达了禁令，俄罗斯的出口量基本为零，而中国则再次保护国内供应并限制燃油流向海外。</p>
+<p>此外，全球库存今年大幅缩水，因为在4月和5月霍尔木兹海峡供应中断最严重时，最直接的缓解办法就是动用原油和燃料库存。因此，库存水平极其脆弱，可能无法抵御美伊战争的另一次升级。在冬季柴油需求高峰季节到来之前，这些还仅仅是全球市场面临的运营问题。</p>
+<p>地缘政治局势是未来油价面临的最大未知数，而且看起来这场战争不会很快结束。相反，市场担忧在11月初美国中期选举前后出现新的升级，这可能会危及霍尔木兹海峡原油流动的恢复。</p>
+<p>相关报道：海湾风暴威胁可能导致每日300万桶炼油产能面临风险</p>
+<p>由于市场缺乏吸收新冲击的大规模缓冲垫，原油价格继续计入高额战争风险溢价，使布伦特原油自9月初以来一直保持在每桶100美元以上。</p>
+<p>盛宝银行（Saxo Bank）大宗商品策略主管奥勒·汉森（Ole Hansen）上周在评论抛储前景时表示：“布伦特油价的持续走低需要更广泛的正常化——原油供应改善、成品油出口恢复，以及航运政治和财务风险的降低。”</p>
+<p>七国集团（G7）周五宣布释放1亿桶原油和柴油储备。在经历了最初的下意识走低反应后，周二亚洲交易时段布伦特原油仍保持在每桶100美元以上。</p>
+<p>抛储声明对油价的影响似乎已经消退，部分原因也是因为市场并不真正确定这1亿桶中有多少会是真正的“新增”量，或者它们是否只是国际能源署（IEA）数月前承诺释放的4.25亿桶储备中尚未实际释放的剩余部分，北欧斯安银行（SEB Bank）首席大宗商品分析师比亚内·席尔德罗普（Bjarne Schieldrop）周一表示。该分析师还指出，虽然布伦特近月期货价格约为每桶100美元，但北海的奥斯伯格（Oseberg）和福蒂斯（Forties）原油价格实际上在每桶140美元左右。</p>
+<p>上行风险</p>
+<p>据SEB称，关键的未知因素正在让布伦特近月期货维持在100美元水平。“伊朗是否会在美国中期选举前发起新的袭击？美国是否会在选举后袭击伊朗？随着沙特支持的也门政府试图夺回近期被胡塞武装占领的红海沿岸地区，胡塞武装是否会再次袭击沙特的东西管道以及试图穿越曼德海峡的船只？”席尔德罗普说道，他同时问道：“在最终促使中国作为和平协调者介入中东谈判之前，事态还要发展到什么程度？”</p>
+<p>尽管有人声称中东原油出口已恢复至战前水平，但在局势升级的潜在可能、创纪录的运费与油轮战争溢价、极低的全球库存，以及中东和俄罗斯出口匮乏所加剧的柴油危机的共同作用下，目前油价风险依然偏向上行。</p>
+<p>国泰君安期货高级原油分析师赵旭一（音译，Xuyi Zhao）对彭博社表示：“市场不仅在权衡装船了多少原油，还在权衡这些石油能否安全、可靠、低成本地交付。”</p>
+<p>将原油运送至炼油厂的更高成本，加上无法抵御短期内再次供应中断的低库存，如果中东另一条原油供应路线再次遭到袭击（正如上个月沙特通往红海的东西管道遭遇的情况那样），将为新一轮价格飙升埋下伏笔。</p>
+<p>沙特阿美（Saudi Aramco）首席执行官阿明·纳赛尔（Amin Nasser）本周早些时候表示：“在世界上几乎没有其他替代方案可用的情况下，供应韧性缓冲垫已经薄得吓人。”</p>
+<p>“紧急储备或许能为我们赢得一个冬天的喘息。但它们无法解决长期供应问题，”纳赛尔周一在伦敦举行的2026年能源情报论坛（Energy Intelligence Forum）上表示，“在霍尔木兹海峡完全重新开放且信心恢复之前，残酷的现实是整个石油链条两端的压力都将进一步加剧。”</p>
+<p>作者：Tsvetana Paraskova，为Oilprice.com撰稿</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>布伦特原油价格在过去一个月的大部分时间里维持在每桶100美元以上，自9月初以来一直保持在100美元以上，战前价格约为每桶60美元。</li>
+    <li>七国集团（G7）周五宣布释放1亿桶原油和柴油储备。</li>
+    <li>来源叙事重点：解构为何在中东原油出口流量名义恢复的情况下油价仍顽固高于100美元/桶，核心强调物流成本剧增、战争溢价、全球柴油与库存危机以及地缘冲突升级风险削弱了政府干预（如G7抛储）的效果。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--of-hormuz-standoff-html-f42acb28a2c1521c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4151" data-content-paragraphs="28" data-published-at="2026-10-06T23:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 07:00</span>
+</div>
+
+### [5只从霍尔木兹海峡对峙中获利的天然气股票](https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> 5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff</div>
+
+<div class="article-body" data-article-body="true"><p>点击此处查看150多个全球油价</p>
+<p>美国原油库存下降</p>
+<p>全球天然气市场可能仍将……</p>
+<p>特朗普和习近平预计将……</p>
+<p>欧盟正考虑推迟……</p>
+<p>我的报道领域：我的关注范围涵盖全球能源格局以及正在重塑这一格局的技术，具体聚焦于石油和天然气、可再生能源以及由技术驱动的市场……</p>
+<p>今年3月，伊朗袭击了卡塔尔的拉斯拉凡综合设施，导致该国17%的液化天然气出口能力停摆。当时，交易逻辑似乎相当直接：买入美国出口商的股票，然后坐等欧洲和亚洲前来购买不必经过霍尔木兹海峡运输的货物。Cheniere确实按照所有人的预期采取了行动，其液化天然气装运量高于去年同期，并连续第二个季度上调了2026年业绩指引。</p>
+<p>战争爆发近7个月后，这条海峡依然一团糟。卡塔尔能源公司刚刚将液化天然气交付的不可抗力期限延长至11月底；经由霍尔木兹海峡的流量仍较战前水平下降逾75%；而在周二，希腊航运大亨玛丽亚·安杰利库西斯旗下的一艘液化天然气运输船成为海峡附近最新一艘遭袭船只。9月，欧洲和亚洲的天然气价格升至2022至2023年能源危机以来的最高水平；而在美国国内，亨利枢纽天然气价格一直徘徊在每百万英热单位约3美元的水平。</p>
+<p>不过，随着危机持续，一些不那么显眼的公司开始展现出同样强劲的投资理由：其中既有一家曾被华尔街大多数人放弃的首次公开募股公司，也有一家石油生产商——今年某个阶段，这家公司实际上是在付钱让买家接手其天然气。</p>
+<p>Venture Global Inc.（纽约证券交易所代码：VG）上市后的第一年，经历了能源公司所能遭遇的最艰难局面之一。这家路易斯安那州出口商于2025年1月将首次公开募股价格定为每股25美元，但到年底，其股价已跌至个位数。投资者对其商业模式深恶痛绝：该模式主要依赖将液化天然气出售到现货市场，而包括壳牌和英国石油在内的长期客户却在等待其合同项下的货物，并最终就此将该公司告上仲裁庭。</p>
+<p>事实证明，当现货市场陷入疯狂时，一家为现货市场销售而建立的公司恰恰是最值得持有的标的。Venture Global第二季度净利润增长266%，达到13亿美元，营收为46亿美元；管理层还将全年调整后息税折旧摊销前利润（EBITDA）指引上调至87亿至91亿美元。该预测包含一个假设，即公司将从剩余未售货物中获得每百万英热单位12.50至13.50美元的液化费，而用于生产这些货物的美国天然气采购成本约为上述费用的四分之一。</p>
+<p>长期买家也开始回心转意。10月1日，康菲石油公司签署了一项为期20年的协议，自2030年起每年从Venture Global购买100万吨液化天然气。首席执行官迈克·萨贝尔表示，这反映了外界对公司“快速并大规模”交付液化天然气能力的信心。康菲石油还持有卡塔尔能源公司拉斯拉凡液化天然气项目30%的股份，因此，这有点像一位房东悄悄为城另一头的一套公寓支付定金。</p>
+<p>但上述情况并没有让该股变得容易持有。战争爆发后的最初几周，股价上涨超过50%；公司公布历史最佳季度业绩当天，股价反而下跌5%；此后股价一直在十几美元的低位至中位区间内波动。这仍约为首次公开募股买家支付价格的一半。而且，鉴于其大部分上涨空间都取决于现货价格，如果船只最终能够再次自由通过霍尔木兹海峡航行，我预计这些涨幅中相当一部分将会消失。</p>
+<p>第二季度，APA Corp.（纳斯达克代码：APA）在美国生产的天然气实现的平均价格为每千立方英尺负2.20美元，这意味着从账面上看，公司是在付钱处理这些天然气。随着二叠纪盆地管道达到满负荷，得克萨斯州西部瓦哈枢纽的价格在今年大部分时间里一直处于负值区域，APA最终因此削减了日产约1.37亿立方英尺的产量。</p>
+<p>然而，APA可能是美国市场上较好的液化天然气投资标的之一，这主要得益于一项早在战争爆发数年前就达成的协议。根据一份始于2023年、持续至2037年的合同，该公司每天向Cheniere出售14万百万英热单位的天然气，价格与国际液化天然气基准挂钩。此外，APA还经营一项稳定运输业务，在二叠纪盆地购买天然气，再将其转售到美国墨西哥湾沿岸。该公司预计今年将从天然气交易中获得约9.5亿美元税前现金流。巴克莱分析师贝蒂·江5月告诉CNBC，APA“在我们覆盖的公司中对液化天然气价格的敞口最大”。这一点也体现在第二季度业绩中：调整后每股收益为1.89美元，自由现金流为7.38亿美元，自2024年底以来已偿还债务23亿美元。在公布该业绩前的52周内，该股已上涨89%。不过，APA本质上仍是一家石油公司；当原油价格因停火传闻而下跌时，它也会随之下跌。</p>
+<p>Golar LNG Ltd.（纳斯达克代码：GLNG）花了8年时间，将一艘改装后的浮式液化天然气船停泊在喀麦隆海岸附近。据伍德麦肯兹称，仅这艘名为“Hilli”的船，就已经收回约13亿美元的改装成本，并在此过程中创造了约21亿美元的收费型EBITDA。Golar也是唯一一家以租赁和运营模式提供浮式液化天然气服务的公司。因此，如果一个国家拥有天然气资源，却没有出口终端，也不愿在陆上建造终端，那么Golar基本上就是唯一可以联系的对象。</p>
+<p>这正是Golar在8月订购第四艘船的逻辑所在。这是一艘由中国CIMC Raffles建造、价值24.5亿美元、年产能350万吨的船，预计将在2029年底前后准备就绪。Golar尚未为其找到客户。该公司押注认为，在目睹全球五分之一的液化天然气供应被困在霍尔木兹海峡另一侧后，总会有人希望迅速获得浮式产能；该公司还将这艘船定位为全球最早可用的同类船舶。</p>
+<p>与大宗商品价格挂钩的费用已经开始带来回报，因为“Hilli”的合同部分与布伦特原油和荷兰TTF天然气价格挂钩，这部分业务第二季度带来3700万美元收入，超过第一季度的3倍。不过，时机本可以更好。“Hilli”在喀麦隆的合同于7月结束；在于2027年下半年开始执行一份为期20年的阿根廷租船合同之前，该船将接受价值3.5亿美元的翻修。因此，这艘此前一直从高价中获利的船，正在多年未见的最佳液化天然气市场期间停在船厂。第四艘船宣布后，Golar股价上涨7.7%，目前市盈率接近40倍。鉴于上述情况，这一估值似乎有些偏高。不过，高盛自3月以来一直在对Golar进行战略评估，而一旦发生收购，相关估值逻辑很快就会改变。</p>
+<p>8月下旬，德国尤尼珀公司（Uniper）在斯塔万格与挪威国家石油公司（Equinor ASA，纽交所代码：EQNR）签署了一项为期15年的天然气供应协议，首席执行官迈克尔·刘易斯（Michael Lewis）向路透社表示：“对我们而言，重建资产组合确实至关重要。”尤尼珀正是柏林方面在2022年俄罗斯断供天然气后不得不出资救助的公用事业公司，如今该公司锁定了截至2041年、每年约28亿立方米的挪威天然气供应。</p>
+<p>欧洲眼下急需每一分子天然气，截至9月中旬欧盟储气库储气率徘徊在67%左右，挪威国家石油公司首席执行官安德斯·奥佩达尔（Anders Opedal）7月曾表示，欧洲大陆在入冬前未必能达到80%的水平。挪威天然气通过管道输送，无需经受任何无人机的威胁，挪威国家石油公司的第二季度业绩充分证明了这一点。该公司欧洲管道气实现售价达到每百万英热单位（MMBtu）15.79美元，而其美国天然气售价仅为1.96美元。</p>
+<p>交易业务是另一大意外收益。首席财务官托格里姆·赖坦（Torgrim Reitan）表示，交易业绩几乎是挪威国家石油公司正常季度水平的两倍，该公司还将2026年的股票回购规模翻倍至30亿美元。这些回购也为评估该股提供了不错的参考依据，因为挪威国家石油公司必须披露其回购成本。7月初其平均回购价格约为每股314挪威克朗，到9月中旬已达到约419挪威克朗。</p>
+<p>第三季度财报将于10月28日公布。在这五家公司中，挪威国家石油公司可能是最接近纯粹的“霍尔木兹海峡恐慌交易”标的，而一旦该海峡真正重新开放，我认为这种欧洲溢价很难维持太久。</p>
+<p>在所有人都将目光投向液化天然气（LNG）之际，人们很容易忽视波斯湾同样外运着大量的丙烷和丁烷，而这些物资同样受阻于霍尔木兹海峡。安特罗资源公司（Antero Resources Corp.，纽交所代码：AR）在阿巴拉契亚地区大量开采这两种产品，中国买家一直在积极采购。</p>
+<p>在安特罗第二季度财报电话会议上，管理层指出，第二季度美国在中国液化石油气（LPG）进口中的份额攀升至51%，而2025年6月时仅为10%，当时关税政策曾促使中国买家转向其他市场。5月份美国丙烷出口量创下每周263万桶/日的历史纪录，该公司表示，丙烷和丁烷目前在墨西哥湾沿岸“为争夺码头仓储空间展开激烈竞争”。安特罗的C3+凝析液（NGLs）售价达到每桶44.26美元，创2022年以来的最佳水平。</p>
+<p>我认为最值得关注的是，这与天然气价格本身的关系其实微乎其微。安特罗的天然气销售收入同比基本持平，约为6.88亿美元，但凝析液收入激增22%，即使在亨利枢纽基准价下跌16%的情况下，调整后EBITDAX依然攀升了57%。与此同时，该股在秋季的大部分时间里徘徊在30多美元中高位，远低于其45.75美元的52周高点。略微不及预期的收益表现没有带来帮助，气体运输船的高昂运费也一直在蚕食出口利润率，但如果海湾地区的液化石油气供应在整个冬季持续受阻，安特罗可能是这份名单中最被低估的标的。</p>
+<p>文 / 迈克尔·科恩（Michael Kern），为 Oilprice.com 撰稿</p>
+<p>Oilprice.com 更多精选阅读：<br />随着能源供应风险加剧，欧洲权衡推迟甲烷新规<br />伊朗失踪的石油正演变成所有人的难题<br />伊朗正在丧失其对霍尔木兹海峡的部分筹码<br />中东石油出口实现显著复苏<br />随着油价下跌，美国石油钻探活动小幅回升<br />尽管面临美国制裁风险，伊朗石油开始流向塔吉克斯坦</p>
+<p>本网站提供的资料仅供参考和教育用途，并非旨在提供税务、法律或投资建议。<br />本网站包含的任何内容均不应被视为在任何司法管辖区内向任何人推荐、招揽或要约买卖任何证券。<br />法定收款商：以 Oilprice.com 名义运营的 A Media Solutions</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>来源叙事重点：将霍尔木兹海峡航运和能源供应受阻框架化为天然气、液化天然气及液化石油气企业的投资机会，重点寻找能够因现货价格上涨、替代运输路线、长期合同或出口能力而受益的公司。文章依次分析Venture Global、APA、Golar LNG、Equinor和Antero Resources，并同时提示这些收益可能随着海峡恢复通航而逆转。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-t-trip-a-new-record-html-a149daff71e81832" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1383" data-content-paragraphs="18" data-published-at="2026-10-06T22:23:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
+    <span class="stance-badge">国际资本与华尔街视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 06:23</span>
+</div>
+
+### [图表：纵览标普500指数逆势创下新纪录的非凡历程](https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Chart: A look at the S&amp;P 500&#39;s remarkable and defiant trip to a new record</div>
+
+<div class="article-body" data-article-body="true"><p>标普500指数周二升至盘中历史新高，触及7844.52点，超越了8月13日创下的7830点盘中峰值。该基准指数还首次收于7800点上方。</p>
+<p>这一反弹发生在经历数月的石油冲击、借贷成本上升以及美联储可能开启加息周期之后。</p>
+<p>在创纪录反弹发生的前一天，10年期美债收益率刚刚突破5.3%，触及2002年以来未见的水平。9月中旬，美联储三年多来首次上调基准利率，并暗示未来还将进一步加息。</p>
+<p>随着伊朗冲突扰乱经霍尔木兹海峡运输的能源供应，油价在3月初自2022年以来首次突破每桶100美元。在跌破每桶70美元后，油价于9月初如弹弓般快速反弹至100美元上方。</p>
+<p>波托马克基金管理公司（Potomac Fund Management）经济策略师肖恩·斯奈德（Shawn Snyder）向CNBC表示：“归根结底，石油和债券收益率可能存在关联，但股市与企业盈利同样如此。如果盈利表现良好——事实也确实如此——那么即使经济形势更趋复杂，股市仍将保持韧性。”</p>
+<p>与今年早些时候创下的纪录不同，最新这波涨势主要是由少数与人工智能热潮相关的股票窄幅带动，这些股票被认为未受宏观经济逆风的束缚。</p>
+<p>芝加哥期权交易所全球市场（Cboe Global Markets）零售与另类投资高级副总裁JJ·基纳汉（JJ Kinahan）表示：“当交易员从身边的杂音中抽身——近几个月来大部分都是负面消息——并更仔细地审视市场动态时，他们就会清楚地发现，与其他地区相比，美股市场是存放资金的最佳去处。很难否认我们在过去数十年中看到的绝大多数正面风险回报比。”</p>
+<p>所谓的“科技七巨头”，即英伟达（Nvidia）、Alphabet、亚马逊（Amazon）、苹果（Apple）、Meta、微软（Microsoft）和特斯拉（Tesla），合计占据了标普500指数超过34%的市值。</p>
+<p>基纳汉表示：“当你考虑到少数几只股票占据了如此大的比重时，显而易见的是，这些股票的每日走势在很大程度上左右了标普500指数和纳斯达克指数的走向，两者今天双双再次刷新历史纪录。”</p>
+<p>随着科技公司在数据中心和计算基础设施方面投入巨资，对芯片和设备的需求持续上升。今年早些时候，亚马逊表示其在2026年全业务范围内的资本支出预计约为2000亿美元，理由是包括人工智能、芯片和机器人技术在内的机遇。</p>
+<p>投资者对宏大科技押注的热情在6月份也表现得十分明显，当时SpaceX在有史以来规模最大的IPO中募资750亿美元，并于6月12日开始挂牌交易。这一亮相成为另一个里程碑，表明尽管能源价格和借贷成本上涨，投资者仍继续支持成长型公司。</p>
+<p>然而展望未来，波托马克基金管理公司的斯奈德警告称，如果通胀没有显现缓解迹象，或者没有明确信号表明美联储正在达成其政策目标，那么市场广度的“弱化”可能会持续更长时间。美联储定于周三公布其9月会议纪要。</p>
+<p>斯奈德表示，市场“表面看起来可能相对平静，但暗流涌动中可能并不那么平静”。</p>
+<p>更正：10年期美债收益率周一突破5.3%，触及2002年以来的最高水平。此前版本误报了年份。</p>
+<p>有保密新闻线索？我们期待听到您的声音。</p>
+<p>将此内容推送到您的收件箱，并获取有关我们产品和服务的更多信息。</p>
+<p>数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情以及市场数据与分析。</p>
+<p>数据亦由以下机构提供</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-10-07 06:23 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#CNBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-lklands-oil-project-html-95629b0275533f2e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1420" data-content-paragraphs="7" data-published-at="2026-10-06T20:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1414" data-content-paragraphs="8" data-published-at="2026-10-06T20:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
@@ -26,16 +184,17 @@ notice:
   <span class="news-meta-time">🕒 2026-10-07 04:00</span>
 </div>
 
-### [哈里伯顿回避福克兰群岛石油项目](https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html)
+### [哈里伯顿避开福克兰群岛石油项目](https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Halliburton Shuns Falklands Oil Project</div>
 
-<div class="article-body" data-article-body="true"><p>随着阿根廷总统对主导相关作业的企业施加的压力不断升级，全球最大的油田服务商之一哈里伯顿已拒绝参与福克兰群岛（阿根廷称马尔维纳斯群岛）沿海的“海狮”（Sea Lion）石油项目。事实上，哈里伯顿拒绝参与该争议岛屿周边的任何油气开发项目。哈里伯顿表示，公司做出不参与声明之前曾与阿根廷政府进行过接触。据该公司称，这些接触涉及“有关现行法律下的刑事和民事执法、拟议的新刑事和民事措施，以及规管合同权利认证法规的问题”。</p>
-<p>“海狮”项目最早始于2010年的一次石油勘探发现，当时总部位于英国的罗克霍珀勘探公司（Rockhopper Exploration）在福克兰群岛附近深水区发现了原油。该项目估计拥有约3.15亿桶可采低硫轻质原油储量，峰值日产量预计达5万桶。然而，自勘探之初起，该发现的推进作业就面临了一连串挫折，一方面因地理位置导致其具有高资本密集度，另一方面则面临来自阿根廷的压力——阿根廷曾多次表明，其非常介意在其声称拥有主权的福克兰群岛周边海域开展海上石油开发。</p>
-<p>直到2021年，当以色列的纳维塔斯能源公司（Navitas Energy）以65%的股份接管该项目的运营权，且早期投资者哈伯能源公司（Harbour Energy）退出后，“海狮”项目的进展才终于出现转机。（相关报道：海湾产油国称进口国应分摊绕道霍尔木兹海峡的成本）该项目的最终投资决定于去年12月达成，预计将于2028年产出首批原油——而这可谓恰逢其时，此前沙特阿美首席执行官在本周早些时候表示，全球可能需要长达两年时间才能补足已耗尽的原油库存。不过，现在对“海狮”项目感到乐观还为时过早，因为布宜诺斯艾利斯方面的施压行动并未停止。</p>
-<p>上个月，阿根廷总统哈维尔·米莱在重申处于英国控制下的该领土属于阿根廷之后，威胁要对在福克兰群岛附近进行钻探的公司实施制裁。米莱在9月初的电视讲话中表示，福克兰群岛在“历史上和法律上”都属于阿根廷；他显然受到了美国总统唐纳德·特朗普近期暗示的鼓舞——特朗普曾暗示，鉴于英国缺乏对美国在伊朗战争的支持，美国可能会重新审视其在该问题上的中立立场，并可能在福克兰群岛争议中不再支持英国。</p>
-<p>随后在9月下旬，米莱进一步威胁称，如果纳维塔斯能源公司和罗克霍珀勘探公司不停止岛屿近海的钻探作业，他将对英国提起诉讼。阿根廷总统在社交媒体平台上写道：“我已指示外交部和我们的法律团队，针对英国通过北马尔维纳斯盆地的‘海狮’项目非法掠夺我们资源的行为，启动针对英国的国际仲裁。”米莱还写道：“如果英国在两周内不停止非法开采，我们将诉诸国际海洋法法庭。马尔维纳斯群岛属于阿根廷，捍卫它靠的是行动，而不是空话。”</p>
-<p>哈里伯顿做出不参与的声明，是阿根廷施压的最新例证，这很可能与布宜诺斯艾利斯自身在瓦卡穆埃尔塔（Vaca Muerta）页岩层驱动下的能源扩张计划密切相关。该产区一直在持续刷新产量纪录，使油气成为阿根廷经济增长的关键驱动力。据雷斯塔能源公司（Rystad Energy）称，到2030年，瓦卡穆埃尔塔的原油日产量可能达到100万桶。显然，拥有如此巨大的增长潜力以及随之而来的区域主导地位，阿根廷绝不需要一个位于争议领土上的油田与其竞争。现在，纳维塔斯能源公司和罗克霍珀勘探公司面临的问题是，它们是否能找到一家愿意与它们共同承担诉讼和制裁风险的油田服务商。</p>
-<p>文 / 查尔斯·肯尼迪（Charles Kennedy），Oilprice.com</p></div>
+<div class="article-body" data-article-body="true"><p>在全球最大油田服务供应商之一拒绝参与福克兰群岛近海“海狮”（Sea Lion）石油项目之际，阿根廷总统对主导该工程的相关企业施加的压力进一步升级。事实上，哈里伯顿（Halliburton）拒绝参与该争议岛屿周边的任何油气开发项目。哈里伯顿表示，公司做出不参与声明之前，曾与阿根廷政府进行过接触。据该公司称，这些接触涉及“关于现行法律下的刑事和民事执法问题、提议中的新刑事与民事措施，以及规管签约权认证的法规”。</p>
+<p>“海狮”项目始于2010年的一项石油发现，当时总部位于英国的洛克霍珀勘探公司（Rockhopper Exploration）在福克兰群岛近海深水区探得原油。该项目估计拥有约3.15亿桶可采轻质低硫原油储量，高峰日产量曾预计可达5万桶。然而自启动之初，该油田的推进就遭遇了一连串挫折，原因在于其地理位置导致的高资本密集度，以及来自阿根廷的压力——阿根廷声称对福克兰群岛拥有主权，并屡次表明极度介意其近海的石油开发。</p>
+<p>直到2021年，以色列纳维塔斯能源公司（Navitas Energy）收购了该项目65%的股权并接管作业权，早期投资者港湾能源（Harbour Energy）退出后，“海狮”项目的局势才终于出现转机。（相关阅读：海湾产油国称进口国应分摊绕道霍尔木兹海峡的成本）该项目的最终投资决定于去年12月达成，预计首批原油将于2028年投产出油——这正逢其时，此前沙特阿美（Aramco）首席执行官在本周早些时候表示，全球可能需要长达两年时间才能补足耗尽的原油库存。</p>
+<p>但目前对“海狮”项目持乐观态度仍为时过早，因为来自布宜诺斯艾利斯的施压行动并未停歇。上个月，哈维尔·米莱（Javier Milei）总统在重申这一受英国控制的领土属于阿根廷之后，威胁要对在福克兰群岛附近进行钻探的公司实施制裁。9月上旬，米莱在一次电视讲话中称福克兰群岛在“历史上和法律上”都属于阿根廷，这显然是受到了美国总统唐纳德·特朗普近期暗示的鼓舞——特朗普曾暗示，鉴于英国缺乏对美国在伊朗战争的支持，美国可能会重新评估其在该问题上的中立立场，并且可能不会在福克兰群岛争端中支持英国。</p>
+<p>随后在9月下旬，米莱威胁称，如果纳维塔斯能源和洛克霍珀勘探不停止在岛屿近海的钻探作业，他将起诉英国。阿根廷总统在社交媒体平台上写道：“我已指示外交部和我们的法律团队，就英国通过北马尔维纳斯盆地的‘海狮项目’非法掠夺我们资源的行为，启动针对英国的国际仲裁。”米莱还写道：“如果英国在两周内不停止这种非法开采，我们将诉诸国际海洋法法庭。马尔维纳斯群岛是阿根廷的，我们要用事实而非言语来捍卫它。”</p>
+<p>哈里伯顿关于不参与该项目的声明是阿根廷施压的最新例证，而这很可能与布宜诺斯艾利斯自身依托瓦卡穆埃尔塔（Vaca Muerta）页岩地层推进的能源扩张计划密切相关。该地质区块一直在不断刷新产量纪录，使油气成为阿根廷经济增长的关键驱动力。据雷斯塔能源（Rystad Energy）称，到2030年，瓦卡穆埃尔塔的原油日产量可能达到100万桶。显然，凭借如此巨大的增长潜力以及由此带来的区域主导地位，阿根廷绝不需要一个位于争议领土上的油田来构成竞争。</p>
+<p>如今，纳维塔斯能源和洛克霍珀勘探面临的难题是：它们能否找到一家愿意与它们共同承担诉讼和制裁风险的油田服务供应商？</p>
+<p>文 / 查尔斯·肯尼迪（Charles Kennedy）为 Oilprice.com 撰稿</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -55,7 +214,7 @@ notice:
 
 :::cell
 <div id="story--very-large-deficit-html-def9ba4ae8f02c1c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="743" data-content-paragraphs="3" data-published-at="2026-10-06T19:30:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="736" data-content-paragraphs="1" data-published-at="2026-10-06T19:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
@@ -64,12 +223,10 @@ notice:
   <span class="news-meta-time">🕒 2026-10-07 03:30</span>
 </div>
 
-### [伊拉克以58美元油价编制2027年预算——赤字规模庞大](https://oilprice.com/Latest-Energy-News/World-News/Iraq-Builds-2027-Budget-on-58-Oiland-a-Very-Large-Deficit.html)
+### [伊拉克以58美元油价编制2027年预算——并将面临巨额赤字](https://oilprice.com/Latest-Energy-News/World-News/Iraq-Builds-2027-Budget-on-58-Oiland-a-Very-Large-Deficit.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit</div>
 
-<div class="article-body" data-article-body="true"><p>伊拉克正围绕每桶58美元的油价编制其2027年预算，这一水平远低于该国实现收支平衡实际所需的油价。预算草案假设原油日出口量约为400万桶（包含库尔德斯坦地区），总支出为217万亿第纳尔，约合1660亿美元。议员们表示，即使在这些假设前提下，该预算也将产生超过40万亿第纳尔的赤字。在日出口400万桶且油价为每桶58美元的情况下，在计入折扣、运输成本和其他调整项之前，伊拉克每年的原油出口总收入约为850亿美元。这远远不够。作为对比，国际货币基金组织将伊拉克2025年的财政石油保本价格定在每桶约92.43美元。巴格达在预算编制中或许可以假设油价为58美元，但如果明年原油实际均价真的停留在58美元，伊拉克将面临超过40万亿第纳尔的赤字，并且不得不通过举债、削减开支、动用外汇储备或其他收入来源来弥补这一缺口。</p>
-<p>政府还在考虑将第纳尔兑美元汇率从约1300比1贬值至1400至1500比1之间。由于伊拉克以美元出售石油，但支出主要是第纳尔，货币贬值会提高每笔出口美元折算成本币后的价值。然而，这也会推高进口商品的成本。石油仍然贡献了伊拉克政府绝大部分财政收入，使巴格达面对任何干扰生产或出口的因素时都显得极其脆弱。这种脆弱性在今年暴露无遗。伊朗战争扰乱了霍尔木兹海峡的航运——历来这是伊拉克最主要的出口通道——迫使巴格达将更多原油向北通过土耳其输出，并寻求穿越叙利亚和约旦的长期替代路线。伊拉克还希望大幅扩大产能，目标是在六年内达到日产800万至1000万桶。这给2027年预算带来了一个相当直白的问题：伊拉克需要更多的产量、更多的出口路线，以及远高于58美元的油价，才能支撑其目前既定的支出轨迹。</p>
-<p>作者：朱莉安娜·盖格（Julianne Geiger），来自 Oilprice.com</p></div>
+<div class="article-body" data-article-body="true"><p>伊拉克正在以每桶58美元的油价基准编制其2027年预算，这远低于该国平衡财政收支所需的实际油价水平。预算草案假设包括库尔德斯坦在内的原油出口量约为每日400万桶，总支出为217万亿第纳尔（约合1660亿美元）。即便在这些假设前提下，议员们表示该预算仍将面临超过40万亿第纳尔的赤字。在日出口量400万桶、油价每桶58美元的情况下，在计入折扣、运输成本及其他调整之前，伊拉克每年的原油出口总收入约为850亿美元。这远远不够。作为对比，国际货币基金组织（IMF）测算的伊拉克2025年财政收支平衡油价约为每桶92.43美元。巴格达在编制预算时可能假定了58美元的油价，但若明年原油均价确实为58美元，伊拉克将背负超过40万亿第纳尔的赤字，不得不通过借款、削减开支、动用储备金或其他收入来填补这一缺口。政府还在考虑将第纳尔兑美元汇率从目前的约1300比1贬值至1400到1500比1之间。由于伊拉克以美元销售石油，但大量支出以第纳尔进行，货币贬值会提高每一美元出口收入所对应的本币价值。但这也会使进口商品变得更加昂贵。石油依然占伊拉克国家财政收入的绝大部分，使得巴格达极易受到任何干扰生产或出口因素的影响。这种脆弱性在今年暴露无遗。伊朗战争扰乱了经由霍尔木兹海峡的航运，而该海峡历来是伊拉克的主要出口路线，迫使巴格达向北通过土耳其输送更多原油，并寻求经由叙利亚和约旦的长期替代路线。伊拉克还希望大幅扩大产能，目标是在六年内达到每日800万至1000万桶。这为2027年预算带来了一个相当棘手的问题：伊拉克需要更多的石油产量、更多的出口路线，以及远高于58美元的油价，才能维持其现有的支出轨道。作者：朱莉安娜·盖格（Julianne Geiger），来自 Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -88,216 +245,39 @@ notice:
 :::
 
 :::cell
-<div id="story-mbo-contract-volume-html-a66b69b4f3e1014a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1993" data-content-paragraphs="23" data-published-at="2026-10-06T18:46:16.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 02:46</span>
-</div>
-
-### [事件合约组合如何推高预测市场的交易量](https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> How event contract bundles are boosting volume on prediction markets</div>
-
-<div class="article-body" data-article-body="true"><p>预测市场上组合合约（combo contracts）日益高涨的受欢迎程度正推动交易量激增，尽管它们仅占这些平台总活动量的一小部分。</p>
-<p>组合合约——即将多个合约捆绑在一起，只有当所有合约全部获胜时才进行赔付，类似于传统体育博彩中的串关（parlays）——其受欢迎程度出现爆发式增长。</p>
-<p>上个月，受NFL赛季开幕的推动，组合合约在Kalshi的名义交易量（notional volume）中占比超过50%。组合合约绝大多数由多项体育合约的组合构成。</p>
-<p>随着竞争对手Polymarket今年致力于拓展其美国交易所业务，在5月份国内平台正式上线后，组合合约成为其重点发力方向。在NFL赛季增长的推动下，组合合约目前已占到Polymarket美国日交易量的近50%。</p>
-<p>然而，尽管组合合约占据了巨大的交易量份额，但它们实际上并不是预测市场上大多数投机者执行交易的主要方式。这是因为监管预测市场的联邦监管机构——美国商品期货交易委员会（CFTC）对交易所交易量报告规则的要求所致。</p>
-<p>分析预测市场数据的研究机构MSR Decode创始人兼研究员克里斯·帕克（Chris Park）表示，这些多腿合约（multi-leg contracts）“正在帮助[Polymarket和Kalshi]以较低的实际现金产出申报更高的数字”。</p>
-<p>当交易员在预测市场上挂单交易时，无论其投入多少现金，平台都会将其计为1美元的名义交易量。所有事件合约的二元结算结果都在0美元至1美元之间，无论投机者支付什么价格来下单，都必须有人接下该订单的另一方，从而构成总计1美元的交易量。</p>
-<p>但组合合约的赔付金额可以远高于1美元，这意味着某些人可以投入极少的资金（在某些情况下只需几美分），而由于有做市商接下这些高赔付交易的另一方，这可能会被计为数千美元的交易量。</p>
-<p>CNBC对Kalshi在9月27日交易的分析在实践中证实了这一点。在单一合约上，单笔交易所投入的平均现金金额低于47美分。但在组合合约上，每份合约的平均金额约为9美分。</p>
-<p>同样，根据Dune上的数据，尽管9月份组合合约占Kalshi交易量的58%，但它们在该平台总交易笔数中所占比例却不到13%。</p>
-<p>除了体育领域之外，组合合约在Kalshi的名义交易量上也力压其他类别，占总交易量份额的35%以上。</p>
-<p>关于组合合约如何被衡量的细节对公众来说并不总是清晰透明的，但它们对总体头条交易量数字的影响，可能会让这些平台看起来比实际发展得更快。</p>
-<p>预测市场上与体育相关的事件合约日益普及，已经对传统在线体育博彩公司造成了冲击——包括FanDuel母公司Flutter Entertainment和DraftKings——它们两家的股价在过去一年中分别暴跌了70%和45%。</p>
-<p>但也有人指出，投资者可能混淆了并不完全具有可比性的活跃度指标。</p>
-<p>伯恩斯坦（Bernstein）分析师伊恩·摩尔（Ian Moore）表示：“我曾与一些投资者交谈过，他们看到名义交易量数字，就将其与体育博彩的下注总额（handle）进行比较，然后得出结论说，你看，这些预测市场已经超过了体育博彩的规模。”</p>
-<p>体育博彩中的“handle”（投注总额）衡量的是下注的总金额，而预测市场计算的是交易的双方。</p>
-<p>正在寻求CFTC监管批准的预测市场独立顾问里奇·杰科布斯（Rich Jaycobs）表示：“当客户购买深度虚值合约或组合合约时，预测市场的美元交易量可能会比体育博彩高出20到100倍，因为CFTC的报告要求是一回事，而体育博彩对同一活动的报告方式却有所不同。相同的基本下注，相同的基本构思，但你得到的活动规模感知却完全不同。”</p>
-<p>Kalshi表示其名义交易量并未夸大活动规模。发言人杰克·萨奇（Jack Such）表示：“如果人们对其他衡量方式更感兴趣，他们可以查看其他指标。”</p>
-<p>尽管名义交易量是预测市场的标准衡量指标，但一些人建议将吃单量（taker volume）作为更好的衡量标准。这是因为“吃单方（takers）”是从做市商那里汲取流动性，而不是提供流动性，因此能更好地反映交易所活跃度所在。</p>
-<p>Polymarket认同这一方法。</p>
-<p>该公司营收与分析主管凯尔·格苏埃利（Kyle Gesuelli）表示：“在购买组合合约的‘Yes’（买涨）方面，我们非常喜欢参考吃单量。”该指标衡量了交易员对所有组合结果全部成真的押注需求。“对我们来说，这似乎是真正了解底层活动情况的更好指标。”</p>
-<p>披露说明：CNBC与Kalshi存在商业合作关系，包括获客合作及少数股权投资。</p>
-<p>有保密新闻线索？我们期待听到您的声音。<br />订阅将内容发送至您的收件箱，并获取更多有关我们产品和服务的信息。<br />数据为实时快照 *数据延迟至少15分钟。全球商业与财经新闻、股票行情及市场数据与分析。<br />数据亦由以下机构提供</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-10-07 02:46 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#CNBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ing-volume-scrutiny-html-9dffce0ac1d85e28" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4799" data-content-paragraphs="50" data-published-at="2026-10-06T18:41:32.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 02:41</span>
-</div>
-
-### [Kalshi与Polymarket部分产品交易量在迅猛增长中引发质疑](https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Kalshi, Polymarket trading volumes on some products raise questions amid massive growth</div>
-
-<div class="article-body" data-article-body="true"><p>预测市场平台Kalshi和Polymarket上某些产品的交易量正引发部分行业观察人士的质疑，他们担心这些数据可能被夸大了。</p>
-<p>在Polymarket上，观察人士指出了该公司不受美国监管机构监督的国际交易所存在的一个怪象：在包含多个合约的市场中，发生概率较低的合约反而比概率较高的合约具有更高的交易活跃度。这种情况出现在与选举、体育赛事和央行决议相关的市场上。</p>
-<p>与此同时，9月20日，一名X（前Twitter）用户指出了Kalshi以太坊加密货币永续期货市场上的一个异常模式。规模在5500美元左右的交易在这些合约中占据了很大一部分交易量，且相对于实际挂单流动性而言，其24小时交易量异乎寻常地高。CNBC的一项分析发现，9月20日，Kalshi以太坊永续合约交易金额中近一半来自金额在5495美元至5505美元之间的交易。</p>
-<p>这两种情况引发了一些观察人士的担忧，他们认为这些公司可能在监督着被虚增的交易量，或者更糟糕的是，正经历洗盘交易（wash trading）——即交易者相互串通买卖资产，以制造经济活动繁荣的假象。</p>
-<p>Kalshi和Polymarket均否认其任何产品存在洗盘交易。他们还否认各自出现的这些模式代表了非自然（虚假）活动。</p>
-<p>高盖茨律师事务所（K&amp;L Gates）合伙人塔米卡·本特（Tamika Bent）表示，作为指定合约市场（DCM，预测市场即属于此类交易所），“有责任通过实时监控市场状况、价格波动和交易量的异常情况来维护市场完整性”。虽然她表示此处描述的模式本身并不足以构成交易所的不当行为，但她补充说，观察人士“期望指定合约市场能够监控异常交易量并调查任何扰乱市场的迹象”。</p>
-<p>在5月份推出美国交易所后，Polymarket目前在私募市场的融资估值已超过200亿美元；而据报道，Kalshi在6月份推出永续期货产品后，正在洽谈一轮估值达400亿美元的融资。两家公司都将激增的交易量作为突出其交易所日益受到欢迎的指标，从而为这些高估值提供合理性依据。</p>
-<p>但随着据报道这些公司最早将于明年探索上市，这些交易量数据的真实性成为了关注的焦点。</p>
-<p>“如果在报告的永续合约交易量中有相当一部分是人为制造的……那么标题数据及其增长轨迹可能会夸大支撑这种估值的基础交易需求，”德国乌尔姆大学金融学教授安德烈·格特勒（Andre Guettler）在一份关于Kalshi永续合约交易量模式的工作论文中写道，“这种区别对散户投资者最为重要，因为他们是在预测市场交易所公开上市时的天然买家。”</p>
-<p>Polymarket收入与分析主管凯尔·格苏埃利（Kyle Gesuelli）告诉CNBC，其低概率合约的火爆并非来自洗盘交易或人为操纵的活动。他表示，这其实是由被称为“专业交易者（sharps）”的高活跃度交易者在不同合约中发现错误定价所推动的。</p>
-<p>“这对市场实际上是有益的，因为这能让定价失衡重回平衡，”格苏埃利说。</p>
-<p>Kalshi上周否认其平台存在任何洗盘交易，称其追踪了最初在社交媒体上被指出的那些交易中涉及的数百名用户。然而，接受CNBC采访的专家表示，每日交易量与合约实际静态流动性之间的比例令人担忧，代表了一种会滋生非自然交易的低效市场结构。</p>
-<p>Kalshi发言人杰克·苏赫（Jack Such）表示，该公司对该比例“毫无担忧”。</p>
-<p>《华尔街日报》报道称，美国商品期货交易委员会（CFTC）正在调查Kalshi以太坊永续期货合约的交易情况。CNBC无法独立核实该报道。CFTC发言人表示，该机构不对有关调查的事宜发表评论。</p>
-<p>“对于任何形式的操纵性交易，包括洗盘交易、内幕交易或我们市场中的欺诈行为，我们都采取零容忍政策，”CFTC主席迈克尔·塞利格（Michael Selig）于9月23日在CNBC《街角谈话》（Squawk on the Street）节目中表示，“当新型市场不断发展时，你就会在其中看到欺诈行为。”</p>
-<p>《巴伦周刊》（Barron&#39;s）曾在4月份报道称，Polymarket国际交易所上与2028年总统大选胜选者相关的合约，在低概率市场上出现了异常活动。</p>
-<p>一份关于JD·万斯（JD Vance）是否会成为2028年共和党总统候选人的合约，其交易量竟低于关于埃隆·马斯克（Elon Musk）的合约，尽管马斯克并不具备竞选总统的资格。在2028年民主党潜在候选人的相关市场上，也发现了类似的奇怪交易量模式。</p>
-<p>但在其竞争对手Kalshi的市场上情况却并非如此，在Kalshi上，2028年总统候选人中概率较低者的交易量少于概率较高者。此外，CNBC对9月份整月交易的分析认定，在受CFTC监管的Polymarket美国交易所上，2028年总统候选人相关合约并未发现这种模式。</p>
-<p>异常活动也出现在Polymarket国际版的体育相关合约中。在2026年国际足联世界杯的预测中，涉及胜者西班牙队夺冠概率的合约交易额为1.52亿美元。西班牙的总额低于埃及队的1.58亿美元（埃及的胜率从未超过0.5%），并且也略低于摩洛哥队（其胜率从未超过2%）。</p>
-<p>或许最引人注目的是一份关于谁将成为埃塞俄比亚下一任总理的合约。尽管大选已于6月结束，该合约仍然处于活跃状态。赢得选举并在该合约上拥有98%概率的总理阿比·艾哈迈德（Abiy Ahmed），其相关交易额约为17万美元。与此同时，数月来胜率一直保持在3%以下的吉迪恩·蒂莫西奥斯（Gedion Timothewos），押注其胜率的交易额却接近5600万美元。Polymarket发言人告诉CNBC，该合约将在今年夏天当选的政府于10月5日正式宣誓就职时进行交割结算。</p>
-<p>“那些简直是荒谬的极小概率事件，”西米斯交易公司（Themis Trading）股票市场结构研究主管乔·萨卢齐（Joe Saluzzi）表示，“这听起来像是有人试图在那里制造一些极低风险的交易量。……为什么会有人交易那个？”</p>
-<p>CNBC根据从Dune Analytics获取的数据进行的分析显示，从6月21日（当时报道证实艾哈迈德赢得了选举）到9月25日，埃塞俄比亚大选市场的交易量猛增了6.7倍以上。该市场报告的单日最高交易量出现在7月30日，录得超过1530万美元，这距离报道宣布获胜者已过去了一个多月。</p>
-<p>Gesuelli表示，低概率合约的交易活动在该公司的国际交易所更为常见，因为那里有更多专业交易者。这些交易者通常使用复杂的软件和算法进行交易，以从小幅定价错误中获利。他说，美国交易所则更多由普通散户交易者主导。</p>
-<p>外界对Polymarket洗售交易的担忧并非新鲜事。哥伦比亚大学研究人员于2025年11月首次发布的一项研究发现，他们认定具有洗售交易特征的交易模式，占Polymarket国际平台2024年12月周交易量的60%；到2025年10月，这一比例已降至20%。</p>
-<p>该研究主要作者Allen Sirolly表示，到2026年4月，这一指标已降至微不足道的水平。Polymarket一名发言人表示，扩大监控范围并在交易所引入费用，降低了市场操纵发生的可能性。但Sirolly表示，低概率合约持续受到欢迎仍然令人担忧。</p>
-<p>许多预测市场观察人士认为，Polymarket国际交易所出现的奇怪差异，与该平台过去释放出的、可能进行加密货币代币“空投”的暗示有关。</p>
-<p>预测市场交易终端Kairos联合创始人兼首席执行官Jay Malavia解释说，代币空投是加密货币公司奖励平台早期用户的常见方式，这些用户帮助平台扩大规模并提升影响力。Polymarket的国际平台运行在Polygon区块链上。</p>
-<p>但目前尚不清楚谁会获得这些奖励——如果空投确实发生的话。Malavia表示，范围可能有所不同，但平台可能会审查用户的未平仓头寸或个人交易量，以确定其是否符合资格。</p>
-<p>Polymarket拒绝就有关空投的猜测置评。</p>
-<p>Benoît Dubosson于9月20日首次指出Kalshi以太币合约中的异常交易行为。他在X平台发布的一系列帖子中推测，这些交易构成洗售交易。</p>
-<p>其他人也对Kalshi交易量的真实性提出质疑。批评者表示，金融交易所通常会激励做市商提供挂单流动性，而Kalshi为吸引交易者使用公司新的期货产品，宣布免除交易费用直至2026年底，这些因素助长了相关行为。</p>
-<p>Kalshi上周二在一篇博客文章中反驳了这些说法。该公司表示，数百名用户参与了这些交易，并且已设置相应机制来监控自成交或串通交易。公司称，这很可能是投机者在进行套利交易：某种加密货币的现货价格在另一家交易所发生变动，与做市商最初挂出的价格出现轻微偏差。交易者随后可以抓住这一略显过时的报价，迅速获利。</p>
-<p>CNBC采访的专家普遍认为，这些交易很可能不构成洗售交易。但对巴纳德学院经济学教授Rajiv Sethi而言，问题依然存在。</p>
-<p>他说，Kalshi的费用结构使交易者能够利用其永续合约交易所的机制，通过套利持续获利。他表示，之所以能够获得这些利润，是因为Kalshi为吸引早期投机者参与永续期货而实施了交易费用返还。</p>
-<p>Sethi说：“简而言之，Kalshi正在通过做市商，将资金输送给积极获取流动性的交易者。”</p>
-<p>Kalshi为这些激励措施——既包括针对做市商的激励，也包括针对接下这些订单另一方交易者的激励——进行辩护时表示，这些措施对于为新兴市场提供早期流动性至关重要。</p>
-<p>但专家表示，流动性的快速周转削弱了这些激励措施的实际成效。截至周三上午，Kalshi比特币和以太币永续期货的交易量，分别约为该平台未平仓头寸的42倍和66倍。这与其他在国际市场提供的永续期货产品存在显著差异。</p>
-<p>德国金融学教授Guettler在接受采访时说：“这看起来并不十分自然。”</p>
-<p>在Polymarket，以太币永续期货的24小时交易量约为未平仓头寸的四分之三；而截至周三上午，行业领先者Hyperliquid的24小时交易量仅为未平仓头寸的三分之一。这两家永续期货交易所均不向美国用户提供服务。</p>
-<p>休斯敦大学C.T. Bauer商学院金融学教授Craig Pirrong谈到Kalshi时说：“这在某种程度上制造了流动性的假象，但看起来像是一种自舔冰淇淋甜筒。”他表示：“这似乎是一种为攫取激励而提供的流动性。”</p>
-<p>Kalshi发言人Such表示，24小时交易量之间的差异，部分源于该公司提供的合约杠杆率低于离岸交易所。Hyperliquid的以太币永续期货最高提供25倍杠杆，而Kalshi只允许交易者使用最高4.9倍杠杆。</p>
-<p>Such补充说，基础设施和美国监管要求也造成了差异。他表示，Kalshi不允许做市商在价格发生变化后重新报价，而美国监管规定也不允许该公司激励用户将资金存放在平台上。</p>
-<p>Such还表示，将受美国商品期货交易委员会（CFTC）监管的交易所与在离岸运营的交易所进行比较并不公平。“这是拿苹果和橘子作比较：它们使用不同的体系，遵循不同的规则。”不过，在受监管的美国交易所芝加哥商品交易所（CME）上，传统比特币期货合约的交易量通常也低于未平仓头寸。</p>
-<p>尽管如此，Sethi表示，交易量与未平仓头寸之间的差异应促使Kalshi重新考虑其永续合约交易所的部分激励措施。</p>
-<p>Sethi说：“我并不是将其归因于洗售交易。但我不同意……这完全没有问题。”</p>
-<p>披露：CNBC与Kalshi存在商业关系，包括客户获取合作和一项少数股权投资。</p>
-<p>有机密新闻线索吗？欢迎与我们联系。</p>
-<p>将这些内容以及更多关于我们产品和服务的信息发送到您的收件箱。</p>
-<p>数据为实时快照。*数据至少延迟15分钟。全球商业和财经新闻、股票报价以及市场数据与分析。</p>
-<p>数据亦由……提供。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-10-07 02:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#CNBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-xs-75-billion-debut-html-e9b37a99a68de8a5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1983" data-content-paragraphs="12" data-published-at="2026-10-06T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 01:00</span>
-</div>
-
-### [SpaceX以750亿美元上市四个月后，IPO市场陷入停滞](https://oilprice.com/Finance/investing-and-trading-reports/IPO-Market-Stalls-Four-Months-After-SpaceXs-75-Billion-Debut.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> IPO Market Stalls Four Months After SpaceX&#39;s $75 Billion Debut</div>
-
-<div class="article-body" data-article-body="true"><p>点击此处获取150多种全球石油价格<br />伊拉克基于每桶58美元油价编制2027年预算——且伴随巨额赤字<br />罗尔斯·罗伊斯股价表现已……<br />全球市场正面临……<br />比特币价格突破10万美元……<br />CityAM.com是伦敦首份免费商业日报《City A.M.》的网络门户。两大平台均涵盖金融与商业新闻，以及体育和……</p>
-<p>此前人们寄希望于SpaceX在6月份的重磅上市能为全球IPO市场注入强劲推力。但四个月过去后，这一增长动能却重重跌回现实。<br />自埃隆·马斯克旗下这家公司完成750亿美元（约合567亿英镑）的上市以来，华尔街的IPO活动大幅放缓，使原本预计将迎来密集上市潮的这一季度遭受重创。<br />智能戒指制造商Oura就在上周成为最新一家暂停上市计划的公司，而数据中心公司SB Energy、加油站帝国EG Group以及核能企业Holtec也均推迟了上市进程。</p>
-<p>这些停滞给市场蒙上了一层阴影，特别是对于科技巨头OpenAI和Anthropic而言，此前人们在夏季普遍预计它们将紧跟马斯克的步伐迅速上市。<br />投资银行家和分析师将这一转变归咎于投资者需求疲软，加之对蓬勃发展的人工智能板块估值过高的担忧。<br />复兴资本（Renaissance Capital）分析师写道，在强劲的第二季度之后，“发行人准备交易时的价格预期，对于当今波动加剧的市场而言显得过高”。</p>
-<p>近来，随着投资者对估值感到担忧以及对数据中心建设的抵触情绪持续存在，关于人工智能行业陷入低迷的忧虑迅速升温。<br />获得全球科技巨头软银支持的SB Energy便是因估值问题招致批评的企业之一。据报道，尽管该公司尚未让任何一个设施正式上线运营，但其目标估值却高达500亿美元。</p>
-<p>SpaceX的股票在交易首日飙升了约19%，但在过去几个月里一直处于下行轨道，目前徘徊在158.9美元左右。<br />美国以外的重度科技股市场同样未能幸免于投资者的质疑。在上海上市的人形机器人制造商宇树科技（Unitree Robotics）在首个交易日暴涨460%超越其IPO发行价，但此后已重挫46.7%。<br />复兴资本补充表示：“推迟上市的IPO可能会将原因归咎于不利的市场状况，而实际情况更接近于正常化后的市场环境。”</p>
-<p>与人工智能热潮无关的企业也是将推迟上市的决定归咎于广泛市场波动的群体之一。<br />Oura此前计划在156亿美元的估值下筹资高达22亿美元，该公司将暂停上市归咎于“IPO市场的不确定性”。<br />Holtec上个月撤回其IPO申请时，同样引用了不利的市场条件。这种日益增强的谨慎情绪，源于中东战争引发的长达数月的油价波动以及债券收益率的攀升。</p>
-<p>经济不确定性同样导致OpenAI及其竞争对手Anthropic暂缓了上市申报进程，尽管两家公司最初曾竞相争取率先上市。<br />目标估值达到令人瞠目的2万亿美元的Anthropic，目前预计将于11月中旬上市，而OpenAI如今已将时间推迟至2027年。</p>
-<p>虽然IPO放缓的影响主要体现在美国，但其他市场也受到了波及。<br />安永（EY）数据显示，英国今年仅记录了7起上市交易，上半年融资额为5.77亿英镑。乌兹别克斯坦国家投资基金Uznif成为唯一值得关注的项目，该基金于5月在伦敦和塔什干两地挂牌出售了30%的股份。</p>
-<p>普华永道英国（PwC UK）资本市场主管卡特·克拉夫佐夫（Kat Kravtsov）表示：“在财政政策动向、货币政策预期以及更广泛的宏观经济不确定性背景下，许多公司仍在继续评估启动上市的时机。”<br />“虽然预计2026年底前将有少数企业上市，但大部分可见的上市排期已集中在2027年初。投资者在继续平衡长期乐观情绪与持续存在的财政、货币及地缘政治风险。”</p>
-<p>上周，非洲移动支付公司Airtel Money确认将于10月14日完成53亿英镑的上市首秀，为伦敦市场注入了一剂强心针。<br />但基金经理们普遍依然持悲观态度。贝伦贝格（Berenberg）最新的投资者晴雨表显示，仅有32%的受访者预计未来12个月内市场活动会有所回升，低于六个月前的63%。<br />对IPO遇阻的担忧也蔓延至欧洲，据报道，与法国酒店集团雅高（Accor）成立合资企业的精品酒店公司Ennismore已重新评估其IPO计划。</p>
-<p>Oilprice.com 更多精选阅读：<br />市场严阵以待动荡的9月<br />伊朗消失的石油正演变为每个人的难题<br />伊朗正失去部分针对霍尔木兹海峡的筹码<br />中东石油出口展现惊人复苏态势<br />随着油价下跌，美国石油钻井数量微幅回升<br />尽管面临美国制裁风险，伊朗石油开始流向塔吉克斯坦</p>
-<p>本网站所提供的材料仅供参考和教育目的，无意提供税务、法律或投资建议。<br />本网站包含的任何内容均不应被视为在任何司法管辖区向任何人推荐、招揽或要约购买或出售证券。<br />记录商户：以Oilprice.com名义交易的A Media Solutions</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-10-07 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Finance/investing-and-trading-reports/IPO-Market-Stalls-Four-Months-After-SpaceXs-75-Billion-Debut.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--4b-ahead-of-planned-ipo-170c70f0f66eeaa2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="993" data-content-paragraphs="12" data-published-at="2026-10-06T20:00:30.000Z" data-time-source="publication">
+<div id="story-s-you-have-flat-buttocks-bab40b499814a2c6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1877" data-content-paragraphs="13" data-published-at="2026-10-06T22:55:39.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 04:00</span>
+  <span class="news-meta-time">🕒 2026-10-07 06:55</span>
 </div>
 
-### [AI计算初创公司Lambda将在拟议IPO前筹资40亿美元](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI computing startup Lambda to raise $4B ahead of planned IPO</div>
+### [如何查看亚马逊是否认为你“臀部扁平”](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How to find out if Amazon thinks you have ‘flat buttocks’</div>
 
-<div class="article-body" data-article-body="true"><p>据《华尔街日报》报道，云服务提供商Lambda正以145亿美元的投前估值筹集至多40亿美元，这可能是该公司计划于2027年进行首次公开募股（IPO）前的最后一轮私募融资。Coatue Management和贝莱德集团（Blackstone）牵头本轮融资。</p>
-<p>《华尔街日报》查阅的一封致投资者信显示，Lambda的积压订单金额从6月的150亿美元增至9月的500亿美元。虽然这看起来像是需求大幅增长，但其中相当一部分增幅似乎来自一家公司的350亿美元承诺：Anthropic于8月底与Lambda签署了一项协议。</p>
-<p>这意味着，自2025年融资以来估值已大幅攀升的Lambda，其估值可能严重依赖Anthropic持续付款的能力。不过，鉴于可靠的GPU算力供应极其稀缺，投资者显然仍愿意押注提供这类算力的公司，尤其是那些与大型人工智能实验室签有大额合同的公司。</p>
-<p>对于Lambda这类新型云服务商而言，需求本身与满足需求的成本相比，并不是更大的问题。数据中心建设在很大程度上依靠债务融资，而Lambda上周刚刚额外筹集了10亿美元债务；放贷方也越来越谨慎，开始挑选向哪些对象、在什么情况下提供资金。Lambda此时决定进一步融资，不仅为其IPO定价定下基调，也让公司能够在公开市场审视到来之前获得更多资本。</p>
-<p>如果Lambda最终进行IPO——据报道，该公司原计划今年上市，但因市场不确定性而推迟——它将加入其他由英伟达支持的新型云服务商行列，例如CoreWeave和Nebius。这些公司如今都依赖自身股票的表现，为数据中心建设提供资金。英国新型云服务商Nscale上月提交了IPO申请，预计很快开始交易。</p>
-<p>Lambda、Coatue和贝莱德集团未立即回应置评请求。</p>
-<p>第二张票享受五折优惠<br />The Disrupt体验旨在与他人共享。购买您的入场券，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄势能并探索初创企业生态系统的下一步，拓展您的视野。</p>
-<p>每个工作日和周日，您都可以获取TechCrunch报道中的精华内容。</p>
-<p>TechCrunch Mobility是您获取交通领域新闻与洞察的平台。</p>
-<p>初创企业是TechCrunch报道的核心，订阅后每周获取我们最精彩的报道。</p>
-<p>为业界活跃人士提供开启一天所需的信息。</p>
-<p>提交电子邮件即表示您同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>亚马逊根据你购买的商品收集关于你的数据，这本不应令人感到意外。如果你买了很多猫砂，亚马逊大概会推断你养猫；或者如果你买了大量抗痘护肤品，亚马逊可能会猜测你容易长痘。即使我们知道亚马逊会根据购物历史定制我们的购物体验，但看到所有这些个人细节被清晰罗列在一份现成的清单上时，依然会让人吃惊——特别是当那些细节变得让人感到尴尬与过于私密时。</p>
+<p>一位Threads用户在亚马逊设置中偶然发现了这一区域，用户可以在这里查看这家电商巨头眼中的自己是怎样的画像。除了“常在女装区购物”和“可能拥有Shark扫地机器人”等较为温和的推断之外，她还发现亚马逊推测她“臀部扁平”。</p>
+<p>“我无意中翻到了一个页面，上面全是亚马逊根据我的购买记录对我做出的假设，我简直彻底无语了，”亚马逊顾客@fangirlinmegan在Threads上写道。“我的意思是，它说得也没错，但天哪，真的有必要这样直接戳穿我吗？”</p>
+<p>不到一天时间，这条帖子的浏览量就突破了100万次，许多用户也开始好奇自己的亚马逊个人画像可能会揭示出什么。以下是查看方法：</p>
+<p>在电脑端，你可以把鼠标悬停在页面右上角亚马逊显示的“您好，[您的名字]”处来找到该页面。然后点击“您的账户”（Your Account）下方的“账户”（Account）。在“订购和购物偏好”（Ordering and shopping preferences）部分下，点击“您的购物偏好”（Your Shopping preferences）。在此处，你可以添加自己的信息，比如鞋码、兴趣爱好和饮食偏好。不过，我们来这里并不是为了告诉亚马逊由于你是素食主义者就该停止向你推销牛肉干，而是为了看看亚马逊是否认为你“臀部扁平”。当你滚动到页面底部时，会看到一个名为“管理您的信息”（Manage your information）的蓝色超链接选项。点击进去后，你就能看到亚马逊掌握了你哪些“底细”。</p>
+<p>就我而言，亚马逊搜集整理出的信息是：我是一个“热爱摄影”、“玩集换式卡牌游戏”且“重度投入苹果生态系统”的人。这些全都是事实。亚马逊甚至还奉承了我一番，指出我“阅读各种各样的非虚构类作品”，对此我想说——没错，我确实是一个求知欲强、思想开明的知识分子。感谢你们注意到了这一点。</p>
+<p>我的其他同事发现，亚马逊准确指出了他们对黑胶唱片和陶瓷的兴趣，以及在家居装饰中偏爱“天然材质”、在服装上“注重舒适度”。我们当中没有任何人被贴上像“臀部扁平”这样冒犯的标签，但那位Threads用户指出，这很可能是因为她曾购买过“提臀皱褶紧身裤”（butt scrunch leggings）。</p>
+<p>科技公司对我们了解得太多了，而意识到它们竟然如此密切地监视着我们使用其平台的方式，确实令人感到不安。我们生活在一个监控无处不在的世界里，令人警惕，但至少我知道亚马逊并不认为我的屁股是平的。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。</p>
+<p>阿曼达·西尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，报道技术与文化的交叉领域。她还曾为Polygon、MTV、《凯尼恩评论》（Kenyon Review）、NPR和《商业内幕》（Business Insider）等刊物撰稿。她是探讨互联网文化的播客《Wow If True》的联合主持人（与科幻作家Isabel J. Kim搭档）。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语学士学位，并曾作为普林斯顿亚洲学者在老挝工作。</p>
+<p>您可以通过发送电子邮件至 amanda@techcrunch.com，或在Signal上通过加密信息 @amanda.100 与阿曼达联系或核实接触情况。</p>
+<p>第二张门票立享五折。Disrupt的体验适合与人共享。获取您的门票，携同事、合伙人或同行一同前往，立享50%优惠。通过建立联系、拓展势头并发现创业生态圈的下一个前沿，涉足更广阔的领域。</p>
+<p>19岁创始人为个人AI电脑研发商Ghost筹集1100万美元，该设备售价3499美元<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心争议，称不再使用保密协议（NDA）<br />OpenAI安全部门员工辞职，指责公司“文化已然崩坏”<br />Meta希望你的下一款智能设备融入Muse<br />谷歌认为SpaceX的星舰必须发射1800次，太空数据中心才能真正启动<br />世界上首座增强型地热发电厂仅用时23个月便竣工</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Lambda正在筹集最多40亿美元，投前估值为145亿美元。</li>
-    <li>Coatue Management和Blackstone领投该轮融资。</li>
-    <li>来源叙事重点：聚焦AI算力云服务商Lambda拟以145亿美元估值融资40亿美元的IPO前轮融资，深入分析其订单暴增背后对单一客户Anthropic的重度依赖，以及算力基础设施公司面临的重资产借贷与资本开支风险</li>
+    <li>Threads用户@fangirlinmegan发帖称亚马逊根据其购买记录推测其“臀部扁平（has flat buttocks）”，该贴在不到一天内获得了超过100万次浏览量</li>
+    <li>亚马逊桌面端用户可通过“Your Account”中的“Your Shopping preferences”，并点击底部的“Manage your information”来查看亚马逊根据购买行为对其生成的推测画像标签</li>
+    <li>来源叙事重点：通过社交网络（Threads）病毒式传播的热门个案，以轻松幽默的“操作指南（How-to）”形式切入，探讨亚马逊等科技巨头利用用户购买历史构建极度私密甚至令人尴尬的推测性用户画像，批评无处不在的商业监控行为。</li>
   </ul>
 </div>
 
@@ -306,259 +286,59 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-7-sustainable-web-career-49ae93f0c5dc5363" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2126" data-content-paragraphs="25" data-published-at="2026-10-06T18:29:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 02:29</span>
-</div>
-
-### [一份可持续的网络职业生涯，等这一切过去之后](https://dbushell.com/2026/10/07/sustainable-web-career/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> A sustainable web career, for when all this blows over</div>
-
-<div class="article-body" data-article-body="true"><p>2026年10月7日，星期三</p>
-<p>不管是好是坏，网络行业正经历一个阶段。原因在很大程度上是不理性的。人们仍然需要网络，这一点没有任何改变。然而，这门生意的财务状况举步维艰，长期职业前景也显得不容乐观。</p>
-<p>由于我公开反对那股意图摧毁我所从事职业的力量，并因此得罪了一些人，我经常会私下收到志同道合同行的求建议。我只能给出一个不太振奋、但很实际的回答：不要在没有退路的情况下辞掉一份有收入的工作。去温彻斯特酒吧，喝上一杯冰啤酒，等这一切过去吧。</p>
-<p>《僵尸肖恩》（2004年）中的人物在温彻斯特酒吧喝酒。西蒙·佩吉饰演的角色举着一品脱啤酒，做出干杯的姿势，并朝镜头眨眼。</p>
-<p>我相信情况会好转。在那之前，我们能专注于什么，来加速走出这场智力低迷，并在一切平静下来后让自己处于更有利的位置？</p>
-<p>要想拥有一份可持续的网络职业生涯，还有什么地方会比那些极度短缺的关键技能更值得关注？我关注的是前端开发，但这些知识领域与所有从事网站制作的人都有关。</p>
-<p>无障碍一直是网络开发的基础，但它从未像现在这样需要每个人积极倡导。理解为什么无障碍服务于所有人。学会如何围绕真实需求和实际实施来讨论无障碍。</p>
-<p>遗憾的是，无障碍已经成了某些科技群体用来表达立场的工具。（有人告诉我，LinkedIn上充斥着错误信息。）无障碍不是可以像装饰一样，在网站上最后临时添加的一项功能。无障碍问题无法在最后通过自动化流程解决。网络从业者必须从第一天起就在所有决策中尊重无障碍，以此对抗这种思维方式。</p>
-<p>学习并采纳相关指南，把它们作为你的基准。与真实的人交流并进行测试。对于那些愿意让你了解现实情况的专业人士，应当听取他们的意见。</p>
-<p>CSS是前端标准中最有活力、发展最快的一项。要设计出良好的样式表架构，需要深入理解这门语言的特性。级联层以及能够降低特异性的选择器等新特性，让这件事变得容易得多。</p>
-<p>CSS一直具备处理组织良好样式的能力，但一些拒绝学习和尊重这门语言的开发者，试图使用简化抽象或“CSS-in-JS”等方案，把复杂性转移到别处。这些方案本质上存在局限，会导致性能不佳，而且实际上并没有解决它们声称要解决的问题。</p>
-<p>沟通是一项供不应求的“软技能”（原因显而易见）。如果你希望以专家身份脱颖而出，或者只是在嘈杂的环境中让别人听见你，这是一项很棒的技能。学会简洁，专注于重要的观点。不要害怕提问。</p>
-<p>以恰当的方式尽早处理疑虑，避免事态升级。不要相互指责，但要“保护好自己”——项目中的每个人都应朝着同一个目标努力，只是有些人采用的方法可能存在偏差。保持积极，不要正面迎击消极情绪。</p>
-<p>如果你善于沟通，就会在自己的岗位上受到高度尊重。</p>
-<p>你可能没想到这一点，但我们确实要谈谈它。</p>
-<p>“不谈政治”的特权已经不复存在。极右翼政治意识形态正在抬头，科技行业中沉睡的仇恨也在苏醒。法西斯科技的中心是马斯克的“X”；David Heinemeier Hansson等人在那里散播种族主义，并在社区中滥用权力来推动某种议程；而Guillermo Rauch则与一名战争罪犯自拍。DigitalOcean等大型科技巨头正在为这场夺权行动提供资金。对于那些否认这一威胁的人，要保持警惕。</p>
-<p>如果你不想被迫离开这个行业，就要在法西斯主义找上你之前认清并拒绝它。不要保持沉默。</p>
-<p>我已经谈到了有助于我们应对未来的话题，但我们应该忘掉什么？</p>
-<p>Facebook的实验如今已变成一种货物崇拜式的遗留框架，但今天已经没有理由再学习它。React已经牢牢确立为代码生产者之间的通用语。React代码的生成速度，快到任何人都不可能读完。简单地说，尽管过时的招聘信息仍然要求相关经验，但React不值得投入时间。高薪React开发的日子已经屈指可数。</p>
-<p>GitHub如今成了一项负担。对于私有代码仓库，请使用自托管的Git代码托管平台。我推荐Forgejo。许多类似Tailscale的服务都可以轻松控制远程访问。不要把东西公开，任由死互联网来攻击！CI/CD也采用本地方案，或者使用不隶属于科技巨头的独立服务。花时间学习基本的Git命令。一点技术和基础设施知识，就能带来很大帮助。</p>
-<p>这些人外表英俊、魅力十足、非常善于与人交往。我说的是：开发者关系从业者、YouTuber、初创公司创始人等。过去，科技行业愿意与我们各让一步时，影响者很有娱乐性，在派对后的聚会中聊上几句也很愉快。现在游戏规则变了，我们不应允许虚假叙事主导一切，并决定一个封闭网络的未来。普通人仍在使用网络。能负担影响者兜售的新奇玩意儿的人少之又少。他们所处的注意力经济已不再是我们需要关心的事。</p>
-<p>这就是我对可持续网络职业生涯的关注重点，等这一切过去之后。</p>
-<p>请牢记最重要的一点：网络是人类为满足人类需求而创造的。这些需求不会消失。丢掉在繁荣时期积累下来的沉重负担。回归基础，为职业需求回归之时做好准备。</p>
-<p>所有观点仅代表我个人，不代表任何大型语言模型。我写下的一切百分之百出自人类之手。因为我在乎！</p>
-<p>我创办了Valley Fold，就是为了帮助你，所以让我们一起实现你的网站吧。无论你已经明确了需求，还是完全没有头绪，我们都可以在任何阶段与你合作。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>文章原文标题为《A sustainable web career, for when all this blows over》。</li>
-    <li>文章页面显示日期为2026年10月7日，来源标注为Lobste.rs（极客思想社区）。</li>
-    <li>来源叙事重点：倡导在Web开发行业低谷期回归基础技术（Web无障碍、原生CSS、人际沟通），抵制大厂技术垄断、中心化平台（GitHub、React）与极右翼技术意识形态，构建可持续的职业发展路径。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://dbushell.com/2026/10/07/sustainable-web-career/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-hite-prime-day-deal-sale-c42d7dbbbff6374a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="599" data-content-paragraphs="6" data-published-at="2026-10-06T20:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 04:00</span>
-</div>
-
-### [亚马逊上一代 Kindle Paperwhite 直降 30%](https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon’s last-gen Kindle Paperwhite is 30 percent off</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="亚马逊上一代 Kindle Paperwhite 直降 30%" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>称某款产品为“上一代”，通常意味着与最新版本相比，它存在较大的妥协。与其他一些科技产品相比，上一代 Kindle Paperwhite 并非如此。新款打开书籍的速度快了 30%（这与翻页速度不是一回事），铝制机身也薄了 1 毫米——但价格贵了 50 美元。</p>
-<p>2024 款拥有同样出色的 300ppi 屏幕、自动调节前光以及具备防水性能（IPX8）的设计。此外，目前正在打折的 Signature Edition 没有锁屏广告，存储空间是基础版的两倍（32GB），还支持无线充电并配备环境光传感器。目前在亚马逊售价降至 169.99 美元（原价 249.99 美元）。</p>
-<p>Kindle Paperwhite Signature Edition</p>
-<p>高端 Kindle Paperwhite Signature Edition 采用与标准版相同的设计和性能，但拥有更大的存储空间，并支持无线充电。</p>
-<p>亚马逊：249.99 美元，现价 169.99 美元<br />百思买：249.99 美元，现价 169.99 美元<br />塔吉特：249.99 美元，现价 169.99 美元</p>
-<p>标准版 Paperwhite 在亚马逊售价 149.99 美元（原价 199.99 美元）。虽然价格更低很不错，但我建议只有在你能接受需要放弃的功能（而且还不少）的情况下，才选择这一型号：它的存储空间减半、不支持无线充电，并带有锁屏广告。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Kindle Paperwhite 签名版在亚马逊的售价从 249.99 美元降至 169.99 美元。</li>
-    <li>Kindle Paperwhite 签名版在 Best Buy 和 Target 的售价亦降至 169.99 美元（原价 249.99 美元）。</li>
-    <li>来源叙事重点：强调上一代 Kindle Paperwhite 相比新款溢价产品具有极高性价比，并在横向对比中极力主推配置更全、降价幅度更大的签名版，淡化代际性能升级的实际必要性。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-4evy-pared-e00b9b1fbb0aec85" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="833" data-content-paragraphs="15" data-published-at="2026-10-06T18:27:16.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 02:27</span>
-</div>
-
-### [在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型](https://github.com/4evy/pared)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Pared - remove unwanted Apple Intelligence models without disabling SIP</div>
-
-<div class="article-body" data-article-body="true"><p>解压下载文件，然后将 Pared 拖入“应用程序”文件夹。</p>
-<p>更喜欢使用终端？运行以下命令以打开设置向导：</p>
-<p>需要 Apple 芯片和 macOS 27 或更高版本。无需 Xcode 或 Homebrew。</p>
-<p>网站 · 文档 · 更多安装选项</p>
-<p>选择要保留在 Mac 上的 Apple Intelligence 功能，然后移除不再需要的模型。Pared 提供原生应用、终端向导和 Nix 模块。系统完整性保护（SIP）保持启用状态。</p>
-<p>保留“写作工具”、关闭 Genmoji，或全部关闭。对于目录中已启用或未托管的功能，Pared 会保留这些功能所需的共享模型。</p>
-<p>想恢复某项功能？将其启用，安装更新后的配置文件，然后在 Pared 中请求该功能所需的模型。对于 Pared 无法直接下载的功能，请使用对应的 Apple 应用。</p>
-<p>打开 Pared 或运行 pared wizard。无论采取哪种方式，打开操作都不会立即更改任何内容；在保存之前，功能选择会一直保留在草稿中。</p>
-<p>有关设置和命令，请参阅应用手册或命令行指南。</p>
-<p>使用 nix-darwin 或 Home Manager 模块管理你的选择。默认情况下，两者都会在激活期间移除符合条件的模型；如需退出此行为，可设置 programs.pared.cleanupOnActivation = false;。将生成的配置文件安装到“系统设置”中，以阻止今后的下载。</p>
-<p>请参阅 Nix 设置指南和选项参考。</p>
-<p>使用 Xcode 27 或更高版本时，请从此代码检出目录运行：</p>
-<p>有关 CLI 和离线安装的信息，请参阅命令行指南。</p>
-<p>Pared 使用 Apple 的资源服务来移除模型。有关配置文件和模型移除的工作方式，以及实现细节和兼容性限制，请参阅相关说明。</p>
-<p>在不禁用 SIP 的情况下移除不需要的 Apple Intelligence 模型。支持 CLI、nix-darwin 和 Home Manager。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：介绍 Pared 工具的技术实现与使用方法，强调在不关闭 macOS 系统完整性保护（SIP）的前提下，实现对 Apple Intelligence 本地模型的选择性卸载与磁盘空间控制。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.com/4evy/pared" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ltimodal-embedding-model-c11a83f73b42d756" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3326" data-content-paragraphs="4" data-published-at="2026-10-06T19:57:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/deepmind.svg" class="source-icon" alt="Google DeepMind (AI前沿研究)" width="16" height="16" /> <strong>Google DeepMind (AI前沿研究)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 03:57</span>
-</div>
-
-### [EmbeddingGemma 2：一款开源、轻量级的多模态嵌入模型](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> EmbeddingGemma 2: an open, lightweight multimodal embedding model</div>
-
-<div class="article-body" data-article-body="true"><p>EmbeddingGemma 2 是目前能力最强的端侧多模态嵌入模型，能够原生将文本、图像、音频和视频的组合映射到统一的嵌入空间中。<br />Google DeepMind 研究工程师<br />Henrique Schechter Vera<br />您的浏览器不支持音频播放元素。<br />我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。凭借超过2000万次的下载量，构建者们已将其用于驱动更智能的端侧搜索工具以及注重隐私的检索增强生成（RAG）流程。今天，我们正式发布 EmbeddingGemma 2，在文本之外进一步扩展，将代码、图像、视频和音频统一在共享的嵌入空间中。EmbeddingGemma 2 基于 Gemma 4 架构构建，并采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数，非常适合端侧推理。它可以帮助用户通过语音备忘录查找特定视频片段，或根据文本查询在数小时的录音中进行检索，所有处理均由单个原生多模态模型完成。<br />我们于去年推出了 EmbeddingGemma，旨在为高质量文本嵌入提供一种轻量级选择，帮助您的应用程序直接在消费级硬件上组织、搜索和关联信息。开发者社区的积极反响超出了我们的预期。凭借超过2000万次的下载量，构建者们已将其用于驱动更智能的端侧搜索工具以及注重隐私的检索增强生成（RAG）流程。<br />今天，我们正式发布 EmbeddingGemma 2，在文本之外进一步扩展，将代码、图像、视频和音频统一在共享的嵌入空间中。EmbeddingGemma 2 基于 Gemma 4 架构构建，并采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数，非常适合端侧推理。它可以帮助用户通过语音备忘录查找特定视频片段，或根据文本查询在数小时的录音中进行检索，所有处理均由单个原生多模态模型完成。<br />基于与 Gemini 嵌入模型相同的技术构建，EmbeddingGemma 2 具有以下特点：在同等体量中表现最佳：在 MTEB（海量文本嵌入基准）Code 和 MAEB（海量音频嵌入基准）等基准测试中，在 10 亿参数以下的多模态嵌入模型中取得了领先分数，同时在文本、视觉和音频任务上匹敌或超越了许多更大的模型。模块化设计：仅纯文本工作负载仅需低至 2.7 亿参数，并配备可选的视觉（1.7 亿）和音频（3 亿）编码器以实现完整的全模态支持。高存储效率：利用俄罗斯套娃表示学习（MRL），开发者可以将输出向量维度从 768 维动态截断至 512、256 或 128 维。这为本地向量数据库和内存占用提供了高达 6 倍的存储缩减。针对端侧性能优化：在严格的资源限制下高效运行。通过量化，在 Google Pixel 11 Pro 上，EmbeddingGemma 2 的纯文本权重仅需约 191MB 的活动 RAM，完整多模态模型仅需约 567MB。支持扩展上下文：具备 8K token 的上下文窗口（是 EmbeddingGemma 1 的 4 倍），使其能够直接在本地硬件上处理长达 5.5 分钟的音频、29 张图像、58 帧视频，或它们的交错组合。<br />基于与 Gemini 嵌入模型相同的技术构建，EmbeddingGemma 2 具有以下特点：<br />在代码、视觉和音频方面达到顶尖品质。EmbeddingGemma 2 保持了 EmbeddingGemma 强大的多语言文本性能，同时在代码性能上实现了 9.92 分的显著提升（在 MTEB Code 中从 68.76 分升至 78.68 分），非常适合本地代码库索引、语义代码搜索和代码智能体检索。在图像、视频、文档和音频领域，它树立了 10 亿参数以下模型“每参数质量”的新标杆，甚至超越了体积为其两倍以上的某些专用模型。<br />EmbeddingGemma 2 保持了 EmbeddingGemma 强大的多语言文本性能，同时在代码性能上实现了 9.92 分的显著提升（在 MTEB Code 中从 68.76 分升至 78.68 分），非常适合本地代码库索引、语义代码搜索和代码智能体检索。在图像、视频、文档和音频领域，它树立了 10 亿参数以下模型“每参数质量”的新标杆，甚至超越了体积为其两倍以上的某些专用模型。<br />在 EmbeddingGemma 2 模型卡片中可查看完整评测指标及模型信息。<br />完全在端侧实现语义搜索、路由与检索。EmbeddingGemma 2 直接为边缘硬件带来强大能力。在本地生成嵌入有助于确保数据隐私、降低流程延迟，并使开发者能够构建完全离线运行的跨模态搜索和检索系统。当与 Gemma 4 等生成模型搭配使用时，EmbeddingGemma 2 能够实现理解复杂多模态数据的端侧 RAG 流程。由于 EmbeddingGemma 2 基于 Gemma 4 构建并共享其文本分词器及音频编码器，开发者可以在统一流程中同时运行这两个模型，从而降低总体内存占用。<br />EmbeddingGemma 2 直接为边缘硬件带来强大能力。在本地生成嵌入有助于确保数据隐私、降低流程延迟，并使开发者能够构建完全离线运行的跨模态搜索和检索系统。<br />当与 Gemma 4 等生成模型搭配使用时，EmbeddingGemma 2 能够实现理解复杂多模态数据的端侧 RAG 流程。由于 EmbeddingGemma 2 基于 Gemma 4 构建并共享其文本分词器及音频编码器，开发者可以在统一流程中同时运行这两个模型，从而降低总体内存占用。<br />使用文本或图像根据语义相似度在媒体库中查找最匹配的结果。可在 Google AI Edge Gallery 的“即时媒体搜索（Instant Media Search）”中体验。<br />使用文本或音频查询定位视频中的特定时刻。可在 Google AI Edge Gallery 的“视频精彩片段查找器（Video Moments Finder）”中体验。<br />将用于本地文件检索的 EmbeddingGemma 2 与用于上下文推理的 Gemma 4 配对使用。可在 Google AI Edge Foresight 应用中体验。<br />通过 MediaPipe Decision Task API，利用多模态上下文创建具备分类、路由和预测能力的实时决策引擎。<br />如需了解如何使用 LiteRT 构建端侧搜索和 RAG 系统，请阅读 Google AI Edge 官方博文。</p>
-<p>上手使用 EmbeddingGemma 2。我们与以下合作伙伴紧密合作，以确保 EmbeddingGemma 2 能够在您构建应用的环境中即开即用：下载模型：可在 Hugging Face 和 Kaggle 上获取模型权重，Gemini Enterprise Agent Platform Model Garden 也即将上线支持。访问 Hugging Face 上的 LiteRT 社区以获取针对端侧优化的模型。端侧部署：利用 Google AI Edge MediaPipe 开发跨平台应用，实现开箱即用的嵌入、检索和决策任务，或使用 LiteRT 进行自定义模型集成。使用 transformers.js 或 WebGPU 面向浏览器构建应用。使用您喜爱的开发工具：使用 transformers、sentence-transformers、MLX、vLLM、llama.cpp、SGLang、Ollama 和 LMStudio 高效提供模型服务。使用 Qdrant 存储您的嵌入向量。微调：参考 Unsloth 的指南，了解如何针对您的具体用例对 EmbeddingGemma 2 进行微调。探索我们的开发者指南、文档以及推理和微调指南。</p>
-<p>我们与以下合作伙伴紧密合作，以确保 EmbeddingGemma 2 能够在您构建应用的环境中即开即用：</p>
-<p>探索我们的开发者指南、文档以及推理和微调指南。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Google DeepMind 正式推出 EmbeddingGemma 2，这是一款用于端侧多模态嵌入的模型，将代码、图像、视频和音频统一在共享嵌入空间中。</li>
-    <li>EmbeddingGemma 2 基于 Gemma 4 架构构建，采用商业友好的 Apache 2.0 许可证发布，拥有 7.4 亿（740M）参数。</li>
-    <li>来源叙事重点：宣传 EmbeddingGemma 2 的端侧多模态嵌入能力，重点强调其 740M 紧凑参数规模、模块化与量化后的极低内存占用、Apache 2.0 开源商用友好性，以及在保护隐私和离线环境下的端侧 RAG 检索潜力与生态工具适配能力。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Google</span>
-</div>
-
-<div class="news-card-footer"><a href="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Google DeepMind (AI前沿研究)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-dae20ddd991a8cd3cd90d347-c1383a7e0a41a0d8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3477" data-content-paragraphs="51" data-published-at="2026-10-06T18:03:04.000Z" data-time-source="publication">
+<div id="story-sp-janet-for-the-x32-abi-20230842df035510" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1973" data-content-paragraphs="29" data-published-at="2026-10-06T22:26:46.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 02:03</span>
+  <span class="news-meta-time">🕒 2026-10-07 06:26</span>
 </div>
 
-### [为什么我们应该采用依赖注入](https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Why We Should Inject Dependencies</div>
+### [Janet 与 x32：32 位指针、64 位速度、少 25% 内存](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM</div>
 
-<div class="article-body" data-article-body="true"><p>即时分享代码、笔记和代码片段。</p>
-<p>依赖注入（Dependency Injection，DI）框架已经存在了很长时间，但 Ruby 开发者传统上一直对其敬而远之，这很可能是因为大家认为它带来了不必要的复杂性。</p>
-<p>然而，正如本文试图阐明的那样，不采用依赖注入所换来的“简单性”其实会带来负面效应。与 Java 等语言相比，Ruby 的灵活性使我们能够以一种友好得多的方式来实现 DI。</p>
-<p>在很多情况下，传递给对象的参数往往混合了初始化参数与方法参数，两者之间缺乏明确的界限。</p>
-<p>下面是一段遵循这种模式的代表性示例代码：</p>
-<p>在这个类中，@email 和 @password 被初始化为实例状态。我们能假定它们多久会改变一次？这些值在多次调用之间保持存在是合理的吗？</p>
-<p>如果我们看一下该类在控制器中的使用方式，会发现：</p>
-<p>从该类的调用方式可以看出，@email 和 @password 均来自用户输入，因此每次注册时都需要初始化新值。而一旦计算完成，UserRegistration 的实例就会立即被废弃。</p>
-<p>该类使用了几个外部接口：EmailValidator、BCrypt::Password、UserRepository 以及 ConfirmationMailer。这些都是常量，因此在多次调用之间不会发生改变。它们就是依赖项（Dependencies）。</p>
-<p>这些常量在实现代码中被直接引用，无法在测试环境中轻易替换。因此，为了为其编写测试，我们必须基于对对象内部细节的了解来对全局 API 进行打桩（stub）。</p>
-<p>如果 EmailValidator 更改了规则，导致我们的测试邮箱无法通过验证怎么办？突然之间，我们的测试可能会因为与被测行为完全无关的原因而失败。我们需要一种更好的方法来将它们替换为测试替身（test doubles）。</p>
-<p>依赖项（Dependencies）是在对象生命周期内可能被多次使用的引用。参数（Arguments）则是与单次请求相关的单次入参。</p>
-<p>Ruby 在设计上是面向对象的；你所交互的每一个实体都是对象。类的存在是为了定义构建特定类型对象的可复用模式，但这些类实例本身是作为独立个体对待的。</p>
-<p>当一个对象与另一个对象发生交互时，它们之间便建立了依赖关系。我们称这些为协作对象（coordinating objects）。管理系统复杂性主要就是要限制这些依赖关系。</p>
-<p>如果协作对象可以在一个对象内部的任意位置被引用，那么从视觉上直观判断其所有依赖就会变得更加困难。</p>
-<p>将所有协作对象作为显式依赖在顶部统一声明，能使通过视觉直观判断类的依赖关系变得非常容易。</p>
-<p>现在，我们只需看一个地方，就能一目了然地确定该类依赖于 EmailValidator、BCrypt::Password、UserRepository 和 ConfirmationMailer。在这个小例子中这看起来变化不大，但你肯定见过依赖散布在各处的更大规模的类。想一想这两种模式将如何扩展，以及哪一种会更难理解。</p>
-<p>设想出现了一个新需求：员工邮箱需要使用更强大的摘要算法。在以前，这需要修改实现代码。但现在，我们所需要做的仅仅是传入一个不同的依赖项。</p>
-<p>这种结构允许我们将类的初始化与其具体使用分离开来。</p>
-<p>使用 initialize 作为向对象注入依赖的接口。</p>
-<p>这段代码中的验证行为应当被孤立测试，因此在某些测试场景下，你可能希望它始终通过或始终失败。</p>
-<p>在原始代码中，我们无法从外部改变这一点。因此你很可能不得不对 EmailValidator 进行打桩，而这会把该对象的内部实现细节编码进测试代码本身。记住：测试行为，而非测试实现。</p>
-<p>既然我们现在对其进行了注入，就可以通过传入一个替代实现来完成这一点：</p>
-<p>使用依赖注入将依赖项替换为测试替身。</p>
-<p>通过 initialize 转为依赖注入解决了一些问题，但同时也带来了新问题：通常对象拥有许多依赖项，将它们作为关键字参数逐一写出会变得非常别扭。</p>
-<p>除了冗长的参数列表之外，它还要求将每个关键字参数赋值给实例变量，因此你不得不将每个参数重复输入两次。</p>
-<p>有一个机制可以帮助你在没有这种冗余的情况下定义 initialize：</p>
-<p>如果查看 Command 基类，我们会看到 extend Dry::Initializer，正是它提供了这个 option 辅助方法。</p>
-<p>option 为 initialize 函数定义了要接收的关键字参数，并提供了一个用于访问该值的实例方法。此外，它还具有支持类型检查的额外优势。</p>
-<p>你也可以直接将其内联包含在任何普通 Ruby 类中：</p>
-<p>define 没有采用固定的 option 接口，而是使用了模块构建器模式，从而保持了类接口的精简。在你已经拥有基类且不想在子类中重复自身代码的情况下，使用 extend 是很合适的。</p>
-<p>通过使用简单的 DSL，我们可以消除显式定义关键字参数所带来的冗余。这在简单场景下运作良好。</p>
-<p>对象的构建应当以遵循通用约定的系统化方式进行处理。</p>
-<p>到目前为止，类的实例尚不需要拥有独立于类本身的标识。但是，如果我们根据特性开关（feature gate）需要将一个类替换为另一个类，该怎么办？</p>
-<p>这正是像 Dry::Initializer 这样简单的 DSL 面临局限的地方；我们需要能够动态选择注入的依赖项，这意味着我们需要一种除了类常量之外的方式来标识它们。</p>
-<p>调用 UserRegistration 的代码在理想情况下不应该为了调用它而必须了解这些内部细节。当你所需要的仅仅是调用它时，你实在不应该需要去考虑如何构建这个对象。</p>
-<p>你可以通过将该分支逻辑下推到 UserRegistration 中来简化调用方代码：</p>
-<p>但这仅仅是转移了问题：现在，UserRegistration 被赋予了负责知晓该使用哪个客户端的职责。NotificationService 的依赖方不应该对此知情，因为这会导致该分支逻辑在每一个使用它的地方都被重复一遍。</p>
-<p>Dry::Core::Container 为我们提供了一个更好的位置来编码这些信息：</p>
-<p>这在容器中定义了一个名为 confirmation 的键。接下来我们使用该容器定义一个 Deps 常量：</p>
-<p>现在你可以通过名称将它注入到任何对象中：</p>
-<p>你可以根据需要修改这个名称：</p>
-<p>在实例内部它将变为 notify。让我们把其余的依赖项也迁移过来：</p>
-<p>现在我们可以简化原始代码了：</p>
-<p>容器键的注册代表了关于如何实例化特定依赖项的细节，消费代码可以按名称使用它，而无需知晓其内部细节。</p>
-<p>当我们保留 initialize 参数专用于注入依赖时，我们可以将其系统化以减少样板劳动。</p>
-<p>当我们将对象的构建系统化时，我们就可以赋予它们独立于类常量的唯一标识。</p>
-<p>当我们把类常量与实例标识解耦时，我们的代码便无需了解它们是如何被构建的，只需专注于我们所定义的公开接口。</p>
-<p>在这种范式下，类的作用是定义类之间的依赖关系，并确立公开接口。</p>
-<p>而类实例的作用是执行工作、实现某种业务功能。你不再需要在大脑中同时兼顾这两件事；它们是各自独立的关注点。</p>
-<p>Johnson, R.E. &amp; Foote, B. (1988). Designing Reusable Classes. Journal of Object-Oriented Programming http://www.laputan.org/drc/drc.html<br />Fowler, M. (2005). Inversion of Control. https://martinfowler.com/bliki/InversionOfControl.html<br />Weirich, J. (2004). Dependency Injection In Ruby. { | one, step, back | }. https://web.archive.org/web/20080203042721/http://onestepback.org/index.cgi/Tech/Ruby/DependencyInjectionInRuby.rdoc<br />CodeAesthetic. (2023). Dependency Injection, The Best Pattern [Video]. YouTube. https://youtu.be/J1f5b4vcxCQ</p></div>
+<div class="article-body" data-article-body="true"><p>在 64 位系统上使用 32 位指针，可以节省大量内存（对于指针密集型堆，节省量接近一半），还可以通过让更多数据装入缓存，使程序获得小幅提速。</p>
+<p>Linux 的 x32 ABI 正是为此而生，但它一直被严重低估和忽视。在 Debian 上默认禁用（虽然可以通过启动参数启用），在 Arch Linux 上甚至没有编译进去。大多数软件都能顺利为 x32 编译，但针对它的软件包并不多，因此几乎所有东西都得自己编译。</p>
+<p>我尝试在 x32 上部署 Mastodon，应用的内存使用量从 650 MB 降到了 350 MB。这里的潜力非常大，但相关工作主要是吃力不讨好的协调与沟通，而我没有时间或动力亲自推动它发展。——Hailey</p>
+<p>Spork 等 Janet 库会提供自己的构建标志，但我们可以用一个假的 cc 劫持它们：这个假 cc 会带上必要的 `-m32 -msse2 -mfpmath=sse` 标志启动真正的编译器。我修改了默认 Janet 构建脚本的开头：</p>
+<p>很简单！现在试试看！</p>
+<p>简而言之：内存减少 20%，速度变慢 50%</p>
+<p>这是在 CachyOS（顺便说一句，它基于 Arch）上进行的，使用了 `lib32-glibc` 和 `lib32-gcc-libs`。把这些内容加入构建脚本，就能强制 Spork 等库也以 32 位模式构建！</p>
+<p>注意，这些使用的是 Fish；而我不想为了支持其他语言而重新构建我的网站：</p>
+<p>我在测试中加了一个 0</p>
+<p>例如：`declarative-dsls/tests.janet`</p>
+<p>不幸的是，Ubuntu 也放弃了对 x32 的支持。</p>
+<p>幸运的是——或者说，我很懒——我可以使用一些已经弃用的服务器（当然不在生产环境中……）和操作系统安装，占用一些硬盘空间：</p>
+<p>Ubuntu 20.04 LTS Focal Fossa 已于 2025 年 5 月 31 日结束标准支持。</p>
+<p>Ubuntu，这样我们又有 bash 了：</p>
+<p>这正是我们需要的，尽管 GCC 9.4.0 版本有些老。我们已经有了 `build-essential`、`git`、`gcc-multilib` 和 `libc6-dev-x32`。现在几乎可以验证这个猜想了。但首先，我们必须修改 `src/include/janet.h`：</p>
+<p>让 Janet 选择 64 位值布局。我们的构建脚本还会传入一个构建标志，以禁用 Janet 的 FFI。下面是完整的 `32janet.sh`：</p>
+<p>以及用于对比的 `64janet.sh`：</p>
+<p>现在来比较二者：</p>
+<p>不过，`declarative-dsls` 属于最极端的情况，它使用类型化 C 数组来大幅提升速度，而这类数组并不能从上述变化中获得太多好处。让我们制作一些最小基准测试，真正检验其中的差异：</p>
+<p>`words.janet` 构造一段文本，将其拆分成单词，统计单词数量并排序：</p>
+<p>`records.janet` 按部门对结构体进行分组，并汇总这些部门；其中还包含一些像真实代码中那样未使用的额外字段：</p>
+<p>`parse.janet` 使用 PEG 解析多行文本并计算总数：</p>
+<p>`tree.janet` 构造并遍历二叉树，这是我们指针使用最密集的示例：</p>
+<p>我们发现，内存节省最多的是小型对象，平均约为 25%；性能变化则不稳定，有时提升 8%，有时下降 16%。或许相比 Janet，其他项目更容易从中获益，因为 Janet 的 NaN-boxing 已经将值压缩到 8 字节，而这里的主要收益来自更小的对象头。实验进行到一半时，我曾希望由于更多数据能够留在 L1 缓存中等原因而获得性能提升；如果在另一个仍持续支持 x32 的世界里，我们甚至可以把它作为脚本的默认配置。但面对这些数据，唯一约 25% 的内存使用量下降虽然不错，却不足以让我们在这个内存价格高昂的时代发起一场运动，以便从机器中榨取更多性能。</p>
+<p>如果 Janet 使用更小的对象头，那么为什么不在 64 位模式的实现中直接缩小它们？据我理解，Janet 堆对象使用 16 字节，是为了帮助垃圾回收器：</p>
+<p>缩减这些对象需要采用不同的垃圾回收策略，例如使用我们自己的分配器；但这会损害 Janet 的一个核心使用场景：嵌入其他项目。</p>
+<p>随后每种类型还会增加：</p>
+<p>尤其对于结构体和表，我们可以通过重新排列布局重新获得 8 字节（不需要后面的填充）。只有从代码解析出来的元组需要源代码信息（用于报错）；通过增加一个标志，普通元组可以节省 8 字节。</p>
+<p>遗憾的是，glibc 的 malloc 会增加 8 字节，并将大小向上取整到 16 字节的倍数，因此结构体的大小仍会保持不变。但表和部分元组的大小会比上述数据所显示的缩减得更多！</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>依赖注入（Dependency Injection）框架存在已久，但 Ruby 开发者传统上普遍避免使用它，这可能是因为人们认为它带来了不必要的复杂性。</li>
-    <li>示例中 UserRegistration 类使用的外部接口常量包括 EmailValidator、BCrypt::Password、UserRepository 以及 ConfirmationMailer。</li>
-    <li>来源叙事重点：系统性论证在 Ruby 项目中引入依赖注入（DI）的必要性与工程优势，批判社区回避 DI 的传统惯性，并演示从构造器注入到引入轻量容器（如 dry-initializer、dry-container）的具体重构路径。</li>
+    <li>在64位系统上使用32位指针有可能大幅减少内存占用（对于指针密集型堆程序接近减半），并通过更易装入缓存适度提高程序运行速度。</li>
+    <li>Linux x32 ABI在Debian上默认禁用（可通过启动标志启用），在Arch Linux上甚至未编译进去，且Ubuntu也停止了对x32的支持。</li>
+    <li>来源叙事重点：探讨 Linux x32 ABI（64位性能搭配32位指针）在 Janet 语言中的实际内存优化与性能权衡，指出其虽能减少约25%的RAM占用但速度提升不稳定且生态支持严重萎缩，得出不足以推动生态复兴的务实结论</li>
   </ul>
 </div>
 
@@ -567,146 +347,193 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://gist.github.com/alassek/1a185a8cdae20ddd991a8cd3cd90d347" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-et-unloads-enormous-fool-cb3cb896b64dffef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1363" data-content-paragraphs="20" data-published-at="2026-10-06T20:15:18.000Z" data-time-source="publication">
+<div id="story--thermostat-and-doorbell-56fda4e3eb3d9113" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="661" data-content-paragraphs="12" data-published-at="2026-10-06T22:53:09.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 04:15</span>
+  <span class="news-meta-time">🕒 2026-10-07 06:53</span>
 </div>
 
-### [法国骚乱蔓延之际马克龙炮轰美式言论自由 网友群嘲：“奇蠢无比”](https://www.foxnews.com/politics/macron-trashes-american-free-speech-riots-grip-france-internet-unloads-enormous-fool)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Macron trashes American free speech as riots grip France — internet unloads: ‘Enormous fool’</div>
+### [据报道苹果正与LG合作推出智能门锁、恒温器和智能门铃](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell</div>
 
-<div class="article-cover"><img src="https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fire-police-fireworks-reuters.gif" alt="法国骚乱蔓延之际马克龙炮轰美式言论自由 网友群嘲：“奇蠢无比”" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>法国总统埃马纽埃尔·马克龙（Emmanuel Macron）在批评美式言论自由理念并主张自由需要“共同框架”后，引发了强烈的网络抨击——这番言论发表之际，他的政府正面临来自全法范围内的学生抗议、学校封锁以及与防暴警察冲突带来的巨大压力。</p>
-<p>据其讲话翻译，马克龙9月29日在马德里康普斯顿大学（Complutense University）就民主、青年和数字时代进行讨论时表示：“今天某些人鼓吹的所谓美国‘言论自由’，恰恰是言论自由的反面。”</p>
-<p>马克龙认为言论自由不是绝对的，必须受到他人权利和对公共秩序尊重的制约，同时主张信息的流动必须与真实保持关联。他将这些限制比作禁止殴打或侮辱他人、破坏公共财产的禁令。</p>
-<p>【相关报道：法国青少年暴乱出现爆炸性新动向，政府将矛头指向极左翼】</p>
-<p>据英文翻译，马克龙补充说：“如果对我的自由没有限制，那就没有自由，而自由始于他人的自由以及对共同框架的尊重。当我走在大街上时我就明白这一点：我的自由绝不意味着可以殴打你、侮辱你，或者破坏我们共同拥有的公共空间。”</p>
-<p>这些言论迅速在网上招致强烈反对，批评人士抓住马克龙关于言论自由的言论与法国国内正在爆发的动荡之间的反差大加鞭挞——在法国国内，抗议活动、封锁设施以及与警方的冲突正严峻考验着他的政府。</p>
-<p>【相关报道：法国遭学生暴乱重创，数百人被捕，暴力蔓延至全国】</p>
-<p>《联邦党人》（Federalist）资深编辑约翰·丹尼尔·戴维森（John Daniel Davidson）表示：“这些人哪怕把自己的国家烧成平地，也要死抱权力不放。”</p>
-<p>一名网民写道：“一边被第一修正案冒犯，一边彻底忽视自己国家真正被烧毁的事实。”</p>
-<p>另一人发问：“他的国家正在被暴乱摧毁，他难道认为那是言论自由吗？”</p>
-<p>维基百科联合创始人拉里·桑格（Larry Sanger）直言：“埃马纽埃尔·马克龙是个奇蠢无比的笨蛋。”</p>
-<p>有用户表示：“欧洲人在言论问题上太愚蠢了。”</p>
-<p>犹他州共和党参议员迈克·李（Mike Lee）的通讯主管比利·格里宾（Billy Gribbin）写道：“事已至此，复辟波旁王朝对法国来说都更有尊严一点。”</p>
-<p>公共事务研究所（Institute of Public Affairs）资深研究员亚当·克赖顿（Adam Creighton）写道：“法国有史以来最差劲的总统，鉴于他试图关闭该国卓越的核工业和专业技术，这几乎等同于叛国。”</p>
-<p>丹·盖诺（Dan Gainor）写道：“我们在美国仍然是自由的，@埃马纽埃尔·马克龙 哪儿凉快哪儿呆着去吧。”</p>
-<p>【相关报道：法国暴力学生抗议为美国敲响警钟：“前车之鉴”】</p>
-<p>马克龙此前也曾抨击过美式言论自由观念。今年2月18日在印度新德里出席活动时，他声称如果人们不知道算法如何引导他们在网上看到的内容，那么“言论自由纯属胡扯”，同时呼吁提高透明度并建立“某种公共秩序”来遏制种族主义和仇恨言论。</p>
-<p>9月中旬，由于教师短缺和学校资源不足，巴黎郊区爆发抗议，随后迅速蔓延至全国。</p>
-<p>示威者纵火、破坏建筑物并与警察发生冲突。据美联社报道，法国教育部表示，周二全法有891所学校全部或部分停课，自抗议开始以来，已有24所学校被焚烧或洗劫。</p>
-<p>福克斯新闻数字频道（Fox News Digital）已联系白宫征求置评。</p></div>
+<div class="article-body" data-article-body="true"><p>据彭博社报道，苹果公司正通过与LG建立合作伙伴关系，致力于打造一个全新的智能家居设备生态系统。</p>
+<p>这些新设备——包括智能门锁、恒温器和门铃——旨在与该公司的智能家居中枢无缝集成；据悉，该中枢是另一款即将推出的产品，据传将于10月13日发布。预计该中枢将配备一块6英寸的正方形显示屏，可放置在台面上或安装在墙壁上。</p>
+<p>两家公司还在研发一系列安防摄像头，包括室内与室外型号，以及一款泛光灯摄像头。即使下周不正式发售，这批LG设备也有望在下周正式发布。TechCrunch已联系苹果公司以获取更多信息。</p>
+<p>有趣的是，据报道，尽管这些设备由两家公司共同研发，但它们将冠以LG品牌。</p>
+<p>这些新产品完全可以被视为对亚马逊智能家居产品的正面叫板，亚马逊目前提供多款类似产品，包括其旗下的Ring家庭安防摄像头。</p>
+<p>苹果近期发布的多款硬件产品一直试图开拓新领域，而扩大在智能家居市场的布局正是其中之一。</p>
+<p>第二张通行证可享50%优惠——Disrupt的精彩体验本就值得共同分享。获取您的通行证，即可以半价邀请一位同事、合作伙伴或同行。通过拓展人脉、蓄势发力，发现创业生态系统的下一个机遇，从而覆盖更广阔的领域。</p>
+<p>每周一至周五以及周日，您都可以获取TechCrunch的精选报道。</p>
+<p>TechCrunch Mobility是您获取交通领域前沿动态与洞察的首选阵地。</p>
+<p>初创企业是TechCrunch的核心，欢迎订阅我们每周精选的核心报道。</p>
+<p>为行业引领者提供开启新一天所需的关键资讯。</p>
+<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-07 04:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>来源叙事重点：苹果公司据报道正与LG合作开发包括智能门锁、温控器、门铃及安防摄像头在内的智能家居生态产品，虽然联合研发但设备或将使用LG品牌，并深度联动苹果即将于10月13日发布的带屏智能家居中枢，意在正面冲击亚马逊Ring等竞品的市场份额。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-g-program-status-osc7501-cbd7ea75fd5495be" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2654" data-content-paragraphs="28" data-published-at="2026-10-06T21:12:46.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 05:12</span>
+</div>
+
+### [用于程序状态的终端协议（OSC 7501）](https://mitchellh.com/writing/program-status-osc7501)
+<div class="original-title-sub"><span class="orig-tag">原文</span> A Terminal Protocol for Program Status (OSC 7501)</div>
+
+<div class="article-body" data-article-body="true"><p>我为一种新型终端转义序列编写了规范：OSC 7501，即“程序状态协议”（Program Status Protocol）。它允许任何程序向终端告知自己当前的状态：空闲、运行中、等待用户响应、已完成或失败，以及具体原因。</p>
+<p>例如，Terraform 可以通过该协议指示其当前正阻塞以等待用户输入，附带提示信息“Apply 3 to add, 1 to change, 0 to destroy?”（Base64 编码）。终端（或运行 Terraform 的任何其他工具）可以采用它认为合适的方式来展示此信息：通知、收件箱列表、状态图标等。</p>
+<p>本文介绍了为什么我认为该协议有必要存在、为什么现有的方案不够理想（尤其是对于编码智能体而言），以及该协议是如何运作的。</p>
+<p>这是一套完全通用、终端原生的规范与协议。它源于我在 Superlogical 和 Ghostty 上的开发工作，但该规范不包含任何特定产品的功能或用语。它被设计成一个符合惯例、结构规范的规范，任何终端开发者都会对其感到熟悉。</p>
+<p>长时间运行的任务在终端中十分常见：构建、部署、包升级、数据处理，以及如今越来越多的编码智能体（coding agents）。这些程序在自主运行、等待用户输入以及结束运行之间交替切换。与此同时，用户通常会离开去做其他事情，并希望在任务完成或需要人工介入时收到通知。</p>
+<p>这个问题的各个方面早在几十年前就已通过各种方式尝试解决。例如，某些终端会监控活跃的前台进程，并在进程发生变化时发出通知；或者，它们会等待一段输出“静默”（定义各异）的时间。该规范同样列举了现有序列不足以满足需求的原因。</p>
+<p>归根结底，我认为目前还没有一个统一、与交互形态无关且通用的解决方案来传达进度、阻塞状态、完成情况以及任务树结构。依靠东拼西凑现有的转义序列，也无法稳健地实现这一目标。</p>
+<p>如果你对 AI、大语言模型（LLM）等不感兴趣，可以跳过本节。这个问题本身是通用的，即使不涉及 AI，它也是一个非常现实的需求。由于在 AI 场景下该问题尤为棘手，因此我专门提了出来；但如果你完全不关心这些，直接跳过即可。</p>
+<p>如今，人们出于各种原因运行大量长时间运行的智能体已越来越普遍：背景调研、Issue 监控、错误修复、大型功能开发等。每一个智能体都会运行一段时间，然后停下来请求权限、提出疑问或汇报已完成。</p>
+<p>由此催生了一类全新的工具，我姑且将其称为“智能体收件箱”（agentic inbox）：即一个跨所有正在运行的智能体的统一视图，展示哪些处于运行中、哪些已完成，以及哪些正在等待你的响应。Herdr、cmux 和 Agent Deck 就是其中数百个例子中的代表。</p>
+<p>由于缺乏专用协议，它们目前通过两种方式解决智能体状态问题：启发式推测以及非终端 API。</p>
+<p>第一种方法是通过读取屏幕内容或窗口标题，并将其与已知模式进行匹配来进行推测。</p>
+<p>Herdr 是一个很好的例子，因为它做得不错且公开了文档。它的检测清单是 TOML 规则，用于将智能体归类为空闲、运行中或阻塞。以下是针对 Claude Code 的 16 条规则中的第一条：</p>
+<p>如果 Claude Code 的窗口标题以盲文旋转图标（Braille spinner）开头，或者自 2.1.228 版本起以半圆图标开头，它就会被判定为“运行中”。仅针对 Claude Code，该规则文件的修改历史在三个月内就记录了十次变更。</p>
+<p>这并不是对 Herdr 的批评。其维护者已经在现有工具条件下做到了极致。但这充分证明了统一协议将带来的巨大益处。</p>
+<p>第二种方法是让程序通过特定于收件箱工具的带外 API（例如 Herdr 的 socket API 或 cmux notify）自行报告状态。从某种意义上说，这比启发式推测更好，因为真正知晓自身状态的程序正是报告状态的主体。然而，每个程序都必须单独与每个收件箱工具进行集成，而且本地 socket 无法在没有额外桥接的情况下跨 SSH 或在容器内运行。而伪终端（pty）早已在所有这些场景下顺畅工作。</p>
+<p>OSC 7501 是针对这一问题的终端原生解法。程序直接通过其始终具备的 pty 上报自身状态，使用的格式即使发送到任何地方也是安全的（规范的终端会直接忽略未知的 OSC 序列）。</p>
+<p>该序列的主体是由冒号（:）分隔的键值对列表。唯一必需的键是 state，其值为以下之一：</p>
+<p>可选的键包括 app（稳定的机器可读程序名称，如 cargo 或 claude-code）以及 msg（Base64 编码的单行人类可读信息）。</p>
+<p>同时运行多个任务的程序可以使用层级 ID 上报多条记录。部署工具可以在根节点处于运行状态，而 us-east 正以 40% 的进度推送镜像，eu-west 则处于阻塞状态等待部署到生产环境的审批。两者可以同时成立，终端可以决定如何进行展示。clear 状态则用于清除记录。</p>
+<p>以下是一个封装 rsync 以接入此协议的完整 Shell 脚本示例：</p>
+<p>使用老式普通的 POSIX sh 就能轻松编写脚本。不需要 SDK，不需要 socket，不需要环境变量，也不需要 JSON。对特定的 GUI 呈现形式没有任何偏见。对任何特定的工作负载（如 AI）也没有倾向性。这是一个结构规范、通用的基础，任何人都可以基于它构建功能并参与其中。</p>
+<p>完整的规范涵盖了其余细节：记录生命周期、特性探测、terminfo、大小限制以及安全性。篇幅很短，全部由我亲手编写，欢迎阅读。</p>
+<p>我是基于多年维护终端模拟器的经验编写了这一规范。它的设计既便于应用程序开发者生成输出，也便于终端模拟器消费和解析。</p>
+<p>我已经两次实现了该协议。我们在 libghostty 中有一个实现，我在 Rex 中也做了一个并行实现。此外，我还通过插件或分支方式在 Terraform、Claude Code、Codex 和 Homebrew 中完成了概念验证实现。在每种情况下，实现代码都只有十几行。</p>
+<p>我已经与许多流行终端程序和模拟器的维护者取得了联系，他们帮助审阅并完善了这份规范。如果你有更多反馈，我非常乐意倾听。</p>
+<p>如果你已经实现了该规范，请通过电子邮件（页脚的邮件图标）联系我，我会将你添加到实现该规范的工具列表中。谢谢。</p>
+<p>我希望我们所有人都不必再通过读取屏幕或进程树来猜测程序在做什么。程序本身就知道自己在做什么，让我们给它一个告诉我们的途径吧！</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>作者编写了名为 OSC 7501（Program Status Protocol）的新终端转义序列规范，允许程序向终端汇报自身状态（如 idle、working、waiting on the user、finished、failed 及其原因）。</li>
+    <li>OSC 7501 是原生终端规范，源自作者在 Superlogical 和 Ghostty 上的工作，但不包含特定产品的专用功能或语言。</li>
+    <li>来源叙事重点：提出并倡导原生终端转义序列规范 OSC 7501（程序状态协议），阐明其如何替代脆弱的屏幕启发式嗅探和复杂的进程外 API，从而低成本解决终端程序及 AI 编程代理的状态通知与集中管理问题。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/macron-trashes-american-free-speech-riots-grip-france-internet-unloads-enormous-fool" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://mitchellh.com/writing/program-status-osc7501" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-pleads-guilty-194m-fraud-4ce57319fbe171d9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="906" data-content-paragraphs="13" data-published-at="2026-10-06T20:02:03.000Z" data-time-source="publication">
+<div id="story-world-2198511-d0c00a8a4ab0c0e4" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="565" data-content-paragraphs="6" data-published-at="2026-10-07T00:28:41.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🛡️ 军事防务安全</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 04:02</span>
+  <span class="news-meta-time">🕒 2026-10-07 08:28</span>
 </div>
 
-### [被搜出逾4000万美元金条的前中情局官员就1.94亿美元欺诈案认罪](https://www.foxnews.com/us/ex-cia-officer-found-over-40m-gold-bars-pleads-guilty-194m-fraud)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Ex-CIA officer found with over $40M in gold bars pleads guilty to $194M fraud</div>
+### [特朗普声称正在考虑是否以“友好的方式”结束与伊朗的冲突](https://tass.com/world/2198511)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump claims to be in procces of mulling whether to end conflict with Iran &#39;the nice way&#39;</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/ex-cia-gold-bar.jpg?ve=1&amp;tl=1" alt="被搜出逾4000万美元金条的前中情局官员就1.94亿美元欺诈案认罪" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>联邦检察官透露，一名从中情局挪用近2亿美元联邦政府资金的前高级官员，曾伪造其军旅背景和教育经历，以此在这家情报机构步步晋升。</p>
-<p>大卫·J·拉什（David J. Rush）在弗吉尼亚州联邦法院就一项电汇诈骗罪名认罪。在此前数月，美国联邦调查局（FBI）对其住所进行了搜查，缴获了价值4600万美元的298块金条、210万美元现金以及数十件奢侈品。</p>
-<p>“联邦雇员受托服务于美国人民，而非服务于他们自己，”司法部长托德·布兰奇（Todd Blanche）表示，“特朗普政府致力于铲除联邦政府内部的浪费、欺诈和滥用职权行为，包括起诉那些愚蠢地欺诈美国纳税人的人。”</p>
-<p>【UFO举报人声称有数十亿美元秘密支出对国会隐瞒】</p>
-<p>为了爬上中情局高层并获得最高机密安全许可，拉什捏造了大量履历资质。</p>
-<p>在正式求职申请中，他声称自己毕业于美国空军试飞员学校，并曾担任陆海军联合部队的试飞行动主管。</p>
-<p>然而事实上，拉什从未当过飞行员，未持有任何美国联邦航空局（FAA）执照，在海军服役期间主要担任信息系统技术员。</p>
-<p>一旦进入高级领导层，拉什便展开了对纳税人资金的巨额侵吞。根据司法部的说法，他虚构了多个政府实体和虚假项目——包括一个虚构的“特别访问项目”（Special Access Program）——将联邦资金转移到自己的账户中，最终侵吞了1.94亿美元。</p>
-<p>【特朗普财政部重拳打击联邦欺诈，通过阻截向已故人士发放款项节省数百万美元】</p>
-<p>拉什通过电汇转移了1.45亿美元，用于资助其挥霍无度的奢靡生活。他购买了高端房地产、豪车以及大量实物黄金。</p>
-<p>“拉什滥用职权，背叛了公众信任，应当对自己的行为承担全部责任，”中情局局长约翰·拉特克利夫（John Ratcliffe）表示，“在内部调查发现潜在犯罪行为后，中情局立即将此案移交给了FBI。”</p>
-<p>根据认罪协议的条款，拉什同意没收调查期间查扣的所有资产。被没收的资产包括298块金条、210万美元现金、名下房产、30块主要为劳力士的奢华名表，以及两辆2026款宝马Alpina汽车——其中一辆价值17.2万美元。</p>
-<p>拉什定于2027年1月28日接受判决。他面临最高20年的监禁。</p></div>
+<div class="article-body" data-article-body="true"><p>华盛顿，10月7日。/塔斯社/。美国总统唐纳德·特朗普表示，他正在考虑是否以“友好的方式”结束与伊朗的冲突。</p>
+<p>“我们必须结束[与伊朗的冲突]，这只是一个采取哪种方式的问题：我们是想用友好的方式，还是不太友好的方式？很快你们就会知道了，”这位美国领导人在马里兰州巴尔的摩发表演讲时说道。</p>
+<p>“我面临的最大问题是，到底谁在统治这个国家，根本没人知道。没人知道，但也许这是件好事。不过你还记得[伊斯兰共和国前最高领袖阿亚图拉·阿里]哈梅内伊吧。他们全都不在了，”总统补充道。据他称，伊朗的“导弹和无人机制造能力大幅下降”。“它很快就会彻底消失。我们确切地知道剩下的制造设施都在哪里，”特朗普说。</p>
+<p>他补充称，自己“一直接到来自世界各国领导人的电话”向他表示感谢。据特朗普称，他回应道：“‘很好。你们什么时候为此付钱？’”。</p>
+<p>美国和以色列于2月28日对伊朗发动了一场战争。6月，华盛顿和德黑兰签署了一份谅解备忘录，设想在包括黎巴嫩在内的所有战线上立即停火。然而，美国指责伊朗在涉及霍尔木兹海峡的问题上违反了现有协议，并于7月8日夜间恢复了对伊朗的大规模袭击。霍尔木兹海峡是全球约25%的石油和约20%的液化天然气供应的咽喉要道。</p>
+<p>特朗普政府最近释放信号，表示将结束对伊朗的大规模武力使用，转而通过制裁对这个伊斯兰共和国施加经济压力。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-07 04:02 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-10-07 08:28 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#军事防务安全</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/ex-cia-officer-found-over-40m-gold-bars-pleads-guilty-194m-fraud" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/world/2198511" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-shell-doj-report-reveals-b0bffe631269f02d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1569" data-content-paragraphs="17" data-published-at="2026-10-06T20:00:19.000Z" data-time-source="publication">
+<div id="story-mestic-abuse-allegations-65a91c83bd2226ad" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1225" data-content-paragraphs="24" data-published-at="2026-10-07T00:25:31.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 04:00</span>
+  <span class="news-meta-time">🕒 2026-10-07 08:25</span>
 </div>
 
-### [司法部重磅报告披露：FBI曾因一名母亲与“右翼”组织“自由妈妈”有关联而对其展开调查](https://www.foxnews.com/media/fbi-investigated-mom-ties-right-wing-moms-liberty-group-bombshell-doj-report-reveals)
-<div class="original-title-sub"><span class="orig-tag">原文</span> FBI investigated mom over ties to ‘right-wing’ Moms for Liberty group, bombshell DOJ report reveals</div>
+### [泰里克·希尔重返NFL看似近在眼前，随后其离婚审判开启并伴随家暴指控](https://www.foxnews.com/outkick-sports/tyreek-hill-nfl-return-seemed-imminent-divorce-trial-began-domestic-abuse-allegations)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Tyreek Hill&#39;s NFL return seemed imminent and then his divorce trial began with domestic abuse allegations</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/tina-descovich-head-start-fox-news.jpg?ve=1&amp;tl=1" alt="司法部重磅报告披露：FBI曾因一名母亲与“右翼”组织“自由妈妈”有关联而对其展开调查" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/tyreek-hill-runs-off-dolphins-colts.jpg?ve=1&amp;tl=1" alt="泰里克·希尔重返NFL看似近在眼前，随后其离婚审判开启并伴随家暴指控" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>“自由妈妈”（Moms for Liberty）联合创始人蒂娜·德斯科维奇（Tina Descovich）表示，在一份最新司法部报告披露联邦调查局（FBI）曾根据拜登时期一项针对涉校官员威胁的争议性指令对家长展开数十起评估调查后，她的组织感到“沉冤得雪”。其中一起调查源于一条举报线索，该线索提及一名母亲加入了某个“右翼母亲团体”。</p>
-<p>“我和我们在‘自由妈妈’全体成员的反应就是感到昭雪，”德斯科维奇在接受福克斯新闻数字频道（Fox News Digital）采访时表示，“我们觉得……我们的声音终于被听到了。”</p>
-<p>德斯科维奇称，在司法部和联邦调查局对2021年开始的激烈校董会纷争作出回应后，参与其组织的家长们开始害怕公开发声。她声称，一些人接到了询问其心理健康状况以及家中是否有武器的电话。</p>
-<p>【相关阅读：新曝光司法部邮件揭示敦促打击家长的拜登时期备忘录引发的动荡】</p>
-<p>“家长们不敢露面，”德斯科维奇说，“他们害怕丢掉工作。他们是我们组织的成员，有时在私下默默支持我们，但由于我们政府在美利坚合众国的所作所为，他们太害怕公开发声了。在我们迎接这次中期选举之际，我们切不可忘记2021年时我们所处的境地。”</p>
-<p>司法部“武器化工作组”（Weaponization Working Group）周一报告称，在时任司法部长梅里克·加兰（Merrick Garland）于2021年10月4日发布处理针对学校官员威胁的备忘录之后，FBI开展了25起涉及家长的“卫士评估”（Guardian assessments）。</p>
-<p>【相关阅读：文件披露：拜登时期FBI在秘密调查中追踪特朗普家族行程及威尔斯与律师的通话】</p>
-<p>报告称，一名FBI举报人披露，在收到一条指出某位母亲拥有枪支并属于一个被描述为“右翼母亲团体”的举报线索后，该母亲遭到了调查。司法部与教育部的另一份联合声明确认，该组织正是“自由妈妈”。</p>
-<p>“我们自2021年起就清楚，拜登政府时期的司法部和FBI基本上就是家长和‘自由妈妈’的敌人，”德斯科维奇表示，“我们的家长在参加校董会会议后接到了电话，询问他们是否有心理健康问题，家中是否有武器。他们被分配了案件编号和档案编号。如今出台的这份最新报告以及司法部和教育部的联合新闻稿承认了这一事实，并正式宣布家长不是国内恐怖分子。这简直滑稽可笑。这种事情发生在美国是荒谬的，而我们如今正在回归常态这件事竟然不得不成为今日的头条新闻。”</p>
-<p>【相关阅读：法官称尽管司法部施压，特朗普政府反武器化诉讼中的争议依然“活跃有效”】</p>
-<p>司法部发布的新闻稿称，内部人员曾称这一行动“荒谬可笑”，提出了宪法第一修正案方面的担忧，并指出其看起来具有政治动机；但电子邮件显示，加兰部长是在受到拜登白宫官员的游说后发布了该备忘录。</p>
-<p>根据司法部的新闻稿，工作组认定，该备忘录“是白宫施压的产物，并错误地将司法部作为武器对付家长”。</p>
-<p>【相关阅读：在众议院议员施压下，代理司法部长布兰奇披露特朗普“反武器化基金”命运】</p>
-<p>“梅里克·加兰以及拜登政府时期的司法部和FBI发布威胁标签的后果，是建立在利用《爱国者法案》对付本国参加校董会会议的家长这一基础之上的。这在全美引发了寒蝉效应，”德斯科维奇说。</p>
-<p>她接着表示，随着“我们进入这次中期选举，家长们千万不能忘记我们在2021年所经历的”。</p>
-<p>“必须对一个失控的政府进行问责，”德斯科维奇补充道，“问责的第一步是让他们失去权力和选举，我们需要在中期选举中延续这一点，因为我们不能把权力交还给那些把政府武器化对付公民、对付普通家长的人。除此之外，我真的希望现任政府能采取进一步行动，对推动这些针对公民攻击的责任人进行追责。”</p>
-<p>福克斯新闻数字频道已联系FBI和白宫请求置评。教育部则提请参考他们就此问题发布的新闻稿和信件。</p></div>
+<div class="article-body" data-article-body="true"><p>最近浮出水面的多篇报道将泰里克·希尔（Tyreek Hill）与重返堪萨斯城酋长队联系在一起，其中一篇报道甚至援引其经纪人的话称，预计这位前最佳阵容外接手将在未来几天内与一支球队签约。而这一切都发生在希尔的离婚审判于周二开庭之前。</p>
+<p>该球员分居的妻子基塔·瓦卡罗（Keeta Vaccaro）在出庭作证时陈述了多起家庭暴力事件。她的起诉书列举了八起虐待指控。</p>
+<p>离婚本身并非NFL关心的事项。但虐待指控绝对是，并且根据联盟的《个人行为准则》（Personal Conduct Policy），这可能会破坏或至少严重推迟希尔重返赛场的时间。</p>
+<p>NFL本休赛期面临家暴危机蔓延</p>
+<p>一名联盟消息人士向OutKick证实，希尔目前是一名自由球员，但NFL对瓦卡罗提出的家暴指控的审查仍在进行中，目前尚无得出结论的时间表。</p>
+<p>周二在公开法庭上对这些指控的陈述，几乎肯定会被纳入该项审查之中，而审查结果将决定希尔在伤愈健康时是否有资格上场比赛。</p>
+<p>乌鸦队拉肖德·贝特曼因涉嫌袭击载有前女友及婴儿的车辆而面临家暴指控</p>
+<p>正在就惩罚性及补偿性赔偿起诉希尔的瓦卡罗在直接讯问中作证称，2024年7月，她和希尔参观了位于奥兰多的ESPN园区。</p>
+<p>瓦卡罗表示，希尔当时非常恼火，因为她没有为那里潜在的采访安排专业发型和妆容。</p>
+<p>瓦卡罗作证称，随后在他们入住的酒店里，希尔仍然十分愤怒，情绪激动到试图击打她的腹部。她说她通过将双手护在腹部挡下了这一击，但那一拳确实打到了她的手上。</p>
+<p>瓦卡罗当时已怀有身孕。</p>
+<p>瓦卡罗补充道，希尔曾告诉她，他不想要这个孩子。</p>
+<p>瓦卡罗是前NFL安全卫肯尼·瓦卡罗（Kenny Vaccaro）的妹妹，她声称在与希尔相处期间一直遭受虐待。她作证称，在两人18个月的婚姻生活中，相对平静的时期总是伴随着接踵而至的麻烦。</p>
+<p>“在整个18个月的婚姻期间，一直都是两周平静、两周暴发的周期，”瓦卡罗作证道，“当然，我们也有过美好的时刻。</p>
+<p>“但随后的两周，当他又变回那个暴怒的男人时，情况就变得非常糟糕。”</p>
+<p>瓦卡罗表示，希尔曾将她整个人抱起并扔出家门。她说，在一次争吵中，希尔曾把她推向车门。她指控希尔在多次争吵中抓扯并弄伤她的胸部。</p>
+<p>她还指控希尔在车内发生争吵后曾一度将她遗弃在路边。</p>
+<p>克雷格·卡顿秀——未经滤镜、毫不妥协且不容错过。立即下载他的每日播客！</p>
+<p>希尔的辩护律师试图指出瓦卡罗的庭外采证陈述与周二法庭证词之间的矛盾，并强调没有任何虐待的实物证据存在。希尔的律师表示，尽管这些指控性质严重，但严肃对待指控并不意味着仅仅因为有人提出就必须采信。</p>
+<p>希尔过往曾有涉嫌或经证实针对女性实施暴力的记录：</p>
+<p>泰里克·希尔被250磅OnlyFans模特指控打断其腿骨，随后背其发生性关系</p>
+<p>周二的庭审于下午5点刚过结束，希尔和瓦卡罗事后均未接受记者采访。</p>
+<p>审判计划于周三继续进行。</p>
+<p>在X上关注阿曼多·萨尔格罗：@ARMANDOSALGUERO</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-07 04:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-07 08:25 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -716,7 +543,146 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/fbi-investigated-mom-ties-right-wing-moms-liberty-group-bombshell-doj-report-reveals" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/tyreek-hill-nfl-return-seemed-imminent-divorce-trial-began-domestic-abuse-allegations" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-10-07-10708574-shtml-025708862c85dabb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="691" data-content-paragraphs="24" data-published-at="2026-10-07T00:25:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 08:25</span>
+</div>
+
+### [朝中社：金正恩向普京致生日贺电](https://www.chinanews.com.cn/gj/2026/10-07/10708574.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网10月7日电 据朝中社7日报道，朝鲜最高领导人金正恩在俄罗斯总统普京10月7日生日之际致贺电，向他致以亲切的祝贺和问候。</p>
+<p>金正恩在贺电中表示，对于和普京共同谱写朝俄两国关系发展新篇章感到高兴。</p>
+<p>金正恩说，同俄罗斯缔造全面战略伙伴关系、同盟关系，是朝鲜坚定不移的方针，“也是我的不变选择”。</p>
+<p>在贺电中，金正恩重申对普京和俄罗斯始终不变的支持。</p>
+<p>六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</p>
+<p>10万游客涌入5万人口小城 面对超预期客流当地如何应对</p>
+<p>45岁离世，他为什么凭《小城之春》影响了百年华语电影？</p>
+<p>从雪山湖泊到千年古镇，多地推进景区结婚登记</p>
+<p>人均带三个空箱来华购物的“China Haul”火了</p>
+<p>景区NPC丰富文化体验 中国人从“看景”到“搭戏”青睐沉浸感</p>
+<p>国庆文旅消费从“打卡观光”转向“深度体验”</p>
+<p>“十·一”黄金周，为什么越来越多人涌向主题公园？</p>
+<p>探访杭州“无声烧饼摊”：烟火街巷里，圆残疾人就业梦</p>
+<p>中国“交旅融合”焕新体验 盘活旅途“闲置”时空</p>
+<p>让机器人“能干活” 具身智能从“中国量产”走向“全球落地”</p>
+<p>这支巴西球队为何三年国庆赴约贵州“村超”？</p>
+<p>中国健儿逐梦亚运：“代表祖国，就要全力以赴”</p>
+<p>走进江西万年神农宫：溶洞藏仙境 石笋记流年</p>
+<p>上海地铁大屏致敬“国之栋梁”：把城市C位献给科学家</p>
+<p>2026成都非遗灯会：“打铁花”技艺惊艳游人</p>
+<p>郑钦文：相比成为世界第一，更向往大满贯冠军</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-10-07 08:25 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-07/10708574.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-politics-2198509-a4fcdaf96bcd821c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="568" data-content-paragraphs="4" data-published-at="2026-10-07T00:11:42.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 08:11</span>
+</div>
+
+### [俄驻加大使：若加拿大没收俄罗斯资产，俄方将采取反制措施](https://tass.com/politics/2198509)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Russia to take retaliatory measures if Canada confiscates Russian assets — ambassador</div>
+
+<div class="article-body" data-article-body="true"><p>莫斯科，10月7日。/塔斯社/。俄罗斯驻加拿大使馆大使奥列格·斯捷潘诺夫（Oleg Stepanov）表示，如果加拿大没收俄罗斯资产，俄罗斯将立即予以回应。</p>
+<p>在接受《消息报》（Izvestia）采访时，这位外交官回顾称，关于主权资产的S-214法案已于5月26日完成参议院审议阶段，并已移交众议院审议。与此同时，C-219法案也正在制定中，该法案规定了对受制裁个人和实体名下资产的处理办法，包括将其转为国家所有的可能性。</p>
+<p>斯捷潘诺夫强调：“很难说这些法案的起草者所指的‘俄罗斯资产’究竟是什么，以及他们打算在加拿大的什么地方搜寻这些资产。无论如何，无论是在加拿大还是其他地方，俄罗斯对这种侵犯财产行为的立场是众所周知的。此类行为是非法的，并将引发我方的立即回应。”在斯捷潘诺夫看来，“渥太华的政客们更应该从广义上考虑这种‘立法’给其国家带来的法律、投资以及声誉后果。”</p>
+<p>这位外交官还谈及了有关伏尔加-第聂伯航空（Volga-Dnepr Airlines）运营的安-124（注册号RA-82078）飞机的财产争端，该飞机自2022年2月以来一直滞留在多伦多机场。大使解释道：“该航空公司正继续通过法律手段争取追回这架飞机。我们的立场保持不变：该飞机必须归还其所有者，如果它被没收，俄罗斯保留采取涉及财产的报复措施及其他措施的权利。”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-10-07 08:11 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/politics/2198509" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ping-their-first-product-925d3dbfb764eb23" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1584" data-content-paragraphs="19" data-published-at="2026-10-06T22:34:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-07 06:34</span>
+</div>
+
+### [废弃首款产品后，前Ramp工程师为创意平台Melius筹集2000万美元](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</div>
+
+<div class="article-body" data-article-body="true"><p>用于生成广告营销活动、图像和视频的AI平台Melius周二宣布，公司已累计筹集2500万美元资金，其中包括由CRV领投的2000万美元A轮融资，以及由General Catalyst领投的500万美元种子轮融资。</p>
+<p>尽管这家初创公司声称在7月结束隐秘运营后的两个月内年化收入就已突破100万美元，但联合创始人Joowon Kim（右图）承认，Melius最初并没有一鸣惊人。</p>
+<p>一年多前，这家总部位于纽约的公司刚成立时，Kim与联合创始人Young Kim（左图）和Arnav Ramu（中图）打算打造一款基于AI的效果营销工具。三人此前在企业支出与财务软件公司Ramp担任工程师时相识。</p>
+<p>在开发产品六个多月后，联合创始人认为他们最初的想法“行不通”，Joowon Kim向TechCrunch透露。</p>
+<p>团队没有选择帮助营销人员管理和优化广告支出，而是将注意力转向了他们认为更大的机遇：构建能够自主生成创意资产和营销活动本身的工具。</p>
+<p>“我们废弃了整个代码库；全给烧掉了，”Kim说。Melius迅速转向开发一款全新的产品。在最初启动近一年后，该公司推出了一款被其描述为“创意工作代理实验室”的平台。</p>
+<p>在利用AI帮助广告代理商、营销人员和品牌生成创意资产与营销活动的初创公司中，Melius远非唯一一家。竞争对手包括发展迅速的Higgsfield（该公司在8月份估值达54亿美元），以及Krea和Flora AI等其他小型初创公司。</p>
+<p>Kim并不担心竞争。</p>
+<p>他承认，成立三年的Higgsfield年化收入已突破7亿美元，“增长极其迅猛”，但Kim认为，该市场的规模足够大，足以容纳多个竞争对手。</p>
+<p>“赛道里有很多参与者，这非常令人兴奋，”他告诉TechCrunch，“这意味着有客户等待争取，而且这个领域确实存在需求。”</p>
+<p>至于前Ramp工程师为何会涉足广告生成产品，自称为社交媒体网红的Kim表示，他从小就对制作短视频充满热情，甚至曾梦想成为一名著名YouTuber。</p>
+<p>“我曾尽全力去拍Vlog，”他说，“我父亲非常擅长使用FinalCut Pro，但我并不擅长。”</p>
+<p>那些早期的Vlog从未真正火起来，但他对制作数字媒体的着迷却保留了下来。</p>
+<p>如今，借助Melius，他正在打造自己一直梦寐以求的工具：一个让任何人（包括经验丰富的创意总监）都能通过通俗语言将自己的想法变为现实的平台。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>Marina Temkin是TechCrunch的风险投资和初创公司报道记者。在加入TechCrunch之前，她曾在PitchBook和Venture Capital Journal撰写关于风险投资的报道。在职业生涯早期，Marina曾担任财务分析师，并获得了CFA（特许金融分析师）资格认证。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或在Signal上通过加密信息 +1 347-683-3909 联系Marina或核实其采访意向。</p>
+<p>第二张门票立减50%。Disrupt的体验应当与人共享。立即购票并带上同事、合伙人或同行，即可享受50%的优惠折扣。通过建立人脉、积蓄动能以及发掘创业生态系统的下一个机遇，开拓更广阔的天地。</p>
+<p>19岁创始人为Ghost筹集1100万美元，打造售价3499美元的个人AI计算机<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心引发的抵制风波，称不再使用保密协议<br />OpenAI安全部门员工辞职，称公司“文化已坏”<br />Meta希望你的下一台数码设备融入Muse技术<br />谷歌认为SpaceX的星舰必须发射1800次后，太空数据中心才能步入正轨<br />全球首座增强型地热发电站仅耗时23个月便竣工</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-07 06:34 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

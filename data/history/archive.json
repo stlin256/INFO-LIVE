@@ -1,5 +1,1574 @@
 [
   {
+    "timestamp": 1791334482748,
+    "timeDisplay": "2026-10-07 08:54 (UTC+8)",
+    "date": "2026-10-07",
+    "runId": "feed-20261007T004804733Z-ao2k9w",
+    "generatedAt": "2026-10-07T00:54:42.748Z",
+    "hourlyBriefing": {
+      "title": "本小时全球资讯要闻摘要",
+      "lead": "本时段监测到苏丹局部冲突加剧致平民伤亡与流离失所、数字平台合规调整恢复区域访问、美国政治表态以及体育界法律诉讼等动态。",
+      "keyDevelopments": [
+        {
+          "topic": "苏丹局势",
+          "detail": "周二冲突进一步扩大，西科尔多凡州（West Kordofan）至少有10名平民丧生，青尼罗州（Blue Nile）有5500人流离失所。"
+        },
+        {
+          "topic": "网络合规与平台动态",
+          "detail": "母公司Aylo在通过Apple设备引入年龄验证机制后，澳大利亚成年用户重新获得对Pornhub的访问权限。此前该平台因法律合规要求于3月暂停了对澳大利亚用户的服务。"
+        },
+        {
+          "topic": "美国政局动态",
+          "detail": "美国总统发表言论，称其认为当前问题在于“没人确切知道到底是谁在掌管这个国家”。"
+        },
+        {
+          "topic": "体育与法律争议",
+          "detail": "NFL球员Tyreek Hill的分居妻子在离婚诉讼中作证，指控其曾在自己怀孕期间试图殴打其腹部，该指控可能影响或推迟其重返NFL的时间。"
+        }
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包未提供文章标题、正文、来源、发布时间或可核验引用，无法形成可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 101,
+      "completedTasks": 101,
+      "succeeded": 73,
+      "degraded": 28,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 101,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 397956,
+      "byRole": {
+        "translator": {
+          "attempts": 73,
+          "degraded": 26,
+          "succeeded": 47
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 6,
+          "degraded": 2
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 101,
+          "degraded": 28,
+          "succeeded": 73
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-2-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-23-translator-0",
+      "article-25-translator-0",
+      "article-25-translator-1",
+      "article-25-translator-2",
+      "article-25-translator-3",
+      "article-25-translator-4",
+      "article-25-translator-5",
+      "article-25-translator-6",
+      "article-25-translator-7",
+      "article-25-translator-8",
+      "article-25-translator-9",
+      "article-25-translator-10",
+      "article-29-translator-0",
+      "article-35-translator-1",
+      "article-37-translator-0",
+      "article-40-translator-0",
+      "article-43-translator-0",
+      "article-45-translator-0",
+      "article-46-translator-0",
+      "article-4-fact-extractor",
+      "article-6-fact-extractor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.487Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.486Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.495Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.452Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.616Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.740Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.630Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.865Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.776Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.526Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.731Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.359Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:49.526Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.720Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.648Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.974Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.819Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.937Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.772Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.007Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.452Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.616Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.294Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.747Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.942Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.856Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.974Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.772Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:49.269Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.832Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:48.140Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.880Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:49.046Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.442Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.836Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.379Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.592Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.658Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.486Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.630Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.627Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.648Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:44.185Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.627Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.156Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.508Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.073Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.310Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-07T00:47:46.865Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.122Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.270Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.379Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.731Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.833Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.992Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:49.359Z",
+        "lastSuccessAt": "2026-10-07T00:47:51.119Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.239Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.322Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.509Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.861Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.443Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.693Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.693Z",
+        "lastSuccessAt": "2026-10-07T00:47:48.140Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:49.442Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.909Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.658Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.819Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.856Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.443Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.007Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.239Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.523Z",
+        "lastSuccessAt": "2026-10-07T00:47:48.042Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-07T00:47:47.322Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.310Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.776Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:44.183Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.841Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.508Z",
+        "lastSuccessAt": "2026-10-07T00:47:48.137Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:44.184Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.294Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.861Z",
+        "lastSuccessAt": "2026-10-07T00:47:50.053Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.992Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.156Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:45.841Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.942Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:47.270Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.523Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.937Z",
+        "lastSuccessAt": "2026-10-07T00:47:47.122Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:48.042Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.046Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:48.137Z",
+        "lastSuccessAt": "2026-10-07T00:47:49.269Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.747Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.836Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:46.740Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.833Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:44.171Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.487Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:44.182Z",
+        "lastSuccessAt": "2026-10-07T00:47:45.495Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-07T00:47:44.183Z",
+        "lastSuccessAt": "2026-10-07T00:47:46.592Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-emenchug-2122787573-html-8535295be63feb59",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Кременчуге прогремели взрывы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T00:44:51.000Z",
+        "pubTime": "2026-10-07 08:44",
+        "url": "https://ria.ru/20261007/kremenchug-2122787573.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 08:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/kremenchug-2122787573.html",
+            "publishedAt": "2026-10-07T00:44:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-enai-math-release-github-0e401bad0dd434d6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI drops another batch of mathematical breakthroughs",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:26:38.000Z",
+        "pubTime": "2026-10-07 07:26",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSolutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Robert Hart\n\nOpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to “hundreds” of open questions.\n\nThe results have been expected for weeks, although until now OpenAI had not provided details about which problems the model had solved or exactly when they would be published. In September, the company said its model had “resolved more than 100 long-standing open problems across most areas of mathematics.” The released papers and other details also include some summaries of the model’s reasoning, estimates of the compute used, and stats about the number of problems attempted. OpenAI claims the “average result” used the equivalent of three hours of ChatGPT Pro thinking.\n\nAGMAI, or the Advisory Group on Mathematics and Artificial Intelligence, published its first recommendations in late September, urging AI labs to release mathematical results promptly and through established academic channels where possible, while disclosing details such as the name of the model used, prompts, and compute costs. The group also implored AI companies to “refrain from treating the release of mathematical results as marketing vehicles to promote their models,” a practice they said inflicts significant harm on the mathematical community.\n\nHere’s how OpenAI described its process for this release:\n\nFor this release, we’re publishing the results in a GitHub repository, with protocols for paper revisions and citations. We’re continuing to explore other community-hosted alternatives for this release which meet the committee’s guidelines. For future releases, we are committed to further improving the quality of the papers via the citations, mathematical exposition, and presentation of the results for better understanding\n\nThe full impact of the results will likely take some time to be felt as mathematicians assess and digest them. They add to a rapidly growing body of mathematical results from OpenAI and rival labs like Anthropic that the field is still processing, including results concerning a Millennium Prize problem, among the most famous open questions in the field. The speed at which AI labs have barreled into the discipline this year — particularly their handling of announcements — has provoked fierce debate over research practices, ethics, and how companies credit the human mathematicians whose work their systems build upon and potentially use to produce results.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "OpenAI 在包含 722 篇手稿的批次中公布了由其未发布的未公开前沿模型生成的多个长期数学难题的解答，涵盖 372 个相关论文成果族。",
+          "独立顾问团体 AGMAI 表示，该批发布包含对“数百个”未决问题的解决方案。",
+          "来源叙事重点：聚焦 OpenAI 批量发布数学难题手稿的进展，强调其研究体量与技术能力，同时突出数学学术界（如 AGMAI）在伦理、发布渠道、归属与营销行为上的审视与批评。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:26:38.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+          }
+        ]
+      },
+      {
+        "id": "story-oil-is-hard-to-kill-html-73a38368906625b8",
+        "title": "为什么100美元的油价难以被打压",
+        "originalTitle": "Why $100 Oil Is Hard to Kill",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "pubTime": "2026-10-07 08:00",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+        "imageUrl": null,
+        "fullContent": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and even exceeded, pre-war levels. But if so much crude is leaving the Middle East again, why do Brent prices continue to hover around the $100 a barrel mark, up from $60 before the war The Perfect Storm Because crude oil flows returning to pre-war levels does not mean that the market has returned to normal. Far from it. The price of getting the oil out of the Middle East is astronomically high, with freight rates at record highs. War risk premiums have jumped as tankers continue to be attacked in the Strait of Hormuz. Gulf producers have found workarounds to crude flows with alternative routes, which are less efficient, cost buyers more, and take additional weeks to bring crude supply to refiners. Refiners, for their part, are scrambling to keep processing rates high to seize the record-high refining margins and produce more diesel, which remains the most stressed barrel of oil. Fuel exports from the Middle East are still limited, Russia's are non-existent because of Moscow's ban on diesel shipments, and China is once again protecting domestic supply and curbing fuel flows overseas. In addition, global inventories have crashed this year as the immediate relief to peak Strait of Hormuz disruptions in April and May was to draw down from crude and fuel stocks. Inventories, therefore, are so thin that they may not be able to offset another escalation in the U.S.-Iran war. These are only the operational issues the global markets face ahead of the winter diesel peak demand season. The geopolitical situation is the biggest unknown for oil prices going forward, and it doesn't look like the war is ending soon. Instead, the market fears fresh escalations either before or after the U.S. midterm elections in early November, which could threaten the recovery of oil flows from the Strait of Hormuz. Related Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk With markets depleted of sizeable cushions to absorb new shocks, crude oil prices continue to price in an elevated war risk premium, keeping Brent above $100 per barrel since early September. \"A sustained move lower in Brent requires broader normalisation improving crude supply, recovering product exports and reduced political and financial risks to shipping,\" Ole Hansen, Head of Commodity Strategy at Saxo Bank, said last week, commenting on the prospect of stocks release. The G7 group on Friday announced the release of 100 million of crude oil and diesel stocks. After an initial knee-jerk reaction lower, Brent remains at above $100 per barrel in Asian trade on Tuesday. The effect of the release announcement on oil prices seems to have faded, also because the market is not really certain how many of the 100 million barrels would be really \"new\", or if they are the remainder of the IEA's pledge to release 425 million barrels months ago, part of which were never actually released, Bjarne Schieldrop, chief analyst commodities at SEB Bank, said on Monday. The analyst also noted that while the Brent front-month futures price is about $100 per barrel, the price of North Sea's Oseberg and Fortis crudes is actually about $140 a barrel. The Upside Risks Key unknowns are keeping the front-month Brent futures at $100, according to SEB. \"Will Iran initiate fresh attacks before the US midterm elections Will the US attack Iran after the elections Will the US be able to keep the SoH close to open at 17.5 mb/d Will the Houthis re-attack the Saudi east-west pipeline and ships trying to traverse the Bab-el Mandeb Strait as the Saudi-backed Yemen government tries to retake areas along the Red Sea recently taken by the Houthis,\" Schieldrop says, also asking, \"How far will this have to go before China finally decides to step in as a peacemaker in ME negotiations\" Despite claims of return to pre-war levels of Middle East crude oil exports, the risk to oil prices is currently tilted to the upside amid the potential of escalation, record-high freight and war premium tanker rates, very low global inventory, and the diesel crisis compounded by the lack of exports from the Middle East and Russia. \"The market is pricing not only how much crude is being loaded, but also whether these barrels can be delivered safely, reliably, and at low cost,\" Xuyi Zhao, senior oil analyst at Guotai Junan Futures, told Bloomberg. The higher cost of getting crude to refiners and low inventories unable to offset another near-term disruption set the stage for a new price spike if another crude supply route in the Middle East is attacked, as was the case with Saudi Arabia's East-West pipeline to the Red Sea last month. Saudi Aramco's CEO Amin Nasser said earlier this week, \"With precious little else the world can turn to, the supply resilience cushion is scarily thin.\" \"Emergency reserves might buy us a winter. They cannot fix long-term supply,\" Nasser said at the 2026 Energy Intelligence Forum in London on Monday. \"Until Hormuz fully re-opens and confidence returns, the crude reality is that pressure at both ends of the barrel will intensify.\" By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "过去一个月的大部分时间里，布伦特原油价格一直维持在每桶100美元以上，尽管油轮追踪机构和投资银行近几周发布了大量报告和数据，表明霍尔木兹海峡的原油流量已经恢复，甚至超过了战前水平。但如果有这么多原油再次运出中东，为什么布伦特油价仍旧徘徊在每桶100美元关口附近，远高于战前的60美元？\n\n完美风暴\n\n因为原油流动恢复到战前水平并不意味着市场已恢复正常。远非如此。将石油运出中东的代价极其高昂，运费创下历史新高。随着油轮在霍尔木兹海峡继续遭到袭击，战争风险溢价大幅飙升。海湾产油国已找到替代路线来绕开受阻的原油流动通道，但这些路线效率较低、买家成本更高，并且需要额外的数周时间才能将原油运送至炼油厂。\n\n炼油厂方面则在争分夺秒地维持高负荷加工率，以把握创纪录的炼油利润，并生产更多的柴油——柴油仍然是整个石油链条中最为紧张的产品。来自中东的成品油出口依然受限，由于莫斯科对柴油出口下达了禁令，俄罗斯的出口量基本为零，而中国则再次保护国内供应并限制燃油流向海外。\n\n此外，全球库存今年大幅缩水，因为在4月和5月霍尔木兹海峡供应中断最严重时，最直接的缓解办法就是动用原油和燃料库存。因此，库存水平极其脆弱，可能无法抵御美伊战争的另一次升级。在冬季柴油需求高峰季节到来之前，这些还仅仅是全球市场面临的运营问题。\n\n地缘政治局势是未来油价面临的最大未知数，而且看起来这场战争不会很快结束。相反，市场担忧在11月初美国中期选举前后出现新的升级，这可能会危及霍尔木兹海峡原油流动的恢复。\n\n相关报道：海湾风暴威胁可能导致每日300万桶炼油产能面临风险\n\n由于市场缺乏吸收新冲击的大规模缓冲垫，原油价格继续计入高额战争风险溢价，使布伦特原油自9月初以来一直保持在每桶100美元以上。\n\n盛宝银行（Saxo Bank）大宗商品策略主管奥勒·汉森（Ole Hansen）上周在评论抛储前景时表示：“布伦特油价的持续走低需要更广泛的正常化——原油供应改善、成品油出口恢复，以及航运政治和财务风险的降低。”\n\n七国集团（G7）周五宣布释放1亿桶原油和柴油储备。在经历了最初的下意识走低反应后，周二亚洲交易时段布伦特原油仍保持在每桶100美元以上。\n\n抛储声明对油价的影响似乎已经消退，部分原因也是因为市场并不真正确定这1亿桶中有多少会是真正的“新增”量，或者它们是否只是国际能源署（IEA）数月前承诺释放的4.25亿桶储备中尚未实际释放的剩余部分，北欧斯安银行（SEB Bank）首席大宗商品分析师比亚内·席尔德罗普（Bjarne Schieldrop）周一表示。该分析师还指出，虽然布伦特近月期货价格约为每桶100美元，但北海的奥斯伯格（Oseberg）和福蒂斯（Forties）原油价格实际上在每桶140美元左右。\n\n上行风险\n\n据SEB称，关键的未知因素正在让布伦特近月期货维持在100美元水平。“伊朗是否会在美国中期选举前发起新的袭击？美国是否会在选举后袭击伊朗？随着沙特支持的也门政府试图夺回近期被胡塞武装占领的红海沿岸地区，胡塞武装是否会再次袭击沙特的东西管道以及试图穿越曼德海峡的船只？”席尔德罗普说道，他同时问道：“在最终促使中国作为和平协调者介入中东谈判之前，事态还要发展到什么程度？”\n\n尽管有人声称中东原油出口已恢复至战前水平，但在局势升级的潜在可能、创纪录的运费与油轮战争溢价、极低的全球库存，以及中东和俄罗斯出口匮乏所加剧的柴油危机的共同作用下，目前油价风险依然偏向上行。\n\n国泰君安期货高级原油分析师赵旭一（音译，Xuyi Zhao）对彭博社表示：“市场不仅在权衡装船了多少原油，还在权衡这些石油能否安全、可靠、低成本地交付。”\n\n将原油运送至炼油厂的更高成本，加上无法抵御短期内再次供应中断的低库存，如果中东另一条原油供应路线再次遭到袭击（正如上个月沙特通往红海的东西管道遭遇的情况那样），将为新一轮价格飙升埋下伏笔。\n\n沙特阿美（Saudi Aramco）首席执行官阿明·纳赛尔（Amin Nasser）本周早些时候表示：“在世界上几乎没有其他替代方案可用的情况下，供应韧性缓冲垫已经薄得吓人。”\n\n“紧急储备或许能为我们赢得一个冬天的喘息。但它们无法解决长期供应问题，”纳赛尔周一在伦敦举行的2026年能源情报论坛（Energy Intelligence Forum）上表示，“在霍尔木兹海峡完全重新开放且信心恢复之前，残酷的现实是整个石油链条两端的压力都将进一步加剧。”\n\n作者：Tsvetana Paraskova，为Oilprice.com撰稿",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "布伦特原油价格在过去一个月的大部分时间里维持在每桶100美元以上，自9月初以来一直保持在100美元以上，战前价格约为每桶60美元。",
+          "七国集团（G7）周五宣布释放1亿桶原油和柴油储备。",
+          "来源叙事重点：解构为何在中东原油出口流量名义恢复的情况下油价仍顽固高于100美元/桶，核心强调物流成本剧增、战争溢价、全球柴油与库存危机以及地缘冲突升级风险削弱了政府干预（如G7抛储）的效果。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html"
+          }
+        ]
+      },
+      {
+        "id": "story-eath-darya-shipilova-who-d75baa2309ec6f19",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:14:32.000Z",
+        "pubTime": "2026-10-07 07:14",
+        "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+        "imageUrl": "https://i.guim.co.uk/img/media/462785441d219322c6970ad4fcf8cbeb444cc616/116_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=d66d00a56c19b54cb9abdd72524fddde",
+        "fullContent": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last week\n\nThe World Health Organization has said the risk of an epidemic in Russia is low after the sudden death of a lab technician who worked at a plague research institute in Siberia.\n\nDarya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she may have become infected after an accident at her workplace , where dangerous pathogens are kept and studied.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "世界卫生组织表示，在西伯利亚一家鼠疫研究所工作的实验室技术人员去世后，俄罗斯发生疫情的风险较低。",
+          "自达莉娅·希皮洛娃（Darya Shipilova）上周去世以来，世界卫生组织未发现进一步暴发的迹象。",
+          "来源叙事重点：聚焦西伯利亚病原体研究机构技术人员猝死事件及世界卫生组织关于疫情扩散风险较低的评估，兼顾实验室事故潜在可能性的讨论"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:14:32.000Z",
+            "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who"
+          }
+        ]
+      },
+      {
+        "id": "story-tomated-observatory-html-efb0c3ec15a0ab2a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Computer scientist tracks satellites with automated observatory built from off-the-shelf technology",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T00:20:01.000Z",
+        "pubTime": "2026-10-07 08:20",
+        "url": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/keeping-an-eye-on-the.jpg",
+        "fullContent": "Allen Schnibben's interest in space started when he was a child. \"I picked up some books about the solar system when I was in elementary school. In middle school, I got a telescope and I started observing the night sky as a hobby,\" said Schnibben, a computer scientist at Sandia National Laboratories. \"My entire life, I've had an interest in space.\" Now, Schnibben collects data on satellites at Sandia's SOHBRIT facility, a 12-foot-wide (3.7-meter-wide) observatory.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 08:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html",
+            "publishedAt": "2026-10-07T00:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eroporty-2122787428-html-a5957d2c4a6efa8f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропортах Бугульмы и Нижнекамска ввели временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T00:43:44.000Z",
+        "pubTime": "2026-10-07 08:43",
+        "url": "https://ria.ru/20261007/aeroporty-2122787428.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/04/1b/2013692743_0:166:3053:1883_650x0_80_0_0_2a04908204d41244cc4778538b28e1ee.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 08:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/aeroporty-2122787428.html",
+            "publishedAt": "2026-10-07T00:43:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-you-have-flat-buttocks-bab40b499814a2c6",
+        "title": "如何查看亚马逊是否认为你“臀部扁平”",
+        "originalTitle": "How to find out if Amazon thinks you have ‘flat buttocks’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:55:39.000Z",
+        "pubTime": "2026-10-07 06:55",
+        "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "imageUrl": null,
+        "fullContent": "It shouldn’t come as a surprise that Amazon collects data about you based on what you buy. If you buy a lot of cat litter, Amazon will probably infer that you have cats, or if you buy a lot of anti-acne skin products, then Amazon might guess you’re prone to breakouts. Even if we know that Amazon customizes our shopping experiences based on our purchase history, it still comes as a surprise to see all of these personal details laid out in a convenient list. Especially when those details get uncomfortably intimate.\n\nOne Threads user came across this section of her Amazon settings where you can see who the shopping giant thinks you are, and alongside more benign assumptions like “Shops from women’s departments” and “Probably owns a Shark robot vacuum,” she found that Amazon assumes she “has flat buttocks.”\n\n“I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,” an Amazon customer, @fangirlinmegan, wrote on Threads. “I mean it ain’t wrong but damn did you have to call me out like that?”\n\nIn less than a day, the post garnered over a million views, including many from users who were curious what their own Amazon profiles might reveal. Here’s how you find out.\n\nOn desktop, you can find this page by hovering over where Amazon says “Hello, [your name]” in the upper right corner. Then click “Account” under the “Your Account” section. Under the “Ordering and shopping preferences” section, click “Your Shopping preferences.” From here, you can add in information of your own, like your shoe size, interests, and dietary preferences. But we’re not here to tell Amazon that it should stop selling you beef jerky since you’re a vegetarian. We’re here to see if Amazon thinks you have “flat buttocks.” When you scroll to the bottom of the page, you’ll see a blue hyperlinked option that says “Manage your information.” Once you click that, you’ll see what dirt Amazon has on you.\n\nFor me, Amazon has gleaned that I am someone who “practices photography,” “plays collectible card games,” and is “invested in the Apple ecosystem.” This is all true. Amazon has even flattered me by noting that I “read diverse non-fiction,” to which I say — why yes, I am indeed an open-minded intellectual with a thirst for knowledge. Thank you for noticing.\n\nOther colleagues of mine found that Amazon correctly noted their interests in vinyl records and ceramics, as well as a penchant for “natural materials” in home decor and clothing that “prioritizes comfort.” None of us had anything as affronting as “has flat buttocks,” but the Threads user noted that this was likely because she had purchased “butt scrunch leggings.”\n\nTech companies know too much about us, and it’s jarring to realize just how closely they’re paying attention to how we use their platforms. We live in a world of alarming surveillance, but at least I know that Amazon doesn’t think my butt is flat.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "亚马逊根据你购买的商品收集关于你的数据，这本不应令人感到意外。如果你买了很多猫砂，亚马逊大概会推断你养猫；或者如果你买了大量抗痘护肤品，亚马逊可能会猜测你容易长痘。即使我们知道亚马逊会根据购物历史定制我们的购物体验，但看到所有这些个人细节被清晰罗列在一份现成的清单上时，依然会让人吃惊——特别是当那些细节变得让人感到尴尬与过于私密时。\n\n一位Threads用户在亚马逊设置中偶然发现了这一区域，用户可以在这里查看这家电商巨头眼中的自己是怎样的画像。除了“常在女装区购物”和“可能拥有Shark扫地机器人”等较为温和的推断之外，她还发现亚马逊推测她“臀部扁平”。\n\n“我无意中翻到了一个页面，上面全是亚马逊根据我的购买记录对我做出的假设，我简直彻底无语了，”亚马逊顾客@fangirlinmegan在Threads上写道。“我的意思是，它说得也没错，但天哪，真的有必要这样直接戳穿我吗？”\n\n不到一天时间，这条帖子的浏览量就突破了100万次，许多用户也开始好奇自己的亚马逊个人画像可能会揭示出什么。以下是查看方法：\n\n在电脑端，你可以把鼠标悬停在页面右上角亚马逊显示的“您好，[您的名字]”处来找到该页面。然后点击“您的账户”（Your Account）下方的“账户”（Account）。在“订购和购物偏好”（Ordering and shopping preferences）部分下，点击“您的购物偏好”（Your Shopping preferences）。在此处，你可以添加自己的信息，比如鞋码、兴趣爱好和饮食偏好。不过，我们来这里并不是为了告诉亚马逊由于你是素食主义者就该停止向你推销牛肉干，而是为了看看亚马逊是否认为你“臀部扁平”。当你滚动到页面底部时，会看到一个名为“管理您的信息”（Manage your information）的蓝色超链接选项。点击进去后，你就能看到亚马逊掌握了你哪些“底细”。\n\n就我而言，亚马逊搜集整理出的信息是：我是一个“热爱摄影”、“玩集换式卡牌游戏”且“重度投入苹果生态系统”的人。这些全都是事实。亚马逊甚至还奉承了我一番，指出我“阅读各种各样的非虚构类作品”，对此我想说——没错，我确实是一个求知欲强、思想开明的知识分子。感谢你们注意到了这一点。\n\n我的其他同事发现，亚马逊准确指出了他们对黑胶唱片和陶瓷的兴趣，以及在家居装饰中偏爱“天然材质”、在服装上“注重舒适度”。我们当中没有任何人被贴上像“臀部扁平”这样冒犯的标签，但那位Threads用户指出，这很可能是因为她曾购买过“提臀皱褶紧身裤”（butt scrunch leggings）。\n\n科技公司对我们了解得太多了，而意识到它们竟然如此密切地监视着我们使用其平台的方式，确实令人感到不安。我们生活在一个监控无处不在的世界里，令人警惕，但至少我知道亚马逊并不认为我的屁股是平的。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。\n\n阿曼达·西尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，报道技术与文化的交叉领域。她还曾为Polygon、MTV、《凯尼恩评论》（Kenyon Review）、NPR和《商业内幕》（Business Insider）等刊物撰稿。她是探讨互联网文化的播客《Wow If True》的联合主持人（与科幻作家Isabel J. Kim搭档）。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语学士学位，并曾作为普林斯顿亚洲学者在老挝工作。\n\n您可以通过发送电子邮件至 amanda@techcrunch.com，或在Signal上通过加密信息 @amanda.100 与阿曼达联系或核实接触情况。\n\n第二张门票立享五折。Disrupt的体验适合与人共享。获取您的门票，携同事、合伙人或同行一同前往，立享50%优惠。通过建立联系、拓展势头并发现创业生态圈的下一个前沿，涉足更广阔的领域。\n\n19岁创始人为个人AI电脑研发商Ghost筹集1100万美元，该设备售价3499美元\n联邦法官称Flock属于“无差别大规模监控”\n亚马逊回应数据中心争议，称不再使用保密协议（NDA）\nOpenAI安全部门员工辞职，指责公司“文化已然崩坏”\nMeta希望你的下一款智能设备融入Muse\n谷歌认为SpaceX的星舰必须发射1800次，太空数据中心才能真正启动\n世界上首座增强型地热发电厂仅用时23个月便竣工",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "Threads用户@fangirlinmegan发帖称亚马逊根据其购买记录推测其“臀部扁平（has flat buttocks）”，该贴在不到一天内获得了超过100万次浏览量",
+          "亚马逊桌面端用户可通过“Your Account”中的“Your Shopping preferences”，并点击底部的“Manage your information”来查看亚马逊根据购买行为对其生成的推测画像标签",
+          "来源叙事重点：通过社交网络（Threads）病毒式传播的热门个案，以轻松幽默的“操作指南（How-to）”形式切入，探讨亚马逊等科技巨头利用用户购买历史构建极度私密甚至令人尴尬的推测性用户画像，批评无处不在的商业监控行为。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:55:39.000Z",
+            "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
+          }
+        ]
+      },
+      {
+        "id": "story--of-hormuz-standoff-html-f42acb28a2c1521c",
+        "title": "5只从霍尔木兹海峡对峙中获利的天然气股票",
+        "originalTitle": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:00:00.000Z",
+        "pubTime": "2026-10-07 07:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nUS Crude Inventories Slide\n\nGlobal gas markets could remain…\n\nTrump and Xi are expected…\n\nThe EU is considering delaying…\n\nWhat I Cover My focus spans the global energy landscape and the technologies reshaping it, specifically focusing on oil and gas, renewables, and tech-driven market…\n\nWhen Iran struck Qatar's Ras Laffan complex in March and knocked out 17% of the country's LNG export capacity, the trade seemed pretty straightforward. Buy the American exporters, sit back and wait for Europe and Asia to come knocking for cargoes that didn't need to sail through the Strait of Hormuz. Cheniere did exactly what everyone expected it to do, shipping more LNG than it did a year ago and raising its 2026 guidance for the second quarter in a row.\n\nNearly seven months into the war, the strait is still a mess. QatarEnergy just extended force majeure on its LNG deliveries through the end of November, flows through Hormuz are still down more than 75% from prewar levels, and on Tuesday an LNG carrier owned by Greek shipping magnate Maria Angelicoussis became the latest vessel hit near the strait. Gas prices in Europe and Asia climbed to their highest levels since the 2022-2023 energy crisis in September, while back home, Henry Hub has been stuck around $3.\n\nAs the crisis has dragged on, though, a handful of less obvious companies have started making just as strong a case for themselves, from an IPO most of Wall Street had written off to an oil producer that, at one point this year, was effectively paying buyers to take its gas.\n\nVenture Global Inc. (NYSE: VG) had about as rough a first year on the public markets as an energy company can have. The Louisiana exporter priced its IPO at $25 a share in January 2025, and by the end of the year the stock was changing hands in the single digits. Investors hated the business model, which leaned on selling LNG into the spot market while long-term customers, including Shell and BP, waited on their contracted cargoes and eventually took the company to arbitration over it.\n\nAs it turns out, a company built to sell into the spot market is exactly what you'd want to own when the spot market goes haywire. Venture Global's net income jumped 266% to $1.3 billion in the second quarter on $4.6 billion in revenue, and management bumped full-year adjusted EBITDA guidance up to between $8.7 billion and $9.1 billion. Baked into that forecast is an assumption that it'll earn somewhere between $12.50 and $13.50 per MMBtu in liquefaction fees on its remaining unsold cargoes, on gas that costs about a quarter of that to buy in the U.S.\n\nThe long-term buyers are coming around, too. On Oct. 1, ConocoPhillips signed a 20-year deal to take 1 million tonnes a year from Venture Global starting in 2030, and CEO Mike Sabel said it reflected confidence in the company's ability to deliver LNG \"quickly and at scale.\" ConocoPhillips also owns a 30% stake in QatarEnergy's Ras Laffan LNG project, so this is a bit like a landlord quietly putting down a deposit on an apartment across town.\n\nNone of that has made the stock easy to own. Shares rose more than 50% in the first few weeks of the war, fell 5% on the day the company posted the best quarter in its history and have bounced around in the low-to-mid teens since. That's still about half of what IPO buyers paid, and with so much of the upside riding on spot prices, I'd expect a good chunk of those gains to disappear if ships ever start moving freely through Hormuz again.\n\nIn the second quarter, APA Corp. (Nasdaq: APA) realized an average of negative $2.20 per Mcf for the natural gas it produced in the U.S., which means that on paper, the company was paying to get rid of it. Prices at the Waha hub in West Texas have spent much of the year underwater as Permian pipelines max out, and APA ended up curtailing about 137 MMcf per day of production in response.\n\nAnd yet APA might be one of the better LNG plays in the U.S. market, mostly thanks to a deal that predates the war by years. The company sells 140,000 MMBtu per day to Cheniere at prices pegged to international LNG benchmarks under a contract that started in 2023 and runs through 2037, and between that and a firm transportation business that buys gas in the Permian and resells it on the Gulf Coast, APA expects to clear about $950 million in pretax cash flow from gas trading this year. Barclays analyst Betty Jiang told CNBC in May that APA has \"the greatest exposure to LNG prices in our coverage,\" and it showed up in the second-quarter results: adjusted earnings of $1.89 per share, $738 million in free cash flow and $2.3 billion in debt paid down since the end of 2024. The stock had climbed 89% over the 52 weeks leading into that report, though APA is still an oil company at heart, and when crude sells off on ceasefire chatter, it goes right along with it.\n\nGolar LNG Ltd. (Nasdaq: GLNG) spent eight years parking a converted floating liquefaction vessel off the coast of Cameroon, and according to Wood Mackenzie, that one unit, the Hilli, earned back its roughly $1.3 billion conversion cost and generated around $2.1 billion in tolling EBITDA along the way. Golar is also the only company offering floating LNG on a lease-and-operate basis, so if you're a country sitting on gas with no export terminal and no appetite for building one onshore, Golar is pretty much the only number to call.\n\nThat's the logic behind the fourth unit Golar ordered in August, a $2.45 billion, 3.5 MTPA vessel from China's CIMC Raffles that should be ready around the end of 2029. Golar hasn't found a customer for it yet. The company is betting that after watching a fifth of the world's LNG supply get trapped behind Hormuz, somebody is going to want floating capacity in a hurry, and it's pitching this vessel as the earliest available anywhere.\n\nCommodity-linked fees have already been paying off, as Hilli's contract is partly tied to Brent and Dutch TTF prices, and that piece brought in $37 million in the second quarter, more than triple the first quarter's take. The timing could have been better, though. Hilli's Cameroon contract wrapped up in July, and the vessel is headed for a $350 million refurbishment before starting a 20-year charter in Argentina in the second half of 2027, so the unit that had been cashing in on high prices is sitting in a shipyard during the best LNG market in years. Shares jumped 7.7% after the fourth unit was announced and now trade at nearly 40 times earnings, which feels a little rich given all that. Then again, Goldman Sachs has been running a strategic review for Golar since March, and a buyout would change the math pretty quickly.\n\nWhen Germany's Uniper signed a 15-year gas supply deal with Equinor ASA (NYSE: EQNR) in Stavanger in late August, CEO Michael Lewis told Reuters, \"For us it's really important that we rebuild our portfolio.\" Uniper is the same utility Berlin had to rescue in 2022 after Russian gas stopped flowing, and now it's locking in about 2.8 billion cubic meters a year of Norwegian gas through 2041.\n\nEurope needs every molecule it can get right now, with EU storage sitting around 67% in mid-September, and Equinor CEO Anders Opedal said in July that the continent won't necessarily hit 80% before winter. Norwegian gas moves by pipeline and doesn't have to sail past anyone's drones, and Equinor's second-quarter results show what that's worth. The company realized $15.79 per MMBtu for piped gas in Europe, while its U.S. gas fetched just $1.96.\n\nTrading has been the other windfall. CFO Torgrim Reitan said the trading result was almost twice what Equinor books in a normal quarter, and the company doubled its 2026 buyback to $3 billion. Those buybacks also give you a decent read on the stock, since Equinor has to disclose what it pays. It averaged about NOK 314 a share around the start of July and roughly NOK 419 by mid-September.\n\nThird-quarter numbers are due Oct. 28. Of the five companies here, Equinor is probably the closest thing to a pure Hormuz-fear trade, and if the strait genuinely reopens, I wouldn't expect that European premium to stick around for long.\n\nWith everyone focused on LNG, it's easy to forget that the Persian Gulf also ships out an enormous amount of propane and butane, and that's been stuck behind Hormuz, too. Antero Resources Corp. (NYSE: AR) produces a lot of both out of Appalachia, and China has been buying.\n\nOn Antero's second-quarter call, management pointed out that the U.S. share of China's LPG imports climbed to 51% in the second quarter, up from just 10% in June 2025, back when tariffs had pushed Chinese buyers elsewhere. U.S. propane exports hit a weekly record of 2.63 million barrels per day in May, and the company said propane and butane are now \"fiercely competing for terminal space\" on the Gulf Coast. Antero got $44.26 per barrel for its C3+ NGLs, its best price since 2022.\n\nWhat I find most interesting is how little of this has to do with natural gas prices. Antero's gas sales revenue was basically flat year over year at around $688 million, but NGL revenue jumped 22%, and adjusted EBITDAX climbed 57% even with Henry Hub down 16%. The stock, meanwhile, has spent most of the fall in the mid-to-high $30s, nowhere near its 52-week high of $45.75. A slight earnings miss didn't help, and freight rates for gas carriers have been eating into export margins, but if Gulf LPG stays bottled up through winter, Antero might be the most overlooked name on this list.\n\nBy Michael Kern for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nEurope Weighs Methane Rule Delay as Energy Supply Risks Mount\n\nIran’s Disappearing Oil Is Becoming Everyone’s Problem\n\nIran Is Losing Some of Its Leverage Over the Strait of Hormuz\n\nMiddle East Oil Exports Stage a Remarkable Comeback\n\nU.S. Oil Drilling Inches Up As Prices Fall\n\nIranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "点击此处查看150多个全球油价\n\n美国原油库存下降\n\n全球天然气市场可能仍将……\n\n特朗普和习近平预计将……\n\n欧盟正考虑推迟……\n\n我的报道领域：我的关注范围涵盖全球能源格局以及正在重塑这一格局的技术，具体聚焦于石油和天然气、可再生能源以及由技术驱动的市场……\n\n今年3月，伊朗袭击了卡塔尔的拉斯拉凡综合设施，导致该国17%的液化天然气出口能力停摆。当时，交易逻辑似乎相当直接：买入美国出口商的股票，然后坐等欧洲和亚洲前来购买不必经过霍尔木兹海峡运输的货物。Cheniere确实按照所有人的预期采取了行动，其液化天然气装运量高于去年同期，并连续第二个季度上调了2026年业绩指引。\n\n战争爆发近7个月后，这条海峡依然一团糟。卡塔尔能源公司刚刚将液化天然气交付的不可抗力期限延长至11月底；经由霍尔木兹海峡的流量仍较战前水平下降逾75%；而在周二，希腊航运大亨玛丽亚·安杰利库西斯旗下的一艘液化天然气运输船成为海峡附近最新一艘遭袭船只。9月，欧洲和亚洲的天然气价格升至2022至2023年能源危机以来的最高水平；而在美国国内，亨利枢纽天然气价格一直徘徊在每百万英热单位约3美元的水平。\n\n不过，随着危机持续，一些不那么显眼的公司开始展现出同样强劲的投资理由：其中既有一家曾被华尔街大多数人放弃的首次公开募股公司，也有一家石油生产商——今年某个阶段，这家公司实际上是在付钱让买家接手其天然气。\n\nVenture Global Inc.（纽约证券交易所代码：VG）上市后的第一年，经历了能源公司所能遭遇的最艰难局面之一。这家路易斯安那州出口商于2025年1月将首次公开募股价格定为每股25美元，但到年底，其股价已跌至个位数。投资者对其商业模式深恶痛绝：该模式主要依赖将液化天然气出售到现货市场，而包括壳牌和英国石油在内的长期客户却在等待其合同项下的货物，并最终就此将该公司告上仲裁庭。\n\n事实证明，当现货市场陷入疯狂时，一家为现货市场销售而建立的公司恰恰是最值得持有的标的。Venture Global第二季度净利润增长266%，达到13亿美元，营收为46亿美元；管理层还将全年调整后息税折旧摊销前利润（EBITDA）指引上调至87亿至91亿美元。该预测包含一个假设，即公司将从剩余未售货物中获得每百万英热单位12.50至13.50美元的液化费，而用于生产这些货物的美国天然气采购成本约为上述费用的四分之一。\n\n长期买家也开始回心转意。10月1日，康菲石油公司签署了一项为期20年的协议，自2030年起每年从Venture Global购买100万吨液化天然气。首席执行官迈克·萨贝尔表示，这反映了外界对公司“快速并大规模”交付液化天然气能力的信心。康菲石油还持有卡塔尔能源公司拉斯拉凡液化天然气项目30%的股份，因此，这有点像一位房东悄悄为城另一头的一套公寓支付定金。\n\n但上述情况并没有让该股变得容易持有。战争爆发后的最初几周，股价上涨超过50%；公司公布历史最佳季度业绩当天，股价反而下跌5%；此后股价一直在十几美元的低位至中位区间内波动。这仍约为首次公开募股买家支付价格的一半。而且，鉴于其大部分上涨空间都取决于现货价格，如果船只最终能够再次自由通过霍尔木兹海峡航行，我预计这些涨幅中相当一部分将会消失。\n\n第二季度，APA Corp.（纳斯达克代码：APA）在美国生产的天然气实现的平均价格为每千立方英尺负2.20美元，这意味着从账面上看，公司是在付钱处理这些天然气。随着二叠纪盆地管道达到满负荷，得克萨斯州西部瓦哈枢纽的价格在今年大部分时间里一直处于负值区域，APA最终因此削减了日产约1.37亿立方英尺的产量。\n\n然而，APA可能是美国市场上较好的液化天然气投资标的之一，这主要得益于一项早在战争爆发数年前就达成的协议。根据一份始于2023年、持续至2037年的合同，该公司每天向Cheniere出售14万百万英热单位的天然气，价格与国际液化天然气基准挂钩。此外，APA还经营一项稳定运输业务，在二叠纪盆地购买天然气，再将其转售到美国墨西哥湾沿岸。该公司预计今年将从天然气交易中获得约9.5亿美元税前现金流。巴克莱分析师贝蒂·江5月告诉CNBC，APA“在我们覆盖的公司中对液化天然气价格的敞口最大”。这一点也体现在第二季度业绩中：调整后每股收益为1.89美元，自由现金流为7.38亿美元，自2024年底以来已偿还债务23亿美元。在公布该业绩前的52周内，该股已上涨89%。不过，APA本质上仍是一家石油公司；当原油价格因停火传闻而下跌时，它也会随之下跌。\n\nGolar LNG Ltd.（纳斯达克代码：GLNG）花了8年时间，将一艘改装后的浮式液化天然气船停泊在喀麦隆海岸附近。据伍德麦肯兹称，仅这艘名为“Hilli”的船，就已经收回约13亿美元的改装成本，并在此过程中创造了约21亿美元的收费型EBITDA。Golar也是唯一一家以租赁和运营模式提供浮式液化天然气服务的公司。因此，如果一个国家拥有天然气资源，却没有出口终端，也不愿在陆上建造终端，那么Golar基本上就是唯一可以联系的对象。\n\n这正是Golar在8月订购第四艘船的逻辑所在。这是一艘由中国CIMC Raffles建造、价值24.5亿美元、年产能350万吨的船，预计将在2029年底前后准备就绪。Golar尚未为其找到客户。该公司押注认为，在目睹全球五分之一的液化天然气供应被困在霍尔木兹海峡另一侧后，总会有人希望迅速获得浮式产能；该公司还将这艘船定位为全球最早可用的同类船舶。\n\n与大宗商品价格挂钩的费用已经开始带来回报，因为“Hilli”的合同部分与布伦特原油和荷兰TTF天然气价格挂钩，这部分业务第二季度带来3700万美元收入，超过第一季度的3倍。不过，时机本可以更好。“Hilli”在喀麦隆的合同于7月结束；在于2027年下半年开始执行一份为期20年的阿根廷租船合同之前，该船将接受价值3.5亿美元的翻修。因此，这艘此前一直从高价中获利的船，正在多年未见的最佳液化天然气市场期间停在船厂。第四艘船宣布后，Golar股价上涨7.7%，目前市盈率接近40倍。鉴于上述情况，这一估值似乎有些偏高。不过，高盛自3月以来一直在对Golar进行战略评估，而一旦发生收购，相关估值逻辑很快就会改变。\n\n8月下旬，德国尤尼珀公司（Uniper）在斯塔万格与挪威国家石油公司（Equinor ASA，纽交所代码：EQNR）签署了一项为期15年的天然气供应协议，首席执行官迈克尔·刘易斯（Michael Lewis）向路透社表示：“对我们而言，重建资产组合确实至关重要。”尤尼珀正是柏林方面在2022年俄罗斯断供天然气后不得不出资救助的公用事业公司，如今该公司锁定了截至2041年、每年约28亿立方米的挪威天然气供应。\n\n欧洲眼下急需每一分子天然气，截至9月中旬欧盟储气库储气率徘徊在67%左右，挪威国家石油公司首席执行官安德斯·奥佩达尔（Anders Opedal）7月曾表示，欧洲大陆在入冬前未必能达到80%的水平。挪威天然气通过管道输送，无需经受任何无人机的威胁，挪威国家石油公司的第二季度业绩充分证明了这一点。该公司欧洲管道气实现售价达到每百万英热单位（MMBtu）15.79美元，而其美国天然气售价仅为1.96美元。\n\n交易业务是另一大意外收益。首席财务官托格里姆·赖坦（Torgrim Reitan）表示，交易业绩几乎是挪威国家石油公司正常季度水平的两倍，该公司还将2026年的股票回购规模翻倍至30亿美元。这些回购也为评估该股提供了不错的参考依据，因为挪威国家石油公司必须披露其回购成本。7月初其平均回购价格约为每股314挪威克朗，到9月中旬已达到约419挪威克朗。\n\n第三季度财报将于10月28日公布。在这五家公司中，挪威国家石油公司可能是最接近纯粹的“霍尔木兹海峡恐慌交易”标的，而一旦该海峡真正重新开放，我认为这种欧洲溢价很难维持太久。\n\n在所有人都将目光投向液化天然气（LNG）之际，人们很容易忽视波斯湾同样外运着大量的丙烷和丁烷，而这些物资同样受阻于霍尔木兹海峡。安特罗资源公司（Antero Resources Corp.，纽交所代码：AR）在阿巴拉契亚地区大量开采这两种产品，中国买家一直在积极采购。\n\n在安特罗第二季度财报电话会议上，管理层指出，第二季度美国在中国液化石油气（LPG）进口中的份额攀升至51%，而2025年6月时仅为10%，当时关税政策曾促使中国买家转向其他市场。5月份美国丙烷出口量创下每周263万桶/日的历史纪录，该公司表示，丙烷和丁烷目前在墨西哥湾沿岸“为争夺码头仓储空间展开激烈竞争”。安特罗的C3+凝析液（NGLs）售价达到每桶44.26美元，创2022年以来的最佳水平。\n\n我认为最值得关注的是，这与天然气价格本身的关系其实微乎其微。安特罗的天然气销售收入同比基本持平，约为6.88亿美元，但凝析液收入激增22%，即使在亨利枢纽基准价下跌16%的情况下，调整后EBITDAX依然攀升了57%。与此同时，该股在秋季的大部分时间里徘徊在30多美元中高位，远低于其45.75美元的52周高点。略微不及预期的收益表现没有带来帮助，气体运输船的高昂运费也一直在蚕食出口利润率，但如果海湾地区的液化石油气供应在整个冬季持续受阻，安特罗可能是这份名单中最被低估的标的。\n\n文 / 迈克尔·科恩（Michael Kern），为 Oilprice.com 撰稿\n\nOilprice.com 更多精选阅读：\n随着能源供应风险加剧，欧洲权衡推迟甲烷新规\n伊朗失踪的石油正演变成所有人的难题\n伊朗正在丧失其对霍尔木兹海峡的部分筹码\n中东石油出口实现显著复苏\n随着油价下跌，美国石油钻探活动小幅回升\n尽管面临美国制裁风险，伊朗石油开始流向塔吉克斯坦\n\n本网站提供的资料仅供参考和教育用途，并非旨在提供税务、法律或投资建议。\n本网站包含的任何内容均不应被视为在任何司法管辖区内向任何人推荐、招揽或要约买卖任何证券。\n法定收款商：以 Oilprice.com 名义运营的 A Media Solutions",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 28,
+        "keyTakeaways": [
+          "来源叙事重点：将霍尔木兹海峡航运和能源供应受阻框架化为天然气、液化天然气及液化石油气企业的投资机会，重点寻找能够因现货价格上涨、替代运输路线、长期合同或出口能力而受益的公司。文章依次分析Venture Global、APA、Golar LNG、Equinor和Antero Resources，并同时提示这些收益可能随着海峡恢复通航而逆转。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sp-janet-for-the-x32-abi-20230842df035510",
+        "title": "Janet 与 x32：32 位指针、64 位速度、少 25% 内存",
+        "originalTitle": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:26:46.000Z",
+        "pubTime": "2026-10-07 06:26",
+        "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+        "imageUrl": null,
+        "fullContent": "It’s possible to save a dramatic amount of memory (close to half for programs with pointer heavy heaps) and also speed up programs by a modest amount (by way of more data fitting in cache) by using 32 bit pointers on 64 bit systems.\n\nThe Linux x32 ABI lets you do just this, but it’s tragically underused and overlooked. It’s disabled by default on Debian (though you can enable it with a boot flag) and not even compiled in on Arch Linux. Most software compiles just fine for x32, but there isn’t much packaging for it so you do have to compile nearly everything yourself.\n\nI experimented with deploying mastodon on x32 and it cut the app’s memory usage from 650mb to 350mb. There’s so much potential here, but the work is mostly of the thankless coordination and communication type and I don’t have the time or motivation to push it forward myself. - Hailey\n\nJanet libraries like Spork supply their own build flags, but we can hijack them with a fake cc which starts the real one with the necessary -m32 -msse2 -mfpmath=sse flags. I modified the beginning of my default Janet build script:\n\nEasy enough! Now let’s try it!\n\ntl;dr: 20% memory reduction, 50% slower\n\nThis is on cachyos (arch, btw) with lib32-glibc lib32-gcc-libs. Adding this to a build script forces libraires like spork to build at 32 bit too!\n\nNote, these use Fish and I don’t want to rebuild my site with other language support:\n\nI added a 0 in the test\n\nFor e.g. declarative-dsls/tests.janet\n\nUnfortunately, Ubuntu also dropped x32 support.\n\nLuckily, lazily, I have access to some deprecated servers (of course not in prod…) and OS installs, wasting hard disk space:\n\nUbuntu 20.04 LTS Focal Fossa has reached its end of standard support on 31 May 2025.\n\nUbuntu, so we have bash again:\n\nJust what we need, although gcc version 9.4.0 is a bit old. We already have build-essential git gcc-multilib libc6-dev-x32. We’re almost ready to test this hunch. But first, we must change src/include/janet.h:\n\nlest Janet choose the 64-bit value layout. Our build script will also pass a build flag to disable Janet’s FFI. Here is our full 32janet.sh:\n\nAnd a `64janet.sh to compare it with:\n\nNow we compare them:\n\nBut declarative-dsls is a worst case scenario, using typed c arrays for big speed ups, which don’t benefit much from this. Lets make some minimal benchmarks to really test the differences:\n\nwords.janet builds a text, splits it into words, counts them and sorts on that:\n\nrecords.janet groups structs by department and summarizes those departments, with unused extra fields like real code:\n\nparse.janet parses lines with a PEG and totals them:\n\ntree.janet builds and walks binary trees, our pointer-heaviest example:\n\nWe see the highest memory savings from tiny objects, averaging about 25% with inconsistent speed ups (8%) or slowdowns (16%). Perhaps other projects are more ammenable to gains than Janet where nanboxing already packs values into 8 bytes and smaller headers see the main benefit. Midway through, I was hoping for performance gains due to more staying in the L1 cache etc. where, in another world with continued x32 support, we could use this as a default for scripts. Faced with the data, the only ~25% decrease in RAM usage is nice, but does not justify a call to action to get more out of our machines in this age of expensive RAM.\n\nIf Janet works with smaller object headers, why not shrink them in the implementation for 64-bit use? By my understanding, Janet heap objects use 16 bytes to help the garbage collector:\n\nReducing these would require a different garbage collection strategy e.g. our own allocator, which would hurt a core Janet use case: embedding in other projects.\n\nEach type then adds:\n\nFor structs and tables in particular, we could regain 8 bytes through rearranging (not needing the later padding). Onlt tuples parsed from code need the source information (for errors); a flag could save normal tuples 8 bytes.\n\nUnfortunately, glibc’s malloc adds 8 bytes and rounds to multiples of 16 so structs would remain the same. But tables and (some) tuples would shrunk more than the above indicates!",
+        "fullTranslation": "在 64 位系统上使用 32 位指针，可以节省大量内存（对于指针密集型堆，节省量接近一半），还可以通过让更多数据装入缓存，使程序获得小幅提速。\n\nLinux 的 x32 ABI 正是为此而生，但它一直被严重低估和忽视。在 Debian 上默认禁用（虽然可以通过启动参数启用），在 Arch Linux 上甚至没有编译进去。大多数软件都能顺利为 x32 编译，但针对它的软件包并不多，因此几乎所有东西都得自己编译。\n\n我尝试在 x32 上部署 Mastodon，应用的内存使用量从 650 MB 降到了 350 MB。这里的潜力非常大，但相关工作主要是吃力不讨好的协调与沟通，而我没有时间或动力亲自推动它发展。——Hailey\n\nSpork 等 Janet 库会提供自己的构建标志，但我们可以用一个假的 cc 劫持它们：这个假 cc 会带上必要的 `-m32 -msse2 -mfpmath=sse` 标志启动真正的编译器。我修改了默认 Janet 构建脚本的开头：\n\n很简单！现在试试看！\n\n简而言之：内存减少 20%，速度变慢 50%\n\n这是在 CachyOS（顺便说一句，它基于 Arch）上进行的，使用了 `lib32-glibc` 和 `lib32-gcc-libs`。把这些内容加入构建脚本，就能强制 Spork 等库也以 32 位模式构建！\n\n注意，这些使用的是 Fish；而我不想为了支持其他语言而重新构建我的网站：\n\n我在测试中加了一个 0\n\n例如：`declarative-dsls/tests.janet`\n\n不幸的是，Ubuntu 也放弃了对 x32 的支持。\n\n幸运的是——或者说，我很懒——我可以使用一些已经弃用的服务器（当然不在生产环境中……）和操作系统安装，占用一些硬盘空间：\n\nUbuntu 20.04 LTS Focal Fossa 已于 2025 年 5 月 31 日结束标准支持。\n\nUbuntu，这样我们又有 bash 了：\n\n这正是我们需要的，尽管 GCC 9.4.0 版本有些老。我们已经有了 `build-essential`、`git`、`gcc-multilib` 和 `libc6-dev-x32`。现在几乎可以验证这个猜想了。但首先，我们必须修改 `src/include/janet.h`：\n\n让 Janet 选择 64 位值布局。我们的构建脚本还会传入一个构建标志，以禁用 Janet 的 FFI。下面是完整的 `32janet.sh`：\n\n以及用于对比的 `64janet.sh`：\n\n现在来比较二者：\n\n不过，`declarative-dsls` 属于最极端的情况，它使用类型化 C 数组来大幅提升速度，而这类数组并不能从上述变化中获得太多好处。让我们制作一些最小基准测试，真正检验其中的差异：\n\n`words.janet` 构造一段文本，将其拆分成单词，统计单词数量并排序：\n\n`records.janet` 按部门对结构体进行分组，并汇总这些部门；其中还包含一些像真实代码中那样未使用的额外字段：\n\n`parse.janet` 使用 PEG 解析多行文本并计算总数：\n\n`tree.janet` 构造并遍历二叉树，这是我们指针使用最密集的示例：\n\n我们发现，内存节省最多的是小型对象，平均约为 25%；性能变化则不稳定，有时提升 8%，有时下降 16%。或许相比 Janet，其他项目更容易从中获益，因为 Janet 的 NaN-boxing 已经将值压缩到 8 字节，而这里的主要收益来自更小的对象头。实验进行到一半时，我曾希望由于更多数据能够留在 L1 缓存中等原因而获得性能提升；如果在另一个仍持续支持 x32 的世界里，我们甚至可以把它作为脚本的默认配置。但面对这些数据，唯一约 25% 的内存使用量下降虽然不错，却不足以让我们在这个内存价格高昂的时代发起一场运动，以便从机器中榨取更多性能。\n\n如果 Janet 使用更小的对象头，那么为什么不在 64 位模式的实现中直接缩小它们？据我理解，Janet 堆对象使用 16 字节，是为了帮助垃圾回收器：\n\n缩减这些对象需要采用不同的垃圾回收策略，例如使用我们自己的分配器；但这会损害 Janet 的一个核心使用场景：嵌入其他项目。\n\n随后每种类型还会增加：\n\n尤其对于结构体和表，我们可以通过重新排列布局重新获得 8 字节（不需要后面的填充）。只有从代码解析出来的元组需要源代码信息（用于报错）；通过增加一个标志，普通元组可以节省 8 字节。\n\n遗憾的是，glibc 的 malloc 会增加 8 字节，并将大小向上取整到 16 字节的倍数，因此结构体的大小仍会保持不变。但表和部分元组的大小会比上述数据所显示的缩减得更多！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [
+          "在64位系统上使用32位指针有可能大幅减少内存占用（对于指针密集型堆程序接近减半），并通过更易装入缓存适度提高程序运行速度。",
+          "Linux x32 ABI在Debian上默认禁用（可通过启动标志启用），在Arch Linux上甚至未编译进去，且Ubuntu也停止了对x32的支持。",
+          "来源叙事重点：探讨 Linux x32 ABI（64位性能搭配32位指针）在 Janet 语言中的实际内存优化与性能权衡，指出其虽能减少约25%的RAM占用但速度提升不稳定且生态支持严重萎缩，得出不足以推动生态复兴的务实结论"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:26:46.000Z",
+            "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/"
+          }
+        ]
+      },
+      {
+        "id": "story--greatest-pollution-html-ffc786445b4c0359",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Study highlights the European waters at greatest risk of harmful light pollution",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T00:00:01.000Z",
+        "pubTime": "2026-10-07 08:00",
+        "url": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-highlights-the-e.jpg",
+        "fullContent": "Scientists have produced a first-of-its-kind assessment showing which coastal regions of Europe they believe are at greatest risk from harmful light pollution.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html",
+            "publishedAt": "2026-10-07T00:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2122787217-html-a6e350f6f45029ae",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Внешний госдолг Украины при Зеленском увеличился в 5,7 раза",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T00:39:50.000Z",
+        "pubTime": "2026-10-07 08:39",
+        "url": "https://ria.ru/20261007/ukraina-2122787217.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 08:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/ukraina-2122787217.html",
+            "publishedAt": "2026-10-07T00:39:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--thermostat-and-doorbell-56fda4e3eb3d9113",
+        "title": "据报道苹果正与LG合作推出智能门锁、恒温器和智能门铃",
+        "originalTitle": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:53:09.000Z",
+        "pubTime": "2026-10-07 06:53",
+        "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+        "imageUrl": null,
+        "fullContent": "Apple is working on a new ecosystem of smart home devices via a partnership with LG, Bloomberg has reported.\n\nThe new devices — which include a smart lock, a thermostat, and a doorbell — are designed to integrate with the company’s smart home hub, another upcoming product that will reportedly launch on October 13. That hub is expected to include a 6-inch square display that can be placed on a countertop or mounted on a wall.\n\nThe two companies are also working on a slate of security cameras, including models for indoor and outdoor, was well as a floodlight. The LG devices are expected to be announced, if not formally released, next week, too. TechCrunch reached out to Apple for more information.\n\nInterestingly, the devices will reportedly carry the LG brand — despite being developed by both companies.\n\nThe new products could aptly be read as a swipe at Amazon’s smart home offerings, which currently include a variety of similar products, including its Ring home security cameras.\n\nApple has sought to push into new territory with its recent hardware releases. One of those new territories is an expanded smart home presence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "据彭博社报道，苹果公司正通过与LG建立合作伙伴关系，致力于打造一个全新的智能家居设备生态系统。\n\n这些新设备——包括智能门锁、恒温器和门铃——旨在与该公司的智能家居中枢无缝集成；据悉，该中枢是另一款即将推出的产品，据传将于10月13日发布。预计该中枢将配备一块6英寸的正方形显示屏，可放置在台面上或安装在墙壁上。\n\n两家公司还在研发一系列安防摄像头，包括室内与室外型号，以及一款泛光灯摄像头。即使下周不正式发售，这批LG设备也有望在下周正式发布。TechCrunch已联系苹果公司以获取更多信息。\n\n有趣的是，据报道，尽管这些设备由两家公司共同研发，但它们将冠以LG品牌。\n\n这些新产品完全可以被视为对亚马逊智能家居产品的正面叫板，亚马逊目前提供多款类似产品，包括其旗下的Ring家庭安防摄像头。\n\n苹果近期发布的多款硬件产品一直试图开拓新领域，而扩大在智能家居市场的布局正是其中之一。\n\n第二张通行证可享50%优惠——Disrupt的精彩体验本就值得共同分享。获取您的通行证，即可以半价邀请一位同事、合作伙伴或同行。通过拓展人脉、蓄势发力，发现创业生态系统的下一个机遇，从而覆盖更广阔的领域。\n\n每周一至周五以及周日，您都可以获取TechCrunch的精选报道。\n\nTechCrunch Mobility是您获取交通领域前沿动态与洞察的首选阵地。\n\n初创企业是TechCrunch的核心，欢迎订阅我们每周精选的核心报道。\n\n为行业引领者提供开启新一天所需的关键资讯。\n\n提交您的电子邮件即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "来源叙事重点：苹果公司据报道正与LG合作开发包括智能门锁、温控器、门铃及安防摄像头在内的智能家居生态产品，虽然联合研发但设备或将使用LG品牌，并深度联动苹果即将于10月13日发布的带屏智能家居中枢，意在正面冲击亚马逊Ring等竞品的市场份额。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:53:09.000Z",
+            "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+          }
+        ]
+      },
+      {
+        "id": "story--do-i-intervene-03fb96b7-f8dd11fa1ceab249",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:54:00.000Z",
+        "pubTime": "2026-10-07 06:54",
+        "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Both properties will be solely in his name.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 06:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-06T22:54:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-program-status-osc7501-cbd7ea75fd5495be",
+        "title": "用于程序状态的终端协议（OSC 7501）",
+        "originalTitle": "A Terminal Protocol for Program Status (OSC 7501)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T21:12:46.000Z",
+        "pubTime": "2026-10-07 05:12",
+        "url": "https://mitchellh.com/writing/program-status-osc7501",
+        "imageUrl": null,
+        "fullContent": "I wrote a specification for a new terminal escape sequence: OSC 7501, the Program Status Protocol. It lets any program tell the terminal what it's doing: idle, working, waiting on the user, finished, or failed, and why.\n\nFor example, here is how Terraform could indicate that it is blocked waiting for user input, with the message \"Apply 3 to add, 1 to change, 0 to destroy?\" (base64-encoded). A terminal (or any other tool running Terraform) could show this information however it feels appropriate: a notification, an inbox, a status icon, etc.\n\nThis post covers why I think this protocol needs to exist, why the existing approaches aren't good enough (especially for coding agents), and how the protocol works.\n\nThis is a completely generic, terminal-native specification and protocol. It emerged from my work on Superlogical and Ghostty but the specification has no product-specific functionality or language. It is designed as an idiomatic, well-formed specification that any terminal developer will find familiar.\n\nLong-running work is common in terminals: builds, deployments, package upgrades, data processing, and, more and more today, coding agents. These programs alternate between working on their own, waiting on the user, and finishing. Meanwhile, users usually go off and do something else and want to know when the work finishes or needs them.\n\nAspects of this problem have been solved in various ways going back decades. For example, some terminals monitor the active foreground process and have features to notify when it changes. Or, they wait for some time period of \"quiet\" (for various definitions) output. The specification also lists the reasons why existing sequences aren't enough.\n\nUltimately, I felt there wasn't a cohesive, interaction-agnostic, generic solution to this problem that conveyed progress, blocking, completion, and trees of tasks. And it wasn't possible to cobble together pre-existing sequences to achieve it robustly, either.\n\nDon't care about AI, LLMs, etc.? Skip this section. The problem is generic and applies in a compelling way without bringing in AI. It's particularly nasty with AI so I want to call it out, but if you don't care about any of that, just skip this.\n\nIt's now increasingly common for people to run many long-running agents for any number of reasons: background research, issue monitoring, bug fixing, large features, etc. Each one works for a while and then stops to ask for permission, ask a question, or report it's done.\n\nFrom this, a new category of tool has emerged that I'll simply call the agentic inbox: a single view across every running agent showing which are working, which are done, and which are waiting on you. Herdr, cmux, and Agent Deck are a few examples of hundreds.\n\nWithout a dedicated protocol, they solve the agent status problem in two ways: heuristics and non-terminal APIs.\n\nThe first approach is to guess by reading the screen or the window title and matching it against known patterns.\n\nHerdr is a good example because it does this well and documents it openly. Its detection manifests are TOML rules that classify an agent as idle, working, or blocked. Here is the first of 16 rules for Claude Code:\n\nClaude Code is considered \"working\" if its window title starts with a Braille spinner character or, as of version 2.1.228, a half-circle one. The history of that file shows ten changes in three months for just Claude Code.\n\nThis isn't a criticism of Herdr. Its maintainers are doing the best possible job with the tools available. But it demonstrates well the benefit a unified protocol would have.\n\nThe second approach is to have the program report its own state through an inbox-specific, out-of-band API such as Herdr's socket API or cmux notify. This is better than heuristics in some ways, because the program that actually knows its state is the one reporting it. But every program has to integrate with every inbox separately, and a local socket doesn't work over SSH or from within a container without extra bridging. The pty already works across all of this.\n\nOSC 7501 is a terminal native answer to this problem. The program reports its own state directly via the pty that it always has, using a format that is safe to send everywhere (well-behaved terminals ignore unknown OSCs).\n\nThe body of the sequence is a list of key=value pairs separated by :. The only required key is state, which is one of:\n\nOptional keys include app, a stable machine-readable program name like cargo or claude-code, and msg, a single human-readable line encoded as base64.\n\nPrograms that run several things at once can report multiple records using hierarchical ids. A deploy tool can be working at the root while us-east pushes an image at 40% and eu-west is blocked waiting for approval to deploy to production. Both are true at the same time, and the terminal decides what to show. A clear state removes records.\n\nHere's a complete integration for a shell script to wrap rsync to participate in this protocol:\n\nTrivial to script with plain old POSIX sh. No SDK, no sockets, no environment variables, no JSON. No bias towards specific GUI presentations. No bias to any specific workload (like AI). A well-formed, generic foundation to build functionality above that anyone and everyone can participate with.\n\nThe full spec covers the rest: record lifetime, feature detection, terminfo, size limits, and security. It's short. I wrote it all by hand. Please read it.\n\nI wrote this specification based on my experience maintaining a terminal emulator for many years now. It is written in a way that is easy for application developers to emit, and easy for terminal emulators to consume and parse.\n\nI've already implemented this protocol twice. We have one implementation in libghostty and I have a parallel implementation in Rex. I've also implemented it as a proof-of-concept in Terraform, Claude Code, Codex, and Homebrew via either plugins or forks. In each case, the implementation was no more than a dozen lines.\n\nI've been in contact with the maintainers of many popular terminal programs and emulators and they've helped review and shape the specification. But if you have any more feedback, I'm happy to hear it.\n\nIf you've implemented the specification please let me know via email (mail icon in the footer) and I'll add you to the list of tools that implement this. Thank you.\n\nI'd like us all to stop guessing what programs are doing by reading their screens or process trees. The program already knows. Let's give it a way to tell us!",
+        "fullTranslation": "我为一种新型终端转义序列编写了规范：OSC 7501，即“程序状态协议”（Program Status Protocol）。它允许任何程序向终端告知自己当前的状态：空闲、运行中、等待用户响应、已完成或失败，以及具体原因。\n\n例如，Terraform 可以通过该协议指示其当前正阻塞以等待用户输入，附带提示信息“Apply 3 to add, 1 to change, 0 to destroy?”（Base64 编码）。终端（或运行 Terraform 的任何其他工具）可以采用它认为合适的方式来展示此信息：通知、收件箱列表、状态图标等。\n\n本文介绍了为什么我认为该协议有必要存在、为什么现有的方案不够理想（尤其是对于编码智能体而言），以及该协议是如何运作的。\n\n这是一套完全通用、终端原生的规范与协议。它源于我在 Superlogical 和 Ghostty 上的开发工作，但该规范不包含任何特定产品的功能或用语。它被设计成一个符合惯例、结构规范的规范，任何终端开发者都会对其感到熟悉。\n\n长时间运行的任务在终端中十分常见：构建、部署、包升级、数据处理，以及如今越来越多的编码智能体（coding agents）。这些程序在自主运行、等待用户输入以及结束运行之间交替切换。与此同时，用户通常会离开去做其他事情，并希望在任务完成或需要人工介入时收到通知。\n\n这个问题的各个方面早在几十年前就已通过各种方式尝试解决。例如，某些终端会监控活跃的前台进程，并在进程发生变化时发出通知；或者，它们会等待一段输出“静默”（定义各异）的时间。该规范同样列举了现有序列不足以满足需求的原因。\n\n归根结底，我认为目前还没有一个统一、与交互形态无关且通用的解决方案来传达进度、阻塞状态、完成情况以及任务树结构。依靠东拼西凑现有的转义序列，也无法稳健地实现这一目标。\n\n如果你对 AI、大语言模型（LLM）等不感兴趣，可以跳过本节。这个问题本身是通用的，即使不涉及 AI，它也是一个非常现实的需求。由于在 AI 场景下该问题尤为棘手，因此我专门提了出来；但如果你完全不关心这些，直接跳过即可。\n\n如今，人们出于各种原因运行大量长时间运行的智能体已越来越普遍：背景调研、Issue 监控、错误修复、大型功能开发等。每一个智能体都会运行一段时间，然后停下来请求权限、提出疑问或汇报已完成。\n\n由此催生了一类全新的工具，我姑且将其称为“智能体收件箱”（agentic inbox）：即一个跨所有正在运行的智能体的统一视图，展示哪些处于运行中、哪些已完成，以及哪些正在等待你的响应。Herdr、cmux 和 Agent Deck 就是其中数百个例子中的代表。\n\n由于缺乏专用协议，它们目前通过两种方式解决智能体状态问题：启发式推测以及非终端 API。\n\n第一种方法是通过读取屏幕内容或窗口标题，并将其与已知模式进行匹配来进行推测。\n\nHerdr 是一个很好的例子，因为它做得不错且公开了文档。它的检测清单是 TOML 规则，用于将智能体归类为空闲、运行中或阻塞。以下是针对 Claude Code 的 16 条规则中的第一条：\n\n如果 Claude Code 的窗口标题以盲文旋转图标（Braille spinner）开头，或者自 2.1.228 版本起以半圆图标开头，它就会被判定为“运行中”。仅针对 Claude Code，该规则文件的修改历史在三个月内就记录了十次变更。\n\n这并不是对 Herdr 的批评。其维护者已经在现有工具条件下做到了极致。但这充分证明了统一协议将带来的巨大益处。\n\n第二种方法是让程序通过特定于收件箱工具的带外 API（例如 Herdr 的 socket API 或 cmux notify）自行报告状态。从某种意义上说，这比启发式推测更好，因为真正知晓自身状态的程序正是报告状态的主体。然而，每个程序都必须单独与每个收件箱工具进行集成，而且本地 socket 无法在没有额外桥接的情况下跨 SSH 或在容器内运行。而伪终端（pty）早已在所有这些场景下顺畅工作。\n\nOSC 7501 是针对这一问题的终端原生解法。程序直接通过其始终具备的 pty 上报自身状态，使用的格式即使发送到任何地方也是安全的（规范的终端会直接忽略未知的 OSC 序列）。\n\n该序列的主体是由冒号（:）分隔的键值对列表。唯一必需的键是 state，其值为以下之一：\n\n可选的键包括 app（稳定的机器可读程序名称，如 cargo 或 claude-code）以及 msg（Base64 编码的单行人类可读信息）。\n\n同时运行多个任务的程序可以使用层级 ID 上报多条记录。部署工具可以在根节点处于运行状态，而 us-east 正以 40% 的进度推送镜像，eu-west 则处于阻塞状态等待部署到生产环境的审批。两者可以同时成立，终端可以决定如何进行展示。clear 状态则用于清除记录。\n\n以下是一个封装 rsync 以接入此协议的完整 Shell 脚本示例：\n\n使用老式普通的 POSIX sh 就能轻松编写脚本。不需要 SDK，不需要 socket，不需要环境变量，也不需要 JSON。对特定的 GUI 呈现形式没有任何偏见。对任何特定的工作负载（如 AI）也没有倾向性。这是一个结构规范、通用的基础，任何人都可以基于它构建功能并参与其中。\n\n完整的规范涵盖了其余细节：记录生命周期、特性探测、terminfo、大小限制以及安全性。篇幅很短，全部由我亲手编写，欢迎阅读。\n\n我是基于多年维护终端模拟器的经验编写了这一规范。它的设计既便于应用程序开发者生成输出，也便于终端模拟器消费和解析。\n\n我已经两次实现了该协议。我们在 libghostty 中有一个实现，我在 Rex 中也做了一个并行实现。此外，我还通过插件或分支方式在 Terraform、Claude Code、Codex 和 Homebrew 中完成了概念验证实现。在每种情况下，实现代码都只有十几行。\n\n我已经与许多流行终端程序和模拟器的维护者取得了联系，他们帮助审阅并完善了这份规范。如果你有更多反馈，我非常乐意倾听。\n\n如果你已经实现了该规范，请通过电子邮件（页脚的邮件图标）联系我，我会将你添加到实现该规范的工具列表中。谢谢。\n\n我希望我们所有人都不必再通过读取屏幕或进程树来猜测程序在做什么。程序本身就知道自己在做什么，让我们给它一个告诉我们的途径吧！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 28,
+        "keyTakeaways": [
+          "作者编写了名为 OSC 7501（Program Status Protocol）的新终端转义序列规范，允许程序向终端汇报自身状态（如 idle、working、waiting on the user、finished、failed 及其原因）。",
+          "OSC 7501 是原生终端规范，源自作者在 Superlogical 和 Ghostty 上的工作，但不包含特定产品的专用功能或语言。",
+          "来源叙事重点：提出并倡导原生终端转义序列规范 OSC 7501（程序状态协议），阐明其如何替代脆弱的屏幕启发式嗅探和复杂的进程外 API，从而低成本解决终端程序及 AI 编程代理的状态通知与集中管理问题。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T21:12:46.000Z",
+            "url": "https://mitchellh.com/writing/program-status-osc7501"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-emenchug-2122787573-html-8535295be63feb59",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Кременчуге прогремели взрывы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T00:44:51.000Z",
+        "pubTime": "2026-10-07 08:44",
+        "url": "https://ria.ru/20261007/kremenchug-2122787573.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 08:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/kremenchug-2122787573.html",
+            "publishedAt": "2026-10-07T00:44:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-enai-math-release-github-0e401bad0dd434d6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI drops another batch of mathematical breakthroughs",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:26:38.000Z",
+        "pubTime": "2026-10-07 07:26",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSolutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Robert Hart\n\nOpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to “hundreds” of open questions.\n\nThe results have been expected for weeks, although until now OpenAI had not provided details about which problems the model had solved or exactly when they would be published. In September, the company said its model had “resolved more than 100 long-standing open problems across most areas of mathematics.” The released papers and other details also include some summaries of the model’s reasoning, estimates of the compute used, and stats about the number of problems attempted. OpenAI claims the “average result” used the equivalent of three hours of ChatGPT Pro thinking.\n\nAGMAI, or the Advisory Group on Mathematics and Artificial Intelligence, published its first recommendations in late September, urging AI labs to release mathematical results promptly and through established academic channels where possible, while disclosing details such as the name of the model used, prompts, and compute costs. The group also implored AI companies to “refrain from treating the release of mathematical results as marketing vehicles to promote their models,” a practice they said inflicts significant harm on the mathematical community.\n\nHere’s how OpenAI described its process for this release:\n\nFor this release, we’re publishing the results in a GitHub repository, with protocols for paper revisions and citations. We’re continuing to explore other community-hosted alternatives for this release which meet the committee’s guidelines. For future releases, we are committed to further improving the quality of the papers via the citations, mathematical exposition, and presentation of the results for better understanding\n\nThe full impact of the results will likely take some time to be felt as mathematicians assess and digest them. They add to a rapidly growing body of mathematical results from OpenAI and rival labs like Anthropic that the field is still processing, including results concerning a Millennium Prize problem, among the most famous open questions in the field. The speed at which AI labs have barreled into the discipline this year — particularly their handling of announcements — has provoked fierce debate over research practices, ethics, and how companies credit the human mathematicians whose work their systems build upon and potentially use to produce results.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "OpenAI 在包含 722 篇手稿的批次中公布了由其未发布的未公开前沿模型生成的多个长期数学难题的解答，涵盖 372 个相关论文成果族。",
+          "独立顾问团体 AGMAI 表示，该批发布包含对“数百个”未决问题的解决方案。",
+          "来源叙事重点：聚焦 OpenAI 批量发布数学难题手稿的进展，强调其研究体量与技术能力，同时突出数学学术界（如 AGMAI）在伦理、发布渠道、归属与营销行为上的审视与批评。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:26:38.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+          }
+        ]
+      },
+      {
+        "id": "story-oil-is-hard-to-kill-html-73a38368906625b8",
+        "title": "为什么100美元的油价难以被打压",
+        "originalTitle": "Why $100 Oil Is Hard to Kill",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T00:00:00.000Z",
+        "pubTime": "2026-10-07 08:00",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+        "imageUrl": null,
+        "fullContent": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and even exceeded, pre-war levels. But if so much crude is leaving the Middle East again, why do Brent prices continue to hover around the $100 a barrel mark, up from $60 before the war The Perfect Storm Because crude oil flows returning to pre-war levels does not mean that the market has returned to normal. Far from it. The price of getting the oil out of the Middle East is astronomically high, with freight rates at record highs. War risk premiums have jumped as tankers continue to be attacked in the Strait of Hormuz. Gulf producers have found workarounds to crude flows with alternative routes, which are less efficient, cost buyers more, and take additional weeks to bring crude supply to refiners. Refiners, for their part, are scrambling to keep processing rates high to seize the record-high refining margins and produce more diesel, which remains the most stressed barrel of oil. Fuel exports from the Middle East are still limited, Russia's are non-existent because of Moscow's ban on diesel shipments, and China is once again protecting domestic supply and curbing fuel flows overseas. In addition, global inventories have crashed this year as the immediate relief to peak Strait of Hormuz disruptions in April and May was to draw down from crude and fuel stocks. Inventories, therefore, are so thin that they may not be able to offset another escalation in the U.S.-Iran war. These are only the operational issues the global markets face ahead of the winter diesel peak demand season. The geopolitical situation is the biggest unknown for oil prices going forward, and it doesn't look like the war is ending soon. Instead, the market fears fresh escalations either before or after the U.S. midterm elections in early November, which could threaten the recovery of oil flows from the Strait of Hormuz. Related Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk With markets depleted of sizeable cushions to absorb new shocks, crude oil prices continue to price in an elevated war risk premium, keeping Brent above $100 per barrel since early September. \"A sustained move lower in Brent requires broader normalisation improving crude supply, recovering product exports and reduced political and financial risks to shipping,\" Ole Hansen, Head of Commodity Strategy at Saxo Bank, said last week, commenting on the prospect of stocks release. The G7 group on Friday announced the release of 100 million of crude oil and diesel stocks. After an initial knee-jerk reaction lower, Brent remains at above $100 per barrel in Asian trade on Tuesday. The effect of the release announcement on oil prices seems to have faded, also because the market is not really certain how many of the 100 million barrels would be really \"new\", or if they are the remainder of the IEA's pledge to release 425 million barrels months ago, part of which were never actually released, Bjarne Schieldrop, chief analyst commodities at SEB Bank, said on Monday. The analyst also noted that while the Brent front-month futures price is about $100 per barrel, the price of North Sea's Oseberg and Fortis crudes is actually about $140 a barrel. The Upside Risks Key unknowns are keeping the front-month Brent futures at $100, according to SEB. \"Will Iran initiate fresh attacks before the US midterm elections Will the US attack Iran after the elections Will the US be able to keep the SoH close to open at 17.5 mb/d Will the Houthis re-attack the Saudi east-west pipeline and ships trying to traverse the Bab-el Mandeb Strait as the Saudi-backed Yemen government tries to retake areas along the Red Sea recently taken by the Houthis,\" Schieldrop says, also asking, \"How far will this have to go before China finally decides to step in as a peacemaker in ME negotiations\" Despite claims of return to pre-war levels of Middle East crude oil exports, the risk to oil prices is currently tilted to the upside amid the potential of escalation, record-high freight and war premium tanker rates, very low global inventory, and the diesel crisis compounded by the lack of exports from the Middle East and Russia. \"The market is pricing not only how much crude is being loaded, but also whether these barrels can be delivered safely, reliably, and at low cost,\" Xuyi Zhao, senior oil analyst at Guotai Junan Futures, told Bloomberg. The higher cost of getting crude to refiners and low inventories unable to offset another near-term disruption set the stage for a new price spike if another crude supply route in the Middle East is attacked, as was the case with Saudi Arabia's East-West pipeline to the Red Sea last month. Saudi Aramco's CEO Amin Nasser said earlier this week, \"With precious little else the world can turn to, the supply resilience cushion is scarily thin.\" \"Emergency reserves might buy us a winter. They cannot fix long-term supply,\" Nasser said at the 2026 Energy Intelligence Forum in London on Monday. \"Until Hormuz fully re-opens and confidence returns, the crude reality is that pressure at both ends of the barrel will intensify.\" By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "过去一个月的大部分时间里，布伦特原油价格一直维持在每桶100美元以上，尽管油轮追踪机构和投资银行近几周发布了大量报告和数据，表明霍尔木兹海峡的原油流量已经恢复，甚至超过了战前水平。但如果有这么多原油再次运出中东，为什么布伦特油价仍旧徘徊在每桶100美元关口附近，远高于战前的60美元？\n\n完美风暴\n\n因为原油流动恢复到战前水平并不意味着市场已恢复正常。远非如此。将石油运出中东的代价极其高昂，运费创下历史新高。随着油轮在霍尔木兹海峡继续遭到袭击，战争风险溢价大幅飙升。海湾产油国已找到替代路线来绕开受阻的原油流动通道，但这些路线效率较低、买家成本更高，并且需要额外的数周时间才能将原油运送至炼油厂。\n\n炼油厂方面则在争分夺秒地维持高负荷加工率，以把握创纪录的炼油利润，并生产更多的柴油——柴油仍然是整个石油链条中最为紧张的产品。来自中东的成品油出口依然受限，由于莫斯科对柴油出口下达了禁令，俄罗斯的出口量基本为零，而中国则再次保护国内供应并限制燃油流向海外。\n\n此外，全球库存今年大幅缩水，因为在4月和5月霍尔木兹海峡供应中断最严重时，最直接的缓解办法就是动用原油和燃料库存。因此，库存水平极其脆弱，可能无法抵御美伊战争的另一次升级。在冬季柴油需求高峰季节到来之前，这些还仅仅是全球市场面临的运营问题。\n\n地缘政治局势是未来油价面临的最大未知数，而且看起来这场战争不会很快结束。相反，市场担忧在11月初美国中期选举前后出现新的升级，这可能会危及霍尔木兹海峡原油流动的恢复。\n\n相关报道：海湾风暴威胁可能导致每日300万桶炼油产能面临风险\n\n由于市场缺乏吸收新冲击的大规模缓冲垫，原油价格继续计入高额战争风险溢价，使布伦特原油自9月初以来一直保持在每桶100美元以上。\n\n盛宝银行（Saxo Bank）大宗商品策略主管奥勒·汉森（Ole Hansen）上周在评论抛储前景时表示：“布伦特油价的持续走低需要更广泛的正常化——原油供应改善、成品油出口恢复，以及航运政治和财务风险的降低。”\n\n七国集团（G7）周五宣布释放1亿桶原油和柴油储备。在经历了最初的下意识走低反应后，周二亚洲交易时段布伦特原油仍保持在每桶100美元以上。\n\n抛储声明对油价的影响似乎已经消退，部分原因也是因为市场并不真正确定这1亿桶中有多少会是真正的“新增”量，或者它们是否只是国际能源署（IEA）数月前承诺释放的4.25亿桶储备中尚未实际释放的剩余部分，北欧斯安银行（SEB Bank）首席大宗商品分析师比亚内·席尔德罗普（Bjarne Schieldrop）周一表示。该分析师还指出，虽然布伦特近月期货价格约为每桶100美元，但北海的奥斯伯格（Oseberg）和福蒂斯（Forties）原油价格实际上在每桶140美元左右。\n\n上行风险\n\n据SEB称，关键的未知因素正在让布伦特近月期货维持在100美元水平。“伊朗是否会在美国中期选举前发起新的袭击？美国是否会在选举后袭击伊朗？随着沙特支持的也门政府试图夺回近期被胡塞武装占领的红海沿岸地区，胡塞武装是否会再次袭击沙特的东西管道以及试图穿越曼德海峡的船只？”席尔德罗普说道，他同时问道：“在最终促使中国作为和平协调者介入中东谈判之前，事态还要发展到什么程度？”\n\n尽管有人声称中东原油出口已恢复至战前水平，但在局势升级的潜在可能、创纪录的运费与油轮战争溢价、极低的全球库存，以及中东和俄罗斯出口匮乏所加剧的柴油危机的共同作用下，目前油价风险依然偏向上行。\n\n国泰君安期货高级原油分析师赵旭一（音译，Xuyi Zhao）对彭博社表示：“市场不仅在权衡装船了多少原油，还在权衡这些石油能否安全、可靠、低成本地交付。”\n\n将原油运送至炼油厂的更高成本，加上无法抵御短期内再次供应中断的低库存，如果中东另一条原油供应路线再次遭到袭击（正如上个月沙特通往红海的东西管道遭遇的情况那样），将为新一轮价格飙升埋下伏笔。\n\n沙特阿美（Saudi Aramco）首席执行官阿明·纳赛尔（Amin Nasser）本周早些时候表示：“在世界上几乎没有其他替代方案可用的情况下，供应韧性缓冲垫已经薄得吓人。”\n\n“紧急储备或许能为我们赢得一个冬天的喘息。但它们无法解决长期供应问题，”纳赛尔周一在伦敦举行的2026年能源情报论坛（Energy Intelligence Forum）上表示，“在霍尔木兹海峡完全重新开放且信心恢复之前，残酷的现实是整个石油链条两端的压力都将进一步加剧。”\n\n作者：Tsvetana Paraskova，为Oilprice.com撰稿",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "布伦特原油价格在过去一个月的大部分时间里维持在每桶100美元以上，自9月初以来一直保持在100美元以上，战前价格约为每桶60美元。",
+          "七国集团（G7）周五宣布释放1亿桶原油和柴油储备。",
+          "来源叙事重点：解构为何在中东原油出口流量名义恢复的情况下油价仍顽固高于100美元/桶，核心强调物流成本剧增、战争溢价、全球柴油与库存危机以及地缘冲突升级风险削弱了政府干预（如G7抛储）的效果。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html"
+          }
+        ]
+      },
+      {
+        "id": "story-eath-darya-shipilova-who-d75baa2309ec6f19",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:14:32.000Z",
+        "pubTime": "2026-10-07 07:14",
+        "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+        "imageUrl": "https://i.guim.co.uk/img/media/462785441d219322c6970ad4fcf8cbeb444cc616/116_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=d66d00a56c19b54cb9abdd72524fddde",
+        "fullContent": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last week\n\nThe World Health Organization has said the risk of an epidemic in Russia is low after the sudden death of a lab technician who worked at a plague research institute in Siberia.\n\nDarya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she may have become infected after an accident at her workplace , where dangerous pathogens are kept and studied.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "世界卫生组织表示，在西伯利亚一家鼠疫研究所工作的实验室技术人员去世后，俄罗斯发生疫情的风险较低。",
+          "自达莉娅·希皮洛娃（Darya Shipilova）上周去世以来，世界卫生组织未发现进一步暴发的迹象。",
+          "来源叙事重点：聚焦西伯利亚病原体研究机构技术人员猝死事件及世界卫生组织关于疫情扩散风险较低的评估，兼顾实验室事故潜在可能性的讨论"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:14:32.000Z",
+            "url": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who"
+          }
+        ]
+      },
+      {
+        "id": "story-tomated-observatory-html-efb0c3ec15a0ab2a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Computer scientist tracks satellites with automated observatory built from off-the-shelf technology",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T00:20:01.000Z",
+        "pubTime": "2026-10-07 08:20",
+        "url": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/keeping-an-eye-on-the.jpg",
+        "fullContent": "Allen Schnibben's interest in space started when he was a child. \"I picked up some books about the solar system when I was in elementary school. In middle school, I got a telescope and I started observing the night sky as a hobby,\" said Schnibben, a computer scientist at Sandia National Laboratories. \"My entire life, I've had an interest in space.\" Now, Schnibben collects data on satellites at Sandia's SOHBRIT facility, a 12-foot-wide (3.7-meter-wide) observatory.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 08:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html",
+            "publishedAt": "2026-10-07T00:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eroporty-2122787428-html-a5957d2c4a6efa8f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропортах Бугульмы и Нижнекамска ввели временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T00:43:44.000Z",
+        "pubTime": "2026-10-07 08:43",
+        "url": "https://ria.ru/20261007/aeroporty-2122787428.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/04/1b/2013692743_0:166:3053:1883_650x0_80_0_0_2a04908204d41244cc4778538b28e1ee.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 08:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/aeroporty-2122787428.html",
+            "publishedAt": "2026-10-07T00:43:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-you-have-flat-buttocks-bab40b499814a2c6",
+        "title": "如何查看亚马逊是否认为你“臀部扁平”",
+        "originalTitle": "How to find out if Amazon thinks you have ‘flat buttocks’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:55:39.000Z",
+        "pubTime": "2026-10-07 06:55",
+        "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "imageUrl": null,
+        "fullContent": "It shouldn’t come as a surprise that Amazon collects data about you based on what you buy. If you buy a lot of cat litter, Amazon will probably infer that you have cats, or if you buy a lot of anti-acne skin products, then Amazon might guess you’re prone to breakouts. Even if we know that Amazon customizes our shopping experiences based on our purchase history, it still comes as a surprise to see all of these personal details laid out in a convenient list. Especially when those details get uncomfortably intimate.\n\nOne Threads user came across this section of her Amazon settings where you can see who the shopping giant thinks you are, and alongside more benign assumptions like “Shops from women’s departments” and “Probably owns a Shark robot vacuum,” she found that Amazon assumes she “has flat buttocks.”\n\n“I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,” an Amazon customer, @fangirlinmegan, wrote on Threads. “I mean it ain’t wrong but damn did you have to call me out like that?”\n\nIn less than a day, the post garnered over a million views, including many from users who were curious what their own Amazon profiles might reveal. Here’s how you find out.\n\nOn desktop, you can find this page by hovering over where Amazon says “Hello, [your name]” in the upper right corner. Then click “Account” under the “Your Account” section. Under the “Ordering and shopping preferences” section, click “Your Shopping preferences.” From here, you can add in information of your own, like your shoe size, interests, and dietary preferences. But we’re not here to tell Amazon that it should stop selling you beef jerky since you’re a vegetarian. We’re here to see if Amazon thinks you have “flat buttocks.” When you scroll to the bottom of the page, you’ll see a blue hyperlinked option that says “Manage your information.” Once you click that, you’ll see what dirt Amazon has on you.\n\nFor me, Amazon has gleaned that I am someone who “practices photography,” “plays collectible card games,” and is “invested in the Apple ecosystem.” This is all true. Amazon has even flattered me by noting that I “read diverse non-fiction,” to which I say — why yes, I am indeed an open-minded intellectual with a thirst for knowledge. Thank you for noticing.\n\nOther colleagues of mine found that Amazon correctly noted their interests in vinyl records and ceramics, as well as a penchant for “natural materials” in home decor and clothing that “prioritizes comfort.” None of us had anything as affronting as “has flat buttocks,” but the Threads user noted that this was likely because she had purchased “butt scrunch leggings.”\n\nTech companies know too much about us, and it’s jarring to realize just how closely they’re paying attention to how we use their platforms. We live in a world of alarming surveillance, but at least I know that Amazon doesn’t think my butt is flat.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "亚马逊根据你购买的商品收集关于你的数据，这本不应令人感到意外。如果你买了很多猫砂，亚马逊大概会推断你养猫；或者如果你买了大量抗痘护肤品，亚马逊可能会猜测你容易长痘。即使我们知道亚马逊会根据购物历史定制我们的购物体验，但看到所有这些个人细节被清晰罗列在一份现成的清单上时，依然会让人吃惊——特别是当那些细节变得让人感到尴尬与过于私密时。\n\n一位Threads用户在亚马逊设置中偶然发现了这一区域，用户可以在这里查看这家电商巨头眼中的自己是怎样的画像。除了“常在女装区购物”和“可能拥有Shark扫地机器人”等较为温和的推断之外，她还发现亚马逊推测她“臀部扁平”。\n\n“我无意中翻到了一个页面，上面全是亚马逊根据我的购买记录对我做出的假设，我简直彻底无语了，”亚马逊顾客@fangirlinmegan在Threads上写道。“我的意思是，它说得也没错，但天哪，真的有必要这样直接戳穿我吗？”\n\n不到一天时间，这条帖子的浏览量就突破了100万次，许多用户也开始好奇自己的亚马逊个人画像可能会揭示出什么。以下是查看方法：\n\n在电脑端，你可以把鼠标悬停在页面右上角亚马逊显示的“您好，[您的名字]”处来找到该页面。然后点击“您的账户”（Your Account）下方的“账户”（Account）。在“订购和购物偏好”（Ordering and shopping preferences）部分下，点击“您的购物偏好”（Your Shopping preferences）。在此处，你可以添加自己的信息，比如鞋码、兴趣爱好和饮食偏好。不过，我们来这里并不是为了告诉亚马逊由于你是素食主义者就该停止向你推销牛肉干，而是为了看看亚马逊是否认为你“臀部扁平”。当你滚动到页面底部时，会看到一个名为“管理您的信息”（Manage your information）的蓝色超链接选项。点击进去后，你就能看到亚马逊掌握了你哪些“底细”。\n\n就我而言，亚马逊搜集整理出的信息是：我是一个“热爱摄影”、“玩集换式卡牌游戏”且“重度投入苹果生态系统”的人。这些全都是事实。亚马逊甚至还奉承了我一番，指出我“阅读各种各样的非虚构类作品”，对此我想说——没错，我确实是一个求知欲强、思想开明的知识分子。感谢你们注意到了这一点。\n\n我的其他同事发现，亚马逊准确指出了他们对黑胶唱片和陶瓷的兴趣，以及在家居装饰中偏爱“天然材质”、在服装上“注重舒适度”。我们当中没有任何人被贴上像“臀部扁平”这样冒犯的标签，但那位Threads用户指出，这很可能是因为她曾购买过“提臀皱褶紧身裤”（butt scrunch leggings）。\n\n科技公司对我们了解得太多了，而意识到它们竟然如此密切地监视着我们使用其平台的方式，确实令人感到不安。我们生活在一个监控无处不在的世界里，令人警惕，但至少我知道亚马逊并不认为我的屁股是平的。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。\n\n阿曼达·西尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，报道技术与文化的交叉领域。她还曾为Polygon、MTV、《凯尼恩评论》（Kenyon Review）、NPR和《商业内幕》（Business Insider）等刊物撰稿。她是探讨互联网文化的播客《Wow If True》的联合主持人（与科幻作家Isabel J. Kim搭档）。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语学士学位，并曾作为普林斯顿亚洲学者在老挝工作。\n\n您可以通过发送电子邮件至 amanda@techcrunch.com，或在Signal上通过加密信息 @amanda.100 与阿曼达联系或核实接触情况。\n\n第二张门票立享五折。Disrupt的体验适合与人共享。获取您的门票，携同事、合伙人或同行一同前往，立享50%优惠。通过建立联系、拓展势头并发现创业生态圈的下一个前沿，涉足更广阔的领域。\n\n19岁创始人为个人AI电脑研发商Ghost筹集1100万美元，该设备售价3499美元\n联邦法官称Flock属于“无差别大规模监控”\n亚马逊回应数据中心争议，称不再使用保密协议（NDA）\nOpenAI安全部门员工辞职，指责公司“文化已然崩坏”\nMeta希望你的下一款智能设备融入Muse\n谷歌认为SpaceX的星舰必须发射1800次，太空数据中心才能真正启动\n世界上首座增强型地热发电厂仅用时23个月便竣工",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "Threads用户@fangirlinmegan发帖称亚马逊根据其购买记录推测其“臀部扁平（has flat buttocks）”，该贴在不到一天内获得了超过100万次浏览量",
+          "亚马逊桌面端用户可通过“Your Account”中的“Your Shopping preferences”，并点击底部的“Manage your information”来查看亚马逊根据购买行为对其生成的推测画像标签",
+          "来源叙事重点：通过社交网络（Threads）病毒式传播的热门个案，以轻松幽默的“操作指南（How-to）”形式切入，探讨亚马逊等科技巨头利用用户购买历史构建极度私密甚至令人尴尬的推测性用户画像，批评无处不在的商业监控行为。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:55:39.000Z",
+            "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/"
+          }
+        ]
+      },
+      {
+        "id": "story--of-hormuz-standoff-html-f42acb28a2c1521c",
+        "title": "5只从霍尔木兹海峡对峙中获利的天然气股票",
+        "originalTitle": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T23:00:00.000Z",
+        "pubTime": "2026-10-07 07:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nUS Crude Inventories Slide\n\nGlobal gas markets could remain…\n\nTrump and Xi are expected…\n\nThe EU is considering delaying…\n\nWhat I Cover My focus spans the global energy landscape and the technologies reshaping it, specifically focusing on oil and gas, renewables, and tech-driven market…\n\nWhen Iran struck Qatar's Ras Laffan complex in March and knocked out 17% of the country's LNG export capacity, the trade seemed pretty straightforward. Buy the American exporters, sit back and wait for Europe and Asia to come knocking for cargoes that didn't need to sail through the Strait of Hormuz. Cheniere did exactly what everyone expected it to do, shipping more LNG than it did a year ago and raising its 2026 guidance for the second quarter in a row.\n\nNearly seven months into the war, the strait is still a mess. QatarEnergy just extended force majeure on its LNG deliveries through the end of November, flows through Hormuz are still down more than 75% from prewar levels, and on Tuesday an LNG carrier owned by Greek shipping magnate Maria Angelicoussis became the latest vessel hit near the strait. Gas prices in Europe and Asia climbed to their highest levels since the 2022-2023 energy crisis in September, while back home, Henry Hub has been stuck around $3.\n\nAs the crisis has dragged on, though, a handful of less obvious companies have started making just as strong a case for themselves, from an IPO most of Wall Street had written off to an oil producer that, at one point this year, was effectively paying buyers to take its gas.\n\nVenture Global Inc. (NYSE: VG) had about as rough a first year on the public markets as an energy company can have. The Louisiana exporter priced its IPO at $25 a share in January 2025, and by the end of the year the stock was changing hands in the single digits. Investors hated the business model, which leaned on selling LNG into the spot market while long-term customers, including Shell and BP, waited on their contracted cargoes and eventually took the company to arbitration over it.\n\nAs it turns out, a company built to sell into the spot market is exactly what you'd want to own when the spot market goes haywire. Venture Global's net income jumped 266% to $1.3 billion in the second quarter on $4.6 billion in revenue, and management bumped full-year adjusted EBITDA guidance up to between $8.7 billion and $9.1 billion. Baked into that forecast is an assumption that it'll earn somewhere between $12.50 and $13.50 per MMBtu in liquefaction fees on its remaining unsold cargoes, on gas that costs about a quarter of that to buy in the U.S.\n\nThe long-term buyers are coming around, too. On Oct. 1, ConocoPhillips signed a 20-year deal to take 1 million tonnes a year from Venture Global starting in 2030, and CEO Mike Sabel said it reflected confidence in the company's ability to deliver LNG \"quickly and at scale.\" ConocoPhillips also owns a 30% stake in QatarEnergy's Ras Laffan LNG project, so this is a bit like a landlord quietly putting down a deposit on an apartment across town.\n\nNone of that has made the stock easy to own. Shares rose more than 50% in the first few weeks of the war, fell 5% on the day the company posted the best quarter in its history and have bounced around in the low-to-mid teens since. That's still about half of what IPO buyers paid, and with so much of the upside riding on spot prices, I'd expect a good chunk of those gains to disappear if ships ever start moving freely through Hormuz again.\n\nIn the second quarter, APA Corp. (Nasdaq: APA) realized an average of negative $2.20 per Mcf for the natural gas it produced in the U.S., which means that on paper, the company was paying to get rid of it. Prices at the Waha hub in West Texas have spent much of the year underwater as Permian pipelines max out, and APA ended up curtailing about 137 MMcf per day of production in response.\n\nAnd yet APA might be one of the better LNG plays in the U.S. market, mostly thanks to a deal that predates the war by years. The company sells 140,000 MMBtu per day to Cheniere at prices pegged to international LNG benchmarks under a contract that started in 2023 and runs through 2037, and between that and a firm transportation business that buys gas in the Permian and resells it on the Gulf Coast, APA expects to clear about $950 million in pretax cash flow from gas trading this year. Barclays analyst Betty Jiang told CNBC in May that APA has \"the greatest exposure to LNG prices in our coverage,\" and it showed up in the second-quarter results: adjusted earnings of $1.89 per share, $738 million in free cash flow and $2.3 billion in debt paid down since the end of 2024. The stock had climbed 89% over the 52 weeks leading into that report, though APA is still an oil company at heart, and when crude sells off on ceasefire chatter, it goes right along with it.\n\nGolar LNG Ltd. (Nasdaq: GLNG) spent eight years parking a converted floating liquefaction vessel off the coast of Cameroon, and according to Wood Mackenzie, that one unit, the Hilli, earned back its roughly $1.3 billion conversion cost and generated around $2.1 billion in tolling EBITDA along the way. Golar is also the only company offering floating LNG on a lease-and-operate basis, so if you're a country sitting on gas with no export terminal and no appetite for building one onshore, Golar is pretty much the only number to call.\n\nThat's the logic behind the fourth unit Golar ordered in August, a $2.45 billion, 3.5 MTPA vessel from China's CIMC Raffles that should be ready around the end of 2029. Golar hasn't found a customer for it yet. The company is betting that after watching a fifth of the world's LNG supply get trapped behind Hormuz, somebody is going to want floating capacity in a hurry, and it's pitching this vessel as the earliest available anywhere.\n\nCommodity-linked fees have already been paying off, as Hilli's contract is partly tied to Brent and Dutch TTF prices, and that piece brought in $37 million in the second quarter, more than triple the first quarter's take. The timing could have been better, though. Hilli's Cameroon contract wrapped up in July, and the vessel is headed for a $350 million refurbishment before starting a 20-year charter in Argentina in the second half of 2027, so the unit that had been cashing in on high prices is sitting in a shipyard during the best LNG market in years. Shares jumped 7.7% after the fourth unit was announced and now trade at nearly 40 times earnings, which feels a little rich given all that. Then again, Goldman Sachs has been running a strategic review for Golar since March, and a buyout would change the math pretty quickly.\n\nWhen Germany's Uniper signed a 15-year gas supply deal with Equinor ASA (NYSE: EQNR) in Stavanger in late August, CEO Michael Lewis told Reuters, \"For us it's really important that we rebuild our portfolio.\" Uniper is the same utility Berlin had to rescue in 2022 after Russian gas stopped flowing, and now it's locking in about 2.8 billion cubic meters a year of Norwegian gas through 2041.\n\nEurope needs every molecule it can get right now, with EU storage sitting around 67% in mid-September, and Equinor CEO Anders Opedal said in July that the continent won't necessarily hit 80% before winter. Norwegian gas moves by pipeline and doesn't have to sail past anyone's drones, and Equinor's second-quarter results show what that's worth. The company realized $15.79 per MMBtu for piped gas in Europe, while its U.S. gas fetched just $1.96.\n\nTrading has been the other windfall. CFO Torgrim Reitan said the trading result was almost twice what Equinor books in a normal quarter, and the company doubled its 2026 buyback to $3 billion. Those buybacks also give you a decent read on the stock, since Equinor has to disclose what it pays. It averaged about NOK 314 a share around the start of July and roughly NOK 419 by mid-September.\n\nThird-quarter numbers are due Oct. 28. Of the five companies here, Equinor is probably the closest thing to a pure Hormuz-fear trade, and if the strait genuinely reopens, I wouldn't expect that European premium to stick around for long.\n\nWith everyone focused on LNG, it's easy to forget that the Persian Gulf also ships out an enormous amount of propane and butane, and that's been stuck behind Hormuz, too. Antero Resources Corp. (NYSE: AR) produces a lot of both out of Appalachia, and China has been buying.\n\nOn Antero's second-quarter call, management pointed out that the U.S. share of China's LPG imports climbed to 51% in the second quarter, up from just 10% in June 2025, back when tariffs had pushed Chinese buyers elsewhere. U.S. propane exports hit a weekly record of 2.63 million barrels per day in May, and the company said propane and butane are now \"fiercely competing for terminal space\" on the Gulf Coast. Antero got $44.26 per barrel for its C3+ NGLs, its best price since 2022.\n\nWhat I find most interesting is how little of this has to do with natural gas prices. Antero's gas sales revenue was basically flat year over year at around $688 million, but NGL revenue jumped 22%, and adjusted EBITDAX climbed 57% even with Henry Hub down 16%. The stock, meanwhile, has spent most of the fall in the mid-to-high $30s, nowhere near its 52-week high of $45.75. A slight earnings miss didn't help, and freight rates for gas carriers have been eating into export margins, but if Gulf LPG stays bottled up through winter, Antero might be the most overlooked name on this list.\n\nBy Michael Kern for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nEurope Weighs Methane Rule Delay as Energy Supply Risks Mount\n\nIran’s Disappearing Oil Is Becoming Everyone’s Problem\n\nIran Is Losing Some of Its Leverage Over the Strait of Hormuz\n\nMiddle East Oil Exports Stage a Remarkable Comeback\n\nU.S. Oil Drilling Inches Up As Prices Fall\n\nIranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "点击此处查看150多个全球油价\n\n美国原油库存下降\n\n全球天然气市场可能仍将……\n\n特朗普和习近平预计将……\n\n欧盟正考虑推迟……\n\n我的报道领域：我的关注范围涵盖全球能源格局以及正在重塑这一格局的技术，具体聚焦于石油和天然气、可再生能源以及由技术驱动的市场……\n\n今年3月，伊朗袭击了卡塔尔的拉斯拉凡综合设施，导致该国17%的液化天然气出口能力停摆。当时，交易逻辑似乎相当直接：买入美国出口商的股票，然后坐等欧洲和亚洲前来购买不必经过霍尔木兹海峡运输的货物。Cheniere确实按照所有人的预期采取了行动，其液化天然气装运量高于去年同期，并连续第二个季度上调了2026年业绩指引。\n\n战争爆发近7个月后，这条海峡依然一团糟。卡塔尔能源公司刚刚将液化天然气交付的不可抗力期限延长至11月底；经由霍尔木兹海峡的流量仍较战前水平下降逾75%；而在周二，希腊航运大亨玛丽亚·安杰利库西斯旗下的一艘液化天然气运输船成为海峡附近最新一艘遭袭船只。9月，欧洲和亚洲的天然气价格升至2022至2023年能源危机以来的最高水平；而在美国国内，亨利枢纽天然气价格一直徘徊在每百万英热单位约3美元的水平。\n\n不过，随着危机持续，一些不那么显眼的公司开始展现出同样强劲的投资理由：其中既有一家曾被华尔街大多数人放弃的首次公开募股公司，也有一家石油生产商——今年某个阶段，这家公司实际上是在付钱让买家接手其天然气。\n\nVenture Global Inc.（纽约证券交易所代码：VG）上市后的第一年，经历了能源公司所能遭遇的最艰难局面之一。这家路易斯安那州出口商于2025年1月将首次公开募股价格定为每股25美元，但到年底，其股价已跌至个位数。投资者对其商业模式深恶痛绝：该模式主要依赖将液化天然气出售到现货市场，而包括壳牌和英国石油在内的长期客户却在等待其合同项下的货物，并最终就此将该公司告上仲裁庭。\n\n事实证明，当现货市场陷入疯狂时，一家为现货市场销售而建立的公司恰恰是最值得持有的标的。Venture Global第二季度净利润增长266%，达到13亿美元，营收为46亿美元；管理层还将全年调整后息税折旧摊销前利润（EBITDA）指引上调至87亿至91亿美元。该预测包含一个假设，即公司将从剩余未售货物中获得每百万英热单位12.50至13.50美元的液化费，而用于生产这些货物的美国天然气采购成本约为上述费用的四分之一。\n\n长期买家也开始回心转意。10月1日，康菲石油公司签署了一项为期20年的协议，自2030年起每年从Venture Global购买100万吨液化天然气。首席执行官迈克·萨贝尔表示，这反映了外界对公司“快速并大规模”交付液化天然气能力的信心。康菲石油还持有卡塔尔能源公司拉斯拉凡液化天然气项目30%的股份，因此，这有点像一位房东悄悄为城另一头的一套公寓支付定金。\n\n但上述情况并没有让该股变得容易持有。战争爆发后的最初几周，股价上涨超过50%；公司公布历史最佳季度业绩当天，股价反而下跌5%；此后股价一直在十几美元的低位至中位区间内波动。这仍约为首次公开募股买家支付价格的一半。而且，鉴于其大部分上涨空间都取决于现货价格，如果船只最终能够再次自由通过霍尔木兹海峡航行，我预计这些涨幅中相当一部分将会消失。\n\n第二季度，APA Corp.（纳斯达克代码：APA）在美国生产的天然气实现的平均价格为每千立方英尺负2.20美元，这意味着从账面上看，公司是在付钱处理这些天然气。随着二叠纪盆地管道达到满负荷，得克萨斯州西部瓦哈枢纽的价格在今年大部分时间里一直处于负值区域，APA最终因此削减了日产约1.37亿立方英尺的产量。\n\n然而，APA可能是美国市场上较好的液化天然气投资标的之一，这主要得益于一项早在战争爆发数年前就达成的协议。根据一份始于2023年、持续至2037年的合同，该公司每天向Cheniere出售14万百万英热单位的天然气，价格与国际液化天然气基准挂钩。此外，APA还经营一项稳定运输业务，在二叠纪盆地购买天然气，再将其转售到美国墨西哥湾沿岸。该公司预计今年将从天然气交易中获得约9.5亿美元税前现金流。巴克莱分析师贝蒂·江5月告诉CNBC，APA“在我们覆盖的公司中对液化天然气价格的敞口最大”。这一点也体现在第二季度业绩中：调整后每股收益为1.89美元，自由现金流为7.38亿美元，自2024年底以来已偿还债务23亿美元。在公布该业绩前的52周内，该股已上涨89%。不过，APA本质上仍是一家石油公司；当原油价格因停火传闻而下跌时，它也会随之下跌。\n\nGolar LNG Ltd.（纳斯达克代码：GLNG）花了8年时间，将一艘改装后的浮式液化天然气船停泊在喀麦隆海岸附近。据伍德麦肯兹称，仅这艘名为“Hilli”的船，就已经收回约13亿美元的改装成本，并在此过程中创造了约21亿美元的收费型EBITDA。Golar也是唯一一家以租赁和运营模式提供浮式液化天然气服务的公司。因此，如果一个国家拥有天然气资源，却没有出口终端，也不愿在陆上建造终端，那么Golar基本上就是唯一可以联系的对象。\n\n这正是Golar在8月订购第四艘船的逻辑所在。这是一艘由中国CIMC Raffles建造、价值24.5亿美元、年产能350万吨的船，预计将在2029年底前后准备就绪。Golar尚未为其找到客户。该公司押注认为，在目睹全球五分之一的液化天然气供应被困在霍尔木兹海峡另一侧后，总会有人希望迅速获得浮式产能；该公司还将这艘船定位为全球最早可用的同类船舶。\n\n与大宗商品价格挂钩的费用已经开始带来回报，因为“Hilli”的合同部分与布伦特原油和荷兰TTF天然气价格挂钩，这部分业务第二季度带来3700万美元收入，超过第一季度的3倍。不过，时机本可以更好。“Hilli”在喀麦隆的合同于7月结束；在于2027年下半年开始执行一份为期20年的阿根廷租船合同之前，该船将接受价值3.5亿美元的翻修。因此，这艘此前一直从高价中获利的船，正在多年未见的最佳液化天然气市场期间停在船厂。第四艘船宣布后，Golar股价上涨7.7%，目前市盈率接近40倍。鉴于上述情况，这一估值似乎有些偏高。不过，高盛自3月以来一直在对Golar进行战略评估，而一旦发生收购，相关估值逻辑很快就会改变。\n\n8月下旬，德国尤尼珀公司（Uniper）在斯塔万格与挪威国家石油公司（Equinor ASA，纽交所代码：EQNR）签署了一项为期15年的天然气供应协议，首席执行官迈克尔·刘易斯（Michael Lewis）向路透社表示：“对我们而言，重建资产组合确实至关重要。”尤尼珀正是柏林方面在2022年俄罗斯断供天然气后不得不出资救助的公用事业公司，如今该公司锁定了截至2041年、每年约28亿立方米的挪威天然气供应。\n\n欧洲眼下急需每一分子天然气，截至9月中旬欧盟储气库储气率徘徊在67%左右，挪威国家石油公司首席执行官安德斯·奥佩达尔（Anders Opedal）7月曾表示，欧洲大陆在入冬前未必能达到80%的水平。挪威天然气通过管道输送，无需经受任何无人机的威胁，挪威国家石油公司的第二季度业绩充分证明了这一点。该公司欧洲管道气实现售价达到每百万英热单位（MMBtu）15.79美元，而其美国天然气售价仅为1.96美元。\n\n交易业务是另一大意外收益。首席财务官托格里姆·赖坦（Torgrim Reitan）表示，交易业绩几乎是挪威国家石油公司正常季度水平的两倍，该公司还将2026年的股票回购规模翻倍至30亿美元。这些回购也为评估该股提供了不错的参考依据，因为挪威国家石油公司必须披露其回购成本。7月初其平均回购价格约为每股314挪威克朗，到9月中旬已达到约419挪威克朗。\n\n第三季度财报将于10月28日公布。在这五家公司中，挪威国家石油公司可能是最接近纯粹的“霍尔木兹海峡恐慌交易”标的，而一旦该海峡真正重新开放，我认为这种欧洲溢价很难维持太久。\n\n在所有人都将目光投向液化天然气（LNG）之际，人们很容易忽视波斯湾同样外运着大量的丙烷和丁烷，而这些物资同样受阻于霍尔木兹海峡。安特罗资源公司（Antero Resources Corp.，纽交所代码：AR）在阿巴拉契亚地区大量开采这两种产品，中国买家一直在积极采购。\n\n在安特罗第二季度财报电话会议上，管理层指出，第二季度美国在中国液化石油气（LPG）进口中的份额攀升至51%，而2025年6月时仅为10%，当时关税政策曾促使中国买家转向其他市场。5月份美国丙烷出口量创下每周263万桶/日的历史纪录，该公司表示，丙烷和丁烷目前在墨西哥湾沿岸“为争夺码头仓储空间展开激烈竞争”。安特罗的C3+凝析液（NGLs）售价达到每桶44.26美元，创2022年以来的最佳水平。\n\n我认为最值得关注的是，这与天然气价格本身的关系其实微乎其微。安特罗的天然气销售收入同比基本持平，约为6.88亿美元，但凝析液收入激增22%，即使在亨利枢纽基准价下跌16%的情况下，调整后EBITDAX依然攀升了57%。与此同时，该股在秋季的大部分时间里徘徊在30多美元中高位，远低于其45.75美元的52周高点。略微不及预期的收益表现没有带来帮助，气体运输船的高昂运费也一直在蚕食出口利润率，但如果海湾地区的液化石油气供应在整个冬季持续受阻，安特罗可能是这份名单中最被低估的标的。\n\n文 / 迈克尔·科恩（Michael Kern），为 Oilprice.com 撰稿\n\nOilprice.com 更多精选阅读：\n随着能源供应风险加剧，欧洲权衡推迟甲烷新规\n伊朗失踪的石油正演变成所有人的难题\n伊朗正在丧失其对霍尔木兹海峡的部分筹码\n中东石油出口实现显著复苏\n随着油价下跌，美国石油钻探活动小幅回升\n尽管面临美国制裁风险，伊朗石油开始流向塔吉克斯坦\n\n本网站提供的资料仅供参考和教育用途，并非旨在提供税务、法律或投资建议。\n本网站包含的任何内容均不应被视为在任何司法管辖区内向任何人推荐、招揽或要约买卖任何证券。\n法定收款商：以 Oilprice.com 名义运营的 A Media Solutions",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 28,
+        "keyTakeaways": [
+          "来源叙事重点：将霍尔木兹海峡航运和能源供应受阻框架化为天然气、液化天然气及液化石油气企业的投资机会，重点寻找能够因现货价格上涨、替代运输路线、长期合同或出口能力而受益的公司。文章依次分析Venture Global、APA、Golar LNG、Equinor和Antero Resources，并同时提示这些收益可能随着海峡恢复通航而逆转。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sp-janet-for-the-x32-abi-20230842df035510",
+        "title": "Janet 与 x32：32 位指针、64 位速度、少 25% 内存",
+        "originalTitle": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:26:46.000Z",
+        "pubTime": "2026-10-07 06:26",
+        "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+        "imageUrl": null,
+        "fullContent": "It’s possible to save a dramatic amount of memory (close to half for programs with pointer heavy heaps) and also speed up programs by a modest amount (by way of more data fitting in cache) by using 32 bit pointers on 64 bit systems.\n\nThe Linux x32 ABI lets you do just this, but it’s tragically underused and overlooked. It’s disabled by default on Debian (though you can enable it with a boot flag) and not even compiled in on Arch Linux. Most software compiles just fine for x32, but there isn’t much packaging for it so you do have to compile nearly everything yourself.\n\nI experimented with deploying mastodon on x32 and it cut the app’s memory usage from 650mb to 350mb. There’s so much potential here, but the work is mostly of the thankless coordination and communication type and I don’t have the time or motivation to push it forward myself. - Hailey\n\nJanet libraries like Spork supply their own build flags, but we can hijack them with a fake cc which starts the real one with the necessary -m32 -msse2 -mfpmath=sse flags. I modified the beginning of my default Janet build script:\n\nEasy enough! Now let’s try it!\n\ntl;dr: 20% memory reduction, 50% slower\n\nThis is on cachyos (arch, btw) with lib32-glibc lib32-gcc-libs. Adding this to a build script forces libraires like spork to build at 32 bit too!\n\nNote, these use Fish and I don’t want to rebuild my site with other language support:\n\nI added a 0 in the test\n\nFor e.g. declarative-dsls/tests.janet\n\nUnfortunately, Ubuntu also dropped x32 support.\n\nLuckily, lazily, I have access to some deprecated servers (of course not in prod…) and OS installs, wasting hard disk space:\n\nUbuntu 20.04 LTS Focal Fossa has reached its end of standard support on 31 May 2025.\n\nUbuntu, so we have bash again:\n\nJust what we need, although gcc version 9.4.0 is a bit old. We already have build-essential git gcc-multilib libc6-dev-x32. We’re almost ready to test this hunch. But first, we must change src/include/janet.h:\n\nlest Janet choose the 64-bit value layout. Our build script will also pass a build flag to disable Janet’s FFI. Here is our full 32janet.sh:\n\nAnd a `64janet.sh to compare it with:\n\nNow we compare them:\n\nBut declarative-dsls is a worst case scenario, using typed c arrays for big speed ups, which don’t benefit much from this. Lets make some minimal benchmarks to really test the differences:\n\nwords.janet builds a text, splits it into words, counts them and sorts on that:\n\nrecords.janet groups structs by department and summarizes those departments, with unused extra fields like real code:\n\nparse.janet parses lines with a PEG and totals them:\n\ntree.janet builds and walks binary trees, our pointer-heaviest example:\n\nWe see the highest memory savings from tiny objects, averaging about 25% with inconsistent speed ups (8%) or slowdowns (16%). Perhaps other projects are more ammenable to gains than Janet where nanboxing already packs values into 8 bytes and smaller headers see the main benefit. Midway through, I was hoping for performance gains due to more staying in the L1 cache etc. where, in another world with continued x32 support, we could use this as a default for scripts. Faced with the data, the only ~25% decrease in RAM usage is nice, but does not justify a call to action to get more out of our machines in this age of expensive RAM.\n\nIf Janet works with smaller object headers, why not shrink them in the implementation for 64-bit use? By my understanding, Janet heap objects use 16 bytes to help the garbage collector:\n\nReducing these would require a different garbage collection strategy e.g. our own allocator, which would hurt a core Janet use case: embedding in other projects.\n\nEach type then adds:\n\nFor structs and tables in particular, we could regain 8 bytes through rearranging (not needing the later padding). Onlt tuples parsed from code need the source information (for errors); a flag could save normal tuples 8 bytes.\n\nUnfortunately, glibc’s malloc adds 8 bytes and rounds to multiples of 16 so structs would remain the same. But tables and (some) tuples would shrunk more than the above indicates!",
+        "fullTranslation": "在 64 位系统上使用 32 位指针，可以节省大量内存（对于指针密集型堆，节省量接近一半），还可以通过让更多数据装入缓存，使程序获得小幅提速。\n\nLinux 的 x32 ABI 正是为此而生，但它一直被严重低估和忽视。在 Debian 上默认禁用（虽然可以通过启动参数启用），在 Arch Linux 上甚至没有编译进去。大多数软件都能顺利为 x32 编译，但针对它的软件包并不多，因此几乎所有东西都得自己编译。\n\n我尝试在 x32 上部署 Mastodon，应用的内存使用量从 650 MB 降到了 350 MB。这里的潜力非常大，但相关工作主要是吃力不讨好的协调与沟通，而我没有时间或动力亲自推动它发展。——Hailey\n\nSpork 等 Janet 库会提供自己的构建标志，但我们可以用一个假的 cc 劫持它们：这个假 cc 会带上必要的 `-m32 -msse2 -mfpmath=sse` 标志启动真正的编译器。我修改了默认 Janet 构建脚本的开头：\n\n很简单！现在试试看！\n\n简而言之：内存减少 20%，速度变慢 50%\n\n这是在 CachyOS（顺便说一句，它基于 Arch）上进行的，使用了 `lib32-glibc` 和 `lib32-gcc-libs`。把这些内容加入构建脚本，就能强制 Spork 等库也以 32 位模式构建！\n\n注意，这些使用的是 Fish；而我不想为了支持其他语言而重新构建我的网站：\n\n我在测试中加了一个 0\n\n例如：`declarative-dsls/tests.janet`\n\n不幸的是，Ubuntu 也放弃了对 x32 的支持。\n\n幸运的是——或者说，我很懒——我可以使用一些已经弃用的服务器（当然不在生产环境中……）和操作系统安装，占用一些硬盘空间：\n\nUbuntu 20.04 LTS Focal Fossa 已于 2025 年 5 月 31 日结束标准支持。\n\nUbuntu，这样我们又有 bash 了：\n\n这正是我们需要的，尽管 GCC 9.4.0 版本有些老。我们已经有了 `build-essential`、`git`、`gcc-multilib` 和 `libc6-dev-x32`。现在几乎可以验证这个猜想了。但首先，我们必须修改 `src/include/janet.h`：\n\n让 Janet 选择 64 位值布局。我们的构建脚本还会传入一个构建标志，以禁用 Janet 的 FFI。下面是完整的 `32janet.sh`：\n\n以及用于对比的 `64janet.sh`：\n\n现在来比较二者：\n\n不过，`declarative-dsls` 属于最极端的情况，它使用类型化 C 数组来大幅提升速度，而这类数组并不能从上述变化中获得太多好处。让我们制作一些最小基准测试，真正检验其中的差异：\n\n`words.janet` 构造一段文本，将其拆分成单词，统计单词数量并排序：\n\n`records.janet` 按部门对结构体进行分组，并汇总这些部门；其中还包含一些像真实代码中那样未使用的额外字段：\n\n`parse.janet` 使用 PEG 解析多行文本并计算总数：\n\n`tree.janet` 构造并遍历二叉树，这是我们指针使用最密集的示例：\n\n我们发现，内存节省最多的是小型对象，平均约为 25%；性能变化则不稳定，有时提升 8%，有时下降 16%。或许相比 Janet，其他项目更容易从中获益，因为 Janet 的 NaN-boxing 已经将值压缩到 8 字节，而这里的主要收益来自更小的对象头。实验进行到一半时，我曾希望由于更多数据能够留在 L1 缓存中等原因而获得性能提升；如果在另一个仍持续支持 x32 的世界里，我们甚至可以把它作为脚本的默认配置。但面对这些数据，唯一约 25% 的内存使用量下降虽然不错，却不足以让我们在这个内存价格高昂的时代发起一场运动，以便从机器中榨取更多性能。\n\n如果 Janet 使用更小的对象头，那么为什么不在 64 位模式的实现中直接缩小它们？据我理解，Janet 堆对象使用 16 字节，是为了帮助垃圾回收器：\n\n缩减这些对象需要采用不同的垃圾回收策略，例如使用我们自己的分配器；但这会损害 Janet 的一个核心使用场景：嵌入其他项目。\n\n随后每种类型还会增加：\n\n尤其对于结构体和表，我们可以通过重新排列布局重新获得 8 字节（不需要后面的填充）。只有从代码解析出来的元组需要源代码信息（用于报错）；通过增加一个标志，普通元组可以节省 8 字节。\n\n遗憾的是，glibc 的 malloc 会增加 8 字节，并将大小向上取整到 16 字节的倍数，因此结构体的大小仍会保持不变。但表和部分元组的大小会比上述数据所显示的缩减得更多！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [
+          "在64位系统上使用32位指针有可能大幅减少内存占用（对于指针密集型堆程序接近减半），并通过更易装入缓存适度提高程序运行速度。",
+          "Linux x32 ABI在Debian上默认禁用（可通过启动标志启用），在Arch Linux上甚至未编译进去，且Ubuntu也停止了对x32的支持。",
+          "来源叙事重点：探讨 Linux x32 ABI（64位性能搭配32位指针）在 Janet 语言中的实际内存优化与性能权衡，指出其虽能减少约25%的RAM占用但速度提升不稳定且生态支持严重萎缩，得出不足以推动生态复兴的务实结论"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:26:46.000Z",
+            "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/"
+          }
+        ]
+      },
+      {
+        "id": "story--greatest-pollution-html-ffc786445b4c0359",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Study highlights the European waters at greatest risk of harmful light pollution",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T00:00:01.000Z",
+        "pubTime": "2026-10-07 08:00",
+        "url": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-highlights-the-e.jpg",
+        "fullContent": "Scientists have produced a first-of-its-kind assessment showing which coastal regions of Europe they believe are at greatest risk from harmful light pollution.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-07 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-highlights-european-greatest-pollution.html",
+            "publishedAt": "2026-10-07T00:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2122787217-html-a6e350f6f45029ae",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Внешний госдолг Украины при Зеленском увеличился в 5,7 раза",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-07T00:39:50.000Z",
+        "pubTime": "2026-10-07 08:39",
+        "url": "https://ria.ru/20261007/ukraina-2122787217.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-07 08:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261007/ukraina-2122787217.html",
+            "publishedAt": "2026-10-07T00:39:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--thermostat-and-doorbell-56fda4e3eb3d9113",
+        "title": "据报道苹果正与LG合作推出智能门锁、恒温器和智能门铃",
+        "originalTitle": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:53:09.000Z",
+        "pubTime": "2026-10-07 06:53",
+        "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+        "imageUrl": null,
+        "fullContent": "Apple is working on a new ecosystem of smart home devices via a partnership with LG, Bloomberg has reported.\n\nThe new devices — which include a smart lock, a thermostat, and a doorbell — are designed to integrate with the company’s smart home hub, another upcoming product that will reportedly launch on October 13. That hub is expected to include a 6-inch square display that can be placed on a countertop or mounted on a wall.\n\nThe two companies are also working on a slate of security cameras, including models for indoor and outdoor, was well as a floodlight. The LG devices are expected to be announced, if not formally released, next week, too. TechCrunch reached out to Apple for more information.\n\nInterestingly, the devices will reportedly carry the LG brand — despite being developed by both companies.\n\nThe new products could aptly be read as a swipe at Amazon’s smart home offerings, which currently include a variety of similar products, including its Ring home security cameras.\n\nApple has sought to push into new territory with its recent hardware releases. One of those new territories is an expanded smart home presence.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "据彭博社报道，苹果公司正通过与LG建立合作伙伴关系，致力于打造一个全新的智能家居设备生态系统。\n\n这些新设备——包括智能门锁、恒温器和门铃——旨在与该公司的智能家居中枢无缝集成；据悉，该中枢是另一款即将推出的产品，据传将于10月13日发布。预计该中枢将配备一块6英寸的正方形显示屏，可放置在台面上或安装在墙壁上。\n\n两家公司还在研发一系列安防摄像头，包括室内与室外型号，以及一款泛光灯摄像头。即使下周不正式发售，这批LG设备也有望在下周正式发布。TechCrunch已联系苹果公司以获取更多信息。\n\n有趣的是，据报道，尽管这些设备由两家公司共同研发，但它们将冠以LG品牌。\n\n这些新产品完全可以被视为对亚马逊智能家居产品的正面叫板，亚马逊目前提供多款类似产品，包括其旗下的Ring家庭安防摄像头。\n\n苹果近期发布的多款硬件产品一直试图开拓新领域，而扩大在智能家居市场的布局正是其中之一。\n\n第二张通行证可享50%优惠——Disrupt的精彩体验本就值得共同分享。获取您的通行证，即可以半价邀请一位同事、合作伙伴或同行。通过拓展人脉、蓄势发力，发现创业生态系统的下一个机遇，从而覆盖更广阔的领域。\n\n每周一至周五以及周日，您都可以获取TechCrunch的精选报道。\n\nTechCrunch Mobility是您获取交通领域前沿动态与洞察的首选阵地。\n\n初创企业是TechCrunch的核心，欢迎订阅我们每周精选的核心报道。\n\n为行业引领者提供开启新一天所需的关键资讯。\n\n提交您的电子邮件即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "来源叙事重点：苹果公司据报道正与LG合作开发包括智能门锁、温控器、门铃及安防摄像头在内的智能家居生态产品，虽然联合研发但设备或将使用LG品牌，并深度联动苹果即将于10月13日发布的带屏智能家居中枢，意在正面冲击亚马逊Ring等竞品的市场份额。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T22:53:09.000Z",
+            "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+          }
+        ]
+      },
+      {
+        "id": "story--do-i-intervene-03fb96b7-f8dd11fa1ceab249",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T22:54:00.000Z",
+        "pubTime": "2026-10-07 06:54",
+        "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Both properties will be solely in his name.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-07 06:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-06T22:54:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-program-status-osc7501-cbd7ea75fd5495be",
+        "title": "用于程序状态的终端协议（OSC 7501）",
+        "originalTitle": "A Terminal Protocol for Program Status (OSC 7501)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-06T21:12:46.000Z",
+        "pubTime": "2026-10-07 05:12",
+        "url": "https://mitchellh.com/writing/program-status-osc7501",
+        "imageUrl": null,
+        "fullContent": "I wrote a specification for a new terminal escape sequence: OSC 7501, the Program Status Protocol. It lets any program tell the terminal what it's doing: idle, working, waiting on the user, finished, or failed, and why.\n\nFor example, here is how Terraform could indicate that it is blocked waiting for user input, with the message \"Apply 3 to add, 1 to change, 0 to destroy?\" (base64-encoded). A terminal (or any other tool running Terraform) could show this information however it feels appropriate: a notification, an inbox, a status icon, etc.\n\nThis post covers why I think this protocol needs to exist, why the existing approaches aren't good enough (especially for coding agents), and how the protocol works.\n\nThis is a completely generic, terminal-native specification and protocol. It emerged from my work on Superlogical and Ghostty but the specification has no product-specific functionality or language. It is designed as an idiomatic, well-formed specification that any terminal developer will find familiar.\n\nLong-running work is common in terminals: builds, deployments, package upgrades, data processing, and, more and more today, coding agents. These programs alternate between working on their own, waiting on the user, and finishing. Meanwhile, users usually go off and do something else and want to know when the work finishes or needs them.\n\nAspects of this problem have been solved in various ways going back decades. For example, some terminals monitor the active foreground process and have features to notify when it changes. Or, they wait for some time period of \"quiet\" (for various definitions) output. The specification also lists the reasons why existing sequences aren't enough.\n\nUltimately, I felt there wasn't a cohesive, interaction-agnostic, generic solution to this problem that conveyed progress, blocking, completion, and trees of tasks. And it wasn't possible to cobble together pre-existing sequences to achieve it robustly, either.\n\nDon't care about AI, LLMs, etc.? Skip this section. The problem is generic and applies in a compelling way without bringing in AI. It's particularly nasty with AI so I want to call it out, but if you don't care about any of that, just skip this.\n\nIt's now increasingly common for people to run many long-running agents for any number of reasons: background research, issue monitoring, bug fixing, large features, etc. Each one works for a while and then stops to ask for permission, ask a question, or report it's done.\n\nFrom this, a new category of tool has emerged that I'll simply call the agentic inbox: a single view across every running agent showing which are working, which are done, and which are waiting on you. Herdr, cmux, and Agent Deck are a few examples of hundreds.\n\nWithout a dedicated protocol, they solve the agent status problem in two ways: heuristics and non-terminal APIs.\n\nThe first approach is to guess by reading the screen or the window title and matching it against known patterns.\n\nHerdr is a good example because it does this well and documents it openly. Its detection manifests are TOML rules that classify an agent as idle, working, or blocked. Here is the first of 16 rules for Claude Code:\n\nClaude Code is considered \"working\" if its window title starts with a Braille spinner character or, as of version 2.1.228, a half-circle one. The history of that file shows ten changes in three months for just Claude Code.\n\nThis isn't a criticism of Herdr. Its maintainers are doing the best possible job with the tools available. But it demonstrates well the benefit a unified protocol would have.\n\nThe second approach is to have the program report its own state through an inbox-specific, out-of-band API such as Herdr's socket API or cmux notify. This is better than heuristics in some ways, because the program that actually knows its state is the one reporting it. But every program has to integrate with every inbox separately, and a local socket doesn't work over SSH or from within a container without extra bridging. The pty already works across all of this.\n\nOSC 7501 is a terminal native answer to this problem. The program reports its own state directly via the pty that it always has, using a format that is safe to send everywhere (well-behaved terminals ignore unknown OSCs).\n\nThe body of the sequence is a list of key=value pairs separated by :. The only required key is state, which is one of:\n\nOptional keys include app, a stable machine-readable program name like cargo or claude-code, and msg, a single human-readable line encoded as base64.\n\nPrograms that run several things at once can report multiple records using hierarchical ids. A deploy tool can be working at the root while us-east pushes an image at 40% and eu-west is blocked waiting for approval to deploy to production. Both are true at the same time, and the terminal decides what to show. A clear state removes records.\n\nHere's a complete integration for a shell script to wrap rsync to participate in this protocol:\n\nTrivial to script with plain old POSIX sh. No SDK, no sockets, no environment variables, no JSON. No bias towards specific GUI presentations. No bias to any specific workload (like AI). A well-formed, generic foundation to build functionality above that anyone and everyone can participate with.\n\nThe full spec covers the rest: record lifetime, feature detection, terminfo, size limits, and security. It's short. I wrote it all by hand. Please read it.\n\nI wrote this specification based on my experience maintaining a terminal emulator for many years now. It is written in a way that is easy for application developers to emit, and easy for terminal emulators to consume and parse.\n\nI've already implemented this protocol twice. We have one implementation in libghostty and I have a parallel implementation in Rex. I've also implemented it as a proof-of-concept in Terraform, Claude Code, Codex, and Homebrew via either plugins or forks. In each case, the implementation was no more than a dozen lines.\n\nI've been in contact with the maintainers of many popular terminal programs and emulators and they've helped review and shape the specification. But if you have any more feedback, I'm happy to hear it.\n\nIf you've implemented the specification please let me know via email (mail icon in the footer) and I'll add you to the list of tools that implement this. Thank you.\n\nI'd like us all to stop guessing what programs are doing by reading their screens or process trees. The program already knows. Let's give it a way to tell us!",
+        "fullTranslation": "我为一种新型终端转义序列编写了规范：OSC 7501，即“程序状态协议”（Program Status Protocol）。它允许任何程序向终端告知自己当前的状态：空闲、运行中、等待用户响应、已完成或失败，以及具体原因。\n\n例如，Terraform 可以通过该协议指示其当前正阻塞以等待用户输入，附带提示信息“Apply 3 to add, 1 to change, 0 to destroy?”（Base64 编码）。终端（或运行 Terraform 的任何其他工具）可以采用它认为合适的方式来展示此信息：通知、收件箱列表、状态图标等。\n\n本文介绍了为什么我认为该协议有必要存在、为什么现有的方案不够理想（尤其是对于编码智能体而言），以及该协议是如何运作的。\n\n这是一套完全通用、终端原生的规范与协议。它源于我在 Superlogical 和 Ghostty 上的开发工作，但该规范不包含任何特定产品的功能或用语。它被设计成一个符合惯例、结构规范的规范，任何终端开发者都会对其感到熟悉。\n\n长时间运行的任务在终端中十分常见：构建、部署、包升级、数据处理，以及如今越来越多的编码智能体（coding agents）。这些程序在自主运行、等待用户输入以及结束运行之间交替切换。与此同时，用户通常会离开去做其他事情，并希望在任务完成或需要人工介入时收到通知。\n\n这个问题的各个方面早在几十年前就已通过各种方式尝试解决。例如，某些终端会监控活跃的前台进程，并在进程发生变化时发出通知；或者，它们会等待一段输出“静默”（定义各异）的时间。该规范同样列举了现有序列不足以满足需求的原因。\n\n归根结底，我认为目前还没有一个统一、与交互形态无关且通用的解决方案来传达进度、阻塞状态、完成情况以及任务树结构。依靠东拼西凑现有的转义序列，也无法稳健地实现这一目标。\n\n如果你对 AI、大语言模型（LLM）等不感兴趣，可以跳过本节。这个问题本身是通用的，即使不涉及 AI，它也是一个非常现实的需求。由于在 AI 场景下该问题尤为棘手，因此我专门提了出来；但如果你完全不关心这些，直接跳过即可。\n\n如今，人们出于各种原因运行大量长时间运行的智能体已越来越普遍：背景调研、Issue 监控、错误修复、大型功能开发等。每一个智能体都会运行一段时间，然后停下来请求权限、提出疑问或汇报已完成。\n\n由此催生了一类全新的工具，我姑且将其称为“智能体收件箱”（agentic inbox）：即一个跨所有正在运行的智能体的统一视图，展示哪些处于运行中、哪些已完成，以及哪些正在等待你的响应。Herdr、cmux 和 Agent Deck 就是其中数百个例子中的代表。\n\n由于缺乏专用协议，它们目前通过两种方式解决智能体状态问题：启发式推测以及非终端 API。\n\n第一种方法是通过读取屏幕内容或窗口标题，并将其与已知模式进行匹配来进行推测。\n\nHerdr 是一个很好的例子，因为它做得不错且公开了文档。它的检测清单是 TOML 规则，用于将智能体归类为空闲、运行中或阻塞。以下是针对 Claude Code 的 16 条规则中的第一条：\n\n如果 Claude Code 的窗口标题以盲文旋转图标（Braille spinner）开头，或者自 2.1.228 版本起以半圆图标开头，它就会被判定为“运行中”。仅针对 Claude Code，该规则文件的修改历史在三个月内就记录了十次变更。\n\n这并不是对 Herdr 的批评。其维护者已经在现有工具条件下做到了极致。但这充分证明了统一协议将带来的巨大益处。\n\n第二种方法是让程序通过特定于收件箱工具的带外 API（例如 Herdr 的 socket API 或 cmux notify）自行报告状态。从某种意义上说，这比启发式推测更好，因为真正知晓自身状态的程序正是报告状态的主体。然而，每个程序都必须单独与每个收件箱工具进行集成，而且本地 socket 无法在没有额外桥接的情况下跨 SSH 或在容器内运行。而伪终端（pty）早已在所有这些场景下顺畅工作。\n\nOSC 7501 是针对这一问题的终端原生解法。程序直接通过其始终具备的 pty 上报自身状态，使用的格式即使发送到任何地方也是安全的（规范的终端会直接忽略未知的 OSC 序列）。\n\n该序列的主体是由冒号（:）分隔的键值对列表。唯一必需的键是 state，其值为以下之一：\n\n可选的键包括 app（稳定的机器可读程序名称，如 cargo 或 claude-code）以及 msg（Base64 编码的单行人类可读信息）。\n\n同时运行多个任务的程序可以使用层级 ID 上报多条记录。部署工具可以在根节点处于运行状态，而 us-east 正以 40% 的进度推送镜像，eu-west 则处于阻塞状态等待部署到生产环境的审批。两者可以同时成立，终端可以决定如何进行展示。clear 状态则用于清除记录。\n\n以下是一个封装 rsync 以接入此协议的完整 Shell 脚本示例：\n\n使用老式普通的 POSIX sh 就能轻松编写脚本。不需要 SDK，不需要 socket，不需要环境变量，也不需要 JSON。对特定的 GUI 呈现形式没有任何偏见。对任何特定的工作负载（如 AI）也没有倾向性。这是一个结构规范、通用的基础，任何人都可以基于它构建功能并参与其中。\n\n完整的规范涵盖了其余细节：记录生命周期、特性探测、terminfo、大小限制以及安全性。篇幅很短，全部由我亲手编写，欢迎阅读。\n\n我是基于多年维护终端模拟器的经验编写了这一规范。它的设计既便于应用程序开发者生成输出，也便于终端模拟器消费和解析。\n\n我已经两次实现了该协议。我们在 libghostty 中有一个实现，我在 Rex 中也做了一个并行实现。此外，我还通过插件或分支方式在 Terraform、Claude Code、Codex 和 Homebrew 中完成了概念验证实现。在每种情况下，实现代码都只有十几行。\n\n我已经与许多流行终端程序和模拟器的维护者取得了联系，他们帮助审阅并完善了这份规范。如果你有更多反馈，我非常乐意倾听。\n\n如果你已经实现了该规范，请通过电子邮件（页脚的邮件图标）联系我，我会将你添加到实现该规范的工具列表中。谢谢。\n\n我希望我们所有人都不必再通过读取屏幕或进程树来猜测程序在做什么。程序本身就知道自己在做什么，让我们给它一个告诉我们的途径吧！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 28,
+        "keyTakeaways": [
+          "作者编写了名为 OSC 7501（Program Status Protocol）的新终端转义序列规范，允许程序向终端汇报自身状态（如 idle、working、waiting on the user、finished、failed 及其原因）。",
+          "OSC 7501 是原生终端规范，源自作者在 Superlogical 和 Ghostty 上的工作，但不包含特定产品的专用功能或语言。",
+          "来源叙事重点：提出并倡导原生终端转义序列规范 OSC 7501（程序状态协议），阐明其如何替代脆弱的屏幕启发式嗅探和复杂的进程外 API，从而低成本解决终端程序及 AI 编程代理的状态通知与集中管理问题。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-06T21:12:46.000Z",
+            "url": "https://mitchellh.com/writing/program-status-osc7501"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791318676162,
     "timeDisplay": "2026-10-07 04:31 (UTC+8)",
     "date": "2026-10-07",
