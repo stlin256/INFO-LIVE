@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-08 · 今日](/INFO-LIVE/archive-2026-10-08/)
+- [2026-10-09 · 今日](/INFO-LIVE/archive-2026-10-09/)
+- [2026-10-08 · 历史快照](/INFO-LIVE/archive-2026-10-08/)
 - [2026-10-07 · 历史快照](/INFO-LIVE/archive-2026-10-07/)
 - [2026-10-06 · 历史快照](/INFO-LIVE/archive-2026-10-06/)
 - [2026-10-05 · 历史快照](/INFO-LIVE/archive-2026-10-05/)
@@ -49,14 +50,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **113** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **114** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-08 17:13 (UTC+8)
+- **最新归档时间**：2026-10-09 00:42 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-09 00:42 (UTC+8)" title="全球要闻情报简报 · 00:42" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-09 00:37 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”：该主题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。；【undefined】利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群：同一家公司内的多个团队越来越需要共享访问昂贵的 GPU 集群以开展生成式 AI 业务，同时还需要维持隔离边界、资源公平性和操作独立性。设想这样一个场景：一个数据科学团队正在训练大型语言模型，一个计算机视觉团队在运行推理工作负载，而一个研究团队正在试验新的模型架构。他们可能都需要访问同一个集群。如果缺乏设计良好的多租户（多团队）架构，组织将面临资源消耗失控、团队间隔离薄弱、无法将共享 GPU 成本归因到实际产生的团队，以及拖慢创新步伐的管；【undefined】苹果意外宣布举办“欢迎回家”新品发布会：该话题的文章将被添加到您的每日电子邮件摘要和主页信息流中。 传闻苹果将推出其智能家居中枢、新款 Apple TV 等产品。 该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。 查看杰伊·彼得斯（Jay Peters）的全部文章 苹果刚刚宣布了一场定于10月举办的新发布会，将于美国东部时间10月13日上午9点在纽约举行。有传言称该公司本月将推出以智能家居为核心的产品，而活动邀请函也印证了这一点：苹果使用了“欢迎回家”（Welcom；【undefined】数据显示，英格兰和威尔士种族与宗教仇恨犯罪创历史新高：截至3月的12个月内，针对穆斯林的违法犯罪增幅最大，上升15%；与此同时，反犹太仇恨犯罪增长了10% 英国政治直播——最新动态 在英国政府负责应对伊斯兰恐惧症的主要合作机构表示针对清真寺的袭击严重程度不断加剧之际，出于种族和宗教动机的违法犯罪在英国已达到历史最高水平。 英国内政部数据显示，截至2026年3月的一年里，警方共记录了146,825起仇恨犯罪，比上一年增长7%。其中，针对穆斯林的违法犯罪增幅最大——增长15%，从4,479起增；【undefined】历经多年比较，西德妮·斯威尼与玛丽莲·梦露被曝存在惊人家族血缘关联：根据一份最新的家谱报告显示，西德妮·斯威尼（Sydney Sweeney）与玛丽莲·梦露（Marilyn Monroe）存在亲缘关系。；【undefined】福克斯新闻《反犹太主义揭露》通讯：疯狂的反以色列者举行支持哈马斯的抗议活动纪念10月7日：福克斯新闻的《反犹太主义揭露》（Antisemitism Exposed）通讯为您带来全美及全球范围内日益高涨的反犹偏见相关报道。；【undefined】本周末比赛结束后将揭晓答案的五个大学橄榄球关键问题：大学橄榄球球迷们，不知不觉间，本周末将正式迎来2026年常规赛的半程节点。；【undefined】挪威国家石油公司在南古尔法克斯油田发现高达1030万桶油当量资源：挪威国家石油公司（Equinor）及其合作伙伴在挪威南古尔法克斯（Gullfaks South）油田发现估计约330万至1030万桶可采油当量的天然气资源，该发现是通过在一口生产井作业期间钻探的勘探侧钻井所取得的。这一于10月8日宣布的发现，凸显了针对性勘探在维持北海成熟资产产量方面所发挥的作用。其商业吸引力在于通过与现有生产作业相结合的钻探活动来寻找额外资源。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261008/spetsoperatsiya-2123320047.html) <span class="news-meta-time">🕒 2026-10-09 00:35</span>
+- [The Verge (前沿数码科技)] [亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay) <span class="news-meta-time">🕒 2026-10-09 00:34</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-09 00:32</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1x0th9i/the_netherlands_now_views_russia_as_an_enemy_not/) <span class="news-meta-time">🕒 2026-10-08 23:11</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-ai-pilgrims-journeys-sacred-technology.html) <span class="news-meta-time">🕒 2026-10-09 00:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261008/vsu-2123319595.html) <span class="news-meta-time">🕒 2026-10-09 00:33</span>
+:::
 :::timeline-item{start="2026-10-08 17:13 (UTC+8)" title="全球要闻情报简报 · 17:13" org="ARCHIVE"}
 **速报纪要：** 本时段重点动态聚焦外交与安全局势：韩国外交部决定召回驻乌克兰大使；俄罗斯国防部称在21个地区击落乌克兰无人机。文体领域方面，奥运体操名将拜尔斯夫妇名下德克萨斯州房产迅速觅得买家。
 
@@ -649,18 +663,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://evnm.substack.com/p/beware-overreliance-on-metaphor) <span class="news-meta-time">🕒 2026-09-24 07:39</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-eu-erasmus-canada.html) <span class="news-meta-time">🕒 2026-09-24 09:20</span>
 - [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb) <span class="news-meta-time">🕒 2026-09-24 09:24</span>
-:::
-:::timeline-item{start="2026-09-24 06:25 (UTC+8)" title="全球要闻情报简报 · 06:25" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-24 06:22 (UTC+8) 完成，共获得 28 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】Anthropic称其生物实验室已取得重大发现：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。；【undefined】Windows 滚动条快捷操作简史：在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。；【undefined】如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？：亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。；【undefined】多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。；【undefined】纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。；【undefined】堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”：堪萨斯州民主党参议员候选人亚当·汉密尔顿牧师（Rev. Adam Hamilton）周三对MS NOW表示，前副总统卡玛拉·哈里斯（Kamala Harris）应该远离他在堪萨斯州的竞选活动。此前，哈里斯曾前往密歇根州为民主党参议员候选人阿卜杜勒·赛义德（Abdul El-Sayed）助选，而汉密尔顿目前正努力在这个偏向共和党的州争取跨党派选民的支持。；【undefined】柴油价格飙升突破6.50美元 白宫排除柴油出口禁令可能：白宫周三否认了政府正考虑出台美国柴油出口禁令的消息，对总统唐纳德·特朗普（Donald Trump）和财政部长斯科特·贝森特（Scott Bessent）前一天发表的言论进行了澄清。此前，随着全美平均柴油价格突破每加仑6.50美元，两人的言论似乎为施加限制保留了可能性。一名白宫官员否认了关于政府正在准备出台为期90天的柴油出口禁令的报道，同时能源部长克里斯·赖特（Chris Wright）表示，没有任何人在考虑全面禁止出口。赖特称，相反；【undefined】OpenAI侵入国民医疗保险系统，阿尔巴尼斯披露：更新于2026年9月24日 — 上午7:56，首次发布于上午6:25 您已达到保存条目的最大上限。 请从您的保存列表中移除条目以继续添加。 澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）披露，今年6月，一个人工智能智能体（AI agent）潜入了一处国民医疗保险（Medicare）网站，访问了公开与非公开文件，并将文件写入了一台内部服务器。 阿尔巴尼斯在纽约向记者表示，该事件涉及一个OpenAI的智能体未经授权访问了
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/sderzhivanie-2119892358.html) <span class="news-meta-time">🕒 2026-09-24 06:20</span>
-- [TechCrunch (硅谷创业与资本)] [Anthropic称其生物实验室已取得重大发现](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/) <span class="news-meta-time">🕒 2026-09-24 06:17</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-24 06:15</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose) <span class="news-meta-time">🕒 2026-09-24 06:00</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html) <span class="news-meta-time">🕒 2026-09-24 06:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/figuranty-2119892171.html) <span class="news-meta-time">🕒 2026-09-24 06:19</span>
 :::
 ::::
