@@ -16,39 +16,29 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story--fire-tablet-panos-panay-5eb8e1079527cef8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="614" data-content-paragraphs="11" data-published-at="2026-10-08T16:34:57.000Z" data-time-source="publication">
+<div id="story--open-source-oss-scanner-0856c1a27e7e11a7" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="605" data-content-paragraphs="1" data-published-at="2026-10-08T21:53:51.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:34</span>
+  <span class="news-meta-time">🕒 2026-10-09 05:53</span>
 </div>
 
-### [亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon is phasing out Fire Tablets because they weren&#39;t &#39;giving customers what they were asking for&#39;</div>
+### [Anthropic 为开源项目推出免费 AI 安全扫描服务](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic launches free AI security scans for open-source projects</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268799_AlexaTablet12Pro_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Anthropic 为开源项目推出免费 AI 安全扫描服务" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。</p>
-<p>帕诺斯·帕奈（Panos Panay）表示，后续还将有更多硬件新品发布，但不要期待会有亚马逊笔记本电脑。</p>
-<p>该作者的帖子将被添加到您的每日电子邮件文摘和主页信息流中。</p>
-<p>查看特伦斯·奥布莱恩（Terrence O&#39;Brien）的全部内容</p>
-<p>在接受彭博社采访时，亚马逊消费电子业务主管帕诺斯·帕奈证实，公司将逐步淘汰Fire品牌，转而主推Alexa平板电脑。</p>
-<p>新产品线运行正规的完整Android系统，而非定制的Fire OS，并拥有对Play商店的完整访问权限——这是Fire平板电脑所不具备的。更糟的是，Gmail、谷歌日历、YouTube、Google Drive等服务在Fire平板电脑上只能通过浏览器访问；亚马逊应用商店（Amazon Appstore）中并未提供官方谷歌应用程序。</p>
-<p>帕奈向彭博社表示，Fire平板电脑产品线“未能满足用户的真正需求”，这些需求似乎是指使用谷歌服务的权限、更高品质的硬件，以及减少锁屏上扑面而来的广告。亚马逊仍将为Fire平板电脑提供安全更新。帕奈说：“我们不会抛下任何一位用户。”但不要指望会有任何硬件迭代更新。</p>
-<p>帕奈还表示，亚马逊在整个秋季还将陆续发布更多硬件产品，但不要期待会看到亚马逊品牌的台式电脑或笔记本电脑。</p>
-<p>查看所有 Amazon Alexa 相关内容</p>
-<p>免费每日精选重要资讯文摘。</p>
-<p>这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的推送将被添加到您的每日邮件摘要和主页信息流中。<br />全新的 OSS Scanner 服务提供来自 Anthropic“最强模型”（包括 Mythos）的漏洞报告。<br />该作者的推送将被添加到您的每日邮件摘要和主页信息流中。<br />查看 Stevie Bonifield 的全部文章<br />Anthropic 正在通过一项名为 OSS Scanner 的新服务，帮助开源项目排查安全漏洞。该公司表示，选择加入的开源项目将“免费获得由我们最强模型进行的全面、定期的安全扫描”。这可能意味着开源项目能够更早地收到潜在安全问题的警报，但代价是 OSS Scanner 的报告没有经过人工审核：<br />这款自愿加入的漏洞扫描工具的输出将完全由模型生成，不经过人工审核或分类。这将实现更快、更频繁的扫描，但也意味着报告有可能是错误或无效的。这些报告将由我们最强大的模型（包括 Claude Mythos）生成，从而为开源项目提供最大的防御优势。<br />OSS Scanner 绝非市面上首款 AI 漏洞挖掘辅助工具。近几个月来，AI 工具已协助发现了开源软件中的一些重大安全漏洞，例如 5 月份影响了几乎所有 Linux 发行版的“Copy Fail”漏洞。与此同时，包括林纳斯·托瓦兹（Linus Torvalds）乃至谷歌在内的部分开源项目，正在艰难应对突如其来的 AI 生成漏洞报告潮。<br />免费每日摘要，汇集最重要的新闻。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>亚马逊消费电子主管Panos Panay在接受彭博社采访时证实，公司将逐步淘汰Fire品牌，转而推出Alexa平板电脑（Alexa Tablets）。</li>
-    <li>新的平板电脑产品线将运行原生Android系统而非定制的Fire OS，并且拥有完整的Google Play商店访问权限。</li>
-    <li>来源叙事重点：聚焦亚马逊放弃Fire品牌及自研封闭Fire OS，转向搭载原生Android与Google Play生态的Alexa平板，并从用户体验痛点（缺乏Google服务、硬件规格及广告过多）解读战略转向。</li>
+    <li>Anthropic推出了一项名为“OSS Scanner”的新服务，旨在帮助开源项目查找安全漏洞。</li>
+    <li>选择加入OSS Scanner的开源项目将免费获得由Anthropic“最强模型”进行的全面、定期安全扫描。</li>
+    <li>来源叙事重点：报道 Anthropic 推出面向开源项目的免费漏洞扫描服务 OSS Scanner，一方面指出其搭载最强模型（如 Claude Mythos）带来的快速防御收益，另一方面重点审视其“无人工审核”可能引发的高误报风险，以及对早已疲于应对 AI 生成报告的开源维护者所造成的额外审查负担。</li>
   </ul>
 </div>
 
@@ -57,145 +47,558 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-mazon-sagemaker-hyperpod-294e69e636038180" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="20960" data-content-paragraphs="113" data-published-at="2026-10-08T16:20:04.000Z" data-time-source="publication">
+<div id="story-e-a-major-mobile-carrier-b66c80208096c7ae" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="638" data-content-paragraphs="1" data-published-at="2026-10-08T21:23:31.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:23</span>
+</div>
+
+### [SpaceX 宣布计划成为“主要移动运营商”](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier)
+<div class="original-title-sub"><span class="orig-tag">原文</span> SpaceX announces plan to become a ‘major mobile carrier’</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="SpaceX 宣布计划成为“主要移动运营商”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该话题的文章将被添加到您的每日邮件摘要和主页推送中。<br />SpaceX 抢购了低频段频谱，意图与 T-Mobile、AT&amp;T 和 Verizon 展开竞争。<br />来自该作者的文章将被添加到您的每日邮件摘要和主页推送中。<br />查看 Emma Roth 的全部内容<br />SpaceX 已经收购了一组低频段频谱许可——该公司表示，此举将为其“星链移动”（Starlink Mobile）服务成为美国“主要”运营商“铺平道路”。SpaceX 表示，一旦美国联邦通信委员会（FCC）批准该交易，它将部署其将卫星直连手机星座与地面移动网络相结合的新架构，直接与 T-Mobile、AT&amp;T 和 Verizon 展开竞争。<br />这些许可包括 800 MHz 频段中高达 14 兆赫兹的成对频谱，SpaceX 称这将使星链移动的信号能够穿透墙壁和建筑物。此前，作为加强其直连设备（direct-to-device）服务努力的一部分，SpaceX 还从 EchoStar 收购了 2GHz 频谱。<br />据 SpaceX 称，FCC 还批准了部署 15,000 颗 V2 星链移动卫星的计划，这些卫星提供的带宽将是当前一代的 100 多倍。“凭借这一全新低频段频谱和我们的第二代星座，星链移动现在可以成为第一家同时部署卫星和地面频谱的网络运营商，”SpaceX 表示。“这是一个为美国人提供在室内、室外、蜂窝盲区以及介于两者之间的任何地方都能享受可靠服务的网络。”<br />一份免费的每日最重要新闻摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>SpaceX收购了一组低频段频谱许可，包含800 MHz频段中高达14 MHz的成对频谱。</li>
+    <li>SpaceX此前从EchoStar收购了2GHz频谱，以支持其直连设备（direct-to-device）服务。</li>
+    <li>来源叙事重点：聚焦SpaceX通过收购800 MHz低频段频谱并结合二代星链卫星网络，进军地面移动通信市场、直接挑战美国传统三大电信巨头的战略野心与网络部署计划</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-helds-by-the-end-of-2026-0105171d2f47a0c3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="978" data-content-paragraphs="9" data-published-at="2026-10-08T21:01:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:01</span>
+</div>
+
+### [AMD 将在 2026 年底前将 FSR 4 引入掌机](https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AMD will bring FSR 4 to handhelds by the end of 2026</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="AMD 将在 2026 年底前将 FSR 4 引入掌机" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。<br />但现有掌机是否会获得该技术？<br />该作者的帖子将添加到您的每日电子邮件文摘和主页推送中。<br />查看肖恩·霍利斯特（Sean Hollister）的所有文章</p>
+<p>尽管早在 Steam Deck 这样旧的掌机上就已经可以体验到 AMD 提升帧率的 FSR 4 增益——但在 6 月份，AMD 曾保留了让掌机玩家失望的权利，即不在官方层面向较旧的掌机提供 FSR 4。如今，AMD 消费级芯片业务主管 Jack Huynh 表示，他将在今年年底前将这项技术引入部分掌机。</p>
+<p>具体是哪些掌机？目前仍不清楚它是会登陆现有掌机，还是需要购买新掌机才能获得——因为该消息伴随着 AMD 即将发布支持 FSR4 的新芯片的新闻一同传出。</p>
+<p>“我们将在今年年底前，把最初引入现有独立显卡的基于机器学习 AI 的 FSR4 技术，拓展至包括 APU、游戏笔记本电脑和掌上设备在内的整个产品线，”Huynh 在接受韩国媒体 The Elec 采访时表示（经由谷歌翻译）。“我们计划从两个方向应对：推出适配现有 APU 的方案以及新产品线。”</p>
+<p>The Elec 表示，这意味着今年年底前将同时推出一款全新 APU，以及一个面向 APU 的轻量化 FSR4 模型。（此前，AMD 仅承诺为台式机显卡提供 FSR4，而非面向笔记本电脑和掌机的 APU。）但 The Elec 似乎并未明确说明该轻量化 FSR4 模型是否会专门登陆掌机。也许它需要 AMD 被曝光的即将推出的 Ryzen Z3 和/或“Gainsborough”掌机芯片支持。</p>
+<p>此前在 AMD 给现有掌机支持 FSR 4 的想法浇冷水时，高管 David McAfee 曾向 Tom&#39;s Guide 表示，“我们希望确保体验和质量达到预期”，并且 AMD 需要“在该产品中拥有足够的算力”才能使 FSR 4 具有实际意义。也许某些较旧的笔记本电脑芯片符合要求，而某些较旧的掌机芯片则不符合。</p>
+<p>Valve 曾表示正在与 AMD 合作，将 FSR 4 引入 Steam Machine 的主机级 AMD APU 中，但尚未对 Steam Deck 掌机作出同样的承诺。</p>
+<p>AMD 未立即回应澄清 Huynh 发言的请求。</p>
+<p>免费获取每日重要新闻文摘。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>AMD 消费级芯片主管 Jack Huynh 表示，公司计划在今年年底前将基于机器学习 AI 的 FSR 4 技术扩展至 APU、游戏笔记本和掌机设备等产品线。</li>
+    <li>Jack Huynh 透露 AMD 计划从两个方向推进：现有 APU 和新产品线。</li>
+    <li>来源叙事重点：聚焦 AMD 高管关于 FSR 4 即将拓展至掌机设备的最新表态，重点审视该技术究竟能否向后兼容现役老款掌机设备（如 Steam Deck），还是需要依赖新款芯片/硬件升级，并指出官方措辞模糊与未予澄清的问题。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-weirdly-detailed-website-1bc6c949e17a2fda" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1567" data-content-paragraphs="13" data-published-at="2026-10-08T21:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:00</span>
+</div>
+
+### [在这个细节逼真得离奇的网站上，假装正坐在伊丽莎白·霍姆斯的办公桌前](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</div>
+
+<div class="article-body" data-article-body="true"><p>利用“美国诉伊丽莎白·霍姆斯案”审判期间披露的1000多封电子邮件、幻灯片、短信和文档，Extend公司的工程师Bo Lau创建了一个网站，模拟在一切轰然崩塌之前，担任Theranos首席执行官可能会是怎样一番体验。</p>
+<p>（每一天，我都为美国法律系统将证据开示程序公开而心怀感激。）</p>
+<p>“我建了一个网站，你可以坐在伊丽莎白·霍姆斯的办公桌前，打开她的MacBook，滑动浏览她的iPhone，运行Theranos Edison仪器。她的短信、邮件、幻灯片、文档以及Theranos机器记录全都是真实的，来源于美国诉霍姆斯刑事审判中的法庭证物 pic.twitter.com/5At9T5m3UV”</p>
+<p>Lau创建的这一环境细节丰富得惊人，将你直接拉回2016年——那是一个iPhone还带有Home键、需要滑动屏幕才能解锁的时代。就连MacBook Air上运行的也是OS X El Capitan系统。</p>
+<p>你可以在这个环境中四处点击浏览，通过霍姆斯的iPhone和笔记本电脑屏幕查看法庭案件中公开的文件。你甚至可以运行Theranos的Edison仪器——这家公司命运多舛的设备，号称仅凭一滴血就能获取海量健康数据。</p>
+<p>这个项目看起来大体上是为了逗乐而做，但这实际上是一种翻阅科技史上最臭名昭著案件文档的有趣方式——在这样一个界面中探索，比起从法院网站上调取数千份PDF文件要轻松得多。</p>
+<p>不过，这背后还有另一个目的。Lau是在为她的公司即将举办的一场观影派对造势，派对将播放内森·菲尔德（Nathan Fielder）即将推出的关于伊丽莎白·霍姆斯的纪录片《你可以看到一切》（You Can See Everything）。</p>
+<p>当然，她也是在宣传公司本身。那么，Extend到底是做什么的？显然，它能“以无与伦比的准确度解析、提取和拆分你最棘手的文件”。（我不太确定这具体意味着什么，但如果它能让这样一个霍姆斯办公桌模拟器成为可能，那我想这意味着我开始看好B2B SaaS了。）</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>阿曼达·希尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，报道科技与文化的交叉领域。她还曾为Polygon、MTV、《肯扬评论》（Kenyon Review）、NPR和《商业内幕》（Business Insider）等媒体撰稿。她与科幻作家伊莎贝尔·J·金（Isabel J. Kim）共同主持讨论互联网文化的播客《Wow If True》。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语文学学士学位，并曾担任老挝的“普林斯顿在亚洲”（Princeton in Asia）学者。</p>
+<p>您可以通过发送电子邮件至 [email protected] 或通过Signal加密信息联系@amanda.100与阿曼达取得联系或核实身份。</p>
+<p>第二张入场门票享五折优惠。Disrupt盛会理应与人共享。购买门票并以五折优惠携同事、合伙人或同行一同参与。通过结识人脉、集聚声势，探索初创生态圈的未来趋势，掌握更多机遇。</p>
+<p>Anthropic为初创企业提供为期一年的免费Claude Team使用权及1000美元额度<br />19岁创始人为Ghost筹集1100万美元，该公司制造售价3499美元的个人AI计算机<br />特朗普揭晓其全新超级情报部队（Super Intelligence Force）<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心引发的反弹，称不再使用保密协议<br />OpenAI安全团队员工辞职，称公司“文化已彻底崩坏”<br />Meta希望你的下一台硬件设备注入Muse技术</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 05:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--with-frontier-ai-models-2fbd97d2a6b18684" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3307" data-content-paragraphs="46" data-published-at="2026-10-08T20:57:55.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nvidia.svg" class="source-icon" alt="NVIDIA Developer Blog (英伟达开发者官方英文)" width="16" height="16" /> <strong>NVIDIA Developer Blog (英伟达开发者官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 04:57</span>
+</div>
+
+### [利用前沿AI模型构建机器人SimReady资产的5个步骤](https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> 5 Steps to Create SimReady Assets for Robotics with Frontier AI Models</div>
+
+<div class="article-cover"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2.gif" alt="利用前沿AI模型构建机器人SimReady资产的5个步骤" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>为机器人仿真准备 CAD 资产，需要的不仅仅是将几何体转换为 OpenUSD：开发人员在测试机器人行为之前，必须配置并验证材质、碰撞几何体、关节以及其他物理属性。</p>
+<p>在 SimReady Foundation 规范和智能体化 NVIDIA Skills 的指导下，NVIDIA Omniverse 库提供了一套结构化工作流，用于转换并验证仿真就绪（SimReady）资产。前沿 AI 模型可以在每个阶段协助开发人员解读参考材料并代为调用 Omniverse 工具，从而减少手动准备工作。</p>
+<p>本文将详细介绍如何使用 SimReady Foundation 和 NVIDIA Omniverse 工具为仿真准备一台 ABB Robotics YuMi 机器人，并以 GPT-6 Astra 作为协助该过程的前沿 AI 模型示例。该工作流涵盖五个步骤：STEP 文件转换、外观验证、物理配置、SimReady 验证，以及最后在 NVIDIA Isaac Sim 中使用双臂和夹爪进行的抓取与放置任务。</p>
+<p>SimReady 定义了为特定仿真用例准备 OpenUSD 资产的要求。开发人员为其预期用途选择 SimReady 配置文件，并对照其要求验证资产。针对特定配置文件的检查会验证资产的结构、材质和物理属性，然后标记出问题供开发人员修复并重新检查。</p>
+<p>一个机器人模型可能看起来完好无损，但如果缺少仿真属性，在仿真中仍然会失败。例如，缺失碰撞几何体可能导致物体穿透夹爪，不正确的关节可能会阻碍协同运动。质量和摩擦力等仿真属性会直接影响抓取是否保持稳定。</p>
+<p>以下技术和工具支持该工作流：</p>
+<p>本演练使用 ABB YuMi 机器人演示了五步 SimReady 工作流。此处使用 GPT-6 Astra 作为前沿 AI 模型的示例，它可以帮助编写 Python 代码以在各个阶段调用 NVIDIA Omniverse 库，但该工作流可应用于多种模型和机器人系统。</p>
+<p>该示例使用了双臂和夹爪，这些均在工作流期间完成配置。在步骤 5 中使用了立方体和 Sharpie 记号笔进行演示。基于摄像头的感知功能可以在单独的工作流中添加。</p>
+<p>在此工作流示例中，我们使用了 Isaac Sim 6.1 和 Codex CLI，并在窗口模式下启动了 Isaac Sim。</p>
+<p>在处于活动状态的 Codex CLI 中使用以下示例提示词来启动 Isaac Sim：</p>
+<p>Isaac Sim 中的远程 Python 服务器使您的智能体能够通过 Python 与正在运行的 Isaac Sim 应用程序进行“对话”。在继续之前，请确认连接正常。</p>
+<p>在每个步骤中，根据任务调整前沿 AI 智能体中的示例提示词，然后查看仿真结果和验证反馈以识别问题并完善资产。</p>
+<p>作为该工作流的第一步，我们将从参考文件夹中的 STEP 文件导入机器人。</p>
+<p>对于此示例，请在 Isaac Sim 目录内的参考文件夹中提供以下输入：</p>
+<p>注：Isaac Sim 6.1 预装了 simready-foundation-tier-core。</p>
+<p>要求智能体使用提供的输入来指导转换为 OpenUSD 并导入到 Isaac Sim 中。</p>
+<p>使用的 NVIDIA Skills：omniverse-cad-to-simready、omniverse-cad-to-usd 和 isaac-sim-remote。</p>
+<p>继续前的检查项：机器人资产已导入并可供检查。任务和提供的要求已被理解，缺失信息已被识别。</p>
+<p>下一步是检查导入的机器人，以确认预期的材质和纹理均存在且已正确加载。将该资产与提供的 ABB 图像和视频进行对比，以检查比例、方向和部件放置位置。</p>
+<p>要求智能体使用这些参考材料添加或优化材质与纹理。</p>
+<p>假设条件：智能体通过调整颜色、金属度响应和粗糙度来在视觉上匹配机器人的材质，同时保留 CAD 几何形状和安装变换。材质设置属于视觉估算，没有经过实测材质重建或 AI 生成纹理。</p>
+<p>使用的 NVIDIA Skills：isaac-sim-remote、usd-pipeline。</p>
+<p>继续前的检查项：机器人具有预期的比例、朝向、部件和外观。任何缺失的材质、纹理或其他视觉差异均已记录。</p>
+<p>在现阶段，OpenUSD 资产包含机器人的视觉几何体，但关节、刚体和碰撞几何体尚未配置。要求智能体为双臂和夹爪配置并验证物理属性。我们在参考文件夹中的数据表将被智能体用于确保关节运动范围和速度限制与受仿真的机器人匹配。</p>
+<p>如果制造商数据不完整，您可以要求智能体识别缺失的参数，并查阅技术手册或针对该确切型号的可用 URDF 机器人描述。在质量属性仍然不可用的情况下，按照 NVIDIA 的质量属性指南，根据几何体并使用有据可查的密度或质量分布假设来进行估算。例如，在没有提供足够上下文时，我们观察到智能体拉取了该机器人的公开 URDF，并使用它来确定关节的正确轴向和零位配置。</p>
+<p>初始位姿可能会有所不同。</p>
+<p>图 4. 物理配置后的 YuMi 位姿</p>
+<p>此工作流中的仿真假设：</p>
+<p>使用的 NVIDIA Skills：usd-articulation、physics-simulation、isaac-sim-validator、isaac-sim-remote。</p>
+<p>继续前的检查项：关节围绕预期的轴运动并在其限制范围内。基座安装和夹爪运动表现符合配置。估算的属性和任何验证失败项均已记录。</p>
+<p>下一步是对照预期仿真任务的 SimReady 要求，验证机器人的 OpenUSD 资产。要求智能体运行所选的 SimReady Foundation 检查，审查发现的问题，并根据需要修改资产。</p>
+<p>此工作流中的验证结果：</p>
+<p>这些检查验证了仿真实现。它们并未确立在所有可能位姿下与真实世界机器人动力学或碰撞安全性的完全一致。</p>
+<p>继续前的检查项：序列符合约定的验收标准，并且所选的 SimReady 检查均已通过。微调变更、估算属性以及任何未解决的故障均已记录。</p>
+<p>在 Isaac Sim 中运行最终验证，将视觉、物理和 SimReady 检查与抓取放置任务相结合。</p>
+<p>要求智能体向测试场景中添加彩色目标和一个盒子，并定义目标位置和颜色元数据，使用场景元数据来选择相匹配的颜色目标。</p>
+<p>仿真假设：</p>
+<p>演示的抓取放置结果：</p>
+<p>图 6. 带有彩色立方体和目标标记的 YuMi 抓取放置仿真</p>
+<p>另一项独立演示使用了根据参考图像创建的 Sharpie 记号笔，让智能体创建 3D 资产供机器人抓取。</p>
+<p>成功的仿真测试证明了在测试条件下的行为表现。具体结果可能会因所使用的前沿 AI 模型和提示词而有所不同。</p>
+<p>所使用的 NVIDIA Skills：manipulation-ik、physics-simulation、isaac-sim-validator、isaac-sim-remote、isaac-sim-rendering</p>
+<p>SimReady Foundation 与 NVIDIA Omniverse 工具可帮助开发者将 CAD 文件和参考资料转化为可在仿真中进行配置、验证和测试的资产。利用 OpenUSD、SimReady Foundation 以及 NVIDIA Omniverse 工具和技能，为您的机器人仿真任务准备资产。</p>
+<p>YuMi 操作演练提供了一个以 GPT-6 Astra 作为前沿 AI 模型的 SimReady 机器人工作流程示例。若要将该方法适配到其他机器人或前沿 AI 模型，请确认已获得所需工具和技能的访问权限，提供相关参考材料，并重复进行资产与任务验证。实际结果可能会因所使用的模型、推理算力投入（reasoning effort）以及提示词的不同而有所差异。</p>
+<p>体验 ABB 机器人示例工作流</p>
+<p>欢迎于 2026 年 10 月 20 日至 22 日参加在柏林举办的 NVIDIA GTC 大会，共同探索物理 AI 与机器人技术的最新进展，并与广大开发者、研究人员及行业领袖交流互动。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【NVIDIA Developer Blog (英伟达开发者官方英文)】于 2026-10-09 04:57 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#NVIDIA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NVIDIA Developer Blog (英伟达开发者官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-chscreen-ipad-mini-rumor-055daf4225c550e5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="558" data-content-paragraphs="9" data-published-at="2026-10-08T20:32:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 04:32</span>
+</div>
+
+### [据报道苹果将在三周内推出其首款触屏MacBook](https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Apple will reportedly debut its first touchscreen MacBook in three weeks</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="据报道苹果将在三周内推出其首款触屏MacBook" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>据彭博社报道，传闻中定于10月下旬举行的发布会还将包括新款iPad Mini。</p>
+<p>来自该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>查看杰伊·彼得斯（Jay Peters）发布的全部内容</p>
+<p>据彭博社报道，苹果公司预计将于10月27日“当天或前后”推出配备触控屏的新款MacBook Pro以及升级版iPad Mini。如果属实，该活动将仅在苹果今天宣布的10月13日活动两周之后举行，据传10月13日的活动将侧重于智能家居产品。</p>
+<p>彭博社称，这场10月下旬的活动将包括“在线视频演示”和“面向媒体的线下现场环节”，报道指出这与苹果针对10月13日活动的安排类似。</p>
+<p>据彭博社报道，在这场Mac和iPad发布会上，苹果将发布比现有产品更轻薄、配备触控OLED显示屏以及类似iPhone灵动岛界面的新款MacBook Pro。苹果显然还计划发布保留现有外观设计、但搭载与新款Mac Mini一同推出的M6芯片的MacBook Pro。此外，彭博社表示，上一次于2024年更新的iPad Mini也将迎来升级，其前置摄像头将调整至平板的横向边缘，并增加“改良后的扬声器系统”。</p>
+<p>一份汇聚最重要资讯的每日免费新闻摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 04:32 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ting-robot-company-human-7bd525b884109b29" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="658" data-content-paragraphs="11" data-published-at="2026-10-08T20:06:56.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 04:06</span>
+</div>
+
+### [加州正试图叫停“机器人对决人类”铁笼格斗赛](https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human)
+<div class="original-title-sub"><span class="orig-tag">原文</span> California is trying to shut down robot vs. human cage matches</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="加州正试图叫停“机器人对决人类”铁笼格斗赛" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件文摘和主页推送中。</p>
+<p>该州表示，自称“人形机器人格斗联盟”的Rek在未获许可的情况下，不得在加利福尼亚州举办涉及“任何人类”的格斗比赛。</p>
+<p>该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。</p>
+<p>查看杰伊·彼得斯（Jay Peters）的全部文章</p>
+<p>据《纽约时报》报道，加利福尼亚州运动委员会（California State Athletic Commission）向前述上个月举办人机对决的初创公司发出了停终指令函（cease-and-desist letter）。</p>
+<p>这场于9月18日举行的比赛，是由人类弗兰基·拉佩纳（Frankie LaPenna）对决科技初创公司Rek旗下的一台人形机器人；据《纽约时报》描述，该机器人由一名人类通过“远程虚拟现实系统”进行操控。Rek在其官网上自称为“人形机器人格斗联盟”，而该机器人似乎来自EngineAI，不过顶部换上了一个类似《终结者》风格的头部。</p>
+<p>您可以在YouTube上观看该比赛的重播：</p>
+<p>Rek首席执行官西克斯·利夫（Cix Liv）于9月30日在X平台上发布了这封信函，信中称该比赛为“未经批准的赛事”，并要求利夫和Rek在未经加利福尼亚州运动委员会批准的情况下，停止在加州“举办、推广或宣传任何涉及人类的拳击或综合格斗赛事、比赛或表演赛”。利夫表示：“兄弟们，我们做到了。”</p>
+<p>Rek计划于本周五举行的下一场比赛，将是两台携带武器的机器人之间互相对决。</p>
+<p>免费提供最重要的每日新闻文摘。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 04:06 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tion-hunger-strike-video-bf363e15443810eb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2941" data-content-paragraphs="15" data-published-at="2026-10-08T19:45:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 03:45</span>
+</div>
+
+### [佐治亚州ICE在押人员利用拘留所视频通话软件揭露内部恶劣处境](https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video)
+<div class="original-title-sub"><span class="orig-tag">原文</span> ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2233996808.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="佐治亚州ICE在押人员利用拘留所视频通话软件揭露内部恶劣处境" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该话题的相关动态将被添加到您的每日电子邮件摘要与主页动态中。<br />福克斯顿ICE处理中心的庇护寻求者在铁窗内录制的一段视频中，谴责了特朗普设立的“驱逐法庭”。<br />该作者发表的相关动态将被添加到您的每日电子邮件摘要与主页动态中。<br />查看加比·德尔瓦莱（Gaby Del Valle）的全部文章<br />如果您通过链接购买物品，《The Verge》可能会获得分成。参见我们的道德声明。</p>
+<p>在佐治亚州乡村地区一处移民与海关执法局（ICE）拘留中心内被羁押的四名男子，利用该机构的视频通话软件，曝光了内部的关押条件以及唐纳德·特朗普总统对移民法庭的强势控制。在这段时长五分钟的视频中，这几名男子描述了一个被刻意设计得运转失灵的法律体系，其目的就是将他们困在联邦羁押场所中长达数月乃至数年——而关押他们的私营机构则借此牟利。</p>
+<p>这段视频让这些男子付出了代价，无论在经济上还是身体上。福克斯顿ICE处理中心为被拘留者设立了一项工作计划，他们做饭、洗衣服或打扫卫生只能拿到微薄的报酬。这些报酬使他们能够在福克斯顿内部的小卖部购买额外食品，并与外界保持联系。“这里的工人每天能拿到1美元，这仅够打一个10分钟的电话，”视频中的一名男子伊德里斯·马赫穆多夫（Idris Makhmudov）说。他表示自己已被关押在福克斯顿长达27个月，且羁押仍在继续。</p>
+<p>马赫穆多夫和另外三名来自不同国家的男子身穿机构统一发放的暗沉制服出现。拘留中心平板电脑上的低分辨率摄像头使得他们的面容显得模糊。目前尚不清楚这几名男子具体是如何制作该视频的，但很可能是他们打给外界某人，由对方录下了他们向外界传达的信息。亚裔美国人促进正义协会（Asian Americans Advancing Justice）驻亚特兰大的移民律师萨曼莎·汉密尔顿（Samantha Hamilton）表示，她通过Signal聊天收到了一则该视频的YouTube链接。“我们获悉，本周末发布的视频中的所有人均已被单独关押，”作为“关闭福克斯顿”运动成员的汉密尔顿说，“他们正面临报复，而他们对此早有预料。”自那以后，45名被拘留者联名撰写了一封公开信，进一步详述了福克斯顿的恶劣环境，据估计目前已有73名被拘留者展开绝食抗议。</p>
+<p>ICE的羁押本不应是一种惩罚手段；其表面上的目的是为了确保处于驱逐程序中的人员能够出席听证会。但ICE的羁押设施与监狱几乎没有任何区别——视频中的男子反复强调了这一点。事实上，福克斯顿在成为移民拘留中心之前就是一座监狱。它具备监狱生活的诸多典型特征，包括被拘留者不得不依赖昂贵的通信工具才能与外界沟通。</p>
+<p>“这些设施几乎没有给人们留下任何能与亲人沟通的选择，”曾有多名当事人被关押在福克斯顿的汉密尔顿说。她表示，每个容纳60至70名被拘留者的“监区”（pod）只能使用三到四台平板电脑，那是他们与外界唯一的联系途径。</p>
+<p>而这些沟通是有代价的。为了向亲人发送信息、分享照片或拨打语音及视频电话，福克斯顿的被拘留者必须使用GettingOut软件，这是一款由监狱通信公司Telmate拥有的专有软件。今年早些时候，Telmate因2020年的一起数据泄露诉讼被勒令支付423万美元达成和解，在该事件中，包括姓名、付款信息和社保号在内的用户资料遭到泄露。</p>
+<p>Telmate归ViaPath Technologies（原GlobalTel*Link）所有，而后者又隶属于纽约市的私募股权公司美国证券（American Securities）。根据监狱政策倡议（Prison Policy Initiative）获取的数据，2021年ViaPath对用户的收费标准为每分钟18美分至1.10美元不等。这些费用日积月累，数额巨大——以至于在2024年，美国联邦通信委员会（FCC）出台规定，将相关公司向囚犯和被拘留者收取的费率上限限制在每分钟11至25美分（具体取决于羁押设施的规模）。然而在2025年特朗普重返白宫后，FCC投票决定将该费率上限最高上调83%。</p>
+<p>被ICE拘留的人员在获释后——或更常见的在被驱逐出境后——往往难以追回存入这些系统的资金。GettingOut的服务条款规定，如果账户在180天内处于非活跃状态，用户将失去账户访问权限，此后他们存入账户的所有资金都将被没收。根据WVTF的一篇报道，想要追回资金的唯一途径是拨打一个很难打通的客服电话。在乔·拜登总统任内，美国消费者金融保护局曾勒令Tel*Link支付300万美元，原因是其非法冻结并扣除在押人员账户中的资金。</p>
+<p>通信业务只是私营企业从移民羁押中牟利的手段之一。福克斯顿由GEO集团（GEO Group）所有并运营，这是一家上市公司，其股价在特朗普连任后飙升，在2024年大选日之后暴涨了超过75%。GEO集团向特朗普的竞选活动及相关政治行动慷慨捐款，在7月份向特朗普的超级政治行动委员会（super PAC）捐赠了140万美元——这或许是为了对今年早些时候获得的1.65亿美元政府合同表示感谢。根据一份2021年国土安全部的预算概览，该集团每月收取超过150万美元的费用来运营福克斯顿。该设施可容纳780人，并设有544人的保底最低在押人数保障。</p>
+<p>特朗普的大规模驱逐行动，加上积压严重的移民法院体系，使得ICE很容易在福克斯顿达到合同约定的最低人数指标。视频中的男子声称，他们和其他人已经在那里被关押了数年，并解释说脱身的唯一途径只有获得假释、保释或庇护——或者被驱逐出境。鉴于特朗普已将移民法律体系转变为被拘留者口中的“驱逐法庭”，后者如今成了最可能的结果。雪城大学研究人员分析的联邦数据显示，在过去一年佐治亚州移民法院记录的143,729起在押案件中，81%的案件当事人没有法律代理人，因此他们获得任何形式救济的可能性大幅降低。庇护寻求者的获批几率更是微乎其微。本财年迄今为止，亚特兰大的移民法官在裁决的2,072起庇护案件中驳回了89%，而2023年的驳回率为63%。</p>
+<p>视频中的几名男子指出，特朗普对移民体系进行了彻底整顿，以确保获得有利的裁决。自特朗普重返白宫以来，负责监管移民法庭的司法部已解雇了100多名裁决不符合本届政府大规模驱逐推进政策的法官。至少有153名新法官被聘用以填补空缺。这些法官准予移民保释或假释的可能性要低得多，从而将被拘留者困在被他们自身及倡导人士称为低于标准的恶劣环境中。</p>
+<p>移民律师汉密尔顿（Hamilton）表示，她和“关闭福克斯顿联盟”（Shut Down Folkston coalition）的其他成员经常收到关于该设施食物难以下咽和水质肮脏的报告，包括被拘留者在水中发现蠕虫的情况。她说，由于食物是超加工食品，她的许多当事人在进入该设施时身体健康，获释时却患上了包括糖尿病和高血压在内的新疾病。</p>
+<p>“我们大多数人都是寻求庇护者，来到美国是为了寻求免受母国政治迫害和暴力的保护，”在福克斯顿被拘留的男子之一马赫穆多夫（Makhmudov）在视频中说。“许多人逃离是因为害怕在那些国家沦为政治犯——可以说，仅仅因为我们是移民，我们在美国就变成了政治犯。”</p>
+<p>一份关于最重要新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 03:45 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-arch-overhaul-windows-11-fffcb5798daff03d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="958" data-content-paragraphs="1" data-published-at="2026-10-08T19:30:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 03:30</span>
+</div>
+
+### [微软全新 Windows 搜索正是 Windows 11 所急需的升级](https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft’s new Windows Search is exactly what Windows 11 needs</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowssearch.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软全新 Windows 搜索正是 Windows 11 所急需的升级" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件文摘和主页推送中。<br />Windows 搜索正在进行全面升级，重点提升速度与功能。<br />该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。<br />查看汤姆·沃伦（Tom Warren）的全部文章<br />Windows 搜索一直是 Windows 11 中最让人烦躁的部分之一，如今微软正在通过一次重大改版来解决这一问题。全新重新设计的 Windows 搜索目前正在测试中，其速度大幅提升，功能更强大，且更加现代。<br />“这种全新的 Windows 搜索体验专为速度打造，”微软 Windows 产品团队企业副总裁安舒尔·拉瓦特（Anshul Rawat）表示，“它基于 WinUI 3 构建，是我们现代化核心 Windows 体验更广泛投资的一部分。”<br />微软表示，该新搜索的早期测试已显示出“在性能和内存占用方面的显著改善”，这意味着该公司也没有为了改进搜索而给 Windows 增加额外的臃肿负担。用户界面（UI）也得到了极大提升，拥有飞快的动画响应和一个大尺寸预览窗格。<br />在对搜索进行外观革新的同时，微软在幕后也在改进基础体验。“我们还在改进 Windows 搜索理解用户意图的方式，包括更好地匹配拼写错误和同义词，”拉瓦特说。<br />昨天在微软的 Windows 和 Surface 活动上，我体验了这个全新的 Windows 搜索界面，它的敏捷度与清爽感给我留下了深刻印象。在目前版本中，如果你搜索演员的身高等内容，系统需要花费数秒钟进行计算，并基本上只显示一个缩微版的必应（Bing）结果。<br />而全新的 Windows 搜索则会直接在结果列表中内嵌呈现答案，非常像 iOS 和 Android 中的现代搜索界面。这些内联结果还延伸到了 PowerPoint 演示文稿、照片以及其他文件的即时预览。<br />这款新 Windows 搜索最令人惊艳的地方在于，你可以像使用许多第三方工具一样将它当作启动器，让它直接执行诸如开启或关闭蓝牙、切换深色模式等操作。你甚至可以通过搜索让窗口最小化，或者将应用分屏并排开启。如果你搭配使用“手机连接”（Phone Link），这些操作还将联动至你的手机，例如你只需输入“给妈妈发短信说我要迟到了”，它就会直接通过手机发送短信。<br />免费每日要闻文摘。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 03:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-yberpunk-2077-film-movie-94d1df1bdb18f24c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="921" data-content-paragraphs="1" data-published-at="2026-10-08T19:14:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 03:14</span>
+</div>
+
+### [派拉蒙正在制作《赛博朋克2077》电影](https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Paramount is making a Cyberpunk 2077 film</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="派拉蒙正在制作《赛博朋克2077》电影" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该主题的推送将添加到您的每日电子邮件摘要和主页推送中。<br />查看所有娱乐内容<br />CD Projekt Red 的热门科幻专营系列正被改编为电影，但目前尚无何时上映的消息。<br />来自该作者的推送将添加到您的每日电子邮件摘要和主页推送中。<br />查看 Jay Peters 的全部内容<br />《赛博朋克2077》（Cyberpunk 2077）即将搬上大银幕。据 Deadline 报道，CD Projekt Red 旗下广受欢迎的科幻电子游戏系列正由派拉蒙影业（Paramount Pictures）改编为真人电影。目前尚无关于该片何时首映的详细信息。但 Deadline 称，曾制作《变形金刚》（Transformers）系列电影的洛伦佐·迪·博纳文图拉（Lorenzo di Bonaventura）将担任该片制片人。<br />“我们很高兴派拉蒙成为未来的合作伙伴，他们在《赛博朋克》系列上与我们有着共同的创作抱负，”CD Projekt Red 联席首席执行官米哈乌·诺瓦科夫斯基（Michał Nowakowski）表示。“我们期待在适当时机分享更多细节。”<br />尽管在 2020 年的发售开局并不顺利，但《赛博朋克2077》随后为 CD Projekt Red 取得了巨大成功，该公司近期宣布该游戏销量已突破 4000 万份。该系列还被改编为热门的 Netflix 动画剧集，该剧集的第二季将于本月晚些时候上线。《赛博朋克2077》的续作——被 CD Projekt Red 称为“赛博朋克2”（Cyberpunk 2）——也正在开发中，该工作室近期透露已有 184 人投入到该作的制作当中。<br />《赛博朋克2077》电影的消息传来之际，派拉蒙与华纳兄弟探索公司（Warner Bros. Discovery）以天舞（Skydance）名义进行的大型合并刚刚完成不久。派拉蒙目前还在制作计划于 2028 年上映的《使命召唤》（Call of Duty）电影，以及定于 10 月 16 日首映的《街头霸王》（Street Fighter）电影。<br />10月8日更新：添加了 CD Projekt Red 联席首席执行官的评论。<br />最重要新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 03:14 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-meddling-john-ternus-ceo-0aa66eecfece5503" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="784" data-content-paragraphs="10" data-published-at="2026-10-08T18:48:36.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 02:48</span>
+</div>
+
+### [蒂姆·库克表示自己“没有插手干涉”苹果新任CEO的工作](https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Tim Cook says &amp;#8216;I&amp;#8217;m not meddling&amp;#8217; in the new Apple CEO&amp;#8217;s business</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="蒂姆·库克表示自己“没有插手干涉”苹果新任CEO的工作" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>近期卸任的库克表示，他正在“以约翰·特纳斯认为合适的任何方式”协助这位新任首席执行官。</p>
+<p>该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>查看杰伊·彼得斯（Jay Peters）的全部文章</p>
+<p>蒂姆·库克于9月卸任苹果首席执行官一职，将最高职位交给了前硬件主管约翰·特纳斯（John Ternus），并担任执行董事长一职。库克仍然是公司的瞩目代表人物，最近还被拍到出席了白宫国宴。但在接受《独立报》（The Independent）采访时，库克表示自己“没有干涉”特纳斯的工作。</p>
+<p>“首先，约翰和我之间有着令人难以置信的彼此信任，”库克说。“这种关系必须建立在信任的基础之上，而且沟通必须频繁且深入。除此以外，我目前关注的是全球政策。与世界各国政府打交道至关重要，因为在很多领域，我们都在努力推动或倡导变革。这涉及大量工作，我正在处理这些事务，并以约翰认为合适的任何方式提供协助。我没有插手干涉。我不是一个爱管闲事指手画脚的人。”</p>
+<p>库克还表示，他曾告诉特纳斯“做好你自己的工作。把你的时间投入到你能在全公司发挥最大价值的事情上。这意味着不要模仿我。就像我当年没有模仿史蒂夫（乔布斯）一样。我们每个人都有不同的优势。”（彭博社近期报道称，特纳斯曾根据库克的建议对员工表示：“我需要把时间花在能为苹果创造最大价值的地方。”）</p>
+<p>在采访中，库克探讨了他希望如何让向特纳斯的领导层过渡成为“有史以来最好的交接，一个可供人们回顾和借鉴的教科书级范例”。据库克称，这一过渡“实际上几年前就已经开始了”，并表示“我认为一切的发展几乎完全符合我的设想”。特纳斯在接任仅仅几天后便发布了 iPhone Duo，库克表示他“希望约翰能获得顺风助力的推力”。</p>
+<p>最重要新闻的免费每日精选摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 02:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nds-z-a-switch-deal-sale-30a77cc669ecac51" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="652" data-content-paragraphs="6" data-published-at="2026-10-08T18:48:11.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 02:48</span>
+</div>
+
+### [我在亚马逊会员日只买了《宝可梦传说：Z-A》，而它现在仍在促销中](https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale)
+<div class="original-title-sub"><span class="orig-tag">原文</span> I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0107.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="我在亚马逊会员日只买了《宝可梦传说：Z-A》，而它现在仍在促销中" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>宝可梦训练家正在为战斗做准备。 | 图片来源：任天堂</p>
+<p>在报道了过去几天亚马逊十月促销活动之后，只有一件商品进入了我的购物车；而对你来说幸运的是，在活动结束后它依然在打折促销。亚马逊上任天堂Switch或Switch 2平台的《宝可梦传说：Z-A》（Pokémon Legends: Z-A）售价为39.88美元（Switch版通常售价为59.99美元，Switch 2版通常售价为69.99美元）。我上一部玩的宝可梦游戏还是《精灵宝可梦 Let&#39;s Go！伊布》，再之前是《宝可梦 月亮》，但最新作品中独特的密阿雷市背景设定以及即时战斗系统激发了我的兴趣。</p>
+<p>《宝可梦传说：Z-A》是正传系列中第一款采用即时战斗系统而非传统回合制机制的游戏。在以巴黎为灵感设定的游戏世界中，你依然在捕捉宝可梦、升级、交换和战斗，但更偏向动作化的战斗以及流畅的运行表现（在任天堂Switch 2上）深受好评。</p>
+<p>亚马逊售价39.99美元，原价69美元（Switch 2版）</p>
+<p>我们在去年10月《宝可梦传说：Z-A》发售前后对其进行了评测，认为它延续了“传说”系列的声誉，对许多人认为已经过时的核心玩法机制进行了彻底革新。如果你想要体验更多内容，“超级维度”（Mega Dimension）作为付费DLC提供（售价29.99美元）。包含游戏本体和DLC的全新Switch 2版游戏同捆包将于2026年10月29日推出，售价99.99美元，因此我建议趁现在价格更便宜时入手这款游戏。</p>
+<p>阅读我们的《宝可梦传说：Z-A》评测。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-09 02:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-drock-agentcore-payments-efcdc3919ca72b4a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="4830" data-content-paragraphs="42" data-published-at="2026-10-08T18:33:29.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:20</span>
+  <span class="news-meta-time">🕒 2026-10-09 02:33</span>
 </div>
 
-### [利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod</div>
+### [要闻：当 AI Agent（智能体）运行时，通常需要购买某些服务来完成任务：模型推理、API 响应、访问网络内容，或是](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments</div>
 
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/02/multi-tenant-hp-eks.jpg" alt="利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群" loading="lazy" /></div>
+<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/05/21707-1.png" alt="要闻：当 AI Agent（智能体）运行时，通常需要购买某些服务来完成任务：模型推理、API 响应、访问网络内容，或是" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>同一家公司内的多个团队越来越需要共享访问昂贵的 GPU 集群以开展生成式 AI 业务，同时还需要维持隔离边界、资源公平性和操作独立性。设想这样一个场景：一个数据科学团队正在训练大型语言模型，一个计算机视觉团队在运行推理工作负载，而一个研究团队正在试验新的模型架构。他们可能都需要访问同一个集群。如果缺乏设计良好的多租户（多团队）架构，组织将面临资源消耗失控、团队间隔离薄弱、无法将共享 GPU 成本归因到实际产生的团队，以及拖慢创新步伐的管理开销等问题。</p>
-<p>Amazon SageMaker HyperPod 是一项专用的 AI 服务，可简化面向生成式 AI 工作负载的大规模计算集群管理。它提供由 Amazon Elastic Kubernetes Service (Amazon EKS) 或 Slurm 编排的高弹性、优化集群，使组织能够大规模运行分布式训练、交互式开发和模型推理。与此同时，它会自动处理节点健康监控、故障恢复以及集群生命周期管理。</p>
-<p>在本文中，我们提出了一种基于 Amazon SageMaker HyperPod 与 EKS 构建多租户环境的参考架构。该架构使用 AWS IAM Identity Center 进行集中身份验证，使用按团队划分的 SageMaker AI 域提供定制的用户体验，使用 Kubernetes 命名空间实现工作负载隔离，使用 HyperPod Task Governance 确保资源公平分配，并通过命名空间级成本分配实现按团队划分的支出可见性与成本分摊（chargeback）。阅读完本文后，您将获得一份清晰的蓝图，供多个团队高效共享单个 HyperPod EKS 集群。</p>
-<p>架构概述<br />下图展示了多租户 HyperPod EKS 部署的高级架构。在此示例中，两个团队（团队 A 和团队 B）共享单个 HyperPod EKS 集群，各自在其独立的隔离命名空间内运行。</p>
-<p>图 1：两个团队共享一个 HyperPod EKS 集群的高级多租户架构</p>
-<p>该架构呈现为从左到右的分层流向，将用户身份通过授权控制连接到集群上隔离的工作负载命名空间中。</p>
-<p>用户与身份验证<br />在最左侧，来自每个团队的独立用户（团队 A 的用户 1，团队 B 的用户 2）通过两条路径与系统交互。这两条路径均通过 AWS IAM Identity Center Portal 进行身份验证，该门户与左下方所示的外部身份提供商（如 Microsoft Entra ID）进行联合。</p>
-<p>第一条路径是通过 CLI 访问。用户使用 `aws sso login` 进行身份验证，该命令会将他们重定向到 Identity Center 门户，然后从其团队的权限集中获取临时凭证，以便使用 `kubectl` 直接向 EKS 集群提交任务。在图表中，粉色箭头从 CLI 终端穿过顶部直接流入 HyperPod EKS 集群。</p>
-<p>第二条路径是直接通过 Identity Center 门户，用户在此选择 SageMaker Studio 应用程序，以登录到其团队专用的 SageMaker AI 域。</p>
-<p>每个团队都有一个对应的权限集（TeamA 权限集、TeamB 权限集），其中包含 CLI 工作流所需的 AWS Identity and Access Management (IAM) 策略。Identity Center 会为每个权限集自动配置一个 IAM 角色，在图表中显示为 TeamA-permissionset-role 和 TeamB-permissionset-role（标记为“CLI/控制台角色”）。当用户通过 `aws sso login` 进行身份验证时，该角色充当 IAM 主体。</p>
-<p>从 Identity Center 门户，用户会被路由到其团队专用的 SageMaker AI 域。每个域（团队 A 的 SageMaker AI 域和团队 B 的 SageMaker AI 域）都提供专用的 Amazon SageMaker Studio 图形用户界面 (GUI)，并配置有团队专用的执行角色（分别为 TeamA-role 和 TeamB-role）。这些域充当主要的工作区界面，使用户可以从 GUI 提交任务（如指向 EKS 的粉色箭头所示）。</p>
-<p>在 EKS 边界处，访问条目（access entries）将 IAM 角色映射到 Kubernetes 权限。该图显示了针对 TeamA-role 和 TeamB-role（Studio 执行角色）的访问条目，这些条目对源自 SageMaker Studio GUI 的请求进行授权。还必须为 Identity Center 配置的 CLI/控制台角色（TeamA-permissionset-role 和 TeamB-permissionset-role）配置访问条目，以对通过 `kubectl` 送达的请求进行授权。所有访问条目都与托管或自定义的基于角色的访问控制 (RBAC) 策略（由钥匙图标表示）相关联，并限定在团队指定的命名空间范围内。因此，无论访问是源自 Studio 还是 CLI，用户都只能与其自身命名空间内的资源进行交互。</p>
-<p>集群本身在顶部描绘了两个横向切面的平台层：HyperPod Observability（用于监控和仪表板）和 HyperPod Task Governance（用于计算配额管理和调度优先级）。在这些层下方，集群被划分为命名空间 A（团队 A）和命名空间 B（团队 B）。在每个命名空间内，团队可以运行各自的 HyperPod Spaces（交互式开发环境）、HyperPod PyTorch 作业（分布式训练工作负载）以及 HyperPod Inference 端点（模型提供/推理服务）。</p>
-<p>在集群下方，该架构包含两个存储层。第一层是符合 POSIX 标准的文件系统（Amazon FSx for Lustre 或 Amazon FSx for OpenZFS），组织为按团队划分的共享目录（`/fsx/TeamA`、`/fsx/TeamB`）和按用户划分的主目录（`/home/User1`、`/home/User2`）。第二层是用于对象存储的按团队划分或共享的 Amazon Simple Storage Service (Amazon S3) 存储桶，受团队的 IAM 执行角色管辖。</p>
-<p>该架构从身份验证、授权到工作负载执行都实现了团队间的相互隔离，同时高效共享昂贵的 GPU 基础设施。</p>
-<p>身份验证与访问控制<br />任何多租户系统的基石都是强大的身份验证：在用户与任何资源交互之前验证其身份。在此架构中，AWS IAM Identity Center 充当集中式身份验证层，与外部身份提供商联合以管理用户身份和组成员资格。</p>
-<p>为何选择 AWS IAM Identity Center<br />AWS IAM Identity Center（AWS Single Sign-On 的后续演进产品）提供了一个跨 AWS 账户和应用程序管理员工身份的单一控制中心。对于多租户 HyperPod 部署，它提供了几项关键能力：<br />集中式身份管理 – 无需为每个 AWS 服务维护单独的用户数据库，Identity Center 为所有用户身份及其组成员资格提供了单一可信数据源（single source of truth）。</p>
-<p>与现有身份提供商联合——大多数企业已经使用 Microsoft Entra ID（前身为 Azure AD）、Okta 或 Ping Identity 等系统管理其员工身份。Identity Center 可以与这些提供商集成，因此企业无需重复创建用户账户，即可复用现有的身份基础设施。<br />与 SageMaker AI 原生集成——SageMaker AI 域（domains）支持 Identity Center 身份验证，因此用户可以通过其企业身份提供商以单点登录（SSO）方式登录 SageMaker Studio。<br />AWS 账户访问权限——Identity Center 还可以通过特定权限集向用户授予对底层 AWS 账户的访问权限，除了 Studio 图形界面体验外，还支持 CLI 工作流。<br />Amazon Managed Grafana 的必需条件——Amazon Managed Grafana 使用 Identity Center 作为员工用户的身份验证机制，当团队还需要访问可观测性仪表板以监控其工作负载时，这使其成为自然之选。<br />了解更多：什么是 IAM Identity Center<br />使用外部身份提供商配置 Identity Center<br />在此参考架构中，我们使用 Microsoft Entra ID 作为外部身份提供商，不过相同的模式也适用于大多数标准安全断言标记语言（SAML）2.0 提供商。<br />配置包括：<br />身份提供商中的用户组结构——在 Entra ID 中，创建与组织团队相对应的组。在我们的示例中，我们定义了三个组：TeamA、TeamB 和 Admin。每个组包含属于该团队的用户（例如，TeamA 组中的 user1-teamA@example.com）。<br />SCIM 预配置——在 Entra ID 和 AWS IAM Identity Center 之间启用 SCIM（跨域身份管理系统）同步。SCIM 提供用户和组的自动预配置与撤销预配置。当新用户添加到 Entra ID 中的 TeamA 组时，他们会自动同步到 Identity Center 并获得适当的访问权限，无需人工干预。<br />基于 SAML 的身份验证——配置 SAML 2.0 联合身份验证，以便用户在进行身份验证时，是针对 Entra ID 进行验证。Identity Center 充当服务提供商，信任来自您的 Entra ID 租户的断言。<br />通过此配置，您可以在现有的企业目录中管理团队成员身份（这驱动了所有下游授权决策），并且它会自动传播到 AWS。<br />下图展示了如何在 Microsoft Entra ID 中表示组织团队的示例，其中包含专用于 TeamA、TeamB 和 Admin 的组。<br />图 2：在 Microsoft Entra ID 中表示为组的组织团队<br />接着，下图显示了 AWS IAM Identity Center 中对应的组，这些组通过 SCIM 同步从 Entra ID 自动预配置。<br />图 3：AWS IAM Identity Center 中对应的组，通过 SCIM 预配置<br />了解更多：连接外部身份提供商 · SCIM 配置文件与 SAML 2.0 实现<br />在建立身份验证后，下一层是授权：控制每个团队在各 AWS 服务和 Kubernetes 集群中可以执行的操作。此架构中的授权在两个级别上运作：用于服务级别访问的 IAM，以及用于集群级别访问的 Kubernetes RBAC。<br />每个团队都需要一个专用的 IAM 角色，用于封装其人工智能和机器学习（ML）工作流所需的 AWS 级别权限。这些角色充当 SageMaker AI 域执行角色，并定义团队可以访问哪些 AWS 服务。<br />典型的团队 IAM 角色应包含授予以下访问权限的策略：<br />Amazon SageMaker AI——用于通过 SageMaker AI API 管理 HyperPod 集群、MLflow 跟踪服务器及其他 SageMaker AI 资源。<br />Amazon S3——用于读取训练数据集以及写入模型构件、检查点和日志。将这些权限限制在团队专用的存储桶前缀范围内。<br />Amazon CloudWatch——用于查看与团队工作负载相关的日志和指标。<br />Amazon EKS——具体而言是 eks:AccessKubernetesApi 和 eks:MutateViaKubernetesApi 权限，SageMaker Studio 图形界面需要这些权限来代表用户调用 Kubernetes API（例如列出 Spaces 或提交作业）。<br />每个 IAM 角色的信任策略必须包含 sagemaker.amazonaws.com 作为受信任主体，以便 SageMaker AI 在用户通过 Studio 操作时代表用户代入该角色。如果您计划将相同的执行角色重新用作集群内工作负载的 EKS Pod Identity 关联（如后文 Amazon S3 存储部分所述），信任策略还必须包含 pods.eks.amazonaws.com 作为受信任主体。通过 Identity Center 进行的 CLI 访问使用单独的权限集及其自身策略（参见“通过 Identity Center 访问 AWS 账户”部分），因此 CLI 权限可以独立划定范围。<br />了解更多：如何使用 SageMaker AI 执行角色<br />通过 Identity Center 访问 AWS 账户<br />除 SageMaker Studio 之外，团队通常还需要直接访问 AWS 账户以进行 CLI 操作，例如运行 kubectl 命令、编写工作流脚本或以编程方式访问资源。Identity Center 权限集提供了此项能力。<br />对于 Admin 组，根据公司策略分配具有管理访问权限的权限集，授予集群管理和管理操作所需的必要账户访问权限。<br />对于 Team A 和 Team B，创建具有内联策略或托管策略的权限集，直接授予 CLI 工作流所需的权限。典型的团队权限集包括 eks:AccessKubernetesApi 权限（用于从 AWS 控制台查看 Kubernetes 资源）、针对团队数据划定范围的 S3 访问权限，以及用于监控的 CloudWatch 读取访问权限。这些策略与 Studio 执行角色独立定义，因此管理员可以根据团队在命令行执行的具体操作量身定制 CLI 权限。<br />用户通过 AWS 命令行界面（AWS CLI）使用 aws sso login 获取临时凭证，然后可使用该凭证配置 kubectl 以直接与 EKS 集群交互。<br />下图展示了 AWS IAM Identity Center 中按团队划分的权限集，为 CLI 工作流（例如针对 EKS 集群运行 kubectl 和 aws sso login）提供受限范围的 AWS 账户访问权限。<br />图 4：AWS IAM Identity Center 中用于 CLI 工作流的按团队权限集<br />了解更多：使用权限集管理 AWS 账户<br />配置 AWS CLI<br />团队成员通过运行 aws configure sso 来配置 AWS CLI 以通过 Identity Center 进行身份验证。这会在 ~/.aws/config 中创建引用相应 Identity Center 会话和权限集的配置文件（profile）。每个团队成员在从命令行与集群交互时都使用其团队特定的配置文件，无论访问是来自 Studio 还是本地终端，都能保持授权边界。</p>
-<p>生成的配置为 Identity Center 门户定义了一个共享的 sso-session 块，并为每个团队配置了一个指定名称的 profile，各自指向该团队的权限集（permission set）。随后，团队成员运行 aws sso login --profile 命令，即可获取限定在其权限集范围内的临时凭据：<br />[sso-session my-sso] sso_start_url = https://d-xxxxxxxxxx.awsapps.com/start sso_region = us-west-2 sso_registration_scopes = sso:account:access<br />[default] sso_session = my-sso sso_account_id = 123456789012 sso_role_name = OpsAdmin region = us-west-2<br />[profile team-a] sso_session = my-sso sso_account_id = 123456789012 sso_role_name = TeamA-permission-set region = us-west-2<br />[profile team-b] sso_session = my-sso sso_account_id = 123456789012 sso_role_name = TeamB-permission-set region = us-west-2<br />了解更多：通过 AWS CLI 配置 IAM Identity Center 身份验证<br />SageMaker AI 域（domains）为每个团队提供工作区边界，提供量身定制的用户体验、预配置的执行角色以及与 Identity Center 身份验证的内置集成。<br />为什么选择 SageMaker AI 域<br />为每个团队使用一个 SageMaker AI 域是组织多团队环境的成熟模式。这种方法具有以下几项优势：<br />成熟的多团队模式 —— AWS 已对使用多个域来隔离业务线或团队的方法进行了广泛的文档阐述，使其成为一种经过验证且受官方支持的配置方式。<br />原生 Identity Center 身份验证 —— 每个域都可以配置 Identity Center 身份验证，这意味着用户只需通过其企业身份提供商登录一次，即可直接进入其团队的 Studio 环境。<br />内置团队配置 —— 域本身就提供了为用户和团队指定配置的机制，无需额外的自定义实体。例如，团队执行角色等设置可以在域级别指定，并可在用户画像（user profile）级别进行覆盖，以实现最大的灵活性。<br />导航自定义 —— 通过域设置，管理员可以隐藏与团队工作流程无关的导航项，呈现针对 HyperPod 用例量身定制的专属界面。<br />了解更多：SageMaker AI 域实体和状态 · 多域概述<br />为各团队设置专属域<br />为每个团队创建一个启用了 Identity Center 身份验证的 SageMaker AI 域。在我们的示例中，我们创建了 TeamA-domain 和 TeamB-domain。每个域的配置如下：<br />默认执行角色 —— 将域的默认执行角色设置为在授权步骤中创建的特定于团队的 IAM 角色。这样一来，通过 Studio 执行的所有操作都会继承相应的权限。<br />Identity Center 用户组分配 —— 将对应的 Identity Center 组（例如 TeamA 组）添加到域中。这将为该组的所有成员激活 SageMaker Studio 应用程序，授予他们访问 Studio 界面的权限。<br />应用程序分配验证 —— 配置组访问权限后，在 Identity Center 中检查应用程序分配情况，以确认正确的组映射到了正确的域。<br />导航自定义 —— 为每个域配置默认导航设置，仅展示相关的业务能力。例如，您可以隐藏与 HyperPod 工作流程无关的项，从而提供精简的、以 HyperPod 为中心的用户体验，减少仅需处理 HyperPod 资源的团队成员的认知负荷。<br />下图展示了 SageMaker AI 控制台，其中每个团队拥有一个域（TeamA-domain 和 TeamB-domain），各自提供隔离的工作区边界。<br />图 5：SageMaker 控制台中每个团队对应的 SageMaker 域<br />接下来，下图展示了 TeamA-domain 的详细信息，包括分配的 Identity Center 组。<br />图 6：TeamA-domain 配置及其分配的 Identity Center 组<br />HyperPod EKS 集群配置<br />HyperPod EKS 集群是执行工作负载的地方。集群级别的多租户是通过用于隔离的 Kubernetes 命名空间（namespaces）和用于授权的 EKS 访问条目（access entries）实现的。<br />为每个团队创建一个专用的 Kubernetes 命名空间，例如 hyperpod-ns-team-a 和 hyperpod-ns-team-b。命名空间在集群内提供了逻辑边界，将每个团队的工作负载（Spaces、训练作业、推理端点）彼此隔离开来。<br />注意：命名空间是隔离边界，而不是严格的安全边界。该架构面向的是单个组织内的多团队场景：各团队在统一的管理域和相互信任的基准下共享同一个集群。它并非设计用于互不信任的租户之间的多客户隔离。<br />命名空间、RBAC 和配额可以防止意外干扰（例如团队相互覆盖资源或超出其计算配额），但无法抵御蓄意恶意租户的攻击：命名空间内的 Pod 共享相同的节点和内核，而集群范围的资源（节点、PersistentVolumes、CRD、某些 Operator 组件）并不归属于任何命名空间。<br />对于不受信任的租户或严格的合规隔离要求，应使用更严格的边界，例如独立的集群或账号、专用节点池以及运行时沙箱技术。对于本文讨论的多团队场景，命名空间隔离结合 RBAC、Task Governance 配额以及后文介绍的 POSIX 身份控制，在隔离性和操作简便性之间取得了适当的平衡。<br />命名空间可以通过 kubectl create namespace 手动创建，也可以通过 HyperPod Task Governance 自动配置，后者将命名空间作为其配额和调度配置的一部分进行管理。<br />下图展示了集群命名空间（通过 HyperPod Task Governance 管理），每个团队拥有一个专用命名空间（hyperpod-ns-team-a 和 hyperpod-ns-team-b）以提供工作负载隔离。<br />图 7：用于工作负载隔离的每个团队专用 Kubernetes 命名空间<br />了解更多：Kubernetes 命名空间<br />命名空间本身并不限制网络流量。默认情况下，Kubernetes 网络是扁平的：所有 Pod 都可以跨命名空间互相访问。因此，除非添加控制措施，否则 hyperpod-ns-team-a 中的 Pod 可以与 hyperpod-ns-team-b 中的 Pod 建立连接。为了将 Pod 之间的可达性限制在团队边界内，请使用 Kubernetes NetworkPolicy 资源。<br />推荐的模式是按命名空间实行默认拒绝（default-deny）：首先拒绝所有入站流量（可选择同时拒绝出站流量），然后显式允许每个团队所需的流量，通常为命名空间内部通信以及必要的出站流量（例如 DNS、存储端点和 AWS API）。以下示例拒绝团队命名空间中的所有入站流量，随后仅允许来自同一命名空间内 Pod 的流量：</p>
-<p># 1. 默认拒绝团队命名空间中的所有入站流量。<br />apiVersion: networking.k8s.io/v1<br />kind: NetworkPolicy<br />metadata:<br />  name: default-deny-ingress<br />  namespace: hyperpod-ns-team-a<br />spec:<br />  podSelector: {} # 适用于该命名空间中的所有 Pod<br />  policyTypes:<br />  - Ingress<br />---<br /># 2. 仅允许来自同一命名空间内 Pod 的入站流量。<br />apiVersion: networking.k8s.io/v1<br />kind: NetworkPolicy<br />metadata:<br />  name: allow-same-namespace<br />  namespace: hyperpod-ns-team-a<br />spec:<br />  podSelector: {}<br />  policyTypes:<br />  - Ingress<br />  ingress:<br />  - from:<br />    - podSelector: {} # 该命名空间内的任何 Pod</p>
-<p>网络策略（NetworkPolicy）的强制执行依赖于支持该功能的容器网络接口（CNI）。在 EKS 上，你可以在 Amazon Virtual Private Cloud (Amazon VPC) CNI 中启用网络策略支持。</p>
-<p>与命名空间类似，NetworkPolicy 可以减少团队间意外的互访互通并缩小暴露范围，但它们本身在共享节点上并不构成对抗性的安全边界。如前文所述，为了获得更强的隔离性，可考虑为每个团队配置专用节点池或使用独立的集群。</p>
-<p>了解更多：Kubernetes 网络策略 · Amazon VPC CNI 网络策略</p>
-<p>EKS 访问条目（Access Entries）将 IAM 主体与 Kubernetes RBAC 权限相连接。针对每个团队，需要创建两个访问条目：</p>
-<p>Studio 访问条目 – IAM 主体是该团队的 SageMaker AI 域执行角色。当操作来源于 SageMaker Studio GUI 界面时，将使用此条目。</p>
-<p>CLI 访问条目 – IAM 主体是由 Identity Center 为团队权限集创建的 SSO 预置角色（遵循 AWSReservedSSO_ _ 命名模式）。当用户通过 kubectl 与集群交互时，将使用此条目。</p>
-<p>这两个条目都通过托管或自定义 Kubernetes 策略限定在团队的命名空间作用域内。例如，团队 A 的两个条目都仅在 hyperpod-ns-team-a 命名空间内授予权限。如果需要，这两个条目还可以携带不同的 RBAC 策略。例如，CLI 条目可以限制对某些资源类型的写入访问，而 Studio 条目则允许完全访问。</p>
-<p>通过这种范围限定，无论访问来源于 Studio 还是 CLI，用户都只能与自己命名空间内的资源进行交互。尝试列出或修改其他团队命名空间中的资源将导致 Kubernetes Forbidden 错误。</p>
-<p>对于更高级的场景，你可以在访问条目中使用 Kubernetes 用户组，将用户映射到自定义的 ClusterRole 或 Role，以提供超出标准托管策略的细粒度权限。</p>
-<p>下图展示了团队 B 角色的 EKS 访问条目，其范围被限定在 hyperpod-ns-team-b 命名空间，因此其权限仅在团队 B 的命名空间内生效。</p>
-<p>图 8：限定在团队 B 命名空间作用域的 EKS 访问条目</p>
-<p>了解更多：通过 EKS 访问条目授予 IAM 用户对 Kubernetes 的访问权限</p>
-<p>HyperPod 任务治理（Task Governance）</p>
-<p>在集群上启用任务治理后，它将提供额外的资源管理层：</p>
-<p>计算配额 – 定义每个团队可以消耗多少 GPU 和 CPU 容量。这可以防止单一团队在训练运行期间独占共享硬件。</p>
-<p>优先级 – 为每个团队或工作负载类型分配调度优先级，允许关键的生产推理工作负载在资源紧张时抢占实验性训练任务。</p>
-<p>公平调度 – 借助任务治理，当多个团队竞争资源时，分配将遵循配置的策略，而不是采用先到先得的模式。</p>
-<p>为每个团队命名空间配置具有适当配额和优先级的任务治理策略，在保障最低分配额度与满足突发工作负载的弹性突发容量之间取得平衡。</p>
-<p>下图展示了两个团队的任务治理计算分配情况，每个团队的命名空间都被分配了各自的集群计算容量配额。</p>
-<p>图 9：按团队命名空间划分的任务治理计算分配</p>
-<p>了解更多：SageMaker HyperPod 任务治理</p>
-<p>存储是跨团队共享的人工智能与机器学习（AI/ML）环境中的关键组件。团队需要用于训练数据、检查点和模型构件的高性能文件系统，同时需要在团队之间维持适当的访问边界。</p>
-<p>兼容 POSIX 的文件系统</p>
-<p>对于需要共享的高性能 POSIX 文件系统的工作负载（这在多节点读取相同数据集或写入检查点的分布式训练中很常见），请考虑以下选项：</p>
-<p>Amazon FSx for Lustre – 提供高吞吐量、低延迟的并行文件系统访问，非常适合需要高速读取大型数据集的大规模训练工作负载。</p>
-<p>Amazon FSx for OpenZFS – 提供具有强大 POSIX 语义、快照和压缩功能的通用文件系统。非常适合在需要高性能的同时还需要传统文件系统功能的工作负载。</p>
-<p>Amazon Elastic File System (Amazon EFS) – 提供完全托管的弹性网络文件系统（NFS）存储。EFS 还支持接入点（access points），通过将不同的挂载点映射到具有强制 UID 和 GID 的不同目录，可以简化针对每个团队的目录隔离。</p>
-<p>存储布局通常遵循以下结构：</p>
-<p>团队共享目录 – 每个团队都有一个共享目录（例如 /fsx/TeamA、/fsx/TeamB），用于存放所有团队成员都需要访问的数据集、模型和构件。</p>
-<p>用户个人主目录 – 每个用户都有一个个人主目录（例如 /home/User1、/home/User2），用于个人工作、实验和笔记本开发。</p>
-<p>这些文件系统上的 POSIX 权限模型依赖 UID、GID 和补充用户组来强制执行访问边界。当用户启动 HyperPod Space 或提交训练作业时，这些 POSIX 身份应传播到 Pod 安全上下文中，以确保文件系统访问遵循所配置的所有权和权限。我们建议使用 Kubernetes 变更准入 Webhook（mutating admission webhook）从你的身份存储中检索 POSIX 身份信息。当提交工作负载时，Webhook 会在运行时查找该身份，并相应地修改 Pod 的安全上下文。</p>
-<p># 1. 从准入请求中提取调用方的会话身份。<br /># 在 EKS 上，来自 IAM 假定角色（包括 IAM Identity Center）的请求<br /># 会在 userInfo.extra[&quot;sessionName&quot;] 中显示 STS 会话名称。其格式<br /># 取决于会话的创建方式（例如，SSO 简称、电子邮件或 role-session-name）；<br /># 请根据此值对齐你的身份映射。<br />def extract_username(admission_request):<br />    extra = admission_request[&quot;userInfo&quot;][&quot;extra&quot;]<br />    ...<br />    return extra[&quot;sessionName&quot;][0]</p>
-<p># 2. 从映射表（例如 DynamoDB）中查找 POSIX 身份。<br />def lookup_posix_identity(username):<br />    item = posix_table.get_item(Key={&quot;username&quot;: username})[&quot;Item&quot;]<br />    ...<br />    return {<br />        &quot;uid&quot;: int(item[&quot;uid&quot;]),<br />        &quot;gid&quot;: int(item[&quot;gid&quot;]),<br />        &quot;supplementalGroups&quot;: [int(g) for g in item[&quot;supplementalGroups&quot;]],<br />    }</p>
-<p># 3. 使用解析出的 POSIX 身份修补 Pod 安全上下文。<br />def build_security_context_patch(pod, posix):<br />    ...<br />    return [{<br />        &quot;op&quot;: &quot;add&quot;,<br />        &quot;path&quot;: &quot;/spec/securityContext&quot;,<br />        &quot;value&quot;: {<br />            &quot;runAsUser&quot;: posix[&quot;uid&quot;],<br />            &quot;runAsGroup&quot;: posix[&quot;gid&quot;],<br />            &quot;fsGroup&quot;: posix[&quot;gid&quot;],<br />            &quot;supplementalGroups&quot;: posix[&quot;supplementalGroups&quot;],<br />        },<br />    }]</p>
-<p>了解更多：FSx for Lustre · FSx for OpenZFS · Amazon EFS</p>
-<p>对于对象存储，对 S3 存储桶的访问由团队的 IAM 执行角色管控。您可以为每个团队创建独立的存储桶，或使用带有团队前缀的共享存储桶，依靠 IAM 策略来实施隔离。集群内的 Pod 需要配置了用于服务账户的 IAM 角色（IRSA）或 Pod Identity 的相应服务账户，以向 S3 进行身份验证。为简化配置，您可以将 SageMaker AI 域上配置的相同执行角色关联到团队命名空间内的 Kubernetes 服务账户，从而为 Studio 和集群工作负载提供一致的 S3 访问权限。</p>
-<p>了解更多：用于服务账户的 IAM 角色 (IRSA) · EKS Pod Identity</p>
-<p>HyperPod Spaces 提供了直接运行在集群节点上的交互式开发环境（IDE）。在共享集群上，Spaces 必须严格限制在每个团队的命名空间范围内，并配置相应的资源模板。</p>
-<p>为每个团队创建以命名空间为作用域的 Space 模板。这些模板定义了团队成员在创建 Space 时可用的资源配置（实例类型、存储卷、环境变量）。通过将模板限定在命名空间内，可以确保每个团队只能在其指定的边界内启动 Space。</p>
-<p>当启用 HyperPod Task Governance 时，模板应包含治理系统所需的默认标签（例如团队标识符和优先级标签）。集群管理员会预先配置这些标签，这样团队成员在启动 Space 时就无需手动指定它们。</p>
-<p>以下示例展示了限定在 Team A 作用域内的 JupyterLab Space 模板。特定于团队的部分包括 metadata.namespace、baseLabels 下的 Task Governance 队列标签，以及挂载团队共享文件系统和用户主目录的 defaultVolumes：</p>
-<p>apiVersion: workspace.jupyter.org/v1alpha1<br />kind: WorkspaceTemplate<br />metadata:<br />  name: jl-smd-custom<br />  namespace: hyperpod-ns-team-a # 将模板作用域限定在 Team A 的命名空间<br />spec:<br />  displayName: &quot;JupyterLab (team-a)&quot;<br />  description: &quot;SageMaker Distribution&quot;<br />  appType: jupyterlab<br />  baseLabels:<br />    - key: kueue.x-k8s.io/queue-name # Team A 的 Task Governance (Kueue) 本地队列<br />      value: hyperpod-ns-team-a-localqueue<br />  ... # 容器命令、默认 CPU/内存资源、安全上下文、访问类型等<br />  ...<br />  defaultVolumes:<br />    - name: home-dir # 每个用户的主目录<br />      mountPath: /home<br />      persistentVolumeClaimName: fsx-openzfs-claim<br />    - name: shared-data # Team A 的共享目录<br />      mountPath: /fsx<br />      persistentVolumeClaimName: fsx-lustre-claim<br />  ... # 主存储 (EBS) 默认值与限制<br />  ...</p>
-<p>持久卷声明</p>
-<p>在每个团队的命名空间中创建相应的持久卷声明（PVC），并引用共享文件系统。这些 PVC 将团队的共享目录和用户的主目录挂载到 Space 中，从而提供对训练数据、检查点和个人工作区的访问权限。</p>
-<p>仅限所有者和共享的 Spaces</p>
-<p>请结合您组织的具体要求考虑 Space 的共享方式：</p>
-<p>仅限所有者访问的 Spaces（Owner-only Spaces）——每个 Space 仅可由创建它的用户访问。这是默认配置，适用于团队处理敏感或独立项目的情况。</p>
-<p>共享 Spaces（Shared Spaces）——多个团队成员可以访问同一个 Space，适用于结对编程、协作调试或共享开发环境。在启用共享 Spaces 时，请确保配置了 POSIX 权限和附加组，以便对 Space 内创建的文件授予适当的访问权限。</p>
-<p>了解更多：Amazon SageMaker HyperPod EKS 集群上的交互式开发环境</p>
-<p>尽管团队完全可以使用 kubectl 通过命令行界面（CLI）与集群进行交互，但对于偏好托管型、图形界面驱动工作流的用户，SageMaker Studio 提供了通往集群的图形化入口。在该架构中，每个团队通过其自身的 SageMaker AI 域（如前所述）访问 Studio，使用相同的 Identity Center 凭据登录，并在团队命名空间的边界内运行。</p>
-<p>下图展示了用户使用企业凭据登录后进入的 IAM Identity Center 访问门户，该门户为分配给他们的 SageMaker Studio 应用程序和 Amazon Managed Grafana 应用程序提供单点登录访问。</p>
-<p>图 10：具备分配应用程序单点登录功能的 IAM Identity Center 访问门户</p>
-<p>在 Studio 用户界面中，团队成员可以：</p>
-<p>管理 HyperPod Spaces —— 从管理员配置的限定命名空间作用域的 Space 模板中启动交互式开发环境，而无需编写 Kubernetes 清单或手动指定 Task Governance 标签。团队成员还可以启动、停止和连接其正在运行的 Spaces，并在浏览器中直接打开相关的 IDE（如 JupyterLab）。</p>
-<p>管理 Ray 工作负载 —— 创建和监控 Ray 集群，将 JupyterLab 或 Code Editor 工作区连接到集群，提交分布式作业，并打开 Ray Dashboard 和 Amazon Managed Grafana 可观测性仪表板，所有操作均无需编写 Kubernetes 清单或运行 kubectl 命令。</p>
-<p>由于 Studio 通过团队的域执行角色和相应的 EKS 访问条目运行，因此所有操作均限定在团队的命名空间内。从 Studio 启动 Space 或 Ray 集群的用户只能在其自身团队的边界内创建资源，这与为 CLI 访问强制执行的隔离模型保持一致。</p>
-<p>下图展示了如何从 SageMaker Studio 用户界面创建 HyperPod Space，团队成员在其中选择限定命名空间作用域的 Space 模板，而无需编写 Kubernetes 清单或手动指定 Task Governance 标签。</p>
-<p>图 11：在 SageMaker Studio 中通过限定命名空间作用域的模板创建 HyperPod Space</p>
-<p>了解更多：Amazon SageMaker HyperPod EKS 集群上的交互式开发环境 · 介绍 SageMaker HyperPod 上的新 Ray 功能</p>
-<p>HyperPod 训练操作器（HyperPod Training Operator）</p>
-<p>HyperPod Training Operator 使团队能够将分布式训练作业作为 Kubernetes 自定义资源（例如 HyperPodPyTorchJob）进行提交。在多租户架构中，训练作业的作用域限定在命名空间级别，这意味着它们会自动继承团队的隔离边界。</p>
-<p>团队可以使用带有相应作业清单的 kubectl apply 从 CLI 提交训练作业。该作业在团队的命名空间中运行，使用团队的计算配额（如果启用了 Task Governance），并具有对团队存储卷的访问权限。</p>
-<p>启用任务治理（Task Governance）后，训练作业将受团队分配的配额和优先级设置约束。如果某个团队已经用尽其保证配额，作业可能会排队，直到资源可用，或直到低优先级工作负载被抢占。</p>
-<p>将作业绑定到团队的两个要素是 metadata.namespace（将作业限定在团队的隔离边界内）和任务治理标签。任务治理基于 Kueue 构建，因此作业会通过 kueue.x-k8s.io/queue-name 路由到团队的本地队列。系统会通过 kueue.x-k8s.io/priority-class 为作业分配调度优先级，该字段的值是集群上定义的 WorkloadPriorityClass 名称：</p>
-<p>apiVersion: sagemaker.amazonaws.com/v1<br />kind: HyperPodPyTorchJob<br />metadata:<br />  name: team-a-training-job<br />  namespace: hyperpod-ns-team-a # 将作业限定在团队 A 的命名空间内<br />labels:<br />  kueue.x-k8s.io/queue-name: hyperpod-ns-team-a-localqueue # 任务治理（Kueue）本地队列<br />  kueue.x-k8s.io/priority-class: training-priority # WorkloadPriorityClass 的名称<br />spec:<br />  ... # replicaSpecs、容器镜像、命令、资源、卷等<br />  ...</p>
-<p>详细了解：使用 HyperPod 训练算子</p>
-<p>HyperPod 推理算子</p>
-<p>HyperPod 推理算子支持团队直接在集群上将模型部署为推理端点。与训练作业类似，推理端点受命名空间限定，并受到团队 RBAC 策略和任务治理配额的约束。</p>
-<p>团队可以通过 CLI，在其命名空间中创建推理端点自定义资源来部署模型。端点按命名空间隔离，这意味着团队 A 无法访问或干扰团队 B 的推理端点。</p>
-<p>对于需要高可用性的生产推理工作负载，可以考虑为推理端点分配高于训练作业的调度优先级，从而避免模型服务被批量训练工作负载中断。</p>
-<p>与训练作业一样，推理端点会被置于团队的 metadata.namespace 中，并携带任务治理标签。此处，kueue.x-k8s.io/priority-class 引用优先级更高的 WorkloadPriorityClass，因此当团队资源受限时，模型服务可以抢占批量训练作业：</p>
-<p>apiVersion: inference.sagemaker.aws.amazon.com/v1<br />kind: InferenceEndpointConfig<br />metadata:<br />  name: team-a-inference-endpoint<br />  namespace: hyperpod-ns-team-a # 将端点限定在团队 A 的命名空间内<br />labels:<br />  kueue.x-k8s.io/queue-name: hyperpod-ns-team-a-localqueue # 任务治理（Kueue）本地队列<br />  kueue.x-k8s.io/priority-class: inference-priority # 优先级更高的 WorkloadPriorityClass<br />spec:<br />  ... # 模型来源、实例类型、副本数量、自动扩缩容等<br />  ...</p>
-<p>详细了解：在 Amazon SageMaker HyperPod 上部署模型</p>
-<p>HyperPod 可观测性</p>
-<p>对于所有团队而言，了解集群运行状况、工作负载性能和资源利用率都至关重要。HyperPod 可观测性通过 Amazon Managed Grafana 提供内置的监控和仪表板功能。</p>
-<p>配置团队对 Grafana 的访问权限</p>
-<p>团队需要访问可观测性仪表板，以监控其工作负载、排查性能问题并了解资源消耗。不过，在多租户环境中，此类访问通常应设为只读：</p>
-<p>配置 Amazon Managed Grafana 的 Identity Center 身份验证——在 Amazon Managed Grafana 控制台中，导航至“Authentication”（身份验证），并启用 AWS IAM Identity Center。随后，用户可以使用登录 SageMaker Studio 时所用的相同企业凭证登录 Grafana。</p>
-<p>将团队组分配为 Viewer——将 Identity Center 组（TeamA、TeamB）映射到 Grafana Viewer 角色。这将授予团队成员对仪表板和指标的只读访问权限，但不能修改仪表板或数据源。</p>
-<p>管理员访问权限——将 Admin 组分配给 Grafana Admin 或 Editor 角色，使其能够创建和修改仪表板、配置告警以及管理数据源。</p>
-<p>团队专属仪表板——可以考虑创建按命名空间筛选数据的专用仪表板，使每个团队只能看到自己的工作负载指标。Amazon Managed Grafana 支持 Grafana Teams（Grafana 原生的 RBAC 概念，与本架构中的组织团队不同），可将其从 Identity Center 组映射而来，以限制仪表板可见范围，并提供额外的数据隔离层。</p>
-<p>下图展示了 Amazon Managed Grafana 中的 Grafana 角色分配情况。团队组（TeamA、TeamB）被分配 Viewer 角色，只能读取仪表板和指标；而管理员组被分配 Admin 角色，可以创建和修改仪表板、配置告警以及管理数据源。</p>
-<p>图 12：Grafana 角色分配，为团队授予只读的 Viewer 访问权限</p>
-<p>详细了解：由 Amazon EKS 编排的 Amazon SageMaker HyperPod 集群可观测性</p>
-<p>成本分配与成本回收</p>
-<p>在团队共享昂贵 GPU 基础设施的多租户环境中，了解资源由谁消耗以及消耗了多少，对于责任追踪、预算管理和成本回收至关重要。Kubecost 通过拆解 Kubernetes 集群内基于原生概念（命名空间、标签、部署和服务）的支出，并将其映射到团队、项目或环境等组织概念，满足了这一需求。</p>
-<p>由于该架构已经将每个团队隔离在专用命名空间（hyperpod-ns-team-a、hyperpod-ns-team-b）中，因此按命名空间进行成本分配可以直接对应团队边界。这样，平台管理员无需添加额外的工作负载标签，即可清晰查看每个团队在 GPU、CPU、内存、存储和网络方面的消耗。有关在 HyperPod 集群上部署和配置 Kubecost 的分步说明，请参阅 Kubecost on SageMaker HyperPod。</p>
-<p>启用团队可见性</p>
-<p>Kubecost 开始收集数据后，可以在 Allocations（分配）仪表板中按命名空间对成本进行分组，以查看每个团队的支出。由于每个团队拥有一个命名空间，这将直接生成涵盖计算、内存、存储和网络的团队级成本明细。与可观测性仪表板一样，让团队了解自身成本数据也十分有益：</p>
-<p>将视图限定为每个团队的命名空间——Kubecost 支持按命名空间筛选和保存报告，因此每个团队都可以查看自身的消耗和趋势，而不会看到其他团队的数据。</p>
-<p>设置预算和告警——配置按命名空间设置的预算阈值和告警，使团队和平台管理员能够在支出接近既定上限时收到通知，从而支持与 HyperPod 任务治理相同的资源公平目标。</p>
-<p>支持成本回收和成本展示——按命名空间分配的报告可以为内部成本回收（根据团队使用情况向其计费）或成本展示（报告使用情况但不进行计费）流程提供数据，使财务团队和平台团队能够获得公平分摊共享 GPU 成本所需的数据。</p>
-<p>下图展示了按命名空间分组的 Kubecost 分配仪表板，呈现了过去 7 天内每个团队命名空间的累计成本。<br />图 13：按命名空间分组以显示各团队成本的 Kubecost 分配仪表板<br />了解更多：SageMaker HyperPod 上的 Kubecost · Kubecost<br />本文介绍了一种在基于 EKS 的 Amazon SageMaker HyperPod 上构建多租户环境的参考架构。通过结合用于身份验证的 AWS IAM Identity Center、用于 AWS 层面授权的各团队专属 IAM 角色、用于定制化工作区体验的 SageMaker AI 域、用于工作负载隔离的 Kubernetes 命名空间、用于公平资源分配的 HyperPod 任务治理（Task Governance），以及用于按团队实现支出可见性的命名空间级成本分配，多个团队可以高效共享单个 HyperPod EKS 集群。<br />这是一种灵活、可组合的方法，将多个构建块整合成一个紧密协调的解决方案。该架构适用于各种使用场景和组织架构。例如，企业可以扩展该模式，将团队连接到与 EKS 并行的 HyperPod Slurm 集群，从而跨不同编排后端提供统一的多租户体验。<br />虽然该方法需要组装和配置若干组件，但最终能够带来高度的控制力和定制灵活性，可根据每个组织的具体隔离、合规性及运营需求量身定制。其基础模式（身份联合、命名空间隔离、RBAC、基于配额的治理以及成本分配）将始终适用。<br />要开始使用，请尝试在您自己的 Amazon SageMaker HyperPod EKS 集群上构建这种多租户配置，并根据您组织的隔离、治理及成本分配需求对这些构建块进行调整。<br />朱塞佩·安杰洛·波尔切利（Giuseppe Angelo Porcelli）<br />Giuseppe 是亚马逊云科技（AWS）的主任级机器学习专家解决方案架构师。凭借多年的软件工程经验和机器学习背景，他与各种规模的客户合作，深入了解他们的业务和技术需求，并设计能够充分利用 AWS 云及 Amazon 机器学习技术栈的 AI 与机器学习解决方案。他曾参与多个不同领域的项目，包括 MLOps、计算机视觉、自然语言处理（NLP），并涉及广泛的 AWS 服务。闲暇时，Giuseppe 喜欢踢足球。<br />Mayank 是一位资深 AI/ML 专家，在机器学习框架和企业级 AI 架构方面拥有深厚的专业知识。他在 SageMaker AI 和 SageMaker HyperPod 等 AWS AI 服务方面拥有丰富的实践经验，负责领导端到端 AI 解决方案的设计与交付，涵盖模型开发、分布式训练和生产规模部署。凭借在性能优化和可扩展 ML 架构方面的深厚经验，Mayank 与客户紧密合作，将复杂的业务挑战转化为安全、高影响力且可直接投产的 AI 系统，以推动可衡量的成果。</p></div>
+<div class="article-body" data-article-body="true"><p>当 AI Agent（智能体）运行时，通常需要购买某些服务来完成任务：模型推理、API 响应、访问网络内容，或是调用另一个 Agent。这些采购频次高且金额小，有时单次甚至不足一美分，并且它们发生在 Agent 内部循环中，没有人工在旁进行实时审批。</p>
+<p>Amazon Bedrock AgentCore payments 消除了这一负担。它为 Agent 提供了一种按需付费购买服务的托管方式，其支出限额由底层基础设施强制执行，而非依赖模型本身。在本文中，我们来看看 Incarna 如何使用 AgentCore payments 让其 Agent 能够通过 x402 协议按单次请求向 BlockRun 支付模型推理费用。BlockRun 是一个按需付费的推理路由服务，通过 x402 提供来自 15 家以上供应商的 90 多种模型，每次调用均独立报价和结算。AgentCore payments 兼容支持 x402 的端点，包括 Amazon Bedrock 推理端点。借助该服务，Incarna 团队将添加 x402 支付支持的工作量从数月缩短至数天，并将端到端的按推理付费流程投入了生产环境。</p>
+<p>挑战：按请求支付推理费用</p>
+<p>按推理付费是一种高频、低额的模式。一个 Agent 在单次会话中可能会进行数百次微额购买，每次仅值一美分的分数分之一。传统银行卡网络并非为分币以下的支付场景而设计。自建支付通道意味着必须同时解决几个棘手难题：必须决定资金存放在何处以及每笔付款如何签名、支持像 x402 这样的新兴支付协议，并防止自主 Agent 出现过度支出的情况。</p>
+<p>AgentCore payments 提供的能力</p>
+<p>Amazon Bedrock AgentCore 是一个可以在任何框架或模型下规模化构建、连接和优化 Agent 的平台。AgentCore payments 是 Amazon Bedrock AgentCore 的一项托管功能，开发者只需几行代码即可为自己的 Agent 增加支付能力。它负责处理支付协议、连接钱包、对交易进行签名并强制执行支出限制。开发者可以通过这一项托管服务完成集成，而无需自行拼凑各个组件。以下几点使其非常契合按推理付费的场景：</p>
+<p>托管钱包。Incarna 使用 Coinbase CDP 连接器为每个 Agent 配置钱包。该钱包归客户所有，并授予 Incarna 委托授权以使用该钱包。</p>
+<p>原生协议处理。当付费端点返回 HTTP 402（“需要付款”）时，Agent 会使用 AgentCore payments 通过 x402 发起支付。它使用配置的钱包对交易进行签名，并将加密证明返回给商家。</p>
+<p>基础设施层的支出管控。AgentCore payments 在模型外部强制执行额度限制，因此即使 Agent 的 Prompt 受到操纵，它也无法超出限制。</p>
+<p>可审计的结算。支付以稳定币进行结算。Incarna 在 Base 网络上使用 USDC，每笔交易都可在链上验证。</p>
+<p>下图展示了端到端架构。AgentCore 运行 Agent，BlockRun 提供计量推理服务，而 AgentCore payments 连接到客户的钱包，强制执行支出限制，并代表 Agent 的 Incarna 身份对每笔付款进行签名。</p>
+<p>图 1：按推理付费架构。Agent 请求通过 AgentCore 流向 BlockRun（HTTP 402），由 AgentCore payments 从 Agent 自有钱包签署 x402 付款<br />来源：incarna.io/aws-blockrun-incarna-partnership</p>
+<p>Incarna 所走的路径也向其他团队开放，AgentCore payments 会为你预置这些组件。你可以通过 Agent Toolkit for AWS（位于 Claude Code、Kiro 或 Codex 中）中的 AgentCore payments 技能，在引导式对话中完成配置。你也可以使用 AgentCore CLI、AgentCore SDK 或 AWS SDK 自行创建每个组件。</p>
+<p>首先将你的 Coinbase CDP 或 Stripe Privy 凭证存储为支付凭证提供方，这会将机密信息保存在 AWS Secrets Manager 中而非代码中。创建一个 Payment Manager（支付管理器）和连接器以根据这些凭证协调支付，并在该过程中设置默认支出限额。然后创建一个支付工具，即 Agent 付款所用的嵌入式钱包。终端用户通过重定向 URL 为其注资并授予签名权限；在测试网络上，你可以使用测试网 USDC 为其注资。</p>
+<p>流程：单次推理的购买与出售</p>
+<p>在这次集成中，BlockRun 是出售方。BlockRun 从实时目录中提供计量模型推理服务，每次调用都单独报价、支付和结算。单次推理的流程非常直接：</p>
+<p>Agent 需要进行一次模型调用。它与 BlockRun 集成，后者处理供应商的选择与交付。无需针对每个供应商单独订阅。</p>
+<p>BlockRun 返回 PaymentRequired 质询以及该次具体调用的价格。</p>
+<p>它开启一个支付会话并调用 ProcessPayment。AgentCore payments 根据为该会话设定的支出限额核对报价，并使用 Agent 自有的钱包地址签署授权。</p>
+<p>出售方验证支付签名。</p>
+<p>BlockRun 提供推理服务并记录扣费，即单次调用的微小金额。</p>
+<p>由于结算是按请求进行的，Agent 仅为其实际使用的资源付费，如果 Agent 决定不进行调用，则不会产生任何费用。</p>
+<p>AgentCore payments 支持两种 x402 支付方案：exact（精确额度）和 upto（上限额度）。exact 方案通常用于预先已知价格的情况。upto 方案适用于动态定价的资源：Agent 授权一个最高限额，推理提供方在结束时根据实际使用量在该上限范围内进行结算。</p>
+<p>保持支出可控</p>
+<p>让开发者能够放心让 Agent 调动真金白银的关键在于支付会话（payment session）。会话设置了上限，即 Agent 最多可以支出的金额，AgentCore payments 会在基础设施层强制执行该上限。Agent 自身的代码和 Prompt 均无法更改它。每个会话还带有过期时间，Incarna 将其会话设置为单日的预算规模。即使 Agent 的逻辑出现问题，它也无法超出客户设定的限额进行支出。即使目前尚未使用会话级预算的集成，也可以在无需更改代码的情况下采用该机制。有关这些控制机制运作方式的更多信息，请参阅《通过内置防护机制实现安全的 Agent 支付》。</p>
+<p>Incarna 已在 Base 网络上将按推理付费流程投入生产环境，BlockRun 负责销售端，AgentCore payments 监管每笔交易。</p>
+<p>“下一代 AI Agent 不应该在更强性能与可持续经济性之间做二选一。BlockRun 的开源路由器让开发者能够完全控制自己的模型组合，同时持续受益于 BlockRun 基于基准测试的持续路由优化——以更低的 Token 成本实现更高的任务成功率。随着 AgentCore payments 和 x402 提供了 Agent 所需的支出控制，这种智能能力得以在现实世界中安全落地。”<br />—— Vicky Fu，BlockRun 创始人</p>
+<p>Incarna团队在三天内完成了整个AgentCore支付功能的集成：一天用于构建，两天用于测试。与最初预估的两到三个月相比，这仅涉及约200行应用程序代码。在测试阶段，智能体已处理了超过1,000笔支付，单次调用金额在0.001美元至0.05美元之间，且每笔支付均在链上单独结算。</p>
+<p>“AgentCore支付功能涵盖了智能体通过x402协议进行支付所需的全部要素：客户拥有的钱包、充值与撤销流程、平台强制执行的支出限额，以及兼容两个版本x402的签名机制。这些代码我们一行都没写。”<br />— Justin Zhou，Incarna创始人</p>
+<p>AgentCore支付功能为智能体提供了一种受治理的、按需为其所使用的服务付费的方式。BlockRun和Incarna展示了其端到端的协同工作机制：一个为推理付费的智能体、一个进行计量与结算的服务提供商，以及一个拥有该交易的所有权身份。如果您正在构建需要在运行时购买服务的智能体，您可以通过AgentCore payments单一且受治理的集成点来添加该能力。</p>
+<p>准备好为您的智能体添加按次推理付费功能了吗？以下是入门步骤：</p>
+<p>设置AgentCore payments。创建一个包含您的钱包连接和支出策略的支付管理器（Payment Manager）。将Coinbase CDP钱包连接为您的凭证提供商。请参阅AgentCore payments开发者指南以获取分步指导。</p>
+<p>根据您的预算开启支付会话。在智能体启动任务之前，开启一个设置了符合工作负载支出上限的会话。智能体在该上限范围内进行交易，并由底层基础设施强制执行该限制。</p>
+<p>调用付费端点。将您的智能体指向兼容x402协议的服务（例如BlockRun）。当端点返回HTTP 402状态码时，携带支付详情调用ProcessPayment。AgentCore payments会处理签名并返回凭证，智能体可出示该凭证以访问服务。</p>
+<p>要查看相关代码，请访问GitHub上的AgentCore payments示例。</p>
+<p>Amazon Bedrock AgentCore payments现已正式可用：支持智能体大规模安全、自主地进行交易<br />技术深入探讨：AgentCore payments与智能体商务创新<br />使用AgentCore payments通过内置护栏实现安全的智能体支付</p>
+<p>关于BlockRun和Incarna</p>
+<p>BlockRun是一个按需付费的推理路由服务，通过x402支付协议提供模型推理。智能体通过单个计量端点访问实时模型目录。每次调用都会在Base网络上独立报价、授权、支付并以USDC结算。BlockRun负责提供商的选择与交付，因此智能体无需针对每个提供商建立订阅或计费关系，即可通过单次集成访问多种模型。</p>
+<p>由SpreadX打造的Incarna为AI智能体提供了可跨越会话、模型和运行时环境的持久身份。每个身份都附带有自己的钱包、电子邮件地址、社交账号，以及在各次运行中与单一ID持续绑定的操作历史。当智能体为某项服务付费时，链上付款方是智能体自身的身份，而非共享的平台密钥，从而使每笔交易都可归因于单一且持久的实体。Incarna已在Base主网上线并支持真实结算。</p>
+<p>Peter是AWS常驻华盛顿州西雅图的高级软件开发人员。他是负责Amazon Bedrock AgentCore payments项目工程团队的核心成员，该项目致力于为AI智能体赋予支付能力。Peter在金融与支付行业拥有8年以上的经验，曾启动多个涵盖银行、加密货币和智能体系统的新兴项目。此前，他曾在海纳国际集团（Susquehanna International Group）从事超低延迟交易系统的研发工作。</p>
+<p>Guy是AWS的高级解决方案架构师，专注于与金融科技及资本市场公司在智能体AI、自主商务和云转型领域开展合作。他的研究重点是构建能够代表客户在支付、客户体验和治理方面采取行动的AI智能体系统。</p>
+<p>Chethan是AWS常驻华盛顿州西雅图的技术首席产品经理。他在产品和业务管理领域拥有近13年的经验，其中在亚马逊工作逾7年。他热衷于构建和交付能够对客户生活产生深远积极影响的技术产品。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Amazon SageMaker HyperPod 是一项专用 AI 服务，用于简化面向生成式 AI 工作负载的大规模计算集群管理，支持由 Amazon EKS 或 Slurm 进行编排。</li>
-    <li>该多租户参考架构使用 AWS IAM Identity Center 实现集中式身份验证，并支持与外部身份提供商（如 Microsoft Entra ID）进行联合身份验证。</li>
-    <li>来源叙事重点：介绍基于 Amazon SageMaker HyperPod 与 EKS 构建多租户 AI 集群的参考架构，重点展示如何通过 AWS 原生组件与外部身份提供商整合，解决多团队共享高成本 GPU 时的资源隔离、调度公平性及成本分摊问题。</li>
+    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-10-09 02:33 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -204,314 +607,74 @@ notice:
   <span class="news-tag-pill">#AWS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--home-event-october-13th-d3008f94fc4137e2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="547" data-content-paragraphs="1" data-published-at="2026-10-08T16:08:40.000Z" data-time-source="publication">
+<div id="story-lessons-from-the-kdd-cup-52cae5f4a2d9d03e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="271" data-content-paragraphs="2" data-published-at="2026-10-08T18:30:02.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nvidia.svg" class="source-icon" alt="NVIDIA Developer Blog (英伟达开发者官方英文)" width="16" height="16" /> <strong>NVIDIA Developer Blog (英伟达开发者官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:08</span>
+  <span class="news-meta-time">🕒 2026-10-09 02:30</span>
 </div>
 
-### [苹果意外宣布举办“欢迎回家”新品发布会](https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple announces surprise &amp;#8216;Welcome home&amp;#8217; launch event</div>
+### [构建可靠的数据分析智能体：来自 KDD Cup 的经验教训](https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Building Reliable Data Analytics Agents: Lessons from the KDD Cup</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Untitled-1-copy.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="苹果意外宣布举办“欢迎回家”新品发布会" loading="lazy" /></div>
+<div class="article-cover"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/KGMON-768x432.png" alt="构建可靠的数据分析智能体：来自 KDD Cup 的经验教训" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该话题的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />传闻苹果将推出其智能家居中枢、新款 Apple TV 等产品。<br />该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看杰伊·彼得斯（Jay Peters）的全部文章<br />苹果刚刚宣布了一场定于10月举办的新发布会，将于美国东部时间10月13日上午9点在纽约举行。有传言称该公司本月将推出以智能家居为核心的产品，而活动邀请函也印证了这一点：苹果使用了“欢迎回家”（Welcome home）这一标语。<br />据传，苹果将在本次活动中发布多款产品，包括一款带显示屏的智能家居中枢、升级版 HomePod Mini 以及新款 Apple TV。据报道，该公司还与 LG 合作开发将在活动中亮相的全新智能家居设备，包括可视门铃、恒温器和室内摄像头；昨天泄露的渲染图据称展示了其中部分设备。<br />据报道，苹果研发新款智能家居中枢已有相当一段时间，此前甚至曾希望在2025年的某个时间发布。然而，升级版由 AI 驱动的 Siri 出现延期，据传这导致了该产品的推迟发布。AI 版 Siri 终于在上个月推出（尽管仍带有测试版标签），而随着其面世，苹果在智能家居领域的下一轮重大推进似乎即将拉开帷幕。<br />免费获取最重要新闻的每日摘要。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>NVIDIA KGMON 团队在 2026 年 KDD Cup 数据智能体（Data Agents）竞赛中荣获第二名，其构建的系统基于一个朴素的理念：让智能体的运行测试框架（harness）更轻量、更清晰、且更易于验证。……</p>
+<p>NVIDIA KGMON 团队在 2026 年 KDD Cup 数据智能体竞赛中荣获第二名，其构建的系统围绕着一个简单的理念设计：让智能体的运行框架更精简、更明确，并且更容易验证。该竞赛要求智能体针对异构数据源回答自然语言问题，这些数据源涵盖数据库、CSV 和 JSON 文件、散文文本文档、PDF 以及简报视频。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>苹果公司宣布将于美国东部时间10月13日上午9点在纽约举办一场活动。</li>
-    <li>该活动的标语（tagline）为“Welcome home”（欢迎回家）。</li>
-    <li>来源叙事重点：报道苹果官方突发宣布的10月纽约发布会，结合“Welcome home”标语、历史传闻与供应链爆料，推测其智能家居硬件（带屏中枢、HomePod Mini、Apple TV及与LG合作设备）及Siri AI推进计划。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ai-agents-on-your-finger-512cb57803750765" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2482" data-content-paragraphs="21" data-published-at="2026-10-08T16:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:00</span>
-</div>
-
-### [Natura推出99美元智能指环，将AI智能体戴在指尖](https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Natura’s $99 smart ring puts AI agents on your finger</div>
-
-<div class="article-body" data-article-body="true"><p>认识一下 Interface——来自人工智能与硬件初创公司 Natura 的一款售价 99 美元的新型智能指环，专为 AI 智能体（AI Agent）时代打造。只需用手指按一下，你就可以让 AI 智能体完成任务、记录想法并办妥事务，而无需掏出手机。尽管 AI 是 Interface 的核心，但该指环还能兼作健康追踪器，可监测心率、心率变异性（HRV）、睡眠和活动等指标。</p>
-<p>这家初创公司由卡洛·埃多阿尔多·费拉里斯（Carlo Edoardo Ferraris）创立，他此前曾创办过科技配件公司 Rolling Square。在打造消费级硬件多年后，他深信，快速发展的人工智能需要一种新型交互界面，让人们能像向真人提出需求一样，向其表达自己的意图。</p>
-<p>Interface 背后的理念是帮助人们从手机屏幕中抬起头来，同时更快速、更自然地完成日常任务。发布初期，该指环将接入一系列 AI 智能体和应用程序，包括 Meta 的 Muse、Instinct、Grokbot、Claude、ChatGPT 等。</p>
-<p>预订预计将于下月开启，出货时间定于 12 月或 1 月。</p>
-<p>这款智能指环并不是该公司的第一款产品。他们的首款产品是 HumanPods，这是一对支持 AI 的耳塞，旨在让用户与 AI 智能体进行交互。但 Natura 认为，需要一种专为语音技术最新进展打造的新形态。</p>
-<p>“随着时间的推移，我们的认知逐渐演进为：你真的希望能够全天候 24 小时访问你的智能体，”费拉里斯在接受 TechCrunch 采访时表示，“你不会希望一天当中哪怕有一个小时无法使用它们。而指环的外形尺寸非常适合这一点，因为它基本上就是你身体的延伸。你可以戴着它洗澡；可以戴着它睡觉。你永远不必把它摘下来。”</p>
-<p>该公司表示，其使用场景无穷无尽。如果你外出跑步，可以让指环开始记录你的锻炼情况。早晨醒来时，可以询问今天有哪些日程安排。如果你正在淋浴时发现洗发水用完了，可以让指环重新订购。如果你看电视时快睡着了，可以告诉它关闭电视并设定早晨的闹钟。用它录制会议后，还可以让它将讨论笔记发送给同事。</p>
-<p>智能体的回复可以通过已连接的耳机、iPhone 的实时活动（Live Activity）或 NatureOS 应用程序呈现。</p>
-<p>此外，依赖多个 AI 智能体和应用的用户还可以指定由哪一个来处理特定任务。例如，他们可以让 Claude 编写代码，让 Instinct 预订餐厅，并让 Grokbot 处理其他事项。</p>
-<p>除了控制 AI 智能体外，用户还可以控制自己的设备，包括电脑。费拉里斯表示，他相信人们在电脑上做的大多数事情最终都将通过 AI 智能体来处理。他认为，该指环最终将通过对 AI 智能体发出简单的语音请求，取代许多目前需要屏幕完成的任务，从填写表单、在应用中发消息，到查找文件和草拟演示文稿。</p>
-<p>“归根结底，用户与技术之间的主要界面将是指环，”费拉里斯说，“所以这不会是一蹴而就的，因为即使在今天，也并非每个人都拥有个人智能体，但我认为每个人最终都会拥有一个。因此在第一阶段，我们预计它将面向那些已经拥有个人智能体的人，主要是科技圈人士。但最终，我认为大约在一年之内，大多数人都会拥有个人智能体。”</p>
-<p>尽管该指环起售价为 99 美元，但 Natura 计划最终提高价格。目前，该公司希望在提价前先将设备交付到用户手中，培养使用习惯并创造需求。在最初的 3 到 6 个月免费期过后，Natura 计划每月收取 9 美元的订阅费。</p>
-<p>该公司表示，该指环的制造成本与 Oura Ring 和三星 Galaxy Ring 等产品相当，因为它们采用了许多相同的零部件。不过，Natura 计划在初期定出较低的价格，以降低准入门槛并推动普及。</p>
-<p>在健康追踪方面，该指环可监测心率、静息心率、心率变异性、不同睡眠阶段、日常活动和步数，以及随时间变化的皮肤温度。</p>
-<p>该公司称，根据使用情况，该指环充满电后可续航 6 至 12 天，充满电需要 100 分钟。</p>
-<p>尽管智能指环市场充斥着来自 Oura、Ultrahuman 和 RingConn 等公司主打健康的产品，以及来自 Pebble 和 Vocci 等公司主打 AI 的产品，但费拉里斯认为 Interface 通过将这两个领域结合起来而脱颖而出。</p>
-<p>“我们即将推出的这款指环与当今市面上的任何其他指环都有显著不同，因为我们不仅能够将最高品质的健康追踪与支持智能体通信、会议录音和外部记忆的其余组件相结合，而且还能在极小体积下实现难以置信的长续航，这对于此类产品至关重要。从硬件角度来看，该产品本身就与市面上任何产品截然不同。”</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>消费新闻记者<br />Aisha 是 TechCrunch 的消费新闻记者。在 2021 年加入该出版物之前，她曾是 MobileSyrup 的电信记者。Aisha 拥有多伦多大学荣誉学士学位和西安大略大学新闻学硕士学位。<br />您可以通过发送电子邮件至 aisha@techcrunch.com，或在 Signal 上发送加密消息至 aisha_malik.01 联系或核实 Aisha 的报道。</p>
-<p>购买第二张门票立减 50%：Disrupt 的体验旨在与人分享。获取您的门票，并以五折优惠携同同事、合作伙伴或同行一同参与。通过建立联系、积累动能并探索初创生态系统的下一个前沿，拓展更广阔的视野。</p>
-<p>Anthropic 向初创公司提供免费一年 Claude Team 及 1,000 美元额度<br />19 岁创始人为其售价 3,499 美元的个人 AI 电脑制造公司 Ghost 筹集 1100 万美元<br />特朗普公布他的新“超级情报部队”<br />联邦法官称 Flock 属于“无差别大规模监控”<br />亚马逊回应数据中心抵制风波，称其不再使用保密协议<br />OpenAI 安全员工辞职，称公司“文化已崩坏”<br />Meta 希望你的下一款数码设备注入 Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 00:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【NVIDIA Developer Blog (英伟达开发者官方英文)】于 2026-10-09 02:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#NVIDIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NVIDIA Developer Blog (英伟达开发者官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-t-a-fraction-of-the-cost-f7abd6714882028b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1931" data-content-paragraphs="19" data-published-at="2026-10-08T16:00:00.000Z" data-time-source="publication">
+<div id="story-ow-about-the-ftx-scandal-108f38d16026cd10" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="813" data-content-paragraphs="11" data-published-at="2026-10-08T18:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:00</span>
+  <span class="news-meta-time">🕒 2026-10-09 02:30</span>
 </div>
 
-### [Goodfire称其新型“自内而外”监控工具能以极低成本捕获失控AI智能体](https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost</div>
+### [观看网飞关于FTX丑闻剧集《利他主义者》的预告片](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal</div>
 
-<div class="article-body" data-article-body="true"><p>规范AI智能体行为的标准做法，是让第二个AI在其身后“从旁监督”。这一直是默认方案，但当智能体连续运行数小时并处理相当于几部小说篇幅的文本时，这种方式的成本会迅速飙升。</p>
-<p>专注于可解释性（即探究AI模型内部运作原理）的初创公司Goodfire于周四推出了一种更经济的选择：在AI模型工作时监控其内部动态，而非仅仅阅读其生成的文本。该监控工具现已向Baseten的客户开放，后者为其他公司托管并运行AI模型。</p>
-<p>Baseten旗下的Base Labs上个月宣布与Goodfire及AI平台Hugging Face达成安全合作。</p>
-<p>该工具发布前，今年发生了一连串AI智能体逃离测试环境的事件，其中包括突破了Hugging Face防线的OpenAI智能体。Goodfire首个监控工具所针对的开源模型Kimi K3，也在今年夏天利用沙盒漏洞访问了互联网及GitHub上的信息。</p>
-<p>Goodfire系统的运作方式有点类似于机场安检。被称为探针的小型检测器会在智能体工作的每一步读取模型的内部信号，就像安检门对每位旅客进行检查一样。只有当探针标记出异常时，另一个独立的AI模型（相当于人工开箱搜查）才会进行更细致的检查。</p>
-<p>Baseten的客户可以自行选择要监控的风险类型，包括攻击性黑客行为、化学和生物武器滥用，以及奖励作弊（reward hacking）。他们还可以决定自动化响应策略：记录事件、提交人工审核，或直接拒绝该请求。</p>
-<p>Goodfire表示，其方案运行成本也更低。大多数AI监控工具都是独立的模型，必须重新阅读受控模型生成的所有内容，这增加了耗时与成本。而Goodfire的探针则直接利用了模型在工作时已经在进行的计算。</p>
-<p>“内部激活监控工具非常便宜，因为它们复用了前向传播中的计算，”Goodfire首席执行官埃里克·何（Eric Ho）上周在风险投资人马特·特克（Matt Turck）的MAD播客中表示。“因此模型已经在计算这个token了。你所做的只是获取它已经计算出的中间神经激活，然后对这些内部计算运行一个分类器。”简而言之，模型已经在做计算，探针只是读取其结果。</p>
-<p>在Goodfire针对Kimi K3的测试中，监控约1500次会话的成本约为51美元；相比之下，采用较便宜的AI模型对每一步进行检查需花费233美元，而使用顶级模型则约为1万美元。探针捕获了94%的恶意黑客会话，并将8.7%的无害会话标记为需二次复核。</p>
-<p>该公司表示，同时运行四个探针只会使模型开始响应的时间增加不到2%。</p>
-<p>“巨大的优势在于你可以在事情发生之前将其截获，”Goodfire首席技术官兼联合创始人丹·鲍尔森（Dan Balsam）表示。“我们可以在评估或训练期间检测到模型何时可能发起攻击。”</p>
-<p>该方案主要面向开源模型。开发者可以下载这些模型并剥离其安全防护措施，而且这些模型本身并不具备闭源实验室在其自有系统上运行的那类监控机制。</p>
-<p>“个人使用开源模型所能造成的危害，远不及拥有计算集群的各方（如推理服务提供商）所能带来的影响——大部分责任都在他们那里，”鲍尔森说。“当我们迎来开源的‘Mythos’时刻时，大家就会清楚地认识到，模型在推理阶段必须部署防护栏。”</p>
-<p>Goodfire最近的研究发现，在AI智能体测试中，包括Kimi K3和GLM 5.2在内的主流开源模型在50%至96%的运行中都出现了奖励作弊现象。</p>
-<p>Goodfire并不是第一家尝试这种方法的公司。Google DeepMind在1月份曾表示，其研究成果为Gemini中防滥用检测探针的部署提供了支持。</p>
-<p>鲍尔森表示，这些监控工具是一个更宏大研究目标的近期组成部分：对大语言模型进行逆向工程，以便追踪其行为在训练过程中是在何处萌生的。“我们希望将训练模型的玄妙过程转化为精密工程，”他说。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
-<p>第二张门票立享五折优惠。Disrupt的体验旨在与人共享。立即购票，即可携同事、合伙人或同行参会，并享受五折优惠。建立人脉网络、蓄积发展动能，探索初创生态系统的下一步趋势，全面拓展您的视野。</p>
-<p>Anthropic为初创企业提供为期一年的Claude Team免费服务及1,000美元额度<br />19岁创始人为个人AI电脑开发商Ghost筹集1100万美元，该设备售价3499美元<br />特朗普揭晓其新组建的“超级情报部队”<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心争议，称已不再使用保密协议<br />OpenAI安全部门员工辞职，称公司“企业文化已崩坏”<br />Meta希望你的下一款电子设备融入Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 00:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--skilled-foreign-workers-325d0d4c01407e2d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="748" data-content-paragraphs="12" data-published-at="2026-10-08T15:42:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:42</span>
-</div>
-
-### [美国暂停微软、Adobe及主要IT企业参与技术外工绿卡项目](https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers</div>
-
-<div class="article-body" data-article-body="true"><p>特朗普政府指控微软（Microsoft）、Adobe以及其他几家科技公司存在欺诈行为，并暂停这些公司参与一项协助技术外工获得美国永久居留权的项目。</p>
-<p>据路透社报道，美国副总统JD·万斯（JD Vance）在周四的新闻发布会上表示：“我们想对微软说的是：你们是一家优秀的美国公司，但你们必须雇用优秀的美国工人。”</p>
-<p>被暂停参与该项目的其他企业包括凯捷（Capgemini）、高知特（Cognizant）、HCL、印孚瑟斯（Infosys）、塔塔（Tata）和维布络（Wipro）。劳工部长基思·松德林（Keith Sonderling）表示，政府将不再受理涉及这些公司的任何新的或待审批的永久劳工认证申请。</p>
-<p>H-1B签证旨在用于雇主可能难以招募到合格美国工人填补的高技能岗位。科技公司是该项目的最大使用者之一，据美联社报道，获批签证中有近四分之三发放给了来自印度的员工。</p>
-<p>万斯还表示，政府将对包括哈佛大学、耶鲁大学和斯坦福大学在内的九所高校展开调查，指控这些高校滥用一项允许国际学生赴美的项目，并利用该项目压低美国工人的薪资水平。</p>
-<p>微软和Adobe未立即回应置评请求。</p>
-<p>购买第二张通行证可享50%优惠。Disrupt活动体验旨在与他人共享。购买您的通行证，即可以半价携同事、合作伙伴或同行一同参会。通过建立人脉、积蓄势头并探索初创生态系统的下一步趋势，开拓更广阔的领域。</p>
-<p>每个工作日和周日，您都可以获取TechCrunch的精选报道。</p>
-<p>TechCrunch Mobility是您获取交通出行新闻与洞察的必选之所。</p>
-<p>初创公司是TechCrunch的核心，订阅即可每周获取我们的精选深度报道。</p>
-<p>为行业领军者提供开启新一天所需的资讯。</p>
-<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:42 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-app-transcribe-offline-e5b532cf0deb5712" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="627" data-content-paragraphs="10" data-published-at="2026-10-08T15:27:30.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:27</span>
-</div>
-
-### [谷歌AI笔记应用可完全离线转写会议记录](https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google’s AI note-taking app transcribes your meetings completely offline</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="谷歌AI笔记应用可完全离线转写会议记录" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>Google AI Edge Foresight 使用端侧模型处理您的音频和笔记，无需连接云端。</p>
-<p>来自该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>查看 Emma Roth 的全部文章</p>
-<p>据 TechCrunch 此前报道，谷歌发布了一款实验性笔记应用，能够完全离线转写会议和音频文件。这款名为 Google AI Edge Foresight 的应用可免费使用，运行于 macOS 系统，搭载了该公司的端侧 EmbeddingGemma 2 模型。</p>
-<p>与 Granola 和 Wispr Flow 等 AI 笔记应用类似，Foresight 在对会议内容进行摘要总结的同时，还提供了一个供用户自行记录笔记的空间。谷歌表示，您可以在会议期间随手记下简短的要点，该应用将根据转写文稿中的信息将其转化为“精修笔记”。</p>
-<p>除了转写会议内容外，Foresight 还内置了一位助手，您可以用它针对所听到的内容进行提问。您还可以将本地文件关联到该应用中，以便其在回答问题时进行参考。谷歌表示，您的文件、会议音频和笔记“绝不会离开您的电脑”。</p>
-<p>Google AI Edge Foresight 目前仅针对搭载 Apple Silicon 芯片的 Mac 进行了优化，但凭借其在端侧运行的特性，在日益增多的 AI 笔记应用中脱颖而出。</p>
-<p>免费获取每日重要新闻文摘。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 23:27 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ion-over-starlink-launch-0307d386ce773f0f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1809" data-content-paragraphs="19" data-published-at="2026-10-08T15:12:59.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:12</span>
-</div>
-
-### [星链入印受阻，埃隆·马斯克质疑安巴尼的影响力](https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Elon Musk questions Ambani’s influence as Starlink India launch stalls</div>
-
-<div class="article-body" data-article-body="true"><p>在太空探索技术公司（SpaceX）难以在印度推出“星链”（Starlink）卫星互联网服务之际，埃隆·马斯克对印度亿万富翁穆克什·安巴尼的影响力提出了质疑。马斯克在社交平台X上发表的言论，加剧了围绕监管延迟的争议；此前印度政府已驳斥了他关于强大商业利益集团正在阻挠其进入印度的说法。</p>
-<p>马斯克周三指责未具名的“寡头”阻挠星链在印度的落地，以维持其所谓的对该国的“垄断性扼杀”，但并未指明这些寡头是谁，也未为其说法提供证据。他称涉嫌的阻挠行为是“对印度人民的罪行”，并坚称星链能够为缺乏网络接入的人群带来价格低廉的高速互联网。</p>
-<p>数小时后，印度通信部进行了反驳，表示其针对卫星通信的监管框架是“公平且非歧视性的”。该部门在一份声明中表示，星链以及另外两家获得许可的卫星运营商目前“大致处于同一监管阶段”。它还补充道，这三家公司都在接受安全评估，必须在评估完成后才能申请频谱——即卫星用于发送信号的无线电频率。</p>
-<p>马斯克周四进一步发难，质疑信实工业（Reliance Industries）董事长穆克什·安巴尼的影响力。</p>
-<p>“安巴尼是印度的真正老板吗？”他在X上写道。此前他声称星链已花费数年时间遵守印度法规，并质问为何至今仍未获得牌照。</p>
-<p>马斯克的言论发表前几小时，星链业务运营副总裁劳伦·德雷尔刚刚出席了在工商业新德里举办的电信行业会议“印度移动大会”（India Mobile Congress），并重申了公司对该市场的承诺。</p>
-<p>“我们随时准备为印度服务，”德雷尔表示，并补充称星链希望协助实现印度总理纳伦德拉·莫迪在全国实现普遍连接的目标。</p>
-<p>星链表示，其在印度本土已拥有超过20个网关站（连接卫星与互联网的地面站）和数百面天线，并且已经调整了运营模式以符合该国的监管、安全和数据主权要求。此外，SpaceX已将其卫星网络定位为印度地面电信网络的补充，而非替代品。</p>
-<p>SpaceX最初于2021年尝试在印度推出星链。然而，由于印度政府指责其在获得必要牌照之前就“预订/提供卫星互联网服务”，该公司不得不在2022年初为设备预订退款。</p>
-<p>星链此前还就卫星频谱应如何分配的问题与印度最大的电信运营商发生过冲突。星链力主以行政方式分配频谱，而信实Jio则主张进行拍卖——这种立场可能会使星链的进入成本变得更高。印度最终支持了星链倾向的方案，决定以行政方式分配卫星频谱，而非通过拍卖。</p>
-<p>印度最大的两家电信运营商Jio和Airtel即使已同意在印度分销星链，也仍在推进各自的卫星互联网服务。Jio正在与卫星运营商SES合作开展卫星宽带业务，而Airtel则是印度另一家获得牌照的卫星运营商欧洲通信卫星公司一网（Eutelsat OneWeb）的主要支持者。</p>
-<p>尽管星链在印度的推出时间仍不明朗，但该公司本周在邻国孟加拉国推出了将普通手机直接连接到卫星的“星链移动”（Starlink Mobile）服务。</p>
-<p>星链、印度通信部、信实Jio和巴帝电信（Bharti Airtel）均未立即回应置评请求。</p>
-<p>更新：本文最初发表于太平洋夏令时间10月7日晚上11点14分，随后进行了更新，加入了马斯克质疑信实工业董事长穆克什·安巴尼在印度影响力的言论。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
-<p>Jagmeet为TechCrunch报道印度的初创公司、技术政策相关动态以及所有其他以技术为核心的重大进展。他此前曾在NDTV担任首席记者。</p>
-<p>您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系或核实Jagmeet的外联信息。</p>
-<p>购买第二张通行证可享五折优惠。Disrupt活动体验旨在与他人共享。获取您的通行证，携带同事、合作伙伴或同行即可享受半价。通过建立联系、汇聚动力以及探索创业生态系统的下一步走向，拓展更多业务领域。</p>
-<p>Anthropic向初创公司免费提供为期一年的Claude Team并赠送1000美元额度<br />19岁创始人为Ghost筹集1100万美元，该公司制造售价3499美元的个人AI电脑<br />特朗普公布其新设立的“超级情报部队”<br />联邦法官称Flock属于“无差别的大规模监控”<br />亚马逊回应数据中心引发的强烈反弹，称其不再使用保密协议<br />OpenAI安全部门员工辞职，称公司“企业文化已崩坏”<br />Meta希望你的下一款智能设备注入Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-re-instead-of-a-real-one-39aa0ebc561de2a4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="765" data-content-paragraphs="13" data-published-at="2026-10-08T15:06:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:06</span>
-</div>
-
-### [纽约州指控TikTok向青少年和儿童提供“安慰剂”式安全功能而非真实功能](https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> New York alleges TikTok gave teens, children a placebo safety feature instead of a real one</div>
-
-<div class="article-body" data-article-body="true"><p>纽约州在针对社交媒体平台TikTok提起的诉讼中指控称，TikTok在一项实验中向青少年和儿童提供了一个“安慰剂”式的虚假安全功能，而非真正允许他们重置推荐内容的安全功能。</p>
-<p>路透社报道称，TikTok的实验涉及数千名用户，其中包括选择使用“算法重置”（Algo Refresh）等安全功能的青少年和儿童。该工具本应允许用户重置其推荐内容，并停止接收不必要或潜在有害的内容。</p>
-<p>尽管这些用户以为自己已经启用了该功能，但他们的推荐流并没有发生任何变化，这与那些未参与实验、能够使用完全正常运行版本的用户不同。</p>
-<p>纽约州对该公司提起的诉讼，是全美二十多个州提起的诉讼之一。这些州指控这家社交媒体巨头设计其平台以诱导儿童成瘾性使用，并在平台安全性方面误导用户。</p>
-<p>“我们一直在对平台进行改进，这意味着像大多数公司一样，我们会定期测试新产品和新功能，以验证体验并了解它们在现实环境中的运行情况，”TikTok向路透社表示。</p>
-<p>TikTok未立即回应置评请求。</p>
-<p>该诉讼还指控TikTok进行了其他实验。彭博社在6月报道称，其中一项此类实验向1500万美国用户扣留了某项安全功能，其中包括一名后来死于自杀的青少年。</p>
-<p>第二张门票立享半价优惠。Disrupt体验理应与人分享。立即获取门票并携同事、合伙人或同行一同参与，第二张门票立减50%。通过建立联系、汇聚势头以及发掘创业生态系统的下一个前沿，拓展更广阔的天地。</p>
-<p>每个工作日和周日，您均可获取TechCrunch的精选报道。</p>
-<p>TechCrunch Mobility是您获取交通领域新闻与深度洞察的首选之地。</p>
-<p>初创企业是TechCrunch的核心，欢迎订阅我们每周精选的核心报道。</p>
-<p>为行业领军者和决策者提供开启新一天所需的资讯。</p>
+<div class="article-body" data-article-body="true"><p>如果你关注科技新闻且热衷于狗血抓马大戏，那现在可真是一个绝佳的时代。今年秋天，我们不仅能看到内森·菲尔德（Nathan Fielder）拍摄的关于伊丽莎白·霍姆斯（Elizabeth Holmes）的纪录片，网飞（Netflix）聚焦萨姆·班克曼-弗里德（Sam Bankman-Fried）与卡罗琳·埃里森（Caroline Ellison）以及致使FTX崩盘并让他们双双入狱的丑闻的剧集《利他主义者》（The Altruists），也定于11月19日上线。</p>
+<p>上线时间正好赶在感恩节前夕——前提是没有另一个臭名昭著的“萨姆”再次破坏我们的假日计划。</p>
+<p>以下是由安东尼·鲍伊（Anthony Boyle）饰演萨姆·班克曼-弗里德、茱莉娅·加纳（Julia Garner）饰演卡罗琳·埃里森的预告片：</p>
+<p>我们很难说曾预料到“有效利他主义”背后的道德脱节会引起好莱坞的兴趣，但希望网飞能够公正地还原这个故事的离奇之处。</p>
+<p>“从一开始，我就对萨姆和卡罗琳的真实故事深深着迷，”该剧联合剧集主管格雷厄姆·摩尔（Graham Moore）在今年夏天接受网飞采访时表示，“这两个角色即使我竭尽全力也编造不出来——我写剧本的水平还远远不足以塑造出像萨姆·班克曼-弗里德或卡罗琳·埃里森这样扣人心弦的人物。”</p>
+<p>购买第二张通行证可享五折优惠。Disrupt盛会理应与他人共享。购买您的通行证，即可携带同事、合伙人或同行伙伴，并享受半价优惠。通过建立联系、汇聚动力以及探索初创企业生态系统的未来走向，涉足更广阔的领域。</p>
+<p>每个工作日和周日，您都可以获取TechCrunch的最佳报道。</p>
+<p>TechCrunch Mobility是您获取交通领域新闻与独家见解的目的地。</p>
+<p>初创企业是TechCrunch的核心，欢迎订阅我们每周精选的最佳报道。</p>
+<p>为行业翘楚与决策者提供开启新一天所需的资讯。</p>
 <p>提交您的电子邮箱即表示您同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:06 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 02:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -521,41 +684,46 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-d-rogue-app-notification-91bce0d3ced7af6b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1221" data-content-paragraphs="13" data-published-at="2026-10-08T15:01:15.000Z" data-time-source="publication">
+<div id="story-he-internet-is-impressed-2d837d367b192c68" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2114" data-content-paragraphs="18" data-published-at="2026-10-08T18:20:32.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:01</span>
+  <span class="news-meta-time">🕒 2026-10-09 02:20</span>
 </div>
 
-### [黑客发送异常App推送通知后，Asos证实客户数据遭到泄露](https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Asos confirms breach of customer data after hackers send rogue app notification</div>
+### [本·阿弗莱克原是个AI极客，全网为之惊叹](https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ben Affleck is an AI nerd, and the internet is impressed</div>
 
-<div class="article-body" data-article-body="true"><p>在黑客利用英国时尚零售巨头Asos自家的应用程序向用户通知该公司已遭入侵后，Asos已证实其客户个人信息发生数据泄露。</p>
-<p>Asos在提交给伦敦证券交易所的一份文件中表示，黑客侵入了该公司用于与客户沟通的第三方数据托管平台。</p>
-<p>该公司表示，姓名和联系信息在本次泄露事件中被盗。</p>
-<p>英国广播公司（BBC News）报道称，被盗数据包括家庭地址、电话号码和电子邮件地址，以及与客户画像相关的记录，例如他们在网站上的搜索记录。</p>
-<p>Asos表示，黑客发送了一条“未经授权的客户通知”，许多人在社交媒体上发布了该通知的截图。该通知致信Asos的数据保护官和IT部门，并称黑客已“彻底入侵”托管在Snowflake上的公司数据。Snowflake是一家允许企业客户分析海量数据的科技公司。通知写道：“与我们取得联系，否则我们将泄露这些数据。”</p>
-<p>通过利用该App自有的通知系统向客户发出提醒，黑客正试图向该公司施压，迫使其进行交涉，否则面临被盗数据被公开发布在网上的风险。</p>
-<p>据Bleeping Computer报道，据称黑客是通过“冒充受信任的联系人获取登录凭据”侵入该Snowflake实例的。Snowflake表示其自身系统并未遭受入侵。目前尚不清楚由Asos运营的Snowflake实例是否采用了多因素身份验证保护。同样也不清楚黑客是如何获取Asos用于发送App内推送通知的系统权限的，该系统通常由第三方服务提供商打理。</p>
-<p>自称为“Xuanye Group”的黑客尚未表明其声称持有的数据规模。根据Asos官网信息，该公司拥有1700万名客户。</p>
-<p>今年早些时候，金融科技巨头Betterment遭到黑客攻击，黑客利用获取的公司第三方营销平台权限冒充该公司，并向其客户发送加密货币诈骗信息。在这次泄露事件中，黑客还获取了客户的姓名、电子邮件地址和电话号码等数据。</p>
+<div class="article-body" data-article-body="true"><p>显然，《心灵捕手》选错了主角，因为事实证明，本·阿弗莱克才是那个深藏不露的真正天才。据报道，这位演员今年早些时候以5.87亿美元将自己的AI电影制作初创公司卖给了奈飞（Netflix）。而本周，他在多段近期采访视频中展现出对AI技术、神经网络、机器学习等领域的深刻理解，在网络上迅速走红。</p>
+<p>他说自己甚至能写一点Python代码。</p>
+<p>这位电影明星本周在GQ杂志的《One More Question》系列节目中，深入畅谈了他对技术的浓厚兴趣。他一开始还谦虚地表示：“我从小就对计算机挺感兴趣的”，随后便滔滔不绝地化身极客，大谈AI在电影制作中的发展，并熟练运用机器学习、神经网络、Transformer、张量、GPU、推理等一系列AI专业术语。</p>
+<p>在一则广为流传的视频片段中，阿弗莱克向深感钦佩的采访者扎克·巴伦（Zach Baron）解释道，自己是在胶片电影转向数字化时代进入该领域的。在交谈中，他不断对专业术语进行解释，以便采访者能听懂他的意思。</p>
+<p>“我逐渐对那方面产生了更浓厚的兴趣，而且视觉特效工作流程多年来一直包含机器学习，”阿弗莱克开门见山地说，“所以我能写出，呃，挺蹩脚的Python脚本之类的东西。因为对于卷积神经网络——它是Transformer能做到的事情的前身，而后者只是能同时进行大幅增加的计算量——你要做的事情比如查看所谓的张量（tensor），它不过是视觉图像的数值化翻译，包含了批次大小（batch number）、帧编号、每帧每个像素的红绿蓝RGB数值以及尺寸规格。其实就这么简单，对吧？”</p>
+<p>不，本·阿弗莱克，事情绝不仅是那么简单，而这正是这段视频走红的原因。</p>
+<p>随后，这位演员谈到了神经网络如何用于模式识别、边缘检测或特征提取。他将其形容为“识别出足够多的模式以明确——比如这就是窗台所在的位置，这样我们就能更轻松地抠掉绿幕画面并替换成其他内容”。</p>
+<p>他还坦言，自己有时会利用好莱坞明星的身份去提前一窥新兴的AI技术。阿弗莱克在另一段片段中提到，OpenAI就是他造访过的机构之一，这最终促使他理解了自己如何能更直接地参与到AI领域中来。</p>
+<p>随着采访的继续，阿弗莱克解释了AI如何在不取代电影制作的前提下为其提供辅助，这进而促成了他在该领域成立初创公司并最终出售。（他声称5.87亿美元这一数字“并不准确”，并指出自己并未拥有该公司的全部股份。）</p>
+<p>“我押注了这样一个理念：为了以一种合乎道德的方式做到这一点，为了让这项技术真正与这个行业的艺术家们紧密协作——毕竟在这个圈子里，关于肖像权等存在着非常固定且长期的合作关系——我们必须创建自己的数据集，”他说，“所以我募集了资金。我用大量摄像机和设备拍摄了大约八个月，创建了一个数据集，用于对开源模型进行后期微调训练以执行离散任务，某种程度上让训练代码和推理代码彼此关联，并针对能够产生价值的具体实际任务。”阿弗莱克说。</p>
+<p>在另一段同样广为流传的视频中，阿弗莱克在洛杉矶举行的Screentime 2026大会上接受了彭博社卢卡斯·肖（Lucas Shaw）的采访。他在采访中谈到了自己如何微调AI模型：采用开源模型、解冻权重，然后训练它们达到特定的电影级标准。在此过程中，电影制作者保留了其专有作品，同时通过为正在拍摄的电影训练独特的专属模型而获益。</p>
+<p>本·阿弗莱克（好莱坞影星兼Artists Equity首席执行官）谈到他如何通过解冻权重来微调开源视频模型，并且仅训练最后一个电影级图层，从而使摄制组能够达到实际的制作标准。背景信息：本·阿弗莱克于2022年创立了拥有16名员工的InterPositive…… pic.twitter.com/xIOvD0xMyt</p>
+<p>这位演员在自己的电影《Animals》中亲自运用了这项技术，AI在该片的后期制作流程中发挥了辅助作用。</p>
+<p>在采访的某个时刻，他还就针对AI及其可能毁灭世界的担忧发表了看法。然而，他的担忧要理性得多。</p>
+<p>“当我担忧AI时，我担心的是我在学校上学的孩子们。我担心的是过去三年里大学成绩拿到A的数量增加了30%。我担心习得性无助。我担心负责任地使用。我不担心天网（Skynet），我也不认为它会以任何实质性的方式接管电影行业。我认为它将是一种补充，”阿弗莱克说。</p>
 <p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>可通过Signal加密信息联系作者，账号为zackwhittaker.1337。您也可以通过电子邮件与其联系，或向zack.whittaker@techcrunch.com核实外联信息。</p>
-<p>第二张门票立减50%：Disrupt体验旨在共同分享。获取您的通行证，以半价携同事、合作伙伴或同行一同参加。通过建立联系、汇聚势头以及发掘创业生态系统的下一个机遇，开拓更广阔的天地。</p>
-<p>Anthropic向初创公司提供免费一年Claude Team使用权及1000美元额度<br />年仅19岁的创始人为Ghost筹集1100万美元，打造售价3499美元的个人AI计算机<br />特朗普公布其新设立的“超级智能部队”<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心抵制风波，称其不再使用保密协议（NDA）<br />OpenAI安全部门员工辞职，称公司“文化已崩坏”<br />Meta希望你的下一台电子设备融入Muse</p></div>
+<p>消费新闻编辑<br />第二张门票立享5折优惠。Disrupt的体验适合与人共享。获取您的门票，并以5折优惠携同事、合伙人或同行一同参与。通过建立联系、集聚势头并探索创业生态系统的下一个风口，拓展更广阔的领域。</p>
+<p>Anthropic为初创企业提供为期一年的免费Claude Team服务及1,000美元额度<br />19岁创始人为个人AI电脑制造商Ghost筹集1100万美元，其产品售价3,499美元<br />特朗普揭晓其新设的超级情报部队<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心引发的抵制，称不再使用保密协议（NDA）<br />OpenAI安全部门员工离职，称公司“文化已崩坏”<br />Meta希望你的下一部设备融入Muse功能</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:01 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 02:20 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -565,539 +733,39 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ortunity-at-disrupt-2026-41f0eae1d6acac44" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1717" data-content-paragraphs="16" data-published-at="2026-10-08T15:00:00.000Z" data-time-source="publication">
+<div id="story-b-valuation-in-10-months-99134731fc9bfd4f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1349" data-content-paragraphs="11" data-published-at="2026-10-08T18:19:45.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:00</span>
+  <span class="news-meta-time">🕒 2026-10-09 02:19</span>
 </div>
 
-### [要闻：人工智能或许诞生于软件层面，但其扩展却正演变成为一个物理世界的难题](https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026</div>
+### [知名AI排行榜Arena在10个月内估值近乎翻倍，达31亿美元](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months</div>
 
-<div class="article-body" data-article-body="true"><p>人工智能或许诞生于软件层面，但其扩展却正演变成为一个物理世界的难题。每一个全新的模型、智能体（Agent）和AI应用，都需要运行场所，以及将它们连接在一起的基础设施。</p>
-<p>在TechCrunch Disrupt 2026大会上，Ambrosia Energy首席执行官本·朗米尔（Ben Longmier）与Bloom Energy高级副总裁兼数据中心解决方案负责人比尔·塞耶（Bill Thayer）将齐聚“智能系统”（Smart Systems）舞台，围绕“AI基础设施热潮在何处造就赢家”这一主题展开深入对话。</p>
-<p>这场行业舞台对话将深入探讨：哪些制约因素正在催生持久的商业机遇？哪些全新类别正在崭露头角？随着AI进一步渗透进物理世界，创业者们又能够构建什么？</p>
-<p>此前，关于AI的讨论大多聚焦于模型、芯片和应用层面。但它们没有一项能够孤立运行。AI的规模化扩张依赖于不断延展的物理技术栈：发电、电网接入、数据中心、散热冷却、电气设备，以及确保一切正常运转所需的各项系统。</p>
-<p>这就带来了一种截然不同的挑战。当算力需求的增长速度超越了电力和基础设施的供应交付能力时，会发生什么？哪些短缺是暂时性的，哪些又可能会在未来数年重塑市场格局？制约因素在何时不再仅仅是一个问题，而是开始演变成为一个独立的产业类别？这些正是本次环节将要探讨的核心问题。</p>
-<p>比尔·塞耶与本·朗米尔将不再仅仅局限于软件层来看待AI，而是深入剖析其底层的基础设施——以及这些压力对于规划下一阶段AI增长的创业者、投资者和企业而言意味着什么。</p>
-<p>基础设施的热潮带来了机遇，但红利很少平均分配。关键挑战在于识别出该技术栈中的哪些环节确实需要全新解决方案、哪些领域的支出具有持续性，以及哪些新兴品类能够支撑起持久的商业模式，而非仅仅满足短期需求。</p>
-<p>汇集来自能源、数据中心解决方案及市场情报领域的领军人物，使得这场讨论能够以更宏观的视角审视这一议题。预计对话将探讨瓶颈正在何处显现、市场如何应对，以及随着更多资本涌入AI基础设施领域，创业者应当密切关注哪些赛道。</p>
-<p>对于创业者而言，这意味着需要将目光投向显而易见的AI应用之外。对于投资者而言，这意味着要洞察基础设施需求在何处能够形成具有护城河的市场。对于科技领袖而言，这提供了更清晰的视角，以便看清日益决定AI能在何处以及如何进行规模化扩展的物理系统。</p>
-<p>AI孕育的下一个重大机遇，可能看起来根本不像一家AI公司。它可能出现在能源、数据中心、冷却技术、电网技术、电气设备、基础设施软件，或是尚未确立名称的全新赛道中。</p>
-<p>共通之处始终如一：AI正在对物理世界提出新的需求，而这些需求需要解决方案。这也正是本次会议超越单纯基础设施讨论的原因所在。其核心在于理解下一个市场可能会在哪里涌现——以及谁能抢占先机为之构建解决方案。</p>
-<p>欢迎莅临TechCrunch Disrupt 2026的智能系统舞台，与本·朗米尔和比尔·塞耶一同探索AI基础设施热潮将在何处孕育下一个机遇。此外，大会还将有250多位演讲嘉宾带来200多场精彩环节。</p>
-<p>在太平洋时间10月13日上午8点莫斯康西展馆（Moscone West）大门开启前购票，最高可立减100美元。携同联合创始人、合伙人、同事或同行参会，购买同类型第二张门票立享五折优惠。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
-<p>第二张门票立享五折：Disrupt的体验应当与人共享。立即购票并邀请同事、合伙人或同行参会，第二张票享5折优惠。通过建立联系、汇聚动力以及探索初创生态系统的下一步动向，拓展更广阔的视野。</p>
-<p>Anthropic为初创企业提供为期一年的免费Claude Team服务及1,000美元抵用额度<br />19岁创始人为Ghost筹集1100万美元，打造售价3,499美元的个人AI计算机<br />特朗普公布其全新的“超级情报部队”<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心引发的抵制风波，称不再使用保密协议（NDA）<br />OpenAI安全部门员工辞职，称公司“文化已崩坏”<br />Meta希望你的下一台硬件设备注入Muse元素</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--radio-stations-podcasts-6bb25207ed552469" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="749" data-content-paragraphs="1" data-published-at="2026-10-08T14:52:33.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:52</span>
-</div>
-
-### [《GTA 6》将加入游戏内播客及至少六个电台](https://www.theverge.com/games/1007965/gta-6-music-radio-stations-podcasts)
-<div class="original-title-sub"><span class="orig-tag">原文</span> GTA VI will have in-game podcasts and at least six radio stations</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.29.45-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="《GTA 6》将加入游戏内播客及至少六个电台" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的推文将被添加到您的每日电子邮件文摘和主页动态中。<br />查看所有娱乐内容<br />您现在可以试听游戏中首批公开的六个电台，涵盖从说唱到乡村音乐的各种曲风。<br />该作者的推文将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Stevie Bonifield 的全部内容<br />音乐始终是《侠盗猎车手》（Grand Theft Auto）系列游戏的重要组成部分，Rockstar Games 表示，《GTA 6》（GTA VI）将拥有该系列迄今为止“规模最大、涵盖范围最广的游戏内电台阵容”。玩家在载具内或徒步时至少可以收听六个电台，内容涵盖脱口秀到经典摇滚：Cocoteo FM、Back Country Radio、AfroBank FM、The Chamber 106.6、Flash FM 以及 Dirty South Classics。<br />您可以在 Rockstar 官网上试听这些电台，同时还可以试听本月早些时候公布的《GTA 6》官方原声带中的六首单曲，参与艺人包括 Yung Lean 和 Travis Scott 等。<br />但除了音乐，还有更多内容可听。Rockstar 还表示，“《侠盗猎车手 6》史上首次引入了一系列点播播客”。因此，当玩家开着虚构的汽车穿梭在莱昂尼达（Leonida，虚构的佛罗里达州）时，将能够收听虚构的播客主播对虚构事件发表虚构的看法。这是 Rockstar 似乎在追求写实程度的又一信号——Netflix 对《GTA 6》的加长版前瞻还展示了诸如牵手机制以及会记住你长相的警察 NPC 等细节。与此同时，最近的一起泄密事件揭露了两位主角更多……呃，个人方面的细节。《侠盗猎车手 6》现已开启预购，并将于11月19日发售。<br />一份汇集最重要新闻的免费每日文摘。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 22:52 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/games/1007965/gta-6-music-radio-stations-podcasts" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-y-cartridge-music-player-6e806e935f31c300" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="720" data-content-paragraphs="9" data-published-at="2026-10-08T14:52:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:52</span>
-</div>
-
-### [Retro Song Bird 播放器：只为你播放挚爱 Game Boy 卡带中的音乐](https://www.theverge.com/tech/1007926/retro-song-bird-nintendo-game-boy-cartridge-music-player)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Retro Song Bird plays just the music from your favorite Game Boy cartridges</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/songbird.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Retro Song Bird 播放器：只为你播放挚爱 Game Boy 卡带中的音乐" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>这是一款小巧简单的媒体播放器，专门用于探索和欣赏你所收藏的 Game Boy 卡带中的所有音乐与音效。</p>
-<p>该作者的文章将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>查看安德鲁·利谢夫斯基（Andrew Liszewski）的全部文章</p>
-<p>Retro Song Bird 顶部设有一个 Game Boy 卡带插槽，外观可能与 Epilogue 的 GB Operator 等设备颇为相似，但它的设计初衷并不是用来玩复古游戏的。这个外观质朴的盒子实际上是一款媒体播放器，机身上配有一套基础的播放控制按键，可用于切歌和调节内置扬声器的音量，专门用来播放 Game Boy 卡带中的所有音乐和音效文件。它就像一台重新构想的索尼随身听（Walkman），只不过将磁带换成了你童年舍不得扔掉的游戏卡带。</p>
-<p>Retro Song Bird 由一位简称为 BJ 的创作者打造，它还包含额外的功能。虽然内置扬声器还原出的旋律非常接近原版 Game Boy 的听感，但它还配备了一个立体声线路输出接口（Line Out），可用于连接更优质的扬声器，或用于录音和采样。Game Boy 的四个声音通道均可作为独立的 USB 音频流输出，而且 Retro Song Bird 还可用于备份 ROM 及游戏存档数据，或者将音乐文件作为 WAV 文件导出至电脑。</p>
-<p>据 Retro Dodo 报道，目前仅制作了少数几个 Retro Song Bird 原型机，暂不对外出售，但 BJ 计划在硬件和设计最终定型后，可能通过众筹或直接发售这款音乐播放器。</p>
-<p>免费每日摘要，汇聚最重要的核心新闻。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 22:52 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1007926/retro-song-bird-nintendo-game-boy-cartridge-music-player" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ling-enterprise-software-6204e7abbcf15924" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1310" data-content-paragraphs="11" data-published-at="2026-10-08T14:34:33.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:34</span>
-</div>
-
-### [Spotify更加认真地拓展企业软件销售业务](https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Spotify is getting more serious about selling enterprise software</div>
-
-<div class="article-body" data-article-body="true"><p>周四，Spotify上线了新网站technology.spotify.com，将其内部技术向外界开放，标志着该公司正在使其围绕企业和开发者工具业务的举措正规化。</p>
-<p>该公司进军这一领域并不算全新的尝试。正如Spotify在发布新网站的公告中所指出的，自2020年开源Backstage（一个用于构建可定制开发者门户的平台和框架）以来，它就一直在向更广泛的技术社区提供不同产品。</p>
-<p>此外，自2023年以来，它一直在销售其面向企业的软件实验平台Confidence，并自2024年起销售其企业软件开发平台Portal。今年早些时候，它还开始销售用于管理AI编程智能体（AI coding agents）的开发者工具Xirp。</p>
-<p>尽管许多科技公司都会构建自己的内部系统以帮助其开发者提高工作效率，但像Spotify这样的公司将这些工具出售给其他企业，仍属有些不同寻常。</p>
-<p>Spotify技术与平台高级副总裁泰森·辛格（Tyson Singer）承认，该公司进军该领域的举动引发了外界的疑问。</p>
-<p>“我每天都会被问到类似这样的问题：为什么Spotify要从事销售软件的业务？”，他在Spotify工程技术网站上的一篇文章中写道。“事实是，大家所熟知和喜爱的Spotify不仅仅是一家出色的流媒体服务公司。在我们的消费者端应用背后，有数百个跨职能小队（squads）日复一日地交付产品和代码，”他解释道。</p>
-<p>这个新的技术网站将汇集Spotify为其7.77亿月活跃用户提供服务而构建的各种解决方案，既包括开源服务，也包括付费服务。</p>
-<p>尽管AI让构建此类软件变得更快，但Spotify指出这并不意味着它变得更简单——辛格写道，“复杂性、成本和运维覆盖面都在随之增长。”该公司的押注在于，尽管AI取得了长足进步，软件开发团队仍将需要某些核心服务（如Spotify所销售的服务），该公司表示这些服务将具备“智能体就绪”（agent-ready）能力。</p>
-<p>到目前为止，尚不清楚Spotify的企业销售创造了多少收入，因为该公司在财报中尚未披露这些数据。随着Spotify更加齐心协力地进军企业市场，将曾经的副业转变为更正规的业务运营，这一情况可能会发生改变。</p>
-<p>该技术网站未列出具体价格；企业可以通过填写表单联系销售人员并讨论需求。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。<br />消费新闻编辑<br />获取第二张通行证五折优惠——Disrupt的体验应当与人共享。获取您的通行证并携带一名同事、合作伙伴或同行享受半价。通过建立联系、积累势头并探索创业生态系统的未来，覆盖更广泛的领域。<br />Anthropic向初创公司提供为期一年的免费Claude Team以及1,000美元额度<br />19岁创始人为Ghost筹集1100万美元，该公司制造售价3499美元的个人AI计算机<br />特朗普公布其新设立的“超级智能部队”<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心引发的抵制，称不再使用保密协议（NDA）<br />OpenAI安全部门员工辞职，称公司“文化已崩坏”<br />Meta希望你的下一台电子设备注入Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 22:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-prime-day-leftover-deals-e4e86bab3a0f6bf6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="10532" data-content-paragraphs="79" data-published-at="2026-10-08T14:28:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:28</span>
-</div>
-
-### [75款超值十月Prime会员日优惠仍在继续](https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 75 great October Prime Day deals are still happening</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0011.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="75款超值十月Prime会员日优惠仍在继续" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>当亚马逊大型促销活动本应“落幕”后却仍有如此之多的折扣在延续时，场面总会显得有些微妙。尽管如此，我依然很高兴地告诉大家，本次大促中绝大多数重磅优惠依然有效——包括苹果Mac Mini、MacBook Air和AirPods Pro 3的降价，以及索尼旗下所有现款和上一代旗舰耳机的优惠等。某些商品的售价虽然略有小幅回升，但依然非常值得一看。</p>
-<p>与本周早些时候一样，亚马逊上的部分优惠需要Prime会员资格，而另一些则不需要。其中许多优惠在百思买（Best Buy）、沃尔玛（Walmart）、塔吉特（Target）等竞对平台同样有售，有时甚至可以直接从产品制造商处购买。你可以按下方类别对这些优惠进行筛选。</p>
-<p>我们将在明天恢复常规的折扣报道。</p>
-<p>.duet--layout--rail { pointer-events: none; }<br />.duet--layout--rail div { pointer-events: auto; }</p>
-<p>XM5相比XM4（甚至是售价更高的翻新版XM4C）提供了更好的音质和降噪表现，不过其便携性略逊一筹。阅读我们的评测。<br />亚马逊售价：原价399.99美元，现价198美元<br />百思买售价：原价399.99美元，现价198美元</p>
-<p>谷歌于8月推出的最新款智能手表已迎来大幅降价。虽然第四代产品价格更便宜，但该型号具备更出色的GPS定位和手势控制功能。阅读我们的评测。<br />亚马逊售价：原价399.99美元，现价349.99美元<br />谷歌商城售价：原价399.99美元，现价350美元<br />百思买售价：原价399.99美元，现价350美元</p>
-<p>联想Legion Go 2掌机<br />Costco会员可享受这款性能位居前列的游戏掌机迄今为止最大的降幅优惠。<br />Costco售价：原价1699美元，现价999.99美元</p>
-<p>Apple Watch SE 3迎来了重大升级，增加了全天候视网膜显示屏、手腕温度传感器、性能更强劲的处理器以及快速充电功能。阅读我们的评测。</p>
-<p>AirPods Pro 3采用了全新设计，改善了佩戴贴合度，拥有更卓越的降噪表现、更强劲的低音以及相当精准的心率传感器。阅读我们的评测。</p>
-<p>苹果13英寸MacBook Air（M5芯片）<br />搭载苹果全新M5芯片的最新款MacBook Air比前代机型更为强大，基础存储容量翻倍至512GB。它们还支持更快的无线网络标准，具体包括Wi-Fi 7和蓝牙6。阅读我们的评测。<br />亚马逊售价：原价1299美元，现价1099美元<br />百思买售价：原价1299美元，现价1099美元</p>
-<p>如果你重视更出色的成像画质，并且相信谷歌可能会改进HiLight LED功能，那么Pixel 11 Pro就是理想之选，它在本次Prime会员日期间迎来了大幅折扣。阅读我们的评测。<br />百思买售价：原价1099美元，现价849美元</p>
-<p>苹果最新款Mac Mini与上一代机型体积一样小巧，但性能更为强劲。M6芯片比M4芯片速度提升了约20%。阅读我们的评测。</p>
-<p>Apple Watch Series 12<br />苹果手表产品线的最新迭代款已在亚马逊展开折扣促销。<br />亚马逊售价：原价399美元，现价349.99美元（42毫米，GPS版）<br />亚马逊售价：原价499美元，现价489美元（42毫米，5G + GPS版）</p>
-<p>iPhone Air是苹果迄今为止最薄的iPhone，厚度仅为5.6毫米，配备6.5英寸ProMotion显示屏、4800万像素融合摄像头，以及支持人物居中功能的1800万像素前置摄像头。但其单一后置摄像头以及表现平平的续航意味着它并不适合所有人。<br />百思买售价：原价999.99美元，现价839.99美元（256GB版）</p>
-<p>iPhone 16E在精神意义上是iPhone SE的继任者，以低于标准版iPhone 16的价格带来了旗舰级性能。在599美元的定价下，我们确实非常希望它能包含MagSafe功能，但从老款iPhone升级的用户很可能会对其所配备的功能感到满意。<br />百思买售价：原价599.99美元，现价519.99美元（128GB版）</p>
-<p>贝尔金Charging Case Pro<br />虽然它为你的Switch 2充电的速度并不比更便宜的贝尔金备选方案快，但这款巧妙结合了电池、支架以及内置显示屏的设计单纯在外观上就更胜一筹。<br />亚马逊售价：原价99.99美元，现价84.99美元（沙色款）</p>
-<p>三星Galaxy S26 Ultra<br />三星近期上调了其所有S26系列手机的价格，但你现在可以以全年中极具优势的优惠价拿下该系列中最顶级的机型——S26 Ultra。阅读我们的评测。<br />亚马逊售价：原价1299.99美元，现价949.99美元（256GB版）<br />百思买售价：原价1299.99美元，现价1079.99美元（256GB版）<br />亚马逊售价：原价1499.99美元，现价1279.99美元（512GB版）</p>
-<p>Bose QuietComfort Headphones Gen 2<br />如果你所追求的仅仅是绝佳音质、强劲降噪以及便于操作的实体按键，那么在当前价位下，没有比Bose QC耳机更好的选择了。阅读我们的评测。<br />百思买售价：原价359美元，现价319美元</p>
-<p>安克（Anker）笔记本移动电源<br />安克这款25000mAh移动电源配备两根内置USB-C线缆（其中一根为可伸缩设计），外加一个USB-C端口和一个USB-A端口。同时为两台设备充电时输出功率最高可达165W，为三台或四台设备充电时最高可达130W。<br />安克官网售价：原价119.99美元，现价89.99美元（限官网会员）</p>
-<p>三星Galaxy Z Fold 8<br />采用护照式设计的Z Fold 8是安卓阵营中最接近iPhone Duo的产品，至少在美国市场如此。这是一部体验极佳的手机，目前正处于有史以来的最大折扣力度中。阅读我们的评测。<br />亚马逊售价：原价1899.99美元，现价1549.99美元<br />百思买售价：原价1899.99美元，现价1549.99美元</p>
-<p>Soundcore Liberty 5 Pro<br />如果你喜欢长时间打电话，这款耳塞的通话质量是我们测试过的所有产品中表现最好的（甚至没有任何对手能与之匹敌），而且听音乐的效果也非常棒。阅读我们的评测。<br />亚马逊售价：原价169.99美元，现价144.99美元</p>
-<p>三星Galaxy Z Fold 8 Ultra<br />虽然在吸睛程度上可能不如三星Z Fold 8折叠屏，但Ultra机型带来了更优秀的相机成像素质。它目前正处于历史最低价。阅读我们的评测。<br />亚马逊售价：原价2099.99美元，现价1699.99美元<br />百思买售价：原价2099.99美元，现价1699.99美元</p>
-<p>Roku最新款Ultra流媒体播放器内置以太网接口、带背光按键的可充电语音遥控器，并支持AirPlay 2。你还可以通过兼容的智能音箱使用亚马逊Alexa对其进行控制。Roku Channel应用可让你免费收看400多个直播电视频道，并畅享《韦尔德：阿尔·扬科维奇的故事》等独家影片。<br />亚马逊售价：原价149.99美元，现价96.71美元<br />百思买售价：原价149.99美元，现价99.99美元<br />B&amp;H Photo售价：原价149.99美元，现价99.99美元</p>
-<p>Roku Streaming Stick Plus<br />Roku的Streaming Stick Plus支持4K播放并采用纤薄机身设计，因此不会遮挡临近的接口。它可以直接插入电视的HDMI接口，并可通过电视的USB端口供电，因此无需额外占用插座。它还附带Roku语音遥控器，为你提供免提控制体验。<br />沃尔玛售价：原价59.99美元，现价34.99美元<br />百思买售价：原价59.99美元，现价34.99美元</p>
-<p>WiiM Mini可让你轻松将手机、流媒体服务或其他本地存储中的音乐无线串流至现有的音箱设备中。它支持AirPlay 2以及多种流媒体服务。<br />Crutchfield售价：原价125美元，现价99美元</p>
-<p>Sub 4虽然价格不菲，但它是为你的Sonos音响系统锦上添花的最佳低音炮。它可以直立放置，也可以平放塞入沙发底或娱乐影音系统下方。<br />百思买售价：原价899美元，现价749美元</p>
-<p>Sonos Beam（第二代）<br />最新款Sonos Beam是一款紧凑型回音壁，支持虚拟杜比全景声音效，并可串流播放来自众多平台的音乐。阅读我们的评测。</p>
-<p>赛睿Arctis Nova Pro Omni<br />Omni相比2022款Nova Pro带来了虽小但备受欢迎的改进，最显著的是采用了真正独立于平台的跨平台设计，兼容所有主机。阅读我们的实际上手体验。<br />亚马逊售价：原价399.99美元，现价359.99美元<br />百思买售价：原价399.99美元，现价359.99美元</p>
-<p>虽然S26在各方面都没有特别惊艳之处，但它是你目前能买到的最实惠（同时也是最强劲）的旗舰手机之一。阅读我们的评测。<br />亚马逊售价：原价899.99美元，现价724.99美元（256GB版）<br />亚马逊售价：原价1099.99美元，现价899.99美元（512GB版）</p>
-<p>Pixel 11不久前以899美元的价格上市，但其256GB版本近期迎来了高达150美元的降价。这是体验谷歌最新软件功能的最便宜途径。阅读我们的评测。<br />Best Buy售价899美元 749美元</p>
-<p>Google Pixel 11 Pro XL<br />谷歌尺寸最大的Pixel 11 Pro也迎来了大幅降价，比基础款iPhone 18 Pro Max便宜了300美元。<br />亚马逊售价1299美元 999美元（256GB）<br />Best Buy售价1419美元 1119美元（512GB）</p>
-<p>Bose QuietComfort Ultra耳机（第二代）<br />Bose旗下最优秀的无线耳机正在打折，且该公司最近对其进行了进一步升级。阅读我们的最新报道。<br />Best Buy售价449美元 369美元</p>
-<p>Apple AirPods Max（第二代）<br />苹果对其旗下价格最高、性能最强的头戴式耳机的最新迭代，对初代用户来说升级幅度较小。但对于初次入手的用户而言，尤为会对其洪亮大气的音质赞赏有加。阅读我们的评测。<br />Best Buy售价549美元 429美元</p>
-<p>Roku Pro系列4K电视<br />Roku最新的Pro 4K电视拥有120Hz刷新率、四个HDMI接口（其中两个为2.1版本）、实现均匀亮度的全阵列局部调光，并支持杜比视界IQ和HDR 10+以实现更精准的色彩表现。它还兼容Apple Home、Amazon Alexa和Google Home，便于融入大多数智能家居生态。<br />亚马逊售价899.99美元 599美元（55英寸）<br />Best Buy售价1199.99美元 799.99美元（65英寸）<br />亚马逊售价1199.99美元 799.99美元（65英寸）</p>
-<p>Kindle Scribe Colorsoft<br />Kindle Scribe Colorsoft是亚马逊首款配备彩色屏幕的笔记类电子书阅读器。它采用11英寸显示屏、更轻薄的设计、经过改进的界面、升级的手写笔，并新增了可快速总结文档的AI搜索功能。<br />亚马逊售价629.99美元 479.99美元（32GB）<br />Best Buy售价629.99美元 479.99美元（32GB）<br />亚马逊售价679.99美元 519.99美元（64GB）</p>
-<p>第三代Kindle Scribe 32GB比前代10.2英寸的尺寸还要大；它提供了一块300ppi分辨率的11英寸显示屏，并具备Kindle一贯著称的出色电池续航。<br />亚马逊售价499.99美元 379.99美元<br />Best Buy售价499.99美元 379.99美元</p>
-<p>Kindle Colorsoft（16GB）<br />亚马逊上一代Kindle Colorsoft配备彩色电子墨水屏，性能与全新的2026款相近。它还拥有长达八周的续航时间以及一块非常适合阅读漫画和图画小说的7英寸显示屏。阅读我们的评测。<br />亚马逊售价249.99美元 189.99美元<br />Best Buy售价249.99美元 189.99美元</p>
-<p>上一代Kindle Paperwhite在Prime会员日期间迎来了诱人折扣。它与新款拥有相同的屏幕，因此你并不会错过太多东西。阅读我们的评测。<br />亚马逊售价199.99美元 149.99美元</p>
-<p>新版Fit Pro无线耳机，升级了重新设计的翼尖（Beats称其柔韧性提升了20%）、更小巧的充电盒以及其他优势。<br />亚马逊售价199.99美元 159.95美元<br />Best Buy售价199.99美元 159.99美元<br />B&amp;H Photo售价199.95美元 159.95美元</p>
-<p>Beats Powerbeats Pro 2<br />最新的Powerbeats Pro对运动人士来说是不二之选。它们具备出色的音质和强劲的低音，同时支持主动降噪、IPX4防水以及心率监测功能。阅读我们的评测。<br />亚马逊售价249美元 179.95美元<br />沃尔玛售价249美元 179.95美元<br />Best Buy售价249.99美元 179.99美元</p>
-<p>尽管外观设计依旧熟悉，但最新的Studio Pro进行了诸多升级，包括降噪、通透模式以及通过USB-C提供的无损音频。点击查看我们的评测。<br />亚马逊售价349.99美元 149.95美元<br />沃尔玛售价349.99美元 119美元<br />Best Buy售价349.99美元 149.99美元</p>
-<p>Apple MacBook Air（15英寸，M5，2026年款）<br />如果想要稍大一点的MacBook Air，15英寸版本是理想之选。它提供相近的性能，但电池容量更大，且配备更多扬声器。<br />亚马逊售价1499美元 1299美元<br />Best Buy售价1499美元 1299美元</p>
-<p>Bose的SoundLink Max在较小的Flex基础上进行了改进，带来真正的立体声——且音效极其强劲。它配有可拆卸手柄便于携带，并带有AUX音频输入接口，适合在你想追求高于蓝牙传输音质时播放音频。阅读我们的评测。<br />Best Buy售价399美元 279美元</p>
-<p>介于Bose SoundLink Flex和Max之间的Plus版本在澎湃低音、大音量不失真以及易于清洁的设计之间取得了良好平衡。阅读我们的评测。<br />Best Buy售价269美元 179美元</p>
-<p>Bose Soundlink Flex（第二代）<br />第二代SoundLink Flex在初代基础上提供了更加直观的操控设计，包括全新的播放/暂停按键。它还新增了可调节均衡器（EQ），支持通过AAC和aptX传输更高品质音频，同时保留了坚固耐用的IP67级防护设计，以及配对两台扬声器实现立体声的能力。</p>
-<p>贝尔金Nintendo Switch 2充电保护壳<br />该保护壳内置移动电源，并配有一个小口袋可存放AirTag（或其他尺寸相近的蓝牙追踪器）。<br />亚马逊售价69.99美元 59.49美元（黑色或沙色）<br />Best Buy售价69.99美元 59.49美元</p>
-<p>Nothing Ear 3A耳机<br />Ear 3A是一款适用于iPhone或Android的极佳（且外观吸睛）无线耳机，目前正以历史最低价促销。阅读我们的评测。</p>
-<p>Aqara智能门锁U400<br />这款创新的全新智能门锁利用多款iPhone和Apple Watch中的U1超宽带（UWB）芯片，可在你靠近时自动开门。它还将支持全新的Aliro标准，并兼容Android手机以实现无感解锁。<br />亚马逊售价269.99美元 219.99美元</p>
-<p>Aqara门铃摄像头G400（带室内门铃）<br />G400是首款支持苹果HomeKit安全视频功能的纯有线可视门铃。在同等价位下规格扎实，并附带可在室内响铃的接收器。<br />亚马逊售价99.99美元 84.99美元</p>
-<p>安克UFO三合一Qi2 15W充电座<br />虽然在同等价位下并非充电速度最快的无线充电器，但安克这款独特的飞碟造型三合一充电座展开后可为手机、AirPods和Apple Watch提供充电面板。<br />亚马逊售价89.99美元 69.99美元</p>
-<p>安克Nano 45W带显示屏充电器<br />安克最新的单口USB-C充电器提供最高45W功率，配备折叠插脚，正面带有“智能显示屏”，让你对电量、功率输出及其他实用信息一目了然。<br />亚马逊售价39.99美元 25.99美元<br />安克官网售价39.99美元 25.99美元</p>
-<p>Govee户外灯杆灯<br />这款户外灯杆灯全面支持Google Assistant、Alexa和Matter协议，方便你将其轻松接入智能家居系统。<br />Govee官网售价259.99美元 149.99美元</p>
-<p>具备变色功能的Govee Table Lamp 2对于希望让新居更有家的温馨感的新毕业生来说尤为合适。它支持调节色温与亮度，并具备音乐同步光效，可轻松营造出适宜放松、专注或聚会的氛围。它还可以通过语音助手或轻触操控，更加便捷实用。<br />亚马逊售价79.99美元 53.99美元<br />Best Buy售价79.99美元 69.99美元<br />Target售价79.99美元 53.99美元</p>
-<p>一款亮度达2800流明的台灯，可照亮桌面区域用于视频会议、精细操作等用途。它配有桌面固定夹，可轻松固定在工作台面上。<br />亚马逊售价179.99美元 134.99美元</p>
-<p>你能买到的最全面的安卓掌机之一是 Retroid Pocket 5。它拥有一块绚丽的5.5英寸OLED屏幕、类似PS Vita的外观设计，并且凭借其骁龙865处理器，具备足以流畅运行PS2时代游戏的强劲性能。</p>
-<p>Nothing旗下的首款头戴式耳机采用了复古的透明设计，并配备了主动降噪、带头部追踪的空间音频以及柔软的耳垫等高端配置。它们还配备了一个拨动按钮，可用于控制音乐播放。阅读我们的评测。</p>
-<p>美商海盗船（Corsair）Xeneon Edge 触控屏<br />Xeneon Edge 是一款适用于PC的多功能触摸屏，让你可以通过美商海盗船的应用市场，轻松调用控制选项、各类监控指标以及自选的小组件。</p>
-<p>雷蛇（Razer）炼狱蝰蛇 V3 专业版无线鼠标<br />如果你想选购当前市面上最舒适的右手型无线鼠标之一，这款产品性价比极高。此折扣价格适用于黑色和白色版本。<br />亚马逊售价：原价150美元，现价69.99美元</p>
-<p>Elgato Stream Deck MK.2 直播控台<br />标准版 Stream Deck 的 MK.2 版本配备了15个可编程按键、可更换的面板以及一个可拆卸支架。<br />亚马逊售价：原价149.99美元，现价119.99美元<br />百思买（Best Buy）售价：原价149.99美元，现价119.99美元<br />B&amp;H Photo 售价：原价149.99美元，现价119.99美元</p>
-<p>沙漏造型的 Sonos Era 300 音箱专为空间音频和杜比全景声彻底重构打造。它支持与 Era 100 相同的蓝牙和线路输入功能。</p>
-<p>对于需要一台性能强劲、便携且价格适中的Windows笔记本电脑的用户，可以考虑 Aspire Lite 14。这是一款基于ARM架构的电脑，配备了16GB高速内存、512GB存储空间，以及时尚纤薄的外观设计。</p>
-<p>《星球大战：零号小队》（Star Wars Zero Company）<br />这款带有《幽浮》（XCOM）风格改编的星战战术游戏名副其实、品质出众。赶快在它首次降价时入手吧。<br />亚马逊售价：原价59.99美元，现价47.99美元<br />百思买售价：原价59.99美元，现价47.99美元</p>
-<p>微软 Surface Laptop（13.8英寸，2026款）<br />一款性能强大的平板电脑，当你购买键盘和触控板配件后即可化身为笔记本电脑。该型号配备了OLED屏幕、骁龙 X2 Elite 处理器、16GB内存和512GB固态硬盘。阅读我们的相关报道。<br />百思买售价：原价1599.99美元，现价1299.99美元（16GB内存/512GB）<br />微软官方售价：原价1599.99美元，现价1299.99美元</p>
-<p>7月下旬发布的 Sleepbuds 2 采用了小巧的设计，非常适合侧睡人群。它们可以提供长达14小时电池续航的音频播放，甚至还配备了私人闹钟，只会叫醒你（而不会吵醒同床的其他人）。<br />百思买售价：原价279美元，现价237美元</p>
-<p>富士（Fujifilm）Instax Mini Evo 拍立得<br />富士时尚的 Instax Mini Evo 是综合表现最佳的拍立得相机。通过它，你不仅可以选择打印哪些照片，同时还能享受良好的画质。<br />亚马逊售价：原价234美元，现价199.99美元<br />百思买售价：原价234.99美元，现价199.99美元<br />B&amp;H Photo 售价：原价234美元，现价199.99美元</p>
-<p>如果你选择65英寸或更小的屏幕，它相比C5来说升级相对较小；但77英寸和83英寸的C6采用了改进型的串联OLED（Tandem OLED）屏幕，亮度表现惊人。<br />亚马逊售价：原价2699美元，现价1499.99美元（65英寸）<br />百思买售价：原价2699美元，现价1499.99美元（65英寸）</p>
-<p>微软 Surface Pro（13英寸，骁龙 X2 Elite）<br />最新的 Surface Pro 速度飞快且外观优雅，配备13英寸OLED触控屏和骁龙 X2 Elite 处理器。不过，它不附带键盘。<br />百思买售价：原价1799.99美元，现价1499.99美元（16GB内存，512GB固态硬盘）</p>
-<p>苹果 iPad Air 的最新迭代搭载了 M4 处理器并改进了内部连接性能，无论你是在玩游戏还是处理AI相关任务，都能带来绝佳性能。阅读我们的评测。<br />亚马逊售价：原价749美元，现价649美元（128GB，Wi-Fi版）<br />百思买售价：原价749美元，现价649美元（128GB，Wi-Fi版）</p>
-<p>富士（Fujifilm）Instax Mini 13<br />富士 Instax Mini 13 是一款适合送给开启人生新篇章的学生的趣味礼物。它可以在几秒钟内打印出信用卡大小的照片，全新的自拍定时器也让与朋友拍摄合照变得更加轻松。<br />亚马逊售价：原价93.95美元，现价79.99美元<br />百思买售价：原价93.99美元，现价79.99美元<br />Target 售价：原价93.99美元，现价79.99美元</p>
-<p>苹果的入门款 iPad 是一款适合日常轻度使用的绝佳平板电脑，即使它的设计有点显老旧了。其高分辨率屏幕非常适合观看视频，其搭载的 A16 处理器在应对轻度游戏和生产力应用时依然足够快。阅读我们的评测。<br />亚马逊售价：原价449美元，现价399美元（128GB，Wi-Fi版）<br />百思买售价：原价449美元，现价399美元（128GB，Wi-Fi版）</p>
-<p>索尼（Sony）WH-1000XM6 耳机<br />索尼对 WH-1000XM6 的方方面面都进行了细微改进，从音质到降噪表现俱全，同时明智地带回了上次在XM4上出现的可折叠便携设计。<br />百思买售价：原价458美元，现价378美元<br />B&amp;H Photo 售价：原价458美元，现价378美元</p>
-<p>索尼（Sony）WF-1000XM6 入耳式真无线耳机<br />如果你能在耳道内获得良好的贴合密封，索尼 WF-1000XM6 耳机能提供顶级的降噪性能以及出色均衡的音质。阅读我们的评测。<br />亚马逊售价：原价329.99美元，现价258美元<br />百思买售价：原价329.99美元，现价259.99美元</p>
-<p>出色的音质和优秀的设计是 Nothing 耳机的标志，但 Ear 3 更进一步打破常规，配备了能够录制音频的充电盒。阅读我们的评测。</p>
-<p>《宝可梦传说：Z-A》（Pokémon Legends: Z-A）是正统系列中首款采用即时战斗系统而非传统回合制机制的游戏。在以巴黎为灵感的游戏舞台中，你依然可以捕捉宝可梦、升级、交换和战斗，但更具动作导向的战斗系统以及（在任天堂 Switch 2 上的）流畅表现非常受欢迎。<br />亚马逊售价：原价69美元，现价39.99美元（Switch 2版本）</p>
-<p>苹果的 AirPods 4 虽然是上一代无线耳机，但依然表现优秀。硬质塑料耳塞相比第三代机型提升了音质，并具备深度的iOS系统整合以及带头部追踪的空间音频功能。阅读我们的评测。</p>
-<p>LG UltraGear 镜面 OLED 电竞显示器（27英寸）<br />27GX704A-B 是一款镜面OLED显示器，具备240Hz刷新率、G-Sync兼容、HDMI 2.1接口、DisplayPort输入口以及其他实用的加分特性。<br />亚马逊售价：原价449美元，现价349.99美元</p>
-<p>Cricut Joy 2 是一款小巧紧凑的切割和绘图机，可以为你的手工作坊带来升级。它非常适合制作书签、卡片和贴纸，并且易于上手使用。阅读我们的上手体验。<br />亚马逊售价：原价139美元，现价109美元（基础套装）<br />亚马逊售价：原价209美元，现价146美元（终极套装）<br />Cricut 官网售价：原价139美元，现价109美元（基础套装）</p>
-<p>Ninja Slushi 88盎司冰沙冷饮机<br />降价促销的 Ninja Slushi 可以在不添加任何冰块的情况下制作多达88盎司的冰沙。它可以保持饮品冷藏长达12小时，并配备五个温度预设档位以精准调节你的口感体验。<br />亚马逊售价：原价349.99美元，现价229美元</p>
-<p>三星（Samsung）Galaxy Watch 8<br />三星的 Galaxy 8 智能手表采用方圆形设计，内置 Gemini 助手，并提供抗氧化指数和跑步教练等健康监测功能。<br />亚马逊售价：原价299.99美元，现价219.99美元（40mm版）<br />百思买售价：原价299.99美元，现价219.99美元</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 22:28 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-mini-ai-agent-enterprise-651222944a43adc3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="595" data-content-paragraphs="10" data-published-at="2026-10-08T14:28:03.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:28</span>
-</div>
-
-### [谷歌推出一站式Gemini智能体，助力处理日常工作任务](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google is launching a one-stop Gemini agent for your work tasks</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="谷歌推出一站式Gemini智能体，助力处理日常工作任务" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该话题的动态将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>这款面向企业的Gemini智能体可通过单一界面处理工作。</p>
-<p>来自该作者的动态将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>查看Emma Roth的全部文章</p>
-<p>如果您通过链接购买商品，The Verge可能会获得佣金。请参阅我们的道德声明。</p>
-<p>谷歌正推出一款“通用型”Gemini AI智能体，可在后台跨应用程序和设备协同工作。该工具在周四的Gemini at Work活动中发布，将在Gemini Enterprise应用中提供，使用户能够通过单一界面与Gemini智能体对话并为其分配任务。</p>
-<p>除了让Gemini直接在Gmail、云端硬盘（Drive）、文档（Docs）、表格（Sheets）、日历（Calendar）等Workspace应用内协同工作外，用户还可以通过移动设备、台式电脑、网页端以及Slack或Microsoft 365等第三方应用与该智能体进行交互。由于其运行在云端，Gemini将在所有已连接的设备之间保持一致的上下文环境。</p>
-<p>谷歌表示，Gemini还可以与针对特定岗位的子智能体协同完成任务，并作为具有专属身份以及拥有独立“@agents.company.com”邮箱的“同事型智能体”运行。Gemini将自动采用最适合当前工作的AI模型来执行任务。</p>
-<p>免费获取每日重要新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 22:28 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--fuel-robotaxi-expansion-5b7af9708b297352" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1669" data-content-paragraphs="20" data-published-at="2026-10-08T14:16:56.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:16</span>
-</div>
-
-### [Waymo敲定黑石、品浩提供的50亿美元贷款，为机器人出租车业务扩张提供资金](https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion</div>
-
-<div class="article-body" data-article-body="true"><p>Waymo是谷歌母公司Alphabet旗下的自动驾驶技术公司。该公司已完成一笔50亿美元贷款的融资，贷款方包括品浩（PIMCO）、黑石（Blackstone）和Sixth Street等多家知名机构。</p>
-<p>这笔债务融资是Waymo首次采用债务融资方式。随着公司在现有城市加快商业扩张，并进军美国、欧洲和日本的新市场，Waymo表示，这笔融资是其发展成为一家“规模化商业企业”的重要一步。</p>
-<p>Waymo周四表示，这笔50亿美元贷款的其他贷款方还包括Capital Group、Loomis Sayles、T. Rowe Price、Apollo、Blue Owl、Diameter Capital Partners、Franklin Templeton、Fidelity Management &amp; Research Company、HPS Investment Partners和Oaktree。高盛担任唯一牵头簿记行。</p>
-<p>截至目前，Waymo一直依赖母公司资金和外部投资者的支持。今年2月，Waymo从投资者处筹集了160亿美元股权融资，公司估值升至1260亿美元。Dragoneer Investment Group、DST Global和红杉资本领投了这轮融资。Alphabet为该轮融资提供支持，并继续作为Waymo的最大股东。该公司曾于2024年完成56亿美元的C轮融资，2021年融资25亿美元，2020年融资32亿美元。</p>
-<p>Waymo发言人在一封电子邮件中表示，这笔债务融资将赋予公司更大的财务灵活性，有助于增强资产负债表实力，并使公司能够“抓住未来的重大机遇，尤其是作为一家正在实现规模化、已经证明拥有商业需求，并且在运营所在社区取得更佳道路安全成效的企业”。</p>
-<p>Waymo最初是谷歌内部的自动驾驶项目。多年来，该公司一直在硅谷和旧金山湾区的公共道路上测试自动驾驶技术，并偶尔向公众或媒体进行演示。2016年，公司将业务拓展至凤凰城，该城市后来成为其首个机器人出租车市场。</p>
-<p>2023年8月，Waymo获得了在加州运营机器人出租车服务并收取车费所需的最终许可，这一里程碑推动公司采取更积极的商业化策略。此后，Waymo已在加州多个城市推出服务，包括洛杉矶、旧金山，以及最近加入的圣迭戈。该公司还将机器人出租车服务带到了美国其他多个市场，包括得克萨斯州的奥斯汀、达拉斯和休斯敦，以及佛罗里达州的迈阿密、奥兰多和坦帕。目前，Waymo已在15个市场提供机器人出租车服务。</p>
-<p>Waymo也希望将机器人出租车服务拓展至全球。该公司正在伦敦和东京进行测试，并计划在这两个城市推出服务。</p>
-<p>公司的增长也引发了批评，并受到监管机构越来越多的关注。</p>
-<p>美国国家公路交通安全管理局缺陷调查办公室已对Waymo机器人出租车在校车附近的违法行为展开调查。这一联邦安全监管机构还在一辆Waymo机器人出租车撞到一名学校附近的儿童后启动了调查。该儿童伤势轻微，事发时车辆以约每小时6英里的速度撞上了他。今年早些时候，美国国家运输安全委员会也对Waymo展开了调查，此前有人发现该公司的机器人出租车在至少两个州多次违法超越停靠的校车。</p>
-<p>当您通过我们文章中的链接购买产品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>交通编辑</p>
-<p>第二张通行证可享受五折优惠<br />Disrupt活动的意义在于分享。购买您的通行证，并以五折优惠带上一位同事、合作伙伴或同行。通过建立联系、积蓄发展势头并探索创业生态系统的下一步，拓展您的视野。</p>
-<p>Anthropic为初创企业免费提供一年的Claude Team服务及1000美元额度</p>
-<p>19岁时，这位创始人为Ghost筹集了1100万美元；Ghost生产一款售价3499美元的个人人工智能电脑</p>
-<p>特朗普公布新的“超级智能部队”</p>
-<p>联邦法官称Flock构成“无差别的大规模监控”</p>
-<p>亚马逊回应数据中心反弹，称不再使用保密协议</p>
-<p>OpenAI安全员工辞职，称公司“文化已经崩坏”</p>
-<p>Meta希望你的下一款设备融入Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 22:16 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--computer-retro-preorder-e881623f8375517f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="716" data-content-paragraphs="9" data-published-at="2026-10-08T14:16:37.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:16</span>
-</div>
-
-### [雅达利正重新推出其最早的8位家用电脑之一](https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Atari is bringing back one of its earliest 8-bit home computers</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/atari.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="雅达利正重新推出其最早的8位家用电脑之一" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的内容将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>800XL是对这款8位个人电脑的忠实再现，配备全键盘，可用于玩游戏或使用BASIC语言编写代码。</p>
-<p>该作者的内容将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>查看安德鲁·利谢夫斯基（Andrew Liszewski）的全部文章</p>
-<p>在复刻了2600和美泰（Mattel）的Intellivision等标志性主机之后，雅达利（Atari）正重新推出该品牌在43年前首次亮相的一款个人电脑。800XL是对这款一体化8位个人电脑的忠实复刻，本次复刻是与游戏开发商兼发行商Plaion合作进行的。尽管大多数复古爱好者可能会用它来玩游戏，但全新的800XL延续了原版的内置机械键盘，适合那些希望使用Atari BASIC编写自己的游戏和应用程序的用户。</p>
-<p>800XL现已开启预售，售价219.99美元，预计将于2027年4月开始发货。它配备了现代化的便利配置，例如用于连接U盘和外设的HDMI接口与四个USB-A接口，并附带了雅达利经典摇杆的复刻版，该摇杆升级了八个动作和功能按钮，功能更加丰富。</p>
-<p>机身设有一个功能完备的卡带插槽，兼容大多数雅达利400、800、XL和XE卡带，但重生的800XL还可以运行为这些老款8位系统制作的任何软件，即使从U盘加载也能运行。对于没有收藏复古卡带的用户，800XL内置了25款游戏，包括《爆破彗星》（Asteroids）、《蜈蚣》（Centipede）、《狂暴机器人》（Berzerk）、《导弹指挥官》（Missile Command）以及《千足虫》（Millipede）等知名作品。</p>
-<p>每日免费新闻文摘，汇集最重要的资讯。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 22:16 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-e-year-echo-show-dot-max-97efff7eb432ac58" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5803" data-content-paragraphs="47" data-published-at="2026-10-08T14:00:22.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:00</span>
-</div>
-
-### [Alexa Plus 更擅长管理我的家庭，但还没准备好管理我的生活](https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Alexa Plus is better at running my home, but it&amp;#8217;s not ready to run my life</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Alexa Plus 更擅长管理我的家庭，但还没准备好管理我的生活" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>本主题的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>亚马逊搭载人工智能的 Alexa 并不总能记住我是谁，也不总记得我女儿在哪所学校上学——但现在，它已经能够可靠地打开我的灯，有时还会为我煮一杯咖啡。</p>
-<p>如果您通过链接购买商品，《The Verge》可能会获得佣金。请参阅我们的道德声明。</p>
-<p>这位作者的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看 Jennifer Pattison Tuohy 的全部文章</p>
-<p>在 Alexa Plus 能做的所有事情中，我从没想过它会让我落泪。自从我儿子离家上大学后，我办公室里的 Echo Show 一直在制作“今昔对比”的照片拼贴：小时候拿着第一支网球拍的他，与如今身为校队队长的他并列；小时候我抱着他，如今我抱着已经长大成人的他。我不止一次热泪盈眶。但随后广告出现了：一张丑陋的棕色皮革躺椅占据整个屏幕。我瞬间从怀旧的喜悦转为恼怒。</p>
-<p>这基本概括了我与 Alexa Plus 共度的一年。前一分钟它还会做出非常令人惊叹的事情，下一分钟却表现得像是不知道我是谁。</p>
-<p>自 2025 年 7 月起，我一直在家中测试亚马逊搭载人工智能的 Alexa Plus 助手。当时它刚刚以抢先体验形式推出，时间早于 2026 年 2 月的正式发布。今年早些时候，谷歌开始推出面向家庭的 Gemini；与此同时，有传言称苹果终于将在本月把完整的 Apple Intelligence 体验带到 Apple Home。现在似乎正是回顾亚马逊进展的好时机。</p>
-<p>一年下来，Alexa Plus 是我测试过的最佳智能家居助手：它易于交谈，能够处理例程和多步骤指令，还能在厨房中提供帮助。但亚马逊试图将它扩展为个人助理的努力还不成熟，令人沮丧；而 Echo Show 智能显示屏上的广告也已经失控。</p>
-<p>我在厨房使用 Echo Show 11，在家中各处使用 Pops 和 Dots，并在办公室使用 Show 15 和 Show 8。我通过语音指令控制智能家居设备，让它帮我设置计时器和处理食谱，将日程添加到日历、将杂货添加到购物清单，偶尔也会让它从亚马逊订购东西。我把这些带屏幕的设备用作相框、查看摄像头画面，以及作为智能家居的触摸屏控制器。</p>
-<p>要让 Alexa Plus 正常为我工作，我不得不从头重建智能家居</p>
-<p>它已经有了很大改进。智能家居控制、例程、一般查询、日历管理和购物功能，都比人工智能版 Alexa 之前领先了数个光年，这主要是因为新版 Alexa 更能理解我。由大语言模型驱动的语音助手最大的承诺，就是用户可以直接说出想做什么，而不必使用生硬、精确的命名方式。根据我的测试，这一承诺确实实现了。我的家人现在比过去更常使用 Alexa，而我也喜欢可以给出更宽泛的指令，比如“Alexa，让这里亮一点”和“Alexa，我冷”，它都知道该怎么做。</p>
-<p>它现在也更快、更可靠了。刚开始测试新版助手时，我遇到过一长串问题，从误解指令，到例程出错，再到响应速度极慢。如今，天气或常识类问题，以及设置计时器之类的指令，通常会在三到五秒内执行，这比我在 2025 年遇到的 10 到 15 秒有了巨大变化。第一次理解错请求时，现在通常只要补充说明就能纠正。我可以说：“锁上前门，关掉灯，把恒温器调低，并告诉机器人打扫楼下。”这些指令会迅速执行，不会再答非所问。</p>
-<p>Alexa 回答问题的能力也强了很多，尤其是在厨房里。现在可以用自然对话的方式和它交流，也不必重复唤醒词，交谈变得更加轻松——不过，在它对我的购物清单使用了一次又一次的夸张赞美后（“哇哦，这会做出一份超辣的莎莎酱！”），我不得不切换到新的“简洁”个性模式。</p>
-<p>最近我在英国时拍下了朋友的荷兰宝贝松饼食谱，并通过 Alexa 应用发给了 Alexa。回家后，我让 Alexa 帮我烹饪这道菜；助手调出了重新排版的食谱，我们在我做饭时轻松地来回交谈。我可以问：“烤箱应该预热到多少度？”以及“160 克是多少盎司？”它会记得我们正在讨论这份食谱，并给出正确答案。Alexa 仍然有时会忘记自己正在做什么，想要回到食谱也可能有些困难，但这是我测试过的最佳语音助手烹饪体验。</p>
-<p>Alexa Plus 是亚马逊重新打造的、由生成式人工智能驱动的数字助手。您可以通过 Echo 智能音箱和显示屏、Fire TV 以及其他内置 Alexa 的设备使用语音访问它。您也可以在智能手机和平板电脑上的 Alexa 应用中，以及 Alexa.com 上访问它。</p>
-<p>在网页、应用和 Fire TV 上可以免费使用，但如果要在兼容的 Echo 设备上访问，则需要加入 Amazon Prime 会员，或在美国支付每月 19.99 美元的订阅费。</p>
-<p>Alexa Plus 已在美国和加拿大推出，并在墨西哥、英国、意大利、西班牙、德国、奥地利、法国、巴西、澳大利亚和印度进行抢先体验。原版 Alexa 仍可在 Echo 设备上免费使用。</p>
-<p>我还发现，Alexa 在回答常识问题方面也更有用——这曾经是它非常糟糕的一项能力；日历管理也变得更加可靠。现在，我可以向 Alexa Plus 发送电子邮件并上传文档和照片，它能够从这些内容中导入日程到我的日历。我就这样添加了我女儿完整的学校课表。购物功能也有了巨大改善。我把女儿老师发来的 10 张缝纫用品截图上传到 Alexa 应用，它找到了所有商品，并将它们添加到我的亚马逊购物车中，为我节省了大量时间。</p>
-<p>我最喜欢的升级功能，是通过语音创建 Alexa 智能家居例程。我想到希望家里完成的事情，告诉 Alexa，它就会执行。我希望门廊上的串灯在我走到户外时亮起；Alexa 利用 Ring 摄像头上的运动传感器设置了一个例程。我还可以随时调整例程。一天晚上，我女儿从浴室出来抱怨：“灯一直自动关掉。”我告诉 Alexa，把“走廊浴室灯”例程的关闭时间从 15 分钟改为 30 分钟，它就解决了问题。</p>
-<p>但要走到这一步，花了很长时间。和许多 Alexa 用户一样，我的智能家居积累了大量技术债务；而作为一名评测者，我的 Alexa 应用更像是一座僵尸设备的墓地。为了让 Alexa Plus 正常为我工作，我不得不从头重建智能家居：删除所有旧的 Alexa 技能和例程，清理失效及重复的设备。整个过程花了数月时间，确实是数月。我在过去一年里不得不把 55 台 Hue 设备重新添加了 6 次。虽然 Alexa 已经有所改进，但 Alexa 应用没有。添加、删除和移动多个设备仍然极其痛苦，而应用体验是 Alexa 最大的缺陷。</p>
-<p>我真正想要的是让 Alexa Plus 替我打理好所有这一切，这样我就再也不用去点开 App 了。从设置各种小配件到排查故障，Alexa 应该能够把设备分配到正确的房间，并且如果有什么东西出故障了，它能自己摸索搞定。我希望它替我管理我的智能家居。这才是值得我花钱买单的助手。</p>
-<p>尽管 Alexa Plus 取得了很大进步，但仍存在三大严重问题，其中一个甚至可能让你彻底不想使用这项服务：广告、执行不稳定，以及作为个人助手的大部分尝试均以失败告终。</p>
-<p>屏幕展示广告已经彻底失控。现在，我家的每一台 Show 设备都变成了亚马逊商品的轮播广告牌。即使你关掉了所有的主屏幕内容（即显示屏上的轮播画面），广告依然会穿插在你的照片和时钟之间出现。出现的时机完全是随机的；我卧室里的 Echo Show 5 可能每小时跳出一条广告，而厨房里的 11 寸设备一整天都不弹一条，但在我办公室的 Show 8 上，广告几乎就没断过。</p>
-<p>Alexa Plus 在执行更复杂的指令时依然表现不稳定</p>
-<p>亚马逊 Alexa 与 Echo 业务副总裁丹尼尔·劳施（Daniel Rausch）告诉我，这些广告是经过精心策划的，旨在保持相关性。“如果做得好，广告应该在恰到好处的时刻展示有用的内容，”他说道。但我并没有觉得它们经过了精心挑选；在轮番轰炸我眼球的美妆产品、汽车配件、零食、家具、保健品和智能家居装备中，根本没有一样是我想买的。更糟糕的是，亚马逊最近还加入了视频广告。</p>
-<p>现在有解决办法了，但你得为此付钱：亚马逊新推出的“无限照片画廊”（Photo Gallery Unlimited）功能可以去除主屏幕上的广告，费用为每台设备每月 2.99 美元。如果你不想为了免受广告侵扰而每月交费，那我建议你还是继续用 Echo 无屏智能音箱吧。</p>
-<p>Alexa Plus 在执行更复杂的指令时依然表现不稳定。这是我在最初测试时遇到的一个大问题，虽然已有改善，但并未彻底消除。从过去稳定但受限的传统 Alexa“命令与控制”架构转向大语言模型驱动的生成式 AI，引入了许多不确定性：Alexa Plus 有时不得不去猜测你的意图。</p>
-<p>例如，Alexa 依然无法稳定可靠地泡出一杯咖啡。我有一台支持 Alexa 的博世 800 系列咖啡机，它配有专门的深度集成，让 Alexa 拥有更细粒度的控制能力，包括制作特定饮品，比如大杯咖啡（coffee grande）。大多数时候这都能正常工作——比我最初测试时有了很大的进步。但前几天我让 Alexa 给我做一杯大杯咖啡，它却回答：“我很乐意，但我既没有胳膊，也没有咖啡机。”我又问了一次，它说：“没问题，这是为您找到的磨豆机，”同时在屏幕上展示了一张 AI 生成的磨豆机图片。</p>
-<p>Alexa Plus 在获取时效性信息方面依然吃力。6 月份问它英格兰队下一场足球世界杯比赛是什么时候，害得我差点错过开球；上个月当我询问俄亥俄州立大学对阵伊利诺伊大学的橄榄球比赛在哪个频道转播时，它居然提议为一场早已开始的比赛设置提醒。</p>
-<p>我并不反对 Alexa 为我做更多事，但这位助手多次未能完成任务</p>
-<p>弄错日期和时间绝不是我希望在一个“个人助手”身上看到的特质，而这正是亚马逊大力推广 Alexa Plus 的定位。现在的厨房 Echo Show 上，不再是那个沉稳但虚无缥缈的声音，每天早晨迎接我的是一双欢快的数码小手，奉上一个开心的表情符号，并伴有一句类似“嘿 Jen，告诉我今天我能为你做点什么？”的问候。</p>
-<p>抛开这种过于欢快的做派不谈——我是英国人，我们向来不吃过于热情这一套——我并不反对 Alexa 为我做更多事。只是这位助手多次未能完成我交给它的任务。这些新的代理（agentic）功能大部分都显得半生不熟，包括与 Thumbtack、OpenTable 和 Ticketmaster 的集成，基本上是在浪费我的时间。</p>
-<p>随着亚马逊开始对在 Echo 设备上使用 Alexa 收取费用（如果你不是 Prime 会员，则为每月 19.99 美元），并在 AI 代理领域与科技巨头竞争，这种功能的堆砌是不可避免的。但没有什么比花了半天时间解释你想做什么、最后却还得自己亲自动手更让人抓狂的了。</p>
-<p>一个更大的问题是记忆力。Alexa 的记忆力就像金鱼一样短暂。有一阵子，它忘了我是谁，每当我让它做事时，它总是要求我先做自我介绍。说实话这很没礼貌，毕竟它都在我家住了十年了。它理应还具备一项名为“记住这个”（Remember This）的功能，可以存储你告诉它的信息，类似于 ChatGPT 或 Claude 中的记忆功能。</p>
-<p>我告诉了它我女儿上哪所学校，让它把这件事记住，然后询问去那里的路况如何。它给出了正确的回答。但第二天，当我提出同样的请求时，它却极其自信地报出了另一所完全不同学校的路况和路程时间，并且还坚称这就是我当初让它记住的那所学校。</p>
-<p>记住关于你、你的家人和你的家庭的细节，是私人助理的一项核心技能。如果我雇了一个把女儿送到错误学校的助理，我会立刻把他解雇。</p>
-<p>亚马逊已经对我的家庭了如指掌，从我购买的商品到我的购物清单，甚至是送到我门前的包裹——这是你在使用 Alexa 时不得不权衡妥协的隐私代价。但它所缺乏的，恰恰是个人助手所必需的个人语境。这正是谷歌和苹果占据优势的地方，也是亚马逊要想在此取得成功需要奋力直追的地方。</p>
-<p>我测试了所有主流的智能家居助手，包括谷歌的 Gemini for Home 和苹果 Home 中的 Siri，在控制我的家方面，Alexa 依然是最可靠、功能最全的。但如果要是发送短信，我会找 Siri；如果要查找送女儿去学校的不堵车路线，我则会求助于谷歌。</p>
-<p>通过 Alexa Plus，亚马逊向该公司构想了十余年的环境智能家居（ambient smart home）迈出了坚实的一步。它现在需要做的是抵御成为全能通用 AI 机器人的诱惑，将重心转而放在成为“家庭大脑”上——或许这个大脑还可以与你自选的个人 AI 助手进行整合（这正是谷歌在 Google Home 上所做的）。这就需要亚马逊重新找回其在 2014 年该平台推出时所具备的开放性——如今它让人感觉越来越封闭，许多功能只支持亚马逊自家品牌及精选合作伙伴。不过，Alexa 依然是最大众化的主流智能家居平台，拥有广泛的第三方支持、庞大的装机量，并广泛兼容包括 Matter 和 Thread 在内的各项协议。</p>
-<p>然而，虽然它在广度上取胜，但 Alexa 在深度上有所欠缺。Alexa Plus 应该能够控制每台设备的每一项功能，而不仅仅是开关（亚马逊最近推出的开发者工具包可能对此有所助益）。结合去年发布的 Omnisense 融合传感器平台，这能让它更接近全面学习和理解家庭日常规律的状态。在拥有这一背景情境后，它便能主动建议日常惯例，并开始为你采取行动——而不仅是偶尔冒出一些随机的“预感”。这是智能家居的下一个前沿阵地，而如今亚马逊最有实力跨越这一关卡。</p>
-<p>我所渴望的智能家居助手，并不是能够预订餐厅或撰写电子邮件的那种；而是能够理解我的家、帮我打理家务，并且知道何时需要一张可爱的婴儿萌照来让我开心起来的那一款。</p>
-<p>摄影：珍妮弗·帕蒂森·图伊（Jennifer Pattison Tuohy）/ The Verge</p>
-<p>查看所有 Amazon Alexa 内容</p>
-<p>查看所有智能家居评测</p>
-<p>每日免费精选最核心新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 22:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-m-for-his-new-ai-startup-7fc877e49f7054a2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2013" data-content-paragraphs="18" data-published-at="2026-10-08T14:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:00</span>
-</div>
-
-### [Cal AI年仅19岁的创始人为其新AI初创公司刚完成1000万美元融资](https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Cal AI’s 19-year-old founder just raised $10M for his new AI startup</div>
-
-<div class="article-body" data-article-body="true"><p>热播卡路里追踪应用Cal AI的年轻联合创始人扎克·亚德加里（Zach Yadegari）推出了新的AI智能体初创公司Persona，并已筹集了1000万美元。Vine Ventures领投该轮融资，Z Fellows创始人科里·莱维（Cory Levy）和Collective Global跟投。</p>
-<p>今年3月，Cal AI在应用商店排行榜上超越老牌卡路里追踪应用后，被MyFitnessPal以未公开的金额收购。MyFitnessPal当时告诉TechCrunch，这笔交易规模足以促使亚德加里及其联合创始人出售公司，彼时该公司在不到两年的时间里就斩获了超过3000万美元的年收入。</p>
-<p>亚德加里对TechCrunch透露，他和联合创始人起初加入新东家继续负责Cal AI的开发，但他于6月离开了这家更大的公司。随后他立即着手于下一个构想。（他正与另一位尚未公开的联合创始人合作。）</p>
-<p>这个构想就是Persona——一款类似于Instinct或Meta的Muse的个人AI助手，但它还附带一个即将推出的硬件组件：一款售价179美元的穿戴手环。</p>
-<p>亚德加里告诉TechCrunch，这让Persona在某种程度上更像亚马逊于2025年收购的可穿戴AI设备Bee，但Persona的设备在几方面有所不同。首先，它不会是环境智能（ambient AI），这意味着它不会始终处于倾听和录音状态。该手环配有一个用于激活助手的按钮，或者也可以设置为通过轻甩手腕来激活。</p>
-<p>亚德加里还表示，Persona在设计上充分考虑了用户隐私。Persona不会在设备端运行其AI模型或存储用户数据。相反，模型运行在Persona的云端，用户数据会被发送至云端。该助手通过对传输中和静态存储的数据进行加密来保护隐私。该公司表示，用户也可以删除自己的数据。</p>
-<p>通过这种方式，公司承诺用户对话将保持私密，且绝不会出售给广告商或数据经纪商。</p>
-<p>亚德加里表示，团队还在构建防护机制，以保护该助手免受网络钓鱼和提示注入攻击。正如OpenAI等AI实验室指出的那样，这两个领域容易困扰智能体。</p>
-<p>此外，他承诺Persona的智能体无法查看用户的信用卡详情，且所有购买行为均需要用户批准，支付则通过Stripe Link等外部供应商处理。Link是Stripe专为智能体使用而设计的安全钱包。</p>
-<p>尽管用户数据不会出售给广告商，但该初创公司目前的商业模式确实依赖广告。亚德加里表示，公司会在购物调研过程中展示广告商品。但他表示，智能体会提供客观中立的推荐，因为智能体不会知道哪些商品是广告。例如，如果有人在调研办公椅，“智能体会了解他们的偏好”，并向他们展示符合这些偏好的椅子，其中部分为赞助结果。</p>
-<p>这款手环预计将于12月上市，配套应用正在开发中。与此同时，Persona已推出免费测试版产品，用户可通过iMessage短信与该助手互动。亚德加里表示，它已吸引了“几千名测试用户”。该手环也已产生了“五位数的预订收入”。</p>
-<p>他表示，与其他消费级AI助手一样，Persona能够订餐、叫车、记笔记、预订行程、回答问题和处理电子邮件等。</p>
-<p>亚德加里说：“你日常在手机上使用的所有实用工具应用，无论是购物软件，还是Uber、DoorDash、电子邮件——它们都正在且必将收敛融合为一个由AI助手驱动的超级应用。”</p>
-<p>最终，他希望让Persona变得更加主动。“它可以在你意识到自己遇到问题之前就提供帮助并解决问题，从整体上更无缝地融入你的生活，让你不必整天盯着手中的那块长方形屏幕。”</p>
-<p>欢迎前来聆听扎克·亚德加里在TechCrunch Disrupt大会上的演讲，主题为“如何打造病毒式增长并将其变现”。Disrupt大会将于10月13日至15日在旧金山莫斯康展览中心（Moscone Center）举行。在创立Cal AI之前，亚德加里在九年级就创办了自己的第一家企业，并在16岁时以10万美元的价格将其出售。</p>
+<div class="article-body" data-article-body="true"><p>Arena周四表示，公司已以31亿美元的估值完成2亿美元的B轮融资。该项目于2023年发端于加州大学伯克利分校的一项研究项目，通过众包方式对AI模型进行排名。</p>
+<p>在此之前，该公司曾表示其年化运行率收入（ARR）在6月份达到了1亿美元。</p>
+<p>本轮融资由光速创投（Lightspeed Venture Partners）和科斯拉创投（Khosla Ventures）领投，Salesforce Ventures、01 Advisors、戴尔科技资本（Dell Technologies Capital）、Endeavor Catalyst、a16z、Felicis等参投。Arena此前曾于1月份宣布以17亿美元的投后估值完成1.5亿美元的A轮融资。当时该公司称其年化收入为3000万美元。这意味着其估值在大约10个月内几乎翻了一番。</p>
+<p>Arena提供了一个面向普通用户免费开放的众包平台。用户可以输入提示词或提出氛围编码（vibe-coded）项目请求，然后评价哪个模型表现更好。Arena声称其月访问量达数千万人次。</p>
+<p>去年9月，该公司推出了商业化产品“AI Evaluations”，该服务根据社区反馈为模型实验室和企业提供详细的性能分析。事实证明，这一推出的时机恰到好处。今年，各大AI实验室意识到他们的模型正在“刷榜”基准测试，设法在没有真正实力的情况下获取高分。与此同时，企业也希望获得帮助，以确定哪种模型最符合其内部自身需求，而不仅仅依赖标准化的基准测试。</p>
+<p>“AI的发展速度已经超过了我们评估它的能力，一旦模型意识到自己正在接受测试，静态基准测试就会失效，”该公司在融资公告中表示。“当AI真正交到现实用户手中时，世界需要一个中立的第三方来衡量其真实的安全性和对齐程度。如今，Arena正在承担起这一角色，”该公司补充道。</p>
+<p>为此，Arena还在其排行榜中新增了一个类别：对齐度（alignment）。在该板块中，它根据未经授权的操作（采取未被要求执行的操作）、错误归因（将言论或事实错误归于错误的来源）以及所谓的“欺骗性完成”（在未完成任务的情况下谎称已完成）等问题对模型进行排名。</p>
+<p>目前，在初步公布的对齐度排行榜上，OpenAI旗下的一系列模型名列前茅，而Claude Opus 5.5和Claude Fable分别位列第六和第九位。</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>获取第二张门票半价优惠：Disrupt大会的体验本就应当与人分享。购买您的门票，即可为同事、合伙人或同行享受半价优惠。通过建立人脉、积聚动力并探索初创企业生态系统的下一步走向，拓展更多业务领域。</p>
-<p>Anthropic为初创企业提供一年免费的Claude Team版本及1000美元积分<br />年仅19岁的创始人为Ghost筹集1100万美元，打造售价3499美元的个人AI电脑<br />特朗普公布其新的“超级情报部队”（Super Intelligence Force）<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心引发的抵制，称不再使用保密协议（NDA）<br />OpenAI安全部门员工辞职，称公司“企业文化已崩坏”<br />Meta希望你的下一款硬件融入Muse技术</p></div>
+<p>第二张入场凭证享五折优惠：Disrupt大会的体验旨在与他人共享。购买您的入场凭证，即可携同事、合伙人或同行享半价优惠。通过建立人脉、积聚势能并探索初创生态系统的新风向，拓展更多可能。</p>
+<p>Anthropic为初创企业提供为期一年的免费Claude Team以及1,000美元额度<br />19岁创始人为售价3,499美元的个人AI电脑制造商Ghost筹集1100万美元<br />特朗普公布其新设立的“超级情报部队”（Super Intelligence Force）<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心争议，称其不再使用保密协议（NDA）<br />OpenAI安全部门员工辞职，称公司“文化已崩坏”<br />Meta希望你的下一款数码设备融入Muse技术</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 22:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 02:19 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1107,7 +775,91 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-han-previously-projected-2426f6e1347dd0c6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="829" data-content-paragraphs="7" data-published-at="2026-10-08T18:19:42.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 02:19</span>
+</div>
+
+### [据报道，OpenAI 的营收比此前预估低 200 亿美元](https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI’s revenue is reportedly $20 billion less than previously projected</div>
+
+<div class="article-body" data-article-body="true"><p>一周多前，有报道称 OpenAI 的年化营收已接近 700 亿美元，这一数字原本将使其能够与 Anthropic 据报道的营运率相抗衡。然而，现在据称这家 AI 实验室已告知投资者，其实际营收比该数字低了约 200 亿美元。</p>
+<p>据《金融时报》（Financial Times）报道，该公司已向投资者表示，其年化营收“正接近 500 亿美元”。该媒体写道，此前多家新闻媒体报道的 700 亿美元数字，是基于与 OpenAI 投资者分享的信息。据《金融时报》称，该数据是通过“OpenAI 自身投资者试图与 Anthropic 的年化营收进行直接对比”而得出的。</p>
+<p>值得指出的是，OpenAI 和 Anthropic 计算年化营收的方式并不相同——Anthropic 将其云合作伙伴带来的销售额计算在内。OpenAI 则没有这样做。</p>
+<p>TechCrunch 已联系 OpenAI 寻求置评。</p>
+<p>OpenAI 的营收问题一直困扰着该公司，因为它正试图为其所获得的庞大投资提供合理解释；这家 AI 巨头仅在 3 月份的一轮融资中就筹集了 1220 亿美元。今年早些时候泄露的该公司 2025 年财务数据显示，其营收约为 130 亿美元，但支出要高得多。此前传闻将于今年成行的 OpenAI IPO，已被推迟至 2027 年初。</p>
+<p>购买第二张通行证可享五折优惠。Disrupt 的体验理应与他人分享。购买您的通行证，并以五折优惠携同僚、合伙人或同行一同参与。通过建立人脉、蓄积势能以及探索初创企业生态系统的下一步动态，涵盖更广阔的领域。</p>
+<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的报道内容。<br />TechCrunch Mobility 是您获取交通新闻与洞见的理想之选。<br />初创企业是 TechCrunch 的核心，因此请每周查收我们为您呈现的精选报道。<br />为行业领袖与决策者提供开启新一天所需的信息。<br />提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 02:19 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-starting-with-businesses-34de0981eaae0131" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1833" data-content-paragraphs="15" data-published-at="2026-10-08T18:18:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 02:18</span>
+</div>
+
+### [谷歌将智能体AI引入Gemini，率先面向企业推出](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google brings agentic AI to Gemini, starting with businesses</div>
+
+<div class="article-body" data-article-body="true"><p>在周四举行的谷歌云大会上，该公司宣布正在将其Gemini人工智能带入智能体（agentic）时代，推出了一款统一智能体，它不仅能回答问题，还能在单一界面中代表用户执行并完成任务。</p>
+<p>这一举措正值AI工具从单纯的对话交互体验，转向能够自主承担被分配的任务、生成代码、安排会议、预订预约与行程等场景。这也顺应了面向消费者的智能体（如Meta的Muse）、基于即时通信运行的智能体（如Instinct等）的兴起，以及近期ChatGPT推出Dots的趋势。</p>
+<p>谷歌在其智能体布局上仍有很大机会实现规模化——正如谷歌首席执行官桑达尔·皮查伊（Sundar Pichai）在活动开场时指出的那样，Gemini目前的月活跃用户已超过10亿。他还提到，近90%的财富100强企业如今在工作中使用Gemini Enterprise。</p>
+<p>鉴于Gemini在企业界的普及度，谷歌最初将专注于将该智能体引入企业，随后再推广至消费者群体。</p>
+<p>皮查伊表示，这将使公司能够解决“围绕安全性、规模和性能等更棘手的问题”，而这些问题正是推出此类强大智能体所伴随而来的挑战。</p>
+<p>谷歌云首席执行官托马斯·库里安（Thomas Kurian）解释说，新智能体可以接收“目标，而不仅仅是指示”。这意味着它能够规划工作，调用定制技能与工具，并连接到企业的内部系统以实现其目标。</p>
+<p>默认情况下，该AI将选择最佳模型来完成任务，但用户也可以介入自行选择模型——包括来自第三方的模型，首先支持的是Anthropic的Claude系列模型。谷歌表示，未来将扩展模型选择器，纳入开源模型和其他私有模型。</p>
+<p>用户提出的请求可以包含附件，例如文件、文件夹或专为特定工作流设计的其他项目（如将文件与技能结合的项目）。该智能体能够连接到企业的数据和系统，如Google Workspace、Microsoft 365、Slack、Jira、Confluence、Git、BigQuery、Databricks、Postgres、Snowflake等。</p>
+<p>它还可以与企业网络内部或外部的任何模型上下文协议（MCP）服务器进行安全连接和协同工作。</p>
+<p>用户可以通过“任务收件箱”界面跟踪Gemini的工作动态，在该界面中他们可以查看Gemini的思考过程、向子智能体派发任务的情况、加载特定技能、代码以及进展状态。</p>
+<p>值得注意的是，该AI将拥有自己的Workspace账户，就像是另一位同事一样。谷歌表示，这意味着它拥有自己的电子邮件地址和上下文认知。它了解公司中谁属于哪个团队、各成员的时区、哪些事项需要谁审批、大家的日程安排等等。用户可以通过@提及、发送邮件、与其共享或将其添加到群聊中来调用该智能体。当它执行操作时，它会记录归属于该智能体而非个人的审计追踪记录。</p>
+<p>该智能体将可在iOS和Android移动设备、Windows和Mac桌面端、命令行界面、Google Workspace、Microsoft 365、ServiceNow以及Slack中访问使用。</p>
+<p>该智能体的早期测试客户包括运动服饰品牌On、Shopify和PayPal，谷歌并指出Gemini Enterprise的客户包括法国巴黎银行（BNP Paribas）、布拉德斯科银行（Bradesco）、默克（Merck）、Orange西班牙、桑蒂库珀（Santee Cooper）、SOMPO、Ulta Beauty以及西农集团（Wesfarmers）等大型企业。</p>
+<p>谷歌表示，包括多模型编排、智能路由和实时支出上限在内的全新灵活支出选项，将帮助企业更好地控制其企业级AI成本。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。<br />消费新闻编辑<br />享受第二张入场券五折优惠——Disrupt活动旨在共同分享体验。获取您的门票，携同事、合伙人或同行共享五折优惠。通过建立人脉、汇聚动力以及发掘创业生态的未来趋势，覆盖更多领域。<br />Anthropic向初创公司提供免费一年Claude Team版及1000美元额度<br />19岁创始人为个人AI电脑制造商Ghost筹集1100万美元，其电脑售价3499美元<br />特朗普公布其新设立的“超级智能部队”<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心抵制风波，称不再使用保密协议<br />OpenAI安全部门员工辞职，称公司“文化已崩坏”<br />Meta希望你的下一台数码设备融入Muse</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 02:18 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

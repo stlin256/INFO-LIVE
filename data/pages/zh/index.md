@@ -4,36 +4,39 @@ nav: true
 order: 0
 description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 当前监控运行中 · 本小时数据更新于 00:42 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
+  text: "⚡ 当前监控运行中 · 本小时数据更新于 06:16 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
   color: "theme"
 ---
 
-# ⚡ InfoLive 全球情报全景矩阵 · 00:42 速报
+# ⚡ InfoLive 全球情报全景矩阵 · 06:16 速报
 
 :::important
-### ⏱️ 本小时战略速报 (00:42)
+### ⏱️ 本小时战略速报 (06:16)
 
-本轮抓取于 2026-10-09 00:37 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+本轮抓取于 2026-10-09 06:11 (UTC+8) 完成，共获得 41 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
 **🎯 关键动态信号：**
-- 【undefined】亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”：该主题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。
-- 【undefined】利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群：同一家公司内的多个团队越来越需要共享访问昂贵的 GPU 集群以开展生成式 AI 业务，同时还需要维持隔离边界、资源公平性和操作独立性。设想这样一个场景：一个数据科学团队正在训练大型语言模型，一个计算机视觉团队在运行推理工作负载，而一个研究团队正在试验新的模型架构。他们可能都需要访问同一个集群。如果缺乏设计良好的多租户（多团队）架构，组织将面临资源消耗失控、团队间隔离薄弱、无法将共享 GPU 成本归因到实际产生的团队，以及拖慢创新步伐的管
-- 【undefined】苹果意外宣布举办“欢迎回家”新品发布会：该话题的文章将被添加到您的每日电子邮件摘要和主页信息流中。 传闻苹果将推出其智能家居中枢、新款 Apple TV 等产品。 该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。 查看杰伊·彼得斯（Jay Peters）的全部文章 苹果刚刚宣布了一场定于10月举办的新发布会，将于美国东部时间10月13日上午9点在纽约举行。有传言称该公司本月将推出以智能家居为核心的产品，而活动邀请函也印证了这一点：苹果使用了“欢迎回家”（Welcom
-- 【undefined】数据显示，英格兰和威尔士种族与宗教仇恨犯罪创历史新高：截至3月的12个月内，针对穆斯林的违法犯罪增幅最大，上升15%；与此同时，反犹太仇恨犯罪增长了10% 英国政治直播——最新动态 在英国政府负责应对伊斯兰恐惧症的主要合作机构表示针对清真寺的袭击严重程度不断加剧之际，出于种族和宗教动机的违法犯罪在英国已达到历史最高水平。 英国内政部数据显示，截至2026年3月的一年里，警方共记录了146,825起仇恨犯罪，比上一年增长7%。其中，针对穆斯林的违法犯罪增幅最大——增长15%，从4,479起增
-- 【undefined】历经多年比较，西德妮·斯威尼与玛丽莲·梦露被曝存在惊人家族血缘关联：根据一份最新的家谱报告显示，西德妮·斯威尼（Sydney Sweeney）与玛丽莲·梦露（Marilyn Monroe）存在亲缘关系。
-- 【undefined】福克斯新闻《反犹太主义揭露》通讯：疯狂的反以色列者举行支持哈马斯的抗议活动纪念10月7日：福克斯新闻的《反犹太主义揭露》（Antisemitism Exposed）通讯为您带来全美及全球范围内日益高涨的反犹偏见相关报道。
-- 【undefined】本周末比赛结束后将揭晓答案的五个大学橄榄球关键问题：大学橄榄球球迷们，不知不觉间，本周末将正式迎来2026年常规赛的半程节点。
-- 【undefined】挪威国家石油公司在南古尔法克斯油田发现高达1030万桶油当量资源：挪威国家石油公司（Equinor）及其合作伙伴在挪威南古尔法克斯（Gullfaks South）油田发现估计约330万至1030万桶可采油当量的天然气资源，该发现是通过在一口生产井作业期间钻探的勘探侧钻井所取得的。这一于10月8日宣布的发现，凸显了针对性勘探在维持北海成熟资产产量方面所发挥的作用。其商业吸引力在于通过与现有生产作业相结合的钻探活动来寻找额外资源。
+- 【undefined】Anthropic 为开源项目推出免费 AI 安全扫描服务：该主题的推送将被添加到您的每日邮件摘要和主页信息流中。 全新的 OSS Scanner 服务提供来自 Anthropic“最强模型”（包括 Mythos）的漏洞报告。 该作者的推送将被添加到您的每日邮件摘要和主页信息流中。 查看 Stevie Bonifield 的全部文章 Anthropic 正在通过一项名为 OSS Scanner 的新服务，帮助开源项目排查安全漏洞。该公司表示，选择加入的开源项目将“免费获得由我们最强模型进行的全面
+- 【undefined】64天证书有效期将于2027年2月生效：我们将在2026年10月14日于测试（staging）环境中切换为签发64天有效期的证书，以便进行测试。我们建议在生产环境正式生效前，先在测试环境中完成验证。
+- 【undefined】新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上：作者：生物医药研究所（IRB Barcelona） 编辑：Gaby Clark；审校：Robert Egan 本文已根据 Science X 的编辑流程和方针进行了同行评审核验。编辑在确保内容可信度的同时强调了以下特征： 同行评审期刊发表
+- 【undefined】ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”：在面临法律诉讼威胁后，美国广播公司新闻网（ABC News）周四删除了批评唐纳德·特朗普总统的大儿子小唐纳德·特朗普和埃里克·特朗普商业交易的报道，但并未对这篇凭空消失的“抹黑报道”提供任何解释或编者注。
+- 【undefined】SpaceX 宣布计划成为“主要移动运营商”：来自该话题的文章将被添加到您的每日邮件摘要和主页推送中。 SpaceX 抢购了低频段频谱，意图与 T-Mobile、AT&T 和 Verizon 展开竞争。 来自该作者的文章将被添加到您的每日邮件摘要和主页推送中。 查看 Emma Roth 的全部内容 SpaceX 已经收购了一组低频段频谱许可——该公司表示，此举将为其“星链移动”（Starlink Mobile）服务成为美国“主要”运营商“铺平道路”。SpaceX 表示，一旦美国联邦
+- 【undefined】加时惜败梦想队后自由人队就重置暂停争议向联盟提出正式质询：周三晚，亚特兰大梦想队在加时赛中以101-98力克纽约自由人队，在半决赛系列赛中取得2-0的绝对领先优势，距离晋级WNBA总决赛仅差一场胜利。
+- 【undefined】AMD 将在 2026 年底前将 FSR 4 引入掌机：该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。 但现有掌机是否会获得该技术？ 该作者的帖子将添加到您的每日电子邮件文摘和主页推送中。 查看肖恩·霍利斯特（Sean Hollister）的所有文章
+- 【undefined】纳维-斯托克斯方程“迷失在翻译中”：为何AI自动形式化的Lean验证不能保证自然语言证明的正确性：自动形式化（Autoformalisation）正越来越多地被用于验证数学文本，包括那些由人工智能生成的文本，正如 OpenAI 宣布的关于纳维-斯托克斯方程解的爆破解（blow-up）的证明。在这一过程中，AI 系统将文本从自然语言（NL）翻译为诸如 Lean 之类的形式化语言。一旦完成该翻译，形式化语言中表达的论证便能轻易地进行机械验证。本文旨在论证为何这一过程可能完全无法为原始自然语言论证提供可信度，其根源在于进行语义保真翻译时所
 :::
 
 :::note
 ### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）
 
-当前证据包缺少文章标题、正文、来源、发布时间及有效引文，无法形成可靠的日尺度分析。
+日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。
 
 **📊 今日核心主线透视：**
-- **信息完整性**：目标文章字段为空，内容状态为缺失，证据事实、引语、实体和引用均为空，暂不能确认任何新闻事件或主题。
-- **相关动态**：相关文章仅提供部分未翻译标题及零散摘要，缺乏来源、链接和完整上下文，不足以支持趋势判断或事件关联分析。
+- **🧠 前沿智能**：【undefined】Anthropic 为开源项目推出免费 AI 安全扫描服务：该主题的推送将被添加到您的每日邮件摘要和主页信息流中。 全新的 OSS Scanner 服务提供来自 Anthropic“最强模型”（包括 Mythos）的漏洞报告。 该作者的推送将被添加到您的每日邮件摘要和主页信息流中。 查看 Stevie Bonifield 的全部文章 Anthropic 正在通过一项名为 OSS Scanner 的新服务，帮助开源项目排查安全漏洞。该公司表示，选择加入的开源项目将“免费获得由我们最强模型进行的全面；【undefined】新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上：作者：生物医药研究所（IRB Barcelona） 编辑：Gaby Clark；审校：Robert Egan 本文已根据 Science X 的编辑流程和方针进行了同行评审核验。编辑在确保内容可信度的同时强调了以下特征： 同行评审期刊发表；【undefined】SpaceX 宣布计划成为“主要移动运营商”：来自该话题的文章将被添加到您的每日邮件摘要和主页推送中。 SpaceX 抢购了低频段频谱，意图与 T-Mobile、AT&T 和 Verizon 展开竞争。 来自该作者的文章将被添加到您的每日邮件摘要和主页推送中。 查看 Emma Roth 的全部内容 SpaceX 已经收购了一组低频段频谱许可——该公司表示，此举将为其“星链移动”（Starlink Mobile）服务成为美国“主要”运营商“铺平道路”。SpaceX 表示，一旦美国联邦
+- **🔥 社会热点与思潮**：【undefined】64天证书有效期将于2027年2月生效：我们将在2026年10月14日于测试（staging）环境中切换为签发64天有效期的证书，以便进行测试。我们建议在生产环境正式生效前，先在测试环境中完成验证。；【undefined】Rust 错误处理中缺失的一环：对于错误处理，Rust 已经具备了我大部分想要的功能：显式的控制流、作为值的错误，以及通过 ? 操作符实现的简洁传播。分歧主要出现在决定在 Result 的错误部分放置什么类型时。我们往往最终只能在两种方案之间做出权衡：一种是需要大量样板代码的精确类型，另一种则是掩盖了可能发生哪些错误但更便捷的类型。但精确度与便利性并不一定是相互竞争的目标。错误类型的组合应当像返回它们的函数一样轻松自然。；【undefined】扩展 Guix：塞尔希奥·帕斯托尔·佩雷斯（Sergio Pastor Pérez）— 2026年10月8日
+- **🌐 全球地缘战略**：【undefined】ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”：在面临法律诉讼威胁后，美国广播公司新闻网（ABC News）周四删除了批评唐纳德·特朗普总统的大儿子小唐纳德·特朗普和埃里克·特朗普商业交易的报道，但并未对这篇凭空消失的“抹黑报道”提供任何解释或编者注。；【undefined】英超大战前夕：曼城被判违规的哪些指控最让利物浦愤怒？：据报道，在曼城被判有罪后，多家俱乐部正在探讨索赔方案——其中，利物浦便是这一风波后的首个对手。；【undefined】女演员达科塔·约翰逊坚信世上绝不可能有人叫“OG·阿奴诺比”：女演员达科塔·约翰逊（Dakota Johnson）肯定算不上什么体育迷，因为她不仅对纽约尼克斯队球星OG·阿奴诺比（OG Anunoby）一无所知，甚至坚信世界上绝不可能真有人叫这个名字。
+- **🛡️ 军事防务安全**：【undefined】加时惜败梦想队后自由人队就重置暂停争议向联盟提出正式质询：周三晚，亚特兰大梦想队在加时赛中以101-98力克纽约自由人队，在半决赛系列赛中取得2-0的绝对领先优势，距离晋级WNBA总决赛仅差一场胜利。
+- **💹 宏观资本与产业**：【undefined】虚拟电厂：无需新建即可获得的电网容量：点击此处查看150多种全球石油价格 金德摩根在管道故障后恢复美墨天然气输送 热带风暴“伊萨亚斯”可能增强…… 绿氢发展停滞，但…… 埃克森美孚和森科能源表示博尔德…… 查尔斯是Oilprice.com的专栏撰稿人
 :::
 
 ## 🔥 AI 深度追踪与独家专题专区
@@ -65,7 +68,7 @@ notice:
         <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="" width="16" height="16" /> </span>
         <span class="perspective-stance-badge">民间技术与思想社群</span>
       </div>
-      <div class="perspective-source-body">【undefined】关于 API 的一番吐槽：过去几周里，在致力于自动化 Vori 的入职引导流程期间，我有幸（其实很糟心）接入了几个不同的 API。这些 API 涉及的系统包括合同渲染与电子签名收集、开票/计费系统、CRM、刷卡处理与支付网关，以及刷卡终端提供商。</div>
+      <div class="perspective-source-body">【undefined】要闻：请重新加载此页面：加载时出错。请重新加载此页面。</div>
     </div>
   </div>
   <div class="perspective-analysis-row">
@@ -85,97 +88,229 @@ notice:
 <div class="live-wire-grid">
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:35</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/spetsoperatsiya-2123320047.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/spetsoperatsiya-2123320047.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:34</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="14" height="14" /> The Verge (前沿数码科技)</span>
+      <span class="wire-time-badge">🕒 06:10</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story--fire-tablet-panos-panay-5eb8e1079527cef8" class="wire-title-link" title="点击直达本站全篇深度编译">
-        亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”
+      <a href="#story-s-dna-packaging-ten-html-56c4dea8b42d6613" class="wire-title-link" title="点击直达本站全篇深度编译">
+        新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【The Verge (前沿数码科技)·独立专业观察】：该主题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：作者：生物医药研究所（IRB Barcelona）
+编辑：Gaby Clark；审校：Robert Egan
+本文已根据 Science X 的编辑流程和方针进行了同行评审核验。编辑在确保内容可信度的同时强调了以下特征：
+同行评审期刊发表</div>
     <div class="wire-actions">
-      <a href="#story--fire-tablet-panos-panay-5eb8e1079527cef8" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-s-dna-packaging-ten-html-56c4dea8b42d6613" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:33</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 06:08</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/vsu-2123319595.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/vsu-2123319595.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:32</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 06:02</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="14" height="14" /> Financial Times (英国金融时报)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/makushev-2123319328.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【Financial Times (英国金融时报)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/makushev-2123319328.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:32</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 06:01</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/bpla-2123319226.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/bpla-2123319226.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:32</span>
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-ents-without-explanation-5e3ad5613f6edee5" class="wire-title-link" title="点击直达本站全篇深度编译">
+        ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：在面临法律诉讼威胁后，美国广播公司新闻网（ABC News）周四删除了批评唐纳德·特朗普总统的大儿子小唐纳德·特朗普和埃里克·特朗普商业交易的报道，但并未对这篇凭空消失的“抹黑报道”提供任何解释或编者注。</div>
+    <div class="wire-actions">
+      <a href="#story-ents-without-explanation-5e3ad5613f6edee5" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/media/abc-news-deletes-hit-piece-trump-sons-pentagon-linked-investments-without-explanation" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🛡️ 军事防务安全</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-ss-dream-wnba-semifinals-247e0a74fd9c0419" class="wire-title-link" title="点击直达本站全篇深度编译">
+        加时惜败梦想队后自由人队就重置暂停争议向联盟提出正式质询
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：周三晚，亚特兰大梦想队在加时赛中以101-98力克纽约自由人队，在半决赛系列赛中取得2-0的绝对领先优势，距离晋级WNBA总决赛仅差一场胜利。</div>
+    <div class="wire-actions">
+      <a href="#story-ss-dream-wnba-semifinals-247e0a74fd9c0419" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/outkick-sports/liberty-official-inquiry-reset-timeout-dispute-overtime-loss-dream-wnba-semifinals" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://phys.org/news/2026-10-chemists-uncover-true-surface-nickel.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://phys.org/news/2026-10-chemists-uncover-true-surface-nickel.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-esisting-linguistic-html-81c8dc441a1b727a" class="wire-title-link" title="点击直达本站全篇深度编译">
+        巴伐利亚的祖传语言：抵抗语言灭绝
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：2026年10月8日 交流
+编辑：Lisa Lock，审校：Robert Egan
+本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：
+由研究人员撰写</div>
+    <div class="wire-actions">
+      <a href="#story-esisting-linguistic-html-81c8dc441a1b727a" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://phys.org/news/2026-10-bavaria-ancestral-languages-resisting-linguistic.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="14" height="14" /> OilPrice (全球能源与原油大宗)</span>
+      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://oilprice.com/Alternative-Energy/Solar-Energy/Cubas-Fuel-Crisis-Turns-the-Island-Into-a-Solar-Test-Case.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【OilPrice (全球能源与原油大宗)·大宗能源产业链】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://oilprice.com/Alternative-Energy/Solar-Energy/Cubas-Fuel-Crisis-Turns-the-Island-Into-a-Solar-Test-Case.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://tass.com/world/2199599" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://tass.com/world/2199599" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-cal-fights-divide-people-0a2731c865ccf9a8" class="wire-title-link" title="点击直达本站全篇深度编译">
+        格伦·鲍威尔不想参与分裂人们的政治争斗
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：格伦·鲍威尔完全不想卷入好莱坞的政治风暴。</div>
+    <div class="wire-actions">
+      <a href="#story-cal-fights-divide-people-0a2731c865ccf9a8" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/entertainment/glen-powell-wants-no-part-political-fights-divide-people" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:56</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
@@ -193,372 +328,88 @@ notice:
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:31</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/es-2123319067.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/es-2123319067.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:31</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
+      <span class="wire-time-badge">🕒 05:53</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="14" height="14" /> The Verge (前沿数码科技)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:30</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="14" height="14" /> OilPrice (全球能源与原油大宗)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://oilprice.com/Latest-Energy-News/World-News/Reliance-Drives-Indias-Venezuelan-Oil-Imports-to-Seven-Year-High.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【OilPrice (全球能源与原油大宗)·大宗能源产业链】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://oilprice.com/Latest-Energy-News/World-News/Reliance-Drives-Indias-Venezuelan-Oil-Imports-to-Seven-Year-High.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:29</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/tramp-2123318888.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/tramp-2123318888.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:29</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:29</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story--after-years-comparisons-62343329f64b79bd" class="wire-title-link" title="点击直达本站全篇深度编译">
-        历经多年比较，西德妮·斯威尼与玛丽莲·梦露被曝存在惊人家族血缘关联
+      <a href="#story--open-source-oss-scanner-0856c1a27e7e11a7" class="wire-title-link" title="点击直达本站全篇深度编译">
+        Anthropic 为开源项目推出免费 AI 安全扫描服务
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：根据一份最新的家谱报告显示，西德妮·斯威尼（Sydney Sweeney）与玛丽莲·梦露（Marilyn Monroe）存在亲缘关系。</div>
+    <div class="wire-snippet">【The Verge (前沿数码科技)·独立专业观察】：该主题的推送将被添加到您的每日邮件摘要和主页信息流中。
+全新的 OSS Scanner 服务提供来自 Anthropic“最强模型”（包括 Mythos）的漏洞报告。
+该作者的推送将被添加到您的每日邮件摘要和主页信息流中。
+查看 Stevie Bonifield 的全部文章
+Anthropic 正在通过一项名为 OSS Scanner 的新服务，帮助开源项目……</div>
     <div class="wire-actions">
-      <a href="#story--after-years-comparisons-62343329f64b79bd" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story--open-source-oss-scanner-0856c1a27e7e11a7" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="14" height="14" /> ANSA English (安莎社官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ansa.it/english/news/2026/10/08/meloni-says-proud-to-be-called-woman-from-ciociaria-in-fluffed-jibe_50b36e78-2bf2-4ad9-a000-033cf45918fa.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【ANSA English (安莎社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/english/news/2026/10/08/meloni-says-proud-to-be-called-woman-from-ciociaria-in-fluffed-jibe_50b36e78-2bf2-4ad9-a000-033cf45918fa.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="14" height="14" /> CNBC Markets (CNBC 市场官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【CNBC Markets (CNBC 市场官方英文)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:27</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/tramp-2123318415.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/tramp-2123318415.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:25</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/postradavshaya-2123318256.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/postradavshaya-2123318256.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
-      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="14" height="14" /> Financial Times (英国金融时报)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Financial Times (英国金融时报)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="14" height="14" /> Deutsche Welle (EN 官方英语)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Deutsche Welle (EN 官方英语)·德国战略自省】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:23</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/tramp-2123317713.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/tramp-2123317713.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:23</span>
+      <span class="wire-time-badge">🕒 05:51</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story--putting-piker-his-place-5e0981fedee1cee6" class="wire-title-link" title="点击直达本站全篇深度编译">
-        福克斯新闻《反犹太主义揭露》通讯：疯狂的反以色列者举行支持哈马斯的抗议活动纪念10月7日
+      <a href="#story-ash-disney-spouse-travel-8ccbd38d63747c0a" class="wire-title-link" title="点击直达本站全篇深度编译">
+        曾指责对手靠捐款过“好日子”的民主党人，却把竞选资金花在迪士尼和配偶旅行上
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：福克斯新闻的《反犹太主义揭露》（Antisemitism Exposed）通讯为您带来全美及全球范围内日益高涨的反犹偏见相关报道。</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：一名众议院民主党议员指责一名共和党竞争对手靠捐款过“好日子”，此前后者的竞选团队被曝在迪士尼世界有支出；据称，她大约在同一时间还被人看到从这座主题公园返回。</div>
     <div class="wire-actions">
-      <a href="#story--putting-piker-his-place-5e0981fedee1cee6" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-putting-piker-his-place" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-ash-disney-spouse-travel-8ccbd38d63747c0a" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/politics/dem-ripped-rivals-donor-fueled-good-life-dropped-campaign-cash-disney-spouse-travel" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:23</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
+      <span class="wire-time-badge">🕒 05:50</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.foxnews.com/us/federal-agents-involved-nyc-shooting-leaves-one-person-wounded-nypd-says" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.foxnews.com/us/federal-agents-involved-nyc-shooting-leaves-one-person-wounded-nypd-says" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:50</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:22</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-ered-this-weekends-slate-ab7932502e1b90bd" class="wire-title-link" title="点击直达本站全篇深度编译">
-        本周末比赛结束后将揭晓答案的五个大学橄榄球关键问题
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：大学橄榄球球迷们，不知不觉间，本周末将正式迎来2026年常规赛的半程节点。</div>
-    <div class="wire-actions">
-      <a href="#story-ered-this-weekends-slate-ab7932502e1b90bd" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/outkick-sports/five-important-college-football-questions-answered-this-weekends-slate" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:21</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/tramp-2123317261.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/tramp-2123317261.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
+      <span class="wire-time-badge">🕒 05:50</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR 官方法语原版)" width="14" height="14" /> France 24 (FR 官方法语原版)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/fr/%C3%A9co-tech/20261008-apr%C3%A8s-espace-nombreux-d%C3%A9fis-physiques-qui-attendent-sophie-adenot" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.france24.com/fr/europe/20261008-etats-unis-invitent-europeens-negociations-ukraine-week-end" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -566,35 +417,35 @@ notice:
     <div class="wire-snippet">【France 24 (FR 官方法语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/fr/%C3%A9co-tech/20261008-apr%C3%A8s-espace-nombreux-d%C3%A9fis-physiques-qui-attendent-sophie-adenot" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.france24.com/fr/europe/20261008-etats-unis-invitent-europeens-negociations-ukraine-week-end" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
+      <span class="wire-time-badge">🕒 05:49</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://phys.org/news/2026-10-ai-pilgrims-journeys-sacred-technology.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story--charges-grate-reds-most-14ae6aaea4179f01" class="wire-title-link" title="点击直达本站全篇深度编译">
+        英超大战前夕：曼城被判违规的哪些指控最让利物浦愤怒？
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：据报道，在曼城被判有罪后，多家俱乐部正在探讨索赔方案——其中，利物浦便是这一风波后的首个对手。</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://phys.org/news/2026-10-ai-pilgrims-journeys-sacred-technology.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story--charges-grate-reds-most-14ae6aaea4179f01" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
+      <span class="wire-time-badge">🕒 05:48</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20261008/nkhl-2123317117.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20261009/otnosheniya-2123354413.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -602,35 +453,161 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20261008/nkhl-2123317117.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20261009/otnosheniya-2123354413.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="14" height="14" /> AWS Machine Learning Blog (亚马逊云科技官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
+      <span class="wire-time-badge">🕒 05:46</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story-mazon-sagemaker-hyperpod-294e69e636038180" class="wire-title-link" title="点击直达本站全篇深度编译">
-        利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群
+      <a href="#story-bly-have-name-og-anunoby-dcbf636e662a4f0a" class="wire-title-link" title="点击直达本站全篇深度编译">
+        女演员达科塔·约翰逊坚信世上绝不可能有人叫“OG·阿奴诺比”
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【AWS Machine Learning Blog (亚马逊云科技官方英文)·独立专业观察】：同一家公司内的多个团队越来越需要共享访问昂贵的 GPU 集群以开展生成式 AI 业务，同时还需要维持隔离边界、资源公平性和操作独立性。设想这样一个场景：一个数据科学团队正在训练大型语言模型，一个计算机视觉团队在运行推理工作负载，而一个研究团队正在试验新的模型架构。他们可能都需要访问同一个集群。如果缺乏设计良好的多租户（多团队）架构，组织将面临资源消耗失控、团……</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：女演员达科塔·约翰逊（Dakota Johnson）肯定算不上什么体育迷，因为她不仅对纽约尼克斯队球星OG·阿奴诺比（OG Anunoby）一无所知，甚至坚信世界上绝不可能真有人叫这个名字。</div>
     <div class="wire-actions">
-      <a href="#story-mazon-sagemaker-hyperpod-294e69e636038180" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-bly-have-name-og-anunoby-dcbf636e662a4f0a" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/outkick-sports/actress-dakota-johnson-convinced-no-one-could-possibly-have-name-og-anunoby" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
-      <span class="wire-dim-badge">🔬 深空与基础科学</span>
+      <span class="wire-time-badge">🕒 05:45</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://phys.org/news/2026-10-plating-sauce-placement-dish-healthier.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://tass.com/world/2199597" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://tass.com/world/2199597" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:45</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:44</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20261009/kiev-2123354261.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20261009/kiev-2123354261.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:44</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-in-diretta-streaming_a9b04945-d45d-461b-8ae1-4ef767a44ec2.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-in-diretta-streaming_a9b04945-d45d-461b-8ae1-4ef767a44ec2.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:44</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20261009/peregovory-2123354142.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20261009/peregovory-2123354142.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:43</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:41</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20261009/medved-2123353996.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20261009/medved-2123353996.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://phys.org/news/2026-10-atlantic-weather-pattern-southern-greenland.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -638,25 +615,61 @@ notice:
     <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://phys.org/news/2026-10-plating-sauce-placement-dish-healthier.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-10-atlantic-weather-pattern-southern-greenland.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:20</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="14" height="14" /> Deutsche Welle (EN 官方英语)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
+      <span class="wire-time-badge">🕒 05:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🔬 深空与基础科学</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://phys.org/news/2026-10-anger.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【Deutsche Welle (EN 官方英语)·德国战略自省】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-10-anger.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:37</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-0-b631-d198ddb3fdc3-html-2ee90e6563e5b4e1" class="wire-title-link" title="点击直达本站全篇深度编译">
+        巴西法官下令调阅莫赖斯关于博索纳罗案的机密文件
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：巴西联邦最高法院法官路易斯·富克斯（Luiz Fux）今日下令该国最高司法机构的司法秘书处，确保其办公室能够全面调阅其同事亚历山大·德·莫赖斯（Alexandre de Moraes）主持的三项调查的全部卷宗：第一项是针对2023年未遂政变的调查；第二项是于2019年启动且目前仍在进行的“假新闻”调查；第三项则是针对支持前总统雅伊尔·博索纳罗（Jair Bo……</div>
+    <div class="wire-actions">
+      <a href="#story-0-b631-d198ddb3fdc3-html-2ee90e6563e5b4e1" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/brasile-giudice-ordina-laccesso-ai-documenti-secretati-di-moraes-sul-caso-bolsonaro_2b776114-0c91-42f0-b631-d198ddb3fdc3.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:36</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20261009/fns-2123353524.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20261009/fns-2123353524.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
 </div>
@@ -665,39 +678,29 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story--fire-tablet-panos-panay-5eb8e1079527cef8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="614" data-content-paragraphs="11" data-published-at="2026-10-08T16:34:57.000Z" data-time-source="publication">
+<div id="story--open-source-oss-scanner-0856c1a27e7e11a7" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="605" data-content-paragraphs="1" data-published-at="2026-10-08T21:53:51.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:34</span>
+  <span class="news-meta-time">🕒 2026-10-09 05:53</span>
 </div>
 
-### [亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon is phasing out Fire Tablets because they weren&#39;t &#39;giving customers what they were asking for&#39;</div>
+### [Anthropic 为开源项目推出免费 AI 安全扫描服务](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic launches free AI security scans for open-source projects</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268799_AlexaTablet12Pro_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="亚马逊正在逐步淘汰Fire平板电脑，因其未能“满足用户真正需求”" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Anthropic 为开源项目推出免费 AI 安全扫描服务" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。</p>
-<p>帕诺斯·帕奈（Panos Panay）表示，后续还将有更多硬件新品发布，但不要期待会有亚马逊笔记本电脑。</p>
-<p>该作者的帖子将被添加到您的每日电子邮件文摘和主页信息流中。</p>
-<p>查看特伦斯·奥布莱恩（Terrence O&#39;Brien）的全部内容</p>
-<p>在接受彭博社采访时，亚马逊消费电子业务主管帕诺斯·帕奈证实，公司将逐步淘汰Fire品牌，转而主推Alexa平板电脑。</p>
-<p>新产品线运行正规的完整Android系统，而非定制的Fire OS，并拥有对Play商店的完整访问权限——这是Fire平板电脑所不具备的。更糟的是，Gmail、谷歌日历、YouTube、Google Drive等服务在Fire平板电脑上只能通过浏览器访问；亚马逊应用商店（Amazon Appstore）中并未提供官方谷歌应用程序。</p>
-<p>帕奈向彭博社表示，Fire平板电脑产品线“未能满足用户的真正需求”，这些需求似乎是指使用谷歌服务的权限、更高品质的硬件，以及减少锁屏上扑面而来的广告。亚马逊仍将为Fire平板电脑提供安全更新。帕奈说：“我们不会抛下任何一位用户。”但不要指望会有任何硬件迭代更新。</p>
-<p>帕奈还表示，亚马逊在整个秋季还将陆续发布更多硬件产品，但不要期待会看到亚马逊品牌的台式电脑或笔记本电脑。</p>
-<p>查看所有 Amazon Alexa 相关内容</p>
-<p>免费每日精选重要资讯文摘。</p>
-<p>这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的推送将被添加到您的每日邮件摘要和主页信息流中。<br />全新的 OSS Scanner 服务提供来自 Anthropic“最强模型”（包括 Mythos）的漏洞报告。<br />该作者的推送将被添加到您的每日邮件摘要和主页信息流中。<br />查看 Stevie Bonifield 的全部文章<br />Anthropic 正在通过一项名为 OSS Scanner 的新服务，帮助开源项目排查安全漏洞。该公司表示，选择加入的开源项目将“免费获得由我们最强模型进行的全面、定期的安全扫描”。这可能意味着开源项目能够更早地收到潜在安全问题的警报，但代价是 OSS Scanner 的报告没有经过人工审核：<br />这款自愿加入的漏洞扫描工具的输出将完全由模型生成，不经过人工审核或分类。这将实现更快、更频繁的扫描，但也意味着报告有可能是错误或无效的。这些报告将由我们最强大的模型（包括 Claude Mythos）生成，从而为开源项目提供最大的防御优势。<br />OSS Scanner 绝非市面上首款 AI 漏洞挖掘辅助工具。近几个月来，AI 工具已协助发现了开源软件中的一些重大安全漏洞，例如 5 月份影响了几乎所有 Linux 发行版的“Copy Fail”漏洞。与此同时，包括林纳斯·托瓦兹（Linus Torvalds）乃至谷歌在内的部分开源项目，正在艰难应对突如其来的 AI 生成漏洞报告潮。<br />免费每日摘要，汇集最重要的新闻。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>亚马逊消费电子主管Panos Panay在接受彭博社采访时证实，公司将逐步淘汰Fire品牌，转而推出Alexa平板电脑（Alexa Tablets）。</li>
-    <li>新的平板电脑产品线将运行原生Android系统而非定制的Fire OS，并且拥有完整的Google Play商店访问权限。</li>
-    <li>来源叙事重点：聚焦亚马逊放弃Fire品牌及自研封闭Fire OS，转向搭载原生Android与Google Play生态的Alexa平板，并从用户体验痛点（缺乏Google服务、硬件规格及广告过多）解读战略转向。</li>
+    <li>Anthropic推出了一项名为“OSS Scanner”的新服务，旨在帮助开源项目查找安全漏洞。</li>
+    <li>选择加入OSS Scanner的开源项目将免费获得由Anthropic“最强模型”进行的全面、定期安全扫描。</li>
+    <li>来源叙事重点：报道 Anthropic 推出面向开源项目的免费漏洞扫描服务 OSS Scanner，一方面指出其搭载最强模型（如 Claude Mythos）带来的快速防御收益，另一方面重点审视其“无人工审核”可能引发的高误报风险，以及对早已疲于应对 AI 生成报告的开源维护者所造成的额外审查负担。</li>
   </ul>
 </div>
 
@@ -706,390 +709,590 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-mazon-sagemaker-hyperpod-294e69e636038180" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="20960" data-content-paragraphs="113" data-published-at="2026-10-08T16:20:04.000Z" data-time-source="publication">
+<div id="story--10-07-64-day-certs-html-a367a19c1bac15f8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="853" data-content-paragraphs="9" data-published-at="2026-10-08T19:06:25.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:20</span>
-</div>
-
-### [利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/02/multi-tenant-hp-eks.jpg" alt="利用 Amazon SageMaker HyperPod 实现跨团队隔离与公平共享 GPU 集群" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>同一家公司内的多个团队越来越需要共享访问昂贵的 GPU 集群以开展生成式 AI 业务，同时还需要维持隔离边界、资源公平性和操作独立性。设想这样一个场景：一个数据科学团队正在训练大型语言模型，一个计算机视觉团队在运行推理工作负载，而一个研究团队正在试验新的模型架构。他们可能都需要访问同一个集群。如果缺乏设计良好的多租户（多团队）架构，组织将面临资源消耗失控、团队间隔离薄弱、无法将共享 GPU 成本归因到实际产生的团队，以及拖慢创新步伐的管理开销等问题。</p>
-<p>Amazon SageMaker HyperPod 是一项专用的 AI 服务，可简化面向生成式 AI 工作负载的大规模计算集群管理。它提供由 Amazon Elastic Kubernetes Service (Amazon EKS) 或 Slurm 编排的高弹性、优化集群，使组织能够大规模运行分布式训练、交互式开发和模型推理。与此同时，它会自动处理节点健康监控、故障恢复以及集群生命周期管理。</p>
-<p>在本文中，我们提出了一种基于 Amazon SageMaker HyperPod 与 EKS 构建多租户环境的参考架构。该架构使用 AWS IAM Identity Center 进行集中身份验证，使用按团队划分的 SageMaker AI 域提供定制的用户体验，使用 Kubernetes 命名空间实现工作负载隔离，使用 HyperPod Task Governance 确保资源公平分配，并通过命名空间级成本分配实现按团队划分的支出可见性与成本分摊（chargeback）。阅读完本文后，您将获得一份清晰的蓝图，供多个团队高效共享单个 HyperPod EKS 集群。</p>
-<p>架构概述<br />下图展示了多租户 HyperPod EKS 部署的高级架构。在此示例中，两个团队（团队 A 和团队 B）共享单个 HyperPod EKS 集群，各自在其独立的隔离命名空间内运行。</p>
-<p>图 1：两个团队共享一个 HyperPod EKS 集群的高级多租户架构</p>
-<p>该架构呈现为从左到右的分层流向，将用户身份通过授权控制连接到集群上隔离的工作负载命名空间中。</p>
-<p>用户与身份验证<br />在最左侧，来自每个团队的独立用户（团队 A 的用户 1，团队 B 的用户 2）通过两条路径与系统交互。这两条路径均通过 AWS IAM Identity Center Portal 进行身份验证，该门户与左下方所示的外部身份提供商（如 Microsoft Entra ID）进行联合。</p>
-<p>第一条路径是通过 CLI 访问。用户使用 `aws sso login` 进行身份验证，该命令会将他们重定向到 Identity Center 门户，然后从其团队的权限集中获取临时凭证，以便使用 `kubectl` 直接向 EKS 集群提交任务。在图表中，粉色箭头从 CLI 终端穿过顶部直接流入 HyperPod EKS 集群。</p>
-<p>第二条路径是直接通过 Identity Center 门户，用户在此选择 SageMaker Studio 应用程序，以登录到其团队专用的 SageMaker AI 域。</p>
-<p>每个团队都有一个对应的权限集（TeamA 权限集、TeamB 权限集），其中包含 CLI 工作流所需的 AWS Identity and Access Management (IAM) 策略。Identity Center 会为每个权限集自动配置一个 IAM 角色，在图表中显示为 TeamA-permissionset-role 和 TeamB-permissionset-role（标记为“CLI/控制台角色”）。当用户通过 `aws sso login` 进行身份验证时，该角色充当 IAM 主体。</p>
-<p>从 Identity Center 门户，用户会被路由到其团队专用的 SageMaker AI 域。每个域（团队 A 的 SageMaker AI 域和团队 B 的 SageMaker AI 域）都提供专用的 Amazon SageMaker Studio 图形用户界面 (GUI)，并配置有团队专用的执行角色（分别为 TeamA-role 和 TeamB-role）。这些域充当主要的工作区界面，使用户可以从 GUI 提交任务（如指向 EKS 的粉色箭头所示）。</p>
-<p>在 EKS 边界处，访问条目（access entries）将 IAM 角色映射到 Kubernetes 权限。该图显示了针对 TeamA-role 和 TeamB-role（Studio 执行角色）的访问条目，这些条目对源自 SageMaker Studio GUI 的请求进行授权。还必须为 Identity Center 配置的 CLI/控制台角色（TeamA-permissionset-role 和 TeamB-permissionset-role）配置访问条目，以对通过 `kubectl` 送达的请求进行授权。所有访问条目都与托管或自定义的基于角色的访问控制 (RBAC) 策略（由钥匙图标表示）相关联，并限定在团队指定的命名空间范围内。因此，无论访问是源自 Studio 还是 CLI，用户都只能与其自身命名空间内的资源进行交互。</p>
-<p>集群本身在顶部描绘了两个横向切面的平台层：HyperPod Observability（用于监控和仪表板）和 HyperPod Task Governance（用于计算配额管理和调度优先级）。在这些层下方，集群被划分为命名空间 A（团队 A）和命名空间 B（团队 B）。在每个命名空间内，团队可以运行各自的 HyperPod Spaces（交互式开发环境）、HyperPod PyTorch 作业（分布式训练工作负载）以及 HyperPod Inference 端点（模型提供/推理服务）。</p>
-<p>在集群下方，该架构包含两个存储层。第一层是符合 POSIX 标准的文件系统（Amazon FSx for Lustre 或 Amazon FSx for OpenZFS），组织为按团队划分的共享目录（`/fsx/TeamA`、`/fsx/TeamB`）和按用户划分的主目录（`/home/User1`、`/home/User2`）。第二层是用于对象存储的按团队划分或共享的 Amazon Simple Storage Service (Amazon S3) 存储桶，受团队的 IAM 执行角色管辖。</p>
-<p>该架构从身份验证、授权到工作负载执行都实现了团队间的相互隔离，同时高效共享昂贵的 GPU 基础设施。</p>
-<p>身份验证与访问控制<br />任何多租户系统的基石都是强大的身份验证：在用户与任何资源交互之前验证其身份。在此架构中，AWS IAM Identity Center 充当集中式身份验证层，与外部身份提供商联合以管理用户身份和组成员资格。</p>
-<p>为何选择 AWS IAM Identity Center<br />AWS IAM Identity Center（AWS Single Sign-On 的后续演进产品）提供了一个跨 AWS 账户和应用程序管理员工身份的单一控制中心。对于多租户 HyperPod 部署，它提供了几项关键能力：<br />集中式身份管理 – 无需为每个 AWS 服务维护单独的用户数据库，Identity Center 为所有用户身份及其组成员资格提供了单一可信数据源（single source of truth）。</p>
-<p>与现有身份提供商联合——大多数企业已经使用 Microsoft Entra ID（前身为 Azure AD）、Okta 或 Ping Identity 等系统管理其员工身份。Identity Center 可以与这些提供商集成，因此企业无需重复创建用户账户，即可复用现有的身份基础设施。<br />与 SageMaker AI 原生集成——SageMaker AI 域（domains）支持 Identity Center 身份验证，因此用户可以通过其企业身份提供商以单点登录（SSO）方式登录 SageMaker Studio。<br />AWS 账户访问权限——Identity Center 还可以通过特定权限集向用户授予对底层 AWS 账户的访问权限，除了 Studio 图形界面体验外，还支持 CLI 工作流。<br />Amazon Managed Grafana 的必需条件——Amazon Managed Grafana 使用 Identity Center 作为员工用户的身份验证机制，当团队还需要访问可观测性仪表板以监控其工作负载时，这使其成为自然之选。<br />了解更多：什么是 IAM Identity Center<br />使用外部身份提供商配置 Identity Center<br />在此参考架构中，我们使用 Microsoft Entra ID 作为外部身份提供商，不过相同的模式也适用于大多数标准安全断言标记语言（SAML）2.0 提供商。<br />配置包括：<br />身份提供商中的用户组结构——在 Entra ID 中，创建与组织团队相对应的组。在我们的示例中，我们定义了三个组：TeamA、TeamB 和 Admin。每个组包含属于该团队的用户（例如，TeamA 组中的 user1-teamA@example.com）。<br />SCIM 预配置——在 Entra ID 和 AWS IAM Identity Center 之间启用 SCIM（跨域身份管理系统）同步。SCIM 提供用户和组的自动预配置与撤销预配置。当新用户添加到 Entra ID 中的 TeamA 组时，他们会自动同步到 Identity Center 并获得适当的访问权限，无需人工干预。<br />基于 SAML 的身份验证——配置 SAML 2.0 联合身份验证，以便用户在进行身份验证时，是针对 Entra ID 进行验证。Identity Center 充当服务提供商，信任来自您的 Entra ID 租户的断言。<br />通过此配置，您可以在现有的企业目录中管理团队成员身份（这驱动了所有下游授权决策），并且它会自动传播到 AWS。<br />下图展示了如何在 Microsoft Entra ID 中表示组织团队的示例，其中包含专用于 TeamA、TeamB 和 Admin 的组。<br />图 2：在 Microsoft Entra ID 中表示为组的组织团队<br />接着，下图显示了 AWS IAM Identity Center 中对应的组，这些组通过 SCIM 同步从 Entra ID 自动预配置。<br />图 3：AWS IAM Identity Center 中对应的组，通过 SCIM 预配置<br />了解更多：连接外部身份提供商 · SCIM 配置文件与 SAML 2.0 实现<br />在建立身份验证后，下一层是授权：控制每个团队在各 AWS 服务和 Kubernetes 集群中可以执行的操作。此架构中的授权在两个级别上运作：用于服务级别访问的 IAM，以及用于集群级别访问的 Kubernetes RBAC。<br />每个团队都需要一个专用的 IAM 角色，用于封装其人工智能和机器学习（ML）工作流所需的 AWS 级别权限。这些角色充当 SageMaker AI 域执行角色，并定义团队可以访问哪些 AWS 服务。<br />典型的团队 IAM 角色应包含授予以下访问权限的策略：<br />Amazon SageMaker AI——用于通过 SageMaker AI API 管理 HyperPod 集群、MLflow 跟踪服务器及其他 SageMaker AI 资源。<br />Amazon S3——用于读取训练数据集以及写入模型构件、检查点和日志。将这些权限限制在团队专用的存储桶前缀范围内。<br />Amazon CloudWatch——用于查看与团队工作负载相关的日志和指标。<br />Amazon EKS——具体而言是 eks:AccessKubernetesApi 和 eks:MutateViaKubernetesApi 权限，SageMaker Studio 图形界面需要这些权限来代表用户调用 Kubernetes API（例如列出 Spaces 或提交作业）。<br />每个 IAM 角色的信任策略必须包含 sagemaker.amazonaws.com 作为受信任主体，以便 SageMaker AI 在用户通过 Studio 操作时代表用户代入该角色。如果您计划将相同的执行角色重新用作集群内工作负载的 EKS Pod Identity 关联（如后文 Amazon S3 存储部分所述），信任策略还必须包含 pods.eks.amazonaws.com 作为受信任主体。通过 Identity Center 进行的 CLI 访问使用单独的权限集及其自身策略（参见“通过 Identity Center 访问 AWS 账户”部分），因此 CLI 权限可以独立划定范围。<br />了解更多：如何使用 SageMaker AI 执行角色<br />通过 Identity Center 访问 AWS 账户<br />除 SageMaker Studio 之外，团队通常还需要直接访问 AWS 账户以进行 CLI 操作，例如运行 kubectl 命令、编写工作流脚本或以编程方式访问资源。Identity Center 权限集提供了此项能力。<br />对于 Admin 组，根据公司策略分配具有管理访问权限的权限集，授予集群管理和管理操作所需的必要账户访问权限。<br />对于 Team A 和 Team B，创建具有内联策略或托管策略的权限集，直接授予 CLI 工作流所需的权限。典型的团队权限集包括 eks:AccessKubernetesApi 权限（用于从 AWS 控制台查看 Kubernetes 资源）、针对团队数据划定范围的 S3 访问权限，以及用于监控的 CloudWatch 读取访问权限。这些策略与 Studio 执行角色独立定义，因此管理员可以根据团队在命令行执行的具体操作量身定制 CLI 权限。<br />用户通过 AWS 命令行界面（AWS CLI）使用 aws sso login 获取临时凭证，然后可使用该凭证配置 kubectl 以直接与 EKS 集群交互。<br />下图展示了 AWS IAM Identity Center 中按团队划分的权限集，为 CLI 工作流（例如针对 EKS 集群运行 kubectl 和 aws sso login）提供受限范围的 AWS 账户访问权限。<br />图 4：AWS IAM Identity Center 中用于 CLI 工作流的按团队权限集<br />了解更多：使用权限集管理 AWS 账户<br />配置 AWS CLI<br />团队成员通过运行 aws configure sso 来配置 AWS CLI 以通过 Identity Center 进行身份验证。这会在 ~/.aws/config 中创建引用相应 Identity Center 会话和权限集的配置文件（profile）。每个团队成员在从命令行与集群交互时都使用其团队特定的配置文件，无论访问是来自 Studio 还是本地终端，都能保持授权边界。</p>
-<p>生成的配置为 Identity Center 门户定义了一个共享的 sso-session 块，并为每个团队配置了一个指定名称的 profile，各自指向该团队的权限集（permission set）。随后，团队成员运行 aws sso login --profile 命令，即可获取限定在其权限集范围内的临时凭据：<br />[sso-session my-sso] sso_start_url = https://d-xxxxxxxxxx.awsapps.com/start sso_region = us-west-2 sso_registration_scopes = sso:account:access<br />[default] sso_session = my-sso sso_account_id = 123456789012 sso_role_name = OpsAdmin region = us-west-2<br />[profile team-a] sso_session = my-sso sso_account_id = 123456789012 sso_role_name = TeamA-permission-set region = us-west-2<br />[profile team-b] sso_session = my-sso sso_account_id = 123456789012 sso_role_name = TeamB-permission-set region = us-west-2<br />了解更多：通过 AWS CLI 配置 IAM Identity Center 身份验证<br />SageMaker AI 域（domains）为每个团队提供工作区边界，提供量身定制的用户体验、预配置的执行角色以及与 Identity Center 身份验证的内置集成。<br />为什么选择 SageMaker AI 域<br />为每个团队使用一个 SageMaker AI 域是组织多团队环境的成熟模式。这种方法具有以下几项优势：<br />成熟的多团队模式 —— AWS 已对使用多个域来隔离业务线或团队的方法进行了广泛的文档阐述，使其成为一种经过验证且受官方支持的配置方式。<br />原生 Identity Center 身份验证 —— 每个域都可以配置 Identity Center 身份验证，这意味着用户只需通过其企业身份提供商登录一次，即可直接进入其团队的 Studio 环境。<br />内置团队配置 —— 域本身就提供了为用户和团队指定配置的机制，无需额外的自定义实体。例如，团队执行角色等设置可以在域级别指定，并可在用户画像（user profile）级别进行覆盖，以实现最大的灵活性。<br />导航自定义 —— 通过域设置，管理员可以隐藏与团队工作流程无关的导航项，呈现针对 HyperPod 用例量身定制的专属界面。<br />了解更多：SageMaker AI 域实体和状态 · 多域概述<br />为各团队设置专属域<br />为每个团队创建一个启用了 Identity Center 身份验证的 SageMaker AI 域。在我们的示例中，我们创建了 TeamA-domain 和 TeamB-domain。每个域的配置如下：<br />默认执行角色 —— 将域的默认执行角色设置为在授权步骤中创建的特定于团队的 IAM 角色。这样一来，通过 Studio 执行的所有操作都会继承相应的权限。<br />Identity Center 用户组分配 —— 将对应的 Identity Center 组（例如 TeamA 组）添加到域中。这将为该组的所有成员激活 SageMaker Studio 应用程序，授予他们访问 Studio 界面的权限。<br />应用程序分配验证 —— 配置组访问权限后，在 Identity Center 中检查应用程序分配情况，以确认正确的组映射到了正确的域。<br />导航自定义 —— 为每个域配置默认导航设置，仅展示相关的业务能力。例如，您可以隐藏与 HyperPod 工作流程无关的项，从而提供精简的、以 HyperPod 为中心的用户体验，减少仅需处理 HyperPod 资源的团队成员的认知负荷。<br />下图展示了 SageMaker AI 控制台，其中每个团队拥有一个域（TeamA-domain 和 TeamB-domain），各自提供隔离的工作区边界。<br />图 5：SageMaker 控制台中每个团队对应的 SageMaker 域<br />接下来，下图展示了 TeamA-domain 的详细信息，包括分配的 Identity Center 组。<br />图 6：TeamA-domain 配置及其分配的 Identity Center 组<br />HyperPod EKS 集群配置<br />HyperPod EKS 集群是执行工作负载的地方。集群级别的多租户是通过用于隔离的 Kubernetes 命名空间（namespaces）和用于授权的 EKS 访问条目（access entries）实现的。<br />为每个团队创建一个专用的 Kubernetes 命名空间，例如 hyperpod-ns-team-a 和 hyperpod-ns-team-b。命名空间在集群内提供了逻辑边界，将每个团队的工作负载（Spaces、训练作业、推理端点）彼此隔离开来。<br />注意：命名空间是隔离边界，而不是严格的安全边界。该架构面向的是单个组织内的多团队场景：各团队在统一的管理域和相互信任的基准下共享同一个集群。它并非设计用于互不信任的租户之间的多客户隔离。<br />命名空间、RBAC 和配额可以防止意外干扰（例如团队相互覆盖资源或超出其计算配额），但无法抵御蓄意恶意租户的攻击：命名空间内的 Pod 共享相同的节点和内核，而集群范围的资源（节点、PersistentVolumes、CRD、某些 Operator 组件）并不归属于任何命名空间。<br />对于不受信任的租户或严格的合规隔离要求，应使用更严格的边界，例如独立的集群或账号、专用节点池以及运行时沙箱技术。对于本文讨论的多团队场景，命名空间隔离结合 RBAC、Task Governance 配额以及后文介绍的 POSIX 身份控制，在隔离性和操作简便性之间取得了适当的平衡。<br />命名空间可以通过 kubectl create namespace 手动创建，也可以通过 HyperPod Task Governance 自动配置，后者将命名空间作为其配额和调度配置的一部分进行管理。<br />下图展示了集群命名空间（通过 HyperPod Task Governance 管理），每个团队拥有一个专用命名空间（hyperpod-ns-team-a 和 hyperpod-ns-team-b）以提供工作负载隔离。<br />图 7：用于工作负载隔离的每个团队专用 Kubernetes 命名空间<br />了解更多：Kubernetes 命名空间<br />命名空间本身并不限制网络流量。默认情况下，Kubernetes 网络是扁平的：所有 Pod 都可以跨命名空间互相访问。因此，除非添加控制措施，否则 hyperpod-ns-team-a 中的 Pod 可以与 hyperpod-ns-team-b 中的 Pod 建立连接。为了将 Pod 之间的可达性限制在团队边界内，请使用 Kubernetes NetworkPolicy 资源。<br />推荐的模式是按命名空间实行默认拒绝（default-deny）：首先拒绝所有入站流量（可选择同时拒绝出站流量），然后显式允许每个团队所需的流量，通常为命名空间内部通信以及必要的出站流量（例如 DNS、存储端点和 AWS API）。以下示例拒绝团队命名空间中的所有入站流量，随后仅允许来自同一命名空间内 Pod 的流量：</p>
-<p># 1. 默认拒绝团队命名空间中的所有入站流量。<br />apiVersion: networking.k8s.io/v1<br />kind: NetworkPolicy<br />metadata:<br />  name: default-deny-ingress<br />  namespace: hyperpod-ns-team-a<br />spec:<br />  podSelector: {} # 适用于该命名空间中的所有 Pod<br />  policyTypes:<br />  - Ingress<br />---<br /># 2. 仅允许来自同一命名空间内 Pod 的入站流量。<br />apiVersion: networking.k8s.io/v1<br />kind: NetworkPolicy<br />metadata:<br />  name: allow-same-namespace<br />  namespace: hyperpod-ns-team-a<br />spec:<br />  podSelector: {}<br />  policyTypes:<br />  - Ingress<br />  ingress:<br />  - from:<br />    - podSelector: {} # 该命名空间内的任何 Pod</p>
-<p>网络策略（NetworkPolicy）的强制执行依赖于支持该功能的容器网络接口（CNI）。在 EKS 上，你可以在 Amazon Virtual Private Cloud (Amazon VPC) CNI 中启用网络策略支持。</p>
-<p>与命名空间类似，NetworkPolicy 可以减少团队间意外的互访互通并缩小暴露范围，但它们本身在共享节点上并不构成对抗性的安全边界。如前文所述，为了获得更强的隔离性，可考虑为每个团队配置专用节点池或使用独立的集群。</p>
-<p>了解更多：Kubernetes 网络策略 · Amazon VPC CNI 网络策略</p>
-<p>EKS 访问条目（Access Entries）将 IAM 主体与 Kubernetes RBAC 权限相连接。针对每个团队，需要创建两个访问条目：</p>
-<p>Studio 访问条目 – IAM 主体是该团队的 SageMaker AI 域执行角色。当操作来源于 SageMaker Studio GUI 界面时，将使用此条目。</p>
-<p>CLI 访问条目 – IAM 主体是由 Identity Center 为团队权限集创建的 SSO 预置角色（遵循 AWSReservedSSO_ _ 命名模式）。当用户通过 kubectl 与集群交互时，将使用此条目。</p>
-<p>这两个条目都通过托管或自定义 Kubernetes 策略限定在团队的命名空间作用域内。例如，团队 A 的两个条目都仅在 hyperpod-ns-team-a 命名空间内授予权限。如果需要，这两个条目还可以携带不同的 RBAC 策略。例如，CLI 条目可以限制对某些资源类型的写入访问，而 Studio 条目则允许完全访问。</p>
-<p>通过这种范围限定，无论访问来源于 Studio 还是 CLI，用户都只能与自己命名空间内的资源进行交互。尝试列出或修改其他团队命名空间中的资源将导致 Kubernetes Forbidden 错误。</p>
-<p>对于更高级的场景，你可以在访问条目中使用 Kubernetes 用户组，将用户映射到自定义的 ClusterRole 或 Role，以提供超出标准托管策略的细粒度权限。</p>
-<p>下图展示了团队 B 角色的 EKS 访问条目，其范围被限定在 hyperpod-ns-team-b 命名空间，因此其权限仅在团队 B 的命名空间内生效。</p>
-<p>图 8：限定在团队 B 命名空间作用域的 EKS 访问条目</p>
-<p>了解更多：通过 EKS 访问条目授予 IAM 用户对 Kubernetes 的访问权限</p>
-<p>HyperPod 任务治理（Task Governance）</p>
-<p>在集群上启用任务治理后，它将提供额外的资源管理层：</p>
-<p>计算配额 – 定义每个团队可以消耗多少 GPU 和 CPU 容量。这可以防止单一团队在训练运行期间独占共享硬件。</p>
-<p>优先级 – 为每个团队或工作负载类型分配调度优先级，允许关键的生产推理工作负载在资源紧张时抢占实验性训练任务。</p>
-<p>公平调度 – 借助任务治理，当多个团队竞争资源时，分配将遵循配置的策略，而不是采用先到先得的模式。</p>
-<p>为每个团队命名空间配置具有适当配额和优先级的任务治理策略，在保障最低分配额度与满足突发工作负载的弹性突发容量之间取得平衡。</p>
-<p>下图展示了两个团队的任务治理计算分配情况，每个团队的命名空间都被分配了各自的集群计算容量配额。</p>
-<p>图 9：按团队命名空间划分的任务治理计算分配</p>
-<p>了解更多：SageMaker HyperPod 任务治理</p>
-<p>存储是跨团队共享的人工智能与机器学习（AI/ML）环境中的关键组件。团队需要用于训练数据、检查点和模型构件的高性能文件系统，同时需要在团队之间维持适当的访问边界。</p>
-<p>兼容 POSIX 的文件系统</p>
-<p>对于需要共享的高性能 POSIX 文件系统的工作负载（这在多节点读取相同数据集或写入检查点的分布式训练中很常见），请考虑以下选项：</p>
-<p>Amazon FSx for Lustre – 提供高吞吐量、低延迟的并行文件系统访问，非常适合需要高速读取大型数据集的大规模训练工作负载。</p>
-<p>Amazon FSx for OpenZFS – 提供具有强大 POSIX 语义、快照和压缩功能的通用文件系统。非常适合在需要高性能的同时还需要传统文件系统功能的工作负载。</p>
-<p>Amazon Elastic File System (Amazon EFS) – 提供完全托管的弹性网络文件系统（NFS）存储。EFS 还支持接入点（access points），通过将不同的挂载点映射到具有强制 UID 和 GID 的不同目录，可以简化针对每个团队的目录隔离。</p>
-<p>存储布局通常遵循以下结构：</p>
-<p>团队共享目录 – 每个团队都有一个共享目录（例如 /fsx/TeamA、/fsx/TeamB），用于存放所有团队成员都需要访问的数据集、模型和构件。</p>
-<p>用户个人主目录 – 每个用户都有一个个人主目录（例如 /home/User1、/home/User2），用于个人工作、实验和笔记本开发。</p>
-<p>这些文件系统上的 POSIX 权限模型依赖 UID、GID 和补充用户组来强制执行访问边界。当用户启动 HyperPod Space 或提交训练作业时，这些 POSIX 身份应传播到 Pod 安全上下文中，以确保文件系统访问遵循所配置的所有权和权限。我们建议使用 Kubernetes 变更准入 Webhook（mutating admission webhook）从你的身份存储中检索 POSIX 身份信息。当提交工作负载时，Webhook 会在运行时查找该身份，并相应地修改 Pod 的安全上下文。</p>
-<p># 1. 从准入请求中提取调用方的会话身份。<br /># 在 EKS 上，来自 IAM 假定角色（包括 IAM Identity Center）的请求<br /># 会在 userInfo.extra[&quot;sessionName&quot;] 中显示 STS 会话名称。其格式<br /># 取决于会话的创建方式（例如，SSO 简称、电子邮件或 role-session-name）；<br /># 请根据此值对齐你的身份映射。<br />def extract_username(admission_request):<br />    extra = admission_request[&quot;userInfo&quot;][&quot;extra&quot;]<br />    ...<br />    return extra[&quot;sessionName&quot;][0]</p>
-<p># 2. 从映射表（例如 DynamoDB）中查找 POSIX 身份。<br />def lookup_posix_identity(username):<br />    item = posix_table.get_item(Key={&quot;username&quot;: username})[&quot;Item&quot;]<br />    ...<br />    return {<br />        &quot;uid&quot;: int(item[&quot;uid&quot;]),<br />        &quot;gid&quot;: int(item[&quot;gid&quot;]),<br />        &quot;supplementalGroups&quot;: [int(g) for g in item[&quot;supplementalGroups&quot;]],<br />    }</p>
-<p># 3. 使用解析出的 POSIX 身份修补 Pod 安全上下文。<br />def build_security_context_patch(pod, posix):<br />    ...<br />    return [{<br />        &quot;op&quot;: &quot;add&quot;,<br />        &quot;path&quot;: &quot;/spec/securityContext&quot;,<br />        &quot;value&quot;: {<br />            &quot;runAsUser&quot;: posix[&quot;uid&quot;],<br />            &quot;runAsGroup&quot;: posix[&quot;gid&quot;],<br />            &quot;fsGroup&quot;: posix[&quot;gid&quot;],<br />            &quot;supplementalGroups&quot;: posix[&quot;supplementalGroups&quot;],<br />        },<br />    }]</p>
-<p>了解更多：FSx for Lustre · FSx for OpenZFS · Amazon EFS</p>
-<p>对于对象存储，对 S3 存储桶的访问由团队的 IAM 执行角色管控。您可以为每个团队创建独立的存储桶，或使用带有团队前缀的共享存储桶，依靠 IAM 策略来实施隔离。集群内的 Pod 需要配置了用于服务账户的 IAM 角色（IRSA）或 Pod Identity 的相应服务账户，以向 S3 进行身份验证。为简化配置，您可以将 SageMaker AI 域上配置的相同执行角色关联到团队命名空间内的 Kubernetes 服务账户，从而为 Studio 和集群工作负载提供一致的 S3 访问权限。</p>
-<p>了解更多：用于服务账户的 IAM 角色 (IRSA) · EKS Pod Identity</p>
-<p>HyperPod Spaces 提供了直接运行在集群节点上的交互式开发环境（IDE）。在共享集群上，Spaces 必须严格限制在每个团队的命名空间范围内，并配置相应的资源模板。</p>
-<p>为每个团队创建以命名空间为作用域的 Space 模板。这些模板定义了团队成员在创建 Space 时可用的资源配置（实例类型、存储卷、环境变量）。通过将模板限定在命名空间内，可以确保每个团队只能在其指定的边界内启动 Space。</p>
-<p>当启用 HyperPod Task Governance 时，模板应包含治理系统所需的默认标签（例如团队标识符和优先级标签）。集群管理员会预先配置这些标签，这样团队成员在启动 Space 时就无需手动指定它们。</p>
-<p>以下示例展示了限定在 Team A 作用域内的 JupyterLab Space 模板。特定于团队的部分包括 metadata.namespace、baseLabels 下的 Task Governance 队列标签，以及挂载团队共享文件系统和用户主目录的 defaultVolumes：</p>
-<p>apiVersion: workspace.jupyter.org/v1alpha1<br />kind: WorkspaceTemplate<br />metadata:<br />  name: jl-smd-custom<br />  namespace: hyperpod-ns-team-a # 将模板作用域限定在 Team A 的命名空间<br />spec:<br />  displayName: &quot;JupyterLab (team-a)&quot;<br />  description: &quot;SageMaker Distribution&quot;<br />  appType: jupyterlab<br />  baseLabels:<br />    - key: kueue.x-k8s.io/queue-name # Team A 的 Task Governance (Kueue) 本地队列<br />      value: hyperpod-ns-team-a-localqueue<br />  ... # 容器命令、默认 CPU/内存资源、安全上下文、访问类型等<br />  ...<br />  defaultVolumes:<br />    - name: home-dir # 每个用户的主目录<br />      mountPath: /home<br />      persistentVolumeClaimName: fsx-openzfs-claim<br />    - name: shared-data # Team A 的共享目录<br />      mountPath: /fsx<br />      persistentVolumeClaimName: fsx-lustre-claim<br />  ... # 主存储 (EBS) 默认值与限制<br />  ...</p>
-<p>持久卷声明</p>
-<p>在每个团队的命名空间中创建相应的持久卷声明（PVC），并引用共享文件系统。这些 PVC 将团队的共享目录和用户的主目录挂载到 Space 中，从而提供对训练数据、检查点和个人工作区的访问权限。</p>
-<p>仅限所有者和共享的 Spaces</p>
-<p>请结合您组织的具体要求考虑 Space 的共享方式：</p>
-<p>仅限所有者访问的 Spaces（Owner-only Spaces）——每个 Space 仅可由创建它的用户访问。这是默认配置，适用于团队处理敏感或独立项目的情况。</p>
-<p>共享 Spaces（Shared Spaces）——多个团队成员可以访问同一个 Space，适用于结对编程、协作调试或共享开发环境。在启用共享 Spaces 时，请确保配置了 POSIX 权限和附加组，以便对 Space 内创建的文件授予适当的访问权限。</p>
-<p>了解更多：Amazon SageMaker HyperPod EKS 集群上的交互式开发环境</p>
-<p>尽管团队完全可以使用 kubectl 通过命令行界面（CLI）与集群进行交互，但对于偏好托管型、图形界面驱动工作流的用户，SageMaker Studio 提供了通往集群的图形化入口。在该架构中，每个团队通过其自身的 SageMaker AI 域（如前所述）访问 Studio，使用相同的 Identity Center 凭据登录，并在团队命名空间的边界内运行。</p>
-<p>下图展示了用户使用企业凭据登录后进入的 IAM Identity Center 访问门户，该门户为分配给他们的 SageMaker Studio 应用程序和 Amazon Managed Grafana 应用程序提供单点登录访问。</p>
-<p>图 10：具备分配应用程序单点登录功能的 IAM Identity Center 访问门户</p>
-<p>在 Studio 用户界面中，团队成员可以：</p>
-<p>管理 HyperPod Spaces —— 从管理员配置的限定命名空间作用域的 Space 模板中启动交互式开发环境，而无需编写 Kubernetes 清单或手动指定 Task Governance 标签。团队成员还可以启动、停止和连接其正在运行的 Spaces，并在浏览器中直接打开相关的 IDE（如 JupyterLab）。</p>
-<p>管理 Ray 工作负载 —— 创建和监控 Ray 集群，将 JupyterLab 或 Code Editor 工作区连接到集群，提交分布式作业，并打开 Ray Dashboard 和 Amazon Managed Grafana 可观测性仪表板，所有操作均无需编写 Kubernetes 清单或运行 kubectl 命令。</p>
-<p>由于 Studio 通过团队的域执行角色和相应的 EKS 访问条目运行，因此所有操作均限定在团队的命名空间内。从 Studio 启动 Space 或 Ray 集群的用户只能在其自身团队的边界内创建资源，这与为 CLI 访问强制执行的隔离模型保持一致。</p>
-<p>下图展示了如何从 SageMaker Studio 用户界面创建 HyperPod Space，团队成员在其中选择限定命名空间作用域的 Space 模板，而无需编写 Kubernetes 清单或手动指定 Task Governance 标签。</p>
-<p>图 11：在 SageMaker Studio 中通过限定命名空间作用域的模板创建 HyperPod Space</p>
-<p>了解更多：Amazon SageMaker HyperPod EKS 集群上的交互式开发环境 · 介绍 SageMaker HyperPod 上的新 Ray 功能</p>
-<p>HyperPod 训练操作器（HyperPod Training Operator）</p>
-<p>HyperPod Training Operator 使团队能够将分布式训练作业作为 Kubernetes 自定义资源（例如 HyperPodPyTorchJob）进行提交。在多租户架构中，训练作业的作用域限定在命名空间级别，这意味着它们会自动继承团队的隔离边界。</p>
-<p>团队可以使用带有相应作业清单的 kubectl apply 从 CLI 提交训练作业。该作业在团队的命名空间中运行，使用团队的计算配额（如果启用了 Task Governance），并具有对团队存储卷的访问权限。</p>
-<p>启用任务治理（Task Governance）后，训练作业将受团队分配的配额和优先级设置约束。如果某个团队已经用尽其保证配额，作业可能会排队，直到资源可用，或直到低优先级工作负载被抢占。</p>
-<p>将作业绑定到团队的两个要素是 metadata.namespace（将作业限定在团队的隔离边界内）和任务治理标签。任务治理基于 Kueue 构建，因此作业会通过 kueue.x-k8s.io/queue-name 路由到团队的本地队列。系统会通过 kueue.x-k8s.io/priority-class 为作业分配调度优先级，该字段的值是集群上定义的 WorkloadPriorityClass 名称：</p>
-<p>apiVersion: sagemaker.amazonaws.com/v1<br />kind: HyperPodPyTorchJob<br />metadata:<br />  name: team-a-training-job<br />  namespace: hyperpod-ns-team-a # 将作业限定在团队 A 的命名空间内<br />labels:<br />  kueue.x-k8s.io/queue-name: hyperpod-ns-team-a-localqueue # 任务治理（Kueue）本地队列<br />  kueue.x-k8s.io/priority-class: training-priority # WorkloadPriorityClass 的名称<br />spec:<br />  ... # replicaSpecs、容器镜像、命令、资源、卷等<br />  ...</p>
-<p>详细了解：使用 HyperPod 训练算子</p>
-<p>HyperPod 推理算子</p>
-<p>HyperPod 推理算子支持团队直接在集群上将模型部署为推理端点。与训练作业类似，推理端点受命名空间限定，并受到团队 RBAC 策略和任务治理配额的约束。</p>
-<p>团队可以通过 CLI，在其命名空间中创建推理端点自定义资源来部署模型。端点按命名空间隔离，这意味着团队 A 无法访问或干扰团队 B 的推理端点。</p>
-<p>对于需要高可用性的生产推理工作负载，可以考虑为推理端点分配高于训练作业的调度优先级，从而避免模型服务被批量训练工作负载中断。</p>
-<p>与训练作业一样，推理端点会被置于团队的 metadata.namespace 中，并携带任务治理标签。此处，kueue.x-k8s.io/priority-class 引用优先级更高的 WorkloadPriorityClass，因此当团队资源受限时，模型服务可以抢占批量训练作业：</p>
-<p>apiVersion: inference.sagemaker.aws.amazon.com/v1<br />kind: InferenceEndpointConfig<br />metadata:<br />  name: team-a-inference-endpoint<br />  namespace: hyperpod-ns-team-a # 将端点限定在团队 A 的命名空间内<br />labels:<br />  kueue.x-k8s.io/queue-name: hyperpod-ns-team-a-localqueue # 任务治理（Kueue）本地队列<br />  kueue.x-k8s.io/priority-class: inference-priority # 优先级更高的 WorkloadPriorityClass<br />spec:<br />  ... # 模型来源、实例类型、副本数量、自动扩缩容等<br />  ...</p>
-<p>详细了解：在 Amazon SageMaker HyperPod 上部署模型</p>
-<p>HyperPod 可观测性</p>
-<p>对于所有团队而言，了解集群运行状况、工作负载性能和资源利用率都至关重要。HyperPod 可观测性通过 Amazon Managed Grafana 提供内置的监控和仪表板功能。</p>
-<p>配置团队对 Grafana 的访问权限</p>
-<p>团队需要访问可观测性仪表板，以监控其工作负载、排查性能问题并了解资源消耗。不过，在多租户环境中，此类访问通常应设为只读：</p>
-<p>配置 Amazon Managed Grafana 的 Identity Center 身份验证——在 Amazon Managed Grafana 控制台中，导航至“Authentication”（身份验证），并启用 AWS IAM Identity Center。随后，用户可以使用登录 SageMaker Studio 时所用的相同企业凭证登录 Grafana。</p>
-<p>将团队组分配为 Viewer——将 Identity Center 组（TeamA、TeamB）映射到 Grafana Viewer 角色。这将授予团队成员对仪表板和指标的只读访问权限，但不能修改仪表板或数据源。</p>
-<p>管理员访问权限——将 Admin 组分配给 Grafana Admin 或 Editor 角色，使其能够创建和修改仪表板、配置告警以及管理数据源。</p>
-<p>团队专属仪表板——可以考虑创建按命名空间筛选数据的专用仪表板，使每个团队只能看到自己的工作负载指标。Amazon Managed Grafana 支持 Grafana Teams（Grafana 原生的 RBAC 概念，与本架构中的组织团队不同），可将其从 Identity Center 组映射而来，以限制仪表板可见范围，并提供额外的数据隔离层。</p>
-<p>下图展示了 Amazon Managed Grafana 中的 Grafana 角色分配情况。团队组（TeamA、TeamB）被分配 Viewer 角色，只能读取仪表板和指标；而管理员组被分配 Admin 角色，可以创建和修改仪表板、配置告警以及管理数据源。</p>
-<p>图 12：Grafana 角色分配，为团队授予只读的 Viewer 访问权限</p>
-<p>详细了解：由 Amazon EKS 编排的 Amazon SageMaker HyperPod 集群可观测性</p>
-<p>成本分配与成本回收</p>
-<p>在团队共享昂贵 GPU 基础设施的多租户环境中，了解资源由谁消耗以及消耗了多少，对于责任追踪、预算管理和成本回收至关重要。Kubecost 通过拆解 Kubernetes 集群内基于原生概念（命名空间、标签、部署和服务）的支出，并将其映射到团队、项目或环境等组织概念，满足了这一需求。</p>
-<p>由于该架构已经将每个团队隔离在专用命名空间（hyperpod-ns-team-a、hyperpod-ns-team-b）中，因此按命名空间进行成本分配可以直接对应团队边界。这样，平台管理员无需添加额外的工作负载标签，即可清晰查看每个团队在 GPU、CPU、内存、存储和网络方面的消耗。有关在 HyperPod 集群上部署和配置 Kubecost 的分步说明，请参阅 Kubecost on SageMaker HyperPod。</p>
-<p>启用团队可见性</p>
-<p>Kubecost 开始收集数据后，可以在 Allocations（分配）仪表板中按命名空间对成本进行分组，以查看每个团队的支出。由于每个团队拥有一个命名空间，这将直接生成涵盖计算、内存、存储和网络的团队级成本明细。与可观测性仪表板一样，让团队了解自身成本数据也十分有益：</p>
-<p>将视图限定为每个团队的命名空间——Kubecost 支持按命名空间筛选和保存报告，因此每个团队都可以查看自身的消耗和趋势，而不会看到其他团队的数据。</p>
-<p>设置预算和告警——配置按命名空间设置的预算阈值和告警，使团队和平台管理员能够在支出接近既定上限时收到通知，从而支持与 HyperPod 任务治理相同的资源公平目标。</p>
-<p>支持成本回收和成本展示——按命名空间分配的报告可以为内部成本回收（根据团队使用情况向其计费）或成本展示（报告使用情况但不进行计费）流程提供数据，使财务团队和平台团队能够获得公平分摊共享 GPU 成本所需的数据。</p>
-<p>下图展示了按命名空间分组的 Kubecost 分配仪表板，呈现了过去 7 天内每个团队命名空间的累计成本。<br />图 13：按命名空间分组以显示各团队成本的 Kubecost 分配仪表板<br />了解更多：SageMaker HyperPod 上的 Kubecost · Kubecost<br />本文介绍了一种在基于 EKS 的 Amazon SageMaker HyperPod 上构建多租户环境的参考架构。通过结合用于身份验证的 AWS IAM Identity Center、用于 AWS 层面授权的各团队专属 IAM 角色、用于定制化工作区体验的 SageMaker AI 域、用于工作负载隔离的 Kubernetes 命名空间、用于公平资源分配的 HyperPod 任务治理（Task Governance），以及用于按团队实现支出可见性的命名空间级成本分配，多个团队可以高效共享单个 HyperPod EKS 集群。<br />这是一种灵活、可组合的方法，将多个构建块整合成一个紧密协调的解决方案。该架构适用于各种使用场景和组织架构。例如，企业可以扩展该模式，将团队连接到与 EKS 并行的 HyperPod Slurm 集群，从而跨不同编排后端提供统一的多租户体验。<br />虽然该方法需要组装和配置若干组件，但最终能够带来高度的控制力和定制灵活性，可根据每个组织的具体隔离、合规性及运营需求量身定制。其基础模式（身份联合、命名空间隔离、RBAC、基于配额的治理以及成本分配）将始终适用。<br />要开始使用，请尝试在您自己的 Amazon SageMaker HyperPod EKS 集群上构建这种多租户配置，并根据您组织的隔离、治理及成本分配需求对这些构建块进行调整。<br />朱塞佩·安杰洛·波尔切利（Giuseppe Angelo Porcelli）<br />Giuseppe 是亚马逊云科技（AWS）的主任级机器学习专家解决方案架构师。凭借多年的软件工程经验和机器学习背景，他与各种规模的客户合作，深入了解他们的业务和技术需求，并设计能够充分利用 AWS 云及 Amazon 机器学习技术栈的 AI 与机器学习解决方案。他曾参与多个不同领域的项目，包括 MLOps、计算机视觉、自然语言处理（NLP），并涉及广泛的 AWS 服务。闲暇时，Giuseppe 喜欢踢足球。<br />Mayank 是一位资深 AI/ML 专家，在机器学习框架和企业级 AI 架构方面拥有深厚的专业知识。他在 SageMaker AI 和 SageMaker HyperPod 等 AWS AI 服务方面拥有丰富的实践经验，负责领导端到端 AI 解决方案的设计与交付，涵盖模型开发、分布式训练和生产规模部署。凭借在性能优化和可扩展 ML 架构方面的深厚经验，Mayank 与客户紧密合作，将复杂的业务挑战转化为安全、高影响力且可直接投产的 AI 系统，以推动可衡量的成果。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Amazon SageMaker HyperPod 是一项专用 AI 服务，用于简化面向生成式 AI 工作负载的大规模计算集群管理，支持由 Amazon EKS 或 Slurm 进行编排。</li>
-    <li>该多租户参考架构使用 AWS IAM Identity Center 实现集中式身份验证，并支持与外部身份提供商（如 Microsoft Entra ID）进行联合身份验证。</li>
-    <li>来源叙事重点：介绍基于 Amazon SageMaker HyperPod 与 EKS 构建多租户 AI 集群的参考架构，重点展示如何通过 AWS 原生组件与外部身份提供商整合，解决多团队共享高成本 GPU 时的资源隔离、调度公平性及成本分摊问题。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--home-event-october-13th-d3008f94fc4137e2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="547" data-content-paragraphs="1" data-published-at="2026-10-08T16:08:40.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:08</span>
-</div>
-
-### [苹果意外宣布举办“欢迎回家”新品发布会](https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple announces surprise &amp;#8216;Welcome home&amp;#8217; launch event</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Untitled-1-copy.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="苹果意外宣布举办“欢迎回家”新品发布会" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />传闻苹果将推出其智能家居中枢、新款 Apple TV 等产品。<br />该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看杰伊·彼得斯（Jay Peters）的全部文章<br />苹果刚刚宣布了一场定于10月举办的新发布会，将于美国东部时间10月13日上午9点在纽约举行。有传言称该公司本月将推出以智能家居为核心的产品，而活动邀请函也印证了这一点：苹果使用了“欢迎回家”（Welcome home）这一标语。<br />据传，苹果将在本次活动中发布多款产品，包括一款带显示屏的智能家居中枢、升级版 HomePod Mini 以及新款 Apple TV。据报道，该公司还与 LG 合作开发将在活动中亮相的全新智能家居设备，包括可视门铃、恒温器和室内摄像头；昨天泄露的渲染图据称展示了其中部分设备。<br />据报道，苹果研发新款智能家居中枢已有相当一段时间，此前甚至曾希望在2025年的某个时间发布。然而，升级版由 AI 驱动的 Siri 出现延期，据传这导致了该产品的推迟发布。AI 版 Siri 终于在上个月推出（尽管仍带有测试版标签），而随着其面世，苹果在智能家居领域的下一轮重大推进似乎即将拉开帷幕。<br />免费获取最重要新闻的每日摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>苹果公司宣布将于美国东部时间10月13日上午9点在纽约举办一场活动。</li>
-    <li>该活动的标语（tagline）为“Welcome home”（欢迎回家）。</li>
-    <li>来源叙事重点：报道苹果官方突发宣布的10月纽约发布会，结合“Welcome home”标语、历史传闻与供应链爆料，推测其智能家居硬件（带屏中枢、HomePod Mini、Apple TV及与LG合作设备）及Siri AI推进计划。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-and-and-wales-data-shows-e07cb881cd53acb2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="259" data-content-paragraphs="1" data-published-at="2026-10-08T13:29:47.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 21:29</span>
-</div>
-
-### [数据显示，英格兰和威尔士种族与宗教仇恨犯罪创历史新高](https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Racial and religious hate crimes at record high in England and Wales, data shows</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/f808d6d9f49661e91e36235f2fd417691b7b342f/1433_638_5836_4671/master/5836.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec26ea8856d53dbfc7f7b5f98de8e022" alt="数据显示，英格兰和威尔士种族与宗教仇恨犯罪创历史新高" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>截至3月的12个月内，针对穆斯林的违法犯罪增幅最大，上升15%；与此同时，反犹太仇恨犯罪增长了10%<br />英国政治直播——最新动态<br />在英国政府负责应对伊斯兰恐惧症的主要合作机构表示针对清真寺的袭击严重程度不断加剧之际，出于种族和宗教动机的违法犯罪在英国已达到历史最高水平。<br />英国内政部数据显示，截至2026年3月的一年里，警方共记录了146,825起仇恨犯罪，比上一年增长7%。其中，针对穆斯林的违法犯罪增幅最大——增长15%，从4,479起增至5,132起；而反犹太仇恨犯罪增长了10%，从2,874起增至3,162起。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>截至2026年3月的一年内，英格兰和威尔士警方记录了146,825起仇恨犯罪，同比增长7%。</li>
-    <li>针对穆斯林的仇恨犯罪增长最多，增加15%，从4,479起增至5,132起。</li>
-    <li>来源叙事重点：强调英格兰和威尔士种族与宗教仇恨犯罪创历史新高，重点突出针对穆斯林（增长15%）和犹太群体（增长10%）的犯罪激增及清真寺遇袭严重性</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--after-years-comparisons-62343329f64b79bd" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1486" data-content-paragraphs="24" data-published-at="2026-10-08T16:29:12.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:29</span>
-</div>
-
-### [历经多年比较，西德妮·斯威尼与玛丽莲·梦露被曝存在惊人家族血缘关联](https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sydney Sweeney and Marilyn Monroe share surprising family connection after years of comparisons</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sydney-sweeney-marilyn-monroe.jpg?ve=1&amp;tl=1" alt="历经多年比较，西德妮·斯威尼与玛丽莲·梦露被曝存在惊人家族血缘关联" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>根据一份最新的家谱报告显示，西德妮·斯威尼（Sydney Sweeney）与玛丽莲·梦露（Marilyn Monroe）存在亲缘关系。</p>
-<p>全球家谱历史平台 MyHeritage 确认，斯威尼与梦露是差一代的九代堂/表表亲（ninth cousins once removed），两人的族谱追溯至同一位共同祖先——埃兹拉·佩里（Ezra Perry）。佩里是马萨诸塞州桑威奇（Sandwich）的早期定居者，生活年代大约在1625年至1689年之间。</p>
-<p>据 MyHeritage 的研究显示，这一亲缘关系分别连结了斯威尼的父亲史蒂文·斯威尼（Steven Sweeney）以及梦露的生父查尔斯·斯坦利·吉福德（Charles Stanley Gifford）。</p>
-<p>独家：迈克尔·麦克唐纳失散多年的儿子揭露58年后发现知名父亲的震撼时刻</p>
-<p>“人们一直以来都将西德妮·斯威尼和玛丽莲·梦露相提并论，但看到她们的轨迹在更深层次上交汇，促使我们在 MyHeritage 的档案库中寻找真实的纽带，”MyHeritage 研究总监罗伊·曼德尔（Roi Mandel）在福克斯新闻数字频道（Fox News Digital）获得的一份声明中表示。</p>
-<p>“揭开她们共有的家族分支令人难以置信，”曼德尔继续说道，“这有力地提醒了我们，人类本身就是一个庞大的家族谱系，当我们深入挖掘时，便会发现彼此之间的联系是何等紧密。”</p>
-<p>玛丽莲·梦露一角让女演员“注定失败”：专家评述</p>
-<p>斯威尼的代表未立即回应福克斯新闻数字频道的置评请求。</p>
-<p>这一发现是在外界多年来对斯威尼与梦露进行广泛比较之后得出的，比较的内容从两人金发尤物的形象、老好莱坞的迷人魅力，到围绕她们事业与私生活引发的强烈公众关注不等。</p>
-<p>斯威尼在多个红毯场合也曾致敬过梦露的经典风格。</p>
-<p>今年2月，这位出演《亢奋》（Euphoria）的明星在圣巴巴拉国际电影节上身穿一件象牙白色的 Ceil Chapman 礼服，与梦露在1952年《生活》（LIFE）杂志封面上所穿的裙子极其相似。</p>
-<p>喜欢您正在阅读的内容吗？点击此处获取更多娱乐新闻</p>
-<p>梦露在1952年4月7日出版的《生活》杂志中身着这件白色露肩礼服。该造型具有夸张的褶皱设计、收腰剪裁以及领口处的装饰胸针。</p>
-<p>斯威尼的造型师莫莉·迪克森（Molly Dickson）从比弗利山庄的精品店 Timeless Vixen 淘到了这件复古礼服。这位女演员还搭配了一枚同样呼应梦露造型风格的胸针。</p>
-<p>点击此处，娱乐内幕速递直达您的邮箱</p>
-<p>斯威尼此前在12月的电影《女佣》（The Housemaid）首映礼上也曾模仿过梦露的风格，当时她身穿一件带摆动大裙摆的白色礼服，让人联想起梦露在《七年之痒》（The Seven Year Itch）中经典的地铁通风口场景裙装。</p>
-<p>此外，据报道这两位女演员之间还有另一个相似之处。</p>
-<p>西德妮·斯威尼分享与男友斯库特·布劳恩乘船游玩的俏皮照片</p>
-<p>梦露在1956年与剧作家阿瑟·米勒（Arthur Miller）结婚前皈依了犹太教。</p>
-<p>据《Page Six》的一篇报道称，斯威尼在与斯库特·布劳恩（Scooter Braun）交往期间，也正在考虑皈依犹太教。</p>
-<p>测测您的娱乐知识储备，看看能得多少分</p>
-<p>斯威尼的代表尚未立即就此报道置评。</p>
-<p>尽管斯威尼与梦露之间的渊源可以追溯到大约400年前，但这一发现为斯威尼成名过程中伴随始终的外貌与风格比较，增添了一层真实的家族联系纽带。</p>
-<p>福克斯新闻数字频道的迈克尔·鲁伊斯（Michael Ruiz）对本文亦有贡献。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-09 00:29 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/sydney-sweeney-marilyn-monroe-share-surprising-family-connection-after-years-comparisons" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--putting-piker-his-place-5e0981fedee1cee6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1224" data-content-paragraphs="9" data-published-at="2026-10-08T16:23:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:23</span>
+  <span class="news-meta-time">🕒 2026-10-09 03:06</span>
 </div>
 
-### [福克斯新闻《反犹太主义揭露》通讯：疯狂的反以色列者举行支持哈马斯的抗议活动纪念10月7日](https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-putting-piker-his-place)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fox News ‘Antisemitism Exposed’ Newsletter: Deranged Israel haters mark Oct. 7 with pro-Hamas protests</div>
+### [64天证书有效期将于2027年2月生效](https://letsencrypt.org/2026/10/07/64-day-certs.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> 64-Day Certificate Lifetimes Coming Feb 2027</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mamdani-israel-candlelight-vigil-protest.png?ve=1&amp;tl=1" alt="福克斯新闻《反犹太主义揭露》通讯：疯狂的反以色列者举行支持哈马斯的抗议活动纪念10月7日" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>福克斯新闻的《反犹太主义揭露》（Antisemitism Exposed）通讯为您带来全美及全球范围内日益高涨的反犹偏见相关报道。</p>
-<p>在今日的通讯中：<br />- 反以色列团体在10月7日周年纪念日于全美各地集会，高呼“起义万岁”<br />- 前哈马斯人质在德克萨斯大学奥斯汀分校的活动中以亲身幸存经历反驳哈桑·派克（Hasan Piker）<br />- 马姆达尼（Mamdani）3000万美元打击反犹太主义计划中包含了对反以色列团体的新资助</p>
-<p>头条新闻：支持巴勒斯坦的示威者在全美各大城市举行大规模集会，纪念10月7日哈马斯袭击一周年。从纽约到加利福尼亚，激进团体在街头游行，高呼“起义万岁”，并与执法人员及对立抗议者发生冲突。随着大学校园和市政地标附近的紧张局势升级，大范围的示威活动引发了严密的安保部署。</p>
-<p>视频：曾担任《无人希望这样》（Nobody Wants This）第一季顾问的拉比史蒂夫·莱德（Steve Leder）告诉福克斯新闻数码版，亚当·布罗迪（Adam Brody）在讨论加沙问题时是将个人观点当作事实来表述。点击此处观看：</p>
-<p>派克被当场回击：在德克萨斯大学奥斯汀分校一场气氛紧张的活动中，前哈马斯人质玛雅·雷格夫（Maya Regev）当面驳斥了左翼主播哈桑·派克（Hasan Piker）的争议性言论。雷格夫通过讲述自己在加沙被囚禁的惨痛目击经历，直接反驳了派克关于10月7日袭击的言论。随着幸存者残酷的现实击碎了这位主播的政治粉饰，这场充满情绪激荡的交锋令在场观众震惊不已。</p>
-<p>资金谎言：纽约市长佐兰·马姆达尼（Zohran Mamdani）一项旨在打击反犹太主义的3000万美元新计划引发了强烈反对。细节披露该蓝图增加了对“反抗仇恨伙伴组织”（Partners Against the Hate）的资助，向纽约阿拉伯裔美国人协会（Arab American Association of New York）输送了数百万美元，而该团体因其激进的反以色列主张而备受争议，批评者对此群起攻之。</p>
-<p>特约社论：“鹰之翼”（Eagles’ Wings）创始人兼执行董事罗伯特·斯特恩斯（Robert Stearns）主教撰文，敦促基督徒在10月7日袭击事件后保持对以色列坚定不移的支持。斯特恩斯指出，支持犹太国家是一项道德和圣经义务，并警告称，全球冷漠情绪的蔓延以及反犹太主义的抬头既威胁着以色列的生存，也威胁着犹太-基督教的基础价值观。</p>
-<p>本周金句：“这就像是把9月11日变成基地组织恐怖分子的哀悼日一样。我们决不允许这种情况发生。我们将缅怀那些遇害者，并且我们绝不会忘记这场大屠杀的幕后黑手。”——以色列常驻联合国代表丹尼·达农（Danny Danon）就纪念10月7日周年的反以色列抗议活动如是说。</p>
-<p>- 想了解关于该话题的更多内容？点击此处查看福克斯新闻更多反犹太主义报道。<br />- 本邮件是他人转发给您的吗？点击此处订阅福克斯新闻的更多通讯。</p></div>
+<div class="article-body" data-article-body="true"><p>我们将在2026年10月14日于测试（staging）环境中切换为签发64天有效期的证书，以便进行测试。我们建议在生产环境正式生效前，先在测试环境中完成验证。</p>
+<p>如果您的证书续期已实现自动化，且客户端支持 ACME 续期信息（ARI），那么您无需进行额外操作，因为 ARI 允许 Let’s Encrypt 主动告知您的客户端何时进行续期（您可以查阅 ACME 客户端文档，确认是否已实现 ARI）。</p>
+<p>如果您的续期策略是硬编码距离到期前特定天数的，您应将其调整为在证书生命周期的约三分之二处进行续期。为64天有效期提前做好这一调整，将为2028年默认的45天有效期奠定基础。如果不确定，可以在 cron 定时任务、包装脚本以及运维手册中搜索（grep）常见的硬编码数值，例如 83、80 或 60。</p>
+<p>我们还将把授权复用期从30天缩减至10天。到2028年，该复用期将进一步压缩至7小时。我们做出这一调整，是为了遵守2029年对最长验证复用期的削减要求，并免去“CAA 重新检查”的需要（即若验证数据超过7小时，我们必须重复执行部分验证流程）。除非您特意将 ACME 客户端设计为依赖验证复用，否则无需做出任何更改。</p>
+<p>这也是实现证书管理流程（如重新加载和部署）自动化，并为续期失败增设告警通知的一个契机。</p>
+<p>速率限制（Rate limits）不会受此变更影响；您可以查看我们之前的博文了解更多信息。</p>
+<p>此变更不会影响 ACME 端点或我们的签发证书链。</p>
+<p>我们转向更短的证书有效期，是因为这能降低密钥泄露和错误签发的风险。作为一家非营利组织，我们认为推行这一变革、提升全球所有网络用户的安全性是我们使命的一部分。我们预期这一过渡将会平稳进行，但如果您遇到任何问题，我们的社区论坛和官方文档都是很好的参考资源。</p>
+<p>ISRG 是一家 501(c)(3) 非营利组织，其运作完全依赖认同我们普及、开放互联网安全愿景的各界慷慨支持。如果您愿意支持我们的工作，请考虑参与进来、进行捐赠，或鼓励您的公司成为赞助商。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-09 00:23 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>Let&#39;s Encrypt 将于 2026 年 10 月 14 日在 staging 测试环境中切换为签发 64 天有效期的证书以供测试。</li>
+    <li>Let&#39;s Encrypt 证书生命周期将于 2027 年 2 月变为 64 天。</li>
+    <li>来源叙事重点：宣布将逐步缩短 TLS 证书生命周期（2027年缩至64天，2028年缩至45天）及授权重用期限的时间表，强调此举对提升全球网络安全、降低密钥泄露风险的必要性，并指导用户通过 ACME 协议与自动化流程做好技术适配与测试。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-putting-piker-his-place" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://letsencrypt.org/2026/10/07/64-day-certs.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ered-this-weekends-slate-ab7932502e1b90bd" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2519" data-content-paragraphs="44" data-published-at="2026-10-08T16:22:18.000Z" data-time-source="publication">
+<div id="story-s-dna-packaging-ten-html-56c4dea8b42d6613" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1649" data-content-paragraphs="15" data-published-at="2026-10-08T22:10:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 06:10</span>
+</div>
+
+### [新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上](https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> New &#39;computational microscope&#39; simulates DNA packaging at more than ten times previous scale</div>
+
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-computational-mi.jpg" alt="新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>作者：生物医药研究所（IRB Barcelona）<br />编辑：Gaby Clark；审校：Robert Egan<br />本文已根据 Science X 的编辑流程和方针进行了同行评审核验。编辑在确保内容可信度的同时强调了以下特征：<br />同行评审期刊发表</p>
+<p>我们细胞中的 DNA 缠绕在称为组蛋白的蛋白质周围形成核小体，核小体进而组织成染色质。这种结构有助于将遗传物质压缩打包进细胞核内，并影响基因被读取的难易程度以及 DNA 损伤的修复。要理解染色质是如何变化的，需要研究分子层面的运动与相互作用，而这些在实验中往往很难直接捕捉。</p>
+<p>由巴塞罗那生物医药研究所（IRB Barcelona）、剑桥大学、德克萨斯大学西南医学中心以及霍华德·休斯医学研究所领导的国际研究团队开发了 OpenCGChromatin，这是一款发挥“计算显微镜”作用的工具：通过模拟，它使研究人员能够探索染色质如何折叠、其组成部分如何相互作用，以及维持其结构稳定的是哪些作用力。</p>
+<p>“面临的挑战在于如何将单个分子之间的相互作用与更大尺度染色质区段的行为联系起来。该工具允许我们在同一个框架内同时研究这两者，并理解微小的分子变化如何改变 DNA 的组装包装，”该研究的共同负责人、IRB Barcelona 分子建模与生物信息学实验室负责人、ICREA 资深研究员兼巴塞罗那大学教授莫德斯托·奥罗斯科（Modesto Orozco）博士表示。</p>
+<p>共同主持这项研究的剑桥大学教授罗莎娜·科勒帕尔多-格瓦拉（Rosana Collepardo-Guevara）表示：“OpenCGChromatin 的灵感来自于德克萨斯大学西南医学中心及霍华德·休斯医学研究所迈克尔·罗森（Michael Rosen）教授课题组开展的精湛冷冻电子断层扫描（cryo-ET）实验工作，他们与我们共同领导了这项研究。”</p>
+<p>这些研究发现发表在《自然·通讯》（Nature Communications）期刊上。</p>
+<p>该工具将 DNA 和蛋白质的精细表征与更高的计算效率相结合。这使研究人员能够研究比以往具有同等分辨率模型所能处理的大 10 倍以上的染色质系统，其中包括包含数百个核小体（DNA 包装的基本单元）的组装体。</p>
+<p>这些模拟不仅重现了显微镜检查和生物化学实验中的观察结果，还揭示了柔性组蛋白区域的动态运动，而这在实验中是很难解析的。</p>
+<p>“这项研究的第一作者基兰·拉塞尔（Kieran Russell）所取得的成果非常显著。他推动了染色质建模领域的技术前沿，使我们能够在以往难以企及的尺度和分子精细度水平上模拟该系统。</p>
+<p>“我们现在可以将染色质的化学组成与其跨尺度的空间结构联系起来——从分子相互作用到基因大小的结构以及生物分子凝聚体——同时依然紧密依托实验基础。我对此感到非常兴奋，因为 OpenCGChromatin 开启了一个全新的问题领域，我们现在可以通过计算手段来解决这些问题，”科勒帕尔多-格瓦拉说道。</p>
+<p>该论文的另一位作者戴维·法雷-吉尔（David Farré-Gil）解释说：“模拟有助于我们理解为什么改变核小体之间的间距，或者在组蛋白上添加化学修饰，会导致染色质表现出不同的行为。”</p>
+<p>OpenCGChromatin 已作为开源软件发布，供其他研究人员探索基因组结构背后的物理原理。</p>
+<p>Kieran Russell 等人，《近原子级模拟揭示控制染色质结构和相分离的分子机制》，《自然·通讯》（Nature Communications，2026）。DOI: 10.1038/s41467-026-78050-6</p>
+<p>期刊信息：Nature Communications<br />由巴塞罗那生物医药研究所（IRB Barcelona）提供</p>
+<p>英语文学硕士，自 2021 年起担任文字编辑，在高等教育和健康内容领域拥有丰富经验。致力于传播值得信赖的科学新闻。查看完整简介 →<br />数学生物学学士，创意写作硕士。履历丰富，对科学与语言持有独到见解。查看完整简介 →</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>由巴塞罗那生物医药研究所（IRB Barcelona）、剑桥大学、德克萨斯大学西南医学中心和霍华德·休斯医学研究所领导的国际研究团队开发了名为 OpenCGChromatin 的工具。</li>
+    <li>OpenCGChromatin 充当“计算显微镜”，通过模拟让研究人员探索染色质如何折叠、其成分如何相互作用以及维持其结构的作用力。</li>
+    <li>来源叙事重点：重点报道国际科研团队开发的开源计算工具 OpenCGChromatin，强调其在模拟规模上比以往同精度模型提升超10倍的技术突破，以及其连接分子细节与大尺度染色质构象的能力。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ents-without-explanation-5e3ad5613f6edee5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1430" data-content-paragraphs="20" data-published-at="2026-10-08T22:00:53.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:22</span>
+  <span class="news-meta-time">🕒 2026-10-09 06:00</span>
 </div>
 
-### [本周末比赛结束后将揭晓答案的五个大学橄榄球关键问题](https://www.foxnews.com/outkick-sports/five-important-college-football-questions-answered-this-weekends-slate)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Five important college football questions that will be answered after this weekend&#39;s slate</div>
+### [ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”](https://www.foxnews.com/media/abc-news-deletes-hit-piece-trump-sons-pentagon-linked-investments-without-explanation)
+<div class="original-title-sub"><span class="orig-tag">原文</span> ABC News deletes ‘hit piece’ on Trump sons&#39; Pentagon-linked investments without explanation</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/kalen-deboer-alabama-crimson-tide.jpg?ve=1&amp;tl=1" alt="本周末比赛结束后将揭晓答案的五个大学橄榄球关键问题" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/trump-sons.jpg?ve=1&amp;tl=1" alt="ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>大学橄榄球球迷们，不知不觉间，本周末将正式迎来2026年常规赛的半程节点。</p>
-<p>真不敢相信我们居然已经打完了六场比赛，不过我想，快乐的时光总是过得飞快。</p>
-<p>尽管即将到来的这个周末算不上真正意义上的“决胜周六”（separation Saturday），但鉴于比赛的相关背景以及我们目前掌握的大量参考数据，一些疑问将迎刃而解。</p>
-<p>半个赛季通常正是你开始认清各支球队本年度真实水平的节点。</p>
-<p>伪强队会被打回原形，而冠军争夺者则开始脱颖而出并证明自己的身价，2026赛季也不例外。</p>
-<p>所以，请容我梳理本赛季大学橄榄球的五个重要问题，这些问题在周六午夜钟声敲响后就会见分晓。</p>
-<p>当卡伦·德波尔（Kalen DeBoer）离开西雅图来到塔斯卡卢萨执掌红潮队帅印时，外界的普遍共识是，阿拉巴马大学的辉煌岁月还将继续延续。</p>
-<p>【相关阅读：阿拉巴马大学提供对决佐治亚大学的最新情况，校方、SEC联盟与特朗普就飓风“伊萨亚斯”做好应对预案】</p>
-<p>尽管在德波尔执教的两个赛季里，红潮队一直是一支非常出色的队伍，场均拿下10胜且招募评级处于顶尖水平，但他们未能重现此前萨班执教十五年间所达到的统治高度。</p>
-<p>阿拉巴马大学本赛季取得了5胜0负的开局，这是他们自2022年以来的最佳开局，但关于这支球队上限的质疑依然挥之不去。</p>
-<p>他们在客场令人信服地击败了一支全美前25名的密西西比州立大学队，其进攻端在夜间比赛中看似势不可挡；然而，他们此前在主场面对充其量只能算平庸的佛罗里达州立大学队时却险些翻车，防守端漏洞百出。</p>
-<p>如果红潮队本周末能在布莱恩特-丹尼体育场挑落排名全美第二的佐治亚大学，将极大地证明该队正逐步重返萨班在场边督战时的精英统治地位。</p>
-<p>而一场失利或许意味着这台巨大的“深红机器”仍需进一步调试磨合。</p>
-<p>大学橄榄球有时就是如此难以捉摸、变幻莫测。</p>
-<p>上个周末，佛罗里达短吻鳄队带着全美前十的排名和前五的进攻火力造访密苏里州哥伦比亚市。</p>
-<p>结果他们离开“展示之州”（密苏里州）时只能灰溜溜地舔舐伤口，在全美排名和进攻数据上双双暴跌。</p>
-<p>【相关阅读：佛罗里达打出令人印象深刻的进攻表现，爆冷大胜排名第四的密西西比大学】</p>
-<p>佛罗里达队有望冲击海斯曼奖的跑卫贾丹·鲍（Jadan Baugh）本赛季首次单场推进未能破百，短吻鳄队全天地面进攻仅仅拼凑出可怜的42码。</p>
-<p>密苏里老虎队是否已经找到了破解佛罗里达强悍进攻的秘诀？</p>
-<p>短吻鳄队本周末将在“沼泽球场”（The Swamp）迎战南卡罗来纳大学。虽然谁也不会把这支斗鸡队误认为是1985年的芝加哥熊队，但他们在防守前线拥有足够的天赋，完全能给佛罗里达制造不小的麻烦。</p>
-<p>如果佛罗里达在面对南卡罗来纳平庸的防守体系时依然推进维艰，那可能意味着各队已经彻底摸清了进攻协调员巴斯特·福克纳（Buster Faulkner）的战术底细。</p>
-<p>说到斗鸡队，全美恐怕没有哪位主教练的帅位比南卡罗来纳主帅谢恩·比默（Shane Beamer）更加岌岌可危了。</p>
-<p>我和多位对该橄榄球项目颇为了解的人士聊过，他们告诉我，主场输给肯塔基大学原本可能就已经注定了比默的命运。</p>
-<p>然而，周日早上醒来发现他居然还没下课，着实让我感到震惊，但我认为这绝不是因为我得到了假消息。</p>
-<p>如果在“沼泽球场”输给佛罗里达，斗鸡队的战绩将跌至2胜4负，如果输得格外难看，比默可能赛后就得直接被送到最近的公务机场自己想办法回家了。</p>
-<p>以南卡罗来纳这套阵容所具备的天赋，2胜4负的战绩绝不可能让比默保住饭碗。如果换帅的齿轮已经开始转动，我认为他绝无可能撑过这个周末。</p>
-<p>斗鸡队很可能会迎来潜在首轮秀迪伦·斯图尔特（Dylan Stewart）的复出以加强传球施压，虽然这在场上会有所帮助，但我怀疑这对这位深陷危机的功勋主帅场外的命运起不到任何挽救作用。</p>
-<p>周六在沼泽球场的比赛，无论输赢，都可能是比默的谢幕演出。</p>
-<p>印第安纳山民队在2025赛季创造了历史，打出了16胜0负的惊人战绩，在竞争激烈的大学橄榄球季后赛中一路摧枯拉朽，斩获了校史首座全国冠军奖杯。</p>
-<p>遗憾的是，那是去年的事了，2026版的山民队看起来与2025年的那支队伍判若两队。</p>
-<p>平心而论，除了与实力超出预期的西北大学队打了一场险胜之外，印第安纳本赛季几乎没有打过任何有分量的对手。</p>
-<p>周六对阵内布拉斯加大学的比赛应该有助于我们回答这个问题：山民队到底是否配得上名字旁边的那个排名数字，还是说他们现在的排位完全是吃去年的老本。</p>
-<p>尽管笑好了，但内布拉斯加玉米剥皮机队必将给印第安纳带来严峻的考验，尤其是对其防守端。</p>
-<p>内布拉斯加的进攻展现出了很久未见的出色状态，在迎战卫冕冠军之前，他们刚刚横扫了两支同联盟对手。</p>
-<p>如果山民队周六在林肯市陷入苦战，那可能意味着主教练柯特·西格内蒂（Curt Cignetti）的队伍今年根本还没有做好卫冕全国冠军的准备。</p>
-<p>【克雷格·卡顿秀——毫无滤镜、毫不妥协、不容错过。立即下载每日播客！】</p>
-<p>加州大学洛杉矶分校（UCLA）棕熊队跻身美联社排名前25位。</p>
-<p>请先好好消化一下这个事实，因为在当今时代，棕熊队在橄榄球领域能排到全美前25附近是极其罕见的事情。</p>
-<p>但在首年执教的主帅鲍勃·切斯尼（Bob Chesney）手下，这一切似乎正在改变——早在赛季开始前我就提醒过大家要密切关注他。</p>
-<p>棕熊队刚刚在客场彻底击溃了马里兰大学，虽然水龟队称不上什么超级强队，但能在客场面对联盟对手狂砍54分，无论怎么看都是一项了不起的成就。</p>
-<p>诚然，UCLA本赛季迄今为止的赛程含金量并不算高，但本周末当棕熊队造访奥特岑体育场挑战俄勒冈大学时，这一切都将迎来终极检验。</p>
-<p>俄勒冈鸭队本赛季开局不利，但反弹势头相当不错，看起来已经重回争夺十大联盟（Big Ten）冠军的正轨。</p>
-<p>如果切斯尼和棕熊队能在周六拿下这场比赛，哪怕只是紧咬比分惜败，都将有力地向世人证明，他们2026赛季的火热开局绝非虚妄的幻象。</p>
-<p>在尤金市取得一场代表性胜利将对UCLA的招生大有裨益——距离正式签约日仅剩数月，他们的招募形势本就大好——而这也可能让棕熊队在争夺十大联盟冠军的竞争中抢占先机。</p></div>
+<div class="article-body" data-article-body="true"><p>在面临法律诉讼威胁后，美国广播公司新闻网（ABC News）周四删除了批评唐纳德·特朗普总统的大儿子小唐纳德·特朗普和埃里克·特朗普商业交易的报道，但并未对这篇凭空消失的“抹黑报道”提供任何解释或编者注。</p>
+<p>这篇现已被删除的报道仍可通过互联网档案机构的“时光机”（Wayback Machine）查阅。该报道于周三发表，标题为《特朗普儿子投资的企业自其胜选以来已获得数十亿美元五角大楼合同》，报道称投资巴尔的摩新造船厂的安杜里尔公司（Anduril）与小唐纳德·特朗普和埃里克·特朗普有关联。</p>
+<p>ABC新闻在被删文章中报道称：“1789资本（1789 Capital）——一家将小唐纳德·特朗普列为三位创始人之外的六名合伙人之一的风投公司——在2025年6月向安杜里尔公司投资25亿美元后，声称持有该公司的大量股份。”</p>
+<p>特朗普在价值数十亿美元的扩大美国潜艇生产计划中转向新兴科技巨头</p>
+<p>“根据美国政府官方承包系统SAM.gov上公布的有效防务合同，自那笔投资以来，安杜里尔已获得美国政府授予的其他135项合同，迄今已从这些协议中获得约18亿美元。”“该公司是获得小唐纳德·特朗普及其弟弟埃里克·特朗普投资的最大制造商之一，但并非唯一一家。”</p>
+<p>1789资本发言人、国家情报总监前幕僚长亚历克萨·亨宁（Alexa Henning）在社交媒体上发文，坚称该公司并不持有安杜里尔的“大量股份”，并痛斥这篇“带有偏见的抹黑报道”。</p>
+<p>“这里有个浅显的常识，我也向ABC解释过，那个纯粹是蠢货的‘记者’把募资与1789资本的投资混为一谈了。这是两码事，”亨宁写道。</p>
+<p>“意思是说，报道中提到的‘投资’实际上是一轮融资募集的总金额，有许多家公司参与其中，”亨宁继续说道，“记者刻意隐瞒的另一个关键事实是，其中许多公司在拜登和特朗普任内都获得过政府合同，这完全推翻了ABC关于小唐纳德和埃里克·特朗普有不当行为的断言。”</p>
+<p>贾里德·库什纳痛斥CNN报道“严重误导”，称关键信息被隐藏在付费墙后</p>
+<p>不久之后，ABC新闻从其网站上删除了该报道。原报道链接目前显示：“该页面不存在或当前不可用。”</p>
+<p>ABC新闻没有立即回应置评请求。该电视网尚未发布更正说明，也未就为何从网站上撤下报道公开给出解释。</p>
+<p>ABC新闻还删除了一条用于宣传该报道、且被多位民主党知名人士转发的社交平台X热门推文。</p>
+<p>在ABC新闻删除报道后，亨宁接受了福克斯新闻数字频道的采访。她表示，除了在X上公开谴责该报道外，她还向ABC新闻发送了详细邮件，指出报道中的错误，并告知这家归迪士尼所有的电视网：如果不采取行动，律师将会介入。</p>
+<p>她“非常感谢他们将其撤下”，但希望他们明确解释当初为何发表该报道，并认为ABC新闻应当向读者告知其所犯错误。</p>
+<p>《纽约时报》将特朗普家族与政府支持交易挂钩的“诽谤性”报道引发法律交涉</p>
+<p>亨宁还告诉福克斯新闻数字频道，尽管最初报道中多次提及1789资本，但ABC新闻在初次发表该文章前从未向1789资本征求置评。</p>
+<p>“报道1789资本的大多数人从根本上就不理解其运作模式，”她说。</p>
+<p>文章被删除后，小特朗普回应了在X上转发过ABC最初报道的加利福尼亚州州长加文·纽森。</p>
+<p>“ABC在不到24小时内就删除了这篇文章，因为它是假的。这听起来和你总统竞选能维持的时间差不多长，”小特朗普写道。</p>
+<p>福克斯新闻数字频道的摩根·菲利普斯（Morgan Phillips）对本报道亦有贡献。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-09 00:22 发布，当前内容状态：已取得正文证据</li>
+    <li>ABC News 在周四删除了其批评唐纳德·特朗普长子小唐纳德·特朗普和埃里克·特朗普商业往来的报道，并且未提供任何解释或编者按。</li>
+    <li>被删除的 ABC News 报道于周三发表，标题为《Trump sons&#39; investments have won billions in Pentagon contracts since his election》。</li>
+    <li>来源叙事重点：聚焦 ABC News 在面临法律威胁后悄悄撤下批评特朗普儿子商业投资的报道且未作任何说明；强调 1789 Capital 对 ABC 报道存在事实混淆的指控，凸显主流媒体针对特朗普家族的报道不实与政治偏见</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/media/abc-news-deletes-hit-piece-trump-sons-pentagon-linked-investments-without-explanation" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-e-a-major-mobile-carrier-b66c80208096c7ae" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="638" data-content-paragraphs="1" data-published-at="2026-10-08T21:23:31.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:23</span>
+</div>
+
+### [SpaceX 宣布计划成为“主要移动运营商”](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier)
+<div class="original-title-sub"><span class="orig-tag">原文</span> SpaceX announces plan to become a ‘major mobile carrier’</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="SpaceX 宣布计划成为“主要移动运营商”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该话题的文章将被添加到您的每日邮件摘要和主页推送中。<br />SpaceX 抢购了低频段频谱，意图与 T-Mobile、AT&amp;T 和 Verizon 展开竞争。<br />来自该作者的文章将被添加到您的每日邮件摘要和主页推送中。<br />查看 Emma Roth 的全部内容<br />SpaceX 已经收购了一组低频段频谱许可——该公司表示，此举将为其“星链移动”（Starlink Mobile）服务成为美国“主要”运营商“铺平道路”。SpaceX 表示，一旦美国联邦通信委员会（FCC）批准该交易，它将部署其将卫星直连手机星座与地面移动网络相结合的新架构，直接与 T-Mobile、AT&amp;T 和 Verizon 展开竞争。<br />这些许可包括 800 MHz 频段中高达 14 兆赫兹的成对频谱，SpaceX 称这将使星链移动的信号能够穿透墙壁和建筑物。此前，作为加强其直连设备（direct-to-device）服务努力的一部分，SpaceX 还从 EchoStar 收购了 2GHz 频谱。<br />据 SpaceX 称，FCC 还批准了部署 15,000 颗 V2 星链移动卫星的计划，这些卫星提供的带宽将是当前一代的 100 多倍。“凭借这一全新低频段频谱和我们的第二代星座，星链移动现在可以成为第一家同时部署卫星和地面频谱的网络运营商，”SpaceX 表示。“这是一个为美国人提供在室内、室外、蜂窝盲区以及介于两者之间的任何地方都能享受可靠服务的网络。”<br />一份免费的每日最重要新闻摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>SpaceX收购了一组低频段频谱许可，包含800 MHz频段中高达14 MHz的成对频谱。</li>
+    <li>SpaceX此前从EchoStar收购了2GHz频谱，以支持其直连设备（direct-to-device）服务。</li>
+    <li>来源叙事重点：聚焦SpaceX通过收购800 MHz低频段频谱并结合二代星链卫星网络，进军地面移动通信市场、直接挑战美国传统三大电信巨头的战略野心与网络部署计划</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ss-dream-wnba-semifinals-247e0a74fd9c0419" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1553" data-content-paragraphs="20" data-published-at="2026-10-08T22:00:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 06:00</span>
+</div>
+
+### [加时惜败梦想队后自由人队就重置暂停争议向联盟提出正式质询](https://www.foxnews.com/outkick-sports/liberty-official-inquiry-reset-timeout-dispute-overtime-loss-dream-wnba-semifinals)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Liberty make official inquiry into reset timeout dispute after overtime loss to Dream in WNBA semifinals</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/new-york-liberty-huddle-atlanta-dream.jpg?ve=1&amp;tl=1" alt="加时惜败梦想队后自由人队就重置暂停争议向联盟提出正式质询" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>周三晚，亚特兰大梦想队在加时赛中以101-98力克纽约自由人队，在半决赛系列赛中取得2-0的绝对领先优势，距离晋级WNBA总决赛仅差一场胜利。</p>
+<p>然而，第二场比赛富有戏剧性的收官却因争议蒙上了阴影。纽约队球星布里安娜·斯图尔特（Breanna Stewart）表示，在比赛最后关头，裁判错误地告知自由人队没有可用的重置暂停（reset timeout），尽管球队当时实际上还有一个剩余。</p>
+<p>“这不是在责怪裁判，但是当我在最后问两位裁判我们是否有重置暂停，而他们告诉我们没有，最后我们却带着重置暂停结束了比赛，这真的让人非常沮丧，”斯图尔特在赛后对记者说道。</p>
+<p>【加时赛取胜后，梦想队距2013年以来首次打进WNBA总决赛仅差一胜】</p>
+<p>根据联盟规则，每支球队在加时赛中拥有两次常规球队暂停和一次重置暂停，后者允许球队在不进行场边战术商讨的情况下直接推进前场发球。</p>
+<p>斯图尔特随后继续说道：“我问了凯文[法希，Kevin Fahy]。我说：‘我们有重置暂停吗？’他说：‘我去记录台确认一下。’然后他看向[主裁判]法图[西索科-斯蒂芬斯，Fatou Cissoko-Stephens]，她说：‘没有。’于是他就转头告诉我：‘没有。’”</p>
+<p>纽约队在比赛尾声的一次失误给了亚特兰大锁定胜局的机会。2026年WNBA年度最佳防守球员安吉尔·里斯（Angel Reese）走上罚球线并两罚全中，将梦想队的领先优势扩大到3分。自由人队从己方篮下发界外球并将球交到斯图尔特手中，但随着计时器归零，她的绝望出手未能命中。</p>
+<p>【开赛仅一周，WNBA的裁判体系改革已引发球员和教练的抱怨】</p>
+<p>“当然，谁知道如果那样比赛会怎样结束呢，”斯图尔特说，“但我们本有望获得一个更好的出手机会。”</p>
+<p>赛后大约两个小时，裁判才接受媒体联合采访。ESPN在联合采访中询问主裁判法图·西索科-斯蒂芬斯，为何斯图尔特会表示自己被告知自由人队没有重置暂停。</p>
+<p>“斯图尔特当时站在裁判法希身后，法希在里斯执行罚球间隙已与搭档确认，纽约队确实还有一个重置暂停剩余，”她表示。</p>
+<p>据ESPN援引消息人士报道，该争议已促使自由人队就这一情况正式向联盟提出质询。</p>
+<p>当被问及是否不知晓球队拥有可用的重置暂停时，自由人队主教练克里斯·德马科（Chris DeMarco）回答道：“是的，情况一样。他们就是告诉我们没有了。多名教练组成员[都听到了]。事情已经发生了。我们必须提出更高的要求。但现实就是如此。”</p>
+<p>梦想队主教练卡尔·斯梅斯科（Karl Smesko）也被问及自由人队剩余暂停数量的问题。</p>
+<p>“我当时认为他们还剩一个暂停，”斯梅斯科说，“但他们是那样打完比赛的。所以我原本以为他们会推进前场发球，但他们没有，所以我们只能继续防守，幸运的是我们成功完成了防守。”</p>
+<p>西索科-斯蒂芬斯补充表示，记录台和数据统计人员会跟进可用暂停的次数，但强调“球队有责任在整场比赛中管理和跟踪自己的暂停使用情况”。</p>
+<p>在关键时刻拥有球权时，自由人队并未能把握住机会。在加时赛还剩不到10秒时，约内斯库（Ionescu）在突破时失去控球权导致出界。约内斯库对这一致命失误承担了责任。</p>
+<p>“我告诉大家这是我的错，”她说，“我为此负责。这场失利怪我。我必须坦然面对，并且我必须表现得更好。”</p>
+<p>亚特兰大队展现了深厚的阵容深度，共有六人得分上双，其中里斯和乔丁·加拿大（Jordin Canada）各得23分领衔全队。梦想队的头号得分手阿里莎·格雷（Allisha Gray）因手指受伤缺席了本场比赛。</p>
+<p>若想成为WNBA历史上首支在0-2落后情况下翻盘赢得五局三胜制季后赛系列赛的球队，自由人队必须克服前所未有的困难局面。第三场比赛定于周五晚进行，届时系列赛将移师纽约布鲁克林。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>亚特兰大梦想队在周三晚上的加时赛中以101-98击败纽约自由人队，在WNBA半决赛系列赛中取得2-0的领先优势。</li>
+    <li>根据联盟规则，每支球队在加时赛中获得两个球队暂停和一个重置暂停（reset timeout），允许球队在不进行场边暂停讨论的情况下推进球权位置。</li>
+    <li>来源叙事重点：聚焦WNBA半决赛G2加时赛关键时刻的裁判争议，报道纽约自由人队因误被告知无重置暂停而错失前场推进机会，以及球队随后的正式申诉与各方截然不同的责任表述</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/liberty-official-inquiry-reset-timeout-dispute-overtime-loss-dream-wnba-semifinals" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-helds-by-the-end-of-2026-0105171d2f47a0c3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="978" data-content-paragraphs="9" data-published-at="2026-10-08T21:01:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:01</span>
+</div>
+
+### [AMD 将在 2026 年底前将 FSR 4 引入掌机](https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AMD will bring FSR 4 to handhelds by the end of 2026</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="AMD 将在 2026 年底前将 FSR 4 引入掌机" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。<br />但现有掌机是否会获得该技术？<br />该作者的帖子将添加到您的每日电子邮件文摘和主页推送中。<br />查看肖恩·霍利斯特（Sean Hollister）的所有文章</p>
+<p>尽管早在 Steam Deck 这样旧的掌机上就已经可以体验到 AMD 提升帧率的 FSR 4 增益——但在 6 月份，AMD 曾保留了让掌机玩家失望的权利，即不在官方层面向较旧的掌机提供 FSR 4。如今，AMD 消费级芯片业务主管 Jack Huynh 表示，他将在今年年底前将这项技术引入部分掌机。</p>
+<p>具体是哪些掌机？目前仍不清楚它是会登陆现有掌机，还是需要购买新掌机才能获得——因为该消息伴随着 AMD 即将发布支持 FSR4 的新芯片的新闻一同传出。</p>
+<p>“我们将在今年年底前，把最初引入现有独立显卡的基于机器学习 AI 的 FSR4 技术，拓展至包括 APU、游戏笔记本电脑和掌上设备在内的整个产品线，”Huynh 在接受韩国媒体 The Elec 采访时表示（经由谷歌翻译）。“我们计划从两个方向应对：推出适配现有 APU 的方案以及新产品线。”</p>
+<p>The Elec 表示，这意味着今年年底前将同时推出一款全新 APU，以及一个面向 APU 的轻量化 FSR4 模型。（此前，AMD 仅承诺为台式机显卡提供 FSR4，而非面向笔记本电脑和掌机的 APU。）但 The Elec 似乎并未明确说明该轻量化 FSR4 模型是否会专门登陆掌机。也许它需要 AMD 被曝光的即将推出的 Ryzen Z3 和/或“Gainsborough”掌机芯片支持。</p>
+<p>此前在 AMD 给现有掌机支持 FSR 4 的想法浇冷水时，高管 David McAfee 曾向 Tom&#39;s Guide 表示，“我们希望确保体验和质量达到预期”，并且 AMD 需要“在该产品中拥有足够的算力”才能使 FSR 4 具有实际意义。也许某些较旧的笔记本电脑芯片符合要求，而某些较旧的掌机芯片则不符合。</p>
+<p>Valve 曾表示正在与 AMD 合作，将 FSR 4 引入 Steam Machine 的主机级 AMD APU 中，但尚未对 Steam Deck 掌机作出同样的承诺。</p>
+<p>AMD 未立即回应澄清 Huynh 发言的请求。</p>
+<p>免费获取每日重要新闻文摘。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>AMD 消费级芯片主管 Jack Huynh 表示，公司计划在今年年底前将基于机器学习 AI 的 FSR 4 技术扩展至 APU、游戏笔记本和掌机设备等产品线。</li>
+    <li>Jack Huynh 透露 AMD 计划从两个方向推进：现有 APU 和新产品线。</li>
+    <li>来源叙事重点：聚焦 AMD 高管关于 FSR 4 即将拓展至掌机设备的最新表态，重点审视该技术究竟能否向后兼容现役老款掌机设备（如 Steam Deck），还是需要依赖新款芯片/硬件升级，并指出官方措辞模糊与未予澄清的问题。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-abs-2610-08144-d9ae5a9e80693cef" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="549" data-content-paragraphs="1" data-published-at="2026-10-08T17:16:42.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 01:16</span>
+</div>
+
+### [纳维-斯托克斯方程“迷失在翻译中”：为何AI自动形式化的Lean验证不能保证自然语言证明的正确性](https://arxiv.org/abs/2610.08144)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs</div>
+
+<div class="article-body" data-article-body="true"><p>自动形式化（Autoformalisation）正越来越多地被用于验证数学文本，包括那些由人工智能生成的文本，正如 OpenAI 宣布的关于纳维-斯托克斯方程解的爆破解（blow-up）的证明。在这一过程中，AI 系统将文本从自然语言（NL）翻译为诸如 Lean 之类的形式化语言。一旦完成该翻译，形式化语言中表达的论证便能轻易地进行机械验证。本文旨在论证为何这一过程可能完全无法为原始自然语言论证提供可信度，其根源在于进行语义保真翻译时所面临的种种困难。特别是，我们强调，为了提供语义保真的翻译而必须解决的数学自然语言文本歧义消除问题，在可解性复杂度指数（Solvability Complexity Index, SCI）谱系/算术谱系中处于任意高位（SCI = ∞）。因此，通俗而言，提供语义保真的 AI 自动形式化比包括停机问题（其 SCI = 1）在内的任何计算问题都要更难。为了展示这一结果的影响，我们提供了实践中 AI 将自然语言陈述与证明错误翻译为 Lean 的若干实例，这些错误导致了自然语言证明与其 Lean“验证”之间的不匹配。其中包括 OpenAI 宣布的纳维-斯托克斯方程证明。具体而言，我们证明了该形式化 Lean 证明与纳维-斯托克斯方程解爆破的自然语言证明并不对应。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>自动形式化（Autoformalisation）正越来越多地用于验证数学文本，包括AI生成的文本，例如OpenAI宣布的纳维-斯托克斯方程解的爆破解证明。</li>
+    <li>在自动形式化过程中，AI系统将文本从自然语言翻译为如Lean等形式语言，随后该形式语言表达的论证可被机械验证。</li>
+    <li>来源叙事重点：聚焦AI将自然语言数学论证自动形式化（如翻译为Lean语言）并进行验证的方法论缺陷，强调自然语言数学歧义消解在理论上属于不可计算问题（SCI = ∞），并以OpenAI宣布的纳维-斯托克斯方程解爆破证明为例，揭示形式化证明与原自然语言证明之间存在脱节与误译</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://arxiv.org/abs/2610.08144" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-esisting-linguistic-html-81c8dc441a1b727a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2849" data-content-paragraphs="20" data-published-at="2026-10-08T22:00:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 06:00</span>
+</div>
+
+### [巴伐利亚的祖传语言：抵抗语言灭绝](https://phys.org/news/2026-10-bavaria-ancestral-languages-resisting-linguistic.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Bavaria&#39;s ancestral languages: Resisting linguistic genocide</div>
+
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/bavarias-ancestral-lan.jpg" alt="巴伐利亚的祖传语言：抵抗语言灭绝" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>2026年10月8日 交流<br />编辑：Lisa Lock，审校：Robert Egan<br />本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：<br />由研究人员撰写</p>
+<p>我的祖传语言——巴伐利亚语（Boarisch / Bavarian）和施瓦本语（Schwäbisch / Swabian），常被描述为德语方言。这听起来或许像是一个纯粹的技术性语言学区分。但对我这位巴伐利亚-施瓦本人（Boarisch-Schwob）学者兼群体成员而言，这引发了一个现实问题：当一个民族承载着自身认同与“世界观”（Weltanschauung）的祖传语言，因现代国家和主流文化将其贬低为方言而被排除在欧洲语言条约的保护之外时，这个民族将会遭遇什么？</p>
+<p>在我最近发表于《国际文化财产杂志》（International Journal of Cultural Property）的开放获取文章中，我探讨了语言分类如何塑造文化与人权。结合语言学专家报告、欧洲及联合国框架以及我个人的倡导经历，我认为，政府所使用的分类标准在很大程度上决定了哪些语言能获得支持，哪些语言的衰落却无人问津。</p>
+<p>德国依据欧洲委员会的条约《欧洲区域或少数民族语言宪章》，将低地德语（Plattdeutsch / Low German）作为区域语言予以保护。然而，巴伐利亚语和施瓦本语仍被排除在该保护之外。该宪章将国家官方语言的方言排除在外，因此，界定何为“语言”对于制度性支持和国际监督具有重大影响。</p>
+<p>我所分析的语言学专家报告对这种排除提出了质疑。这些报告描述了具有独立语法、词汇和文学传统的历史性语言系统。语言学家 Hannes Scheutz 将巴伐利亚语的文字历史追溯至约公元800年，比现代标准德语的出现早了数个世纪。在我的分析中，将其视为标准德语的非正式分支不仅掩盖了这段历史，更代表了一种隐蔽的政治文化治理形式，以及一种压制、同化与抹杀的策略。</p>
+<p>国际语言目录也将巴伐利亚语和施瓦本语分别列为独立语言。甚至联合国教科文组织的《世界濒危语言地图》也将巴伐利亚语以及涵盖施瓦本语的更大语群列为濒危语言。然而，这种国际分类并未使它们获得德国宪章的保护。在国际上被记录为独立语言，并不能自动确保其在国家层面或欧洲范围内获得该等保护。</p>
+<p>一门语言可能因日常的制度性决策而失去生存空间。来自国家和学校的有限支持、标准语在公共生活中的主导地位，以及针对母语使用者的污名化和歧视，都让祖传语言的传承变得更加艰难。家庭可能会逐渐将祖传语言与劣势联系在一起，而将主流语言与机遇画上等号。</p>
+<p>借鉴有关“语言灭绝”（linguicide，即对语言的摧毁）的学术研究，我将这些累积的压力描述为“结构性语言灭绝”。这一过程通过教育、行政分类和不平等的制度支持而运作。即便在公共机构颂扬地方传统的地区，其影响也可能长期存在。</p>
+<p>仅凭统计祖传语言使用者的数量无法解释这些压力。我们还需要了解人们可以在何处使用自己的语言，以及是什么让传承变得更加困难。一门语言的生存取决于人们“生活于其中”的机会。</p>
+<p>对于我们巴伐利亚-施瓦本民族而言，语言承载着集体记忆、与故土的联结以及理解世界的方式。它的受蚀削弱了维系一个民族自我记忆并向下一代传授自身认同的纽带。</p>
+<p>我通过“第四世界”（Fourth World）框架来理解我们的原住民属性：即在不具备国际公认主权的国家内部延续的、具有历史连续性和独特文化的民族。我们的“原初部族”（Altstämme，或译原始民族）早于现代德国而存在。这一视角有助于解释：一个民族何以在制度将其认同贬低为地方范畴的同时，依然得以延续。</p>
+<p>我们的历史不同于海外“新世界”定居者殖民社会中的原住民族。在巴伐利亚-施瓦本案例中，我探讨了政治整合与同化如何影响了我们持续存在的民族性，以及语言分类如何促使体制对这一事实视而不见。</p>
+<p>2025年，我向联合国发展权特别报告员苏里亚·德瓦（Surya Deva）提出了语言排除的问题。他在随后关于德国的报告中列出了获承认的少数民族语言，但未提及我们的巴伐利亚-施瓦本民族或我们的语言。</p>
+<p>针对文化权利领域的联合国特别报告员亚历山德拉·桑塔基（Alexandra Xanthaki）2026年关于评估文化权利的研究，我就该议题提交了进一步意见。我的担忧很简单：如果监测只考察已经在官方名单上的语言，那么那些被遗漏的语言可能永远得不到评估。缺失的数据可能会掩盖对文化和人权的侵犯。</p>
+<p>我还在国际遗产体系内倡导保护我们的祖传语言。在联合国教科文组织 MONDIACULT 2025 大会上展出的一份国际古迹遗址理事会（ICOMOS）原住民遗产工作组海报中，我被称为“德国，原初部族（原始民族），巴伐利亚-施瓦本人”。对我而言，这张海报的意义在于使我们的民族身份在国际文化政策场合变得可见。大会对文化权利和语言多样性的更广泛承诺，使落实问题变得尤为紧迫。</p>
+<p>在我的祖传语言倡导工作中，我建议提出以下问题：儿童是否正在学习和使用祖传语言，学校和公共机构是否予以支持，以及社区是否能够对决策和资源分配施加影响。受邀发言只是参与的一部分。评估工作还必须审查所使用的分类标准是否在统计开始之前就已经排除了相应的人群和语言。</p>
+<p>对我而言，抵抗结构性语言灭绝意味着确保我们的祖传语言能够作为日常生活的一部分延续下去的条件。使用并传承我们的语言，本身就是复兴与坚守的行动。孩子们应当能够学习和使用巴伐利亚语与施瓦本语，而不必为了在学校取得成功而抛弃它们。</p>
+<p>“Miar blaibet miar. Miar schwäzat unsa Schproch.”<br />我们依然是我们。我们说我们的语言。</p>
+<p>本报道属于 Science X Dialog 的一部分，研究人员可在此报告其已发表研究论文的成果。请访问此页面了解有关 Science X Dialog 以及如何参与的信息。<br />Simon Kieser，语言即民族：通过联合国倡导抵制文化抹杀，《国际文化财产杂志》（2026年）。DOI: 10.1017/s0940739126100551<br />艺术史学士，物质文化硕士。曾任博物馆编辑、护理人员及器官移植协调员。自2021年起担任 Science X 编辑。完整个人资料 →</p>
+<p>拥有数学生物学学士学位、创意写作硕士学位。游历丰富，对科学与语言持有独到见解。查看完整简介 →<br />西蒙·基泽（Simon Kieser）是一位巴伐利亚-施瓦本（Boarisch-Schwob）学者，也是一名人权与环境律师。他是悉尼大学原住民研究中心（Indigenous Research Hub）的研究员，剑桥大学土地经济系的访问学者兼研究生导师，以及惠灵顿维多利亚大学的助教兼博士候选人。他同时担任国际古迹遗址理事会新西兰分会（ICOMOS New Zealand）理事。他的研究重点为原住民族权利、遗产治理及文化权利。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>德国在欧洲委员会条约《欧洲区域或少数民族语言宪章》下将低地德语（Plattdeutsch）保护为区域语言，而巴伐利亚语（Boarisch）和施瓦本语（Schwäbisch）未被纳入该保护范围。</li>
+    <li>语言学家 Hannes Scheutz 将巴伐利亚语的文字历史追溯到约公元800年，早于现代标准德语出现数个世纪。</li>
+    <li>来源叙事重点：批评德国政府与欧洲制度将巴伐利亚语和施瓦本语归类为‘德语方言’而非独立语言，指控这一行政分类导致其被排除在《欧洲区域或少数民族语言宪章》保护之外，构成‘结构性语言灭绝’（structural linguistic genocide）；主张借助‘第四世界’原住民框架与联合国人权机制重新界定该群体的语言与文化权利。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-10-bavaria-ancestral-languages-resisting-linguistic.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-cal-fights-divide-people-0a2731c865ccf9a8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1582" data-content-paragraphs="28" data-published-at="2026-10-08T21:58:28.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:58</span>
+</div>
+
+### [格伦·鲍威尔不想参与分裂人们的政治争斗](https://www.foxnews.com/entertainment/glen-powell-wants-no-part-political-fights-divide-people)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Glen Powell wants no part of political fights that divide people</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/glen-powell-golden-globe-awards-beverly-hilton.jpg?ve=1&amp;tl=1" alt="格伦·鲍威尔不想参与分裂人们的政治争斗" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>格伦·鲍威尔完全不想卷入好莱坞的政治风暴。</p>
+<p>这位《壮志凌云：独行侠》明星谈到了自己决定置身政治之外的原因，以及为什么他认为日益加剧的分裂几乎让人们不可能进行健康的对话。</p>
+<p>鲍威尔告诉《时尚先生》：“随着时间推移，我意识到政治会分裂人们。人们试图证明自己的观点——对我来说，这是最糟糕的一种对话。我真的不喜欢这种言论环境。它已经不像过去那么健康了。”</p>
+<p>道恩·“巨石”·强森拒绝好莱坞的政治执念，抨击名人攻击文化</p>
+<p>对鲍威尔而言，参与政治“目前是不可能的”。</p>
+<p>他补充说：“我为那些投身其中、为自己的信念而斗争的人鼓掌。如果我是一个热衷政治的人，我会谈论这些。对我来说，我的使命在别处。”</p>
+<p>鲍威尔不愿涉足政治，可以追溯到他的成长经历。</p>
+<p>尽管他的母亲曾在美国财政部里根政府任职，这位演员说，政治和时事并不是他们家餐桌上经常讨论的话题。</p>
+<p>他在此前接受《卫报》采访时也表达过类似看法。</p>
+<p>他在2025年10月说：“我不是一个政治化的人。我喜欢能把人们团结在一起的事物。”</p>
+<p>多莉·帕顿数十年来拒绝选择政治立场：“我不参与政治，我是一名艺人”</p>
+<p>随着政治日益分裂观众，就连好莱坞最大的明星也发现，要讨好所有人变得越来越困难。鲍威尔谈到了娱乐作品是否仍能团结美国人，以及动作电影是否已成为人们摆脱政治分裂的最后几个避风港之一。</p>
+<p>他补充说：“这是个很好的观点。动作片有一种普世语言，这也是为什么这些电影在国际上也能很好地传播。《奔跑者》讲的是某种普世的东西——你愿意为所爱的人做到什么程度？但它也讲述了人们面对一个感觉越来越不平等、越来越不公正的世界时，可能产生的无力感。”</p>
+<p>他补充说：“所以，你不会看到我谈论政治。但电影——这就是我表达自己的方式。电影是一种对话；而政治在我看来总像是两个人试图证明自己有道理。”</p>
+<p>点击这里，即可将娱乐圈独家消息直接发送到你的邮箱</p>
+<p>凭借在《壮志凌云：独行侠》《只想爱你》和《龙卷风》中的亮眼表现，鲍威尔已经成为好莱坞最具辨识度的男主角之一。</p>
+<p>但他的成名并非一夜之间。</p>
+<p>在他苦苦挣扎了十年、努力叩开演艺圈大门的过程中，曾有一位选角导演告诉他，如果能在《犯罪现场调查》中“饰演一具尸体”，他就该感到幸运了。</p>
+<p>他在参加《CBS今晨》节目时说：“有一段时间我意识到，表演并不是一场唯才是举的竞争。仅仅因为你走在一条更漫长的时间线上，并不意味着事情就一定会成功，对吧？还有很多其他更强大的力量在发挥作用。”</p>
+<p>喜欢这篇文章？点击这里查看更多娱乐新闻</p>
+<p>他补充说：“一路上那些关于学习如何发展项目、筹集资金和写作的种种迂回经历——所有这些如今都在把我带到一个位置，让我可以将这些武器尽数掌握在自己手中。”</p>
+<p>这位好莱坞万人迷在2026年延续了自己的强劲势头：他与玛格丽特·库里共同出演了黑色喜剧惊悚片《如何制造一场谋杀》，随后又在《超级马里奥银河大电影》中为福克斯·麦克劳德配音。</p>
+<p>这位出生于得克萨斯州的明星正在为两部重磅的2027年作品做准备，其中包括贾德·阿帕图执导的喜剧片《东山再起之王》，以及J·J·艾布拉姆斯执导的科幻冒险片《大远方》。（片名均为暂译）</p>
+<p>测试你的娱乐知识，看看你能得多少分</p>
+<p>工作之外，鲍威尔与《土地人》明星米歇尔·兰道夫开始了一段旋风般的恋情。</p>
+<p>他告诉《时尚先生》：“我们俩的生活节奏都很快，而且拥有相同的价值观。她热爱自己的家人，我也热爱我的家人。我们都非常重视工作，也都喜欢为伴侣投入时间和精力。但与此同时，我们也理解如何在这一切之间取得平衡。”</p>
+<p>尽管两位明星都在兼顾繁忙的事业，鲍威尔明确表示，有一个能够理解好莱坞压力的人，只是其中一部分。</p>
+<p>他告诉该媒体：“有人为你加油，是一件非常美好的事。有人希望你以一切对你这个人有益的方式取得成功，而不仅仅是在职业上，也包括所有有益于你灵魂的方面。”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-09 05:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/glen-powell-wants-no-part-political-fights-divide-people" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ash-disney-spouse-travel-8ccbd38d63747c0a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3480" data-content-paragraphs="26" data-published-at="2026-10-08T21:51:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:51</span>
+</div>
+
+### [曾指责对手靠捐款过“好日子”的民主党人，却把竞选资金花在迪士尼和配偶旅行上](https://www.foxnews.com/politics/dem-ripped-rivals-donor-fueled-good-life-dropped-campaign-cash-disney-spouse-travel)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dem who ripped rival’s donor-fueled &#39;good life&#39; dropped campaign cash on Disney, spouse travel</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/vicente-gonzalez-abu-dhabi-yacht-edited-3-front-page.jpg?ve=1&amp;tl=1" alt="曾指责对手靠捐款过“好日子”的民主党人，却把竞选资金花在迪士尼和配偶旅行上" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>一名众议院民主党议员指责一名共和党竞争对手靠捐款过“好日子”，此前后者的竞选团队被曝在迪士尼世界有支出；据称，她大约在同一时间还被人看到从这座主题公园返回。</p>
+<p>但得克萨斯州民主党众议员文森特·冈萨雷斯（Vicente Gonzalez）本人的记录显示，大约在同一时期，他与妻子多次出行，包括他本人前往迪士尼世界、入住阿联酋海滨一家五星级酒店，以及在苏黎世一家米其林星级餐厅用餐，相关竞选支出总额接近2万美元。</p>
+<p>冈萨雷斯于2025年10月对共和党人梅拉·弗洛雷斯（Mayra Flores）进行了这番讥讽。几个月前，也就是当年4月，他曾在社交媒体上发布照片，记录自己与妻子及其他几名同伴为期两天的迪士尼世界之行。社交媒体帖文发布的时间，与冈萨雷斯竞选团队向这家佛罗里达州主题公园及度假村支付款项的时间大致相同，相关款项总额超过1100美元。</p>
+<p>与此同时，迪士尼支出和相关照片只是福克斯新闻数字频道审查冈萨雷斯竞选团队账目后发现的更广泛旅行及款待支出的一部分。根据冈萨雷斯在社交媒体上发布的帖文，其竞选团队在从华盛顿、得克萨斯州到加利福尼亚州及欧洲各地的高档餐厅和酒店支出了数千美元；此外，竞选团队还为多次海外行程支付了费用，在这些行程中，冈萨雷斯的妻子陪同或看起来陪同这名国会议员出行。</p>
+<p>2024年，冈萨雷斯曾利用竞选资金前往阿联酋。那次行程与他在脸书上发布的、显示自己身处同一地点的社交媒体帖文时间相近，机票和酒店费用超过1.3万美元。冈萨雷斯在社交媒体上将这些疑似记录此行的照片称为“竞选结束后的休息”，帖文显示，这名国会议员与妻子参加了各种观光活动；其中一张照片拍摄于一间顶层豪华酒店的房间内，窗外邻近海滩。</p>
+<p>知名民主党人的致命失误促使共和党人预言：蓝色大本营将迎来“红色潮汐”</p>
+<p>这名担任第五个任期的民主党众议员正努力守住其得克萨斯州南部的席位。11月，他将面对共和党人埃里克·弗洛雷斯（Eric Flores）的挑战；今年早些时候，这名共和党候选人在党内初选中击败了梅拉·弗洛雷斯及其他众多共和党参选人。这场竞选已引发全国关注，两党都在争夺这一选区，而冈萨雷斯在进入最后冲刺阶段时拥有明显的竞选资金优势。</p>
+<p>2025年，冈萨雷斯将矛头指向竞争对手梅拉·弗洛雷斯，暗示她可能利用竞选资金带着孩子前往迪士尼世界。在2025年10月的一则社交媒体帖文中，冈萨雷斯分享了一张照片，照片中梅拉·弗洛雷斯与两名年幼的家人在达拉斯爱田机场，身旁有一个迪士尼世界购物袋和毛绒玩具。冈萨雷斯为照片配文称：“又在靠捐款人的钱过好日子了。”他还引用了一篇报道，该报道称，在与照片所显示的时间大致相同的时期，她的竞选团队曾向迪士尼世界支付款项。</p>
+<p>但联邦竞选财务记录显示，冈萨雷斯自己的竞选团队申报称，2025年3月24日和5月27日分别向华特迪士尼度假村支付了561.38美元，两笔合计1122.76美元；这与他在2025年4月26日于社交媒体上发布照片的时间大致相同，照片显示他与自己的家人前往迪士尼世界进行了为期两天的旅行。冈萨雷斯在脸书上配图发文称：“从华盛顿特区到迪士尼！多么精彩的两天。”照片中有他本人、妻子及其他几人。</p>
+<p>斯韦尔韦尔盟友被指控利用竞选资金负担“奢华生活方式”——包括超级碗门票</p>
+<p>联邦竞选财务规定并不禁止竞选团队仅仅因为候选人的配偶或子女陪同出行，就支付旅行费用。联邦选举委员会允许竞选资金承担候选人、其配偶和未成年子女的旅行费用，前提是行程与竞选活动或候选人作为联邦公职人员所承担的正式职责直接相关。不过，竞选资金不得用于支付个人度假或其他家庭开支——如果没有候选人的竞选活动或公职职责，这些开支本来也会产生。当一次行程同时包含竞选或公务活动和个人活动时，竞选团队必须偿还归属于个人活动部分的费用。</p>
+<p>冈萨雷斯的竞选经理亚历克斯·菲利在被问及竞选支出时向福克斯新闻数字频道发表声明说：“这场竞选活动花费的每一美元都是合法的，并且都依法公开披露；这些报告直接来自我们向联邦选举委员会提交的申报文件。得克萨斯州南部选民担心的支出，是他们自己在承担的支出——特朗普的议程推高了成本，而埃里克·弗洛雷斯会很自豪地对此照单全收。”</p>
+<p>冈萨雷斯向联邦选举委员会提交的文件将两笔561.38美元的迪士尼付款——一笔发生在2025年3月，另一笔发生在2025年5月——仅标注为“旅行费用”，因此从公开披露信息中无法确定这些支出对应的竞选活动或公务活动。菲利在被具体问及这次行程时表示，此行与冈萨雷斯和共和党籍阿肯色州众议员、美国众议院金融服务委员会主席弗伦奇·希尔（French Hill）参加的“一次非常重要的金融服务事务”有关，冈萨雷斯是该委员会成员。</p>
+<p>与此同时，菲利还辩称，冈萨雷斯妻子出席的国际行程同样与公务有关，其中包括一次拜访教皇的行程。不过，在被要求逐一说明这些行程时，他们没有分别作出回应。</p>
+<p>最高法院否决限制政党与候选人协调开展竞选支出的规定</p>
+<p>例如，2019年年中，冈萨雷斯曾依据《相互教育与文化交流法》（MECEA）与妻子一同前往摩洛哥。该法律允许国会议员接受外国政府为经批准的文化交流活动提供的旅行安排。</p>
+<p>竞选团队可以支付配偶陪同出行的费用，但前提是配偶确实履行了正式公务职责。对于某些活动，外交和礼宾规范，或管理旅行后勤等竞选办公室职能，通常会被列为配偶需要出席的理由。</p>
+<p>根据联邦选举委员会记录，冈萨雷斯的竞选团队就2019年前往摩洛哥的MECEA行程申报支付了4767.53美元，项目名称为“配偶旅行费用”。</p>
+<p>2024年12月，竞选团队申报向阿联酋航空支付12810美元，并在阿布扎比一家名为阿联酋大厦（Emirates Towers）的豪华五星级酒店支出359.27美元，这些费用被列入“与公务相关”的国会代表团（CODEL）支出。虽然竞选团队关于此次行程的资金记录没有明确写出冈萨雷斯的妻子，但冈萨雷斯的社交媒体账号显示，在竞选团队付款的大致同期，他和妻子曾在阿布扎比拍摄多张照片，其中一张似乎是在一家临海豪华酒店的顶层拍摄的。两人还出现在其他照片中，显示他们在相关付款时间前后游览城市并观光。</p>
+<p>民主党“帮派”成员因在豪华酒店挥霍而陷入困境：“香槟社会主义者”</p>
+<p>“终于迎来了一次竞选后的休整！”冈萨雷斯在照片旁配文道，其中一张照片显示他手托一只珍禽。大约在同一时期，冈萨雷斯的竞选页面发布的其他照片显示，他前往中东慰问了美军部队并与其他官员举行了会晤。还有照片显示，冈萨雷斯及其妻子现身阿布扎比的“全球第四大且最现代化的清真寺”。</p>
+<p>这趟跨国旅行一直持续到2025年8月，当时冈萨雷斯发布了一张与妻子在瑞士苏黎世的合影。竞选记录随后显示，有一笔给瑞士国际航空（Swiss Air）的566.67美元支出，以及在苏黎世米其林一星餐厅La Rôtisserie消费的395美元“旅行开销”。这些记录并未明确标明该款项是否用于为其妻子买单。</p>
+<p>与此同时，就在数周前，冈萨雷斯似乎还进行了由其竞选团队买单的国际奢华旅行。冈萨雷斯竞选团队的联邦选举委员会（FEC）记录显示，2025年他在社交媒体上发布与教皇会面照片的当周，在罗马五星级豪华酒店帕尔科德普林西皮大饭店（Parco dei Principi Grand Hotel）有一笔442.41美元的“旅行开销”。</p>
+<p>“这并非度假，”菲利在给福克斯数字新闻（Fox News Digital）就此次行程发表的声明中表示。“你或许应该去问委员会为什么订这家酒店。这并不是议员的选择；他只是不得不买单而已。”</p>
+<p>在2024年至2026年期间，冈萨雷斯的竞选团队还报销了全国各地高档餐厅、酒店及度假村的高达数千美元的支出，其中包括在华盛顿特区The Capital Grille餐厅约4000美元的消费，以及在休斯敦的Eddie V&#39;s Prime Seafood和华盛顿特区其他几家高端餐厅的开销。</p>
+<p>近期，冈萨雷斯的竞选团队还申报了在加利福尼亚州奥海谷温泉度假酒店（Ojai Valley Inn）消费的1019美元——这是一家占地220英亩、获《福布斯旅游指南》认可的豪华度假村，配有水疗中心、四个泳池以及锦标赛级别的击球场；此外还在宾夕法尼亚州的奥姆尼贝德福德斯普林斯度假酒店及水疗中心（Omni Bedford Springs Resort &amp; Spa）消费了1400多美元，该物业为AAA四钻级度假胜地，拥有3万平方英尺的水疗中心、高尔夫球场以及室内外游泳池。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-09 05:51 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/dem-ripped-rivals-donor-fueled-good-life-dropped-campaign-cash-disney-spouse-travel" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--charges-grate-reds-most-14ae6aaea4179f01" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1707" data-content-paragraphs="28" data-published-at="2026-10-08T21:49:30.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:49</span>
+</div>
+
+### [英超大战前夕：曼城被判违规的哪些指控最让利物浦愤怒？](https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What Man City charges anger Liverpool before Premier League game?</div>
+
+<div class="article-body" data-article-body="true"><p>据报道，在曼城被判有罪后，多家俱乐部正在探讨索赔方案——其中，利物浦便是这一风波后的首个对手。</p>
+<p>曼城正准备迎接因多次违反英超财务规则被判有罪以来的首场足球比赛，而周日的对手，毫无疑问正是对在相关赛季期间蒙受损失而心怀怨怼的俱乐部之一。</p>
+<p>预计利物浦的主场安菲尔德球迷将在本场英超焦点对决中给对手一个愤怒的迎接，而曼城主帅恩佐·马雷斯卡（Enzo Maresca）及其麾下球员必须做好心理准备，面对整场比赛持续不断的声讨与敌意。</p>
+<p>曼城坚称自己清白，并已就针对其逾百项财务违规指控的不利判决提出上诉。</p>
+<p>尽管如此，这桩丑闻仍是俱乐部足球界最富有、最具竞争力和最受欢迎的联赛历史上最严重的一起，且看台上球迷的反弹很可能会在任何上诉结果或潜在处罚最终敲定后持续良久。</p>
+<p>现役球员与工作人员纯粹只能承担起这些追溯至2009年至2018年期间指控的后果。</p>
+<p>在有罪判决下达后的国际比赛日间歇期过后，他们的首场比赛竟然就是做客安菲尔德，这种情节连编剧都可能会觉得过于离奇。</p>
+<p>“如果他们想知道这场比赛会有多么剑拔弩张，安菲尔德展现的愤怒将超出你的想象，”前曼联队长、英格兰后卫加里·内维尔（Gary Neville）近日在播客节目《The Overlap》中表示。</p>
+<p>“我推测现场可能会有横幅，也肯定会有针对性的歌声。在安菲尔德等待他们的将是一场前所未见的迎接……那将是残酷的一天。”</p>
+<p>在阿布扎比财团收购曼城以来屈居其后的所有俱乐部中，利物浦无疑会认为自己是受害最深的球队之一。</p>
+<p>越来越多的声音认为，曼城在受调查期间被剥夺的任何冠军头衔，都应当补发给当时的最紧密追赶者，或是被其击败的决赛亚军。</p>
+<p>然而，对利物浦而言，他们与曼城分差最微弱的两次争冠其实发生在2018年之后。</p>
+<p>在前主帅尤尔根·克洛普（Jurgen Klopp）执教下，利物浦在2020年赢得了英超冠军，但球队也在2018-19赛季和2021-22赛季均以一分之差屈居佩普·瓜迪奥拉（Pep Guardiola）执教的曼城之后。</p>
+<p>这两次都是令人难忘的争冠较量，无论在积分累积还是比赛水准上都树立了极高标杆。</p>
+<p>如果英超联盟确实决定对调查期内产生的荣誉采取追溯补发的方式，利物浦也无法在上述两个赛季中获补发冠军头衔。</p>
+<p>利物浦球迷会坚持认为——并且极有可能在周日高声强调——正是独立调查委员会所认定的近十年违规行为，帮助曼城达到了如今的水准。</p>
+<p>不过，在涉案的时间跨度内，利物浦确实有理由争取至少一座冠军。</p>
+<p>在布伦丹·罗杰斯（Brendan Rodgers）执教下的红军，曾在2013-2014赛季以两分之差屈居曼城之后获得亚军——史蒂文·杰拉德（Steven Gerrard）在对阵切尔西时那次臭名昭著的滑倒，成为所有人对那个赛季难以磨灭的记忆。</p>
+<p>这让安菲尔德的忠实支持者们不得不继续等待自1990年以来的首座顶级联赛冠军奖杯。</p>
+<p>而就在几周前，杰拉德还在利物浦3-2力克曼城的比赛中扮演核心角色，球队当时似乎已将那座久违的冠军奖杯触手可及。</p>
+<p>任何追溯补发冠军的举措，都可能让俱乐部传奇杰拉德最终戴上一枚英超冠军奖牌。</p>
+<p>除了本场因停赛缺阵的菲尔·福登（Phil Foden）外，曼城现有阵容中甚至没有任何一名球员曾在2009年至2018年期间为俱乐部效力。</p>
+<p>恩佐·马雷斯卡曾于2020-21赛季担任曼城青年队教练，并在2022-2023赛季担任瓜迪奥拉的助手，他直到今年6月才正式出任曼城一线队主帅。</p>
+<p>尽管如此，在接下来的几个月里，首当其冲承受来自全国各地广大球迷不满情绪的，正是他们。</p>
+<p>值得玩味的是，曼城所有层或董事会中会有谁亲自出席客战利物浦的比赛。</p>
+<p>在承受巨大压力之下，此事会对球员们造成多大心理负担？面对俱乐部如此不确定的未来——潜在制裁包括大幅扣分，甚至被逐出英超联赛——以及独立委员会裁决中昭然若揭的所有者违规事实，前往现场观战的曼城球迷又会作何反应？</p>
+<p>曼城目前以五战全胜领跑积分榜——而所有这五场比赛，都是在俱乐部面临财务违规指控期间踢完的。</p>
+<p>如今有罪判决已然落地，是时候观察这一事件对球队的影响，以及对手们的反应了。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-10-09 05:49 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#Al</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-bly-have-name-og-anunoby-dcbf636e662a4f0a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="935" data-content-paragraphs="18" data-published-at="2026-10-08T21:46:15.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-09 05:46</span>
+</div>
+
+### [女演员达科塔·约翰逊坚信世上绝不可能有人叫“OG·阿奴诺比”](https://www.foxnews.com/outkick-sports/actress-dakota-johnson-convinced-no-one-could-possibly-have-name-og-anunoby)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Actress Dakota Johnson was convinced no one could possibly have the name &#39;OG Anunoby&#39;</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/dakota-johnson-og-anunoby.png?ve=1&amp;tl=1" alt="女演员达科塔·约翰逊坚信世上绝不可能有人叫“OG·阿奴诺比”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>女演员达科塔·约翰逊（Dakota Johnson）肯定算不上什么体育迷，因为她不仅对纽约尼克斯队球星OG·阿奴诺比（OG Anunoby）一无所知，甚至坚信世界上绝不可能真有人叫这个名字。</p>
+<p>约翰逊与她在新电影《不存在的罪人》（Verity）中的搭档安妮·海瑟薇（Anne Hathaway）和乔什·哈奈特（Josh Hartnett）一同参加了YouTube频道“First We Feast”旗下的一期《名人吃辣对决》（Hot Ones Versus）节目。</p>
+<p>他们当时正在玩一个猜名游戏：海瑟薇将写有名人名字的卡片举在额头上，而约翰逊和哈奈特则负责给出提示，帮她猜出是谁。</p>
+<p>【相关阅读：安妮·海瑟薇在《不存在的罪人》红毯上掌控全场，成为网络爆火瞬间】</p>
+<p>其中一位名人正是阿奴诺比，而身为尼克斯队铁杆球迷的海瑟薇，猜出他原本应该毫无难度。</p>
+<p>坏就坏在她的搭档们完全不知道这人是谁，根本帮不上什么忙。</p>
+<p>“这根本不是真名！你们这群该死的混蛋，”约翰逊说，“你们绝对是故意的。”</p>
+<p>没错，在吃鸡翅的游戏里偷偷塞进一位NBA大牌球星的名字，这可真是屡试不爽的老把戏。</p>
+<p>【相关阅读：查尔斯·巴克利就尼克斯球星OG·阿奴诺比的“真实姓名”与其展开搞笑互动】</p>
+<p>哈奈特好歹给出了一个足够扎实的提示，让海瑟薇拼凑出了正确答案。</p>
+<p>“如果你想表达某件事历史悠久，而且他们就像元老级人物（original gangsters，缩写为OG），所以……”他说道。</p>
+<p>“OG·阿奴诺比？”海瑟薇准确猜出。</p>
+<p>你看，并不是每个人都是体育迷……但我认为，到了现在这个阶段，OG·阿奴诺比是谁本该是一项常识了。</p>
+<p>事实上，我认为有一条惯例：如果一名运动员在《周六夜现场》（SNL）里客串过，大众就理应知道他是谁。</p>
+<p>哪怕他的名字乍看之下有点像Wi-Fi密码。</p>
+<p>再说一次，体育并非所有人的心头好，但我依然对那么多人总拿“我不看体育”当借口来掩饰自己不知道这类基本常识而感到震惊。</p>
+<p>我不是流行乐迷，但我也知道萨布丽娜·卡彭特（Sabrina Carpenter）是谁。</p>
+<p>所以，即便你无法对他的技术统计如数家珍，你大概也应该能判断出像OG·阿奴诺比这样的大牌球星到底是不是一个真实存在的人。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-09 05:46 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1099,321 +1302,40 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/five-important-college-football-questions-answered-this-weekends-slate" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/actress-dakota-johnson-convinced-no-one-could-possibly-have-name-og-anunoby" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-t-at-gullfaks-south-html-f86042726f87f46c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="826" data-content-paragraphs="8" data-published-at="2026-10-08T16:00:00.000Z" data-time-source="publication">
+<div id="story-0-b631-d198ddb3fdc3-html-2ee90e6563e5b4e1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="384" data-content-paragraphs="2" data-published-at="2026-10-08T21:37:37.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:00</span>
-</div>
-
-### [挪威国家石油公司在南古尔法克斯油田发现高达1030万桶油当量资源](https://oilprice.com/Energy/Crude-Oil/Equinor-Finds-Up-to-103-Million-Barrels-of-Oil-Equivalent-at-Gullfaks-South.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South</div>
-
-<div class="article-body" data-article-body="true"><p>挪威国家石油公司（Equinor）及其合作伙伴在挪威南古尔法克斯（Gullfaks South）油田发现估计约330万至1030万桶可采油当量的天然气资源，该发现是通过在一口生产井作业期间钻探的勘探侧钻井所取得的。这一于10月8日宣布的发现，凸显了针对性勘探在维持北海成熟资产产量方面所发挥的作用。其商业吸引力在于通过与现有生产作业相结合的钻探活动来寻找额外资源。</p>
-<p>据Equinor称，该发现位于卑尔根西北约190公里处，估计含有50万至160万标准立方米的可采油当量。“阿斯克拉登”（Askeladden）号钻井平台钻探了这口正式编号为34/10-D-4 BH的勘探井。该发现位于古尔法克斯生产许可区内，合作伙伴包括Equinor、Petoro和OMV。</p>
-<p>Equinor古尔法克斯油田副总裁贡纳尔·埃格（Gunnar Egge）表示，此类规模的发现可以通过具备成本效益的勘探井来实现。他将这些资源描述为“能够帮助维持古尔法克斯油田作业活力和产量的盈利性油气”。</p>
-<p>这一评估体现了较小规模发现在已建产区的重要性。其价值取决于开发成本、接入生产设施的便利性以及资源规模。在生产井旁钻探的侧钻井可以缩减独立勘探作业的规模，不过将该发现投入生产的成本仍是一个需要单独考量的因素。</p>
-<p>Equinor在公告中并未披露开发成本、投产日期或预期产量。</p>
-<p>对于成熟油田而言，较小规模的发现有助于弥补产量下滑并延长现有基础设施的使用寿命。若新资源能够通过附近的井位和处理设施进行开发，即便储量规模不足以支撑独立项目，也可能具备商业吸引力。在油田原有储层度过开采高峰后很长一段时间内，此类资源的累积贡献有助于持续维持产量。</p>
-<p>在古尔法克斯油田，Equinor将新增储量视为能够帮助维持作业与产量的有利补充。该公告尚未明确开发时间表，但该发现为维持该区域产量增添了又一选择。</p>
-<p>文/扬-托尔·贝格萨格尔（Jan-Thore Bergsagel），Oilprice.com</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-10-09 00:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Crude-Oil/Equinor-Finds-Up-to-103-Million-Barrels-of-Oil-Equivalent-at-Gullfaks-South.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--old-gullfaks-field-html-0b7411b8e58ec2c2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="836" data-content-paragraphs="6" data-published-at="2026-10-08T14:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 22:30</span>
-</div>
-
-### [挪威国家石油公司在拥有40年历史的挪威古尔法克斯油气田发现新天然气](https://oilprice.com/Latest-Energy-News/World-News/Equinor-Finds-New-Gas-at-Norways-40-Year-Old-Gullfaks-Field.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Equinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field</div>
-
-<div class="article-body" data-article-body="true"><p>挪威国家石油公司（Equinor）在古尔法克斯（Gullfaks）油气田发现了天然气，这将有助于维持该北海北部生产许可证区域的产量和作业活动。作业方挪威国家石油公司周四表示，其与合作伙伴佩特罗公司（Petoro）和奥地利石油天然气公司（OMV）一道，在位于卑尔根西北190公里（118英里）处的南古尔法克斯（Gullfaks South）油气田发现了天然气。据估算，该勘探井的可采油当量在330万至1030万桶之间，该井是在钻探一口生产井时作为侧钻井进行作业的。</p>
-<p>“能够通过这种极具成本效益的勘探井获得如此规模的发现，是非常积极的成果，”挪威国家石油公司负责古尔法克斯油气田的副总裁贡纳尔·埃格（Gunnar Egge）表示，“这些将是具备盈利能力的储量，有助于维持古尔法克斯油气田的作业活动和产量。”</p>
-<p>古尔法克斯油气田于1986年投产，原油和天然气产量在20世纪90年代达到顶峰，但包括挪威国家石油公司在内的挪威海上作业方正致力于通过在平台和现有运营基础设施附近开展勘探钻井，最大程度提高现有油气田的产量。卫星油气田南古尔法克斯、林法克斯（Rimfaks）、斯金法克斯（Skinfaks）和古尔维格（Gullveig）均利用水下井口进行开发，并由古尔法克斯A和C平台进行远程操作。</p>
-<p>挪威正努力将高水平的石油和天然气产量及出口至少再维持十年，以提振本国经济并向欧洲供应油气。自俄罗斯入侵乌克兰导致对欧洲的大部分俄罗斯天然气供应中断以来，挪威已成为欧盟和英国最大的单一天然气供应国。</p>
-<p>尤其是挪威国家石油公司，计划每年钻探20至30口勘探井，以期至少在2035年前维持当前的生产水平。今年1月，挪威在成熟勘探区招标中向该公司授予挪威大陆架的35个新生产许可证时，该公司便表明了这一目标。挪威目前的油气日产量超过400万桶油当量，其中石油和天然气各占约200万桶油当量。</p>
-<p>文/茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova），发自 Oilprice.com</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-10-08 22:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Equinor-Finds-New-Gas-at-Norways-40-Year-Old-Gullfaks-Field.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ai-agents-on-your-finger-512cb57803750765" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2482" data-content-paragraphs="21" data-published-at="2026-10-08T16:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:00</span>
+  <span class="news-meta-time">🕒 2026-10-09 05:37</span>
 </div>
 
-### [Natura推出99美元智能指环，将AI智能体戴在指尖](https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Natura’s $99 smart ring puts AI agents on your finger</div>
+### [巴西法官下令调阅莫赖斯关于博索纳罗案的机密文件](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/brasile-giudice-ordina-laccesso-ai-documenti-secretati-di-moraes-sul-caso-bolsonaro_2b776114-0c91-42f0-b631-d198ddb3fdc3.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Brasile, giudice ordina l&#39;accesso ai documenti secretati di Moraes sul caso Bolsonaro</div>
 
-<div class="article-body" data-article-body="true"><p>认识一下 Interface——来自人工智能与硬件初创公司 Natura 的一款售价 99 美元的新型智能指环，专为 AI 智能体（AI Agent）时代打造。只需用手指按一下，你就可以让 AI 智能体完成任务、记录想法并办妥事务，而无需掏出手机。尽管 AI 是 Interface 的核心，但该指环还能兼作健康追踪器，可监测心率、心率变异性（HRV）、睡眠和活动等指标。</p>
-<p>这家初创公司由卡洛·埃多阿尔多·费拉里斯（Carlo Edoardo Ferraris）创立，他此前曾创办过科技配件公司 Rolling Square。在打造消费级硬件多年后，他深信，快速发展的人工智能需要一种新型交互界面，让人们能像向真人提出需求一样，向其表达自己的意图。</p>
-<p>Interface 背后的理念是帮助人们从手机屏幕中抬起头来，同时更快速、更自然地完成日常任务。发布初期，该指环将接入一系列 AI 智能体和应用程序，包括 Meta 的 Muse、Instinct、Grokbot、Claude、ChatGPT 等。</p>
-<p>预订预计将于下月开启，出货时间定于 12 月或 1 月。</p>
-<p>这款智能指环并不是该公司的第一款产品。他们的首款产品是 HumanPods，这是一对支持 AI 的耳塞，旨在让用户与 AI 智能体进行交互。但 Natura 认为，需要一种专为语音技术最新进展打造的新形态。</p>
-<p>“随着时间的推移，我们的认知逐渐演进为：你真的希望能够全天候 24 小时访问你的智能体，”费拉里斯在接受 TechCrunch 采访时表示，“你不会希望一天当中哪怕有一个小时无法使用它们。而指环的外形尺寸非常适合这一点，因为它基本上就是你身体的延伸。你可以戴着它洗澡；可以戴着它睡觉。你永远不必把它摘下来。”</p>
-<p>该公司表示，其使用场景无穷无尽。如果你外出跑步，可以让指环开始记录你的锻炼情况。早晨醒来时，可以询问今天有哪些日程安排。如果你正在淋浴时发现洗发水用完了，可以让指环重新订购。如果你看电视时快睡着了，可以告诉它关闭电视并设定早晨的闹钟。用它录制会议后，还可以让它将讨论笔记发送给同事。</p>
-<p>智能体的回复可以通过已连接的耳机、iPhone 的实时活动（Live Activity）或 NatureOS 应用程序呈现。</p>
-<p>此外，依赖多个 AI 智能体和应用的用户还可以指定由哪一个来处理特定任务。例如，他们可以让 Claude 编写代码，让 Instinct 预订餐厅，并让 Grokbot 处理其他事项。</p>
-<p>除了控制 AI 智能体外，用户还可以控制自己的设备，包括电脑。费拉里斯表示，他相信人们在电脑上做的大多数事情最终都将通过 AI 智能体来处理。他认为，该指环最终将通过对 AI 智能体发出简单的语音请求，取代许多目前需要屏幕完成的任务，从填写表单、在应用中发消息，到查找文件和草拟演示文稿。</p>
-<p>“归根结底，用户与技术之间的主要界面将是指环，”费拉里斯说，“所以这不会是一蹴而就的，因为即使在今天，也并非每个人都拥有个人智能体，但我认为每个人最终都会拥有一个。因此在第一阶段，我们预计它将面向那些已经拥有个人智能体的人，主要是科技圈人士。但最终，我认为大约在一年之内，大多数人都会拥有个人智能体。”</p>
-<p>尽管该指环起售价为 99 美元，但 Natura 计划最终提高价格。目前，该公司希望在提价前先将设备交付到用户手中，培养使用习惯并创造需求。在最初的 3 到 6 个月免费期过后，Natura 计划每月收取 9 美元的订阅费。</p>
-<p>该公司表示，该指环的制造成本与 Oura Ring 和三星 Galaxy Ring 等产品相当，因为它们采用了许多相同的零部件。不过，Natura 计划在初期定出较低的价格，以降低准入门槛并推动普及。</p>
-<p>在健康追踪方面，该指环可监测心率、静息心率、心率变异性、不同睡眠阶段、日常活动和步数，以及随时间变化的皮肤温度。</p>
-<p>该公司称，根据使用情况，该指环充满电后可续航 6 至 12 天，充满电需要 100 分钟。</p>
-<p>尽管智能指环市场充斥着来自 Oura、Ultrahuman 和 RingConn 等公司主打健康的产品，以及来自 Pebble 和 Vocci 等公司主打 AI 的产品，但费拉里斯认为 Interface 通过将这两个领域结合起来而脱颖而出。</p>
-<p>“我们即将推出的这款指环与当今市面上的任何其他指环都有显著不同，因为我们不仅能够将最高品质的健康追踪与支持智能体通信、会议录音和外部记忆的其余组件相结合，而且还能在极小体积下实现难以置信的长续航，这对于此类产品至关重要。从硬件角度来看，该产品本身就与市面上任何产品截然不同。”</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>消费新闻记者<br />Aisha 是 TechCrunch 的消费新闻记者。在 2021 年加入该出版物之前，她曾是 MobileSyrup 的电信记者。Aisha 拥有多伦多大学荣誉学士学位和西安大略大学新闻学硕士学位。<br />您可以通过发送电子邮件至 aisha@techcrunch.com，或在 Signal 上发送加密消息至 aisha_malik.01 联系或核实 Aisha 的报道。</p>
-<p>购买第二张门票立减 50%：Disrupt 的体验旨在与人分享。获取您的门票，并以五折优惠携同同事、合作伙伴或同行一同参与。通过建立联系、积累动能并探索初创生态系统的下一个前沿，拓展更广阔的视野。</p>
-<p>Anthropic 向初创公司提供免费一年 Claude Team 及 1,000 美元额度<br />19 岁创始人为其售价 3,499 美元的个人 AI 电脑制造公司 Ghost 筹集 1100 万美元<br />特朗普公布他的新“超级情报部队”<br />联邦法官称 Flock 属于“无差别大规模监控”<br />亚马逊回应数据中心抵制风波，称其不再使用保密协议<br />OpenAI 安全员工辞职，称公司“文化已崩坏”<br />Meta 希望你的下一款数码设备注入 Muse</p></div>
+<div class="article-body" data-article-body="true"><p>巴西联邦最高法院法官路易斯·富克斯（Luiz Fux）今日下令该国最高司法机构的司法秘书处，确保其办公室能够全面调阅其同事亚历山大·德·莫赖斯（Alexandre de Moraes）主持的三项调查的全部卷宗：第一项是针对2023年未遂政变的调查；第二项是于2019年启动且目前仍在进行的“假新闻”调查；第三项则是针对支持前总统雅伊尔·博索纳罗（Jair Bolsonaro，2019—2022年执政）的所谓“数字民兵”的调查。据CNN巴西频道报道，该调卷要求源于博索纳罗辩护律师提出的一项诉讼，辩方对这三起案件中所采取程序的合规性提出质疑，并请求宣布相关程序行为和证据无效。富克斯正在审理的这一上诉若获得其支持，可能会对雅伊尔·博索纳罗的定罪裁决产生影响；博索纳罗因涉嫌未遂政变被判处27年零3个月监禁，目前正在家中接受软禁服刑。</p>
+<p>版权所有 © ANSA 版权所有</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 00:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-10-09 05:37 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#ANSA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-t-a-fraction-of-the-cost-f7abd6714882028b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1931" data-content-paragraphs="19" data-published-at="2026-10-08T16:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 00:00</span>
-</div>
-
-### [Goodfire称其新型“自内而外”监控工具能以极低成本捕获失控AI智能体](https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost</div>
-
-<div class="article-body" data-article-body="true"><p>规范AI智能体行为的标准做法，是让第二个AI在其身后“从旁监督”。这一直是默认方案，但当智能体连续运行数小时并处理相当于几部小说篇幅的文本时，这种方式的成本会迅速飙升。</p>
-<p>专注于可解释性（即探究AI模型内部运作原理）的初创公司Goodfire于周四推出了一种更经济的选择：在AI模型工作时监控其内部动态，而非仅仅阅读其生成的文本。该监控工具现已向Baseten的客户开放，后者为其他公司托管并运行AI模型。</p>
-<p>Baseten旗下的Base Labs上个月宣布与Goodfire及AI平台Hugging Face达成安全合作。</p>
-<p>该工具发布前，今年发生了一连串AI智能体逃离测试环境的事件，其中包括突破了Hugging Face防线的OpenAI智能体。Goodfire首个监控工具所针对的开源模型Kimi K3，也在今年夏天利用沙盒漏洞访问了互联网及GitHub上的信息。</p>
-<p>Goodfire系统的运作方式有点类似于机场安检。被称为探针的小型检测器会在智能体工作的每一步读取模型的内部信号，就像安检门对每位旅客进行检查一样。只有当探针标记出异常时，另一个独立的AI模型（相当于人工开箱搜查）才会进行更细致的检查。</p>
-<p>Baseten的客户可以自行选择要监控的风险类型，包括攻击性黑客行为、化学和生物武器滥用，以及奖励作弊（reward hacking）。他们还可以决定自动化响应策略：记录事件、提交人工审核，或直接拒绝该请求。</p>
-<p>Goodfire表示，其方案运行成本也更低。大多数AI监控工具都是独立的模型，必须重新阅读受控模型生成的所有内容，这增加了耗时与成本。而Goodfire的探针则直接利用了模型在工作时已经在进行的计算。</p>
-<p>“内部激活监控工具非常便宜，因为它们复用了前向传播中的计算，”Goodfire首席执行官埃里克·何（Eric Ho）上周在风险投资人马特·特克（Matt Turck）的MAD播客中表示。“因此模型已经在计算这个token了。你所做的只是获取它已经计算出的中间神经激活，然后对这些内部计算运行一个分类器。”简而言之，模型已经在做计算，探针只是读取其结果。</p>
-<p>在Goodfire针对Kimi K3的测试中，监控约1500次会话的成本约为51美元；相比之下，采用较便宜的AI模型对每一步进行检查需花费233美元，而使用顶级模型则约为1万美元。探针捕获了94%的恶意黑客会话，并将8.7%的无害会话标记为需二次复核。</p>
-<p>该公司表示，同时运行四个探针只会使模型开始响应的时间增加不到2%。</p>
-<p>“巨大的优势在于你可以在事情发生之前将其截获，”Goodfire首席技术官兼联合创始人丹·鲍尔森（Dan Balsam）表示。“我们可以在评估或训练期间检测到模型何时可能发起攻击。”</p>
-<p>该方案主要面向开源模型。开发者可以下载这些模型并剥离其安全防护措施，而且这些模型本身并不具备闭源实验室在其自有系统上运行的那类监控机制。</p>
-<p>“个人使用开源模型所能造成的危害，远不及拥有计算集群的各方（如推理服务提供商）所能带来的影响——大部分责任都在他们那里，”鲍尔森说。“当我们迎来开源的‘Mythos’时刻时，大家就会清楚地认识到，模型在推理阶段必须部署防护栏。”</p>
-<p>Goodfire最近的研究发现，在AI智能体测试中，包括Kimi K3和GLM 5.2在内的主流开源模型在50%至96%的运行中都出现了奖励作弊现象。</p>
-<p>Goodfire并不是第一家尝试这种方法的公司。Google DeepMind在1月份曾表示，其研究成果为Gemini中防滥用检测探针的部署提供了支持。</p>
-<p>鲍尔森表示，这些监控工具是一个更宏大研究目标的近期组成部分：对大语言模型进行逆向工程，以便追踪其行为在训练过程中是在何处萌生的。“我们希望将训练模型的玄妙过程转化为精密工程，”他说。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
-<p>第二张门票立享五折优惠。Disrupt的体验旨在与人共享。立即购票，即可携同事、合伙人或同行参会，并享受五折优惠。建立人脉网络、蓄积发展动能，探索初创生态系统的下一步趋势，全面拓展您的视野。</p>
-<p>Anthropic为初创企业提供为期一年的Claude Team免费服务及1,000美元额度<br />19岁创始人为个人AI电脑开发商Ghost筹集1100万美元，该设备售价3499美元<br />特朗普揭晓其新组建的“超级情报部队”<br />联邦法官称Flock属于“无差别大规模监控”<br />亚马逊回应数据中心争议，称已不再使用保密协议<br />OpenAI安全部门员工辞职，称公司“企业文化已崩坏”<br />Meta希望你的下一款电子设备融入Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-09 00:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--skilled-foreign-workers-325d0d4c01407e2d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="748" data-content-paragraphs="12" data-published-at="2026-10-08T15:42:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:42</span>
-</div>
-
-### [美国暂停微软、Adobe及主要IT企业参与技术外工绿卡项目](https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers</div>
-
-<div class="article-body" data-article-body="true"><p>特朗普政府指控微软（Microsoft）、Adobe以及其他几家科技公司存在欺诈行为，并暂停这些公司参与一项协助技术外工获得美国永久居留权的项目。</p>
-<p>据路透社报道，美国副总统JD·万斯（JD Vance）在周四的新闻发布会上表示：“我们想对微软说的是：你们是一家优秀的美国公司，但你们必须雇用优秀的美国工人。”</p>
-<p>被暂停参与该项目的其他企业包括凯捷（Capgemini）、高知特（Cognizant）、HCL、印孚瑟斯（Infosys）、塔塔（Tata）和维布络（Wipro）。劳工部长基思·松德林（Keith Sonderling）表示，政府将不再受理涉及这些公司的任何新的或待审批的永久劳工认证申请。</p>
-<p>H-1B签证旨在用于雇主可能难以招募到合格美国工人填补的高技能岗位。科技公司是该项目的最大使用者之一，据美联社报道，获批签证中有近四分之三发放给了来自印度的员工。</p>
-<p>万斯还表示，政府将对包括哈佛大学、耶鲁大学和斯坦福大学在内的九所高校展开调查，指控这些高校滥用一项允许国际学生赴美的项目，并利用该项目压低美国工人的薪资水平。</p>
-<p>微软和Adobe未立即回应置评请求。</p>
-<p>购买第二张通行证可享50%优惠。Disrupt活动体验旨在与他人共享。购买您的通行证，即可以半价携同事、合作伙伴或同行一同参会。通过建立人脉、积蓄势头并探索初创生态系统的下一步趋势，开拓更广阔的领域。</p>
-<p>每个工作日和周日，您都可以获取TechCrunch的精选报道。</p>
-<p>TechCrunch Mobility是您获取交通出行新闻与洞察的必选之所。</p>
-<p>初创公司是TechCrunch的核心，订阅即可每周获取我们的精选深度报道。</p>
-<p>为行业领军者提供开启新一天所需的资讯。</p>
-<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:42 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-app-transcribe-offline-e5b532cf0deb5712" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="627" data-content-paragraphs="10" data-published-at="2026-10-08T15:27:30.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:27</span>
-</div>
-
-### [谷歌AI笔记应用可完全离线转写会议记录](https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google’s AI note-taking app transcribes your meetings completely offline</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="谷歌AI笔记应用可完全离线转写会议记录" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>Google AI Edge Foresight 使用端侧模型处理您的音频和笔记，无需连接云端。</p>
-<p>来自该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>查看 Emma Roth 的全部文章</p>
-<p>据 TechCrunch 此前报道，谷歌发布了一款实验性笔记应用，能够完全离线转写会议和音频文件。这款名为 Google AI Edge Foresight 的应用可免费使用，运行于 macOS 系统，搭载了该公司的端侧 EmbeddingGemma 2 模型。</p>
-<p>与 Granola 和 Wispr Flow 等 AI 笔记应用类似，Foresight 在对会议内容进行摘要总结的同时，还提供了一个供用户自行记录笔记的空间。谷歌表示，您可以在会议期间随手记下简短的要点，该应用将根据转写文稿中的信息将其转化为“精修笔记”。</p>
-<p>除了转写会议内容外，Foresight 还内置了一位助手，您可以用它针对所听到的内容进行提问。您还可以将本地文件关联到该应用中，以便其在回答问题时进行参考。谷歌表示，您的文件、会议音频和笔记“绝不会离开您的电脑”。</p>
-<p>Google AI Edge Foresight 目前仅针对搭载 Apple Silicon 芯片的 Mac 进行了优化，但凭借其在端侧运行的特性，在日益增多的 AI 笔记应用中脱颖而出。</p>
-<p>免费获取每日重要新闻文摘。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-10-08 23:27 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ion-over-starlink-launch-0307d386ce773f0f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1809" data-content-paragraphs="19" data-published-at="2026-10-08T15:12:59.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-08 23:12</span>
-</div>
-
-### [星链入印受阻，埃隆·马斯克质疑安巴尼的影响力](https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Elon Musk questions Ambani’s influence as Starlink India launch stalls</div>
-
-<div class="article-body" data-article-body="true"><p>在太空探索技术公司（SpaceX）难以在印度推出“星链”（Starlink）卫星互联网服务之际，埃隆·马斯克对印度亿万富翁穆克什·安巴尼的影响力提出了质疑。马斯克在社交平台X上发表的言论，加剧了围绕监管延迟的争议；此前印度政府已驳斥了他关于强大商业利益集团正在阻挠其进入印度的说法。</p>
-<p>马斯克周三指责未具名的“寡头”阻挠星链在印度的落地，以维持其所谓的对该国的“垄断性扼杀”，但并未指明这些寡头是谁，也未为其说法提供证据。他称涉嫌的阻挠行为是“对印度人民的罪行”，并坚称星链能够为缺乏网络接入的人群带来价格低廉的高速互联网。</p>
-<p>数小时后，印度通信部进行了反驳，表示其针对卫星通信的监管框架是“公平且非歧视性的”。该部门在一份声明中表示，星链以及另外两家获得许可的卫星运营商目前“大致处于同一监管阶段”。它还补充道，这三家公司都在接受安全评估，必须在评估完成后才能申请频谱——即卫星用于发送信号的无线电频率。</p>
-<p>马斯克周四进一步发难，质疑信实工业（Reliance Industries）董事长穆克什·安巴尼的影响力。</p>
-<p>“安巴尼是印度的真正老板吗？”他在X上写道。此前他声称星链已花费数年时间遵守印度法规，并质问为何至今仍未获得牌照。</p>
-<p>马斯克的言论发表前几小时，星链业务运营副总裁劳伦·德雷尔刚刚出席了在工商业新德里举办的电信行业会议“印度移动大会”（India Mobile Congress），并重申了公司对该市场的承诺。</p>
-<p>“我们随时准备为印度服务，”德雷尔表示，并补充称星链希望协助实现印度总理纳伦德拉·莫迪在全国实现普遍连接的目标。</p>
-<p>星链表示，其在印度本土已拥有超过20个网关站（连接卫星与互联网的地面站）和数百面天线，并且已经调整了运营模式以符合该国的监管、安全和数据主权要求。此外，SpaceX已将其卫星网络定位为印度地面电信网络的补充，而非替代品。</p>
-<p>SpaceX最初于2021年尝试在印度推出星链。然而，由于印度政府指责其在获得必要牌照之前就“预订/提供卫星互联网服务”，该公司不得不在2022年初为设备预订退款。</p>
-<p>星链此前还就卫星频谱应如何分配的问题与印度最大的电信运营商发生过冲突。星链力主以行政方式分配频谱，而信实Jio则主张进行拍卖——这种立场可能会使星链的进入成本变得更高。印度最终支持了星链倾向的方案，决定以行政方式分配卫星频谱，而非通过拍卖。</p>
-<p>印度最大的两家电信运营商Jio和Airtel即使已同意在印度分销星链，也仍在推进各自的卫星互联网服务。Jio正在与卫星运营商SES合作开展卫星宽带业务，而Airtel则是印度另一家获得牌照的卫星运营商欧洲通信卫星公司一网（Eutelsat OneWeb）的主要支持者。</p>
-<p>尽管星链在印度的推出时间仍不明朗，但该公司本周在邻国孟加拉国推出了将普通手机直接连接到卫星的“星链移动”（Starlink Mobile）服务。</p>
-<p>星链、印度通信部、信实Jio和巴帝电信（Bharti Airtel）均未立即回应置评请求。</p>
-<p>更新：本文最初发表于太平洋夏令时间10月7日晚上11点14分，随后进行了更新，加入了马斯克质疑信实工业董事长穆克什·安巴尼在印度影响力的言论。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
-<p>Jagmeet为TechCrunch报道印度的初创公司、技术政策相关动态以及所有其他以技术为核心的重大进展。他此前曾在NDTV担任首席记者。</p>
-<p>您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系或核实Jagmeet的外联信息。</p>
-<p>购买第二张通行证可享五折优惠。Disrupt活动体验旨在与他人共享。获取您的通行证，携带同事、合作伙伴或同行即可享受半价。通过建立联系、汇聚动力以及探索创业生态系统的下一步走向，拓展更多业务领域。</p>
-<p>Anthropic向初创公司免费提供为期一年的Claude Team并赠送1000美元额度<br />19岁创始人为Ghost筹集1100万美元，该公司制造售价3499美元的个人AI电脑<br />特朗普公布其新设立的“超级情报部队”<br />联邦法官称Flock属于“无差别的大规模监控”<br />亚马逊回应数据中心引发的强烈反弹，称其不再使用保密协议<br />OpenAI安全部门员工辞职，称公司“企业文化已崩坏”<br />Meta希望你的下一款智能设备注入Muse</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-10-08 23:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/brasile-giudice-ordina-laccesso-ai-documenti-secretati-di-moraes-sul-caso-bolsonaro_2b776114-0c91-42f0-b631-d198ddb3fdc3.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

@@ -50,14 +50,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **114** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **115** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-09 00:42 (UTC+8)
+- **最新归档时间**：2026-10-09 06:16 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-09 06:16 (UTC+8)" title="全球要闻情报简报 · 06:16" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-09 06:11 (UTC+8) 完成，共获得 41 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Anthropic 为开源项目推出免费 AI 安全扫描服务：该主题的推送将被添加到您的每日邮件摘要和主页信息流中。 全新的 OSS Scanner 服务提供来自 Anthropic“最强模型”（包括 Mythos）的漏洞报告。 该作者的推送将被添加到您的每日邮件摘要和主页信息流中。 查看 Stevie Bonifield 的全部文章 Anthropic 正在通过一项名为 OSS Scanner 的新服务，帮助开源项目排查安全漏洞。该公司表示，选择加入的开源项目将“免费获得由我们最强模型进行的全面；【undefined】64天证书有效期将于2027年2月生效：我们将在2026年10月14日于测试（staging）环境中切换为签发64天有效期的证书，以便进行测试。我们建议在生产环境正式生效前，先在测试环境中完成验证。；【undefined】新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上：作者：生物医药研究所（IRB Barcelona） 编辑：Gaby Clark；审校：Robert Egan 本文已根据 Science X 的编辑流程和方针进行了同行评审核验。编辑在确保内容可信度的同时强调了以下特征： 同行评审期刊发表；【undefined】ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”：在面临法律诉讼威胁后，美国广播公司新闻网（ABC News）周四删除了批评唐纳德·特朗普总统的大儿子小唐纳德·特朗普和埃里克·特朗普商业交易的报道，但并未对这篇凭空消失的“抹黑报道”提供任何解释或编者注。；【undefined】SpaceX 宣布计划成为“主要移动运营商”：来自该话题的文章将被添加到您的每日邮件摘要和主页推送中。 SpaceX 抢购了低频段频谱，意图与 T-Mobile、AT&T 和 Verizon 展开竞争。 来自该作者的文章将被添加到您的每日邮件摘要和主页推送中。 查看 Emma Roth 的全部内容 SpaceX 已经收购了一组低频段频谱许可——该公司表示，此举将为其“星链移动”（Starlink Mobile）服务成为美国“主要”运营商“铺平道路”。SpaceX 表示，一旦美国联邦；【undefined】加时惜败梦想队后自由人队就重置暂停争议向联盟提出正式质询：周三晚，亚特兰大梦想队在加时赛中以101-98力克纽约自由人队，在半决赛系列赛中取得2-0的绝对领先优势，距离晋级WNBA总决赛仅差一场胜利。；【undefined】AMD 将在 2026 年底前将 FSR 4 引入掌机：该主题的帖子将添加到您的每日电子邮件文摘和主页推送中。 但现有掌机是否会获得该技术？ 该作者的帖子将添加到您的每日电子邮件文摘和主页推送中。 查看肖恩·霍利斯特（Sean Hollister）的所有文章；【undefined】纳维-斯托克斯方程“迷失在翻译中”：为何AI自动形式化的Lean验证不能保证自然语言证明的正确性：自动形式化（Autoformalisation）正越来越多地被用于验证数学文本，包括那些由人工智能生成的文本，正如 OpenAI 宣布的关于纳维-斯托克斯方程解的爆破解（blow-up）的证明。在这一过程中，AI 系统将文本从自然语言（NL）翻译为诸如 Lean 之类的形式化语言。一旦完成该翻译，形式化语言中表达的论证便能轻易地进行机械验证。本文旨在论证为何这一过程可能完全无法为原始自然语言论证提供可信度，其根源在于进行语义保真翻译时所
+
+**重点要闻索引：**
+- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon) <span class="news-meta-time">🕒 2026-10-09 06:01</span>
+- [The Verge (前沿数码科技)] [Anthropic 为开源项目推出免费 AI 安全扫描服务](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner) <span class="news-meta-time">🕒 2026-10-09 05:53</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-09 06:08</span>
+- [Lobste.rs (极客思想社区)] [64天证书有效期将于2027年2月生效](https://letsencrypt.org/2026/10/07/64-day-certs.html) <span class="news-meta-time">🕒 2026-10-09 03:06</span>
+- [Phys.org (基础物理与技术前沿)] [新型“计算显微镜”模拟DNA折叠组装，尺度达以往十倍以上](https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html) <span class="news-meta-time">🕒 2026-10-09 06:10</span>
+- [FOX News Latest (美国FOX快讯)] [ABC新闻未作任何解释删除针对特朗普儿子与五角大楼相关投资的“抹黑报道”](https://www.foxnews.com/media/abc-news-deletes-hit-piece-trump-sons-pentagon-linked-investments-without-explanation) <span class="news-meta-time">🕒 2026-10-09 06:00</span>
+:::
 :::timeline-item{start="2026-10-09 00:42 (UTC+8)" title="全球要闻情报简报 · 00:42" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-09 00:37 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -650,18 +663,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [whatsnewt：体验 Python 3.15 新特性的 TUI 文本冒险游戏](https://pypi.org/project/whatsnewt/) <span class="news-meta-time">🕒 2026-09-24 20:19</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-feline-aging-years-clinical-trial.html) <span class="news-meta-time">🕒 2026-09-24 21:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/svo-2120037928.html) <span class="news-meta-time">🕒 2026-09-24 21:35</span>
-:::
-:::timeline-item{start="2026-09-24 09:34 (UTC+8)" title="全球要闻情报简报 · 09:34" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-24 09:29 (UTC+8) 完成，共获得 26 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】FLAWED的缺陷及其对行业研究的启示：免责声明：本文仅代表我个人观点，不代表任何现任或前任雇主或附属机构的立场。；【undefined】贝森特称美中贸易休战期延长两个月，习近平开启国事访问：美国财政部长斯科特·贝森特（Scott Bessent）当地时间周三表示，美中两国已延长贸易休战期，以在更长时间内保持较低关税水平并维持稀土流动。；【undefined】我们用 AI 智能体修复了一个开源 Bug，有人要求封禁我们：加载时出错。请重新加载此页面。；【undefined】Meta AI 智能体 Muse 迎来多项重磅更新：Meta 的个人 AI 智能体 Muse 推出仅数周时间，这家社交网络巨头便毫不懈怠地推进这笔堪称其迄今为止在消费级人工智能领域最大押注的布局。；【undefined】“创意相遇”活动：意大利呼吁墨西哥时尚与设计人才积极参与：（安莎社）墨西哥城9月23日电——墨西哥意大利商会（CCIM）推介了第六届“创意相遇”（Encuentro Creativo）活动。该平台旨在促进意大利与墨西哥在时尚和设计领域的学术及专业合作。活动项目包括10月12日至23日期间举办的27场线上主旨演讲，以及定于10月10日在墨西哥城意大利文化学院举办的开放日活动。主办方强调，这些活动将作为初步联络点，向参与者介绍意大利的学术课程及专业深造机会。；【undefined】国外三大遗址考古 国家文物局发布赴外考古新成果：国家文物局今天(24日)在北京发布3项赴外考古项目新成果，包括：；【undefined】密歇根州学生在紧张交锋中就伊朗立场质问埃尔-萨耶德：“你和我们站在一起吗？”：周三的一场市政厅会议上，一名密歇根州学生就民主党联邦参议员候选人阿卜杜勒·埃尔-萨耶德（Abdul El-Sayed）对伊朗的立场对其发难，提及自己家人声称遭受伊朗政权迫害的经历，随后反复追问该候选人是否与反对该国政府的伊朗人民站在一起。；【undefined】它们曾被贴上“变态眼镜”的标签。无摄像头版本能否扭转其公众形象？：它们曾被贴上“变态眼镜”的标签。无摄像头版本能否扭转其公众形象？
-
-**重点要闻索引：**
-- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine) <span class="news-meta-time">🕒 2026-09-24 09:26</span>
-- [Hacker News (科技前沿论坛)] [FLAWED的缺陷及其对行业研究的启示](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) <span class="news-meta-time">🕒 2026-09-24 09:16</span>
-- [CNBC Markets (CNBC 市场官方英文)] [贝森特称美中贸易休战期延长两个月，习近平开启国事访问](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) <span class="news-meta-time">🕒 2026-09-24 07:59</span>
-- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://evnm.substack.com/p/beware-overreliance-on-metaphor) <span class="news-meta-time">🕒 2026-09-24 07:39</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-eu-erasmus-canada.html) <span class="news-meta-time">🕒 2026-09-24 09:20</span>
-- [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb) <span class="news-meta-time">🕒 2026-09-24 09:24</span>
 :::
 ::::
