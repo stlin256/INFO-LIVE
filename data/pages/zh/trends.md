@@ -27,211 +27,107 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-7-c-for-rust-programmers-53e46f9938d2b269" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3097" data-content-paragraphs="41" data-published-at="2026-10-07T14:30:05.000Z" data-time-source="publication">
+<div id="story-web-report-en-html-1837f22115064a19" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6669" data-content-paragraphs="46" data-published-at="2026-10-07T19:44:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 22:30</span>
+  <span class="news-meta-time">🕒 2026-10-08 03:44</span>
 </div>
 
-### [面向 Rust 程序员的 C 语言](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> C for Rust Programmers</div>
+### [当海底光缆陷入断网：理解并应对台湾国际互联网中断的风险](https://resilience.ocf.tw/web/report/en.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan&#39;s International Internet Disconnection</div>
 
-<div class="article-body" data-article-body="true"><p>我最早学会的系统编程语言是 Rust。与许多其他程序员相比，这种情况并不常见；更有可能的是，一个人先学习 C 或 C++，之后才接触 Rust。因此，互联网上有大量“面向 C 程序员的 Rust”文章，但几乎没有“面向 Rust 程序员的 C”文章。</p>
-<p>好吧，我正准备改变这一点！我最近一直在学习 C 和 C++，天哪，这些语言真是古怪。这篇博客文章汇集了我自学 C 时了解到的一些令人咋舌的细节。（今天不谈 C++，我还没准备好钻进那个麻烦的坑里。）这不是一篇正规的 C 教程，你需要自行搜索教程。相反，这是一份使用这门语言时需要牢记的事项清单。</p>
-<p>既然前提已经交代完毕，就让我们拉开帷幕，看看 C 语言究竟有什么可提供的吧！</p>
-<p>最初版本的 C 没有用于表示布尔值的原始类型，程序使用整数 0 和 1 代替。C99 对此进行了改变，在可选的头文件[1]中加入了布尔值：</p>
-<p>即便如此，true 和 false 也不像其他语言那样是字面量或关键字。相反，它们是分别展开为 1 和 0 的定义：</p>
-<p>C23[2] 再次对此进行了修改，因此如今布尔值已经是真正的语言原始类型；但如果你要针对更早版本进行编译，就需要包含 。</p>
-<p>Rust 的 &amp;str 占用 16 字节：其中 8 字节用于存储内存地址，另外 8 字节用于存储字符串长度。这是因为 str 是一种动态大小类型，使用指针元数据来跟踪字符串长度。</p>
-<p>这种方式使获取字符串长度极其高效，但每个 &amp;str 引用需要占用更多内存。C 采用了不同的方法：它不会单独存储字符串的大小，而是用一个空字节（\0）作为每个字符串的结束标记。这是一种有意的权衡，并由此带来了一些结果：</p>
-<p>在实际操作中，这要求你记得为字符串结束符分配额外空间，并在字符串末尾插入它。例如，下面是一个用 C 反转字符串的程序：</p>
-<p>注意第 5 行和第 12 行，它们采取了特别措施来处理字符串结束符。作为参考，对应的 Rust 函数[4]不需要这样做：</p>
-<p>C 的整数类型并不保证使用确切数量的比特位，其宽度会因目标平台而异。</p>
-<p>long 类型在 Unix 上是 64 位、在 Windows 上是 32 位，这一点尤其让我恼火。我建议遵循几年前一位朋友给我的建议：如果你在意跨平台兼容性，就只使用  所提供的固定宽度整数类型：</p>
-<p>我非常喜欢 Rust 的错误处理。Result 会强制你处理错误，而求和类型（枚举）和 match 语句让这件事变得非常容易！</p>
-<p>相比之下，C 的错误处理简直惨不忍睹。它似乎归结为：函数返回一个类似 -1 的“魔法整数”，或返回空指针，以表示发生了错误。通过读取 errno 可以获得更多一点信息；errno 是一个线程局部整数，可用于检查特定类型的错误。但如果要获取实际的错误消息和堆栈跟踪，就困难得多了。</p>
-<p>编写 C 时，你会注意到的一件大事是：这门语言从不会强迫你处理错误。记住函数可能失败，是你自己的责任。例如，下面是来自《空终止字符串》一节的一段代码：</p>
-<p>对于新手程序员来说，malloc() 可能失败并返回空指针，并不是一件显而易见的事。如果机器内存耗尽，访问 reversed[i] 时就会导致段错误。为了避免这种没有帮助的段错误，程序应该检查空指针，并在发现空指针时优雅地退出：</p>
-<p>这样做会比出现段错误，或更糟糕的其他非预期行为，带来好得多的体验：</p>
-<p>当然，记住检查每一个分配得到的指针，并不是很好的开发体验。我尝试过一种方法：使用带标签的联合体，在 C 中重新实现 Rust 的 Result：</p>
-<p>不过，使用起来完全是一团糟，而且仍然没有任何东西能阻止你在处理错误之前直接访问 result.value.ptr。C 缺少 private 和 public 这类可用于阻止这种行为的可见性修饰符，这似乎是有意的设计决定。C 完全信任程序员会把事情做对™，却几乎没有提供用于契约或安全抽象的工具。</p>
-<p>我个人并不赞同这种做法。我不是什么从不犯错的编程天才。我更愿意把程序要求编码进类型系统，让编译器替我检查它们！[6] 这样一来，我就能相当有把握地认为，只要代码能够编译，它就是正确编写的。不过，扯远了。</p>
-<p>C 有两种不同的字段访问运算符：值使用 .，指针使用 -&gt;。</p>
-<p>这一点起初让我措手不及，因为 Rust 对所有情况都使用 。</p>
-<p>如果你好奇，Stack Overflow 上的这篇文章介绍了一些 -&gt; 运算符为何存在的有趣历史。[7]</p>
-<p>数组有一些奇怪的细节。有时它们是普通值，可以使用 sizeof() 获取其长度；另一些时候，它们又是大小未知的指针。一般来说，这取决于你是在数组定义所在的函数内部处理它，还是在函数外部处理它。</p>
-<p>为了展示我的意思，下面是一个非常简单的 C 程序，它会打印两个数组的大小：</p>
-<p>运行后，这个程序会告诉你两个数组都占用 3 字节内存。很好！</p>
-<p>现在，让我们稍微修改一下。在打印大小之前，先将 declared_size 和 inferred_size 传入一个函数：</p>
-<p>逻辑没有任何变化，数组也与上一个示例完全相同；然而现在程序报告说每个数组占用 8 字节内存：</p>
-<p>为什么？因为任何通过函数传递的数组都会被隐式转换为指向第一个元素的指针。从 C 编译器的角度来看，上面的函数实际上具有如下类型签名：</p>
-<p>这就是为什么它看起来令人困惑，仿佛每个数组长度都是 8 字节。数组本身是 3 字节，但指针占用 8 字节内存！值得庆幸的是，当你对数组转换得到的指针形式使用 sizeof() 时，Clang 会发出警告，从而更容易发现这个错误：</p>
-<p>如果不提这一点，我就太失职了。C 没有借用检查，也没有引用的概念。它只有原始指针。这意味着你可以进行如下有趣的指针运算：</p>
-<p>不过，我不确定这样做是否是个好主意。😅</p>
-<p>无论如何，摆弄指针时务必小心。内存操作中的错误会导致缓冲区溢出和越界写入，对代码安全构成重大威胁。</p>
-<p>希望你喜欢这篇文章！说实话，学习 C 的过程非常有趣。虽然我怀疑自己会在个人项目中选择它，但对于系统程序员来说，它绝对是一门必须了解的关键语言。如果你想亲自摆弄这些示例，博客中的所有示例都可以在 GitHub 上找到！</p>
-<p>严格来说，你可以在不引入头文件的情况下使用 _Bool，但你仍然需要头文件来获取 true 和 false 的定义。↩</p>
-<p>看起来 Clang 对 C23 依然只有部分支持，因此在彻底扔掉 #include 语句之前，你可能还需要再等上一段时间。↩</p>
-<p>正如前文所述，这基本上就是 Rust 所做的事情。在 C 语言中，这在易用性（ergonomics）上会是一种折磨，但 Rust 的语言特性让程序员永远无需将指针和字符串长度当作两个独立的变量来看待。↩</p>
-<p>对应的 Rust 函数并不地道，而且只能正确处理 ASCII 文本。如果我要写一个该函数的生产级别版本，只需一行代码：forward.chars().rev().collect:: ()。↩</p>
-<p>usize 和 isize 在语义上并没有与 size_t 和 ptrdiff_t 完美映射。不过，我并不完全理解它们之间的区别，因此建议在使用这些类型之前自行深入调研。↩ ↩2</p>
-<p>这篇关于“无畏 SIMD（Fearless SIMD）”的博文提供了一个绝佳范例，展示了如何利用 Rust 的类型系统来确保代码的正确性。强烈建议一读！↩</p>
-<p>那篇文章里我最喜欢的一行代码是 100-&gt;a = 0;，简直太诡异（cursed）了！↩</p></div>
+<div class="article-body" data-article-body="true"><p>陈心一（Irvin Chen）<br />ORCID: https://orcid.org/0009-0002-1059-7130<br />开放文化基金会（ocf.tw）<br />MozTW，Mozilla 台湾社群（moztw.org）<br />发布时间：2026年5月22日<br />最后更新：2026年8月7日</p>
+<p>本项研究由亚太互联网络信息中心基金会（APNIC Foundation，ROR: 01y4y6h16）通过信息社会创新基金（ISIF Asia）资助支持。</p>
+<p>本研究旨在探讨当台湾遭遇大规模国际海底光缆中断事件时，日常网络服务能否继续保持可用。通过监测网站首页的资源请求并追踪页面加载期间所使用资源的物理位置，我们评估了国际连接中断期间网站的潜在可用性，并将这一结果作为风险指标。</p>
+<p>该研究聚焦于两个核心问题：（1）台湾常用网站在多大程度上依赖托管在境外的资源；（2）这些网站在多大程度上依赖跨国公有云服务商在台湾本地的节点。我们建立了一套测量框架，将“光缆断网后会发生什么”这一抽象风险转化为具象的依赖结构分析。</p>
+<p>我们收集了台湾地区常用的 2,179 个网站的连接数据。结果显示，39.3% 的网站属于“境外依赖型”，存在暴露于境外资源的情况，在海缆中断场景下具有相对较高的直接故障风险。另有 49.6% 属于“云依赖型”：虽然未监测到境外资源请求，但它们依赖跨国公有云或 CDN 的台湾本地节点，因此在国际连接中断时其实际可用性存在高度不确定性。</p>
+<p>本研究提供了一种可扩展、可复现的测量方法，用于量化可观测的外部依赖性，并横向比较不同网站的依赖结构。研究结果可为政策制定和行业韧性规划提供参考，并支持对韧性改善情况的持续跟踪。</p>
+<p>台湾是一个高度数字化的社会；互联网及其承载的信息系统是整个社会运转的关键基石。数字化依赖程度持续加深：截至 2024 年，固定宽带家庭普及率达 74.5%[1]；移动宽带普及率达 87.12%；整体互联网使用率从 2006 年的 67.2% 上升至 88.75%[2]。</p>
+<p>从清晨醒来到夜晚入眠，人们不断通过联网屏幕获取与交换信息。网络已经深深融入日常生活和社会活动之中。通信、商业、媒体、物流以及公共服务和政府政务均高度依赖在线数字系统。</p>
+<p>高连接度意味着任何规模较大、持续时间较长的网络中断，都会对经济与社会造成重大冲击。</p>
+<p>当有人在手机上打开一款应用程序（例如台湾最流行的即时通讯软件 Line，其使用率超过 98.2%[1]）并发送一条消息时，就会触发一连串的网络请求。</p>
+<p>首先，应用程序请求操作系统建立连接；设备向运营商的 DNS 服务器查询目标服务器（如 Line）的 IP 地址。获取地址后，设备发起 TCP/IP 连接并发送请求。</p>
+<p>数据通过无线网络从手机发送至附近的基站，随后进入电信运营商的光纤骨干网和核心网。由于 Line 的主要服务器位于境外（日本），流量会被路由至国际网关——例如淡水或头城海缆登陆站——并经由海底光缆跨海传输。</p>
+<p>到达目的国后，流量再次上岸并进入云服务商的数据中心（如 AWS、Google Cloud、Azure）。应用服务器处理该请求，响应数据沿类似路径返回，最终由操作系统和应用程序渲染呈现。</p>
+<p>这一过程通常在几分之一秒内完成。在用户毫无察觉的情况下，数据可能已经在台湾与日本之间往返了数千公里，或是前往另一个大洲往返了数万公里。</p>
+<p>更关键的是，在应用或网站上的单次点击就可能触发数十甚至数百个并行请求，每个请求都在重复上述模式。绝大多数日常数字服务在本质上都是跨国境系统；“即时”互动高度依赖国际链路与海底光缆。</p>
+<p>如前所述，日常使用的许多网站和应用程序都依赖境外资源与国际连接。一旦失去外部连接，很可能会导致大多数数字服务瘫痪。</p>
+<p>作为一座岛屿，台湾超过 99% 的对外流量依赖海底光缆[3]。因此，海缆的韧性直接关系到日常服务的可用性以及更广泛的社会韧性。</p>
+<p>海底光缆是铺设于海床表面、厚度仅数厘米的多层线缆，或者在浅水区埋入海床一至三米深处。在台湾海峡等繁忙的浅水海域，海缆损坏通常源自人类活动——如抛锚、捕鱼、疏浚——以及自然磨损、中继放大器故障、地震、水下滑坡和地缘政治风险。在台湾周边，人类活动是造成海缆损坏的主要原因[4]。</p>
+<p>根据台湾海缆图（Taiwan Submarine Cable Map, smc.peering.tw）的数据，台湾几乎始终处于“至少有一条光缆受损”的状态[5]。海缆故障可能是一种长期的背景常态，而非罕见特例。</p>
+<p>服务台湾的所有国际海底光缆可用性情况，2025年3月18日至2026年3月18日（来源：台湾海缆图 smc.peering.tw，海缆状态时间线）。</p>
+<p>台湾通过淡水、八里、头城和枋山等登陆站（台东大武另有一座登陆站在建）共接入 14 条国际海缆，并拥有 10 条连接澎湖、金门、马祖等离岛的境内海缆[6]（RNAL 与 FNAL 为共用同一条物理线缆的两个系统；台“数位发展部”将其分别统计，因此在部分统计中计为 15 条国际系统）。</p>
+<p>在正常情况下，互联网的网状拓扑、冗余度、多样性和互联互通特性，允许运营商在少数海缆发生故障时将流量重新路由至其他海缆。用户甚至察觉不到服务质量的细微下降。然而，当多条海缆同时发生故障时，带宽冗余会迅速耗尽，引发严重的网络拥塞或大规模瘫痪，殃及通信、物流、政府运转及各类数字系统[7]。</p>
+<p>根据台“数位发展部”公布的修复时间基准[8]，国际海缆的平均修复时间约为 32 天，连接离岛的境内海缆平均修复时间约为 110 天。因此，网络中断可能持续数月乃至数个季度，应急预案应当基于以月为单位而非以天为单位的时间尺度来进行规划。</p>
+<p>近期发生的一起多海缆并发故障发生于 2025 年 12 月 25 日至 2026 年 1 月 3 日期间：宜兰近海地震导致 6 条国际海缆损坏（包括 EAC1、SJC2、PLCN、F/RNAL、EAC2、Apricot，几乎占海缆总数的一半）[4]。用户报告网络变慢、应用受阻，修复工作直至 2026 年 5 月才告完成。</p>
+<p>2006 年恒春地震仍是一个标志性案例：2006 年 12 月 26 日 20 时 26 分与 20 时 34 分，恒春西南近海连续发生两次 7 级地震并引发多次余震。陆上破坏相对较轻，但海底滑坡导致当时 6 条对外海缆中的 4 条断裂。</p>
+<p>台湾的国际连通性受到了严重破坏。初期拨往美国的电话接通率约为40%；拨往中国大陆和日本的接通率约为10%。中国大陆、中国香港、日本、韩国以及东南亚地区也遭受了沉重打击。Google、Yahoo、MSN、Gmail、维基百科等主要服务在该地区普遍出现严重中断，对贸易和金融造成了影响。<br />八艘海缆船参与了抢修工作；到2007年2月中旬，历时近两个月才全面恢复9。联合国国际减灾战略（UN ISDR）主任将地震引发的海底光缆损坏称为一种新型的现代灾害10。<br />这两起事件均表明，即使没有发生彻底断网，多条光缆的同时故障也会导致严重拥堵和广泛的服务降级。<br />2023年初马祖断网事件是一个区域性完全失去外部海缆的现实案例。<br />2023年2月2日和2月8日，连接马祖与台湾本岛的两条光缆被中国渔船损坏，导致该地区互联网和电信中断，除极有限的微波容量（2 Gbps）外，致使大多数居民无法上网11。其中一条光缆（台马三号）在历经约50天后于3月底完成修复。<br />台马二号与三号的总容量约为1 Tbps。2023年之后，微波扩容至12 Gbps。当两条光缆于2025年1月15日和2025年1月22日再次发生故障时，更大的微波链路维持了一定的连通性12。<br />在2006年事件发生之初，中华电信重新调配了ST-1通信卫星的容量来支援国际电话服务，短时间内部分恢复了国际语音通话的可用性。如果今天发生类似规模的事件，卫星是否仍能起到替代作用？<br />根据台湾太空中心（TASA）的“B5G低轨通信卫星计划”13，台湾计划在2030年前发射两颗设计寿命为三年的实验性低轨卫星。<br />TASA前董事长吴政忠估计，要实现全国范围内24/7全天候低轨覆盖，至少需要120颗卫星，且按三年寿命计算每年大约需要更换40颗——这远超当前计划，因此很难在该规模上构建实质性的备用连通能力14。<br />带宽方面同样存在数量级的差距。一条现代海缆可承载数百Tbps的流量；Apricot的设计容量达到211 Tbps15。2023年的研究估计星链（Starlink）的单星容量约为20 Gbps——按可比单元计算约低了10,000倍；整个星链星座（2023年约为3,300颗卫星）的总容量估计约为20 Tbps，仅与单个海缆系统相当16。<br />即便是将现有的低轨卫星带宽（Gbps级别）相加，也无法取代跨洋海缆的吞吐量（Tbps级别）。TWNIC董事长黄胜雄将海缆比作水库，将卫星比作水管12。卫星可以支援应急政务或区域性链路，但无法在全国尺度上作为替代品。<br />2006年，失去国际连通性的主要经济影响是国际电话服务中断——涉及金融和部分行业——海外互联网服务受到影响的仅占少数用户。<br />二十年来，对互联网的依赖程度急剧上升。台湾的国际带宽从2006年的147.7 Gbps增长到2026年的10.6 Tbps——增长了近70倍17。与此同时，台湾平均每年发生海缆损坏约5.1次，而全球平均水平为0.1至0.2次——风险高出约25至50倍3。<br />德勤（Deloitte，2016年）估计，在一个高度数字化的国家，全国性彻底断网每千万人口每天造成的GDP损失约为2,360万美元——对台湾而言每天约为5,500万美元，或每月约17亿美元，这尚未计入对半导体供应链和跨境金融的溢出效应18。<br />同一研究指出，即使是部分中断或带宽缩减，也会损害生产力、交易、信息获取和信心。<br />台湾对互联网的依赖程度更高，且面临更频繁的海缆损坏风险。今天发生一起2006年规模的事件，其波及面将远超小众行业，带来更广泛的社会影响，其应急响应与替代路由也将比2006年困难得多。<br />公众对海缆中断的讨论有所增加，但往往停留在“通信困难”上——如Line/Messenger/微信、Google、Gmail、Office 365——类似于2006年的讨论框架。<br />学术界针对韧性的研究通常侧重于基础设施或中间层：海缆拓扑、路由、DNS1920、CDN及云端中心化。这隐含着一种假设：只要基础设施正常且可达，服务就能运转。<br />路由是分散且不完美的；发生故障是常态。策略限制意味着路由错误、配置失误或节点故障在没有物理切断的情况下也能引起大规模中断。单靠基础设施健康并不等于服务可用21。<br />即使拥有备用海缆，流量重塑、路由策略或集中路径仍可能阻碍通信——“物理连接”≠“实际可达”22；单凭冗余并不能保证跨境可用性23。<br />现代技术栈跨越基础设施层、逻辑层和应用层；其社会影响超出了任何单一运营商的范畴。韧性是一个跨越层级、运营商和国界的公共品问题7。<br />互联网韧性指数（Internet Resilience Index）等指标使用国家基础设施、性能、安全和市场结构作为代理指标24，但并未直接衡量在国际连通受限时，人们日常使用的网站是否仍能正常加载。<br />政策分析聚焦于国家基础设施、拓扑结构、维修能力、替代方案和地缘政治风险——强调带宽冗余、路径多样性、维修与合作25。<br />第三方依赖研究（如DNS、CDN、证书颁发机构）突显了集中化和单点故障26：超过89%的网站在关键功能上依赖第三方；前三大提供商支撑了超过90%的服务27；多层间接依赖可能会放大故障28。<br />韧性必须涵盖在外部连通受限及第三方状态下的服务可用性——而不仅是物理可达性。本研究强调“受限连通下的服务可用性”，开发应用层评估方法，探究当外部链路发生故障时，哪些日常数字服务——以及多大比例——仍能维持可用，以及海缆中断可能如何影响网络与社会韧性。<br />我们面临的挑战不是“海缆会不会断？”，而是服务崩溃的风险：在一个高度数字化、重度依赖云端、深度依赖跨国连接的社会中，当外部连通性受到严重损害时，哪些服务能保持基本功能，哪些服务会降级，哪些服务会彻底瘫痪？<br />在国际链路严重拥堵或中断的情况下，修复或重建系统会变得更加困难。<br />其影响不能仅仅根据“还剩多少备用海缆”来评判。即使物理网络尚未完全中断，服务也可能因路由、DNS、拥堵、云依赖或外部资产不可达而失效。除连通性之外，我们需要面向用户的服务可用性评估。</p>
+<p>若不了解实际影响，我们就无法做好准备。本研究将“当海底光缆断开时会发生什么”转化为可衡量、可比较的技术问题，填补了韧性讨论中应用层层面的空白。通过一个测试框架，本研究评估了在失去境外连线时常用服务可能如何加载、降级或失效，为备份设计、韧性投资以及政策与社会准备提供依据。</p>
+<p>当一个高度依赖国际网络的岛屿地区（如台湾）遭遇外部海底光缆连接的严重降级、不稳定或部分中断——从而失去对大部分全球互联网的访问时，其本地常用网站在多大程度上能够继续运作、发生降级或彻底失效？</p>
+<p>我们的目标是系统性测试并统计服务运行中面向国际的组件——CDN、第三方 API、云平台、外部库——并在与境外网络隔离的情况下，绘制常用服务的依赖结构和潜在可用性风险图谱。</p>
+<p>这项工作应为政府、产业界和民间社会提供关于外部连接丧失所产生系统性影响的具体证据，为数字服务和关键公共部门的韧性战略提供支持。</p>
+<p>三个具体问题：</p>
+<p>本研究使用程序化控制的浏览器来观察加载各个网站首页时产生的资源请求分布。首页是用户与服务之间首个可见的交互触点，包含了基础渲染和交互所需的若干前端资源。我们将此观测作为一种可扩展的代理指标，用以比较大量网站的依赖暴露程度。然而，它并不包含完整的后端架构或云控制平面依赖，因此不能直接解读为整体服务可用性。</p>
+<p>我们整理了一份台湾地区的高流量网站清单，涵盖本地人常用的境内及国际服务。目标对象是“台湾民众使用的网站”，而非仅仅是“台湾网站”——因此清单中包含了 Google、Gmail 等。</p>
+<p>本研究的研究单元是“网站”（Web），并不直接等同于 App 的可用性。（开放文化基金会 OCF 在 App 连接韧性方面有相关研究。）</p>
+<p>并不存在一份权威的“台湾民众使用的网站”清单。我们合并了：</p>
+<p>本次行动使用了从各来源在 2026-07-20 获取的排名快照。在合并前，主机名被转为小写并去除了开头的 www.，同时保留了其他子域名。重复的主机名被合并为一个条目，同时保留各来源特有的排名数据。最终生成的 merged_lists_tw.json 包含了 2,467 个网站。</p>
+<p>我们还使用 manual_curated_list_tw.json 收录了 42 个手动挑选的开源与数字韧性社区案例，包括 OCF、SITCON 和 g0v。其中有两个主机名与自动排名清单重合。</p>
+<p>这两份清单总共包含 2,507 个不重复的网站。清单与脚本已在 top-traffic-website-list-taiwan 中开源。</p>
+<p>测试采用了典型的台湾住宅宽带连接：</p>
+<p>网站可用性不仅取决于建立连接，还取决于获取所依赖的资源（JavaScript、CSS、图像、API）。现代网站整合了来自众多域名的资源；它们共同决定了用户能看到什么以及能进行什么操作。既往研究使用无头浏览器（headless browser）来分析请求行为与第三方依赖[3027]。</p>
+<p>在基于资源请求的依赖暴露分析基础上，我们将其延伸至“国际连接失效”这一系统性情景及其对服务可用性的潜在影响。</p>
+<p>后端架构、数据路径、控制平面以及内部云行为无法从外部直接观测。我们并未试图测绘完整的系统依赖；我们聚焦于可观测的前端网络请求，并据此构建可操作的指标。</p>
+<p>境外依赖暴露（Foreign Dependency Exposure）：首页请求是否包含托管在境外的资源——即资源层面对境外网络的暴露情况。</p>
+<p>云端本地端点暴露（Cloud Local Endpoint Exposure）：请求是否命中跨国公有云或 CDN 提供商的台湾节点——即托管在其本地端点上或依赖其本地端点的网站暴露情况。</p>
+<p>这些指标描述的是首页前端资源层面的“依赖暴露结构”，而非完整的系统架构或实际的失效模式。</p>
+<p>我们可以分</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>C语言最初版本没有布尔原生类型，程序使用整数0和1替代；C99通过可选头文件添加了布尔支持，C23将其转变为真正的语言原生类型。</li>
-    <li>在Rust中，&amp;str占用16字节，其中8字节存储内存地址，8字节存储字符串长度。</li>
-    <li>来源叙事重点：通过将C语言的特性与Rust对比，梳理C语言中反直觉或容易出错的设计（如以空字符结尾的字符串、平台相关的整型大小、缺乏借用检查与强制错误处理、数组退化为指针等），探讨其编程体验与安全挑战。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-tterns-software-blogging-4947297bbfe7b42d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3956" data-content-paragraphs="20" data-published-at="2026-10-07T13:09:33.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 21:09</span>
-</div>
-
-### [软件写作中的反模式](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Anti-Patterns in Software Blogging</div>
-
-<div class="article-body" data-article-body="true"><p>作者：Michael Lynch，发布于 2026 年 10 月 7 日<br />在软件开发中，我们收集反模式来识别那些导致软件产出不良的常见特征。我认为将同样的方法应用于软件技术博客写作也会大有裨益，因此我整理了初学者博主中最常犯的错误。<br />到目前为止，软件博客中最普遍的错误就是行文漫无边际、偏离主题。我经常发现自己读了一篇文章好几段，却依然完全不知道作者到底想表达什么。<br />开发者热衷于细节和具体背景，因此他们在写博客时往往以幕后故事、历史背景以及脑海中恰好闪现的其他任何内容开头。写起来或许很痛快，但读起来往往索然无味。<br />从读者的角度来看，还有成千上万篇其他文章可以读。他们为什么要读你的文章？除非他们预期能有所收获，否则他们不会投入 20 分钟通读全文。给读者一个继续读下去的理由。<br />当一名开发者开始阅读一篇博客时，他们试图尽快得到两个问题的答案：<br />请给自己标题和前三句话的时间来同时回答这两个问题。<br />你能提供的益处可以是向读者传授一项新技能、解释一个概念、阐明一种新视角，或者提供一段有趣的犀利吐槽。你只需要给读者提供一些实在的内容。他们不会仅仅因为文章摆在那里就去阅读你的博客。<br />以下是我最近写的一篇直奔主题的文章：<br />✓ 优秀做法：以展示文章能给读者带来什么收益作为开头<br />if got, want：编写更佳 Go 测试的简单方法<br />有一种极好的 Go 测试模式，知晓它的人却寥寥无几。我可以在 30 秒内把它教会你。<br />该引言简明扼要地传达出：本文与使用 Go 编程语言的程序员密切相关，其价值在于教会他们一项可以迅速掌握的新技巧。<br />有些博主写出了引人入胜的引言，却用副标题、个人简介、图片或名言等额外元素塞满了读者的视线。你当然可以包含这些内容，但要意识到它们都在消耗你“激励读者继续阅读”的精力预算。你在读者的阅读路径上设置的每一个障碍，都是在消耗他们有限的专注力。<br />✗ 糟糕做法：强迫读者穿过冗长的前言序语<br />高效的讲解者会将新概念与读者熟悉的事物进行类比。例如，如果你在解释 Jellyfin，你可以说：“Jellyfin 是一项类似 Netflix 的流媒体服务，不同之处在于它是开源且私密的，因此没人会监控你的观影习惯。”棘手之处在于弄清楚读者究竟对什么感到熟悉。<br />✗ 糟糕做法：假定读者通晓你所知道的一切<br />在本文中，我将为从未听过 Docker 的开发者介绍 Docker。<br />Docker 很简单。它不过是 Linux cgroups 的一个光鲜前端。哦，你知道 *BSD 中的 jails 吗？Docker 就是它的 Linux 版本。<br />很多开发者想使用 Docker，但他们并不认识 cgroups、jails 或 *BSD 等术语。他们甚至可能都不知道 Linux 是什么，特别是当他们主动搜索 Docker 入门介绍时。<br />与其假定读者拥有与你完全相同的知识体系，不如尽量减少对读者的预设假设：<br />✓ 优秀做法：尽量减少对读者背景知识的假设。<br />Docker 是一个用于打包应用程序的工具，以便其在任何运行环境中都具备一致且可复现的环境。Docker 允许你通过人类可读的文本文件定义应用程序的环境与依赖项。这些文件记录了应用程序的各种需求，因此即便在不同团队经过数年的微调修改后，你依然能清楚知道它是如何运行的。<br />写博客时，想想你的目标读者。他们知道些什么？想象一个你在现实生活中认识的朋友或队友。列出一份他们会认识的术语清单和一份他们不会认识的术语清单。然后，重读你的博客文章，每当遇到一个专业术语时，思考一下你设想的参考读者是否能够理解它。<br />“你描述的正是我心目中的受众，但我从未尝试列出那些受众到底知道些什么。将你的清单与我草稿中的假设进行对比，真是让我大开眼界。”<br />——Tyler Cipriani（在我为《Git 中大文件的未来就是 Git》进行编辑并对其目标读者的预设提出质疑时如此表示）<br />你上一次读到一本让你暂停阅读、去买另一本书完整读完、然后再回来继续读原书的书是什么时候？软件博主经常干这种事，尽管做得更为隐蔽。<br />博主们经常想提及一个读者可能不懂的术语，但他们自己又懒得解释。相反，他们直接在术语上随手挂一个超链接，并自以为“问题解决了！”<br />问题并没有解决，因为读者并不想打断他们的阅读心流，仅仅为了理解一个词就跳去阅读另一个完全不同的网站。<br />✗ 糟糕做法：依赖超链接向读者解释术语<br />分配防火墙规则，以防止外部流量访问您的数据库。<br />上面链接的 FreeBSD 手册是一份极好的参考资源，但关于防火墙的那一章大约有 20,000 字。当你链接到如此冗长的页面时，你把极其庞大的阅读负担硬塞给了读者。<br />与其依赖链接替你代劳，不如为读者提供理解本文所需的最低限度解释。<br />✓ 优秀做法：总结链接背后的相关信息<br />防火墙是一种限制主机和网络如何与应用程序进行通信的系统。您可以通过配置防火墙规则，仅允许源自应用程序服务器的入站请求访问数据库服务器，从而提高 Web 应用程序的安全性。<br />当然可以链接到有用的资源，但应将其作为附加参考，而非阅读的前置条件。把读者留在当前页面上。你的目标读者应当能够从头到尾畅快理解你的文章，而无需点击任何链接。<br />如今，万物要么是续集，要么是重启版，博客文章也不例外。我看到许多博客文章都是这样开头的：<br />在第一部分中，我们了解了五重链表以及它们如何让你的每日代码行数产出提升 100 倍。在今天的文章中，我将向你展示 goto 语句如何让你实现 scrunkmax（这是我在第一部分发明的一个术语——还记得吗？）。<br />我很遗憾地告诉你，大多数读者并没有读过第一部分。如果你假定上一篇文章在读者脑海中记忆犹新，他们就会想：“噢，现在连刚开始阅读都得做额外的功课吗？”<br />引用你之前的文章完全没问题，但不要一开始就劈头盖脸地拿出来。当你确实链接到以往的文章时，请总结出相关内容，而不是强迫读者倒回去完整读一遍。<br />如果你正在写的是自己从零构建的业余操作系统，那么当然，你可能需要不止一篇博客，但绝大多数续集文章只需多花大概 3% 的努力，就能写成一篇完全独立的文章。<br />初学者软件博主普遍抱有一种集体幻想，认为必须写得生硬刻板、过度正式，别人才会严肃认真地对待你：</p>
-<p>“在本项目存续期间，我本人及团队成员曾使用了多种静态分析工具。”</p>
-<p>你又不是在1988年给IBM那些80岁的高管写报告。你身处的领域是软件开发，这是所有白领工作中架子最小、最不装腔作势的行业之一。读你文章的人很可能正穿着睡衣拖鞋，一边嚼着键盘旁的麦片一边阅读。他们既不期待、也不希望你说话像法律文件一样死板。</p>
-<p>怎么说话，就怎么写。</p>
-<p>✓ 正确示范：像日常说话一样写作<br />我们在这个项目里尝试了几个静态分析工具。</p>
-<p>随着如此多的开发者将写作外包给人工智能，软件技术博客正变得平淡无奇、千篇一律。读者渴望看到有鲜明个性的文字。以下摘自史上最优秀的软件博主乔尔·斯波尔斯基（Joel Spolsky）的一句话：</p>
-<p>“所有那些在高中时代用BASIC给Apple II写乒乓球游戏表现优异的孩子，到了大学，选修了计算机科学入门课（CompSci 101）和数据结构课，而当他们一接触到指针那一套时，脑子就彻底炸了；接下来的事情你懂的，他们转去主修政治学了，因为法学院听上去是个更好的出路。”<br />——乔尔·斯波尔斯基，《Java学校的危害》（The Perils of JavaSchools）</p>
-<p>这算不上斯波尔斯基最精彩的金句，但它精准体现了他的风格：随性、亲切且毫不做作。听起来就像他在午餐时给朋友讲故事一样。你也可以在凯西·塞拉（Kathy Sierra）、特伦斯·伊登（Terence Eden）和雷蒙德·陈（Raymond Chen）的文字中看到同样的风格。他们从不试图让自己显得很聪明——他们只是在做真实的自己，而这正是读者所喜欢的。</p>
-<p>软件技术写作中最难的部分在于写得引人入胜，因此看到那么多软件博主在最该轻松搞定的环节上搞砸，实在令人沮丧：那就是搭建一个基础的网页。</p>
-<p>对移动端读者来说，你能犯的最严重的错误就是内容超出屏幕，导致读者不得不横向来回滑动才能读完你的文章。通常，这是因为你的某张图片或代码片段硬要保持桌面端尺寸，从而搞崩了页面其余部分的布局。</p>
-<p>在移动设备上让文本超出屏幕，会带来极其糟糕的阅读体验。</p>
-<p>桌面版火狐（Firefox）和谷歌浏览器（Chrome）都具备移动端预览模式。在发布之前，请使用移动预览检查你的文章，排查常见的渲染问题。</p>
-<p>不要低估你的移动端读者。根据我的数据统计，你们当中有25%的人是在手机上阅读本页面的。在我的个人博客上，这个比例高达35%。</p>
-<p>选择易于阅读的字体颜色和字体族。别再搞那种浅灰背景配深灰文字的把戏了。Firefox和Chrome都内置了能为你标出低对比度文本的工具。</p>
-<p>Firefox的无障碍辅助工具正在识别低对比度文本</p>
-<p>如果你不想花心思去到处寻找完美字体，盲文协会（Braille Institute）提供了一款名为Atkinson Hyperlegible的免费字体，其阅读舒适度极高，即便是视力不佳的读者读起来也很轻松。</p>
-<p>《这不太像开发者的阅读方式》与《读者所知何物》插图作者：Piotr Letachowicz。</p>
-<p>我正在撰写一本帮助开发者提升写作水平的书，名为《重构英语：面向软件开发者的实用写作技巧》（Refactoring English: Effective Writing for Software Developers）。</p>
-<p>想要提高写作水平并促进职业发展，请关注本书。</p>
-<p>首发周享7折优惠，截止至2026年10月11日。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Michael Lynch 于 2026 年 10 月 7 日发表文章《Anti-Patterns in Software Blogging》，梳理软件博客写作中的常见错误及改进方法。</li>
-    <li>作者认为软件博客中最常见的错误是偏离主题/废话过多（meandering），建议在标题和前三句话内说明文章的主旨和能为读者带来的收益。</li>
-    <li>来源叙事重点：从读者体验和技术沟通效率出发，总结软件开发者在博客写作与网页呈现上的常见反模式（如废话连篇、高估读者背景、生硬正式文风、移动端适配不良等），倡导以读者收益为核心的口语化、独立且清晰的写作方法，并推广其新书。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://refactoringenglish.com/blog/anti-patterns-software-blogging/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-storytold-photocraft-ec4b5e65913390d0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2508" data-content-paragraphs="28" data-published-at="2026-10-07T12:04:13.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 20:04</span>
-</div>
-
-### [用纯 Rust 净室重实现的开源 Adobe Photoshop](https://github.com/storytold/photocraft)
-<div class="original-title-sub"><span class="orig-tag">原文</span> An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust</div>
-
-<div class="article-body" data-article-body="true"><p>一个用纯 Rust 进行净室（clean-room）重实现的开源 Adobe Photoshop</p>
-<p>图像编辑；一款对 Adobe Photoshop 进行净室重实现的开源软件，完全用纯 Rust 重建。图层、蒙版、调整图层、图层样式、文字、矢量、画笔以及真实的 PSD 文件，全部集成在一款完全由 Rust 编写的原生应用中。开源、离线，完全属于你。</p>
-<p>PhotoCraft 详见 getartcraft.com · ArtCraft · 所有 Crafting Apps</p>
-<p>带有投影、动态文字、自然饱和度与曲线调整图层的说明卡片，且曲线编辑器处于打开状态。《神奈川冲浪里》，葛饰北斋，约 1831 年</p>
-<p>ArtCraft 是一个汇聚各行各业艺术家的社区。数字艺术、生成艺术、音乐、游戏——只要你从事创作，你就是我们的一员。欢迎来 Discord 打个招呼。</p>
-<p>特性 · 包含功能 · PSD · Agent 代理 · 底层架构 · 快速入门 · Crafting Apps · Discord</p>
-<p>此处展示的每一张截图都是该应用在公有领域艺术品上实际运行的真实画面，通过其控制通道在离屏渲染完成。</p>
-<p>PhotoCraft 对 PSD 的支持是一个独立的 crate，根据 Adobe 的公开规范编写，并在真实的现实文件语料库上进行了测试。</p>
-<p>该桌面应用还提供了一个经过身份验证的、仅限环回的控制通道（photocraft --control），用于检查 UI 状态、通过指针事件驱动工具以及截取离屏截图。本 README 中的所有图片均以此方式渲染。详见 docs/control-protocol.md。</p>
-<p>UI 和文字工具所使用的日文字体来自 craft-fonts，这是一个可选的构建输入项（桌面发布版本始终包含它）。如果没有它，PhotoCraft 将使用您系统的 CJK 字体：</p>
-<p>新贡献者与 AI Agent：请先阅读 AGENTS.md，然后查看 docs/。</p>
-<p>每个 GitHub 发布页面均附带适用于 macOS、Windows、Linux、FreeBSD 和 Web 平台的安装包。在 Linux 上，你可以选择 AppImage、.deb、.rpm、tar 包或 Flatpak 包。Flatpak 包需要来自 Flathub 的 freedesktop 运行时，flatpak 会提示一并安装：</p>
-<p>在 macOS 上，命令行工具以 photocraft-cli- -macos-universal.zip 形式提供。该二进制文件使用与应用程序相同的 Developer ID 进行了签名，并获得了 Apple 的公证。由于纯二进制文件无法像 DMG 那样携带装订好的公证票据（stapled notarization ticket），因此首次运行时 macOS 会在线验证公证。你可以自行确认：</p>
-<p>在 FreeBSD 14 (x86_64) 上，发布版本提供了类似 /usr/local 目录结构的 tar 包。安装运行时库，然后在此处解压即可：</p>
-<p>维护者请注意：docs/releasing.md 说明了发布版本的构建、签名和发布方式。</p>
-<p>开发者、架构、自动化、格式和安全文档均在 PhotoCraft 文档库中维护。</p>
-<p>安全架构、威胁建模、解析器加固、模糊测试（fuzzing）和漏洞报告均涵盖在安全文档和代码仓库的安全策略中。</p>
-<p>PhotoCraft 使用真实文件进行测试：我们在 photocraft-corpus 中自行用 Photoshop 制作的基准（oracle）PSD，加上 psd-tools、ag-psd 和 PngSuite 数据集，均已固定版本并通过 sha256 校验。使用 cargo xtask corpus --all 获取它们，并通过 cargo xtask test-corpus 运行测试（详见 docs/development.md）。</p>
-<p>PhotoCraft 是 Crafting Apps 系列之一：由 ArtCraft 团队打造的免费开源创意工具，每款工具均用 Rust 从头编写，并可独立运行。</p>
-<p>此外还有 ArtCraft 本身——我们为追求真正掌控力的艺术家打造的 AI 图像与视频工作室。</p>
-<p>Crafting Apps 系列遵循相同的规范：净室设计且纯 Rust 实现、原生支持 macOS、Windows 和 Linux，可通过 WebAssembly 在浏览器中运行，且完全可由 AI Agent 驱动。</p>
-<p>我们的 Discord 是各类艺术家的聚集地：绘画、摄影、绘图、剪辑影片、排版文字，以及仍在探索自己喜欢创作什么的人。分享你的作品、寻求帮助、反馈 Bug，或者告诉我们你希望这些工具实现哪些功能。无论你的媒介是什么，无论你从业多久，这里都欢迎你。</p>
-<p>discord.gg/artcraft · getartcraft.com · The Crafting Apps · PhotoCraft</p>
-<p>PhotoCraft 提供 MIT 或 Apache-2.0 双重许可，任你选择。版权所有 (c) 2026 ArtCraft 团队及 PhotoCraft 贡献者。所需声明请参见 NOTICE。</p>
-<p>捆绑的字体、图标、图像及其他素材保留各自的开源许可证；每个素材的作者、来源和许可证均列在 ATTRIBUTION.md 中。</p>
-<p>展示的每件艺术作品均属于公有领域（维基共享资源、NASA、美国国家档案馆）；来源列在 docs/images/SOURCES.md 中。</p>
-<p>docs/brand/ 中的 ArtCraft 名称、文字商标和徽标是 ArtCraft 团队的商标，不在此许可证涵盖范围内。根据 docs/brand/LICENSE-brand.txt，它们只能在未修改的情况下使用，且只能作为本仓库和 PhotoCraft 的一部分使用。分支（fork）和修改版本必须将其移除。</p>
-<p>由 ArtCraft 团队与社区共同打造。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-07 20:04 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-08 03:44 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#前沿智能</span>
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://github.com/storytold/photocraft" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://resilience.ocf.tw/web/report/en.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-h-culture-online-project-1db226ff32ad5a30" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="288" data-content-paragraphs="1" data-published-at="2026-10-07T12:01:10.000Z" data-time-source="publication">
+<div id="story-ted-dying-mental-illness-a7a36dc662303dca" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="508" data-content-paragraphs="4" data-published-at="2026-10-07T19:00:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 20:01</span>
+  <span class="news-meta-time">🕒 2026-10-08 03:00</span>
 </div>
 
-### [从随身听看撒切尔主义：斯图尔特·霍尔的英国文化研究成果已于线上归档](https://www.theguardian.com/society/2026/oct/07/stuart-hall-british-culture-online-project)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Thatcherism via the Walkman: Stuart Hall’s British cultural studies preserved online</div>
+### [加拿大将无限期禁止仅因精神疾病申请安乐死](https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Canada to indefinitely bar mental illness as sole reason for access to euthanasia</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/b94f811c778df1d26facdd7ca23b8709eeb40e5c/614_678_2793_2234/master/2793.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=155bdd3555d8ea290108c9f5686aa141" alt="从随身听看撒切尔主义：斯图尔特·霍尔的英国文化研究成果已于线上归档" loading="lazy" /></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/2908b94752481c2982fc99f198fc7cdb3b8216c7/450_0_4418_3535/master/4418.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69e57cb4bb0217233a0e1e06542a7175" alt="加拿大将无限期禁止仅因精神疾病申请安乐死" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>项目负责人表示，该项目旨在致敬这位牙买加裔社会学家为英国文化做出的“卓越贡献”。<br />无论谈及撒切尔主义、民粹主义，还是索尼随身听的发展史，斯图尔特·霍尔（Stuart Hall）都是一位以精准把脉时代脉搏而闻名的公共知识分子。如今，一个汇集了他此前从未公开过的论文手稿、笔记本、录音与视频的大型数字档案库已正式上线。<br />这位牙买加裔社会学家是战后英国黑人历史上的关键人物，于2014年逝世，享年82岁。他在《卫报》上的讣告中被评价为“最早洞察时代核心命题的人之一”。霍尔创造了“撒切尔主义”（Thatcherism）一词，并早在1985年就对“威权民粹主义”的潜在危险发出了预警。</p></div>
+<div class="article-body" data-article-body="true"><p>该立法是执政的自由党为解决关于谁有权获得医生协助死亡日益激烈的冲突所做出的努力。</p>
+<p>加拿大联邦政府周三表示，将推进立法，阻止将精神疾病作为唯一健康状况的人群获得安乐死；这是执政的自由党为平息该国关于谁有权获得医师协助死亡的冲突而采取的举措。</p>
+<p>根据现行规定，唯一潜在医疗状况为精神疾病的人员一直被禁止通过医疗协助死亡（Maid）来结束生命。但这项原定于3月解除的禁令引发了立法者之间的分歧，焦点在于是否允许扩大该 Maid 项目的适用范围。</p>
+<p>在加拿大，可随时拨打电话 1.833.456.4566 联系加拿大危机服务中心（Crisis Services Canada），或在北美东部时间下午4点至午夜12点发送短信至 45645。在美国，可致电或发短信至 988 自杀与危机生命线（988 Suicide &amp; Crisis Lifeline），也可访问 988lifeline.org 进行在线咨询。在英国和爱尔兰，可拨打撒玛利亚会（Samaritans）免费电话 116 123。在澳大利亚，危机支持服务热线 Lifeline 为 13 11 14。其他国际求助热线可访问 befrienders.org 查询。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-10-07 20:01 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-10-08 03:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -241,66 +137,54 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/oct/07/stuart-hall-british-culture-online-project" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ches-and-aggregates-html-47a700d964bdbb56" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3427" data-content-paragraphs="38" data-published-at="2026-10-07T09:26:25.000Z" data-time-source="publication">
+<div id="story-c-func-without-naming-it-e420d3ee0a8b42fe" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2924" data-content-paragraphs="26" data-published-at="2026-10-07T18:15:02.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 17:26</span>
+  <span class="news-meta-time">🕒 2026-10-08 02:15</span>
 </div>
 
-### [通过批处理与聚合加速流式HTML传输](https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Faster streaming HTML with batches and aggregates</div>
+### [在 C 中调用函数而不命名它](https://wiro.world/posts/calling-c-func-without-naming-it/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Calling a function in C without naming it</div>
 
-<div class="article-body" data-article-body="true"><p>在这篇文章中，我将深入探讨基于服务器的流式 HTML 的一些有趣的涌现特性（emergent properties）。在某种程度上，这是对这篇博文迟来已久的后续跟进：《无需 ClojureScript 的实时协作 Web 应用》（Realtime collaborative web apps without ClojureScript）。</p>
-<p>在这种模型中，几乎所有的状态都保留在服务器端。我们每隔 X 毫秒（一个 tick）向每个已连接的客户端流式传输下一帧（这里所说的“帧”，是指服务器生成的 HTML 页面的下一个版本）。这种渲染风格通常被称为即时模式（immediate mode，在 Datastar Discord 社区中被称为 fat morph）。这些帧通过带有流式压缩（Brotli 或 Zstandard）的长连接 SSE（Server-Sent Events）流式传输给每个客户端。</p>
-<p>你可以将其理解为：view = f(state)，只不过它运行在服务器端，而非客户端。</p>
-<p>Tick 非常棒，因为它们为你提供了一个进行批处理的边界、反压机制以及衡量系统性能的基准点。如果服务器处于高负载状态，丢弃的是帧，但系统不会崩溃。</p>
-<p>如果没有这种批处理，你的系统很容易意外陷入二次方复杂度（accidentally quadratic）。X 个用户执行 Y 个操作，每个操作都会触发面向所有用户的重新渲染。因此，1000 个用户每人每秒执行 1 个操作，就会产生 1000 x 1000 = 1,000,000 次渲染。而在基于 1 秒 tick 的系统中（每秒更新一次），无论用户执行多少个操作，都只会有 1000 次渲染。</p>
-<p>基于简单 tick 的游戏循环示例：</p>
-<p>当你拥有一个基于 tick 的系统时，你就拥有了一个自然引入屏障（barrier）的契机。例如，批处理写操作最简单的方式就是采用单写者模式。在基于 tick 的系统中，你可以在写操作与读操作之间建立清晰的屏障。</p>
-<p>批量处理写入 -&gt; 批量处理渲染 -&gt; ...</p>
-<p>这使你能够批量处理渲染。其实现可以很简单，只需遍历所有长连接并生成它们需要渲染的 HTML。或者，如果你想做得更精细一些，可以将每个连接组绑定到一个 CPU 核心并对其进行遍历。这样可以让每个组拥有自己的线程局部资源（缓冲区、缓存、数据库连接）。这对于提高系统的确定性以及限制内存占用非常有用。</p>
-<p>以前，每个连接的模板生成可能需要一个 64KB 的缓冲区，但通过批量渲染，这最终变成了每个批处理线程 64KB。假设你有 10,000 个并发用户，原来就需要 640MB。更糟糕的是，如果你不重用缓冲区，每次渲染都会产生 640MB 的垃圾对象。而在批处理模型中，每个线程只需要 64KB，因此在一个 4 核系统中，总共仅需微不足道的 256KB！</p>
-<p>在数据库连接（有时包括缓存）方面，你消除了资源竞争（关于为什么这很重要，请参阅 LMAX 的演讲）。每个渲染线程都拥有自己的资源，因此无需进行协调。</p>
-<p>基于 tick 的游戏循环中的屏障示例：</p>
-<p>渲染线程的大致结构如下：</p>
-<p>在另一篇文章中，我介绍了流式压缩如何消除即时模式渲染的网络开销。发送整个 50KB 的 HTML 帧是完全可行的，因为在线路上传输时它可能小至 13 字节（在没有内容变更的情况下）。</p>
-<p>但是，基于 tick 的模型难道不需要在每个 tick 中都查询数据库吗？就我的情况而言，是的，确实需要。但是，如果你使用像 SQLite 这样的嵌入式数据库来进行投影（projections），那么你的投影结构经过精心布局，查询速度会极快。如果你担心写入吞吐量，可以参考这篇博文：《10 亿行数据上实现 100,000 TPS：SQLite 不可思议的高效》（100000 TPS over a billion rows: the unreasonable effectiveness of SQLite）。</p>
-<p>深呼吸一下。我们现在面对的是极其罕见的瓶颈场景。字符串生成、拼接、编码、转义以及部分迭代操作成了我们的性能瓶颈。</p>
-<p>通过 tick、屏障、压缩和 SQLite，我们已经消除了大量工作。现在只剩下最后一个瓶颈了。在数千个并发用户每秒更新 10 次的情况下，HTML 模板渲染最终占用了我们大部分的帧预算。</p>
-<p>你可能会采取某种巧妙的做法，比如只更新那些需要更新的用户。但是，这解决不了所有用户共用同一个小部件且无论如何都需要更新的问题，也解决不了时刻都在变化的动态内容等问题。这里的核心目标是避免陷入意外的二次方复杂度。任何只对理想路径（happy path）有效却无法改善最坏情况的优化，在出现问题时都只是纯粹的额外开销。</p>
-<p>这就是聚合（aggregates）发挥作用的地方。因为在此之前，我们一直刻意保持“不自作聪明”：在每个 tick 向所有用户广播，即使内容没有任何变化。这使我们能够将渲染视为针对所有用户统一执行的批处理过程。这意味着我们可以假定，一个批次内的所有帧之间很可能存在某些重叠，而且与之前批次的所有帧之间也存在重叠。</p>
-<p>并发用户过载测试的 CPU 火焰图。4000 个用户在没有缓存的情况下查看略有不同的视图。你可以使用搜索功能查找诸如 sqlite 等项。</p>
-<p>我们的系统包含一个简单的 hiccup 解释器，它递归遍历 hiccup 数据结构并写入字节缓冲区：</p>
-<p>这个 hiccup 解释器有两处微调。如果遇到函数，它将对其求值，并假定输出是需要进一步解释的 hiccup 结构。</p>
-<p>这样做主要的好处是可以将工作推迟到解释器执行到该位置时再进行。这样，你的数据库查询结果就可以直接流式写入输出字节缓冲区，而无需将查询结果完整实例化。</p>
-<p>如果它遇到的元素的第一个参数是一个函数，它会将该元素的其余内容作为参数传递给该函数（你可以将它们视为组件）。</p>
-<p>妙处在于，我们可以为这些“组件”包裹一层缓存，并以它们的函数和参数作为键来缓存其输出。实际上，这就是自动的内容寻址缓存（content addressable caching）。组件本质上就是函数：</p>
-<p>我们可以在 hiccup 中引用它们，类似于 Reagent 中的组件（不过我将来可能会将其更改为 chassis 风格的别名）：</p>
-<p>它们支持完美嵌套，因为我们的解释器是递归的。</p>
-<p>但是，缓存抖动（cache thrashing）怎么办？我们拥有了自动的组件级内容寻址缓存。大量各不相同的小型组件可能会将更有价值的缓存项挤出！</p>
-<p>这就是我们借助 WTinyLFU 的地方。WTinyLFU 是一个非常出色的缓存算法，由 Caffeine 缓存库实现。</p>
-<p>它具有两个非常出色的特性。只有当缓存条目以特定频率被访问时，才会被接纳（admitted）。这意味着所有那些各不相同的小型条目根本无法进入缓存。</p>
-<p>而另一个有趣的特性是，不经常被请求的条目会自然地从缓存中淘汰。</p>
-<p>这带来了一种非常有趣的涌现优化行为。假设我们有嵌套组件。它们带来了一个问题：如果我们同时缓存了所有子组件和父组件（包含所有子组件），我们占用的缓存空间大约翻了一倍。但是借助 WTinyLFU，如果外层包装组件总是在变化，由于准入机制的存在，它永远不会被缓存；如果外层包装组件保持稳定并长期存在，所有被缓存的子组件则会因为不再被单独请求而自然从缓存中淘汰。</p>
-<p>并发用户过载测试的 CPU 火焰图。在添加基于内容寻址的组件缓存后，4000 名用户同时浏览略有不同的视图。</p>
-<p>以批处理和聚合的思维方式思考，能让你在保持系统易于推导理解的同时，实现极其强大的性能优化。在进行应用开发时，我无需考虑缓存或性能问题，只需编写 hiccup 和 SQL 查询即可。</p>
-<p>你可以在 hyperlith 代码仓中查看该项目的实验性源代码。它目前在此处的生产环境中运行，在单台 2 核 vCore 共享 VPS 上以 10 FPS 承载大约 1000 个并发用户。</p>
-<p>感谢 Datastar Discord 频道中阅读本文草稿并向我提供反馈的每一个人。</p>
-<p>火焰图使用 Oleksandr Yakushev 出色的 clj-async-profiler 工具制作。</p>
-<p>© 2015-2026 Anders Murphy</p></div>
+<div class="article-body" data-article-body="true"><p>我所在的学校有一个受控的远程代码执行环境，用于自动评测我们提交的代码。系统会检查代码是否执行、验证格式是否正确，当然还会进行其他用户看不到的检查（例如代码抄袭检测工具1）。该界面会报告结果不匹配和编译错误。</p>
+<p>我和一位朋友开始寻找一种方法，希望用一个解决方案解决所有练习。朝这个方向迈出的第一步，是找到一种原语，使我们能够任意执行 shell 代码。我们假定评分虚拟机上会有一个 sh 二进制文件，这样我们就可以直接调用 execve。</p>
+<p>那么……我们完成了吗？你猜对了，没有。</p>
+<p>还记得我说过评分系统还有其他完整性检查吗？其中一项就是检查你是否只使用了题目允许使用的函数。而 execve 从来不在允许之列，因此代码甚至还没开始运行，提交就会失败。根据我们的经验，这个系统比简单地 grep 源代码要复杂一些。我猜它使用 clang 对代码进行预处理和解析，然后针对生成的抽象语法树（AST）执行检查。</p>
+<p>这就触及了问题的核心。我们需要调用 execve，但又不允许写出这个符号的名称。那么该怎么做呢？</p>
+<p>退一步看，我们知道 C 代码本质上会被编译成二进制文件，而调用函数归根结底就是跳转到内存中的某个位置。我们能不能获取 execve 在内存中的地址，把它硬编码到程序里，然后直接调用它？</p>
+<p>在现代笔记本电脑的软件中，内存地址往往取决于具体的执行过程。这是因为现代内核实现了地址空间布局随机化（ASLR），会随机安排二进制文件、库、堆和栈的加载地址。如今，C 代码默认使用 -pie 标志进行编译，这会创建与位置无关的可执行文件，意味着二进制文件确实可以利用 ASLR。我们可以使用 C 编译器的 -no-pie 标志禁用这一行为，强制让二进制文件中的函数使用固定地址。但在我们的情况下，我们通常无法控制构建过程，所以这并没有帮助。其次，execve 函数并不直接属于我们的可执行文件，而是动态加载的，因此它仍然位于随机地址。</p>
+<p>静态地址行不通。但 ASLR 只作用于各个内存段的映射位置，段中的内容并未改变。在一个段内，函数的排列顺序仍然相同。如果我们能够知道两个函数 fA 和 fB 的内存地址之间的静态偏移量，那么获取 fA 的地址后，就可以推导出 fB 的地址，反之亦然。</p>
+<p>由于 C 库版本不同、架构不同，或者其他原因，这个偏移量会因机器而异。有多种方法可以获取目标机器上两个函数之间的固定偏移量。其中一种方法，就是在某个允许你同时命名 fA 和 fB 符号的练习中，直接泄露这个偏移量。</p>
+<p>我们的目标函数仍然是属于 libc 的 execve。我们假定始终可以访问 printf。我们只需要泄露虚拟机上这两个函数之间的偏移量。先在本地测试一下：</p>
+<p>多次运行程序会得到不同的结果。我们刚才不是说偏移量是固定的吗？让我们打开二进制文件调查一下。</p>
+<p>objdump 对任何类型的目标文件分析都很有用。--dynamic-syms 选项会提供每个将在运行时加载的符号的信息。第六列可以告诉我们符号来自哪里。execve 确实来自 glibc，也就是我这台笔记本电脑上可用的 C 标准库实现。但 printf 似乎并不来自 glibc。实际上，objdump 的原始输出中有一大批 __interceptor_* 符号，这为问题所在提供了线索。</p>
+<p>从一开始，我编译所有代码时都启用了 ASan（又称 -fsanitize=address），以便尽早捕获内存错误。ASan 的工作方式是替换一批代码，包括内存读取和写入，将其改为一系列速度较慢的函数调用，用于检查每个操作是否正确。它还会替换 C 标准库中的一批函数，例如 malloc 或 printf。这样一来，这些函数就不再位于 glibc 对象中；而那些没有被替换的函数——在我们的案例中是 execve——仍然位于其中。自动评分系统也会检查内存错误，并使用 ASan 进行编译。</p>
+<p>我们可以尝试使用另一个与 execve 位于同一段中的符号，但我们仍然需要一个大多数时候都被允许使用的符号。这些符号大多位于被 ASan 替换的段中，所以我们就沿着这个方向继续。也许 execve 并不是唯一的办法。在这个段中寻找其他有用的符号时，mmap 引起了我的注意。</p>
+<p>mmap 为什么特殊？由于 W^X（写入与执行互斥）安全策略，不存在一块同时可写且可执行的内存区域。因此，我们不能简单地把原始 x86 指令写入缓冲区，再像调用函数一样跳转到那里；也不能用自己的代码覆盖现有函数。但 mmap 解决了这个问题，因为我们可以直接要求它提供一个同时具有写入和执行权限的内存页。</p>
+<p>不过我们先不要操之过急。我们可以通过另一个允许同时命名这两个符号的练习，泄露虚拟机上 printf 和 mmap 之间的偏移量。要使用这个偏移量，我们本可以进行一堆类型转换，但提交给评分系统的代码必须使用 -pedantic 编译，而该选项不允许对函数指针类型进行转换，包括从函数指针类型转换、转换为函数指针类型，以及函数指针类型之间的转换。由于函数指针归根结底仍然是指针，我们可以尝试在不让编译器察觉的情况下修改它。我起初是基于未优化的栈槽2修改内存，但后来想起在 C 语言中，不安全性本身就是一种特性，因此我们实际上可以直接使用联合体。</p>
+<p>我们可以编写一段糟糕的 x86 汇编例程，让我们能够像调用 C 函数一样执行 Linux 系统调用。这段例程允许我们调用最多带有 3 个参数的任意系统调用。</p>
+<p>将这些字节复制到一个新映射的、可写且可执行的内存页中。</p>
+<p>然后，就像什么也没发生过一样调用我们的例程。你可以查阅 Chromium 的系统调用文档，了解 Linux 所要求的参数。</p>
+<p>在目标虚拟机上运行后，程序成功打印出了 Hello, World!。</p>
+<p>你可以在 GitHub 上找到完整的概念验证代码。</p>
+<p>由于我们知道代码会使用 ASan 编译，因此选择泄露 printf（一个始终被允许使用的函数）和 mmap（一个能让我们任意执行汇编代码的函数）之间的偏移量。这样，我们就能绕过学校的检查并调用任意系统调用；在我们的案例中，就是调用 execve 以获取 shell 访问权限。</p>
+<p>我们没有继续调查，只是将这一潜在问题报告给了学校。</p>
+<p>我认为没有轻而易举的方法来修补这个问题。正如我们所见，ASLR 在这里起不到作用。一种可能的思路是在每次执行时以不同的顺序重新链接 C 标准库，每次都将函数顺序随机化（OpenBSD 在启动时便采用了这种做法）。但是，你必须牢记，ASan 仍会用自己的实现替换原本的函数（因此它在这里无法起到任何缓解作用）。</p>
+<p>该漏洞利用其实并不算太复杂，但亲自搞清楚整个过程非常有趣。正是在这样的时刻，你之前钻研过的所有旁枝末节终于融会贯通，帮助你继续推进。此外，该利用手法的简洁性还在于我们原本就已经拥有了相当宽松的远程代码执行权限（作为一项既有功能）。尽管如此，它依然涉及 ASLR 绕过，并且需要对底层运行机制有充分的理解。</p>
+<p>你可以观看该学校研究实验室就此做出的演讲（法语）。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-07 17:26 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-08 02:15 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -310,219 +194,55 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://andersmurphy.com/2026/09/29/faster-streaming-html-with-batches-and-aggregates.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://wiro.world/posts/calling-c-func-without-naming-it/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ight-xp-glitch-in-skyrim-9b804dc7325cd504" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5510" data-content-paragraphs="35" data-published-at="2026-10-07T09:08:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 17:08</span>
-</div>
-
-### [详解《天际》魔光术刷经验 Bug](https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Explaining the Magelight XP glitch in Skyrim</div>
-
-<div class="article-body" data-article-body="true"><p>在《天际》中，首都独孤城（Solitude）外有一处地点，如果你在山顶施放“魔光术”（Magelight），就会获得巨额的变化系（Alteration）经验值——只需施放一次，就足以让你的技能等级从 15 级直接飙升到 25 级。但这究竟是为什么？</p>
-<p>关于这一现象的成因，流传着很多错误的解释，但最主流的一种说法与目标的远近有关：</p>
-<p>“魔光术命中时给予的经验值取决于它的飞行距离。你找到的这个地方正好处于渲染距离的边缘附近，而且还有一些技巧可以进一步增加这一距离。”——@Jewbacca1991</p>
-<p>但正如其他人很快指出的那样，对于其他远距离目标这招并不奏效：这座山似乎有些特殊之处。UESP《天际》维基声称这是由于你能看到的云层所致：</p>
-<p>“该地点获得的大量经验值似乎与穿过多层天气效果平面有关。”</p>
-<p>然而，游戏中有大量多云的山脉并不会触发此现象。让我们通过逆向工程分析魔光术的经验值计算公式，来彻底揭开这个谜底。</p>
-<p>魔光术是一个学徒级（Apprentice）法术。在 TES5Edit 中加载它，我们可以看到它的数值（Magnitude）为 5，持续时间（Duration）为 60，基础效果为 LightFFAimed（即 0001EA6D）。如果我们加载该效果，可以看到其基础消耗（Base Cost）为 2，技能使用倍率（Skill Usage Multiplier）为 0.15。</p>
-<p>这些参数全部用于计算“技能使用值”（Skill Usage）。由于该法术没有影响范围（Area），公式很快可以简化为：</p>
-<p>$$ \begin{aligned} Skill\_Usage &amp;= Base\_Effect\_Cost \times Area \times (Magnitude \times \frac{Duration}{10})^{1.1}\newline &amp;= 2 \times 1 \times (5 \times \frac{60}{10})^{1.1}\newline &amp;\approx 84.307 \end{aligned} $$</p>
-<p>变化系经验值以此为基础，乘以技能使用倍率（魔光术为 0.15），再乘以技能使用乘数（变化系为 3），得出每次施法的原始经验值为 37.938。</p>
-<p>理论上，我们可以朝墙壁施放魔光术，观察它是否给予了预期的经验值。遗憾的是，在游戏内（即使使用控制台命令）也无法获取精确的经验数值。所幸我们可以使用 Cheat Engine，通过 Lua 直接读取底层内存。你可能还记得 Lua（这是我在巴西石油公司下游最喜欢的编程语言），我在之前一篇关于 GBA 版《哈利·波特 1》速通的文章中提到过它。</p>
-<p>如果我们运行上述脚本（我通过“编辑 &gt; 设置 &gt; 调试器”方法切换为使用 VEH 调试器，尽管我不确定这是否必要）将经验值重置为 0，施放魔光术，然后运行最后一步读取新的经验值，可以看到经验值的增长与预测完全一致。太棒了！</p>
-<p>但这一切都没有涉及距离。为什么我们获得的经验值会远远超过 38 点呢？</p>
-<p>魔光术与大多数其他法术不同，因为它不需要命中人——命中人当然有效，但朝墙壁、桌子或岩石施放也同样有效。在所有这些情况下它都会给予经验值，那么它是如何判断何时击中物体的呢？</p>
-<p>施放该法术会生成一个 LightSpellProjectile（光法术投射物），它会根据你最初瞄准的方向沿路径飞行。在每一个 tick 中，它都会检查是否发生了碰撞，这大致遵循以下三个步骤：</p>
-<p>绘制物体在下一个 tick 中将移动到的路径（0x007A0090）。它获取投射物的速度（512 单位/秒）并除以你的帧率（60 fps；是的，这意味着如果你在老款 Xbox 主机上游玩，碰撞检测频率会更低，而如果你将帧率调高至正常值以上，检测频率则会更高。如果你使用“延缓时间”龙吼或利用箭术/格挡特技来减缓时间，频率也会变高，不过每秒的碰撞次数保持不变），从而得出在你施法方向上的速度为 \(\frac{512}{60} = 8.5\bar{3}\) 单位/tick。该法术的射程为 10,000（同样由 ESM 文件决定，尽管上面的截图截图中漏掉了这一点。抱歉），因此它将沿着路径持续飞行 \(\approx 19.5\) 秒，然后消失。</p>
-<p>将该路径与每个拥有碰撞体且通过碰撞层过滤的物体进行相交测试（0x00DE0040）。<br />游戏中的每个物体都有一个碰撞层，用来定义它会与什么发生碰撞（例如，L_TRANSPARENT 不会阻挡投射物或法术，而 L_TERRAIN 则会阻挡）。如果层级不匹配，则不会触发碰撞。</p>
-<p>检查路径是否命中了该物体（0x00EC41C0）。<br />首先，它在物体表面寻找距离投射物最近的点。然后，它找出从该最近点指向物体表面外侧的法向量。<br />接着，它检查投射物的行进方向是否与法向量同向（通过检查点积为正还是为负来实现。数学真妙！）。如果是同向，说明它正远离表面，因此判定为没有发生碰撞。如果是反向，那么如果投射物已经相交、处于物体内部，或者将在下一个 tick 步长中击中它，系统就会标记碰撞。<br />请注意，即使投射物位于物体内部，法向量检查也是优先进行的：如果投射物穿过物体已经超过一半，导致最近点位于另一侧且法向量与运动方向同向，它就会停止触发碰撞。</p>
-<p>一旦 LightSpellProjectile 与某个物体（或多个物体）发生碰撞，它就会针对每次碰撞执行一个“OnHit”函数（0x007A30FD），触发本该发生的效果。该函数处理了很多与魔光术无关的事情（例如结界术在 0x006ECE30 阻挡法术，或目标在 0x006E99D0 被毁灭系法术击退），但最终要么将效果施加在人身上（严格来说是魔法目标，其中也包括激活触发器之类的东西，位于 0x00664740），要么施加在碰撞表面上。大多数单次施法的法术是在“命中人物”的分支中处理经验值发放的，但在 0x00660353 处有一个特殊检查，专门用于给可以处理替代目标的法术（比如魔光术）发放经验。（实际上不仅仅是像魔光术，而就只有魔光术。严格来说它涵盖所有复生类和光亮类法术，但所有的复生类法术都重写了该位置，仅在复活尸体时发放经验；而唯一剩下的另一个光亮类法术是烛光术，它并不是投射物）。</p>
-<p>最后，“OnHit”会在 0x007A2560 处添加撞击效果（impact）。它会确保此逻辑只运行一次，并检查被击中的材质以进行相应处理（例如依附在人身上，或者如果是墙壁则悬浮在墙壁附近）。如果没有材质，或者是不支持的材质，则不会发生撞击事件。</p>
-<p>到目前为止描述的一切似乎都行得通，而且大部分情况下确实有效，但问题就出在这里。在与物体发生碰撞并执行“OnHit”之后，代码会运行一个“HandleHit”函数来确定弹道是否应当继续前进。通常它会阻止弹道继续飞行，但存在两个例外：如果弹道碰撞的物体满足以下条件，它将继续前进：1）非实体（具体来说，是Havok碰撞代码中的BROAD_PHASE_PHANTOM，用于触发器，例如“如果你走到这里就激活陷阱/过场动画/对话”之类的内容。该检查发生在0x0079f022处）；或者 2）具有图层类型26或28，这对应于L_TRANSPARENT_SMALL和L_TRANSPARENT_SMALL_ANIM（如果未来的自己想要寻找证据，这个例外位于0x0079f063）。</p>
-<p>你施放魔光术（Magelight），直到它进入一个带有L_TRANSPARENT_SMALL的包围盒。该碰撞图层会与L_SPELL发生碰撞，因此被视作一次碰撞。由于它既不是人物也不是魔法目标，所以会进入回退路径并给予38点经验值。但是L_TRANSPARENT_SMALL在“HandleHit”中被豁免，因此弹道会继续前进。在下一个时钟刻（tick），同样的事情再次发生。它依然位于包围盒中，被算作一次碰撞，并奖励38点经验值。它将持续这样做，直到最近点的法线与其前进方向相同，大约是在它穿行到一半的时候。</p>
-<p>但是带有L_TRANSPARENT_SMALL的对象在哪里呢？你猜对了：就在独孤城（Solitude）附近的那座山上（我使用基于《天际》Creation Kit制作的简易Mod使这些墙体可见，但你也可以通过调整.esm文件为碰撞图层添加调试颜色来实现相同的效果）。</p>
-<p>还有其他一些地方也存在该图层，比如高霍斯加（High Hrothgar）的两侧：<br />或者盗贼公会任务线结尾处伊尔克桑德（Irkngthand）的雕像周围：<br />或者作为包围梭默大使馆（Thalmor Embassy）的极薄平面：<br />但体积最大的一些都位于独孤城旁边，这就是为什么你必须朝那座山施法，而不能只是对着远处随便一座多云的山施法。</p>
-<p>大多数攻略都说要瞄准山顶，但你实际上要瞄准的是能够最大化法术穿过L_TRANSPARENT_SMALL块（且处于其正确区域）时间的任何一条轨迹线。山顶虽然不错，但我们能做得更好（山顶大约能提供~280次触发，而在最佳位置约为~850次）。</p>
-<p>我迅速（我是说真的很快，Claude Opus 5.5在仅凭一张指出问题的截图的情况下，大约10分钟内仅尝试两次就完成了这个Mod）利用SKSE编写了一个Mod，可以渲染隐形墙并根据你瞄准法术的位置作出反应，动态计算预期的经验触发次数以及最大化获取经验的最佳角度。只需在该区域四处走动，就迅速找到了最佳位置（大量的数学计算也找到了“最佳”位置，但它位于地下且无法到达。真理想）。</p>
-<p>要将变化系法术（Alteration）从15级升至100级，你需要 \(\sum_{L=15}^{99} 2 * L^{1.95}\) = 528,804.0234 点经验值。按照每次触发获得37.938点经验计算，这大约相当于近14,000次触发，因此一条能触发250次的轨迹线与一条能触发850次的轨迹线相比，意味着施法55次与施法17次的差距。不过，关键在于能够稳定复现——光说“瞄准天空中的这个点”毫无用处，因为大家根本做不到。因此，这里提供一个切实可行的操作指南！</p>
-<p>首先传送到独孤城，然后走出大门，来到城外。我们要爬上左边的岩石。那里有一面隐形墙，所以请背靠它以及最深处角落里的城堡墙壁站好。</p>
-<p>我们将瞄准我们紧贴的那面墙上左上角砖块的灰缝线。</p>
-<p>为了获得正确的角度，我们要蹲下，然后将准星中心与那条灰缝对齐（最佳轨迹线是右边一块砖的左上角，但存在一定的容差空间）。</p>
-<p>然后我们要向前并向左平移走位，确保始终紧贴着隐形墙，同时保持角度不变。这样会展现出由不同组件构成的城堡墙壁的两条缝线。</p>
-<p>我们的目标是向后平移，直到第二条线刚好再次被遮挡隐藏。此时，你应该正凝视着一片看似随意的天空。</p>
-<p>尽情施法吧！（我在1分15秒内施法17次升到了100级。如果你更喜欢视频教程，我已经在YouTube上上传了一个。我第一次使用Claude的computer use功能来支持在DaVinci Resolve中制作天际主题的UI弹出窗口，看着它运行又是令人感叹“这简直是魔法”的时刻。非常适合一次性任务）。</p>
-<p>有了这个，但愿、但愿我终于可以告别《天际》了。</p>
-<p>你可能还记得来自我之前关于GBA版《哈利·波特1》速通文章中的Lua（我最喜欢的源自巴西石油公司的编程语言）。↩︎<br />我通过“编辑 &gt; 设置 &gt; 调试器”方法改用VEH调试器，尽管我不确定这是否必要。↩︎<br />是的，这意味着如果你在老式Xbox主机上游玩，碰撞检查频率会更低；而如果你将该值调高到正常值以上，频率则会更高。如果你使用“迟缓时间”龙吼，或者利用箭术/格挡特技来减缓时间，频率也会变高，但每秒碰撞次数保持不变。↩︎<br />这同样由ESM文件决定，尽管它没有出现在上面的截图中。哎呀。↩︎<br />它通过检查点积为正还是为负来做到这一点。数学万岁！↩︎<br />例如在0x006ECE30处结界阻挡法术，或在0x006E99D0处目标被毁灭系法术击退。↩︎<br />严格来说是一个魔法目标，其中也包括诸如激活触发器之类的内容。↩︎<br />实际上并不像魔光术那样，它就只是魔光术。从技术上讲，它涵盖所有复活亡灵和光照法术，但所有的复活术都重写了此逻辑，仅在你从死尸中唤醒亡灵时才提供经验，而唯一的另一种光照法术是烛光术（Candlelight），它并不是弹道法术。↩︎<br />具体来说，是Havok碰撞代码中的BROAD_PHASE_PHANTOM，用于触发器（例如“如果你走到这里就激活陷阱/过场动画/对话”之类的内容）。该检查发生在0x0079f022处。↩︎<br />如果未来的自己想要寻找证据，这个例外位于0x0079f063。↩︎<br />我使用基于《天际》Creation Kit制作的简易Mod使这些墙体可见，但你也可以通过调整.esm文件为碰撞图层添加调试颜色来实现相同的效果。↩︎<br />山顶大约能提供~280次触发，而在最佳位置约为~850次。↩︎<br />我是说真的很快，Claude Opus 5.5在仅凭一张指出问题的截图的情况下，大约10分钟内仅尝试两次就完成了这个Mod。↩︎<br />大量的数学计算也找到了“最佳”位置，但它位于地下且无法到达。真理想。↩︎<br />我第一次使用Claude的computer use功能来支持在DaVinci Resolve中制作天际主题的UI弹出窗口，看着它运行又是令人感叹“这简直是魔法”的时刻。非常适合一次性任务。↩︎</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-07 17:08 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ighted-by-domestic-abuse-9b8690190126b4a8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="418" data-content-paragraphs="3" data-published-at="2026-10-07T09:00:45.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 17:00</span>
-</div>
-
-### [“我以为孩子会改变他”：孕期被家庭暴力阴影笼罩的女性们](https://www.theguardian.com/society/2026/oct/07/i-thought-the-baby-would-change-him-the-women-whose-pregnancies-are-blighted-by-domestic-abuse)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ‘I thought the baby would change him’: the women whose pregnancies are blighted by domestic abuse</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/0f2c6d71d1b98d2f8b45fcfc30607cfde3633aff/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8680f681553cf46e7b8c586f2cc1458d" alt="“我以为孩子会改变他”：孕期被家庭暴力阴影笼罩的女性们" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在英格兰，每年向产科机构披露的此类案件估计达2万起。两位幸存者讲述了她们的遭遇。</p>
-<p>随着孕期推进，伊薇（Evie）的情绪日渐麻木，而在购买婴儿监护仪时，她难得流露出了一丝兴奋。她很喜欢它能将实时视频画面传送到自己手机上的功能。“我当时想：‘这真棒，不仅能听到孩子的声音，还能看到孩子。’”遗憾的是，她的伴侣同样对这款监护仪情有独钟。很快，在伴侣的命令下，她不得不走到哪里就把它带到哪里，以便他能随时监视她。“他把它当成了监控工具，”她说。</p>
-<p>到那时，她已被折磨得心力交瘁、惶惶不可终日。自得知她怀孕后，他的控制欲便愈发强烈。到了怀孕第7个月，他甚至开始诉诸肢体暴力。“我们当时正躺在床上看东西，”她回忆起第一次遭受殴打时的情景，“两人起了争执，但他开始变得异常凶狠……气氛让人感觉越来越危险，他看起来情绪极度狂躁。于是我挪了挪身子，坐到了床边。突然间，他使尽全力一拳狠狠砸在我的手臂上。接着他又砸了一拳。那股冲击力就像被重鞭抽打一样。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-10-07 17:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/oct/07/i-thought-the-baby-would-change-him-the-women-whose-pregnancies-are-blighted-by-domestic-abuse" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ons-to-dislike-ai-coding-4707edb81cbb1852" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1492" data-content-paragraphs="12" data-published-at="2026-10-07T05:34:50.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-07 13:34</span>
-</div>
-
-### [反感 AI 编程的种种理由](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Reasons to dislike AI coding</div>
-
-<div class="article-body" data-article-body="true"><p>我之前在《艺术还是工具？》（Art or tool?）一文中谈到过这点：如果你把软件视为艺术创作的产物，那么生成出来的软件就不是真正的软件，因为它缺少作为真正艺术标志的那种不可言喻的创造性。</p>
-<p>对此观点无法反驳，唯一的例外是：想要软件的人通常并不是在为艺术品买单，而是在为结果买单。而无论某个物件是如何制造出来的，使用该物件所产生的结果都是相同的。</p>
-<p>这也意味着对此观点同样无法立论支持，除非你把以下观点当作公理：能被称为艺术的东西只能由人创造；并且使用这套特定的工具会在人与作品之间造成过大的隔阂，而历史上没有任何其他工具会在人与作品之间造成如此巨大的割裂。</p>
-<p>这一点我之前在《论运转中的机器》（On working machines）中也探讨过：如果你认为敲代码是你获得报酬的原因，而雇主现在拥有了一台能够敲代码的机器，那么这台机器就“抢走了你的工作”。</p>
-<p>然而，这份工作从来就不是为了敲代码，而是为了交付有价值的软件。仍然能够做到这一点的人，依然可以从需要完成这项工作的组织那里获得报酬。而且正如我在引用的文章中所说，随着应用变得更加高效，需求只会增加。</p>
-<p>如果你认为软件创作是一种人与人之间的协作努力，那么将软件生成的任务描述转化为提示词、再由软件根据提示词生成更多软件，这种体验确实令人丧失人性化。</p>
-<p>几个世纪以来，社会的轨迹一直如此。以下是《机器论片断》（Fragment on Machines）中的一段引文：</p>
-<p>“……劳动资料一旦被纳入资本的生产过程，就会经历不同的形态变化，其最高阶段就是机器，或者更确切地说是机器的自动体系（机器体系：自动的机器体系只是它最完备、最充分的形式，只有它才把机器转变为一个体系），它由自动机、由一种自身运动的动力所驱动；这个自动机由许多机械的和智力的器官组成，以至于工人自己只是被当作它的有意识的连结纽带。[……]<br />因此，知识和技能的积累，社会智力的一般生产力的积累，就这样被资本吸收，与劳动相对立，从而表现为资本的属性，更具体地说是固定资本的属性，只要它作为真正的生产资料进入生产过程。”</p>
-<p>这段由卡尔·马克思在大约 1857 至 1858 年间写下的文字表明，无论是机械工作还是智力工作，历来都注定要被机器所取代（在预测智力劳动的异化时，马克思很可能借鉴了他对同代数学家查尔斯·巴贝奇理论的了解）。在这种情况下，夺走工作的不是技术，而是生产方式。既然编程属于智力工作，生产资料实际上就是我们的大脑，我们理应能够掌握它们。</p>
-<p>受贝特朗·迈耶（Bertrand Meyer）的《写给聪明人的 AI》（AI for Smarties）所启发：如果你认为软件工程是软件工程师高深知识的缜密应用，被封装在 SOLID 原则、“多用组合少用继承”、“善用你的类型”、德墨忒尔定律等规则之中，那么 AI 绝不可能编写软件，因为它并不遵循这些规则，它只是生成了刚好能够编译的代码文本而已。</p>
-<p>尽管计算机历史上的大部分时间里，人们对待软件采取的都是经验主义方法：从 Stack Overflow 复制代码并反复调整直到能够运行；照着《数值算法》（Numerical Recipes）或《Sinclair User》杂志上的代码清单抄下来并不断调整直至正常工作；编写宏命令以自动化复制环节，等等。</p>
-<p>如果你认为大型 AI 公司是由那些并不把全人类最大利益放在心上的人所经营的（延伸阅读：上面未引用的卡尔·马克思的所有著作），那么 AI 编程就是糟糕的，因为它支持了这些公司。只要你不允许创建其他公司，不允许使用学术模型或社区模型等非商业模型，诸如此类。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-07 13:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--how-fast-is-python-3-15-afdecd136fba8911" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4340" data-content-paragraphs="46" data-published-at="2026-10-07T02:58:16.000Z" data-time-source="publication">
+<div id="story-the-case-for-cbuild-html-2925bc4913856ffe" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5187" data-content-paragraphs="27" data-published-at="2026-10-07T16:23:03.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-07 10:58</span>
+  <span class="news-meta-time">🕒 2026-10-08 00:23</span>
 </div>
 
-### [Python 3.15 到底有多快？](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
-<div class="original-title-sub"><span class="orig-tag">原文</span> How fast is Python 3.15?</div>
+### [为小型社区打造发行版构建工具](https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Creating distro build tooling for a small community</div>
 
-<div class="article-body" data-article-body="true"><p>又到了十月，这意味着又是时候体验 Python 新版本了（从严格意义上讲，我使用的是 3.15.0rc3 版本，距离官方正式发布 3.15 还有几天时间）。就像一年前我撰写的 Python 3.14 性能文章一样，今天我将分享我非正式 Python 基准测试的新一轮运行结果，将 Python 3.15 与一直追溯到 3.10 的早期解释器版本进行对比。</p>
-<p>如果你对图表和表格不感兴趣，只想阅读我的分析，欢迎直接跳到文末的结论部分。</p>
-<p>我刚刚把我的基准测试称为“非正式”。这是什么意思呢？</p>
-<p>要对一种编程语言的性能得出客观且普适的衡量标准是不可能的。你所能做的只是编写一些程序并运行它们，以衡量它们的性能。其他程序可能会表现出类似的性能特征，也可能不会，这真的无从得知。我对该基准测试的初衷只是想了解 Python 各版本之间的性能变化，但我想明确说明的是，我并不是试图获取 Python 解释器的全面性能分析全貌。</p>
-<p>在本次基准测试中，我将运行名为 fibo.py 和 bubble.py 的两个程序，如果你愿意的话可以查看它们。这些程序与我在以往各期基准测试中使用的程序相同。第一个程序用于计算斐波那契数列中的数字，第二个程序则使用冒泡排序算法对数字进行排序。</p>
-<p>我选择这两个程序作为两类算法的代表。斐波那契数列的计算采用递归方式，我发现这在 Python 解释器中效率较低。另一方面，冒泡排序仅使用 for 循环，没有任何递归。我的基准测试并未试图涵盖其他类型的程序。特别需要注意的是，我并没有在此基准测试中包含 I/O 密集型代码。</p>
-<p>因为近期 Python 版本中的一些性能改进是围绕多线程展开的，所以我也为每个程序创建了一个多线程变体，因此总共有四项不同的测试。</p>
-<p>完整的测试矩阵实际上相当复杂，因为我必须在所有 Python 版本下运行这四种程序变体，外加针对具备相应功能的版本运行 JIT 和无 GIL（free-threading）备选配置。我还喜欢在 PyPy 下运行这些测试，因为在以往的基准测试中，该解释器表现出了令人印象深刻的性能。为了将 Python 的性能置于更广阔的生态系统中进行考察，我还将这两个程序移植到了 JavaScript（Node.js）和 Rust。</p>
-<p>以下是我所采用的完整测试矩阵：</p>
-<p>读过我以往基准测试的读者可能还记得，我的矩阵中曾包含 Linux 与 macOS 对比的额外维度。鉴于前两次基准测试中两者之间并无显著差异，这一次我决定放弃 macOS 测试，因此所有测试均在一台搭载英特尔酷睿 i5 CPU 并运行 Gentoo Linux 的 Linux 笔记本电脑上执行。</p>
-<p>我用来衡量此基准测试中每个参与对象性能的方法是将测试程序运行三次，并取这三次的平均用时。在下面分享的结果表格中，我还展示了与 3.15 版本的速度差异，以及在合适的情况下与特定解释器上一版本的速度差异。在速度比较方面，我使用了简单的比率，其中 1x 表示速度相同，0.5x 表示速度为一半（或运行时间翻倍），2x 表示速度快一倍（或者如果你喜欢的话，运行时间缩短一半），依此类推。希望这直观易懂。</p>
-<p>让我们开始吧。第一项测试是计算前 40 个斐波那契数。</p>
-<p>在下方你可以看到上述速度的图表形式：</p>
-<p>从这些结果中我们可以推断出，在此项测试中，Python 3.15 仅比 3.14 快了一点点，可能微不足道。正如我在往年所观察到的那样，PyPy 3.12 的性能极为惊人，达到了 3.15 速度的 5.5 倍，甚至略微领先于 Node.js。至于 Rust，毫无悬念，但知道极限在哪里总是好事！</p>
-<p>将每个 Python 版本与上一版本进行对比，揭示了一个有趣的细节：仅有 Python 3.11 和 3.14 这两个版本较其前代产品实现了显著的性能提升。你可以在图表中清楚地看到这一点，即柱状图高度相比前一个版本出现了较大幅度的下降。其他版本要么保持了相同的速度，要么带来了小幅提升，因此总体上始终是在进步的。</p>
-<p>在下一组结果中，你可以看到 Python 的 JIT 和无 GIL（FT）版本在同一测试中的进展。请记住，Python 解释器的这些替代版本最初是在 3.13 中引入的，因此需要评估的版本范围要小得多。</p>
-<p>以下是包含这些结果的图表：</p>
-<p>实际上，最有趣的事情在于，在同一测试中，3.15 解释器中的 JIT 比标准解释器更快，而在前几年并非如此。而且 1.20 倍的速度提升绝非微不足道，看到这一点非常令人兴奋！</p>
-<p>在无 GIL 方面，由于该测试是单线程的，因此确实没有太多值得期待的。但我们可以说，无 GIL 解释器的性能与 3.14 版本的解释器大致相当。</p>
-<p>现在让我们来看看第二项测试。以下是单线程冒泡排序测试的表格和图表，该测试配置为对 10,000 个随机数进行排序：</p>
-<p>与上一项测试一样，在这里我们也可以看到 3.15 相对于 3.14 只有非常微小的性能提升。我们再次看到 3.11 和 3.14 是近期真正推动性能显著提升的两个 Python 版本。部分版本在此项测试中甚至出现了轻微的性能倒退。PyPy 依然非常快，但在这项测试中 Node.js 表现更快。</p>
-<p>接下来的表格和图表显示了 Python 解释器的 JIT 和无 GIL 版本的测试结果：</p>
-<p>这展示了与第一项测试相同的总体格局。3.15 JIT 再次展现出了相比常规解释器令人印象深刻的 1.28 倍速度提升。无 GIL 版本相比标准解释器出现了性能下降，但 3.14 解释器也出现了类似的下滑，因此这并不算退步。正如我之前所说，这并不太重要，因为该测试是单线程的，所以它并非能让无 GIL 解释器大显身手的那类应用。我认为期望无 GIL 解释器的表现与常规解释器相当是合理的，因此从这个角度来看，我们仍可以说还有很多工作要做。</p>
-<p>现在让我们重复所有测试，但改为并行运行 4 个线程。鉴于这是一项专门设计用来评估 Python 解释器无 GIL 版本的特定测试，我舍弃了非 Python 的运行配置。</p>
-<p>为了获得基准数据，我首先在标准 Python 上运行了多线程测试。必须明确说明的是，这些结果对 CPython 来说必然是不理想的，因为全局解释器锁（GIL）阻止了线程间的真正并发。以下是多线程斐波那契测试的结果和图表：</p>
-<p>该测试显示 3.15 比 3.14 略慢一点。我们在单线程测试中已经看到 3.15 解释器仅比 3.14 略快，因此总体而言，我认为可以说标准解释器的速度与 3.14 基本持平。在此我们还可以看到，PyPy 依然大幅领先标准 Python，但在启用多线程后，其速度也以类似的比例放缓，因为 PyPy 的并发同样受到 GIL 的影响。</p>
-<p>现在让我们来看看 Python 解释器的 JIT 和自由线程（free-threading）版本在此项测试中的表现。</p>
-<p>Python 3.15 解释器的自由线程版本运行速度大约是标准解释器的 4.5 倍，这一比例与 3.14 大体相同。这种显著的速度提升归功于解释器在没有 GIL 的情况下运行，从而实现了更高效的线程并发。</p>
-<p>我们从这些结果中获得的第二个观察是：带有 GIL 运行的 JIT 版解释器，即使在运行多线程时，也对标准解释器保持了类似的优势，而这正是 3.15 中的新特性。</p>
-<p>我们还有最后一组测试结果需要审视。以下是冒泡排序测试的标准解释器结果：</p>
-<p>这再次与先前的结果大体一致，3.15 解释器仅比 3.14 快一丝一毫。</p>
-<p>既然我们已经有了该测试的基准数据，接下来看看 JIT 和自由线程解释器的表现：</p>
-<p>在这里，自由线程版 3.15 解释器再次快于标准版。尽管提升幅度不如斐波那契测试中那么亮眼，但这类程序仍然是无 GIL 解释器的一个良好用例。</p>
-<p>至于 JIT 的结果，它们似乎与该解释器的所有其他运行情况保持一致，显示出 3.15 中的巨大改进。</p>
-<p>希望您喜欢查看我的基准测试。也许除了看到一堆数字和彩色图表之外，您还想知道这一切在实际意义上意味着什么。</p>
-<p>在结束本文之前，我想就这些数据所反映的情况给出我的个人解读，因为您可能想知道升级到 3.15 是否合理，以及升级后可以预期获得哪些改进。在这一部分中，我们将离开确定性事实，进入个人观点的领域，因此请记住，其他人查看这些数据可能会得出与我完全不同的结论！</p>
-<p>说完免责声明后，我想表达的是，在运行这些测试后，我的直觉是 Python 3.15 在性能方面充其量只是对 3.14 的相当微小的改进。我最终可能会升级目前运行在 3.14 上的生产项目（例如本网站），但目前获得的结果并没有让我产生急于升级的冲动——而去年在看到 3.14 如此出色的表现后我确实迫不及待地升级了。</p>
-<p>在 3.15 版本中唯一有明显改进的领域是 JIT。但 JIT 仍然是一项实验性功能，因此将其用于生产环境并不是一个好主意。只有当 JIT 脱离实验阶段时，我才会考虑在生产中使用它。</p>
-<p>除了 JIT 之外，此版本并没有真正带来任何显著的性能提升。一些测试确实显示出小幅的性能增量，但其他测试则显示出性能倒退，因此我不指望这些微小变化能在现实世界的项目中转化为显而易见的性能差异。老实说，我觉得继续在 3.14 上停留几个月，甚至等到一年后 3.16 发布时再评估新版本，并不会让我失去任何东西。</p>
-<p>不过，我确实计划将 3.15 作为我日常使用的主要解释器，并且我也许最终会升级我的一些生产项目，仅仅是为了使用一些新功能，例如类 JavaScript 的推导式解包或惰性导入（lazy imports）。</p>
-<p>感谢您访问我的博客！如果您喜欢这篇文章，请考虑通过“Buy me a coffee”进行小额一次性捐赠，以支持我的工作并为我补充咖啡因。谢谢！</p>
-<p>如果您喜欢本博客上的 MicroPython 教程系列，您可能也会喜欢我的《Raspberry Pi Pico W 上的 MicroPython》一书。</p>
-<p>我是一名软件工程师兼技术作家，目前居住在爱尔兰的德罗赫达（Drogheda）。</p>
-<p>生成式人工智能声明：我不使用大语言模型（LLM）、智能体或任何其他生成式 AI 工具来协助本博客或我的开源项目相关的写作、编码、图像创作或任何其他任务。</p>
-<p>您也可以在 Github、LinkedIn、Bluesky、Mastodon、Twitter、YouTube、Buy Me a Coffee 以及 Patreon 上找到我。</p>
-<p>感谢您的来访！</p></div>
+<div class="article-body" data-article-body="true"><p>一段时间以来，很多人一直在就此发表评论，因此我想写一篇简短的文章，总结一下我对这一问题以及其他所有事情的看法。</p>
+<p>Chimera 是一个规模较小的项目。它的存在主要是为了服务其自身的社区，而非任何外部实体。</p>
+<p>确保维护成本尽可能低是至关重要的。Chimera 及其工具链旨在自动消除大部分枯燥繁琐的工作，并确保打包者的工作体验愉快而不受打扰。在某种程度上，我们的目标是让每位用户都能成为打包者。准入门槛必须非常低。</p>
+<p>这意味着一些事情（我会尽全力让这些内容合乎逻辑且易于理解，遗憾的是岁月不饶人，我可能会把一些假设视为理所当然，所以还请多多包涵；这也适用于后面的章节）：</p>
+<p>从零开始搭建所有环境的常见工作流程大致如下：</p>
+<p>更新操作将这样完成：</p>
+<p>该工具链提供了用于保持本地仓库整洁的常用实用程序，例如清理旧软件包等；它还提供了用于提升版本号和修订版本的维护工具、检查依赖关系图的工具、通过 update-check 检查新版本的工具（对于大多数通过通用 git 托管平台分发的内容，这不需要额外的精力或专门的代码）、检查本地仓库是否可以对照远程仓库进行提交释放（unstaged，验证你是否真正重新构建了所有需要重新构建的内容）的工具，以及更新模板中的 sha256 校验和的工具。它甚至支持特定模板的自定义操作，例如为编译器构建引导程序 tarball。它还支持别名以减少打字量。</p>
+<p>检查某个软件包是否有更新：</p>
+<p>在批量打包方面，它支持一些有趣的功能。例如，它集成了 git：</p>
+<p>它支持常见的功能，比如：</p>
+<p>我还能提及很多内容。我还想谈谈我们是如何走到今天、我们是如何起步的，以及我们的基础设施是如何运作的。</p>
+<p>我在 2006/2007 年左右开始使用 Linux，并很快将 Debian 作为我的长期操作系统。大约在同一时期，我开始认真涉足编程，这两者的交集最终促成了为 Debian 进行软件包打包。Debian 拥有大量用于处理打包工作的工具链，尤其是其社区驱动的方式真正吸引了我，因此我有一段时间维护了一批软件包。这种情况持续了一阵子，直到我逐渐转向其他事物，并最终定居在 FreeBSD 上。</p>
+<p>在此期间，我没有为 FreeBSD 项目本身做过任何贡献，但我确实尝试了与之相关的各种事务，尽管最终都没有取得太大成果，但在这一过程中我积累了大量有益的经验。</p>
+<p>2016 年，我开始接触 Void Linux（尤其是在工作电脑上不得不使用 Linux 的情况下）。2018 年前后，我的工作站最终选用了 ppc64le (POWER) 平台，而当时 FreeBSD 完全不支持该平台。那时我已经对 Void 有所熟悉，于是决定开启一个 ppc64le 移植版本，我在下游维护它直到 2023 年，并逐渐将其扩展为支持大端序 ppc64 以及经典的 PowerPC。从事下游维护工作使我成为了 Void 的上游维护者之一，我负责了编译器工具链等多项事务达数年之久，并对改进构建工具链产生了兴趣。</p>
+<p>2021 年，我发起了 Chimera Linux 项目，该项目逐渐变得更好、更实用，这促使我完全转向了它，废弃了 Void 的 POWER 移植版本，并于 2023 年从 Void 团队辞职。</p>
+<p>当我在 2016 年开始使用 Void 时，它主要吸引我的是一个准入门槛相当低且不设置阻碍的系统，同时它又足够“规范”，能够像常规 Linux 系统一样运作。最初，我发现其中例如 runit 的工作方式很有趣，在很多方面相较于经典发行版（尤其是在前 systemd 时代）显得耳目一新，而我总体上觉得后 systemd 时代相当乏味且令人生畏。</p>
+<p>这也是我最终选择 Void 来做 ppc64le 移植的原因，因为它给人的感觉是规模小且平易近人，让我有能力合理地靠自己去维护它，同时它拥有一个紧凑且易于沟通的社区，不依附于任何特定的商业实体。</p>
+<p>当我开始进行 ppc64le 移植时，我已经对 Void 的构建工具链略有了解，但直到为了该移植才真正全面掌握了它。</p>
+<p>对于来自大多数其他类 Unix 系统的人来说，xbps-src 非常出色。在 Void 中，发行版的所有打包配置与构建工具都存在于一个单独的 Git 仓库（void-packages）中。在某种程度上，这映射了 BSD 上存在的 ports 系统。然而，ports 系统是基于 Makefile 构建的，你需要使用 make 单独与每个 port 进行交互（并在其之上存在各种用于简化该过程的外部 ports 管理工具）。</p>
+<p>在 Void 中，软件是使用“模板”（templates）进行打包的。每款软件都由一个模板组成，其中包含元数据字段（你知道的，软件包名称、版本、依赖项、源代码 URL 等），外加（可选的）定义如何构建模板的逻辑函数，以及构建所需的额外文件（并不总是需要）和补丁（并不总是需要）。用于构建模板的工具链（xbps-src 本身）也存在于该代码树中。</p>
+<p>与大多数其他系统不同，当你构建软件包时，构建进程并不会在当前执行构建的宿主系统中运行。相反，xbps-src 会构建一个小型容器（使用 Linux 命名空间 namespaces），代表一个最小化的 Void 系统，根据模板元数据（构建依赖等）将内容放入其中，然后运行构建。最后，你将获得一个可供从中进行安装的 xbps 本地软件包仓库。</p>
+<p>大致的工作流程如下：</p>
+<p>这些模板类似于 Arch Linux 的 PKGBUILD 格式或 Alpine 的 APKBUILD 格式，但后者并不采用容器化的方式（至少不总是如此）。</p>
+<p>xbps-src 系统是一组 Bash 脚本的集合，从技术上讲，模板也只是 Bash 脚本，但由于遵循一套既定规范，因此它们通常不会完整发挥该语法的全部功能和特性。</p>
+<p>作为打包者开展工作时，你基本上只需在 srcpkgs 中创建一个新目录，将你的模板连同其他内容放进去，然后进行构建，随后你就拥有了一个可以从中安装的仓库。如果你希望将其提交到上游，只需创建一个分支、提交更改并创建一个 Pull Request。会有人对其进行审查，一旦合并，中央构建基础设施就会接收它，不久之后它就会在中央仓库中可用。</p>
+<p>该系统巧妙地将构建依赖项和运行时依赖项解耦，运行时依赖项通常通过对 ELF 文件及其元数据以及其他文件类型的分析自动扫描获得，因此模板只需指定构建环境中所需的任何内容，而运行时依赖列表在很大程度上是自动生成的。</p>
+<p>该系统支持“构建样式”（build styles），因此你可以声明模板使用 GNU Autotools、Meson 或 Cargo 等工具，它会代为处理绝大部分基础工作，使得模板往往无需包含任何构建逻辑即可呈声明式，从而降低了准入门槛。<br />它对交叉编译的支持也相当出色，允许你将代码仓库中的绝大部分内容交叉构建到任何其他架构上。这很巧妙，但往往也容易马虎，并且由于构建系统在不知不觉中未能通过某些检查等原因，交叉构建的软件包最终会出现原生包所没有的隐晦损坏。在大多数情况下，交叉编译项目时也无法运行单元测试。<br />该系统还拥有一个非常便捷的更新检查机制，能够抓取上游 URL 并在其中查找版本信息，随后向你展示自上次模板版本更新以来可能发生的所有更新。该项目设有每晚运行的定时任务，每天生成一次摘要，让打包者能够随时掌握最新动态。<br />Void 的构建基础设施由数台计算机组成（每台计算机负责处理不同的架构端口），它们使用 Buildbot 软件作为工作节点接入中央编排器。它会从 Git 仓库（void-packages）接收更新，从变更中收集一批任务，计算出正确的顺序，并使用 xbps-src 来构建软件包。<br />它还会使用正确的密钥对软件包进行签名。这是一个独立步骤，xbps-src 本身并不处理（其输出是未签名的）。最终，构建产物会进入上游仓库并被镜像同步。<br />关于 Buildbot 的管理方式，我无法透露太多，因为我从未深入了解过。管理员们拥有一套基于 Ansible、Terraform 以及其他许多组件拼凑而成的基础设施，其组合方式是我所不熟悉的。此外，xbps-src 不会自动为你进行批次排序，因此该流程中的其他环节必须承担这一工作。void-packages 仓库本身之外的事物相对来说是不透明的。<br />在我维护 POWER 移植版时，我有一套自己的脚本来维持运转，完全没有复用 Void 的任何基础设施。这同样是不透明的，且完全是为我的移植版量身定制的。<br />2021 年初夏，我启动了 Chimera 项目。我最初的冲动是想要尝试一种不同的用户空间设置，同时也想拥有一个更偏向个人的项目来做，而无需处理他人的工作成果和既有工作，但我同时也想尝试自己对构建系统的设想。<br />在维护 POWER 移植版期间，我对 xbps-src 有一些最初不满的地方。<br />还有其他一些问题，但这些是我最主要的抱怨。<br />Chimera 是从其构建系统起步的。期间进行了许多实验。最初，cbuild 是使用 Python 完全重写了 xbps-src。在 cbuild 中，模板也是 Python 脚本，但得益于 Python 所允许的底层技巧，它们看起来并不总是像脚本。它自带了一套非常极简的初始软件包集合，基本上就是一个类似 Void 的基础 chroot 环境，并使用 xbps 作为其包管理器。cports 由此诞生。<br />最初设定的目标有两个：<br />Chimera 最初仅面向 ppc64le 目标架构，是在一台 POWER 工作站上开发的。随着时间的推移，事情变得更加清晰，更多目标架构被加入进来，同时确立了额外的目标以及其他调整。<br />在接下来的几个月里，核心打包工作开始变得更加明确，确立了用户空间工具链等内容，并从 xbps 过渡到了 apk。最初的想法是使用来自 FreeBSD 的 pkg，但事实证明它在当时尚未准备好适应我们的使用方式，且上游建议我们最好换用其他方案。<br />从根本上说，在基本使用层面，cbuild 的体验与 xbps-src 类似。重大的区别在于 cbuild 会对所有内容进行签名，无需单独的步骤，且不允许存在任何未签名的软件包。因此，初始设置更像这样：<br />我们并没有在 xbps 上停留太久。很快，向 apk 的切换就发生了。<br />使用 apk 带来了诸多好处。<br />还有其他优势，但这些最为显著。<br />基础设施的构建过程十分有趣。经过一番深思熟虑并放弃了最初从头构建新编排器的意图后，我们最终再次选用了 Buildbot。然而，我们的 Buildbot 中存在一个重要的差异。<br />我对 Void 基础设施的不透明性，以及它在 xbps-src 之外承担了如此多的工作感到不满。我确立了一条全新的规则：<br />打包者本地运行的内容与远程构建机器运行的内容完全一致。<br />Chimera 基础设施的构建步骤大致如下：<br />步骤 4、5、6 可以合并为一条单指令 cbuild 命令：<br />这类批量构建中最棘手的部分在于正确的排序。假设你想要在批处理中构建软件包 A 和 B。存在一个软件包 C，A 依赖于 C，而 C 依赖于 B。既然这使得 B 处于 A 的依赖树中（通过 A-&gt;C-&gt;B），那么 B 就需要先构建。如果仅知道 A 和 B，你是无法获知这一点的，因为 C 并不在该批次中。<br />由于 cbuild 运行极快，且无需缓存即可极快地解析整个集合，因此它可以考虑所有中间依赖项，并轻而易举地生成正确的排序图。它还可以简单地解析每个模板以评估其是否可构建，并将其与仓库状态进行比对。因此，在每次构建时，它始终可以从零开始执行该过程，编排器无需做任何事情，每个步骤彼此之间很大程度上是独立的。<br />构建集群不执行任何其他操作。还有其他辅助基础设施，例如我们的 IRC 提交机器人（通过 Webhook 触发并通报变更），以及等同于 Void 的每晚更新检查机制，让打包者能够随时掌握动态。<br />总体而言，我们基础设施中任何部分所做的一切，都可以在本地轻松执行。<br />我们的集群是自建自托管的。编排器和大多数构建器运行在 Chimera 宿主系统上，但它们并不强制必须如此。目前包括：<br />构建器不对互联网公开发布，编排器则在自身独立的机器上面向公网。主仓库同样位于其独立的专属机器上。每个架构都有其独立的签名密钥。<br />所有这些内容可能有些太长、信息量太大了。因此，我就在这里收尾，希望我没有遗漏任何事情。希望这篇文章读起来很有趣，没有让大家感到枯燥乏味，也没有过于晦涩难懂。<br />像往常一样，你可以在我们的 IRC 上随时提出任何问题。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-07 10:58 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-08 00:23 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -532,7 +252,39 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-2026-10-06-zeroization-1-5830d846b4c954e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2174" data-content-paragraphs="1" data-published-at="2026-10-07T16:22:50.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-08 00:22</span>
+</div>
+
+### [清零机制（第1篇）：数据擦除反而可能适得其反](https://00f.net/2026/10/06/zeroization-1/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Zeroization, part 1: Wiping can make things worse</div>
+
+<div class="article-body" data-article-body="true"><p>在处理机密数据时，用完即擦除是一种良好的安全习惯。<br />开源项目也常常收到无数个拉取请求（PR），试图为任何看似机密的数据添加清零函数的调用。<br />这是一项唾手可得的低垂果实，也是大型语言模型（LLM）非常喜欢报告的内容，而且理论上听起来非常有用。但不幸的是，实际情况要复杂得多。盲目地清零机密数据可能会弊大于利。<br />事实证明，为机密数据添加擦除操作，可能会比原始代码留下更多的数据副本。这些副本若没有添加擦除操作本不会存在，并且在函数返回后依然残留在内存中。<br />代码片段及其编译生成的汇编输出可以在这个 Godbolt 示例中进行验证。<br />典型的起点：那个老生常谈的、被编译器优化掉的 memset() 调用：<br />我们计算出一个中间值，用它生成最终结果，然后在返回前将其清除。<br />现在移除 memset() 并对比生成的指令，它们完全一致。<br />编译器足够聪明，能够理解擦除中间值是一个无用操作，因为在函数返回后，该值再也不会被读取。<br />解决该问题最常见的做法是：将 memset() 替换为 volatile 字节写入：<br />让我们这样做并观察 arm64 的输出结果（我使用的是 Xcode，搭载 Clang 21）：<br />八条 strb 指令。wzr 寄存器提供零值。<br />太棒了，我们击败了编译器的优化阶段，切实向栈内存写入了八个零字节！<br />等等……将我们的中间值存入这些栈位置的指令在哪里？<br />令人意外的是：根本没有这条指令。<br />x8 寄存器保存着中间值。我们刚才只是向从未接收过待擦除数值的内存位置写入了八个零字节。<br />接着，函数从 x8 计算出结果并直接返回，完全没有清除它。<br />实际的机密值依然留在寄存器中，而我们只是白白浪费了 CPU 周期。<br />让我们尝试另一种常见方法：将擦除代码放在独立编译的文件中的专用函数里，并且不开启链接时优化（LTO）。<br />也就是类似于加密库中随处可见的某种 secure_zero() 函数变体：<br />调用方只能看到函数声明，因此在编译该调用时无法检查其实际实现：<br />很好，现在让我们看看调用方的汇编输出。<br />有趣的是：在调用之前出现了一条新指令：<br />嗯？我们现在竟然把中间值存储到了栈上？原始函数可没有这么做！<br />是的，擦除操作需要一个内存地址。既然调用方看不到具体实现，它就必须考虑到被调用方可能会读取该地址上的旧内容。因此，它首先会将该值写入栈中。<br />擦除函数清除了那个新的栈副本，却对 x8 寄存器不管不顾。<br />此外，公认的只写操作可能会跳过这次特定的存储；如果启用了 LTO（如今这已是常态），我们试图将实现隐藏在另一个文件中的做法很可能会彻底失效。<br />现在让我们来看一个非常普遍但稍微复杂一点的场景：计算一个标签（如 HMAC 输出等）、进行比较、擦除标签，然后返回结果。<br />在这个例子中，我们将标签计算为 seed[i] ^ 0x5a。这完全是愚蠢且不安全的，但很容易在汇编中追踪。<br />我们希望以安全的方式将其与应用程序提供的标签进行比较。<br />分别编译调用方和擦除函数，不开启 LTO：<br />在 C 语言代码中，比较操作出现在擦除操作之前。<br />但让我们仔细观察反汇编输出。<br />等等。为什么在异或（XOR）之后会有两次 q0 的存储？<br />为什么比较指令 cmeq 会出现在擦除调用之后？<br />为了弄清原因，我们来绘制栈布局。我们将分配栈帧后的栈指针称为 S；帧指针 x29 为 S + 64。<br />啊！编译器在调用擦除之前加载了比较操作数，但把比较操作本身推迟到了调用之后。<br />为了在跨函数调用时仍能保留计算出的标签，它在溢出槽（spill slot）中创建了第二个副本。<br />我们的擦除操作完美清除了所要求的 16 字节，这里没有问题。随后 ldp 指令重新加载了另一个副本，cmeq 进行了比较。<br />但是在函数返回之前，没有任何操作去清除那个溢出槽！<br />现在有趣的部分来了：如果我们移除擦除操作并重新编译会怎样？<br />添加擦除操作，反而创建了被我们遗留在那里的副本。<br />请注意，这里并不存在编译器错误。返回值是正确的，寻址对象被覆写了，而 C 语言并未向你保证这两个事件之间符合你预期的安全顺序。<br />你可以在 Godbolt 中对比这两个函数。<br />在那里，寻址对象位于 sp + 32 而不是 sp + 40（这是我在 Xcode 中得到的结果），但位于 sp + 16 的额外副本依然在擦除后幸存了下来。<br />禁用栈保护会生成不同的代码，但这更像是一种偶然且不可靠的副作用，算不上修复措施或好主意。<br />因此，我们有时白白付出了存储指令的代价，有时多付出了一次新调用和栈副本的开销，而机密信息却依然存在。对于一个原本旨在改善清理工作的改动来说，这实在令人沮丧。<br />这是否意味着我们应该停止擦除密码缓冲区？不：那些缓冲区本就存在于内存中，用完后将其清除是有用的。对于已分配的密钥编排（key schedule）或即将停用的上下文也是如此。<br />但在上述示例中，我们所关心的值同时还存在于其他地方。<br />因此，在为小型局部变量添加擦除之前，请检查该值是否已经存在于内存中、获取其地址是否会创建额外的存储空间，以及跨调用有哪些数据仍处于活跃状态。检查你实际交付的优化构建，包括 LTO 和安全加固标志。<br />或者，不要再盲目地四处调用缓冲区擦除函数了。还有更可靠的技术来擦除机密数据。<br />我们将在第 2 篇中探讨这些内容。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-08 00:22 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://00f.net/2026/10/06/zeroization-1/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 ::::

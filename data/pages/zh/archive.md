@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-07 · 今日](/INFO-LIVE/archive-2026-10-07/)
+- [2026-10-08 · 今日](/INFO-LIVE/archive-2026-10-08/)
+- [2026-10-07 · 历史快照](/INFO-LIVE/archive-2026-10-07/)
 - [2026-10-06 · 历史快照](/INFO-LIVE/archive-2026-10-06/)
 - [2026-10-05 · 历史快照](/INFO-LIVE/archive-2026-10-05/)
 - [2026-10-04 · 历史快照](/INFO-LIVE/archive-2026-10-04/)
@@ -48,14 +49,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **111** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **112** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-07 23:42 (UTC+8)
+- **最新归档时间**：2026-10-08 10:07 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-08 10:07 (UTC+8)" title="全球要闻情报简报 · 10:07" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-08 10:03 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】机器人数据初创公司 Mecka AI 获红杉资本 6000 万美元投资：Mecka AI 是一家收集并分析人体运动数据以训练人形机器人及其他类型机器人的初创公司。该公司宣布已完成由红杉资本（Sequoia）领投的 6000 万美元 B 轮融资，英伟达（Nvidia）、微软旗下风投基金 M12 等参投。TechCrunch 此前曾报道，该初创公司即将以 5 亿美元估值完成新一轮融资。；【undefined】当风投机构涌向旧金山之际，Endeavor Catalyst 为“其他地方”的创始人筹集3.2亿美元：Endeavor Catalyst已完成第五支基金的募集，获得3.2亿美元资本承诺，使该公司的管理资产总额超过8.5亿美元。对于湾区以外的创始人来说，这一融资消息令人振奋；随着越来越多的基金将重点明确放在硅谷的人工智能公司上，这些创始人面临着被忽视的风险。；【undefined】与文化遗产的情感联结对数字博物馆参与度影响最强：作者：东京科学大学（Institute of Science Tokyo） 编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：亚历山大·波尔（Alexander Pol） 本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性：；【undefined】宝马iX4 SUV是一款续航428英里的防御性武器，旨在抵御中国电动车的攻势：本主题的文章将添加到您的每日电子邮件摘要和主页信息流中。 查看全部“交通”栏目；【undefined】数字金融研究绘制心理学、算法与风险关联图谱：作者：戴维·布拉德利（David Bradley），Inderscience 编辑：加比·克拉克（Gaby Clark），审校：亚历山大·波尔（Alexander Pol） 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：；【undefined】后备箱装十箱矿泉水被罚？专家：私家车载物有四个前提：近日，网传一名车主在后备箱装了十箱矿泉水被扣3分、罚款100元，网传说法还称，交警给出的解释是，这种行为是“客货混装”，且私家车属于非营运车辆，在后备箱装载大量整装商品即构成违法。这一网传案例是否属实、处罚逻辑又是否符合法律规定呢？私家车后备箱装物品，怎么装、装到什么程度算违法违规？；【undefined】肯·帕克斯顿在特朗普集会上公开质疑詹姆斯·塔拉里科缺席11天，引发竞选团队回应：德克萨斯州总检察长肯·帕克斯顿（Ken Paxton）周三在唐纳德·特朗普总统于圣安东尼奥举行的集会上，质疑民主党参议员候选人詹姆斯·塔拉里科（James Talarico）在竞选活动中的缺席，在距离11月中期选举不到一个月之际引发了对手竞选团队的回应。；【undefined】养老服务消费券，如何推进应享尽享：养老服务消费券，如何推进应享尽享(政策问答·回应关切)
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261008/braziliya-2123073261.html) <span class="news-meta-time">🕒 2026-10-08 09:56</span>
+- [TechCrunch (硅谷创业与资本)] [机器人数据初创公司 Mecka AI 获红杉资本 6000 万美元投资](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/) <span class="news-meta-time">🕒 2026-10-08 07:36</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-08 10:00</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1x0brq9/margaret_hamilton_computing_pioneer_who_led/) <span class="news-meta-time">🕒 2026-10-08 07:31</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-border-dilutes-revenue-previously-thought.html) <span class="news-meta-time">🕒 2026-10-08 10:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261008/ukraina-2123073032.html) <span class="news-meta-time">🕒 2026-10-08 09:50</span>
+:::
 :::timeline-item{start="2026-10-07 23:42 (UTC+8)" title="全球要闻情报简报 · 23:42" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-07 23:37 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -648,18 +662,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [以最小代价实现沙箱化](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/) <span class="news-meta-time">🕒 2026-09-23 13:08</span>
 - [Phys.org (基础物理与技术前沿)] [牲畜放牧或可促进冰岛亚北极草原的土壤碳封存](https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html) <span class="news-meta-time">🕒 2026-09-23 15:10</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/perm-2119684703.html) <span class="news-meta-time">🕒 2026-09-23 15:49</span>
-:::
-:::timeline-item{start="2026-09-23 09:42 (UTC+8)" title="全球要闻情报简报 · 09:42" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-23 09:33 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】澳大利亚新闻直播：阿尔巴尼斯为应对白宫批评的社交媒体整顿措施辩护；威尔逊与乔伊斯唇枪舌剑：关注当天新闻的直播；【undefined】马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界：马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界 | 国际早察；【undefined】卡玛拉·哈里斯称“对多元、公平与包容的攻击就是对孕产妇护理的攻击”，与埃尔-赛义德共同出席活动：前副总统卡玛拉·哈里斯周二表示，对多元、公平与包容（DEI）的攻击就是对孕产妇护理的攻击。当天，她在底特律与民主党美国参议院候选人阿卜杜勒·埃尔-赛义德一同出席活动，为11月中期选举前争取支持。；【undefined】随着对人工智能训练数据的需求激增，Snorkel AI估值增至35亿美元：帮助人工智能实验室和企业构建训练数据集及模拟环境的初创公司Snorkel AI，已以35亿美元的估值完成3.5亿美元E轮融资。；【undefined】GPT-6 迎来更强大的提示词缓存机制：更高的缓存命中率与全新工具，助力持久型智能体运行更快、成本更低。；【undefined】Rabbit推出的新AI代理无需R1即可运行：有关该主题的文章将添加到你的每日电子邮件摘要和首页信息流中。 这家初创公司的AI代理可以在Windows、Mac和Linux设备上本地运行。 这位作者的文章将添加到你的每日电子邮件摘要和首页信息流中。 查看Emma Roth的全部文章 据Wired此前报道，推出了表现不佳的R1设备的Rabbit公司正在推出一款独立的AI代理，用户无需使用其硬件即可运行该代理。这家初创公司表示，其全新的OS3“代理型操作系统”运行在云端，但可以在Wind；【undefined】高通骁龙 8 Elite Gen 6 也推出 Extreme 版本：本主题的文章将添加到您的每日电子邮件摘要和首页信息流中。；【undefined】摩托罗拉这款外形狂野的 Signature 27 搭载高通全新 Extreme 芯片：摩托罗拉是首家宣布推出搭载高通顶级 Snapdragon 8 Elite Extreme Gen 6 芯片手机的公司。Signature 27 有望成为摩托罗拉数年来最先进的旗舰手机之一，不过我们仍在等待其完整规格、价格和发布日期。任何潜在买家首先都必须接受它的外观设计，而这一设计似乎注定会引发褒贬不一的评价。这款铝制手机机身纤薄，有黑色（抱歉，官方称其为“潘通煤烟黑”）和绿色（“潘通卡普莱特橄榄绿”）两种配色，其中一种采用编织战术纹理
-
-**重点要闻索引：**
-- [ANSA Mondo (意大利安莎社官方意大利文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html) <span class="news-meta-time">🕒 2026-09-23 09:29</span>
-- [The Verge (前沿数码科技)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) <span class="news-meta-time">🕒 2026-09-23 08:17</span>
-- [CNBC Markets (CNBC 市场官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) <span class="news-meta-time">🕒 2026-09-23 08:58</span>
-- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426) <span class="news-meta-time">🕒 2026-09-23 08:32</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-parents-squabbles-kids.html) <span class="news-meta-time">🕒 2026-09-23 09:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/moskva-2119635738.html) <span class="news-meta-time">🕒 2026-09-23 09:27</span>
 :::
 ::::
