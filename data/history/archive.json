@@ -1,5 +1,1549 @@
 [
   {
+    "timestamp": 1791450819869,
+    "timeDisplay": "2026-10-08 17:13 (UTC+8)",
+    "date": "2026-10-08",
+    "runId": "feed-20261008T090810269Z-cfoknh",
+    "generatedAt": "2026-10-08T09:13:39.869Z",
+    "hourlyBriefing": {
+      "title": "本小时全球资讯要闻简报",
+      "lead": "本时段重点动态聚焦外交与安全局势：韩国外交部决定召回驻乌克兰大使；俄罗斯国防部称在21个地区击落乌克兰无人机。文体领域方面，奥运体操名将拜尔斯夫妇名下德克萨斯州房产迅速觅得买家。",
+      "signals": [
+        "韩国外交动作突显涉乌局势敏感度上升，韩国正式召回其驻乌克兰大使。",
+        "俄乌空袭与反制持续，俄方通报称跨多个行政区拦截乌方无人机。",
+        "文体名流资产处置引发关注，拜尔斯夫妇挂牌数日后成功出售过渡住宅。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析的文章",
+      "lead": "当前证据包未提供目标文章的标题、正文、来源或可核验事实，无法形成可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 94,
+      "completedTasks": 94,
+      "succeeded": 85,
+      "degraded": 9,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 94,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 329536,
+      "byRole": {
+        "translator": {
+          "attempts": 60,
+          "succeeded": 51,
+          "degraded": 9
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 94,
+          "succeeded": 85,
+          "degraded": 9
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-19-translator-0",
+      "article-37-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-2"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.184Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.840Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.191Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.838Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.990Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.153Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.031Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.447Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:55.263Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.742Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:55.067Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.472Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:56.742Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.963Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.577Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.736Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.153Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.438Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.147Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.427Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.840Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.147Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.838Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.100Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.785Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.094Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.833Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.901Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:56.396Z",
+        "lastSuccessAt": "2026-10-08T09:07:57.001Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:55.437Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.807Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:56.225Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.469Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.354Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.667Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.914Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.031Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.901Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.062Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.416Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.577Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:52.144Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.416Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.641Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.869Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.520Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.791Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-08T09:07:54.422Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.578Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.768Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.768Z",
+        "lastSuccessAt": "2026-10-08T09:07:55.268Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.164Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.422Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:56.469Z",
+        "lastSuccessAt": "2026-10-08T09:07:59.091Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.644Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.746Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.869Z",
+        "lastSuccessAt": "2026-10-08T09:07:55.263Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.783Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.964Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.964Z",
+        "lastSuccessAt": "2026-10-08T09:07:55.414Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:56.472Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.864Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.062Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.164Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.359Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.651Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.447Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.641Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.927Z",
+        "lastSuccessAt": "2026-10-08T09:07:55.437Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-08T09:07:54.746Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.667Z",
+        "lastSuccessAt": "2026-10-08T09:07:55.067Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:52.142Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.914Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.791Z",
+        "lastSuccessAt": "2026-10-08T09:07:55.432Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:52.143Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.990Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:55.268Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.869Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.438Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.520Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:53.736Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.833Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.651Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.783Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.427Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.578Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:55.414Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.225Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:55.432Z",
+        "lastSuccessAt": "2026-10-08T09:07:56.396Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.100Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.359Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:54.094Z",
+        "lastSuccessAt": "2026-10-08T09:07:54.354Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:52.130Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.184Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:52.140Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.191Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-08T09:07:52.142Z",
+        "lastSuccessAt": "2026-10-08T09:07:53.785Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-mintrans-2123142526-html-d0280d7a53ffa8fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минтранс ожидает масштабирования системы посадки по биометрии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-08T09:07:34.000Z",
+        "pubTime": "2026-10-08 17:07",
+        "url": "https://ria.ru/20261008/mintrans-2123142526.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/05/1d/2095500808_0:205:3068:1931_650x0_80_0_0_4d803e6cdae48b6c01d3dc277313194f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-08 17:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261008/mintrans-2123142526.html",
+            "publishedAt": "2026-10-08T09:07:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-autonomous-industrial-ai-d07e6967ea51e852",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Building a safer path to autonomous industrial AI",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T08:17:32.000Z",
+        "pubTime": "2026-10-08 16:17",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "imageUrl": null,
+        "fullContent": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems, where an unexpected decision can have consequences for safety, reliability, and critical infrastructure.\n\nThat makes responsible deployment central to the next wave of industrial automation. “How do we leverage these technologies while maintaining safety, while maintaining reliable operations, while still being able to deliver on the promises of the new capabilities?” asks Arti Garg, chief technologist at AVEVA. The challenge is particularly acute as newer AI systems become more capable but also harder to predict and explain.\n\nOne foundation for making that transition work is data. Industrial systems often contain information across telemetry, service logs, engineering documents, and other disparate sources. Newer technologies can help connect and correlate that information more quickly, giving operators real-time support when diagnosing problems. AI-powered robots could take that a step further by gathering information in hazardous environments without requiring workers to enter them.\n\nBut greater autonomy also requires new approaches to governance. AVEVA’s framework for responsible AI emphasizes security, efficiency, and human safety and oversight. Garg argues that AI should augment rather than replace people in critical decision loops, with guardrails determining where automated systems can act and where human supervisors remain responsible.\n\nSustainability is another part of that equation. AI can help manage complex power systems as renewable generation grows, while organizations also need better ways to understand AI’s own environmental footprint. Garg is involved in an IEEE working group developing a standard methodology for measuring that impact across electricity, energy, resources, water, and carbon.\n\nThe next phase could bring industrial AI further into the physical world, from autonomous robots and drones to AI-assisted coding that allows domain experts to build new applications. But realizing that potential will require more than deploying new technology, says Garg. Organizations will need to rethink business processes, establish appropriate safeguards, and give experienced workers new ways to apply their expertise, creating a model of automation that is not only more autonomous, but safer, more efficient, and more sustainable.\n\n“Autonomous systems, whether they&#8217;re robots or drones, are really going to change the way that we work in plants, in power systems, on mining sites,” says Garg. &#8220;In a way, that will make these types of operations more efficient, much safer for the human beings involved and more productive.”\n\nThis episode of Business Lab is produced in partnership with AVEVA.\n\nMegan Tatum: From MIT Technology Review, I&#8217;m Megan Tatum, and this is Business Lab, the show that helps business leaders make sense of new technologies coming out of the lab and into the marketplace.\n\nIndustrial AI may not be new, but it is developing at a breakneck pace. From modern predictive analytics that can preempt equipment failures, to autonomous robots tasked with inspecting high risk machinery, emerging applications have the potential to transform operational efficiencies. But often used in high consequence environments with minimal margin for error, industrial AI deployed without clarity, security, or accountability could also have catastrophic consequences for critical infrastructure over time. As industries rush to embrace the latest technologies, the goal should always be responsible AI designed to support, rather than replace that all important human judgment.\n\nTwo words for you: sustainable automation.\n\nMy guest today is Arti Garg, chief technologist at AVEVA.\n\nThis podcast is produced in partnership with AVEVA.\n\nArti Garg: Thank you, Megan. It&#8217;s great to be here.\n\nMegan: Thank you so much for joining us. And just to start, if we could set some context for our discussion, can you share a bit about the current state of industrial AI and what AVEVA is working on at the moment as well?\n\nArti: Yeah, more than happy to. And I want to go back to what you already stated, which is that in some ways, industrial AI is not new. It&#8217;s something that, even here at AVEVA, we&#8217;ve been working on for more than 20 years, really thinking about how AI can enhance applications in the industrial sector.\n\nBut what has changed quite substantially in maybe the last few years is the type of AI. We&#8217;ve really moved to these general purpose foundation models, which enable a lot more people to leverage advanced AI technologies. In addition to that, in just the last couple of years, there&#8217;s been an explosion in what&#8217;s known as physical AI and the types of AI that can really accelerate the capabilities of robotics and autonomous systems. And also agentic AI, which also allows for automation at more of the software level.\n\nAnd what we&#8217;re seeing is that while in the past there has been some hesitancy to adopt models that don&#8217;t totally have predictable outcomes, there&#8217;s been a rapid acceleration in adoption of AI even in the industrial sector. One study suggests maybe that&#8217;s almost a 78% increase over the past just two years within the industrial sector. So yes, that&#8217;s an inflection point, but it&#8217;s almost like a step function if you think about it with respect to AI adoption.\n\nAnd what we&#8217;re really thinking about now at AVEVA is, how do we think about this? How do we think about incorporating these new and very powerful AI technologies in environments where customers have mission-critical operations, human safety is a significant factor? Those are some of the primary concerns that our customers have when they think about adopting any new technology. We&#8217;re doing that in narrow where these newer types of AI aren&#8217;t necessarily predictable, in terms of how they behave. That&#8217;s one of the areas we&#8217;re really thinking about is, how do we leverage these technologies while maintaining safety, while maintaining reliable operations, while still being able to deliver on the promises of the new capabilities?\n\nMegan: There&#8217;s so many things to consider at once, isn&#8217;t it? And you outlined there some of the huge developments we&#8217;ve seen in this space in recent years. What makes this such a pivotal moment for industrial AI specifically? What has changed to make some of those perhaps more out there hypotheticals much more plausible?\n\nArti: Well, I think one of the big things, one of the big challenges within industrial AI, and this is something that as AVEVA, it&#8217;s in our blood, it&#8217;s in our core DNA, is that to really leverage any kind of digital technology in the industrial space, one of the first important things you often need to do is gather and correlate data from disparate systems, so that maybe I have telemetry coming off of a pump or a mixer, and I want to be able to correlate that with service logs so I know maybe the last time that someone had done some maintenance on that pump or mixer. And maybe I also want to be able to correlate that with the original design documentation and some of the original documentation on how to maintain that, so that if something is happening, I can do a better job diagnosing what&#8217;s going wrong and how to address it. This has always been a core challenge in the industrial space.\n\nI think that what&#8217;s happening now is that with newer technologies, even things like graph databases and being able to leverage AI to really match disparate data sets much faster, we&#8217;re able to get to the point where if something goes wrong, instead of an operator maybe needing to spend a little bit of time doing this research to really understand how do these different components fit together of information, they may have just an iPad with an AI that can very quickly go and fetch that information, correlate it and help in real time, almost, diagnose what is happening.\n\nEven a little bit more out there, but not as out there as you might think is, I still describe this with a human operator with potentially a mobile tablet, but imagine now I can also have a robot moving through that environment also gathering data and either with onboard computation or a quick connection to an operator who doesn&#8217;t necessarily now have to go out into a dangerous, potentially somewhat hazardous space, be able to gather data and enable that very quick diagnostic as well. And I think that&#8217;s really what&#8217;s exciting right now and what all of these new technologies that I&#8217;ve talked about are helping to enable.\n\nAnd I think then from our perspective, trying to really leverage all of those means that we have to think a lot now about our governance approach to this. How do we leverage AI in a way that keeps it contained, if you will?\n\nMegan: Yeah, absolutely. And on that governance point, how does AVEVA define responsible AI and what do you see as the primary benefits?\n\nArti: Yeah, so I think for us, we think about a triple mandate around responsible AI, and that means that it&#8217;s secure, it&#8217;s efficient, and that includes environmentally efficient, and then it really preserves human safety and human oversight above all. And for us, that&#8217;s what some of our core pillars of responsible AI include. And for us, that means we think about internally as we build tools, a multi-layered governance approach where we&#8217;ve got both for how we use AI as a company and then how we deploy AI into our products. We&#8217;ve got a similar framework that we leverage across both, a kind of joint governance model, both around how we&#8217;re leveraging AI and also how we&#8217;re infusing AI into our products to allow our customers to leverage AI in their operations.\n\nBut I would say one of the core foundational principles underneath all of these is that human beings still remain centered in how we think about how AI is leveraged. And so human judgment, human responsibility, human ethics are still core to how we think about where AI can add benefits, and we think about it more as augmenting rather than replacing human beings in critical decision loops, if you will.\n\nMegan: Right, which is such an important distinction, isn&#8217;t it? And in terms of the next phase of development, there&#8217;s growing sentiment that agentic AI will soon allow these industrial systems to operate much more autonomously. I wonder, what makes the risks in industrial settings different from AI risk in a purely digital context? And I suppose on the flip side, what are the benefits and opportunities of that same software defined automation?\n\nArti: I think we can start with the risks and then go to the benefits. I think ultimately, I would say the biggest risk in the industrial setting is that we are interacting with real physical systems, often physical systems that are very capable of delivering important outcomes that keep our world running, whether that&#8217;s delivering power, whether that&#8217;s mining for natural resources. But usually. Those physical systems are also operating in hazardous environments, the equipment itself is capable of also having human safety implications. Anytime you&#8217;re interfacing software with a physical system that can have real world consequences, you have to be extra careful. And we&#8217;ve always had that, again, we&#8217;ve had that in our DNA at AVEVA from the beginning, being mindful of that end user and that end application, which is not just something on a computer screen.\n\nEven as we&#8217;ve deployed AI over the past few decades into our systems, we&#8217;ve typically leaned toward really trying to pick the best fit model, really understand that model&#8217;s behavior if we&#8217;re going to use, for example, we have a proprietary anomaly detection model that works in a lot of operational environments. Now, as we&#8217;re thinking about some of these newer AI capabilities, which by design are hard to understand how they behave, they&#8217;re not fundamentally explainable in the way we&#8217;ve thought about even AI or statistical models in the past, and actually their behavior can change over time as they learn and get tuned to new capabilities. That&#8217;s really the potential risk of automating a physical system based on capabilities that can evolve over time is one of the things that we have to be really mindful of and really thoughtful around, where are we willing to put some of that increased automation into practice?\n\nBut at the same time, I think there&#8217;s a real opportunity there, because I glossed over this idea that, okay, well, models evolve, but so do human beings, and sometimes that&#8217;s a good thing. We talk about humans having expertise and they gain understanding over their careers of how a system works. If we can actually leverage the ability of some of these newer AI capabilities, these sort of reasoning models often have underlying agentic capabilities, to learn and gather experience faster, and potentially even more importantly or more valuably, take experience that&#8217;s learned at one site and apply it to another site, then that&#8217;s a real opportunity to take what we already know works for human beings, which is that sometimes you just have to learn by doing and be able to apply that and scale that through AI. That&#8217;s where I see potentially a real opportunity in this space.\n\nOne of the things that we&#8217;re really aware of in the industrial sector is just the way that our workforce is changing. I think that almost half, not quite half, of the industrial workforce is set to retire in the next five years, and that&#8217;s a lot of expertise and experience that means that we&#8217;re going to lose in the sector. If there&#8217;s ways to make sure that we can capture that in ways that are actionable, in ways that can also help a newer generation of workers that are used to experience things in a different way, apply that expertise, apply that knowledge, then I think that&#8217;s a huge opportunity within the industrial space.\n\nMegan: Yeah, absolutely. Clearly, some huge opportunities there particularly against the backdrop of other market and workforce changes as you&#8217;ve outlined there. I suppose building on that, what is the potential for these autonomous industrial AI systems when built and deployed responsibly to facilitate even faster, more sustainable industrial processes?\n\nArti: I think there&#8217;s a couple different ways to think about this. One is, what are the demands of potentially more environmentally sustainable processes? I&#8217;ll use one example of something that my team has been working on in partnership with Idaho National Laboratory here in the U.S. as part of their testing for AI grid resilience project.\n\nOne of the challenges in the electric grid as we&#8217;re moving toward a future where we have a lot more intermittent renewable power generation sources, often distributed rooftop solar for example, is it&#8217;s becoming much more challenging to manage the grid both from really understanding where electric capacity is coming in, electric load is pulling off of the grid. In addition to that, being able to maintain just power quality because instead of having one spinning asset delivering the frequency of electricity that&#8217;s going across the grid, you&#8217;ve got a lot of smaller systems. AI is actually quite critical for being able to manage that grid of the future. And this is one of the things that we&#8217;ve been working in partnership is, how can we do that? How can we help grid operators better understand what&#8217;s happening across their system, identify where things might be behaving anomalously so they can detect that early and then remediate for it?\n\nAt the same time though, I always talk about that&#8217;s an example of where AI can potentially help us accelerate the transition to a lower carbon energy future. At the same time, I think there&#8217;s a lot of conversation around the sustainability of AI itself. What are the power requirements? What are the resource requirements needed to run AI? And before I get into how do we think about that at AVEVA, because it is definitely something we think about and I think a lot of actors in the space are thinking about, I want to point out, is one of the challenges is that there&#8217;s really no agreed upon method to measure the environmental impact of AI. You see a lot of these stories, like one query on some kind of chat interface is X amount of gallons of water or this amount of electricity use. But the truth is that community-wide, there&#8217;s no agreed upon standard.\n\nOne of the things that I&#8217;m involved with is a standards working group that was launched by the IEEE two years ago, a little over two years ago. I&#8217;m the chair of that working group, it&#8217;s called the P7100 Standards Working Group on measuring the environmental impact of AI. And one of the things we&#8217;re trying to do is really identify all the different areas over which we want to think about environmental sustainability associated with AI, and then having one standard methodology that works and that can be adopted both from a reporting perspective and potentially also from an oversight or regulatory perspective. That becomes really important for any sort of real understanding of how AI impacts the environment is just we have to know, what does it use? We want to look holistically at that. Our standards cover electricity and energy consumption, it covers resource usage, it covers water consumption, and it also covers carbon.\n\nBut all of that said, I think it&#8217;s important for us to understand the footprint of AI, but I think it&#8217;s also important for us to simultaneously recognize that a bigger model uses more compute and more compute probably leverages more resources. The more that we can be intentional and pick the right size model for the right application, the more we can already start down that path of being more environmentally efficient in the AI that we run. One of the potentially nice side effects of that is the more purpose-built a model, the less likely it is to misbehave in unpredictable ways, if you choose correctly your architecture. There&#8217;s some sort of ancillary benefits that go beyond environmental sustainability.\n\nMegan: Fascinating. It&#8217;s really, really interesting to hear some of the work going on behind the scenes there, because I think we&#8217;ll all have heard some of the statistics around the environmental impact, as you say. So, it&#8217;s great to understand some of the work going on there to really clarify that.\n\nAnd we&#8217;ve talked a little bit about AI augmenting humans earlier. As systems gain greater autonomy, how should organizations think about that balance between closed loop automation, human in the loop accountability? What guardrails need to be in place? And how are governments and cross-border actors approaching those concerns as well?\n\nArti: There&#8217;s a lot packed into that question, so I&#8217;ll try to answer it somewhat one by one. First, starting with that sort of balance between closed loop and human in the loop, automation and accountability. One of the things that we talk about in the industrial sector is from human operator to human supervisor of systems, of industrial systems. And if I&#8217;m honest about that, we&#8217;re still trying to figure that out. When a human&#8217;s in a loop in an automated system, you&#8217;re really thinking about a system may process all the data and then make a recommendation.\n\nWe&#8217;ve got a solution that we&#8217;ve been working on more jointly with a few different customers where we&#8217;re able to take in a lot of their operational data, also some simulations of how their systems work, and be able to provide, say, recommendations around, you should now operate at this set point instead of that set point based on some of the other conditions that are changing in your plant. There&#8217;s a lot of interest in moving from having that be a recommended set point to have an automation that can automatically adjust the set point. And we&#8217;ve actually had some successful real-world pilots around that as well.\n\nBut when you get into that, obviously it makes people very nervous if you&#8217;re changing set points on industrial equipment. That&#8217;s where you maybe continue to have some guardrails around like, you can&#8217;t go outside of a certain band, for example, of operations, or we only allow the automation in certain areas. That&#8217;s where the human supervisor, the same way a human supervisor might give employees a lot of bandwidth or a lot of flexibility to make decisions around certain things, around other things, they&#8217;re hard and fast, like this is the deadline or this is the sort of production target. It&#8217;s like that. So thinking about, how do you put the appropriate guardrails?\n\nThe challenge is, AIs are not human beings, and so the guardrails look different, and I think that&#8217;s one of the things that there&#8217;s still to think about. That question of, what guardrails should be put in place? I think that it&#8217;s going to be probably dependent a little bit on the application, but over time I think we&#8217;re all going to learn, and so being really upfront and thoughtful about how we do this I think is important.\n\nBut the opportunity though, potentially, is really great. I&#8217;ve already mentioned that AI can be very useful in synthesizing a lot of information and bringing to the forefront, this is what matters. That&#8217;s something that we do want to create some space to experiment around, but what&#8217;s then important is making sure that a human being understands the risk.\n\nI&#8217;ll give a little bit of a personal story because it might be illustrative. This weekend, I bought a little toy robot and decided I wanted to program it to do some stuff, and I found AI very, very helpful to get me started to read all the documentation. Putting the robot together was straightforward, they had nice instructions, but there&#8217;s a pretty heavy software developer kit that&#8217;s already there, but going through and reading all that documentation can take a while. AI was super helpful to help me surface, this is the function that does this, to help me get started. But occasionally, it made really bad recommendations on the best way to troubleshoot something.\n\nThat&#8217;s where I think having the human being in the loop, being able to say, &#8220;I know that it&#8217;s not going to be the best software architect or the best troubleshooter,&#8221; is really helpful because I had the opportunity to leverage AI for what it&#8217;s good for, synthesizing and surfacing a lot of information, but being able to say, &#8220;I don&#8217;t think that&#8217;s the most efficient first step. Let&#8217;s try something else.&#8221; That&#8217;s where it&#8217;s a really different way of working, but it&#8217;s something that I think as humans get more comfortable with the power and limitations of AI, you can start to teach people how to work with it, and it&#8217;s very different from how you would work with other digital tools.\n\nOne of the things that is important when it comes to AI is recognizing just the breadth of things that it touches and the breadth of impacts that it&#8217;s going to have, whether it&#8217;s on the environment, as we&#8217;ve discussed, whether it&#8217;s on productivity as sort of implicit in this entire discussion, whether it&#8217;s on labor force, whether it&#8217;s on just how economies work. From my eye, and I&#8217;m by no means a policy expert in this area, but from my eye, what I&#8217;m seeing is that different governments are prioritizing different aspects of that from how they&#8217;re thinking about regulatory and other kind of governance approaches.\n\nMegan: We&#8217;re absolutely seeing some really vastly different approaches to this, aren&#8217;t we, around the world? I wondered to illustrate some of this, if you could share perhaps some case studies you&#8217;ve seen, maybe talking us through what lessons they could hold for other organizations perhaps a little earlier in their own AI journeys.\n\nArti: I think a lot of the key areas where we&#8217;re seeing very clear benefits of adopting AI in the industrial sector, the core to all of them is actually getting the data right and getting the right foundation of data so that you can build AI on top of it.\n\nOne of our customers, SCG Chemicals, which is a petrochemical company in Thailand, they had this vision of producing a reliability platform for their operations that was as AI-driven as possible. But a core part of that was actually getting the data right, being able to have all of their information in the right place, leveraging some of AVEVA&#8217;s tools to do that. Bringing together operational data and also engineering data. And then putting on top of that AI capabilities, in this case, one of our capabilities called AVEVA Predictive Analytics that deploys some proprietary models to do things like detect anomalies, so that they could really much earlier identify potential operational risks. And instead of having unplanned downtime, translate that to planned downtime. When you translate unplanned downtime to planned downtime, you can get a huge improvement in plant reliability.\n\nAt this point they&#8217;re targeting something like 99% plant reliability and a very, very high return on investment from the platform that they put in place. Again, in early pilot days, it was almost a 9x ROI, and so that&#8217;s really quite impressive. But what I want to emphasize is that it&#8217;s kind of a multi-layered problem to get it right.\n\nMegan: Those are some really striking results, though. I mean, for industrial leaders who perhaps are still hesitant to explore AI, I wonder, what do you think is the cost of taking a more wait and see approach?\n\nArti: I think, again, this is an area where the industrial sector has a little bit of a different calculus to apply to this type of problem. In general, I think you would hear most business experts say that you can&#8217;t afford to take a wait and see approach to AI because it is so transformative across every sector of society and economy, and certainly in the industrial space, we&#8217;re not immune to that. But I do think that some of the challenges that I&#8217;ve outlined today also puts leaders in the industrial space into a mindset of sometimes potentially being a fast follower rather than the first adopter of newer technologies, just because the risk is so high.\n\nBut that being said, I think one of the challenges is that the risks that we&#8217;ve covered today around infusing systems that don&#8217;t always behave predictably with physical systems is that I don&#8217;t know that there&#8217;s a lot of other sectors that are going to be solving those problems. That&#8217;s where what I&#8217;m seeing is actually a lot of interest and excitement in trying new things and willingness to do that because there&#8217;s a recognition that applied correctly and applied with the right guardrails and safeguards in place, these technologies really have truly transformative potential from a resource usage standpoint, from a human safety standpoint, from a productivity standpoint.\n\nI think the calculus has shifted a little bit in the sector to we want to actually try these things out. But then it becomes more, how do we try these things out in environments that we can make a little bit more sandboxed or safe to test out what some of the unique challenges we&#8217;re going to face in the industrial sector are?\n\nMegan: Yeah, absolutely. It&#8217;s just hard to ignore the potential nowadays, isn&#8217;t it? And just to close with a slightly future forward look, I suppose, what are you most enthusiastic about in terms of the long-term potential of responsible autonomous industrial AI systems?\n\nArti: Yeah. Well, I think that there&#8217;s a couple of different trajectories. One of the things that I think within the next 18 months for sure, we&#8217;re going to see an increase of people with deep domain expertise who maybe didn&#8217;t grow up with a software background, be able to adopt AI assisted coding techniques to really be able to build the things that they weren&#8217;t able to build before.\n\nThat&#8217;s really exciting in my career, which way back when I was actually an industrial data scientist, I would say I always felt the most energized and that I learned the most talking to the people that were on the front lines of operations, having to monitor a lot of different equipment and understanding how it all worked together. They really have a lot of expertise, and being able to put in their hands the ability to very quickly develop new applications is I think going to really lead to a lot of new ideas that many of us in the industrial software space maybe wouldn&#8217;t even have thought about and really understood how to put. I think that&#8217;s really exciting.\n\nI think then looking beyond that, I was a little bit of a, not to say a robotic skeptic, because clearly robotics and autonomous systems are going to be important, especially given the types of environments, whether they&#8217;re hazardous or remote, that industrial equipment operates in. But I just actually think things are moving a lot faster than I had anticipated. I&#8217;m really interested to see how these physical embodiments of AI systems start to really transform, again, how we think about operations.\n\nOne of the things about any new technology in any environment is that to really gain value from it, you have to change the way you do things. I would say for close to 10 years now, I&#8217;ve been giving talks on AI adoption and I always say the biggest barrier to AI adoption is not anything to do with the technology. It&#8217;s not even to do with the data, although data are often the biggest sticking point, it&#8217;s really to do with, are you going to change your business processes to be able to work with the way this technology is good or not good at things?\n\nAutonomous systems, whether they&#8217;re robots or drones, are really going to change the way that we work in plants, in power systems, on mining sites. And I think that will make these types of operations more efficient, much safer for the human beings involved and more productive. So, I&#8217;m quite excited about that.\n\nI don&#8217;t know entirely what direction it will go, but one of the things that I think about a lot is that if you go back to I, Robot and Isaac Asimov&#8217;s book, the premise of those was that robotics would be the first broadly adopted AI, not computer-based systems. We went in the other direction and I think it&#8217;s really interesting to now see all of this converging.\n\nMegan: Yeah, absolutely. See robotics catches up a bit. So many exciting things on the horizon, that&#8217;s for sure. Thank you so much, for your time.\n\nThat was Arti Garg, chief technologist at AVEVA, whom I spoke with from Brighton in England.\n\nThat&#8217;s it for this episode of Business Lab. I&#8217;m your host, Megan Tatum. I&#8217;m a contributing editor at Insights, the custom publishing division of MIT Technology Review. We were founded in 1899 at the Massachusetts Institute of Technology, and you can find us in print, on the web, and at events each year around the world. For more information about us and the show, please check out our website at technologyreview.com.\n\nThis show is available wherever you get your podcasts. And if you enjoyed us, we hope you&#8217;ll take a moment to rate and review us. Business Lab is a production of MIT Technology Review, and this episode was produced by Giro Studios. Thank you so much for listening. Goodbye.\n\nLearn more at aveva.com .\n\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 69,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "本期播客节目 Business Lab 由《麻省理工科技评论》（MIT Technology Review）出品，主持人为 Megan Tatum，节目与工业软件公司 AVEVA 合作制作。",
+          "AVEVA 在工业领域应用 AI 已有超过 20 年的历史。",
+          "来源叙事重点：探讨工业AI从单纯数字化分析迈向物理世界自主化（自主机器人、Agent与具身智能）的关键转型节点，着重强调在关键基础设施与高风险工业场景中建立‘负责任的AI治理’、确保人类监督（human-in-the-loop）以及兼顾环境可持续性的必要性与商业实践方案。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T08:17:32.000Z",
+            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-ess-than-a-week-52b1a2a4-a813fcb4afb813b2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Simone Biles and Jonathan Owens find a buyer for $1.2 million Texas home—in less than a week",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:03:00.000Z",
+        "pubTime": "2026-10-08 17:03",
+        "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Olympic gymnast Simone Biles and her NFL star husband, Jonathan Owens, have landed a buyer for their sprawling Texas property—just days after listing the home they resided in while finishing up their custom mansion.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-08 17:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-08T09:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-deindexed-by-google-f5d919bdfb89f8ff",
+        "title": "我已经被谷歌取消收录了",
+        "originalTitle": "I've Been Deindexed by Google",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T07:59:30.000Z",
+        "pubTime": "2026-10-08 15:59",
+        "url": "https://kennyqin.com/deindexed-by-google/",
+        "imageUrl": null,
+        "fullContent": "I don't remember exactly when but, earlier in the year, I decided I didn't want this website to be indexed by search engines anymore. A lot of it has to do with AI and the relentless scraping that plagues the internet now. I know that as long as my blog is accessible by the public internet, there are no real measures I can put in to stop it but at least some of it will be respected.\n\nI started out by setting a blanket disallow in the robots.txt.\n\nWhen I realised that didn't do anything after a few weeks of waiting and checking, I set the robots meta tag.\n\nI thought that would do the trick. What I didn't realise is that you have to actually, ironically, allow the bot that will do the deindexing to visit your website so that it can see the meta tag that tells it to not index your page anymore.\n\nI also did this with several other common bots and removed them from the robots.txt whenever I found that my website had been deindexed.\n\nIt's been at least 3 months since I did my last change to have Google deindex me and, after checking today, I'm happy to announce that this website is free from Google! 🥳",
+        "fullTranslation": "我不记得具体是什么时候了，但在今年早些时候，我决定不再希望这个网站被搜索引擎收录。这在很大程度上与人工智能以及如今困扰互联网的无休止抓取有关。我知道，只要我的博客能被公共互联网访问，就没有什么真正的方法能阻止它，但至少有一部分规则会得到遵守。\n\n我一开始是在 robots.txt 中设置了全局禁止访问（blanket disallow）。\n\n在等待并检查了几周后，当我发现这并没有起任何作用时，我设置了 robots 元标签（meta tag）。\n\n我以为这样就行了。但我当时没有意识到的是，讽刺的是，你实际上必须允许负责取消收录的爬虫访问你的网站，这样它才能看到那条告知它不再收录你页面的元标签。\n\n我还对其他几款常见的爬虫进行了同样的操作，每当发现自己的网站已被取消收录时，就将它们从 robots.txt 中移除。\n\n距离我为了让谷歌取消收录而做出最后一次更改已经过去了至少 3 个月，在今天检查之后，我很高兴地宣布，这个网站终于摆脱谷歌了！🥳",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "作者在今年早些时候决定停止让其个人网站被搜索引擎索引，最初在 robots.txt 中设置了全量禁止（blanket disallow）。",
+          "作者在发现仅设置 robots.txt 无效后，添加了 robots meta 标签，并重新允许爬虫访问以读取该取消索引标签。",
+          "来源叙事重点：以第一人称叙述个人博客摆脱搜索引擎及 AI 爬虫抓取的动机与技术踩坑过程，重点强调 robots.txt 与 noindex meta 标签的机制反差，并将成功被 Google 移出索引视作一项个人数字自主权的胜利。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T07:59:30.000Z",
+            "url": "https://kennyqin.com/deindexed-by-google/"
+          }
+        ]
+      },
+      {
+        "id": "story-ef-boost-coral-fish-html-41b32af5e35bb175",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Healthy reef sounds can boost coral and fish recovery efforts",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:00:14.000Z",
+        "pubTime": "2026-10-08 17:00",
+        "url": "https://phys.org/news/2026-10-healthy-reef-boost-coral-fish.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/healthy-reef-sounds-ca.jpg",
+        "fullContent": "Coral reefs are renowned for their visual beauty, but for the marine life they support, their sounds may be just as enticing. Two new studies led by UC San Diego's Scripps Institution of Oceanography reveal how underwater acoustic enrichment—the playback of sounds from healthy reefs—can help spur the recovery of degraded coral reefs and their fish communities.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-08 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-healthy-reef-boost-coral-fish.html",
+            "publishedAt": "2026-10-08T09:00:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--uchenik-2123142361-html-6a8a80c594f0c3a5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В польской школе ученик напал с ножом на уборщицу",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-08T09:06:29.000Z",
+        "pubTime": "2026-10-08 17:06",
+        "url": "https://ria.ru/20261008/uchenik-2123142361.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/151768/79/1517687955_0:291:5581:3430_650x0_80_0_0_48c063dc40c7cd1dc16e4da561959c4a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-08 17:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261008/uchenik-2123142361.html",
+            "publishedAt": "2026-10-08T09:06:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ion-over-starlink-launch-4487724775945f85",
+        "title": "印度驳斥埃隆·马斯克关于星链落地遭遇歧视的指控",
+        "originalTitle": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T06:14:11.000Z",
+        "pubTime": "2026-10-08 14:14",
+        "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+        "imageUrl": null,
+        "fullContent": "India has rejected Elon Musk’s claim that Starlink, SpaceX’s satellite internet service, is being unfairly blocked from launching in the country. The pushback comes as SpaceX struggles to turn years of regulatory work and partnerships with India’s biggest telecom operators into a commercial launch in one of the world’s largest internet markets.\n\nOn Wednesday, Musk accused unnamed “oligarchs” of blocking Starlink’s launch in India to maintain what he called their “monopolistic chokehold” on the country, without identifying them or providing evidence for his claim. He called the alleged blocking a “crime against the people of India” and argued that Starlink could bring affordable, high-speed internet to people who lack internet access.\n\nHours later, India’s Ministry of Communications pushed back, saying its regulatory framework for satellite communications is “fair and non-discriminatory.” The ministry said in a statement that Starlink and two other licensed satellite operators are all at “broadly the same regulatory stage.” It added that all three companies are undergoing security assessments that must be completed before they can seek spectrum, the radio frequencies that satellites use to send signal.\n\nMusk’s comments came hours after Lauren Dreyer, Starlink’s vice president of business operations, appeared at a telecom industry conference, India Mobile Congress, in New Delhi and reiterated the company’s commitment to the market. “We stand ready to serve India,” Dreyer said, adding that Starlink wants to help realize Prime Minister Narendra Modi’s goal of achieving universal connectivity across the country.\n\nStarlink said it already has more than 20 gateway sites (the ground stations that link its satellites to the internet) and hundreds of antennas on the ground in India, and has adapted its operations to meet the country’s regulatory, security, and data-sovereignty requirements. Moreover, SpaceX has positioned its satellite network as a complement to — rather than a replacement for — India’s terrestrial telecom networks.\n\nSpaceX first attempted to launch Starlink in India in 2021. The company, however, had to refund preorders for its equipment in early 2022 after the Indian government called it out for “booking/rendering the satellite internet service” before getting the necessary licenses.\n\nStarlink has also previously clashed with India’s largest telecom operators over how satellite spectrum should be allocated. Starlink pushed for spectrum to be assigned administratively, while Reliance Jio argued that it should be auctioned — a position that could have made Starlink’s entry more expensive. India ultimately sided with Starlink’s preferred approach, deciding to allocate satellite spectrum administratively rather than through an auction.\n\nJio and Airtel, the two biggest Indian telcos, are also pursuing their own satellite internet services, even as they have agreed to distribute Starlink in India. Jio is working with satellite operator SES on satellite broadband, while Airtel is a major backer of Eutelsat OneWeb, another licensed satellite operator in India.\n\nWhile the timing of Starlink’s India launch remains unclear, the company this week launched Starlink Mobile, which connects ordinary phones to satellites, in neighboring Bangladesh this week.\n\nStarlink, India’s Ministry of Communications, Reliance Jio, and Bharti Airtel did not immediately respond to requests for comment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.\n\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "印度驳斥了埃隆·马斯克的说法，马斯克此前称其旗下的太空探索技术公司（SpaceX）卫星互联网服务“星链”（Starlink）在该国开展业务遭到了不公正的阻碍。SpaceX多年来一直致力于在监管合规以及与印度最大电信运营商建立合作方面推进落地，以期在全球最大的互联网市场之一实现商业化运营，而印度的反驳正是在这一关键时刻做出的。\n\n周三，马斯克指责未具名的“寡头”阻挠星链在印度的落地，目的是维持其所谓的对该国的“垄断扼杀”，但他并未点出具体对象，也未就其指控提供证据。他称所谓的阻挠行为是“对印度人民的犯罪”，并坚称星链可以为那些缺乏网络连接的人口提供负担得起的高速互联网服务。\n\n数小时后，印度通信部做出反驳，称其卫星通信监管框架是“公平且无歧视的”。该部在一份声明中表示，星链与另外两家获得许可的卫星运营商都处于“大体相同的监管阶段”。声明还补充道，这三家公司目前都在接受安全评估，在申请卫星传输信号所用的无线电频率（频谱）之前，必须先完成该评估。\n\n马斯克发表上述言论的数小时前，星链业务运营副总裁劳伦·德雷尔（Lauren Dreyer）刚刚出席了在新德里举行的印度移动大会（India Mobile Congress）电信行业峰会，并重申了公司对该市场的承诺。德雷尔表示：“我们随时准备好为印度提供服务。”她还补充说，星链希望助力实现印度总理纳伦德拉·莫迪在全国普及网络连接的目标。\n\n星链表示，它已在印度拥有20多个网关站点（将卫星连接到互联网的地面站）和数百个地面天线，并调整了业务运营，以满足该国在监管、安全以及数据主权方面的要求。此外，SpaceX将自己的卫星网络定位为对印度地面电信网络的补充，而非替代品。\n\nSpaceX最初于2021年尝试在印度推出星链服务。然而，在印度政府指出其在获得必要牌照之前便“接受预订/提供卫星互联网服务”后，该公司不得不在2022年初退还了设备的预订款项。\n\n此前，星链还曾就卫星频谱的分配方式与印度最大的电信运营商发生过冲突。星链主张通过行政方式分配频谱，而信实工业旗下的Jio则认为应当采取竞拍方式——若采取竞拍可能会使星链的准入门槛成本大幅上升。印度最终采纳了星链所偏向的方案，决定以行政方式而非竞拍方式分配卫星频谱。\n\n印度最大的两家电信运营商Jio和Airtel虽然已同意在印度代销星链服务，但也都在推进各自的卫星互联网业务。Jio正与卫星运营商SES合作开展卫星宽带业务，而Airtel则是印度另一家持牌卫星运营商Eutelsat OneWeb的主要支持者。\n\n尽管星链在印度的上线时间仍不明确，但该公司本周在邻国孟加拉国推出了“星链移动”（Starlink Mobile）服务，可将普通智能手机直接与卫星相连。\n\n星链、印度通信部、Reliance Jio以及Bharti Airtel未立即回应置评请求。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。\n\nJagmeet为TechCrunch报道印度的初创公司、科技政策动态及所有其他以科技为核心的重大进展。他此前曾在NDTV担任首席记者。\n\n您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系Jagmeet或核实其外联采访信息。\n\n购买第二张门票立享五折优惠。Disrupt的精彩体验理应与他人共享。获取门票并带上同事、合作伙伴或同行，立省50%。结识人脉、集聚势能、探索初创生态圈的最新趋势，拓展更多业务版图。\n\n年仅19岁的创始人为Ghost筹集1100万美元资金，该公司制造售价3499美元的个人AI计算机\n联邦法官称Flock属于“无差别大规模监控”\n亚马逊回应数据中心舆论反弹，称不再使用保密协议\nOpenAI安全部门员工辞职，称公司“文化已崩坏”\nMeta希望你的下一款数码设备融入Muse技术\n谷歌认为SpaceX的星舰必须发射1800次，太空数据中心才能真正起步\n全球首座增强型地热发电站仅用23个月即告完工",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "印度拒绝了埃隆·马斯克关于 Starlink 在印度遭到不公平阻止的说法。",
+          "马斯克指责未具名的“寡头”阻止 Starlink 在印度推出，以维持其所称的“垄断性扼制”；文章称他没有指明这些人，也没有提供证据。",
+          "来源叙事重点：聚焦埃隆·马斯克指责印度“寡头”阻挠 Starlink 入境与印度通信部反驳其监管具有歧视性的言论交锋，重点梳理 SpaceX 在印度的准入合规瓶颈、安全审查流程以及与本土电信巨头（Jio、Airtel）的竞合关系"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T06:14:11.000Z",
+            "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-vessel-off-qatar-html-52e7a16fd53b9b78",
+        "title": "近一个月来波斯湾深水海域首起油轮遇袭事件：卡塔尔附近海域一船只遭袭",
+        "originalTitle": "First Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:00:00.000Z",
+        "pubTime": "2026-10-08 17:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/First-Deep-Gulf-Tanker-Attack-in-Nearly-a-Month-Hits-Vessel-off-Qatar.html",
+        "imageUrl": null,
+        "fullContent": "A tanker has been struck by multiple projectiles north of Qatar&rsquo;s tip in the first such attack deep within the Persian Gulf in nearly a month.  A tanker has reported being struck by multiple projectiles 51 nautical miles north of Madinat ash Shamal, Qatar, UK Maritime Trade Operations UKMTO, which is affiliated with the Royal Navy, reported.  Casualties have been reported, and authorities are investigating, UKMTO said about the incident, the report of which was received late on Wednesday local time.  This is the first reported attack so deep in the Persian Gulf since a tanker was hit by an unknown projectile south-east of Al-Faw, Iraq, on September 9.  Over the past month, most reported attacks and incidents have taken place in or very close to the Strait of Hormuz.  Oil flows and tanker activity in the Persian Gulf and the Strait of Hormuz have picked up in recent weeks, and some estimates put crude flows at nearly reaching pre-war levels.  But reports of attacks have also increased.  UKMTO reported nine attacks in and around the Strait of Hormuz in just the first seven days of October, half the number of all attacks reported in the entire previous month.  The number of attacks on tankers in the area has jumped in recent days, threatening the lifeline of the Gulf oil exporters and another jump in oil prices.   In the week to October 5, at least 12 attacks on oil, LNG, and liquefied petroleum gas LPG tankers took place around the Strait of Hormuz, Reuters reports, citing data from maritime security sources.  &ldquo;IRGC attacks, attempted attacks, and/or harassment activity persisted, including UAV overflight, targeted surveillance of merchant shipping, and occasional VHF hailing,&rdquo; the US Navy-led Joint Maritime Information Center JMIC said in a Sunday note. &ldquo;These actions continue to demonstrate Iran&rsquo;s intent to assert presence along key transit lanes and maintain pressure on transiting vessels.&rdquo;   By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "一艘油轮在卡塔尔北端海域遭到多枚弹射物袭击，这是近一个月来波斯湾深水海域发生的首起此类袭击事件。据隶属于英国皇家海军的英国海事贸易运营局（UKMTO）通报，一艘油轮报告在卡塔尔北部城市麦地那谢马尔（Madinat ash Shamal）以北51海里处遭到多枚弹射物袭击。UKMTO就该事件表示已有人员伤亡报告，有关当局正在对此展开调查，该事件通报于当地时间周三晚间收到。自9月9日一艘油轮在伊拉克法奥（Al-Faw）东南部遭未知弹射物击中以来，这是在波斯湾深水腹地报告的首起袭击事件。在过去一个月中，绝大多数报告的袭击和事件都发生在霍尔木兹海峡境内或紧邻该海峡的海域。最近几周，波斯湾和霍尔木兹海峡的石油流动与油轮活动有所回升，部分测算显示原油流动量几乎已接近战前水平。但与此同时，有关袭击的报告也在增加。UKMTO报告称，仅在10月的前七天内，霍尔木兹海峡及其周边就发生了九起袭击事件，达到了上个月整月报告袭击总数的一半。近几天来该地区油轮遇袭事件数量激增，危及波斯湾石油出口国的生命线，并可能引发油价进一步上涨。路透社援引海事安全消息人士的数据报道，在截至10月5日的一周内，霍尔木兹海峡周边至少发生了12起针对原油、液化天然气（LNG）以及液化石油气（LPG）油轮的袭击事件。由美国海军主导的联合海事信息中心（JMIC）在周日的一份简报中指出：“伊斯兰革命卫队（IRGC）的袭击、未遂袭击和/或骚扰活动持续存在，包括无人机（UAV）低空飞行掠过、对商船的针对性监视以及偶尔进行的甚高频（VHF）呼叫呼叫。”“这些行动继续表明伊朗意图在关键交通航道展现存在感，并对通航船只保持施压态势。” Oilprice.com 作者：茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "一艘油轮报告称在卡塔尔麦迪纳特阿什沙马尔以北51海里处遭多个抛射物击中。",
+          "事件造成伤亡的报告，相关部门正在调查。",
+          "来源叙事重点：以卡塔尔附近油轮遭多个抛射物击中为核心，强调这是近一个月来波斯湾深处首次报告的类似袭击，并将其置于霍尔木兹海峡及周边袭击数量上升、海湾能源运输安全受威胁和潜在油价上行的框架中。关于伊朗革命卫队持续实施袭击、未遂袭击或骚扰的内容，主要是JMIC的安全评估，而非报道已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T09:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/First-Deep-Gulf-Tanker-Attack-in-Nearly-a-Month-Hits-Vessel-off-Qatar.html"
+          }
+        ]
+      },
+      {
+        "id": "story-8-a-rant-about-apis-html-d4aa15fcf013e2c6",
+        "title": "一篇关于 API 的吐槽",
+        "originalTitle": "A rant about APIs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T06:07:14.000Z",
+        "pubTime": "2026-10-08 14:07",
+        "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+        "imageUrl": null,
+        "fullContent": "I have had the displeasure of integrating with a few different APIs over the past few weeks while working to automate Vori’s onboarding flow. These APIs have been for systems including contract rendering and e-signature collection, invoicing/billing systems, CRMs, card processors and gateways, and card terminal providers.\n\nThey all kinda suck in their own ways. This would be somewhat acceptable if they were doing novel work in new fields, but these are all APIs for solutions that have existed for a decade or more. It’s also frustrating because the developers could simply copy existing, better, APIs and practices, and come out ahead!\n\nHere are some of my pet peeves.\n\nYou’ve already messed up if I need to log in to read your API documentation. Kudos for actually writing the docs, but why do I need to log in!? I have to interrupt my flow to fill out a form or send an email to your support team, and wait a few hours or days, just to read documentation!?\n\nI complained to one team about this and they agreed that gated documentation is not ideal. However, an executive wanted lead tracking. WTF!? We are already customers. The lead is closed-won. There’s nothing else to track!\n\nThis is worse with agentic development. I prefer to provide links to docs so the agent can explore the schema, build a client, and integrate. That flow is disrupted by gating. I now have to download the docs in some fashion—fortunately the offender in question offers a Markdown option—to provide for the agent. This needs to be done for every endpoint!\n\nJust remove the authentication requirement for docs. You’re wasting your own time and resources just so everyone else can waste their own time and resources. This is a lose-lose scenario.\n\nShow of hands. Who likes handwriting API clients? If your hand is up, I don’t believe you. The OpenAPI specification has existed for 15 years. Publishing an API without one is just disrespectful at this point. Why don’t you like me? Why do you want to make my life harder when I’m trying to give you money? Help me help you. Give me a spec so I can generate a typed client and focus on my business.\n\nOh, “here’s a Postman collection,” you say? I guess something is better than nothing, but now I have to figure out how to convert that to an OpenAPI spec. Why are we wasting time with an inferior format? Give me the good stuff!\n\nThis is similar to gated docs. APIs need credentials. Duh. Let me generate/rotate them on my own. Why do I need to wait multiple weeks for the IT team to generate credentials, flip a flag, or whatever? Stuff happens. Sometimes we need to rotate credentials. Don’t make me file a support ticket for a potential security incident! That means an issue that crops up on Saturday probably isn’t getting fixed until mid-day Monday when someone reads the ticket.\n\nSo you created self-serve credential issuance. Cool. But wait! Now you tell me the credential is associated with the identity of the person that created the credential. Meaning…all logs are associated with that person, so it’s impossible to discern between API calls from our backend applications and calls made by that person in your web app? Meaning…that person is the only one that can rotate the credentials, and we can’t simply follow the bad practice of sharing credentials because your application requires SSO and we have to draw the line somewhere at account sharing? Meaning…deactivating that person’s account will almost assuredly result in an incident?\n\nI’m actively migrating away from an e-sign provider that does this because I am the person who set up the account, and am currently on vacation, and blocking folks from seeing contracts, because of course I want all the contracts sent to grocers to be associated with my account! My list of questions and criteria for vendors increases.\n\nWebhooks are great for building realtime-ish workflows. Love ‘em. I have no love for the aforementioned e-sign provider that wants to verify webhook endpoints before saving them. “What is this verification”, you ask? It’s simple (and stupid): the provider sends a payload to the endpoint and only saves the new webhook configuration if the endpoint returns a successful response.\n\nOne of the first sections in any webhook integration guide covers security. Always validate the payload with a shared secret, and reject invalid payloads without processing. Well…it’s hard to validate without that shared secret, and the provider won’t give me a shared secret until the endpoint is verified to work. 🙃\n\nThis was the ridiculous workaround for a problem that doesn’t need to exist:\n\nI wrote a support ticket for this, and the folks who responded didn’t quite understand why this was a problematic workflow. They do understand that I am migrating away from their product, however, and suddenly want to chat to get feedback.\n\nIt’s worth noting that I haven’t even discussed the API schemas and resources. Most companies get this right for their RESTful APIs with understandable nouns and verbs that define the business concepts and actions. Older payments companies continue to struggle with this for some inexplicable reason despite having over 15 years to just copy Stripe. Seriously, just copy the Stripe API. We spent a lot of time and energy building it. It’s good. Take it.\n\nI’m just happy folks are building APIs, even with the horrible developer experience. We’ve largely eliminated a 40+ step process in about four weeks. Sure, agents wrote the code in like 4 hours and most of that four weeks was waiting for credentials, but progress is progress.\n\nCopyright © 2014-2026 Clinton Blackburn",
+        "fullTranslation": "过去几周，我一直在努力实现 Vori 入驻流程的自动化，其间不得不与几个不同的 API 集成。这些 API 所对应的系统包括合同生成与电子签名收集、开票/计费系统、客户关系管理系统（CRM）、银行卡处理商和网关，以及刷卡终端供应商。\n\n它们各自都有各种各样的问题。如果这些 API 面向的是新领域、承担的是新颖工作，那多少还可以接受；但这些解决方案都已经存在了十年甚至更久。更令人沮丧的是，开发者完全可以直接借鉴现有的、更优秀的 API 和实践，从而做得更好！\n\n下面是一些我个人特别反感的问题。\n\n如果我必须登录才能阅读你的 API 文档，那你已经搞砸了。你们居然真的写了文档，这一点值得肯定，但我为什么还要登录！？为了阅读文档，我不得不中断当前工作流，填写表单或给你们的支持团队发邮件，然后等待几个小时甚至几天！？\n\n我曾向一个团队抱怨过这件事，他们也承认给文档设置访问门槛并不理想。不过，一位高管想要追踪潜在客户。搞什么！？我们已经是客户了。这个潜在客户已经赢单了。还有什么可追踪的！？\n\n在代理式开发中，这个问题更加严重。我更愿意直接提供文档链接，让代理自行探索模式、构建客户端并完成集成。但设置访问门槛会打断这一流程。现在我不得不以某种方式下载文档——幸运的是，相关服务提供商提供 Markdown 格式——再把文档交给代理。每个端点都要这样处理！\n\n直接取消文档的身份验证要求吧。你们这是在浪费自己的时间和资源，只为了让其他人也浪费他们的时间和资源。这是一个双输局面。\n\n举手示意一下：有谁喜欢手写 API 客户端？如果你举手了，我不信。OpenAPI 规范已经存在 15 年了。到了现在，发布一个没有 OpenAPI 规范的 API，简直就是对人的不尊重。你为什么不喜欢我？我想给你钱的时候，你为什么要让我的日子更难过？帮帮我，也就是帮你自己。给我一份规范，这样我就能生成类型化客户端，把精力集中在自己的业务上。\n\n哦，你说“这里有一份 Postman 集合”？我想，有总比没有好，但现在我还得想办法把它转换成 OpenAPI 规范。我们为什么要在一种低劣的格式上浪费时间？把好东西给我！\n\n这和给文档设置访问门槛是类似的问题。API 需要凭证。废话，当然需要。让我自己生成和轮换凭证吧。为什么我得等上好几周，等 IT 团队生成凭证、切换某个开关，或者做类似的事情？事情总会发生。有时我们需要轮换凭证。不要让我为了一个潜在的安全事件提交支持工单！这意味着，周六出现的问题，很可能要等到周一中午有人看到工单后才能解决。\n\n所以，你们创建了自助式凭证签发功能。很好。但等等！现在你又告诉我，这个凭证与创建它的人的身份绑定。也就是说……所有日志都归属于这个人，因此根本无法区分来自我们后端应用的 API 调用和这个人在你们 Web 应用中发起的调用？也就是说……只有这个人能够轮换凭证，而由于你们的应用要求单点登录（SSO），并且我们总得在账户共享这类糟糕做法上划条线，所以我们不能简单地共享凭证？也就是说……停用这个人的账户几乎肯定会导致一次事故？\n\n我正在积极迁离一家采用这种做法的电子签名服务商，因为我是那个设置账户的人，而我目前正在休假；结果大家都无法查看合同——当然了，我当然希望所有发给杂货商的合同都关联到我的账户！我对供应商的疑问和筛选标准又增加了。\n\nWebhook 非常适合构建近实时的工作流。我喜欢它们。但对于前面提到的那家电子签名服务商，我可是一点好感都没有：它要求在保存 Webhook 之前先验证端点。“你问什么叫验证？”很简单（也很愚蠢）：服务商向该端点发送一个负载，只有当端点返回成功响应时，服务商才会保存新的 Webhook 配置。\n\n任何 Webhook 集成指南最前面的章节之一都会讲安全性。始终使用共享密钥验证负载，并在不进行处理的情况下拒绝无效负载。可是……没有共享密钥就很难完成验证，而服务商在端点被验证为可正常工作之前，又不会给我共享密钥。🙃\n\n这就是为一个本不需要存在的问题设计出的荒谬变通方案：\n\n我为此提交了一张支持工单，但回复我的人似乎不太明白这种工作流程为什么有问题。不过，他们确实明白我正在迁离他们的产品，于是突然想找我聊天，听取反馈。\n\n值得一提的是，我甚至还没讨论 API 的模式和资源。大多数公司在 RESTful API 这方面做得都不错：用易于理解的名词和动词来定义业务概念与操作。尽管已经有超过 15 年的时间可以直接照搬 Stripe，老牌支付公司却出于某种令人费解的原因，仍然在这方面苦苦挣扎。真的，直接照搬 Stripe API 吧。我们花了大量时间和精力把它做出来。它很好用。拿去吧。\n\n即使开发者体验糟糕透顶，我还是很高兴有人在构建 API。我们大体上在四周左右消除了一个包含 40 多个步骤的流程。当然，代理大约只用了 4 个小时就写完了代码，而这四周里的大部分时间都在等待凭证；但进步就是进步。\n\n版权所有 © 2014-2026 Clinton Blackburn",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "作者在过去几周内为自动化 Vori 的入职流程对接了多个 API，涵盖合同渲染与电子签名收集、开票/计费系统、CRM、银行卡处理商和网关，以及终端提供商等系统。",
+          "作者团队在约四周时间内基本消除了一个包含 40 多个步骤的流程；其中智能体在约 4 小时内编写了代码，大部分时间耗费在等待凭证上。",
+          "来源叙事重点：从下游集成开发者的实际痛点出发，批判当代B2B SaaS及支付API在开发者体验上的严重缺陷（如文档鉴权拦截、缺乏OpenAPI规范、人工审核凭证及个人身份绑定、倒挂的Webhook验证流程），并指出这些反模式阻碍了现代AI智能体自动化工作流的效率。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T06:07:14.000Z",
+            "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html"
+          }
+        ]
+      },
+      {
+        "id": "story-mysterious-magnetic-html-632ea89d2ef45dda",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:00:10.000Z",
+        "pubTime": "2026-10-08 17:00",
+        "url": "https://phys.org/news/2026-10-solar-orbiter-tracks-mysterious-magnetic.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-orbiter-tracks-o.jpg",
+        "fullContent": "The European Space Agency–led Solar Orbiter spacecraft has flown through an S-shaped kink known as a \"switchback\" in the solar wind's magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the sun's surface and revealed more about solar magnetism—the unruly instigator of dangerous solar storms.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-08 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-solar-orbiter-tracks-mysterious-magnetic.html",
+            "publishedAt": "2026-10-08T09:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-008-iran-2123142161-html-32336ba2d941b5ba",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "США подготовили новые варианты масштабных ударов по Ирану, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-08T09:06:10.000Z",
+        "pubTime": "2026-10-08 17:06",
+        "url": "https://ria.ru/20261008/iran-2123142161.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-08 17:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261008/iran-2123142161.html",
+            "publishedAt": "2026-10-08T09:06:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ai-nabs-60m-from-sequoia-46ff3746c33cef7f",
+        "title": "机器人数据初创公司 Mecka AI 获红杉资本领投的 6000 万美元融资",
+        "originalTitle": "Robot data startup Mecka AI nabs $60M from Sequoia",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T23:36:57.000Z",
+        "pubTime": "2026-10-08 07:36",
+        "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+        "imageUrl": null,
+        "fullContent": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other kinds of robots, announced it has raised a $60 million Series B round led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others. TechCrunch had previously reported that the startup was nearing a new funding round at a $500 million valuation.\n\nFounded in 2024, the startup intends to do for robotics what Scale AI, Mercor, Surge, and other data-labeling companies have done for LLMs. Those companies supply the human-generated data these systems learn from. Mecka pays people to record themselves doing everyday tasks, like making coffee or fixing cars, while wearing body sensors and using smartphones.\n\nOther startups that collect real-world data for robot training include XDOF, which was in talks to raise a Series B round at a $1.2 billion valuation according to TechCrunch’s previous reporting. Human-data platforms that began with LLMs are also expanding into robotics, such as Scale AI and Micro1.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "Mecka AI 是一家收集并分析人体运动数据以训练人形机器人及其他类型机器人的初创公司。该公司宣布已完成由红杉资本（Sequoia）领投的 6000 万美元 B 轮融资，英伟达（Nvidia）、微软旗下风投基金 M12 等参投。TechCrunch 此前曾报道，该初创公司即将以 5 亿美元的估值完成新一轮融资。\n\n这家成立于 2024 年的初创公司旨在为机器人领域提供类似 Scale AI、Mercor、Surge 等数据标注公司为大语言模型（LLM）所提供的服务。这些公司提供供系统学习的人类生成数据。Mecka 则向用户支付报酬，让他们佩戴人体传感器并使用智能手机，记录自己完成日常任务的过程，例如冲咖啡或修车。\n\n其他收集现实世界数据用于机器人训练的初创公司还包括 XDOF。据 TechCrunch 此前报道，该公司当时正洽谈以 12 亿美元估值进行 B 轮融资。从大语言模型起步的人类数据平台也正在向机器人领域扩张，例如 Scale AI 和 Micro1。\n\n第二张通行证可享五折优惠。Disrupt 的体验本就应该与人共享。购买您的通行证，即可以半价携同事、合伙人或同行一同参与。通过建立人脉、蓄积动力并探索创业生态系统的下一步动向，拓展更多业务领域。\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您获取交通领域新闻与深度见解的首选之地。\n\n初创公司是 TechCrunch 的核心，敬请每周查收我们的优质报道推送。\n\n为行业领袖及决策者提供开启新一天所需的资讯。\n\n提交您的电子邮箱即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "Mecka AI 宣布完成由红杉（Sequoia）领投的 6000 万美元 B 轮融资，英伟达（Nvidia）、微软风投基金 M12 等参投。",
+          "Mecka AI 成立于 2024 年，主要收集和分析人体动作数据，用于训练人形机器人及其他类型机器人。",
+          "来源叙事重点：聚焦 Mecka AI 完成 6000 万美元 B 轮融资，突出红杉、英伟达等头部机构背书，并将其类比为机器人领域的 Scale AI，展示真实世界数据采集赛道正在资本加持下迅速升温。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T23:36:57.000Z",
+            "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
+          }
+        ]
+      },
+      {
+        "id": "story--smartphone-ev-slow-html-ec14e3e729653d30",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Huawei doubles down on smartphones as EV sales slow",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T08:04:11.000Z",
+        "pubTime": "2026-10-08 16:04",
+        "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — Faced with a slowdown in the smartphone and car markets, Huawei's consumer business is choosing to focus on phones with homegrown chips.\n\nThe Chinese tech giant worked overtime to release its first smartphone — the Mate 90 series — using its own \"LogicFolding\" chip on Oct. 1, the country's \"National Day\" and a public holiday,\n\nAhead of the event, Huawei Executive Director Richard Yu told reporters the company aimed to recover its overseas market share, after U.S. restrictions in 2019 knocked the China-based company from a brief first place. Yu said that at the time, Huawei shipped more than 240 million smartphones in China and elsewhere — with a goal of 300 million units in 2019.\n\nBut now Huawei only sells several million smartphones outside China each year, Yu said. He added the company plans to expand its HarmonyOS operating system to overseas markets in the next one to three years, and hopes China's chip manufacturing capacity will one day enable overseas sales of devices with self-developed chips.\n\nYu, chairman of Huawei's consumer business, has long been the on-stage presenter for the company's smartphone and car events.\n\nThe media roundtable ahead of the Mate 90 series launch marked Yu's first time speaking with foreign press since 2019. That year, U.S. restrictions blocked Huawei's access to Google's Android operating system and TSMC-made semiconductors.\n\nAs the impact of the sanctions kicked in, Huawei's consumer business — once the company's largest by revenue — halved to about $34 billion in 2021 from the year before. Since then, the consumer business has grown to around $51 billion in 2025, or 39% of total revenue, according to CNBC calculations.\n\nHuawei's push into the smartphone market comes as sales in China have slumped this year, with a double-digit decline year-on-year in August and September, according to Counterpoint Research.\n\nMeanwhile, Huawei got into the electric car business by working with several Chinese car manufacturers, and has built a business unit with revenues of at least $6.7 billion in 2025, according to the tech giant's annual report. Unlike other Chinese electric cars' rapid growth in exports, the Huawei-powered vehicles are so far concentrated in China. Huawei has emphasized it does not manufacture the cars, but provides the software interface and driver-assist system.\n\nBut China's auto market is on track for its worst year since 2021, with sales down by more than 20% over roughly the first three quarters of the year, according to China Passenger Car Association data as of Sept. 27. New energy vehicles, which include battery electric and hybrid-powered cars, have seen sales tumble 13% during that time, the data showed.\n\nIn September, Huawei-powered vehicles saw deliveries drop for a third-straight month, down by 29% from a year ago, according to CNBC calculations of publicly available figures from Harmony Intelligent Mobility Alliance, or HIMA, Huawei's auto tech software system.\n\nThat contrasted with double-digit gains for market leader BYD in each of the past three months, with sales well above 400,000 units a month, company data showed. Leapmotor, meanwhile, maintained rapid growth, with deliveries topping 100,000 cars a month since July.\n\nHIMA, whose five lines of vehicles reflect partnerships with manufacturers such as Chery and Seres, in contrast delivered just under 37,500 vehicles in September. More than 1.56 million units were sold since the first Huawei-powered car was launched in late 2021. Tesla China had yet to report September deliveries as of Wednesday afternoon.\n\nIn December 2021, Yu showed off the first car with Huawei's tech installed, the Aito M5.\n\nBut Seres Group, which makes the Aito EV line, has seen its Shanghai-listed shares drop by more than 60% so far this year.\n\nOn Oct. 1, Huawei announced it had signed with Seres to cooperate for another five years, including the joint establishment of an Aito business team. Mainland China markets are set to reopen Thursday after being closed since Oct. 1.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "华为消费者业务正专注于采用自研芯片的手机，并于10月1日发布了首款搭载自研“LogicFolding”芯片的Mate 90系列智能手机。",
+          "华为常务董事余承东在发布会前接受外媒采访，这是他自2019年以来首次接受外媒采访。",
+          "来源叙事重点：聚焦华为在面临国内电动车市场整体放缓、鸿蒙智行交付量下滑的压力下，重新押注搭载自研芯片的智能手机业务，并试图恢复海外市场份额与生态扩张。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T08:04:11.000Z",
+            "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html"
+          }
+        ]
+      },
+      {
+        "id": "story-r-chemotherapy-fertility-23d4d3fa7c8a8b8a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Teenager becomes first person to have testicular tissue transplant in UK",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T04:00:10.000Z",
+        "pubTime": "2026-10-08 12:00",
+        "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
+        "imageUrl": "https://i.guim.co.uk/img/media/d92cb3727fd7fd94c2f373534847b9894bf6d25c/0_212_6259_5010/master/6259.jpg?width=140&quality=85&auto=format&fit=max&s=cac8aca3fdc39a3eca67a6358280ef46",
+        "fullContent": "Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment\n\nSurgeons have performed the first testicular tissue transplant on a teenager in the UK, offering hope that boys left infertile by chemotherapy could one day have biological children.\n\nThe 19-year-old had his tissue removed and frozen three years ago before undergoing treatment for a serious blood disorder. He said he was “incredibly grateful” to the medical team behind the pioneering procedure, which represents a potential breakthrough for male fertility preservation.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国外科医生为一名19岁青少年实施了全英首例睾丸组织移植手术。",
+          "该名19岁患者在化疗后无精子。",
+          "来源叙事重点：聚焦全英首例青少年睾丸组织自体移植手术的成功实施，强调其为化疗致不育的男童和青少年保留生育能力带来的突破性希望"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T04:00:10.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-mintrans-2123142526-html-d0280d7a53ffa8fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минтранс ожидает масштабирования системы посадки по биометрии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-08T09:07:34.000Z",
+        "pubTime": "2026-10-08 17:07",
+        "url": "https://ria.ru/20261008/mintrans-2123142526.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/05/1d/2095500808_0:205:3068:1931_650x0_80_0_0_4d803e6cdae48b6c01d3dc277313194f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-08 17:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261008/mintrans-2123142526.html",
+            "publishedAt": "2026-10-08T09:07:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-autonomous-industrial-ai-d07e6967ea51e852",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Building a safer path to autonomous industrial AI",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T08:17:32.000Z",
+        "pubTime": "2026-10-08 16:17",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "imageUrl": null,
+        "fullContent": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems, where an unexpected decision can have consequences for safety, reliability, and critical infrastructure.\n\nThat makes responsible deployment central to the next wave of industrial automation. “How do we leverage these technologies while maintaining safety, while maintaining reliable operations, while still being able to deliver on the promises of the new capabilities?” asks Arti Garg, chief technologist at AVEVA. The challenge is particularly acute as newer AI systems become more capable but also harder to predict and explain.\n\nOne foundation for making that transition work is data. Industrial systems often contain information across telemetry, service logs, engineering documents, and other disparate sources. Newer technologies can help connect and correlate that information more quickly, giving operators real-time support when diagnosing problems. AI-powered robots could take that a step further by gathering information in hazardous environments without requiring workers to enter them.\n\nBut greater autonomy also requires new approaches to governance. AVEVA’s framework for responsible AI emphasizes security, efficiency, and human safety and oversight. Garg argues that AI should augment rather than replace people in critical decision loops, with guardrails determining where automated systems can act and where human supervisors remain responsible.\n\nSustainability is another part of that equation. AI can help manage complex power systems as renewable generation grows, while organizations also need better ways to understand AI’s own environmental footprint. Garg is involved in an IEEE working group developing a standard methodology for measuring that impact across electricity, energy, resources, water, and carbon.\n\nThe next phase could bring industrial AI further into the physical world, from autonomous robots and drones to AI-assisted coding that allows domain experts to build new applications. But realizing that potential will require more than deploying new technology, says Garg. Organizations will need to rethink business processes, establish appropriate safeguards, and give experienced workers new ways to apply their expertise, creating a model of automation that is not only more autonomous, but safer, more efficient, and more sustainable.\n\n“Autonomous systems, whether they&#8217;re robots or drones, are really going to change the way that we work in plants, in power systems, on mining sites,” says Garg. &#8220;In a way, that will make these types of operations more efficient, much safer for the human beings involved and more productive.”\n\nThis episode of Business Lab is produced in partnership with AVEVA.\n\nMegan Tatum: From MIT Technology Review, I&#8217;m Megan Tatum, and this is Business Lab, the show that helps business leaders make sense of new technologies coming out of the lab and into the marketplace.\n\nIndustrial AI may not be new, but it is developing at a breakneck pace. From modern predictive analytics that can preempt equipment failures, to autonomous robots tasked with inspecting high risk machinery, emerging applications have the potential to transform operational efficiencies. But often used in high consequence environments with minimal margin for error, industrial AI deployed without clarity, security, or accountability could also have catastrophic consequences for critical infrastructure over time. As industries rush to embrace the latest technologies, the goal should always be responsible AI designed to support, rather than replace that all important human judgment.\n\nTwo words for you: sustainable automation.\n\nMy guest today is Arti Garg, chief technologist at AVEVA.\n\nThis podcast is produced in partnership with AVEVA.\n\nArti Garg: Thank you, Megan. It&#8217;s great to be here.\n\nMegan: Thank you so much for joining us. And just to start, if we could set some context for our discussion, can you share a bit about the current state of industrial AI and what AVEVA is working on at the moment as well?\n\nArti: Yeah, more than happy to. And I want to go back to what you already stated, which is that in some ways, industrial AI is not new. It&#8217;s something that, even here at AVEVA, we&#8217;ve been working on for more than 20 years, really thinking about how AI can enhance applications in the industrial sector.\n\nBut what has changed quite substantially in maybe the last few years is the type of AI. We&#8217;ve really moved to these general purpose foundation models, which enable a lot more people to leverage advanced AI technologies. In addition to that, in just the last couple of years, there&#8217;s been an explosion in what&#8217;s known as physical AI and the types of AI that can really accelerate the capabilities of robotics and autonomous systems. And also agentic AI, which also allows for automation at more of the software level.\n\nAnd what we&#8217;re seeing is that while in the past there has been some hesitancy to adopt models that don&#8217;t totally have predictable outcomes, there&#8217;s been a rapid acceleration in adoption of AI even in the industrial sector. One study suggests maybe that&#8217;s almost a 78% increase over the past just two years within the industrial sector. So yes, that&#8217;s an inflection point, but it&#8217;s almost like a step function if you think about it with respect to AI adoption.\n\nAnd what we&#8217;re really thinking about now at AVEVA is, how do we think about this? How do we think about incorporating these new and very powerful AI technologies in environments where customers have mission-critical operations, human safety is a significant factor? Those are some of the primary concerns that our customers have when they think about adopting any new technology. We&#8217;re doing that in narrow where these newer types of AI aren&#8217;t necessarily predictable, in terms of how they behave. That&#8217;s one of the areas we&#8217;re really thinking about is, how do we leverage these technologies while maintaining safety, while maintaining reliable operations, while still being able to deliver on the promises of the new capabilities?\n\nMegan: There&#8217;s so many things to consider at once, isn&#8217;t it? And you outlined there some of the huge developments we&#8217;ve seen in this space in recent years. What makes this such a pivotal moment for industrial AI specifically? What has changed to make some of those perhaps more out there hypotheticals much more plausible?\n\nArti: Well, I think one of the big things, one of the big challenges within industrial AI, and this is something that as AVEVA, it&#8217;s in our blood, it&#8217;s in our core DNA, is that to really leverage any kind of digital technology in the industrial space, one of the first important things you often need to do is gather and correlate data from disparate systems, so that maybe I have telemetry coming off of a pump or a mixer, and I want to be able to correlate that with service logs so I know maybe the last time that someone had done some maintenance on that pump or mixer. And maybe I also want to be able to correlate that with the original design documentation and some of the original documentation on how to maintain that, so that if something is happening, I can do a better job diagnosing what&#8217;s going wrong and how to address it. This has always been a core challenge in the industrial space.\n\nI think that what&#8217;s happening now is that with newer technologies, even things like graph databases and being able to leverage AI to really match disparate data sets much faster, we&#8217;re able to get to the point where if something goes wrong, instead of an operator maybe needing to spend a little bit of time doing this research to really understand how do these different components fit together of information, they may have just an iPad with an AI that can very quickly go and fetch that information, correlate it and help in real time, almost, diagnose what is happening.\n\nEven a little bit more out there, but not as out there as you might think is, I still describe this with a human operator with potentially a mobile tablet, but imagine now I can also have a robot moving through that environment also gathering data and either with onboard computation or a quick connection to an operator who doesn&#8217;t necessarily now have to go out into a dangerous, potentially somewhat hazardous space, be able to gather data and enable that very quick diagnostic as well. And I think that&#8217;s really what&#8217;s exciting right now and what all of these new technologies that I&#8217;ve talked about are helping to enable.\n\nAnd I think then from our perspective, trying to really leverage all of those means that we have to think a lot now about our governance approach to this. How do we leverage AI in a way that keeps it contained, if you will?\n\nMegan: Yeah, absolutely. And on that governance point, how does AVEVA define responsible AI and what do you see as the primary benefits?\n\nArti: Yeah, so I think for us, we think about a triple mandate around responsible AI, and that means that it&#8217;s secure, it&#8217;s efficient, and that includes environmentally efficient, and then it really preserves human safety and human oversight above all. And for us, that&#8217;s what some of our core pillars of responsible AI include. And for us, that means we think about internally as we build tools, a multi-layered governance approach where we&#8217;ve got both for how we use AI as a company and then how we deploy AI into our products. We&#8217;ve got a similar framework that we leverage across both, a kind of joint governance model, both around how we&#8217;re leveraging AI and also how we&#8217;re infusing AI into our products to allow our customers to leverage AI in their operations.\n\nBut I would say one of the core foundational principles underneath all of these is that human beings still remain centered in how we think about how AI is leveraged. And so human judgment, human responsibility, human ethics are still core to how we think about where AI can add benefits, and we think about it more as augmenting rather than replacing human beings in critical decision loops, if you will.\n\nMegan: Right, which is such an important distinction, isn&#8217;t it? And in terms of the next phase of development, there&#8217;s growing sentiment that agentic AI will soon allow these industrial systems to operate much more autonomously. I wonder, what makes the risks in industrial settings different from AI risk in a purely digital context? And I suppose on the flip side, what are the benefits and opportunities of that same software defined automation?\n\nArti: I think we can start with the risks and then go to the benefits. I think ultimately, I would say the biggest risk in the industrial setting is that we are interacting with real physical systems, often physical systems that are very capable of delivering important outcomes that keep our world running, whether that&#8217;s delivering power, whether that&#8217;s mining for natural resources. But usually. Those physical systems are also operating in hazardous environments, the equipment itself is capable of also having human safety implications. Anytime you&#8217;re interfacing software with a physical system that can have real world consequences, you have to be extra careful. And we&#8217;ve always had that, again, we&#8217;ve had that in our DNA at AVEVA from the beginning, being mindful of that end user and that end application, which is not just something on a computer screen.\n\nEven as we&#8217;ve deployed AI over the past few decades into our systems, we&#8217;ve typically leaned toward really trying to pick the best fit model, really understand that model&#8217;s behavior if we&#8217;re going to use, for example, we have a proprietary anomaly detection model that works in a lot of operational environments. Now, as we&#8217;re thinking about some of these newer AI capabilities, which by design are hard to understand how they behave, they&#8217;re not fundamentally explainable in the way we&#8217;ve thought about even AI or statistical models in the past, and actually their behavior can change over time as they learn and get tuned to new capabilities. That&#8217;s really the potential risk of automating a physical system based on capabilities that can evolve over time is one of the things that we have to be really mindful of and really thoughtful around, where are we willing to put some of that increased automation into practice?\n\nBut at the same time, I think there&#8217;s a real opportunity there, because I glossed over this idea that, okay, well, models evolve, but so do human beings, and sometimes that&#8217;s a good thing. We talk about humans having expertise and they gain understanding over their careers of how a system works. If we can actually leverage the ability of some of these newer AI capabilities, these sort of reasoning models often have underlying agentic capabilities, to learn and gather experience faster, and potentially even more importantly or more valuably, take experience that&#8217;s learned at one site and apply it to another site, then that&#8217;s a real opportunity to take what we already know works for human beings, which is that sometimes you just have to learn by doing and be able to apply that and scale that through AI. That&#8217;s where I see potentially a real opportunity in this space.\n\nOne of the things that we&#8217;re really aware of in the industrial sector is just the way that our workforce is changing. I think that almost half, not quite half, of the industrial workforce is set to retire in the next five years, and that&#8217;s a lot of expertise and experience that means that we&#8217;re going to lose in the sector. If there&#8217;s ways to make sure that we can capture that in ways that are actionable, in ways that can also help a newer generation of workers that are used to experience things in a different way, apply that expertise, apply that knowledge, then I think that&#8217;s a huge opportunity within the industrial space.\n\nMegan: Yeah, absolutely. Clearly, some huge opportunities there particularly against the backdrop of other market and workforce changes as you&#8217;ve outlined there. I suppose building on that, what is the potential for these autonomous industrial AI systems when built and deployed responsibly to facilitate even faster, more sustainable industrial processes?\n\nArti: I think there&#8217;s a couple different ways to think about this. One is, what are the demands of potentially more environmentally sustainable processes? I&#8217;ll use one example of something that my team has been working on in partnership with Idaho National Laboratory here in the U.S. as part of their testing for AI grid resilience project.\n\nOne of the challenges in the electric grid as we&#8217;re moving toward a future where we have a lot more intermittent renewable power generation sources, often distributed rooftop solar for example, is it&#8217;s becoming much more challenging to manage the grid both from really understanding where electric capacity is coming in, electric load is pulling off of the grid. In addition to that, being able to maintain just power quality because instead of having one spinning asset delivering the frequency of electricity that&#8217;s going across the grid, you&#8217;ve got a lot of smaller systems. AI is actually quite critical for being able to manage that grid of the future. And this is one of the things that we&#8217;ve been working in partnership is, how can we do that? How can we help grid operators better understand what&#8217;s happening across their system, identify where things might be behaving anomalously so they can detect that early and then remediate for it?\n\nAt the same time though, I always talk about that&#8217;s an example of where AI can potentially help us accelerate the transition to a lower carbon energy future. At the same time, I think there&#8217;s a lot of conversation around the sustainability of AI itself. What are the power requirements? What are the resource requirements needed to run AI? And before I get into how do we think about that at AVEVA, because it is definitely something we think about and I think a lot of actors in the space are thinking about, I want to point out, is one of the challenges is that there&#8217;s really no agreed upon method to measure the environmental impact of AI. You see a lot of these stories, like one query on some kind of chat interface is X amount of gallons of water or this amount of electricity use. But the truth is that community-wide, there&#8217;s no agreed upon standard.\n\nOne of the things that I&#8217;m involved with is a standards working group that was launched by the IEEE two years ago, a little over two years ago. I&#8217;m the chair of that working group, it&#8217;s called the P7100 Standards Working Group on measuring the environmental impact of AI. And one of the things we&#8217;re trying to do is really identify all the different areas over which we want to think about environmental sustainability associated with AI, and then having one standard methodology that works and that can be adopted both from a reporting perspective and potentially also from an oversight or regulatory perspective. That becomes really important for any sort of real understanding of how AI impacts the environment is just we have to know, what does it use? We want to look holistically at that. Our standards cover electricity and energy consumption, it covers resource usage, it covers water consumption, and it also covers carbon.\n\nBut all of that said, I think it&#8217;s important for us to understand the footprint of AI, but I think it&#8217;s also important for us to simultaneously recognize that a bigger model uses more compute and more compute probably leverages more resources. The more that we can be intentional and pick the right size model for the right application, the more we can already start down that path of being more environmentally efficient in the AI that we run. One of the potentially nice side effects of that is the more purpose-built a model, the less likely it is to misbehave in unpredictable ways, if you choose correctly your architecture. There&#8217;s some sort of ancillary benefits that go beyond environmental sustainability.\n\nMegan: Fascinating. It&#8217;s really, really interesting to hear some of the work going on behind the scenes there, because I think we&#8217;ll all have heard some of the statistics around the environmental impact, as you say. So, it&#8217;s great to understand some of the work going on there to really clarify that.\n\nAnd we&#8217;ve talked a little bit about AI augmenting humans earlier. As systems gain greater autonomy, how should organizations think about that balance between closed loop automation, human in the loop accountability? What guardrails need to be in place? And how are governments and cross-border actors approaching those concerns as well?\n\nArti: There&#8217;s a lot packed into that question, so I&#8217;ll try to answer it somewhat one by one. First, starting with that sort of balance between closed loop and human in the loop, automation and accountability. One of the things that we talk about in the industrial sector is from human operator to human supervisor of systems, of industrial systems. And if I&#8217;m honest about that, we&#8217;re still trying to figure that out. When a human&#8217;s in a loop in an automated system, you&#8217;re really thinking about a system may process all the data and then make a recommendation.\n\nWe&#8217;ve got a solution that we&#8217;ve been working on more jointly with a few different customers where we&#8217;re able to take in a lot of their operational data, also some simulations of how their systems work, and be able to provide, say, recommendations around, you should now operate at this set point instead of that set point based on some of the other conditions that are changing in your plant. There&#8217;s a lot of interest in moving from having that be a recommended set point to have an automation that can automatically adjust the set point. And we&#8217;ve actually had some successful real-world pilots around that as well.\n\nBut when you get into that, obviously it makes people very nervous if you&#8217;re changing set points on industrial equipment. That&#8217;s where you maybe continue to have some guardrails around like, you can&#8217;t go outside of a certain band, for example, of operations, or we only allow the automation in certain areas. That&#8217;s where the human supervisor, the same way a human supervisor might give employees a lot of bandwidth or a lot of flexibility to make decisions around certain things, around other things, they&#8217;re hard and fast, like this is the deadline or this is the sort of production target. It&#8217;s like that. So thinking about, how do you put the appropriate guardrails?\n\nThe challenge is, AIs are not human beings, and so the guardrails look different, and I think that&#8217;s one of the things that there&#8217;s still to think about. That question of, what guardrails should be put in place? I think that it&#8217;s going to be probably dependent a little bit on the application, but over time I think we&#8217;re all going to learn, and so being really upfront and thoughtful about how we do this I think is important.\n\nBut the opportunity though, potentially, is really great. I&#8217;ve already mentioned that AI can be very useful in synthesizing a lot of information and bringing to the forefront, this is what matters. That&#8217;s something that we do want to create some space to experiment around, but what&#8217;s then important is making sure that a human being understands the risk.\n\nI&#8217;ll give a little bit of a personal story because it might be illustrative. This weekend, I bought a little toy robot and decided I wanted to program it to do some stuff, and I found AI very, very helpful to get me started to read all the documentation. Putting the robot together was straightforward, they had nice instructions, but there&#8217;s a pretty heavy software developer kit that&#8217;s already there, but going through and reading all that documentation can take a while. AI was super helpful to help me surface, this is the function that does this, to help me get started. But occasionally, it made really bad recommendations on the best way to troubleshoot something.\n\nThat&#8217;s where I think having the human being in the loop, being able to say, &#8220;I know that it&#8217;s not going to be the best software architect or the best troubleshooter,&#8221; is really helpful because I had the opportunity to leverage AI for what it&#8217;s good for, synthesizing and surfacing a lot of information, but being able to say, &#8220;I don&#8217;t think that&#8217;s the most efficient first step. Let&#8217;s try something else.&#8221; That&#8217;s where it&#8217;s a really different way of working, but it&#8217;s something that I think as humans get more comfortable with the power and limitations of AI, you can start to teach people how to work with it, and it&#8217;s very different from how you would work with other digital tools.\n\nOne of the things that is important when it comes to AI is recognizing just the breadth of things that it touches and the breadth of impacts that it&#8217;s going to have, whether it&#8217;s on the environment, as we&#8217;ve discussed, whether it&#8217;s on productivity as sort of implicit in this entire discussion, whether it&#8217;s on labor force, whether it&#8217;s on just how economies work. From my eye, and I&#8217;m by no means a policy expert in this area, but from my eye, what I&#8217;m seeing is that different governments are prioritizing different aspects of that from how they&#8217;re thinking about regulatory and other kind of governance approaches.\n\nMegan: We&#8217;re absolutely seeing some really vastly different approaches to this, aren&#8217;t we, around the world? I wondered to illustrate some of this, if you could share perhaps some case studies you&#8217;ve seen, maybe talking us through what lessons they could hold for other organizations perhaps a little earlier in their own AI journeys.\n\nArti: I think a lot of the key areas where we&#8217;re seeing very clear benefits of adopting AI in the industrial sector, the core to all of them is actually getting the data right and getting the right foundation of data so that you can build AI on top of it.\n\nOne of our customers, SCG Chemicals, which is a petrochemical company in Thailand, they had this vision of producing a reliability platform for their operations that was as AI-driven as possible. But a core part of that was actually getting the data right, being able to have all of their information in the right place, leveraging some of AVEVA&#8217;s tools to do that. Bringing together operational data and also engineering data. And then putting on top of that AI capabilities, in this case, one of our capabilities called AVEVA Predictive Analytics that deploys some proprietary models to do things like detect anomalies, so that they could really much earlier identify potential operational risks. And instead of having unplanned downtime, translate that to planned downtime. When you translate unplanned downtime to planned downtime, you can get a huge improvement in plant reliability.\n\nAt this point they&#8217;re targeting something like 99% plant reliability and a very, very high return on investment from the platform that they put in place. Again, in early pilot days, it was almost a 9x ROI, and so that&#8217;s really quite impressive. But what I want to emphasize is that it&#8217;s kind of a multi-layered problem to get it right.\n\nMegan: Those are some really striking results, though. I mean, for industrial leaders who perhaps are still hesitant to explore AI, I wonder, what do you think is the cost of taking a more wait and see approach?\n\nArti: I think, again, this is an area where the industrial sector has a little bit of a different calculus to apply to this type of problem. In general, I think you would hear most business experts say that you can&#8217;t afford to take a wait and see approach to AI because it is so transformative across every sector of society and economy, and certainly in the industrial space, we&#8217;re not immune to that. But I do think that some of the challenges that I&#8217;ve outlined today also puts leaders in the industrial space into a mindset of sometimes potentially being a fast follower rather than the first adopter of newer technologies, just because the risk is so high.\n\nBut that being said, I think one of the challenges is that the risks that we&#8217;ve covered today around infusing systems that don&#8217;t always behave predictably with physical systems is that I don&#8217;t know that there&#8217;s a lot of other sectors that are going to be solving those problems. That&#8217;s where what I&#8217;m seeing is actually a lot of interest and excitement in trying new things and willingness to do that because there&#8217;s a recognition that applied correctly and applied with the right guardrails and safeguards in place, these technologies really have truly transformative potential from a resource usage standpoint, from a human safety standpoint, from a productivity standpoint.\n\nI think the calculus has shifted a little bit in the sector to we want to actually try these things out. But then it becomes more, how do we try these things out in environments that we can make a little bit more sandboxed or safe to test out what some of the unique challenges we&#8217;re going to face in the industrial sector are?\n\nMegan: Yeah, absolutely. It&#8217;s just hard to ignore the potential nowadays, isn&#8217;t it? And just to close with a slightly future forward look, I suppose, what are you most enthusiastic about in terms of the long-term potential of responsible autonomous industrial AI systems?\n\nArti: Yeah. Well, I think that there&#8217;s a couple of different trajectories. One of the things that I think within the next 18 months for sure, we&#8217;re going to see an increase of people with deep domain expertise who maybe didn&#8217;t grow up with a software background, be able to adopt AI assisted coding techniques to really be able to build the things that they weren&#8217;t able to build before.\n\nThat&#8217;s really exciting in my career, which way back when I was actually an industrial data scientist, I would say I always felt the most energized and that I learned the most talking to the people that were on the front lines of operations, having to monitor a lot of different equipment and understanding how it all worked together. They really have a lot of expertise, and being able to put in their hands the ability to very quickly develop new applications is I think going to really lead to a lot of new ideas that many of us in the industrial software space maybe wouldn&#8217;t even have thought about and really understood how to put. I think that&#8217;s really exciting.\n\nI think then looking beyond that, I was a little bit of a, not to say a robotic skeptic, because clearly robotics and autonomous systems are going to be important, especially given the types of environments, whether they&#8217;re hazardous or remote, that industrial equipment operates in. But I just actually think things are moving a lot faster than I had anticipated. I&#8217;m really interested to see how these physical embodiments of AI systems start to really transform, again, how we think about operations.\n\nOne of the things about any new technology in any environment is that to really gain value from it, you have to change the way you do things. I would say for close to 10 years now, I&#8217;ve been giving talks on AI adoption and I always say the biggest barrier to AI adoption is not anything to do with the technology. It&#8217;s not even to do with the data, although data are often the biggest sticking point, it&#8217;s really to do with, are you going to change your business processes to be able to work with the way this technology is good or not good at things?\n\nAutonomous systems, whether they&#8217;re robots or drones, are really going to change the way that we work in plants, in power systems, on mining sites. And I think that will make these types of operations more efficient, much safer for the human beings involved and more productive. So, I&#8217;m quite excited about that.\n\nI don&#8217;t know entirely what direction it will go, but one of the things that I think about a lot is that if you go back to I, Robot and Isaac Asimov&#8217;s book, the premise of those was that robotics would be the first broadly adopted AI, not computer-based systems. We went in the other direction and I think it&#8217;s really interesting to now see all of this converging.\n\nMegan: Yeah, absolutely. See robotics catches up a bit. So many exciting things on the horizon, that&#8217;s for sure. Thank you so much, for your time.\n\nThat was Arti Garg, chief technologist at AVEVA, whom I spoke with from Brighton in England.\n\nThat&#8217;s it for this episode of Business Lab. I&#8217;m your host, Megan Tatum. I&#8217;m a contributing editor at Insights, the custom publishing division of MIT Technology Review. We were founded in 1899 at the Massachusetts Institute of Technology, and you can find us in print, on the web, and at events each year around the world. For more information about us and the show, please check out our website at technologyreview.com.\n\nThis show is available wherever you get your podcasts. And if you enjoyed us, we hope you&#8217;ll take a moment to rate and review us. Business Lab is a production of MIT Technology Review, and this episode was produced by Giro Studios. Thank you so much for listening. Goodbye.\n\nLearn more at aveva.com .\n\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 69,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "本期播客节目 Business Lab 由《麻省理工科技评论》（MIT Technology Review）出品，主持人为 Megan Tatum，节目与工业软件公司 AVEVA 合作制作。",
+          "AVEVA 在工业领域应用 AI 已有超过 20 年的历史。",
+          "来源叙事重点：探讨工业AI从单纯数字化分析迈向物理世界自主化（自主机器人、Agent与具身智能）的关键转型节点，着重强调在关键基础设施与高风险工业场景中建立‘负责任的AI治理’、确保人类监督（human-in-the-loop）以及兼顾环境可持续性的必要性与商业实践方案。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T08:17:32.000Z",
+            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-ess-than-a-week-52b1a2a4-a813fcb4afb813b2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Simone Biles and Jonathan Owens find a buyer for $1.2 million Texas home—in less than a week",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:03:00.000Z",
+        "pubTime": "2026-10-08 17:03",
+        "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Olympic gymnast Simone Biles and her NFL star husband, Jonathan Owens, have landed a buyer for their sprawling Texas property—just days after listing the home they resided in while finishing up their custom mansion.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-08 17:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-08T09:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-deindexed-by-google-f5d919bdfb89f8ff",
+        "title": "我已经被谷歌取消收录了",
+        "originalTitle": "I've Been Deindexed by Google",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T07:59:30.000Z",
+        "pubTime": "2026-10-08 15:59",
+        "url": "https://kennyqin.com/deindexed-by-google/",
+        "imageUrl": null,
+        "fullContent": "I don't remember exactly when but, earlier in the year, I decided I didn't want this website to be indexed by search engines anymore. A lot of it has to do with AI and the relentless scraping that plagues the internet now. I know that as long as my blog is accessible by the public internet, there are no real measures I can put in to stop it but at least some of it will be respected.\n\nI started out by setting a blanket disallow in the robots.txt.\n\nWhen I realised that didn't do anything after a few weeks of waiting and checking, I set the robots meta tag.\n\nI thought that would do the trick. What I didn't realise is that you have to actually, ironically, allow the bot that will do the deindexing to visit your website so that it can see the meta tag that tells it to not index your page anymore.\n\nI also did this with several other common bots and removed them from the robots.txt whenever I found that my website had been deindexed.\n\nIt's been at least 3 months since I did my last change to have Google deindex me and, after checking today, I'm happy to announce that this website is free from Google! 🥳",
+        "fullTranslation": "我不记得具体是什么时候了，但在今年早些时候，我决定不再希望这个网站被搜索引擎收录。这在很大程度上与人工智能以及如今困扰互联网的无休止抓取有关。我知道，只要我的博客能被公共互联网访问，就没有什么真正的方法能阻止它，但至少有一部分规则会得到遵守。\n\n我一开始是在 robots.txt 中设置了全局禁止访问（blanket disallow）。\n\n在等待并检查了几周后，当我发现这并没有起任何作用时，我设置了 robots 元标签（meta tag）。\n\n我以为这样就行了。但我当时没有意识到的是，讽刺的是，你实际上必须允许负责取消收录的爬虫访问你的网站，这样它才能看到那条告知它不再收录你页面的元标签。\n\n我还对其他几款常见的爬虫进行了同样的操作，每当发现自己的网站已被取消收录时，就将它们从 robots.txt 中移除。\n\n距离我为了让谷歌取消收录而做出最后一次更改已经过去了至少 3 个月，在今天检查之后，我很高兴地宣布，这个网站终于摆脱谷歌了！🥳",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "作者在今年早些时候决定停止让其个人网站被搜索引擎索引，最初在 robots.txt 中设置了全量禁止（blanket disallow）。",
+          "作者在发现仅设置 robots.txt 无效后，添加了 robots meta 标签，并重新允许爬虫访问以读取该取消索引标签。",
+          "来源叙事重点：以第一人称叙述个人博客摆脱搜索引擎及 AI 爬虫抓取的动机与技术踩坑过程，重点强调 robots.txt 与 noindex meta 标签的机制反差，并将成功被 Google 移出索引视作一项个人数字自主权的胜利。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T07:59:30.000Z",
+            "url": "https://kennyqin.com/deindexed-by-google/"
+          }
+        ]
+      },
+      {
+        "id": "story-ef-boost-coral-fish-html-41b32af5e35bb175",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Healthy reef sounds can boost coral and fish recovery efforts",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:00:14.000Z",
+        "pubTime": "2026-10-08 17:00",
+        "url": "https://phys.org/news/2026-10-healthy-reef-boost-coral-fish.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/healthy-reef-sounds-ca.jpg",
+        "fullContent": "Coral reefs are renowned for their visual beauty, but for the marine life they support, their sounds may be just as enticing. Two new studies led by UC San Diego's Scripps Institution of Oceanography reveal how underwater acoustic enrichment—the playback of sounds from healthy reefs—can help spur the recovery of degraded coral reefs and their fish communities.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-08 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-healthy-reef-boost-coral-fish.html",
+            "publishedAt": "2026-10-08T09:00:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--uchenik-2123142361-html-6a8a80c594f0c3a5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В польской школе ученик напал с ножом на уборщицу",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-08T09:06:29.000Z",
+        "pubTime": "2026-10-08 17:06",
+        "url": "https://ria.ru/20261008/uchenik-2123142361.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/151768/79/1517687955_0:291:5581:3430_650x0_80_0_0_48c063dc40c7cd1dc16e4da561959c4a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-08 17:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261008/uchenik-2123142361.html",
+            "publishedAt": "2026-10-08T09:06:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ion-over-starlink-launch-4487724775945f85",
+        "title": "印度驳斥埃隆·马斯克关于星链落地遭遇歧视的指控",
+        "originalTitle": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T06:14:11.000Z",
+        "pubTime": "2026-10-08 14:14",
+        "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+        "imageUrl": null,
+        "fullContent": "India has rejected Elon Musk’s claim that Starlink, SpaceX’s satellite internet service, is being unfairly blocked from launching in the country. The pushback comes as SpaceX struggles to turn years of regulatory work and partnerships with India’s biggest telecom operators into a commercial launch in one of the world’s largest internet markets.\n\nOn Wednesday, Musk accused unnamed “oligarchs” of blocking Starlink’s launch in India to maintain what he called their “monopolistic chokehold” on the country, without identifying them or providing evidence for his claim. He called the alleged blocking a “crime against the people of India” and argued that Starlink could bring affordable, high-speed internet to people who lack internet access.\n\nHours later, India’s Ministry of Communications pushed back, saying its regulatory framework for satellite communications is “fair and non-discriminatory.” The ministry said in a statement that Starlink and two other licensed satellite operators are all at “broadly the same regulatory stage.” It added that all three companies are undergoing security assessments that must be completed before they can seek spectrum, the radio frequencies that satellites use to send signal.\n\nMusk’s comments came hours after Lauren Dreyer, Starlink’s vice president of business operations, appeared at a telecom industry conference, India Mobile Congress, in New Delhi and reiterated the company’s commitment to the market. “We stand ready to serve India,” Dreyer said, adding that Starlink wants to help realize Prime Minister Narendra Modi’s goal of achieving universal connectivity across the country.\n\nStarlink said it already has more than 20 gateway sites (the ground stations that link its satellites to the internet) and hundreds of antennas on the ground in India, and has adapted its operations to meet the country’s regulatory, security, and data-sovereignty requirements. Moreover, SpaceX has positioned its satellite network as a complement to — rather than a replacement for — India’s terrestrial telecom networks.\n\nSpaceX first attempted to launch Starlink in India in 2021. The company, however, had to refund preorders for its equipment in early 2022 after the Indian government called it out for “booking/rendering the satellite internet service” before getting the necessary licenses.\n\nStarlink has also previously clashed with India’s largest telecom operators over how satellite spectrum should be allocated. Starlink pushed for spectrum to be assigned administratively, while Reliance Jio argued that it should be auctioned — a position that could have made Starlink’s entry more expensive. India ultimately sided with Starlink’s preferred approach, deciding to allocate satellite spectrum administratively rather than through an auction.\n\nJio and Airtel, the two biggest Indian telcos, are also pursuing their own satellite internet services, even as they have agreed to distribute Starlink in India. Jio is working with satellite operator SES on satellite broadband, while Airtel is a major backer of Eutelsat OneWeb, another licensed satellite operator in India.\n\nWhile the timing of Starlink’s India launch remains unclear, the company this week launched Starlink Mobile, which connects ordinary phones to satellites, in neighboring Bangladesh this week.\n\nStarlink, India’s Ministry of Communications, Reliance Jio, and Bharti Airtel did not immediately respond to requests for comment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.\n\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’\n\nMeta wants your next gadget to be Muse-infused\n\nGoogle thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground\n\nWorld’s first enhanced geothermal power plant completed in just 23 months",
+        "fullTranslation": "印度驳斥了埃隆·马斯克的说法，马斯克此前称其旗下的太空探索技术公司（SpaceX）卫星互联网服务“星链”（Starlink）在该国开展业务遭到了不公正的阻碍。SpaceX多年来一直致力于在监管合规以及与印度最大电信运营商建立合作方面推进落地，以期在全球最大的互联网市场之一实现商业化运营，而印度的反驳正是在这一关键时刻做出的。\n\n周三，马斯克指责未具名的“寡头”阻挠星链在印度的落地，目的是维持其所谓的对该国的“垄断扼杀”，但他并未点出具体对象，也未就其指控提供证据。他称所谓的阻挠行为是“对印度人民的犯罪”，并坚称星链可以为那些缺乏网络连接的人口提供负担得起的高速互联网服务。\n\n数小时后，印度通信部做出反驳，称其卫星通信监管框架是“公平且无歧视的”。该部在一份声明中表示，星链与另外两家获得许可的卫星运营商都处于“大体相同的监管阶段”。声明还补充道，这三家公司目前都在接受安全评估，在申请卫星传输信号所用的无线电频率（频谱）之前，必须先完成该评估。\n\n马斯克发表上述言论的数小时前，星链业务运营副总裁劳伦·德雷尔（Lauren Dreyer）刚刚出席了在新德里举行的印度移动大会（India Mobile Congress）电信行业峰会，并重申了公司对该市场的承诺。德雷尔表示：“我们随时准备好为印度提供服务。”她还补充说，星链希望助力实现印度总理纳伦德拉·莫迪在全国普及网络连接的目标。\n\n星链表示，它已在印度拥有20多个网关站点（将卫星连接到互联网的地面站）和数百个地面天线，并调整了业务运营，以满足该国在监管、安全以及数据主权方面的要求。此外，SpaceX将自己的卫星网络定位为对印度地面电信网络的补充，而非替代品。\n\nSpaceX最初于2021年尝试在印度推出星链服务。然而，在印度政府指出其在获得必要牌照之前便“接受预订/提供卫星互联网服务”后，该公司不得不在2022年初退还了设备的预订款项。\n\n此前，星链还曾就卫星频谱的分配方式与印度最大的电信运营商发生过冲突。星链主张通过行政方式分配频谱，而信实工业旗下的Jio则认为应当采取竞拍方式——若采取竞拍可能会使星链的准入门槛成本大幅上升。印度最终采纳了星链所偏向的方案，决定以行政方式而非竞拍方式分配卫星频谱。\n\n印度最大的两家电信运营商Jio和Airtel虽然已同意在印度代销星链服务，但也都在推进各自的卫星互联网业务。Jio正与卫星运营商SES合作开展卫星宽带业务，而Airtel则是印度另一家持牌卫星运营商Eutelsat OneWeb的主要支持者。\n\n尽管星链在印度的上线时间仍不明确，但该公司本周在邻国孟加拉国推出了“星链移动”（Starlink Mobile）服务，可将普通智能手机直接与卫星相连。\n\n星链、印度通信部、Reliance Jio以及Bharti Airtel未立即回应置评请求。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。\n\nJagmeet为TechCrunch报道印度的初创公司、科技政策动态及所有其他以科技为核心的重大进展。他此前曾在NDTV担任首席记者。\n\n您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系Jagmeet或核实其外联采访信息。\n\n购买第二张门票立享五折优惠。Disrupt的精彩体验理应与他人共享。获取门票并带上同事、合作伙伴或同行，立省50%。结识人脉、集聚势能、探索初创生态圈的最新趋势，拓展更多业务版图。\n\n年仅19岁的创始人为Ghost筹集1100万美元资金，该公司制造售价3499美元的个人AI计算机\n联邦法官称Flock属于“无差别大规模监控”\n亚马逊回应数据中心舆论反弹，称不再使用保密协议\nOpenAI安全部门员工辞职，称公司“文化已崩坏”\nMeta希望你的下一款数码设备融入Muse技术\n谷歌认为SpaceX的星舰必须发射1800次，太空数据中心才能真正起步\n全球首座增强型地热发电站仅用23个月即告完工",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "印度拒绝了埃隆·马斯克关于 Starlink 在印度遭到不公平阻止的说法。",
+          "马斯克指责未具名的“寡头”阻止 Starlink 在印度推出，以维持其所称的“垄断性扼制”；文章称他没有指明这些人，也没有提供证据。",
+          "来源叙事重点：聚焦埃隆·马斯克指责印度“寡头”阻挠 Starlink 入境与印度通信部反驳其监管具有歧视性的言论交锋，重点梳理 SpaceX 在印度的准入合规瓶颈、安全审查流程以及与本土电信巨头（Jio、Airtel）的竞合关系"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T06:14:11.000Z",
+            "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-vessel-off-qatar-html-52e7a16fd53b9b78",
+        "title": "近一个月来波斯湾深水海域首起油轮遇袭事件：卡塔尔附近海域一船只遭袭",
+        "originalTitle": "First Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:00:00.000Z",
+        "pubTime": "2026-10-08 17:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/First-Deep-Gulf-Tanker-Attack-in-Nearly-a-Month-Hits-Vessel-off-Qatar.html",
+        "imageUrl": null,
+        "fullContent": "A tanker has been struck by multiple projectiles north of Qatar&rsquo;s tip in the first such attack deep within the Persian Gulf in nearly a month.  A tanker has reported being struck by multiple projectiles 51 nautical miles north of Madinat ash Shamal, Qatar, UK Maritime Trade Operations UKMTO, which is affiliated with the Royal Navy, reported.  Casualties have been reported, and authorities are investigating, UKMTO said about the incident, the report of which was received late on Wednesday local time.  This is the first reported attack so deep in the Persian Gulf since a tanker was hit by an unknown projectile south-east of Al-Faw, Iraq, on September 9.  Over the past month, most reported attacks and incidents have taken place in or very close to the Strait of Hormuz.  Oil flows and tanker activity in the Persian Gulf and the Strait of Hormuz have picked up in recent weeks, and some estimates put crude flows at nearly reaching pre-war levels.  But reports of attacks have also increased.  UKMTO reported nine attacks in and around the Strait of Hormuz in just the first seven days of October, half the number of all attacks reported in the entire previous month.  The number of attacks on tankers in the area has jumped in recent days, threatening the lifeline of the Gulf oil exporters and another jump in oil prices.   In the week to October 5, at least 12 attacks on oil, LNG, and liquefied petroleum gas LPG tankers took place around the Strait of Hormuz, Reuters reports, citing data from maritime security sources.  &ldquo;IRGC attacks, attempted attacks, and/or harassment activity persisted, including UAV overflight, targeted surveillance of merchant shipping, and occasional VHF hailing,&rdquo; the US Navy-led Joint Maritime Information Center JMIC said in a Sunday note. &ldquo;These actions continue to demonstrate Iran&rsquo;s intent to assert presence along key transit lanes and maintain pressure on transiting vessels.&rdquo;   By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "一艘油轮在卡塔尔北端海域遭到多枚弹射物袭击，这是近一个月来波斯湾深水海域发生的首起此类袭击事件。据隶属于英国皇家海军的英国海事贸易运营局（UKMTO）通报，一艘油轮报告在卡塔尔北部城市麦地那谢马尔（Madinat ash Shamal）以北51海里处遭到多枚弹射物袭击。UKMTO就该事件表示已有人员伤亡报告，有关当局正在对此展开调查，该事件通报于当地时间周三晚间收到。自9月9日一艘油轮在伊拉克法奥（Al-Faw）东南部遭未知弹射物击中以来，这是在波斯湾深水腹地报告的首起袭击事件。在过去一个月中，绝大多数报告的袭击和事件都发生在霍尔木兹海峡境内或紧邻该海峡的海域。最近几周，波斯湾和霍尔木兹海峡的石油流动与油轮活动有所回升，部分测算显示原油流动量几乎已接近战前水平。但与此同时，有关袭击的报告也在增加。UKMTO报告称，仅在10月的前七天内，霍尔木兹海峡及其周边就发生了九起袭击事件，达到了上个月整月报告袭击总数的一半。近几天来该地区油轮遇袭事件数量激增，危及波斯湾石油出口国的生命线，并可能引发油价进一步上涨。路透社援引海事安全消息人士的数据报道，在截至10月5日的一周内，霍尔木兹海峡周边至少发生了12起针对原油、液化天然气（LNG）以及液化石油气（LPG）油轮的袭击事件。由美国海军主导的联合海事信息中心（JMIC）在周日的一份简报中指出：“伊斯兰革命卫队（IRGC）的袭击、未遂袭击和/或骚扰活动持续存在，包括无人机（UAV）低空飞行掠过、对商船的针对性监视以及偶尔进行的甚高频（VHF）呼叫呼叫。”“这些行动继续表明伊朗意图在关键交通航道展现存在感，并对通航船只保持施压态势。” Oilprice.com 作者：茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "一艘油轮报告称在卡塔尔麦迪纳特阿什沙马尔以北51海里处遭多个抛射物击中。",
+          "事件造成伤亡的报告，相关部门正在调查。",
+          "来源叙事重点：以卡塔尔附近油轮遭多个抛射物击中为核心，强调这是近一个月来波斯湾深处首次报告的类似袭击，并将其置于霍尔木兹海峡及周边袭击数量上升、海湾能源运输安全受威胁和潜在油价上行的框架中。关于伊朗革命卫队持续实施袭击、未遂袭击或骚扰的内容，主要是JMIC的安全评估，而非报道已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T09:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/First-Deep-Gulf-Tanker-Attack-in-Nearly-a-Month-Hits-Vessel-off-Qatar.html"
+          }
+        ]
+      },
+      {
+        "id": "story-8-a-rant-about-apis-html-d4aa15fcf013e2c6",
+        "title": "一篇关于 API 的吐槽",
+        "originalTitle": "A rant about APIs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T06:07:14.000Z",
+        "pubTime": "2026-10-08 14:07",
+        "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+        "imageUrl": null,
+        "fullContent": "I have had the displeasure of integrating with a few different APIs over the past few weeks while working to automate Vori’s onboarding flow. These APIs have been for systems including contract rendering and e-signature collection, invoicing/billing systems, CRMs, card processors and gateways, and card terminal providers.\n\nThey all kinda suck in their own ways. This would be somewhat acceptable if they were doing novel work in new fields, but these are all APIs for solutions that have existed for a decade or more. It’s also frustrating because the developers could simply copy existing, better, APIs and practices, and come out ahead!\n\nHere are some of my pet peeves.\n\nYou’ve already messed up if I need to log in to read your API documentation. Kudos for actually writing the docs, but why do I need to log in!? I have to interrupt my flow to fill out a form or send an email to your support team, and wait a few hours or days, just to read documentation!?\n\nI complained to one team about this and they agreed that gated documentation is not ideal. However, an executive wanted lead tracking. WTF!? We are already customers. The lead is closed-won. There’s nothing else to track!\n\nThis is worse with agentic development. I prefer to provide links to docs so the agent can explore the schema, build a client, and integrate. That flow is disrupted by gating. I now have to download the docs in some fashion—fortunately the offender in question offers a Markdown option—to provide for the agent. This needs to be done for every endpoint!\n\nJust remove the authentication requirement for docs. You’re wasting your own time and resources just so everyone else can waste their own time and resources. This is a lose-lose scenario.\n\nShow of hands. Who likes handwriting API clients? If your hand is up, I don’t believe you. The OpenAPI specification has existed for 15 years. Publishing an API without one is just disrespectful at this point. Why don’t you like me? Why do you want to make my life harder when I’m trying to give you money? Help me help you. Give me a spec so I can generate a typed client and focus on my business.\n\nOh, “here’s a Postman collection,” you say? I guess something is better than nothing, but now I have to figure out how to convert that to an OpenAPI spec. Why are we wasting time with an inferior format? Give me the good stuff!\n\nThis is similar to gated docs. APIs need credentials. Duh. Let me generate/rotate them on my own. Why do I need to wait multiple weeks for the IT team to generate credentials, flip a flag, or whatever? Stuff happens. Sometimes we need to rotate credentials. Don’t make me file a support ticket for a potential security incident! That means an issue that crops up on Saturday probably isn’t getting fixed until mid-day Monday when someone reads the ticket.\n\nSo you created self-serve credential issuance. Cool. But wait! Now you tell me the credential is associated with the identity of the person that created the credential. Meaning…all logs are associated with that person, so it’s impossible to discern between API calls from our backend applications and calls made by that person in your web app? Meaning…that person is the only one that can rotate the credentials, and we can’t simply follow the bad practice of sharing credentials because your application requires SSO and we have to draw the line somewhere at account sharing? Meaning…deactivating that person’s account will almost assuredly result in an incident?\n\nI’m actively migrating away from an e-sign provider that does this because I am the person who set up the account, and am currently on vacation, and blocking folks from seeing contracts, because of course I want all the contracts sent to grocers to be associated with my account! My list of questions and criteria for vendors increases.\n\nWebhooks are great for building realtime-ish workflows. Love ‘em. I have no love for the aforementioned e-sign provider that wants to verify webhook endpoints before saving them. “What is this verification”, you ask? It’s simple (and stupid): the provider sends a payload to the endpoint and only saves the new webhook configuration if the endpoint returns a successful response.\n\nOne of the first sections in any webhook integration guide covers security. Always validate the payload with a shared secret, and reject invalid payloads without processing. Well…it’s hard to validate without that shared secret, and the provider won’t give me a shared secret until the endpoint is verified to work. 🙃\n\nThis was the ridiculous workaround for a problem that doesn’t need to exist:\n\nI wrote a support ticket for this, and the folks who responded didn’t quite understand why this was a problematic workflow. They do understand that I am migrating away from their product, however, and suddenly want to chat to get feedback.\n\nIt’s worth noting that I haven’t even discussed the API schemas and resources. Most companies get this right for their RESTful APIs with understandable nouns and verbs that define the business concepts and actions. Older payments companies continue to struggle with this for some inexplicable reason despite having over 15 years to just copy Stripe. Seriously, just copy the Stripe API. We spent a lot of time and energy building it. It’s good. Take it.\n\nI’m just happy folks are building APIs, even with the horrible developer experience. We’ve largely eliminated a 40+ step process in about four weeks. Sure, agents wrote the code in like 4 hours and most of that four weeks was waiting for credentials, but progress is progress.\n\nCopyright © 2014-2026 Clinton Blackburn",
+        "fullTranslation": "过去几周，我一直在努力实现 Vori 入驻流程的自动化，其间不得不与几个不同的 API 集成。这些 API 所对应的系统包括合同生成与电子签名收集、开票/计费系统、客户关系管理系统（CRM）、银行卡处理商和网关，以及刷卡终端供应商。\n\n它们各自都有各种各样的问题。如果这些 API 面向的是新领域、承担的是新颖工作，那多少还可以接受；但这些解决方案都已经存在了十年甚至更久。更令人沮丧的是，开发者完全可以直接借鉴现有的、更优秀的 API 和实践，从而做得更好！\n\n下面是一些我个人特别反感的问题。\n\n如果我必须登录才能阅读你的 API 文档，那你已经搞砸了。你们居然真的写了文档，这一点值得肯定，但我为什么还要登录！？为了阅读文档，我不得不中断当前工作流，填写表单或给你们的支持团队发邮件，然后等待几个小时甚至几天！？\n\n我曾向一个团队抱怨过这件事，他们也承认给文档设置访问门槛并不理想。不过，一位高管想要追踪潜在客户。搞什么！？我们已经是客户了。这个潜在客户已经赢单了。还有什么可追踪的！？\n\n在代理式开发中，这个问题更加严重。我更愿意直接提供文档链接，让代理自行探索模式、构建客户端并完成集成。但设置访问门槛会打断这一流程。现在我不得不以某种方式下载文档——幸运的是，相关服务提供商提供 Markdown 格式——再把文档交给代理。每个端点都要这样处理！\n\n直接取消文档的身份验证要求吧。你们这是在浪费自己的时间和资源，只为了让其他人也浪费他们的时间和资源。这是一个双输局面。\n\n举手示意一下：有谁喜欢手写 API 客户端？如果你举手了，我不信。OpenAPI 规范已经存在 15 年了。到了现在，发布一个没有 OpenAPI 规范的 API，简直就是对人的不尊重。你为什么不喜欢我？我想给你钱的时候，你为什么要让我的日子更难过？帮帮我，也就是帮你自己。给我一份规范，这样我就能生成类型化客户端，把精力集中在自己的业务上。\n\n哦，你说“这里有一份 Postman 集合”？我想，有总比没有好，但现在我还得想办法把它转换成 OpenAPI 规范。我们为什么要在一种低劣的格式上浪费时间？把好东西给我！\n\n这和给文档设置访问门槛是类似的问题。API 需要凭证。废话，当然需要。让我自己生成和轮换凭证吧。为什么我得等上好几周，等 IT 团队生成凭证、切换某个开关，或者做类似的事情？事情总会发生。有时我们需要轮换凭证。不要让我为了一个潜在的安全事件提交支持工单！这意味着，周六出现的问题，很可能要等到周一中午有人看到工单后才能解决。\n\n所以，你们创建了自助式凭证签发功能。很好。但等等！现在你又告诉我，这个凭证与创建它的人的身份绑定。也就是说……所有日志都归属于这个人，因此根本无法区分来自我们后端应用的 API 调用和这个人在你们 Web 应用中发起的调用？也就是说……只有这个人能够轮换凭证，而由于你们的应用要求单点登录（SSO），并且我们总得在账户共享这类糟糕做法上划条线，所以我们不能简单地共享凭证？也就是说……停用这个人的账户几乎肯定会导致一次事故？\n\n我正在积极迁离一家采用这种做法的电子签名服务商，因为我是那个设置账户的人，而我目前正在休假；结果大家都无法查看合同——当然了，我当然希望所有发给杂货商的合同都关联到我的账户！我对供应商的疑问和筛选标准又增加了。\n\nWebhook 非常适合构建近实时的工作流。我喜欢它们。但对于前面提到的那家电子签名服务商，我可是一点好感都没有：它要求在保存 Webhook 之前先验证端点。“你问什么叫验证？”很简单（也很愚蠢）：服务商向该端点发送一个负载，只有当端点返回成功响应时，服务商才会保存新的 Webhook 配置。\n\n任何 Webhook 集成指南最前面的章节之一都会讲安全性。始终使用共享密钥验证负载，并在不进行处理的情况下拒绝无效负载。可是……没有共享密钥就很难完成验证，而服务商在端点被验证为可正常工作之前，又不会给我共享密钥。🙃\n\n这就是为一个本不需要存在的问题设计出的荒谬变通方案：\n\n我为此提交了一张支持工单，但回复我的人似乎不太明白这种工作流程为什么有问题。不过，他们确实明白我正在迁离他们的产品，于是突然想找我聊天，听取反馈。\n\n值得一提的是，我甚至还没讨论 API 的模式和资源。大多数公司在 RESTful API 这方面做得都不错：用易于理解的名词和动词来定义业务概念与操作。尽管已经有超过 15 年的时间可以直接照搬 Stripe，老牌支付公司却出于某种令人费解的原因，仍然在这方面苦苦挣扎。真的，直接照搬 Stripe API 吧。我们花了大量时间和精力把它做出来。它很好用。拿去吧。\n\n即使开发者体验糟糕透顶，我还是很高兴有人在构建 API。我们大体上在四周左右消除了一个包含 40 多个步骤的流程。当然，代理大约只用了 4 个小时就写完了代码，而这四周里的大部分时间都在等待凭证；但进步就是进步。\n\n版权所有 © 2014-2026 Clinton Blackburn",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "作者在过去几周内为自动化 Vori 的入职流程对接了多个 API，涵盖合同渲染与电子签名收集、开票/计费系统、CRM、银行卡处理商和网关，以及终端提供商等系统。",
+          "作者团队在约四周时间内基本消除了一个包含 40 多个步骤的流程；其中智能体在约 4 小时内编写了代码，大部分时间耗费在等待凭证上。",
+          "来源叙事重点：从下游集成开发者的实际痛点出发，批判当代B2B SaaS及支付API在开发者体验上的严重缺陷（如文档鉴权拦截、缺乏OpenAPI规范、人工审核凭证及个人身份绑定、倒挂的Webhook验证流程），并指出这些反模式阻碍了现代AI智能体自动化工作流的效率。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T06:07:14.000Z",
+            "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html"
+          }
+        ]
+      },
+      {
+        "id": "story-mysterious-magnetic-html-632ea89d2ef45dda",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T09:00:10.000Z",
+        "pubTime": "2026-10-08 17:00",
+        "url": "https://phys.org/news/2026-10-solar-orbiter-tracks-mysterious-magnetic.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-orbiter-tracks-o.jpg",
+        "fullContent": "The European Space Agency–led Solar Orbiter spacecraft has flown through an S-shaped kink known as a \"switchback\" in the solar wind's magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the sun's surface and revealed more about solar magnetism—the unruly instigator of dangerous solar storms.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-08 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-solar-orbiter-tracks-mysterious-magnetic.html",
+            "publishedAt": "2026-10-08T09:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-008-iran-2123142161-html-32336ba2d941b5ba",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "США подготовили новые варианты масштабных ударов по Ирану, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-08T09:06:10.000Z",
+        "pubTime": "2026-10-08 17:06",
+        "url": "https://ria.ru/20261008/iran-2123142161.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-08 17:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261008/iran-2123142161.html",
+            "publishedAt": "2026-10-08T09:06:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ai-nabs-60m-from-sequoia-46ff3746c33cef7f",
+        "title": "机器人数据初创公司 Mecka AI 获红杉资本领投的 6000 万美元融资",
+        "originalTitle": "Robot data startup Mecka AI nabs $60M from Sequoia",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-07T23:36:57.000Z",
+        "pubTime": "2026-10-08 07:36",
+        "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+        "imageUrl": null,
+        "fullContent": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other kinds of robots, announced it has raised a $60 million Series B round led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others. TechCrunch had previously reported that the startup was nearing a new funding round at a $500 million valuation.\n\nFounded in 2024, the startup intends to do for robotics what Scale AI, Mercor, Surge, and other data-labeling companies have done for LLMs. Those companies supply the human-generated data these systems learn from. Mecka pays people to record themselves doing everyday tasks, like making coffee or fixing cars, while wearing body sensors and using smartphones.\n\nOther startups that collect real-world data for robot training include XDOF, which was in talks to raise a Series B round at a $1.2 billion valuation according to TechCrunch’s previous reporting. Human-data platforms that began with LLMs are also expanding into robotics, such as Scale AI and Micro1.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "Mecka AI 是一家收集并分析人体运动数据以训练人形机器人及其他类型机器人的初创公司。该公司宣布已完成由红杉资本（Sequoia）领投的 6000 万美元 B 轮融资，英伟达（Nvidia）、微软旗下风投基金 M12 等参投。TechCrunch 此前曾报道，该初创公司即将以 5 亿美元的估值完成新一轮融资。\n\n这家成立于 2024 年的初创公司旨在为机器人领域提供类似 Scale AI、Mercor、Surge 等数据标注公司为大语言模型（LLM）所提供的服务。这些公司提供供系统学习的人类生成数据。Mecka 则向用户支付报酬，让他们佩戴人体传感器并使用智能手机，记录自己完成日常任务的过程，例如冲咖啡或修车。\n\n其他收集现实世界数据用于机器人训练的初创公司还包括 XDOF。据 TechCrunch 此前报道，该公司当时正洽谈以 12 亿美元估值进行 B 轮融资。从大语言模型起步的人类数据平台也正在向机器人领域扩张，例如 Scale AI 和 Micro1。\n\n第二张通行证可享五折优惠。Disrupt 的体验本就应该与人共享。购买您的通行证，即可以半价携同事、合伙人或同行一同参与。通过建立人脉、蓄积动力并探索创业生态系统的下一步动向，拓展更多业务领域。\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您获取交通领域新闻与深度见解的首选之地。\n\n初创公司是 TechCrunch 的核心，敬请每周查收我们的优质报道推送。\n\n为行业领袖及决策者提供开启新一天所需的资讯。\n\n提交您的电子邮箱即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "Mecka AI 宣布完成由红杉（Sequoia）领投的 6000 万美元 B 轮融资，英伟达（Nvidia）、微软风投基金 M12 等参投。",
+          "Mecka AI 成立于 2024 年，主要收集和分析人体动作数据，用于训练人形机器人及其他类型机器人。",
+          "来源叙事重点：聚焦 Mecka AI 完成 6000 万美元 B 轮融资，突出红杉、英伟达等头部机构背书，并将其类比为机器人领域的 Scale AI，展示真实世界数据采集赛道正在资本加持下迅速升温。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-07T23:36:57.000Z",
+            "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
+          }
+        ]
+      },
+      {
+        "id": "story--smartphone-ev-slow-html-ec14e3e729653d30",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Huawei doubles down on smartphones as EV sales slow",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T08:04:11.000Z",
+        "pubTime": "2026-10-08 16:04",
+        "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — Faced with a slowdown in the smartphone and car markets, Huawei's consumer business is choosing to focus on phones with homegrown chips.\n\nThe Chinese tech giant worked overtime to release its first smartphone — the Mate 90 series — using its own \"LogicFolding\" chip on Oct. 1, the country's \"National Day\" and a public holiday,\n\nAhead of the event, Huawei Executive Director Richard Yu told reporters the company aimed to recover its overseas market share, after U.S. restrictions in 2019 knocked the China-based company from a brief first place. Yu said that at the time, Huawei shipped more than 240 million smartphones in China and elsewhere — with a goal of 300 million units in 2019.\n\nBut now Huawei only sells several million smartphones outside China each year, Yu said. He added the company plans to expand its HarmonyOS operating system to overseas markets in the next one to three years, and hopes China's chip manufacturing capacity will one day enable overseas sales of devices with self-developed chips.\n\nYu, chairman of Huawei's consumer business, has long been the on-stage presenter for the company's smartphone and car events.\n\nThe media roundtable ahead of the Mate 90 series launch marked Yu's first time speaking with foreign press since 2019. That year, U.S. restrictions blocked Huawei's access to Google's Android operating system and TSMC-made semiconductors.\n\nAs the impact of the sanctions kicked in, Huawei's consumer business — once the company's largest by revenue — halved to about $34 billion in 2021 from the year before. Since then, the consumer business has grown to around $51 billion in 2025, or 39% of total revenue, according to CNBC calculations.\n\nHuawei's push into the smartphone market comes as sales in China have slumped this year, with a double-digit decline year-on-year in August and September, according to Counterpoint Research.\n\nMeanwhile, Huawei got into the electric car business by working with several Chinese car manufacturers, and has built a business unit with revenues of at least $6.7 billion in 2025, according to the tech giant's annual report. Unlike other Chinese electric cars' rapid growth in exports, the Huawei-powered vehicles are so far concentrated in China. Huawei has emphasized it does not manufacture the cars, but provides the software interface and driver-assist system.\n\nBut China's auto market is on track for its worst year since 2021, with sales down by more than 20% over roughly the first three quarters of the year, according to China Passenger Car Association data as of Sept. 27. New energy vehicles, which include battery electric and hybrid-powered cars, have seen sales tumble 13% during that time, the data showed.\n\nIn September, Huawei-powered vehicles saw deliveries drop for a third-straight month, down by 29% from a year ago, according to CNBC calculations of publicly available figures from Harmony Intelligent Mobility Alliance, or HIMA, Huawei's auto tech software system.\n\nThat contrasted with double-digit gains for market leader BYD in each of the past three months, with sales well above 400,000 units a month, company data showed. Leapmotor, meanwhile, maintained rapid growth, with deliveries topping 100,000 cars a month since July.\n\nHIMA, whose five lines of vehicles reflect partnerships with manufacturers such as Chery and Seres, in contrast delivered just under 37,500 vehicles in September. More than 1.56 million units were sold since the first Huawei-powered car was launched in late 2021. Tesla China had yet to report September deliveries as of Wednesday afternoon.\n\nIn December 2021, Yu showed off the first car with Huawei's tech installed, the Aito M5.\n\nBut Seres Group, which makes the Aito EV line, has seen its Shanghai-listed shares drop by more than 60% so far this year.\n\nOn Oct. 1, Huawei announced it had signed with Seres to cooperate for another five years, including the joint establishment of an Aito business team. Mainland China markets are set to reopen Thursday after being closed since Oct. 1.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "华为消费者业务正专注于采用自研芯片的手机，并于10月1日发布了首款搭载自研“LogicFolding”芯片的Mate 90系列智能手机。",
+          "华为常务董事余承东在发布会前接受外媒采访，这是他自2019年以来首次接受外媒采访。",
+          "来源叙事重点：聚焦华为在面临国内电动车市场整体放缓、鸿蒙智行交付量下滑的压力下，重新押注搭载自研芯片的智能手机业务，并试图恢复海外市场份额与生态扩张。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T08:04:11.000Z",
+            "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html"
+          }
+        ]
+      },
+      {
+        "id": "story-r-chemotherapy-fertility-23d4d3fa7c8a8b8a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Teenager becomes first person to have testicular tissue transplant in UK",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T04:00:10.000Z",
+        "pubTime": "2026-10-08 12:00",
+        "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
+        "imageUrl": "https://i.guim.co.uk/img/media/d92cb3727fd7fd94c2f373534847b9894bf6d25c/0_212_6259_5010/master/6259.jpg?width=140&quality=85&auto=format&fit=max&s=cac8aca3fdc39a3eca67a6358280ef46",
+        "fullContent": "Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment\n\nSurgeons have performed the first testicular tissue transplant on a teenager in the UK, offering hope that boys left infertile by chemotherapy could one day have biological children.\n\nThe 19-year-old had his tissue removed and frozen three years ago before undergoing treatment for a serious blood disorder. He said he was “incredibly grateful” to the medical team behind the pioneering procedure, which represents a potential breakthrough for male fertility preservation.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国外科医生为一名19岁青少年实施了全英首例睾丸组织移植手术。",
+          "该名19岁患者在化疗后无精子。",
+          "来源叙事重点：聚焦全英首例青少年睾丸组织自体移植手术的成功实施，强调其为化疗致不育的男童和青少年保留生育能力带来的突破性希望"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T04:00:10.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791425276851,
     "timeDisplay": "2026-10-08 10:07 (UTC+8)",
     "date": "2026-10-08",

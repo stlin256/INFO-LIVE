@@ -49,14 +49,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **112** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **113** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-08 10:07 (UTC+8)
+- **最新归档时间**：2026-10-08 17:13 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-08 17:13 (UTC+8)" title="全球要闻情报简报 · 17:13" org="ARCHIVE"}
+**速报纪要：** 本时段重点动态聚焦外交与安全局势：韩国外交部决定召回驻乌克兰大使；俄罗斯国防部称在21个地区击落乌克兰无人机。文体领域方面，奥运体操名将拜尔斯夫妇名下德克萨斯州房产迅速觅得买家。
+
+**关键信号：** 韩国外交动作突显涉乌局势敏感度上升，韩国正式召回其驻乌克兰大使。；俄乌空袭与反制持续，俄方通报称跨多个行政区拦截乌方无人机。；文体名流资产处置引发关注，拜尔斯夫妇挂牌数日后成功出售过渡住宅。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261008/mintrans-2123142526.html) <span class="news-meta-time">🕒 2026-10-08 17:07</span>
+- [MIT Tech Review (麻省理工科技评论)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/) <span class="news-meta-time">🕒 2026-10-08 16:17</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-08 17:03</span>
+- [Lobste.rs (极客思想社区)] [我已经被谷歌取消收录了](https://kennyqin.com/deindexed-by-google/) <span class="news-meta-time">🕒 2026-10-08 15:59</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-healthy-reef-boost-coral-fish.html) <span class="news-meta-time">🕒 2026-10-08 17:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261008/uchenik-2123142361.html) <span class="news-meta-time">🕒 2026-10-08 17:06</span>
+:::
 :::timeline-item{start="2026-10-08 10:07 (UTC+8)" title="全球要闻情报简报 · 10:07" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-08 10:03 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -649,18 +662,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose) <span class="news-meta-time">🕒 2026-09-24 06:00</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html) <span class="news-meta-time">🕒 2026-09-24 06:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/figuranty-2119892171.html) <span class="news-meta-time">🕒 2026-09-24 06:19</span>
-:::
-:::timeline-item{start="2026-09-23 15:52 (UTC+8)" title="全球要闻情报简报 · 15:52" org="ARCHIVE"}
-**速报纪要：** 当地时间9月22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将积极创造条件，推动陷入停滞的朝美对话尽早重启，并推进朝鲜半岛和平机制建设。
-
-**关键信号：** 韩国方面表态将努力为长期停滞的朝美对话创造重启条件；韩方寻求推动相关各方围绕终结半岛战争状态及构建和平机制展开对话
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/kosulya-2119684949.html) <span class="news-meta-time">🕒 2026-09-23 15:49</span>
-- [TechCrunch (硅谷创业与资本)] [“我们已经在打昨天的战役”：希腊总理坦率畅谈人工智能](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/) <span class="news-meta-time">🕒 2026-09-23 12:59</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html) <span class="news-meta-time">🕒 2026-09-23 14:29</span>
-- [Lobste.rs (极客思想社区)] [以最小代价实现沙箱化](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/) <span class="news-meta-time">🕒 2026-09-23 13:08</span>
-- [Phys.org (基础物理与技术前沿)] [牲畜放牧或可促进冰岛亚北极草原的土壤碳封存](https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html) <span class="news-meta-time">🕒 2026-09-23 15:10</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/perm-2119684703.html) <span class="news-meta-time">🕒 2026-09-23 15:49</span>
 :::
 ::::
