@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-09 · 今日](/INFO-LIVE/archive-2026-10-09/)
+- [2026-10-10 · 今日](/INFO-LIVE/archive-2026-10-10/)
+- [2026-10-09 · 历史快照](/INFO-LIVE/archive-2026-10-09/)
 - [2026-10-08 · 历史快照](/INFO-LIVE/archive-2026-10-08/)
 - [2026-10-07 · 历史快照](/INFO-LIVE/archive-2026-10-07/)
 - [2026-10-06 · 历史快照](/INFO-LIVE/archive-2026-10-06/)
@@ -50,14 +51,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **117** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **118** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-09 17:22 (UTC+8)
+- **最新归档时间**：2026-10-10 01:08 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-10 01:08 (UTC+8)" title="全球要闻情报简报 · 01:08" org="ARCHIVE"}
+**速报纪要：** 本小时重点关注国际人权调查争议、美国农业网络安全威胁，以及计算、能源和操作系统领域的最新科技演进。
+
+**关键信号：** 联合国专家小组就加沙局势做出指控，引发国际法与外交博弈关注。；针对美国农业与粮食系统的网络攻击风险上升，高校推动组建全国性联盟防御。；微软推进Windows向AI智能体操作系统转型，量子信息存储及虚拟电厂技术加速推进。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261009/vsu-2123570948.html) <span class="news-meta-time">🕒 2026-10-10 01:01</span>
+- [The Verge (前沿数码科技)] [微软试图为Windows注入新生机](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad) <span class="news-meta-time">🕒 2026-10-10 01:00</span>
+- [OilPrice (全球能源与原油大宗)] [美多州押注虚拟电厂以削减电网成本](https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html) <span class="news-meta-time">🕒 2026-10-10 01:00</span>
+- [The Guardian Society (卫报社会与民生)] [保险模式无法替代国民医疗服务体系（NHS） | 读者来信](https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs) <span class="news-meta-time">🕒 2026-10-10 00:13</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-national-consortium-agriculture-cyber-threats.html) <span class="news-meta-time">🕒 2026-10-10 01:00</span>
+- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026) <span class="news-meta-time">🕒 2026-10-10 01:00</span>
+:::
 :::timeline-item{start="2026-10-09 17:22 (UTC+8)" title="全球要闻情报简报 · 17:22" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-09 17:19 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -652,16 +666,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/) <span class="news-meta-time">🕒 2026-09-25 07:11</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html) <span class="news-meta-time">🕒 2026-09-25 09:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/dmitriev-2120150751.html) <span class="news-meta-time">🕒 2026-09-25 09:32</span>
-:::
-:::timeline-item{start="2026-09-25 06:38 (UTC+8)" title="全球要闻情报简报 · 06:38" org="ARCHIVE"}
-**速报纪要：** 本时段国际要闻涵盖中东军事与外交抗议、跨国情报调查披露、拉美外交动态以及深空天文探索新进展。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/igrok-2120141468.html) <span class="news-meta-time">🕒 2026-09-25 06:29</span>
-- [The Verge (前沿数码科技)] [微软任命布拉德·史密斯掌管传播业务](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela) <span class="news-meta-time">🕒 2026-09-25 06:08</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-25 06:03</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis) <span class="news-meta-time">🕒 2026-09-25 05:08</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html) <span class="news-meta-time">🕒 2026-09-25 06:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/moskva-2120141250.html) <span class="news-meta-time">🕒 2026-09-25 06:23</span>
 :::
 ::::

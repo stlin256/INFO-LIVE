@@ -1,0 +1,1556 @@
+[
+  {
+    "timestamp": 1791565718291,
+    "timeDisplay": "2026-10-10 01:08 (UTC+8)",
+    "date": "2026-10-10",
+    "runId": "feed-20261009T170322135Z-qaii2o",
+    "generatedAt": "2026-10-09T17:08:38.291Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态速览",
+      "lead": "本小时重点关注国际人权调查争议、美国农业网络安全威胁，以及计算、能源和操作系统领域的最新科技演进。",
+      "signals": [
+        "联合国专家小组就加沙局势做出指控，引发国际法与外交博弈关注。",
+        "针对美国农业与粮食系统的网络攻击风险上升，高校推动组建全国性联盟防御。",
+        "微软推进Windows向AI智能体操作系统转型，量子信息存储及虚拟电厂技术加速推进。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "全球科技演进、基础设施韧性与国际地缘法律态势日尺度分析",
+      "lead": "本监测周期内，多项动态聚焦于地缘政治审查、计算技术前沿突破及关键基础设施韧性建设。涉及联合国小组关于加沙局势的调查结论争议、微软加速推动操作系统向AI智能体化转型、微芯片级量子信息存储探索，以及针对农业网络安全与虚拟电厂（VPP）电网资源整合的战略实践。",
+      "themes": [
+        {
+          "name": "前沿计算与操作系统AI智能化演进",
+          "analysis": "科技计算领域正经历由底层硬件至系统层面的升级。在操作系统层面，微软计划将Windows 11作为基础平台，全面引入AI Agent，推动其向“智能体操作系统”（agentic OS）转型；在基础物理与微电子层面，高脆弱性的量子信息系统面临关键存储瓶颈，科研团队正致力于在1厘米见方的微芯片上实现光子微秒级暂存与时延调谐，以支撑更复杂的量子操作协同。"
+        },
+        {
+          "name": "关键基础设施韧性与新能源网络发展",
+          "analysis": "针对基础供应网络的防御与协调正受到高度重视。一方面，美国农业与粮食系统面临日益增加的网络攻击风险，华盛顿州立大学等机构正倡议联合多所大学成立全国联盟进行协同应对；另一方面，美国各州加速推广虚拟电厂（VPP），通过将成千上万家庭和企业的恒温器、电动汽车、家用电器、电池及太阳能设施等分布式资源统筹聚合，实现负荷调节与电网反哺支撑。"
+        },
+        {
+          "name": "国际人道法审查与善后服务社会议题",
+          "analysis": "在国际法与地缘政治方面，由皮莱（Ms. Pillay）主导的联合国小组认定以色列在加沙对巴勒斯坦人犯下种族灭绝罪行，该结论遭到以色列政府断然否认；在社会与民生创新方面，相关团队关注亲人离世后的复杂流程负担，探讨如何优化善后与身故项目式事务的管理方案。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 82,
+      "completedTasks": 82,
+      "succeeded": 72,
+      "degraded": 10,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 82,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 316080,
+      "byRole": {
+        "translator": {
+          "attempts": 57,
+          "succeeded": 48,
+          "degraded": 9
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 82,
+          "succeeded": 72,
+          "degraded": 10
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-43-translator-0",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.850Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.112Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.859Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.079Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.633Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.779Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.641Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.813Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.669Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.347Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.661Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.070Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:06.426Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.785Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:02.574Z",
+        "lastSuccessAt": "2026-10-09T17:03:02.852Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.805Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.886Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.789Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.866Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.120Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.673Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.112Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.678Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:02.916Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.882Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.079Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.300Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:06.070Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.713Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:05.035Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.999Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:05.988Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.426Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.813Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.315Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.601Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.633Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.240Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.601Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:02.553Z",
+        "lastSuccessAt": "2026-10-09T17:03:02.574Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.169Z",
+        "lastSuccessAt": "2026-10-09T17:03:02.553Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.059Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.291Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.952Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.059Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-09T17:03:03.866Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.983Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.136Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.300Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.661Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.809Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.862Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:06.347Z",
+        "lastSuccessAt": "2026-10-09T17:03:09.412Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.114Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.210Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.388Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.750Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.311Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.471Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.471Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.855Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:06.423Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.699Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.673Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.789Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.862Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.388Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.934Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.114Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.404Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.814Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-09T17:03:04.291Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.210Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.669Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.167Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.120Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.315Z",
+        "lastSuccessAt": "2026-10-09T17:03:05.035Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.168Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.641Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.750Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.926Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.886Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.983Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:02.852Z",
+        "lastSuccessAt": "2026-10-09T17:03:02.916Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.136Z",
+        "lastSuccessAt": "2026-10-09T17:03:04.311Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.882Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.952Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.814Z",
+        "lastSuccessAt": "2026-10-09T17:03:05.988Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:04.855Z",
+        "lastSuccessAt": "2026-10-09T17:03:06.423Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.779Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.805Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:03.678Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.809Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.156Z",
+        "lastSuccessAt": "2026-10-09T17:03:01.850Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.166Z",
+        "lastSuccessAt": "2026-10-09T17:03:01.859Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T17:03:01.167Z",
+        "lastSuccessAt": "2026-10-09T17:03:03.240Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-1009-vsu-2123570948-html-4c2b58b46244a83a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "МККК оценивает последствия атаки ВСУ на гуммиссию под Донецком",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T17:01:51.000Z",
+        "pubTime": "2026-10-10 01:01",
+        "url": "https://ria.ru/20261009/vsu-2123570948.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 01:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261009/vsu-2123570948.html",
+            "publishedAt": "2026-10-09T17:01:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--event-hybrid-ai-notepad-3cd2568c3659dbd1",
+        "title": "微软试图为Windows注入新生机",
+        "originalTitle": "Microsoft tries to spark new life into Windows",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:00.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nWindows is slowly morphing into an agentic OS.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nWhen Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You’d think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it’s here to stay, forming the foundation for Microsoft’s next big ambition: transforming Windows into an agentic OS.\n\nAt a Windows and Surface event this week, Microsoft laid out its plan to bring AI agents to Windows, including hybrid intelligence that lets Windows take advantage of free local models instead of expensive cloud ones. “I think today is the day we’ll start talking and thinking about the frontier ecosystem taking maybe slightly different contours,” said Microsoft CEO Satya Nadella.\n\nAfter trying to sell businesses on a new Copilot last month, Nadella took a similar approach for his vision of agents and hybrid intelligence for Windows. It was so similar that when he mentioned the security, identity, and management aspects of Microsoft’s platform for securing agents, it almost seemed like he was pitching businesses again instead of AI developers, creatives, and just regular Windows users.\n\nAfter a somewhat dizzying start, Windows chief Pavan Davuluri appeared onstage to try and explain why agents and hybrid intelligence are so important for Windows users. There were demos of GitHub Copilot coding locally without expensive cloud tokens; a long list of models that can now run locally; examples of agents like OpenClaw, Hermes, and Perplexity; and even deeper integration of Copilot in Windows.\n\nI wasn’t fully convinced by any of these demos, though. I wanted to see what practical benefits local AI models could actually deliver for regular Windows users, instead of just the AI builders or developers Microsoft is trying to win over right now. Those are the people who could help turn its agentic OS vision into reality, though, and many of them are using a MacBook Pro instead of Windows. Microsoft’s answer to tempt them across to Windows? The Surface Laptop Ultra.\n\nThe Surface Laptop Ultra is the home for Microsoft’s agentic OS push. Nvidia’s RTX Spark chips power the device, and there’s enough raw GPU power to get AI models exceeding 120 billion parameters running locally. “We built it for developers and creators that push the limit of performance and want portability with exceptional craft,” said Davuluri.\n\nThe Surface Laptop Ultra is the flagship RTX Spark device, though there are also similar laptops from Asus, Dell, HP, Lenovo, and MSI. Microsoft’s Surface Laptop Ultra starts at $2,599, and some RTX Spark PCs can run all the way up to an eye-watering $6,999. Much like the very top of the MacBook Pro line, you’d have to really need 128GB of unified memory to spend that kind of money. For many AI builders it might just be worth it, though, especially if you can save thousands in token costs.\n\nFor the rest of us, Microsoft had very little to show. A new Windows Search interface looks like it could be one of the best additions to Windows 11 in years, though. Microsoft has totally redesigned search to make it not only more modern, but a heck of a lot faster than before. I’ve gotten to the point where I disable the Bing results in Windows Search, but this new UI now surfaces results in-line and lets you use search more like a launcher.\n\nI wasn’t expecting some grand unveiling of Windows 12 at this event, but I was hoping to hear a lot more about why RTX Spark laptops really do matter. “This is the future we’re building: agents that can work securely on your behalf, intelligence that moves seamlessly between local and cloud, and devices that become more capable than ever before,” said Davuluri.\n\nThe problem is Microsoft is still in the early stages of this future it’s betting on for Windows. We had Copilot Plus PCs two years ago, with a big focus on the NPU chips inside that were supposed to revolutionize how consumers use everyday AI on a laptop. They haven’t done that yet, with only a handful of photo, video, and productivity tools making use of the NPU. Microsoft’s Recall feature was supposed to be the star of the NPU show, but the privacy concerns and delayed launch made it totally irrelevant instead.\n\nNvidia’s presence and GPU dominance may well make RTX Spark a bigger success story than Copilot Plus PCs, but these machines are targeting a niche audience for now. If Microsoft and its partners want to move beyond selling them as MacBook Pro competitors, they’ll eventually need to bring the same capabilities to less expensive, less powerful devices and demonstrate practical reasons for regular Windows users to care. The difference is that RTX Spark PCs are aimed at people who have a much more immediate reason to care about local AI: developers and creators who need to run large models and can potentially save substantial amounts of money by doing so.\n\nFor Microsoft, though, it’s the creators and builders that matter most right now. AI agents running in the cloud on Linux virtual machines could spark a wave of desktop Linux app compatibility we’ve never seen before. Microsoft needs to counter that threat by making Windows more agent-friendly.\n\nThat might explain why Nadella and Nvidia CEO Jensen Huang spent so much time reminiscing about the early days of the PC and graphics at this event. Microsoft isn’t ready to give up the PC dominance and app compatibility it has spent decades building. But it knows that the way people use computers is changing, and that Windows can’t rely on its historical advantages forever.\n\nPerhaps that gets to the heart of why Microsoft seems to be scrambling to embrace AI agents and hybrid intelligence in Windows. It needs to make sure that, even as computing shifts beyond the traditional PC, Windows remains at the center of it all.\n\nI’m always keen to hear from readers, so please drop a comment here, or you can reach me at notepad@theverge.com if you want to discuss anything else. If you’ve heard about any of Microsoft’s secret projects, you can reach me via email at notepad@theverge.com or speak to me confidentially on the Signal messaging app, where I’m tomwarren.01. I’m also tomwarren on Telegram, if you’d prefer to chat there.\n\nThanks for subscribing to Notepad.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题的内容将被添加到您的每日电子邮件摘要和主页信息流中。\nWindows正在慢慢转变为一个智能体操作系统（agentic OS）。\n该作者的内容将被添加到您的每日电子邮件摘要和主页信息流中。\n查看汤姆·沃伦（Tom Warren）的全部文章\n五年前微软发布Windows 11时，它给人的感觉就像一个仍在翻新中的操作系统，一项未完工的半成品。你可能会认为到了现在，这些翻新工作应该已经完成，微软会把注意力转向Windows 12。相反，Windows 11给人的感觉却似乎会长久存在下去，成为微软下一个宏伟抱负的基石：将Windows转变为一个智能体操作系统。\n在本周举行的一场Windows和Surface发布会上，微软公布了将AI智能体引入Windows的计划，其中包括让Windows能够利用免费本地模型而非昂贵云端模型的混合智能。“我认为今天起，我们将开始讨论并思考前沿生态系统或许会呈现出略微不同的轮廓，”微软首席执行官萨蒂亚·纳德拉（Satya Nadella）表示。\n上个月向企业兜售新版Copilot之后，纳德拉对其关于Windows智能体和混合智能的愿景采取了类似的做法。这种做法是如此相似，以至于当他提到微软保护智能体平台的安全性、身份识别和管理方面时，看起来简直就像是又在向企业推销，而不是面向AI开发者、创意人员和普通Windows用户。\n在一段略显令人眼花缭乱的开场之后，Windows主管帕万·达武鲁里（Pavan Davuluri）登台，试图解释为何智能体和混合智能对Windows用户如此重要。现场进行了多项演示：GitHub Copilot在本地编写代码而无需消耗昂贵的云端token；一份长长的现已支持本地运行的模型清单；OpenClaw、Hermes和Perplexity等智能体案例；以及Copilot在Windows中更为深入的整合。\n不过，这些演示并没能完全说服我。我希望看到本地AI模型究竟能为普通Windows用户带来哪些实际好处，而不仅仅是微软眼下试图拉拢的AI构建者或开发者。不过，这些人正是能够帮助其将智能体操作系统愿景变为现实的人群，而他们当中的许多人目前使用的是MacBook Pro，而不是Windows电脑。微软吸引他们转投Windows阵营的对策是什么？Surface Laptop Ultra。\nSurface Laptop Ultra是微软推进智能体操作系统的落脚点。英伟达的RTX Spark芯片为该设备提供动力，其拥有充足的GPU原始算力，足以在本地运行超过1200亿参数的AI模型。“我们打造它是为了那些挑战性能极限、并追求便携性与精湛工艺的开发者和创作者，”达武鲁里表示。\nSurface Laptop Ultra是RTX Spark的旗舰设备，不过华硕、戴尔、惠普、联想和微星也有类似的笔记本电脑。微软的Surface Laptop Ultra起售价为2599美元，而部分RTX Spark PC的售价甚至高达令人咋舌的6999美元。这与MacBook Pro顶配产品非常相似，你必须是真的迫切需要128GB统一内存才会花这么多钱。不过对许多AI构建者来说，这或许物有所值，尤其是如果你能省下数千美元的token成本的话。\n对于我们其余的人，微软拿出的内容寥寥无几。不过，全新的Windows搜索界面看起来可能是Windows 11多年来最好的新增功能之一。微软对搜索进行了彻底的重新设计，使其不仅更具现代感，而且比以往快得多。我之前已经习惯了在Windows搜索中停用Bing搜索结果，但这个新界面现在可以直接以行内方式显示结果，并让你能够把搜索当作启动器来使用。\n我本来就没指望在这次发布会上看到Windows 12的隆重亮相，但我确实希望能听到更多关于RTX Spark笔记本电脑为何真正重要的深入阐述。“这就是我们正在构建的未来：能够安全地代表您工作的智能体、在本地和云端之间无缝流转的智能，以及变得比以往任何时候都更加强大的设备，”达武鲁里说道。\n问题在于，对于为Windows押注的这一未来，微软仍处于早期阶段。两年前我们迎来了Copilot Plus PC，当时重点宣传内部的NPU芯片，宣称其将彻底改变消费者在笔记本电脑上使用日常AI的方式。但它们尚未做到这一点，目前只有极少数照片、视频和生产力工具利用了NPU。微软的“回顾”（Recall）功能原本应是NPU大展身手的重头戏，但隐私方面的担忧和推迟发布却使其变得完全无关紧要。\n英伟达的存在感和GPU主导地位很可能会让RTX Spark取得比Copilot Plus PC更大的成功，但这些机器目前针对的是小众受众。如果微软及其合作伙伴希望不仅仅将它们作为MacBook Pro的竞争对手来销售，他们最终将需要把同样的能力带到更便宜、性能相对较弱的设备上，并展示出让普通Windows用户关心的实际理由。不同之处在于，RTX Spark PC面向的人群有着更为迫切的理由去关注本地AI：即那些需要运行大模型、并且通过本地运行有可能节省大笔费用的开发者和创作者。\n然而对微软来说，眼下最重要的正是创作者和构建者。在云端Linux虚拟机上运行的AI智能体可能会引发一波前所未有的桌面Linux应用兼容浪潮。微软需要通过让Windows对智能体更加友好来化解这一威胁。\n这或许可以解释为什么纳德拉和英伟达首席执行官黄仁勋在这次活动中花了那么多时间回忆PC和图形技术的早期岁月。微软还不打算放弃几十年来建立起来的PC主导地位和应用兼容性。但它心知肚明，人们使用计算机的方式正在发生改变，Windows不可能永远依赖其历史优势。\n这或许切中了微软为何似乎在手忙脚乱地拥抱Windows中的AI智能体与混合智能的核心原因。它需要确保，即便计算正逐渐超越传统PC的范畴，Windows依然处于这一切的中心。\n我一直渴望倾听读者的心声，欢迎在这里留言，或者如果您想讨论其他任何事情，可以通过notepad@theverge.com与我联系。如果您知悉任何微软的机密项目，可以通过电子邮件notepad@theverge.com与我联系，或在Signal即时通讯软件上向我保密爆料（我的用户名是tomwarren.01）。如果您更喜欢在Telegram上交流，我的用户名同样是tomwarren。\n感谢订阅Notepad。\n免费提供最重要资讯的每日摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "微软在本周的一场 Windows 和 Surface 活动上公布了将 AI 代理引入 Windows 的计划。",
+          "微软提出了“混合智能”概念，使 Windows 能够使用免费的本地模型，而不是昂贵的云端模型。",
+          "来源叙事重点：审视微软将 Windows 转型为“代理型操作系统（Agentic OS）”及主推 RTX Spark 高端硬件的战略，批评其过度偏向小众开发者与企业级叙事，而缺乏对大众消费者的切实力度，同时指出过往 Copilot+ PC 与 Recall 功能落地不佳的前车之鉴。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad"
+          }
+        ]
+      },
+      {
+        "id": "story-s-to-cut-grid-costs-html-d8a239f2683bf1ed",
+        "title": "美多州押注虚拟电厂以削减电网成本",
+        "originalTitle": "States Bet on Virtual Power Plants to Cut Grid Costs",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:00.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\n\nGreen hydrogen has stalled, but…\n\nA tropical disturbance could threaten…\n\nMajor private equity firms continue…\n\nFelicity Bradstock is a writer and journalist based in Mexico City. She writes for energy websites and covers several other industries, as well as writing…\n\nThe United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid. When coordinated, a group of hundreds or thousands of households and businesses can use the latent potential of their thermostats, electric vehicles (EVs), appliances, batteries, and solar installations to charge or discharge, supporting grid flexibility.\n\nWhen put together, these can provide many of the same energy services as a conventional power plant. Technologies such as EVs and chargers, heat pumps, home appliances, HVAC equipment, batteries, plug loads, and industrial mechanical equipment can be combined to create a VPP.\n\nIn the United States, the Department of Energy’s (DoE) Loan Programs Office is working to support deployment of VPPs across the country to make the U.S. grid more flexible, affordable, clean, and resilient as the economy electrifies. VPPs help address existing energy challenges, including rising costs, interconnection backlogs, peak-demand increases, and distribution-system congestion.\n\nIn the northeastern state of Vermont, Green Mountain Power (GMP), the state’s largest utility, has introduced a VPP initiative to combat the regular power outages caused by extreme weather events. The scheme is based on installing two batteries in participants’ homes, at a cost of $55 per month over a 10-year lease. This works out cheaper than the average cost of a backup generator.\n\nMore than 5,500 people across the state have invested in similar battery systems. These help provide backup power during an outage and allow households to participate in a VPP. The United States now has more than 40 GW of VPP capacity, according to an internal analysis by Wood Mackenzie. While this is still small compared to other power sources, a 2025 DoE report suggested that VPP capacity could rise to 160 GW by 2030, equivalent to about one-fifth of the country’s expected peak energy demand.\n\nVermont’s VPP has transformed into the state’s largest power source under the GMP programme. GMP saw an increase in enrolments in the battery lease programme in 2023 after state regulators lifted the cap. Enrolment has continued growing steadily in recent years, with 2,500 people enrolling since 2023. GMP now aims to eliminate all power outages by 2030, supported by the battery programme and infrastructure improvements, such as undergrounding power lines. The utility is now considering providing thousands of customers in some rural and more outage-prone areas batteries at no cost, with some pilot projects already underway.\n\nArtificial intelligence (AI) has become a major driver for VPP deployment in recent years, as the tech sector races to acquire sufficient power to run new data centres. Tech companies have invested heavily in developing nuclear reactors, gas turbines, and wind and solar farms to power their data centres, many of which will take years to build. However, the use of VPPs could provide a more immediate power source.\n\nThe U.S. power grid runs at an average of around 50 per cent capacity. This ensures that it is prepared for peak energy use in the hot summer or cold winter months. However, it is expensive to have so much of the grid power sitting idle most of the time. If utilities increased utilisation by just 10 per cent, it could save consumers over $100 billion over the next decade, according to the head of the industry-led campaign, the Utilise Coalition, Ian Magruder.\n\nAs AI-powered systems analyse the grid hour by hour across an entire year, they do not have to plan for theoretical peaks. This allows for greater flexibility, such as temporarily reducing power for 0.5 per cent of the year or adding a battery, which could reduce the need to construct new transmission infrastructure.\n\nVirginia recently passed legislation for a 450-MW VPP pilot programme, while Minnesota committed to 200 MW of power. These types of programmes can be deployed in six months to a year, which is much faster than it takes to develop a gas or renewable energy project. However, the government must introduce incentives to encourage more utilities to develop VPP programmes rather than to spend on new infrastructure if it hopes to accelerate deployment.\n\nIn California, in a bid to reduce state utility spending, Governor Gavin Newsom recently signed into law a slate of energy-affordability legislation, including a policy that is expected to accelerate the rollout of VPPs. This came as a surprise to many, given that several of the state’s big utilities had previously voiced opposition to such a move. Two bills, Senate Bill 905 and Senate Bill 913, are expected to create new opportunities for VPPs to reduce utility costs.\n\nSeveral states have introduced legislation to encourage the development of VPPs in recent years, as policymakers seek faster access to alternative power. The development of broader VPP schemes could help reduce the need to invest heavily in new transmission infrastructure and address underused power systems.\n\nBy Felicity Bradstock for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nIran War Energy Shock Puts Hydrogen Back on the Table\n\nIran Is Losing Some of Its Leverage Over the Strait of Hormuz\n\nU.S. Oil Drilling Inches Up As Prices Fall\n\nIranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk\n\nFuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time\n\nEurope’s Diesel Woes Just Got Even Worse\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "点击此处获取150多种全球石油价格\n加拿大新输油管道面临酷湖第一民族（Cold Lake First Nations）质疑\n绿氢发展停滞，但……\n热带扰动可能威胁……\n主要私募股权公司继续……\nFelicity Bradstock是一名常驻墨西哥城的作家兼记者。她为能源网站撰稿，报道其他多个行业，并撰写……\n\n近年来，随着虚拟电厂（VPP）系统在多个州的扩展，美国对虚拟电厂给予了更有力的支持。虚拟电厂是小规模发电资源的集合体，这些资源协同运作，能够向电网输送电力。通过协调运作，数百或数千个家庭和企业可以利用其温控器、电动汽车（EV）、家用电器、电池和太阳能发电设备的潜在容量进行充放电，从而支持电网的灵活性。\n\n整合在一起时，这些设备可以提供许多与传统电厂相同的能源服务。诸如电动汽车与充电桩、热泵、家用电器、暖通空调（HVAC）设备、电池、插座负荷以及工业机械设备等技术均可整合以构建虚拟电厂。\n\n在美国，能源部（DoE）贷款项目办公室正在努力支持全国范围内虚拟电厂的部署，以在经济走向电气化的同时，使美国电网更加灵活、经济、清洁和具备韧性。虚拟电厂有助于应对现有的能源挑战，包括成本上升、并网排队积压、尖峰需求增长以及配电系统拥堵等问题。\n\n在东北部的佛蒙特州，该州最大的公用事业公司绿山电力（Green Mountain Power, GMP）推出了一项虚拟电厂计划，以应对由极端天气事件引发的常规停电。该方案基于在参与者家中安装两套电池，租期10年，月费为55美元。这比备用发电机的平均成本更为合算。\n\n该州已有超过5500人投资了类似的电池系统。这些系统有助于在停电期间提供备用电源，并使家庭能够参与虚拟电厂。根据伍德麦肯兹（Wood Mackenzie）的一项内部分析，美国目前的虚拟电厂装机容量已超过40吉瓦（GW）。虽然与其他电力来源相比这一规模仍然偏小，但能源部2025年的一份报告指出，到2030年，虚拟电厂容量可能增至160吉瓦，约相当于该国预期峰值电力需求的五分之一。\n\n在GMP项目的主导下，佛蒙特州的虚拟电厂已转变为该州最大的电源。在州监管机构取消配额上限后，GMP在2023年迎来了电池租赁项目签约量的激增。近年来，参与人数持续稳定增长，自2023年以来已有2500人签约。得益于电池项目和电线入地等基础设施升级改造，GMP目前的宏伟目标是在2030年前消除所有断电事故。该公用事业公司目前正在考虑在某些农村和更容易发生停电的地区为数千名客户免费提供电池，部分试点项目已在进行中。\n\n近年来，人工智能（AI）已成为推动虚拟电厂部署的主要驱动力，因为科技行业正竞相获取足够的电力来运行新数据中心。科技公司已投入巨资开发核反应堆、燃气轮机以及风力和太阳能发电厂来为其数据中心供电，其中许多项目需要数年时间才能建成。然而，利用虚拟电厂可以提供一种更为直接、见效更快的电源。\n\n美国电网平均仅以约50%的负荷率运行。这样可以确保在炎热夏季或寒冷冬季的高峰用电期做好准备。然而，让如此多的电网容量大部分时间处于闲置状态，代价极其昂贵。由行业主导的倡议组织“利用联盟”（Utilise Coalition）负责人伊恩·马格鲁德（Ian Magruder）表示，如果公用事业公司将利用率仅提高10%，在未来十年内就可为消费者节省超过1000亿美元。\n\n由于AI驱动的系统能够对全年的电网进行逐小时分析，它们无需针对理论上的峰值做过度规划。这带来了更大的灵活性，例如在全年0.5%的时间内临时减少用电量或增设电池，从而减少新建输电基础设施的需求。\n\n弗吉尼亚州最近通过了一项450兆瓦虚拟电厂试点项目的立法，而明尼苏达州则承诺推进200兆瓦的项目。此类项目可在六个月到一年内完成部署，远快于开发燃气或可再生能源项目的周期。然而，若希望加速推广，政府必须出台激励措施，鼓励更多公用事业公司开发虚拟电厂项目，而非把资金挥霍在传统新基建上。\n\n在加利福尼亚州，为了减少州公用事业支出，州长加文·纽森（Gavin Newsom）最近签署了一系列能源可负担性法案，其中包括一项预计将加速虚拟电厂推广的政策。鉴于该州此前有几家大型公用事业公司曾对此举表示反对，这一进展出乎许多人的意料。第905号参议院法案（SB 905）和第913号参议院法案（SB 913）预计将为虚拟电厂创造新机遇，从而降低公用事业成本。\n\n随着政策制定者寻求更快获取替代电力，近年来已有数个州出台立法以鼓励虚拟电厂的发展。更广泛的虚拟电厂方案的推进，不仅有助于减少对新建输电基础设施的巨额投资需求，还能有效解决电力系统利用率不足的问题。\n\n文 / Felicity Bradstock，发表于 Oilprice.com\n\nOilprice.com 更多精选阅读：\n伊朗战争能源冲击使氢能重回议程\n伊朗正在失去对霍尔木兹海峡的部分筹码\n随着油价下跌，美国石油钻井活动微幅回升\n尽管面临美国制裁风险，伊朗石油仍开始流向塔吉克斯坦\n燃料价格冲击推动全球燃油车销量首次跌破50%\n欧洲柴油困局雪上加霜\n\n本网站提供的资料仅供参考和教育用途，并非旨在提供税务、法律或投资建议。\n本网站所包含的任何内容均不应被视为在任何司法管辖区内向任何人提出的购买或出售证券的推荐、要约邀请或要约。\n记录商户：A Media Solutions 以 Oilprice.com 名义运营",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "美国能源部贷款计划办公室（Loan Programs Office）正支持在全国范围内部署虚拟电厂（VPP）。",
+          "佛蒙特州最大的公用事业公司 Green Mountain Power (GMP) 推出了在用户家中安装两块电池的计划，10年租赁期内每月费用为55美元。",
+          "来源叙事重点：探讨虚拟电厂（VPP）如何作为低成本、快速部署的电网灵活性工具在美国多州加速落地，重点阐述其在缓解AI数据中心电力负荷、应对极端天气停电、提升电网利用率及替代昂贵传统基建方面的经济效益与政策推动。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html"
+          }
+        ]
+      },
+      {
+        "id": "story-o-substitute-for-the-nhs-47c6f8b679d438f6",
+        "title": "保险模式无法替代国民医疗服务体系（NHS） | 读者来信",
+        "originalTitle": "Insurance model is no substitute for the NHS | Letter",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:13:09.000Z",
+        "pubTime": "2026-10-10 00:13",
+        "url": "https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs",
+        "imageUrl": "https://i.guim.co.uk/img/media/7dc17cd3be2c706b0700401a34312114fd03aa58/546_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=d93869542f4e747c95d517f1e8caad0f",
+        "fullContent": "Susan Jones points out that an NHS-style system does not require either sales costs or shareholder profits\n\nIn Dining across the divide (4 October), the young participant, Ted, is quoted as expressing his “desire to abolish the NHS and replace it with a social insurance model. This would still have provision for free treatment at the point of need, but people would pay through insurance systems, and they would choose the level of cover they’ve got. Those models deliver far better outcomes for patients.”\n\nAs a retired insurance underwriter, I must disagree profoundly with Ted’s assertion. Let’s concentrate on business fundamentals. Insurance comes in two “flavours”: first, events that become likelier as time goes on – eg, life assurance. The older you get, the more likely you are to die and the more premium is needed to cover the risk; and second, events whose likelihood stays essentially the same over time, eg home insurance – the likelihood of a house burning down is much the same for everyone and the cost is spread evenly between policyholders.",
+        "fullTranslation": "苏珊·琼斯（Susan Jones）指出，NHS模式的医疗体系既不需要销售成本，也不需要股东利润。\n\n在《跨越分歧共进晚餐》（Dining across the divide，10月4日刊）中，年轻的参与者特德（Ted）被引述表达了他“希望废除NHS并以社会保险模式取而代之的愿望。这种模式仍会提供在需要时免费治疗的保障，但人们将通过保险系统缴费，并可以选择自己获得的保障额度。这些模式能为患者带来好得多的成效。”\n\n作为一名退休的保险核保人，我必须对特德的主张表示强烈反对。让我们专注于商业的基本逻辑。保险有两种“类型”：第一种是随着时间推移发生概率越来越高的事件——例如人寿保险。你的年龄越大，死亡的可能性就越高，覆盖风险所需的保费也就越多；第二种是其发生的可能性随时间推移基本保持不变的事件，例如房屋保险——房屋被烧毁的可能性对每个人来说基本相同，费用由保单持有人平均分摊。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "在10月4日的《跨越分歧共进晚餐》（Dining across the divide）栏目中，年轻参与者特德（Ted）表示希望废除英国国家医疗服务体系（NHS）并以社会保险模式取而代之。",
+          "苏珊·琼斯（Susan Jones）指出，类似NHS的体系既不需要销售成本，也不需要股东利润。",
+          "来源叙事重点：从商业与保险底层运作逻辑出发，反驳以社会保险模式替代英国国民医疗服务体系（NHS）的主张，强调NHS无需承担销售成本与股东利润"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T16:13:09.000Z",
+            "url": "https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs"
+          }
+        ]
+      },
+      {
+        "id": "story-lture-cyber-threats-html-a23fc8cd226f8a8b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researchers call for national consortium to battle agriculture cyber threats",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:12.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://phys.org/news/2026-10-national-consortium-agriculture-cyber-threats.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2024/agriculture.jpg",
+        "fullContent": "The threat of cyberattacks against American agriculture and food systems is growing, and Washington State University researchers are helping to lead a call for a national consortium of land-grant universities to study and combat the threat.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-national-consortium-agriculture-cyber-threats.html",
+            "publishedAt": "2026-10-09T17:00:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--peace-prize-winner-2026-f4ecef8a273b95fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:19.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+        "imageUrl": "https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-promo-1145a-cljm/09nobel-promo-1145a-cljm-mediumSquareAt3X.jpg",
+        "fullContent": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+            "publishedAt": "2026-10-09T17:00:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-erwork-in-times-of-grief-b395927cf157885b",
+        "title": "LumenUs助人在悲恸中自动化繁琐的文书工作",
+        "originalTitle": "LumenUs helps automate tedious paperwork in times of grief",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:00.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+        "imageUrl": null,
+        "fullContent": "When Sara Tashakorinia’s husband died in a car accident eight years ago, the last thing she needed was the roughly 570 hours of paperwork it takes, on average, to settle a loved one’s affairs. But for millions of people each year, this is their reality: a crushing loss, followed by a soullessly mundane avalanche of tedious administrative work.\n\n“The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about, trying to navigate something and learn something when you literally have zero information,” Tashakorinia told TechCrunch.\n\nAfter years of volunteering to help others navigate what she had to learn on her own, it occurred to Tashakorinia that AI might be able to help — not with the complex, messy experience of grieving and healing, but with the least human parts of the process, like finding the right tax forms, filing insurance claims, and shutting down bank accounts.\n\n“I think going through it, your threshold of pain is so high, and you’re so lost that you don’t really realize, why do people treat you this way? Why was I left with a stack of paperwork, and why was the funeral home charging me a 300% markup on a casket?” Tashakorinia said.\n\n“We are asking very specific questions to understand the legal and financial means, and their state of mind, and this is only to personalize who they are, and then personalizing what happened,” Tashakorinia said.\n\nFrom there, the platform organizes tasks by urgency, helping users decipher what needs to be done immediately and what can wait. In some cases, this can even help people discover that they’re entitled to money that can help ease the financial burden of death. In fact, billions of dollars in life insurance benefits go unclaimed because people don’t know they’re available.\n\n“We are using AI to automate as much as we can to save time during this process, and give it back to [users],” she said.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing [email protected] or via encrypted message at @amanda.100 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nUS bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers\n\nCal AI’s 19-year-old founder just raised $10M for his new AI startup\n\nAnthropic is giving startups a free year of Claude Team and $1,000 in credits\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "fullTranslation": "八年前，当萨拉·塔沙科里尼亚（Sara Tashakorinia）的丈夫在一场车祸中丧生时，她最不需要面对的就是平均约需570个小时才能办完的处理亲人后事的文书工作。然而，每年对数百万人来说，这就是残酷的现实：先是承受沉痛的失去之痛，紧接着便被排山倒海般枯燥乏味且毫无温情的行政事务淹没。\n\n“亲人离世的那一天，你还会莫名其妙地被扣上一顶‘项目经理’的荣誉帽子，负责一个你毫无概念的项目；在完全没有任何信息的情况下，你必须艰难摸索并从头学起，”塔沙科里尼亚对TechCrunch表示。\n\n在以志愿者身份帮助他人应对那些自己曾被迫自学的事物多年后，塔沙科里尼亚突然意识到，人工智能或许能够提供帮助——它无法代替那段复杂痛苦的悲伤与愈合过程，但可以处理整个流程中最缺乏人情味的环节，例如查找正确的税务表格、提交保险理赔以及注销银行账户。\n\n“我认为在经历这一切时，你的痛苦承受阈值已经极高，而且感到极度迷茫，你甚至意识不到：人们为什么会这样对待你？为什么留给我的是厚厚一堆文书？为什么殡仪馆给一口棺材加价300%？”塔沙科里尼亚说道。\n\n“我们会提出非常具体的问题，以了解当事人的法律和财务状况及其心理状态，这完全是为了先个性化了解他们是谁，进而个性化梳理发生了什么，”塔沙科里尼亚说。\n\n在此基础上，该平台会按照紧急程度对任务进行排序，帮助用户厘清哪些事情需要立即处理，哪些可以暂缓。在某些情况下，这甚至能帮助人们发现自己有权领取的款项，从而减轻死亡带来的经济负担。事实上，由于人们不知道有这些款项可领，数以十亿美元计的人寿保险赔偿金无人认领。\n\n“我们正在利用人工智能尽可能实现自动化，以在此过程中节省时间，并将其还给[用户]，”她说。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n阿曼达·西尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，主要报道科技与文化的交集领域。她还曾为Polygon、MTV、《肯扬评论》（the Kenyon Review）、NPR和Business Insider等出版物撰稿。她与科幻作家伊莎贝尔·J·金（Isabel J. Kim）共同主持关于互联网文化的播客《Wow If True》。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学的英语文学学士学位，并曾作为“普林斯顿在亚洲”项目的研究员在老挝工作。\n\n您可以通过发送电子邮件至 [email protected] 或通过Signal加密信息（@amanda.100）联系阿曼达或核实其来信。\n\n第二张门票立减50%。Disrupt的体验理应一同分享。购买您的通行门票，并以五折优惠携同事、合伙人或同行参会。通过建立人脉、蓄积动力并探索创业生态系统的未来动向，覆盖更广阔的领域。\n\n美国禁止微软、Adobe及主要IT公司参与面向外国熟练工人的绿卡计划\n\nCal AI年仅19岁的创始人为其新AI初创公司筹得1000万美元\n\nAnthropic为初创企业提供为期一年的免费Claude Team以及1,000美元额度\n\n19岁创始人为个人AI电脑（售价3,499美元）制造商标杆Ghost筹得1100万美元\n\n联邦法官称Flock为“肆意的大规模监控”\n\n亚马逊对数据中心引发的强烈反弹作出回应，称不再使用保密协议（NDA）\n\nOpenAI安全部门员工辞职，称公司“文化已然崩坏”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "Sara Tashakorinia是LumenUs的创始人。",
+          "处理亲人离世后的事务平均大约需要570小时的文书工作。",
+          "来源叙事重点：聚焦初创企业LumenUs如何通过AI自动化处理亲人离世后的繁复文书工作，以创始人个人丧亲经历为叙事切入点，探讨AI在善后管理中的实际应用价值。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/"
+          }
+        ]
+      },
+      {
+        "id": "story-i-stock-picking-3c61deac-9e4dd7d0abd815a2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:50:00.000Z",
+        "pubTime": "2026-10-10 00:50",
+        "url": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Even with the rising use of AI, picking market-beating stocks has not become any easier this year, a new report finds.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 00:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T16:50:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ea-faces-calls-to-resign-934acf1929826074",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "UK coastguard agency chief faces calls to resign over ‘misleading’ claims in pay row",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:07:29.000Z",
+        "pubTime": "2026-10-10 00:07",
+        "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+        "imageUrl": "https://i.guim.co.uk/img/media/6b86aa96924f2339bc61288e71a986b40497de52/334_438_2347_1878/master/2347.jpg?width=140&quality=85&auto=format&fit=max&s=81b72ec4bd751937091784e42d5e49f9",
+        "fullContent": "Regulator says poll data did not sufficiently back up claim of support for plan to stop remunerating rescue officers\n\nThe head of the UK coastguard agency is facing calls to resign after she was found to have used unverified data to back up her controversial plan to strip rescue officers of their pay.\n\nVirginia McVea, the chief executive of the Maritime and Coastguard Agency (MCA), claimed more than 90% of coastguard rescue officers supported the proposal, citing an official survey. Now, after an Office for Statistics Regulation (OSR) investigation, the agency has admitted its poll did not sufficiently back up the claim.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国海事与海岸警卫署首席执行官弗吉尼亚·麦克维（Virginia McVea）面临辞职呼吁。",
+          "弗吉尼亚·麦克维此前援引官方调查称，超过90%的海岸警卫队救援人员支持取消救援人员薪酬的方案。",
+          "来源叙事重点：揭露英国海事与海岸警卫署负责人涉嫌使用未经核实/误导性的民调数据，强行推行削减一线救援人员报酬的争议政策，并重点报道监管机构介入定性及随之而来的辞职问责呼声。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T16:07:29.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign"
+          }
+        ]
+      },
+      {
+        "id": "story-ltiple-photons-path-html-50d0b554d9f9b731",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Quantum chip holds multiple photons at once, opening path to scalable memory",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:10.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-give-quant.jpg",
+        "fullContent": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum operations catch up. This storage must be performed on microchips as small as 1 centimeter (0.4 inches)—a distance covered by light in a few trillionths of a second. Storing photons for a microsecond would represent a massive",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+            "publishedAt": "2026-10-09T17:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-9-moskva-2123570745-html-70be67c830505a44",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Москве обновили данные об объектах коммунальной инфраструктуры",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T17:00:01.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://ria.ru/20261009/moskva-2123570745.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/09/1731610452_0:158:3018:1856_650x0_80_0_0_2a80aef40a253ada507e39e4deecc8e5.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261009/moskva-2123570745.html",
+            "publishedAt": "2026-10-09T17:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-it-enough-to-build-trust-dd1a4ba899e07fb1",
+        "title": "亚马逊等公司不再对数据中心交易保密，但这足以建立信任吗？",
+        "originalTitle": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:56:42.000Z",
+        "pubTime": "2026-10-10 00:56",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "imageUrl": null,
+        "fullContent": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access to their inboxes, files, and credit cards — if they can get websites to let them in.\n\nOn this episode of TechCrunch’s Equity podcast, Anthony Ha, Sean O’Kane, and Rebecca Bellan dig into whether ditching NDAs will change how data center deals get done, why trust may be the real product for personal AI startups, plus a couple of deals of the week.",
+        "fullTranslation": "亚马逊表示，在与地方政府谈判数据中心交易时将停止使用保密协议（NDA），此前微软在今年早些时候也采取了类似举措。保密做法加剧了社区对人工智能基础设施的强烈抵制，从纽约到旧金山，各地的反对声音导致了数百项拟议及已实施的暂缓令。与此同时，一批初创公司正押注消费者会向人工智能代理开放对其收件箱、文件和信用卡的访问权限——前提是它们能促使网站允许这些代理进入。\n\n在 TechCrunch 的 Equity 播客本期节目中，Anthony Ha、Sean O’Kane 和 Rebecca Bellan 深入探讨了放弃保密协议是否会改变数据中心交易的达成方式、为什么信任可能是个人 AI 初创公司的真正核心产品，并盘点了本周的几笔交易。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 2,
+        "keyTakeaways": [
+          "亚马逊表示在与地方政府谈判数据中心交易时将停止使用保密协议（NDAs）。",
+          "微软在今年早些时候采取了停止在数据中心交易中使用保密协议的类似举措。",
+          "来源叙事重点：探讨科技巨头（亚马逊、微软）放弃数据中心保密协议（NDA）背后的公众信任危机与监管阻力，并联动关注个人AI代理商业化中的信任与隐私挑战"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T16:56:42.000Z",
+            "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+          }
+        ]
+      },
+      {
+        "id": "story--not-even-close-58f31401-99a4fbafd18d9fae",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Elon Musk is now richer than any American ever — and it’s not even close",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:43:00.000Z",
+        "pubTime": "2026-10-10 00:43",
+        "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 00:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T16:43:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-unison-cloud-open-source-47db73e2c93c739f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unison Cloud is now open source",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T15:32:51.000Z",
+        "pubTime": "2026-10-09 23:32",
+        "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
+        "imageUrl": null,
+        "fullContent": "Get regular updates from the Unison team\n\nUnison Cloud is now open source, MIT licensed. There are four projects:\n\nUnison Cloud turns any pool of nodes into a distributed computer, programmable with the Unison language. See a series of demos. Some features:\n\nWe think this tech will be more useful to the world as an open source technology and hope that people build great things with it.\n\nIf you're interested in professional support for a Unison Cloud cluster, get in touch at hello@unison.cloud.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Unison Cloud 现已开源，并采用 MIT 许可证",
+          "该开源项目包含四个项目",
+          "来源叙事重点：宣布 Unison Cloud 依据 MIT 许可证全面开源，强调其将任意节点池转化为可用 Unison 语言编程的分布式计算机的能力，传达赋能开源社区的愿景并提供企业级商业支持渠道。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T15:32:51.000Z",
+            "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-1009-vsu-2123570948-html-4c2b58b46244a83a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "МККК оценивает последствия атаки ВСУ на гуммиссию под Донецком",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T17:01:51.000Z",
+        "pubTime": "2026-10-10 01:01",
+        "url": "https://ria.ru/20261009/vsu-2123570948.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 01:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261009/vsu-2123570948.html",
+            "publishedAt": "2026-10-09T17:01:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--event-hybrid-ai-notepad-3cd2568c3659dbd1",
+        "title": "微软试图为Windows注入新生机",
+        "originalTitle": "Microsoft tries to spark new life into Windows",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:00.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nWindows is slowly morphing into an agentic OS.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nWhen Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You’d think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it’s here to stay, forming the foundation for Microsoft’s next big ambition: transforming Windows into an agentic OS.\n\nAt a Windows and Surface event this week, Microsoft laid out its plan to bring AI agents to Windows, including hybrid intelligence that lets Windows take advantage of free local models instead of expensive cloud ones. “I think today is the day we’ll start talking and thinking about the frontier ecosystem taking maybe slightly different contours,” said Microsoft CEO Satya Nadella.\n\nAfter trying to sell businesses on a new Copilot last month, Nadella took a similar approach for his vision of agents and hybrid intelligence for Windows. It was so similar that when he mentioned the security, identity, and management aspects of Microsoft’s platform for securing agents, it almost seemed like he was pitching businesses again instead of AI developers, creatives, and just regular Windows users.\n\nAfter a somewhat dizzying start, Windows chief Pavan Davuluri appeared onstage to try and explain why agents and hybrid intelligence are so important for Windows users. There were demos of GitHub Copilot coding locally without expensive cloud tokens; a long list of models that can now run locally; examples of agents like OpenClaw, Hermes, and Perplexity; and even deeper integration of Copilot in Windows.\n\nI wasn’t fully convinced by any of these demos, though. I wanted to see what practical benefits local AI models could actually deliver for regular Windows users, instead of just the AI builders or developers Microsoft is trying to win over right now. Those are the people who could help turn its agentic OS vision into reality, though, and many of them are using a MacBook Pro instead of Windows. Microsoft’s answer to tempt them across to Windows? The Surface Laptop Ultra.\n\nThe Surface Laptop Ultra is the home for Microsoft’s agentic OS push. Nvidia’s RTX Spark chips power the device, and there’s enough raw GPU power to get AI models exceeding 120 billion parameters running locally. “We built it for developers and creators that push the limit of performance and want portability with exceptional craft,” said Davuluri.\n\nThe Surface Laptop Ultra is the flagship RTX Spark device, though there are also similar laptops from Asus, Dell, HP, Lenovo, and MSI. Microsoft’s Surface Laptop Ultra starts at $2,599, and some RTX Spark PCs can run all the way up to an eye-watering $6,999. Much like the very top of the MacBook Pro line, you’d have to really need 128GB of unified memory to spend that kind of money. For many AI builders it might just be worth it, though, especially if you can save thousands in token costs.\n\nFor the rest of us, Microsoft had very little to show. A new Windows Search interface looks like it could be one of the best additions to Windows 11 in years, though. Microsoft has totally redesigned search to make it not only more modern, but a heck of a lot faster than before. I’ve gotten to the point where I disable the Bing results in Windows Search, but this new UI now surfaces results in-line and lets you use search more like a launcher.\n\nI wasn’t expecting some grand unveiling of Windows 12 at this event, but I was hoping to hear a lot more about why RTX Spark laptops really do matter. “This is the future we’re building: agents that can work securely on your behalf, intelligence that moves seamlessly between local and cloud, and devices that become more capable than ever before,” said Davuluri.\n\nThe problem is Microsoft is still in the early stages of this future it’s betting on for Windows. We had Copilot Plus PCs two years ago, with a big focus on the NPU chips inside that were supposed to revolutionize how consumers use everyday AI on a laptop. They haven’t done that yet, with only a handful of photo, video, and productivity tools making use of the NPU. Microsoft’s Recall feature was supposed to be the star of the NPU show, but the privacy concerns and delayed launch made it totally irrelevant instead.\n\nNvidia’s presence and GPU dominance may well make RTX Spark a bigger success story than Copilot Plus PCs, but these machines are targeting a niche audience for now. If Microsoft and its partners want to move beyond selling them as MacBook Pro competitors, they’ll eventually need to bring the same capabilities to less expensive, less powerful devices and demonstrate practical reasons for regular Windows users to care. The difference is that RTX Spark PCs are aimed at people who have a much more immediate reason to care about local AI: developers and creators who need to run large models and can potentially save substantial amounts of money by doing so.\n\nFor Microsoft, though, it’s the creators and builders that matter most right now. AI agents running in the cloud on Linux virtual machines could spark a wave of desktop Linux app compatibility we’ve never seen before. Microsoft needs to counter that threat by making Windows more agent-friendly.\n\nThat might explain why Nadella and Nvidia CEO Jensen Huang spent so much time reminiscing about the early days of the PC and graphics at this event. Microsoft isn’t ready to give up the PC dominance and app compatibility it has spent decades building. But it knows that the way people use computers is changing, and that Windows can’t rely on its historical advantages forever.\n\nPerhaps that gets to the heart of why Microsoft seems to be scrambling to embrace AI agents and hybrid intelligence in Windows. It needs to make sure that, even as computing shifts beyond the traditional PC, Windows remains at the center of it all.\n\nI’m always keen to hear from readers, so please drop a comment here, or you can reach me at notepad@theverge.com if you want to discuss anything else. If you’ve heard about any of Microsoft’s secret projects, you can reach me via email at notepad@theverge.com or speak to me confidentially on the Signal messaging app, where I’m tomwarren.01. I’m also tomwarren on Telegram, if you’d prefer to chat there.\n\nThanks for subscribing to Notepad.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题的内容将被添加到您的每日电子邮件摘要和主页信息流中。\nWindows正在慢慢转变为一个智能体操作系统（agentic OS）。\n该作者的内容将被添加到您的每日电子邮件摘要和主页信息流中。\n查看汤姆·沃伦（Tom Warren）的全部文章\n五年前微软发布Windows 11时，它给人的感觉就像一个仍在翻新中的操作系统，一项未完工的半成品。你可能会认为到了现在，这些翻新工作应该已经完成，微软会把注意力转向Windows 12。相反，Windows 11给人的感觉却似乎会长久存在下去，成为微软下一个宏伟抱负的基石：将Windows转变为一个智能体操作系统。\n在本周举行的一场Windows和Surface发布会上，微软公布了将AI智能体引入Windows的计划，其中包括让Windows能够利用免费本地模型而非昂贵云端模型的混合智能。“我认为今天起，我们将开始讨论并思考前沿生态系统或许会呈现出略微不同的轮廓，”微软首席执行官萨蒂亚·纳德拉（Satya Nadella）表示。\n上个月向企业兜售新版Copilot之后，纳德拉对其关于Windows智能体和混合智能的愿景采取了类似的做法。这种做法是如此相似，以至于当他提到微软保护智能体平台的安全性、身份识别和管理方面时，看起来简直就像是又在向企业推销，而不是面向AI开发者、创意人员和普通Windows用户。\n在一段略显令人眼花缭乱的开场之后，Windows主管帕万·达武鲁里（Pavan Davuluri）登台，试图解释为何智能体和混合智能对Windows用户如此重要。现场进行了多项演示：GitHub Copilot在本地编写代码而无需消耗昂贵的云端token；一份长长的现已支持本地运行的模型清单；OpenClaw、Hermes和Perplexity等智能体案例；以及Copilot在Windows中更为深入的整合。\n不过，这些演示并没能完全说服我。我希望看到本地AI模型究竟能为普通Windows用户带来哪些实际好处，而不仅仅是微软眼下试图拉拢的AI构建者或开发者。不过，这些人正是能够帮助其将智能体操作系统愿景变为现实的人群，而他们当中的许多人目前使用的是MacBook Pro，而不是Windows电脑。微软吸引他们转投Windows阵营的对策是什么？Surface Laptop Ultra。\nSurface Laptop Ultra是微软推进智能体操作系统的落脚点。英伟达的RTX Spark芯片为该设备提供动力，其拥有充足的GPU原始算力，足以在本地运行超过1200亿参数的AI模型。“我们打造它是为了那些挑战性能极限、并追求便携性与精湛工艺的开发者和创作者，”达武鲁里表示。\nSurface Laptop Ultra是RTX Spark的旗舰设备，不过华硕、戴尔、惠普、联想和微星也有类似的笔记本电脑。微软的Surface Laptop Ultra起售价为2599美元，而部分RTX Spark PC的售价甚至高达令人咋舌的6999美元。这与MacBook Pro顶配产品非常相似，你必须是真的迫切需要128GB统一内存才会花这么多钱。不过对许多AI构建者来说，这或许物有所值，尤其是如果你能省下数千美元的token成本的话。\n对于我们其余的人，微软拿出的内容寥寥无几。不过，全新的Windows搜索界面看起来可能是Windows 11多年来最好的新增功能之一。微软对搜索进行了彻底的重新设计，使其不仅更具现代感，而且比以往快得多。我之前已经习惯了在Windows搜索中停用Bing搜索结果，但这个新界面现在可以直接以行内方式显示结果，并让你能够把搜索当作启动器来使用。\n我本来就没指望在这次发布会上看到Windows 12的隆重亮相，但我确实希望能听到更多关于RTX Spark笔记本电脑为何真正重要的深入阐述。“这就是我们正在构建的未来：能够安全地代表您工作的智能体、在本地和云端之间无缝流转的智能，以及变得比以往任何时候都更加强大的设备，”达武鲁里说道。\n问题在于，对于为Windows押注的这一未来，微软仍处于早期阶段。两年前我们迎来了Copilot Plus PC，当时重点宣传内部的NPU芯片，宣称其将彻底改变消费者在笔记本电脑上使用日常AI的方式。但它们尚未做到这一点，目前只有极少数照片、视频和生产力工具利用了NPU。微软的“回顾”（Recall）功能原本应是NPU大展身手的重头戏，但隐私方面的担忧和推迟发布却使其变得完全无关紧要。\n英伟达的存在感和GPU主导地位很可能会让RTX Spark取得比Copilot Plus PC更大的成功，但这些机器目前针对的是小众受众。如果微软及其合作伙伴希望不仅仅将它们作为MacBook Pro的竞争对手来销售，他们最终将需要把同样的能力带到更便宜、性能相对较弱的设备上，并展示出让普通Windows用户关心的实际理由。不同之处在于，RTX Spark PC面向的人群有着更为迫切的理由去关注本地AI：即那些需要运行大模型、并且通过本地运行有可能节省大笔费用的开发者和创作者。\n然而对微软来说，眼下最重要的正是创作者和构建者。在云端Linux虚拟机上运行的AI智能体可能会引发一波前所未有的桌面Linux应用兼容浪潮。微软需要通过让Windows对智能体更加友好来化解这一威胁。\n这或许可以解释为什么纳德拉和英伟达首席执行官黄仁勋在这次活动中花了那么多时间回忆PC和图形技术的早期岁月。微软还不打算放弃几十年来建立起来的PC主导地位和应用兼容性。但它心知肚明，人们使用计算机的方式正在发生改变，Windows不可能永远依赖其历史优势。\n这或许切中了微软为何似乎在手忙脚乱地拥抱Windows中的AI智能体与混合智能的核心原因。它需要确保，即便计算正逐渐超越传统PC的范畴，Windows依然处于这一切的中心。\n我一直渴望倾听读者的心声，欢迎在这里留言，或者如果您想讨论其他任何事情，可以通过notepad@theverge.com与我联系。如果您知悉任何微软的机密项目，可以通过电子邮件notepad@theverge.com与我联系，或在Signal即时通讯软件上向我保密爆料（我的用户名是tomwarren.01）。如果您更喜欢在Telegram上交流，我的用户名同样是tomwarren。\n感谢订阅Notepad。\n免费提供最重要资讯的每日摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "微软在本周的一场 Windows 和 Surface 活动上公布了将 AI 代理引入 Windows 的计划。",
+          "微软提出了“混合智能”概念，使 Windows 能够使用免费的本地模型，而不是昂贵的云端模型。",
+          "来源叙事重点：审视微软将 Windows 转型为“代理型操作系统（Agentic OS）”及主推 RTX Spark 高端硬件的战略，批评其过度偏向小众开发者与企业级叙事，而缺乏对大众消费者的切实力度，同时指出过往 Copilot+ PC 与 Recall 功能落地不佳的前车之鉴。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad"
+          }
+        ]
+      },
+      {
+        "id": "story-s-to-cut-grid-costs-html-d8a239f2683bf1ed",
+        "title": "美多州押注虚拟电厂以削减电网成本",
+        "originalTitle": "States Bet on Virtual Power Plants to Cut Grid Costs",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:00.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nCanada’s New Oil Pipeline Challenged by Cold Lake First Nations\n\nGreen hydrogen has stalled, but…\n\nA tropical disturbance could threaten…\n\nMajor private equity firms continue…\n\nFelicity Bradstock is a writer and journalist based in Mexico City. She writes for energy websites and covers several other industries, as well as writing…\n\nThe United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid. When coordinated, a group of hundreds or thousands of households and businesses can use the latent potential of their thermostats, electric vehicles (EVs), appliances, batteries, and solar installations to charge or discharge, supporting grid flexibility.\n\nWhen put together, these can provide many of the same energy services as a conventional power plant. Technologies such as EVs and chargers, heat pumps, home appliances, HVAC equipment, batteries, plug loads, and industrial mechanical equipment can be combined to create a VPP.\n\nIn the United States, the Department of Energy’s (DoE) Loan Programs Office is working to support deployment of VPPs across the country to make the U.S. grid more flexible, affordable, clean, and resilient as the economy electrifies. VPPs help address existing energy challenges, including rising costs, interconnection backlogs, peak-demand increases, and distribution-system congestion.\n\nIn the northeastern state of Vermont, Green Mountain Power (GMP), the state’s largest utility, has introduced a VPP initiative to combat the regular power outages caused by extreme weather events. The scheme is based on installing two batteries in participants’ homes, at a cost of $55 per month over a 10-year lease. This works out cheaper than the average cost of a backup generator.\n\nMore than 5,500 people across the state have invested in similar battery systems. These help provide backup power during an outage and allow households to participate in a VPP. The United States now has more than 40 GW of VPP capacity, according to an internal analysis by Wood Mackenzie. While this is still small compared to other power sources, a 2025 DoE report suggested that VPP capacity could rise to 160 GW by 2030, equivalent to about one-fifth of the country’s expected peak energy demand.\n\nVermont’s VPP has transformed into the state’s largest power source under the GMP programme. GMP saw an increase in enrolments in the battery lease programme in 2023 after state regulators lifted the cap. Enrolment has continued growing steadily in recent years, with 2,500 people enrolling since 2023. GMP now aims to eliminate all power outages by 2030, supported by the battery programme and infrastructure improvements, such as undergrounding power lines. The utility is now considering providing thousands of customers in some rural and more outage-prone areas batteries at no cost, with some pilot projects already underway.\n\nArtificial intelligence (AI) has become a major driver for VPP deployment in recent years, as the tech sector races to acquire sufficient power to run new data centres. Tech companies have invested heavily in developing nuclear reactors, gas turbines, and wind and solar farms to power their data centres, many of which will take years to build. However, the use of VPPs could provide a more immediate power source.\n\nThe U.S. power grid runs at an average of around 50 per cent capacity. This ensures that it is prepared for peak energy use in the hot summer or cold winter months. However, it is expensive to have so much of the grid power sitting idle most of the time. If utilities increased utilisation by just 10 per cent, it could save consumers over $100 billion over the next decade, according to the head of the industry-led campaign, the Utilise Coalition, Ian Magruder.\n\nAs AI-powered systems analyse the grid hour by hour across an entire year, they do not have to plan for theoretical peaks. This allows for greater flexibility, such as temporarily reducing power for 0.5 per cent of the year or adding a battery, which could reduce the need to construct new transmission infrastructure.\n\nVirginia recently passed legislation for a 450-MW VPP pilot programme, while Minnesota committed to 200 MW of power. These types of programmes can be deployed in six months to a year, which is much faster than it takes to develop a gas or renewable energy project. However, the government must introduce incentives to encourage more utilities to develop VPP programmes rather than to spend on new infrastructure if it hopes to accelerate deployment.\n\nIn California, in a bid to reduce state utility spending, Governor Gavin Newsom recently signed into law a slate of energy-affordability legislation, including a policy that is expected to accelerate the rollout of VPPs. This came as a surprise to many, given that several of the state’s big utilities had previously voiced opposition to such a move. Two bills, Senate Bill 905 and Senate Bill 913, are expected to create new opportunities for VPPs to reduce utility costs.\n\nSeveral states have introduced legislation to encourage the development of VPPs in recent years, as policymakers seek faster access to alternative power. The development of broader VPP schemes could help reduce the need to invest heavily in new transmission infrastructure and address underused power systems.\n\nBy Felicity Bradstock for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nIran War Energy Shock Puts Hydrogen Back on the Table\n\nIran Is Losing Some of Its Leverage Over the Strait of Hormuz\n\nU.S. Oil Drilling Inches Up As Prices Fall\n\nIranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk\n\nFuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time\n\nEurope’s Diesel Woes Just Got Even Worse\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "点击此处获取150多种全球石油价格\n加拿大新输油管道面临酷湖第一民族（Cold Lake First Nations）质疑\n绿氢发展停滞，但……\n热带扰动可能威胁……\n主要私募股权公司继续……\nFelicity Bradstock是一名常驻墨西哥城的作家兼记者。她为能源网站撰稿，报道其他多个行业，并撰写……\n\n近年来，随着虚拟电厂（VPP）系统在多个州的扩展，美国对虚拟电厂给予了更有力的支持。虚拟电厂是小规模发电资源的集合体，这些资源协同运作，能够向电网输送电力。通过协调运作，数百或数千个家庭和企业可以利用其温控器、电动汽车（EV）、家用电器、电池和太阳能发电设备的潜在容量进行充放电，从而支持电网的灵活性。\n\n整合在一起时，这些设备可以提供许多与传统电厂相同的能源服务。诸如电动汽车与充电桩、热泵、家用电器、暖通空调（HVAC）设备、电池、插座负荷以及工业机械设备等技术均可整合以构建虚拟电厂。\n\n在美国，能源部（DoE）贷款项目办公室正在努力支持全国范围内虚拟电厂的部署，以在经济走向电气化的同时，使美国电网更加灵活、经济、清洁和具备韧性。虚拟电厂有助于应对现有的能源挑战，包括成本上升、并网排队积压、尖峰需求增长以及配电系统拥堵等问题。\n\n在东北部的佛蒙特州，该州最大的公用事业公司绿山电力（Green Mountain Power, GMP）推出了一项虚拟电厂计划，以应对由极端天气事件引发的常规停电。该方案基于在参与者家中安装两套电池，租期10年，月费为55美元。这比备用发电机的平均成本更为合算。\n\n该州已有超过5500人投资了类似的电池系统。这些系统有助于在停电期间提供备用电源，并使家庭能够参与虚拟电厂。根据伍德麦肯兹（Wood Mackenzie）的一项内部分析，美国目前的虚拟电厂装机容量已超过40吉瓦（GW）。虽然与其他电力来源相比这一规模仍然偏小，但能源部2025年的一份报告指出，到2030年，虚拟电厂容量可能增至160吉瓦，约相当于该国预期峰值电力需求的五分之一。\n\n在GMP项目的主导下，佛蒙特州的虚拟电厂已转变为该州最大的电源。在州监管机构取消配额上限后，GMP在2023年迎来了电池租赁项目签约量的激增。近年来，参与人数持续稳定增长，自2023年以来已有2500人签约。得益于电池项目和电线入地等基础设施升级改造，GMP目前的宏伟目标是在2030年前消除所有断电事故。该公用事业公司目前正在考虑在某些农村和更容易发生停电的地区为数千名客户免费提供电池，部分试点项目已在进行中。\n\n近年来，人工智能（AI）已成为推动虚拟电厂部署的主要驱动力，因为科技行业正竞相获取足够的电力来运行新数据中心。科技公司已投入巨资开发核反应堆、燃气轮机以及风力和太阳能发电厂来为其数据中心供电，其中许多项目需要数年时间才能建成。然而，利用虚拟电厂可以提供一种更为直接、见效更快的电源。\n\n美国电网平均仅以约50%的负荷率运行。这样可以确保在炎热夏季或寒冷冬季的高峰用电期做好准备。然而，让如此多的电网容量大部分时间处于闲置状态，代价极其昂贵。由行业主导的倡议组织“利用联盟”（Utilise Coalition）负责人伊恩·马格鲁德（Ian Magruder）表示，如果公用事业公司将利用率仅提高10%，在未来十年内就可为消费者节省超过1000亿美元。\n\n由于AI驱动的系统能够对全年的电网进行逐小时分析，它们无需针对理论上的峰值做过度规划。这带来了更大的灵活性，例如在全年0.5%的时间内临时减少用电量或增设电池，从而减少新建输电基础设施的需求。\n\n弗吉尼亚州最近通过了一项450兆瓦虚拟电厂试点项目的立法，而明尼苏达州则承诺推进200兆瓦的项目。此类项目可在六个月到一年内完成部署，远快于开发燃气或可再生能源项目的周期。然而，若希望加速推广，政府必须出台激励措施，鼓励更多公用事业公司开发虚拟电厂项目，而非把资金挥霍在传统新基建上。\n\n在加利福尼亚州，为了减少州公用事业支出，州长加文·纽森（Gavin Newsom）最近签署了一系列能源可负担性法案，其中包括一项预计将加速虚拟电厂推广的政策。鉴于该州此前有几家大型公用事业公司曾对此举表示反对，这一进展出乎许多人的意料。第905号参议院法案（SB 905）和第913号参议院法案（SB 913）预计将为虚拟电厂创造新机遇，从而降低公用事业成本。\n\n随着政策制定者寻求更快获取替代电力，近年来已有数个州出台立法以鼓励虚拟电厂的发展。更广泛的虚拟电厂方案的推进，不仅有助于减少对新建输电基础设施的巨额投资需求，还能有效解决电力系统利用率不足的问题。\n\n文 / Felicity Bradstock，发表于 Oilprice.com\n\nOilprice.com 更多精选阅读：\n伊朗战争能源冲击使氢能重回议程\n伊朗正在失去对霍尔木兹海峡的部分筹码\n随着油价下跌，美国石油钻井活动微幅回升\n尽管面临美国制裁风险，伊朗石油仍开始流向塔吉克斯坦\n燃料价格冲击推动全球燃油车销量首次跌破50%\n欧洲柴油困局雪上加霜\n\n本网站提供的资料仅供参考和教育用途，并非旨在提供税务、法律或投资建议。\n本网站所包含的任何内容均不应被视为在任何司法管辖区内向任何人提出的购买或出售证券的推荐、要约邀请或要约。\n记录商户：A Media Solutions 以 Oilprice.com 名义运营",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "美国能源部贷款计划办公室（Loan Programs Office）正支持在全国范围内部署虚拟电厂（VPP）。",
+          "佛蒙特州最大的公用事业公司 Green Mountain Power (GMP) 推出了在用户家中安装两块电池的计划，10年租赁期内每月费用为55美元。",
+          "来源叙事重点：探讨虚拟电厂（VPP）如何作为低成本、快速部署的电网灵活性工具在美国多州加速落地，重点阐述其在缓解AI数据中心电力负荷、应对极端天气停电、提升电网利用率及替代昂贵传统基建方面的经济效益与政策推动。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html"
+          }
+        ]
+      },
+      {
+        "id": "story-o-substitute-for-the-nhs-47c6f8b679d438f6",
+        "title": "保险模式无法替代国民医疗服务体系（NHS） | 读者来信",
+        "originalTitle": "Insurance model is no substitute for the NHS | Letter",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:13:09.000Z",
+        "pubTime": "2026-10-10 00:13",
+        "url": "https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs",
+        "imageUrl": "https://i.guim.co.uk/img/media/7dc17cd3be2c706b0700401a34312114fd03aa58/546_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=d93869542f4e747c95d517f1e8caad0f",
+        "fullContent": "Susan Jones points out that an NHS-style system does not require either sales costs or shareholder profits\n\nIn Dining across the divide (4 October), the young participant, Ted, is quoted as expressing his “desire to abolish the NHS and replace it with a social insurance model. This would still have provision for free treatment at the point of need, but people would pay through insurance systems, and they would choose the level of cover they’ve got. Those models deliver far better outcomes for patients.”\n\nAs a retired insurance underwriter, I must disagree profoundly with Ted’s assertion. Let’s concentrate on business fundamentals. Insurance comes in two “flavours”: first, events that become likelier as time goes on – eg, life assurance. The older you get, the more likely you are to die and the more premium is needed to cover the risk; and second, events whose likelihood stays essentially the same over time, eg home insurance – the likelihood of a house burning down is much the same for everyone and the cost is spread evenly between policyholders.",
+        "fullTranslation": "苏珊·琼斯（Susan Jones）指出，NHS模式的医疗体系既不需要销售成本，也不需要股东利润。\n\n在《跨越分歧共进晚餐》（Dining across the divide，10月4日刊）中，年轻的参与者特德（Ted）被引述表达了他“希望废除NHS并以社会保险模式取而代之的愿望。这种模式仍会提供在需要时免费治疗的保障，但人们将通过保险系统缴费，并可以选择自己获得的保障额度。这些模式能为患者带来好得多的成效。”\n\n作为一名退休的保险核保人，我必须对特德的主张表示强烈反对。让我们专注于商业的基本逻辑。保险有两种“类型”：第一种是随着时间推移发生概率越来越高的事件——例如人寿保险。你的年龄越大，死亡的可能性就越高，覆盖风险所需的保费也就越多；第二种是其发生的可能性随时间推移基本保持不变的事件，例如房屋保险——房屋被烧毁的可能性对每个人来说基本相同，费用由保单持有人平均分摊。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "在10月4日的《跨越分歧共进晚餐》（Dining across the divide）栏目中，年轻参与者特德（Ted）表示希望废除英国国家医疗服务体系（NHS）并以社会保险模式取而代之。",
+          "苏珊·琼斯（Susan Jones）指出，类似NHS的体系既不需要销售成本，也不需要股东利润。",
+          "来源叙事重点：从商业与保险底层运作逻辑出发，反驳以社会保险模式替代英国国民医疗服务体系（NHS）的主张，强调NHS无需承担销售成本与股东利润"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T16:13:09.000Z",
+            "url": "https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs"
+          }
+        ]
+      },
+      {
+        "id": "story-lture-cyber-threats-html-a23fc8cd226f8a8b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researchers call for national consortium to battle agriculture cyber threats",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:12.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://phys.org/news/2026-10-national-consortium-agriculture-cyber-threats.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2024/agriculture.jpg",
+        "fullContent": "The threat of cyberattacks against American agriculture and food systems is growing, and Washington State University researchers are helping to lead a call for a national consortium of land-grant universities to study and combat the threat.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-national-consortium-agriculture-cyber-threats.html",
+            "publishedAt": "2026-10-09T17:00:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--peace-prize-winner-2026-f4ecef8a273b95fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:19.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+        "imageUrl": "https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-promo-1145a-cljm/09nobel-promo-1145a-cljm-mediumSquareAt3X.jpg",
+        "fullContent": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+            "publishedAt": "2026-10-09T17:00:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-erwork-in-times-of-grief-b395927cf157885b",
+        "title": "LumenUs助人在悲恸中自动化繁琐的文书工作",
+        "originalTitle": "LumenUs helps automate tedious paperwork in times of grief",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:00.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+        "imageUrl": null,
+        "fullContent": "When Sara Tashakorinia’s husband died in a car accident eight years ago, the last thing she needed was the roughly 570 hours of paperwork it takes, on average, to settle a loved one’s affairs. But for millions of people each year, this is their reality: a crushing loss, followed by a soullessly mundane avalanche of tedious administrative work.\n\n“The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about, trying to navigate something and learn something when you literally have zero information,” Tashakorinia told TechCrunch.\n\nAfter years of volunteering to help others navigate what she had to learn on her own, it occurred to Tashakorinia that AI might be able to help — not with the complex, messy experience of grieving and healing, but with the least human parts of the process, like finding the right tax forms, filing insurance claims, and shutting down bank accounts.\n\n“I think going through it, your threshold of pain is so high, and you’re so lost that you don’t really realize, why do people treat you this way? Why was I left with a stack of paperwork, and why was the funeral home charging me a 300% markup on a casket?” Tashakorinia said.\n\n“We are asking very specific questions to understand the legal and financial means, and their state of mind, and this is only to personalize who they are, and then personalizing what happened,” Tashakorinia said.\n\nFrom there, the platform organizes tasks by urgency, helping users decipher what needs to be done immediately and what can wait. In some cases, this can even help people discover that they’re entitled to money that can help ease the financial burden of death. In fact, billions of dollars in life insurance benefits go unclaimed because people don’t know they’re available.\n\n“We are using AI to automate as much as we can to save time during this process, and give it back to [users],” she said.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing [email protected] or via encrypted message at @amanda.100 on Signal.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nUS bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers\n\nCal AI’s 19-year-old founder just raised $10M for his new AI startup\n\nAnthropic is giving startups a free year of Claude Team and $1,000 in credits\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI\n\nFederal judge calls Flock ‘indiscriminate mass surveillance’\n\nAmazon responds to data center backlash, says it no longer uses NDAs\n\nOpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "fullTranslation": "八年前，当萨拉·塔沙科里尼亚（Sara Tashakorinia）的丈夫在一场车祸中丧生时，她最不需要面对的就是平均约需570个小时才能办完的处理亲人后事的文书工作。然而，每年对数百万人来说，这就是残酷的现实：先是承受沉痛的失去之痛，紧接着便被排山倒海般枯燥乏味且毫无温情的行政事务淹没。\n\n“亲人离世的那一天，你还会莫名其妙地被扣上一顶‘项目经理’的荣誉帽子，负责一个你毫无概念的项目；在完全没有任何信息的情况下，你必须艰难摸索并从头学起，”塔沙科里尼亚对TechCrunch表示。\n\n在以志愿者身份帮助他人应对那些自己曾被迫自学的事物多年后，塔沙科里尼亚突然意识到，人工智能或许能够提供帮助——它无法代替那段复杂痛苦的悲伤与愈合过程，但可以处理整个流程中最缺乏人情味的环节，例如查找正确的税务表格、提交保险理赔以及注销银行账户。\n\n“我认为在经历这一切时，你的痛苦承受阈值已经极高，而且感到极度迷茫，你甚至意识不到：人们为什么会这样对待你？为什么留给我的是厚厚一堆文书？为什么殡仪馆给一口棺材加价300%？”塔沙科里尼亚说道。\n\n“我们会提出非常具体的问题，以了解当事人的法律和财务状况及其心理状态，这完全是为了先个性化了解他们是谁，进而个性化梳理发生了什么，”塔沙科里尼亚说。\n\n在此基础上，该平台会按照紧急程度对任务进行排序，帮助用户厘清哪些事情需要立即处理，哪些可以暂缓。在某些情况下，这甚至能帮助人们发现自己有权领取的款项，从而减轻死亡带来的经济负担。事实上，由于人们不知道有这些款项可领，数以十亿美元计的人寿保险赔偿金无人认领。\n\n“我们正在利用人工智能尽可能实现自动化，以在此过程中节省时间，并将其还给[用户]，”她说。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n阿曼达·西尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，主要报道科技与文化的交集领域。她还曾为Polygon、MTV、《肯扬评论》（the Kenyon Review）、NPR和Business Insider等出版物撰稿。她与科幻作家伊莎贝尔·J·金（Isabel J. Kim）共同主持关于互联网文化的播客《Wow If True》。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学的英语文学学士学位，并曾作为“普林斯顿在亚洲”项目的研究员在老挝工作。\n\n您可以通过发送电子邮件至 [email protected] 或通过Signal加密信息（@amanda.100）联系阿曼达或核实其来信。\n\n第二张门票立减50%。Disrupt的体验理应一同分享。购买您的通行门票，并以五折优惠携同事、合伙人或同行参会。通过建立人脉、蓄积动力并探索创业生态系统的未来动向，覆盖更广阔的领域。\n\n美国禁止微软、Adobe及主要IT公司参与面向外国熟练工人的绿卡计划\n\nCal AI年仅19岁的创始人为其新AI初创公司筹得1000万美元\n\nAnthropic为初创企业提供为期一年的免费Claude Team以及1,000美元额度\n\n19岁创始人为个人AI电脑（售价3,499美元）制造商标杆Ghost筹得1100万美元\n\n联邦法官称Flock为“肆意的大规模监控”\n\n亚马逊对数据中心引发的强烈反弹作出回应，称不再使用保密协议（NDA）\n\nOpenAI安全部门员工辞职，称公司“文化已然崩坏”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "Sara Tashakorinia是LumenUs的创始人。",
+          "处理亲人离世后的事务平均大约需要570小时的文书工作。",
+          "来源叙事重点：聚焦初创企业LumenUs如何通过AI自动化处理亲人离世后的繁复文书工作，以创始人个人丧亲经历为叙事切入点，探讨AI在善后管理中的实际应用价值。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "url": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/"
+          }
+        ]
+      },
+      {
+        "id": "story-i-stock-picking-3c61deac-9e4dd7d0abd815a2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:50:00.000Z",
+        "pubTime": "2026-10-10 00:50",
+        "url": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Even with the rising use of AI, picking market-beating stocks has not become any easier this year, a new report finds.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 00:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T16:50:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ea-faces-calls-to-resign-934acf1929826074",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "UK coastguard agency chief faces calls to resign over ‘misleading’ claims in pay row",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:07:29.000Z",
+        "pubTime": "2026-10-10 00:07",
+        "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+        "imageUrl": "https://i.guim.co.uk/img/media/6b86aa96924f2339bc61288e71a986b40497de52/334_438_2347_1878/master/2347.jpg?width=140&quality=85&auto=format&fit=max&s=81b72ec4bd751937091784e42d5e49f9",
+        "fullContent": "Regulator says poll data did not sufficiently back up claim of support for plan to stop remunerating rescue officers\n\nThe head of the UK coastguard agency is facing calls to resign after she was found to have used unverified data to back up her controversial plan to strip rescue officers of their pay.\n\nVirginia McVea, the chief executive of the Maritime and Coastguard Agency (MCA), claimed more than 90% of coastguard rescue officers supported the proposal, citing an official survey. Now, after an Office for Statistics Regulation (OSR) investigation, the agency has admitted its poll did not sufficiently back up the claim.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国海事与海岸警卫署首席执行官弗吉尼亚·麦克维（Virginia McVea）面临辞职呼吁。",
+          "弗吉尼亚·麦克维此前援引官方调查称，超过90%的海岸警卫队救援人员支持取消救援人员薪酬的方案。",
+          "来源叙事重点：揭露英国海事与海岸警卫署负责人涉嫌使用未经核实/误导性的民调数据，强行推行削减一线救援人员报酬的争议政策，并重点报道监管机构介入定性及随之而来的辞职问责呼声。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T16:07:29.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign"
+          }
+        ]
+      },
+      {
+        "id": "story-ltiple-photons-path-html-50d0b554d9f9b731",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Quantum chip holds multiple photons at once, opening path to scalable memory",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T17:00:10.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-give-quant.jpg",
+        "fullContent": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum operations catch up. This storage must be performed on microchips as small as 1 centimeter (0.4 inches)—a distance covered by light in a few trillionths of a second. Storing photons for a microsecond would represent a massive",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+            "publishedAt": "2026-10-09T17:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-9-moskva-2123570745-html-70be67c830505a44",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Москве обновили данные об объектах коммунальной инфраструктуры",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T17:00:01.000Z",
+        "pubTime": "2026-10-10 01:00",
+        "url": "https://ria.ru/20261009/moskva-2123570745.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/09/1731610452_0:158:3018:1856_650x0_80_0_0_2a80aef40a253ada507e39e4deecc8e5.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 01:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261009/moskva-2123570745.html",
+            "publishedAt": "2026-10-09T17:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-it-enough-to-build-trust-dd1a4ba899e07fb1",
+        "title": "亚马逊等公司不再对数据中心交易保密，但这足以建立信任吗？",
+        "originalTitle": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:56:42.000Z",
+        "pubTime": "2026-10-10 00:56",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "imageUrl": null,
+        "fullContent": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access to their inboxes, files, and credit cards — if they can get websites to let them in.\n\nOn this episode of TechCrunch’s Equity podcast, Anthony Ha, Sean O’Kane, and Rebecca Bellan dig into whether ditching NDAs will change how data center deals get done, why trust may be the real product for personal AI startups, plus a couple of deals of the week.",
+        "fullTranslation": "亚马逊表示，在与地方政府谈判数据中心交易时将停止使用保密协议（NDA），此前微软在今年早些时候也采取了类似举措。保密做法加剧了社区对人工智能基础设施的强烈抵制，从纽约到旧金山，各地的反对声音导致了数百项拟议及已实施的暂缓令。与此同时，一批初创公司正押注消费者会向人工智能代理开放对其收件箱、文件和信用卡的访问权限——前提是它们能促使网站允许这些代理进入。\n\n在 TechCrunch 的 Equity 播客本期节目中，Anthony Ha、Sean O’Kane 和 Rebecca Bellan 深入探讨了放弃保密协议是否会改变数据中心交易的达成方式、为什么信任可能是个人 AI 初创公司的真正核心产品，并盘点了本周的几笔交易。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 2,
+        "keyTakeaways": [
+          "亚马逊表示在与地方政府谈判数据中心交易时将停止使用保密协议（NDAs）。",
+          "微软在今年早些时候采取了停止在数据中心交易中使用保密协议的类似举措。",
+          "来源叙事重点：探讨科技巨头（亚马逊、微软）放弃数据中心保密协议（NDA）背后的公众信任危机与监管阻力，并联动关注个人AI代理商业化中的信任与隐私挑战"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T16:56:42.000Z",
+            "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+          }
+        ]
+      },
+      {
+        "id": "story--not-even-close-58f31401-99a4fbafd18d9fae",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Elon Musk is now richer than any American ever — and it’s not even close",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T16:43:00.000Z",
+        "pubTime": "2026-10-10 00:43",
+        "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 00:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T16:43:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-unison-cloud-open-source-47db73e2c93c739f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unison Cloud is now open source",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T15:32:51.000Z",
+        "pubTime": "2026-10-09 23:32",
+        "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
+        "imageUrl": null,
+        "fullContent": "Get regular updates from the Unison team\n\nUnison Cloud is now open source, MIT licensed. There are four projects:\n\nUnison Cloud turns any pool of nodes into a distributed computer, programmable with the Unison language. See a series of demos. Some features:\n\nWe think this tech will be more useful to the world as an open source technology and hope that people build great things with it.\n\nIf you're interested in professional support for a Unison Cloud cluster, get in touch at hello@unison.cloud.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Unison Cloud 现已开源，并采用 MIT 许可证",
+          "该开源项目包含四个项目",
+          "来源叙事重点：宣布 Unison Cloud 依据 MIT 许可证全面开源，强调其将任意节点池转化为可用 Unison 语言编程的分布式计算机的能力，传达赋能开源社区的愿景并提供企业级商业支持渠道。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T15:32:51.000Z",
+            "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/"
+          }
+        ]
+      }
+    ]
+  }
+]
