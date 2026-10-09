@@ -1,5 +1,1566 @@
 [
   {
+    "timestamp": 1791512605752,
+    "timeDisplay": "2026-10-09 10:23 (UTC+8)",
+    "date": "2026-10-09",
+    "runId": "feed-20261009T021647921Z-bj6hlv",
+    "generatedAt": "2026-10-09T02:23:25.752Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 10:16",
+      "lead": "本轮抓取于 2026-10-09 10:16 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】特朗普政府暂停微软等企业外籍员工绿卡申请：中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。",
+        "【undefined】要闻：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 c：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 crates.io 上发布！",
+        "【undefined】联合国教科文组织新报告揭示女童教育面临的挑战：中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。",
+        "【undefined】特朗普总统向科技巨头捐助者颁发国家最高科学奖项：周四，在“美国创新黄金时代峰会”（Golden Age of American Innovation Summit）上，特朗普总统向埃隆·马斯克（Elon Musk）、黄仁勋（Jensen Huang）、谢尔盖·布林（Sergey Brin）以及 AMD 的苏姿丰（Lisa Su）颁发了美国最高科学荣誉——国家科学奖章（National Medal of Science）。戴尔科技的迈克尔·戴尔（Michael Dell）和微软的萨蒂亚",
+        "【undefined】绝非“雪花一代”：心理健康审查报告称当今年轻人处境更艰难，危害真实存在：彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病患病率上升的后果发出警告。",
+        "【undefined】美国计划对枪决行刑进行网络直播：该主题的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。 皮特·海格塞斯在受访时表示，对尼达尔·哈桑的处决计划将“公开”进行。 该作者的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。 查看杰·彼得斯的全部文章 国防部匿名官员向英国广播公司（BBC）和美联社透露，美国对胡德堡枪击案凶手的处决将进行网络直播。针对前美国陆军少校尼达尔·哈桑的处决计划于本周公布，他此前因在得克萨斯州该军事基地杀害13人而被定罪。他定于美国东部时间12",
+        "【undefined】全球最大原油交易商仍未排除油价升至200美元的可能性：据全球最大的独立石油交易商维多集团（Vitol Group）首席执行官拉塞尔·哈迪（Russell Hardy）表示，阿曼湾的船对船（STS）转运保障了中东石油的持续外运，为海湾产油国和石油市场提供了生命线。哈迪本周在伦敦举行的能源情报论坛（Energy Intelligence Forum）上说：“如果没有这种转运，油价确实可能达到每桶200美元，因此这种转运能够持续下去非常重要。西方已经没有更多库存可以消耗了。”",
+        "【undefined】英格兰国民保健署心理健康服务审查报告：有哪些发现与建议？：彼得·福纳吉教授（Prof Peter Fonagy）长达607页的报告明确指出，心理困扰已大幅增加，且“不能仅仅用公众意识提高来解释”。 完整报告 | 调查发现，随着对注意缺陷多动障碍（ADHD）和自闭症护理的需求激增，国民保健署（NHS）面临“系统性崩溃”风险 深度分析 | 绝非“玻璃心”：心理健康审查报告称当今年轻人处境更加艰难，危害是真实的 福纳吉对英格兰国民保健署心理健康、ADHD及自闭症服务的审查工作于2025年由时任卫生大"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-10-09",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】特朗普政府暂停微软等企业外籍员工绿卡申请：中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。；【undefined】联合国教科文组织新报告揭示女童教育面临的挑战：中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。；【undefined】2026年北极圈论坛大会在冰岛拉开帷幕：中新社雷克雅未克10月8日电 (记者 李洋)2026年北极圈论坛大会当地时间8日在冰岛首都雷克雅未克拉开帷幕。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】要闻：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 c：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 crates.io 上发布！；【undefined】64天证书有效期将于2027年2月上线：我们将在2026年10月14日于测试（staging）环境中切换为签发64天有效期的证书，以便进行测试。我们建议在该变更于生产环境生效前，先在测试环境中进行验证。；【undefined】DVD 菜单之美：在 NTSC 制式地区，DVD 上的视频分辨率几乎总是 720 × 480 像素，而在 PAL 制式地区则几乎总是 720 × 576 像素。这些特定的分辨率可以追溯到 D-1——一种存储未压缩分量视频的数字录像标准。当它于 1986 年推出时，是实时、高质量录制领域的一次重大飞跃，并迅速普及。它的分辨率源自 1982 年的 Rec. 601 / BT.601 / CCIR 601 标准。"
+        },
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】特朗普总统向科技巨头捐助者颁发国家最高科学奖项：周四，在“美国创新黄金时代峰会”（Golden Age of American Innovation Summit）上，特朗普总统向埃隆·马斯克（Elon Musk）、黄仁勋（Jensen Huang）、谢尔盖·布林（Sergey Brin）以及 AMD 的苏姿丰（Lisa Su）颁发了美国最高科学荣誉——国家科学奖章（National Medal of Science）。戴尔科技的迈克尔·戴尔（Michael Dell）和微软的萨蒂亚；【undefined】绝非“雪花一代”：心理健康审查报告称当今年轻人处境更艰难，危害真实存在：彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病患病率上升的后果发出警告。；【undefined】美国计划对枪决行刑进行网络直播：该主题的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。 皮特·海格塞斯在受访时表示，对尼达尔·哈桑的处决计划将“公开”进行。 该作者的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。 查看杰·彼得斯的全部文章 国防部匿名官员向英国广播公司（BBC）和美联社透露，美国对胡德堡枪击案凶手的处决将进行网络直播。针对前美国陆军少校尼达尔·哈桑的处决计划于本周公布，他此前因在得克萨斯州该军事基地杀害13人而被定罪。他定于美国东部时间12"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 86,
+      "completedTasks": 86,
+      "succeeded": 67,
+      "degraded": 19,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 86,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 397792,
+      "byRole": {
+        "translator": {
+          "attempts": 52,
+          "degraded": 13,
+          "succeeded": 39
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 6,
+          "degraded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 86,
+          "degraded": 19,
+          "succeeded": 67
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-29-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-1-fact-extractor",
+      "article-4-fact-extractor",
+      "article-6-fact-extractor",
+      "article-8-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:29.508Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.572Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:29.516Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.428Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.804Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.990Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.875Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.337Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:32.332Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.567Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:32.198Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.300Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:33.567Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.734Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.127Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.411Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.064Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.758Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.001Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.347Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.428Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.001Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.411Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.948Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.285Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.267Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.335Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.804Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:33.193Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.981Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:32.560Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.631Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:33.000Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.393Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.267Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.629Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.677Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.884Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.572Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.875Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.091Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.127Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:28.638Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.091Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.653Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.852Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.577Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.792Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-09T02:16:31.337Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.629Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.871Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.871Z",
+        "lastSuccessAt": "2026-10-09T02:16:32.342Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.251Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.484Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:33.300Z",
+        "lastSuccessAt": "2026-10-09T02:16:37.065Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.718Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.882Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.932Z",
+        "lastSuccessAt": "2026-10-09T02:16:32.332Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.882Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.989Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.990Z",
+        "lastSuccessAt": "2026-10-09T02:16:32.560Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:33.393Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.884Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.884Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.064Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.270Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.901Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.572Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.718Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.989Z",
+        "lastSuccessAt": "2026-10-09T02:16:32.501Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-09T02:16:31.852Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.792Z",
+        "lastSuccessAt": "2026-10-09T02:16:32.198Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:28.636Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.335Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.901Z",
+        "lastSuccessAt": "2026-10-09T02:16:32.360Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:28.637Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.677Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:32.342Z",
+        "lastSuccessAt": "2026-10-09T02:16:34.016Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.484Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.577Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.179Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.285Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.758Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.932Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:31.347Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.572Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:32.360Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.000Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:32.501Z",
+        "lastSuccessAt": "2026-10-09T02:16:33.193Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.990Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.251Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:30.948Z",
+        "lastSuccessAt": "2026-10-09T02:16:31.270Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:28.627Z",
+        "lastSuccessAt": "2026-10-09T02:16:29.516Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:28.635Z",
+        "lastSuccessAt": "2026-10-09T02:16:29.508Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T02:16:28.636Z",
+        "lastSuccessAt": "2026-10-09T02:16:30.179Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-026-10-09-10709473-shtml-0462a21f56d32b4c",
+        "title": "特朗普政府暂停微软等企业外籍员工绿卡申请",
+        "originalTitle": "特朗普政府暂停微软等企业外籍员工绿卡申请",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-10-09T02:07:16.000Z",
+        "pubTime": "2026-10-09 10:07",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml",
+        "imageUrl": null,
+        "fullContent": "中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。\n\n当天，白宫就“工作签证项目中的滥用与欺诈”问题举行记者会，美国副总统万斯、劳工部长桑德林等出席。\n\n万斯在记者会上说，“美国人没有能力为美国创造未来”正是签证欺诈行为所传递的谎言，“在微软证明会认真落实美国工人优先的原则之前，我们将拒绝其为外籍员工申请永久居留资格的权利”。\n\n被暂停外籍员工绿卡申请计划的公司还包括高知特、印孚瑟斯等大型科技公司。万斯说，这一措施将持续到“必要期限”为止。\n\n美国政府当天还宣布对9所美国大学“涉嫌J-1签证欺诈”发起调查，相关传票已送达校方。这9所高校分别是麻省理工学院、哈佛大学、耶鲁大学、斯坦福大学、布朗大学、匹兹堡大学、加州大学戴维斯分校、加州理工学院和亚利桑那州立大学。\n\n特朗普第二任期以来，美国政府继续收紧移民和签证政策。去年9月，特朗普曾签署公告，以企业“滥用”H-1B签证项目为由，宣布将该类签证申请费用提高至10万美元。同时，美国政府也多次向包括哈佛大学在内的美国高校施压，限制或禁止其招收国际学生。不过，上述措施均遭遇司法挑战。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。\n\n当天，白宫就“工作签证项目中的滥用与欺诈”问题举行记者会，美国副总统万斯、劳工部长桑德林等出席。\n\n万斯在记者会上说，“美国人没有能力为美国创造未来”正是签证欺诈行为所传递的谎言，“在微软证明会认真落实美国工人优先的原则之前，我们将拒绝其为外籍员工申请永久居留资格的权利”。\n\n被暂停外籍员工绿卡申请计划的公司还包括高知特、印孚瑟斯等大型科技公司。万斯说，这一措施将持续到“必要期限”为止。\n\n美国政府当天还宣布对9所美国大学“涉嫌J-1签证欺诈”发起调查，相关传票已送达校方。这9所高校分别是麻省理工学院、哈佛大学、耶鲁大学、斯坦福大学、布朗大学、匹兹堡大学、加州大学戴维斯分校、加州理工学院和亚利桑那州立大学。\n\n特朗普第二任期以来，美国政府继续收紧移民和签证政策。去年9月，特朗普曾签署公告，以企业“滥用”H-1B签证项目为由，宣布将该类签证申请费用提高至10万美元。同时，美国政府也多次向包括哈佛大学在内的美国高校施压，限制或禁止其招收国际学生。不过，上述措施均遭遇司法挑战。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国政府于10月8日宣布暂停微软、奥多比（Adobe）、高知特、印孚瑟斯等多家科技企业参与允许外籍员工申请美国绿卡的计划。",
+          "白宫就“工作签证项目中的滥用与欺诈”问题举行记者会，美国副总统万斯、劳工部长桑德林出席。",
+          "来源叙事重点：重点报道特朗普政府以打击“签证欺诈”和落实“美国工人优先”为由，同步整肃高科技企业绿卡申请与顶尖高校J-1签证，并指出该系列收紧政策正持续遭遇司法挑战的争议背景"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-10-09T02:07:16.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-r-of-ai-designed-viruses-feab0ad4868e3e2e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:08:24.000Z",
+        "pubTime": "2026-10-09 08:08",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "imageUrl": null,
+        "fullContent": "Friday, October 16, 2026\n\nCan AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter James O&#8217;Donnell as he interviews King about his work, being named one of MIT Technology Review&#8217;s Innovators Under 35 and new ways of seeing biology.\n\nGoing live on October 16th at 18:30 BST / 1:30pm EDT / 10:30am PDT\n\nSpeakers : James O&#8217;Donnell , AI Reporter, and Samuel King , Bioengineering PhD Candidate, Stanford University/Arc Institute\n\nHe asked an AI to design viruses … and it worked.\n\nAI-designed viruses are here and already killing bacteria",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦生成式人工智能在生物工程及病毒设计领域的突破性应用，推介斯坦福大学博士生 Samuel King 利用 AI 设计功能性噬菌体病毒的科研进展，并作为其“35岁以下科技创新35人（Innovators Under 35）”成果进行圆桌讨论推广。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T00:08:24.000Z",
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+          }
+        ]
+      },
+      {
+        "id": "story--verizon-shares-7cb56764-6704c99f1148ab98",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:52:00.000Z",
+        "pubTime": "2026-10-09 08:52",
+        "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 08:52 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T00:52:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-news-bevy-0-20-673790a84b457abb",
+        "title": "要闻：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 c",
+        "originalTitle": "Bevy 0.20",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T23:21:57.000Z",
+        "pubTime": "2026-10-09 07:21",
+        "url": "https://bevy.org/news/bevy-0-20/",
+        "imageUrl": null,
+        "fullContent": "Thanks to 227 contributors, 817 pull requests, community reviewers, and our generous donors, we're happy to announce the Bevy 0.20 release on crates.io!\n\nFor those who don't know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our Quick Start Guide to try it today. It's free and open source forever! You can grab the full source code on GitHub. Check out Bevy Assets for a collection of community-developed plugins, games, and learning resources.\n\nTo update an existing Bevy App or Plugin to Bevy 0.20, check out our 0.19 to 0.20 Migration Guide.\n\nSince our last release a few months ago we've added a ton of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:\n\nSolari, Bevy's realtime pathtraced renderer, has seen major improvements to pretty much every aspect of the plugin!\n\nRead JMS55's blog for the technical details, or continue reading below for the high level overview.\n\nThanks to improvements in our ReSTIR implementation, rendering is now mostly unbiased, leading to much more accurate lighting.\n\nAdditionally, thanks to some other changes, moving objects no longer have shadows that lag behind, and reflections now look significantly less shimmery in motion, especially for non-metallic materials.\n\nDLSS-RR has gotten very good in recent updates, and for many scenes, ReSTIR costs a decent chunk of performance, and does not significantly improve image quality.\n\nAs a result, we've decided to make ReSTIR optional, and turn it off by default.\n\nIf you were using Solari in Bevy 0.19, check if the loss of ReSTIR affects your scene, and if so re-enable SolariLighting::restir.\n\nWith ReSTIR off, expect reduced shadow quality and missing shadows in motion in scenes with many lights. We are exploring cheaper ways of improving light sampling, without ReSTIR, to improve this in the future.\n\nIn addition, Solari's scene management code is now retained (similar to retained render world optimizations in previous versions of Bevy), and overall much more optimized, leading to significantly reduced CPU costs.\n\nYou may also want to take a look at the new fields in SolariLighting. While we aim to set reasonable defaults that will work well across a wide variety of games, there are now many knobs (world cache size, per-pixel light sample count, temporal accumulation, and path tracing bounce count) that can be tweaked to improve performance or quality for your specific scene, project and hardware.\n\nSolari now supports lighting from Atmosphere and EnvironmentMapLights on cameras, in addition to the existing support for DirectionalLight and emissive meshes. We're hoping to add support for the remaining PointLight, SpotLight, and RectLight types in the near future.\n\nSolari now also runs on macOS, but note that there is currently no built-in denoiser included in bevy_solari for macOS. MetalFX Ray Reconstruction might be a possible solution in the future (contributions welcome!)\n\nFinally, our dlss_wgpu crate has been updated to support the latest version of DLSS, bringing support for DLSS-RR 4.5, which significantly improves denoising quality in Solari.\n\nIf you were using DLSS in Bevy 0.19, make sure to download and setup the newest version of the DLSS SDK, else you will run into compiler errors.\n\nBSN landed with a few idiosyncrasies that caused friction in practice. We made some changes to BSN's syntax this cycle in the interest of improving its ergonomics and clarity. After this, the syntax should largely be nailed down.\n\nAll scene references now require @ prefixes:\n\nIn addition to making it easier to spot scene inclusions (and unifying the syntax across cases), this freed us up to make component values much easier to work with!\n\nYou can now remove all of those pesky template_value wrappers from your component values:\n\nEnums no longer require VariantDefaults or FromTemplate, provided they implement Default and Clone:\n\nIf you were using an enum that didn't support VariantDefaults, you can now remove the template_value wrapper:\n\nThe removal of VariantDefaults does mean that enums must now have every field specified:\n\nWe believe this tradeoff is worth it, as it increases BSN's compatibility with arbitrary Rust enums. Rust doesn't support \"enum variant defaults\" anyway!\n\nThe \"builder pattern\" (and chained methods generally) previously required a template_value wrapper. This can now be removed:\n\nAdditionally, you can now remove the template_value wrapper in cases like this:\n\nIn general, you should now be able to remove all template_value instances from your BSN declarations!\n\nBSN previously used commas to separate entities, with optional () around entities to make the boundaries clearer. This resulted in a lot of syntax noise, line noise, and over-indentation:\n\nTo avoid this, many developers opted for this syntax instead, which made it very hard to visually distinguish entities:\n\nBSN now uses -- to separate entities in a list:\n\nThis gives us the best of all worlds: entities are visually distinct, and there is no over-indentation, line noise, or syntax noise (the stats when compared to other competitors in the \"markup format\" space are very competitive!). Both () and , have been deprecated in this context.\n\nUsing [] and () for bsn_list! (and bsn!) is now discouraged / warned against (ex: bsn_list! []), as it can result in poor rustfmt autoformatting. Instead, use bsn_list! {}, which is the only syntax that rustfmt won't touch. Don't worry, we plan to build a BSN auto-formatter!\n\nWe landed BSN, Bevy's next generation scene system, in our last release. It was missing a key piece though: the ability to easily run logic when a scene is fully \"ready\" and spawned (ex: all dependencies have loaded, the full hierarchy is present, and all of the initial components are inserted in the scene). This is a critical piece for building cohesive, standalone, composable scenes. It is also necessary to properly layer Bevy logic on top of other scene representations (like glTF).\n\nThe closest we had was the Add event for a given component, which runs \"top down\" (meaning children are not available). We needed a \"bottom up\" equivalent to enable building logic that relies on the complete loaded and spawned scene.\n\nThe solution is pretty straightforward: trigger a new Ready event for each entity in a spawned scene after the full spawn logic has run for that entity (including its descendants).\n\nThis enables the following:\n\nFeathers, Bevy's opinionated editor-centric UI toolkit, now has more widgets for you to play with:\n\nBevy now has a compact color input selector that displays a color picker widget popup when clicked. This includes a color wheel selector, RGB, and HSL selectors, and a recently used colors grid.\n\nA scrollable, selectable list view.\n\nA selection field that when clicked, displays a dropdown containing a list of options to select.\n\nThe FeathersNumberInput widget has been expanded to support both normal text input and scrubbing / dragging. There is a configurable \"hard limit\" (minimum and maximum value via any input method) and \"soft limit\" (minimum and maximum value via dragging), in addition to control over floating point precision and step sizes.\n\nbevy_ui_widgets now has headless (bring-your-own-visuals) tab behavior: a TabList container and Tab headers.\n\nSelection is managed \"externally\". SelectedTab on the list holds the selected tab; interaction emits ValueChange<Option<Entity>> as a request, applied by the app or by the optional tablist_self_update observer.\n\nTabs support keyboard shortcuts and integrate with Bevy's focus, interaction, and accessibility systems.\n\nSee the headless_tabs example for controlled and self-updating tab lists in both orientations.\n\nBevy's shaders are now written in WESL and the old \"Custom Bevy Extended WGSL\" language support has been removed.\n\nWESL is a language standard that extends WGSL to add important usability features like modules, imports, conditional compilation, and more. You can see what that looks like (and render pretty shader toys!) live in your browser in the WESL Playground.\n\nBevy has historically handled these things in our own custom WGSL dialect, but we believe it is better for the wider shader ecosystem (and for us) to adopt a common standard where we can pool resources on language improvements, module ecosystems, and IDE tooling. We've been working closely with the WESL team to evolve the standard in a way that fits well into the Bevy picture.\n\nA critical part of that tooling is language server protocol support, in the form of wgsl-analyzer. That means syntax highlighting, go-to-definition, inlay hints, code folding, formatting and more, once installed for your IDE of choice.\n\nCustom shaders in the old Bevy WGSL dialect need to be translated to WESL and renamed from .wgsl to .wesl. Plain WGSL files with no preprocessor directives will keep working.\n\nMesh shaders are now integrated with Bevy's pipeline cache and are available for advanced users to take advantage of. Mesh shaders can be used to render:\n\nMesh shaders, at a high level, replace the classic vertex shader with a compute shader. This allows generating geometry directly on the GPU and passing those generated primitives directly to the fragment shader without using multiple pipelines or intermediary buffers (to pass data from a compute shader to a render pipeline).\n\nA MeshPipeline contains:\n\nThe new MeshPipelineDescriptor can be used to define a MeshPipeline. That MeshPipeline is then used as a RenderPipeline, which allows the re-use of Bevy's lower level rendering APIs such as RenderContext::begin_tracked_render_pass to take advantage of the new draw_mesh_tasks APIs.\n\nIt is notable that mesh shaders are an advanced graphics approach with platform-specific performance considerations, and that this is the initial base support for the feature. Higher level user APIs, and easy integration with Bevy's StandardMaterial, are left to future work.\n\nMesh shaders are not supported on web platforms.\n\nCheck out the new mesh_shader_intro example for more usage examples.\n\nUntil now, Bevy's sprite renderer has been lacking a major feature: the ability to extend it with custom shaders! With this release, it's now possible to create custom materials for sprites by implementing the MaterialExtension2d trait, inserting the SpriteMaterial component and adding the SpriteMaterialPlugin to your app.\n\nThe shader can use functions exported from bevy_sprite_render::sprite_mesh::functions, including:\n\nCheck out the sprite_material example to see it in action!\n\nBevy now provides a 2D analog to 3D's ExtendedMaterial, which can be used to extend an existing material by implementing the MaterialExtension2d trait:\n\nThis material can now be used in an ExtendedMaterial2d struct:\n\nThe sprite render backend was replaced by a new backend that reuses a lot of the infrastructure made for 3D. This resulted in improved performance in many cases and also makes future maintenance and improvements easier.\n\nWe have upstreamed the awesome bevy_editor_cam made by @aevyrie as the new PanOrbitCamera in our bevy_camera_controller crate!\n\nAdd MeshPickingPlugin and DefaultPanOrbitCameraPlugins:\n\nThen add the PanOrbitCamera component on any 3D camera.\n\nFull functionality is shown in the camera/pan_orbit_camera_cad example.\n\nOrdering large groups of systems with .chain() is convenient, but it can be overly strict. If system set X is chained before system set Y, every system in X must finish before any system in Y can start, even when the systems involved never touch the same data. This often leaves worker threads idle while they wait for a handful of stragglers at the end of a system set, a pattern that shows up frequently in the render world.\n\nThe new chain_weak(), before_weak(), and after_weak() functions provide a looser alternative. Like their regular counterparts, they request an ordering between successive elements, however that ordering is only kept between systems whose data accesses actually conflict. Systems that don't conflict are left unordered and may run in any order, including in parallel.\n\nWhen two weakly-ordered systems actually conflict on their data access, a normal ordering is kept between them, so the earlier one still runs first. Two systems that conflict only through a non-conflicting system between them in the chain stay ordered as well. Non-conflicting systems, however, are left free to run in any order and overlap for increased parallelism!\n\nTwo kinds of system are treated as always conflicting, so their ordering is always kept: an earlier system that produces deferred effects such as Commands (so the later system observes them, with an ApplyDeferred sync point inserted as usual), and exclusive systems (which cannot overlap anything regardless).\n\nBecause the scheduler can only see accesses it tracks, dependencies expressed through interior mutability on read-only accesses, global state, or other untracked methods are not respected. Use chain_weak only when your systems don't rely on such hidden ordering, otherwise stick with chain.\n\nFeathers now supports \"contextual theming\", meaning that the theme variables can change depending on the parent entity. So widgets that are inside of a dialog box or subpanel can have different colors than widgets that are on a regular panel or window background.\n\nThe design follows that of popular web toolkits like MUI, Radix, or Chakra. There's a new component, ThemeContext, which lets you select which color scheme the widget's descendants should use; currently the available schemes are Base, Higher, Highest, and Floating, which correspond to the design plans for the Bevy scene editor.\n\nThe theme context is used in conjunction with a new kind of design token, named SemanticToken. The lookup process for a color now requires two stages: the ThemeToken is converted into a SemanticToken, and then the combination of SemanticToken and ThemeContext is used to look up a color.\n\nIn addition to allowing context-specific color choices, this also makes it easier to design new themes! Instead of having to tediously choose colors for a hundred different theme tokens, the set of semantic tokens is much smaller, and the relationship between token and color is much more intuitive.\n\nBevy UI now supports em and rem as sizing units. em is the current font size (represented by an EmSize component), rem is a global \"root\" font size (represented by the existing RemSize resource).\n\nEmSize is derived from TextFont when one is on the same entity; propagating it down the hierarchy is left to your app.\n\nThis is especially useful if you might want to vary your text size after authoring your UIs, for example as an accessibility feature or just to improve your UI on different devices.\n\nThe default font-size is now rem(1) rather than px(20). This is a no-op if you're not changing RemSize but it means your text will scale by default when you do.\n\nComponents can now opt-in to \"column summary change ticks\":\n\nWhen enabled, this will store a \"column change tick\" in addition to a \"per-entity change tick\", which allows cheaply skipping the whole column of entities when querying for changes, rather than needing to check every entity's component to see if it has changed.\n\nThis makes mutations more expensive, as they need to write both the column change tick and the entity change tick, but for entities whose changes are queried often, but change infrequently, this tradeoff can easily be worth it! We've seen change ticks result in a 132x speedup in our GPU mesh extraction code!\n\nFixedNode is a new marker component for Bevy UI.\n\nA UI node entity with the FixedNode component is positioned relative to the target camera's viewport rather than its parent element. FixedNodes don't inherit their parent's layout, clipping or transform context. They behave like a \"root node\".\n\nBevy UI can now draw nodes with elliptical border geometry.\n\nThe fields of BorderRadius are now CornerRadiuss to enable different radius to be set for each axis.\n\nBefore a schedule runs (and therefore, your systems), it first computes the system run order based on their ordering constraints (.before(), .after(), .chain()) and system sets. However, in addition to this, the schedule must also resolve conflicts - if system A and system B both mutate component C, and there's no ordering between A and B, the schedule needs to pick one to run first. So far, the rule has been that this is non-deterministic.\n\nIn practice though, schedules pick the order of these conflicting systems \"deterministically, but arbitrarily\". Put simply, your systems might accidentally be in the right order, but making an unrelated change to the graph might suddenly put it in the wrong order. This problem can be very difficult to detect.\n\nIntroducing schedule randomization! This will randomize the order of systems while maintaining any explicit system ordering constraints. Once the debug feature is enabled, ScheduleBuildSettings will include a shuffle_seed field, that users can set to randomize their schedules. For example:\n\nThis can be used for \"property testing\", to verify that your systems satisfy some property despite different orderings of systems.\n\nThere are some caveats however. Currently, when using auto_insert_apply_deferred, systems with commands are always placed before the earliest sync point they can. This means that although your systems may not have the correct ordering, they might \"accidentally\" have the correct ordering because of which sync point it uses. We hope to fix this in the future.\n\nIn addition, the multi-threaded executor executes systems greedily: it looks for the first unexecuted system whose dependencies are finished and that has no other conflicting systems running. The result is that even if the shuffle results in the order (A, B, C), C could run before B if A and B conflict. This can be desirable to test, but consider using the single-threaded executor to avoid this case.\n\nThis tool is complem",
+        "fullTranslation": "感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 crates.io 上发布！\n\n如果你还不了解，Bevy 是一款使用 Rust 构建、简洁易用且以数据驱动的游戏引擎。你可以查看我们的《快速入门指南》，立即尝试使用。它永久免费且开源！你可以在 GitHub 上获取完整源代码。还可以查看 Bevy Assets，那里汇集了社区开发的插件、游戏和学习资源。\n\n如果要将现有的 Bevy 应用或插件更新到 Bevy 0.20，请查看我们的《0.19 到 0.20 迁移指南》。\n\n自上次发布以来的几个月中，我们加入了大量新功能、错误修复和易用性改进，下面是其中一些亮点：\n\nSolari 是 Bevy 的实时路径追踪渲染器，此次几乎在插件的各个方面都获得了重大改进！\n\n你可以阅读 JMS55 的博客了解技术细节，也可以继续阅读下面的高层概览。\n\n得益于我们对 ReSTIR 实现的改进，如今的渲染基本实现了无偏，这带来了准确得多的光照效果。\n\n此外，得益于其他一些改动，移动物体的阴影不再出现延迟，反射在运动中看起来也明显不那么闪烁，尤其是在非金属材质上。\n\nDLSS-RR 在最近的更新中已经表现得非常出色；对于许多场景而言，ReSTIR 会消耗相当一部分性能，却不会显著改善画质。\n\n因此，我们决定将 ReSTIR 改为可选功能，并默认关闭。\n\n如果你在 Bevy 0.19 中使用了 Solari，请检查禁用 ReSTIR 是否会影响你的场景；如果会，请重新启用 SolariLighting::restir。\n\n关闭 ReSTIR 后，在光源较多的场景中，预计阴影质量会降低，并且运动时会出现阴影缺失。我们正在探索不依赖 ReSTIR、成本更低的光照采样改进方案，以便未来改善这一问题。\n\n此外，Solari 的场景管理代码现在采用了保留式管理方式（类似于 Bevy 之前版本中对保留式渲染世界所做的优化），整体也得到了大幅优化，从而显著降低了 CPU 开销。\n\n你可能还想看看 SolariLighting 中新增的字段。虽然我们的目标是提供合理的默认值，使其能够适用于各种各样的游戏，但现在已经有许多可调参数（世界缓存大小、每像素光照采样数量、时间累积以及路径追踪反弹次数），可以针对你的具体场景、项目和硬件调整，以改善性能或画质。\n\n除了现有对 DirectionalLight 和自发光网格的支持外，Solari 现在还支持来自摄像机上的 Atmosphere 和 EnvironmentMapLights 的光照。我们希望在不久的将来加入对剩余 PointLight、SpotLight 和 RectLight 类型的支持。\n\nSolari 现在也可以运行在 macOS 上，但请注意，bevy_solari 目前并未为 macOS 内置降噪器。未来 MetalFX Ray Reconstruction 可能会成为一种解决方案（欢迎贡献代码！）。\n\n最后，我们的 dlss_wgpu crate 已更新为支持最新版本的 DLSS，加入了对 DLSS-RR 4.5 的支持，这显著提升了 Solari 的降噪质量。\n\n如果你在 Bevy 0.19 中使用了 DLSS，请务必下载并设置最新版本的 DLSS SDK，否则会遇到编译器错误。\n\nBSN 在落地时带有一些在实际使用中造成摩擦的不一致之处。本轮我们对 BSN 的语法做了一些修改，旨在改善其易用性和清晰度。经过这些改动后，语法应该基本确定下来了。\n\n现在所有场景引用都必须使用 @ 前缀：\n\n除了更容易识别场景包含关系，并统一不同情况下的语法之外，这也让我们能够更轻松地处理组件值！\n\n现在，你可以从组件值中删除那些令人讨厌的 template_value 包装器：\n\n只要枚举实现了 Default 和 Clone，就不再需要 VariantDefaults 或 FromTemplate：\n\n如果你使用的枚举不支持 VariantDefaults，现在可以删除 template_value 包装器：\n\n移除 VariantDefaults 意味着枚举现在必须指定每一个字段：\n\n我们认为这一取舍是值得的，因为它提高了 BSN 对任意 Rust 枚举的兼容性。毕竟，Rust 本身也不支持“枚举变体默认值”！\n\n此前，“构建器模式”（以及一般的链式方法）需要使用 template_value 包装器。现在可以将其删除：\n\n此外，在如下情况中，你现在也可以删除 template_value 包装器：\n\n总的来说，现在应该可以从 BSN 声明中删除所有 template_value 实例！\n\nBSN 之前使用逗号分隔实体，并可选地在实体周围加上 ()，以便让边界更加清晰。这导致了大量语法噪声、行噪声和过度缩进：\n\n为了避免这些问题，许多开发者选择了下面这种语法，但这使实体在视觉上很难区分：\n\n现在，BSN 使用 -- 来分隔列表中的实体：\n\n这样我们就兼顾了各方面的优点：实体在视觉上彼此分明，同时也没有过度缩进、行噪声或语法噪声（与“标记格式”领域中的其他竞争方案相比，这些统计数据非常有竞争力！）。在这种上下文中，() 和 , 都已被弃用。\n\n现在不建议使用 [] 和 () 来调用 bsn_list!（以及 bsn!）（例如 bsn_list! []），并且会收到警告，因为这可能导致 rustfmt 自动格式化效果不佳。请改用 bsn_list! {}，这是 rustfmt 不会修改的唯一语法。不必担心，我们计划构建一个 BSN 自动格式化工具！\n\n我们在上一次发布中加入了 BSN，即 Bevy 的下一代场景系统。不过它当时还缺少一个关键部分：当场景完全“就绪”并生成后，能够轻松运行逻辑（例如，所有依赖项都已加载、完整层级结构已经存在、所有初始组件都已插入场景）。这是构建连贯、独立且可组合场景的关键部分，同时也是在其他场景表示形式（如 glTF）之上正确叠加 Bevy 逻辑所必需的能力。\n\n我们此前最接近这一需求的是针对特定组件的 Add 事件，但它以“自上而下”的方式运行（也就是说，子实体尚不可用）。我们需要一种“自下而上”的等价机制，以便构建依赖完整加载并生成的场景的逻辑。\n\n解决方案相当直接：在生成场景中每个实体的完整生成逻辑（包括其后代实体）运行完毕后，为该实体触发一个新的 Ready 事件。\n\n这使得以下功能成为可能：\n\nFeathers 是 Bevy 具有明确设计理念、以编辑器为中心的 UI 工具包，现在提供了更多控件供你使用：\n\nBevy 现在拥有一个紧凑的颜色输入选择器。点击后，它会弹出一个颜色选择器控件，其中包括色轮选择器、RGB 和 HSL 选择器，以及最近使用的颜色网格。\n\n一个可滚动、可选择的列表视图。\n\n一个选择字段，点击后会显示一个下拉菜单，其中包含可供选择的选项列表。\n\nFeathersNumberInput 部件已扩展，现已同时支持普通文本输入和滑动/拖拽调节。除浮点精度与步长控制外，还提供了可配置的“硬性限制”（通过任何输入方式允许的最小值和最大值）和“软性限制”（通过拖拽允许的最小值和最大值）。\n\nbevy_ui_widgets 现已提供无头（自带视觉样式/headless）标签页行为：包含 TabList 容器和 Tab 标头。\n\n选中状态通过“外部”管理。列表上的 SelectedTab 保存当前选中的标签页；交互时会发出 ValueChange 作为请求，可由应用程序处理，也可由可选的 tablist_self_update 观察者处理。\n\n标签页支持键盘快捷键，并与 Bevy 的焦点、交互及无障碍系统集成。\n\n请参阅 headless_tabs 示例，查看两种方向上的受控与自更新标签页列表实现。\n\nBevy 的着色器现在采用 WESL 编写，原有的“Custom Bevy Extended WGSL”语言支持已被移除。\n\nWESL 是一项扩展 WGSL 的语言标准，加入了模块、导入、条件编译等重要的易用性功能。你可以在 WESL Playground 中直接在浏览器里体验其实际效果（并渲染漂亮的着色器小玩具！）。\n\nBevy 在历史上一直通过自研的 WGSL 方言来处理这些需求，但我们认为，采用通用标准有利于更广泛的着色器生态系统（也对我们有利），这样我们可以汇聚各方资源来推进语言改进、模块生态和 IDE 工具链。我们一直在与 WESL 团队密切合作，以使其标准演进方向能够良好契合 Bevy 的规划。\n\n该工具链的一个关键部分是对语言服务器协议（LSP）的支持，具体形式为 wgsl-analyzer。这意味着为你所选的 IDE 安装后，即可获得语法高亮、跳转到定义、内联提示、代码折叠、格式化等功能。\n\n旧版 Bevy WGSL 方言的自定义着色器需要转换为 WESL，并将后缀由 .wgsl 重命名为 .wesl。不含预处理器指令的纯 WGSL 文件将继续正常工作。\n\n网格着色器（Mesh shaders）现已与 Bevy 的管线缓存集成，高级用户已可利用该特性。网格着色器可用于渲染：\n\n从宏观上看，网格着色器用计算着色器取代了经典的顶点着色器。这允许直接在 GPU 上生成几何图元，并将生成的图元直接传递给片元着色器，无需使用多条管线或中间缓冲区（用于将数据从计算着色器传递至渲染管线）。\n\nMeshPipeline 包含：\n\n新增的 MeshPipelineDescriptor 可用于定义 MeshPipeline。该 MeshPipeline 随后被用作 RenderPipeline，允许复用 Bevy 的底层渲染 API（例如 RenderContext::begin_tracked_render_pass）来充分利用新的 draw_mesh_tasks API。\n\n需要指出的是，网格着色器是一种高级图形学方案，伴随着特定平台的性能考量，目前提供的是该功能的基础底层支持。更高级的用户 API 以及与 Bevy StandardMaterial 的简易集成留待后续开发。\n\nWeb 平台不支持网格着色器。\n\n请查阅新的 mesh_shader_intro 示例以了解更多用法。\n\n截至目前，Bevy 的精灵（sprite）渲染器一直缺少一项重大功能：通过自定义着色器进行扩展的能力！在此版本中，现在可以通过实现 MaterialExtension2d trait、插入 SpriteMaterial 组件并向应用中添加 SpriteMaterialPlugin，从而为精灵创建自定义材质。\n\n着色器可以使用 bevy_sprite_render::sprite_mesh::functions 导出的函数，包括：\n\n请查阅 sprite_material 示例查看其实际效果！\n\nBevy 现在为 3D 的 ExtendedMaterial 提供了对应的 2D 版本，可以通过实现 MaterialExtension2d trait 来扩展现有材质：\n\n该材质现在可用于 ExtendedMaterial2d 结构体中：\n\n精灵渲染后端已被替换为复用大量 3D 基础架构的新后端。这在许多情况下带来了性能提升，同时也让未来的维护和改进变得更加轻松。\n\n我们已将 @aevyrie 制作的出色库 bevy_editor_cam 合入上游，作为 bevy_camera_controller crate 中的全新 PanOrbitCamera！\n\n添加 MeshPickingPlugin 与 DefaultPanOrbitCameraPlugins：\n\n然后将 PanOrbitCamera 组件添加到任意 3D 相机上。\n\n完整功能展示于 camera/pan_orbit_camera_cad 示例中。\n\n使用 .chain() 对大量系统进行排序固然方便，但可能会显得过于严格。如果系统集 X 链式排在系统集 Y 之前，那么 X 中的每个系统都必须执行完毕，Y 中的任何系统才能开始运行，哪怕涉及的系统根本没有触及相同的数据。这经常导致工作线程在等待系统集末尾的少数落后系统时处于闲置状态，这种模式在渲染领域尤为常见。\n\n新增的 chain_weak()、before_weak() 和 after_weak() 函数提供了一种更宽松的替代方案。与常规对应函数一样，它们请求相连元素之间的执行顺序，但该顺序仅在数据访问确实存在冲突的系统之间维持。没有冲突的系统保持无序状态，可以以任何顺序运行，包括并行运行。\n\n当两个弱排序的系统在数据访问上确实存在冲突时，它们之间将保持正常的先后顺序，因此排在前面的系统仍会先运行。两个仅通过链路中处于它们之间的非冲突系统而间接冲突的系统，也会保持原有顺序。然而，非冲突系统则可以自由地以任何顺序运行并相互重叠执行，从而提高并行度！\n\n有两类系统被视为始终冲突，因此它们的执行顺序始终得到保持：产生诸如 Commands 等延迟效果的先执行系统（以便后执行的系统能观察到这些效果，同时照常插入 ApplyDeferred 同步点），以及排他性系统（exclusive systems，无论如何都无法与任何其他系统重叠执行）。\n\n由于调度器只能看到它所跟踪的访问，通过只读访问上的内部可变性、全局状态或其他未跟踪手段表达的依赖关系将不受支持。仅当你的系统不依赖于此类隐式顺序时才使用 chain_weak，否则请继续使用 chain。\n\nFeathers 现在支持“上下文主题化”（contextual theming），这意味着主题变量可以根据父实体发生变化。因此，位于对话框或子面板内的部件可以拥有与常规面板或窗口背景上的部件不同的颜色。\n\n该设计遵循了 MUI、Radix 或 Chakra 等主流 Web 工具包的设计思路。新增了 ThemeContext 组件，允许你选择部件的子孙节点应使用哪种配色方案；目前可用的方案有 Base、Higher、Highest 和 Floating，对应了 Bevy 场景编辑器的设计规划。\n\n主题上下文与一种名为 SemanticToken 的新型设计令牌结合使用。现在，颜色的查找过程需要两个阶段：先将 ThemeToken 转换为 SemanticToken，然后使用 SemanticToken 与 ThemeContext 的组合来查找颜色。\n\n除了支持根据上下文选择颜色外，这也让设计新主题变得更加容易！不必再费力地为上百种不同的主题令牌选择颜色，语义令牌的集合要小得多，而且令牌与颜色之间的关系也直观得多。\n\nBevy UI 现在支持将 em 和 rem 作为尺寸单位。em 表示当前字体大小（由 EmSize 组件表示），rem 表示全局的“根”字体大小（由现有的 RemSize 资源表示）。\n\n当同一实体上存在 TextFont 时，EmSize 会从 TextFont 派生；至于如何将其沿层级向下传播，则交由你的应用处理。\n\n如果你希望在 UI 创建完成后调整文本大小，这一功能尤其有用，例如将其作为无障碍功能，或只是为了改善 UI 在不同设备上的显示效果。\n\n默认字体大小现在是 rem(1)，而不是 px(20)。如果你不修改 RemSize，这不会产生实际变化；但这意味着当你修改 RemSize 时，文本默认会随之缩放。\n\n组件现在可以选择启用“列摘要变更刻度”（column summary change ticks）：\n\n启用后，系统除了存储“每实体变更刻度”外，还会存储“列变更刻度”。这样，在查询变更时，就可以低成本地跳过整列实体，而不必检查每个实体的组件是否发生变化。\n\n这会增加变更操作的开销，因为变更操作需要同时写入列变更刻度和实体变更刻度；但对于那些经常查询变更、却很少发生变化的实体而言，这种权衡完全可能是值得的！我们发现，在 GPU 网格提取代码中，变更刻度带来了 132 倍的加速！\n\nFixedNode 是 Bevy UI 新增的标记组件。\n\n带有 FixedNode 组件的 UI 节点实体，会相对于目标摄像机的视口定位，而不是相对于其父元素定位。FixedNode 不会继承父元素的布局、裁剪或变换上下文，其行为类似于“根节点”。\n\nBevy UI 现在可以绘制具有椭圆形边框几何形状的节点。\n\nBorderRadius 的字段现在改为 CornerRadiuss，以便为每个轴设置不同的半径。\n\n在调度运行之前（因而也就是在你的系统运行之前），它会首先根据系统的排序约束（.before()、.after()、.chain()）和系统集合计算系统的运行顺序。不过除此之外，调度还必须解决冲突——如果系统 A 和系统 B 都会修改组件 C，且 A 与 B 之间没有排序关系，调度就需要决定先运行哪一个。到目前为止，相关规则一直是非确定性的。\n\n但实际上，调度会以“确定但任意”的方式选择这些相互冲突的系统的顺序。简单来说，你的系统可能会碰巧处于正确顺序，但对图进行无关修改后，顺序可能突然变错。这个问题可能非常难以发现。\n\n现在引入调度随机化功能！该功能会在保留所有显式系统排序约束的同时，随机打乱系统的顺序。启用调试功能后，ScheduleBuildSettings 将包含一个 shuffle_seed 字段，用户可以设置该字段来随机化调度。例如：\n\n这可以用于“属性测试”（property testing），以验证无论系统采用何种不同顺序，你的系统都满足某项性质。\n\n不过，这里存在一些注意事项。目前，在使用 auto_insert_apply_deferred 时，带有命令的系统总是会被放置在它们能够使用的最早同步点之前。这意味着，尽管你的系统可能没有正确的排序关系，但由于它所使用的同步点，它们可能会“碰巧”处于正确顺序。我们希望在未来修复这一问题。\n\n此外，多线程执行器会贪心地执行系统：它会寻找第一个尚未执行、依赖项已经完成且当前没有其他冲突系统正在运行的系统。结果是，即使随机打乱后的顺序为（A、B、C），如果 A 与 B 冲突，C 也可能在 B 之前运行。这对于测试而言可能是有益的，但如果要避免这种情况，可以考虑使用单线程执行器。\n\n该工具是对……的补充",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 96,
+        "translationParagraphs": 96,
+        "keyTakeaways": [
+          "Bevy 0.20 已在 crates.io 发布，包含 227 名贡献者提交的 817 个拉取请求（PR）。",
+          "在 Bevy 0.20 中，实时路径追踪渲染器 Solari 将 ReSTIR 设为可选并默认关闭。",
+          "来源叙事重点：以 Bevy 0.20 的功能发布和技术演进为核心，突出 Solari 实时路径追踪、DLSS-RR 4.5、BSN 场景系统、WESL 着色器、网格着色器、UI 组件及 2D 精灵材质扩展等新增能力，同时说明部分默认设置、语法和兼容性变化。整体叙事强调社区协作、性能优化、开发体验改善及生态标准化；其中“显著改善”“竞争力强”等表述属于项目方评价，不应视为独立验证结论。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T23:21:57.000Z",
+            "url": "https://bevy.org/news/bevy-0-20/"
+          }
+        ]
+      },
+      {
+        "id": "story-0-ai-reality-police-html-be6ec5d6ac646faa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Research shows how AI and mixed reality can enhance police work",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T02:00:01.000Z",
+        "pubTime": "2026-10-09 10:00",
+        "url": "https://phys.org/news/2026-10-ai-reality-police.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-shows-how-ai.jpg",
+        "fullContent": "How can AI provide police officers with better support in complex situations? In an interdisciplinary collaboration, researchers in police research and computing science at Umeå University have explored the opportunities and risks associated with using AI-based interactive systems in police work.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 10:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-ai-reality-police.html",
+            "publishedAt": "2026-10-09T02:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-10-09-10709465-shtml-6c9fb22a669afdf5",
+        "title": "联合国教科文组织新报告揭示女童教育面临的挑战",
+        "originalTitle": "联合国教科文组织新报告揭示女童教育面临的挑战",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-10-09T02:06:44.000Z",
+        "pubTime": "2026-10-09 10:06",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml",
+        "imageUrl": null,
+        "fullContent": "中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。\n\n教科文组织发布的《2026年全球教育监测报告》性别专题报告称，尽管全球教育领域的性别差距有所缩小，18岁前结婚的女童比例也有所下降，但在一些地区，生育后重返校园的女童寥寥无几。这凸显终结童婚、预防早孕及保障年轻母亲继续受教育权的重要性。\n\n联合国教科文组织总干事阿纳尼表示，过去几十年来，全球教育性别平等取得了重大进展。如今，从学前教育到中等教育各阶段，男女童入学人数持平。然而，仍有大量女童在入学、完成学业及在校充分发展过程中面临障碍。性别平等是教科文组织的全球优先事项之一。我们正与世界各国政府及合作伙伴携手行动，保护女童受教育权，为所有人创造更多机会。\n\n报告指出，世界各国在教育领域性别平等方面取得显著进展。1990-2024年，尼泊尔初中教育完成率男女差距缩小了33个百分点；2006-2022年，沙特高等教育入学率的性别差距缩小四分之三；柬埔寨女童小学教育完成率在1981年低于男童22个百分点，到2024年则反超11个百分点；哥斯达黎加高中教育完成率女童高于男童，这一性别差距从2011—2017年的12个百分点缩小至2018—2024年的7个百分点。\n\n然而，平均数据掩盖了农村地区和贫困家庭中存在的性别差距。在安哥拉，最富裕家庭的子女已实现教育性别平等，但在最贫困家庭中，完成高中教育的女童人数仅为男童的30%。在印度，城市地区已实现性别平等，但农村地区完成高中教育的女童人数仅为男童的59%。\n\n报告显示，尽管全球从学前教育到高中教育各阶段的入学人数均已实现性别均等，但早婚早育仍是女童完成学业的主要障碍。全球18岁前结婚的女童比例从2000年的25%降至2025年的18%，但这一比例在中亚和南亚仍达25%，撒哈拉以南非洲则高达31%。据估计，2024年，撒哈拉以南非洲有600万名10-19岁的早孕少女和年轻母亲失学，而该地区怀孕或在育儿的女童中，重返校园的比例不足5%。\n\n一些国家已携手教科文组织采取措施，推动充分实现怀孕和育儿女童的受教育权。例如非洲多国已取消禁止已婚、怀孕或育儿女童和妇女接受教育的规定。最新数据显示，90%接受调查的东部和南部非洲国家已实施相关政策，支持怀孕和育儿青少年继续学业或重返校园。\n\n教科文组织数据显示，截至2026年，在各国法律框架对受教育权的保护方面，58%的国家禁止基于生理性别或社会性别的歧视，但只有35%的国家明确规定保护怀孕和育儿女童。\n\n教科文组织积极支持各国促进教育领域的性别平等。通过“我们的权利，我们的生活，我们的未来”项目，教科文组织与35国教育部合作，帮助数百万年轻人为自己的人生和未来作出决定。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。\n\n教科文组织发布的《2026年全球教育监测报告》性别专题报告称，尽管全球教育领域的性别差距有所缩小，18岁前结婚的女童比例也有所下降，但在一些地区，生育后重返校园的女童寥寥无几。这凸显终结童婚、预防早孕及保障年轻母亲继续受教育权的重要性。\n\n联合国教科文组织总干事阿纳尼表示，过去几十年来，全球教育性别平等取得了重大进展。如今，从学前教育到中等教育各阶段，男女童入学人数持平。然而，仍有大量女童在入学、完成学业及在校充分发展过程中面临障碍。性别平等是教科文组织的全球优先事项之一。我们正与世界各国政府及合作伙伴携手行动，保护女童受教育权，为所有人创造更多机会。\n\n报告指出，世界各国在教育领域性别平等方面取得显著进展。1990-2024年，尼泊尔初中教育完成率男女差距缩小了33个百分点；2006-2022年，沙特高等教育入学率的性别差距缩小四分之三；柬埔寨女童小学教育完成率在1981年低于男童22个百分点，到2024年则反超11个百分点；哥斯达黎加高中教育完成率女童高于男童，这一性别差距从2011—2017年的12个百分点缩小至2018—2024年的7个百分点。\n\n然而，平均数据掩盖了农村地区和贫困家庭中存在的性别差距。在安哥拉，最富裕家庭的子女已实现教育性别平等，但在最贫困家庭中，完成高中教育的女童人数仅为男童的30%。在印度，城市地区已实现性别平等，但农村地区完成高中教育的女童人数仅为男童的59%。\n\n报告显示，尽管全球从学前教育到高中教育各阶段的入学人数均已实现性别均等，但早婚早育仍是女童完成学业的主要障碍。全球18岁前结婚的女童比例从2000年的25%降至2025年的18%，但这一比例在中亚和南亚仍达25%，撒哈拉以南非洲则高达31%。据估计，2024年，撒哈拉以南非洲有600万名10-19岁的早孕少女和年轻母亲失学，而该地区怀孕或在育儿的女童中，重返校园的比例不足5%。\n\n一些国家已携手教科文组织采取措施，推动充分实现怀孕和育儿女童的受教育权。例如非洲多国已取消禁止已婚、怀孕或育儿女童和妇女接受教育的规定。最新数据显示，90%接受调查的东部和南部非洲国家已实施相关政策，支持怀孕和育儿青少年继续学业或重返校园。\n\n教科文组织数据显示，截至2026年，在各国法律框架对受教育权的保护方面，58%的国家禁止基于生理性别或社会性别的歧视，但只有35%的国家明确规定保护怀孕和育儿女童。\n\n教科文组织积极支持各国促进教育领域的性别平等。通过“我们的权利，我们的生活，我们的未来”项目，教科文组织与35国教育部合作，帮助数百万年轻人为自己的人生和未来作出决定。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "联合国教科文组织于10月8日发布《2026年全球教育监测报告》性别专题报告。",
+          "报告指出，童婚和早孕仍威胁女童教育取得的进展。",
+          "来源叙事重点：报道聚焦联合国教科文组织发布的《2026年全球教育监测报告》性别专题报告，重点展现全球女童教育虽取得宏观进展（男女入学率基本持平），但在贫困偏远地区仍受童婚、早孕及育后返校受阻等结构性挑战威胁，呼吁健全法律政策保障女童受教育权。"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-10-09T02:06:44.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-s-highest-science-prizes-7b12f50fabe24a85",
+        "title": "特朗普总统向科技巨头捐助者颁发国家最高科学奖项",
+        "originalTitle": "President Trump awards Big Tech donors with nation’s highest science prizes",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T22:33:59.000Z",
+        "pubTime": "2026-10-09 06:33",
+        "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+        "imageUrl": null,
+        "fullContent": "On Thursday, at the Golden Age of American Innovation Summit, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize. Dell Technologies’ Michael Dell and Microsoft’s Satya Nadella also received the National Medal of Technology and Innovation.\n\nTogether, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration, according to The New Republic. Alphabet and Microsoft, for example, donated to the president’s inauguration fund and White House ballroom. AMD gave to a pro-Trump Super PAC, and Michael and Susan Dell pledged $6.25 billion to help fund the Trump Accounts, the administration’s savings program for children.\n\nTrump said the honorees had helped “pioneer an incredible future for America,” and that because of them, “we will always be on top. No one else can compete with us.”\n\nNadella received his medal right after the administration indefinitely suspended Microsoft from the H-1B program, which lets U.S. companies hire skilled foreign workers.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "周四，在“美国创新黄金时代峰会”（Golden Age of American Innovation Summit）上，特朗普总统向埃隆·马斯克（Elon Musk）、黄仁勋（Jensen Huang）、谢尔盖·布林（Sergey Brin）以及 AMD 的苏姿丰（Lisa Su）颁发了美国最高科学荣誉——国家科学奖章（National Medal of Science）。戴尔科技的迈克尔·戴尔（Michael Dell）和微软的萨蒂亚·纳德拉（Satya Nadella）也荣获了国家技术与创新奖章（National Medal of Technology and Innovation）。\n\n据《新共和》（The New Republic）报道，这些获奖者总共向与特朗普及其政府相关的各项事务捐赠了近 60 亿美元。例如，Alphabet 和微软曾向总统就职基金和白宫宴会厅项目捐款。AMD 向一个支持特朗普的超级政治行动委员会（Super PAC）提供了资金，而迈克尔·戴尔与苏珊·戴尔夫妇则承诺捐资 62.5 亿美元，以协助资助本届政府针对儿童设立的储蓄计划“特朗普账户”（Trump Accounts）。\n\n特朗普表示，获奖者们协助“为美国开创了令人难以置信的未来”，并且正因为他们，“我们将永远名列前茅。没有人能与我们竞争。”\n\n就在纳德拉领奖前不久，该届政府刚刚无限期暂停了微软参与允许美国公司雇佣外国技术工人的 H-1B 签证项目。\n\n第二张入场通票享 5 折优惠：Disrupt 活动体验本就旨在与人共享。购买通票并携带同事、合伙人或同行参会，即可享受半价优惠。通过建立人脉、蓄积动力并探索初创生态系统的新趋势，覆盖更多领域。\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您了解交通领域新闻与深刻见解的目的地。\n\n初创企业是 TechCrunch 的核心，欢迎每周查收我们的深度报道推送。\n\n为行业领军者提供开启新一天所需的情报。\n\n提交您的电子邮箱即表示您同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦获奖者与特朗普政府之间的巨额资金/政治献金关联，将国家级科技荣誉的颁发置于政商回报框架中，并指出授奖与打压（如针对微软暂停H-1B资格）并存的政策矛盾。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T22:33:59.000Z",
+            "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/"
+          }
+        ]
+      },
+      {
+        "id": "story-our-possessions-c4b5533e-a4b9a48be5d7cc29",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:03:00.000Z",
+        "pubTime": "2026-10-09 08:03",
+        "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Seven tips for painlessly moving in retirement.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 08:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T00:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ung-people-mental-health-b5d979d7ad3a5eac",
+        "title": "绝非“雪花一代”：心理健康审查报告称当今年轻人处境更艰难，危害真实存在",
+        "originalTitle": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T23:01:32.000Z",
+        "pubTime": "2026-10-09 07:01",
+        "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+        "imageUrl": "https://i.guim.co.uk/img/media/44233b178f7b067fb390c95bb5f5f2293dec3028/169_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=9911e12c5096b870c4bf3db0df3c0a4f",
+        "fullContent": "Peter Fonagy lauds courage of young people and warns of consequences of rising prevalence of mental illness\n\nFull report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds\n\nExplainer | What has the Fonagy review found and what does it recommend?\n\nEighteen months ago, in an off-the-cuff remark during a discussion on disability benefit cuts, Wes Streeting said mental health conditions were being “overdiagnosed”, riding headlong into another culture war.\n\nHe later apologised for the comment, but at the time it seemed the then health secretary had endorsed a populist view that ordinary stresses and disappointments had become too often medicalised, resulting in a surge of bogus clinical diagnoses and creating a “snowflake generation” of fragile, avoidant and workshy young people.\n\nI am in awe of their courage. Young people are contending with more powerful forces than I ever faced",
+        "fullTranslation": "彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病患病率上升的后果发出警告。\n\n完整报告 | 调查发现，随着对多动症（ADHD）和自闭症照护的需求激增，英国国家医疗服务体系（NHS）面临“系统性失效”风险\n\n解读 | 福纳吉审查报告有何发现，又提出了哪些建议？\n\n18个月前，在一次关于削减残障福利的讨论中，韦斯·斯特里廷（Wes Streeting）随口表示心理健康问题正被“过度诊断”，一头扎进了另一场文化战争之中。\n\n他后来为此言论道歉，但在当时，这位时任卫生大臣似乎认同了一种民粹主义观点，即普通的压力和失望被过于频繁地医学化，导致虚假的临床诊断激增，并造就了脆弱、逃避且不愿工作的“雪花一代”年轻人。\n\n“我对他们的勇气深感敬佩。年轻人正在抗衡比我以往所面对的更为强大的力量。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病发病率上升的后果发出警告。",
+          "一项调查发现，随着对注意缺陷多动障碍（ADHD）和自闭症照护需求的激增，英国国家医疗服务体系（NHS）面临“系统性衰竭”的风险。",
+          "来源叙事重点：重点报道彼得·福纳吉审查（Fonagy review）的研究结论，反驳将年轻人贬低为“雪花代”的文化战争叙事，强调年轻人面临的心理健康创伤与外部现实压力是真实的，并警示NHS正面临系统性负担危机"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T23:01:32.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health"
+          }
+        ]
+      },
+      {
+        "id": "story-ard-odds-rare-cards-html-720b15f5f41eaa2a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Most trading card packs hide the odds of winning rare cards, study finds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T01:40:01.000Z",
+        "pubTime": "2026-10-09 09:40",
+        "url": "https://phys.org/news/2026-10-card-odds-rare-cards.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/collectible-cards.jpg",
+        "fullContent": "Pokémon, sports and other physical trading and collectible cards have been around for decades but have surged in popularity since COVID. These cards are usually obtained through gambling-like packs containing random cards. Most packs do not offer any highly desirable cards, but a few packs will. Consumers, often including children, therefore buy many packs in the hope of obtaining rare chase cards.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 09:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-card-odds-rare-cards.html",
+            "publishedAt": "2026-10-09T01:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--military-base-laos-html-066aed1c30b90627",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China Expands Its Military Reach by Building a Base in Laos",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T02:06:06.000Z",
+        "pubTime": "2026-10-09 10:06",
+        "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/10/08/multimedia/2026-10-08-china-laos-runway-index/2026-10-08-china-laos-runway-index-mediumSquareAt3X-v4.jpg",
+        "fullContent": "The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-10-09 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+            "publishedAt": "2026-10-09T02:06:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-n-firing-squad-fort-hood-4268295049087d74",
+        "title": "美国计划对枪决行刑进行网络直播",
+        "originalTitle": "US plans livestream of execution by firing squad",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T22:32:04.000Z",
+        "pubTime": "2026-10-09 06:32",
+        "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298331635.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe planned execution of Nidal Hasan will be ‘public,’ Pete Hegseth said in an interview.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Jay Peters\n\nThe United States’ execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed by firing squad on December 3rd at 2PM ET.\n\nThe Verge contacted YouTube, Twitch, TikTok, Meta, Rumble, and Kick to ask if they plan to allow the livestream to be aired on their platforms. None responded before publication.\n\n“We’ll make sure that people are able to watch it, that it’s public, because people need to understand that there’s serious consequences for these types of things,” US Defense Secretary Pete Hegseth said in an interview with Real America’s Voice.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。\n皮特·海格塞斯在受访时表示，对尼达尔·哈桑的处决计划将“公开”进行。\n该作者的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。\n查看杰·彼得斯的全部文章\n国防部匿名官员向英国广播公司（BBC）和美联社透露，美国对胡德堡枪击案凶手的处决将进行网络直播。针对前美国陆军少校尼达尔·哈桑的处决计划于本周公布，他此前因在得克萨斯州该军事基地杀害13人而被定罪。他定于美国东部时间12月3日下午2点被执行枪决。\nThe Verge已联系YouTube、Twitch、TikTok、Meta、Rumble和Kick，询问它们是否计划允许在其平台上播出该直播。在本文发布前，没有任何平台作出回应。\n“我们将确保民众能够观看，确保它是公开的，因为人们需要明白，做出这类事情将承担严重后果，”美国国防部长皮特·海格塞斯在接受“真美国之声”（Real America’s Voice）采访时表示。\n重要核心新闻的每日免费摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美国政府计划公开网络直播胡德堡枪击案凶手枪决过程，重点探讨主流流媒体与社交平台对此类暴力内容直播的审查政策与应对立场"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T22:32:04.000Z",
+            "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood"
+          }
+        ]
+      },
+      {
+        "id": "story-ut-200-oil-just-yet-html-3c857743072a667e",
+        "title": "全球最大原油交易商仍未排除油价升至200美元的可能性",
+        "originalTitle": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:00:00.000Z",
+        "pubTime": "2026-10-09 08:00",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
+        "imageUrl": null,
+        "fullContent": "Ship-to-ship transfers in the Gulf of Oman that keep oil flowing from the Middle East provide a lifeline to Gulf producers and to the oil market, according to Russell Hardy, chief executive officer at the world's biggest independent oil trader, Vitol Group. \"Without it, you do have that $200-a-barrel scenario, so it is pretty important it continues,\" Hardy said at the Energy Intelligence Forum in London this week. \"There aren't any more inventories to drain in the West.\" The ship-to-ship STS transfers, in which smaller vessels pick up oil to transit the Strait of Hormuz and then reload the cargo onto larger tankers in the Gulf of Oman, have soared in recent weeks. Some estimates put oil flows out of the Strait of Hormuz at or above the pre-war levels of around 20 million barrels per day bpd of oil and products leaving the Persian Gulf. Gulf Producers' Lifeline Over the past 7-10 days, a total of 14 million bpd of oil left the Middle East, including 2 million bpd of products and 12 million bpd of crude oil, Vitol's Hardy told the London forum. These numbers are still significantly below pre-war levels. But it is critical they are kept up to prevent another major spike in oil prices, according to the top executive of the trading giant. Any deterioration of shipping conditions in and around the Strait of Hormuz risks trapping higher volumes and leaving fewer barrels that move through the chokepoint. The number of attacks on tankers in the area has jumped in recent days, threatening the lifeline of the Gulf oil exporters and risking another leg higher in oil prices. In the week to October 5, at least 12 attacks on oil, LNG, and liquefied petroleum gas LPG tankers took place around the Strait of Hormuz, Reuters reports, citing data from maritime security sources who analyzed incidents based on information received from the area. \"IRGC attacks, attempted attacks, and/or harassment activity persisted including UAV overflight, targeted surveillance of merchant shipping, and occasional VHF hailing,\" the US Navy-led Joint Maritime Information Center JMIC said in a note this weekend. \"These actions continue to demonstrate Iran's intent to assert presence along key transit lanes and maintain pressure on transiting vessels.\" Related U.S. and Russia Discuss Reviving Russian Gas Sales to Europe STS transfers are helping keep crude oil flows from the Middle East at some adequately high levels, but fuel shipments have collapsed since March and haven't recovered in any meaningful way, keeping upward pressure on the global fuel market and crude oil prices. From Oil Crisis to Shipping Crisis While somewhat efficient in preventing oil price spikes to $200 a barrel, these transfers are highly inefficient for the global tanker fleet, Vitol's Hardy noted. The shuttle-shipping through the Strait of Hormuz is \"very inefficient,\" the executive said, noting that many tankers remain tied up in the area waiting for cargoes for days or weeks. This effectively takes them out of the shipping fleet and slashes tanker availability on other routes, resulting in record-high freight rates on key maritime corridors. \"We started this conflict with a crude crisis. Then it turned into a product crisis. Now we have more crude oil coming out of the Middle East, but it is turning into a shipping crisis,\" Hardy told the Energy Intelligence Forum. \"There is really not quite enough shipping to go around,\" he added. As a result, shipping costs for buyers and refiners are soaring and, most of all, they make calculating the costs nearly impossible. \"It is creating a lot of stress for everybody because nobody really knows, to the nearest $2, $3, $4 [a barrel], how much their shipping costs are going to be,\" Hardy said. \"That creates a difficult set of decisions for people to make day to day.\" Average global crude vessel earnings exceeded an unprecedented level of $500,000 per day in early October, which is 10 times the 2025 average, Rico Luman, senior sector economist, Transport and Logistics, at ING, wrote in a note this week. Suezmaxes and very large crude carriers VLCC have seen even higher daily rates. For example, crude shipments from Saudi Arabia's Ras Tanura within the Persian Gulf to Rotterdam were about $2 per barrel last year, while the costs surged beyond $35 a barrel in September, Luman said. \"Restructured oil flows and a rush for capacity to handle oil transport operating under military protection have driven rates sharply higher, adding further pressure to fuel prices alongside strong refinery margins,\" according to the economist. The record-breaking shipping costs and refinery margins in Europe 2.5 times higher than the 2025 average, could add more than $0.50 to the base price of a liter of diesel at the pump, Luman said. \"The capacity squeeze, combined with operating in risky war zones and facing highly elevated insurance premiums, has sent tanker rates soaring,\" the expert added. \"We have seen previous surges in this volatile market, such as in 2022 after sanctions were placed on Russia, but this spike is beyond levels ever seen before.\" By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "据全球最大的独立石油交易商维多集团（Vitol Group）首席执行官拉塞尔·哈迪（Russell Hardy）表示，阿曼湾的船对船（STS）转运保障了中东石油的持续外运，为海湾产油国和石油市场提供了生命线。哈迪本周在伦敦举行的能源情报论坛（Energy Intelligence Forum）上说：“如果没有这种转运，油价确实可能达到每桶200美元，因此这种转运能够持续下去非常重要。西方已经没有更多库存可以消耗了。”\n\n近几周，船对船（STS）转运量大幅增加。在这种转运模式下，小型船只装载石油，通过霍尔木兹海峡航行，随后在阿曼湾将货物转装到大型油轮上。部分估计显示，目前通过霍尔木兹海峡外运的石油及石油产品数量已达到或超过战前水平，即每天约2000万桶离开波斯湾。\n\n海湾产油国的生命线\n\n哈迪在伦敦论坛上表示，过去7至10天内，共有1400万桶/日的石油离开中东，其中包括200万桶/日的石油产品和1200万桶/日的原油。这些数字仍显著低于战前水平。但这位交易巨头高管表示，维持这一外运规模至关重要，以防止油价再次大幅飙升。\n\n霍尔木兹海峡及其周边航运状况的任何恶化，都可能导致更多石油被困在当地，并使能够通过这一咽喉要道运输的原油数量进一步减少。近几天，该地区针对油轮的袭击数量有所增加，威胁到海湾石油出口国的这条生命线，也可能推动油价再度走高。\n\n路透社援引海事安全消息人士的数据报道，在截至10月5日的一周内，霍尔木兹海峡附近至少发生了12起针对石油、液化天然气（LNG）和液化石油气（LPG）油轮的袭击。这些海事安全消息人士根据从当地收到的信息，对相关事件进行了分析。\n\n由美国海军主导的联合海事信息中心（JMIC）本周末在一份通报中表示：“伊朗伊斯兰革命卫队（IRGC）的袭击、未遂袭击和/或骚扰活动仍在持续，包括无人机飞越、对商船进行定向监视，以及偶尔通过甚高频（VHF）无线电呼叫。”“这些行动继续表明，伊朗有意在关键航道沿线展示存在，并持续向过境船只施压。”\n\n相关阅读：美国与俄罗斯讨论恢复俄罗斯对欧洲的天然气销售\n\nSTS转运有助于使中东原油外运保持在相对较高水平，但自3月以来，燃料运输量已大幅下降，且没有以任何有意义的方式恢复，从而持续对全球燃料市场和原油价格构成上行压力。\n\n从石油危机到航运危机\n\n维多集团的哈迪指出，虽然船对船转运在一定程度上有效避免了油价飙升至每桶200美元，但对于全球油轮船队而言，这种转运效率极低。\n\n这位高管表示，经霍尔木兹海峡进行的穿梭式航运“效率非常低”，并指出，许多油轮仍被滞留在当地，等待货物的时间长达数日甚至数周。这实际上使这些油轮退出了航运船队，削弱了其他航线上的油轮供应，进而导致关键海运通道的运费创下历史新高。\n\n哈迪在能源情报论坛上说：“这场冲突开始时是一场原油危机，随后演变成了石油产品危机。如今，更多原油正在离开中东，但这正在演变成一场航运危机。”“实际上，航运能力并不足以满足各方需求。”\n\n因此，买家和炼油商承担的运输成本正在飙升。最重要的是，这些成本几乎无法计算。哈迪说：“这给所有人造成了很大压力，因为没有人真正知道自己的航运成本究竟会是多少，误差可能达到每桶2美元、3美元或4美元。”“这使人们每天都必须作出一系列艰难决定。”\n\n荷兰国际集团（ING）运输与物流高级行业经济学家里科·卢曼（Rico Luman）本周在一份报告中写道，10月初，全球原油运输船的平均日收益超过50万美元，达到前所未有的水平，是2025年平均水平的10倍。苏伊士型油轮和超大型原油运输船（VLCC）的日运价甚至更高。\n\n卢曼表示，例如，去年从波斯湾内的沙特阿拉伯拉斯坦努拉港向鹿特丹运输原油的成本约为每桶2美元，而今年9月这一成本已飙升至每桶35美元以上。\n\n这位经济学家表示：“重新调整后的石油流向，以及为满足军事保护下石油运输需求而争抢运力，推动运价大幅上涨。在炼油利润率强劲的同时，这进一步加剧了燃料价格压力。”\n\n卢曼表示，创纪录的航运成本，加上欧洲炼油利润率达到2025年平均水平的2.5倍，可能使加油站柴油基础价格每升上涨超过0.50美元。\n\n这位专家补充说：“运力紧张，加上在危险的战区运营以及面临大幅上升的保险费率，已推动油轮运价飙升。”“此前这一波动市场也曾出现过类似的上涨，例如2022年俄罗斯遭受制裁后，但此次涨幅已经超过以往所有水平。”\n\n作者：Tsvetana Paraskova，Oilprice.com",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "Vitol Group首席执行官Russell Hardy在伦敦举办的Energy Intelligence Forum上表示，阿曼湾的船对船（STS）转运是海湾产油国和石油市场的生命线，若没有该转运，原油价格可能升至每桶200美元。",
+          "在过去7至10天内，共有1400万桶/日的石油运离中东，其中包括200万桶/日的成品油和1200万桶/日的原油。",
+          "来源叙事重点：聚焦霍尔木兹海峡地缘冲突引发的航运物流危机，强调穿梭驳运与船对船转运虽维持了部分原油外运但效率极低，运力挤压与运费暴涨正推高能源成本并带来油价触及200美元的尾部风险"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ental-health-adhd-autism-8f78e661e0d3044b",
+        "title": "英格兰国民保健署心理健康服务审查报告：有哪些发现与建议？",
+        "originalTitle": "NHS England mental health services review: what has it found and what does it recommend?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T23:01:32.000Z",
+        "pubTime": "2026-10-09 07:01",
+        "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+        "imageUrl": "https://i.guim.co.uk/img/media/5b54e3e6392187d46dc745af3e236e2138fdb83a/520_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=303f0236e1496512c30b8a0f6ddfe7f9",
+        "fullContent": "Prof Peter Fonagy’s 607-page report is categoric that mental distress has increased substantially and ‘cannot be explained by greater awareness alone’\n\nFull report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds\n\nAnalysis | No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real\n\nThe Fonagy review of NHS England’s mental health, ADHD and autism services was commissioned in 2025 by Wes Streeting, then the health secretary, in response to growing concerns that spiralling waiting lists for assessment, diagnosis and care threatened the NHS’s ability to meet the demand.\n\nThe 607-page report, published on Friday , says that without a radical overhaul, mental health and neurodiversity services will be overwhelmed. Here are some of its key findings and recommendations.",
+        "fullTranslation": "彼得·福纳吉教授（Prof Peter Fonagy）长达607页的报告明确指出，心理困扰已大幅增加，且“不能仅仅用公众意识提高来解释”。\n完整报告 | 调查发现，随着对注意缺陷多动障碍（ADHD）和自闭症护理的需求激增，国民保健署（NHS）面临“系统性崩溃”风险\n深度分析 | 绝非“玻璃心”：心理健康审查报告称当今年轻人处境更加艰难，危害是真实的\n福纳吉对英格兰国民保健署心理健康、ADHD及自闭症服务的审查工作于2025年由时任卫生大臣韦斯·斯特里廷（Wes Streeting）委托开展，旨在应对人们日益增长的担忧——评估、诊断和护理的轮候名单不断激增，已威胁到国民保健署满足需求的能力。\n这份于周五发布的607页报告指出，如果不进行彻底改革，心理健康和神经多样性服务将被彻底压垮。以下是该报告的部分主要发现和建议。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦福纳吉审查报告对NHS心理健康与神经多样性服务的严厉警示，强调心理困扰加剧是真实社会困境而非虚假敏感，呼吁对濒临崩溃的医疗评估体系进行彻底改革"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T23:01:32.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-026-10-09-10709473-shtml-0462a21f56d32b4c",
+        "title": "特朗普政府暂停微软等企业外籍员工绿卡申请",
+        "originalTitle": "特朗普政府暂停微软等企业外籍员工绿卡申请",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-10-09T02:07:16.000Z",
+        "pubTime": "2026-10-09 10:07",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml",
+        "imageUrl": null,
+        "fullContent": "中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。\n\n当天，白宫就“工作签证项目中的滥用与欺诈”问题举行记者会，美国副总统万斯、劳工部长桑德林等出席。\n\n万斯在记者会上说，“美国人没有能力为美国创造未来”正是签证欺诈行为所传递的谎言，“在微软证明会认真落实美国工人优先的原则之前，我们将拒绝其为外籍员工申请永久居留资格的权利”。\n\n被暂停外籍员工绿卡申请计划的公司还包括高知特、印孚瑟斯等大型科技公司。万斯说，这一措施将持续到“必要期限”为止。\n\n美国政府当天还宣布对9所美国大学“涉嫌J-1签证欺诈”发起调查，相关传票已送达校方。这9所高校分别是麻省理工学院、哈佛大学、耶鲁大学、斯坦福大学、布朗大学、匹兹堡大学、加州大学戴维斯分校、加州理工学院和亚利桑那州立大学。\n\n特朗普第二任期以来，美国政府继续收紧移民和签证政策。去年9月，特朗普曾签署公告，以企业“滥用”H-1B签证项目为由，宣布将该类签证申请费用提高至10万美元。同时，美国政府也多次向包括哈佛大学在内的美国高校施压，限制或禁止其招收国际学生。不过，上述措施均遭遇司法挑战。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。\n\n当天，白宫就“工作签证项目中的滥用与欺诈”问题举行记者会，美国副总统万斯、劳工部长桑德林等出席。\n\n万斯在记者会上说，“美国人没有能力为美国创造未来”正是签证欺诈行为所传递的谎言，“在微软证明会认真落实美国工人优先的原则之前，我们将拒绝其为外籍员工申请永久居留资格的权利”。\n\n被暂停外籍员工绿卡申请计划的公司还包括高知特、印孚瑟斯等大型科技公司。万斯说，这一措施将持续到“必要期限”为止。\n\n美国政府当天还宣布对9所美国大学“涉嫌J-1签证欺诈”发起调查，相关传票已送达校方。这9所高校分别是麻省理工学院、哈佛大学、耶鲁大学、斯坦福大学、布朗大学、匹兹堡大学、加州大学戴维斯分校、加州理工学院和亚利桑那州立大学。\n\n特朗普第二任期以来，美国政府继续收紧移民和签证政策。去年9月，特朗普曾签署公告，以企业“滥用”H-1B签证项目为由，宣布将该类签证申请费用提高至10万美元。同时，美国政府也多次向包括哈佛大学在内的美国高校施压，限制或禁止其招收国际学生。不过，上述措施均遭遇司法挑战。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国政府于10月8日宣布暂停微软、奥多比（Adobe）、高知特、印孚瑟斯等多家科技企业参与允许外籍员工申请美国绿卡的计划。",
+          "白宫就“工作签证项目中的滥用与欺诈”问题举行记者会，美国副总统万斯、劳工部长桑德林出席。",
+          "来源叙事重点：重点报道特朗普政府以打击“签证欺诈”和落实“美国工人优先”为由，同步整肃高科技企业绿卡申请与顶尖高校J-1签证，并指出该系列收紧政策正持续遭遇司法挑战的争议背景"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-10-09T02:07:16.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-r-of-ai-designed-viruses-feab0ad4868e3e2e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:08:24.000Z",
+        "pubTime": "2026-10-09 08:08",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "imageUrl": null,
+        "fullContent": "Friday, October 16, 2026\n\nCan AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter James O&#8217;Donnell as he interviews King about his work, being named one of MIT Technology Review&#8217;s Innovators Under 35 and new ways of seeing biology.\n\nGoing live on October 16th at 18:30 BST / 1:30pm EDT / 10:30am PDT\n\nSpeakers : James O&#8217;Donnell , AI Reporter, and Samuel King , Bioengineering PhD Candidate, Stanford University/Arc Institute\n\nHe asked an AI to design viruses … and it worked.\n\nAI-designed viruses are here and already killing bacteria",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦生成式人工智能在生物工程及病毒设计领域的突破性应用，推介斯坦福大学博士生 Samuel King 利用 AI 设计功能性噬菌体病毒的科研进展，并作为其“35岁以下科技创新35人（Innovators Under 35）”成果进行圆桌讨论推广。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T00:08:24.000Z",
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+          }
+        ]
+      },
+      {
+        "id": "story--verizon-shares-7cb56764-6704c99f1148ab98",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:52:00.000Z",
+        "pubTime": "2026-10-09 08:52",
+        "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 08:52 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T00:52:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-news-bevy-0-20-673790a84b457abb",
+        "title": "要闻：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 c",
+        "originalTitle": "Bevy 0.20",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T23:21:57.000Z",
+        "pubTime": "2026-10-09 07:21",
+        "url": "https://bevy.org/news/bevy-0-20/",
+        "imageUrl": null,
+        "fullContent": "Thanks to 227 contributors, 817 pull requests, community reviewers, and our generous donors, we're happy to announce the Bevy 0.20 release on crates.io!\n\nFor those who don't know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our Quick Start Guide to try it today. It's free and open source forever! You can grab the full source code on GitHub. Check out Bevy Assets for a collection of community-developed plugins, games, and learning resources.\n\nTo update an existing Bevy App or Plugin to Bevy 0.20, check out our 0.19 to 0.20 Migration Guide.\n\nSince our last release a few months ago we've added a ton of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:\n\nSolari, Bevy's realtime pathtraced renderer, has seen major improvements to pretty much every aspect of the plugin!\n\nRead JMS55's blog for the technical details, or continue reading below for the high level overview.\n\nThanks to improvements in our ReSTIR implementation, rendering is now mostly unbiased, leading to much more accurate lighting.\n\nAdditionally, thanks to some other changes, moving objects no longer have shadows that lag behind, and reflections now look significantly less shimmery in motion, especially for non-metallic materials.\n\nDLSS-RR has gotten very good in recent updates, and for many scenes, ReSTIR costs a decent chunk of performance, and does not significantly improve image quality.\n\nAs a result, we've decided to make ReSTIR optional, and turn it off by default.\n\nIf you were using Solari in Bevy 0.19, check if the loss of ReSTIR affects your scene, and if so re-enable SolariLighting::restir.\n\nWith ReSTIR off, expect reduced shadow quality and missing shadows in motion in scenes with many lights. We are exploring cheaper ways of improving light sampling, without ReSTIR, to improve this in the future.\n\nIn addition, Solari's scene management code is now retained (similar to retained render world optimizations in previous versions of Bevy), and overall much more optimized, leading to significantly reduced CPU costs.\n\nYou may also want to take a look at the new fields in SolariLighting. While we aim to set reasonable defaults that will work well across a wide variety of games, there are now many knobs (world cache size, per-pixel light sample count, temporal accumulation, and path tracing bounce count) that can be tweaked to improve performance or quality for your specific scene, project and hardware.\n\nSolari now supports lighting from Atmosphere and EnvironmentMapLights on cameras, in addition to the existing support for DirectionalLight and emissive meshes. We're hoping to add support for the remaining PointLight, SpotLight, and RectLight types in the near future.\n\nSolari now also runs on macOS, but note that there is currently no built-in denoiser included in bevy_solari for macOS. MetalFX Ray Reconstruction might be a possible solution in the future (contributions welcome!)\n\nFinally, our dlss_wgpu crate has been updated to support the latest version of DLSS, bringing support for DLSS-RR 4.5, which significantly improves denoising quality in Solari.\n\nIf you were using DLSS in Bevy 0.19, make sure to download and setup the newest version of the DLSS SDK, else you will run into compiler errors.\n\nBSN landed with a few idiosyncrasies that caused friction in practice. We made some changes to BSN's syntax this cycle in the interest of improving its ergonomics and clarity. After this, the syntax should largely be nailed down.\n\nAll scene references now require @ prefixes:\n\nIn addition to making it easier to spot scene inclusions (and unifying the syntax across cases), this freed us up to make component values much easier to work with!\n\nYou can now remove all of those pesky template_value wrappers from your component values:\n\nEnums no longer require VariantDefaults or FromTemplate, provided they implement Default and Clone:\n\nIf you were using an enum that didn't support VariantDefaults, you can now remove the template_value wrapper:\n\nThe removal of VariantDefaults does mean that enums must now have every field specified:\n\nWe believe this tradeoff is worth it, as it increases BSN's compatibility with arbitrary Rust enums. Rust doesn't support \"enum variant defaults\" anyway!\n\nThe \"builder pattern\" (and chained methods generally) previously required a template_value wrapper. This can now be removed:\n\nAdditionally, you can now remove the template_value wrapper in cases like this:\n\nIn general, you should now be able to remove all template_value instances from your BSN declarations!\n\nBSN previously used commas to separate entities, with optional () around entities to make the boundaries clearer. This resulted in a lot of syntax noise, line noise, and over-indentation:\n\nTo avoid this, many developers opted for this syntax instead, which made it very hard to visually distinguish entities:\n\nBSN now uses -- to separate entities in a list:\n\nThis gives us the best of all worlds: entities are visually distinct, and there is no over-indentation, line noise, or syntax noise (the stats when compared to other competitors in the \"markup format\" space are very competitive!). Both () and , have been deprecated in this context.\n\nUsing [] and () for bsn_list! (and bsn!) is now discouraged / warned against (ex: bsn_list! []), as it can result in poor rustfmt autoformatting. Instead, use bsn_list! {}, which is the only syntax that rustfmt won't touch. Don't worry, we plan to build a BSN auto-formatter!\n\nWe landed BSN, Bevy's next generation scene system, in our last release. It was missing a key piece though: the ability to easily run logic when a scene is fully \"ready\" and spawned (ex: all dependencies have loaded, the full hierarchy is present, and all of the initial components are inserted in the scene). This is a critical piece for building cohesive, standalone, composable scenes. It is also necessary to properly layer Bevy logic on top of other scene representations (like glTF).\n\nThe closest we had was the Add event for a given component, which runs \"top down\" (meaning children are not available). We needed a \"bottom up\" equivalent to enable building logic that relies on the complete loaded and spawned scene.\n\nThe solution is pretty straightforward: trigger a new Ready event for each entity in a spawned scene after the full spawn logic has run for that entity (including its descendants).\n\nThis enables the following:\n\nFeathers, Bevy's opinionated editor-centric UI toolkit, now has more widgets for you to play with:\n\nBevy now has a compact color input selector that displays a color picker widget popup when clicked. This includes a color wheel selector, RGB, and HSL selectors, and a recently used colors grid.\n\nA scrollable, selectable list view.\n\nA selection field that when clicked, displays a dropdown containing a list of options to select.\n\nThe FeathersNumberInput widget has been expanded to support both normal text input and scrubbing / dragging. There is a configurable \"hard limit\" (minimum and maximum value via any input method) and \"soft limit\" (minimum and maximum value via dragging), in addition to control over floating point precision and step sizes.\n\nbevy_ui_widgets now has headless (bring-your-own-visuals) tab behavior: a TabList container and Tab headers.\n\nSelection is managed \"externally\". SelectedTab on the list holds the selected tab; interaction emits ValueChange<Option<Entity>> as a request, applied by the app or by the optional tablist_self_update observer.\n\nTabs support keyboard shortcuts and integrate with Bevy's focus, interaction, and accessibility systems.\n\nSee the headless_tabs example for controlled and self-updating tab lists in both orientations.\n\nBevy's shaders are now written in WESL and the old \"Custom Bevy Extended WGSL\" language support has been removed.\n\nWESL is a language standard that extends WGSL to add important usability features like modules, imports, conditional compilation, and more. You can see what that looks like (and render pretty shader toys!) live in your browser in the WESL Playground.\n\nBevy has historically handled these things in our own custom WGSL dialect, but we believe it is better for the wider shader ecosystem (and for us) to adopt a common standard where we can pool resources on language improvements, module ecosystems, and IDE tooling. We've been working closely with the WESL team to evolve the standard in a way that fits well into the Bevy picture.\n\nA critical part of that tooling is language server protocol support, in the form of wgsl-analyzer. That means syntax highlighting, go-to-definition, inlay hints, code folding, formatting and more, once installed for your IDE of choice.\n\nCustom shaders in the old Bevy WGSL dialect need to be translated to WESL and renamed from .wgsl to .wesl. Plain WGSL files with no preprocessor directives will keep working.\n\nMesh shaders are now integrated with Bevy's pipeline cache and are available for advanced users to take advantage of. Mesh shaders can be used to render:\n\nMesh shaders, at a high level, replace the classic vertex shader with a compute shader. This allows generating geometry directly on the GPU and passing those generated primitives directly to the fragment shader without using multiple pipelines or intermediary buffers (to pass data from a compute shader to a render pipeline).\n\nA MeshPipeline contains:\n\nThe new MeshPipelineDescriptor can be used to define a MeshPipeline. That MeshPipeline is then used as a RenderPipeline, which allows the re-use of Bevy's lower level rendering APIs such as RenderContext::begin_tracked_render_pass to take advantage of the new draw_mesh_tasks APIs.\n\nIt is notable that mesh shaders are an advanced graphics approach with platform-specific performance considerations, and that this is the initial base support for the feature. Higher level user APIs, and easy integration with Bevy's StandardMaterial, are left to future work.\n\nMesh shaders are not supported on web platforms.\n\nCheck out the new mesh_shader_intro example for more usage examples.\n\nUntil now, Bevy's sprite renderer has been lacking a major feature: the ability to extend it with custom shaders! With this release, it's now possible to create custom materials for sprites by implementing the MaterialExtension2d trait, inserting the SpriteMaterial component and adding the SpriteMaterialPlugin to your app.\n\nThe shader can use functions exported from bevy_sprite_render::sprite_mesh::functions, including:\n\nCheck out the sprite_material example to see it in action!\n\nBevy now provides a 2D analog to 3D's ExtendedMaterial, which can be used to extend an existing material by implementing the MaterialExtension2d trait:\n\nThis material can now be used in an ExtendedMaterial2d struct:\n\nThe sprite render backend was replaced by a new backend that reuses a lot of the infrastructure made for 3D. This resulted in improved performance in many cases and also makes future maintenance and improvements easier.\n\nWe have upstreamed the awesome bevy_editor_cam made by @aevyrie as the new PanOrbitCamera in our bevy_camera_controller crate!\n\nAdd MeshPickingPlugin and DefaultPanOrbitCameraPlugins:\n\nThen add the PanOrbitCamera component on any 3D camera.\n\nFull functionality is shown in the camera/pan_orbit_camera_cad example.\n\nOrdering large groups of systems with .chain() is convenient, but it can be overly strict. If system set X is chained before system set Y, every system in X must finish before any system in Y can start, even when the systems involved never touch the same data. This often leaves worker threads idle while they wait for a handful of stragglers at the end of a system set, a pattern that shows up frequently in the render world.\n\nThe new chain_weak(), before_weak(), and after_weak() functions provide a looser alternative. Like their regular counterparts, they request an ordering between successive elements, however that ordering is only kept between systems whose data accesses actually conflict. Systems that don't conflict are left unordered and may run in any order, including in parallel.\n\nWhen two weakly-ordered systems actually conflict on their data access, a normal ordering is kept between them, so the earlier one still runs first. Two systems that conflict only through a non-conflicting system between them in the chain stay ordered as well. Non-conflicting systems, however, are left free to run in any order and overlap for increased parallelism!\n\nTwo kinds of system are treated as always conflicting, so their ordering is always kept: an earlier system that produces deferred effects such as Commands (so the later system observes them, with an ApplyDeferred sync point inserted as usual), and exclusive systems (which cannot overlap anything regardless).\n\nBecause the scheduler can only see accesses it tracks, dependencies expressed through interior mutability on read-only accesses, global state, or other untracked methods are not respected. Use chain_weak only when your systems don't rely on such hidden ordering, otherwise stick with chain.\n\nFeathers now supports \"contextual theming\", meaning that the theme variables can change depending on the parent entity. So widgets that are inside of a dialog box or subpanel can have different colors than widgets that are on a regular panel or window background.\n\nThe design follows that of popular web toolkits like MUI, Radix, or Chakra. There's a new component, ThemeContext, which lets you select which color scheme the widget's descendants should use; currently the available schemes are Base, Higher, Highest, and Floating, which correspond to the design plans for the Bevy scene editor.\n\nThe theme context is used in conjunction with a new kind of design token, named SemanticToken. The lookup process for a color now requires two stages: the ThemeToken is converted into a SemanticToken, and then the combination of SemanticToken and ThemeContext is used to look up a color.\n\nIn addition to allowing context-specific color choices, this also makes it easier to design new themes! Instead of having to tediously choose colors for a hundred different theme tokens, the set of semantic tokens is much smaller, and the relationship between token and color is much more intuitive.\n\nBevy UI now supports em and rem as sizing units. em is the current font size (represented by an EmSize component), rem is a global \"root\" font size (represented by the existing RemSize resource).\n\nEmSize is derived from TextFont when one is on the same entity; propagating it down the hierarchy is left to your app.\n\nThis is especially useful if you might want to vary your text size after authoring your UIs, for example as an accessibility feature or just to improve your UI on different devices.\n\nThe default font-size is now rem(1) rather than px(20). This is a no-op if you're not changing RemSize but it means your text will scale by default when you do.\n\nComponents can now opt-in to \"column summary change ticks\":\n\nWhen enabled, this will store a \"column change tick\" in addition to a \"per-entity change tick\", which allows cheaply skipping the whole column of entities when querying for changes, rather than needing to check every entity's component to see if it has changed.\n\nThis makes mutations more expensive, as they need to write both the column change tick and the entity change tick, but for entities whose changes are queried often, but change infrequently, this tradeoff can easily be worth it! We've seen change ticks result in a 132x speedup in our GPU mesh extraction code!\n\nFixedNode is a new marker component for Bevy UI.\n\nA UI node entity with the FixedNode component is positioned relative to the target camera's viewport rather than its parent element. FixedNodes don't inherit their parent's layout, clipping or transform context. They behave like a \"root node\".\n\nBevy UI can now draw nodes with elliptical border geometry.\n\nThe fields of BorderRadius are now CornerRadiuss to enable different radius to be set for each axis.\n\nBefore a schedule runs (and therefore, your systems), it first computes the system run order based on their ordering constraints (.before(), .after(), .chain()) and system sets. However, in addition to this, the schedule must also resolve conflicts - if system A and system B both mutate component C, and there's no ordering between A and B, the schedule needs to pick one to run first. So far, the rule has been that this is non-deterministic.\n\nIn practice though, schedules pick the order of these conflicting systems \"deterministically, but arbitrarily\". Put simply, your systems might accidentally be in the right order, but making an unrelated change to the graph might suddenly put it in the wrong order. This problem can be very difficult to detect.\n\nIntroducing schedule randomization! This will randomize the order of systems while maintaining any explicit system ordering constraints. Once the debug feature is enabled, ScheduleBuildSettings will include a shuffle_seed field, that users can set to randomize their schedules. For example:\n\nThis can be used for \"property testing\", to verify that your systems satisfy some property despite different orderings of systems.\n\nThere are some caveats however. Currently, when using auto_insert_apply_deferred, systems with commands are always placed before the earliest sync point they can. This means that although your systems may not have the correct ordering, they might \"accidentally\" have the correct ordering because of which sync point it uses. We hope to fix this in the future.\n\nIn addition, the multi-threaded executor executes systems greedily: it looks for the first unexecuted system whose dependencies are finished and that has no other conflicting systems running. The result is that even if the shuffle results in the order (A, B, C), C could run before B if A and B conflict. This can be desirable to test, but consider using the single-threaded executor to avoid this case.\n\nThis tool is complem",
+        "fullTranslation": "感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 crates.io 上发布！\n\n如果你还不了解，Bevy 是一款使用 Rust 构建、简洁易用且以数据驱动的游戏引擎。你可以查看我们的《快速入门指南》，立即尝试使用。它永久免费且开源！你可以在 GitHub 上获取完整源代码。还可以查看 Bevy Assets，那里汇集了社区开发的插件、游戏和学习资源。\n\n如果要将现有的 Bevy 应用或插件更新到 Bevy 0.20，请查看我们的《0.19 到 0.20 迁移指南》。\n\n自上次发布以来的几个月中，我们加入了大量新功能、错误修复和易用性改进，下面是其中一些亮点：\n\nSolari 是 Bevy 的实时路径追踪渲染器，此次几乎在插件的各个方面都获得了重大改进！\n\n你可以阅读 JMS55 的博客了解技术细节，也可以继续阅读下面的高层概览。\n\n得益于我们对 ReSTIR 实现的改进，如今的渲染基本实现了无偏，这带来了准确得多的光照效果。\n\n此外，得益于其他一些改动，移动物体的阴影不再出现延迟，反射在运动中看起来也明显不那么闪烁，尤其是在非金属材质上。\n\nDLSS-RR 在最近的更新中已经表现得非常出色；对于许多场景而言，ReSTIR 会消耗相当一部分性能，却不会显著改善画质。\n\n因此，我们决定将 ReSTIR 改为可选功能，并默认关闭。\n\n如果你在 Bevy 0.19 中使用了 Solari，请检查禁用 ReSTIR 是否会影响你的场景；如果会，请重新启用 SolariLighting::restir。\n\n关闭 ReSTIR 后，在光源较多的场景中，预计阴影质量会降低，并且运动时会出现阴影缺失。我们正在探索不依赖 ReSTIR、成本更低的光照采样改进方案，以便未来改善这一问题。\n\n此外，Solari 的场景管理代码现在采用了保留式管理方式（类似于 Bevy 之前版本中对保留式渲染世界所做的优化），整体也得到了大幅优化，从而显著降低了 CPU 开销。\n\n你可能还想看看 SolariLighting 中新增的字段。虽然我们的目标是提供合理的默认值，使其能够适用于各种各样的游戏，但现在已经有许多可调参数（世界缓存大小、每像素光照采样数量、时间累积以及路径追踪反弹次数），可以针对你的具体场景、项目和硬件调整，以改善性能或画质。\n\n除了现有对 DirectionalLight 和自发光网格的支持外，Solari 现在还支持来自摄像机上的 Atmosphere 和 EnvironmentMapLights 的光照。我们希望在不久的将来加入对剩余 PointLight、SpotLight 和 RectLight 类型的支持。\n\nSolari 现在也可以运行在 macOS 上，但请注意，bevy_solari 目前并未为 macOS 内置降噪器。未来 MetalFX Ray Reconstruction 可能会成为一种解决方案（欢迎贡献代码！）。\n\n最后，我们的 dlss_wgpu crate 已更新为支持最新版本的 DLSS，加入了对 DLSS-RR 4.5 的支持，这显著提升了 Solari 的降噪质量。\n\n如果你在 Bevy 0.19 中使用了 DLSS，请务必下载并设置最新版本的 DLSS SDK，否则会遇到编译器错误。\n\nBSN 在落地时带有一些在实际使用中造成摩擦的不一致之处。本轮我们对 BSN 的语法做了一些修改，旨在改善其易用性和清晰度。经过这些改动后，语法应该基本确定下来了。\n\n现在所有场景引用都必须使用 @ 前缀：\n\n除了更容易识别场景包含关系，并统一不同情况下的语法之外，这也让我们能够更轻松地处理组件值！\n\n现在，你可以从组件值中删除那些令人讨厌的 template_value 包装器：\n\n只要枚举实现了 Default 和 Clone，就不再需要 VariantDefaults 或 FromTemplate：\n\n如果你使用的枚举不支持 VariantDefaults，现在可以删除 template_value 包装器：\n\n移除 VariantDefaults 意味着枚举现在必须指定每一个字段：\n\n我们认为这一取舍是值得的，因为它提高了 BSN 对任意 Rust 枚举的兼容性。毕竟，Rust 本身也不支持“枚举变体默认值”！\n\n此前，“构建器模式”（以及一般的链式方法）需要使用 template_value 包装器。现在可以将其删除：\n\n此外，在如下情况中，你现在也可以删除 template_value 包装器：\n\n总的来说，现在应该可以从 BSN 声明中删除所有 template_value 实例！\n\nBSN 之前使用逗号分隔实体，并可选地在实体周围加上 ()，以便让边界更加清晰。这导致了大量语法噪声、行噪声和过度缩进：\n\n为了避免这些问题，许多开发者选择了下面这种语法，但这使实体在视觉上很难区分：\n\n现在，BSN 使用 -- 来分隔列表中的实体：\n\n这样我们就兼顾了各方面的优点：实体在视觉上彼此分明，同时也没有过度缩进、行噪声或语法噪声（与“标记格式”领域中的其他竞争方案相比，这些统计数据非常有竞争力！）。在这种上下文中，() 和 , 都已被弃用。\n\n现在不建议使用 [] 和 () 来调用 bsn_list!（以及 bsn!）（例如 bsn_list! []），并且会收到警告，因为这可能导致 rustfmt 自动格式化效果不佳。请改用 bsn_list! {}，这是 rustfmt 不会修改的唯一语法。不必担心，我们计划构建一个 BSN 自动格式化工具！\n\n我们在上一次发布中加入了 BSN，即 Bevy 的下一代场景系统。不过它当时还缺少一个关键部分：当场景完全“就绪”并生成后，能够轻松运行逻辑（例如，所有依赖项都已加载、完整层级结构已经存在、所有初始组件都已插入场景）。这是构建连贯、独立且可组合场景的关键部分，同时也是在其他场景表示形式（如 glTF）之上正确叠加 Bevy 逻辑所必需的能力。\n\n我们此前最接近这一需求的是针对特定组件的 Add 事件，但它以“自上而下”的方式运行（也就是说，子实体尚不可用）。我们需要一种“自下而上”的等价机制，以便构建依赖完整加载并生成的场景的逻辑。\n\n解决方案相当直接：在生成场景中每个实体的完整生成逻辑（包括其后代实体）运行完毕后，为该实体触发一个新的 Ready 事件。\n\n这使得以下功能成为可能：\n\nFeathers 是 Bevy 具有明确设计理念、以编辑器为中心的 UI 工具包，现在提供了更多控件供你使用：\n\nBevy 现在拥有一个紧凑的颜色输入选择器。点击后，它会弹出一个颜色选择器控件，其中包括色轮选择器、RGB 和 HSL 选择器，以及最近使用的颜色网格。\n\n一个可滚动、可选择的列表视图。\n\n一个选择字段，点击后会显示一个下拉菜单，其中包含可供选择的选项列表。\n\nFeathersNumberInput 部件已扩展，现已同时支持普通文本输入和滑动/拖拽调节。除浮点精度与步长控制外，还提供了可配置的“硬性限制”（通过任何输入方式允许的最小值和最大值）和“软性限制”（通过拖拽允许的最小值和最大值）。\n\nbevy_ui_widgets 现已提供无头（自带视觉样式/headless）标签页行为：包含 TabList 容器和 Tab 标头。\n\n选中状态通过“外部”管理。列表上的 SelectedTab 保存当前选中的标签页；交互时会发出 ValueChange 作为请求，可由应用程序处理，也可由可选的 tablist_self_update 观察者处理。\n\n标签页支持键盘快捷键，并与 Bevy 的焦点、交互及无障碍系统集成。\n\n请参阅 headless_tabs 示例，查看两种方向上的受控与自更新标签页列表实现。\n\nBevy 的着色器现在采用 WESL 编写，原有的“Custom Bevy Extended WGSL”语言支持已被移除。\n\nWESL 是一项扩展 WGSL 的语言标准，加入了模块、导入、条件编译等重要的易用性功能。你可以在 WESL Playground 中直接在浏览器里体验其实际效果（并渲染漂亮的着色器小玩具！）。\n\nBevy 在历史上一直通过自研的 WGSL 方言来处理这些需求，但我们认为，采用通用标准有利于更广泛的着色器生态系统（也对我们有利），这样我们可以汇聚各方资源来推进语言改进、模块生态和 IDE 工具链。我们一直在与 WESL 团队密切合作，以使其标准演进方向能够良好契合 Bevy 的规划。\n\n该工具链的一个关键部分是对语言服务器协议（LSP）的支持，具体形式为 wgsl-analyzer。这意味着为你所选的 IDE 安装后，即可获得语法高亮、跳转到定义、内联提示、代码折叠、格式化等功能。\n\n旧版 Bevy WGSL 方言的自定义着色器需要转换为 WESL，并将后缀由 .wgsl 重命名为 .wesl。不含预处理器指令的纯 WGSL 文件将继续正常工作。\n\n网格着色器（Mesh shaders）现已与 Bevy 的管线缓存集成，高级用户已可利用该特性。网格着色器可用于渲染：\n\n从宏观上看，网格着色器用计算着色器取代了经典的顶点着色器。这允许直接在 GPU 上生成几何图元，并将生成的图元直接传递给片元着色器，无需使用多条管线或中间缓冲区（用于将数据从计算着色器传递至渲染管线）。\n\nMeshPipeline 包含：\n\n新增的 MeshPipelineDescriptor 可用于定义 MeshPipeline。该 MeshPipeline 随后被用作 RenderPipeline，允许复用 Bevy 的底层渲染 API（例如 RenderContext::begin_tracked_render_pass）来充分利用新的 draw_mesh_tasks API。\n\n需要指出的是，网格着色器是一种高级图形学方案，伴随着特定平台的性能考量，目前提供的是该功能的基础底层支持。更高级的用户 API 以及与 Bevy StandardMaterial 的简易集成留待后续开发。\n\nWeb 平台不支持网格着色器。\n\n请查阅新的 mesh_shader_intro 示例以了解更多用法。\n\n截至目前，Bevy 的精灵（sprite）渲染器一直缺少一项重大功能：通过自定义着色器进行扩展的能力！在此版本中，现在可以通过实现 MaterialExtension2d trait、插入 SpriteMaterial 组件并向应用中添加 SpriteMaterialPlugin，从而为精灵创建自定义材质。\n\n着色器可以使用 bevy_sprite_render::sprite_mesh::functions 导出的函数，包括：\n\n请查阅 sprite_material 示例查看其实际效果！\n\nBevy 现在为 3D 的 ExtendedMaterial 提供了对应的 2D 版本，可以通过实现 MaterialExtension2d trait 来扩展现有材质：\n\n该材质现在可用于 ExtendedMaterial2d 结构体中：\n\n精灵渲染后端已被替换为复用大量 3D 基础架构的新后端。这在许多情况下带来了性能提升，同时也让未来的维护和改进变得更加轻松。\n\n我们已将 @aevyrie 制作的出色库 bevy_editor_cam 合入上游，作为 bevy_camera_controller crate 中的全新 PanOrbitCamera！\n\n添加 MeshPickingPlugin 与 DefaultPanOrbitCameraPlugins：\n\n然后将 PanOrbitCamera 组件添加到任意 3D 相机上。\n\n完整功能展示于 camera/pan_orbit_camera_cad 示例中。\n\n使用 .chain() 对大量系统进行排序固然方便，但可能会显得过于严格。如果系统集 X 链式排在系统集 Y 之前，那么 X 中的每个系统都必须执行完毕，Y 中的任何系统才能开始运行，哪怕涉及的系统根本没有触及相同的数据。这经常导致工作线程在等待系统集末尾的少数落后系统时处于闲置状态，这种模式在渲染领域尤为常见。\n\n新增的 chain_weak()、before_weak() 和 after_weak() 函数提供了一种更宽松的替代方案。与常规对应函数一样，它们请求相连元素之间的执行顺序，但该顺序仅在数据访问确实存在冲突的系统之间维持。没有冲突的系统保持无序状态，可以以任何顺序运行，包括并行运行。\n\n当两个弱排序的系统在数据访问上确实存在冲突时，它们之间将保持正常的先后顺序，因此排在前面的系统仍会先运行。两个仅通过链路中处于它们之间的非冲突系统而间接冲突的系统，也会保持原有顺序。然而，非冲突系统则可以自由地以任何顺序运行并相互重叠执行，从而提高并行度！\n\n有两类系统被视为始终冲突，因此它们的执行顺序始终得到保持：产生诸如 Commands 等延迟效果的先执行系统（以便后执行的系统能观察到这些效果，同时照常插入 ApplyDeferred 同步点），以及排他性系统（exclusive systems，无论如何都无法与任何其他系统重叠执行）。\n\n由于调度器只能看到它所跟踪的访问，通过只读访问上的内部可变性、全局状态或其他未跟踪手段表达的依赖关系将不受支持。仅当你的系统不依赖于此类隐式顺序时才使用 chain_weak，否则请继续使用 chain。\n\nFeathers 现在支持“上下文主题化”（contextual theming），这意味着主题变量可以根据父实体发生变化。因此，位于对话框或子面板内的部件可以拥有与常规面板或窗口背景上的部件不同的颜色。\n\n该设计遵循了 MUI、Radix 或 Chakra 等主流 Web 工具包的设计思路。新增了 ThemeContext 组件，允许你选择部件的子孙节点应使用哪种配色方案；目前可用的方案有 Base、Higher、Highest 和 Floating，对应了 Bevy 场景编辑器的设计规划。\n\n主题上下文与一种名为 SemanticToken 的新型设计令牌结合使用。现在，颜色的查找过程需要两个阶段：先将 ThemeToken 转换为 SemanticToken，然后使用 SemanticToken 与 ThemeContext 的组合来查找颜色。\n\n除了支持根据上下文选择颜色外，这也让设计新主题变得更加容易！不必再费力地为上百种不同的主题令牌选择颜色，语义令牌的集合要小得多，而且令牌与颜色之间的关系也直观得多。\n\nBevy UI 现在支持将 em 和 rem 作为尺寸单位。em 表示当前字体大小（由 EmSize 组件表示），rem 表示全局的“根”字体大小（由现有的 RemSize 资源表示）。\n\n当同一实体上存在 TextFont 时，EmSize 会从 TextFont 派生；至于如何将其沿层级向下传播，则交由你的应用处理。\n\n如果你希望在 UI 创建完成后调整文本大小，这一功能尤其有用，例如将其作为无障碍功能，或只是为了改善 UI 在不同设备上的显示效果。\n\n默认字体大小现在是 rem(1)，而不是 px(20)。如果你不修改 RemSize，这不会产生实际变化；但这意味着当你修改 RemSize 时，文本默认会随之缩放。\n\n组件现在可以选择启用“列摘要变更刻度”（column summary change ticks）：\n\n启用后，系统除了存储“每实体变更刻度”外，还会存储“列变更刻度”。这样，在查询变更时，就可以低成本地跳过整列实体，而不必检查每个实体的组件是否发生变化。\n\n这会增加变更操作的开销，因为变更操作需要同时写入列变更刻度和实体变更刻度；但对于那些经常查询变更、却很少发生变化的实体而言，这种权衡完全可能是值得的！我们发现，在 GPU 网格提取代码中，变更刻度带来了 132 倍的加速！\n\nFixedNode 是 Bevy UI 新增的标记组件。\n\n带有 FixedNode 组件的 UI 节点实体，会相对于目标摄像机的视口定位，而不是相对于其父元素定位。FixedNode 不会继承父元素的布局、裁剪或变换上下文，其行为类似于“根节点”。\n\nBevy UI 现在可以绘制具有椭圆形边框几何形状的节点。\n\nBorderRadius 的字段现在改为 CornerRadiuss，以便为每个轴设置不同的半径。\n\n在调度运行之前（因而也就是在你的系统运行之前），它会首先根据系统的排序约束（.before()、.after()、.chain()）和系统集合计算系统的运行顺序。不过除此之外，调度还必须解决冲突——如果系统 A 和系统 B 都会修改组件 C，且 A 与 B 之间没有排序关系，调度就需要决定先运行哪一个。到目前为止，相关规则一直是非确定性的。\n\n但实际上，调度会以“确定但任意”的方式选择这些相互冲突的系统的顺序。简单来说，你的系统可能会碰巧处于正确顺序，但对图进行无关修改后，顺序可能突然变错。这个问题可能非常难以发现。\n\n现在引入调度随机化功能！该功能会在保留所有显式系统排序约束的同时，随机打乱系统的顺序。启用调试功能后，ScheduleBuildSettings 将包含一个 shuffle_seed 字段，用户可以设置该字段来随机化调度。例如：\n\n这可以用于“属性测试”（property testing），以验证无论系统采用何种不同顺序，你的系统都满足某项性质。\n\n不过，这里存在一些注意事项。目前，在使用 auto_insert_apply_deferred 时，带有命令的系统总是会被放置在它们能够使用的最早同步点之前。这意味着，尽管你的系统可能没有正确的排序关系，但由于它所使用的同步点，它们可能会“碰巧”处于正确顺序。我们希望在未来修复这一问题。\n\n此外，多线程执行器会贪心地执行系统：它会寻找第一个尚未执行、依赖项已经完成且当前没有其他冲突系统正在运行的系统。结果是，即使随机打乱后的顺序为（A、B、C），如果 A 与 B 冲突，C 也可能在 B 之前运行。这对于测试而言可能是有益的，但如果要避免这种情况，可以考虑使用单线程执行器。\n\n该工具是对……的补充",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 96,
+        "translationParagraphs": 96,
+        "keyTakeaways": [
+          "Bevy 0.20 已在 crates.io 发布，包含 227 名贡献者提交的 817 个拉取请求（PR）。",
+          "在 Bevy 0.20 中，实时路径追踪渲染器 Solari 将 ReSTIR 设为可选并默认关闭。",
+          "来源叙事重点：以 Bevy 0.20 的功能发布和技术演进为核心，突出 Solari 实时路径追踪、DLSS-RR 4.5、BSN 场景系统、WESL 着色器、网格着色器、UI 组件及 2D 精灵材质扩展等新增能力，同时说明部分默认设置、语法和兼容性变化。整体叙事强调社区协作、性能优化、开发体验改善及生态标准化；其中“显著改善”“竞争力强”等表述属于项目方评价，不应视为独立验证结论。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T23:21:57.000Z",
+            "url": "https://bevy.org/news/bevy-0-20/"
+          }
+        ]
+      },
+      {
+        "id": "story-0-ai-reality-police-html-be6ec5d6ac646faa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Research shows how AI and mixed reality can enhance police work",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T02:00:01.000Z",
+        "pubTime": "2026-10-09 10:00",
+        "url": "https://phys.org/news/2026-10-ai-reality-police.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-shows-how-ai.jpg",
+        "fullContent": "How can AI provide police officers with better support in complex situations? In an interdisciplinary collaboration, researchers in police research and computing science at Umeå University have explored the opportunities and risks associated with using AI-based interactive systems in police work.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 10:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-ai-reality-police.html",
+            "publishedAt": "2026-10-09T02:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-10-09-10709465-shtml-6c9fb22a669afdf5",
+        "title": "联合国教科文组织新报告揭示女童教育面临的挑战",
+        "originalTitle": "联合国教科文组织新报告揭示女童教育面临的挑战",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-10-09T02:06:44.000Z",
+        "pubTime": "2026-10-09 10:06",
+        "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml",
+        "imageUrl": null,
+        "fullContent": "中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。\n\n教科文组织发布的《2026年全球教育监测报告》性别专题报告称，尽管全球教育领域的性别差距有所缩小，18岁前结婚的女童比例也有所下降，但在一些地区，生育后重返校园的女童寥寥无几。这凸显终结童婚、预防早孕及保障年轻母亲继续受教育权的重要性。\n\n联合国教科文组织总干事阿纳尼表示，过去几十年来，全球教育性别平等取得了重大进展。如今，从学前教育到中等教育各阶段，男女童入学人数持平。然而，仍有大量女童在入学、完成学业及在校充分发展过程中面临障碍。性别平等是教科文组织的全球优先事项之一。我们正与世界各国政府及合作伙伴携手行动，保护女童受教育权，为所有人创造更多机会。\n\n报告指出，世界各国在教育领域性别平等方面取得显著进展。1990-2024年，尼泊尔初中教育完成率男女差距缩小了33个百分点；2006-2022年，沙特高等教育入学率的性别差距缩小四分之三；柬埔寨女童小学教育完成率在1981年低于男童22个百分点，到2024年则反超11个百分点；哥斯达黎加高中教育完成率女童高于男童，这一性别差距从2011—2017年的12个百分点缩小至2018—2024年的7个百分点。\n\n然而，平均数据掩盖了农村地区和贫困家庭中存在的性别差距。在安哥拉，最富裕家庭的子女已实现教育性别平等，但在最贫困家庭中，完成高中教育的女童人数仅为男童的30%。在印度，城市地区已实现性别平等，但农村地区完成高中教育的女童人数仅为男童的59%。\n\n报告显示，尽管全球从学前教育到高中教育各阶段的入学人数均已实现性别均等，但早婚早育仍是女童完成学业的主要障碍。全球18岁前结婚的女童比例从2000年的25%降至2025年的18%，但这一比例在中亚和南亚仍达25%，撒哈拉以南非洲则高达31%。据估计，2024年，撒哈拉以南非洲有600万名10-19岁的早孕少女和年轻母亲失学，而该地区怀孕或在育儿的女童中，重返校园的比例不足5%。\n\n一些国家已携手教科文组织采取措施，推动充分实现怀孕和育儿女童的受教育权。例如非洲多国已取消禁止已婚、怀孕或育儿女童和妇女接受教育的规定。最新数据显示，90%接受调查的东部和南部非洲国家已实施相关政策，支持怀孕和育儿青少年继续学业或重返校园。\n\n教科文组织数据显示，截至2026年，在各国法律框架对受教育权的保护方面，58%的国家禁止基于生理性别或社会性别的歧视，但只有35%的国家明确规定保护怀孕和育儿女童。\n\n教科文组织积极支持各国促进教育领域的性别平等。通过“我们的权利，我们的生活，我们的未来”项目，教科文组织与35国教育部合作，帮助数百万年轻人为自己的人生和未来作出决定。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。\n\n教科文组织发布的《2026年全球教育监测报告》性别专题报告称，尽管全球教育领域的性别差距有所缩小，18岁前结婚的女童比例也有所下降，但在一些地区，生育后重返校园的女童寥寥无几。这凸显终结童婚、预防早孕及保障年轻母亲继续受教育权的重要性。\n\n联合国教科文组织总干事阿纳尼表示，过去几十年来，全球教育性别平等取得了重大进展。如今，从学前教育到中等教育各阶段，男女童入学人数持平。然而，仍有大量女童在入学、完成学业及在校充分发展过程中面临障碍。性别平等是教科文组织的全球优先事项之一。我们正与世界各国政府及合作伙伴携手行动，保护女童受教育权，为所有人创造更多机会。\n\n报告指出，世界各国在教育领域性别平等方面取得显著进展。1990-2024年，尼泊尔初中教育完成率男女差距缩小了33个百分点；2006-2022年，沙特高等教育入学率的性别差距缩小四分之三；柬埔寨女童小学教育完成率在1981年低于男童22个百分点，到2024年则反超11个百分点；哥斯达黎加高中教育完成率女童高于男童，这一性别差距从2011—2017年的12个百分点缩小至2018—2024年的7个百分点。\n\n然而，平均数据掩盖了农村地区和贫困家庭中存在的性别差距。在安哥拉，最富裕家庭的子女已实现教育性别平等，但在最贫困家庭中，完成高中教育的女童人数仅为男童的30%。在印度，城市地区已实现性别平等，但农村地区完成高中教育的女童人数仅为男童的59%。\n\n报告显示，尽管全球从学前教育到高中教育各阶段的入学人数均已实现性别均等，但早婚早育仍是女童完成学业的主要障碍。全球18岁前结婚的女童比例从2000年的25%降至2025年的18%，但这一比例在中亚和南亚仍达25%，撒哈拉以南非洲则高达31%。据估计，2024年，撒哈拉以南非洲有600万名10-19岁的早孕少女和年轻母亲失学，而该地区怀孕或在育儿的女童中，重返校园的比例不足5%。\n\n一些国家已携手教科文组织采取措施，推动充分实现怀孕和育儿女童的受教育权。例如非洲多国已取消禁止已婚、怀孕或育儿女童和妇女接受教育的规定。最新数据显示，90%接受调查的东部和南部非洲国家已实施相关政策，支持怀孕和育儿青少年继续学业或重返校园。\n\n教科文组织数据显示，截至2026年，在各国法律框架对受教育权的保护方面，58%的国家禁止基于生理性别或社会性别的歧视，但只有35%的国家明确规定保护怀孕和育儿女童。\n\n教科文组织积极支持各国促进教育领域的性别平等。通过“我们的权利，我们的生活，我们的未来”项目，教科文组织与35国教育部合作，帮助数百万年轻人为自己的人生和未来作出决定。(完)\n\n60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”\n\n向新而行，科创、智造、枢纽绘就天津发展新图景\n\n“海燕博客”理事长段利丽：以社群之力激活青年新经济\n\n六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南\n\n10万游客涌入5万人口小城 面对超预期客流当地如何应对\n\n45岁离世，他为什么凭《小城之春》影响了百年华语电影？\n\n从雪山湖泊到千年古镇，多地推进景区结婚登记\n\n人均带三个空箱来华购物的“China Haul”火了\n\n走进江西万年神农宫：溶洞藏仙境 石笋记流年\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "联合国教科文组织于10月8日发布《2026年全球教育监测报告》性别专题报告。",
+          "报告指出，童婚和早孕仍威胁女童教育取得的进展。",
+          "来源叙事重点：报道聚焦联合国教科文组织发布的《2026年全球教育监测报告》性别专题报告，重点展现全球女童教育虽取得宏观进展（男女入学率基本持平），但在贫困偏远地区仍受童婚、早孕及育后返校受阻等结构性挑战威胁，呼吁健全法律政策保障女童受教育权。"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-10-09T02:06:44.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-s-highest-science-prizes-7b12f50fabe24a85",
+        "title": "特朗普总统向科技巨头捐助者颁发国家最高科学奖项",
+        "originalTitle": "President Trump awards Big Tech donors with nation’s highest science prizes",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T22:33:59.000Z",
+        "pubTime": "2026-10-09 06:33",
+        "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+        "imageUrl": null,
+        "fullContent": "On Thursday, at the Golden Age of American Innovation Summit, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize. Dell Technologies’ Michael Dell and Microsoft’s Satya Nadella also received the National Medal of Technology and Innovation.\n\nTogether, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration, according to The New Republic. Alphabet and Microsoft, for example, donated to the president’s inauguration fund and White House ballroom. AMD gave to a pro-Trump Super PAC, and Michael and Susan Dell pledged $6.25 billion to help fund the Trump Accounts, the administration’s savings program for children.\n\nTrump said the honorees had helped “pioneer an incredible future for America,” and that because of them, “we will always be on top. No one else can compete with us.”\n\nNadella received his medal right after the administration indefinitely suspended Microsoft from the H-1B program, which lets U.S. companies hire skilled foreign workers.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "周四，在“美国创新黄金时代峰会”（Golden Age of American Innovation Summit）上，特朗普总统向埃隆·马斯克（Elon Musk）、黄仁勋（Jensen Huang）、谢尔盖·布林（Sergey Brin）以及 AMD 的苏姿丰（Lisa Su）颁发了美国最高科学荣誉——国家科学奖章（National Medal of Science）。戴尔科技的迈克尔·戴尔（Michael Dell）和微软的萨蒂亚·纳德拉（Satya Nadella）也荣获了国家技术与创新奖章（National Medal of Technology and Innovation）。\n\n据《新共和》（The New Republic）报道，这些获奖者总共向与特朗普及其政府相关的各项事务捐赠了近 60 亿美元。例如，Alphabet 和微软曾向总统就职基金和白宫宴会厅项目捐款。AMD 向一个支持特朗普的超级政治行动委员会（Super PAC）提供了资金，而迈克尔·戴尔与苏珊·戴尔夫妇则承诺捐资 62.5 亿美元，以协助资助本届政府针对儿童设立的储蓄计划“特朗普账户”（Trump Accounts）。\n\n特朗普表示，获奖者们协助“为美国开创了令人难以置信的未来”，并且正因为他们，“我们将永远名列前茅。没有人能与我们竞争。”\n\n就在纳德拉领奖前不久，该届政府刚刚无限期暂停了微软参与允许美国公司雇佣外国技术工人的 H-1B 签证项目。\n\n第二张入场通票享 5 折优惠：Disrupt 活动体验本就旨在与人共享。购买通票并携带同事、合伙人或同行参会，即可享受半价优惠。通过建立人脉、蓄积动力并探索初创生态系统的新趋势，覆盖更多领域。\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您了解交通领域新闻与深刻见解的目的地。\n\n初创企业是 TechCrunch 的核心，欢迎每周查收我们的深度报道推送。\n\n为行业领军者提供开启新一天所需的情报。\n\n提交您的电子邮箱即表示您同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 10,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦获奖者与特朗普政府之间的巨额资金/政治献金关联，将国家级科技荣誉的颁发置于政商回报框架中，并指出授奖与打压（如针对微软暂停H-1B资格）并存的政策矛盾。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T22:33:59.000Z",
+            "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/"
+          }
+        ]
+      },
+      {
+        "id": "story-our-possessions-c4b5533e-a4b9a48be5d7cc29",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:03:00.000Z",
+        "pubTime": "2026-10-09 08:03",
+        "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Seven tips for painlessly moving in retirement.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 08:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T00:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ung-people-mental-health-b5d979d7ad3a5eac",
+        "title": "绝非“雪花一代”：心理健康审查报告称当今年轻人处境更艰难，危害真实存在",
+        "originalTitle": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T23:01:32.000Z",
+        "pubTime": "2026-10-09 07:01",
+        "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+        "imageUrl": "https://i.guim.co.uk/img/media/44233b178f7b067fb390c95bb5f5f2293dec3028/169_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=9911e12c5096b870c4bf3db0df3c0a4f",
+        "fullContent": "Peter Fonagy lauds courage of young people and warns of consequences of rising prevalence of mental illness\n\nFull report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds\n\nExplainer | What has the Fonagy review found and what does it recommend?\n\nEighteen months ago, in an off-the-cuff remark during a discussion on disability benefit cuts, Wes Streeting said mental health conditions were being “overdiagnosed”, riding headlong into another culture war.\n\nHe later apologised for the comment, but at the time it seemed the then health secretary had endorsed a populist view that ordinary stresses and disappointments had become too often medicalised, resulting in a surge of bogus clinical diagnoses and creating a “snowflake generation” of fragile, avoidant and workshy young people.\n\nI am in awe of their courage. Young people are contending with more powerful forces than I ever faced",
+        "fullTranslation": "彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病患病率上升的后果发出警告。\n\n完整报告 | 调查发现，随着对多动症（ADHD）和自闭症照护的需求激增，英国国家医疗服务体系（NHS）面临“系统性失效”风险\n\n解读 | 福纳吉审查报告有何发现，又提出了哪些建议？\n\n18个月前，在一次关于削减残障福利的讨论中，韦斯·斯特里廷（Wes Streeting）随口表示心理健康问题正被“过度诊断”，一头扎进了另一场文化战争之中。\n\n他后来为此言论道歉，但在当时，这位时任卫生大臣似乎认同了一种民粹主义观点，即普通的压力和失望被过于频繁地医学化，导致虚假的临床诊断激增，并造就了脆弱、逃避且不愿工作的“雪花一代”年轻人。\n\n“我对他们的勇气深感敬佩。年轻人正在抗衡比我以往所面对的更为强大的力量。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病发病率上升的后果发出警告。",
+          "一项调查发现，随着对注意缺陷多动障碍（ADHD）和自闭症照护需求的激增，英国国家医疗服务体系（NHS）面临“系统性衰竭”的风险。",
+          "来源叙事重点：重点报道彼得·福纳吉审查（Fonagy review）的研究结论，反驳将年轻人贬低为“雪花代”的文化战争叙事，强调年轻人面临的心理健康创伤与外部现实压力是真实的，并警示NHS正面临系统性负担危机"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T23:01:32.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health"
+          }
+        ]
+      },
+      {
+        "id": "story-ard-odds-rare-cards-html-720b15f5f41eaa2a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Most trading card packs hide the odds of winning rare cards, study finds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T01:40:01.000Z",
+        "pubTime": "2026-10-09 09:40",
+        "url": "https://phys.org/news/2026-10-card-odds-rare-cards.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/collectible-cards.jpg",
+        "fullContent": "Pokémon, sports and other physical trading and collectible cards have been around for decades but have surged in popularity since COVID. These cards are usually obtained through gambling-like packs containing random cards. Most packs do not offer any highly desirable cards, but a few packs will. Consumers, often including children, therefore buy many packs in the hope of obtaining rare chase cards.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 09:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-card-odds-rare-cards.html",
+            "publishedAt": "2026-10-09T01:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--military-base-laos-html-066aed1c30b90627",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China Expands Its Military Reach by Building a Base in Laos",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T02:06:06.000Z",
+        "pubTime": "2026-10-09 10:06",
+        "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/10/08/multimedia/2026-10-08-china-laos-runway-index/2026-10-08-china-laos-runway-index-mediumSquareAt3X-v4.jpg",
+        "fullContent": "The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-10-09 10:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+            "publishedAt": "2026-10-09T02:06:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-n-firing-squad-fort-hood-4268295049087d74",
+        "title": "美国计划对枪决行刑进行网络直播",
+        "originalTitle": "US plans livestream of execution by firing squad",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T22:32:04.000Z",
+        "pubTime": "2026-10-09 06:32",
+        "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298331635.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe planned execution of Nidal Hasan will be ‘public,’ Pete Hegseth said in an interview.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Jay Peters\n\nThe United States’ execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed by firing squad on December 3rd at 2PM ET.\n\nThe Verge contacted YouTube, Twitch, TikTok, Meta, Rumble, and Kick to ask if they plan to allow the livestream to be aired on their platforms. None responded before publication.\n\n“We’ll make sure that people are able to watch it, that it’s public, because people need to understand that there’s serious consequences for these types of things,” US Defense Secretary Pete Hegseth said in an interview with Real America’s Voice.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。\n皮特·海格塞斯在受访时表示，对尼达尔·哈桑的处决计划将“公开”进行。\n该作者的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。\n查看杰·彼得斯的全部文章\n国防部匿名官员向英国广播公司（BBC）和美联社透露，美国对胡德堡枪击案凶手的处决将进行网络直播。针对前美国陆军少校尼达尔·哈桑的处决计划于本周公布，他此前因在得克萨斯州该军事基地杀害13人而被定罪。他定于美国东部时间12月3日下午2点被执行枪决。\nThe Verge已联系YouTube、Twitch、TikTok、Meta、Rumble和Kick，询问它们是否计划允许在其平台上播出该直播。在本文发布前，没有任何平台作出回应。\n“我们将确保民众能够观看，确保它是公开的，因为人们需要明白，做出这类事情将承担严重后果，”美国国防部长皮特·海格塞斯在接受“真美国之声”（Real America’s Voice）采访时表示。\n重要核心新闻的每日免费摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美国政府计划公开网络直播胡德堡枪击案凶手枪决过程，重点探讨主流流媒体与社交平台对此类暴力内容直播的审查政策与应对立场"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T22:32:04.000Z",
+            "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood"
+          }
+        ]
+      },
+      {
+        "id": "story-ut-200-oil-just-yet-html-3c857743072a667e",
+        "title": "全球最大原油交易商仍未排除油价升至200美元的可能性",
+        "originalTitle": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:00:00.000Z",
+        "pubTime": "2026-10-09 08:00",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
+        "imageUrl": null,
+        "fullContent": "Ship-to-ship transfers in the Gulf of Oman that keep oil flowing from the Middle East provide a lifeline to Gulf producers and to the oil market, according to Russell Hardy, chief executive officer at the world's biggest independent oil trader, Vitol Group. \"Without it, you do have that $200-a-barrel scenario, so it is pretty important it continues,\" Hardy said at the Energy Intelligence Forum in London this week. \"There aren't any more inventories to drain in the West.\" The ship-to-ship STS transfers, in which smaller vessels pick up oil to transit the Strait of Hormuz and then reload the cargo onto larger tankers in the Gulf of Oman, have soared in recent weeks. Some estimates put oil flows out of the Strait of Hormuz at or above the pre-war levels of around 20 million barrels per day bpd of oil and products leaving the Persian Gulf. Gulf Producers' Lifeline Over the past 7-10 days, a total of 14 million bpd of oil left the Middle East, including 2 million bpd of products and 12 million bpd of crude oil, Vitol's Hardy told the London forum. These numbers are still significantly below pre-war levels. But it is critical they are kept up to prevent another major spike in oil prices, according to the top executive of the trading giant. Any deterioration of shipping conditions in and around the Strait of Hormuz risks trapping higher volumes and leaving fewer barrels that move through the chokepoint. The number of attacks on tankers in the area has jumped in recent days, threatening the lifeline of the Gulf oil exporters and risking another leg higher in oil prices. In the week to October 5, at least 12 attacks on oil, LNG, and liquefied petroleum gas LPG tankers took place around the Strait of Hormuz, Reuters reports, citing data from maritime security sources who analyzed incidents based on information received from the area. \"IRGC attacks, attempted attacks, and/or harassment activity persisted including UAV overflight, targeted surveillance of merchant shipping, and occasional VHF hailing,\" the US Navy-led Joint Maritime Information Center JMIC said in a note this weekend. \"These actions continue to demonstrate Iran's intent to assert presence along key transit lanes and maintain pressure on transiting vessels.\" Related U.S. and Russia Discuss Reviving Russian Gas Sales to Europe STS transfers are helping keep crude oil flows from the Middle East at some adequately high levels, but fuel shipments have collapsed since March and haven't recovered in any meaningful way, keeping upward pressure on the global fuel market and crude oil prices. From Oil Crisis to Shipping Crisis While somewhat efficient in preventing oil price spikes to $200 a barrel, these transfers are highly inefficient for the global tanker fleet, Vitol's Hardy noted. The shuttle-shipping through the Strait of Hormuz is \"very inefficient,\" the executive said, noting that many tankers remain tied up in the area waiting for cargoes for days or weeks. This effectively takes them out of the shipping fleet and slashes tanker availability on other routes, resulting in record-high freight rates on key maritime corridors. \"We started this conflict with a crude crisis. Then it turned into a product crisis. Now we have more crude oil coming out of the Middle East, but it is turning into a shipping crisis,\" Hardy told the Energy Intelligence Forum. \"There is really not quite enough shipping to go around,\" he added. As a result, shipping costs for buyers and refiners are soaring and, most of all, they make calculating the costs nearly impossible. \"It is creating a lot of stress for everybody because nobody really knows, to the nearest $2, $3, $4 [a barrel], how much their shipping costs are going to be,\" Hardy said. \"That creates a difficult set of decisions for people to make day to day.\" Average global crude vessel earnings exceeded an unprecedented level of $500,000 per day in early October, which is 10 times the 2025 average, Rico Luman, senior sector economist, Transport and Logistics, at ING, wrote in a note this week. Suezmaxes and very large crude carriers VLCC have seen even higher daily rates. For example, crude shipments from Saudi Arabia's Ras Tanura within the Persian Gulf to Rotterdam were about $2 per barrel last year, while the costs surged beyond $35 a barrel in September, Luman said. \"Restructured oil flows and a rush for capacity to handle oil transport operating under military protection have driven rates sharply higher, adding further pressure to fuel prices alongside strong refinery margins,\" according to the economist. The record-breaking shipping costs and refinery margins in Europe 2.5 times higher than the 2025 average, could add more than $0.50 to the base price of a liter of diesel at the pump, Luman said. \"The capacity squeeze, combined with operating in risky war zones and facing highly elevated insurance premiums, has sent tanker rates soaring,\" the expert added. \"We have seen previous surges in this volatile market, such as in 2022 after sanctions were placed on Russia, but this spike is beyond levels ever seen before.\" By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "据全球最大的独立石油交易商维多集团（Vitol Group）首席执行官拉塞尔·哈迪（Russell Hardy）表示，阿曼湾的船对船（STS）转运保障了中东石油的持续外运，为海湾产油国和石油市场提供了生命线。哈迪本周在伦敦举行的能源情报论坛（Energy Intelligence Forum）上说：“如果没有这种转运，油价确实可能达到每桶200美元，因此这种转运能够持续下去非常重要。西方已经没有更多库存可以消耗了。”\n\n近几周，船对船（STS）转运量大幅增加。在这种转运模式下，小型船只装载石油，通过霍尔木兹海峡航行，随后在阿曼湾将货物转装到大型油轮上。部分估计显示，目前通过霍尔木兹海峡外运的石油及石油产品数量已达到或超过战前水平，即每天约2000万桶离开波斯湾。\n\n海湾产油国的生命线\n\n哈迪在伦敦论坛上表示，过去7至10天内，共有1400万桶/日的石油离开中东，其中包括200万桶/日的石油产品和1200万桶/日的原油。这些数字仍显著低于战前水平。但这位交易巨头高管表示，维持这一外运规模至关重要，以防止油价再次大幅飙升。\n\n霍尔木兹海峡及其周边航运状况的任何恶化，都可能导致更多石油被困在当地，并使能够通过这一咽喉要道运输的原油数量进一步减少。近几天，该地区针对油轮的袭击数量有所增加，威胁到海湾石油出口国的这条生命线，也可能推动油价再度走高。\n\n路透社援引海事安全消息人士的数据报道，在截至10月5日的一周内，霍尔木兹海峡附近至少发生了12起针对石油、液化天然气（LNG）和液化石油气（LPG）油轮的袭击。这些海事安全消息人士根据从当地收到的信息，对相关事件进行了分析。\n\n由美国海军主导的联合海事信息中心（JMIC）本周末在一份通报中表示：“伊朗伊斯兰革命卫队（IRGC）的袭击、未遂袭击和/或骚扰活动仍在持续，包括无人机飞越、对商船进行定向监视，以及偶尔通过甚高频（VHF）无线电呼叫。”“这些行动继续表明，伊朗有意在关键航道沿线展示存在，并持续向过境船只施压。”\n\n相关阅读：美国与俄罗斯讨论恢复俄罗斯对欧洲的天然气销售\n\nSTS转运有助于使中东原油外运保持在相对较高水平，但自3月以来，燃料运输量已大幅下降，且没有以任何有意义的方式恢复，从而持续对全球燃料市场和原油价格构成上行压力。\n\n从石油危机到航运危机\n\n维多集团的哈迪指出，虽然船对船转运在一定程度上有效避免了油价飙升至每桶200美元，但对于全球油轮船队而言，这种转运效率极低。\n\n这位高管表示，经霍尔木兹海峡进行的穿梭式航运“效率非常低”，并指出，许多油轮仍被滞留在当地，等待货物的时间长达数日甚至数周。这实际上使这些油轮退出了航运船队，削弱了其他航线上的油轮供应，进而导致关键海运通道的运费创下历史新高。\n\n哈迪在能源情报论坛上说：“这场冲突开始时是一场原油危机，随后演变成了石油产品危机。如今，更多原油正在离开中东，但这正在演变成一场航运危机。”“实际上，航运能力并不足以满足各方需求。”\n\n因此，买家和炼油商承担的运输成本正在飙升。最重要的是，这些成本几乎无法计算。哈迪说：“这给所有人造成了很大压力，因为没有人真正知道自己的航运成本究竟会是多少，误差可能达到每桶2美元、3美元或4美元。”“这使人们每天都必须作出一系列艰难决定。”\n\n荷兰国际集团（ING）运输与物流高级行业经济学家里科·卢曼（Rico Luman）本周在一份报告中写道，10月初，全球原油运输船的平均日收益超过50万美元，达到前所未有的水平，是2025年平均水平的10倍。苏伊士型油轮和超大型原油运输船（VLCC）的日运价甚至更高。\n\n卢曼表示，例如，去年从波斯湾内的沙特阿拉伯拉斯坦努拉港向鹿特丹运输原油的成本约为每桶2美元，而今年9月这一成本已飙升至每桶35美元以上。\n\n这位经济学家表示：“重新调整后的石油流向，以及为满足军事保护下石油运输需求而争抢运力，推动运价大幅上涨。在炼油利润率强劲的同时，这进一步加剧了燃料价格压力。”\n\n卢曼表示，创纪录的航运成本，加上欧洲炼油利润率达到2025年平均水平的2.5倍，可能使加油站柴油基础价格每升上涨超过0.50美元。\n\n这位专家补充说：“运力紧张，加上在危险的战区运营以及面临大幅上升的保险费率，已推动油轮运价飙升。”“此前这一波动市场也曾出现过类似的上涨，例如2022年俄罗斯遭受制裁后，但此次涨幅已经超过以往所有水平。”\n\n作者：Tsvetana Paraskova，Oilprice.com",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "Vitol Group首席执行官Russell Hardy在伦敦举办的Energy Intelligence Forum上表示，阿曼湾的船对船（STS）转运是海湾产油国和石油市场的生命线，若没有该转运，原油价格可能升至每桶200美元。",
+          "在过去7至10天内，共有1400万桶/日的石油运离中东，其中包括200万桶/日的成品油和1200万桶/日的原油。",
+          "来源叙事重点：聚焦霍尔木兹海峡地缘冲突引发的航运物流危机，强调穿梭驳运与船对船转运虽维持了部分原油外运但效率极低，运力挤压与运费暴涨正推高能源成本并带来油价触及200美元的尾部风险"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ental-health-adhd-autism-8f78e661e0d3044b",
+        "title": "英格兰国民保健署心理健康服务审查报告：有哪些发现与建议？",
+        "originalTitle": "NHS England mental health services review: what has it found and what does it recommend?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-08T23:01:32.000Z",
+        "pubTime": "2026-10-09 07:01",
+        "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+        "imageUrl": "https://i.guim.co.uk/img/media/5b54e3e6392187d46dc745af3e236e2138fdb83a/520_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=303f0236e1496512c30b8a0f6ddfe7f9",
+        "fullContent": "Prof Peter Fonagy’s 607-page report is categoric that mental distress has increased substantially and ‘cannot be explained by greater awareness alone’\n\nFull report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds\n\nAnalysis | No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real\n\nThe Fonagy review of NHS England’s mental health, ADHD and autism services was commissioned in 2025 by Wes Streeting, then the health secretary, in response to growing concerns that spiralling waiting lists for assessment, diagnosis and care threatened the NHS’s ability to meet the demand.\n\nThe 607-page report, published on Friday , says that without a radical overhaul, mental health and neurodiversity services will be overwhelmed. Here are some of its key findings and recommendations.",
+        "fullTranslation": "彼得·福纳吉教授（Prof Peter Fonagy）长达607页的报告明确指出，心理困扰已大幅增加，且“不能仅仅用公众意识提高来解释”。\n完整报告 | 调查发现，随着对注意缺陷多动障碍（ADHD）和自闭症护理的需求激增，国民保健署（NHS）面临“系统性崩溃”风险\n深度分析 | 绝非“玻璃心”：心理健康审查报告称当今年轻人处境更加艰难，危害是真实的\n福纳吉对英格兰国民保健署心理健康、ADHD及自闭症服务的审查工作于2025年由时任卫生大臣韦斯·斯特里廷（Wes Streeting）委托开展，旨在应对人们日益增长的担忧——评估、诊断和护理的轮候名单不断激增，已威胁到国民保健署满足需求的能力。\n这份于周五发布的607页报告指出，如果不进行彻底改革，心理健康和神经多样性服务将被彻底压垮。以下是该报告的部分主要发现和建议。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦福纳吉审查报告对NHS心理健康与神经多样性服务的严厉警示，强调心理困扰加剧是真实社会困境而非虚假敏感，呼吁对濒临崩溃的医疗评估体系进行彻底改革"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-08T23:01:32.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791497760805,
     "timeDisplay": "2026-10-09 06:16 (UTC+8)",
     "date": "2026-10-09",

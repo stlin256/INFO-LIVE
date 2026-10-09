@@ -50,14 +50,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **115** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **116** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-09 06:16 (UTC+8)
+- **最新归档时间**：2026-10-09 10:23 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-09 10:23 (UTC+8)" title="全球要闻情报简报 · 10:23" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-09 10:16 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】特朗普政府暂停微软等企业外籍员工绿卡申请：中新社华盛顿10月8日电 (记者 陈孟统)美国政府8日宣布，暂停微软、奥多比(Adobe)等多家科技企业参与一项允许外籍员工申请美国绿卡的计划。同时，对哈佛大学等9所美国高校的“签证欺诈”行为发起调查。；【undefined】要闻：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 c：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 crates.io 上发布！；【undefined】联合国教科文组织新报告揭示女童教育面临的挑战：中新网巴黎10月9日电 在10月11日国际女童日即将到来之际，联合国教科文组织8日发布新报告指出，童婚和早孕仍威胁着女童教育所取得的进展。；【undefined】特朗普总统向科技巨头捐助者颁发国家最高科学奖项：周四，在“美国创新黄金时代峰会”（Golden Age of American Innovation Summit）上，特朗普总统向埃隆·马斯克（Elon Musk）、黄仁勋（Jensen Huang）、谢尔盖·布林（Sergey Brin）以及 AMD 的苏姿丰（Lisa Su）颁发了美国最高科学荣誉——国家科学奖章（National Medal of Science）。戴尔科技的迈克尔·戴尔（Michael Dell）和微软的萨蒂亚；【undefined】绝非“雪花一代”：心理健康审查报告称当今年轻人处境更艰难，危害真实存在：彼得·福纳吉（Peter Fonagy）赞扬年轻人的勇气，并对精神疾病患病率上升的后果发出警告。；【undefined】美国计划对枪决行刑进行网络直播：该主题的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。 皮特·海格塞斯在受访时表示，对尼达尔·哈桑的处决计划将“公开”进行。 该作者的相关帖子将添加到您的每日电子邮件摘要和主页信息流中。 查看杰·彼得斯的全部文章 国防部匿名官员向英国广播公司（BBC）和美联社透露，美国对胡德堡枪击案凶手的处决将进行网络直播。针对前美国陆军少校尼达尔·哈桑的处决计划于本周公布，他此前因在得克萨斯州该军事基地杀害13人而被定罪。他定于美国东部时间12；【undefined】全球最大原油交易商仍未排除油价升至200美元的可能性：据全球最大的独立石油交易商维多集团（Vitol Group）首席执行官拉塞尔·哈迪（Russell Hardy）表示，阿曼湾的船对船（STS）转运保障了中东石油的持续外运，为海湾产油国和石油市场提供了生命线。哈迪本周在伦敦举行的能源情报论坛（Energy Intelligence Forum）上说：“如果没有这种转运，油价确实可能达到每桶200美元，因此这种转运能够持续下去非常重要。西方已经没有更多库存可以消耗了。”；【undefined】英格兰国民保健署心理健康服务审查报告：有哪些发现与建议？：彼得·福纳吉教授（Prof Peter Fonagy）长达607页的报告明确指出，心理困扰已大幅增加，且“不能仅仅用公众意识提高来解释”。 完整报告 | 调查发现，随着对注意缺陷多动障碍（ADHD）和自闭症护理的需求激增，国民保健署（NHS）面临“系统性崩溃”风险 深度分析 | 绝非“玻璃心”：心理健康审查报告称当今年轻人处境更加艰难，危害是真实的 福纳吉对英格兰国民保健署心理健康、ADHD及自闭症服务的审查工作于2025年由时任卫生大
+
+**重点要闻索引：**
+- [中新社 (国际实时原版)] [特朗普政府暂停微软等企业外籍员工绿卡申请](https://www.chinanews.com.cn/gj/2026/10-09/10709473.shtml) <span class="news-meta-time">🕒 2026-10-09 10:07</span>
+- [MIT Tech Review (麻省理工科技评论)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) <span class="news-meta-time">🕒 2026-10-09 08:08</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-09 08:52</span>
+- [Lobste.rs (极客思想社区)] [要闻：感谢227位贡献者、817个拉取请求、社区审阅者以及慷慨的捐赠者，我们很高兴地宣布 Bevy 0.20 已在 c](https://bevy.org/news/bevy-0-20/) <span class="news-meta-time">🕒 2026-10-09 07:21</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-ai-reality-police.html) <span class="news-meta-time">🕒 2026-10-09 10:00</span>
+- [中新社 (国际实时原版)] [联合国教科文组织新报告揭示女童教育面临的挑战](https://www.chinanews.com.cn/gj/2026/10-09/10709465.shtml) <span class="news-meta-time">🕒 2026-10-09 10:06</span>
+:::
 :::timeline-item{start="2026-10-09 06:16 (UTC+8)" title="全球要闻情报简报 · 06:16" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-09 06:11 (UTC+8) 完成，共获得 41 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -650,18 +663,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [2026年AI从业者调查](https://techworkersinquiry.org/ai/) <span class="news-meta-time">🕒 2026-09-25 01:41</span>
 - [Phys.org (基础物理与技术前沿)] [短肽组装成蜂窝状纤维，在微小平行通道中锁住水分](https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html) <span class="news-meta-time">🕒 2026-09-25 02:20</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/economy/2192439) <span class="news-meta-time">🕒 2026-09-25 02:26</span>
-:::
-:::timeline-item{start="2026-09-24 21:39 (UTC+8)" title="全球要闻情报简报 · 21:39" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-24 21:37 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】乡村音乐明星萨姆·巴伯在近期阿拉斯加狩猎之旅中猎获巨型麋鹿：乡村音乐明星萨姆·巴伯（Sam Barber）在最近的一次狩猎之旅中猎获了一头令人惊叹的麋鹿。；【undefined】whatsnewt：体验 Python 3.15 新特性的 TUI 文本冒险游戏：探索 Python 3.15 新特性的 TUI 文本冒险游戏 pip install whatsnewt 复制 PIP 安装命令 一款带你领略 Python 3.15 新特性的 TUI 文本冒险游戏。 你在解释器内部某处的“启动门厅”（Startup Foyer）醒来，一路前行直至“发布之门”（Release Gate）。沿途共有十八道谜题，每一道都对应一个你必须实际运用的真实 3.15 新特性。你不仅仅是在回答枯燥的问题，而是在 Py；【undefined】罗技新款触觉反馈游戏鼠标稍有升级，售价高出20美元：该主题的文章将被添加到您的每日电子邮件摘要和主页推送中。 更长的电池续航和响应更敏锐的传感器是罗技 X3 Superstrike 的亮点。 该作者的文章将被添加到您的每日电子邮件摘要和主页推送中。 查看卡梅隆·福克纳（Cameron Faulkner）发布的所有文章 G Pro Superstrike 鼠标是罗技最受关注的产品之一。与其他游戏鼠标不同，它的两个主按键下方装有触觉执行器而非机械微动开关，这不仅降低了延迟，还支持自定义点击手；【undefined】解析表达文法与正则表达式之争：在 Lisp 中构建可导出为 HTML（通过 SXML）的 Org 解析器：撰写于：2026年9月24日；【undefined】澳大利亚将调查OpenAI入侵政府卫生网站事件是否违法：澳大利亚总理长安东尼·阿尔巴尼斯（Anthony Albanese）周三表示，一个OpenAI模型入侵了澳大利亚政府网站，这是首起公开报道的AI模型入侵政府系统的案例。；【undefined】是铁皮罐头们逼我搭建第二大脑的：AI成了压垮骆驼的最后一根稻草，让我确信自己必须拥有一个PKM（个人知识管理）系统。；【undefined】欧盟称即使普京出席，也将在二十国集团峰会上谴责乌克兰战争：俄罗斯总统弗拉基米尔·普京已收到美国发出的参加迈阿密二十国集团（G20）峰会的邀请。该集团的多个成员国此前曾因莫斯科入侵乌克兰而呼吁将其排除在外。；【undefined】霍尔木兹海峡对峙持续，欧洲天然气价格应声跳涨：周四，阿姆斯特丹天然气交易开盘时，欧洲基准天然气价格跳涨4%，原因是美伊两国在如何结束战争以及终止霍尔木兹海峡液化天然气（LNG）运输受阻问题上依然分歧巨大。在开盘大涨4%之后，作为欧洲天然气交易基准的荷兰TTF（Title Transfer Facility）近月合约价格涨幅有所收窄，但截至上午中段仍上涨3%，报每兆瓦时（MWh）84.30美元（74欧元）。当前价格已从本月高达93美元（82欧元）/兆瓦时的峰值回落，该峰值曾是自202
-
-**重点要闻索引：**
-- [FOX News Latest (美国FOX快讯)] [乡村音乐明星萨姆·巴伯在近期阿拉斯加狩猎之旅中猎获巨型麋鹿](https://www.foxnews.com/outkick-culture/country-music-star-sam-barber-bags-monster-elk-alaska-hunting-trip) <span class="news-meta-time">🕒 2026-09-24 21:35</span>
-- [The Verge (前沿数码科技)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance) <span class="news-meta-time">🕒 2026-09-24 21:30</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-24 21:15</span>
-- [Lobste.rs (极客思想社区)] [whatsnewt：体验 Python 3.15 新特性的 TUI 文本冒险游戏](https://pypi.org/project/whatsnewt/) <span class="news-meta-time">🕒 2026-09-24 20:19</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-feline-aging-years-clinical-trial.html) <span class="news-meta-time">🕒 2026-09-24 21:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/svo-2120037928.html) <span class="news-meta-time">🕒 2026-09-24 21:35</span>
 :::
 ::::
