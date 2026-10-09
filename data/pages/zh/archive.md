@@ -51,14 +51,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **118** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **119** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-10 01:08 (UTC+8)
+- **最新归档时间**：2026-10-10 05:49 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-10 05:49 (UTC+8)" title="全球要闻情报简报 · 05:49" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-10 05:46 (UTC+8) 完成，共获得 35 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】非文本AI模型Jev研发商上线数周估值达75亿美元：新型人工智能模型Jev的开发者TypeSafe AI在模型上线仅数周后便迅速走红，目前已按75亿美元估值完成8.7亿美元融资。本轮融资由Andreessen Horowitz领投，红杉资本（Sequoia）及现有投资方DCVC参投。；【undefined】三种受量子启发的致密核心在黑洞振荡中留下截然相反的印记：2026年10月9日 dialog 由 Lisa Lock 编辑，Robert Egan 审核 本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性： 经同行评审的出版物 由研究人员撰写 每个黑洞的中心都隐藏着一个谜团。爱因斯坦的理论预测，任何落入黑洞的物体都会被碾碎为一个奇点——一个密度无限大、理论本身在此失效的点。大多数物理学家期望量子引力能用某种有限的事物来取代该点。但黑洞中心深藏在；【undefined】Anthropic的AI向费城警方提供了一起未破凶杀案的虚假线索：来自该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。 这条虚假线索“据称来自可能掌握该案信息的人”。 来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。 查看 Emma Roth 的全部内容 据 6abc 报道，Anthropic 的一款人工智能模型向费城警察局（PPD）的线索举报热线提供了一起未破凶杀案的虚假信息。费城警察局在周五发布的一份声明中表示，该 AI 模型于 7 月 18 日通过 PhillyUnsolve；【undefined】无分支代码中的分支指令：这是一个将两个无符号 128 位整数相加的完整 C 语言函数：；【undefined】三年实验发现：美洲颤杨能通过叶片“记住”以往干旱经历：作者：犹他大学 Brian Maffly 编辑：Gaby Clark，审核：Robert Egan 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下特征： 同行评审出版物；【undefined】俄亥俄州博主因向参议员发送史莱克裸照被判骚扰罪名成立：来自该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。；【undefined】NASA推进新型测试望远镜研制，深化对LISA引力波探测任务的贡献：作者：弗朗西斯·雷迪（Francis Reddy），NASA 编辑：丽莎·洛克（Lisa Lock），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时突出了以下属性：；【undefined】三名男子在墨西哥谋杀澳大利亚冲浪兄弟及美国友人罪名成立：澳大利亚兄弟杰克·罗宾逊（30岁）和卡勒姆·罗宾逊（33岁）以及友人卡特·罗德（30岁）于2024年的一次冲浪旅行中遇害。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261010/tramp-2123601602.html) <span class="news-meta-time">🕒 2026-10-10 05:45</span>
+- [TechCrunch (硅谷创业与资本)] [非文本AI模型Jev研发商上线数周估值达75亿美元](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) <span class="news-meta-time">🕒 2026-10-10 05:41</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-10 05:30</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr) <span class="news-meta-time">🕒 2026-10-10 05:36</span>
+- [Phys.org (基础物理与技术前沿)] [三种受量子启发的致密核心在黑洞振荡中留下截然相反的印记](https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html) <span class="news-meta-time">🕒 2026-10-10 05:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261010/putin-2123601440.html) <span class="news-meta-time">🕒 2026-10-10 05:43</span>
+:::
 :::timeline-item{start="2026-10-10 01:08 (UTC+8)" title="全球要闻情报简报 · 01:08" org="ARCHIVE"}
 **速报纪要：** 本小时重点关注国际人权调查争议、美国农业网络安全威胁，以及计算、能源和操作系统领域的最新科技演进。
 
@@ -653,18 +666,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments) <span class="news-meta-time">🕒 2026-09-25 14:33</span>
 - [Phys.org (基础物理与技术前沿)] [太平洋飓风季异常猛烈且远未结束](https://phys.org/news/2026-09-intense-hurricane-season-pacific.html) <span class="news-meta-time">🕒 2026-09-25 15:42</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/vrach-2120196279.html) <span class="news-meta-time">🕒 2026-09-25 15:54</span>
-:::
-:::timeline-item{start="2026-09-25 09:39 (UTC+8)" title="全球要闻情报简报 · 09:39" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-25 09:37 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子：来自该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 起诉Meta的律师称这些帽子是其“滥用特权文化”的一个例证。 来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看Richard Lawler的所有文章；【undefined】高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想：如果你的无线耳机——或者音频眼镜——能够流畅播放高质量的无损音频，而且即使你把手机落在床头充电器上或塞在沙发缝里也不会断连，会是怎样的体验？高通最新推出的Snapdragon Sound Elite Gen 2（第二代骁龙畅听Elite）是其首款直接将“微功率 Wi-Fi 6E”集成到芯片内部的产品，使其能够直接连接到你的家庭Wi-Fi网络，并由此直连云端。[图片：高通早期的白皮书显示，最初实现Wi-Fi耳机需要两颗芯片。如今，Wi-F；【undefined】以下是出席特朗普与习近平国宴的宾客名单：根据白宫发布的新闻稿，在周四出席国宴的100多人名单中，美国政府官员、商界领袖及其配偶占据了绝大多数。；【undefined】实时新闻：休姆称AI黑客事件表明澳大利亚需要更多AI；阿尔巴尼斯在特朗普争议后发布与希腊总理自拍照：关注今日实时新闻 获取我们的突发新闻邮件、免费应用程序或每日新闻播客；【undefined】驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会：中新网堪培拉9月25日电 (记者 薄雯雯)中国驻澳大利亚大使馆24日举行庆祝中华人民共和国成立77周年暨刘劲松大使到任招待会。澳大利亚总督官方秘书马丁、总理内阁部副秘书长韩家思、外交贸易部代理副秘书长高志磊、各界友人、驻澳使节及华侨华人、中资机构和留学生代表等400余人出席。；【undefined】比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审：中新网布鲁塞尔9月25日电 (记者 德永健)案发3年半后，比利时知名艺术品收藏家米莉亚姆·尤伦斯遭枪杀案24日开审，嫌疑人米莉亚姆·尤伦斯的继子尼古拉·尤伦斯将接受法庭审判。；【undefined】勒庞建议法国不要与俄罗斯卷入冲突：塔斯社布鲁塞尔9月25日电 法国国民联盟党总统候选人、国民议会党团领袖玛丽娜·勒庞警告巴黎方面，不要与依然是核大国的俄罗斯发生冲突。；【undefined】5只在伊朗战争旷日持久格局中占据优势的能源股：自伊朗战争爆发以来，摩根大通（JPMorgan）首次表示，对于石油市场如何摆脱这场危机，该行已不再持有明确的基准预测。此前，该行基于这样一种假设：不断上涨的油价及其造成的经济破坏最终将限制冲突扩大的程度。然而在战争持续六个月后，摩根大通表示，许多此前设想的门槛已被打破，却并未带来明确的退出通道。目前约有1000万桶/日的石油供应遭到中断，而该行将布伦特原油9月的公允价值定在每桶90美元左右，相比之下当前市场交易价格在106美元左右。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/lavrov-2120150952.html) <span class="news-meta-time">🕒 2026-09-25 09:35</span>
-- [The Verge (前沿数码科技)] [Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats) <span class="news-meta-time">🕒 2026-09-25 07:50</span>
-- [CNBC Markets (CNBC 市场官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html) <span class="news-meta-time">🕒 2026-09-25 09:22</span>
-- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/) <span class="news-meta-time">🕒 2026-09-25 07:11</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html) <span class="news-meta-time">🕒 2026-09-25 09:20</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/dmitriev-2120150751.html) <span class="news-meta-time">🕒 2026-09-25 09:32</span>
 :::
 ::::

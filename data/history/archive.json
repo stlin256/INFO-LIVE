@@ -1,5 +1,1564 @@
 [
   {
+    "timestamp": 1791582591140,
+    "timeDisplay": "2026-10-10 05:49 (UTC+8)",
+    "date": "2026-10-10",
+    "runId": "feed-20261009T214608215Z-sujjva",
+    "generatedAt": "2026-10-09T21:49:51.140Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 05:46",
+      "lead": "本轮抓取于 2026-10-10 05:46 (UTC+8) 完成，共获得 35 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】非文本AI模型Jev研发商上线数周估值达75亿美元：新型人工智能模型Jev的开发者TypeSafe AI在模型上线仅数周后便迅速走红，目前已按75亿美元估值完成8.7亿美元融资。本轮融资由Andreessen Horowitz领投，红杉资本（Sequoia）及现有投资方DCVC参投。",
+        "【undefined】三种受量子启发的致密核心在黑洞振荡中留下截然相反的印记：2026年10月9日 dialog 由 Lisa Lock 编辑，Robert Egan 审核 本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性： 经同行评审的出版物 由研究人员撰写 每个黑洞的中心都隐藏着一个谜团。爱因斯坦的理论预测，任何落入黑洞的物体都会被碾碎为一个奇点——一个密度无限大、理论本身在此失效的点。大多数物理学家期望量子引力能用某种有限的事物来取代该点。但黑洞中心深藏在",
+        "【undefined】Anthropic的AI向费城警方提供了一起未破凶杀案的虚假线索：来自该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。 这条虚假线索“据称来自可能掌握该案信息的人”。 来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。 查看 Emma Roth 的全部内容 据 6abc 报道，Anthropic 的一款人工智能模型向费城警察局（PPD）的线索举报热线提供了一起未破凶杀案的虚假信息。费城警察局在周五发布的一份声明中表示，该 AI 模型于 7 月 18 日通过 PhillyUnsolve",
+        "【undefined】无分支代码中的分支指令：这是一个将两个无符号 128 位整数相加的完整 C 语言函数：",
+        "【undefined】三年实验发现：美洲颤杨能通过叶片“记住”以往干旱经历：作者：犹他大学 Brian Maffly 编辑：Gaby Clark，审核：Robert Egan 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下特征： 同行评审出版物",
+        "【undefined】俄亥俄州博主因向参议员发送史莱克裸照被判骚扰罪名成立：来自该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。",
+        "【undefined】NASA推进新型测试望远镜研制，深化对LISA引力波探测任务的贡献：作者：弗朗西斯·雷迪（Francis Reddy），NASA 编辑：丽莎·洛克（Lisa Lock），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时突出了以下属性：",
+        "【undefined】三名男子在墨西哥谋杀澳大利亚冲浪兄弟及美国友人罪名成立：澳大利亚兄弟杰克·罗宾逊（30岁）和卡勒姆·罗宾逊（33岁）以及友人卡特·罗德（30岁）于2024年的一次冲浪旅行中遇害。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "全球动态速递：科技资本、前沿物理与多边外交观察",
+      "lead": "本期资讯聚焦科技投融资、前沿科学理论及多边外交动向。要点包括TypeSafe AI获得大额融资、理论物理学关于黑洞奇点与量子引力的探讨，以及涉及G20峰会的高层接触表态。",
+      "themes": [
+        {
+          "name": "人工智能与资本市场",
+          "analysis": "TypeSafe AI完成了由风险投资机构a16z领投的8.7亿美元融资，体现出资本市场对人工智能前沿项目的大规模注资力度。"
+        },
+        {
+          "name": "前沿理论物理研究",
+          "analysis": "科学探讨聚焦于黑洞中心奇点的理论困境。爱因斯坦广义相对论预言的无限密度奇点与理论失效问题，促使物理学家寄望于量子引力理论以解析视界背后的真实物理状态。"
+        },
+        {
+          "name": "多边国际外交动态",
+          "analysis": "相关信源披露了针对G20峰会期间潜在高层会晤的言论（提及可能在G20期间会面），反映出各方对多边峰会接触与双边会晤的预期。空缺信源多处于翻译与处理阶段，整体信息呈现跨领域离散分布。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 80,
+      "completedTasks": 80,
+      "succeeded": 70,
+      "degraded": 10,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 80,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 222865,
+      "byRole": {
+        "translator": {
+          "attempts": 52,
+          "succeeded": 43,
+          "degraded": 9
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 80,
+          "succeeded": 70,
+          "degraded": 10
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-9-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-17-translator-0",
+      "article-17-translator-2",
+      "article-34-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:51.536Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.031Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:51.724Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.349Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.463Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.701Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.501Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.068Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.675Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.844Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.662Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.647Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:54.844Z",
+        "lastSuccessAt": "2026-10-09T21:45:55.155Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:51.873Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.057Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.701Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.140Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.602Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.133Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.345Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.587Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.322Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.557Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.057Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.345Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.133Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.322Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:54.647Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.990Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:54.028Z",
+        "lastSuccessAt": "2026-10-09T21:45:55.198Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:54.561Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.691Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.929Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.387Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.446Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.521Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.349Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.501Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:51.833Z",
+        "lastSuccessAt": "2026-10-09T21:45:51.873Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:50.754Z",
+        "lastSuccessAt": "2026-10-09T21:45:51.833Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.383Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.600Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.239Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.383Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-09T21:45:53.068Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.367Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.495Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.467Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.651Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.802Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.072Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:54.691Z",
+        "lastSuccessAt": "2026-10-09T21:45:58.457Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.387Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.461Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.600Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.675Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.495Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.662Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.651Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.028Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:54.700Z",
+        "lastSuccessAt": "2026-10-09T21:45:55.084Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.521Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.802Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.934Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.467Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.140Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.367Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.603Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.721Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.461Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.716Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-09T21:45:53.441Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:50.752Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.446Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.509Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.952Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:50.753Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.602Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.716Z",
+        "lastSuccessAt": "2026-10-09T21:45:55.180Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.133Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.392Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.031Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.133Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.392Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.509Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.072Z",
+        "lastSuccessAt": "2026-10-09T21:45:53.239Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.721Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.561Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:53.952Z",
+        "lastSuccessAt": "2026-10-09T21:45:54.700Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.587Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.929Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:52.557Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.934Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:50.736Z",
+        "lastSuccessAt": "2026-10-09T21:45:51.724Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:50.750Z",
+        "lastSuccessAt": "2026-10-09T21:45:51.536Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T21:45:50.751Z",
+        "lastSuccessAt": "2026-10-09T21:45:52.463Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-10-tramp-2123601602-html-3f558789f5e4de04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп поздравил Путина с днем рождения по телефону, сообщил Ушаков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T21:45:28.000Z",
+        "pubTime": "2026-10-10 05:45",
+        "url": "https://ria.ru/20261010/tramp-2123601602.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 05:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261010/tramp-2123601602.html",
+            "publishedAt": "2026-10-09T21:45:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--just-weeks-after-launch-7984e92e6601d72f",
+        "title": "非文本AI模型Jev研发商上线数周估值达75亿美元",
+        "originalTitle": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:41:29.000Z",
+        "pubTime": "2026-10-10 05:41",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "imageUrl": null,
+        "fullContent": "TypeSafe AI, the developer of Jev, a new type of AI model that gained rapid popularity after launching just a few weeks ago, has raised $870 million at a $7.5 billion valuation. The round was led by Andreessen Horowitz, with participation from Sequoia and existing investor DCVC.\n\nThe massive fundraise comes as little surprise given Jev went viral almost instantly after its Sept. 15 release. The startup claims that a third of Fortune 500 companies are already using the model, a remarkably swift adoption by enterprises.\n\nJev is based on a transformer architecture, but it is not a large language model (LLM). It doesn’t output text, but instead produces probabilities, or what the company calls “calibrated decisions.” What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. The company positions its approach as uniquely suited for automating tasks rather than generating text or code.\n\n“We have been super good at human language for four years, but it’s not useful for automation because computers speak a different language,” TypeSafe co-founder Diogo Almeida told TechCrunch last month.\n\nAlong with Almeida, who was previously a researcher at OpenAI, TypeSafe was co-founded in 2024 by former Meta research engineer Sasha Sheng and Erik Gafni, an engineer and entrepreneur.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "新型人工智能模型Jev的开发者TypeSafe AI在模型上线仅数周后便迅速走红，目前已按75亿美元估值完成8.7亿美元融资。本轮融资由Andreessen Horowitz领投，红杉资本（Sequoia）及现有投资方DCVC参投。\n\n鉴于Jev自9月15日发布后几乎立刻爆火，这笔巨额融资并不令人意外。这家初创公司声称，《财富》500强企业中有三分之一已经在使用该模型，在企业级市场的普及速度极为迅猛。\n\nJev基于Transformer架构，但它并非大型语言模型（LLM）。它不输出文本，而是生成概率，即该公司所称的“校准决策”。让用户和大型企业对Jev如此兴奋的原因在于，TypeSafe声称其运行速度显著快于LLM，且消耗的Token数量远少于LLM。该公司将其定位为一种独特适合自动化任务而非生成文本或代码的解决方案。\n\n“四年来我们一直极度擅长人类语言，但这对于自动化并无用处，因为计算机说的是另一种语言，”TypeSafe联合创始人迪奥戈·阿尔梅达（Diogo Almeida）上月向TechCrunch表示。\n\n阿尔梅达此前曾是OpenAI的研究员。除了他之外，TypeSafe由前Meta研究工程师萨莎·盛（Sasha Sheng）以及工程师兼创业者埃里克·加夫尼（Erik Gafni）于2024年共同创立。\n\n第二张门票立享5折优惠。Disrupt活动体验适合与他人分享。购买门票即可带上同事、合作伙伴或同行，享半价优惠。通过建立人脉、积累势头并探索初创生态圈的下一步动态，覆盖更广阔的领域。\n\n每个工作日和周日，您都可以获取TechCrunch的最佳报道内容。\nTechCrunch Mobility是您获取交通新闻与洞察的目的地。\n初创企业是TechCrunch的核心，欢迎订阅我们每周精选的深度报道。\n为行业领袖及弄潮儿提供开启新一天所需的资讯。\n提交您的邮箱即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "TypeSafe AI在由Andreessen Horowitz领投的融资轮中筹集了8.7亿美元，估值达到75亿美元，红杉资本（Sequoia）和现有投资者DCVC参投。",
+          "TypeSafe AI开发了AI模型Jev，该模型于9月15日发布。",
+          "来源叙事重点：聚焦TypeSafe AI凭借非文本模型Jev在发布数周内迅速爆火，获得顶级风投领投的巨额融资与极高估值，并强调其区别于传统LLM的技术路径和企业自动化潜力。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:41:29.000Z",
+            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+          }
+        ]
+      },
+      {
+        "id": "story-omponent-orders-a44244ee-27bf502f2bd54e78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:30:00.000Z",
+        "pubTime": "2026-10-10 05:30",
+        "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 05:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T21:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ial-guinea-bissau-rfk-jr-d7aed4fb31d4181b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:36:18.000Z",
+        "pubTime": "2026-10-10 05:36",
+        "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+        "imageUrl": "https://i.guim.co.uk/img/media/9b0dd26cb04cecfa9d30fecef7979eaede8617d7/512_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=e8ea85f8f687ec21d09686ea62619ec1",
+        "fullContent": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers\n\nA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week.\n\nIt is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "丹麦研究人员将在几内亚比绍的一项研究试验中暂扣数千名新生儿的推荐剂量乙肝疫苗。",
+          "一项将暂扣部分非洲新生儿乙肝疫苗的有争议研究试验于本周获批推进。",
+          "来源叙事重点：聚焦于几内亚比绍获批开展的一项极具争议的临床试验，强调丹麦研究人员扣留数千名非洲新生儿的推荐剂量乙肝疫苗，并将该试验与美国卫生部部长、疫苗怀疑论者小罗伯特·F·肯尼迪的疫苗政策愿景直接挂钩"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:36:18.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
+          }
+        ]
+      },
+      {
+        "id": "story-rprints-black-holes-html-b0fefd2484a555b0",
+        "title": "三种受量子启发的致密核心在黑洞振荡中留下截然相反的印记",
+        "originalTitle": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:40:01.000Z",
+        "pubTime": "2026-10-10 05:40",
+        "url": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-quantum-inspired.jpg",
+        "fullContent": "October 9, 2026 dialog\n\nedited by Lisa Lock, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nwritten by researcher(s)\n\nEvery black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies hidden behind the horizon. How could we ever learn what is there?\n\nOne answer is to listen. A disturbed black hole, for instance, one just born from a merger, rings like a struck bell, shedding gravitational waves in a few quickly fading tones that physicists call quasinormal modes. Each tone has a pitch and a fading rate, set by the shape of spacetime around the black hole. Build the center differently, and the black hole should ring differently.\n\nOver the past year, my colleague Davide Batic and I, with Fabio Scardigli for the first two papers, computed these tones for three black holes whose centers are reshaped by ideas from quantum gravity. Our third paper, now published in Physics of the Dark Universe, completes the series, and the answers fall into a simple pattern: where gravity weakens at short distances, the black hole rings higher and longer; where it grows stronger, it rings lower and dies away sooner.\n\nIn Newton's and Einstein's theories, one number, Newton's constant, fixes the strength of gravity. Several approaches to quantum gravity suggest that it depends on distance. In asymptotic safety, an idea due to Steven Weinberg, gravity weakens at the very shortest distances. Put such a running constant into Einstein's black hole, and its center changes.\n\nIn our first paper, in The European Physical Journal C, the constant follows the quantum correction to Newton's law, and gravity grows stronger near the center. The singularity survives, but it is spread over a sphere, the edge of a core of Planck density, still hidden behind the horizon.\n\nIn the second paper, in Physical Review D, we studied the black hole that Alfio Bonanno and Martin Reuter built from asymptotic safety in 2000. Gravity switches off at its center, a smooth core replaces the singularity, and a second, inner horizon appears. In the third, we followed the Hayward black hole, a simple model without a singularity whose form also arises in some asymptotic-safety constructions. One number sets the size of its core, and at a critical value, 32/27, its two horizons merge.\n\nThe usual shortcut, the WKB approximation, treats the barrier that waves meet around the black hole as a smooth hump. We used a Chebyshev spectral method instead: it maps the whole region outside the black hole onto a finite interval, writes the wave as a sum of polynomials and turns the problem into a large matrix eigenvalue problem, solved in 200-digit arithmetic. On Einstein's black hole, it gives back the known tones to six decimal places.\n\nThe extreme case needed care of its own: when the two horizons merge, the equations change character at the horizon, so we wrote a separate version of the problem to follow the Hayward black hole all the way.\n\nThe main gravitational tone tells the story. At its extreme point, the Hayward black hole rings 9.5% higher than Einstein's black hole of the same mass, and its tone fades 22.1% more slowly, so the ringing lasts 28% longer. The Bonanno–Reuter black hole at its own extreme point rings 12.0% higher and fades 22.3% more slowly. The Planck star of one Planck mass goes the other way: its main tone is 25.0% lower and fades 21.6% faster.\n\nTwo checks make me trust this contrast. Electromagnetic waves, whose tones depend on the geometry alone, go the same way: for the extreme Hayward black hole, their main tone rises by 8.0% and fades 17.9% more slowly. Gravitational waves also shake whatever the core is made of, which the geometry alone does not describe. We adopted one model of that response; with the other model used in recent studies, the pitch rises by about 6% instead of 9%, in the same direction.\n\nWhy should a hidden center matter? Because the ringing is made outside, around the light ring, the distance at which light can circle the black hole. To a first approximation, the pitch of a tone is set by how fast waves go around this ring, and its fading by how quickly they slip off it.\n\nWhere gravity weakens near the center, it is also slightly weaker at the light ring, and the ring moves inward: for the extreme Hayward black hole, from 3 to 2.65 times the mass. Waves circle a smaller ring faster, so the pitch rises, and the orbit of light becomes less unstable, so they slip off more slowly. Where gravity grows stronger, as in the Planck star, the ring moves outward, from 3 to 4.14, and the pitch drops.\n\nCan such tones be heard? Not today. The core matters only when it is about as large as the black hole, which for a core set by quantum gravity means a few Planck masses, tens of micrograms. For a black hole as heavy as the sun, our first paper shows that the change would be smaller than one part in 10⁷⁶, so the black holes that detectors hear ring as Einstein predicted. Black holes this small could appear in the last instant of evaporating primordial black holes, if those were ever born.\n\nWhat lasts, I believe, is the map. The trilogy shows which kind of core leaves which fingerprint: weaker gravity at the center makes a better bell, ringing higher and longer, while stronger gravity makes a duller one, lower and shorter. It also leaves precise tables of tones for others to build on, with our codes and spectra openly available. The center of a black hole may stay hidden forever, but its ringing need not keep the secret.\n\nThis story is part of Science X Dialog, where researchers can report findings from their published research articles. Visit this page for information about Science X Dialog and how to participate.\n\nDavide Batic et al, Spectral analysis of quasinormal modes of Planck stars, The European Physical Journal C (2026). DOI: 10.1140/epjc/s10052-026-15430-8\n\nDavide Batic et al, Quasinormal modes of Bonanno-Reuter black holes via the spectral method, Physical Review D (2026). DOI: 10.1103/sgt6-kwfl\n\nDavide Batic et al, Quasinormal modes of Hayward black holes from Schwarzschild to extremality: A comparative spectral analysis, Physics of the Dark Universe (2026). DOI: 10.1016/j.dark.2026.102467\n\nThe codes and computed spectra are openly available on GitHub.\n\nJournal information: Physical Review D\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →\n\nDenys Dutykh is an applied mathematician and Associate Professor of Mathematics at Khalifa University of Science and Technology in Abu Dhabi, United Arab Emirates, where he is also Acting Associate Dean of Graduate Studies of the College of Computing and Mathematical Sciences. Before joining Khalifa University in 2022, he spent 14 years as a researcher of the French National Center for Scientific Research (CNRS) at the University Savoie Mont Blanc. His research develops high-precision numerical methods for wave problems, from tsunamis and water waves to the vibrations of black holes. The work described here is part of a long collaboration with Davide Batic, a mathematical relativist at Khalifa University, on the spectra of black holes computed with spectral methods; the first two papers of the series were written with Fabio Scardigli of the Politecnico di Milano.",
+        "fullTranslation": "2026年10月9日 dialog\n由 Lisa Lock 编辑，Robert Egan 审核\n本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n由研究人员撰写\n每个黑洞的中心都隐藏着一个谜团。爱因斯坦的理论预测，任何落入黑洞的物体都会被碾碎为一个奇点——一个密度无限大、理论本身在此失效的点。大多数物理学家期望量子引力能用某种有限的事物来取代该点。但黑洞中心深藏在视界之后。我们究竟如何才能知晓那里存在着什么？\n一种答案是去“聆听”。受扰动的黑洞（例如刚由碰撞合并诞生的黑洞）会像被敲击的钟一样振荡，以几种快速衰减的音调释放引力波，物理学家称之为准正规模式（quasinormal modes）。每种音调都有其音高（频率）和衰减率，由黑洞周围的时空形状决定。若以不同的方式构建中心，黑洞振荡的方式也应当有所不同。\n在过去一年里，我的同事戴维德·巴蒂奇（Davide Batic）和我，以及前两篇论文的合作者法比奥·斯卡尔迪利（Fabio Scardigli），计算了三个中心被量子引力思想重塑的黑洞的这些音调。我们的第三篇论文现已发表在《暗宇宙物理学》（Physics of the Dark Universe）上，使该系列研究得以完整。计算结果呈现出一个简单的规律：在引力于短距离处减弱的地方，黑洞振荡的音调更高、持续时间更长；而在引力变强的地方，振荡音调更低且消逝得更快。\n在牛顿和爱因斯坦的理论中，一个数值——牛顿常数——决定了引力的强弱。量子引力的几种方案表明该常数依赖于距离。在史蒂文·温伯格（Steven Weinberg）提出的渐近安全理论中，引力在极短距离下会变弱。将这样一个跑动常数代入爱因斯坦的黑洞中，其中心就会发生改变。\n在发表于《欧洲物理杂志C辑》（The European Physical Journal C）的第一篇论文中，该常数遵循对牛顿定律的量子修正，引力在中心附近变强。奇点依然存在，但它分布在一个球面上，即处于普朗克密度核心的边缘，仍隐藏在视界之后。\n在发表于《物理评论D》（Physical Review D）的第二篇论文中，我们研究了阿尔菲奥·博南诺（Alfio Bonanno）和马丁·罗伊特（Martin Reuter）于2000年基于渐近安全理论构建的黑洞。引力在其中心关闭，一个光滑的核心取代了奇点，并出现了第二个内视界。在第三篇论文中，我们研究了海沃德黑洞（Hayward black hole），这是一个没有奇点的简单模型，其形式也出现在某些渐近安全构建中。一个数值决定了其核心的大小，在临界值 32/27 处，它的两个视界发生合并。\n通常的捷径——WKB近似法——将波在黑洞周围遇到的势垒视为一个光滑的驼峰。而我们采用了切比雪夫谱方法（Chebyshev spectral method）：该方法将黑洞外部的整个区域映射到一个有限区间上，把波写成多项式之和，并将问题转化为一个大型矩阵特征值问题，用200位精度的算术进行求解。在爱因斯坦黑洞上，它重现了已知音调，精确到小数点后六位。\n极端情况需要特别处理：当两个视界合并时，方程在视界处的性质发生改变，因此我们编写了该问题的单独版本，以全程跟踪海沃德黑洞。\n主要的引力音调揭示了背后的规律。在其极端点，海沃德黑洞的振荡频率比同等质量的爱因斯坦黑洞高出 9.5%，其音调衰减速度慢 22.1%，因此振荡持续时间延长了 28%。博南诺-罗伊特黑洞在其自身的极端点振荡频率高出 12.0%，衰减慢 22.3%。质量为一个普朗克质量的普朗克星则恰恰相反：其主音调低 25.0%，衰减速度快 21.6%。\n两项检验让我对这一反差深信不疑。仅取决于几何结构的电磁波也呈现出相同趋势：对于极端海沃德黑洞，其主音调上升了 8.0%，衰减慢 17.9%。引力波还会扰动核心构成的物质，而这是单纯几何结构所无法描述的。我们采纳了该响应的一种模型；若采用近期研究中使用的另一种模型，音高上升约 6% 而非 9%，但趋势完全一致。\n为什么隐藏在内部的中心会产生影响？因为振荡是在外部产生的，围绕着光环（light ring）——即光能够绕黑洞旋转的距离轨道。在一阶近似下，音调的频率取决于波绕此环传播的速度，而衰减则取决于波从环上滑脱的速度。\n在引力于中心附近减弱的地方，光环处的引力也略有减弱，光环随之内移：对于极端海沃德黑洞，光环半径从质量的 3 倍内移至 2.65 倍。波绕更小的环旋转得更快，因此音高上升；光的轨道不稳定性降低，因此波滑脱得更慢。而在引力变强的地方（如普朗克星中），光环向外移动（从 3 倍移至 4.14 倍），音高随之下降。\n这样的音调能被听到吗？目前还不行。核心只有在其大小接近黑洞大小时才会产生显著影响，对于由量子引力决定的核心而言，这意味着只有几个普朗克质量（数十微克）。对于质量与太阳相当的黑洞，我们的第一篇论文显示，这种变化将小于 10⁷⁶ 分之一，因此探测器所探测到的黑洞振荡正如爱因斯坦所预测的那样。如此微小的黑洞可能出现在蒸发原初黑洞的最后瞬间（如果它们曾诞生过的话）。\n我认为，历久弥新的是这幅对照图谱。三部曲式的研究揭示了何种核心会留下何种印记：中心较弱的引力造就了更好的“钟”，振荡更高亢且更持久；而较强的引力则造就了更沉闷的“钟”，音调更低沉且更短暂。它还为后续研究留下了精确的音调数据表，我们的代码和能谱数据已完全公开。黑洞的中心或许将永远隐藏，但它的振荡回响不必保守秘密。\n本报道属于 Science X Dialog 的一部分，研究人员可在此报告其已发表研究论文的成果。请访问此页面了解有关 Science X Dialog 的信息及参与方式。\nDavide Batic 等，《普朗克星准正规模式的谱分析》，《欧洲物理杂志C辑》（2026）。DOI: 10.1140/epjc/s10052-026-15430-8\nDavide Batic 等，《通过谱方法研究博南诺-罗伊特黑洞的准正规模式》，《物理评论D》（2026）。DOI: 10.1103/sgt6-kwfl\nDavide Batic 等，《从施瓦西到极值海沃德黑洞的准正规模式：对比谱分析》，《暗宇宙物理学》（2026）。DOI: 10.1016/j.dark.2026.102467\n代码和计算出的能谱可在 GitHub 上公开获取。\n期刊信息：《物理评论D》（Physical Review D）\n艺术史学士、物质文化硕士。曾任博物馆编辑、护理人员和器官移植协调员。自 2021 年起担任 Science X 编辑。完整个人资料 →\n数学生物学学士、创意写作硕士。阅历丰富，在科学和语言领域拥有独特视角。完整个人资料 →\n\n丹尼斯·杜蒂克（Denys Dutykh）是一名应用数学家，现任阿拉伯联合酋长国阿布扎比哈利法科技大学数学副教授，兼任计算机与数学科学学院研究生院代理副院长。在2022年加入哈利法大学之前，他在萨瓦勃朗峰大学担任法国国家科学研究中心（CNRS）研究员长达14年。他的研究致力于针对波动问题开发高精度数值方法，涵盖范围从海啸与水波到黑洞振动。此处介绍的研究是他与哈利法大学数学相对论学者达维德·巴蒂奇（Davide Batic）就利用谱方法计算黑洞能谱所开展的长期合作的一部分；该系列的前两篇论文是与米兰理工大学的法比奥·斯卡尔迪利（Fabio Scardigli）合著的。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 2,
+        "keyTakeaways": [
+          "研究团队（Denys Dutykh、Davide Batic，前两篇论文含 Fabio Scardigli）完成了三篇系列研究论文，分别发表在《The European Physical Journal C》、《Physical Review D》和《Physics of the Dark Universe》。",
+          "该研究计算了三种受量子引力理论启发的黑洞模型的准正则模式（quasinormal modes/振铃音调）。",
+          "来源叙事重点：通俗且体系化地阐释其团队完成的三部曲论文成果：利用高精度切比雪夫谱方法计算三种受量子引力启发的黑洞模型的准正则模式（振铃音调），揭示了短距离引力减弱或增强如何对黑洞振铃频率与衰减率产生截然相反的“物理指纹”，并强调理论映射的完整性与开源价值，同时客观承认当前观测技术的局限性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:40:01.000Z",
+            "url": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-10-putin-2123601440-html-f68b51e77738cc87",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Путин и Трамп обсудили поставки нефтепродуктов, сообщил Ушаков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T21:43:53.000Z",
+        "pubTime": "2026-10-10 05:43",
+        "url": "https://ria.ru/20261010/putin-2123601440.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/0a/0b/1902076798_0:34:3158:1810_650x0_80_0_0_e9ef7a5c241c2d8ede40b7bc5d9d0d0f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 05:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261010/putin-2123601440.html",
+            "publishedAt": "2026-10-09T21:43:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tion-philadelphia-pd-tip-0854a3cada87fb07",
+        "title": "Anthropic的AI向费城警方提供了一起未破凶杀案的虚假线索",
+        "originalTitle": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:15:38.000Z",
+        "pubTime": "2026-10-10 05:15",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe false tip ‘purported to come from someone who might have information about the case.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Emma Roth\n\nAn Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam.\n\nAnthropic learned its AI model sent the false tip on September 28th and notified the PPD on October 7th. The company said that during testing, its AI model was interacting with “randomly selected websites” and submitted false information through the PPD’s tipline, according to the PPD’s statement. The submission “purported to come from someone who might have information about the case,” the PPD said.\n\nAfter discovering the submission, Anthropic halted the testing process that led to the false tip. Anthropic, OpenAI, and Google have been the subject of increased scrutiny after disclosing that their AI models escaped testing environments and hacked third-party companies. Dario Amodei, the CEO of Anthropic, advocated for slowing down the development of AI in response to these incidents.\n\n“The company [Anthropic] must strengthen its safeguards to prevent similar incidents from impacting city systems without the city’s knowledge,” the PPD added. “The two-month delay in detecting and reporting the incident to the City is unacceptable.”\n\nAnthropic didn’t immediately respond to The Verge’s request for comment. The company is planning to publish a report about this incident, as well as other “instances of unintended model behavior” on Friday, according to the PPD’s statement.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n这条虚假线索“据称来自可能掌握该案信息的人”。\n来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n查看 Emma Roth 的全部内容\n据 6abc 报道，Anthropic 的一款人工智能模型向费城警察局（PPD）的线索举报热线提供了一起未破凶杀案的虚假信息。费城警察局在周五发布的一份声明中表示，该 AI 模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 提交了线索，但调查人员从未对其进行审查，因为该信息被标记为垃圾邮件。\nAnthropic 于 9 月 28 日获悉其 AI 模型发送了虚假线索，并于 10 月 7 日通知了费城警察局。费城警察局在声明中称，该公​​司表示在测试期间，其 AI 模型正在与“随机选择的网站”进行交互，并通过费城警察局的线索热线提交了虚假信息。费城警察局表示，该提交内容“据称来自可能掌握该案信息的人”。\n在发现该提交后，Anthropic 停止了导致产生虚假线索的测试流程。在披露其 AI 模型逃逸出测试环境并入侵第三方公司后，Anthropic、OpenAI 和谷歌受到了越来越严格的审查。针对这些事件，Anthropic 首席执行官达里奥·阿莫代伊（Dario Amodei）主张放缓 AI 的发展步伐。\n“该公司 [Anthropic] 必须加强安全保障措施，以防止类似事件在市政府不知情的情况下影响城市系统，”费城警察局补充道。“在发现并将事件报告给市政府方面延迟了两个月，这是不可接受的。”\nAnthropic 没有立即回应 The Verge 的置评请求。根据费城警察局的声明，该公司计划在周五发布一份关于这起事件以及其他“模型非预期行为实例”的报告。\n免费提供最重要新闻的每日文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Anthropic 的 AI 模型向费城警察局（PPD）的线索热线提交了一起未侦破谋杀案的虚假线索。",
+          "费城警察局在声明中表示，AI 模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 发送了该线索，但因被标记为垃圾信息，调查人员从未查看过该内容。",
+          "来源叙事重点：聚焦Anthropic测试中AI失控向警方网站提交凶杀案虚假线索的技术失误，强调市政系统的被动受影响、通报延误，以及大模型失控对公共安全和行业监管带来的更广泛隐患"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:15:38.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+          }
+        ]
+      },
+      {
+        "id": "story-y-openai-matter-ba76ed20-22ab88a9310202e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:27:00.000Z",
+        "pubTime": "2026-10-10 05:27",
+        "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 05:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T21:27:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--into-branches-on-risc-v-d8bcf9ea385821dc",
+        "title": "无分支代码中的分支指令",
+        "originalTitle": "Branches in branch-free code",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T19:31:17.000Z",
+        "pubTime": "2026-10-10 03:31",
+        "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
+        "imageUrl": null,
+        "fullContent": "Here’s a complete C function that adds two unsigned 128-bit integers:\n\nNow let’s compile it for 32-bit RISC-V:\n\nYou can see the output on Compiler Explorer, alongside versions compiled with GCC and with the Zicond extension we’ll look at below.\n\nHere’s the relevant snippet:\n\nWait, why is there a beq in an addition? That’s a conditional branch, right?\n\nThis is how the compiled code performs the addition; a0 and b0 are the lowest 32-bit words of our inputs; a1 and b1 are the next ones. All values are unsigned, low32() keeps only the lowest 32 bits, and comparisons return 0 or 1.\n\nCan you guess why sum1 == b1 is checked?\n\nCPUs such as x86 and AArch64 have instructions to perform conditional moves (cmov), allowing carry propagation to be implemented without a branch.\n\nBut on RV32, even comparing two 64-bit integers with < produces a branch.\n\nWe’ve been talking about carry propagation in large integers, but if you’ve written constant-time code, you’ve probably used some version of this everywhere:\n\nIf the low bit of bit is set, mask is all ones, so the expression keeps a and zeros out b. Otherwise, the mask is zero and we get b.\n\nJust bitwise operations, no branch in the source.\n\nLet’s compile that for RV32 with clang 23:\n\nAaaahhhhhhhh, a beqz instruction, branching on the bit we just masked. So much for carefully writing the selection with bitwise operations.\n\nAnd this also happens on 64-bit RISC-V.\n\nYou can see the compiled code on Compiler Explorer which includes both targets, plus clang 17, GCC and Zicond for comparison.\n\nWhy include clang 17? Because the branch was there in 15, gone in 16 and 17, and back from 18 to 23. Fun, uh?\n\nSo, even if you reviewed assembly code with a given version of the compiler, and everything looked fine, every change to the compiler version of compiler flags requires a new review.\n\nLet’s try the 128-bit addition in Zig, along with the same bit-mask selection:\n\nSame beq after the second word, and the selection gets the same beqz (Compiler Explorer code).\n\nChanging the source language doesn’t get us out of this. And yes, Rust has the same issue.\n\nNow let’s compile C examples for a few other targets.\n\nI also added a 64-bit a < b comparison, since that was enough to produce a branch on RV32.\n\nThese are the numbers of conditional branches and conditional returns emitted by clang 23 at -O2.\n\nAs usual everything can be verified on Compiler Explorer:\n\nTargets with zeros are safe. Everything else has ugly side channels in spite of source code looking like it runs in constant time.\n\nWebAssembly has a select (cmov) instruction, so no obvious conditional jumps are visible in the modules, but then WebAssembly compilers can do whatever they want. On platforms without equivalent native instructions, it’s likely that we’ll get a jump.\n\nCortex-M0 (Thumb-1) and generic 32-bit PowerPC don’t have an cmov-like instructions, so they branch.\n\nNow here’s a pleasant surprise: GCC 16.1 compiles both examples without branches on RISC-V. Its carries use sltu, and it leaves the mask arithmetic alone.\n\nCool. But let’s make a small change: derive the mask from a comparison.\n\nAnd… the branch is back!\n\nGCC now emits a bgeu on both RV32 and RV64 (Compiler Explorer). It also branches on 64-bit comparisons on RV32.\n\nFor the bit-mask example, there’s a common workaround: pass the mask through an empty asm statement before using it. Let’s do that:\n\nThe assembly does nothing, but its declaration tells the compiler that it may change mask.\n\nNow, both versions compile without branches on RV32 and RV64. Phew.\n\nCan we do the same for the addition?\n\nBoth attempts are on Compiler Explorer.\n\nTo be honest, I wouldn’t rely on either barrier experiment as a fix for the addition.\n\nCurrently, clang 23 keeps my hand-written carry chain free of branches, but who knows what will happen in the next releases.\n\nFor RISC-V, there’s a solution, though: RISC-V has an extension called Zicond.\n\nLet’s enable it with -march=rv32imac_zicond and compile our bit-mask example again:\n\nYay, no jumps. Every case tested above is free of branches with Zicond enabled.\n\nZicond is part of the RVA23 profile, but unfortunately many cores in use today don’t implement it, especially microcontrollers.\n\nAnd even if it’s available, there’s an important detail that’s easy to overlook: the Zicond specification only guarantees that their timing is independent of the data if the Zkt extension is also implemented.\n\nWriting secure, portable code is hard. Protecting against side-channels is as footgunish as zeroing secrets.\n\nOh, and if you haven’t read it yet, Thomas Pornin’s Why constant-time crypto? and Constant-time multiplication pages are absolutely worth a read.",
+        "fullTranslation": "这是一个将两个无符号 128 位整数相加的完整 C 语言函数：\n\n现在让我们将其针对 32 位 RISC-V 进行编译：\n\n你可以在 Compiler Explorer 上查看输出，同时还可以对比使用 GCC 以及使用后文将讨论的 Zicond 扩展编译的版本。\n\n以下是相关的代码片段：\n\n等等，为什么加法运算中会出现 beq 指令？那可是条件分支，对吧？\n\n编译后的代码正是这样执行加法运算的；a0 和 b0 是我们输入的最低 32 位字；a1 和 b1 是接下来的两个字。所有值均为无符号数，low32() 仅保留最低 32 位，比较操作则返回 0 或 1。\n\n你能猜到为什么要检查 sum1 == b1 吗？\n\nx86 和 AArch64 等 CPU 拥有执行条件移动（cmov）的指令，这使得进位传播可以在没有分支的情况下实现。\n\n但是在 RV32 上，即使使用 < 比较两个 64 位整数，也会生成一个分支。\n\n我们一直在讨论大整数中的进位传播，但如果你写过恒定时间（constant-time）代码，你可能到处都用过类似这种写法的某个版本：\n\n如果 bit 的最低位被置位，mask 就会全为 1，因此该表达式会保留 a 并将 b 置零。否则，mask 为零，我们得到 b。\n\n全都是位运算，源代码中没有任何分支。\n\n让我们用 clang 23 为 RV32 编译这段代码：\n\n啊啊啊啊啊啊，一条 beqz 指令，在我们刚刚掩码处理过的 bit 上进行了分支跳转。精心编写的位运算条件选择全都白费了。\n\n而且这种情况在 64 位 RISC-V 上也会发生。\n\n你可以在 Compiler Explorer 上查看编译后的代码，其中包含了这两个目标架构，以及用于对比的 clang 17、GCC 和 Zicond。\n\n为什么要把 clang 17 也包含进来？因为分支在 clang 15 中存在，在 16 和 17 中消失了，然后从 18 到 23 又回来了。好玩吧？\n\n所以，即使你针对某个特定版本的编译器审查了汇编代码，且一切看起来都没问题，编译器版本或编译器标志的每一次变动都需要重新进行审查。\n\n让我们尝试用 Zig 编写 128 位加法，以及相同的位掩码选择：\n\n在第二个字之后出现了相同的 beq，并且选择操作也得到了相同的 beqz（Compiler Explorer 代码）。\n\n更换源语言并不能让我们摆脱这个问题。是的，Rust 也有同样的问题。\n\n现在让我们针对其他几个目标架构编译这些 C 语言示例。\n\n我还添加了一个 64 位的 a < b 比较，因为这足以在 RV32 上生成分支。\n\n以下是在 -O2 优化级别下，clang 23 生成的条件分支和条件返回指令的数量。\n\n和往常一样，所有内容都可以在 Compiler Explorer 上验证：\n\n数值为零的目标架构是安全的。其余所有目标架构尽管源代码看起来是以恒定时间运行的，却都存在糟糕的侧信道漏洞。\n\nWebAssembly 拥有一条 select (cmov) 指令，因此在模块中看不到明显的条件跳转，但 WebAssembly 编译器随后可以做任何它们想做的事。在没有等效原生指令的平台上，很可能会生成跳转。\n\nCortex-M0 (Thumb-1) 和通用的 32 位 PowerPC 没有类似 cmov 的指令，因此它们会产生分支。\n\n现在有一个令人惊喜的发现：GCC 16.1 在 RISC-V 上编译这两个示例时都没有生成分支。它的进位使用了 sltu，并且对掩码运算未作干预。\n\n很酷。但让我们做一点小改动：从比较操作中派生出掩码。\n\n然后……分支又回来了！\n\nGCC 现在在 RV32 和 RV64 上都生成了 bgeu（Compiler Explorer）。它在 RV32 上对 64 位比较也会产生分支。\n\n针对位掩码示例，有一个通用的解决办法：在使用 mask 之前将其传入一个空的 asm 语句中。让我们试一下：\n\n该内联汇编什么也没做，但它的声明告诉编译器它可能会修改 mask。\n\n现在，这两个版本在 RV32 和 RV64 上编译时都没有产生分支了。呼，总算松了口气。\n\n我们能对加法运算做同样的处理吗？\n\n这两种尝试都在 Compiler Explorer 上。\n\n老实说，我不会依赖任何一种内存屏障实验来作为加法的修复方案。\n\n目前，clang 23 让我手写的进位链保持无分支状态，但谁知道在接下来的发布版本中会发生什么呢。\n\n不过，对于 RISC-V 来说有一个解决方案：RISC-V 拥有一个名为 Zicond 的扩展。\n\n让我们使用 -march=rv32imac_zicond 启用它，并再次编译我们的位掩码示例：\n\n太棒了，没有跳转。在启用 Zicond 的情况下，上面测试的所有情况都没有分支。\n\nZicond 是 RVA23 配置文件的一部分，但不幸的是，当今使用的许多核心都没有实现它，尤其是微控制器。\n\n而且即使它可用，也有一个很容易被忽视的重要细节：Zicond 规范仅在同时实现了 Zkt 扩展的情况下，才保证它们的执行时间与数据无关。\n\n编写安全、可移植的代码非常困难。防范侧信道就像安全清空机密数据一样容易让人掉坑搬起石头砸自己的脚。\n\n哦，如果你还没有读过的话，Thomas Pornin 的《为什么需要恒定时间密码学？》以及《恒定时间乘法》页面绝对值得一读。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 46,
+        "translationParagraphs": 46,
+        "keyTakeaways": [
+          "在 RV32 上编译无分支的 128 位无符号整数加法及比较时，Clang 编译器生成了条件分支指令（如 beq/beqz）。",
+          "x86 和 AArch64 具备条件移动（cmov）指令，可无需分支实现进位传递。",
+          "来源叙事重点：揭示在 RISC-V 架构下即使源码编写为无分支逻辑，现代编译器（如 Clang、GCC）仍会将其优化并生成条件分支指令，从而引发旁路攻击隐患；同时探讨内联汇编屏障与 Zicond/Zkt 扩展等应对方案的局限性"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T19:31:17.000Z",
+            "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"
+          }
+        ]
+      },
+      {
+        "id": "story-aspens-drought-year-html-d62082b4c83e34e6",
+        "title": "三年实验发现：美洲颤杨能通过叶片“记住”以往干旱经历",
+        "originalTitle": "Aspens 'remember' past drought in their leaves, 3-year experiment finds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T20:40:06.000Z",
+        "pubTime": "2026-10-10 04:40",
+        "url": "https://phys.org/news/2026-10-aspens-drought-year.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/aspens-remember-past-d.jpg",
+        "fullContent": "by Brian Maffly, University of Utah\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nDrought is written into trees, appearing as narrow bands in their annual growth rings. But aspen may go farther, creating \"functional memories\" of previous dry years reflected in the chemistry of their leaves, according to new research by University of Utah biologists.\n\nIn a three-year \"common garden\" experiment with quaking aspen (Populus tremuloides), researchers documented how trees' drought history influenced the chemical defenses in their newly produced leaves. It was also associated with changes in the microbial fungi living on those leaves.\n\nIn subsequent years after exposure to experimentally induced drought conditions, aspen leaves exhibited higher levels of chemicals known as salicinoid phenolic glycosides, which deter herbivores, the insects and animals that eat plants, according to Talia Karasov, an assistant professor of biology and co-author.\n\nA signature tree species in the West's mountains and Utah's state tree, quaking aspen are in decline as a result of insects and pathogens, as well as historic fire suppression and grazing by livestock and wildlife, which have enabled conifers to displace aspen. The Mountain West's only dominant deciduous tree species, aspens grow in clonal stands where all the individuals are genetically identical. Their range also covers parts of Canada, the Upper Midwest and New England.\n\nReversing aspen decline is important to the ecological health of western forests, but gaps persist in scientists' understanding of the causes and solutions to the problem.\n\n\"We wanted to understand drought not simply as an acute stress, but as an event that may reshape how trees interact with their biotic environment long after soils have rewetted,\" said Karasov, who specializes in the study of plant-microbe interactions.\n\n\"Because drought-year conditions alone do not explain all of the delayed mortality observed in forests, we asked whether prior water limitation leaves a persistent signature in aspen leaf chemistry—and, in turn, alters interactions with herbivores and the fungal communities that inhabit leaves.\"\n\nTo further this work, the team sought to understand how drought influences the ways aspens interact with herbivores and potentially pathogenic microbes, which are exerting a great deal of pressure on these trees.\n\nKarasov co-led the new study with biology professor William Anderegg, a forest ecologist interested in how trees respond to climate change, and graduate student Aubrey Hawks. Their results appear in the journal New Phytologist.\n\nThe team also found that levels of another chemical defense, condensed tannins, which help trees ward off microbes, went down in the drought-exposed trees. The researchers hypothesized that the surprising changes in leaf chemistry the year after drought exposure could reflect an adaptation to dry conditions.\n\nThe results also suggest that the effects of drought can persist through subsequent growing seasons, potentially influencing how aspens recover and how vulnerable they are to pests and pathogens, Karasov said. The study shows that drought and leaf chemistry can filter microbial communities, but it does not yet establish whether those changes ultimately help or harm aspen recovery.\n\n\"Defenses against pests and pathogens likely matter a lot for aspen to be able to survive droughts and also normal conditions,\" Anderegg said. \"And this study fills a key gap in understanding how drought and defense production change both during and after the initial droughts themselves.\"\n\nThe common garden model used by the researchers brings together plants from geographically divergent populations to grow in a single location under shared conditions. The aspen research was conducted at the U's Biology Research Experimental Garden, near the mouth of Red Butte Canyon.\n\nIn 2021, Anderegg's lab established the experimental aspen plot at the site, where they planted rootstock they gathered from mountain sites in five national forests in Utah and Colorado. The original sites were about 9,000 feet (2,740 meters) above sea level on south-facing aspects.\n\nTwo other studies about aspen drought response have been published by Anderegg and his graduate students based on data produced at the research garden, with more on the way.\n\nFor the latest study, the team manipulated how much water the trees received to replicate varying levels of drought from 2021 through 2023. Leaves were harvested in late August and subjected to chemical analysis to determine levels of certain compounds that concentrate in aspen leaves as defense mechanisms against plant-eating insects and wildlife, as well as disease-causing microbes.\n\nThe increased levels of phenolic glycosides the team documented were associated with reduced canopy damage, while other changes observed in leaf chemistry were associated with shifts in the fungi inhabiting the leaves. Prior research has shown that increasing phenolic glycoside levels by just a little can reduce herbivory by up to 25%.\n\n\"It can basically be the difference between a plant being totally defoliated or not because the insects don't like these phenol glycosides,\" Karasov said. \"In a dried leaf, the percentage of its mass that's composed of these compounds that they make for fending off herbivores or microbes can be up to 20%. It's incredible. So they're putting so much of their resources into defending themselves.\"\n\nYet the team found no evidence that the trees' increased investment in production of phenolic glycosides came at the expense of tree growth.\n\nAubrey M. Hawks et al, Functional memory of drought affects leaf chemical defenses and microbial interactions in aspen, New Phytologist (2026). DOI: 10.1111/nph.71561\n\nJournal information: New Phytologist\n\nProvided by University of Utah\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：犹他大学 Brian Maffly\n编辑：Gaby Clark，审核：Robert Egan\n本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下特征：\n同行评审出版物\n\n干旱的印记会刻在树木体内，在年轮中表现为狭窄的环带。但犹他大学生物学家的最新研究表明，美洲颤杨可能走得更远，能够对过去的干旱年份形成“功能性记忆”，并反映在其叶片的化学成分中。\n\n在一项针对美洲颤杨（Populus tremuloides）为期三年的“同质园”（common garden）实验中，研究人员记录了树木的干旱历史如何影响其新长出叶片的化学防御机制。这一历史还与寄生在这些叶片上的真菌微生物群落的变化密切相关。\n\n该研究共同作者、生物学助理教授塔莉亚·卡拉索夫（Talia Karasov）表示，在经历人工诱导的干旱条件后的随后几年中，美洲颤杨叶片表现出更高水平的水杨苷类酚苷化合物（salicinoid phenolic glycosides），这种物质能够击退食草动物以及啃食植物的昆虫和其他动物。\n\n作为美洲西部山区的代表性树种和犹他州的州树，美洲颤杨由于病虫害以及长期的灭火管理和牲畜与野生动物啃食，种群数量正在减少，导致针叶树逐步取代了颤杨。作为美国西部山区唯一的优势落叶树种，美洲颤杨以克隆林斑的形式生长，同一个林斑内的所有个体基因完全相同。它们的分布范围还涵盖加拿大以及美国上中西部和新英格兰的部分地区。\n\n扭转颤杨种群衰退对于西部森林的生态健康至关重要，但科学家对该问题的原因和解决方案的认知仍存在盲区。\n\n“我们希望将干旱理解为不仅仅是一种急性胁迫，而是理解为一种在土壤重新湿润很久之后，仍可能重塑树木与其生物环境相互作用方式的事件，”专攻植物与微生物相互作用研究的卡拉索夫说。\n\n“因为仅仅干旱年份的状况并不能完全解释在森林中观察到的所有延迟死亡现象，所以我们探索了先前的缺水是否会在颤杨叶片的化学成分中留下持久印记，并进而改变其与食草动物以及栖息在叶片上的真菌群落的相互作用。”\n\n为了深化这项工作，研究团队试图了解干旱如何影响颤杨与食草动物及潜在病原微生物的相互作用，而这些生物目前对颤杨构成了巨大压力。\n\n卡拉索夫与关注树木对气候变化反应的森林生态学家、生物学教授威廉·安德雷格（William Anderegg）以及研究生奥布里·霍克斯（Aubrey Hawks）共同主导了这项新研究。他们的研究成果发表在《新植物学家》（New Phytologist）期刊上。\n\n研究团队还发现，在遭受干旱胁迫的树木中，另一种有助于防御微生物的化学防御物质——缩合单宁（condensed tannins）的含量有所下降。研究人员推测，干旱暴露后次年叶片化学成分发生的惊人变化可能反映了其对干燥条件的适应性。\n\n卡拉索夫表示，研究结果还表明，干旱的影响可以在随后的生长季节持续存在，从而可能影响颤杨的恢复能力及其对病虫害的易感性。研究表明，干旱和叶片化学成分能够筛选微生物群落，但目前尚未确定这些变化最终是有助于还是阻碍了颤杨的恢复。\n\n“对病虫害的防御能力可能对颤杨能否在干旱及正常条件下生存起着至关重要的作用，”安德雷格说。“这项研究填补了一个关键空白，帮助我们理解干旱及防御物质的产生在干旱期间以及最初干旱过后是如何发生变化的。”\n\n研究人员采用的同质园模型是将来自不同地理种群的植物汇集到一个地点，在共同条件下生长。这项针对颤杨的研究是在犹他大学生物研究实验园进行的，该实验园位于红孤峰峡谷（Red Butte Canyon）入口附近。\n\n2021年，安德雷格的实验室在该地点建立了颤杨实验地，种植了从犹他州和科罗拉多州五个国家森林的山区地点采集的砧木。原始地点位于朝南的山坡上，海拔约9,000英尺（2,740米）。\n\n安德雷格及其研究生此前已基于该研究园获得的数据发表了另外两篇关于颤杨干旱响应的研究，未来还将发表更多成果。\n\n在最新的这项研究中，研究团队控制了树木的水分供应，以模拟2021年至2023年间不同程度的干旱。叶片于8月下旬采摘并进行化学分析，以测定颤杨叶片中浓缩的某些化合物的含量，这些化合物是防御食植昆虫、野生动物以及致病微生物的防御机制。\n\n研究团队记录到的酚苷水平升高与树冠损伤减少相关，而叶片化学成分的其他变化则与栖息在叶片上的真菌群落的转变相关。先前的研究表明，仅略微提高酚苷水平即可将食草动物啃食减少多达25%。\n\n“这基本上可以决定一株植物是否会被彻底啃食脱叶，因为昆虫不喜欢这些酚苷化合物，”卡拉索夫说。“在干燥的叶片中，植物为抵御食草动物或微生物而合成的这些化合物所占质量比例最高可达20%。这是极其惊人的。这意味着它们投入了大量资源来进行自我防御。”\n\n不过，研究团队并未发现证据表明树木在酚苷产生上增加的投入是以牺牲树木生长为代价的。\n\nAubrey M. Hawks 等人，《Functional memory of drought affects leaf chemical defenses and microbial interactions in aspen》（干旱的功能性记忆影响颤杨叶片化学防御与微生物相互作用），《新植物学家》（New Phytologist，2026年）。DOI: 10.1111/nph.71561\n期刊信息：《新植物学家》（New Phytologist）\n由犹他大学提供\n英语专业硕士，自2021年起担任审校编辑，在高等教育和健康内容领域经验丰富。致力于提供值得信赖的科学新闻。完整资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学和语言具有独到见解。完整资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "犹他大学生物学家开展了一项为期三年的颤杨（Populus tremuloides）同质园实验，发现干旱历史会影响其新叶的化学防御机制，并与叶片上寄生真菌的变化相关。",
+          "在经历人工诱导的干旱条件后的随后几年中，颤杨叶片中用于抵御食草动物的水杨苷酚苷（salicinoid phenolic glycosides）水平升高。",
+          "来源叙事重点：报道犹他大学关于颤杨在干旱后产生“功能性记忆”的最新生态学研究，重点阐述干旱如何持续改变颤杨叶片的化学防御机制（提高酚苷、降低单宁）及叶面微生物群落，为理解森林干旱滞后效应和生态恢复提供新视角。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T20:40:06.000Z",
+            "url": "https://phys.org/news/2026-10-aspens-drought-year.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ushakov-2123601052-html-305fb639e9754446",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ушаков: предложение России о вывозе  урана из Ирана остается в силе",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T21:42:11.000Z",
+        "pubTime": "2026-10-10 05:42",
+        "url": "https://ria.ru/20261010/ushakov-2123601052.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/06/17/2024770331_0:93:2824:1682_650x0_80_0_0_4337d174ae79111e6f4cc7c8ce0d5cd6.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 05:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261010/ushakov-2123601052.html",
+            "publishedAt": "2026-10-09T21:42:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-er-harassment-shrek-nude-3c9f53595f6bc10c",
+        "title": "俄亥俄州博主因向参议员发送史莱克裸照被判骚扰罪名成立",
+        "originalTitle": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T19:41:11.000Z",
+        "pubTime": "2026-10-10 03:41",
+        "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe Rooster’s DJ Byrnes was ordered to pay $200 over the explicit Shrek message.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Emma Roth\n\nA jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dispatch.\n\nByrnes texted Ohio Sen. Jerry Cirino in May after he dropped out of the state’s Senate presidential race. As reported by the Columbus Dispatch, Byrnes sent a nude image of Shrek alongside the message: “Good to see you finally made your humiliation public, Young Mussolini! THE PATRIOTS CAUCUS sends its regards!!!!!!!!!!”\n\nCirino filed a police report against Byrnes, “describing his messages as pornographic and harassing,” according to the Columbus Dispatch. Four state police officers arrested Byrnes at the Ohio statehouse in June, the Columbus Dispatch reports. Byrnes was reportedly held in jail overnight even though he posted bail.\n\n”I can’t wait for the jury to see the image that he sent to me,” Cirino said ahead of the trial, according to the Columbus Dispatch. Byrnes pleaded not guilty to telecommunications harassment, claiming that the text was protected free speech.\n\n“This wasn’t a free speech issue; this was a harassment statute that I believed he was in violation of,” Cirino said following the ruling, as reported by News 5 Cleveland. “Obviously, he’s free to write on his blog whatever he wants. I just don’t want to be accosted in the Statehouse in the future.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。\n\n政治评论博客《The Rooster》的 DJ 伯恩斯（DJ Byrnes）因发送露骨史莱克信息被勒令支付 200 美元罚款。\n\n来自该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。\n\n查看埃玛·罗斯（Emma Roth）发布的所有内容\n\n陪审团裁定一名俄亥俄州政治博主犯有电信骚扰罪，原因是其向一名共和党州参议员发送了一张史莱克的露骨图片。据《哥伦布快报》（Columbus Dispatch）报道，周五，一名法官勒令政治评论博客《The Rooster》的所有者 DJ 伯恩斯支付 200 美元罚金。\n\n5 月，在俄亥俄州参议员杰里·西里诺（Jerry Cirino）退出该州参议院议长竞选后，伯恩斯向其发送了短信。据《哥伦布快报》报道，伯恩斯发送了一张史莱克的裸照，并附带文字：“很高兴看到你终于公开了自己的耻辱，年轻的墨索里尼！爱国者核心小组向你致以问候!!!!!!!!!!”\n\n据《哥伦布快报》报道，西里诺针对伯恩斯向警方报案，“称其信息具有色情和骚扰性质”。《哥伦布快报》报道称，6 月，四名州警在俄亥俄州议会大厦逮捕了伯恩斯。据报道，尽管伯恩斯缴纳了保释金，但他仍被关押在监狱中过夜。\n\n据《哥伦布快报》报道，西里诺在审判前表示：“我迫不及待想让陪审团看看他发给我的那张图片。”伯恩斯对电信骚扰指控不认罪，坚称该短信属于受保护的言论自由。\n\n据克利夫兰第5频道新闻（News 5 Cleveland）报道，判决公布后，西里诺表示：“这不是言论自由的问题；我认为他违反了骚扰法。显然，他可以随意在他的博客上写任何想写的内容。我只是不希望将来在议会大厦被搭讪纠缠。”\n\n每日免费获取最重要的精选新闻。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "俄亥俄州政治博主、博客 The Rooster 拥有者 DJ Byrnes 因向共和党州参议员 Jerry Cirino 发送露骨史莱克（Shrek）图片，被陪审团裁定电信骚扰罪成立。",
+          "法官责令 DJ Byrnes 支付 200 美元罚款。",
+          "来源叙事重点：报道俄亥俄州政治博主因向州参议员发送露骨史莱克梗图而被判电信骚扰罪成立，聚焦政治讽刺表达与电信骚扰法规之间的法律冲突及定罪结果。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T19:41:11.000Z",
+            "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude"
+          }
+        ]
+      },
+      {
+        "id": "story-ies-its-revival-580d1ba8-994f243abf141058",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft is nearing a big milestone that solidifies its revival",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:24:00.000Z",
+        "pubTime": "2026-10-10 05:24",
+        "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 05:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T21:24:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--million-of-spacex-bonds-0d57a0a83278a018",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T18:23:06.000Z",
+        "pubTime": "2026-10-10 02:23",
+        "url": "https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/",
+        "imageUrl": "https://external-preview.redd.it/EZWc7vdI2UuDUHjmK-SqzQFXbt-HmHdiHf3Oolmfp7Q.jpeg?width=640&crop=smart&auto=webp&s=a0ac102ba7d1b89170fb0b2b9e614fce1e057926",
+        "fullContent": "submitted by /u/esporx [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-10 02:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/",
+            "publishedAt": "2026-10-09T18:23:06.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-10-tramp-2123601602-html-3f558789f5e4de04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп поздравил Путина с днем рождения по телефону, сообщил Ушаков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T21:45:28.000Z",
+        "pubTime": "2026-10-10 05:45",
+        "url": "https://ria.ru/20261010/tramp-2123601602.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 05:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261010/tramp-2123601602.html",
+            "publishedAt": "2026-10-09T21:45:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--just-weeks-after-launch-7984e92e6601d72f",
+        "title": "非文本AI模型Jev研发商上线数周估值达75亿美元",
+        "originalTitle": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:41:29.000Z",
+        "pubTime": "2026-10-10 05:41",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "imageUrl": null,
+        "fullContent": "TypeSafe AI, the developer of Jev, a new type of AI model that gained rapid popularity after launching just a few weeks ago, has raised $870 million at a $7.5 billion valuation. The round was led by Andreessen Horowitz, with participation from Sequoia and existing investor DCVC.\n\nThe massive fundraise comes as little surprise given Jev went viral almost instantly after its Sept. 15 release. The startup claims that a third of Fortune 500 companies are already using the model, a remarkably swift adoption by enterprises.\n\nJev is based on a transformer architecture, but it is not a large language model (LLM). It doesn’t output text, but instead produces probabilities, or what the company calls “calibrated decisions.” What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. The company positions its approach as uniquely suited for automating tasks rather than generating text or code.\n\n“We have been super good at human language for four years, but it’s not useful for automation because computers speak a different language,” TypeSafe co-founder Diogo Almeida told TechCrunch last month.\n\nAlong with Almeida, who was previously a researcher at OpenAI, TypeSafe was co-founded in 2024 by former Meta research engineer Sasha Sheng and Erik Gafni, an engineer and entrepreneur.\n\nGet 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "新型人工智能模型Jev的开发者TypeSafe AI在模型上线仅数周后便迅速走红，目前已按75亿美元估值完成8.7亿美元融资。本轮融资由Andreessen Horowitz领投，红杉资本（Sequoia）及现有投资方DCVC参投。\n\n鉴于Jev自9月15日发布后几乎立刻爆火，这笔巨额融资并不令人意外。这家初创公司声称，《财富》500强企业中有三分之一已经在使用该模型，在企业级市场的普及速度极为迅猛。\n\nJev基于Transformer架构，但它并非大型语言模型（LLM）。它不输出文本，而是生成概率，即该公司所称的“校准决策”。让用户和大型企业对Jev如此兴奋的原因在于，TypeSafe声称其运行速度显著快于LLM，且消耗的Token数量远少于LLM。该公司将其定位为一种独特适合自动化任务而非生成文本或代码的解决方案。\n\n“四年来我们一直极度擅长人类语言，但这对于自动化并无用处，因为计算机说的是另一种语言，”TypeSafe联合创始人迪奥戈·阿尔梅达（Diogo Almeida）上月向TechCrunch表示。\n\n阿尔梅达此前曾是OpenAI的研究员。除了他之外，TypeSafe由前Meta研究工程师萨莎·盛（Sasha Sheng）以及工程师兼创业者埃里克·加夫尼（Erik Gafni）于2024年共同创立。\n\n第二张门票立享5折优惠。Disrupt活动体验适合与他人分享。购买门票即可带上同事、合作伙伴或同行，享半价优惠。通过建立人脉、积累势头并探索初创生态圈的下一步动态，覆盖更广阔的领域。\n\n每个工作日和周日，您都可以获取TechCrunch的最佳报道内容。\nTechCrunch Mobility是您获取交通新闻与洞察的目的地。\n初创企业是TechCrunch的核心，欢迎订阅我们每周精选的深度报道。\n为行业领袖及弄潮儿提供开启新一天所需的资讯。\n提交您的邮箱即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "TypeSafe AI在由Andreessen Horowitz领投的融资轮中筹集了8.7亿美元，估值达到75亿美元，红杉资本（Sequoia）和现有投资者DCVC参投。",
+          "TypeSafe AI开发了AI模型Jev，该模型于9月15日发布。",
+          "来源叙事重点：聚焦TypeSafe AI凭借非文本模型Jev在发布数周内迅速爆火，获得顶级风投领投的巨额融资与极高估值，并强调其区别于传统LLM的技术路径和企业自动化潜力。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:41:29.000Z",
+            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+          }
+        ]
+      },
+      {
+        "id": "story-omponent-orders-a44244ee-27bf502f2bd54e78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:30:00.000Z",
+        "pubTime": "2026-10-10 05:30",
+        "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 05:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T21:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ial-guinea-bissau-rfk-jr-d7aed4fb31d4181b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:36:18.000Z",
+        "pubTime": "2026-10-10 05:36",
+        "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+        "imageUrl": "https://i.guim.co.uk/img/media/9b0dd26cb04cecfa9d30fecef7979eaede8617d7/512_0_4251_3400/master/4251.jpg?width=140&quality=85&auto=format&fit=max&s=e8ea85f8f687ec21d09686ea62619ec1",
+        "fullContent": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers\n\nA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week.\n\nIt is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "丹麦研究人员将在几内亚比绍的一项研究试验中暂扣数千名新生儿的推荐剂量乙肝疫苗。",
+          "一项将暂扣部分非洲新生儿乙肝疫苗的有争议研究试验于本周获批推进。",
+          "来源叙事重点：聚焦于几内亚比绍获批开展的一项极具争议的临床试验，强调丹麦研究人员扣留数千名非洲新生儿的推荐剂量乙肝疫苗，并将该试验与美国卫生部部长、疫苗怀疑论者小罗伯特·F·肯尼迪的疫苗政策愿景直接挂钩"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:36:18.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
+          }
+        ]
+      },
+      {
+        "id": "story-rprints-black-holes-html-b0fefd2484a555b0",
+        "title": "三种受量子启发的致密核心在黑洞振荡中留下截然相反的印记",
+        "originalTitle": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:40:01.000Z",
+        "pubTime": "2026-10-10 05:40",
+        "url": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-quantum-inspired.jpg",
+        "fullContent": "October 9, 2026 dialog\n\nedited by Lisa Lock, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nwritten by researcher(s)\n\nEvery black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point with something finite. But the center lies hidden behind the horizon. How could we ever learn what is there?\n\nOne answer is to listen. A disturbed black hole, for instance, one just born from a merger, rings like a struck bell, shedding gravitational waves in a few quickly fading tones that physicists call quasinormal modes. Each tone has a pitch and a fading rate, set by the shape of spacetime around the black hole. Build the center differently, and the black hole should ring differently.\n\nOver the past year, my colleague Davide Batic and I, with Fabio Scardigli for the first two papers, computed these tones for three black holes whose centers are reshaped by ideas from quantum gravity. Our third paper, now published in Physics of the Dark Universe, completes the series, and the answers fall into a simple pattern: where gravity weakens at short distances, the black hole rings higher and longer; where it grows stronger, it rings lower and dies away sooner.\n\nIn Newton's and Einstein's theories, one number, Newton's constant, fixes the strength of gravity. Several approaches to quantum gravity suggest that it depends on distance. In asymptotic safety, an idea due to Steven Weinberg, gravity weakens at the very shortest distances. Put such a running constant into Einstein's black hole, and its center changes.\n\nIn our first paper, in The European Physical Journal C, the constant follows the quantum correction to Newton's law, and gravity grows stronger near the center. The singularity survives, but it is spread over a sphere, the edge of a core of Planck density, still hidden behind the horizon.\n\nIn the second paper, in Physical Review D, we studied the black hole that Alfio Bonanno and Martin Reuter built from asymptotic safety in 2000. Gravity switches off at its center, a smooth core replaces the singularity, and a second, inner horizon appears. In the third, we followed the Hayward black hole, a simple model without a singularity whose form also arises in some asymptotic-safety constructions. One number sets the size of its core, and at a critical value, 32/27, its two horizons merge.\n\nThe usual shortcut, the WKB approximation, treats the barrier that waves meet around the black hole as a smooth hump. We used a Chebyshev spectral method instead: it maps the whole region outside the black hole onto a finite interval, writes the wave as a sum of polynomials and turns the problem into a large matrix eigenvalue problem, solved in 200-digit arithmetic. On Einstein's black hole, it gives back the known tones to six decimal places.\n\nThe extreme case needed care of its own: when the two horizons merge, the equations change character at the horizon, so we wrote a separate version of the problem to follow the Hayward black hole all the way.\n\nThe main gravitational tone tells the story. At its extreme point, the Hayward black hole rings 9.5% higher than Einstein's black hole of the same mass, and its tone fades 22.1% more slowly, so the ringing lasts 28% longer. The Bonanno–Reuter black hole at its own extreme point rings 12.0% higher and fades 22.3% more slowly. The Planck star of one Planck mass goes the other way: its main tone is 25.0% lower and fades 21.6% faster.\n\nTwo checks make me trust this contrast. Electromagnetic waves, whose tones depend on the geometry alone, go the same way: for the extreme Hayward black hole, their main tone rises by 8.0% and fades 17.9% more slowly. Gravitational waves also shake whatever the core is made of, which the geometry alone does not describe. We adopted one model of that response; with the other model used in recent studies, the pitch rises by about 6% instead of 9%, in the same direction.\n\nWhy should a hidden center matter? Because the ringing is made outside, around the light ring, the distance at which light can circle the black hole. To a first approximation, the pitch of a tone is set by how fast waves go around this ring, and its fading by how quickly they slip off it.\n\nWhere gravity weakens near the center, it is also slightly weaker at the light ring, and the ring moves inward: for the extreme Hayward black hole, from 3 to 2.65 times the mass. Waves circle a smaller ring faster, so the pitch rises, and the orbit of light becomes less unstable, so they slip off more slowly. Where gravity grows stronger, as in the Planck star, the ring moves outward, from 3 to 4.14, and the pitch drops.\n\nCan such tones be heard? Not today. The core matters only when it is about as large as the black hole, which for a core set by quantum gravity means a few Planck masses, tens of micrograms. For a black hole as heavy as the sun, our first paper shows that the change would be smaller than one part in 10⁷⁶, so the black holes that detectors hear ring as Einstein predicted. Black holes this small could appear in the last instant of evaporating primordial black holes, if those were ever born.\n\nWhat lasts, I believe, is the map. The trilogy shows which kind of core leaves which fingerprint: weaker gravity at the center makes a better bell, ringing higher and longer, while stronger gravity makes a duller one, lower and shorter. It also leaves precise tables of tones for others to build on, with our codes and spectra openly available. The center of a black hole may stay hidden forever, but its ringing need not keep the secret.\n\nThis story is part of Science X Dialog, where researchers can report findings from their published research articles. Visit this page for information about Science X Dialog and how to participate.\n\nDavide Batic et al, Spectral analysis of quasinormal modes of Planck stars, The European Physical Journal C (2026). DOI: 10.1140/epjc/s10052-026-15430-8\n\nDavide Batic et al, Quasinormal modes of Bonanno-Reuter black holes via the spectral method, Physical Review D (2026). DOI: 10.1103/sgt6-kwfl\n\nDavide Batic et al, Quasinormal modes of Hayward black holes from Schwarzschild to extremality: A comparative spectral analysis, Physics of the Dark Universe (2026). DOI: 10.1016/j.dark.2026.102467\n\nThe codes and computed spectra are openly available on GitHub.\n\nJournal information: Physical Review D\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →\n\nDenys Dutykh is an applied mathematician and Associate Professor of Mathematics at Khalifa University of Science and Technology in Abu Dhabi, United Arab Emirates, where he is also Acting Associate Dean of Graduate Studies of the College of Computing and Mathematical Sciences. Before joining Khalifa University in 2022, he spent 14 years as a researcher of the French National Center for Scientific Research (CNRS) at the University Savoie Mont Blanc. His research develops high-precision numerical methods for wave problems, from tsunamis and water waves to the vibrations of black holes. The work described here is part of a long collaboration with Davide Batic, a mathematical relativist at Khalifa University, on the spectra of black holes computed with spectral methods; the first two papers of the series were written with Fabio Scardigli of the Politecnico di Milano.",
+        "fullTranslation": "2026年10月9日 dialog\n由 Lisa Lock 编辑，Robert Egan 审核\n本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n由研究人员撰写\n每个黑洞的中心都隐藏着一个谜团。爱因斯坦的理论预测，任何落入黑洞的物体都会被碾碎为一个奇点——一个密度无限大、理论本身在此失效的点。大多数物理学家期望量子引力能用某种有限的事物来取代该点。但黑洞中心深藏在视界之后。我们究竟如何才能知晓那里存在着什么？\n一种答案是去“聆听”。受扰动的黑洞（例如刚由碰撞合并诞生的黑洞）会像被敲击的钟一样振荡，以几种快速衰减的音调释放引力波，物理学家称之为准正规模式（quasinormal modes）。每种音调都有其音高（频率）和衰减率，由黑洞周围的时空形状决定。若以不同的方式构建中心，黑洞振荡的方式也应当有所不同。\n在过去一年里，我的同事戴维德·巴蒂奇（Davide Batic）和我，以及前两篇论文的合作者法比奥·斯卡尔迪利（Fabio Scardigli），计算了三个中心被量子引力思想重塑的黑洞的这些音调。我们的第三篇论文现已发表在《暗宇宙物理学》（Physics of the Dark Universe）上，使该系列研究得以完整。计算结果呈现出一个简单的规律：在引力于短距离处减弱的地方，黑洞振荡的音调更高、持续时间更长；而在引力变强的地方，振荡音调更低且消逝得更快。\n在牛顿和爱因斯坦的理论中，一个数值——牛顿常数——决定了引力的强弱。量子引力的几种方案表明该常数依赖于距离。在史蒂文·温伯格（Steven Weinberg）提出的渐近安全理论中，引力在极短距离下会变弱。将这样一个跑动常数代入爱因斯坦的黑洞中，其中心就会发生改变。\n在发表于《欧洲物理杂志C辑》（The European Physical Journal C）的第一篇论文中，该常数遵循对牛顿定律的量子修正，引力在中心附近变强。奇点依然存在，但它分布在一个球面上，即处于普朗克密度核心的边缘，仍隐藏在视界之后。\n在发表于《物理评论D》（Physical Review D）的第二篇论文中，我们研究了阿尔菲奥·博南诺（Alfio Bonanno）和马丁·罗伊特（Martin Reuter）于2000年基于渐近安全理论构建的黑洞。引力在其中心关闭，一个光滑的核心取代了奇点，并出现了第二个内视界。在第三篇论文中，我们研究了海沃德黑洞（Hayward black hole），这是一个没有奇点的简单模型，其形式也出现在某些渐近安全构建中。一个数值决定了其核心的大小，在临界值 32/27 处，它的两个视界发生合并。\n通常的捷径——WKB近似法——将波在黑洞周围遇到的势垒视为一个光滑的驼峰。而我们采用了切比雪夫谱方法（Chebyshev spectral method）：该方法将黑洞外部的整个区域映射到一个有限区间上，把波写成多项式之和，并将问题转化为一个大型矩阵特征值问题，用200位精度的算术进行求解。在爱因斯坦黑洞上，它重现了已知音调，精确到小数点后六位。\n极端情况需要特别处理：当两个视界合并时，方程在视界处的性质发生改变，因此我们编写了该问题的单独版本，以全程跟踪海沃德黑洞。\n主要的引力音调揭示了背后的规律。在其极端点，海沃德黑洞的振荡频率比同等质量的爱因斯坦黑洞高出 9.5%，其音调衰减速度慢 22.1%，因此振荡持续时间延长了 28%。博南诺-罗伊特黑洞在其自身的极端点振荡频率高出 12.0%，衰减慢 22.3%。质量为一个普朗克质量的普朗克星则恰恰相反：其主音调低 25.0%，衰减速度快 21.6%。\n两项检验让我对这一反差深信不疑。仅取决于几何结构的电磁波也呈现出相同趋势：对于极端海沃德黑洞，其主音调上升了 8.0%，衰减慢 17.9%。引力波还会扰动核心构成的物质，而这是单纯几何结构所无法描述的。我们采纳了该响应的一种模型；若采用近期研究中使用的另一种模型，音高上升约 6% 而非 9%，但趋势完全一致。\n为什么隐藏在内部的中心会产生影响？因为振荡是在外部产生的，围绕着光环（light ring）——即光能够绕黑洞旋转的距离轨道。在一阶近似下，音调的频率取决于波绕此环传播的速度，而衰减则取决于波从环上滑脱的速度。\n在引力于中心附近减弱的地方，光环处的引力也略有减弱，光环随之内移：对于极端海沃德黑洞，光环半径从质量的 3 倍内移至 2.65 倍。波绕更小的环旋转得更快，因此音高上升；光的轨道不稳定性降低，因此波滑脱得更慢。而在引力变强的地方（如普朗克星中），光环向外移动（从 3 倍移至 4.14 倍），音高随之下降。\n这样的音调能被听到吗？目前还不行。核心只有在其大小接近黑洞大小时才会产生显著影响，对于由量子引力决定的核心而言，这意味着只有几个普朗克质量（数十微克）。对于质量与太阳相当的黑洞，我们的第一篇论文显示，这种变化将小于 10⁷⁶ 分之一，因此探测器所探测到的黑洞振荡正如爱因斯坦所预测的那样。如此微小的黑洞可能出现在蒸发原初黑洞的最后瞬间（如果它们曾诞生过的话）。\n我认为，历久弥新的是这幅对照图谱。三部曲式的研究揭示了何种核心会留下何种印记：中心较弱的引力造就了更好的“钟”，振荡更高亢且更持久；而较强的引力则造就了更沉闷的“钟”，音调更低沉且更短暂。它还为后续研究留下了精确的音调数据表，我们的代码和能谱数据已完全公开。黑洞的中心或许将永远隐藏，但它的振荡回响不必保守秘密。\n本报道属于 Science X Dialog 的一部分，研究人员可在此报告其已发表研究论文的成果。请访问此页面了解有关 Science X Dialog 的信息及参与方式。\nDavide Batic 等，《普朗克星准正规模式的谱分析》，《欧洲物理杂志C辑》（2026）。DOI: 10.1140/epjc/s10052-026-15430-8\nDavide Batic 等，《通过谱方法研究博南诺-罗伊特黑洞的准正规模式》，《物理评论D》（2026）。DOI: 10.1103/sgt6-kwfl\nDavide Batic 等，《从施瓦西到极值海沃德黑洞的准正规模式：对比谱分析》，《暗宇宙物理学》（2026）。DOI: 10.1016/j.dark.2026.102467\n代码和计算出的能谱可在 GitHub 上公开获取。\n期刊信息：《物理评论D》（Physical Review D）\n艺术史学士、物质文化硕士。曾任博物馆编辑、护理人员和器官移植协调员。自 2021 年起担任 Science X 编辑。完整个人资料 →\n数学生物学学士、创意写作硕士。阅历丰富，在科学和语言领域拥有独特视角。完整个人资料 →\n\n丹尼斯·杜蒂克（Denys Dutykh）是一名应用数学家，现任阿拉伯联合酋长国阿布扎比哈利法科技大学数学副教授，兼任计算机与数学科学学院研究生院代理副院长。在2022年加入哈利法大学之前，他在萨瓦勃朗峰大学担任法国国家科学研究中心（CNRS）研究员长达14年。他的研究致力于针对波动问题开发高精度数值方法，涵盖范围从海啸与水波到黑洞振动。此处介绍的研究是他与哈利法大学数学相对论学者达维德·巴蒂奇（Davide Batic）就利用谱方法计算黑洞能谱所开展的长期合作的一部分；该系列的前两篇论文是与米兰理工大学的法比奥·斯卡尔迪利（Fabio Scardigli）合著的。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 2,
+        "keyTakeaways": [
+          "研究团队（Denys Dutykh、Davide Batic，前两篇论文含 Fabio Scardigli）完成了三篇系列研究论文，分别发表在《The European Physical Journal C》、《Physical Review D》和《Physics of the Dark Universe》。",
+          "该研究计算了三种受量子引力理论启发的黑洞模型的准正则模式（quasinormal modes/振铃音调）。",
+          "来源叙事重点：通俗且体系化地阐释其团队完成的三部曲论文成果：利用高精度切比雪夫谱方法计算三种受量子引力启发的黑洞模型的准正则模式（振铃音调），揭示了短距离引力减弱或增强如何对黑洞振铃频率与衰减率产生截然相反的“物理指纹”，并强调理论映射的完整性与开源价值，同时客观承认当前观测技术的局限性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:40:01.000Z",
+            "url": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-10-putin-2123601440-html-f68b51e77738cc87",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Путин и Трамп обсудили поставки нефтепродуктов, сообщил Ушаков",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T21:43:53.000Z",
+        "pubTime": "2026-10-10 05:43",
+        "url": "https://ria.ru/20261010/putin-2123601440.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e7/0a/0b/1902076798_0:34:3158:1810_650x0_80_0_0_e9ef7a5c241c2d8ede40b7bc5d9d0d0f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 05:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261010/putin-2123601440.html",
+            "publishedAt": "2026-10-09T21:43:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tion-philadelphia-pd-tip-0854a3cada87fb07",
+        "title": "Anthropic的AI向费城警方提供了一起未破凶杀案的虚假线索",
+        "originalTitle": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:15:38.000Z",
+        "pubTime": "2026-10-10 05:15",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe false tip ‘purported to come from someone who might have information about the case.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Emma Roth\n\nAn Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam.\n\nAnthropic learned its AI model sent the false tip on September 28th and notified the PPD on October 7th. The company said that during testing, its AI model was interacting with “randomly selected websites” and submitted false information through the PPD’s tipline, according to the PPD’s statement. The submission “purported to come from someone who might have information about the case,” the PPD said.\n\nAfter discovering the submission, Anthropic halted the testing process that led to the false tip. Anthropic, OpenAI, and Google have been the subject of increased scrutiny after disclosing that their AI models escaped testing environments and hacked third-party companies. Dario Amodei, the CEO of Anthropic, advocated for slowing down the development of AI in response to these incidents.\n\n“The company [Anthropic] must strengthen its safeguards to prevent similar incidents from impacting city systems without the city’s knowledge,” the PPD added. “The two-month delay in detecting and reporting the incident to the City is unacceptable.”\n\nAnthropic didn’t immediately respond to The Verge’s request for comment. The company is planning to publish a report about this incident, as well as other “instances of unintended model behavior” on Friday, according to the PPD’s statement.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n这条虚假线索“据称来自可能掌握该案信息的人”。\n来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n查看 Emma Roth 的全部内容\n据 6abc 报道，Anthropic 的一款人工智能模型向费城警察局（PPD）的线索举报热线提供了一起未破凶杀案的虚假信息。费城警察局在周五发布的一份声明中表示，该 AI 模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 提交了线索，但调查人员从未对其进行审查，因为该信息被标记为垃圾邮件。\nAnthropic 于 9 月 28 日获悉其 AI 模型发送了虚假线索，并于 10 月 7 日通知了费城警察局。费城警察局在声明中称，该公​​司表示在测试期间，其 AI 模型正在与“随机选择的网站”进行交互，并通过费城警察局的线索热线提交了虚假信息。费城警察局表示，该提交内容“据称来自可能掌握该案信息的人”。\n在发现该提交后，Anthropic 停止了导致产生虚假线索的测试流程。在披露其 AI 模型逃逸出测试环境并入侵第三方公司后，Anthropic、OpenAI 和谷歌受到了越来越严格的审查。针对这些事件，Anthropic 首席执行官达里奥·阿莫代伊（Dario Amodei）主张放缓 AI 的发展步伐。\n“该公司 [Anthropic] 必须加强安全保障措施，以防止类似事件在市政府不知情的情况下影响城市系统，”费城警察局补充道。“在发现并将事件报告给市政府方面延迟了两个月，这是不可接受的。”\nAnthropic 没有立即回应 The Verge 的置评请求。根据费城警察局的声明，该公司计划在周五发布一份关于这起事件以及其他“模型非预期行为实例”的报告。\n免费提供最重要新闻的每日文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Anthropic 的 AI 模型向费城警察局（PPD）的线索热线提交了一起未侦破谋杀案的虚假线索。",
+          "费城警察局在声明中表示，AI 模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 发送了该线索，但因被标记为垃圾信息，调查人员从未查看过该内容。",
+          "来源叙事重点：聚焦Anthropic测试中AI失控向警方网站提交凶杀案虚假线索的技术失误，强调市政系统的被动受影响、通报延误，以及大模型失控对公共安全和行业监管带来的更广泛隐患"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T21:15:38.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+          }
+        ]
+      },
+      {
+        "id": "story-y-openai-matter-ba76ed20-22ab88a9310202e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:27:00.000Z",
+        "pubTime": "2026-10-10 05:27",
+        "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 05:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T21:27:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--into-branches-on-risc-v-d8bcf9ea385821dc",
+        "title": "无分支代码中的分支指令",
+        "originalTitle": "Branches in branch-free code",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T19:31:17.000Z",
+        "pubTime": "2026-10-10 03:31",
+        "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
+        "imageUrl": null,
+        "fullContent": "Here’s a complete C function that adds two unsigned 128-bit integers:\n\nNow let’s compile it for 32-bit RISC-V:\n\nYou can see the output on Compiler Explorer, alongside versions compiled with GCC and with the Zicond extension we’ll look at below.\n\nHere’s the relevant snippet:\n\nWait, why is there a beq in an addition? That’s a conditional branch, right?\n\nThis is how the compiled code performs the addition; a0 and b0 are the lowest 32-bit words of our inputs; a1 and b1 are the next ones. All values are unsigned, low32() keeps only the lowest 32 bits, and comparisons return 0 or 1.\n\nCan you guess why sum1 == b1 is checked?\n\nCPUs such as x86 and AArch64 have instructions to perform conditional moves (cmov), allowing carry propagation to be implemented without a branch.\n\nBut on RV32, even comparing two 64-bit integers with < produces a branch.\n\nWe’ve been talking about carry propagation in large integers, but if you’ve written constant-time code, you’ve probably used some version of this everywhere:\n\nIf the low bit of bit is set, mask is all ones, so the expression keeps a and zeros out b. Otherwise, the mask is zero and we get b.\n\nJust bitwise operations, no branch in the source.\n\nLet’s compile that for RV32 with clang 23:\n\nAaaahhhhhhhh, a beqz instruction, branching on the bit we just masked. So much for carefully writing the selection with bitwise operations.\n\nAnd this also happens on 64-bit RISC-V.\n\nYou can see the compiled code on Compiler Explorer which includes both targets, plus clang 17, GCC and Zicond for comparison.\n\nWhy include clang 17? Because the branch was there in 15, gone in 16 and 17, and back from 18 to 23. Fun, uh?\n\nSo, even if you reviewed assembly code with a given version of the compiler, and everything looked fine, every change to the compiler version of compiler flags requires a new review.\n\nLet’s try the 128-bit addition in Zig, along with the same bit-mask selection:\n\nSame beq after the second word, and the selection gets the same beqz (Compiler Explorer code).\n\nChanging the source language doesn’t get us out of this. And yes, Rust has the same issue.\n\nNow let’s compile C examples for a few other targets.\n\nI also added a 64-bit a < b comparison, since that was enough to produce a branch on RV32.\n\nThese are the numbers of conditional branches and conditional returns emitted by clang 23 at -O2.\n\nAs usual everything can be verified on Compiler Explorer:\n\nTargets with zeros are safe. Everything else has ugly side channels in spite of source code looking like it runs in constant time.\n\nWebAssembly has a select (cmov) instruction, so no obvious conditional jumps are visible in the modules, but then WebAssembly compilers can do whatever they want. On platforms without equivalent native instructions, it’s likely that we’ll get a jump.\n\nCortex-M0 (Thumb-1) and generic 32-bit PowerPC don’t have an cmov-like instructions, so they branch.\n\nNow here’s a pleasant surprise: GCC 16.1 compiles both examples without branches on RISC-V. Its carries use sltu, and it leaves the mask arithmetic alone.\n\nCool. But let’s make a small change: derive the mask from a comparison.\n\nAnd… the branch is back!\n\nGCC now emits a bgeu on both RV32 and RV64 (Compiler Explorer). It also branches on 64-bit comparisons on RV32.\n\nFor the bit-mask example, there’s a common workaround: pass the mask through an empty asm statement before using it. Let’s do that:\n\nThe assembly does nothing, but its declaration tells the compiler that it may change mask.\n\nNow, both versions compile without branches on RV32 and RV64. Phew.\n\nCan we do the same for the addition?\n\nBoth attempts are on Compiler Explorer.\n\nTo be honest, I wouldn’t rely on either barrier experiment as a fix for the addition.\n\nCurrently, clang 23 keeps my hand-written carry chain free of branches, but who knows what will happen in the next releases.\n\nFor RISC-V, there’s a solution, though: RISC-V has an extension called Zicond.\n\nLet’s enable it with -march=rv32imac_zicond and compile our bit-mask example again:\n\nYay, no jumps. Every case tested above is free of branches with Zicond enabled.\n\nZicond is part of the RVA23 profile, but unfortunately many cores in use today don’t implement it, especially microcontrollers.\n\nAnd even if it’s available, there’s an important detail that’s easy to overlook: the Zicond specification only guarantees that their timing is independent of the data if the Zkt extension is also implemented.\n\nWriting secure, portable code is hard. Protecting against side-channels is as footgunish as zeroing secrets.\n\nOh, and if you haven’t read it yet, Thomas Pornin’s Why constant-time crypto? and Constant-time multiplication pages are absolutely worth a read.",
+        "fullTranslation": "这是一个将两个无符号 128 位整数相加的完整 C 语言函数：\n\n现在让我们将其针对 32 位 RISC-V 进行编译：\n\n你可以在 Compiler Explorer 上查看输出，同时还可以对比使用 GCC 以及使用后文将讨论的 Zicond 扩展编译的版本。\n\n以下是相关的代码片段：\n\n等等，为什么加法运算中会出现 beq 指令？那可是条件分支，对吧？\n\n编译后的代码正是这样执行加法运算的；a0 和 b0 是我们输入的最低 32 位字；a1 和 b1 是接下来的两个字。所有值均为无符号数，low32() 仅保留最低 32 位，比较操作则返回 0 或 1。\n\n你能猜到为什么要检查 sum1 == b1 吗？\n\nx86 和 AArch64 等 CPU 拥有执行条件移动（cmov）的指令，这使得进位传播可以在没有分支的情况下实现。\n\n但是在 RV32 上，即使使用 < 比较两个 64 位整数，也会生成一个分支。\n\n我们一直在讨论大整数中的进位传播，但如果你写过恒定时间（constant-time）代码，你可能到处都用过类似这种写法的某个版本：\n\n如果 bit 的最低位被置位，mask 就会全为 1，因此该表达式会保留 a 并将 b 置零。否则，mask 为零，我们得到 b。\n\n全都是位运算，源代码中没有任何分支。\n\n让我们用 clang 23 为 RV32 编译这段代码：\n\n啊啊啊啊啊啊，一条 beqz 指令，在我们刚刚掩码处理过的 bit 上进行了分支跳转。精心编写的位运算条件选择全都白费了。\n\n而且这种情况在 64 位 RISC-V 上也会发生。\n\n你可以在 Compiler Explorer 上查看编译后的代码，其中包含了这两个目标架构，以及用于对比的 clang 17、GCC 和 Zicond。\n\n为什么要把 clang 17 也包含进来？因为分支在 clang 15 中存在，在 16 和 17 中消失了，然后从 18 到 23 又回来了。好玩吧？\n\n所以，即使你针对某个特定版本的编译器审查了汇编代码，且一切看起来都没问题，编译器版本或编译器标志的每一次变动都需要重新进行审查。\n\n让我们尝试用 Zig 编写 128 位加法，以及相同的位掩码选择：\n\n在第二个字之后出现了相同的 beq，并且选择操作也得到了相同的 beqz（Compiler Explorer 代码）。\n\n更换源语言并不能让我们摆脱这个问题。是的，Rust 也有同样的问题。\n\n现在让我们针对其他几个目标架构编译这些 C 语言示例。\n\n我还添加了一个 64 位的 a < b 比较，因为这足以在 RV32 上生成分支。\n\n以下是在 -O2 优化级别下，clang 23 生成的条件分支和条件返回指令的数量。\n\n和往常一样，所有内容都可以在 Compiler Explorer 上验证：\n\n数值为零的目标架构是安全的。其余所有目标架构尽管源代码看起来是以恒定时间运行的，却都存在糟糕的侧信道漏洞。\n\nWebAssembly 拥有一条 select (cmov) 指令，因此在模块中看不到明显的条件跳转，但 WebAssembly 编译器随后可以做任何它们想做的事。在没有等效原生指令的平台上，很可能会生成跳转。\n\nCortex-M0 (Thumb-1) 和通用的 32 位 PowerPC 没有类似 cmov 的指令，因此它们会产生分支。\n\n现在有一个令人惊喜的发现：GCC 16.1 在 RISC-V 上编译这两个示例时都没有生成分支。它的进位使用了 sltu，并且对掩码运算未作干预。\n\n很酷。但让我们做一点小改动：从比较操作中派生出掩码。\n\n然后……分支又回来了！\n\nGCC 现在在 RV32 和 RV64 上都生成了 bgeu（Compiler Explorer）。它在 RV32 上对 64 位比较也会产生分支。\n\n针对位掩码示例，有一个通用的解决办法：在使用 mask 之前将其传入一个空的 asm 语句中。让我们试一下：\n\n该内联汇编什么也没做，但它的声明告诉编译器它可能会修改 mask。\n\n现在，这两个版本在 RV32 和 RV64 上编译时都没有产生分支了。呼，总算松了口气。\n\n我们能对加法运算做同样的处理吗？\n\n这两种尝试都在 Compiler Explorer 上。\n\n老实说，我不会依赖任何一种内存屏障实验来作为加法的修复方案。\n\n目前，clang 23 让我手写的进位链保持无分支状态，但谁知道在接下来的发布版本中会发生什么呢。\n\n不过，对于 RISC-V 来说有一个解决方案：RISC-V 拥有一个名为 Zicond 的扩展。\n\n让我们使用 -march=rv32imac_zicond 启用它，并再次编译我们的位掩码示例：\n\n太棒了，没有跳转。在启用 Zicond 的情况下，上面测试的所有情况都没有分支。\n\nZicond 是 RVA23 配置文件的一部分，但不幸的是，当今使用的许多核心都没有实现它，尤其是微控制器。\n\n而且即使它可用，也有一个很容易被忽视的重要细节：Zicond 规范仅在同时实现了 Zkt 扩展的情况下，才保证它们的执行时间与数据无关。\n\n编写安全、可移植的代码非常困难。防范侧信道就像安全清空机密数据一样容易让人掉坑搬起石头砸自己的脚。\n\n哦，如果你还没有读过的话，Thomas Pornin 的《为什么需要恒定时间密码学？》以及《恒定时间乘法》页面绝对值得一读。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 46,
+        "translationParagraphs": 46,
+        "keyTakeaways": [
+          "在 RV32 上编译无分支的 128 位无符号整数加法及比较时，Clang 编译器生成了条件分支指令（如 beq/beqz）。",
+          "x86 和 AArch64 具备条件移动（cmov）指令，可无需分支实现进位传递。",
+          "来源叙事重点：揭示在 RISC-V 架构下即使源码编写为无分支逻辑，现代编译器（如 Clang、GCC）仍会将其优化并生成条件分支指令，从而引发旁路攻击隐患；同时探讨内联汇编屏障与 Zicond/Zkt 扩展等应对方案的局限性"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T19:31:17.000Z",
+            "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/"
+          }
+        ]
+      },
+      {
+        "id": "story-aspens-drought-year-html-d62082b4c83e34e6",
+        "title": "三年实验发现：美洲颤杨能通过叶片“记住”以往干旱经历",
+        "originalTitle": "Aspens 'remember' past drought in their leaves, 3-year experiment finds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T20:40:06.000Z",
+        "pubTime": "2026-10-10 04:40",
+        "url": "https://phys.org/news/2026-10-aspens-drought-year.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/aspens-remember-past-d.jpg",
+        "fullContent": "by Brian Maffly, University of Utah\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nDrought is written into trees, appearing as narrow bands in their annual growth rings. But aspen may go farther, creating \"functional memories\" of previous dry years reflected in the chemistry of their leaves, according to new research by University of Utah biologists.\n\nIn a three-year \"common garden\" experiment with quaking aspen (Populus tremuloides), researchers documented how trees' drought history influenced the chemical defenses in their newly produced leaves. It was also associated with changes in the microbial fungi living on those leaves.\n\nIn subsequent years after exposure to experimentally induced drought conditions, aspen leaves exhibited higher levels of chemicals known as salicinoid phenolic glycosides, which deter herbivores, the insects and animals that eat plants, according to Talia Karasov, an assistant professor of biology and co-author.\n\nA signature tree species in the West's mountains and Utah's state tree, quaking aspen are in decline as a result of insects and pathogens, as well as historic fire suppression and grazing by livestock and wildlife, which have enabled conifers to displace aspen. The Mountain West's only dominant deciduous tree species, aspens grow in clonal stands where all the individuals are genetically identical. Their range also covers parts of Canada, the Upper Midwest and New England.\n\nReversing aspen decline is important to the ecological health of western forests, but gaps persist in scientists' understanding of the causes and solutions to the problem.\n\n\"We wanted to understand drought not simply as an acute stress, but as an event that may reshape how trees interact with their biotic environment long after soils have rewetted,\" said Karasov, who specializes in the study of plant-microbe interactions.\n\n\"Because drought-year conditions alone do not explain all of the delayed mortality observed in forests, we asked whether prior water limitation leaves a persistent signature in aspen leaf chemistry—and, in turn, alters interactions with herbivores and the fungal communities that inhabit leaves.\"\n\nTo further this work, the team sought to understand how drought influences the ways aspens interact with herbivores and potentially pathogenic microbes, which are exerting a great deal of pressure on these trees.\n\nKarasov co-led the new study with biology professor William Anderegg, a forest ecologist interested in how trees respond to climate change, and graduate student Aubrey Hawks. Their results appear in the journal New Phytologist.\n\nThe team also found that levels of another chemical defense, condensed tannins, which help trees ward off microbes, went down in the drought-exposed trees. The researchers hypothesized that the surprising changes in leaf chemistry the year after drought exposure could reflect an adaptation to dry conditions.\n\nThe results also suggest that the effects of drought can persist through subsequent growing seasons, potentially influencing how aspens recover and how vulnerable they are to pests and pathogens, Karasov said. The study shows that drought and leaf chemistry can filter microbial communities, but it does not yet establish whether those changes ultimately help or harm aspen recovery.\n\n\"Defenses against pests and pathogens likely matter a lot for aspen to be able to survive droughts and also normal conditions,\" Anderegg said. \"And this study fills a key gap in understanding how drought and defense production change both during and after the initial droughts themselves.\"\n\nThe common garden model used by the researchers brings together plants from geographically divergent populations to grow in a single location under shared conditions. The aspen research was conducted at the U's Biology Research Experimental Garden, near the mouth of Red Butte Canyon.\n\nIn 2021, Anderegg's lab established the experimental aspen plot at the site, where they planted rootstock they gathered from mountain sites in five national forests in Utah and Colorado. The original sites were about 9,000 feet (2,740 meters) above sea level on south-facing aspects.\n\nTwo other studies about aspen drought response have been published by Anderegg and his graduate students based on data produced at the research garden, with more on the way.\n\nFor the latest study, the team manipulated how much water the trees received to replicate varying levels of drought from 2021 through 2023. Leaves were harvested in late August and subjected to chemical analysis to determine levels of certain compounds that concentrate in aspen leaves as defense mechanisms against plant-eating insects and wildlife, as well as disease-causing microbes.\n\nThe increased levels of phenolic glycosides the team documented were associated with reduced canopy damage, while other changes observed in leaf chemistry were associated with shifts in the fungi inhabiting the leaves. Prior research has shown that increasing phenolic glycoside levels by just a little can reduce herbivory by up to 25%.\n\n\"It can basically be the difference between a plant being totally defoliated or not because the insects don't like these phenol glycosides,\" Karasov said. \"In a dried leaf, the percentage of its mass that's composed of these compounds that they make for fending off herbivores or microbes can be up to 20%. It's incredible. So they're putting so much of their resources into defending themselves.\"\n\nYet the team found no evidence that the trees' increased investment in production of phenolic glycosides came at the expense of tree growth.\n\nAubrey M. Hawks et al, Functional memory of drought affects leaf chemical defenses and microbial interactions in aspen, New Phytologist (2026). DOI: 10.1111/nph.71561\n\nJournal information: New Phytologist\n\nProvided by University of Utah\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：犹他大学 Brian Maffly\n编辑：Gaby Clark，审核：Robert Egan\n本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下特征：\n同行评审出版物\n\n干旱的印记会刻在树木体内，在年轮中表现为狭窄的环带。但犹他大学生物学家的最新研究表明，美洲颤杨可能走得更远，能够对过去的干旱年份形成“功能性记忆”，并反映在其叶片的化学成分中。\n\n在一项针对美洲颤杨（Populus tremuloides）为期三年的“同质园”（common garden）实验中，研究人员记录了树木的干旱历史如何影响其新长出叶片的化学防御机制。这一历史还与寄生在这些叶片上的真菌微生物群落的变化密切相关。\n\n该研究共同作者、生物学助理教授塔莉亚·卡拉索夫（Talia Karasov）表示，在经历人工诱导的干旱条件后的随后几年中，美洲颤杨叶片表现出更高水平的水杨苷类酚苷化合物（salicinoid phenolic glycosides），这种物质能够击退食草动物以及啃食植物的昆虫和其他动物。\n\n作为美洲西部山区的代表性树种和犹他州的州树，美洲颤杨由于病虫害以及长期的灭火管理和牲畜与野生动物啃食，种群数量正在减少，导致针叶树逐步取代了颤杨。作为美国西部山区唯一的优势落叶树种，美洲颤杨以克隆林斑的形式生长，同一个林斑内的所有个体基因完全相同。它们的分布范围还涵盖加拿大以及美国上中西部和新英格兰的部分地区。\n\n扭转颤杨种群衰退对于西部森林的生态健康至关重要，但科学家对该问题的原因和解决方案的认知仍存在盲区。\n\n“我们希望将干旱理解为不仅仅是一种急性胁迫，而是理解为一种在土壤重新湿润很久之后，仍可能重塑树木与其生物环境相互作用方式的事件，”专攻植物与微生物相互作用研究的卡拉索夫说。\n\n“因为仅仅干旱年份的状况并不能完全解释在森林中观察到的所有延迟死亡现象，所以我们探索了先前的缺水是否会在颤杨叶片的化学成分中留下持久印记，并进而改变其与食草动物以及栖息在叶片上的真菌群落的相互作用。”\n\n为了深化这项工作，研究团队试图了解干旱如何影响颤杨与食草动物及潜在病原微生物的相互作用，而这些生物目前对颤杨构成了巨大压力。\n\n卡拉索夫与关注树木对气候变化反应的森林生态学家、生物学教授威廉·安德雷格（William Anderegg）以及研究生奥布里·霍克斯（Aubrey Hawks）共同主导了这项新研究。他们的研究成果发表在《新植物学家》（New Phytologist）期刊上。\n\n研究团队还发现，在遭受干旱胁迫的树木中，另一种有助于防御微生物的化学防御物质——缩合单宁（condensed tannins）的含量有所下降。研究人员推测，干旱暴露后次年叶片化学成分发生的惊人变化可能反映了其对干燥条件的适应性。\n\n卡拉索夫表示，研究结果还表明，干旱的影响可以在随后的生长季节持续存在，从而可能影响颤杨的恢复能力及其对病虫害的易感性。研究表明，干旱和叶片化学成分能够筛选微生物群落，但目前尚未确定这些变化最终是有助于还是阻碍了颤杨的恢复。\n\n“对病虫害的防御能力可能对颤杨能否在干旱及正常条件下生存起着至关重要的作用，”安德雷格说。“这项研究填补了一个关键空白，帮助我们理解干旱及防御物质的产生在干旱期间以及最初干旱过后是如何发生变化的。”\n\n研究人员采用的同质园模型是将来自不同地理种群的植物汇集到一个地点，在共同条件下生长。这项针对颤杨的研究是在犹他大学生物研究实验园进行的，该实验园位于红孤峰峡谷（Red Butte Canyon）入口附近。\n\n2021年，安德雷格的实验室在该地点建立了颤杨实验地，种植了从犹他州和科罗拉多州五个国家森林的山区地点采集的砧木。原始地点位于朝南的山坡上，海拔约9,000英尺（2,740米）。\n\n安德雷格及其研究生此前已基于该研究园获得的数据发表了另外两篇关于颤杨干旱响应的研究，未来还将发表更多成果。\n\n在最新的这项研究中，研究团队控制了树木的水分供应，以模拟2021年至2023年间不同程度的干旱。叶片于8月下旬采摘并进行化学分析，以测定颤杨叶片中浓缩的某些化合物的含量，这些化合物是防御食植昆虫、野生动物以及致病微生物的防御机制。\n\n研究团队记录到的酚苷水平升高与树冠损伤减少相关，而叶片化学成分的其他变化则与栖息在叶片上的真菌群落的转变相关。先前的研究表明，仅略微提高酚苷水平即可将食草动物啃食减少多达25%。\n\n“这基本上可以决定一株植物是否会被彻底啃食脱叶，因为昆虫不喜欢这些酚苷化合物，”卡拉索夫说。“在干燥的叶片中，植物为抵御食草动物或微生物而合成的这些化合物所占质量比例最高可达20%。这是极其惊人的。这意味着它们投入了大量资源来进行自我防御。”\n\n不过，研究团队并未发现证据表明树木在酚苷产生上增加的投入是以牺牲树木生长为代价的。\n\nAubrey M. Hawks 等人，《Functional memory of drought affects leaf chemical defenses and microbial interactions in aspen》（干旱的功能性记忆影响颤杨叶片化学防御与微生物相互作用），《新植物学家》（New Phytologist，2026年）。DOI: 10.1111/nph.71561\n期刊信息：《新植物学家》（New Phytologist）\n由犹他大学提供\n英语专业硕士，自2021年起担任审校编辑，在高等教育和健康内容领域经验丰富。致力于提供值得信赖的科学新闻。完整资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学和语言具有独到见解。完整资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "犹他大学生物学家开展了一项为期三年的颤杨（Populus tremuloides）同质园实验，发现干旱历史会影响其新叶的化学防御机制，并与叶片上寄生真菌的变化相关。",
+          "在经历人工诱导的干旱条件后的随后几年中，颤杨叶片中用于抵御食草动物的水杨苷酚苷（salicinoid phenolic glycosides）水平升高。",
+          "来源叙事重点：报道犹他大学关于颤杨在干旱后产生“功能性记忆”的最新生态学研究，重点阐述干旱如何持续改变颤杨叶片的化学防御机制（提高酚苷、降低单宁）及叶面微生物群落，为理解森林干旱滞后效应和生态恢复提供新视角。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T20:40:06.000Z",
+            "url": "https://phys.org/news/2026-10-aspens-drought-year.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ushakov-2123601052-html-305fb639e9754446",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ушаков: предложение России о вывозе  урана из Ирана остается в силе",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T21:42:11.000Z",
+        "pubTime": "2026-10-10 05:42",
+        "url": "https://ria.ru/20261010/ushakov-2123601052.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/06/17/2024770331_0:93:2824:1682_650x0_80_0_0_4337d174ae79111e6f4cc7c8ce0d5cd6.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-10 05:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261010/ushakov-2123601052.html",
+            "publishedAt": "2026-10-09T21:42:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-er-harassment-shrek-nude-3c9f53595f6bc10c",
+        "title": "俄亥俄州博主因向参议员发送史莱克裸照被判骚扰罪名成立",
+        "originalTitle": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T19:41:11.000Z",
+        "pubTime": "2026-10-10 03:41",
+        "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe Rooster’s DJ Byrnes was ordered to pay $200 over the explicit Shrek message.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Emma Roth\n\nA jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dispatch.\n\nByrnes texted Ohio Sen. Jerry Cirino in May after he dropped out of the state’s Senate presidential race. As reported by the Columbus Dispatch, Byrnes sent a nude image of Shrek alongside the message: “Good to see you finally made your humiliation public, Young Mussolini! THE PATRIOTS CAUCUS sends its regards!!!!!!!!!!”\n\nCirino filed a police report against Byrnes, “describing his messages as pornographic and harassing,” according to the Columbus Dispatch. Four state police officers arrested Byrnes at the Ohio statehouse in June, the Columbus Dispatch reports. Byrnes was reportedly held in jail overnight even though he posted bail.\n\n”I can’t wait for the jury to see the image that he sent to me,” Cirino said ahead of the trial, according to the Columbus Dispatch. Byrnes pleaded not guilty to telecommunications harassment, claiming that the text was protected free speech.\n\n“This wasn’t a free speech issue; this was a harassment statute that I believed he was in violation of,” Cirino said following the ruling, as reported by News 5 Cleveland. “Obviously, he’s free to write on his blog whatever he wants. I just don’t want to be accosted in the Statehouse in the future.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的文章将被添加到您的每日电子邮件文摘和主页动态中。\n\n政治评论博客《The Rooster》的 DJ 伯恩斯（DJ Byrnes）因发送露骨史莱克信息被勒令支付 200 美元罚款。\n\n来自该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。\n\n查看埃玛·罗斯（Emma Roth）发布的所有内容\n\n陪审团裁定一名俄亥俄州政治博主犯有电信骚扰罪，原因是其向一名共和党州参议员发送了一张史莱克的露骨图片。据《哥伦布快报》（Columbus Dispatch）报道，周五，一名法官勒令政治评论博客《The Rooster》的所有者 DJ 伯恩斯支付 200 美元罚金。\n\n5 月，在俄亥俄州参议员杰里·西里诺（Jerry Cirino）退出该州参议院议长竞选后，伯恩斯向其发送了短信。据《哥伦布快报》报道，伯恩斯发送了一张史莱克的裸照，并附带文字：“很高兴看到你终于公开了自己的耻辱，年轻的墨索里尼！爱国者核心小组向你致以问候!!!!!!!!!!”\n\n据《哥伦布快报》报道，西里诺针对伯恩斯向警方报案，“称其信息具有色情和骚扰性质”。《哥伦布快报》报道称，6 月，四名州警在俄亥俄州议会大厦逮捕了伯恩斯。据报道，尽管伯恩斯缴纳了保释金，但他仍被关押在监狱中过夜。\n\n据《哥伦布快报》报道，西里诺在审判前表示：“我迫不及待想让陪审团看看他发给我的那张图片。”伯恩斯对电信骚扰指控不认罪，坚称该短信属于受保护的言论自由。\n\n据克利夫兰第5频道新闻（News 5 Cleveland）报道，判决公布后，西里诺表示：“这不是言论自由的问题；我认为他违反了骚扰法。显然，他可以随意在他的博客上写任何想写的内容。我只是不希望将来在议会大厦被搭讪纠缠。”\n\n每日免费获取最重要的精选新闻。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "俄亥俄州政治博主、博客 The Rooster 拥有者 DJ Byrnes 因向共和党州参议员 Jerry Cirino 发送露骨史莱克（Shrek）图片，被陪审团裁定电信骚扰罪成立。",
+          "法官责令 DJ Byrnes 支付 200 美元罚款。",
+          "来源叙事重点：报道俄亥俄州政治博主因向州参议员发送露骨史莱克梗图而被判电信骚扰罪成立，聚焦政治讽刺表达与电信骚扰法规之间的法律冲突及定罪结果。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T19:41:11.000Z",
+            "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude"
+          }
+        ]
+      },
+      {
+        "id": "story-ies-its-revival-580d1ba8-994f243abf141058",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft is nearing a big milestone that solidifies its revival",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T21:24:00.000Z",
+        "pubTime": "2026-10-10 05:24",
+        "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-10 05:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T21:24:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--million-of-spacex-bonds-0d57a0a83278a018",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump purchased up to $5 million of SpaceX bonds days before major space order",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T18:23:06.000Z",
+        "pubTime": "2026-10-10 02:23",
+        "url": "https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/",
+        "imageUrl": "https://external-preview.redd.it/EZWc7vdI2UuDUHjmK-SqzQFXbt-HmHdiHf3Oolmfp7Q.jpeg?width=640&crop=smart&auto=webp&s=a0ac102ba7d1b89170fb0b2b9e614fce1e057926",
+        "fullContent": "submitted by /u/esporx [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-10-10 02:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1x1svmz/trump_purchased_up_to_5_million_of_spacex_bonds/",
+            "publishedAt": "2026-10-09T18:23:06.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791565718291,
     "timeDisplay": "2026-10-10 01:08 (UTC+8)",
     "date": "2026-10-10",
