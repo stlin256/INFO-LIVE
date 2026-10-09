@@ -1,5 +1,1571 @@
 [
   {
+    "timestamp": 1791537769790,
+    "timeDisplay": "2026-10-09 17:22 (UTC+8)",
+    "date": "2026-10-09",
+    "runId": "feed-20261009T091917660Z-ayhdgc",
+    "generatedAt": "2026-10-09T09:22:49.790Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 17:19",
+      "lead": "本轮抓取于 2026-10-09 17:19 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】微软 365 家庭版订阅用户终于能够共享 AI 权益：该主题的文章将被添加到您的每日邮件摘要和主页动态中。",
+        "【undefined】Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短 96%：借助 OpenAI Daybreak，Sophos 将前沿智能与网络安全专业能力相结合，能够更快地调查威胁并在规模化层面上保护客户。 使用 AI 智能体案例的平均响应时间 使用 OpenAI 模型缩短的调查时间 由 AI 端到端解决的 MDR 案例比例 前沿 AI 正在深刻改变攻防两端。先进的模型能够协助防御者更快地发现并调查威胁。但这些能力也正扩散至开源权重模型中，为攻击者提供了发现漏洞和加速利用的新途径。 Sophos 是阻挡这些攻",
+        "【undefined】圆桌论坛：对话 AI 设计病毒的创造者：2026年10月16日，星期五 人工智能能否设计出新的生命形式？2025年，斯坦福大学博士生塞缪尔·金（Samuel King）给出了初步答案：他利用生成式人工智能模型提出了微观病毒的基因蓝图。这虽尚未构成人工智能生成生命的完整范例，但下一步或许指日可待。欢迎与资深人工智能记者詹姆斯·奥唐纳（James O'Donnell）一同参与访谈，探讨金的研究工作、其入选《麻省理工科技评论》“35岁以下科技创新35人”（Innovators Un",
+        "【undefined】你比父母更有可能在更年轻时患上癌症。究竟哪里出了问题？| 德维·斯里达尔：一代人之间我们的生活方式和环境所发生的一些变化导致了这种风险增加。而具体原因，至今仍是一个谜。 德维·斯里达尔教授系爱丁堡大学全球公共卫生讲席教授。 在全球卫生领域，我们经常谈论每一代人都比上一代人活得更长寿、更健康。我们在预期寿命的增长、儿童死亡率的大幅下降以及许多可通过疫苗预防的疾病几乎被消灭中看到了这一点。然而，自世纪之交以来，这种进步已经停滞，在某些情况下，若干健康指标甚至出现倒退。 以癌症为例，长期以来它一直被认为是一种与衰老",
+        "【undefined】2026年诺贝尔和平奖授予纳维·皮莱：挪威诺贝尔委员会已将2026年诺贝尔和平奖授予纳瓦内瑟姆·“纳维”·皮莱（Navanethem “Navi” Pillay）。",
+        "【undefined】Venture Global在与葡萄牙Galp的液化天然气仲裁案中败诉：一家法院裁定Venture Global违反了与葡萄牙高浦能源（Galp）的合同，这是该美国液化天然气（LNG）巨头面临的第二起不利裁决。Galp是起诉Venture Global的约六家能源公司之一，这些公司指控其违背长期液化天然气供应合同，以便在现货市场上牟取更高利润。英国石油公司（BP）在对阵该美国公司的仲裁中赢得了另一场胜利，而壳牌（Shell）和西班牙雷普索尔（Repsol）则在与Venture Global的争议中败诉。意大",
+        "【undefined】纳斯达克首席执行官表示，代币化或将释放数百亿美元被困资本：纳斯达克首席执行官阿德娜·弗里德曼（Adena Friedman）表示，代币化可以释放全球金融体系中因作为抵押品而被锁定的数百亿美元资本。",
+        "【undefined】全球最大原油交易商暂未排除油价升至200美元的可能性：全球最大独立石油交易商维多集团（Vitol Group）首席执行官拉塞尔·哈迪（Russell Hardy）表示，在阿曼湾进行的船对船转运使得中东原油得以持续外运，这为海湾产油国和石油市场提供了一条生命线。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录：美国军事行动法律争议、诺贝尔奖与市场主题受关注",
+      "lead": "目录信息显示，近期报道涉及美国国防部长彼特·赫格塞思所称公开执行及其法律依据争议、诺贝尔奖评选、与货运期货挂钩的交易型开放式指数基金上涨，以及法国教育部长直播等主题。由于文章标题、来源和正文均未提供，暂无法进一步核实事件背景、影响范围与具体结论。",
+      "themes": [
+        {
+          "name": "美国军事行动的法律争议",
+          "analysis": "目录摘录称，彼特·赫格塞思表示执行行动将公开进行，但法律专家认为该决定“前所未有”，且处于“不确定的法律地带”。现有证据未说明执行对象、行动性质、法律依据或后续程序，因此只能确认报道聚焦于公开执行计划及其合法性争议。"
+        },
+        {
+          "name": "诺贝尔奖评选",
+          "analysis": "一则目录摘录提到，挪威诺贝尔委员会从287名候选人中作出选择。现有材料没有提供奖项类别、获奖者或评选结果，无法据此判断该主题的具体进展及影响。"
+        },
+        {
+          "name": "货运期货与交易型开放式指数基金",
+          "analysis": "目录显示，一只与货运期货挂钩的交易型开放式指数基金正在上涨，另一则摘录提到有观点认为相关投资者可能是在获利了结。由于缺少基金名称、涨幅、交易背景和完整引语，无法判断上涨原因或市场趋势是否具有持续性。"
+        },
+        {
+          "name": "法国教育政策动态",
+          "analysis": "目录列出法国国民教育部长埃杜阿尔·热夫赖正在进行直播，但未提供直播内容、政策议题或相关决定，因此目前只能确认存在一场教育部门公开活动，无法作出实质性分析。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 75,
+      "completedTasks": 75,
+      "succeeded": 62,
+      "degraded": 13,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 75,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 212097,
+      "byRole": {
+        "translator": {
+          "attempts": 50,
+          "degraded": 11,
+          "succeeded": 39
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 75,
+          "degraded": 13,
+          "succeeded": 62
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-33-translator-1",
+      "article-33-translator-2",
+      "article-39-translator-0",
+      "hourly-editor",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:00.663Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.510Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:00.873Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.550Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.153Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.362Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.178Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.664Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.429Z",
+        "lastSuccessAt": "2026-10-09T09:19:04.765Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.366Z",
+        "lastSuccessAt": "2026-10-09T09:19:04.616Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:04.765Z",
+        "lastSuccessAt": "2026-10-09T09:19:05.300Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.231Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.490Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.357Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.690Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.288Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.657Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.734Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.262Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.678Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.243Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.510Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.288Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.550Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.014Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:04.616Z",
+        "lastSuccessAt": "2026-10-09T09:19:05.264Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.574Z",
+        "lastSuccessAt": "2026-10-09T09:19:05.302Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:04.294Z",
+        "lastSuccessAt": "2026-10-09T09:19:04.709Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.596Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.124Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.014Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.153Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.850Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.178Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.200Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.231Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:18:59.998Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.200Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.974Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.206Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.879Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.068Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 419",
+        "checkedAt": "2026-10-09T09:19:02.657Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.961Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.139Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.139Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.433Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.362Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.710Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:04.678Z",
+        "lastSuccessAt": "2026-10-09T09:19:06.644Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.999Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.113Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.219Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.429Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.206Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.345Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.345Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.485Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:04.709Z",
+        "lastSuccessAt": "2026-10-09T09:19:05.439Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.195Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.357Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.602Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.210Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.710Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.961Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.287Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.574Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-10-09T09:19:03.124Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.113Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.511Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:18:59.997Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.734Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.210Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.366Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:18:59.998Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.850Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.433Z",
+        "lastSuccessAt": "2026-10-09T09:19:05.372Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.690Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.879Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:01.490Z",
+        "lastSuccessAt": "2026-10-09T09:19:01.678Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.068Z",
+        "lastSuccessAt": "2026-10-09T09:19:03.219Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.664Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.999Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.485Z",
+        "lastSuccessAt": "2026-10-09T09:19:04.294Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:03.511Z",
+        "lastSuccessAt": "2026-10-09T09:19:04.678Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.262Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.602Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:19:02.243Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.596Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:18:59.986Z",
+        "lastSuccessAt": "2026-10-09T09:19:00.663Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:18:59.995Z",
+        "lastSuccessAt": "2026-10-09T09:19:00.873Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-10-09T09:18:59.996Z",
+        "lastSuccessAt": "2026-10-09T09:19:02.195Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-s-articles-cmy0r96xygx6o-8fd01290ea63ca9d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Firing squad execution to be livestreamed, Pentagon says",
+        "source": "BBC World (英国BBC官方英文)",
+        "sourceSlug": "bbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:18:31.000Z",
+        "pubTime": "2026-10-09 17:18",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
+        "fullContent": "This video can not be played\n\nListen: 'I played dead', Fort Hood survivor Alonzo Lunsford who was shot seven times tells BBC's Today\n\nThe public will be able to watch the execution of a former US Army major by firing squad, US Defence Secretary Pete Hegseth has said.\n\nA Defense Department official told the BBC the execution of Nidal Hasan, who shot dead 13 unarmed US soldiers at Fort Hood in 2009, would be livestreamed.\n\nIt is believed it would be the first public execution in the US in almost a century. The decision to livestream it is \"unprecedented in the modern era\" and \"on uncertain legal terrain,\" said John Mills, a lawyer who works with inmates sentenced to death.\n\n\"People need to understand that there's serious consequences for these types of things,\" said Hegseth.\n\nDemocratic Senator Chris Murphy told CNN that livestreaming it was \"disgusting\" and reminiscent of executions carried out by the Islamic State group.\n\nThe Pentagon announced earlier this week it would execute Hasan in the first military execution in more than 60 years.\n\nHasan, a US Army psychiatrist from Virginia, admitted fatally shooting 13 unarmed soldiers in a crowded medical building at Fort Hood.\n\nAlonzo Lunsford, a former US Army sergeant who was shot seven times in the attack, told the BBC's Today programme that he supported the execution by firing squad, as a method \"befitting\" for what he did.\n\nHe does not believe everyone should be able to watch the livestream, concerned about the message it sends younger people, but says it is important that those affected by the shooting are given the opportunity.\n\n\"As far as the families of the fallen and the families of the survivors, and the survivors themselves, yes, I think we should be able to look at it uncensored.\"\n\nLunsford says he plans to attend the execution and before they pull the trigger he wants Hasan to look him in the eyes. \"I want him to know he failed. I'm still here.\"\n\nHegseth said in an interview with conservative TV outlet Real America's Voice that Hasan is \"gonna get a firing squad of soldiers. As it should be\".\n\nAsked if Hasan had made any final requests or reached out to President Donald Trump, Hegseth said: \"Don't care. We'll see him on December 3rd.\"\n\nA Pentagon spokesperson said on Monday that Trump had approved the defence secretary's recommendation. The BBC has asked White House whether Trump supports a livestreamed public execution.\n\nWhile there were more than 2,700 executions across 17 countries last year, only two countries carried them out publicly.\n\nEleven public executions were known to have been carried out in Iran in 2025, and another six in Afghanistan, according to Amnesty International.\n\nFort Hood attacker to be executed by firing squad - a first for US military since World War Two\n\nAn undated handout image of Hasan that was released by authorities in 2012\n\nThe execution is scheduled to take place at Fort Hood in Texas on 3 December. It will be the first military execution by firing squad since the end of World War Two.\n\nIn court Hasan apologised for \"any mistakes\". He said during his court martial in 2013 that he believed he was protecting Muslims and the Taliban in Afghanistan.\n\nA military execution requires approval from the US president, according to military law. It also requires appellate review, where a higher court inspects the decision, and a final judgement on its legality to move forward.\n\nThe appellate process for Hasan is not over, Mills said, and he is likely to seek review of his conviction and sentence in federal court, which would likely stay the execution.\n\nAs such, Mills said that he would be surprised if the execution happened.\n\n\"Seeking to make it livestreamed, a firing squad execution, is little more than attention-seeking by the Trump administration and is unlikely to occur, much less deliver any semblance of justice,\" he added.\n\nPublic execution is 'out of the Middle Ages', says Yale professor\n\nCertain states require some form of public viewing of executions. Many states require journalists to be present, and the person due to be executed can invite people. Others also allow ordinary citizens to volunteer as witnesses.\n\nBut \"there hasn't ever been a livestreamed execution,\" says Deborah Denno, a law professor at Fordham University, who has studied US execution methods.\n\nA livestreamed execution would \"force a level of transparency that we have probably never seen before in this country\", she says.\n\n\"More than half of the country wants the death penalty - even though that's on the decline - an argument could be made that 'if you want the death penalty, then we are going to show you how it's conducted in this country'. And people would have to realise exactly what's happening in a way that many people ignore.\"\n\nDenno says there are important considerations for a livestream such as whether it would be age-restricted.\n\nPeople aged under 18 are not permitted to watch military executions under Army regulation 190-55, external, which governs how they are carried out and who can witness them.\n\nThe BBC has asked the Pentagon and US Army if the rules restricting who can watch will be waived and what safeguards will be in place to stop young people from watching the stream.\n\nThe countries with the highest number of executions last year were China, Iran, Saudi Arabia, Yemen and the US, in that order, Amnesty International data shows.\n\nDonald Trump overturned Joe Biden's moratorium on federal executions when he returned to the White House.\n\nAccording to Pew Research conducted in July, external, two thirds of Americans (66%) support executions for murder, a figure which has risen six points in the last five years.\n\nThe last military execution in the country took place in 1961, when a US Army private was hanged after being convicted of raping an 11-year-old Austrian girl. The execution was authorised by then-President Dwight D Eisenhower and took place despite the victim's family asking his successor, John F Kennedy, for clemency.\n\nThe last military execution by firing squad took place in January 1945, when a young US Army deserter, Eddie Slovik, was shot during the final months of World War Two.\n\nWith additional reporting by Kwasi Gyamfi Asiedu and Kali Hays\n\nWhat Americans think about the death penalty\n\nI've seen nearly 500 executions - but never one like Christa Pike's\n\nThe Americans volunteering to watch executions",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 43,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国国防部长皮特·赫格塞思表示，公众将能够观看一名前美国陆军少校的行刑。",
+          "美国国防部官员告诉BBC，尼达尔·哈桑的行刑将进行网络直播。",
+          "来源叙事重点：聚焦五角大楼拟对胡德堡枪击案凶手哈桑实施“网络直播行刑队枪决”的前所未有性与巨大争议，将官方强化威慑的惩治叙事与法律界对其合法性、上诉未决障碍及伦理冲击的质疑进行对冲报道。"
+        ],
+        "citations": [
+          {
+            "source": "BBC World (英国BBC官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T09:18:31.000Z",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "id": "story-features-storage-changes-051b2a01d3fe1603",
+        "title": "微软 365 家庭版订阅用户终于能够共享 AI 权益",
+        "originalTitle": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:14:32.000Z",
+        "pubTime": "2026-10-09 15:14",
+        "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nBut OneDrive storage is being cut to a shared 2TB pool across all family members.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nThe storage changes seem like the major downside to Microsoft’s updates. Instead of getting 1TB of OneDrive storage per account, Microsoft is now limiting this to just 2TB of shared storage across the entire plan. Microsoft argues this makes storage more flexible if one member exceeds 1TB, but it looks like it’s an easy way for the company to upsell more OneDrive storage in reality.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的文章将被添加到您的每日邮件摘要和主页动态中。\n\n但是，所有家庭成员共享的 OneDrive 存储空间将被削减至总计 2TB。\n\n该作者的文章将被添加到您的每日邮件摘要和主页动态中。\n\n查看汤姆·沃伦（Tom Warren）发布的全部内容\n\n存储规则的变动似乎是微软此次更新的主要弊端。微软不再为每个账户单独提供 1TB 的 OneDrive 存储空间，而是将整个订阅方案限制为仅 2TB 的共享存储池。微软坚称，如果有某位家庭成员的使用量超过 1TB，这种方式能让存储更加灵活；但实际上，这看起来更像是该公司推销更多 OneDrive 扩容套餐的惯用手段。\n\n免费获取每日重要新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "微软去年将基于人工智能的 Office 功能捆绑进 Microsoft 365 Personal 和 Family 订阅。",
+          "此前，Microsoft 365 Personal 和 Family 订阅的人工智能权益仅允许主账户持有人使用。",
+          "来源叙事重点：聚焦微软调整 Microsoft 365 家庭版权益背后的得失权衡，在报道 Copilot 等 AI 权益向最多 5 名成员开放的同时，重点批判和揭示 OneDrive 云存储由‘每人 1TB’大幅缩减为‘全家共享 2TB’的变相降配与追加销售意图。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:14:32.000Z",
+            "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+          }
+        ]
+      },
+      {
+        "id": "story-this-a-bad-sign-0c9848b2-29c1c86249073f52",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:15:00.000Z",
+        "pubTime": "2026-10-09 17:15",
+        "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I presume these are sophisticated investors taking a profit.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 17:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T09:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ena-oppong-asare-england-0cb42a141f7cc5a8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Labour chair of housing committee calls for urgent funds for affordable homes in England",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:00:43.000Z",
+        "pubTime": "2026-10-09 17:00",
+        "url": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england",
+        "imageUrl": "https://i.guim.co.uk/img/media/8249144616297b4707fd511566a223532ffad7ea/0_25_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=fc6596c411389b296ad631df325d5a77",
+        "fullContent": "Exclusive: Abena Oppong-Asare urges chancellor to unlock billions of pounds, as housing associations say they could build 41,000 homes in 10 years\n\nThe Labour chair of the Commons housing committee is urging John Healey to bring forward billions of pounds of planned spending on social and affordable homes in England, after housing associations said they were ready to build tens of thousands more.\n\nAbena Oppong-Asare called for the chancellor to allocate money from the £39bn Social and Affordable Homes Programme (SAHP) as soon as possible, rather than after the election as planned.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国下议院住房委员会工党主席阿贝娜·奥彭-阿萨雷（Abena Oppong-Asare）敦促提前拨付英格兰社会及可负担住房的数十亿英镑计划支出。",
+          "住房协会表示，他们准备在10年内建造41,000套住房（数万套住房）。",
+          "来源叙事重点：聚焦议会住房委员会主席呼吁财政部打破原定节奏、提前释放390亿英镑住房基金，强调住房协会已准备就绪以缓解住房危机的紧迫叙事"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T09:00:43.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england"
+          }
+        ]
+      },
+      {
+        "id": "story-e-urban-genes-story-html-b1d152285077f41d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fish may look fine in urban waters but their genes tell a different story",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:00:24.000Z",
+        "pubTime": "2026-10-09 17:00",
+        "url": "https://phys.org/news/2026-10-fish-fine-urban-genes-story.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-may-look-fine-in.jpg",
+        "fullContent": "Blue damselfish, with their striking blue hue, are easy to spot, even along Okinawa's heavily urbanized coastlines. But while abundant, their gene activity reveals a hidden cost to living in human-impacted environments.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-fish-fine-urban-genes-story.html",
+            "publishedAt": "2026-10-09T09:00:24.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--peace-prize-winner-2026-f4ecef8a273b95fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Live Updates: Navi Pillay Wins Nobel Peace Prize",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:17:48.000Z",
+        "pubTime": "2026-10-09 17:17",
+        "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+        "imageUrl": "https://static01.nyt.com/images/2026/10/09/arts/09nobel-header-winner/09nobel-header-winner-mediumSquareAt3X.jpg",
+        "fullContent": "The Norwegian Nobel Committee made its selection from a pool of 287 nominees.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-10-09 17:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+            "publishedAt": "2026-10-09T09:17:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-index-sophos-570fe3204556675e",
+        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短 96%",
+        "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:00:00.000Z",
+        "pubTime": "2026-10-09 15:00",
+        "url": "https://openai.com/index/sophos",
+        "imageUrl": null,
+        "fullContent": "With OpenAI Daybreak, Sophos combines frontier intelligence with cybersecurity expertise to investigate threats faster and protect customers at scale.\n\naverage response time for cases using AI agents\n\nreduction in investigation time using OpenAI models\n\nof MDR cases resolved end-to-end by AI\n\nFrontier AI is changing cybersecurity on both sides⁠(opens in a new window). Advanced models can help defenders find and investigate threats faster. But those capabilities are also spreading to open-weight models, giving attackers new ways to discover vulnerabilities and accelerate exploitation.\n\nSophos⁠(opens in a new window) is one of the companies standing in their way, protecting more than 625,000 organisations across sectors and regions. “We see a huge variety of different attacks,” says John Peterson, the company’s Chief Technology Officer. “We’ve cultivated vast expertise in combating them over four decades in the cybersecurity business.”\n\nThrough OpenAI Daybreak, Sophos is combining OpenAI models with its own threat intelligence, response playbooks and security expertise. The aim isn’t simply to give analysts another tool. It’s to increase the impact of Sophos’s expertise across every customer it protects.\n\n“Sophos brings the domain expertise and the know-how to combat attacks at scale. Programmes like Daybreak, and companies like OpenAI, bring frontier intelligence that allows us to take that domain expertise and scale it to support all of our customers.”\n\nAt the centre of the work is Sophos Fusion, the Sophos AI-native cyber defense system that includes Sophos Managed Detection and Response (MDR). It brings together sensor data from more than 500 third-party integrations alongside Sophos’s own products. Together, those sensors generate trillions of events every day, which Sophos distills into roughly 1,000 to 2,000 cases for its nine security operations centres to investigate.\n\nAgents built through Daybreak have changed how those cases are handled. An investigation agent gathers the customer context, detections, indicators of compromise (IoCs) and relevant threat intelligence for each case. A planning model then creates a plan–execute–review loop: building an investigation plan, completing the steps and producing a summary with recommended response actions for analysts to review. Other agents can carry out parts of the response.\n\nBefore Daybreak, investigating and responding to a case depended primarily on human expertise. Sophos’s existing process averaged around 38 minutes — performance Peterson says was better than 96% of professional security operations centres.\n\n“Now, because of the agents we’ve been able to build through the Daybreak programme, the average response time for cases using those agents has fallen to about 89 seconds. About half of the cases we handle are now being automated by agents we developed using the Daybreak models.”\n\nSophos has built customer control into its MDR service through three operating modes:\n\nNotify: Sophos investigates the case and recommends a response, but the customer acts.\n\nCollaborate: Sophos and the customer work together before action is taken.\n\nAuthorise: Sophos can respond directly on the customer’s behalf.\n\nThe same boundaries apply whether work is completed by a person or an agent. Sophos uses automation to move quickly and make better use of analysts’ time, but potentially destructive actions still require the right level of human oversight.\n\n“Anything we don’t feel comfortable with an agent handling gets passed off for human judgement,” Peterson confirms.\n\nReduced the average response time for cases using agents from approximately 38 minutes to 89 seconds.\n\nEnabled Sophos to resolve 52% of MDR cases end-to-end with AI, within boundaries calibrated by Sophos analysts.\n\nGives customers a faster and more consistent investigation experience.\n\nHelps Sophos scale compute rather than relying on equivalent growth in scarce cybersecurity headcount.\n\nReturns analysts’ attention to the threats, exceptions and decisions where their expertise matters most.\n\nPeterson says Sophos will keep expanding what its agents can do. “The response capabilities are going to continue to become more sophisticated, and we’re going to broaden the range of use cases we address with the agents we’ve built.”\n\n“With programmes like Daybreak, we have an opportunity to stay a step ahead of the attacker community.”\n\nHis advice for other security leaders is simple: “The one thing security leaders should do tomorrow is really come back to focusing on the security fundamentals for their organization,” he says. “That of course includes patching. But patches are only ever going to include vulnerabilities that are known by the vendor.”\n\nThe answer is to maintain “a layered security approach” that includes endpoint protection, multifactor authentication (MFA), network segmentation and strong security operations. “Vulnerabilities are being discovered at an alarming rate and exploited at a scale that we’ve never seen. So I think doing the fundamentals well is more important today than it’s ever been.”",
+        "fullTranslation": "借助 OpenAI Daybreak，Sophos 将前沿智能与网络安全专业能力相结合，能够更快地调查威胁并在规模化层面上保护客户。\n使用 AI 智能体案例的平均响应时间\n使用 OpenAI 模型缩短的调查时间\n由 AI 端到端解决的 MDR 案例比例\n前沿 AI 正在深刻改变攻防两端。先进的模型能够协助防御者更快地发现并调查威胁。但这些能力也正扩散至开源权重模型中，为攻击者提供了发现漏洞和加速利用的新途径。\nSophos 是阻挡这些攻击的企业之一，为各行各业以及各个地区的逾 62.5 万家机构提供安全防护。“我们见识过种类极其繁多的攻击，”该公司首席技术官约翰·彼得森（John Peterson）表示，“在长达 40 年的网络安全业务历程中，我们积累了极为深厚的对抗经验。”\n通过 OpenAI Daybreak，Sophos 将 OpenAI 的模型与其自身的威胁情报、响应处置手册（playbooks）及安全专业知识相结合。其目标不仅仅是为分析师提供又一个工具，而是要放大 Sophos 专业能力在所保护的每位客户身上的实际效能。\n“Sophos 拥有大规模抵御攻击的领域专业知识和实战诀窍。像 Daybreak 这样的项目以及像 OpenAI 这样的公司，带来了前沿智能，使我们能够将这一领域专长进行规模化扩展，从而支持所有客户。”\n这项工作的核心是 Sophos Fusion——这是包含 Sophos 托管检测与响应（MDR）在内的 Sophos AI 原生网络防御系统。它汇集了来自 500 多个第三方集成组件以及 Sophos 自身产品的传感器数据。这些传感器每天共同生成数万亿次事件，Sophos 将其提炼为约 1,000 至 2,000 个案例，供其九个安全运营中心进行调查。\n通过 Daybreak 构建的智能体（Agents）改变了这些案例的处置方式。一个调查智能体负责为每个案例收集客户背景、检测数据、失陷指标（IoCs）以及相关威胁情报。随后，规划模型建立起一个“规划-执行-复核”闭环：制定调查计划、完成执行步骤，并生成包含建议响应操作的摘要，供分析人员审核。其他智能体则可以执行部分响应操作。\n在引入 Daybreak 之前，调查和响应案例主要依赖人工专长。Sophos 先前的流程平均耗时约 38 分钟——彼得森表示，这一表现已优于 96% 的专业安全运营中心。\n“现在，得益于我们通过 Daybreak 项目构建的智能体，使用这些智能体的案例平均响应时间已降至约 89 秒。我们处置的案例中约有一半现在正由利用 Daybreak 模型开发的智能体实现自动化处理。”\nSophos 通过三种运行模式将客户控制权内嵌到其 MDR 服务中：\n通知（Notify）：Sophos 负责调查案例并建议应对措施，但由客户采取行动。\n协作（Collaborate）：Sophos 与客户在采取行动前共同协作配合。\n授权（Authorise）：Sophos 可直接代表客户采取应对措施。\n无论工作是由人工完成还是由智能体完成，均适用相同的边界规则。Sophos 利用自动化提高敏捷性并更高效地利用分析师的时间，但潜在具有破坏性的操作仍需要适度的人工监督。\n“任何我们认为让智能体处置不放心的事项，都会转交由人工判断，”彼得森证实道。\n将使用智能体的案例平均响应时间从约 38 分钟缩短至 89 秒。\n使 Sophos 能够在分析师校准的边界内，通过 AI 端到端解决 52% 的 MDR 案例。\n为客户提供更快、更一致的调查体验。\n协助 Sophos 实现算力规模化扩展，而非单纯依赖等量扩充稀缺的网络安全人力资源。\n让分析人员的注意力重新回归到最需要其专业知识的威胁、异常情况和决策制定上。\n彼得森表示，Sophos 将继续拓展其智能体的能力范畴。“响应能力将变得越来越成熟完备，并且我们将利用所构建的智能体进一步拓宽所涵盖的应用场景范围。”\n“借助像 Daybreak 这样的项目，我们有机会领先攻击者群体一步。”\n对于其他安全负责人的建议，他给出的解答十分明确：“安全负责人明天最该做的一件事，就是真正重新把重心放在本组织的安全基础工作上，”他表示，“这当然包括打补丁。但补丁永远只能覆盖厂商已知的漏洞。”\n答案在于保持“分层安全防御方法”，包括端点保护、多因素认证（MFA）、网络分段以及健全的安全运营。“漏洞正以惊人的速度被发现，并以前所未有的规模被利用。因此我认为，在当下把基础工作做好比以往任何时候都更加关键。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Sophos利用OpenAI Daybreak将网络威胁调查时间缩短了96%。",
+          "Sophos保护了各行业和地区的超过625,000家机构，在网络安全业务领域拥有40年的专业积累。",
+          "来源叙事重点：宣传OpenAI前沿模型（Daybreak项目）在网络安全实战中的赋能效果，重点展示网络安全厂商Sophos如何借助AI代理将威胁调查响应时间从38分钟缩短至89秒（降幅96%），并实现52%的MDR案件端到端自动化，同时强调人机协同与人类监督的边界控制。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:00:00.000Z",
+            "url": "https://openai.com/index/sophos"
+          }
+        ]
+      },
+      {
+        "id": "story-one-exponential-7ef3d93d-cbd886c9c011dc77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why the price of this one exchange-traded fund has suddenly gone exponential",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:12:00.000Z",
+        "pubTime": "2026-10-09 17:12",
+        "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "An ETF tied to freight futures is surging.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 17:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T09:12:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ule-government-contracts-0425fdbe39bba50e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:20:33.000Z",
+        "pubTime": "2026-10-09 15:20",
+        "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
+        "imageUrl": "https://i.guim.co.uk/img/media/feaa93bb4c00e44a655ff9ed1d226f783dc7d75c/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=463595922b7a8989f804ca98047a7b1e",
+        "fullContent": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdowns\n\nTom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding public contracts.\n\nLord Watson, now a senior vice-president at the US tech corporation, said UK ministers could get themselves “in a lot of trouble” as he was questioned about concerns raised about the government working with his new employer.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "工党前副党魁汤姆·沃森（Tom Watson / Lord Watson）近期加入美国科技企业Palantir并担任高级副总裁。",
+          "汤姆·沃森就政府公共合同授予问题发出警告，称绝不能由“暴民统治”（mob rule）左右。",
+          "来源叙事重点：重点关注工党前副党魁汤姆·沃森转任Palantir高管后的争议性言论，特别是其将公众/批评者的监督指控定性为“暴民统治”，并公开表示愿意协助极右翼/民粹倾向的英国改革党进行移民打压"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:20:33.000Z",
+            "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts"
+          }
+        ]
+      },
+      {
+        "id": "story--reveals-penicillin-html-cf88a8e50d62c220",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Molecular movie' finally reveals how penicillin is made",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:00:15.000Z",
+        "pubTime": "2026-10-09 17:00",
+        "url": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/ingenious-molecular-mo.jpg",
+        "fullContent": "Researchers from the University of Oxford and international collaborators have revealed previously unseen rapid chemical stages in the formation of β-lactam antibiotics like penicillin, offering insights that can support future antibiotic development. The findings have been published in Nature Catalysis.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
+            "publishedAt": "2026-10-09T09:00:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rossija-2123427287-html-43ee9db2518a862d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России начали апробировать новую модель подготовки IT-специалистов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T09:16:31.000Z",
+        "pubTime": "2026-10-09 17:16",
+        "url": "https://ria.ru/20261009/rossija-2123427287.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/1f/1734881429_0:258:2951:1918_650x0_80_0_0_00a6f6e0ce929529a0c34cfa9eec728c.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-09 17:16 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261009/rossija-2123427287.html",
+            "publishedAt": "2026-10-09T09:16:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-of-ai-designed-viruses-feab0ad4868e3e2e",
+        "title": "圆桌论坛：对话 AI 设计病毒的创造者",
+        "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:08:24.000Z",
+        "pubTime": "2026-10-09 08:08",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "imageUrl": null,
+        "fullContent": "Friday, October 16, 2026\n\nCan AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter James O&#8217;Donnell as he interviews King about his work, being named one of MIT Technology Review&#8217;s Innovators Under 35 and new ways of seeing biology.\n\nGoing live on October 16th at 18:30 BST / 1:30pm EDT / 10:30am PDT\n\nSpeakers : James O&#8217;Donnell , AI Reporter, and Samuel King , Bioengineering PhD Candidate, Stanford University/Arc Institute\n\nHe asked an AI to design viruses … and it worked.\n\nAI-designed viruses are here and already killing bacteria",
+        "fullTranslation": "2026年10月16日，星期五\n人工智能能否设计出新的生命形式？2025年，斯坦福大学博士生塞缪尔·金（Samuel King）给出了初步答案：他利用生成式人工智能模型提出了微观病毒的基因蓝图。这虽尚未构成人工智能生成生命的完整范例，但下一步或许指日可待。欢迎与资深人工智能记者詹姆斯·奥唐纳（James O'Donnell）一同参与访谈，探讨金的研究工作、其入选《麻省理工科技评论》“35岁以下科技创新35人”（Innovators Under 35）的历程，以及审视生物学的新视角。\n直播时间：10月16日 英国夏令时 18:30 / 美国东部夏令时间 13:30 / 太平洋夏令时间 10:30\n主讲嘉宾：人工智能记者詹姆斯·奥唐纳（James O'Donnell），斯坦福大学/Arc研究所生物工程博士候选人塞缪尔·金（Samuel King）\n他让人工智能设计病毒……结果真的成功了。\nAI 设计的病毒现已问世，且已在杀灭细菌。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "2025年，斯坦福大学博士生 Samuel King 利用生成式人工智能模型提出了微观病毒的基因蓝图。",
+          "Samuel King 被评为《麻省理工科技评论》35岁以下科技创新者（Innovators Under 35）之一。",
+          "来源叙事重点：聚焦生成式AI在生物工程领域的突破性应用，通过推介获奖年轻学者Samuel King及其设计的杀菌病毒蓝图，探讨AI创造新生命形式的可能性与生物学新视角。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T00:08:24.000Z",
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+          }
+        ]
+      },
+      {
+        "id": "story--her-in-divorce-85dcb7c3-a0e7311c514202aa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T08:58:00.000Z",
+        "pubTime": "2026-10-09 16:58",
+        "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Jelly Roll and Bunnie Xo are bidding farewell to their $7 million Tennessee home, which the country singer handed over to his former wife following their divorce.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 16:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T08:58:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ople-mystery-early-onset-437e9e3b027d13b8",
+        "title": "你比父母更有可能在更年轻时患上癌症。究竟哪里出了问题？| 德维·斯里达尔",
+        "originalTitle": "You have a higher chance of getting cancer at a younger age than your parents. So what went wrong? | Devi Sridhar",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:00:42.000Z",
+        "pubTime": "2026-10-09 15:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset",
+        "imageUrl": "https://i.guim.co.uk/img/media/42e44bc210ba436aced2d5637aec586059f9b5e7/610_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=6b75a74d6147e3ca0d65ec8e34f2027c",
+        "fullContent": "Some change in our lifestyles and environments over a generation has caused this increased risk. What, exactly, is a mystery\n\nProf Devi Sridhar is chair of global public health at the University of Edinburgh\n\nIn the field of global health, we often talk about each generation living longer and healthier lives than their parents. We’ve seen this in the gains in life expectancy, the sharp decrease in child mortality and in the near elimination of many vaccine-preventable diseases. But since the turn of the century this progress has stalled, and in some cases several health metrics have gone backwards.\n\nTake cancer, which was long thought to be a disease linked to old age. While most cancers do indeed still occur in elderly people, a new report highlights that a number of cancers are increasing in people who are under 50 , often referred to as “early onset cancer”. The report, undertaken by the World Cancer Research Fund, looked at data from 12 different cancer types in England, the US and the Netherlands over the past 20 years. What they found isn’t pretty.\n\nProf Devi Sridhar is chair of global public health at the University of Edinburgh",
+        "fullTranslation": "一代人之间我们的生活方式和环境所发生的一些变化导致了这种风险增加。而具体原因，至今仍是一个谜。\n德维·斯里达尔教授系爱丁堡大学全球公共卫生讲席教授。\n在全球卫生领域，我们经常谈论每一代人都比上一代人活得更长寿、更健康。我们在预期寿命的增长、儿童死亡率的大幅下降以及许多可通过疫苗预防的疾病几乎被消灭中看到了这一点。然而，自世纪之交以来，这种进步已经停滞，在某些情况下，若干健康指标甚至出现倒退。\n以癌症为例，长期以来它一直被认为是一种与衰老相关的疾病。尽管大多数癌症确实仍然发生在老年人身上，但一份新报告强调，在50岁以下人群中，多种癌症的发病率正在上升，这通常被称为“早发性癌症”。该报告由世界癌症研究基金会（World Cancer Research Fund）发起，研究了过去20年间英格兰、美国和荷兰的12种不同癌症类型的数据。他们的发现并不乐观。\n德维·斯里达尔教授系爱丁堡大学全球公共卫生讲席教授。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "自本世纪初以来，全球健康方面的进展出现停滞，某些健康指标甚至出现倒退。",
+          "虽然大多数癌症仍发生在老年人群体中，但世界癌症研究基金会（World Cancer Research Fund）的一份新报告指出，50岁以下人群中多种癌症的发病率正在上升，这被称为“早发性癌症”。",
+          "来源叙事重点：聚焦代际健康指标的倒退趋势，重点呈现世界癌症研究基金会（WCRF）关于50岁以下人群早发性癌症（early-onset cancer）发病率上升的最新研究数据，提出生活方式和环境变化可能是诱因但具体机制仍属未知。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:00:42.000Z",
+            "url": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-s-articles-cmy0r96xygx6o-8fd01290ea63ca9d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Firing squad execution to be livestreamed, Pentagon says",
+        "source": "BBC World (英国BBC官方英文)",
+        "sourceSlug": "bbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:18:31.000Z",
+        "pubTime": "2026-10-09 17:18",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
+        "fullContent": "This video can not be played\n\nListen: 'I played dead', Fort Hood survivor Alonzo Lunsford who was shot seven times tells BBC's Today\n\nThe public will be able to watch the execution of a former US Army major by firing squad, US Defence Secretary Pete Hegseth has said.\n\nA Defense Department official told the BBC the execution of Nidal Hasan, who shot dead 13 unarmed US soldiers at Fort Hood in 2009, would be livestreamed.\n\nIt is believed it would be the first public execution in the US in almost a century. The decision to livestream it is \"unprecedented in the modern era\" and \"on uncertain legal terrain,\" said John Mills, a lawyer who works with inmates sentenced to death.\n\n\"People need to understand that there's serious consequences for these types of things,\" said Hegseth.\n\nDemocratic Senator Chris Murphy told CNN that livestreaming it was \"disgusting\" and reminiscent of executions carried out by the Islamic State group.\n\nThe Pentagon announced earlier this week it would execute Hasan in the first military execution in more than 60 years.\n\nHasan, a US Army psychiatrist from Virginia, admitted fatally shooting 13 unarmed soldiers in a crowded medical building at Fort Hood.\n\nAlonzo Lunsford, a former US Army sergeant who was shot seven times in the attack, told the BBC's Today programme that he supported the execution by firing squad, as a method \"befitting\" for what he did.\n\nHe does not believe everyone should be able to watch the livestream, concerned about the message it sends younger people, but says it is important that those affected by the shooting are given the opportunity.\n\n\"As far as the families of the fallen and the families of the survivors, and the survivors themselves, yes, I think we should be able to look at it uncensored.\"\n\nLunsford says he plans to attend the execution and before they pull the trigger he wants Hasan to look him in the eyes. \"I want him to know he failed. I'm still here.\"\n\nHegseth said in an interview with conservative TV outlet Real America's Voice that Hasan is \"gonna get a firing squad of soldiers. As it should be\".\n\nAsked if Hasan had made any final requests or reached out to President Donald Trump, Hegseth said: \"Don't care. We'll see him on December 3rd.\"\n\nA Pentagon spokesperson said on Monday that Trump had approved the defence secretary's recommendation. The BBC has asked White House whether Trump supports a livestreamed public execution.\n\nWhile there were more than 2,700 executions across 17 countries last year, only two countries carried them out publicly.\n\nEleven public executions were known to have been carried out in Iran in 2025, and another six in Afghanistan, according to Amnesty International.\n\nFort Hood attacker to be executed by firing squad - a first for US military since World War Two\n\nAn undated handout image of Hasan that was released by authorities in 2012\n\nThe execution is scheduled to take place at Fort Hood in Texas on 3 December. It will be the first military execution by firing squad since the end of World War Two.\n\nIn court Hasan apologised for \"any mistakes\". He said during his court martial in 2013 that he believed he was protecting Muslims and the Taliban in Afghanistan.\n\nA military execution requires approval from the US president, according to military law. It also requires appellate review, where a higher court inspects the decision, and a final judgement on its legality to move forward.\n\nThe appellate process for Hasan is not over, Mills said, and he is likely to seek review of his conviction and sentence in federal court, which would likely stay the execution.\n\nAs such, Mills said that he would be surprised if the execution happened.\n\n\"Seeking to make it livestreamed, a firing squad execution, is little more than attention-seeking by the Trump administration and is unlikely to occur, much less deliver any semblance of justice,\" he added.\n\nPublic execution is 'out of the Middle Ages', says Yale professor\n\nCertain states require some form of public viewing of executions. Many states require journalists to be present, and the person due to be executed can invite people. Others also allow ordinary citizens to volunteer as witnesses.\n\nBut \"there hasn't ever been a livestreamed execution,\" says Deborah Denno, a law professor at Fordham University, who has studied US execution methods.\n\nA livestreamed execution would \"force a level of transparency that we have probably never seen before in this country\", she says.\n\n\"More than half of the country wants the death penalty - even though that's on the decline - an argument could be made that 'if you want the death penalty, then we are going to show you how it's conducted in this country'. And people would have to realise exactly what's happening in a way that many people ignore.\"\n\nDenno says there are important considerations for a livestream such as whether it would be age-restricted.\n\nPeople aged under 18 are not permitted to watch military executions under Army regulation 190-55, external, which governs how they are carried out and who can witness them.\n\nThe BBC has asked the Pentagon and US Army if the rules restricting who can watch will be waived and what safeguards will be in place to stop young people from watching the stream.\n\nThe countries with the highest number of executions last year were China, Iran, Saudi Arabia, Yemen and the US, in that order, Amnesty International data shows.\n\nDonald Trump overturned Joe Biden's moratorium on federal executions when he returned to the White House.\n\nAccording to Pew Research conducted in July, external, two thirds of Americans (66%) support executions for murder, a figure which has risen six points in the last five years.\n\nThe last military execution in the country took place in 1961, when a US Army private was hanged after being convicted of raping an 11-year-old Austrian girl. The execution was authorised by then-President Dwight D Eisenhower and took place despite the victim's family asking his successor, John F Kennedy, for clemency.\n\nThe last military execution by firing squad took place in January 1945, when a young US Army deserter, Eddie Slovik, was shot during the final months of World War Two.\n\nWith additional reporting by Kwasi Gyamfi Asiedu and Kali Hays\n\nWhat Americans think about the death penalty\n\nI've seen nearly 500 executions - but never one like Christa Pike's\n\nThe Americans volunteering to watch executions",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 43,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国国防部长皮特·赫格塞思表示，公众将能够观看一名前美国陆军少校的行刑。",
+          "美国国防部官员告诉BBC，尼达尔·哈桑的行刑将进行网络直播。",
+          "来源叙事重点：聚焦五角大楼拟对胡德堡枪击案凶手哈桑实施“网络直播行刑队枪决”的前所未有性与巨大争议，将官方强化威慑的惩治叙事与法律界对其合法性、上诉未决障碍及伦理冲击的质疑进行对冲报道。"
+        ],
+        "citations": [
+          {
+            "source": "BBC World (英国BBC官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T09:18:31.000Z",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "id": "story-features-storage-changes-051b2a01d3fe1603",
+        "title": "微软 365 家庭版订阅用户终于能够共享 AI 权益",
+        "originalTitle": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:14:32.000Z",
+        "pubTime": "2026-10-09 15:14",
+        "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nBut OneDrive storage is being cut to a shared 2TB pool across all family members.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nThe storage changes seem like the major downside to Microsoft’s updates. Instead of getting 1TB of OneDrive storage per account, Microsoft is now limiting this to just 2TB of shared storage across the entire plan. Microsoft argues this makes storage more flexible if one member exceeds 1TB, but it looks like it’s an easy way for the company to upsell more OneDrive storage in reality.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的文章将被添加到您的每日邮件摘要和主页动态中。\n\n但是，所有家庭成员共享的 OneDrive 存储空间将被削减至总计 2TB。\n\n该作者的文章将被添加到您的每日邮件摘要和主页动态中。\n\n查看汤姆·沃伦（Tom Warren）发布的全部内容\n\n存储规则的变动似乎是微软此次更新的主要弊端。微软不再为每个账户单独提供 1TB 的 OneDrive 存储空间，而是将整个订阅方案限制为仅 2TB 的共享存储池。微软坚称，如果有某位家庭成员的使用量超过 1TB，这种方式能让存储更加灵活；但实际上，这看起来更像是该公司推销更多 OneDrive 扩容套餐的惯用手段。\n\n免费获取每日重要新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "微软去年将基于人工智能的 Office 功能捆绑进 Microsoft 365 Personal 和 Family 订阅。",
+          "此前，Microsoft 365 Personal 和 Family 订阅的人工智能权益仅允许主账户持有人使用。",
+          "来源叙事重点：聚焦微软调整 Microsoft 365 家庭版权益背后的得失权衡，在报道 Copilot 等 AI 权益向最多 5 名成员开放的同时，重点批判和揭示 OneDrive 云存储由‘每人 1TB’大幅缩减为‘全家共享 2TB’的变相降配与追加销售意图。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:14:32.000Z",
+            "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+          }
+        ]
+      },
+      {
+        "id": "story-this-a-bad-sign-0c9848b2-29c1c86249073f52",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:15:00.000Z",
+        "pubTime": "2026-10-09 17:15",
+        "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I presume these are sophisticated investors taking a profit.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 17:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T09:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ena-oppong-asare-england-0cb42a141f7cc5a8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Labour chair of housing committee calls for urgent funds for affordable homes in England",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:00:43.000Z",
+        "pubTime": "2026-10-09 17:00",
+        "url": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england",
+        "imageUrl": "https://i.guim.co.uk/img/media/8249144616297b4707fd511566a223532ffad7ea/0_25_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=fc6596c411389b296ad631df325d5a77",
+        "fullContent": "Exclusive: Abena Oppong-Asare urges chancellor to unlock billions of pounds, as housing associations say they could build 41,000 homes in 10 years\n\nThe Labour chair of the Commons housing committee is urging John Healey to bring forward billions of pounds of planned spending on social and affordable homes in England, after housing associations said they were ready to build tens of thousands more.\n\nAbena Oppong-Asare called for the chancellor to allocate money from the £39bn Social and Affordable Homes Programme (SAHP) as soon as possible, rather than after the election as planned.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英国下议院住房委员会工党主席阿贝娜·奥彭-阿萨雷（Abena Oppong-Asare）敦促提前拨付英格兰社会及可负担住房的数十亿英镑计划支出。",
+          "住房协会表示，他们准备在10年内建造41,000套住房（数万套住房）。",
+          "来源叙事重点：聚焦议会住房委员会主席呼吁财政部打破原定节奏、提前释放390亿英镑住房基金，强调住房协会已准备就绪以缓解住房危机的紧迫叙事"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T09:00:43.000Z",
+            "url": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england"
+          }
+        ]
+      },
+      {
+        "id": "story-e-urban-genes-story-html-b1d152285077f41d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fish may look fine in urban waters but their genes tell a different story",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:00:24.000Z",
+        "pubTime": "2026-10-09 17:00",
+        "url": "https://phys.org/news/2026-10-fish-fine-urban-genes-story.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-may-look-fine-in.jpg",
+        "fullContent": "Blue damselfish, with their striking blue hue, are easy to spot, even along Okinawa's heavily urbanized coastlines. But while abundant, their gene activity reveals a hidden cost to living in human-impacted environments.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-fish-fine-urban-genes-story.html",
+            "publishedAt": "2026-10-09T09:00:24.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--peace-prize-winner-2026-f4ecef8a273b95fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Live Updates: Navi Pillay Wins Nobel Peace Prize",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:17:48.000Z",
+        "pubTime": "2026-10-09 17:17",
+        "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+        "imageUrl": "https://static01.nyt.com/images/2026/10/09/arts/09nobel-header-winner/09nobel-header-winner-mediumSquareAt3X.jpg",
+        "fullContent": "The Norwegian Nobel Committee made its selection from a pool of 287 nominees.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-10-09 17:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+            "publishedAt": "2026-10-09T09:17:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-index-sophos-570fe3204556675e",
+        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短 96%",
+        "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:00:00.000Z",
+        "pubTime": "2026-10-09 15:00",
+        "url": "https://openai.com/index/sophos",
+        "imageUrl": null,
+        "fullContent": "With OpenAI Daybreak, Sophos combines frontier intelligence with cybersecurity expertise to investigate threats faster and protect customers at scale.\n\naverage response time for cases using AI agents\n\nreduction in investigation time using OpenAI models\n\nof MDR cases resolved end-to-end by AI\n\nFrontier AI is changing cybersecurity on both sides⁠(opens in a new window). Advanced models can help defenders find and investigate threats faster. But those capabilities are also spreading to open-weight models, giving attackers new ways to discover vulnerabilities and accelerate exploitation.\n\nSophos⁠(opens in a new window) is one of the companies standing in their way, protecting more than 625,000 organisations across sectors and regions. “We see a huge variety of different attacks,” says John Peterson, the company’s Chief Technology Officer. “We’ve cultivated vast expertise in combating them over four decades in the cybersecurity business.”\n\nThrough OpenAI Daybreak, Sophos is combining OpenAI models with its own threat intelligence, response playbooks and security expertise. The aim isn’t simply to give analysts another tool. It’s to increase the impact of Sophos’s expertise across every customer it protects.\n\n“Sophos brings the domain expertise and the know-how to combat attacks at scale. Programmes like Daybreak, and companies like OpenAI, bring frontier intelligence that allows us to take that domain expertise and scale it to support all of our customers.”\n\nAt the centre of the work is Sophos Fusion, the Sophos AI-native cyber defense system that includes Sophos Managed Detection and Response (MDR). It brings together sensor data from more than 500 third-party integrations alongside Sophos’s own products. Together, those sensors generate trillions of events every day, which Sophos distills into roughly 1,000 to 2,000 cases for its nine security operations centres to investigate.\n\nAgents built through Daybreak have changed how those cases are handled. An investigation agent gathers the customer context, detections, indicators of compromise (IoCs) and relevant threat intelligence for each case. A planning model then creates a plan–execute–review loop: building an investigation plan, completing the steps and producing a summary with recommended response actions for analysts to review. Other agents can carry out parts of the response.\n\nBefore Daybreak, investigating and responding to a case depended primarily on human expertise. Sophos’s existing process averaged around 38 minutes — performance Peterson says was better than 96% of professional security operations centres.\n\n“Now, because of the agents we’ve been able to build through the Daybreak programme, the average response time for cases using those agents has fallen to about 89 seconds. About half of the cases we handle are now being automated by agents we developed using the Daybreak models.”\n\nSophos has built customer control into its MDR service through three operating modes:\n\nNotify: Sophos investigates the case and recommends a response, but the customer acts.\n\nCollaborate: Sophos and the customer work together before action is taken.\n\nAuthorise: Sophos can respond directly on the customer’s behalf.\n\nThe same boundaries apply whether work is completed by a person or an agent. Sophos uses automation to move quickly and make better use of analysts’ time, but potentially destructive actions still require the right level of human oversight.\n\n“Anything we don’t feel comfortable with an agent handling gets passed off for human judgement,” Peterson confirms.\n\nReduced the average response time for cases using agents from approximately 38 minutes to 89 seconds.\n\nEnabled Sophos to resolve 52% of MDR cases end-to-end with AI, within boundaries calibrated by Sophos analysts.\n\nGives customers a faster and more consistent investigation experience.\n\nHelps Sophos scale compute rather than relying on equivalent growth in scarce cybersecurity headcount.\n\nReturns analysts’ attention to the threats, exceptions and decisions where their expertise matters most.\n\nPeterson says Sophos will keep expanding what its agents can do. “The response capabilities are going to continue to become more sophisticated, and we’re going to broaden the range of use cases we address with the agents we’ve built.”\n\n“With programmes like Daybreak, we have an opportunity to stay a step ahead of the attacker community.”\n\nHis advice for other security leaders is simple: “The one thing security leaders should do tomorrow is really come back to focusing on the security fundamentals for their organization,” he says. “That of course includes patching. But patches are only ever going to include vulnerabilities that are known by the vendor.”\n\nThe answer is to maintain “a layered security approach” that includes endpoint protection, multifactor authentication (MFA), network segmentation and strong security operations. “Vulnerabilities are being discovered at an alarming rate and exploited at a scale that we’ve never seen. So I think doing the fundamentals well is more important today than it’s ever been.”",
+        "fullTranslation": "借助 OpenAI Daybreak，Sophos 将前沿智能与网络安全专业能力相结合，能够更快地调查威胁并在规模化层面上保护客户。\n使用 AI 智能体案例的平均响应时间\n使用 OpenAI 模型缩短的调查时间\n由 AI 端到端解决的 MDR 案例比例\n前沿 AI 正在深刻改变攻防两端。先进的模型能够协助防御者更快地发现并调查威胁。但这些能力也正扩散至开源权重模型中，为攻击者提供了发现漏洞和加速利用的新途径。\nSophos 是阻挡这些攻击的企业之一，为各行各业以及各个地区的逾 62.5 万家机构提供安全防护。“我们见识过种类极其繁多的攻击，”该公司首席技术官约翰·彼得森（John Peterson）表示，“在长达 40 年的网络安全业务历程中，我们积累了极为深厚的对抗经验。”\n通过 OpenAI Daybreak，Sophos 将 OpenAI 的模型与其自身的威胁情报、响应处置手册（playbooks）及安全专业知识相结合。其目标不仅仅是为分析师提供又一个工具，而是要放大 Sophos 专业能力在所保护的每位客户身上的实际效能。\n“Sophos 拥有大规模抵御攻击的领域专业知识和实战诀窍。像 Daybreak 这样的项目以及像 OpenAI 这样的公司，带来了前沿智能，使我们能够将这一领域专长进行规模化扩展，从而支持所有客户。”\n这项工作的核心是 Sophos Fusion——这是包含 Sophos 托管检测与响应（MDR）在内的 Sophos AI 原生网络防御系统。它汇集了来自 500 多个第三方集成组件以及 Sophos 自身产品的传感器数据。这些传感器每天共同生成数万亿次事件，Sophos 将其提炼为约 1,000 至 2,000 个案例，供其九个安全运营中心进行调查。\n通过 Daybreak 构建的智能体（Agents）改变了这些案例的处置方式。一个调查智能体负责为每个案例收集客户背景、检测数据、失陷指标（IoCs）以及相关威胁情报。随后，规划模型建立起一个“规划-执行-复核”闭环：制定调查计划、完成执行步骤，并生成包含建议响应操作的摘要，供分析人员审核。其他智能体则可以执行部分响应操作。\n在引入 Daybreak 之前，调查和响应案例主要依赖人工专长。Sophos 先前的流程平均耗时约 38 分钟——彼得森表示，这一表现已优于 96% 的专业安全运营中心。\n“现在，得益于我们通过 Daybreak 项目构建的智能体，使用这些智能体的案例平均响应时间已降至约 89 秒。我们处置的案例中约有一半现在正由利用 Daybreak 模型开发的智能体实现自动化处理。”\nSophos 通过三种运行模式将客户控制权内嵌到其 MDR 服务中：\n通知（Notify）：Sophos 负责调查案例并建议应对措施，但由客户采取行动。\n协作（Collaborate）：Sophos 与客户在采取行动前共同协作配合。\n授权（Authorise）：Sophos 可直接代表客户采取应对措施。\n无论工作是由人工完成还是由智能体完成，均适用相同的边界规则。Sophos 利用自动化提高敏捷性并更高效地利用分析师的时间，但潜在具有破坏性的操作仍需要适度的人工监督。\n“任何我们认为让智能体处置不放心的事项，都会转交由人工判断，”彼得森证实道。\n将使用智能体的案例平均响应时间从约 38 分钟缩短至 89 秒。\n使 Sophos 能够在分析师校准的边界内，通过 AI 端到端解决 52% 的 MDR 案例。\n为客户提供更快、更一致的调查体验。\n协助 Sophos 实现算力规模化扩展，而非单纯依赖等量扩充稀缺的网络安全人力资源。\n让分析人员的注意力重新回归到最需要其专业知识的威胁、异常情况和决策制定上。\n彼得森表示，Sophos 将继续拓展其智能体的能力范畴。“响应能力将变得越来越成熟完备，并且我们将利用所构建的智能体进一步拓宽所涵盖的应用场景范围。”\n“借助像 Daybreak 这样的项目，我们有机会领先攻击者群体一步。”\n对于其他安全负责人的建议，他给出的解答十分明确：“安全负责人明天最该做的一件事，就是真正重新把重心放在本组织的安全基础工作上，”他表示，“这当然包括打补丁。但补丁永远只能覆盖厂商已知的漏洞。”\n答案在于保持“分层安全防御方法”，包括端点保护、多因素认证（MFA）、网络分段以及健全的安全运营。“漏洞正以惊人的速度被发现，并以前所未有的规模被利用。因此我认为，在当下把基础工作做好比以往任何时候都更加关键。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Sophos利用OpenAI Daybreak将网络威胁调查时间缩短了96%。",
+          "Sophos保护了各行业和地区的超过625,000家机构，在网络安全业务领域拥有40年的专业积累。",
+          "来源叙事重点：宣传OpenAI前沿模型（Daybreak项目）在网络安全实战中的赋能效果，重点展示网络安全厂商Sophos如何借助AI代理将威胁调查响应时间从38分钟缩短至89秒（降幅96%），并实现52%的MDR案件端到端自动化，同时强调人机协同与人类监督的边界控制。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:00:00.000Z",
+            "url": "https://openai.com/index/sophos"
+          }
+        ]
+      },
+      {
+        "id": "story-one-exponential-7ef3d93d-cbd886c9c011dc77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why the price of this one exchange-traded fund has suddenly gone exponential",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:12:00.000Z",
+        "pubTime": "2026-10-09 17:12",
+        "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "An ETF tied to freight futures is surging.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 17:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T09:12:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ule-government-contracts-0425fdbe39bba50e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:20:33.000Z",
+        "pubTime": "2026-10-09 15:20",
+        "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
+        "imageUrl": "https://i.guim.co.uk/img/media/feaa93bb4c00e44a655ff9ed1d226f783dc7d75c/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=463595922b7a8989f804ca98047a7b1e",
+        "fullContent": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdowns\n\nTom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding public contracts.\n\nLord Watson, now a senior vice-president at the US tech corporation, said UK ministers could get themselves “in a lot of trouble” as he was questioned about concerns raised about the government working with his new employer.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "工党前副党魁汤姆·沃森（Tom Watson / Lord Watson）近期加入美国科技企业Palantir并担任高级副总裁。",
+          "汤姆·沃森就政府公共合同授予问题发出警告，称绝不能由“暴民统治”（mob rule）左右。",
+          "来源叙事重点：重点关注工党前副党魁汤姆·沃森转任Palantir高管后的争议性言论，特别是其将公众/批评者的监督指控定性为“暴民统治”，并公开表示愿意协助极右翼/民粹倾向的英国改革党进行移民打压"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:20:33.000Z",
+            "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts"
+          }
+        ]
+      },
+      {
+        "id": "story--reveals-penicillin-html-cf88a8e50d62c220",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Molecular movie' finally reveals how penicillin is made",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T09:00:15.000Z",
+        "pubTime": "2026-10-09 17:00",
+        "url": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/ingenious-molecular-mo.jpg",
+        "fullContent": "Researchers from the University of Oxford and international collaborators have revealed previously unseen rapid chemical stages in the formation of β-lactam antibiotics like penicillin, offering insights that can support future antibiotic development. The findings have been published in Nature Catalysis.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-10-09 17:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
+            "publishedAt": "2026-10-09T09:00:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rossija-2123427287-html-43ee9db2518a862d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России начали апробировать новую модель подготовки IT-специалистов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-10-09T09:16:31.000Z",
+        "pubTime": "2026-10-09 17:16",
+        "url": "https://ria.ru/20261009/rossija-2123427287.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/1f/1734881429_0:258:2951:1918_650x0_80_0_0_00a6f6e0ce929529a0c34cfa9eec728c.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-10-09 17:16 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20261009/rossija-2123427287.html",
+            "publishedAt": "2026-10-09T09:16:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-of-ai-designed-viruses-feab0ad4868e3e2e",
+        "title": "圆桌论坛：对话 AI 设计病毒的创造者",
+        "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T00:08:24.000Z",
+        "pubTime": "2026-10-09 08:08",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "imageUrl": null,
+        "fullContent": "Friday, October 16, 2026\n\nCan AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter James O&#8217;Donnell as he interviews King about his work, being named one of MIT Technology Review&#8217;s Innovators Under 35 and new ways of seeing biology.\n\nGoing live on October 16th at 18:30 BST / 1:30pm EDT / 10:30am PDT\n\nSpeakers : James O&#8217;Donnell , AI Reporter, and Samuel King , Bioengineering PhD Candidate, Stanford University/Arc Institute\n\nHe asked an AI to design viruses … and it worked.\n\nAI-designed viruses are here and already killing bacteria",
+        "fullTranslation": "2026年10月16日，星期五\n人工智能能否设计出新的生命形式？2025年，斯坦福大学博士生塞缪尔·金（Samuel King）给出了初步答案：他利用生成式人工智能模型提出了微观病毒的基因蓝图。这虽尚未构成人工智能生成生命的完整范例，但下一步或许指日可待。欢迎与资深人工智能记者詹姆斯·奥唐纳（James O'Donnell）一同参与访谈，探讨金的研究工作、其入选《麻省理工科技评论》“35岁以下科技创新35人”（Innovators Under 35）的历程，以及审视生物学的新视角。\n直播时间：10月16日 英国夏令时 18:30 / 美国东部夏令时间 13:30 / 太平洋夏令时间 10:30\n主讲嘉宾：人工智能记者詹姆斯·奥唐纳（James O'Donnell），斯坦福大学/Arc研究所生物工程博士候选人塞缪尔·金（Samuel King）\n他让人工智能设计病毒……结果真的成功了。\nAI 设计的病毒现已问世，且已在杀灭细菌。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "2025年，斯坦福大学博士生 Samuel King 利用生成式人工智能模型提出了微观病毒的基因蓝图。",
+          "Samuel King 被评为《麻省理工科技评论》35岁以下科技创新者（Innovators Under 35）之一。",
+          "来源叙事重点：聚焦生成式AI在生物工程领域的突破性应用，通过推介获奖年轻学者Samuel King及其设计的杀菌病毒蓝图，探讨AI创造新生命形式的可能性与生物学新视角。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T00:08:24.000Z",
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+          }
+        ]
+      },
+      {
+        "id": "story--her-in-divorce-85dcb7c3-a0e7311c514202aa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T08:58:00.000Z",
+        "pubTime": "2026-10-09 16:58",
+        "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Jelly Roll and Bunnie Xo are bidding farewell to their $7 million Tennessee home, which the country singer handed over to his former wife following their divorce.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-10-09 16:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
+            "publishedAt": "2026-10-09T08:58:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ople-mystery-early-onset-437e9e3b027d13b8",
+        "title": "你比父母更有可能在更年轻时患上癌症。究竟哪里出了问题？| 德维·斯里达尔",
+        "originalTitle": "You have a higher chance of getting cancer at a younger age than your parents. So what went wrong? | Devi Sridhar",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-10-09T07:00:42.000Z",
+        "pubTime": "2026-10-09 15:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset",
+        "imageUrl": "https://i.guim.co.uk/img/media/42e44bc210ba436aced2d5637aec586059f9b5e7/610_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=6b75a74d6147e3ca0d65ec8e34f2027c",
+        "fullContent": "Some change in our lifestyles and environments over a generation has caused this increased risk. What, exactly, is a mystery\n\nProf Devi Sridhar is chair of global public health at the University of Edinburgh\n\nIn the field of global health, we often talk about each generation living longer and healthier lives than their parents. We’ve seen this in the gains in life expectancy, the sharp decrease in child mortality and in the near elimination of many vaccine-preventable diseases. But since the turn of the century this progress has stalled, and in some cases several health metrics have gone backwards.\n\nTake cancer, which was long thought to be a disease linked to old age. While most cancers do indeed still occur in elderly people, a new report highlights that a number of cancers are increasing in people who are under 50 , often referred to as “early onset cancer”. The report, undertaken by the World Cancer Research Fund, looked at data from 12 different cancer types in England, the US and the Netherlands over the past 20 years. What they found isn’t pretty.\n\nProf Devi Sridhar is chair of global public health at the University of Edinburgh",
+        "fullTranslation": "一代人之间我们的生活方式和环境所发生的一些变化导致了这种风险增加。而具体原因，至今仍是一个谜。\n德维·斯里达尔教授系爱丁堡大学全球公共卫生讲席教授。\n在全球卫生领域，我们经常谈论每一代人都比上一代人活得更长寿、更健康。我们在预期寿命的增长、儿童死亡率的大幅下降以及许多可通过疫苗预防的疾病几乎被消灭中看到了这一点。然而，自世纪之交以来，这种进步已经停滞，在某些情况下，若干健康指标甚至出现倒退。\n以癌症为例，长期以来它一直被认为是一种与衰老相关的疾病。尽管大多数癌症确实仍然发生在老年人身上，但一份新报告强调，在50岁以下人群中，多种癌症的发病率正在上升，这通常被称为“早发性癌症”。该报告由世界癌症研究基金会（World Cancer Research Fund）发起，研究了过去20年间英格兰、美国和荷兰的12种不同癌症类型的数据。他们的发现并不乐观。\n德维·斯里达尔教授系爱丁堡大学全球公共卫生讲席教授。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "自本世纪初以来，全球健康方面的进展出现停滞，某些健康指标甚至出现倒退。",
+          "虽然大多数癌症仍发生在老年人群体中，但世界癌症研究基金会（World Cancer Research Fund）的一份新报告指出，50岁以下人群中多种癌症的发病率正在上升，这被称为“早发性癌症”。",
+          "来源叙事重点：聚焦代际健康指标的倒退趋势，重点呈现世界癌症研究基金会（WCRF）关于50岁以下人群早发性癌症（early-onset cancer）发病率上升的最新研究数据，提出生活方式和环境变化可能是诱因但具体机制仍属未知。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-10-09T07:00:42.000Z",
+            "url": "https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1791512605752,
     "timeDisplay": "2026-10-09 10:23 (UTC+8)",
     "date": "2026-10-09",

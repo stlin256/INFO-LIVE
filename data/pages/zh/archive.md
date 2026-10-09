@@ -50,14 +50,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **116** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **117** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-09 10:23 (UTC+8)
+- **最新归档时间**：2026-10-09 17:22 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-09 17:22 (UTC+8)" title="全球要闻情报简报 · 17:22" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-09 17:19 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】微软 365 家庭版订阅用户终于能够共享 AI 权益：该主题的文章将被添加到您的每日邮件摘要和主页动态中。；【undefined】Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短 96%：借助 OpenAI Daybreak，Sophos 将前沿智能与网络安全专业能力相结合，能够更快地调查威胁并在规模化层面上保护客户。 使用 AI 智能体案例的平均响应时间 使用 OpenAI 模型缩短的调查时间 由 AI 端到端解决的 MDR 案例比例 前沿 AI 正在深刻改变攻防两端。先进的模型能够协助防御者更快地发现并调查威胁。但这些能力也正扩散至开源权重模型中，为攻击者提供了发现漏洞和加速利用的新途径。 Sophos 是阻挡这些攻；【undefined】圆桌论坛：对话 AI 设计病毒的创造者：2026年10月16日，星期五 人工智能能否设计出新的生命形式？2025年，斯坦福大学博士生塞缪尔·金（Samuel King）给出了初步答案：他利用生成式人工智能模型提出了微观病毒的基因蓝图。这虽尚未构成人工智能生成生命的完整范例，但下一步或许指日可待。欢迎与资深人工智能记者詹姆斯·奥唐纳（James O'Donnell）一同参与访谈，探讨金的研究工作、其入选《麻省理工科技评论》“35岁以下科技创新35人”（Innovators Un；【undefined】你比父母更有可能在更年轻时患上癌症。究竟哪里出了问题？| 德维·斯里达尔：一代人之间我们的生活方式和环境所发生的一些变化导致了这种风险增加。而具体原因，至今仍是一个谜。 德维·斯里达尔教授系爱丁堡大学全球公共卫生讲席教授。 在全球卫生领域，我们经常谈论每一代人都比上一代人活得更长寿、更健康。我们在预期寿命的增长、儿童死亡率的大幅下降以及许多可通过疫苗预防的疾病几乎被消灭中看到了这一点。然而，自世纪之交以来，这种进步已经停滞，在某些情况下，若干健康指标甚至出现倒退。 以癌症为例，长期以来它一直被认为是一种与衰老；【undefined】2026年诺贝尔和平奖授予纳维·皮莱：挪威诺贝尔委员会已将2026年诺贝尔和平奖授予纳瓦内瑟姆·“纳维”·皮莱（Navanethem “Navi” Pillay）。；【undefined】Venture Global在与葡萄牙Galp的液化天然气仲裁案中败诉：一家法院裁定Venture Global违反了与葡萄牙高浦能源（Galp）的合同，这是该美国液化天然气（LNG）巨头面临的第二起不利裁决。Galp是起诉Venture Global的约六家能源公司之一，这些公司指控其违背长期液化天然气供应合同，以便在现货市场上牟取更高利润。英国石油公司（BP）在对阵该美国公司的仲裁中赢得了另一场胜利，而壳牌（Shell）和西班牙雷普索尔（Repsol）则在与Venture Global的争议中败诉。意大；【undefined】纳斯达克首席执行官表示，代币化或将释放数百亿美元被困资本：纳斯达克首席执行官阿德娜·弗里德曼（Adena Friedman）表示，代币化可以释放全球金融体系中因作为抵押品而被锁定的数百亿美元资本。；【undefined】全球最大原油交易商暂未排除油价升至200美元的可能性：全球最大独立石油交易商维多集团（Vitol Group）首席执行官拉塞尔·哈迪（Russell Hardy）表示，在阿曼湾进行的船对船转运使得中东原油得以持续外运，这为海湾产油国和石油市场提供了一条生命线。
+
+**重点要闻索引：**
+- [BBC World (英国BBC官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss) <span class="news-meta-time">🕒 2026-10-09 17:18</span>
+- [The Verge (前沿数码科技)] [微软 365 家庭版订阅用户终于能够共享 AI 权益](https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes) <span class="news-meta-time">🕒 2026-10-09 15:14</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-09 17:15</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england) <span class="news-meta-time">🕒 2026-10-09 17:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-fish-fine-urban-genes-story.html) <span class="news-meta-time">🕒 2026-10-09 17:00</span>
+- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026) <span class="news-meta-time">🕒 2026-10-09 17:17</span>
+:::
 :::timeline-item{start="2026-10-09 10:23 (UTC+8)" title="全球要闻情报简报 · 10:23" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-09 10:16 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -650,18 +663,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis) <span class="news-meta-time">🕒 2026-09-25 05:08</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html) <span class="news-meta-time">🕒 2026-09-25 06:20</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/moskva-2120141250.html) <span class="news-meta-time">🕒 2026-09-25 06:23</span>
-:::
-:::timeline-item{start="2026-09-25 02:31 (UTC+8)" title="全球要闻情报简报 · 02:31" org="ARCHIVE"}
-**速报纪要：** 本小时内涉及国际地缘政治、网络安全与人工智能、宏观财政及体育等多个领域，多方动态持续推进。
-
-**关键信号：** 联合国大会等国际外交场合持续呈现紧张局势，相关国家领导人发言引发不同阵营反应。；开源与AI驱动的自动化安全检测工具发展加速，代码模糊测试引入智能体工作流。；部分国家在预算制定中采用保守油价预估以对冲财政赤字风险。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/novak-2120120545.html) <span class="news-meta-time">🕒 2026-09-25 02:26</span>
-- [GitHub Blog (工程技术博客)] [要闻：如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 ](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/) <span class="news-meta-time">🕒 2026-09-25 02:26</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-25 02:24</span>
-- [Lobste.rs (极客思想社区)] [2026年AI从业者调查](https://techworkersinquiry.org/ai/) <span class="news-meta-time">🕒 2026-09-25 01:41</span>
-- [Phys.org (基础物理与技术前沿)] [短肽组装成蜂窝状纤维，在微小平行通道中锁住水分](https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html) <span class="news-meta-time">🕒 2026-09-25 02:20</span>
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/economy/2192439) <span class="news-meta-time">🕒 2026-09-25 02:26</span>
 :::
 ::::
