@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-10-10 · 今日](/INFO-LIVE/archive-2026-10-10/)
+- [2026-10-11 · 今日](/INFO-LIVE/archive-2026-10-11/)
+- [2026-10-10 · 历史快照](/INFO-LIVE/archive-2026-10-10/)
 - [2026-10-09 · 历史快照](/INFO-LIVE/archive-2026-10-09/)
 - [2026-10-08 · 历史快照](/INFO-LIVE/archive-2026-10-08/)
 - [2026-10-07 · 历史快照](/INFO-LIVE/archive-2026-10-07/)
@@ -51,14 +52,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **122** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **123** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-10 23:33 (UTC+8)
+- **最新归档时间**：2026-10-11 04:13 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-11 04:13 (UTC+8)" title="全球要闻情报简报 · 04:13" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-11 04:09 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】苹果披露协议：招募个性化播客初创公司Huxe团队并获取其技术许可：苹果在一份监管文件中披露，其已达成一项协议，将个性化音频初创公司 Huxe 的团队成员及技术纳入麾下，这通常被称为“反向人才并购”（reverse acqui-hire）交易。；【undefined】特朗普因俄柴油协议冲突呼吁乌克兰撤换泽连斯基：“该换个新总统了”：唐纳德·特朗普总统周六表示，“乌克兰是时候换个新总统了”。两位领导人就美国与莫斯科达成的一项协议发生冲突，特朗普警告乌克兰总统弗拉基米尔·泽连斯基停止袭击俄罗斯炼油厂。；【undefined】DistroKid因UMG诉讼一直在悄悄下架歌曲：有关这一主题的帖子将被加入你的每日电子邮件摘要和首页信息流。 查看所有娱乐内容 艺术家们对DistroKid删除其歌曲时缺乏透明度感到沮丧。 这位作者发布的帖子将被加入你的每日电子邮件摘要和首页信息流。 查看Terrence O'Brien发布的所有内容 艺术家们纷纷在社交媒体上抱怨，称DistroKid在没有通知的情况下，毫无征兆地删除了他们的作品。DistroKid现已向《The Verge》证实，这些下架行动是直接回应环球音乐集团；【undefined】Petra Power拟推进数据中心与国防车辆能源现代化：随着人工智能消耗的能源量越来越大，人们正在积极寻找高效且具有成本效益的电力来源。走在这一前沿的公司之一是 Petra Power。；【undefined】Kiesel 开发日志 #15：0.4.0 版本发布：本周我完成了对 Zig 0.17 的更新，并发布了 Kiesel 0.4.0！该版本历时 2.5 个月，共包含 64 次提交，面向用户的完整变更列表请参阅更新日志。；【undefined】迈克·泰森在陪同总统参加纽约集会前预测“唐纳德·特朗普将赢得”中期选举：拳击传奇人物迈克·泰森在11月中期选举前夕力挺唐纳德·特朗普总统的政治阵营。；【undefined】民主党参议员候选人阿卜杜勒·赛义德开玩笑称密歇根大学橄榄球队“不作弊就赢不了”：民主党社会主义者阿卜杜勒·赛义德（Abdul El-Sayed）多年来发表了大量关于美式橄榄球的无脑言论，在其竞选密歇根州参议员的整个过程中也是如此。；【undefined】离开《命运之轮》后，帕特·萨贾克罕见公开露面：前《命运之轮》（Wheel of Fortune）主持人帕特·萨贾克（Pat Sajak）近日罕见公开露面，在洛杉矶现身。
+
+**重点要闻索引：**
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/emergencies/2200361) <span class="news-meta-time">🕒 2026-10-11 03:59</span>
+- [TechCrunch (硅谷创业与资本)] [苹果披露协议：招募个性化播客初创公司Huxe团队并获取其技术许可](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) <span class="news-meta-time">🕒 2026-10-11 03:50</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-11 03:44</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1x2mper/vance_claims_microsoft_replaced_laidoff_workers/) <span class="news-meta-time">🕒 2026-10-11 02:42</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-adult-acne-real-ways.html) <span class="news-meta-time">🕒 2026-10-11 03:20</span>
+- [FOX News Latest (美国FOX快讯)] [特朗普因俄柴油协议冲突呼吁乌克兰撤换泽连斯基：“该换个新总统了”](https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president) <span class="news-meta-time">🕒 2026-10-11 03:54</span>
+:::
 :::timeline-item{start="2026-10-10 23:33 (UTC+8)" title="全球要闻情报简报 · 23:33" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-10 23:27 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -655,18 +669,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加](https://www.theguardian.com/society/2026/sep/26/gen-x-z-drinking-habits-study) <span class="news-meta-time">🕒 2026-09-26 20:00</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html) <span class="news-meta-time">🕒 2026-09-26 20:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/podrostki-2120441500.html) <span class="news-meta-time">🕒 2026-09-26 21:03</span>
-:::
-:::timeline-item{start="2026-09-26 15:53 (UTC+8)" title="全球要闻情报简报 · 15:53" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-26 15:50 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？：你是否曾想要过一辆能轻松从乏味的城市沥青路面切换到砂石与泥土探险的电动自行车？这正是一类被称为“电动SUV”（eSUV）的电动自行车声称能做到的事情——凭借其宽大的全地形轮胎、前后避震系统，以及挡泥板和货架等实用配件。因此，我决定在Amflow最新推出的TL Carbon电动自行车上亲自测试这一点。Amflow是大疆（DJI）旗下的分支品牌，几年前曾凭借极其小巧且强大的Avinox电机颠覆了山地自行车行业。在阿姆斯特丹市中心进行了一个月；【undefined】乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）：一段视频展示了Valve旗下的热门掌机正被以一种极乎意料的方式使用。；【undefined】每日天文一图（APOD）：2026年9月26日——镜中流星与银河：每日天文一图（APOD）：2026年9月26日——…… 每日天文一图 探索宇宙！每天都会展示一张展现我们迷人宇宙的影像或照片，并由专业天文学家撰写简要说明。 镜中流星与银河 说明：8月15日，这颗英仙座流星划过了西班牙加那利群岛拉帕尔马岛罗克·德洛斯·穆查乔斯天文台（Observatorio del Roque de los Muchachos）上空的夜空。这道明亮且绚丽的流星余迹被定格在银河核心旁，银河中暗淡的星际尘埃云与璀璨的星光延；【undefined】日本11岁电竞神童栗原悠希斩获亚运会金牌：金牌得主栗原悠希（Yuki Kurihara）是一名小学生，也是东道主日本队亚运会历史上最年轻的运动员。；【undefined】美联储理事会宣布批准 Peoples Bancorp Inc. 的申请：美国政府官方网站 官方网站使用 .gov。一个 .gov 网站隶属于美国官方政府组织。 安全的 .gov 网站使用 HTTPS。锁形图标或 https:// 意味着您已安全连接到该 .gov 网站。请仅在官方、安全的网站上分享敏感信息。 作为美国的中央银行，美联储为国家提供安全、灵活且稳定的货币和金融体系。 联邦公开市场委员会 货币政策原则与实践 政策实施 货币政策策略、工具与沟通审议 并购及其他申请 监管与法规通函 监管与政策资源 银；【undefined】剑桥分析丑闻案：陪审团裁定Facebook欺诈用户罪名成立：更新于：2026年9月25日 / 美国东部时间下午6:26 / 哥伦比亚广播公司（CBS）/美联社；【undefined】Crusoe 放弃斥资 12.5 亿美元在 AI 数据中心使用 Boom 燃气轮机的计划：总部位于丹佛的 AI 数据中心初创公司 Crusoe 近期刚刚筹集了 39 亿美元，该公司现已终止采用同在丹佛的 Boom Supersonic 公司所研发的新系列固定式发电装置的计划。；【undefined】在罢免CEO未遂事件后，Automattic组建了新董事会：在Automattic前董事会成员试图罢免CEO马特·穆伦维格（Matt Mullenweg）失败仅数周后，穆伦维格便重组了公司董事会。据TechCrunch获悉且穆伦维格已证实，该董事会已于周五向全体员工公布，成员风格兼收并蓄，其中包括一名畅销科幻小说作家以及现已停运的社交应用IRL的两名联合创始人。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/krest-2120412337.html) <span class="news-meta-time">🕒 2026-09-26 15:41</span>
-- [The Verge (前沿数码科技)] [“eSUV”电动自行车真能从越野林道无缝切换到城市通勤吗？](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox) <span class="news-meta-time">🕒 2026-09-26 15:00</span>
-- [CNBC Markets (CNBC 市场官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html) <span class="news-meta-time">🕒 2026-09-26 13:00</span>
-- [Lobste.rs (极客思想社区)] [乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/) <span class="news-meta-time">🕒 2026-09-26 14:10</span>
-- [NASA News (深空探索与航天)] [每日天文一图（APOD）：2026年9月26日——镜中流星与银河](https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/) <span class="news-meta-time">🕒 2026-09-26 12:05</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/germaniya-2120412172.html) <span class="news-meta-time">🕒 2026-09-26 15:37</span>
 :::
 ::::

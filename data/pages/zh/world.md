@@ -16,233 +16,194 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ardians-white-sox-game-5-082ccd7ac27fce4d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="701" data-content-paragraphs="8" data-published-at="2026-10-10T15:14:42.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 23:14</span>
-</div>
-
-### [Underdog优惠码FOXNEWS：在守护者对阵白袜第5战中投注5美元，立享100美元奖励](https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-guardians-white-sox-game-5)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Underdog Promo Code FOXNEWS: Play $5, Get $100 on Guardians-White Sox Game 5</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/Sam-Antonacci-Chicago-White-Sox-scaled.jpg?ve=1&amp;tl=1" alt="Underdog优惠码FOXNEWS：在守护者对阵白袜第5战中投注5美元，立享100美元奖励" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>棒球季后赛中目前仅剩最后一场分区系列赛，即今晚在克利夫兰举行的芝加哥白袜与克利夫兰守护者之间的较量。Underdog正在为新用户提供对今晚比赛进行投注的机会：下注5美元即可获得100美元红利投注金。只需连续10天每天下注5美元，即可拿满全部100美元奖金。</p>
-<p>芝加哥白袜队如今已被逼入绝境。该队此前在常规赛将美联中区冠军拱手让给守护者队，如今在系列赛一度以2-0领先的情况下，又濒临在美联分区系列赛中被对手逆转淘汰的边缘。不过，凭借此前在克利夫兰客场连赢两场的表现，他们仍应保有信心。</p>
-<p>白袜队要想赢得这场比赛，投手群必须做出调整。在前两场比赛中，他们总共仅失掉3分自责分。但在过去两场比赛中，他们被轰下了18分自责分。守护者队或许已经摸清了白袜队先发投手与牛棚的底细。</p>
-<p>克利夫兰守护者队只需守住这场主场胜利即可晋级下一轮。他们在0-2落后的局面下迎头赶上，并在第3场和第4场打线彻底爆发后信心大增。他们在常规赛阶段后来居上反超白袜夺得赛区冠军，如今又在季后赛系列赛中完成追赶争取胜利。</p>
-<p>克利夫兰的投手阵容在本轮系列赛中的表现谈不上顶尖。他们每场比赛都至少失掉3分，但无论在先发轮值还是牛棚中，他们似乎都拥有更多可用选项。两队目前均未正式公布本场比赛的先发投手，但双方都有可能根据对位情况派出多位投手轮番上阵。</p>
-<p>本场对决的胜者将迎来与坦帕湾光芒队的交锋。如果您对其中一支球队胸有成竹且是新用户，可以在Underdog平台使用优惠码FOXNEWS为本场比赛投注5美元，即可获赠10美元的红利投注金。连续10天重复该流程，即可拿满全部100美元。</p>
-<p>白袜队 vs. 守护者队 赔率</p>
-<p>赔率随时可能变动</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-10 23:14 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-guardians-white-sox-game-5" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--georgia-any-week-6-game-a37d3743e6394f8e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="984" data-content-paragraphs="7" data-published-at="2026-10-10T15:12:50.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 23:12</span>
-</div>
-
-### [BetMGM优惠码FOXNEWS在阿拉巴马对阵佐治亚及第6周任意比赛前解锁最高1500美元奖金](https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-unlocks-1500-bonuses-ahead-alabama-vs-georgia-any-week-6-game)
-<div class="original-title-sub"><span class="orig-tag">原文</span> BetMGM Bonus Code FOXNEWS Unlocks $1500 in Bonuses Ahead of Alabama vs Georgia, Any Week 6 Game</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/524/alabama-kalen-deboer-123025-1.jpg?ve=1&amp;tl=1" alt="BetMGM优惠码FOXNEWS在阿拉巴马对阵佐治亚及第6周任意比赛前解锁最高1500美元奖金" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>周六又为我们带来了精彩充实的橄榄球比赛日。BetMGM现为新用户提供解锁最高1500美元奖金投注的机会，可用于阿拉巴马大学对阵佐治亚大学的焦点战。新用户可以使用优惠码FOXNEWS，若首笔投注未中，即可获得等额的奖金资金返还。</p>
-<p>佐治亚大学作为全美排名第二的球队出战今日的比赛。尽管四分卫冈纳·斯托克顿（Gunner Stockton）本赛季的表现令人印象深刻，但佐治亚大学实际上是一支以路面进攻为主的球队。他们已经完成了164次持球冲球，且涉及17名不同的持球手。</p>
-<p>斯托克顿也有过一些持球推进，但他往往是因场上形势被迫自行跑动，而非执行既定战术。斗牛犬队（Bulldogs）排名前四的持球手全都是跑卫。在162次冲球中有111次交给了这前四号人选，其中三人平均每次冲球推进达到6.7码或以上。另一位跑卫昌西·鲍恩斯（Chauncey Bowens）虽然平均每次冲球仅推进3.5码，但已有6次达阵入账。</p>
-<p>阿拉巴马大学同样大幅倾向于冲球而非传球。红潮队（The Tide）本赛季传球136次，冲球达192次。而且与佐治亚队类似，他们本赛季有13名不同的冲球手。不过，他们实际上主要依赖两名跑卫的组合。他们排名前两位的跑卫合计完成了93次冲球。</p>
-<p>阿拉巴马队的头号冲球手丹尼尔·希尔（Daniel Hill）本赛季冲球51次，推进247码并取得4次达阵。排名第二的冲球手特雷肖恩·布朗（Traeshawn Brown）冲球42次，推进211码并斩获5次达阵。全队总共在地面进攻中完成17次达阵，其中EJ·克劳威尔（EJ Crowell）和基隆·拉塞尔（Keelon Russell）又为球队贡献了7次达阵。</p>
-<p>究竟哪支球队的后场能帮助本队掌控比赛节奏并有望赢下比赛？面对如此丰富的战术选择，两支球队都有充足的机会找到发挥奏效的跑卫。如果你对这场比赛不感兴趣，他们的优惠活动同样适用于周六的任何一场比赛。你今天就可以在BetMGM找到心仪的投注项目；只要使用优惠码FOXNEWS，如果首笔投注失利，即可获得最高达1500美元的奖金投注。</p>
-<p>佐治亚大学对阵阿拉巴马大学赔率<br />赔率可能会随时变动<br />（注：第4名迈阿密大学、第8名杨百翰大学、第11名得克萨斯理工大学、第17名密西西比州立大学、第20名爱荷华大学和第24名南方卫理公会大学要么在周中/周五比赛，要么处于轮空周。）</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-10 23:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-unlocks-1500-bonuses-ahead-alabama-vs-georgia-any-week-6-game" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ictions-financial-breach-72105fa33b699113" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2308" data-content-paragraphs="41" data-published-at="2026-10-10T15:11:22.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
-    <span class="stance-badge">全球南方与海湾枢纽</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 23:11</span>
-</div>
-
-### [利物浦对阵曼城：英超焦点战——阵容、预测、哈兰德及财务违规指控](https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges</div>
-
-<div class="article-body" data-article-body="true"><p>曼城将在被裁定严重违反英超财务规则后首次出战，客场挑战利物浦。</p>
-<p>对阵双方：利物浦 vs 曼城<br />比赛性质：英超联赛第6轮<br />比赛地点：英国利物浦，安菲尔德球场<br />比赛时间：当地时间10月11日周日16:30（格林尼治标准时间15:30）<br />转播提示：半岛电视台体育频道将从格林尼治标准时间12:30开始带来赛前预热及实时图文更新。</p>
-<p>周日，领跑英超积分榜的曼城将在客场直面老对手利物浦，迎接安菲尔德的全部怒火。这也是曼城被判定违反英超财务规则以来的首场比赛。</p>
-<p>此前，一个独立委员会裁定曼城在2009年至2018年期间通过“虚假”交易人为虚增收入并减少逾9亿英镑（约合12亿美元）的成本，利物浦球迷预计将以极具敌意的态度迎接曼城。</p>
-<p>这些财务违规行为发生的时期，正是曼城夺得三座英超冠军及众多其他奖杯的阶段，而利物浦当时则苦苦挣扎于打破这支阿提哈德球场球队对冠军奖杯的垄断。</p>
-<p>曼城已对这一极具破坏性的判决提出上诉，主帅恩佐·马雷斯卡则态度坚决，坚信他们将推翻最初的裁决。但由于正在等待上诉结果和可能的处罚，本赛季的英超联赛目前正陷入停滞与观望状态。</p>
-<p>自2008年被阿布扎比财团收购并崛起为争冠球队以来，曼城每次做客都会遭遇利物浦球迷营造的狂热与敌对氛围。</p>
-<p>本周末的强强对决，可能会将针对曼城球员和球迷的抨击与敌意推向新的高度。</p>
-<p>独立委员会裁定，曼城在2009年至2018年间被指控的115项违反英超财务规则的罪名中，几乎全部成立。</p>
-<p>英超联盟表示，委员会发现曼城在涉案时期利用各种手段，在表面上制造出遵守财务规则的假象。</p>
-<p>曼城继续坚称自己无罪并已提出上诉，但如果裁决维持原判，扣分、罚款、转会禁令甚至降级都可能成为该俱乐部面临的处罚。</p>
-<p>社交媒体上一篇宣传“大巴欢迎仪式”的帖子呼吁利物浦球迷在开球前数小时聚集在球场附近，手持旗帜、横幅、烟火和信号弹，以“迎接”曼城球员大巴的抵达。</p>
-<p>默西塞德郡警方表示，当天将部署相应的警力执勤方案。</p>
-<p>“如果他们想知道这场比赛会有多么愤怒，那么安菲尔德会给他们一个难以置信的答案，”前曼联队长、英格兰后卫加里·内维尔在《The Overlap》播客节目中表示。</p>
-<p>“我估计现场会有横幅，也肯定会有针对性的歌声。他们在安菲尔德将迎来前所未见的‘待遇’……那将是残酷的一天。”</p>
-<p>在过去的12年里，利物浦曾三次屈居曼城之后获得英超亚军。但其中只有2013-14赛季是在此次财务违规争议审查的时间段内。</p>
-<p>然而，曼城的竞争对手认为，那一时期的违规行为为前主帅佩普·瓜迪奥拉任内的黄金时代奠定了基础。瓜迪奥拉已于上赛季末卸任。</p>
-<p>Opta超级计算机预测，曼城在周日取胜的概率为40.7%。</p>
-<p>利物浦的获胜概率为34.6%，平局的概率为24.7%。</p>
-<p>在周五的赛前新闻发布会上，曼城主教练马雷斯卡表示，他绝对相信俱乐部会在上诉中获胜，并驳斥了任何关于曼城过去15年夺得的奖杯已被玷污的说法。</p>
-<p>“我完全信任俱乐部，”马雷斯卡说道。他于今年6月被任命为主教练，此前也曾作为瓜迪奥拉教练组成员在曼城工作过。</p>
-<p>“我信任俱乐部，因为我信任这里的人，这也是我加盟这家俱乐部的原因。……世界上没有其他我想执教的俱乐部了。”</p>
-<p>他的对手、利物浦主教练安多尼·伊劳拉则表示，曼城未来的不确定性正在给整个英超带来动荡。</p>
-<p>“我认为最糟糕的事情可能就是这种不确定性，没有人知道接下来会发生什么，”伊劳拉说。</p>
-<p>“但我们必须专注于利物浦——尽我们所能成为最好的俱乐部、最好的球队，这是我的挑战。”</p>
-<p>尽管场外曼城深陷巨大的争议漩涡，但在球场上，他们本赛季的表现堪称全联盟最佳。</p>
-<p>曼城目前以15分高居英超积分榜首位，前五场比赛保持全胜。</p>
-<p>利物浦两胜三平积9分排在积分榜第六位，落后曼城6分。</p>
-<p>曼城与利物浦最近一次交手是在今年4月4日的足总杯四分之一决赛中。</p>
-<p>当时埃尔林·哈兰德上演帽子戏法，安托万·塞梅诺也打入一球，曼城在阿提哈德球场以4-0大胜利物浦。</p>
-<p>（仅限英超联赛）<br />（近五场比赛，按时间倒序排列；仅限英超比赛）<br />利物浦：胜-平-胜-平-平</p>
-<p>在这场重量级对决前，利物浦遭遇了重大打击，攻击手亚历山大·伊萨克和科迪·加克波均双双伤缺。</p>
-<p>两名球员都是在国际比赛日期间遭遇伤病归队。加克波在代表荷兰对阵塞尔维亚的比赛中脚踝受伤，而伊萨克则在代表瑞典对阵罗马尼亚时遭遇了伊劳拉所称的“轻微”大腿拉伤。</p>
-<p>在联赛前五场打入四球并刚刚找回状态的情况下，伊萨克的缺阵是一个沉重打击。</p>
-<p>两人的伤势预计都不会长期缺阵，加克波能否出场取决于他对疼痛的忍耐程度，俱乐部将对两名球员进行逐日观察。</p>
-<p>本月初，哈兰德在挪威对阵葡萄牙的欧国联比赛中被替换下场，导致他出战利物浦的前景一度存疑。</p>
-<p>但据了解，这只是在漫长国际比赛日密集赛程下的预防性保护措施。</p>
-<p>马雷斯卡已证实，已为俱乐部出场205次打入169球的哈兰德将随队出征默西塞德。</p>
-<p>“他状态很好。他去了马贝拉，休息了两三天，打了高尔夫，进行了恢复，”曼城主帅透露道，“已经为安菲尔德做好了准备。他很健康。”</p>
-<p>利物浦预计首发阵容（4-2-3-1）：阿利松；杰雷米·弗林蓬，罗纳德·阿劳霍，维吉尔·范戴克，米洛斯·科尔克兹；瑞安·赫拉芬贝赫，亚历克西斯·麦卡利斯特；维克托·穆尼奥斯，索博斯洛伊，布拉德利·巴尔科拉；弗洛里安·维尔茨</p>
-<p>曼城预计首发阵容（4-2-3-1）：吉安路易吉·多纳鲁马；马特乌斯·努内斯，鲁本·迪亚斯，马克·格伊，约什科·格瓦迪奥尔；恩佐·费尔南德斯，埃利奥特·安德森；杰雷米·多库，拉扬·谢尔基，伊利曼·恩迪亚耶；埃尔林·哈兰德</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-10-10 23:11 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#Al</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-a-georgia-any-other-game-5be23add43ccf0bb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1232" data-content-paragraphs="13" data-published-at="2026-10-10T15:10:34.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 23:10</span>
-</div>
-
-### [大学橄榄球第6周最佳体育博彩促销优惠：阿拉巴马对阵佐治亚或任意其他比赛](https://www.foxnews.com/outkick-betting/best-sportsbook-promos-college-football-week-6-alabama-georgia-any-other-game)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Best Sportsbook Promos for College Football Week 6: Alabama-Georgia or Any Other Game</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/524/georgia-kirby-smart-091625-2.jpg?ve=1&amp;tl=1" alt="大学橄榄球第6周最佳体育博彩促销优惠：阿拉巴马对阵佐治亚或任意其他比赛" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>大学体育运动是世界上最激动人心的赛事之一。现场有狂热喝彩的学生群体，也有曾在此就读或终生追随的成年球迷。今天的赛程安排了大量精彩对决。众多体育博彩平台今天都针对阿拉巴马大学对阵佐治亚大学的比赛推出了促销优惠。</p>
-<p>如果你刚接触体育博彩，今天是一个绝佳的机会，可以充分利用各大体育博彩平台的新人迎新优惠。我们针对每场比赛都给出了投注推荐，并介绍了如何领取优惠码。</p>
-<p>Fanatics 正在为使用优惠码 FOXNEWS350 的新用户提供下注20美元即可赚取350美元 FanCash 奖励的机会。佐治亚对阵阿拉巴马的比赛非常适合使用此项优惠。佐治亚在开盘时被看好，但目前的投注走势已使其沦为下盘。建议完全避开让分盘，直接选择主场作战的阿拉巴马。在双方过去的五次交锋中，阿拉巴马赢下了三场。</p>
-<p>佐治亚 vs. 阿拉巴马 赔率</p>
-<p>赔率可能会发生变动</p>
-<p>今天还将上演“红河对决”（Red River Rivalry），得克萨斯大学将迎战俄克拉荷马大学。从技术上讲，这是得克萨斯的一场客场比赛，但由于比赛在达拉斯举行，他们理应感到如主场般自如。阿奇·曼宁（Arch Manning）将再次对决约翰·马蒂尔（John Mateer）。大小分总分盘从开盘的48.5分被一路下注降至39.5分，但这可能有些矫枉过正。两队在这场比赛中应该都能拿到15分左右，这意味着他们不需要太多额外得分就能击穿大分盘。在 FanDuel 上对此投注5美元，即可获得价值50美元的奖励代币。随后你可以连续五天重复这一操作，累计赢取250美元的红利投注金。</p>
-<p>得克萨斯 vs. 俄克拉荷马 赔率</p>
-<p>赔率可能会发生变动</p>
-<p>今天赛程中唯一一场全美排名前25名球队之间的对决，是在第21位的加州大学洛杉矶分校（UCLA）与第13位的俄勒冈大学之间展开。对于“鸭子队”（俄勒冈大学）来说，今年并不是顺风顺水的一年，他们经历了两次胶着的比赛，其中一场告负。UCLA目前战绩为4胜0负，且本赛季每场比赛得分均在28分或以上。除了一场比赛外，鸭子队的防线场均失分都在27分或以上。BetMGM 正在向使用优惠码 FOXNEWS 的新用户提供高达1500美元的红利投注金保障（如果首注输掉）。在这场比赛中，押注 UCLA 球队总得分的大分可能是最佳选择。</p>
-<p>赔率可能会发生变动</p>
-<p>如果你身在中西部，你可能早就在日历上圈出了这场比赛。印第安纳大学将与内布拉斯加大学展开一场十大联盟（Big 10）对决，两支球队本赛季均以5胜0负的战绩迎来本场比赛。印第安纳凭借去年的全美锦标赛表现高居全美第7位。内布拉斯加未进入排名，但已击败过马里兰大学和密歇根州立大学，并且本场坐镇主场。本场两队的进攻端表现都不错，bet365 希望为你提供下注10美元即可赚取200美元红利投注金的机会。盘口正在向内布拉斯加倾斜，他们拥有跟上印第安纳进攻火力的能力。建议选择受让分的主队。</p>
-<p>印第安纳 vs. 内布拉斯加 赔率</p>
-<p>赔率可能会发生变动</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-10 23:10 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/best-sportsbook-promos-college-football-week-6-alabama-georgia-any-other-game" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-eorgia-texas-vs-oklahoma-d7c0862d095e6cad" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="923" data-content-paragraphs="8" data-published-at="2026-10-10T15:08:10.000Z" data-time-source="publication">
+<div id="story-l-deal-get-new-president-7450183366328b69" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="811" data-content-paragraphs="18" data-published-at="2026-10-10T19:54:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-10 23:08</span>
+  <span class="news-meta-time">🕒 2026-10-11 03:54</span>
 </div>
 
-### [Betr 优惠码 FOXNEWS：及时领取 200 美元奖金，迎战阿拉巴马对阵佐治亚、德克萨斯对阵俄克拉荷马焦点战](https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-claim-200-bonuses-time-alabama-georgia-texas-vs-oklahoma)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Betr Promo Code FOXNEWS: Claim $200 in Bonuses in Time for Alabama-Georgia, Texas vs Oklahoma</div>
+### [特朗普因俄柴油协议冲突呼吁乌克兰撤换泽连斯基：“该换个新总统了”](https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump calls for Ukraine to replace Zelenskyy after clash over Russia diesel deal: &#39;Get a new president&#39;</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/Texas-football-players-celebrate.jpg?ve=1&amp;tl=1" alt="Betr 优惠码 FOXNEWS：及时领取 200 美元奖金，迎战阿拉巴马对阵佐治亚、德克萨斯对阵俄克拉荷马焦点战" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/trump-zelenskyy-oval-office.jpeg?ve=1&amp;tl=1" alt="特朗普因俄柴油协议冲突呼吁乌克兰撤换泽连斯基：“该换个新总统了”" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>这是一个宿敌对决周，两场最为重磅和瞩目的宿敌之战正火热上演——阿拉巴马迎战佐治亚，德克萨斯对决俄克拉荷马。新用户使用优惠码 FOXNEWS，即可在今天的比赛中享受 200 美元的奖励投注金。</p>
-<p>如果你打算对这些比赛下注，密切关注每场比赛的四分卫是非常明智的选择。让我们来看看在这两场强强对话中，各队担任中锋身后进攻核心（首发四分卫）的人选。</p>
-<p>德克萨斯大学拥有大学橄榄球界最著名的四分卫，或者说至少是姓氏最显赫的一位。阿奇·曼宁（Arch Manning）作为过去十年中最受瞩目的新星之一加盟德克萨斯。他的表现并不总是显得顶尖，但他仍有望在即将到来的选秀中名列前茅。本赛季他 115 传 73 中，传球推进 862 码，取得 7 次达阵和 3 次被抄截。</p>
-<p>俄克拉荷马大学再次由约翰·马特尔（John Mateer）领衔。这是他在华盛顿州立大学度过三年之后，在俄克拉荷马效力的第二年。这仅仅是他担任首发的第三年，而去年有些艰难。本赛季他 109 传 72 中，传球推进 883 码，送出 8 次达阵和 4 次被抄截。去年对阵德克萨斯时，他传出了 202 码并有 3 次被抄截。</p>
-<p>加纳·斯托克顿（Gunner Stockton）在本赛季的前五场比赛中一直是全美最出色的四分卫之一。他已拥有 1,049 码传球码数、13 次达阵以及仅 1 次被抄截。面对东南联盟（SEC）的竞争对手，他在三场比赛中仅传出 5 次达阵。上赛季对阵阿拉巴马的两场比赛中，他传出了 4 次达阵和 286 码。</p>
-<p>这是基隆·拉塞尔（Keelon Russell）首次体验宿敌对决的氛围。本赛季他在阿拉巴马表现稳健，在五场比赛中拿下了 1,414 码、11 次达阵和 2 次被抄截。他高达 91.0 的四分卫评分（QBR）位居全美第三。在本赛季首场首发未能送出达阵后，他在过去三场比赛中接连完成了 10 次达阵传球。</p>
-<p>挑选你最看好的四分卫，可能会助你找到最称心的投注选项。使用优惠码 FOXNEWS，在 Betr 支持你喜爱的四分卫并赚取 200 美元的奖励投注金。</p>
-<p>德克萨斯对阵俄克拉荷马 赔率<br />赔率可能会有变动<br />佐治亚对阵阿拉巴马 赔率<br />赔率可能会有变动<br />四分卫对比</p></div>
+<div class="article-body" data-article-body="true"><p>唐纳德·特朗普总统周六表示，“乌克兰是时候换个新总统了”。两位领导人就美国与莫斯科达成的一项协议发生冲突，特朗普警告乌克兰总统弗拉基米尔·泽连斯基停止袭击俄罗斯炼油厂。</p>
+<p>“乌克兰是时候换个新总统了，”特朗普在前往田纳西州参加集会前，在白宫外对记者表示。</p>
+<p>特朗普指责泽连斯基继续批准对俄罗斯炼油厂发动袭击，导致全球燃料问题进一步恶化。</p>
+<p>【相关报道：特朗普称在进行“非常成功的讨论”后，俄罗斯已同意交付数百万柴油】</p>
+<p>“他最好彻底停手，”特朗普说。</p>
+<p>这位总统主张，考虑到对全球能源供应的潜在影响，乌克兰应避免将俄罗斯炼油厂作为袭击目标。</p>
+<p>“我们说过，‘你可以对俄罗斯做任何你想做的事，但别碰炼油厂’，因为那会引发全球性问题，”特朗普说道。</p>
+<p>特朗普还批评泽连斯基未能达成结束战争的协议。这场战争始于2022年2月俄罗斯对乌克兰发动全面入侵。</p>
+<p>【相关报道：特朗普透露和平协议已接近达成后，泽连斯基将在联合国演讲中为长达数年的俄乌战争寻求台阶】</p>
+<p>“他本可以达成很多协议，但出于某种原因，他从来都不做，”特朗普说。</p>
+<p>在此番表态之前，泽连斯基批评了美俄之间达成的一项新协议，该协议将暂时放宽对俄罗斯柴油出口的制裁。</p>
+<p>特朗普周五证实，华盛顿已与莫斯科达成协议，在4月7日之前暂停对俄罗斯柴油出口的限制。</p>
+<p>【相关报道：特朗普要求泽连斯基在袭击俄罗斯期间停止做“一件事”】</p>
+<p>该协议将允许俄罗斯向美国及全球市场投放数百万吨柴油，在美国家庭加油成本上升之际，此举可能增加燃料供应。</p>
+<p>但泽连斯基警告称，这笔交易可能会为俄罗斯提供更多资金来购买武器并继续针对乌克兰的战争。</p>
+<p>此番争端发生之际，俄罗斯和乌克兰双方均加大了对能源设施、运输系统和其他关键基础设施的打击力度。</p>
+<p>在美国面临与伊朗冲突相关的能源成本上升之际，特朗普一直在寻找降低燃料价格的途径。</p>
+<p>特朗普的警告给泽连斯基施加了新的压力，促使其与俄罗斯谈判结束战争。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-10 23:08 发布，当前内容状态：已取得正文证据</li>
+    <li>特朗普在白宫外对记者表示，乌克兰是时候更换一位新总统了，并警告泽连斯基停止袭击俄罗斯炼油厂。</li>
+    <li>特朗普确认华盛顿已与莫斯科达成协议，在4月7日之前暂停对俄罗斯柴油出口的限制。</li>
+    <li>来源叙事重点：报道聚焦于特朗普对乌克兰总统泽连斯基的严厉抨击，要求其停止袭击俄罗斯炼油厂甚至呼吁乌克兰更换总统；叙事框架紧密围绕美国国内降低油价的民生需求与美俄柴油协议，将泽连斯基的抵抗与反对置于干扰全球能源供应和拖延和平进程的对立面上</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-president-new-york-rally-ba6618e466d8cbcb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="897" data-content-paragraphs="16" data-published-at="2026-10-10T19:49:04.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-11 03:49</span>
+</div>
+
+### [迈克·泰森在陪同总统参加纽约集会前预测“唐纳德·特朗普将赢得”中期选举](https://www.foxnews.com/outkick-sports/mike-tyson-predicts-donald-trump-will-win-midterms-joining-president-new-york-rally)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mike Tyson predicts ‘Donald Trump will win’ midterms before joining president for New York rally</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tyson-and-trump.png?ve=1&amp;tl=1" alt="迈克·泰森在陪同总统参加纽约集会前预测“唐纳德·特朗普将赢得”中期选举" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>拳击传奇人物迈克·泰森在11月中期选举前夕力挺唐纳德·特朗普总统的政治阵营。</p>
+<p>这位前重量级拳王周五造访白宫，并在记者询问共和党人在中期选举中表现如何时给出了简短的预测。</p>
+<p>“我相信唐纳德·特朗普会赢，”泰森在白宫西翼简报室表示，随后他陪同总统前往纽约州锡拉丘兹参加集会。</p>
+<p>特朗普在纽约集会上为共和党人布鲁斯·布莱克曼竞选取代州长凯西·霍楚尔造势</p>
+<p>出发前，特朗普开玩笑谈及与拳击界最令人畏惧的拳手之一站在一起。</p>
+<p>“我今天不会跟他交手，”特朗普告诉记者，并补充道，“我们已经是长期的朋友了。”</p>
+<p>特朗普在锡拉丘兹集会上带迈克·泰森登台，开玩笑称他是布鲁斯·布莱克曼的私人保镖</p>
+<p>他们的关系可以追溯到20世纪80年代，当时特朗普在大西洋城主办了由泰森出战的拳击赛事。两人的联系此后延伸到了大麻倡导领域。</p>
+<p>泰森的大麻倡导已成为他与特朗普数十年友谊的另一个纽带。2025年6月，泰森与凯文·杜兰特及其他运动员一同敦促白宫推行联邦大麻改革。</p>
+<p>他们的诉求不仅限于重新分级：他们还寻求对非暴力大麻犯罪给予赦免，并修改影响大麻企业的银行业务限制。</p>
+<p>泰森告诉福克斯新闻数字频道（Fox News Digital），重新分级是他的首要任务，并对前总统巴拉克·奥巴马和乔·拜登对大麻改革的处理方式表示失望。</p>
+<p>“这令人失望，但你必须尊重他们当时在掌权。你必须尊重这一点，”泰森说。“我们现在有了不同的总统，所以我们在跟他谈。因此，与特朗普总统交谈似乎与跟另一个人交谈大不相同。而且，正如我之前所说，那是他们的议程。这才是我们的议程。”</p>
+<p>泰森补充说，他认为大麻重新分级是他联邦改革目标中的重中之重。此外，他和他的支持者希望看到对非暴力大麻罪犯的大规模赦免。</p>
+<p>特朗普在2025年12月朝着这一目标迈出了一步，签署了一项行政命令，指示司法部长加快将大麻拟议从附表一（Schedule I）调整为附表三（Schedule III）的进程。该命令指示官员完成联邦规则制定程序；其本身并未最终敲定该变更。</p>
+<p>泰森对该命令表示欢迎，同时敦促特朗普更进一步。</p>
+<p>“赦免和联邦合法化是接下来的重要步骤，”他在X上写道。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-11 03:49 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/mike-tyson-predicts-donald-trump-will-win-midterms-joining-president-new-york-rally" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ant-win-without-cheating-df3f025c4f762b0d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1064" data-content-paragraphs="16" data-published-at="2026-10-10T19:46:13.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-11 03:46</span>
+</div>
+
+### [民主党参议员候选人阿卜杜勒·赛义德开玩笑称密歇根大学橄榄球队“不作弊就赢不了”](https://www.foxnews.com/outkick-sports/democrat-senate-candidate-abdul-el-sayed-jokes-michigan-football-cant-win-without-cheating)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Democrat Senate candidate Abdul El-Sayed jokes that Michigan football can&#39;t win without cheating</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/abdul-el-sayed-michigan-democratic-convention-fox-news_.jpg?ve=1&amp;tl=1" alt="民主党参议员候选人阿卜杜勒·赛义德开玩笑称密歇根大学橄榄球队“不作弊就赢不了”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>民主党社会主义者阿卜杜勒·赛义德（Abdul El-Sayed）多年来发表了大量关于美式橄榄球的无脑言论，在其竞选密歇根州参议员的整个过程中也是如此。</p>
+<p>赛义德曾将美式橄榄球与有毒的男性气概以及跨大西洋奴隶贸易联系起来，但他也在竞选宣传中通过公开支持NFL和底特律雄狮队来进行迎合。在2021年回应时任拉斯维加斯突袭者队主教练乔恩·格鲁登（Jon Gruden）的一篇文章中，赛义德写道：“全美最受欢迎的体育运动——乃至更广泛的男性体育文化——核心所存在的有毒男性气概，远比几封电子邮件要深层得多。”</p>
+<p>在另一次讲话中，他提到了“昭昭天命”（Manifest Destiny）、美洲原住民社区的毁灭以及跨大西洋奴隶贸易，随后表示：“而所有这一切，就像许多这类叙事一样，你多多少少能在橄榄球的精神特质中看到其共鸣。”</p>
+<p>周五，他将矛头对准了支持密歇根大学橄榄球队的选民。</p>
+<p>特朗普称罗杰斯在辩论中“彻底摧毁”了赛义德</p>
+<p>赛义德与前参议员黛比·斯塔贝诺（Debbie Stabenow，密歇根州民主党人）会见了密歇根州的农民，共同探讨影响该行业的问题。他们谈到了特朗普总统的关税政策、与加拿大的贸易战、伊朗战争以及美国移民与海关执法局（ICE）。</p>
+<p>阿卜杜勒·赛义德回避“种族主义NFL”言论，继续为科林·卡佩尼克辩护</p>
+<p>在活动接近尾声时，赛义德恳求农民们与另一政治阵营的朋友和邻居交流——那些在上次选举中“做出了不同政治选择”的人。他对现场的几位听众说，不要因为那些人做出了“无法挽回的糟糕决定”而去“指责”他们。</p>
+<p>他鼓励大家甚至可以不谈政治，聊聊天气，或者谈谈“密歇根（大学）到底能不能在不作弊的情况下赢下一场橄榄球比赛”，赛义德在几声尴尬的笑声中轻笑着说道。</p>
+<p>正如你能想象到的，互联网对一位密歇根州参议员候选人发表此类言论反应极为不善。</p>
+<p>点击此处获取更多 OUTKICK 体育报道</p>
+<p>克雷格·卡顿秀——原汁原味、毫不妥协、不容错过。立即下载他的每日播客！</p>
+<p>密歇根铁杆球迷兼 Barstool Sports 创始人戴夫·波特诺伊（Dave Portnoy）表示：“这家伙简直就是个恐怖分子。”</p>
+<p>赛义德的对手迈克·罗杰斯（Mike Rogers）对这场争议作出了回应，他转发了波特诺伊的帖子并写道：“@StoolPresidente 说的完全正确。”</p>
+<p>其他人则指出，作为一名密歇根大学校友，赛义德的这番言论是不可原谅的。还有人表示他“丢掉了选票”。</p>
+<p>我给赛义德的建议是：请继续谈论橄榄球吧。这对罗杰斯的胜算大有好处。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-11 03:46 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/democrat-senate-candidate-abdul-el-sayed-jokes-michigan-football-cant-win-without-cheating" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--away-from-wheel-fortune-5319a475bf4fd48e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1250" data-content-paragraphs="18" data-published-at="2026-10-10T19:27:02.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-11 03:27</span>
+</div>
+
+### [离开《命运之轮》后，帕特·萨贾克罕见公开露面](https://www.foxnews.com/entertainment/pat-sajak-makes-rare-public-appearance-after-stepping-away-from-wheel-fortune)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Pat Sajak makes rare public appearance after stepping away from &#39;Wheel of Fortune&#39;</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/pat-sajak-gray-suit.jpg?ve=1&amp;tl=1" alt="离开《命运之轮》后，帕特·萨贾克罕见公开露面" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>前《命运之轮》（Wheel of Fortune）主持人帕特·萨贾克（Pat Sajak）近日罕见公开露面，在洛杉矶现身。</p>
+<p>在好莱坞星光大道上，这位79岁的前游戏节目主持人被拍到出席空中补给乐队（Air Supply）成员格雷厄姆·拉塞尔（Graham Russell）和罗素·希区柯克（Russell Hitchcock）的留星仪式。</p>
+<p>他身穿灰色西装，内搭粉色衬衫，显得精神矍铄。仪式期间，他不仅与音乐家们合影留念，还发表了致敬演讲。</p>
+<p>在演讲中，萨贾克向现场人群开玩笑称，自己对“长寿”略知一二，因为他“主持自己的小节目主持了40多年”。</p>
+<p>【相关阅读：帕特·萨贾克之女在“男友申请”后与爆红棒球明星坠入爱河】</p>
+<p>“我深知尽量不招人讨厌、不过久逗留的挑战，”他补充道，“但格雷厄姆和罗素已经坚持了50多年，他们一直在为乐迷带来欢乐，并且依然受到全世界场场爆满的观众的欢迎。”</p>
+<p>随后他开玩笑说，自己“原计划在胸前纹一个巨大的空中补给标志”，但考虑到这可能会分散人们对他乳环的注意力，于是改变了主意，并对现场观众打趣道：“我先停顿一下，好让你们把脑海中浮现的画面戳瞎。”</p>
+<p>萨贾克在主持《命运之轮》以及后来的《名人命运之轮》的41年间磨练了自己的幽默技巧，随后于2024年退休，并将接力棒交给了瑞安·西克雷斯特（Ryan Seacrest）。</p>
+<p>从该游戏节目退休后，萨贾克宣布主演话剧《谋杀处方》（Prescription: Murder），该剧于2025年7月31日至8月10日在夏威夷檀香山的夏威夷剧院上演。</p>
+<p>【点击此处直接通过电子邮箱获取娱乐独家资讯】</p>
+<p>今年6月，他在夏威夷向粉丝分享了近况，发布了一段自己在泳池边散步的视频，身后是棕榈树和大海，让观众知道他过得很好。</p>
+<p>“嗨！我知道你们很多人一直在纳闷，问我过得怎么样，其实我很享受生活。我搬到了蒙大拿州，一切都棒极了，”他开玩笑道，“所以，我只是想打个招呼。请原谅我得先走了，我还有些牛要照看。”</p>
+<p>尽管萨贾克最为人熟知的是主持《命运之轮》，但他曾在2024年6月的一段Instagram视频中透露，当初节目组向他递出橄榄枝时，他差点拒绝了这份主持机会。</p>
+<p>【喜欢你读到的内容吗？点击此处获取更多娱乐新闻】</p>
+<p>萨贾克从1981年离开该节目的查克·伍勒里（Chuck Woolery）手中接过了主持重任。萨贾克在1981年至1989年期间主持了该节目的日间版，同时从1983年开始主持深得粉丝认可的夜间版。</p>
+<p>【检验你的娱乐知识，看看你能得多少分】</p>
+<p>“当你在洛杉矶当地的电视台工作时，在某种程度上你每晚都在试镜，因为制片人也像其他人一样，穿着内裤坐在家里看电视，”萨贾克打趣道。</p>
+<p>“不管怎样，当时《命运之轮》已经在NBC日间档播出了七年，原主持人要离开了，他们需要一位新主持人，于是他问我是否有兴趣。我发誓，我当时的第一反应是，整天念‘是的，这里有三个字母R’可算不上什么能提振事业的工作。是啊，我知道，这正说明我当时懂个啥。”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-10-11 03:27 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -252,7 +213,52 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-claim-200-bonuses-time-alabama-georgia-texas-vs-oklahoma" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/pat-sajak-makes-rare-public-appearance-after-stepping-away-from-wheel-fortune" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-on-scores-his-first-goal-a6bfcc6f2aa7640f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="731" data-content-paragraphs="14" data-published-at="2026-10-10T19:26:22.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-11 03:26</span>
+</div>
+
+### [戈登斩获巴萨生涯首球，巴塞罗那击败赫塔费](https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Barcelona beat Getafe as Gordon scores his first goal</div>
+
+<div class="article-body" data-article-body="true"><p>巴塞罗那3-0击败赫塔费，豪取六连胜，安东尼·戈登打入加盟球队以来的首粒进球。</p>
+<p>周六，随着西班牙卫冕冠军巴萨以3-0击败赫塔费延续西甲开局全胜势头，安东尼·戈登斩获了他在巴塞罗那的首粒进球。</p>
+<p>英格兰国脚戈登在开场第二分钟便打破僵局，随后加布里埃尔·热苏斯在半小时后为这支领头羊球队扩大比分，巴萨在本赛季至今参加的各项赛事中保持全胜。</p>
+<p>法国后卫朱尔·孔德接拉明·亚马尔的传中推射破门锁定胜局，帮助巴萨在诺坎普球场完胜何塞·博尔达拉斯执教的赫塔费队。</p>
+<p>巴萨由此领先排名第二的马德里竞技5分，后者稍早前客场2-1战胜阿拉维斯；并在第四名皇家马德里稍后主场迎战比利亚雷亚尔之前，暂时领先皇马9分。</p>
+<p>巴萨本场缺少了队内头号射手拉菲尼亚，他在代表巴西国家队参加国际比赛日期间遭遇腿筋伤势。</p>
+<p>弗里克派上前阿森纳前锋兼拉菲尼亚的国家队队友热苏斯顶替其出场，而巴萨全队开场便气势如虹。</p>
+<p>本赛季加盟以来表现抢眼的戈登，在连过三人杀出重围后，打出一脚发生折射的低射入网，斩获巴萨生涯首球。</p>
+<p>这位边锋是巴萨上半场最亮眼的核心，延续了近期在欧国联赛事中为英格兰队效力时的出色进球状态。</p>
+<p>在弗里克的球队完全掌控比赛局面的情况下，巴萨后卫埃里克·加西亚的一记远射迫使赫塔费门将戴维·索里亚做出扑救。</p>
+<p>赫塔费后卫扎伊德·罗梅罗在己方禁区内失误送礼，直接将球传给了热苏斯，后者推射球门底角攻入巴萨的第二球。</p>
+<p>索里亚扑出了奥尔莫的射门，随后亚马尔助攻孔德打入第三球。</p>
+<p>这位后卫迎来了代表巴萨出战的第194场比赛，超越埃里克·阿比达尔成为巴萨队史出场次数最多的法国球员，他在近距离接这位年轻新星亚马尔的传中球撞射破门。</p>
+<p>此前同样赢下欧冠首战的巴萨，目前各项赛事保持9场全胜。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-10-11 03:26 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Al</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::
