@@ -51,14 +51,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **120** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **121** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-10 09:52 (UTC+8)
+- **最新归档时间**：2026-10-10 16:41 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-10 16:41 (UTC+8)" title="全球要闻情报简报 · 16:41" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-10 16:38 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】我与一台AI喂鸟器的短暂罗曼史：开头一切都非常美好。在我安装了一台原价350美元、现价269美元的Kiwibit Bird Feeder 2 Pro喂鸟器几周后，数十只小巧而色彩缤纷的鸟儿便被吸引到了我的花园里。“看起来像是大山雀！”手机上收到的第一条AI推送警报写道。“看起来像是蓝山雀！”另一条提醒写道。我轻声笑了笑，还在等着自己什么时候能成熟一点（不再对山雀的名字傻笑）。这种情况持续了好几天。数百只微小的山雀跑来啄食价格昂贵、已经去壳的葵花籽。它们先在附近的树上悄；【undefined】Android系统中的一键执行MMI代码漏洞：本文介绍了如何利用存在漏洞的拨号器应用程序，在Android系统中实现一键（1-click）执行MMI代码。；【undefined】每日天文一图：2026年10月10日——月球背面：每日天文一图：2026年10月10日…… 每日天文一图 探索宇宙！每天都会展示一张反映我们迷人宇宙的图像或照片，并附有专业天文学家撰写的简短说明。 说明：在潮汐锁定的同步自转影响下，月球始终以其为人熟知的正面朝向地球上的居民。然而，从月球轨道上看，月球背面也可以变得熟悉起来。事实上，这幅由月球勘测轨道飞行器（LRO）广角相机拍摄的清晰拼接图像，其中心正位于月球背面。作为2009年11月至2011年2月间拍摄的逾1.5万张图像所组成的全月；【undefined】因“星链”在印度落地受阻，埃隆·马斯克加剧对安巴尼的抨击：随着SpaceX在印度推出“星链”（Starlink）服务举步维艰，埃隆·马斯克（Elon Musk）加大了对亿万富翁穆克什·安巴尼（Mukesh Ambani）的抨击力度。他嘲讽地称安巴尼为印度的“总理”，暗示其对印度政府拥有过大的控制力，并指责他阻挠卫星互联网服务参与市场竞争。；【undefined】Anthropic无法可靠控制其AI智能体，转而切断其内部评估对实时互联网的访问：Anthropic表示，其模型利用漏洞攻击了互联网上的网站，其中包括一些由美国政府机构运营的网站。在这家前沿实验室确保能够监控并控制其AI智能体之前，它将切断其所有内部评估对实时互联网的访问。；【undefined】地质学家在伊朗西北部发现缺失的晚白垩世岩浆弧证据：来源：伊斯坦布尔理工大学 编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程和方针进行审校。编辑在确保内容可信度的同时，强调了以下属性： 经同行评审的出版物；【undefined】飓风“伊萨亚斯”登陆佛罗里达后降级：该视频无法播放 观看：飓风“伊萨亚斯”逼近美国，巨浪拍打海岸；【undefined】日媒：日本警方37年间查处涉驻日美军刑案4998起：中新网10月10日电 据日本《赤旗报》近日报道，日本警察厅资料显示，自1989年至2026年5月，日本警方查处涉及驻日美军及其家属等相关人员的刑事案件共4998起，其中2447起发生在冲绳县，占总数的49%。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261010/drobysh-2123650113.html) <span class="news-meta-time">🕒 2026-10-10 16:33</span>
+- [The Verge (前沿数码科技)] [我与一台AI喂鸟器的短暂罗曼史](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too) <span class="news-meta-time">🕒 2026-10-10 15:00</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-10-10 14:36</span>
+- [Lobste.rs (极客思想社区)] [Android系统中的一键执行MMI代码漏洞](https://karansaini.com/mmi-android/) <span class="news-meta-time">🕒 2026-10-10 15:20</span>
+- [NASA News (深空探索与航天)] [每日天文一图：2026年10月10日——月球背面](https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/) <span class="news-meta-time">🕒 2026-10-10 12:05</span>
+- [ANSA Mondo (意大利安莎社官方意大利文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ansa.it/sito/notizie/mondo/asia/2026/10/10/arrestato-il-leader-del-partito-delle-blatte-prima-di-manifestazione-non-autorizzata_28be932f-2595-46c5-a6d6-8d7f3d8a9542.html) <span class="news-meta-time">🕒 2026-10-10 16:32</span>
+:::
 :::timeline-item{start="2026-10-10 09:52 (UTC+8)" title="全球要闻情报简报 · 09:52" org="ARCHIVE"}
 **速报纪要：** 本小时内，英国政府宣布未来四年将投入10亿英镑扶持创新集群以提振经济；中外文化交流方面，法兰克福书展发布园林主题新书，利物浦举行上海非遗展；国际能源与政治方面亦有相关动态传出。
 
@@ -655,18 +668,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wqaiob/americans_are_panicked_over_ai_and_affordability/) <span class="news-meta-time">🕒 2026-09-26 06:57</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html) <span class="news-meta-time">🕒 2026-09-26 08:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/nikolaev-2120382851.html) <span class="news-meta-time">🕒 2026-09-26 09:25</span>
-:::
-:::timeline-item{start="2026-09-25 21:59 (UTC+8)" title="全球要闻情报简报 · 21:59" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-25 21:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案：朝鲜黑客涉嫌在周四的一次网络攻击中，从加密货币交易所Bitget的服务器中窃取了超过3.51亿美元。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】Apple Home 的 AI 摄像头功能能否胜过亚马逊与谷歌？我做了一番实测：几年前，我参加了一场海滩复活节寻彩蛋活动，看着孩子们穿梭在沙丘间寻找甜点。我的手机在口袋里震动了一下；我没理会。片刻之后，它又震动了一次。我掏出手机低头一看，看到安防摄像头发来的一条“检测到活动”通知。“大概只是我的狗在院子里，”我想着，便没当回事。随着篮子里的彩蛋越堆越多，我的手机还在不断震动。我无奈地再次拿出手机，又看到了好几条“检测到活动”的提醒。我试图加载一段视频片段，但它只是一直在缓冲。回到家时，我发现养的四只宠物鸡都死了，全；【undefined】LLM 政策：不惜一切代价的“进步”：GNOME 和 KDE 已经开始考虑大语言模型（LLM）相关政策，我们应当认真探讨这背后的实质到底是什么。；【undefined】没人想要一台“螃蟹椅”：在我们上一期“好心办坏事：当无障碍工程师走偏时”的专栏中，我们重点介绍了一款尤为离谱的瑞士轮椅设计，上面居然配备了毫无必要的无人机。所幸的是，并非所有拿到空头支票来设计无障碍解决方案的工程师都如此脱离现实。更常见的情况是，大企业充裕资金带来的无拘无束，往往催生出极具诱惑力、充满未来感的酷炫设计，但不知怎的，这些设计留给我的空虚感却远多于兴奋感。；【undefined】再续跨国友谊 美国友人“赛考斯”送上中秋祝福：中秋佳节，美国友人“赛考斯”再次感谢中国人民的善意，通过视频送上节日祝福，祝大家度过美好的中秋佳节。；【undefined】“意大利银幕”展映拉开帷幕：8部意大利电影将在索非亚及保加利亚其他城市放映：（安莎社）- 罗马，9月25日 - 意大利驻保加利亚大使马塞洛·阿皮切拉（Marcello Apicella）出席了第22届“电影与文学”（Cinelibri）国际电影节的新闻发布会。该电影节由出版人雅克琳·瓦根施泰因（Jacqueline Wagenstein）发起，发布会于9月24日在保加利亚首都的军事俱乐部举行。负责文化和旅游事务的索非亚副市长伊琳娜·达科娃（Irina Dakova）也出席了新闻发布会。阿皮切拉大使在致辞中指出，；【undefined】霍尔木兹海峡重开希望与柴油短缺博弈，WTI原油剧烈震荡：点击此处查看150多种全球石油价格 欧盟施压英国跟随对中国制造汽车加征关税 标普全球表示需求激增…… 公用事业公司目前可能正在赚取…… 英国正着手开展一项……
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/sinoptik-2120291892.html) <span class="news-meta-time">🕒 2026-09-25 21:54</span>
-- [TechCrunch (硅谷创业与资本)] [朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案](https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/) <span class="news-meta-time">🕒 2026-09-25 21:24</span>
-- [CNBC Economy (CNBC 宏观经济)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html) <span class="news-meta-time">🕒 2026-09-25 21:48</span>
-- [Lobste.rs (极客思想社区)] [Amiga 屏幕机制入门指南](https://www.datagubbe.se/amscr/) <span class="news-meta-time">🕒 2026-09-25 21:01</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-pupil-responses.html) <span class="news-meta-time">🕒 2026-09-25 21:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/gid-2120291757.html) <span class="news-meta-time">🕒 2026-09-25 21:54</span>
 :::
 ::::

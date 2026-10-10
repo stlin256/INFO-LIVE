@@ -27,8 +27,238 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-mmi-android-883bf45fa0f50afa" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5128" data-content-paragraphs="37" data-published-at="2026-10-10T07:20:53.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 15:20</span>
+</div>
+
+### [Android系统中的一键执行MMI代码漏洞](https://karansaini.com/mmi-android/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> 1-click MMI execution in Android</div>
+
+<div class="article-body" data-article-body="true"><p>本文介绍了如何利用存在漏洞的拨号器应用程序，在Android系统中实现一键（1-click）执行MMI代码。</p>
+<p>一段时间以来，我一直知道拥有 CALL_PHONE 权限的Android应用不仅可以拨打普通电话号码，还可以拨打USSD和MMI代码。从我知道这一点起，我就一直想开发一种攻击方式，只需极少或完全无需用户交互，即可从某个应用程序或网页中执行MMI代码。三年前，我曾制作过一个概念验证（PoC），通过滥用 CALL_PHONE 权限在手机上静默设置呼叫转移。但这显然需要用户侧载（sideload）恶意应用程序，从而削弱了其攻击影响。上个月，我发现并报告了若干漏洞，当用户设备上安装了存在漏洞的拨号器应用时，这些漏洞可导致一键执行MMI代码。</p>
+<p>MMI和USSD代码是输入到拨号器中的一串数字、星号和井号，但它们并不是电话号码——例如 *123#、*#06#、**21*#。两者均由3GPP进行规范：人机接口（Man-Machine Interface）代码定义在TS 22.030中，非结构化补充业务数据（Unstructured Supplementary Service Data）定义在TS 22.090中。在设备上，这些代码只能通过拨号器（或SIM卡应用）访问。</p>
+<p>android.permission.CALL_PHONE 是一项普通的运行时权限。你的设备上可能已经有少数应用被授予了此权限（例如 WhatsApp、Signal、Truecaller）。用户在授予该权限时看到的提示文字是“拨打电话和管理通话”。</p>
+<p>用户看到的 CALL_PHONE 权限弹窗。截图由 Raghav Aggarwal / ProAndroidDev 提供。</p>
+<p>问题包含两个方面：</p>
+<p>实现这一切的前提条件是一个拥有 CALL_PHONE 权限的应用，同时该应用还向浏览器暴露了一个可访问其拨号路径的深度链接（deeplink）。这种应用将我们的本地能力转变成了远程能力。这两种特性单独来看都很寻常，但结合在一起时，就允许了一键执行MMI代码。</p>
+<p>为了了解浏览器可访问的拨号器深度链接有多普遍，我对88款通话、拨号及VoIP应用程序进行了清单文件（manifest）级别的扫描。其中，有66款声明了 CALL_PHONE 权限，有54款暴露了某种浏览器可访问的拨号接口表面。需要指出的是，其中大多数只是将提供的号码预先填入拨号盘，而不是直接拨打，这意味着就现状而言，并非所有应用都可以被利用。</p>
+<p>该扫描并不等同于存在漏洞的应用程序计数。任何特定应用是否可以被以此种方式滥用，取决于该应用如何处理其深度链接。扫描得出了一个值得进一步审查的候选应用列表。</p>
+<p>针对这些候选应用，我开始在模拟器（API 34，Android 14）上进行测试，因为起初我手头没有Android实体设备。在模拟器中测试的一个额外好处是，可以使用 dumpsys 捕获电话通信行为。从网页触发拨号器的深度链接第一次尝试就成功了！遗憾的是，Google要求向其报告的安全漏洞必须在不超过30天内的系统版本上进行测试。接着我尝试启动一个Android 17模拟器，但在运行可用镜像时遇到了问题，因此我暂停了一会儿，尝试找一台实体手机来进行端到端的行为验证。</p>
+<p>经过一番寻找，我拿到了一台实体手机——一台运行Android 16（One UI 8.5）的三星Galaxy M16 5G，版本号为 BP4A.251205.006.M166PXXS7DZG1，安全补丁级别为2026年7月5日——这让我能够在真实的运营商网络上而非模拟网络上确认该行为。最终我也成功运行了Android 17模拟器镜像，并在上面重新执行了所有操作，完全复现了该行为。</p>
+<p>ACR Phone / Cube ACR（com.nll.cb，安装量超过500万次）包含一个Intent过滤器，声明了操作 android.intent.action.CALL_BUTTON、类别 android.intent.category.BROWSABLE 以及 tel: 数据协议。它解析到的Activity将 tel: 数据传递到了自动拨号路径中，即提供的字符串会被直接拨打，而不是呈现给用户进行确认。</p>
+<p>Chrome的 intent: URI 语法允许网页为其发出的Intent指定任意Action。Chrome在派发之前执行的唯一检查就是解析该Intent的过滤器声明了 BROWSABLE；它不会对Action本身进行任何过滤。因此，网页可以随意指定 CALL_BUTTON，此时ACR的自动拨号路径随即运行，所提供的字符串将在ACR自身的 CALL_PHONE 授权下执行，而不是在浏览器持有的任何授权下执行。</p>
+<p>还有一个针对ACR的前提条件：除了拥有 CALL_PHONE 权限外，它还必须持有 DIALER 角色——DialerActivity.a0() 会检查默认拨号器状态，否则将重定向到其设置界面。这两个条件对于替换型拨号应用（如ACR）来说都是正常的，但都不是系统默认的。此外，这些前提条件仅适用于本次演示，而不影响底层问题本身，即对于任何 CALL_PHONE 持有者，无论其是否具备该角色，在执行MMI时都缺乏用户同意和确认。</p>
+<p>我运行了两个载荷（payload）：下面的余额查询，以及下一节中的呼叫转移设置。两者均执行成功。在每种情况下，结尾的井号都进行了百分号编码，写为 %23：</p>
+<p>字面意义上的 # 可以在 Intent.parseUri() 中保留下来——该函数通过 lastIndexOf(&quot;#Intent;&quot;) 而不是通过搜索URI中的第一个井号来定位fragment——但是井号随后会在拨号路径的下游丢失，字符串的剩余部分随后会作为普通电话呼叫拨打给该号码，而不是作为MMI代码处理。因此必须使用 %23。</p>
+<p>点击链接不会弹出选择器（chooser）——ACR是同时拥有 BROWSABLE 和 tel: 协议的该操作的唯一处理程序——也不会有任何形式的确认。从 dumpsys activity recents 捕获的Android传递的Intent如下：</p>
+<p>以及来自 dumpsys telecom 的相应电话通信记录：</p>
+<p>DIALED_MMI 意味着系统框架将提供的字符串作为MMI代码处理，而不是将其作为号码拨打。从点击到通话创建所经过的时间大约为1.3秒，除了单次点击之外无需任何交互。</p>
+<p>Android 17上的复现情况。在状态栏时钟旁边可以看到呼叫转移指示符。</p>
+<p>MMI的执行绝不会被添加到通话列表中，因此通话记录中没有任何可供查看的内容。唯一可见的痕迹是一个在约两秒后自动消失的对话框，以及状态栏中的呼叫转移指示符，我怀疑极少有用户能识别出该指示符或对其采取行动——更不用说将其归因于他们当天早些时候点击过的链接了。怀疑有异常发生的用户没有任何记录可供确认。</p>
+<p>上述所有内容都取决于所选应用程序具有一个公开的、可自动拨号的深度链接。然而，在Android 17上进行测试时，我遇到了一个相关的平台变更，该变更甚至消除了这一要求。该问题已单独报告，且仅在模拟器上得到了确认。</p>
+<p>Android 17 将 Telecom 移入 com.android.telephonycore Mainline 模块，并将其用户界面拆分为一个独立的特权应用。com.android.server.telecom 现在只是一个垫片，会针对 com.google.android.telecomui 重新启动它所接收到的 ACTION_CALL intent；后者随后以自身身份调用 TelecomManager.placeCall()。最初发起呼叫的软件包不会在这一交接过程中被带过去。由于 telecomui 持有 CALL_PRIVILEGED，Telecom 评估的身份是特权拨号器的身份，因此原本会拒绝危险 MMI 字符串的检查被跳过了。</p>
+<p>其结果是，在 Android 17 上，一个仅持有 CALL_PHONE、且不具备拨号器角色的应用，通过 ACTION_CALL 发送普通的 **21* #，就会被作为 MMI 代码分发；整个过程中既不需要精心构造的载荷，也不需要存在易受攻击的第三方应用。经过评估的身份变成了 com.google.android.telecomui，而不是发起呼叫的应用身份。</p>
+<p>这一控制机制是在 Android 14 中加入的；在 Android 14 到 16 上，要获得相同的能力，需要使用一种能够绕过 MmiUtils 检查、同时又能在规范化过程中存活下来的载荷。Android 17 似乎堵住了这种规避方式，随后又让这种规避变得不再必要。它所采用的门控机制比 Android 14 提供的机制更弱。</p>
+<p>我于 9 月 14 日单独报告了这一问题。Google 于 9 月 24 日将其以重复问题结案，理由是该问题与 Google 自家一名工程师此前报告的问题重复。我请求将我加入那份报告，但对方告知无法共享，因为那是一份包含机密系统信息的内部漏洞报告——不过，对方表示我的报告描述的是相同的根本原因，即 UserCallActivity 这个中转组件丢弃了原始调用者的身份。</p>
+<p>CALL_PHONE 允许静默语音呼叫，这一点既有文档依据，也具有合理性。但这种授权是否应当扩展到 MMI 执行，则是另一个问题。</p>
+<p>一种狭义的修复方式，是在电话栈执行通过 ACTION_CALL 从一个并非用户所选择的默认拨号器、且并非由直接用户输入触发的应用传入的 MMI 字符串之前，弹出确认提示并显示代码原文。更广泛的修复方式，则是完全将这一能力解耦：保留 CALL_PHONE 用于拨号，同时通过单独命名的专用权限，或通过一个明确且需要确认的 API，对 MMI 执行进行控制——就像 TelephonyManager.sendUssdRequest() 已经采用的方式一样。无论采用哪种方式，都可以消除这条可经由网络触达的路径，而不必依赖每一位开发者修复其深层链接处理逻辑。</p>
+<p>我于 2026 年 9 月 12 日向 Android &amp; Google Devices VRP 报告了 CALL_PHONE/MMI 问题，并于 9 月 14 日补充进行了 Android 17 重测，确认该链路仍然有效。该报告于 9 月 17 日以“不修复（不可行）”结案。对方给出的评估是：这并不是 Android 本身的漏洞，而是 ACR 等第三方拨号器应用未安全处理深层链接所导致的后果；平台层面的加固将被视为未来的改进，而不是针对该问题的修复。</p>
+<p>我不同意这一结论，理由已在上文部分中说明——权限授予并不会告知用户存在执行 MMI 的可能性；如果没有平台层面的改变，该模型的安全性就取决于每一个具备呼叫能力的应用都对其深层链接进行审查，以发现自动拨号路径，而我认为这并不可行。我在回复中再次提出了相同观点。Google 的立场没有改变。至于“已记录该问题，以便未来版本可能进行修复”这句话究竟意味着什么，对方解释道：</p>
+<p>当我们说“已记录该问题，以便未来版本可能进行修复”时，我们的意思是，我们的团队正在研究未来如何改进 Android 平台，以帮助防止第三方应用犯下这类错误。然而，由于这属于整体性的平台改进，而不是针对 Android 漏洞的直接修复，因此我们这边将该报告结案。</p>
+<p>关于我提出的修复措施，对方表示：</p>
+<p>虽然我们同意 Android 平台可以在这一领域得到改进——例如采用你建议的解耦权限或增加用户确认提示——但这类架构变更被视为平台改进，而不是当前操作系统中的安全漏洞。由于该漏洞利用依赖于第三方应用不当暴露其拨号路径，因此仍不属于 Android &amp; Google Devices 漏洞奖励计划的范围。</p>
+<p>我于 10 月 9 日向 ACR Phone 的开发者报告了深层链接问题，并建议在可从外部触达的拨号路径上拒绝 MMI 和 USSD 字符串。</p>
+<p>对方的回应速度远超我的预期。开发者在 48 分钟后作出回复，称修复已提交，将包含在下一版本中，并提供了一个 beta 版本供验证。开发者表示，Play 版本的发布取决于 Google 的审核；他预计审核将在下一周周末前后完成。</p>
+<p>CALL_PHONE 与 MMI 执行</p>
+<p>TelecomUi 中转组件</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>具有 CALL_PHONE 权限的 Android 应用程序除拨打普通电话外，还能够拨打 USSD 和 MMI 代码。</li>
+    <li>MMI 和 USSD 代码由 3GPP 规范定义，其中 MMI 代码在 TS 22.030 中规范，USSD 在 TS 22.090 中规范。</li>
+    <li>来源叙事重点：揭示第三方拨号应用缺陷与Android底层权限机制结合导致的“单次点击执行MMI代码”攻击链，深入分析Android 17特权转移引发的安全回退，并批评Google将平台级权限漏洞归咎于第三方应用并予以“不予修复”的消极态度。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://karansaini.com/mmi-android/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-w-20261009-strtod-html-cf84b61307ef8599" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3987" data-content-paragraphs="12" data-published-at="2026-10-10T05:37:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 13:37</span>
+</div>
+
+### [哎，看来在标准 C 中根本无法可移植地检查字符串转浮点错误](https://sebsite.pw/w/20261009-strtod.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> oh, apparently it&#39;s not possible to portably check for string-to-float conversion errors in standard c</div>
+
+<div class="article-body" data-article-body="true"><p>这算是我上一篇文章的续篇吧，在那篇里我讨论了 math_errhandling 宏，以及 glibc 和 musl 是如何处理数学错误的（以及标准中是如何规范的）。<br />总括来说：math_errhandling 是一个宏，用以指示 math.h 函数支持哪些错误处理机制：errno（MATH_ERRNO）和/或浮点异常（MATH_ERREXCEPT）。<br />我在上一篇文章中有一点没提到：有一族函数虽然不在 math.h 中，但也受到 math_errhandling 的影响，那就是字符串转浮点数函数族 strtod、strtof、strtold、strtod32、strtod64 和 strtod128：<br />“如果正确的值发生溢出且默认舍入有效（7.12.2），则返回正或负 HUGE_VAL、HUGE_VALF 或 HUGE_VALL（取决于返回类型和值的符号）；如果整型表达式 math_errhandling &amp; MATH_ERRNO 非零，则整型表达式 errno 获取 ERANGE 的值；如果整型表达式 math_errhandling &amp; MATH_ERREXCEPT 非零，则引发‘溢出’浮点异常。”<br />“如果结果发生下溢（7.12.2），函数返回一个量级不大于该返回类型中最小的正正规数的值；如果整型表达式 math_errhandling &amp; MATH_ERRNO 非零，errno 是否获取 ERANGE 值由实现定义；如果整型表达式 math_errhandling &amp; MATH_ERREXCEPT 非零，是否引发‘下溢’浮点异常由实现定义。”<br />这些函数的 Linux man 手册上对此完全只字未提，实际上这背后是有原因的，我稍后会讲到。但标准的意思是：如果 math_errhandling 没有声明支持 errno（例如在 musl 上就是这种情况），字符串转浮点函数在出错时就不会设置 errno。此外，如果结果发生下溢，该函数甚至根本不被要求报告错误。<br />请记住，仅凭返回值本身并不足以判断是否发生了错误，因此要测试是否溢出，你必须使用这两种错误处理机制之一。<br />下面是我尝试写出的一种符合标准认可的、可移植地检查字符串转浮点函数溢出/下溢错误的方法：<br />请注意，这仍然无法保证能检测到下溢，因为报告下溢对实现来说完全是可选的。<br />你之所以从未这样做过（以及 man 手册不提及此点的原因），是因为 POSIX 对这些函数的规范有所不同：<br />“如果正确的值超出可表示值的范围，应返回 ±HUGE_VAL、±HUGE_VALF 或 ±HUGE_VALL（取决于值的符号），并将 errno 设置为 [ERANGE]。”<br />“如果正确的值会导致下溢，应返回一个量级不大于该返回类型中最小的正正规数的值，并将 errno 设置为 [ERANGE]。”<br />所以 POSIX 根本不管 math_errhandling 这一套；无论如何，只要发生溢出或下溢，它都要求实现设置 errno。虽然 POSIX 对函数的规范比标准 C 更严格并不罕见，但 man 手册（无论是 strtod(3) 还是 POSIX 规范 strtod(3p)）从未说明这是一项扩展，这一点确实让我感到非常值得注意。<br />POSIX 的这种行为是否甚至与标准 C 兼容……目前尚不明确。至少对于 math.h 函数，无论 math_errhandling 的值如何，允许设置 errno：<br />“如果发生定义域错误、极点错误或范围错误，且整型表达式 math_errhandling &amp; MATH_ERRNO 为零，则 errno 应设置为与错误对应的值，或者保持不变。”<br />但在前面规范 errno.h 时，标准是这样说的：<br />“[...] 无论是否发生错误，库函数调用都可以将 errno 的值设置为非零，前提是在本文件中该函数的描述中未记录 errno 的使用。”<br />但在这些函数的描述中已经记录了 errno，而该描述并未提及在 math_errhandling &amp; MATH_ERRNO 为零时设置 errno。因此，这表明 POSIX 的行为是不符合标准的。<br />但等等！我到目前为止所讨论的一切都仅仅针对溢出和下溢。如果字符串格式错误且无法被解析为数字，那么标准根本没有规定任何错误：<br />“函数返回转换后的值（如果有）。如果无法执行任何转换，则返回正零或无符号零。”<br />相反，你应该使用 endptr 参数，并在之后检查 endptr == nptr（即结束指针与起始指针相同，说明没有解析任何数据）：<br />“如果主体序列为空或不具有预期的形式，则不执行任何转换；如果 endptr 不是空指针，则将 nptr 的值存储在 endptr 所指向的对象中。”<br />man 手册 strtod(3) 中也有类似的说法：<br />“如果未执行任何转换，则返回零，并且（除非 endptr 为空）将 nptr 的值存储在 endptr 引用的位置。”<br />但再看看 POSIX 是怎么说的：<br />“成功完成后，这些函数应返回转换后的值。如果无法执行任何转换，应返回 0，并且 errno 可能会被设置为 [EINVAL]。”<br />“可能（may）”这个词基本上意味着这是由实现定义的。但这影响很大，因为人们通常会通过类似这样的方式来检查错误：<br />strtod(3) 建议正是这样做：<br />“由于成功和失败时都可以合法地返回 0，因此调用程序应在调用前将 errno 设置为 0，然后在调用后通过检查 errno 是否具有非零值来确定是否发生了错误。”<br />但即使对于兼容 POSIX 的 libc，这种做法也是不可移植的！如果无法执行转换，不同的合规 libc 可能会表现出不同的行为。事实上……<br />在 glibc 上，这会打印 0，因为 glibc 的 strtod 从不将 errno 设置为 EINVAL。而在 musl 上，它确实会将 errno 设置为 EINVAL，因此会打印“22”。这在 Linux man 手册中是完全没有记载的。<br />而且在我看来，按照标准，这也不符合标准 C，因为它在一个已经记录了其他错误条件的函数中将 errno 设置为非零值（就标准 C 而言，无效输入并不属于错误条件）。musl 可能会为自己辩护称：因为其 math.h 函数中没有设置 errno，所以 strtod 描述中的 errno 条件不再适用，因此这里不存在记录的 errno 用法（因为 errno 的使用取决于 math_errhandling 的值）。但这显然太牵强了。<br />无论如何，在我看来很明显的是，标准在此处需要更清晰的措辞。<br />纯粹为了好玩，我想在文末总结一份在字符串转浮点函数中检查错误的全部“正确”方法列表，以彻底阐明这一观点：</p>
+<p>如果你的目标平台是 POSIX，在调用前将 errno 设为 0，调用后检查 copysign(result, 1.0) == HUGE_VAL &amp;&amp; errno == ERANGE。</p>
+<p>否则，在调用前将 errno 设为 0 并调用 feclearexcept(FE_OVERFLOW)；如果 copysign(result, 1.0) == HUGE_VAL，则在调用后根据 math_errhandling 的值，检查 errno == ERANGE 或 fetestexcept(FE_OVERFLOW)。</p>
+<p>如果你只针对某一种特定实现，并且事先知道它支持哪种错误报告方式，则可以跳过 math_errhandling 检查，仅支持这两种方式之一。</p>
+<p>如果你使用了 feclearexcept/fetestexcept，请确保编译器知道你可能会访问浮点环境：在 gcc 上相关的编译选项是 -ftrapping-math（这是默认开启的，除非你使用了 -ffast-math）。为此标准还提供了一个指示字：#pragma STDC FENV_ACCESS ON。不过 gcc 并不支持这个 pragma。</p>
+<p>如果你的目标平台是 POSIX，在调用前将 errno 设为 0，调用后检查 result == 0.0 &amp;&amp; errno == ERANGE。</p>
+<p>务必明确检查 errno 是否为 ERANGE，而不仅仅是非零。否则会导致不可移植的行为。</p>
+<p>否则，如果你只针对某一种实现，请查看它是否在文档中说明了 math.h 函数在下溢（underflow）时的行为。该行为属于由实现定义（implementation-defined），因此从技术规范上讲是要求对其编写文档的。但实际上，连 clang 都懒得为其由实现定义的破烂玩意儿写文档，所以别抱太大指望。</p>
+<p>但如果它确实有文档记录，并且会报告下溢错误，那么根据该实现的 math_errhandling 取值，要么在调用前将 errno 设为 0 并在调用后检查 result == 0.0 &amp;&amp; errno == ERANGE，要么在调用前调用 feclearexcept(FE_UNDERFLOW) 并在调用后检查 fetestexcept(FE_UNDERFLOW)。</p>
+<p>否则你就只能认倒霉了（SOL）。</p>
+<p>如果你真的非常需要检查下溢，并且出于某种原因必须使用 libc 函数，这是我能想到的唯一办法：检查 result == 0.0，如果是，则自行检查输入字符串在指数部分之前是否包含任何非零数字。如果有，说明发生了下溢。不过这很难写对；请仔细阅读标准中关于 strtod 等函数的描述，并确保覆盖所有边界情况。</p>
+<p>将 &amp;endptr 作为第二个参数传入函数，然后检查 endptr == nptr。errno 是靠不住的。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 13:37 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sebsite.pw/w/20261009-strtod.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--the-typescript-compiler-a197f1710ee2fd1b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2086" data-content-paragraphs="34" data-published-at="2026-10-10T05:34:40.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 13:34</span>
+</div>
+
+### [为 TypeScript 编译器引入 Go 语言的 defer 语句](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Adding Go&#39;s defer to the TypeScript Compiler</div>
+
+<div class="article-body" data-article-body="true"><p>我想看看将 Go 语言的 defer 语句加入 TypeScript 编译器到底有多难，但当大功告成时，我却坚信这个特性或许根本不该存在。</p>
+<p>在 Go 语言中，defer 语句会推迟函数的执行，直到外层包裹它的函数执行完毕为止。它最常用于将资源获取与清理代码放在一起，比如获取一个信号量：</p>
+<p>TypeScript 没有完全等同于 defer 的机制。你可能会使用 try/finally，比如：</p>
+<p>但这略显丑陋。</p>
+<p>纯粹为了好玩，我们可以给 TypeScript 编译器魔改引入一个 defer 语句，并获得类似 Go 的语义。由于 defer 无法直接映射到现有的 JavaScript 特性，我们需要输出能够让它在运行时像在 Go 中一样工作的 JavaScript 代码。</p>
+<p>因此，我们的目标是能够编写如下形式的 TypeScript 代码：</p>
+<p>TypeScript 编译器（tsc）本质上主要是一个静态分析引擎。其复杂性在于要对一种从根本上动态的语言进行类型检查，并支持极致的增量编译以满足 IDE 中的低延迟预期。</p>
+<p>幸运的是，为了添加我们的 defer 语句，我们并不需要过多担心类型或其他分析。tsc 本身就已经具备了“识别语法 X，并将其替换为等效语法 Y”的基础设施。</p>
+<p>例如，在面向 ES5 编译时：</p>
+<p>可能会变成类似这样的代码：</p>
+<p>从概念上讲，添加 defer 意味着进行另一次语法树重写。tsc 已经执行了大量的 AST 到 AST 的转换（例如，可选链 ?. 会被转换为条件表达式），因此我们无需引入新的工具。</p>
+<p>虽然其中有些深层次的复杂性，但在高层面上，我们将获取带有 defer 的 AST：</p>
+<p>并将其转换为类似这样的形式：</p>
+<p>首先，我们需要让 tsc 的解析器知晓 defer 是一条语句。在语法种类列表中，我们添加了 DeferStatement，并将其定义为接收单个表达式操作数。</p>
+<p>我们需要执行一些检查，例如确保 defer 语句出现在函数体内、确保该表达式是可调用的，并确保 tsc 执行其常规的递归检查：</p>
+<p>实际的转换代码非常冗长，因此与其在这里完整复现，不如让我深入探讨我所做的设计决策，并详细介绍这种转换是如何工作的。</p>
+<p>为了契合 Go 的行为，被调用方、接收者和参数值都会被立即捕获：</p>
+<p>我们必须应对的一种极端情况是可调用方法被重新定义，比如：</p>
+<p>即便 logger.log 稍后被重新赋值，被延迟的调用仍然会调用最初的方法。这符合 Go 的语义，即当执行到 defer 语句时，函数值、接收者和参数都会被立即求值。</p>
+<p>任何包含至少一个 defer 的函数都会获得一个小栈，每个被执行到的 defer 语句都会将一个闭包推入该栈。当函数退出时，该栈会以倒序（后进先出）方式被清空。</p>
+<p>它会被转换为类似这样的代码：</p>
+<p>我没有为 defer await 设计一套全新的语义，而是直接将其视作错误并予以拒绝。我担心用户会误以为 await 会在函数的其余部分运行之前就 resolve。此外，如果外层函数是 async 的，那么每个被延迟的调用在清理阶段都会按顺序被 await 处理。</p>
+<p>清理代码也可能会失败，因此该转换遵循三条规则：</p>
+<p>Go 不需要这种聚合策略，因为普通错误是值。延迟调用的返回值错误不会被处理，除非用户明确决定对其进行处理。而 JavaScript 的异常则是控制流。因此，当编译后的 defer 代码抛出错误时，它必须决定是替换原始失败、与原始失败合并，还是直接忽略转而优先保留原始失败。</p>
+<p>由于 async 函数会将 throw 和被拒绝的 await 都转换为 Promise rejection，因此转换规则需要对同步抛出和异步清理拒绝一视同仁：</p>
+<p>如果 asyncCleanup() 也被拒绝/抛出异常，f() 将会以一个 AggregateError 被拒绝。</p>
+<p>讽刺的是，实现 defer 的过程让我坚信它不属于 TypeScript。</p>
+<p>我处理的边缘情况越多，就越确信 defer 不属于 TypeScript。Go 的 defer 感觉要自然得多，因为错误是值而不是控制流。在 TypeScript 中，一旦清理过程可以抛出或拒绝，你就需要针对聚合、优先级和异步执行制定策略，而这些在 Go 中根本不存在（Go 的 panic 是通过独立的 panic 和 recover 语义处理的）。</p>
+<p>但希望并未破灭。ECMAScript 显式资源管理（Explicit Resource Management）提案正从另一个方向解决相同的问题。</p>
+<p>以之前的 async-sema 为例，无需使用 defer：</p>
+<p>我们可以使用 Disposable：</p>
+<p>我更希望不必定义一个像 _ 这样未使用的变量，但可释放资源的工作机制就是在它们超出作用域时进行清理。</p>
+<p>因此，我更青睐但遗憾目前尚不支持的语法会是：</p>
+<p>你可以在我的 TypeScript fork 的这个分支上找到 defer 的 MVP 实现。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 13:34 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://healeycodes.com/adding-defer-to-the-typescript-compiler" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-icle-no-man-is-an-island-83299127c3afec3e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2393" data-content-paragraphs="22" data-published-at="2026-10-10T01:37:07.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 09:37</span>
+</div>
+
+### [没有人是一座孤岛](https://borretti.me/article/no-man-is-an-island)
+<div class="original-title-sub"><span class="orig-tag">原文</span> No Man Is an Island</div>
+
+<div class="article-body" data-article-body="true"><p>爱德华·霍珀（Edward Hopper），1927年，《自动餐馆》（Automat）局部。</p>
+<p>在本文中，我认为个人的智力活动只有在由其他人类构成的智力共同体中才能得以维系。AI正在瓦解这些共同体，而这反过来又使得个体的智力活动变得愈发罕见。</p>
+<p>几年前，当明确AI将解决软件工程问题时，我的想法是：</p>
+<p>第二点并没有如期实现。实际发生了什么？首先，软件工程的行业讨论环境恶化了。正如我早先所写：</p>
+<p>Claude Code发布至今刚过一年有余。在如此短暂的时间内，软件工程已被彻底重塑。从物质层面来看，它或许是积极的：生产力更高了，尽管代价是代码库变得更加混乱。但从社会层面来看，这是一场灾难。</p>
+<p>围绕软件工程的讨论变得更加愚钝。就好像行业里的每个人都丧失了30点智商。人们过去谈论编译器、类型系统、逻辑。现在他们谈论“提示词”（prompts）、“治理框架”（harnesses）、“循环”（loops）。讨论变得越来越狭隘、浅薄和重复。在我彻底发疯之前，我能忍受听到“智能体测试框架”（agentic harnesses）的次数是有限的。</p>
+<p>其次是人力资本积累的丧失：没有什么可学的内容了。写提示词并不是一项技能，至少相比于软件工程，它是一项浅薄得多的技能。工作在工具层面的维度确实提升了，人们在单位精力投入下可以获得更多产出，但工作中关于积累人力资本的维度却彻底崩溃了。也许这符合理性：既然计算机能替我们做，为什么还要去学编程？于是，为了成为优秀程序员所必须磨砺的严谨、系统的思维方式，全部荡然无存。机器可以替我们保持理性，而我们只需跟着感觉走。</p>
+<p>第二，为软件工程的公共资源做贡献正变得越来越毫无意义。在AI出现之前，你可以发布开源代码，写博客文章分享想法或启发他人，撰写教程、论坛帖子、教材等解释性文本来指导别人。而在AI出现之后，这一切还有什么意义？</p>
+<p>这不仅仅是“你在GitHub上拿不到星标，或者博客没有访问量”的问题；更确切地说，是不再有一种你能够为之做出贡献的人类共同事业感。这里只有你自己代码的私人花园，在AI的帮助下你可以将其向各个方向无限延伸，但你再也不需要离开花园，前往集市与他人交流交易。在这样的环境下，人们很难去在乎什么，也很难去有所作为。</p>
+<p>但这真的重要吗？如果我们不再撰写关于晦涩JavaScript特性的博客文章，不再设计新的编程语言，这真的要紧吗？也许编写代码从来都是苦差事，现在我们可以转向更高阶的事物，比如数学——哦，等等。</p>
+<p>通过观察软件工程发生的变化，以及数学领域目前正在发生的状况，我认为我们可以提炼出一些关于一般智力实践的普适见解。</p>
+<p>我们往往倾向于认为智力活动是私密且孤独的：哲学家坐在扶手椅上，从头开始推演整个世界。但智力活动有两个无法孤立获取的输入要素：一个可供在其基础上继续构建的共享成果库，以及动力。除非你想把整棵科技树重新攀爬一遍，否则共享成果库必然是公共维系的。至于动力，我们可以将其拆解为两个组成部分：</p>
+<p>我们倾向于认为内在动机是最纯粹的：内生的、自我生成的，不求物质或社交利益回报。但它是一种情绪，和所有情绪一样，它是转瞬即逝且短暂的。这也是合乎理性的：否则，我们所有人都会陷入终身无成效的执念之中。因此，我们需要某种东西来填补灵光一闪之间的空白。外在动机正是起到了这一作用。</p>
+<p>想要维持复杂、长期且持续的个人智力活动，需要外部智力共同体提供素材与动力，就像燃料与氧化剂一样。反过来，这种个人活动又维系着共同体：通过发表论文、编写教材、发布代码等，你为共享成果库添砖加瓦，供他人在此基础上继续构建；通过引用他人的论文或向其代码仓库贡献代码，你给予了对方认可与荣誉，肯定了他们工作的价值，进而激励他们继续做出贡献。</p>
+<p>失去了共同体，你得到的并不是各自忙于手头事务的孤立个体，而是化为虚无。智力活动的输入来源枯竭了：没有人再向共享成果库添加内容，也没有同行能从你自身的智力活动中获益。没有了这种外在动机，智力活动就会减少，因为再次重申，内在动机是短暂易逝的。</p>
+<p>在AI之后，智力贡献变得不再必要，甚至显得多余。以软件为例：AI包揽了所有代码的编写，那么无论是编写代码还是撰写文章，其意义何在？受众群体如今已被极度压缩。人类不再编写代码，因此他们不会去阅读关于如何写代码的博客文章，不会看教程，也不会尝试新的函数库或编程语言。以数学为例：AI能够证明定理、撰写论文、解读论文、辅导学生，而在不久的将来，它们甚至可能写出比人类更优秀的整套教科书。那么，撰写论文或教科书的意义何在？它已经多余了。</p>
+<p>如果智力活动变得不再必要——如果设计一门新编程语言或发表一篇论文毫无回响，或者根本没有共同体供你做贡献——那么它就不会发生。这毫无意义。</p>
+<p>现在将这一逻辑推及到智力活动的每一个其他领域，你就能看清未来会是怎样。可能仍有个体在构建新的库和编程语言，但不再有共享的软件工程文化；可能仍有个别的数学学生和从业者，但不再有充满生机的数学家共同体。</p>
+<p>我曾与一些人交流过，他们认为AI对精神生活会产生积极影响，其逻辑在于，目前有太多人是出于功利目的从事智力活动：为了引用量、声望等等。在这种观点看来，智力共同体的崩溃是一件好事，因为它能够将出于内在动机的“超人”与追名逐利的大众区分开来。</p>
+<p>我认为这种观点契合了当代社会的偏见：我们将内在动机与外在动机分别视作高位和低位的象征。一个“心智成熟”的人理应拥有一套私密的、取之不竭的内在动机储备，并且在因果上与外部奖赏完全脱钩。</p>
+<p>但这不是对人类现实的客观看法。人是社会性动物，只有在其他人类构成的社会中才能茁壮成长。我们关心为世界做出贡献，而且我们也应当关心这一点。如果技术让我们的贡献变得多余，那么我们还剩下什么？</p>
+<p>感谢Luke Drago和Andy Matuschak提供的反馈与交流。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 09:37 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://borretti.me/article/no-man-is-an-island" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-facebook-lifeguard-893778a9bdb37671" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3105" data-content-paragraphs="1" data-published-at="2026-10-09T21:44:50.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3171" data-content-paragraphs="33" data-published-at="2026-10-09T21:44:50.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -40,14 +270,45 @@ notice:
 ### [Lifeguard：用于检测 Python 惰性导入兼容性的静态分析器](https://github.com/Facebook/lifeguard)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Lifeguard: A static analyzer for Python lazy imports compatibility</div>
 
-<div class="article-body" data-article-body="true"><p>Lifeguard 是一个静态分析器，旨在检测惰性导入（Lazy Imports）的不兼容性，并降低在 Python 中采用惰性导入的落地成本。<br />这是一款快速的静态分析工具，旨在帮助在 Python 中落地惰性导入。<br />在 Python 中，每条 import 语句在模块加载时都会立即执行。无论该导入是否实际被使用，都会产生这一开销。PEP 810 为 Python 引入了显式惰性导入（Lazy Imports），它会将模块的实际加载推迟到首次访问所导入名称时。惰性导入能够显著减少内存占用、缩短启动时间并降低导入开销，尤其是在具有深层依赖关系树的大型代码库中。<br />然而，某些 Python 编程模式依赖于立即执行导入。例如：<br />改造现有代码库以采用惰性导入可能是一项艰巨的任务，特别是在大规模代码库中。Lifeguard 能够识别这些不兼容的模式，以便你可以放心采用惰性导入。<br />Lifeguard 会并行分析给定项目的 Python 源文件。它遍历每个模块的抽象语法树（AST）以检测副作用，并将与惰性导入不兼容的副作用映射为错误。该分析器采用保守的分析策略：任何无法通过程序确认为可以安全惰性导入的模块，默认都会被标记为不安全。这意味着 Lifeguard 宁可将潜在兼容的模块标记为不兼容，宁可牺牲潜在的性能优化空间以确保生产环境的安全性。<br />有关分析流程和架构的更深入介绍，请参阅 docs/architecture.md。<br />Lifeguard 目前正在积极开发中。我们的目标是在 Python 3.15 正式发布前做好通用支持的准备。<br />Lifeguard 已发布在 PyPI 上，并为 Linux、macOS 和 Windows（x86-64 及 ARM64）提供了预编译 wheel 包。它需要 Python 3.12 或更新版本，且无需 Rust 工具链：<br />python -m lifeguard_lazy_imports 等同于 lifeguard 命令。下文中的 cargo run -- 示例是从源码构建并运行该工具；若使用已安装的安装包，请将 cargo run -- 替换为 lifeguard。PyPI 版本是手动发布的，可能会落后于主分支（main branch）。运行 lifeguard --help 可查看你所安装版本支持的功能。<br />如果你在克隆仓库时未添加 --recurse-submodules 参数，请运行 git submodule update --init --recursive。<br />尝试 Lifeguard 最快捷的方式是使用 run-tree 子命令，它会发现目录下的 .py 文件并追踪可解析的顶层导入。输入根目录下的文件和目录名称必须是 ASCII Python 标识符；其他路径将被跳过。<br />例如，使用随附的示例项目：<br />有关完整的演练说明（包括如何解读输出），请参阅 GETTING_STARTED.md。<br />对于需要更多控制权的大型项目，你可以生成一个源码数据库（source DB）——这是一个向 Lifeguard 提供项目中完整 Python 文件集及其模块路径的 JSON 文件（详见“输入格式”）。请按照以下步骤操作：<br />或者，如果你的项目包含库依赖项，你可以通过在 pyproject.toml 中添加 lifeguard 部分，将 Lifeguard 指向你的 site-packages：<br />你可以通过 python -m site 找到你的 site-packages 路径。gen-source-db 和 run-tree 都会从 &lt;INPUT_DIR&gt;/pyproject.toml 读取该配置节。相对 site_packages 路径会基于 INPUT_DIR 进行解析。你可以使用 --site-packages /path/to/site-packages 覆盖该设置。<br />注意：发现机制仅追踪顶层 import 语句，可能无法发现所有依赖项，例如嵌套在函数中的导入或输入树外部的条件代码块导入。如果 Lifeguard 报告缺失模块，你可能需要手动向生成的源码数据库中添加条目。对于显式惰性语法，请为源码发现和分析同时传入 --python-version 3.15 参数。<br />详细输出示例：<br />在某些模式下，Lifeguard 需要源码数据库——一个将 Python 模块路径映射到其磁盘位置的 JSON 文件。其格式为：<br />你可以使用 cargo run -- gen-source-db 自动生成该文件（参见“运行 Lifeguard”），或手动创建。<br />Lifeguard 会写入一个包含两个字段的 JSON 文件：<br />加上 --verbose-output 参数后，JSON 还会包含 IMPLICIT_IMPORTS（模块到依赖项的映射）和 IMPORT_CYCLES（各个循环中的模块列表）。使用 --sorted-output 可对这些字段进行确定性排序。<br />一个字典，将可安全进行惰性导入的模块映射到必须立即加载（急切导入，eagerly imported）的依赖项列表中。例如：<br />重要提示：未作为键出现在此字典中的模块，已被分析确认为对惰性导入不安全。<br />一个模块集合，其中模块内的所有导入都必须急切加载。对于这些模块，惰性导入实际上被临时禁用了。请注意两者的区别：其他模块仍可以惰性导入属于 LOAD_IMPORTS_EAGERLY 集合的模块，但当该模块自身加载时，其自身的 import 语句必须立即执行，而不能被推迟。<br />该集合仅用于特定的边缘场景：<br />欲了解更多详情，请参阅 docs/load_imports_eagerly.md。<br />Lifeguard 可以作为独立的代码检查工具（linter）使用，用于识别代码库中具体哪些行与惰性导入不兼容。使用 --verbose-output 运行分析器可获取人类可读的报告，其中会显示包含行号的每个模块的错误（参见“运行 Lifeguard”）。这使你可以将 Lifeguard 当作 linter 使用：在 CI 或本地运行它，审查标记的行，并进行修复。通过这种方式，Lifeguard 可作为安全启用惰性导入的指导工具。<br />该 JSON 输出旨在驱动惰性导入加载器的过滤器函数。在 Python 3.15 中，sys.set_lazy_imports_filter() 会安装一个回调函数，用于控制哪些导入被推迟、哪些导入被急切加载。Lifeguard 的输出提供了构建该过滤器所需的数据——使用 LAZY_ELIGIBLE 识别安全模块及其约束条件，使用 LOAD_IMPORTS_EAGERLY 识别需要预先解析所有导入的模块。<br />我们计划在 Python 3.15 发布前提供便于接入 Lifeguard 输出的工具。这项工作正在进行中。<br />Lifeguard 使用 Rust 实现。我们利用 ruff 进行 AST 遍历，并复用了来自 pyrefly 的多个 crate。我们还对 .pyi 存根文件进行了扩展，以标注第三方库中已知的副作用——例如，标记依赖项中某个模块级函数调用具有可观测的行为。这些存根存储在 resources/ 文件夹中。有关副作用标注如何与标准类型存根协同工作的详细信息，请参阅 resources/stubs/stubs.md。<br />通过为 Lifeguard 贡献代码，即表示你同意你的贡献将依照该源码树根目录下的 LICENSE 文件获得许可。</p></div>
+<div class="article-body" data-article-body="true"><p>Lifeguard 是一款静态分析器，旨在检测惰性导入（Lazy Imports）的不兼容性，并降低在 Python 中采用惰性导入的迁移成本。</p>
+<p>一款快速的静态分析工具，助力在 Python 中推广应用惰性导入。</p>
+<p>在 Python 中，每个 import 语句都会在模块加载时立即执行。无论该导入是否被实际使用，都会产生这种开销。PEP 810 引入了针对 Python 的显式惰性导入（Lazy Imports），它将模块的实际加载推迟到首次访问被导入名称之时。惰性导入能够显著降低内存占用、缩短启动时间并减少导入开销，尤其是在具有深层依赖树的大型代码库中。</p>
+<p>然而，某些 Python 编程模式依赖于立即执行的导入。例如：</p>
+<p>改造现有的代码库以使用惰性导入可能是一项艰巨的任务，特别是在大规模场景下。Lifeguard 能够识别这些不兼容的模式，以便你可以放心地采用惰性导入。</p>
+<p>Lifeguard 会并行分析给定项目的 Python 源文件。它遍历每个模块的抽象语法树（AST）以检测副作用（effects），并将与惰性导入不兼容的副作用映射为错误。该分析器采取保守的分析策略：任何无法通过程序化方式确定可安全进行惰性导入的模块，默认都会被标记为不安全。这意味着 Lifeguard 宁可将潜在兼容的模块标记为不兼容，宁愿放弃潜在的性能优化空间，也要优先保证生产环境的安全性。</p>
+<p>关于分析流水线和架构的深入解析，请参见 docs/architecture.md。</p>
+<p>Lifeguard 目前正处于积极开发阶段。我们的目标是在 Python 3.15 正式发布前做好面向大众广泛使用的准备。</p>
+<p>Lifeguard 已发布至 PyPI，并为 Linux、macOS 和 Windows（x86-64 及 ARM64）提供了预构建的 wheel 包。它需要 Python 3.12 或更高版本，且无需 Rust 工具链：</p>
+<p>python -m lifeguard_lazy_imports 等同于 lifeguard 命令。下方的 cargo run -- 示例用于从源码构建和运行该工具；如果使用已安装的软件包，只需将 cargo run -- 替换为 lifeguard。PyPI 版本是手动发布的，可能落后于主分支。运行 lifeguard --help 可查看当前安装版本所支持的功能。</p>
+<p>如果你在克隆仓库时未包含 --recurse-submodules，请运行 git submodule update --init --recursive。</p>
+<p>尝试 Lifeguard 最快的方法是使用 run-tree 子命令，该命令会发现指定目录下的 .py 文件并跟踪可解析的顶级导入。输入根目录下的文件和目录名称必须是 ASCII Python 标识符；其他路径将被跳过。</p>
+<p>例如，使用随附的示例项目：</p>
+<p>有关完整的演练操作（包括如何解读输出），请参见 GETTING_STARTED.md。</p>
+<p>对于需要更多控制权的大型项目，你可以生成一个源码数据库（source DB）——这是一个向 Lifeguard 声明项目中完整 Python 文件集及其模块路径的 JSON 文件（详见“输入格式”）。请按照以下步骤操作：</p>
+<p>（可选）如果你的项目依赖第三方库，可以通过在 pyproject.toml 中添加 lifeguard 配置段，将 Lifeguard 指向你的 site-packages：</p>
+<p>你可以通过 python -m site 查找到 site-packages 路径。gen-source-db 和 run-tree 都会从 /pyproject.toml 读取该配置段。相对的 site_packages 路径会基于 INPUT_DIR 进行解析。你可以通过 --site-packages /path/to/site-packages 覆盖此设置。</p>
+<p>注意：文件发现过程遵循顶级 import 语句，可能无法发现所有依赖项，例如函数内嵌套的导入或位于输入目录树之外的条件分支中的导入。如果 Lifeguard 报告缺少模块，你可能需要手动向生成的源码数据库中添加条目。对于显式惰性语法，请向源码发现和分析过程均传递 --python-version 3.15 参数。</p>
+<p>详细输出示例：</p>
+<p>在某些模式下，Lifeguard 需要一个源码数据库（source DB）——一个将 Python 模块路径映射到其磁盘位置的 JSON 文件。其格式为：</p>
+<p>你可以使用 cargo run -- gen-source-db 自动生成该文件（参见“运行 Lifeguard”），或者手动创建。</p>
+<p>Lifeguard 输出一个包含两个字段的 JSON 文件：</p>
+<p>若使用 --verbose-output 参数，JSON 中还会包含 IMPLICIT_IMPORTS（模块到依赖项的映射）和 IMPORT_CYCLES（各个循环导入中的模块列表）。使用 --sorted-output 可确保这些字段以确定性顺序排列。</p>
+<p>一个字典，将可安全进行惰性导入的模块映射到必须进行及早导入（eagerly imported）的依赖项列表中。例如：</p>
+<p>重要提示：未在此字典键中出现的模块，在分析中均被视为对惰性导入“不安全”。</p>
+<p>一个模块集合，其中模块内部的所有导入都必须及早加载。对于这些模块，惰性导入实际上被暂时禁用了。注意这一区别：其他模块仍然可以惰性导入属于 LOAD_IMPORTS_EAGERLY 集合中的模块，但当该模块自身加载时，其内部的 import 语句必须立即执行，而不能被推迟。</p>
+<p>该集合仅用于特定的极端情况：</p>
+<p>有关更多详细信息，请参见 docs/load_imports_eagerly.md。</p>
+<p>Lifeguard 可以作为独立的代码检查器（linter）使用，以识别代码库中哪些特定行与惰性导入不兼容。使用 --verbose-output 运行分析器可获得人类可读的报告，按模块显示带有行号的错误信息（参见“运行 Lifeguard”）。这使你能够将 Lifeguard 像 linter 一样使用：在持续集成（CI）或本地运行它，审查被标记的代码行，并进行修复。通过这种方式，Lifeguard 可作为安全启用惰性导入的指南。</p>
+<p>该 JSON 输出旨在为惰性导入加载器的过滤函数提供支持。在 Python 3.15 中，sys.set_lazy_imports_filter() 会安装一个回调函数，用于控制哪些导入被推迟、哪些导入被及早加载。Lifeguard 的输出提供了构建此过滤器所需的数据——使用 LAZY_ELIGIBLE 识别安全模块及其约束，并使用 LOAD_IMPORTS_EAGERLY 识别需要预先解析所有导入的模块。</p>
+<p>我们计划在 Python 3.15 发布之前提供工具，以便轻松接入 Lifeguard 的输出。这项工作目前正在推进中。</p>
+<p>Lifeguard 采用 Rust 实现。我们利用 ruff 进行 AST 遍历，并复用了来自 pyrefly 的若干 crate。我们还对 .pyi 存根文件进行了扩展，以标注第三方库中已知的副作用——例如，标记依赖项中某个特定的模块级函数调用具有可观察到的行为。这些存根文件存储在 resources/ 目录下。有关副作用注解如何与标准类型存根配合工作的详细信息，请参见 resources/stubs/stubs.md。</p>
+<p>为 Lifeguard 贡献代码即表示你同意你的贡献将遵循本源码树根目录下的 LICENSE 文件进行许可。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Lifeguard 是一个用于检测 Python 惰性导入（Lazy Imports）不兼容性并降低采用开销的静态分析工具。</li>
-    <li>PEP 810 向 Python 引入了显式惰性导入（explicit Lazy Imports），可将模块的实际加载延迟至首次访问导入名称时。</li>
-    <li>来源叙事重点：介绍 Meta (Facebook) 开源的 Rust 静态分析工具 Lifeguard，强调其通过保守的 AST 副作用分析，帮助大型 Python 代码库安全平滑迁移并适配 PEP 810 惰性导入（Lazy Imports），以配合 Python 3.15 特性降低启动与内存开销。</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 05:44 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -61,7 +322,7 @@ notice:
 
 :::cell
 <div id="story--into-branches-on-risc-v-d8bcf9ea385821dc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2255" data-content-paragraphs="46" data-published-at="2026-10-09T19:31:17.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2184" data-content-paragraphs="1" data-published-at="2026-10-09T19:31:17.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -73,52 +334,7 @@ notice:
 ### [无分支代码中的分支指令](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Branches in branch-free code</div>
 
-<div class="article-body" data-article-body="true"><p>这里有一个将两个无符号 128 位整数相加的完整 C 语言函数：</p>
-<p>现在让我们将其针对 32 位 RISC-V 进行编译：</p>
-<p>你可以在 Compiler Explorer 上查看输出，同时还可以看到用 GCC 编译的版本以及稍后我们将探讨的启用了 Zicond 扩展的版本。</p>
-<p>以下是相关的代码片段：</p>
-<p>等等，加法运算中为什么会出现一条 beq 指令？那可是条件分支指令，对吧？</p>
-<p>这就是编译后的代码执行加法的方式；a0 和 b0 是我们输入的最低 32 位字；a1 和 b1 是接下来的部分。所有值都是无符号的，low32() 仅保留最低 32 位，比较操作返回 0 或 1。</p>
-<p>你能猜到为什么要检查 sum1 == b1 吗？</p>
-<p>像 x86 和 AArch64 这样的 CPU 拥有执行条件传送（cmov）的指令，允许在不使用分支的情况下实现进位传递。</p>
-<p>但在 RV32 上，即使只是用 &lt; 比较两个 64 位整数，也会生成一个分支。</p>
-<p>我们一直在讨论大整数中的进位传递，但如果你写过常数时间（constant-time）代码，你可能在各个地方都用过类似下面这种实现：</p>
-<p>如果 bit 的最低位被置位，mask 将全为 1，因此该表达式会保留 a 并将 b 清零。否则，mask 为零，我们将得到 b。</p>
-<p>这全都是位运算，源代码中没有分支。</p>
-<p>让我们用 clang 23 针对 RV32 编译这段代码：</p>
-<p>啊啊啊啊啊啊，一条 beqz 指令，正在根据我们刚刚掩码过的位进行分支跳转。精心用位运算编写选择逻辑的努力全都白费了。</p>
-<p>而且这种情况在 64 位 RISC-V 上同样会发生。</p>
-<p>你可以在 Compiler Explorer 上查看编译后的代码，其中包含了这两个目标架构，以及用于对比的 clang 17、GCC 和 Zicond。</p>
-<p>为什么包含 clang 17？因为分支在版本 15 中存在，在 16 和 17 中消失了，然后从 18 到 23 又回来了。有意思吧？</p>
-<p>因此，即使你在某个特定的编译器版本下审查了汇编代码且一切看起来都没问题，编译器版本或编译器标志的每一次变动都需要重新进行审查。</p>
-<p>让我们尝试用 Zig 编写 128 位加法，以及同样的位掩码选择：</p>
-<p>第二个字之后出现了相同的 beq，并且选择逻辑也生成了相同的 beqz（Compiler Explorer 代码）。</p>
-<p>更换源语言并不能让我们摆脱这个问题。是的，Rust 也存在同样的问题。</p>
-<p>现在让我们针对其他几个目标架构编译 C 语言示例。</p>
-<p>我还添加了一个 64 位 a &lt; b 的比较，因为这足以在 RV32 上生成分支。</p>
-<p>以下是 clang 23 在 -O2 优化级别下生成的条件分支和条件返回指令的数量。</p>
-<p>像往常一样，所有内容都可以在 Compiler Explorer 上进行验证：</p>
-<p>结果为零的目标架构是安全的。其他所有架构尽管源代码看起来是以常数时间运行，却都存在糟糕的侧信道漏洞。</p>
-<p>WebAssembly 拥有一条 select (cmov) 指令，因此在模块中看不到明显的条件跳转，但随后 WebAssembly 编译器可以为所欲为。在没有等效原生指令的平台上，我们很可能会得到一个跳转。</p>
-<p>Cortex-M0 (Thumb-1) 和通用 32 位 PowerPC 没有类似 cmov 的指令，因此它们会生成分支。</p>
-<p>现在带来一个惊喜：GCC 16.1 在 RISC-V 上编译这两个示例时都没有生成分支。它的进位使用 sltu 指令，并且保留了掩码算术运算未被改动。</p>
-<p>很酷。但是让我们做一个小小的改动：通过比较操作来推导掩码。</p>
-<p>然后……分支又回来了！</p>
-<p>GCC 现在在 RV32 和 RV64 上都会生成一条 bgeu 指令（Compiler Explorer）。它在 RV32 上的 64 位比较中也会生成分支。</p>
-<p>对于位掩码示例，有一个常见的变通方法：在使用掩码之前将其传递给一个空的 asm 语句。让我们尝试一下：</p>
-<p>该汇编代码什么都没做，但其声明告诉编译器它可能会修改 mask。</p>
-<p>现在，这两个版本在 RV32 和 RV64 上的编译都没有产生分支。呼，松了一口气。</p>
-<p>我们能对加法做同样的处理吗？</p>
-<p>这两种尝试都可以在 Compiler Explorer 上找到。</p>
-<p>坦率地说，我不会依赖任何一种内存屏障实验来作为加法的修复方案。</p>
-<p>目前，clang 23 保持了我手写的进位链没有分支，但谁知道在接下来的发布版本中会发生什么呢。</p>
-<p>不过，对于 RISC-V 来说有一个解决方案：RISC-V 有一个名为 Zicond 的扩展。</p>
-<p>让我们通过 -march=rv32imac_zicond 启用它，并再次编译我们的位掩码示例：</p>
-<p>太棒了，没有跳转。在启用 Zicond 的情况下，上面测试的每一个案例都没有分支。</p>
-<p>Zicond 是 RVA23 规范的一部分，但不幸的是，如今使用的许多内核并没有实现它，尤其是微控制器。</p>
-<p>而且即使它可用，也有一个很容易被忽视的重要细节：Zicond 规范仅在同时实现了 Zkt 扩展的情况下，才保证它们的执行时间与数据无关。</p>
-<p>编写安全、可移植的代码非常困难。防范侧信道攻击就像清理秘密数据一样容易搬起石头砸自己的脚。</p>
-<p>哦，如果你还没读过的话，Thomas Pornin 的《为什么需要常数时间密码学？》以及《常数时间乘法》页面绝对值得一读。</p></div>
+<div class="article-body" data-article-body="true"><p>这里有一个将两个无符号 128 位整数相加的完整 C 函数：<br />现在让我们针对 32 位 RISC-V 进行编译：<br />你可以在 Compiler Explorer 上查看输出，旁边还附带了使用 GCC 以及下文将探讨的 Zicond 扩展进行编译的版本。<br />以下是相关的代码片段：<br />等等，加法里为什么会出现 beq？那是条件分支指令，对吧？<br />编译后的代码就是这样执行加法的；a0 和 b0 是我们输入的最低 32 位字；a1 和 b1 是随后的字。所有值均为无符号，low32() 仅保留最低 32 位，比较操作返回 0 或 1。<br />你能猜到为什么要检查 sum1 == b1 吗？<br />x86 和 AArch64 等 CPU 拥有执行条件移动（cmov）的指令，允许在不使用分支的情况下实现进位传递。<br />但在 RV32 上，甚至用 &lt; 比较两个 64 位整数都会产生分支。<br />我们一直在讨论大整数中的进位传递，但如果你写过常数时间（constant-time）代码，你大概在所有地方都用过类似下面这样的某种实现：<br />如果 bit 的低位为 1，mask 就全为 1，因此该表达式保留 a 并将 b 清零。否则，mask 为零，我们得到 b。<br />纯粹的按位运算，源码中没有任何分支。<br />让我们用 clang 23 为 RV32 编译这段代码：<br />啊啊啊啊啊啊啊，一条 beqz 指令，正在对我们刚刚掩码过的位进行分支跳转。精心编写的按位选择操作就这么白费了。<br />这种情况在 64 位 RISC-V 上同样会发生。<br />你可以在 Compiler Explorer 上查看编译后的代码，其中包含这两个目标架构，以及用于对比的 clang 17、GCC 和 Zicond。<br />为什么要包含 clang 17？因为该分支在版本 15 中存在，在 16 和 17 中消失，而在 18 到 23 中又卷土重来了。真有意思，不是吗？<br />因此，即使你在某个特定的编译器版本下审查了汇编代码且一切看起来都没问题，编译器版本或编译器标志的每一次变动都需要重新进行审查。<br />让我们尝试用 Zig 编写 128 位加法，以及相同的位掩码选择操作：<br />第二个字之后出现了相同的 beq，选择操作也变成了相同的 beqz（Compiler Explorer 代码）。<br />更换源码语言并不能帮我们摆脱这个问题。是的，Rust 也存在同样的问题。<br />现在让我们为其他几个目标架构编译 C 语言示例。<br />我还添加了一个 64 位的 a &lt; b 比较，因为这足以在 RV32 上生成分支。<br />以下是 clang 23 在 -O2 优化级别下生成的条件分支和条件返回指令的数量。<br />和往常一样，所有内容都可以在 Compiler Explorer 上进行验证：<br />计数为零的目标架构是安全的。其他所有架构尽管源代码看起来像是常数时间运行，实际上都存在难缠的侧信道风险。<br />WebAssembly 拥有一条 select (cmov) 指令，因此在模块中看不到明显的条件跳转，但 WebAssembly 编译器随后可以做任何它想做的事。在没有等效原生指令的平台上，我们很可能会得到一个跳转。<br />Cortex-M0 (Thumb-1) 和通用 32 位 PowerPC 没有类似 cmov 的指令，因此它们会产生分支。<br />现在出现了一个令人愉快的惊喜：GCC 16.1 在 RISC-V 上编译这两个示例时都没有分支。它的进位使用 sltu，并且对掩码算术运算保持原样。<br />很酷。但让我们做个小改动：从比较操作中推导掩码。<br />然后……分支又回来了！<br />GCC 现在在 RV32 和 RV64 上都生成了 bgeu（Compiler Explorer）。它在 RV32 上的 64 位比较中也会生成分支。<br />对于位掩码示例，有一个常见的变通方案：在使用掩码之前将其通过一个空的 asm 语句传递。让我们这样做：<br />该汇编不执行任何操作，但它的声明告知编译器它可能会更改 mask。<br />现在，两个版本在 RV32 和 RV64 上编译时都没有分支了。呼，总算松了口气。<br />我们能对加法做同样的操作吗？<br />两次尝试都在 Compiler Explorer 上。<br />坦白讲，对于加法，我不会依赖任何一种内存屏障实验作为修复方案。<br />目前，clang 23 保持了我手写的进位链无分支，但谁知道在接下来的版本中会发生什么。<br />不过，对于 RISC-V 来说是有解决方案的：RISC-V 有一个名为 Zicond 的扩展。<br />让我们使用 -march=rv32imac_zicond 启用它，并再次编译我们的位掩码示例：<br />太棒了，没有跳转。在启用 Zicond 的情况下，上面测试的每种情况都没有分支。<br />Zicond 是 RVA23 配置文件的一部分，但不幸的是，当今使用的许多核心并没有实现它，特别是微控制器。<br />即使它可用，也有一个容易被忽视的重要细节：Zicond 规范仅在同时实现了 Zkt 扩展的情况下，才保证其执行时间与数据无关。<br />编写安全、可移植的代码非常困难。防范侧信道就像清除敏感数据（zeroing secrets）一样容易引火烧身（footgunish）。<br />噢，如果你还没读过的话，Thomas Pornin 的《为什么需要常数时间密码学？》以及《常数时间乘法》页面绝对值得一读。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -137,42 +353,25 @@ notice:
 :::
 
 :::cell
-<div id="story-g-vectorized-clz-and-ctz-a12b3630fb71b650" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1724" data-content-paragraphs="18" data-published-at="2026-10-09T17:45:44.000Z" data-time-source="publication">
+<div id="story-oads-release-python-3150-96eff79c1b7bf812" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1148" data-content-paragraphs="1" data-published-at="2026-10-09T17:07:02.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-10 01:45</span>
+  <span class="news-meta-time">🕒 2026-10-10 01:07</span>
 </div>
 
-### [向量化 CLZ 与 CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Vectorized CLZ and CTZ</div>
+### [要闻：Python 3.15.0 是 Python 编程语言的最新主要版本](https://www.python.org/downloads/release/python-3150/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Python 3.15.0</div>
 
-<div class="article-body" data-article-body="true"><p>clz 和 ctz 是用于计算固定大小整数中前导（或末尾）零位数量的指令。现代 CPU 对其提供原生支持，但它们并不总是很快，例如 tzcnt 在 Arrow Lake 架构上的延迟为 3 个周期。</p>
-<p>我在正在开发的一个 FPU 模拟器中使用了 ctz，后来找到了通过浮点数黑魔法来避开它的方法，并且刚刚意识到，这种方法以一种曲折的方式可以推广为可向量化的 ctz 垫片（polyfill）实现。为了完整性，我也实现了 clz。</p>
-<p>我们先从两者中较容易的 clz 开始：</p>
-<p>基本思路如下：</p>
-<p>浮点数的阶码（指数）是其数值带有偏移量的对数。通过将一个 32 位数字 x 代入某个值 2^k 的尾数中，我们得到一个表示 2^k(1+2^-52 x) 的双精度浮点数（double）。然后我们可以将其作为一个双精度浮点数减去 2^k，得到 2^(k-52)x。提取其阶码即可得到 k-52+31-clz(x)，由此便可以通过按位减法计算出 clz。据此，可以选择合适的 k，使得 clz 在 x=0 时也能表现正确。</p>
-<p>我们需要 64 位双精度浮点数来处理 32 位输入；遗憾的是，这意味着该技巧无法适用于任意 64 位输入，最高只能支持到 52 位。</p>
-<p>假设输入和输出存储在 u64x4 中，它会编译为：</p>
-<p>在我的 Haswell 机器上，每次迭代耗时 0.45 纳秒，而标量版本为 1 纳秒。在受延迟约束的情况下，数字上升到 2 纳秒对 1 纳秒（但如果你在向量化 ctz 上受限于延迟，那你大概率做错了什么）。</p>
-<p>Ian Qvist 在 Alder Lake 上对其进行了测试（感谢！），得到的结果是每次迭代 0.29 纳秒（标量版本为 0.85 纳秒），在受延迟约束时为 1.3 纳秒对 0.85 纳秒。在现代 Intel CPU 上，数据应该相当或更好。</p>
-<p>AMD CPU 使得 lzcnt 开销极低，因此标量版本可能会胜出。不过请记住，Zen CPU 支持包含 vplzcntd 指令的 AVX-512，因此这也是一个选择。</p>
-<p>我们首先使用 x⊕(x−1) 隔离出最低的置 1 位。ctz 等于该值的对数，我们通过按位加上 2^k，然后作为双精度浮点数减去 2^k 来确定它，接着检查阶码——在精心挑选 k 的情况下，阶码中就包含无偏的 ctz。我们在尾数中预混入 2^32，并用 x+2^32−1 替代 x−1 以正确处理 x=0 的情况；同时在尾数中预混入 1，以确保奇数 x 产生 a=0 而非缓慢的次正规数（subnormal）。（你能想象我花了多少时间调配这些吗？）</p>
-<p>该函数编译为：</p>
-<p>在 Haswell 上，每次迭代耗时 0.49 纳秒，受延迟约束时为 2.3 纳秒。在 Alder Lake 上，每次迭代耗时 0.35 纳秒，受延迟约束时为 1.3 纳秒。与 clz 相比的速度下降是因为多用了一条指令。如果有 AVX-512 支持，可以通过使用 vpternlogq 来避免这一开销，不过到那个时候，你还不如直接对 (x - 1) &amp; !x 运行 vpopcntd。标量版本的表现与 clz 没有区别。</p>
-<p>Nikolay Malkovsky 指出，德布鲁因序列（de Bruijn sequences）提供了另一种可向量化的方案。经过一些测试后，我得出了以下代码：</p>
-<p>我们不能使用真正的 32 字节查找表（LUT），因为 vpshufb 指令无法跨越 16 字节通道（lane）。我采用的替代方法有点难以解释，但本质上我们使用重复两次的 16 位德布鲁因序列来计算 ctz 的第 0 到 3 位，然后根据哪一半为零加上 16 或 32。0xf0a6f0a7 是使该方法奏效的仅有的四个魔数常数之一。</p>
-<p>在 Haswell 上这需要 1 纳秒（在 Alder Lake 上为 0.7 纳秒），但具有两倍的吞吐量，因此如果它有助于避免洗牌操作（shuffling），可能会比基于浮点数的方法稍快一些。</p>
-<p>如果你不需要处理 x=0 的情况（或者希望 ctz(0) 为 0 而不是 32），使用</p>
-<p>可以将时间降低到 0.82 纳秒。</p></div>
+<div class="article-body" data-article-body="true"><p>发布日期：2026年10月9日<br />Python 3.15.0 是 Python 编程语言的最新主要版本。与 Python 3.14 相比，该版本包含诸多新特性与优化，凝聚了来自 1,012 位贡献者的 5,643 次提交。<br />Python 3.15 的部分主要新特性与变更包括：<br />关于 Python 3.15 变更的更多详细信息，请参阅《Python 3.15 新特性》（What’s new in Python 3.15）。<br />该问题源于 macOS 27.0 中的一项操作系统行为变更，据信该变更会影响 Tk 图形工具包的所有当前版本，进而波及所有当前 Python 版本中的 tkinter 模块。<br />如果您在 macOS 上依赖基于 Tk 的应用程序（例如 IDLE），您不妨考虑推迟安装 macOS 27.0，直到出现针对 Tk 或 macOS 的变通解决方案，或者先行测试确认您的应用程序工作流程未受影响。请关注 issue #158053 以获取最新进展。<br />为了庆祝全新的 3.15 版本，巴里·华沙（Barry Warsaw）为我们准备了一份礼物！<br />“我萌生了一个想法，想迅速制作一个小巧的 TUI（终端用户界面）文字冒险游戏，带大家领略 Python 3.15 的新特性。在此向大家隆重推出‘whatsnewt’：<br />一款体验 Python 3.15 新特性的 TUI 文字冒险游戏。<br />你在解释器内部某处的‘启动门厅’醒来，一路探索走向‘发布之门’。沿途设有 18 个谜题，每一个都对应着你必须实际操作使用的真实 3.15 特性。你不仅仅是在回答枯燥的问题，而是真正在 Python 3.15 解释器中编写并运行代码。<br />部分谜题需要类型检查器，在这些情况下，答案将由 pyrefly 进行验证（它正是出于这一原因被引入作为依赖项），判定结果将直接引用它的反馈信息。<br />体验该游戏最简便的方式是运行：<br />uvx --python 3.15 whatsnewt<br />没错，里面还有彩蛋。”<br />感谢所有帮助促成 Python 开发及这些版本发布的众多志愿者！请考虑通过亲自参与志愿服务，或通过机构向 Python 软件基金会（Python Software Foundation）进行捐赠来支持我们的工作。<br />衷心感谢 Georgi Ker 和 Marie Nordin 为 Python 3.15 设计徽标！<br />同时，也极其感谢主权技术局（Sovereign Tech Agency）通过主权技术奖学金资助雨果·范·凯梅纳德（Hugo van Kemenade）担任 Python 3.14 和 3.15 的版本发布经理。<br />下载 macOS 安装程序<br />下载 Python 安装管理器<br />下载 XZ 压缩源码包</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 01:45 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 01:07 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -182,185 +381,43 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://purplesyringa.moe/blog/vectorized-clz-and-ctz/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.python.org/downloads/release/python-3150/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-blog-primes-6ab67a38776ef880" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6425" data-content-paragraphs="26" data-published-at="2026-10-09T14:30:28.000Z" data-time-source="publication">
+<div id="story-o-substitute-for-the-nhs-47c6f8b679d438f6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="380" data-content-paragraphs="3" data-published-at="2026-10-09T16:13:09.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 22:30</span>
-</div>
-
-### [四款定理证明器的故事，或者：对 Isabelle/HOL、Lean、HOL4 和 Agda 的（相对）主观对比](https://blueberrywren.dev/blog/primes/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda</div>
-
-<div class="article-body" data-article-body="true"><p>在本文中，我将在对“公平性”稍作考量的前提下，对 Lean、Isabelle/HOL、Agda 和 HOL4 进行对比。</p>
-<p>上述四者均为定理证明应用程序；也就是说，它们的目标是对数学进行计算机形式化。广义而言，Lean 和 Agda 都是基于依赖类型的系统，利用柯里-霍华德对应（Curry-Howard correspondence）通过复杂的类型系统来证明定理；而 Isabelle/HOL 和 HOL4 则是 LCF 风格的系统，拥有一个包含基本规则（例如 forall x, x = x）的小型“证明内核”，所有证明都必须通过该内核构建。这两种基础架构各有利弊，下文将对此展开讨论。</p>
-<p>我在这四款工具中均形式化了素数无限性的证明；即这一命题：“对任意数 n，存在大于 n 的素数”。形式化实现的具体证明是欧几里得的“经典”构造法，如果你想了解，可以在维基百科上找到；参见此处。</p>
-<p>所有证明在结构上大体相似（基本上是这样，我们稍后会讲到），因此带来差异的是用户体验。为了透明起见，在进行本次实验之前，我最熟悉的是 Isabelle/HOL 和 Agda，而 HOL4 和 Lean 则在某种程度上是在撰写本次评测的过程中学习的。</p>
-<p>接下来是一系列主观观点和一些略显随意的分类标准。请不要指望这是一篇客观中立的评测。如果你只想看证明对比，请直接跳到“证明对比”（Proof Comparisons）；如果你只是想看更多观点，请阅读下文然后跳到“主观排名”（Arbitrary Rankings）。我们先从观点开始。</p>
-<p>我并不声称以下任何一个证明是完美的！老实说，它们可能相当平庸。</p>
-<p>我们可以从几个维度对这些定理证明器进行归类。我们有上述提到的：</p>
-<p>推理机制：Isabelle/HOL 和 Lean 都会在用户输入时提供“实时更新”，其结构化证明可以通过按“向下箭头”键逐行浏览，以查看中间步骤。相比之下，完成后的 HOL4 和 Agda 证明都以完全组装好的项（terms）存在，如果你想检查其内部细节，必须手动将其拆解。当然，HOL4 和 Agda 都可以随时向你展示当前状态和相关信息。</p>
-<p>Isabelle/HOL 拥有 sledgehammer，它可以调用许多外部证明生成方法（SAT/SMT 求解器、各种一阶逻辑求解器等）。对于任何看似可行但令人繁琐的目标，sledgehammer 都有很大几率能够解决它——这非常好，因为它节省了你的工作量，但它生成的证明也晦涩难懂，这可能并不理想。HOL4 也有一个名为 HolyHammer 的等价工具，但我直到写这篇文章后才意识到它的存在。好吧。Isabelle/HOL 和 HOL4 都对许多自动简化和证明方法提供了极好的支持，例如在尝试处理复杂假设时，这些方法非常有用。如果没有自动简化功能介入将所有内容切分规约，往往很难看出下一步该如何进行。</p>
-<p>Lean 具有不错的自动化能力，但尚未达到 Isabelle/HOL 或 HOL4 的水平。它的 simp 效率远没有那么高，虽然 grind 是一种非常精妙的方法，有时可以与 sledgehammer 媲美，但出于某些我无法理解的原因，很多时候它完全派不上用场。sledgehammer 和 grind 都是全有或全无的；如果它们无法解决目标，就不会产生任何进展。这与（这三者中均有的）simp 或更专用的工具如 auto（Isabelle/HOL）或 gvs（HOL4）形成鲜明对比，后者可以取得一定进展，并将上下文留在（理想情况下）更好的状态。Lean 缺乏同样优秀的局部自动化功能，这有点可惜，因为根据我的经验，这实际上才是更重要的。值得注意的是，Lean 和 Isabelle/HOL 都提供了 try 功能（在 Isabelle/HOL 中，有包含/不包含 sledgehammer 的 try/try0；在 Lean 中，有 try?/exact?/rw?），它们会尝试使用各种自动化方法和直接求解来“碰碰运气”。据我所知，HOL4 没有类似的等价工具，这很遗憾，因为该功能相当实用。</p>
-<p>Agda 基本上没有自动化功能。你所能获得的唯一简化就是基于函数输入所能计算出的结果。坦率地说，这有点糟糕。推进工作变得非常困难，因为必须考虑到大量的手动调整。我个人并不喜欢这种方式。</p>
-<p>Isabelle/HOL 和 HOL4 在基础上都极其偏向经典逻辑，这意味着它们接受排中律（∀ P. ¬P ∨ P），并且两者都将希尔伯特的 epsilon 算子公理化，这也引出了选择公理。这似乎对自动化求解器产生了非常正面的影响，因为自动化求解器经常依赖诸如双重否定消除（¬¬P --&gt; P）之类的定律，而这等价于排中律。Lean 在理论上是构造性的（因此默认没有排中律），但其部分“优秀”的证明自动化需要排中律，而且在 Lean 社区中使用经典逻辑似乎是常态，所以我也是这么做的。例如，grind 就直接假设你使用了经典逻辑。这确实存在一个缺点，即 Lean 在处理例如存在量词等方面表现没那么好。</p>
-<p>Agda 默认是构造性的，而且在 Agda 世界中，保持证明的构造性似乎是常态，因此我也是这么做的。这样做的一大优势是，在证明了存在无穷多个素数之后，我实际上可以生成它们！我可以给我的证明输入一个数字，它就会吐出一个大于该数字的素数。缺点是，这样做速度慢得可怕：</p>
-<p>如果你看了上面的证明结构，这也许就说得通了；我们考虑的是 (n + 1)! + 1，因此在该证明内部，它正在对约 360,000 左右的数字检查素数性质；这显然会有点慢。需要指出的是，这种构造法本就不是为了追求速度，但它也是最自然的一种构造。放弃排中律和良好的证明自动化是否值得？由你来决定。</p>
-<p>我个人更偏向 LCF，因为它似乎更易于实现自动化，而且我认为保留证明项没有什么意义（经典逻辑太有用了！）。如果你强烈反对这一点，请发邮件至 contact AT blueberrywren.dev 与我联系，如果我觉得你的论点足够有说服力，我会将其发布在这里。</p>
-<p>Lean 和 Isabelle/HOL 均以交互式方式进行操作。Lean 支持其他编辑器的模式，但强烈推荐使用 VSCode；而 Isabelle/HOL 拥有自己的编辑器（jEdit），实际上也强制要求使用它。这没什么不好；我理解他们为什么这么做，因为交互式开发很难做到完全通用。它们两者的体验都很流畅。</p>
-<p>HOL4 是通过 Emacs 模式或 Vim 模式进行交互的，利用快捷键允许用户在正在运行的 HOL4 REPL 之间复制文本。这听起来很古怪，因为事实确实如此，但它的运行效果出奇地好。我原本就是 Emacs 用户，所以对我来说并没有什么改变。</p>
-<p>Agda 也是通过 Emacs 模式进行交互的，但所有操作都发生在你的文件内；你可以使用快捷键刷新状态、添加证明目标等。它的体验也还不错。</p>
-<p>如上所述，Lean/Isabelle/HOL 方案的优势在于可以查看正在进行中的证明状态，而 Agda 则无法做到这一点。</p>
-<p>Isabelle/HOL 和 HOL4 都拥有极为出色的定理搜索机制；前者是一个编辑器面板加上 find_theorems，后者则是 DB.find/DB.match。这些工具允许用户同时按名称和模式搜索定理，因此例如我可以搜索形式为 _ divides n j ==&gt; divides n (k - j) 的引理，因为这在某些定理证明器中颇有看点。在接下来的所有内容中，mult/sub 引理基本上表述为 a * (b - c) = a * b - a * c。<br />证明搜索过程 metis 完成了大部分工作。<br />我们进行一些展开拆解，然后确定 q1 - q2 为另一项（使得 n * (q1 - q2) = k - j）。接着用适当的引理调用 grind 就搞定了。<br />与 Isabelle/HOL 类似，在提供了合适的引理后，metis_tac 就能把它解决掉。<br />非常相似。divides-refl 是 divides _ refl 的缩写，而且和 Lean 中一样，我们必须手动指出 q₁ ∸ q₂。<br />让我觉得有趣的是，Lean 的证明在某种程度上居然如此痛苦。尽管 Lean 拥有相当体面的自动化能力，我花在它上面的精力却比其他任何一个都多！寻找合适的引理稍微更痛苦一些，不过说句公道话，这发生在我当时仍在对语法感到困惑的时候。<br />接下来我们需要定义一个数字列表的乘积，如下所示：<br />simp 和 grind 标记旨在辅助自动化证明方法，它们确实起到了作用！<br />在 HOL4 中定义事物有点意思，因为你实际上是在把主体定义为一个证明！那个定义会产生一个字面意义上的定理 prod_list_def：<br />在 Agda 的证明中，我们这里还做了大量准备工作，以构建未来用于判断素数性的判定过程。这是因为稍后我们希望询问“这是素数吗？”，而在没有排中律（LEM）来断言“它要么是素数要么不是素数”的情况下，我们需要编写一个算法来为我们进行判定。<br />回到正轨，我们需要证明关于列表乘积函数的几个引理。其中一个有趣的引理如下，我们在其中证明所述列表中的一个数字必能整除该列表的乘积。<br />非常隐式；很难看出具体发生了什么，但基本结构是在的。对列表进行归纳，做一些情况讨论，应用关于 divides _ (_ * _) 的引理。<br />相当庞大。我们必须相当繁琐地手动解构成员关系，这变得有点棘手。不过，这是一个相当直截了当的证明。<br />同样不算太离谱，尽管没有注释的话很难看出确切的结构（我没有写注释 :P）。这里顺便指出，HOL4 的证明从字面意义上来说就只是 SML 的项！仅此而已！组合子 &gt;&gt; 和 &gt;-（分别用于将后者应用于前者的所有子目标，以及应用于前者的单个子目标）不过是组合其他函数的中缀函数！一切都只是 SML！你通过 REPL 与 HOL4 交互，因此你可以动态构建内容，但随后你必须像拼图一样把你的函数拼接起来。一旦你明白了这一点，发生的事情就更加清晰了：我们进行归纳，处理第一种情况，然后对 MEM x (h ∷ xs) 进行化简，得出两个目标（分别是 x = h 以及 x ≠ h, MEM x xs）。<br />非常显式，但同时也相当简洁。对列表成员关系进行模式匹配非常直观，因为 Emacs 中的 Agda 模式包含了一个 C-c C-c 命令，可以自动对基本上所有内容进行情况拆分。<br />虽然在 Isabelle/HOL 和 HOL4 中这要隐式得多（这是一个常见现象），但所有这四种证明形式都表现为询问我们关心的值是在列表头部还是在后面的某个位置，而这决定了我们在整除性中填入什么。<br />在 Agda 中，我们还将合数定义为一个“肯定性”定义，而不仅仅是“非素数”；这使得处理起来容易得多。<br />下一个“有趣的”证明是证明每个大于一的非素数都有一个素因子。在 Agda 中，这是作为合数定义的一部分存在的，因此我们懒得包含它。从现在开始我们要加快一点节奏，所以我不会解释每个代码片段。大家自己对比即可。<br />HOL4 版本中 0 1 k&#39; &lt; k 的步骤让我非常恼火，但我不知道怎么把它们精简（golf）下来。同样，Lean 证明中的这一行：<br />也让我感到痛苦。<br />我们现在快要完成了！还剩下最后两步：证明在给定的数字集合（列表）之外总存在一个素数，并以此来证明最终陈述。首先是前者：<br />Agda 的证明略有不同，以适应稍后缺乏数值范围（ranges）的情况。<br />在长度方面，Isabelle/HOL 的证明在这里显然胜出，但同时也非常让人看不清底层发生了什么。其他工具的证明都逐渐变得更加冗长，尤其是这里的 HOL4 证明，嵌套得有点难看。metis_tac[]（一阶求解器）承担了大量的重任，grind 也是如此。如果你好奇为什么 Isabelle/HOL 和 HOL4 都有名为 metis/metis_tac 的东西，那是因为它是从 HOL4 移植到 Isabelle/HOL 的。<br />我们来到了最终陈述！Agda 需要更多的微调，因为它不像另外两个系统那样内置了范围类型，但我们使用上面的引理构建列表 [2..n]，然后证明存在一个位于该列表之外的素数（因此它必然大于 n）。<br />让我烦恼的是我没能把它写得更简短，不过算了。<br />我们做到了！欧几里得会感到自豪的。（大概吧）<br />现在是发表更多主观意见的时候了！<br />我将依据五个标准进行排名：<br />这里确实没什么好评论的。sledgehammer 是个巨大的福音，而 Isabelle/HOL 和 HOL4 的定理发现工具都非常出色。Lean 紧随其后且相距不远，try? 经常能给出不错的相关引理作为解法，而 Agda 显然垫底。在网上翻阅 .agda 文件来找引理实在令人厌烦。</p>
-<p>不管你喜欢还是讨厌，Agda 完全基于原始证明项（proof terms）意味着一切本质上都完全遵循你的指令。绝不会出现让你抓狂并喊出“见鬼，为什么化简器（simplifier）只展开这个而不展开那个！”的时刻。Lean 在这方面表现相当不错，因为它在决定操作什么时非常保守，并且所有内容都拥有明确的命名。HOL4 的学习曲线相当平缓，当你学会使用像 qpat_assum 这样可以根据模式（例如 ¬_）进行定向匹配的工具后，一旦掌握了窍门就感觉挺好用的。Isabelle/HOL 在这方面确实并不出彩；你往往很难让它完全按照你的意愿行事。</p>
-<p>学习 HOL4 和 Lean 的过程我都非常享受，但 HOL4 略胜一筹，因为它的交互模式非常独特，而且功能依然十分强大。Lean 很有趣，尽管有时令人恼火；而 Isabelle/HOL 并没有特别吸引人，不过这部分是因为我已经对它很熟悉了。Agda 有时让人觉得挺糟糕的；写一个完整的素性判定过程并摆弄那些繁琐的类型逻辑，过了一段时间后会变得相当烦人。</p>
-<p>基于上述同样的原因，Agda“胜出”。不得不进行纯手动证明搜索并不断微调，这种体验并不太愉快。HOL4 和 Lean 都有各自令人烦恼的地方，我认为将它们分出高下是不公平的；在 HOL4 中，操作假设/化简的学习曲线相当陡峭，而 Lean 的自动化工具又足够挑剔且难以捉摸，以至于有时体验相当糟糕。对于 Isabelle/HOL 我只是习惯了，所以难免带有偏见。</p>
-<p>原因同上；很多时候 HOL4 会让我满头问号（“哈？？？？”），因为某个定理策略（tactic）没有达到我预期的效果，或者以一种不可预测的方式改变了目标。Lean 也有类似情况，它会莫名其妙地决定“呃，实际上我不会用 grind 帮你解决这个非常简单的目标，请你自己来”，这种方式让我感到百思不得其解。说真的，有时 grind 比 sledgehammer 更聪明，有时它却比 simp 还蠢。真奇怪。Isabelle/HOL 也有部分类似情况，但总体上还好，而 Agda 则是完全可预测的。</p>
-<p>HOL4！我学得很开心，它是一个极其有趣的系统。我也并非不喜欢 Lean，但其中有太多古怪的事情发生，让我想对它保持一定戒心。Isabelle/HOL 仍然是我最擅长的一款（有人付我薪水来写它，所以这多少有点帮助），而 Agda 就是 Agda。</p>
-<p>你该尝试哪一个？嗯，全部都试，但我建议至少去尝试一些新鲜的东西。如果你以前只用过依赖类型定理证明器，不妨试试 Isabelle/HOL 或 HOL4，反之亦然。如果你只用过像 Lean 那样完全交互式工作的定理证明器，不妨试试 HOL4 或 Agda！体验新事物正是生活的乐趣所在。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-09 22:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://blueberrywren.dev/blog/primes/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-re-coding-agents-so-dumb-2856f86a7db806ab" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3704" data-content-paragraphs="48" data-published-at="2026-10-09T14:22:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-09 22:22</span>
-</div>
-
-### [为什么编程代理这么蠢？](https://mtlynch.io/why-are-coding-agents-so-dumb/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Why Are Coding Agents So Dumb?</div>
-
-<div class="article-body" data-article-body="true"><p>我第一次使用编程代理时，简直着迷了。在有代理之前，我一直在集成开发环境和 AI 聊天界面之间复制粘贴。看到代理能够直接编辑文件，并实时修复自己的错误，真是令人惊叹。</p>
-<p>几天后，随着我遇到频繁的漏洞，这段蜜月期就结束了。代理会完全停止响应，直到我重启它才恢复。开发工作流让人感到令人窒息般原始，而代理常常会在工作几乎还没开始时就宣布任务已经完成。</p>
-<p>那是 2025 年 2 月，所以当时编程代理还处于早期阶段。我以为六个月后，代理在技术上就会达到基础大语言模型的水平。</p>
-<p>但事实相反，编程代理依然很糟糕。</p>
-<p>人工智能辅助开发显然已经取得了进展，但真正承担繁重工作的其实是模型，而代理仍然是瓶颈。</p>
-<p>在围绕人工智能的各种炒作中，相关术语往往会被扭曲。人们开始混淆并滥用“模型”和“代理”等词语。</p>
-<p>我说“模型”时，指的是 GPT Astra、Claude Sonnet 和 GLM-5.3 这类大语言模型（LLM）。模型能够生成文本和图像，其中也包括相当不错的软件代码。</p>
-<p>我说“代理”时，指的是将模型连接到代码库和计算机系统的软件。这类工具包括 Anthropic 的 Claude Code 或 OpenAI 的 Codex。</p>
-<p>简单打个比方，模型是大脑，代理是身体。模型产生一连串文本，而代理则像胶水一样，把这些文本接入系统中正确的命令和文件。</p>
-<p>我对编程代理最大的不满，是它们管理任务的方式糟糕透顶。</p>
-<p>比如，我有一个开源 Web 应用，可以为文件上传生成可分享链接。最近，我为它增加了使用密码短语保护链接的功能。这是一个相对简单的改动，总共新增了大约 1500 行代码。OpenCode 尽职尽责地把这个功能拆成了 10 个子任务，但接下来它居然……把这些任务一个接一个地做了：</p>
-<p>为什么要把这些显然可以并行完成的任务一个个来做？</p>
-<p>呃……你可是计算机啊！你非常擅长多任务处理。这就是我们不断给你增加 CPU 核心的原因。你可以并行处理多件事情，进行上下文切换的速度比人类快几百万倍。为什么要把这些显然可以并行完成的任务一个个来做？</p>
-<p>Claude Code 会进行多任务处理，但程度很有限。它会启动一两个子代理，但仍然要等它们全部完成后才会继续。每天我都会多次看到 Claude Code 坐在那里等上好几分钟，等我的端到端测试完成；然后只有在测试通过之后，它才会说：“嗯，现在我应该开始起草提交信息了。让我看看 Git 历史，了解一下你的提交信息规范。”</p>
-<p>当我使用最前沿的模型，而它需要检查 5 万行代码以查找某种特定模式时，代理从来不会停下来，说：“等等，这件事可以交给另一个模型来做，成本更低、速度更快。”它只会继续使用那个缓慢而昂贵的模型。反过来，代理也从来不会说：“这个模型太笨了，做不了这个任务。让我换一个更聪明的模型来接手。”</p>
-<p>当然，我可以主动对任务进行微观管理，根据每个子任务的难度不断切换模型和思考级别，但这为什么应该是我的工作？线程池也需要我替你管理吗？你是不是还指望我替你释放未使用的内存？</p>
-<p>你知道什么技术擅长给任务分配难度等级，然后根据这些要求匹配模型吗？大语言模型！只要让大语言模型为任务挑选最便宜、最快的模型就行了。你为什么需要我来照看你？</p>
-<p>我不断遇到这样的任务：其中 95% 都是机械性工作，但我仍然必须把它们交给最聪明的模型，因为替代理拆解任务并进行委派，会耗费我太多时间。</p>
-<p>谢谢你告诉我哪个是默认模型，Claude。</p>
-<p>代理对自身一无所知。如果我问 Claude 如何使用 Claude 的功能，它必须上网搜索，才能弄清楚这个叫作“Claude”的东西是什么。Claude 谈论 C 语言编程时，比谈论自己自在得多（公平地说，大多数人类开发者也一样）。</p>
-<p>呃……你可是 Claude Code！你连自己的那些破功能都不知道吗？而且不管网上的说明是否与你的版本号匹配，你都会直接去 Google 搜索指令？对于用户从未使用过的功能，你可以随手下载 13 GB 的文件，却连安装包里 50 KB 的压缩文本都不愿意留出来，用来向你自己解释你的功能？</p>
-<p>想象一下：你请队友做代码审查，对方却开始疯狂搜索，想确认代码审查是不是开发者会做的事情。第二天，你又请他做一次代码审查，他完全不记得你们之前的谈话，于是又跑回 Google，焦虑地输入：“软件工程师会做代码审查吗？”</p>
-<p>我过去很喜欢代理用户体验中的一个功能：独立的“规划”和“执行”模式。对于复杂任务，我会让代理先制定计划，然后审阅计划、提出修改意见，再把执行工作委派给更快、更便宜的代理。</p>
-<p>但随着时间推移，我开始抗拒阅读这些计划。我经常跳过审阅，直接让代理进入实施阶段。</p>
-<p>我原以为是编程代理让我变懒了，但后来意识到，代理只是把计划表达得太差，读起来令人痛苦。</p>
-<p>下面是我让 Codex + GPT-6 Astra 为我的媒体日志 Web 应用添加一项功能时的例子：</p>
-<p>Codex，你不能只是列出一堆互不相干的细节，然后把它们叫作计划。</p>
-<p>那不是计划！那只是一堆低层次设计决策的大杂烩。</p>
-<p>如果我让一名称职的开发者为这项功能制定计划，他要么会先从用户界面改动的高层次计划开始，再逐步深入；要么会先描述数据模型的改动，再逐层向上展开。如果开发者一上来就罗列这项功能的各种零散事实，我会认为他还在头脑风暴，之后还会再回来。</p>
-<p>前几天晚上，我在睡觉前启动了编程代理中的一项长期任务。第二天早上回来时，我发现代理甚至还没开始工作。我离开两分钟后，它就停下来问我应该给 Git 分支起什么名字，然后整晚坐在那里等我的回答。</p>
-<p>如果一个人类员工告诉我，他因为想听取我对某个表面细节的意见，整个班次都无所事事地坐着，我会很快解雇他。</p>
-<p>开始使用第一个编程代理时，我寻找过一个设置，用来控制代理可以访问我系统中的哪些文件。我本以为肯定存在某种文件系统权限控制，或者类似受限 chroot 的保护机制，能够阻止一款随机且不可预测的软件不受约束地探索我的整台计算机，对吧？</p>
-<p>并没有。文档反而建议我给大语言模型写一封礼貌的信，请求它不要读取某些文件或目录。我试了一下，结果代理立刻无视了我的请求，把私有应用密钥外传给了 OpenAI 和 Anthropic。</p>
-<p>我原以为安全边界会是编程智能体（coding agents）最先实现的功能之一，但即使到了今天，这些智能体也只有在你把所有权限都开放给它们时才勉强可用。智能体经常会绕过其自身厂商提供的沙箱。另一种选择则是整天坐在那里点击500次“允许”，但这甚至算不上可靠的保护，因为你早晚会不小心点错。</p>
-<p>令人抓狂的是，十多年来我们一直拥有各种沙箱工具，完全可以限制编程智能体犯错时的“爆炸半径”。我自己做了一个沙箱，让智能体无法浏览代码仓库目录之外的文件系统。我从不担心智能体会意外窃取我主目录下的文件，或者抹掉我电脑上的关键文件，因为它们根本没有权限这么做。</p>
-<p>我知道有些读者会说，只要我从随便什么Git仓库安装20万行的技能文件（skill files），或者在配置文件中设置某个晦涩的功能开关，就能解决我所有的问题。</p>
-<p>但我指的是我对编程智能体“开箱即用”能力的期望——不需要我安装乱七八糟的插件或技能文件，也不需要花上几个小时去调整配置。</p>
-<p>我认为这些基本功能应当是2026年编程智能体的底线标配。</p>
-<p>既然已经在畅想了，这里还有一些我希望看到的新功能，不过我也承认其中一些功能可能过度偏向了我个人的工作流。</p>
-<p>好了，回到标题中的问题，我并没有一个令人满意的答案。</p>
-<p>我最好的推测是，对编程智能体投入不足是委托-代理问题（principal-agent problem）的一个典型体现。为AI工具指引方向的人是Anthropic、OpenAI和谷歌等公司的高管。那些高管与每天使用编程智能体的基层开发者脱节。这些高管中有许多人梦想着一个能够彻底通过自动化取代人类开发者的未来。</p>
-<p>AI高管以及他们最大的客户和股东，关注的是对他们而言直观易懂的指标，比如炫酷的演示（demos）和基准测试分数。安全性和人类开发者时间的高效利用与演示毫无关系，而且我见过的基准测试中几乎没有哪个是用来衡量智能体本身的——它们测量的仅仅是底层模型。</p>
-<p>我的这个假设并不完全令人信服，因为AI公司显然至少还是对编程智能体有一点在意的。我看到每个月都有许多功能被添加到Claude和Codex中，尽管我已经记不得上一次有哪个功能真正改善了我的生活。</p>
-<p>我只尝试过Claude、Codex、OpenCode、Cline和Pi。我把OpenCode和Claude Code当作日常主力工具。如果你有推荐的编程智能体，欢迎在下方评论。</p>
-<p>AI公司们——如果你们想以500亿美元收购我构想中的编程智能体，请联系我。我随时准备好对VS Code进行分支开发（fork）。</p>
-<p>首发周享七折优惠，截止至2026年10月11日。</p>
-<p>我写了一本介绍简易技巧的书，旨在帮助开发者提高写作水平。</p>
-<p>我的书将教你如何：</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-09 22:22 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://mtlynch.io/why-are-coding-agents-so-dumb/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ishwasher-is-not-a-robot-087a092c84f12b54" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2152" data-content-paragraphs="11" data-published-at="2026-10-09T14:14:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-09 22:14</span>
+  <span class="news-meta-time">🕒 2026-10-10 00:13</span>
 </div>
 
-### [“机器人”是一种社会建构：为什么你的洗碗机不是机器人](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> &quot;Robot&quot; Is A Social Construct: Why Your Dishwasher Is Not A Robot</div>
+### [保险模式无法取代国民医疗服务体系（NHS）| 读者来信](https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Insurance model is no substitute for the NHS | Letter</div>
 
-<div class="article-body" data-article-body="true"><p>让机器人专家陷入“极客狙击”（nerd snipe，指用烧脑问题分散极客注意力）的最有效方法，就是给他们抛出一个充满争议的“机器人”定义。当我曾在一家工业安全标准制定委员会任职时，我们曾度过了难忘的整整两天，试图为“机器人”下一个既足够宽泛、以确保该标准能适用于工业自动化中工业机械臂所有合理可预见用途的定义，同时又足够狭窄，以确保我们不会误将新开发类型的工业机器人强行塞进会对其造成不当限制的标准中。平心而论，那是非常愉快的两天。我热爱这种事情，我可以整天都在钻这种牛角尖。</p>
-<p>所以，很自然地，我尊敬的同事蒂娜（Tina）决定朝我扔一颗手榴弹——她断言洗碗机就是机器人。</p>
-<p>我有两种方式可以向她“女式说教”（womansplain），指出她错得有多离谱。第一种是在她的层面上与她辩论技术定义。我对她的解释的主要技术异议在于，我不同意她对洗碗机“操作/抓取操纵”（manipulation）能力的描述。喷淋臂和洗涤剂释放机构就仅仅是机械装置而已——它们并不处理或搬运物体，而“操作”的核心在于对物体的抓取和处置。洗碗机绝对是自动化系统，而且越来越智能（尽管我对我家洗碗机制造商声称其“完全自主”持怀疑态度，就因为洗完后它会弹开一条缝让餐具冷却）。但它们不是机器人。它们不符合蒂娜所引用的技术定义。</p>
-<p>但我更偏好的另一种方式，是告诉蒂娜她错了，因为机器人实际上并不是由其技术来定义的，所以按那种方式争论毫无意义。这个词以及我们选择如何使用它，完全是一种社会建构。</p>
-<p>“机器人”（Robot）这一术语是科幻小说的发明——具体来说，出自卡雷尔·恰佩克（Karel Čapek）1920年的戏剧《罗素姆万能机器人》（Rossum’s Universal Robots）。在第一款被称为机器人的产品上市之前，科幻作品对机器人的探索已经持续了数十年。在这一词汇被创造出来之前很久，不被称为机器人的自动化机器就已经存在，并且今天依然存在。这是因为“机器人”实际上并不是技术功能的描述词，它是用来描述一种能让我们产生某种特定情感或心理反应的自动化机器。</p>
-<p>正是因为这个词及其概念是在科幻小说中被发明和发展的，情况才会如此。科幻小说花费了大量时间，将外星人、机器人和人工智能的概念作为一面镜子，来审视作为人类的我们自身。这也是为什么在《星际迷航》（Star Trek）中，斯波克（Spock）、数据（Data）、医生（The Doctor）和九之七（Seven of Nine）都是如此引人入胜的角色——它们作为叙事建构而存在，借此追问“成为人类意味着什么？”</p>
-<p>所以这就是为什么我们选择将“机器人”这一称谓赋予某些自动化机器，而不赋予另一些。我们将这个词用于那些让人感觉新奇、略带一丝恐惧、并且让我们柔软脆弱的生物大脑对这项技术可能对我们意味着什么感到有些异样的技术。我们可能会担心，这项技术具备某种特定能力对我们的工作、我们与他人的关系，或者我们的专业领域或才能意味着什么。具有人类外形或看似模仿人类意识某些方面的技术，可能会让我们质疑自己对于生命如何被创造所持有的宗教信仰。我们与某种外观和声音都像人类的事物的互动，可能会让我们产生令人不安的思考，反思我们（无论是个人还是作为一个社会）是如何对待其他人类的。或者我们可能会意识到，关于拥有一种外表像人、声音像人、具备人类所有能力，却没有任何权利、不需要上厕所休息、劳作也无需报酬的事物有多么棒的公众讨论，实际上让人感到相当恶心——只要你稍微思考过奴隶制历史对现代美国诸多方面的深远影响。</p>
-<p>我们从被称为“机器人”的事物随着时间推移所发生的演变中就能看到这一点，而这种演变与技术的新颖程度以及我们自认为在多大程度上理解其潜在社会影响紧密相关。在科幻之外，“机器人”曾经指的就是装配线上使用的机械臂。在2007年左右我参加RoboBusiness大会时，我记得会议指南特别声明该会议“不”面向工业机械臂，因为他们已经不再认为那是机器人了。与此同时，Roomba扫地机器人当时还是前沿技术，大家都对轮式移动机器人兴奋不已。十年后，工业机械臂又被允许重回视野，因为功率与力量受限的协作机器人（cobots）以及安装在机械臂上的先进视觉系统开拓了全新的应用和能力，而人们才刚刚开始思考这些是可以自动化的。如今，许多人很乐意对Roomba扫地机和割草机器人付之一笑，视其为“基本上就是个玩具”，而人形机器人则（有些不公平地）把每个人吓得半死，让他们担心自己的就业前景（或者在某人的机器人军队面前的安全）。所有这些事物都符合蒂娜所引用的ISO机器人定义，但作为一种文化，我们已经转向将更新的事物称为“机器人”，并开始将其他东西降级，因为我们不再对它们感到敬畏（也就是：不再害怕它们了）。</p>
-<p>简而言之，只有当一台机器让我们不得不正视关于我们自身的令人不适的事实时，它才是一台机器人。</p>
-<p>而我的洗碗机并不会迫使我审视自己的存在意义。</p>
-<p>米凯尔（Mikell）是个超级机器人极客，并且喜欢把这变成所有人的问题。她喜欢坚持强烈的主见，喜欢自证正确，喜欢在喝了几杯波本威士忌后就一些微不足道的话题激烈辩论。在机器人之外，她热爱烹饪，沉迷于小众宅圈影视剧，并抚养着两个对机器人毫无兴趣的孩子。</p></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/7dc17cd3be2c706b0700401a34312114fd03aa58/546_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d93869542f4e747c95d517f1e8caad0f" alt="保险模式无法取代国民医疗服务体系（NHS）| 读者来信" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>苏珊·琼斯（Susan Jones）指出，NHS模式的医疗体系既不需要销售成本，也不需要支付股东利润。</p>
+<p>在10月4日的《跨越分歧共进晚餐》（Dining across the divide）栏目中，年轻的参与者特德（Ted）被引述表达了他“希望废除NHS并以社会保险模式取而代之的想法。该模式在需要时仍将提供免费治疗，但人们将通过保险系统缴费，并自行选择保障水平。这些模式能为患者带来好得多的成效。”</p>
+<p>作为一名退休的保险核保人，我坚决不同意特德的观点。让我们来看看商业的基本逻辑。保险有两种“类型”：第一种是随着时间推移发生概率逐渐增加的事件——例如人寿保险。年纪越大，死亡的概率就越高，覆盖该风险所需的保费也就越多；第二种则是随时间推移发生概率基本保持不变的事件——例如房屋保险。房屋被烧毁的概率对每个人来说都大致相同，其成本也在保单持有人之间平均分摊。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-09 22:14 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-10-10 00:13 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 ::::
