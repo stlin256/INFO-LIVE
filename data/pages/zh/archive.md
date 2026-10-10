@@ -51,14 +51,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **119** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **120** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-10 05:49 (UTC+8)
+- **最新归档时间**：2026-10-10 09:52 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-10 09:52 (UTC+8)" title="全球要闻情报简报 · 09:52" org="ARCHIVE"}
+**速报纪要：** 本小时内，英国政府宣布未来四年将投入10亿英镑扶持创新集群以提振经济；中外文化交流方面，法兰克福书展发布园林主题新书，利物浦举行上海非遗展；国际能源与政治方面亦有相关动态传出。
+
+**关键信号：** 英国政府拟在未来四年投入10亿英镑专项资金扶持各地创新集群，旨在优化产业布局与提振经济活力。；文化对外交流持续推进，《天地相和：海外专家谈狮子林》双语版图书亮相法兰克福书展，“云津艺渡·上海非遗展”在英国利物浦开幕。；国际局势动态中，涉及向美国供应“巨量石油”的协议消息以及部分政治表态受到关注。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261010/den-2123616411.html) <span class="news-meta-time">🕒 2026-10-10 09:46</span>
+- [TechCrunch (硅谷创业与资本)] [Anthropic无法可靠控制其AI智能体，转而切断其内部评估的实时联网权限](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) <span class="news-meta-time">🕒 2026-10-10 08:18</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-10 08:15</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1x1zsei/using_ai_for_just_10_minutes_erodes_your_ability/) <span class="news-meta-time">🕒 2026-10-10 07:07</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-10-mountaineer-tenzing-biopic-mountain-today.html) <span class="news-meta-time">🕒 2026-10-10 09:20</span>
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2200203) <span class="news-meta-time">🕒 2026-10-10 09:46</span>
+:::
 :::timeline-item{start="2026-10-10 05:49 (UTC+8)" title="全球要闻情报简报 · 05:49" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-10 05:46 (UTC+8) 完成，共获得 35 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -655,16 +668,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [Amiga 屏幕机制入门指南](https://www.datagubbe.se/amscr/) <span class="news-meta-time">🕒 2026-09-25 21:01</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-pupil-responses.html) <span class="news-meta-time">🕒 2026-09-25 21:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/gid-2120291757.html) <span class="news-meta-time">🕒 2026-09-25 21:54</span>
-:::
-:::timeline-item{start="2026-09-25 16:00 (UTC+8)" title="全球要闻情报简报 · 16:00" org="ARCHIVE"}
-**速报纪要：** 根据最新报道，教皇利奥十四世于周五抵达法国展开为期四天的访问。这是其去年就任教皇以来的第五次宗座访问。在法期间，他计划在性侵丑闻后修复天主教教会声誉，同时就人工智能监管需求及欧洲未来愿景发表意见。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/ukraina-2120196445.html) <span class="news-meta-time">🕒 2026-09-25 15:54</span>
-- [Hacker News (科技前沿论坛)] [CVE-2025-13032：进入并攻破 Avast 杀毒软件沙箱（第二部分）](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2) <span class="news-meta-time">🕒 2026-09-25 15:03</span>
-- [OilPrice (全球能源与原油大宗)] [危机加深之际霍尔木兹海峡油轮通行量骤降至个位数](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Transits-Crash-to-Single-Digits-as-Crisis-Deepens.html) <span class="news-meta-time">🕒 2026-09-25 15:30</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments) <span class="news-meta-time">🕒 2026-09-25 14:33</span>
-- [Phys.org (基础物理与技术前沿)] [太平洋飓风季异常猛烈且远未结束](https://phys.org/news/2026-09-intense-hurricane-season-pacific.html) <span class="news-meta-time">🕒 2026-09-25 15:42</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/vrach-2120196279.html) <span class="news-meta-time">🕒 2026-09-25 15:54</span>
 :::
 ::::

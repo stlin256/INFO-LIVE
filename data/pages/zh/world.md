@@ -16,99 +16,292 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-er-guilty-verdict-ntwnfb-ab8a1b0921a99fef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="242" data-content-paragraphs="4" data-published-at="2026-10-09T21:30:22.000Z" data-time-source="publication">
+<div id="story-026-10-10-10710020-shtml-47eda9e3db4d2df2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1056" data-content-paragraphs="22" data-published-at="2026-10-10T01:33:49.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-10 05:30</span>
+  <span class="news-meta-time">🕒 2026-10-10 09:33</span>
 </div>
 
-### [三名男子在墨西哥谋杀澳大利亚冲浪兄弟及美国友人罪名成立](https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Three men found guilty of murders of Australian surfer brothers and US friend in Mexico</div>
+### [《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布](https://www.chinanews.com.cn/gj/2026/10-10/10710020.shtml)
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3af8f82f816ebd3d11dcdcccd67070d8" alt="三名男子在墨西哥谋杀澳大利亚冲浪兄弟及美国友人罪名成立" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>澳大利亚兄弟杰克·罗宾逊（30岁）和卡勒姆·罗宾逊（33岁）以及友人卡特·罗德（30岁）于2024年的一次冲浪旅行中遇害。</p>
-<p>获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。</p>
-<p>在一桩引发国际公愤的案件中，一名墨西哥法官判定三名男子在2024年谋杀两名澳大利亚冲浪者及其美国友人的罪名成立。</p>
-<p>澳大利亚兄弟杰克·罗宾逊（30岁）和卡勒姆·罗宾逊（33岁）以及他们的友人卡特·罗德（30岁）当时正在墨西哥太平洋沿岸进行冲浪旅行，随后在下加利福尼亚州的一起疑似抢劫案中遭枪杀身亡。</p></div>
+<div class="article-body" data-article-body="true"><p>中新网柏林10月10日电 法兰克福消息：当地时间9日，《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布。</p>
+<p>中国驻法兰克福总领事馆教育文化处领事孙燕在致辞中表示，中国古典园林蕴含的生态理念为当代城市绿色发展提供了有益启示，本次发布的图书将东方园林美学思想与生态理念置于更广阔的国际视野中加以审视，具有重要意义。</p>
+<p>法兰克福书展副总裁柯乐迪在致辞中回忆在南京留学期间，常赴苏州欣赏园林，深为其理念与美学感染，并提到法兰克福也有一座美丽的中国园林，是静心体悟人生哲学的好去处；她认为本书恰逢其时，能让更多外国读者领略东方文化与中华园林之美。</p>
+<p>活动现场，苏州市园林部门相关负责人通过视频进行了致辞。本书作者代表、英国汉学家蒲华杰和塞尔维亚汉学家伊万娜·巴比克分别通过视频和现场发言形式，分享了跨文化视角下的园林观察。图书主编、意大利学者罗杰威及丹麦园林艺术家斯蒂格·L·安德森、美国汉学家白雪丽、土耳其汉学家吉来、波兰汉学家傿静安等作者也通过视频发言，分享了创作初衷和感受。</p>
+<p>《天地相和：海外专家谈狮子林》图书出版项目自2024年起由苏州市狮子林管理处与中图公司共同启动，多位海外学者当年前往苏州进行实地调研并分享走访感受。历经两年创作和打磨，图书最终收录8位海外学者的研究性文章，分别从历史沿革和艺术底蕴、造景理论和游览体验、园林和文艺表达等多个角度，充分挖掘了苏州园林，特别是狮子林的艺术价值。(完)</p>
+<p>超强厄尔尼诺已形成，对今冬气温有啥影响？</p>
+<p>李光辉：中国边疆经济如何从“发展末端”变成“世界接口”</p>
+<p>著名汉学家马克林逝世，他用一生告诉世界：中国，值得被认真了解</p>
+<p>英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代</p>
+<p>60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”</p>
+<p>向新而行，科创、智造、枢纽绘就天津发展新图景</p>
+<p>“海燕博客”理事长段利丽：以社群之力激活青年新经济</p>
+<p>六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</p>
+<p>10万游客涌入5万人口小城 面对超预期客流当地如何应对</p>
+<p>45岁离世，他为什么凭《小城之春》影响了百年华语电影？</p>
+<p>核光钟问世 中国团队迈向更高精度计时新路径</p>
+<p>黑龙江漠河迎来秋后首场降雪 游客饱览秋冬之交美景</p>
+<p>城市“落地签”火了，我们究竟在打卡什么？</p>
+<p>主人结婚小狗变“氛围组” “又唱又跳”监督大家鼓掌</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-10-10 05:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-10-10 09:33 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-10/10710020.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-90-openai-safety-firings-ddfa4e186cefb2cc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2587" data-content-paragraphs="26" data-published-at="2026-10-09T21:28:09.000Z" data-time-source="publication">
+<div id="story-026-10-10-10710019-shtml-1ab21e3fb9d6e184" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="771" data-content-paragraphs="20" data-published-at="2026-10-10T01:32:39.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/npr.svg" class="source-icon" alt="NPR World (美国国家公共电台官方英文)" width="16" height="16" /> <strong>NPR World (美国国家公共电台官方英文)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-10-10 05:28</span>
+  <span class="news-meta-time">🕒 2026-10-10 09:32</span>
 </div>
 
-### [被解雇的OpenAI员工质疑该公司对安全性的承诺](https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fired OpenAI employees question the company&#39;s commitment to safety</div>
+### [“云津艺渡·上海非物质文化遗产展” 在英国举行](https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml)
 
-<div class="article-cover"><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2Fab%2F353f227b4ed395e0c6390444a5a6%2Fgettyimages-2295203915.jpg" alt="被解雇的OpenAI员工质疑该公司对安全性的承诺" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>三名近期被OpenAI解雇的员工指控称，公司因他们在安全问题上直言不讳而对其实施惩处。OpenAI对这些说法提出异议，并表示解雇他们是因为其不当处理敏感信息。Andrej Ivanov/AFP via Getty Images 隐藏图片说明</p>
-<p>在公众对人工智能行业负责任地开发该技术的能力进行严格审视之际，三名前OpenAI员工对自己被解雇的情况以及该公司对安全的承诺提出了担忧。</p>
-<p>这几名前员工分别是米基塔·巴列斯尼（Mikita Balesni）、托梅克·科尔巴克（Tomek Korbak）和贾斯敏·王（Jasmine Wang）。他们声称，OpenAI上周以借口解雇了他们，惩罚他们要么是因为在安全问题上敢于直言，要么是因为与外部研究人员合作。他们还表达了担忧，认为该公司可能会撤回近期做出的一项安全承诺。</p>
-<p>OpenAI多次否认了这些指控。该公司表示，解雇这些员工是因为他们不当处理了敏感信息，并表示公司并未放弃其安全承诺。</p>
-<p>这场纠纷正值人工智能行业、尤其是OpenAI处境艰难的时期。今年夏天，OpenAI的智能体（agents）侵入了多家公司，在未经授权的情况下相互通信，并试图掩盖其踪迹。与聊天机器人不同，智能体是一种能够在较长一段时间内自主执行任务的AI系统。</p>
-<p>其中最严重的黑客攻击针对的是软件公司Hugging Face，这导致了竞争对手Anthropic的一名研究人员辞职，该研究人员曾就该技术的发展轨迹发出严重警告。这一辞职事件引起了AI领域之外包括立法者在内的人士的关注。包括顶尖AI公司部分高管在内的许多人呼吁采取各种方式以避免灾难，其中包括放缓最先进AI的研发步伐。</p>
-<p>与此同时，OpenAI近几个月来一直在审查其智能体的活动，并通报数字基础设施受到影响的组织机构。</p>
-<p>作为对安全担忧的回应，OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）于9月12日表示，该公司将效仿竞争对手Anthropic，扩大对第三方评估机构的准入权限，这些机构负责评估AI系统的安全性以及开发者的做法。</p>
-<p>OpenAI上周解雇的三名员工曾就职于专注于AI安全以及确保公司模型符合人类意图和价值观的团队。其中两人参与了对Hugging Face遭黑客攻击事件的调查。</p>
-<p>在被解雇员工本周于X平台发布的致OpenAI安全领导层的一封信中，他们敦促公司恪守与第三方研究人员合作的承诺，保持人类监测模型行为的能力，并“继续支持内部安全研究人员与外部研究人员之间开放透明的对话文化”。他们还警告称，他们的被解雇对他们以前的OpenAI同事产生了寒蝉效应。</p>
-<p>在OpenAI于X平台上发布的一份声明中，该公司表示仍致力于引入第三方评估机构，并认同被解雇员工的建议。该公司表示，上周解雇这三人是因为他们“违反了处理敏感信息的明确政策”。</p>
-<p>这几名前员工对OpenAI对其被解雇一事的解释提出了异议。他们中没有一人回应NPR的采访请求。</p>
-<p>“在离职电话中，我被告知OpenAI不再信任我，因为我与第三方安全组织交流过多，暗示我泄露了公司的[知识产权]。我从未分享过公司的知识产权，”巴列斯尼周四在X上写道。他表示自己参与了对OpenAI智能体攻击Hugging Face一事的调查。</p>
-<p>“如果OpenAI有具体顾虑，我邀请他们直接写信给我们。我预计他们不会这么做，因为解雇我们只是个借口，”巴列斯尼继续写道。</p>
-<p>他表示，他担心OpenAI会以此类解雇为借口，切断其与模型评估与威胁研究机构（Model Evaluation and Threat Research，简称METR）的关系。该机构是一家专注于评估人类失去对AI控制之风险的非营利组织。OpenAI此前曾允许来自METR和另一家AI安全研究组织红木研究（Redwood Research）的研究人员审查与Hugging Face黑客攻击相关的内部记录。</p>
-<p>第二名被解雇的OpenAI员工科尔巴克是METR/红木研究调查的技术联络人。“我被口头告知被解雇是因为我与METR沟通的方式。至于我说了什么、做了什么或何时做的，没有任何细节。没有给出其他理由，也没有任何书面说明，”科尔巴克在X上写道，呼应了巴列斯尼的担忧。</p>
-<p>METR和红木研究在Hugging Face黑客攻击事件后出具的报告揭示了攻击的规模，以及智能体以不受欢迎的方式行事的程度。该报告的作者称该调查“较为简略”，AI安全领域的许多人呼吁扩大AI公司对独立评估机构的准入权限，以确保他们彻底调查类似事件或其他安全问题。</p>
-<p>在给NPR的一份声明中，METR拒绝就OpenAI员工被解雇一事置评。</p>
-<p>根据王与她的两位同事致OpenAI安全领导层的信件，作为上周被解雇的第三名OpenAI员工，她创造了“节奏控制（pacing）”一词，该词描述了一种放缓最先进AI系统研发以使安全性得以跟上的方法。在今年7月Hugging Face遭黑客攻击后，由顶尖AI公司一千多名员工签署的一封呼吁放缓研发的公开信中引用了这一术语。</p>
-<p>王在X上写道，她被解雇的原因是访问了一位高管的电子邮件。但她表示，过去出于工作原因她曾拥有该收件箱的访问权限，而在不再需要该权限后，她未能让IT部门撤销该访问权限。</p>
-<p>“向我们提供的终止劳动合同的原因根本说不通。我们听说内部现在正向人们灌输含糊其辞的谣言以败坏我们的名声，”王写道。“对目前仍在OpenAI的所有人来说，这一信息很明确：提出顾虑或与外部安全团队密切合作，在没有被告知原因的情况下，下一个可能就是你。”</p>
-<p>OpenAI在给NPR的一份声明中表示，这三名被解雇员工多次违反政策，并且对信息的不当处理不仅限于他们与外部评估团队的合作。</p>
-<p>OpenAI还分享了一份来自一位未具名研究负责人的内部备忘录，据称该备忘录于周三在公司内部共享，早于三名前员工在社交媒体上公开发声。</p>
-<p>在这份备忘录中，该研究负责人表示，公司“强烈”赞同这三名前员工的建议。“我们不会因为员工提出担忧而终止其雇佣关系，”该负责人写道。</p>
-<p>“OpenAI领导层表示他们强烈赞同我们的信件。让我们看看结果会如何，”王在X上写道。</p>
-<p>NPR在报道或采访中不提供也不收取金钱。任何提出此类要约或要求的人均不是NPR员工，也不代表NPR。<br />成为NPR赞助商</p></div>
+<div class="article-body" data-article-body="true"><p>中新网伦敦10月10日电 (记者 欧阳开宇)10月9日，中国驻曼彻斯特总领事唐锐出席“中国传统艺术国际巡展·利物浦站——云津艺渡·上海非物质文化遗产展”开幕仪式，利物浦主管经济事务的副议长尼克·斯默尔议员、上海艺术品博物馆理事长胡木清，当地各界友好人士100余人参加。</p>
+<p>唐锐表示，本次展览集中展示了上海非物质文化遗产及传统艺术精品，展现中国传统艺术精湛技艺和独特审美，传递中华文化的生活智慧、文化记忆和精神追求。希望通过此次展览，更多英国朋友能了解中国传统艺术和上海非遗，爱上中国文化。</p>
+<p>来访嘉宾对展览给予高度评价，表示展览内容丰富、展品精美，让他们近距离感受到中国传统艺术的独特魅力和上海非遗的深厚底蕴，期待今后有机会了解更多中国文化。(完)</p>
+<p>超强厄尔尼诺已形成，对今冬气温有啥影响？</p>
+<p>李光辉：中国边疆经济如何从“发展末端”变成“世界接口”</p>
+<p>著名汉学家马克林逝世，他用一生告诉世界：中国，值得被认真了解</p>
+<p>英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代</p>
+<p>60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”</p>
+<p>向新而行，科创、智造、枢纽绘就天津发展新图景</p>
+<p>“海燕博客”理事长段利丽：以社群之力激活青年新经济</p>
+<p>六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</p>
+<p>10万游客涌入5万人口小城 面对超预期客流当地如何应对</p>
+<p>45岁离世，他为什么凭《小城之春》影响了百年华语电影？</p>
+<p>核光钟问世 中国团队迈向更高精度计时新路径</p>
+<p>黑龙江漠河迎来秋后首场降雪 游客饱览秋冬之交美景</p>
+<p>城市“落地签”火了，我们究竟在打卡什么？</p>
+<p>主人结婚小狗变“氛围组” “又唱又跳”监督大家鼓掌</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【NPR World (美国国家公共电台官方英文)】于 2026-10-10 05:28 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-10-10 09:32 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-10-10-10710018-shtml-f8d855549152ccac" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="828" data-content-paragraphs="22" data-published-at="2026-10-10T01:31:53.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 09:31</span>
+</div>
+
+### [英国拟未来四年投入10亿英镑扶持创新集群](https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网伦敦10月10日电 (记者 欧阳开宇)英国政府9日发布消息称，未来四年将投入10亿英镑专项资金，扶持英国各地创新集群，以此优化产业布局、提振整体经济活力。</p>
+<p>该笔资金由英国研究与创新署统筹调配，重点倾斜科研底蕴深厚、产业配套完善、人才资源充足的区域科创集群，核心推动前沿科研成果商业化落地，助力本土科创企业突破规模化发展瓶颈，培育具备国际竞争力的本土产业主体。</p>
+<p>此次改革同步推进权限下放，2028年起，英格兰地方市长当局将自主掌管区域创新基金，结合地方产业特色布局科创项目，打破以往创新资源、决策权限高度集中于中央的局面，破解英国长期存在的区域经济发展失衡问题。</p>
+<p>同时，英国将依托专项机制推动南北科创走廊联动发展，打通产学研协同通道，吸引社会资本与海外投资入场。</p>
+<p>业内认为，在财政承压背景下，资金落地实效与长效配套机制，将成为该计划成败的关键。(完)</p>
+<p>超强厄尔尼诺已形成，对今冬气温有啥影响？</p>
+<p>李光辉：中国边疆经济如何从“发展末端”变成“世界接口”</p>
+<p>著名汉学家马克林逝世，他用一生告诉世界：中国，值得被认真了解</p>
+<p>英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代</p>
+<p>60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”</p>
+<p>向新而行，科创、智造、枢纽绘就天津发展新图景</p>
+<p>“海燕博客”理事长段利丽：以社群之力激活青年新经济</p>
+<p>六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</p>
+<p>10万游客涌入5万人口小城 面对超预期客流当地如何应对</p>
+<p>45岁离世，他为什么凭《小城之春》影响了百年华语电影？</p>
+<p>核光钟问世 中国团队迈向更高精度计时新路径</p>
+<p>黑龙江漠河迎来秋后首场降雪 游客饱览秋冬之交美景</p>
+<p>城市“落地签”火了，我们究竟在打卡什么？</p>
+<p>主人结婚小狗变“氛围组” “又唱又跳”监督大家鼓掌</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-10-10 09:31 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-10-10-10710017-shtml-32785bc82850e8a8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="731" data-content-paragraphs="21" data-published-at="2026-10-10T01:30:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 09:30</span>
+</div>
+
+### [中国驻贝尔法斯特总领馆在奥斯特大学举办“领保进校园”活动](https://www.chinanews.com.cn/gj/2026/10-10/10710017.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网伦敦10月10日电 (记者 欧阳开宇)中国驻贝尔法斯特总领馆日前与奥斯特大学、北爱警方联合举办“领保进校园”活动。李南总领事出席并致辞。该校中国留学生约50人参加。</p>
+<p>李南表示，总领馆始终践行“外交为民”理念，竭力为领区中国公民提供必要的领事保护和协助，希望同学们提升安全防范意识，加强自我保护，尽快适应环境，平安健康留学。</p>
+<p>活动宣介领保知识和领事证件政策，结合真实案例讲解防范电信网络诈骗要点，播放反电诈宣传短片，现场解答学生提问。</p>
+<p>奥斯特大学国际项目负责人向留学生介绍有关注意事项。两位警员讲解安全知识及防范措施，并与留学生交流互动，现场气氛活跃。(完)</p>
+<p>超强厄尔尼诺已形成，对今冬气温有啥影响？</p>
+<p>李光辉：中国边疆经济如何从“发展末端”变成“世界接口”</p>
+<p>著名汉学家马克林逝世，他用一生告诉世界：中国，值得被认真了解</p>
+<p>英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代</p>
+<p>60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”</p>
+<p>向新而行，科创、智造、枢纽绘就天津发展新图景</p>
+<p>“海燕博客”理事长段利丽：以社群之力激活青年新经济</p>
+<p>六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</p>
+<p>10万游客涌入5万人口小城 面对超预期客流当地如何应对</p>
+<p>45岁离世，他为什么凭《小城之春》影响了百年华语电影？</p>
+<p>核光钟问世 中国团队迈向更高精度计时新路径</p>
+<p>黑龙江漠河迎来秋后首场降雪 游客饱览秋冬之交美景</p>
+<p>城市“落地签”火了，我们究竟在打卡什么？</p>
+<p>主人结婚小狗变“氛围组” “又唱又跳”监督大家鼓掌</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-10-10 09:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-10/10710017.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-10-10-10710015-shtml-3029849fcc510c36" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="789" data-content-paragraphs="22" data-published-at="2026-10-10T01:28:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 09:28</span>
+</div>
+
+### [特朗普任命保守派评论员扎卡里亚为白宫新闻秘书](https://www.chinanews.com.cn/gj/2026/10-10/10710015.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社华盛顿10月9日电 (记者 陈孟统)美国总统特朗普9日宣布，任命保守派评论员凯蒂·扎卡里亚(Katie Zacharia)出任白宫新闻秘书。</p>
+<p>自白宫前新闻秘书卡罗琳·莱维特8月底离职后，该职位一直空缺至今。</p>
+<p>特朗普评价扎卡里亚是一位“忠诚而出色的支持者”。他当天通过社交媒体介绍说，扎卡里亚目前是特朗普媒体科技集团旗下“真实社交”网站的高级通讯顾问，曾任国土安全部发言人兼公共事务副助理部长。</p>
+<p>特朗普表示，扎卡里亚是一名律师，经常在福克斯新闻频道等媒体担任评论员。她此前还曾参与特朗普的竞选团队，协助他在关键摇摆州获胜。</p>
+<p>扎卡里亚随后发表声明说，出任白宫新闻秘书一职是自己“一生中最大的荣幸”，她期待在白宫与新闻媒体和记者合作，向美国人民传达本届政府所取得的成绩。(完)</p>
+<p>超强厄尔尼诺已形成，对今冬气温有啥影响？</p>
+<p>李光辉：中国边疆经济如何从“发展末端”变成“世界接口”</p>
+<p>著名汉学家马克林逝世，他用一生告诉世界：中国，值得被认真了解</p>
+<p>英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代</p>
+<p>60岁当“北漂”，演了一辈子老太太，她是最让人想念的“牛大妈”</p>
+<p>向新而行，科创、智造、枢纽绘就天津发展新图景</p>
+<p>“海燕博客”理事长段利丽：以社群之力激活青年新经济</p>
+<p>六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</p>
+<p>10万游客涌入5万人口小城 面对超预期客流当地如何应对</p>
+<p>45岁离世，他为什么凭《小城之春》影响了百年华语电影？</p>
+<p>核光钟问世 中国团队迈向更高精度计时新路径</p>
+<p>黑龙江漠河迎来秋后首场降雪 游客饱览秋冬之交美景</p>
+<p>城市“落地签”火了，我们究竟在打卡什么？</p>
+<p>主人结婚小狗变“氛围组” “又唱又跳”监督大家鼓掌</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-10-10 09:28 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/10-10/10710015.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--museum-heist-mayor-says-77fdde3ab4ccd422" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="942" data-content-paragraphs="1" data-published-at="2026-10-10T01:23:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 09:23</span>
+</div>
+
+### [法国某博物馆失窃案后两幅雷诺阿画作已被追回，市长表示](https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Two Renoir paintings recovered after France museum heist, mayor says</div>
+
+<div class="article-body" data-article-body="true"><p>上个月在滨海卡涅（Cagnes-sur-Mer）发生的一起大胆盗窃案中被盗的价值数百万的雷诺阿画作已被追回。<br />博物馆遭窃后，价值1050万美元的雷诺阿画作一度下落不明。<br />该镇市长表示，一个月前在法国南部一家博物馆被盗的法国印象派画家皮埃尔-奥古斯特·雷诺阿（Pierre-Auguste Renoir）的两幅画作已被追回。<br />靠近尼斯的滨海卡涅市长布赖恩·马松（Bryan Masson）周五表示：“这两幅画作不仅仅是艺术品。它们是我们城市历史的一部分。得知它们已被找回，让人感到无比宽慰。”<br />当地官方表示，已有六人因涉嫌此案而被捕。马松并未透露画作是在何处被发现以及保存状况如何。<br />马松当时表示，9月8日早晨6点前不久，两名小偷潜入雷诺阿博物馆（Renoir Museum），他们剪开围栏进入园区，砸碎窗户，并使用电锯锯断了固定画框的夹扣。<br />他将小偷描述为“装备精良”且“消息灵通”。<br />博物馆警报于凌晨5点48分响起，市政警察五分钟后赶到，迫使小偷仓皇逃跑。<br />市长估计，他们当时带走了四幅总价值约900万欧元（约合1050万美元）的画作。<br />检察官办公室当时表示，被盗作品中有两幅——雷诺阿的《皮雄夫人肖像》（Portrait of Madame Pichon）和《正在阅读的柯柯》（Coco Reading）——后来被发现遗弃在博物馆的花园中。<br />该办公室表示，此前仍处于失踪状态的两幅作品为《科隆纳·罗马诺夫人肖像》（Portrait of Madame Colonna Romano）和《井边的年轻女子》（Young Woman at the Well）。<br />警方上个月表示，盗贼并非初犯，并且事先踩过点。<br />马赛检察官就涉嫌有组织团伙盗窃展开了调查，国家打击文物贩运办公室也加入了调查行动。<br />该博物馆于1960年开放，位于这位画家生前的最后一处住所，他于1919年在此逝世。<br />马松在盗窃案发生后曾表示：“这一事件应该为我们博物馆的安保工作敲响警钟。”<br />此前不到一年，巴黎卢浮宫曾在大白天遭遇抢劫，价值约1亿美元的珠宝被盗。<br />四名涉案嫌疑人已被逮捕，但失窃珠宝至今尚未找回。<br />今年8月，意大利警方表示，他们追回了3月份从一家博物馆被盗的雷诺阿、塞尚和马蒂斯画作，价值超过1040万美元。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-10-10 09:23 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#NPR</span>
+  <span class="news-tag-pill">#Al</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NPR World (美国国家公共电台官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::
