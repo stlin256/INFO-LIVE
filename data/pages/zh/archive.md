@@ -51,14 +51,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **121** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **122** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-10-10 16:41 (UTC+8)
+- **最新归档时间**：2026-10-10 23:33 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-10-10 23:33 (UTC+8)" title="全球要闻情报简报 · 23:33" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-10-10 23:27 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】K-pop明星宣美钟爱Notion与掏耳朵视频：该话题的内容将添加到您的每日邮件摘要和主页推送中。 查看所有娱乐内容 在音乐生涯走过近20年后，Wonder Girls成员宣美依然保持谦逊，同时坚持不懈。 该作者的内容将添加到您的每日邮件摘要和主页推送中。 查看Terrence O'Brien的所有文章 宣美是K-pop界不可忽视的中坚力量。她早在2007年作为Wonder Girls成员首次出道，该组合也是最早真正打入西方市场的K-pop团体之一。其单曲《Nobody》的英文版于2；【undefined】学龄前男童更偏好较大群体，而成年人的选择则暗示其政治态度：2026年10月10日报道 作者：英格丽德·法德利（Ingrid Fadelli），Phys.org 编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物；【undefined】距离 TechCrunch Disrupt 2026 仅剩 3 天：在初创企业走向主流之前抢先结识：TechCrunch Disrupt 2026 将在短短三天后拉开帷幕。旧金山莫斯康展览中心西馆（Moscone West）已准备就绪，数百家初创公司正摩拳擦掌展示其最新成果，数千名创始人、投资人和科技领袖正启程前往旧金山。；【undefined】摩根大通看多固定收益领域，称其为“几十年一遇的良机”：摩根大通资产管理公司（J.P. Morgan Asset Management）正在对一个投资不足的细分市场发出看多呼声：高质量固定收益资产。；【undefined】culpert：具备 Span 感知与回归工具的 Rust 堆内存性能分析工具：Culpert 目前仍处于极度实验性阶段并处于积极开发中，在生产环境中使用需自行承担风险。；【undefined】NASA将在大都会人寿体育场进行飞行编队低空飞越并与NFL球迷互动：2026年9月27日，在克利夫兰亨廷顿银行球场举行的克利夫兰布朗队对阵卡罗来纳黑豹队的NFL比赛奏国歌期间，包括NASA局长贾里德·艾萨克曼（Jared Isaacman）在内的NASA“自由250”（Freedom 250）F-5战机队进行了低空飞越。 图片来源：NASA/乔丹·科克伦（Jordan Cochran）；【undefined】Anthropic 正切断其内部评估与互联网的连接：该话题的内容将添加到您的每日电子邮件摘要和主页信息流中。；【undefined】dasSDL3：面向 daslang 的符合惯用法的 SDL3 绑定：本文是对原始博文 dasSDL3（俄语原文）的 AI 辅助英文译本。 我为 daslang 制作了 SDL 绑定。 SDL 抽象了对硬件和操作系统底层功能的访问。第 3 版还引入了对现代 GPU API 的抽象层。你仍然可以仅使用 SDL 来创建窗口，并通过其他图形 API（DirectX、Metal、OpenGL 或 Vulkan）向其中进行绘制。此外，还有多个配套库为 SDL 扩展了图像加载、更高级别的音频与网络 API，以及简单的
+
+**重点要闻索引：**
+- [BBC World (英国BBC官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss) <span class="news-meta-time">🕒 2026-10-10 23:23</span>
+- [The Verge (前沿数码科技)] [K-pop明星宣美钟爱Notion与掏耳朵视频](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview) <span class="news-meta-time">🕒 2026-10-10 23:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-10-10 23:05</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest) <span class="news-meta-time">🕒 2026-10-10 23:00</span>
+- [Phys.org (基础物理与技术前沿)] [学龄前男童更偏好较大群体，而成年人的选择则暗示其政治态度](https://phys.org/news/2026-10-preschool-boys-favor-bigger-groups.html) <span class="news-meta-time">🕒 2026-10-10 23:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20261010/elbrus-2123711109.html) <span class="news-meta-time">🕒 2026-10-10 23:23</span>
+:::
 :::timeline-item{start="2026-10-10 16:41 (UTC+8)" title="全球要闻情报简报 · 16:41" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-10-10 16:38 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -655,18 +668,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [乌克兰军队正尝试使用Steam Deck远程控制机枪炮塔（2023）](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets/) <span class="news-meta-time">🕒 2026-09-26 14:10</span>
 - [NASA News (深空探索与航天)] [每日天文一图（APOD）：2026年9月26日——镜中流星与银河](https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/) <span class="news-meta-time">🕒 2026-09-26 12:05</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/germaniya-2120412172.html) <span class="news-meta-time">🕒 2026-09-26 15:37</span>
-:::
-:::timeline-item{start="2026-09-26 09:49 (UTC+8)" title="全球要闻情报简报 · 09:49" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-26 09:39 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】美国国家航空航天局与波音公司将通报“星际客机”研制进展：将美国国家航空航天局（NASA）载人飞行测试宇航员布奇·威尔莫尔（Butch Wilmore）和苏尼·威廉姆斯（Suni Williams）送往国际空间站的波音“星际客机”（Starliner）飞船，画面中停靠在“和谐号”节点舱前向端口。；【undefined】OpenAI正调查“数十起”智能体不当行为事件：OpenAI已成为外界对不受控AI行为新担忧的焦点。；【undefined】Crusoe放弃在AI数据中心使用Boom燃气轮机的12.5亿美元计划：总部位于丹佛、近期刚刚筹集了39亿美元的AI数据中心初创公司Crusoe，已终止使用同在丹佛的Boom Supersonic公司开发的一系列新型固定式发电站的计划。；【undefined】破门而入：寄生虫如何为入侵宿主细胞做好准备：作者：怀特黑德生物医学研究所（Whitehead Institute for Biomedical Research）爱丽丝·麦卡锡（Alice McCarthy） 编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时着重指出了以下属性： 同行评审出版物；【undefined】警方表示：在树上发现上吊身亡的黑人女性在尸体被“伪造现场”前已死亡：警告：本文包含可能引起不适的细节内容；【undefined】媒体：埃及情报部门曾在10月7日之前警告以色列：埃及情报局局长阿巴斯·卡梅尔（Abbas Kamel）曾在10月7日之前就哈马斯可能发动的袭击向以色列发出警告。《大西洋月刊》（The Atlantic）援引以色列、埃及、美国、阿拉伯及欧洲消息人士的话报道了这一情况。据这些消息人士透露，2023年9月26日，卡梅尔飞抵特拉维夫，并就哈马斯似乎正在进行动员一事发出警告。避免袭击发生的时间窗口正在不断缩紧，卡梅尔曾建议以色列官员向哈马斯提供经济方面的优惠措施以避免冲突。卡梅尔当时并未提供袭；【undefined】富尔顿·希恩曾凭借布道信仰、道德与发出警示轰动电视界，迈克尔·诺尔斯称其言论至今仍具共鸣：大主教富尔顿·希恩（Fulton Sheen）几乎仅凭一块黑板、一件斗篷以及关于基督教、道德和共产主义威胁的信息，就吸引了数千万美国人守在电视机前。；外文信号正在进行中文翻译，暂不展示未翻译内容。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/pensii-2120382999.html) <span class="news-meta-time">🕒 2026-09-26 09:28</span>
-- [TechCrunch (硅谷创业与资本)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) <span class="news-meta-time">🕒 2026-09-26 09:08</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-26 08:00</span>
-- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wqaiob/americans_are_panicked_over_ai_and_affordability/) <span class="news-meta-time">🕒 2026-09-26 06:57</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html) <span class="news-meta-time">🕒 2026-09-26 08:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/nikolaev-2120382851.html) <span class="news-meta-time">🕒 2026-09-26 09:25</span>
 :::
 ::::

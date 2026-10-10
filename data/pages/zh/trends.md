@@ -20,6 +20,12 @@ notice:
 
 | 议题事件 | 关注热度 | 情绪光谱 | 底层社会与文化矛盾解构 |
 | :--- | :---: | :---: | :--- |
+| **culpert：具备 Span 感知与回归工具的 Rust 堆内存性能分析工具** | `待评估` | `待核验` | 【undefined】culpert：具备 Span 感知与回归工具的 Rust 堆内存性能分析工具：Culpert 目前仍处于极度实验性阶段并处于积极开发中，在生产环境中使用需自行承担风险。 |
+| **dasSDL3：面向 daslang 的符合惯用法的 SDL3 绑定** | `待评估` | `待核验` | 【undefined】dasSDL3：面向 daslang 的符合惯用法的 SDL3 绑定：本文是对原始博文 dasSDL3（俄语原文）的 AI 辅助英文译本。 我为 daslang 制作了 SDL 绑定。 SDL 抽象了对硬件和操作系统底层功能的访问。第 3 版还引入了对现代 GPU API 的抽象层。你仍然可以仅使用 SDL 来创建窗口，并通过其他图形 API（DirectX、Metal、OpenGL 或 Vulkan）向其中进行绘制。此外，还有多个配套库为 SDL 扩展了图像加载、更高级别的音频与网络 API，以及简单的 |
+| **Iframe 终于能自适应内容高度了** | `待评估` | `待核验` | 【undefined】Iframe 终于能自适应内容高度了：Chrome 154 允许 iframe 仅凭一行 CSS 即可根据其内容撑开高度，无需繁琐测量，无需收发消息，也无需尺寸调整脚本。但 iframe 内部的页面必须同意该行为。这个限制条件正是该特性最值得玩味之处，因此本文会对此着重探讨。 |
+| **Android 中实现“单次点击”执行 MMI 代码** | `待评估` | `待核验` | 【undefined】Android 中实现“单次点击”执行 MMI 代码：本文介绍了如何利用存在漏洞的拨号器应用程序，在 Android 系统中实现通过“单次点击”执行 MMI 代码。 |
+| **哦，看来在标准C中无法以可移植的方式检查字符串到浮点数的转换错误** | `待评估` | `待核验` | 【undefined】哦，看来在标准C中无法以可移植的方式检查字符串到浮点数的转换错误：这算是我上一篇文章的某种续篇。在上一篇中，我讨论了 math_errhandling 宏，以及 glibc 和 musl 是如何处理数学错误的（以及标准中是如何规范的）。 |
+| **为 TypeScript 编译器添加 Go 语言的 defer 语句** | `待评估` | `待核验` | 【undefined】为 TypeScript 编译器添加 Go 语言的 defer 语句：我原本想探究一下为 TypeScript 编译器添加 Go 语言的 defer 语句究竟有多难，但当我完成时，我已经确信它大概本就不该存在。 |
 
 ## 💬 思想社区与网民观点争鸣
 
@@ -27,8 +33,200 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-rupert648-culpert-b63b43f39051d419" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3309" data-content-paragraphs="29" data-published-at="2026-10-10T14:49:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 22:49</span>
+</div>
+
+### [culpert：具备 Span 感知与回归工具的 Rust 堆内存性能分析工具](https://github.com/rupert648/culpert)
+<div class="original-title-sub"><span class="orig-tag">原文</span> culpert - rust heap profiling with span awareness and regression tooling</div>
+
+<div class="article-body" data-article-body="true"><p>Culpert 目前仍处于极度实验性阶段并处于积极开发中，在生产环境中使用需自行承担风险。</p>
+<p>面向 Rust 服务的基于 Span 的堆内存分配性能分析工具。</p>
+<p>Culpert 是一款面向 Rust 库与服务的采样堆内存分配性能分析工具。它能够将内存分配归因至现有的 span，并导出兼容 pprof 的性能分析文件以及对 CI 友好的差异比对（diff），从而帮助在版本发布前发现内存分配回归问题。</p>
+<p>它能够与 tracing、Cloudflare Foundations 或其自带的 #[culpert::span_fn] 宏集成。Culpert 已经在 Cloudflare 的代码发布至生产环境前，成功捕获了数个真实的内存分配回归问题（包括一处内存泄漏）！</p>
+<p>它提供了一个 #[global_allocator] 包装器，可将每个采样的分配归因到其发生的 span 内部；导出 pprof 格式的性能分析数据，以便现有的工具生态（原版 pprof、Speedscope、Pyroscope、Polar Signals）能够继续工作；并附带一个命令行工具（CLI），提供无偏的单 span 报告以及用于 CI/PR 工作流的 diff 子命令。采用带有伯恩斯坦修正（Bernstein correction）的几何采样，在保持极低性能分析开销的同时提供无偏的内存分配估算。</p>
+<p>三种集成方式——任选适合您服务的一种：</p>
+<p>culpert-macros 由 culpert 重新导出（请勿直接依赖它）。</p>
+<p>最小可行配置，无需外部跟踪器（tracer）：</p>
+<p>每种接入方式都会返回一个 ProfilerGuard。在需要记录内存分配时保持该 guard 处于存活状态；在应用程序及线程局部（thread-local）清理之前将其 drop 即可安全停止性能分析。</p>
+<p>可运行版本参见 examples/macros。</p>
+<p>必须设置 default-features = false——foundations 默认的 jemalloc 特性会声明其自带的 #[global_allocator]，这会与 culpert 的 TrackingAllocator 冲突并导致链接失败。</p>
+<p>现有的 #[foundations::telemetry::tracing::span_fn] 注解无需额外成本即可直接转为归因键。参见 examples/foundations（最小化示例）和 examples/mock-axum（包含通过 pprof_route 提供 profile 服务的完整 HTTP 服务）。</p>
+<p>现有的 #[tracing::instrument] 注解直接转为归因键。可运行版本参见 examples/tracing。</p>
+<p>生成一份性能分析文件（*.pb.gz），您既可以将其输入到原版 pprof 中，也可以使用附带的 CLI 进行读取。下方的输出来自于承载负载的 examples/mock-axum 服务；三种集成路径生成的格式完全一致。</p>
+<p>默认模式：层级细分，每个子 span 嵌套在其父级之下。基于已安装的任意 SpanContext 所发出的 span_parent_id 标签构建。</p>
+<p>--flat 可为偏好该格式的用户切换为按字节数排序的表格。“bytes”列表示在每个 span 下分配的总字节数的无偏估算——每个底层采样都按 1 / (1 − exp(−bytes/rate))（几何采样的伯恩斯坦修正）进行加权。此处不显示原始采样（raw）列：在使用几何采样时，唯有经修正后的数值才具有实际意义。</p>
+<p>非常适用于排查“这究竟是我代码的问题，还是运行时的问题？”。它能显示发生在任何 span 之外的内存分配的前几大调用点（callsite）——例如 tokio 运行时工作、框架内部机制、foundations 或 tracing 自带的上报器，或是尚未打上注解的代码路径。</p>
+<p>面向 CI 工作流：通过 span_name 对“变更前”和“变更后”的性能分析文件进行 diff 比对，并支持绝对阈值（--threshold-bytes）和相对阈值（--threshold-pct）门禁。--format markdown 可以生成能够直接管道输出至 $GITHUB_STEP_SUMMARY 的内容：</p>
+<p>若要过滤掉在两份性能分析中分配量均小于 20 MiB 的 span，可添加 --min-span-bytes 20971520（默认值：0，即禁用）。只要在任一方恰好达到 20 MiB 的 span 仍符合保留条件，包括新增和消失的 span。现有的增量大小和百分比门禁依然生效；整份性能分析的总计仍包含所有 span。JSON 格式会将过滤掉的行保留为 quiet 状态。在 --tree 树形输出中，该最小值将应用于显示的子树总计（包含子项）。</p>
+<p>CI 可以设置环境变量 CULPERT_MIN_SPAN_BYTES=20971520，而无需显式传递该参数标志。显式的 --min-span-bytes 参数会覆盖环境变量，包括传入 0 来禁用该功能。CI 必须安装包含此选项的 CLI 版本。</p>
+<p>磁盘存储格式为标准 pprof，因此该生态体系中的所有工具均可读取：</p>
+<p>对于 CI 工作流，您通常需要拿上一周的性能分析数据作为基准进行比对。配套的 culpert-archive Cloudflare Worker 会以提交 SHA（commit SHA）作为键来存储 .pb.gz 文件；culpert-cli 的 upload / pull 子命令是其第一方客户端。端点与令牌从环境变量（CULPERT_ARCHIVE / CULPERT_TOKEN）中获取，提交 SHA / 分支从 GITHUB_SHA / GITHUB_REF_NAME 中获取，因此 GitHub Actions 的步骤内容非常简洁：</p>
+<p>为了在 CI 中即插即用，本仓库提供了一个封装完整流程的可复用复合 Action（composite action）：</p>
+<p>该代码块即可完成以下流程：culpert info（在运行日志中进行健全性检查）→ culpert pull --latest-of main --allow-missing → culpert diff --format markdown（发布至 $GITHUB_STEP_SUMMARY，并在 pull_request 事件中作为置顶 PR 评论发布）→ culpert upload 作为新的基准线。可通过该 action 的输入参数覆盖默认值——baseline-branch、threshold-bytes、threshold-pct、fail-on-regression 等。完整输入模式定义见 .github/actions/culpert-diff/action.yml。</p>
+<p>Culpert 自身的 rust.yml 对 example-macros 进行了性能分析并调用了同一个 action——这就是一个实际运行的范例。目前设置为仅告警（fail-on-regression: &quot;false&quot;），直到 main 分支积累了足够多的运行记录以使门禁具备实际意义。</p>
+<p>该 Worker 从不对 pprof 字节数据进行解析——它只是纯粹的存储服务。采样归因、伯恩斯坦修正、阈值逻辑均在此 CLI 中运行。部署方法和 HTTP 接口见 culpert-archive 的 README。</p>
+<p>examples/ 中包含展示各集成路径的四个独立示例：</p>
+<p>每个示例都会将性能分析文件输出至 /tmp/example-*.pb.gz。可通过 cargo run -p culpert-cli --bin culpert -- report 或 pprof -tags . 进行查看。</p>
+<p>采用 MIT 或 Apache-2.0 双重许可协议开源。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Culpert 是针对 Rust 库和服务的采样堆内存分配分析器（heap-allocation profiler），目前处于实验和开发阶段。</li>
+    <li>Culpert 可将内存分配归因至现有 span，并导出兼容 pprof 格式的分析文件（*.pb.gz）以及适用于 CI 的 diff 结果。</li>
+    <li>来源叙事重点：介绍 Culpert 作为面向 Rust 服务且具备 Span 感知能力的采样堆分配分析器，重点突出其与 tracing/Foundations 的集成能力、Bernstein 校正算法以及面向 CI 流程的回归检测与对比功能</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://github.com/rupert648/culpert" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-blog-339855472-eb972234b54b410e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7670" data-content-paragraphs="48" data-published-at="2026-10-10T13:48:45.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 21:48</span>
+</div>
+
+### [dasSDL3：面向 daslang 的符合惯用法的 SDL3 绑定](https://spiiin.github.io/blog/339855472/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> dasSDL3: Idiomatic SDL3 bindings for daslang</div>
+
+<div class="article-body" data-article-body="true"><p>本文是对原始博文 dasSDL3（俄语原文）的 AI 辅助英文译本。<br />我为 daslang 制作了 SDL 绑定。<br />SDL 抽象了对硬件和操作系统底层功能的访问。第 3 版还引入了对现代 GPU API 的抽象层。你仍然可以仅使用 SDL 来创建窗口，并通过其他图形 API（DirectX、Metal、OpenGL 或 Vulkan）向其中进行绘制。此外，还有多个配套库为 SDL 扩展了图像加载、更高级别的音频与网络 API，以及简单的 2D 图形功能。<br />我希望 daslang 也能拥有这样一把“瑞士军刀”，因此我利用 AI 为跨多个平台的 SDL3 全部功能构建了绑定。<br />这些绑定是通过 dasClangBind 生成的，它支持 C++ 的一个子集。它负责解析该库的代码并生成基础绑定。不过这些绑定仍需进一步打磨：移除不属于绑定的辅助宏与函数，并调整在不同语言之间难以直接转换的惯用法（例如原始指针，以及具有不同生命周期或内存管理规则的对象）。获得能够运行的绑定只是这项工作中第一步也是最轻松的一部分。<br />下一层是 sdl_boost，它是构建在基础绑定之上的一组辅助工具，让该库更易于使用，代码表达力也更强。每种语言都有自己的惯用法。出色的绑定能让你以在目标语言中感觉自然的形式来调用库函数。daslang 中的语法宏非常契合这一需求。<br />在设计接口时，我参考了 Rust 的 SDL3 绑定。我之前曾撰文介绍过 Rust 社区在 API 设计上的思路：《Rust 中优雅的 API》（Elegant APIs in Rust）。在这里，我将这些理念融入到了 daslang 中。<br />管道（Pipeline）是让接口使用起来更加便捷的特性之一。参见《管道机制可能是我最喜欢的编程语言特性》（Pipelining might be my favorite programming language feature）。在 daslang 中，|&gt; 运算符使 value |&gt; function(argument) 等价于 function(value, argument)。前一次调用的结果会成为下一次调用的第一个参数，因此代码读起来完全符合执行顺序。<br />你可以逐步构建对象的描述信息。例如，设置窗口大小、添加标志位并选择其位置：<br />window_options 会创建一个 WindowOptions，随后每次调用都会返回更新后的描述。此时窗口尚未真正创建：你可以单独准备配置项，然后再将它们传递给 with_window。类似的链式调用同样适用于纹理（texture）、着色器（shader）、采样器（sampler）以及图形管线（graphics pipeline）。<br />例如，下面是一个包含线性过滤、mip 级别之间插值以及纹理寻址方式的采样器描述：<br />filters 用于设置缩小和放大过滤器，mipmap_mode 控制 mip 级别之间的过滤方式，而 address_modes 则决定如何处理纹理范围之外的坐标。最终结果是一个普通的 SDL_GPUSamplerCreateInfo，你可以将其传给 with_gpu_sampler(device, sampler_settings)，从而创建一个具有明确生命周期的 GPU 资源。<br />这些都是普通的独立函数（free functions）。你无需将描述包装成带有方法的类就能实现链式调用。包围多行表达式的圆括号允许以 |&gt; 开头的折行代码正常续行。<br />对于简短的描述，直接指定各个字段会很方便：<br />当你逐步组装描述时，Builder 模式很有用；而当所有配置预先已知时，具名初始化则更加适用。<br />在 C 语言 API 中，结果通常被写入通过指针传递的参数中。而辅助层可以直接将它们作为普通值返回。例如，window_size(window) 会返回一个 Result，其中要么包含窗口大小，要么包含错误描述。在 daslang 语法中，该类型写作 $Result。<br />冗长的类型名可以通过 typedef 进行简写。例如，该库为没有实际成功返回值的操作定义了如下类型：<br />这样函数签名便可以使用 SdlStatus 来替代完整类型名。SdlUnit 代表空的成功值，sdl_ok() 则用于创建该成功结果。SdlError 存储操作名称和错误信息，这些内容会在释放资源之前拷贝保存。<br />你也可以为特定任务引入别名：<br />对于具有不同值类型的返回结果，该库提供了泛型形式 $SdlResult。例如，$SdlResult 与 $Result 是同一类型。它是通过一个向标准 Result 注入 SdlError 的类型宏（type macro）实现的。这些简写赋予了类型更便捷的名称，同时保留了其底层表示与行为。<br />Option 代表可能缺失的值。例如，某个 SDL 提示（hint）可能未被设置，此时你可以提供一个兜底值：<br />接口由此区分了“操作失败”与“值自然缺失”这两种不同情况。<br />当多个操作都返回 Result 时，你在每一步之后都必须检查错误。例如，我们获取窗口大小、打印它并清空渲染器。在没有任何辅助语法的情况下，代码看起来像这样：<br />window_size 与外层函数返回的结果具有不同的成功类型：int2 和 SdlUnit。如果第一次调用失败，其 SdlError 必须被放入带有相应成功类型的结果中。而对于 clear，其结果可以直接返回。<br />使用 sdl_try 后，同一个函数变得更加简短：<br />sdl_try 是一个语法宏：执行成功时提取值；执行失败时则从当前函数或代码块提前返回，并保留 SdlError。第一个示例中的各项检查依然存在，但由宏自动生成。这样一系列调用读起来就像一段动作序列，错误上报则可交由应用程序边界来统一处理。<br />外层函数或代码块必须返回一个错误类型为 SdlError 的 Result。sdl_try 不会解包 Option，也不负责管理指针生命周期；资源管理使用 with_* 作用域。<br />在 daslang 中，这种惯用法是在库级别实现的：sdl_try 通过语法宏生成检查逻辑并提前返回。在我看来，显式标记潜在的退出点是最便捷的方式：它能标明执行流程可能在何处终止，同时保持代码的线性结构，无需嵌套代码块或额外的花括号。其他语言也有类似的机制，可以在值缺失时终止执行链。<br />下面的示例使用了一个虚构的 SDL API：首先创建一个窗口，然后为其创建一个渲染器。创建函数返回 Option/Maybe；如果其中任何一步没有产生值，则后续步骤将被跳过。<br />Rust：? 运算符会从 Some 中提取值，或在遇到 None 时从当前函数返回 None。表达式中的潜在退出点清晰可见：<br />Haskell：在针对 Maybe 的 do 代码块中，&lt;- 会从 Just 中提取值。一旦遇到 Nothing，整个代码块的求值结果即为 Nothing，后续计算都会被跳过。这种行为源于对 Maybe 的计算绑定（monadic binding）：链条停止的位置隐藏在“行与行之间”，无需单独的退出运算符。</p>
+<p>在 C++ 中，RAII 是资源管理的常用方法：拥有所有权的对象在构造时获取资源，并在脱离作用域时在其析构函数中释放资源。这种对象所有权模型在 daslang 中不太典型：显式代码块以及通过 defer 实现的延迟清理，是定义外部资源生命周期的便捷方式。该语言虽然具备终结器（finalizers）和 inscope，但单凭指向 SDL 对象的指针并不能定义其所有权或清理规则。</p>
+<p>创建窗口或纹理仅完成了任务的一半：资源必须被释放，包括在发生错误提前返回时。with_* 系列函数将资源传递给代码块，并在代码块结束时将其释放。sdl_scope 和 sdl_use 允许你将若干个嵌套代码块编写为线性序列：</p>
+<p>该示例绘制了一帧；而在实际应用中，需要在资源生命周期内部运行事件与渲染循环。当代码块结束时，渲染器首先被释放，接着是窗口，最后关闭 SDL。如果渲染器创建或绘制失败，已创建的资源也会被一并释放。</p>
+<p>sdl_use 宏会将代码块的剩余部分移入对应 with_* 函数的回调中。这些指针保持借用（borrowed）状态：它们可以在该作用域内使用，但不得保存供后续使用或手动释放。资源生命周期紧随程序结构；无需单独的资源回收器。</p>
+<p>作为对比，以下是不使用 with_* 和 sdl_use 的相同示例（同时展开 sdl_try，它看起来几乎与 C 语言无异）。每个资源都在进入其清理块之前创建。defer 被移至其整个代码块的终结部分，因此仅在同一代码块中将其置于资源创建之后是不够的：在创建成功之前的提前返回中，清理也可能会执行。</p>
+<p>如果渲染器创建失败，窗口和 SDL 会被清理。如果绘制失败，所有三个资源将按相反顺序释放。with_* 封装了这些代码块和清理规则，而 sdl_use 则允许你在无需手动编写嵌套结构的情况下使用它们。</p>
+<p>你可以使用普通循环来处理事件队列：</p>
+<p>poll_events() 是一个惰性迭代器：它一次获取一个事件，并在队列为空时停止。如果你提前退出循环，后续事件仍会保留在队列中。代码接收到的不是包含 C 语言联合体（union）的原始 SDL_Event，而是一个包含已解码事件数据的变体类型 SdlEvent。该数据中的字符串和列表归属于生成的值，因此下一次轮询不会覆盖它们。</p>
+<p>可以使用 match 检查 SdlEvent 变体类型。每个分支都会接收其对应事件的数据：</p>
+<p>像素操作采用了相同代码块惯用法的另一种形式：该库临时提供对纹理内存的访问权限。例如，让我们用渐变填充一个 32 × 32 的 RGBA32 流式纹理：</p>
+<p>with_texture_pixels_rgba8 会在其代码块运行时锁定纹理，而 with_row 则提供来自单行像素的借用数组。在这里，# 标记了临时借用访问：这些数据不能被保留或传递到代码块外部。rgba8 将各分量打包为一个 uint。代码直接对纹理内存进行操作，而库则会考量行间距（row pitch），并在代码块结束时（包括在错误返回时）解锁纹理。该封装层还定义了数据类型，避免了通过 void* 指针进行的不安全访问。</p>
+<p>所有这三者具有相同的机器表示，但编译器将它们视为不同的类型。例如，顶点绑定专门接收一个 GpuBufferHandle 数组：</p>
+<p>传入 GpuTextureHandle 来替代 buffer 会导致编译期错误。在运行时，带校验的 API 还会验证资源种类、其是否仍然存在以及属于哪个设备。复制的句柄仍然是同一资源的别名：它不会创建单独的所有权，也不会延长其生命周期。这些检查适用于带校验的 GPU API；直接使用原生指针进行的 SDL 调用则保留其原始协定。</p>
+<p>许多 C 函数接收一个数据指针和一个单独的元素计数。对于脚本而言，数组更为方便，因为其大小已知。例如，让我们绘制一个三角形：</p>
+<p>适配器将指针和计数传递给 SDL 本身。在调用之前，它会检查索引边界、受支持的数组大小以及顶点值。</p>
+<p>代码块还可以定义设置的生效时长。例如，with_render_target 会保存当前渲染目标，切换到纹理，并在代码块结束时恢复之前的目标：</p>
+<p>对于 IO 而言，Result&lt;..., SdlError&gt; 可能不够充分：某项操作可能会传输部分数据随后失败。因此，read_io 和 write_io 返回 IoTransfer，它将传输的字节数与状态分开存储：</p>
+<p>即使 status 包含错误，transferred 依然可用。</p>
+<p>另一项特性是用 daslang 编写着色器。这利用了现有的 dasSpirv 编译器：注解用于标记着色器函数，编译器在编译脚本的同时生成 SPIR-V 和反射元数据。SDL 层利用这些结果来创建 GPU 资源。</p>
+<p>整个链路如下所示：带注解的函数 → SPIR-V 与反射 → 资源布局校验 → SDL GPU 着色器创建。着色器在脚本编译时进行编译，而 GPU 对象则在运行时（设备可用时）创建。</p>
+<p>例如，这是一个从 uniform 块读取颜色的片段着色器：</p>
+<p>@uniform 描述应用程序提供给着色器的数据，而 @out 描述其输出。</p>
+<p>该注解生成两个数组：包含 SPIR-V 的 solid_fragment : array，以及包含反射信息的 solid_fragment_reflect : array。反射描述了着色器阶段及其使用的资源。源函数名为 fragment_main，但生成的 SPIR-V 入口点名为 main。</p>
+<p>一旦设备可用，这两个数组都会传递给 with_gpu_dsl_shader。该代码片段使用了上一个示例中的定义：</p>
+<p>封装层读取反射信息，对照 SDL 规范验证资源，并填充 SDL_GPUShaderCreateInfo：着色器阶段以及 uniform 块和采样器的数量。SPIR-V 从字（words）数组转换为字节数组，并传递给常规的着色器创建函数。所生成对象的生命周期由熟悉的 with_* 作用域管理。</p>
+<p>代码和反射必须来自同一次编译。反射有助于填充创建参数，但应用程序仍需控制顶点着色器与片段着色器之间的兼容性、数据格式以及图形管线配置。</p>
+<p>你也可以使用预编译的着色器，跳过编译阶段。</p>
+<p>Tint 结构体也可以在应用程序端使用。然而，其普通的内存表示形式无法直接上传：GPU 需要 std140 布局。打包适配器负责处理这一问题：</p>
+<p>应用程序的结构必须与着色器声明相匹配：包装器不会根据命令缓冲区确定当前使用的着色器。若要在不分配新临时缓冲区的情况下反复进行打包，请使用带有可复用字节数组的 pack_gpu_dsl_uniform。</p>
+<p>同样的机制也适用于计算着色器：[compute_shader] 会生成 SPIR-V 和反射信息，而 with_gpu_dsl_compute_pipeline 会创建 SDL 计算管线，并根据反射信息推导工作组尺寸和资源数量。对于存储资源，额外的 sdl_shader_access 注解会记录读写访问模式；同时，std430 适配器会将结构体数组打包到存储缓冲区中。</p>
+<p>Vulkan 使用直接 SPIR-V 路径。D3D12 则通过独立的 SDL_shadercross 集成实现：with_gpu_dsl_shader_cross 和 with_gpu_dsl_compute_pipeline_cross 会将相同的 SPIR-V 转换为后端所需的格式。该路径需要 shadercross 及相应的编译器依赖项。</p>
+<p>SDL 中有关着色器的文章：https://moonside.games/posts/introducing-sdl-shadercross/https://moonside.games/posts/layers-all-the-way-down/</p>
+<p>daslang 不只是一门脚本语言。在受支持的平台上，其 JIT 编译模式通常能让解释执行的代码提速数倍。在无法使用 JIT 的情况下，它可以将代码转译为 C++。这一功能同样受到支持，并已纳入测试，以防止回归。</p>
+<p>该语言还支持热重载。你可以启动一个带有空窗口的应用程序，并在不重启应用程序的情况下持续添加功能。具体机制在《Running it live》中有说明。</p>
+<p>在 SDL 示例中，窗口、渲染器和 ImGui 上下文归原生宿主所有，并且在脚本重载后继续存在。live_watch_boost 模块会监视文件变更，并在保存后请求重载。使用 @live 注解的值会在增量重载期间恢复；完整重载则会重置脚本状态。</p>
+<p>一个最小的实时接口片段：</p>
+<p>UI 自动化通过 daslang 集成了 imgui_playwright。它为 ImGui 应用程序提供了脚本 API：控件通过 MAIN/INCREMENT 等名称寻址；你可以截取快照、点击或拖动控件、等待某个值发生变化，以及请求重载。</p>
+<p>例如，在将 app 连接到 HTTP 示例之后，你可以检查点击是否生效，以及点击结果是否在重载后仍然存在：</p>
+<p>完整的 playwright_widgets.das 还会通过合成鼠标事件拖动滑块，并在重载后检查其数值。自动化测试还会比较 UI 像素，以验证渲染结果是否发生变化。</p>
+<p>同一场景还可以录制演示或教程。record_widgets.das 会在 with_recording_app 中运行一系列操作：暂停、移动滑块、点击按钮并检查结果。应用程序通过 SDL 捕获帧，dasStbImage 则将其写入 APNG。在 Windows 上，支持录制功能的构建版本可以从仓库根目录通过一条命令启动：</p>
+<p>这样一来，即使 UI 发生变化，教程中的操作也能重复执行。该场景既描述了演示过程，也检查这些操作是否产生预期结果。AI 代理很擅长使用这一接口。</p>
+<p>通过 daspkg 可以将该库作为开箱即用的软件包安装，无需自行生成绑定或进行构建。源代码发行包还包含生成好的绑定，因此无需引入 LLVM 和 Clang。</p>
+<p>该库针对 Windows、Linux、macOS 和浏览器分别提供了配置档。共享的 boost 模块建立在绑定之上，而这些绑定已针对各个平台的 ABI 和可用函数进行了适配。</p>
+<p>图形功能采用两条路径。SDL_Renderer 提供面向纹理、矩形和几何图形的现成二维操作。SDL_GPU 则让你能够控制着色器、缓冲区、图形管线和计算管线。浏览器配置档使用 Renderer/WebGL；原生 SDL GPU 示例尚未移植到该配置档，而固定使用的 SDL 版本也没有 WebGPU 后端。</p>
+<p>着色器格式对 SDL GPU 同样很重要。Vulkan 接受 SPIR-V，Direct3D 12 接受 DXIL，Metal 接受 MSL 或 Metallib。在 GPU 示例中，单个 daslang 源文件会被编译为 SPIR-V：Vulkan 直接使用它，而 Direct3D 12 和 Metal 则使用 SDL_shadercross。Direct3D 12 路径还需要 DXC。你也可以提供相应格式的预编译着色器。</p>
+<p>可以通过 SDL_GPU_DRIVER 选择后端：vulkan、direct3d12 或 metal。</p>
+<p>SDL 也可以与 daslang 中通过 dasVulkan 和 dasOpenGL 提供的独立 Vulkan 和 OpenGL 绑定配合使用。SDL</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>作者为 daslang 制作了 SDL3 绑定（dasSDL3）。</li>
+    <li>SDL 抽象了对硬件和操作系统的访问，并在第 3 版引入了对现代 GPU API 的抽象。</li>
+    <li>来源叙事重点：介绍为 daslang 语言构建惯用 SDL3 绑定（dasSDL3）的设计理念、架构实现（包括基于 dasClangBind 和 AI 的自动生成、sdl_boost 语法宏辅助层、管道操作符、错误处理范式）以及着色器集成与热重载特性。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://spiiin.github.io/blog/339855472/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-y-fit-their-content-html-a53cb908e2de8d3b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2413" data-content-paragraphs="20" data-published-at="2026-10-10T12:54:56.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-10-10 20:54</span>
+</div>
+
+### [Iframe 终于能自适应内容高度了](https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Iframes that finally fit their content</div>
+
+<div class="article-body" data-article-body="true"><p>Chrome 154 允许 iframe 仅凭一行 CSS 即可根据其内容撑开高度，无需繁琐测量，无需收发消息，也无需尺寸调整脚本。但 iframe 内部的页面必须同意该行为。这个限制条件正是该特性最值得玩味之处，因此本文会对此着重探讨。</p>
+<p>我曾搭建过许多使用支付服务商 iframe 的结账页面。其目标始终是让银行卡表单看起来像原生页面的一部分，用户不应察觉它来自另一个网站。</p>
+<p>然而过去 iframe 在这方面毫无助力。它拥有固定高度。如果设得太高，表单下方会出现空白缝隙；如果设得太低，页面滚动条内部又会出现内层滚动条。在移动设备上，在用户即将付款时展示那第二个滚动条简直是最糟糕的体验。于是我只能不断调大高度，在不同的手机上测试，然后再继续调高。</p>
+<p>这本是一个小问题，理应有轻巧的解决方案。但多年来一直没有。</p>
+<p>父页面无法窥视跨域 iframe 的内部情况，因而无从得知其内容的高度。因此唯一的办法就是让两个页面通过 JavaScript 相互通信。</p>
+<p>在 iframe 内部，你需要测量内容并将高度发送给父页面：<br />在父页面中，你需要监听消息、校验消息发送方，并设置相应高度：<br />这看起来很简短，但却掩盖了诸多问题：<br />最后一个问题并未随着新特性的到来而消失，它只是转移到了浏览器底层来处理。</p>
+<p>在父页面中，你只需为 iframe 添加一个 CSS 属性：<br />在 iframe 内部，该页面需要在其 &lt;head&gt; 中通过 meta 标签进行授权加入，同时声明允许哪些网站调整其尺寸：<br />对于加载后内容不再发生变化的场景，以上就是所需的全部配置。浏览器会自动测量内容并设置 iframe 的尺寸。你的代码中不再需要任何消息传递、监听器或源检查。该 meta 标签必须从一开始就存在于 HTML 中，后续通过 JavaScript 动态添加是无效的。</p>
+<p>如果后续内容发生变化（例如出现错误提示、某个区域展开、加载了更多评论），iframe 内部页面只需请求浏览器重新测量：<br />因此 JavaScript 并未彻底退场。内嵌页面在其内容发生变化时仍需调用一个函数。但繁琐棘手的部分已经不复存在，如今全由浏览器一手包办。</p>
+<p>frame-sizing 属性还支持 content-width、content-inline-size 以及 content-block-size。对于大多数页面而言，content-height 才是你真正需要的。你依然可以将其与 max-height: 80vh 等限制条件结合使用。</p>
+<p>这是我最关注的使用场景，同时也是最依赖他方支持的场景。</p>
+<p>支付表单的高度瞬息万变：卡号下方可能弹出错误提示；用户可能从银行卡切换为电子钱包；或者显示出已保存的卡片列表。借助 frame-sizing，所有这些变动都能在你的结账流程中丝滑展现。</p>
+<p>但你无法单方面开启这项功能。你掌控的是结账页面的 CSS，而支付服务商掌控的是 iframe 内部的页面。只有他们才能添加该 meta 标签、列出允许的商户站点名单，并在其表单变动时调用 requestResize()。</p>
+<p>因此在支付场景下，核心问题并非“Chrome 是否支持此功能？”，而是“我的支付服务商是否支持此功能？”如今大多数服务商要么提供自带的 postMessage 脚本，要么什么都不做。如果你正与某家服务商合作，不妨向他们提出这一需求。如果你本身就是开发者，对使用你服务的每一家商户而言，这都是一项低成本的高收益优化。</p>
+<p>表单的每一个步骤高度各有不同。第一步只有两个输入框，第三步可能多达十个。在当下，你必须要么为最高的步骤预留足够空间，要么任由 iframe 出现滚动条。借助这项新特性，表单只需在每个步骤切换后调用 requestResize()，iframe 就会随之调整大小。</p>
+<p>这种场景无需任何第三方配合。许多应用会使用带有 srcdoc 的沙盒化 iframe 来展示 HTML 邮件预览、富文本预览或代码演示。由于内嵌的 HTML 是由你自己编写的，因此你可以直接添加该 meta 标签。这或许是当下上手使用该特性的最简易切入点。</p>
+<p>浏览器兼容性。该特性目前仅支持 Chromium 内核浏览器，Firefox 和 Safari 暂不支持。应将固定高度作为默认回退方案，并在支持的环境下才切换为内容自适应尺寸：<br />在 iframe 内部，调用新函数前应先进行环境检查。在兼容性普及之前，原有的 postMessage 代码可保留作为降级备用方案：<br />布局偏移（Layout shift）。iframe 会在你的页面之后完成加载，随后撑开高度，其下方的所有内容都会被向下挤压。如果 iframe 位于首屏，这可能会损害你的 Core Web Vitals 指标。设置一个合理的 min-height 可以减轻这种跳变抖动。</p>
+<p>切勿无端使用 allow-origins=*。允许任意站点读取你页面的高度可能会导致信息泄露。例如，一个在用户登录后高度会增加的页面，无形中向父页面透露了该用户的状态信息。请仅列出确有需要的站点。这一机制与 CSP 的 frame-ancestors 规则协同运作，后者控制着究竟谁有权将你的页面嵌入。</p>
+<p>多年以来，“让容器根据其内容自适应高度”这样一个简单的布局需求，却需要两个网站上的两段脚本协商统一的消息格式。如今，它简化为了一行 CSS 属性、一个 meta 标签，以及内容变化时的一次函数调用。</p>
+<p>Chrome 端的浏览器支持已经就绪。剩下的就取决于那些构建我们所内嵌页面的人了。如果你运营着支付网关、评论服务或任何运行在 iframe 中的小部件，请尽早添加该 meta 标签。你的用户在结账和浏览页面时，将会体会到浑然一体的原生体验。</p>
+<p>在后续的文章中，我将专门针对我们所在地区的支付服务商进行深入探讨。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 20:54 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-mmi-android-883bf45fa0f50afa" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5128" data-content-paragraphs="37" data-published-at="2026-10-10T07:20:53.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5331" data-content-paragraphs="36" data-published-at="2026-10-10T07:20:53.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -37,53 +235,51 @@ notice:
   <span class="news-meta-time">🕒 2026-10-10 15:20</span>
 </div>
 
-### [Android系统中的一键执行MMI代码漏洞](https://karansaini.com/mmi-android/)
+### [Android 中实现“单次点击”执行 MMI 代码](https://karansaini.com/mmi-android/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> 1-click MMI execution in Android</div>
 
-<div class="article-body" data-article-body="true"><p>本文介绍了如何利用存在漏洞的拨号器应用程序，在Android系统中实现一键（1-click）执行MMI代码。</p>
-<p>一段时间以来，我一直知道拥有 CALL_PHONE 权限的Android应用不仅可以拨打普通电话号码，还可以拨打USSD和MMI代码。从我知道这一点起，我就一直想开发一种攻击方式，只需极少或完全无需用户交互，即可从某个应用程序或网页中执行MMI代码。三年前，我曾制作过一个概念验证（PoC），通过滥用 CALL_PHONE 权限在手机上静默设置呼叫转移。但这显然需要用户侧载（sideload）恶意应用程序，从而削弱了其攻击影响。上个月，我发现并报告了若干漏洞，当用户设备上安装了存在漏洞的拨号器应用时，这些漏洞可导致一键执行MMI代码。</p>
-<p>MMI和USSD代码是输入到拨号器中的一串数字、星号和井号，但它们并不是电话号码——例如 *123#、*#06#、**21*#。两者均由3GPP进行规范：人机接口（Man-Machine Interface）代码定义在TS 22.030中，非结构化补充业务数据（Unstructured Supplementary Service Data）定义在TS 22.090中。在设备上，这些代码只能通过拨号器（或SIM卡应用）访问。</p>
-<p>android.permission.CALL_PHONE 是一项普通的运行时权限。你的设备上可能已经有少数应用被授予了此权限（例如 WhatsApp、Signal、Truecaller）。用户在授予该权限时看到的提示文字是“拨打电话和管理通话”。</p>
-<p>用户看到的 CALL_PHONE 权限弹窗。截图由 Raghav Aggarwal / ProAndroidDev 提供。</p>
-<p>问题包含两个方面：</p>
-<p>实现这一切的前提条件是一个拥有 CALL_PHONE 权限的应用，同时该应用还向浏览器暴露了一个可访问其拨号路径的深度链接（deeplink）。这种应用将我们的本地能力转变成了远程能力。这两种特性单独来看都很寻常，但结合在一起时，就允许了一键执行MMI代码。</p>
-<p>为了了解浏览器可访问的拨号器深度链接有多普遍，我对88款通话、拨号及VoIP应用程序进行了清单文件（manifest）级别的扫描。其中，有66款声明了 CALL_PHONE 权限，有54款暴露了某种浏览器可访问的拨号接口表面。需要指出的是，其中大多数只是将提供的号码预先填入拨号盘，而不是直接拨打，这意味着就现状而言，并非所有应用都可以被利用。</p>
-<p>该扫描并不等同于存在漏洞的应用程序计数。任何特定应用是否可以被以此种方式滥用，取决于该应用如何处理其深度链接。扫描得出了一个值得进一步审查的候选应用列表。</p>
-<p>针对这些候选应用，我开始在模拟器（API 34，Android 14）上进行测试，因为起初我手头没有Android实体设备。在模拟器中测试的一个额外好处是，可以使用 dumpsys 捕获电话通信行为。从网页触发拨号器的深度链接第一次尝试就成功了！遗憾的是，Google要求向其报告的安全漏洞必须在不超过30天内的系统版本上进行测试。接着我尝试启动一个Android 17模拟器，但在运行可用镜像时遇到了问题，因此我暂停了一会儿，尝试找一台实体手机来进行端到端的行为验证。</p>
-<p>经过一番寻找，我拿到了一台实体手机——一台运行Android 16（One UI 8.5）的三星Galaxy M16 5G，版本号为 BP4A.251205.006.M166PXXS7DZG1，安全补丁级别为2026年7月5日——这让我能够在真实的运营商网络上而非模拟网络上确认该行为。最终我也成功运行了Android 17模拟器镜像，并在上面重新执行了所有操作，完全复现了该行为。</p>
-<p>ACR Phone / Cube ACR（com.nll.cb，安装量超过500万次）包含一个Intent过滤器，声明了操作 android.intent.action.CALL_BUTTON、类别 android.intent.category.BROWSABLE 以及 tel: 数据协议。它解析到的Activity将 tel: 数据传递到了自动拨号路径中，即提供的字符串会被直接拨打，而不是呈现给用户进行确认。</p>
-<p>Chrome的 intent: URI 语法允许网页为其发出的Intent指定任意Action。Chrome在派发之前执行的唯一检查就是解析该Intent的过滤器声明了 BROWSABLE；它不会对Action本身进行任何过滤。因此，网页可以随意指定 CALL_BUTTON，此时ACR的自动拨号路径随即运行，所提供的字符串将在ACR自身的 CALL_PHONE 授权下执行，而不是在浏览器持有的任何授权下执行。</p>
-<p>还有一个针对ACR的前提条件：除了拥有 CALL_PHONE 权限外，它还必须持有 DIALER 角色——DialerActivity.a0() 会检查默认拨号器状态，否则将重定向到其设置界面。这两个条件对于替换型拨号应用（如ACR）来说都是正常的，但都不是系统默认的。此外，这些前提条件仅适用于本次演示，而不影响底层问题本身，即对于任何 CALL_PHONE 持有者，无论其是否具备该角色，在执行MMI时都缺乏用户同意和确认。</p>
-<p>我运行了两个载荷（payload）：下面的余额查询，以及下一节中的呼叫转移设置。两者均执行成功。在每种情况下，结尾的井号都进行了百分号编码，写为 %23：</p>
-<p>字面意义上的 # 可以在 Intent.parseUri() 中保留下来——该函数通过 lastIndexOf(&quot;#Intent;&quot;) 而不是通过搜索URI中的第一个井号来定位fragment——但是井号随后会在拨号路径的下游丢失，字符串的剩余部分随后会作为普通电话呼叫拨打给该号码，而不是作为MMI代码处理。因此必须使用 %23。</p>
-<p>点击链接不会弹出选择器（chooser）——ACR是同时拥有 BROWSABLE 和 tel: 协议的该操作的唯一处理程序——也不会有任何形式的确认。从 dumpsys activity recents 捕获的Android传递的Intent如下：</p>
-<p>以及来自 dumpsys telecom 的相应电话通信记录：</p>
-<p>DIALED_MMI 意味着系统框架将提供的字符串作为MMI代码处理，而不是将其作为号码拨打。从点击到通话创建所经过的时间大约为1.3秒，除了单次点击之外无需任何交互。</p>
-<p>Android 17上的复现情况。在状态栏时钟旁边可以看到呼叫转移指示符。</p>
-<p>MMI的执行绝不会被添加到通话列表中，因此通话记录中没有任何可供查看的内容。唯一可见的痕迹是一个在约两秒后自动消失的对话框，以及状态栏中的呼叫转移指示符，我怀疑极少有用户能识别出该指示符或对其采取行动——更不用说将其归因于他们当天早些时候点击过的链接了。怀疑有异常发生的用户没有任何记录可供确认。</p>
-<p>上述所有内容都取决于所选应用程序具有一个公开的、可自动拨号的深度链接。然而，在Android 17上进行测试时，我遇到了一个相关的平台变更，该变更甚至消除了这一要求。该问题已单独报告，且仅在模拟器上得到了确认。</p>
-<p>Android 17 将 Telecom 移入 com.android.telephonycore Mainline 模块，并将其用户界面拆分为一个独立的特权应用。com.android.server.telecom 现在只是一个垫片，会针对 com.google.android.telecomui 重新启动它所接收到的 ACTION_CALL intent；后者随后以自身身份调用 TelecomManager.placeCall()。最初发起呼叫的软件包不会在这一交接过程中被带过去。由于 telecomui 持有 CALL_PRIVILEGED，Telecom 评估的身份是特权拨号器的身份，因此原本会拒绝危险 MMI 字符串的检查被跳过了。</p>
-<p>其结果是，在 Android 17 上，一个仅持有 CALL_PHONE、且不具备拨号器角色的应用，通过 ACTION_CALL 发送普通的 **21* #，就会被作为 MMI 代码分发；整个过程中既不需要精心构造的载荷，也不需要存在易受攻击的第三方应用。经过评估的身份变成了 com.google.android.telecomui，而不是发起呼叫的应用身份。</p>
-<p>这一控制机制是在 Android 14 中加入的；在 Android 14 到 16 上，要获得相同的能力，需要使用一种能够绕过 MmiUtils 检查、同时又能在规范化过程中存活下来的载荷。Android 17 似乎堵住了这种规避方式，随后又让这种规避变得不再必要。它所采用的门控机制比 Android 14 提供的机制更弱。</p>
-<p>我于 9 月 14 日单独报告了这一问题。Google 于 9 月 24 日将其以重复问题结案，理由是该问题与 Google 自家一名工程师此前报告的问题重复。我请求将我加入那份报告，但对方告知无法共享，因为那是一份包含机密系统信息的内部漏洞报告——不过，对方表示我的报告描述的是相同的根本原因，即 UserCallActivity 这个中转组件丢弃了原始调用者的身份。</p>
-<p>CALL_PHONE 允许静默语音呼叫，这一点既有文档依据，也具有合理性。但这种授权是否应当扩展到 MMI 执行，则是另一个问题。</p>
-<p>一种狭义的修复方式，是在电话栈执行通过 ACTION_CALL 从一个并非用户所选择的默认拨号器、且并非由直接用户输入触发的应用传入的 MMI 字符串之前，弹出确认提示并显示代码原文。更广泛的修复方式，则是完全将这一能力解耦：保留 CALL_PHONE 用于拨号，同时通过单独命名的专用权限，或通过一个明确且需要确认的 API，对 MMI 执行进行控制——就像 TelephonyManager.sendUssdRequest() 已经采用的方式一样。无论采用哪种方式，都可以消除这条可经由网络触达的路径，而不必依赖每一位开发者修复其深层链接处理逻辑。</p>
-<p>我于 2026 年 9 月 12 日向 Android &amp; Google Devices VRP 报告了 CALL_PHONE/MMI 问题，并于 9 月 14 日补充进行了 Android 17 重测，确认该链路仍然有效。该报告于 9 月 17 日以“不修复（不可行）”结案。对方给出的评估是：这并不是 Android 本身的漏洞，而是 ACR 等第三方拨号器应用未安全处理深层链接所导致的后果；平台层面的加固将被视为未来的改进，而不是针对该问题的修复。</p>
-<p>我不同意这一结论，理由已在上文部分中说明——权限授予并不会告知用户存在执行 MMI 的可能性；如果没有平台层面的改变，该模型的安全性就取决于每一个具备呼叫能力的应用都对其深层链接进行审查，以发现自动拨号路径，而我认为这并不可行。我在回复中再次提出了相同观点。Google 的立场没有改变。至于“已记录该问题，以便未来版本可能进行修复”这句话究竟意味着什么，对方解释道：</p>
-<p>当我们说“已记录该问题，以便未来版本可能进行修复”时，我们的意思是，我们的团队正在研究未来如何改进 Android 平台，以帮助防止第三方应用犯下这类错误。然而，由于这属于整体性的平台改进，而不是针对 Android 漏洞的直接修复，因此我们这边将该报告结案。</p>
-<p>关于我提出的修复措施，对方表示：</p>
-<p>虽然我们同意 Android 平台可以在这一领域得到改进——例如采用你建议的解耦权限或增加用户确认提示——但这类架构变更被视为平台改进，而不是当前操作系统中的安全漏洞。由于该漏洞利用依赖于第三方应用不当暴露其拨号路径，因此仍不属于 Android &amp; Google Devices 漏洞奖励计划的范围。</p>
-<p>我于 10 月 9 日向 ACR Phone 的开发者报告了深层链接问题，并建议在可从外部触达的拨号路径上拒绝 MMI 和 USSD 字符串。</p>
-<p>对方的回应速度远超我的预期。开发者在 48 分钟后作出回复，称修复已提交，将包含在下一版本中，并提供了一个 beta 版本供验证。开发者表示，Play 版本的发布取决于 Google 的审核；他预计审核将在下一周周末前后完成。</p>
-<p>CALL_PHONE 与 MMI 执行</p>
-<p>TelecomUi 中转组件</p></div>
+<div class="article-body" data-article-body="true"><p>本文介绍了如何利用存在漏洞的拨号器应用程序，在 Android 系统中实现通过“单次点击”执行 MMI 代码。</p>
+<p>我很久以前就知道，拥有 CALL_PHONE 权限的 Android 应用除了拨打常规电话号码外，还可以拨打 USSD 和 MMI 代码。自从知晓这一点以来，我一直想开发一种攻击方式，在极少或无需用户交互的情况下，从某个应用程序或网页执行 MMI 代码。三年前，我曾创建过一个概念验证（PoC），通过滥用 CALL_PHONE 权限在手机上静默设置呼叫转移。但这显然需要用户侧载（sideload）恶意应用程序，从而削弱了其实际影响。上个月，我发现并报告了一些漏洞：当用户设备上安装了存在漏洞的拨号器应用时，攻击者即可实现“单次点击”执行 MMI 代码。</p>
+<p>MMI 和 USSD 代码是在拨号盘中输入的一串由数字、星号和井号组成的字符，但它们并不是普通的电话号码——例如 *123#、*#06#、**21* # 等。两者均由 3GPP 规范定义：人机接口代码（Man-Machine Interface codes）定义在 TS 22.030 中，非结构化补充业务数据（Unstructured Supplementary Service Data）定义在 TS 22.090 中。在设备端，这些代码只能通过拨号器（或 SIM 卡应用）调用。</p>
+<p>android.permission.CALL_PHONE 是一个普通的运行时权限。你的设备上可能已经有少数应用程序获得了此权限（例如 WhatsApp、Signal、Truecaller）。用户在授予该权限时看到的提示文本为“拨打和管理电话”。</p>
+<p>用户看到的 CALL_PHONE 权限提示对话框。截图由 Raghav Aggarwal / ProAndroidDev 提供。</p>
+<p>问题在于两方面：</p>
+<p>所有这一切的前提条件是：一个拥有 CALL_PHONE 权限的应用，同时向其拨号路径暴露了一个可通过浏览器访问的深层链接（deeplink）。这种应用程序将我们的本地利用能力转化为了远程利用能力。这两个特性单独来看都并不起眼，但结合在一起时，便可实现“单次点击”执行 MMI 代码。</p>
+<p>为了了解可通过浏览器访问的拨号器深层链接有多普遍，我对 88 款通话、拨号器和 VoIP 应用进行了清单文件（Manifest）级别的扫描。在这些应用中，有 66 款声明了 CALL_PHONE 权限，有 54 款暴露了某种可通过浏览器访问的拨号接口。需要指出的是，其中大多数应用只会将传入的号码预填到拨号盘中，而不会直接拨打，这意味着就现状而言，并非所有这些应用都可被利用。</p>
+<p>该扫描并不是存在漏洞的应用数量统计。某个具体应用是否能被以此种方式滥用，取决于该应用如何处理其深层链接。此次扫描生成了一份值得深入检查的候选应用列表。</p>
+<p>顺着这些候选应用排查，我首先在模拟器（API 34，Android 14）上展开测试，因为我手头最初没有现成的物理 Android 设备。在模拟器中测试的一个额外好处是，可以使用 dumpsys 捕获电话通信行为。第一次尝试从网页触发拨号器的深层链接就成功了！遗憾的是，Google 要求向其报告的安全漏洞必须在发布时间不超过 30 天的系统构建版本上进行测试。接着我尝试启动 Android 17 模拟器，但在获取可正常运行的镜像时遇到了问题，因此我暂停了一会儿，尝试找一台实体手机来进行端到端的行为验证。</p>
+<p>经过一番寻找，我设法搞到了一台物理真机——运行 Android 16（One UI 8.5）的三星 Galaxy M16 5G，构建版本为 BP4A.251205.006.M166PXXS7DZG1，安全补丁级别为 2026 年 7 月 5 日。这使我能够在真实的运营商网络而非模拟网络环境中验证该行为。最终我也成功让 Android 17 模拟器镜像跑了起来，并在其上重新运行了全部流程，结果完全一致地复现了。</p>
+<p>ACR Phone / Cube ACR（com.nll.cb，安装量超过 500 万次）包含一个 Intent 过滤器，声明了操作 android.intent.action.CALL_BUTTON、类别 android.intent.category.BROWSABLE 以及 tel: 数据协议（scheme）。该 Intent 解析后对应的 Activity 会将 tel: 数据传递给自动拨号路径，也就是说，传入的字符串会被直接拨出，而不会呈现给用户进行确认。</p>
+<p>Chrome 的 intent: URI 语法允许网页为其发出的 Intent 指定任意 Action。Chrome 在派发之前执行的唯一检查，就是确认解析该 Intent 的过滤器是否声明了 BROWSABLE；它不会对 Action 本身应用任何过滤。因此，网页可以随意指定 CALL_BUTTON，此时 ACR 的自动拨号路径就会运行，传入的字符串将以 ACR 自身持有的 CALL_PHONE 权限执行，而非依赖浏览器持有的任何权限。</p>
+<p>还有一个前提条件是 ACR 特有的：除了持有 CALL_PHONE 之外，它还必须持有 DIALER 角色——DialerActivity.a0() 会检查默认拨号器状态，否则将重定向到其设置页面。对于替代型拨号器（如 ACR）而言，这两个条件都是符合预期的，但都不是系统默认的。此外，这些前提条件仅适用于此演示场景，而非底层问题本身；底层问题在于：对于任何 CALL_PHONE 权限持有者，无论其具备或不具备何种角色，在执行 MMI 时都缺乏用户同意和确认机制。</p>
+<p>我运行了两个载荷：下面的余额查询，以及下一节中的呼叫转移设置。两者均执行成功。在这两种情况下，末尾的井号均进行了百分比编码，写作 %23：</p>
+<p>字面量的 # 可以在 Intent.parseUri() 处理后保留下来（该方法通过 lastIndexOf(&quot;#Intent;&quot;) 而非查找 URI 中的第一个井号来定位 Fragment），但在后续的拨号路径中井号会丢失，字符串剩余的部分随后会被当作普通电话呼叫拨出，而不是作为 MMI 代码处理。因此必须使用 %23。</p>
+<p>点击链接不会弹出应用选择器——因为 ACR 是该操作下唯一同时匹配 BROWSABLE 和 tel: 协议的处理器——也不会出现任何形式的确认提示。从 dumpsys activity recents 捕获到的 Android 所传递的 Intent 如下：</p>
+<p>以及来自 dumpsys telecom 的对应电话记录：</p>
+<p>DIALED_MMI 意味着系统框架将传入的字符串作为 MMI 代码进行了处理，而不是将其作为普通号码拨打。从点击到呼叫建立所耗费的时间大约为 1.3 秒，除了单次点击之外无需任何其他交互。</p>
+<p>在 Android 17 上的复现情况。在状态栏时钟旁可以看到呼叫转移指示图标。</p>
+<p>MMI 代码的执行绝不会被添加到通话列表中，因此通话记录中没有任何可供查看的痕迹。唯一肉眼可见的痕迹是一个在约两秒后自动消失的对话框，以及状态栏中的呼叫转移指示图标——我怀疑极少有用户能识别出该图标或采取相应行动，更不用说将其与当天早些时候点击过的某个链接联系起来了。即使用户怀疑发生了异常，也没有任何可供他们确认的记录留存。</p>
+<p>上述一切都建立在所选应用具有可自动拨号的公开深层链接这一基础之上。然而，在 Android 17 上进行测试时，我偶然发现了平台层面的一个相关变动，该变动甚至消除了这一前提要求。该问题已另行报告，且仅在模拟器上得到了证实。</p>
+<p>Android 17 将 Telecom 移入了 com.android.telephonycore Mainline 模块，并将其用户界面拆分到了一个独立的特权应用中。com.android.server.telecom 现在只是一个垫片（shim），它将接收到的 ACTION_CALL Intent 重新针对 com.google.android.telecomui 启动，而 telecomui 随后以其自身身份调用 TelecomManager.placeCall()。在这一交接过程中，最初发起呼叫的应用包名并未被传递。由于 telecomui 拥有 CALL_PRIVILEGED 权限，Telecom 所评估的身份是一个特权拨号器，原本会拦截危险 MMI 字符串的检查因此被跳过。</p>
+<p>这样产生的影响是，在 Android 17 上，一个仅持有 CALL_PHONE 权限、且不具备拨号器角色（dialer role）的应用通过 ACTION_CALL 发送普通的 **21* #，就会被作为 MMI 代码分发执行，全程无需精心构造的载荷，路径中也不存在任何易受攻击的第三方应用。被评估的身份变成了 com.google.android.telecomui，而非实际发起调用的应用身份。</p>
+<p>这一管控是在 Android 14 中引入的；在 Android 14 到 16 上，要达到相同的能力，需要构造一个既能绕过 MmiUtils 又能在规范化处理中存活下来的载荷。Android 17 似乎封堵了这种绕过方式，但紧接着又让这种绕过变得毫无必要。它所搭载的安全防护门槛比 Android 14 当初提供的还要薄弱。</p>
+<p>我在 9 月 14 日单独报告了这一问题。Google 于 9 月 24 日将其作为重复问题关闭，理由是他们自己的一名工程师早先已报告过该问题。我申请加入该报告的关注列表，但被告知无法共享，因为这是一个包含系统机密信息的内部缺陷——但对方确认我的报告指出了相同的根本原因，即 UserCallActivity 蹦床（trampoline）丢弃了原始调用者的身份。</p>
+<p>CALL_PHONE 授权静默语音呼叫既有文档记载，也是站得住脚的设计。但该授权是否应延伸至 MMI 执行，则是另一个问题。</p>
+<p>一个局部修复方案是弹窗确认提示：当电话协议栈收到非用户选定默认拨号器根据用户直接输入通过 ACTION_CALL 发送的 MMI 字符串时，在执行前显示字面代码并要求确认。更彻底的修复方案则是将这两种能力完全解耦：保留 CALL_PHONE 用于拨号，并将 MMI 执行限制在一个措辞明确的专属权限或明确需确认的 API 之后——正如 TelephonyManager.sendUssdRequest() 现在的做法一样。无论哪种方法，都可以彻底消除可通过网络触达的攻击路径，而无需依赖各个开发者去修复各自的深层链接（deeplink）处理逻辑。</p>
+<p>我于 2026 年 9 月 12 日向 Android 与 Google 设备漏洞奖励计划（VRP）报告了 CALL_PHONE/MMI 问题，并于 9 月 14 日在 Android 17 上进行了复测，确认该链条依然有效。该报告于 9 月 17 日被标记为“不予修复（不可行）”[Won’t Fix (Infeasible)] 并关闭。给出的评估意见是：这并非 Android 自身的漏洞，而是 ACR 等第三方拨号应用中不安全的深层链接处理所致，平台层面的加固将被视为未来的改进而非漏洞修复。</p>
+<p>我对此并不认同，理由如前文所述——权限授予并未告知用户可能执行 MMI 代码的风险，而且在缺乏平台级修改的情况下，该模型的安全性完全依赖于对所有具备通话能力的应用审查深层链接自动拨号路径，我认为这是不可行的。我在回复中提出了这些观点。Google 的立场并未改变。针对“已记录此问题以供未来版本潜在修复”的含义：</p>
+<p>“当我们提到‘已记录此问题以供未来版本潜在修复’时，我们的意思是团队正在研究未来改进 Android 平台的方法，以帮助防止第三方应用犯下此类错误。然而，由于这是一项整体平台改进，而不是对 Android 漏洞的直接修复，因此我们这边关闭了该报告。”</p>
+<p>针对我提出的修复建议：</p>
+<p>“虽然我们认同这是 Android 平台可以改进的一个领域——例如你提出的解耦权限或增加用户确认提示的建议——但此类架构层面的更改被视为平台改进，而非当前操作系统中的安全漏洞。由于该利用链依赖于第三方应用不当地暴露其拨号路径，因此它仍属于 Android 与 Google 设备漏洞奖励计划的范围之外。”</p>
+<p>我于 10 月 9 日向 ACR Phone 的开发者报告了其深层链接问题，并建议在外部可访问的拨号路径上拦截 MMI 和 USSD 字符串。</p>
+<p>对方的响应速度远超我的预期。开发者在 48 分钟后回复，表示已将修复代码提交至下一版本，并提供了一个测试版（beta build）供验证。开发者指出，Play 商店的发布将取决于 Google 的审核，他预计审核将在下周末左右完成。</p>
+<p>CALL_PHONE 与 MMI 执行<br />TelecomUi 蹦床机制</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>具有 CALL_PHONE 权限的 Android 应用程序除拨打普通电话外，还能够拨打 USSD 和 MMI 代码。</li>
-    <li>MMI 和 USSD 代码由 3GPP 规范定义，其中 MMI 代码在 TS 22.030 中规范，USSD 在 TS 22.090 中规范。</li>
-    <li>来源叙事重点：揭示第三方拨号应用缺陷与Android底层权限机制结合导致的“单次点击执行MMI代码”攻击链，深入分析Android 17特权转移引发的安全回退，并批评Google将平台级权限漏洞归咎于第三方应用并予以“不予修复”的消极态度。</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 15:20 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -97,7 +293,7 @@ notice:
 
 :::cell
 <div id="story-w-20261009-strtod-html-cf84b61307ef8599" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3987" data-content-paragraphs="12" data-published-at="2026-10-10T05:37:18.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3956" data-content-paragraphs="43" data-published-at="2026-10-10T05:37:18.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -106,21 +302,52 @@ notice:
   <span class="news-meta-time">🕒 2026-10-10 13:37</span>
 </div>
 
-### [哎，看来在标准 C 中根本无法可移植地检查字符串转浮点错误](https://sebsite.pw/w/20261009-strtod.html)
+### [哦，看来在标准C中无法以可移植的方式检查字符串到浮点数的转换错误](https://sebsite.pw/w/20261009-strtod.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> oh, apparently it&#39;s not possible to portably check for string-to-float conversion errors in standard c</div>
 
-<div class="article-body" data-article-body="true"><p>这算是我上一篇文章的续篇吧，在那篇里我讨论了 math_errhandling 宏，以及 glibc 和 musl 是如何处理数学错误的（以及标准中是如何规范的）。<br />总括来说：math_errhandling 是一个宏，用以指示 math.h 函数支持哪些错误处理机制：errno（MATH_ERRNO）和/或浮点异常（MATH_ERREXCEPT）。<br />我在上一篇文章中有一点没提到：有一族函数虽然不在 math.h 中，但也受到 math_errhandling 的影响，那就是字符串转浮点数函数族 strtod、strtof、strtold、strtod32、strtod64 和 strtod128：<br />“如果正确的值发生溢出且默认舍入有效（7.12.2），则返回正或负 HUGE_VAL、HUGE_VALF 或 HUGE_VALL（取决于返回类型和值的符号）；如果整型表达式 math_errhandling &amp; MATH_ERRNO 非零，则整型表达式 errno 获取 ERANGE 的值；如果整型表达式 math_errhandling &amp; MATH_ERREXCEPT 非零，则引发‘溢出’浮点异常。”<br />“如果结果发生下溢（7.12.2），函数返回一个量级不大于该返回类型中最小的正正规数的值；如果整型表达式 math_errhandling &amp; MATH_ERRNO 非零，errno 是否获取 ERANGE 值由实现定义；如果整型表达式 math_errhandling &amp; MATH_ERREXCEPT 非零，是否引发‘下溢’浮点异常由实现定义。”<br />这些函数的 Linux man 手册上对此完全只字未提，实际上这背后是有原因的，我稍后会讲到。但标准的意思是：如果 math_errhandling 没有声明支持 errno（例如在 musl 上就是这种情况），字符串转浮点函数在出错时就不会设置 errno。此外，如果结果发生下溢，该函数甚至根本不被要求报告错误。<br />请记住，仅凭返回值本身并不足以判断是否发生了错误，因此要测试是否溢出，你必须使用这两种错误处理机制之一。<br />下面是我尝试写出的一种符合标准认可的、可移植地检查字符串转浮点函数溢出/下溢错误的方法：<br />请注意，这仍然无法保证能检测到下溢，因为报告下溢对实现来说完全是可选的。<br />你之所以从未这样做过（以及 man 手册不提及此点的原因），是因为 POSIX 对这些函数的规范有所不同：<br />“如果正确的值超出可表示值的范围，应返回 ±HUGE_VAL、±HUGE_VALF 或 ±HUGE_VALL（取决于值的符号），并将 errno 设置为 [ERANGE]。”<br />“如果正确的值会导致下溢，应返回一个量级不大于该返回类型中最小的正正规数的值，并将 errno 设置为 [ERANGE]。”<br />所以 POSIX 根本不管 math_errhandling 这一套；无论如何，只要发生溢出或下溢，它都要求实现设置 errno。虽然 POSIX 对函数的规范比标准 C 更严格并不罕见，但 man 手册（无论是 strtod(3) 还是 POSIX 规范 strtod(3p)）从未说明这是一项扩展，这一点确实让我感到非常值得注意。<br />POSIX 的这种行为是否甚至与标准 C 兼容……目前尚不明确。至少对于 math.h 函数，无论 math_errhandling 的值如何，允许设置 errno：<br />“如果发生定义域错误、极点错误或范围错误，且整型表达式 math_errhandling &amp; MATH_ERRNO 为零，则 errno 应设置为与错误对应的值，或者保持不变。”<br />但在前面规范 errno.h 时，标准是这样说的：<br />“[...] 无论是否发生错误，库函数调用都可以将 errno 的值设置为非零，前提是在本文件中该函数的描述中未记录 errno 的使用。”<br />但在这些函数的描述中已经记录了 errno，而该描述并未提及在 math_errhandling &amp; MATH_ERRNO 为零时设置 errno。因此，这表明 POSIX 的行为是不符合标准的。<br />但等等！我到目前为止所讨论的一切都仅仅针对溢出和下溢。如果字符串格式错误且无法被解析为数字，那么标准根本没有规定任何错误：<br />“函数返回转换后的值（如果有）。如果无法执行任何转换，则返回正零或无符号零。”<br />相反，你应该使用 endptr 参数，并在之后检查 endptr == nptr（即结束指针与起始指针相同，说明没有解析任何数据）：<br />“如果主体序列为空或不具有预期的形式，则不执行任何转换；如果 endptr 不是空指针，则将 nptr 的值存储在 endptr 所指向的对象中。”<br />man 手册 strtod(3) 中也有类似的说法：<br />“如果未执行任何转换，则返回零，并且（除非 endptr 为空）将 nptr 的值存储在 endptr 引用的位置。”<br />但再看看 POSIX 是怎么说的：<br />“成功完成后，这些函数应返回转换后的值。如果无法执行任何转换，应返回 0，并且 errno 可能会被设置为 [EINVAL]。”<br />“可能（may）”这个词基本上意味着这是由实现定义的。但这影响很大，因为人们通常会通过类似这样的方式来检查错误：<br />strtod(3) 建议正是这样做：<br />“由于成功和失败时都可以合法地返回 0，因此调用程序应在调用前将 errno 设置为 0，然后在调用后通过检查 errno 是否具有非零值来确定是否发生了错误。”<br />但即使对于兼容 POSIX 的 libc，这种做法也是不可移植的！如果无法执行转换，不同的合规 libc 可能会表现出不同的行为。事实上……<br />在 glibc 上，这会打印 0，因为 glibc 的 strtod 从不将 errno 设置为 EINVAL。而在 musl 上，它确实会将 errno 设置为 EINVAL，因此会打印“22”。这在 Linux man 手册中是完全没有记载的。<br />而且在我看来，按照标准，这也不符合标准 C，因为它在一个已经记录了其他错误条件的函数中将 errno 设置为非零值（就标准 C 而言，无效输入并不属于错误条件）。musl 可能会为自己辩护称：因为其 math.h 函数中没有设置 errno，所以 strtod 描述中的 errno 条件不再适用，因此这里不存在记录的 errno 用法（因为 errno 的使用取决于 math_errhandling 的值）。但这显然太牵强了。<br />无论如何，在我看来很明显的是，标准在此处需要更清晰的措辞。<br />纯粹为了好玩，我想在文末总结一份在字符串转浮点函数中检查错误的全部“正确”方法列表，以彻底阐明这一观点：</p>
-<p>如果你的目标平台是 POSIX，在调用前将 errno 设为 0，调用后检查 copysign(result, 1.0) == HUGE_VAL &amp;&amp; errno == ERANGE。</p>
-<p>否则，在调用前将 errno 设为 0 并调用 feclearexcept(FE_OVERFLOW)；如果 copysign(result, 1.0) == HUGE_VAL，则在调用后根据 math_errhandling 的值，检查 errno == ERANGE 或 fetestexcept(FE_OVERFLOW)。</p>
-<p>如果你只针对某一种特定实现，并且事先知道它支持哪种错误报告方式，则可以跳过 math_errhandling 检查，仅支持这两种方式之一。</p>
-<p>如果你使用了 feclearexcept/fetestexcept，请确保编译器知道你可能会访问浮点环境：在 gcc 上相关的编译选项是 -ftrapping-math（这是默认开启的，除非你使用了 -ffast-math）。为此标准还提供了一个指示字：#pragma STDC FENV_ACCESS ON。不过 gcc 并不支持这个 pragma。</p>
-<p>如果你的目标平台是 POSIX，在调用前将 errno 设为 0，调用后检查 result == 0.0 &amp;&amp; errno == ERANGE。</p>
-<p>务必明确检查 errno 是否为 ERANGE，而不仅仅是非零。否则会导致不可移植的行为。</p>
-<p>否则，如果你只针对某一种实现，请查看它是否在文档中说明了 math.h 函数在下溢（underflow）时的行为。该行为属于由实现定义（implementation-defined），因此从技术规范上讲是要求对其编写文档的。但实际上，连 clang 都懒得为其由实现定义的破烂玩意儿写文档，所以别抱太大指望。</p>
-<p>但如果它确实有文档记录，并且会报告下溢错误，那么根据该实现的 math_errhandling 取值，要么在调用前将 errno 设为 0 并在调用后检查 result == 0.0 &amp;&amp; errno == ERANGE，要么在调用前调用 feclearexcept(FE_UNDERFLOW) 并在调用后检查 fetestexcept(FE_UNDERFLOW)。</p>
-<p>否则你就只能认倒霉了（SOL）。</p>
-<p>如果你真的非常需要检查下溢，并且出于某种原因必须使用 libc 函数，这是我能想到的唯一办法：检查 result == 0.0，如果是，则自行检查输入字符串在指数部分之前是否包含任何非零数字。如果有，说明发生了下溢。不过这很难写对；请仔细阅读标准中关于 strtod 等函数的描述，并确保覆盖所有边界情况。</p>
-<p>将 &amp;endptr 作为第二个参数传入函数，然后检查 endptr == nptr。errno 是靠不住的。</p></div>
+<div class="article-body" data-article-body="true"><p>这算是我上一篇文章的某种续篇。在上一篇中，我讨论了 math_errhandling 宏，以及 glibc 和 musl 是如何处理数学错误的（以及标准中是如何规范的）。</p>
+<p>简而言之：math_errhandling 是一个宏，用于指示 math.h 函数支持哪些错误处理机制：errno（MATH_ERRNO）和/或浮点异常（MATH_ERREXCEPT）。</p>
+<p>我上一篇有一件事没提到：有一族函数虽然受到 math_errhandling 的影响，但并不在 math.h 中，那就是字符串转浮点数函数：strtod、strtof、strtold、strtod32、strtod64 和 strtod128：</p>
+<p>“若正确值发生溢出且默认舍入有效（7.12.2），则返回正或负的 HUGE_VAL、HUGE_VALF 或 HUGE_VALL（取决于返回类型和数值符号）；若整数表达式 math_errhandling &amp; MATH_ERRNO 非零，则整数表达式 errno 取值 ERANGE；若整数表达式 math_errhandling &amp; MATH_ERREXCEPT 非零，则引发‘溢出’（overflow）浮点异常。<br />若结果发生下溢（7.12.2），函数返回一个量级不大于返回类型中最小规范化正数的数值；若整数表达式 math_errhandling &amp; MATH_ERRNO 非零，errno 是否取值 ERANGE 由实现定义；若整数表达式 math_errhandling &amp; MATH_ERREXCEPT 非零，是否引发‘下溢’（underflow）浮点异常由实现定义。”</p>
+<p>这些函数的 Linux man 手册对此完全只字未提，这其实是有原因的，我稍后会讲。但标准的意思是：如果 math_errhandling 没有声明支持 errno（例如在 musl 上就是如此），那么字符串转浮点函数在出错时不会设置 errno。此外，如果结果发生下溢，函数甚至根本不需要报告错误。</p>
+<p>请记住，仅凭返回值不足以判断是否发生了错误，因此要测试溢出，你必须使用这两种错误处理机制之一。</p>
+<p>以下是我尝试写出的一种符合标准、可移植地检查字符串转浮点函数中溢出/下溢错误的方法：</p>
+<p>请注意，这仍然不能保证检测到下溢，因为报告下溢对实现来说完全是可选的。</p>
+<p>你从来没这么做过的原因（也是 man 手册没有提及的原因）是 POSIX 对这些函数的规定有所不同：</p>
+<p>“若正确值超出可表示值的范围，应返回 ±HUGE_VAL、±HUGE_VALF 或 ±HUGE_VALL（取决于数值符号），并将 errno 设置为 [ERANGE]。<br />若正确值会导致下溢，应返回一个量级不大于返回类型中最小规范化正数的数值，并将 errno 设置为 [ERANGE]。”</p>
+<p>所以 POSIX 根本不在乎 math_errhandling；它始终要求实现如果发生溢出或下溢就必须设置 errno。尽管 POSIX 对函数提出比标准 C 更严格的要求并不罕见，但 man 手册从未注明这是一种扩展（无论 strtod(3) 还是 POSIX 规范 strtod(3p) 都没有注明），这让我非常震惊。</p>
+<p>POSIX 的这种行为是否与标准 C 兼容……尚不明确。至少对于 math.h 函数，无论 math_errhandling 的值是多少，都允许设置 errno：</p>
+<p>“若发生定义域、极点或范围错误，且整数表达式 math_errhandling &amp; MATH_ERRNO 为零，则 errno 应被设置为与错误对应的值，或者保持不变。”</p>
+<p>但此前在规范 errno.h 时，标准是这样说的：</p>
+<p>“[...] 库函数调用可将 errno 的值设置为非零，无论是否存在错误，前提是本文档中该函数的描述中未说明 errno 的使用。”</p>
+<p>而在这些函数的描述中已经说明了 errno 的使用，且该描述并未提及在 math_errhandling &amp; MATH_ERRNO 为零时设置 errno。因此这表明 POSIX 的行为是不符合标准的。</p>
+<p>但先等等！我到目前为止所说的全部内容仅针对溢出和下溢。如果字符串格式错误且无法解析为数字，标准根本没有规定任何错误：</p>
+<p>“这些函数返回转换后的值（若有）。若无法执行转换，则返回正零或无符号零。”</p>
+<p>相反，你应该使用 endptr 参数，并在调用后检查 endptr == nptr（即结束指针与起始指针相同，意味着未解析任何数据）：</p>
+<p>“若主题序列为空或不具有预期的形式，则不执行转换；在 endptr 不是空指针的前提下，nptr 的值将存储在 endptr 所指向的对象中。”</p>
+<p>man 手册 strtod(3) 的描述类似：</p>
+<p>“若未执行转换，则返回零，且（除非 endptr 为空）nptr 的值将存储在 endptr 所引用的位置。”</p>
+<p>但看看 POSIX 是怎么说的：</p>
+<p>“成功完成后，这些函数应返回转换后的值。若无法执行转换，应返回 0，并且 errno 可能会被设置为 [EINVAL]。”</p>
+<p>“可能”（may）这个词基本意味着它是由实现定义的。但这是个大问题，因为通常人们会通过类似这样的方式来检查错误：</p>
+<p>strtod(3) 正是建议这么做的：</p>
+<p>“由于在成功和失败时都可能合理地返回 0，因此调用程序应在调用前将 errno 设置为 0，然后在调用后通过检查 errno 是否为非零值来确定是否发生了错误。”</p>
+<p>但即使对于兼容 POSIX 的 libc 而言，这也是不可移植的！不同的合规 libc 在无法执行转换时的行为可能不同。事实上……</p>
+<p>在 glibc 上，这会打印 0，因为 glibc 的 strtod 从不将 errno 设置为 EINVAL。而在 musl 上，它确实会将 errno 设置为 EINVAL，因此会打印“22”。这在 Linux man 手册上完全没有记录。</p>
+<p>而且在我看来，这也不符合标准 C，因为在一个具有其他已说明错误条件的函数中，它将 errno 设置为了非零值（而就标准 C 而言，无效输入并不算错误条件）。musl 可能会为自己辩解说，由于它在 math.h 函数中不设置 errno，因此 strtod 描述中的 errno 条件不再适用，所以不存在关于 errno 的已说明用法（因为 errno 的使用取决于 math_errhandling 的值）。但这显然太牵强了。</p>
+<p>无论如何，很明显标准在这里需要更清晰的措辞。</p>
+<p>纯粹为了好玩，我想在最后列出在字符串转浮点函数中检查错误的全部“正确”方式，以彻底讲清这一点：</p>
+<p>如果你的目标平台是 POSIX，在调用之前将 errno 设为 0，调用后检查 copysign(result, 1.0) == HUGE_VAL &amp;&amp; errno == ERANGE。</p>
+<p>否则，在调用之前将 errno 设为 0 并调用 feclearexcept(FE_OVERFLOW)；如果在调用后 copysign(result, 1.0) == HUGE_VAL，则根据 math_errhandling 的值，检查 errno == ERANGE 或 fetestexcept(FE_OVERFLOW)。</p>
+<p>如果你只针对单一实现，并且事先知道它支持哪种错误报告方式，你可以跳过对 math_errhandling 的检查，只支持其中一种方式即可。</p>
+<p>如果你使用了 feclearexcept/fetestexcept，请确保编译器知晓你可能会访问浮点环境：在 GCC 上，相关的编译标志是 -ftrapping-math，这也是默认设置（除非你使用了 -ffast-math）。标准中也有专门为此设计的 pragma 指令：#pragma STDC FENV_ACCESS ON。不过 GCC 并不支持该 pragma。</p>
+<p>如果你的目标平台是 POSIX，在调用之前将 errno 设为 0，调用后检查 result == 0.0 &amp;&amp; errno == ERANGE。</p>
+<p>务必明确检查 errno 是否为 ERANGE，而不仅仅检查其是否为非零。否则你最终会遇到不可移植的隐患。</p>
+<p>否则，如果你只针对单一实现，请查看它是否在文档中说明了 math.h 函数中发生下溢时的行为。由于该行为是由实现定义的（implementation-defined），技术上要求它必须写入文档。但在实践中，即便是 Clang 也懒得为自己那些由实现定义的内容写文档，所以别抱太大希望。</p>
+<p>但如果确实有文档记录，且它会报告下溢错误，那么根据该实现中 math_errhandling 的取值，要么在调用前将 errno 设为 0 并在调用后检查 result == 0.0 &amp;&amp; errno == ERANGE，要么在调用前调用 feclearexcept(FE_UNDERFLOW) 并在调用后检查 fetestexcept(FE_UNDERFLOW)。</p>
+<p>否则你就彻底没辙了。</p>
+<p>如果你真的非常需要检测下溢，而且出于某种原因必须使用 libc 函数，我能想到的唯一办法是：检查 result == 0.0，如果是，则自行检查输入字符串在指数符号前是否包含任何非零数字。如果包含，则发生了下溢。不过要把这部分写对非常困难；请务必阅读标准中关于 strtod 等函数的描述，确保覆盖所有边界情况。</p>
+<p>将 &amp;endptr 作为第二个参数传入函数，然后检查 endptr == nptr。不能依赖 errno。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -140,7 +367,7 @@ notice:
 
 :::cell
 <div id="story--the-typescript-compiler-a197f1710ee2fd1b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2086" data-content-paragraphs="34" data-published-at="2026-10-10T05:34:40.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2165" data-content-paragraphs="34" data-published-at="2026-10-10T05:34:40.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -149,43 +376,43 @@ notice:
   <span class="news-meta-time">🕒 2026-10-10 13:34</span>
 </div>
 
-### [为 TypeScript 编译器引入 Go 语言的 defer 语句](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
+### [为 TypeScript 编译器添加 Go 语言的 defer 语句](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Adding Go&#39;s defer to the TypeScript Compiler</div>
 
-<div class="article-body" data-article-body="true"><p>我想看看将 Go 语言的 defer 语句加入 TypeScript 编译器到底有多难，但当大功告成时，我却坚信这个特性或许根本不该存在。</p>
-<p>在 Go 语言中，defer 语句会推迟函数的执行，直到外层包裹它的函数执行完毕为止。它最常用于将资源获取与清理代码放在一起，比如获取一个信号量：</p>
-<p>TypeScript 没有完全等同于 defer 的机制。你可能会使用 try/finally，比如：</p>
-<p>但这略显丑陋。</p>
-<p>纯粹为了好玩，我们可以给 TypeScript 编译器魔改引入一个 defer 语句，并获得类似 Go 的语义。由于 defer 无法直接映射到现有的 JavaScript 特性，我们需要输出能够让它在运行时像在 Go 中一样工作的 JavaScript 代码。</p>
-<p>因此，我们的目标是能够编写如下形式的 TypeScript 代码：</p>
-<p>TypeScript 编译器（tsc）本质上主要是一个静态分析引擎。其复杂性在于要对一种从根本上动态的语言进行类型检查，并支持极致的增量编译以满足 IDE 中的低延迟预期。</p>
-<p>幸运的是，为了添加我们的 defer 语句，我们并不需要过多担心类型或其他分析。tsc 本身就已经具备了“识别语法 X，并将其替换为等效语法 Y”的基础设施。</p>
-<p>例如，在面向 ES5 编译时：</p>
+<div class="article-body" data-article-body="true"><p>我原本想探究一下为 TypeScript 编译器添加 Go 语言的 defer 语句究竟有多难，但当我完成时，我已经确信它大概本就不该存在。</p>
+<p>在 Go 语言中，defer 语句会将某个函数的执行推迟到其外层函数结束时。它最常用于将资源获取与清理逻辑放在一起，比如获取信号量：</p>
+<p>TypeScript 并没有严格等价于 defer 的机制。你可能会使用 try/finally，例如：</p>
+<p>但这显得有点丑陋。</p>
+<p>为了好玩，我们可以尝试修改 TypeScript 编译器，强行加入一个 defer 语句并获得类似 Go 的语义。由于 defer 并不能直接映射到现有的 JavaScript 特性，我们需要输出能够在运行时像在 Go 中一样工作的 JavaScript 代码。</p>
+<p>因此，我们的目标是能够编写出类似这样的 TypeScript 代码：</p>
+<p>TypeScript 编译器（tsc）本质上是一个静态分析引擎。它的复杂性在于对一种本质上属于动态的语言进行类型检查，并支持极致的增量编译以满足 IDE 中的延迟要求。</p>
+<p>对我们来说幸运的是，为了添加 defer 语句，我们并不需要对类型或其他分析操心太多。tsc 已经具备了“识别语法 X，并用等价语法 Y 替换”的机制。</p>
+<p>例如，在针对 ES5 进行编译时：</p>
 <p>可能会变成类似这样的代码：</p>
-<p>从概念上讲，添加 defer 意味着进行另一次语法树重写。tsc 已经执行了大量的 AST 到 AST 的转换（例如，可选链 ?. 会被转换为条件表达式），因此我们无需引入新的工具。</p>
-<p>虽然其中有些深层次的复杂性，但在高层面上，我们将获取带有 defer 的 AST：</p>
-<p>并将其转换为类似这样的形式：</p>
-<p>首先，我们需要让 tsc 的解析器知晓 defer 是一条语句。在语法种类列表中，我们添加了 DeferStatement，并将其定义为接收单个表达式操作数。</p>
+<p>从概念上讲，添加 defer 意味着做另一次语法树重写。tsc 已经执行了大量的 AST 到 AST 的转换（例如，可选链 ?. 会被转换为条件表达式），因此我们无需引入新的工具链。</p>
+<p>虽然其中有些复杂细节需要深入研究，但在宏观层面上，我们将接受包含 defer 的 AST：</p>
+<p>并将其转换为类似这样的内容：</p>
+<p>首先，我们需要让 tsc 的解析器识别出 defer 是一个语句。在语法类型（SyntaxKind）列表中，我们添加了 DeferStatement，并将其定义为接受单个表达式操作数。</p>
 <p>我们需要执行一些检查，例如确保 defer 语句出现在函数体内、确保该表达式是可调用的，并确保 tsc 执行其常规的递归检查：</p>
-<p>实际的转换代码非常冗长，因此与其在这里完整复现，不如让我深入探讨我所做的设计决策，并详细介绍这种转换是如何工作的。</p>
+<p>实际的转换代码非常冗长，因此与其在这里逐一复现，我不如深入探讨我所做的设计决策，并详细讲解该转换是如何运作的。</p>
 <p>为了契合 Go 的行为，被调用方、接收者和参数值都会被立即捕获：</p>
-<p>我们必须应对的一种极端情况是可调用方法被重新定义，比如：</p>
-<p>即便 logger.log 稍后被重新赋值，被延迟的调用仍然会调用最初的方法。这符合 Go 的语义，即当执行到 defer 语句时，函数值、接收者和参数都会被立即求值。</p>
-<p>任何包含至少一个 defer 的函数都会获得一个小栈，每个被执行到的 defer 语句都会将一个闭包推入该栈。当函数退出时，该栈会以倒序（后进先出）方式被清空。</p>
+<p>我们需要应对的一种极端情况是可调用方法被重新定义，例如：</p>
+<p>即使 logger.log 稍后被重新赋值，被延迟的调用仍然会调用最初的方法。这与 Go 的语义一致，即当执行到达 defer 语句时，函数值、接收者和参数都会立即完成求值。</p>
+<p>任何包含至少一个 defer 的函数都会获得一个小型栈，每个执行到的 defer 语句都会向该栈推入一个闭包。当函数退出时，该栈会以相反的顺序（后进先出）被清空。</p>
 <p>它会被转换为类似这样的代码：</p>
-<p>我没有为 defer await 设计一套全新的语义，而是直接将其视作错误并予以拒绝。我担心用户会误以为 await 会在函数的其余部分运行之前就 resolve。此外，如果外层函数是 async 的，那么每个被延迟的调用在清理阶段都会按顺序被 await 处理。</p>
-<p>清理代码也可能会失败，因此该转换遵循三条规则：</p>
-<p>Go 不需要这种聚合策略，因为普通错误是值。延迟调用的返回值错误不会被处理，除非用户明确决定对其进行处理。而 JavaScript 的异常则是控制流。因此，当编译后的 defer 代码抛出错误时，它必须决定是替换原始失败、与原始失败合并，还是直接忽略转而优先保留原始失败。</p>
-<p>由于 async 函数会将 throw 和被拒绝的 await 都转换为 Promise rejection，因此转换规则需要对同步抛出和异步清理拒绝一视同仁：</p>
-<p>如果 asyncCleanup() 也被拒绝/抛出异常，f() 将会以一个 AggregateError 被拒绝。</p>
-<p>讽刺的是，实现 defer 的过程让我坚信它不属于 TypeScript。</p>
-<p>我处理的边缘情况越多，就越确信 defer 不属于 TypeScript。Go 的 defer 感觉要自然得多，因为错误是值而不是控制流。在 TypeScript 中，一旦清理过程可以抛出或拒绝，你就需要针对聚合、优先级和异步执行制定策略，而这些在 Go 中根本不存在（Go 的 panic 是通过独立的 panic 和 recover 语义处理的）。</p>
-<p>但希望并未破灭。ECMAScript 显式资源管理（Explicit Resource Management）提案正从另一个方向解决相同的问题。</p>
-<p>以之前的 async-sema 为例，无需使用 defer：</p>
+<p>我并没有为 defer await 凭空捏造一套语义，而是直接将其作为错误拒绝。我担心用户会误以为 await 会在该函数的其余部分运行之前就被 resolve。此外，如果外层函数是 async 的，那么在清理阶段，每个延迟调用的结果都会被按序 await。</p>
+<p>清理代码同样可能会失败，因此该转换遵循三条规则：</p>
+<p>Go 并不需要像这样的聚合策略，因为在 Go 中普通错误就是值。除非用户显式决定处理，否则延迟调用返回的错误根本不会被捕获处理。然而 JavaScript 的异常属于控制流。因此，当编译后的 defer 代码抛出错误时，必须决定是将其替换、合并，还是为了保留原始失败而将其忽略。</p>
+<p>由于 async 函数会将抛出的异常和被拒绝的 await 都转换为 Promise rejection，因此转换对于同步 throw 和异步清理的 rejection 都需要一条明确的规则：</p>
+<p>如果 asyncCleanup() 也发生了 reject 或抛出异常，则 f() 会以 AggregateError 的形式 reject。</p>
+<p>具讽刺意味的是，实现 defer 的过程反而让我确信它并不属于 TypeScript。</p>
+<p>我处理的边缘情况越多，就越发觉得 defer 不适合 TypeScript。Go 的 defer 显得自然得多，是因为错误是值而不是控制流。在 TypeScript 中，一旦清理逻辑可以抛出异常或发生 reject，你就需要针对聚合、优先级和异步执行制定策略，而这些策略在 Go 中根本不需要存在（panic 是通过 Go 独立的 panic 和 recover 语义来处理的）。</p>
+<p>但希望并未破灭。ECMAScript 的“显式资源管理”（Explicit Resource Management）提案从另一个方向解决了相同的问题。</p>
+<p>以上面的 async-sema 为例，不再使用 defer：</p>
 <p>我们可以使用 Disposable：</p>
-<p>我更希望不必定义一个像 _ 这样未使用的变量，但可释放资源的工作机制就是在它们超出作用域时进行清理。</p>
-<p>因此，我更青睐但遗憾目前尚不支持的语法会是：</p>
-<p>你可以在我的 TypeScript fork 的这个分支上找到 defer 的 MVP 实现。</p></div>
+<p>我更希望不必去定义一个像 _ 这样未使用的变量，但可释放资源的工作机制就是在它们离开作用域时进行清理。</p>
+<p>因此，我更青睐但遗憾的是目前尚不支持的语法是：</p>
+<p>你可以在我的 TypeScript 复刻（fork）仓库的这个分支上找到 defer 的最小可行实现（MVP）。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -201,223 +428,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://healeycodes.com/adding-defer-to-the-typescript-compiler" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-icle-no-man-is-an-island-83299127c3afec3e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2393" data-content-paragraphs="22" data-published-at="2026-10-10T01:37:07.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 09:37</span>
-</div>
-
-### [没有人是一座孤岛](https://borretti.me/article/no-man-is-an-island)
-<div class="original-title-sub"><span class="orig-tag">原文</span> No Man Is an Island</div>
-
-<div class="article-body" data-article-body="true"><p>爱德华·霍珀（Edward Hopper），1927年，《自动餐馆》（Automat）局部。</p>
-<p>在本文中，我认为个人的智力活动只有在由其他人类构成的智力共同体中才能得以维系。AI正在瓦解这些共同体，而这反过来又使得个体的智力活动变得愈发罕见。</p>
-<p>几年前，当明确AI将解决软件工程问题时，我的想法是：</p>
-<p>第二点并没有如期实现。实际发生了什么？首先，软件工程的行业讨论环境恶化了。正如我早先所写：</p>
-<p>Claude Code发布至今刚过一年有余。在如此短暂的时间内，软件工程已被彻底重塑。从物质层面来看，它或许是积极的：生产力更高了，尽管代价是代码库变得更加混乱。但从社会层面来看，这是一场灾难。</p>
-<p>围绕软件工程的讨论变得更加愚钝。就好像行业里的每个人都丧失了30点智商。人们过去谈论编译器、类型系统、逻辑。现在他们谈论“提示词”（prompts）、“治理框架”（harnesses）、“循环”（loops）。讨论变得越来越狭隘、浅薄和重复。在我彻底发疯之前，我能忍受听到“智能体测试框架”（agentic harnesses）的次数是有限的。</p>
-<p>其次是人力资本积累的丧失：没有什么可学的内容了。写提示词并不是一项技能，至少相比于软件工程，它是一项浅薄得多的技能。工作在工具层面的维度确实提升了，人们在单位精力投入下可以获得更多产出，但工作中关于积累人力资本的维度却彻底崩溃了。也许这符合理性：既然计算机能替我们做，为什么还要去学编程？于是，为了成为优秀程序员所必须磨砺的严谨、系统的思维方式，全部荡然无存。机器可以替我们保持理性，而我们只需跟着感觉走。</p>
-<p>第二，为软件工程的公共资源做贡献正变得越来越毫无意义。在AI出现之前，你可以发布开源代码，写博客文章分享想法或启发他人，撰写教程、论坛帖子、教材等解释性文本来指导别人。而在AI出现之后，这一切还有什么意义？</p>
-<p>这不仅仅是“你在GitHub上拿不到星标，或者博客没有访问量”的问题；更确切地说，是不再有一种你能够为之做出贡献的人类共同事业感。这里只有你自己代码的私人花园，在AI的帮助下你可以将其向各个方向无限延伸，但你再也不需要离开花园，前往集市与他人交流交易。在这样的环境下，人们很难去在乎什么，也很难去有所作为。</p>
-<p>但这真的重要吗？如果我们不再撰写关于晦涩JavaScript特性的博客文章，不再设计新的编程语言，这真的要紧吗？也许编写代码从来都是苦差事，现在我们可以转向更高阶的事物，比如数学——哦，等等。</p>
-<p>通过观察软件工程发生的变化，以及数学领域目前正在发生的状况，我认为我们可以提炼出一些关于一般智力实践的普适见解。</p>
-<p>我们往往倾向于认为智力活动是私密且孤独的：哲学家坐在扶手椅上，从头开始推演整个世界。但智力活动有两个无法孤立获取的输入要素：一个可供在其基础上继续构建的共享成果库，以及动力。除非你想把整棵科技树重新攀爬一遍，否则共享成果库必然是公共维系的。至于动力，我们可以将其拆解为两个组成部分：</p>
-<p>我们倾向于认为内在动机是最纯粹的：内生的、自我生成的，不求物质或社交利益回报。但它是一种情绪，和所有情绪一样，它是转瞬即逝且短暂的。这也是合乎理性的：否则，我们所有人都会陷入终身无成效的执念之中。因此，我们需要某种东西来填补灵光一闪之间的空白。外在动机正是起到了这一作用。</p>
-<p>想要维持复杂、长期且持续的个人智力活动，需要外部智力共同体提供素材与动力，就像燃料与氧化剂一样。反过来，这种个人活动又维系着共同体：通过发表论文、编写教材、发布代码等，你为共享成果库添砖加瓦，供他人在此基础上继续构建；通过引用他人的论文或向其代码仓库贡献代码，你给予了对方认可与荣誉，肯定了他们工作的价值，进而激励他们继续做出贡献。</p>
-<p>失去了共同体，你得到的并不是各自忙于手头事务的孤立个体，而是化为虚无。智力活动的输入来源枯竭了：没有人再向共享成果库添加内容，也没有同行能从你自身的智力活动中获益。没有了这种外在动机，智力活动就会减少，因为再次重申，内在动机是短暂易逝的。</p>
-<p>在AI之后，智力贡献变得不再必要，甚至显得多余。以软件为例：AI包揽了所有代码的编写，那么无论是编写代码还是撰写文章，其意义何在？受众群体如今已被极度压缩。人类不再编写代码，因此他们不会去阅读关于如何写代码的博客文章，不会看教程，也不会尝试新的函数库或编程语言。以数学为例：AI能够证明定理、撰写论文、解读论文、辅导学生，而在不久的将来，它们甚至可能写出比人类更优秀的整套教科书。那么，撰写论文或教科书的意义何在？它已经多余了。</p>
-<p>如果智力活动变得不再必要——如果设计一门新编程语言或发表一篇论文毫无回响，或者根本没有共同体供你做贡献——那么它就不会发生。这毫无意义。</p>
-<p>现在将这一逻辑推及到智力活动的每一个其他领域，你就能看清未来会是怎样。可能仍有个体在构建新的库和编程语言，但不再有共享的软件工程文化；可能仍有个别的数学学生和从业者，但不再有充满生机的数学家共同体。</p>
-<p>我曾与一些人交流过，他们认为AI对精神生活会产生积极影响，其逻辑在于，目前有太多人是出于功利目的从事智力活动：为了引用量、声望等等。在这种观点看来，智力共同体的崩溃是一件好事，因为它能够将出于内在动机的“超人”与追名逐利的大众区分开来。</p>
-<p>我认为这种观点契合了当代社会的偏见：我们将内在动机与外在动机分别视作高位和低位的象征。一个“心智成熟”的人理应拥有一套私密的、取之不竭的内在动机储备，并且在因果上与外部奖赏完全脱钩。</p>
-<p>但这不是对人类现实的客观看法。人是社会性动物，只有在其他人类构成的社会中才能茁壮成长。我们关心为世界做出贡献，而且我们也应当关心这一点。如果技术让我们的贡献变得多余，那么我们还剩下什么？</p>
-<p>感谢Luke Drago和Andy Matuschak提供的反馈与交流。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 09:37 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://borretti.me/article/no-man-is-an-island" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-facebook-lifeguard-893778a9bdb37671" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3171" data-content-paragraphs="33" data-published-at="2026-10-09T21:44:50.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 05:44</span>
-</div>
-
-### [Lifeguard：用于检测 Python 惰性导入兼容性的静态分析器](https://github.com/Facebook/lifeguard)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Lifeguard: A static analyzer for Python lazy imports compatibility</div>
-
-<div class="article-body" data-article-body="true"><p>Lifeguard 是一款静态分析器，旨在检测惰性导入（Lazy Imports）的不兼容性，并降低在 Python 中采用惰性导入的迁移成本。</p>
-<p>一款快速的静态分析工具，助力在 Python 中推广应用惰性导入。</p>
-<p>在 Python 中，每个 import 语句都会在模块加载时立即执行。无论该导入是否被实际使用，都会产生这种开销。PEP 810 引入了针对 Python 的显式惰性导入（Lazy Imports），它将模块的实际加载推迟到首次访问被导入名称之时。惰性导入能够显著降低内存占用、缩短启动时间并减少导入开销，尤其是在具有深层依赖树的大型代码库中。</p>
-<p>然而，某些 Python 编程模式依赖于立即执行的导入。例如：</p>
-<p>改造现有的代码库以使用惰性导入可能是一项艰巨的任务，特别是在大规模场景下。Lifeguard 能够识别这些不兼容的模式，以便你可以放心地采用惰性导入。</p>
-<p>Lifeguard 会并行分析给定项目的 Python 源文件。它遍历每个模块的抽象语法树（AST）以检测副作用（effects），并将与惰性导入不兼容的副作用映射为错误。该分析器采取保守的分析策略：任何无法通过程序化方式确定可安全进行惰性导入的模块，默认都会被标记为不安全。这意味着 Lifeguard 宁可将潜在兼容的模块标记为不兼容，宁愿放弃潜在的性能优化空间，也要优先保证生产环境的安全性。</p>
-<p>关于分析流水线和架构的深入解析，请参见 docs/architecture.md。</p>
-<p>Lifeguard 目前正处于积极开发阶段。我们的目标是在 Python 3.15 正式发布前做好面向大众广泛使用的准备。</p>
-<p>Lifeguard 已发布至 PyPI，并为 Linux、macOS 和 Windows（x86-64 及 ARM64）提供了预构建的 wheel 包。它需要 Python 3.12 或更高版本，且无需 Rust 工具链：</p>
-<p>python -m lifeguard_lazy_imports 等同于 lifeguard 命令。下方的 cargo run -- 示例用于从源码构建和运行该工具；如果使用已安装的软件包，只需将 cargo run -- 替换为 lifeguard。PyPI 版本是手动发布的，可能落后于主分支。运行 lifeguard --help 可查看当前安装版本所支持的功能。</p>
-<p>如果你在克隆仓库时未包含 --recurse-submodules，请运行 git submodule update --init --recursive。</p>
-<p>尝试 Lifeguard 最快的方法是使用 run-tree 子命令，该命令会发现指定目录下的 .py 文件并跟踪可解析的顶级导入。输入根目录下的文件和目录名称必须是 ASCII Python 标识符；其他路径将被跳过。</p>
-<p>例如，使用随附的示例项目：</p>
-<p>有关完整的演练操作（包括如何解读输出），请参见 GETTING_STARTED.md。</p>
-<p>对于需要更多控制权的大型项目，你可以生成一个源码数据库（source DB）——这是一个向 Lifeguard 声明项目中完整 Python 文件集及其模块路径的 JSON 文件（详见“输入格式”）。请按照以下步骤操作：</p>
-<p>（可选）如果你的项目依赖第三方库，可以通过在 pyproject.toml 中添加 lifeguard 配置段，将 Lifeguard 指向你的 site-packages：</p>
-<p>你可以通过 python -m site 查找到 site-packages 路径。gen-source-db 和 run-tree 都会从 /pyproject.toml 读取该配置段。相对的 site_packages 路径会基于 INPUT_DIR 进行解析。你可以通过 --site-packages /path/to/site-packages 覆盖此设置。</p>
-<p>注意：文件发现过程遵循顶级 import 语句，可能无法发现所有依赖项，例如函数内嵌套的导入或位于输入目录树之外的条件分支中的导入。如果 Lifeguard 报告缺少模块，你可能需要手动向生成的源码数据库中添加条目。对于显式惰性语法，请向源码发现和分析过程均传递 --python-version 3.15 参数。</p>
-<p>详细输出示例：</p>
-<p>在某些模式下，Lifeguard 需要一个源码数据库（source DB）——一个将 Python 模块路径映射到其磁盘位置的 JSON 文件。其格式为：</p>
-<p>你可以使用 cargo run -- gen-source-db 自动生成该文件（参见“运行 Lifeguard”），或者手动创建。</p>
-<p>Lifeguard 输出一个包含两个字段的 JSON 文件：</p>
-<p>若使用 --verbose-output 参数，JSON 中还会包含 IMPLICIT_IMPORTS（模块到依赖项的映射）和 IMPORT_CYCLES（各个循环导入中的模块列表）。使用 --sorted-output 可确保这些字段以确定性顺序排列。</p>
-<p>一个字典，将可安全进行惰性导入的模块映射到必须进行及早导入（eagerly imported）的依赖项列表中。例如：</p>
-<p>重要提示：未在此字典键中出现的模块，在分析中均被视为对惰性导入“不安全”。</p>
-<p>一个模块集合，其中模块内部的所有导入都必须及早加载。对于这些模块，惰性导入实际上被暂时禁用了。注意这一区别：其他模块仍然可以惰性导入属于 LOAD_IMPORTS_EAGERLY 集合中的模块，但当该模块自身加载时，其内部的 import 语句必须立即执行，而不能被推迟。</p>
-<p>该集合仅用于特定的极端情况：</p>
-<p>有关更多详细信息，请参见 docs/load_imports_eagerly.md。</p>
-<p>Lifeguard 可以作为独立的代码检查器（linter）使用，以识别代码库中哪些特定行与惰性导入不兼容。使用 --verbose-output 运行分析器可获得人类可读的报告，按模块显示带有行号的错误信息（参见“运行 Lifeguard”）。这使你能够将 Lifeguard 像 linter 一样使用：在持续集成（CI）或本地运行它，审查被标记的代码行，并进行修复。通过这种方式，Lifeguard 可作为安全启用惰性导入的指南。</p>
-<p>该 JSON 输出旨在为惰性导入加载器的过滤函数提供支持。在 Python 3.15 中，sys.set_lazy_imports_filter() 会安装一个回调函数，用于控制哪些导入被推迟、哪些导入被及早加载。Lifeguard 的输出提供了构建此过滤器所需的数据——使用 LAZY_ELIGIBLE 识别安全模块及其约束，并使用 LOAD_IMPORTS_EAGERLY 识别需要预先解析所有导入的模块。</p>
-<p>我们计划在 Python 3.15 发布之前提供工具，以便轻松接入 Lifeguard 的输出。这项工作目前正在推进中。</p>
-<p>Lifeguard 采用 Rust 实现。我们利用 ruff 进行 AST 遍历，并复用了来自 pyrefly 的若干 crate。我们还对 .pyi 存根文件进行了扩展，以标注第三方库中已知的副作用——例如，标记依赖项中某个特定的模块级函数调用具有可观察到的行为。这些存根文件存储在 resources/ 目录下。有关副作用注解如何与标准类型存根配合工作的详细信息，请参见 resources/stubs/stubs.md。</p>
-<p>为 Lifeguard 贡献代码即表示你同意你的贡献将遵循本源码树根目录下的 LICENSE 文件进行许可。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 05:44 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.com/Facebook/lifeguard" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--into-branches-on-risc-v-d8bcf9ea385821dc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2184" data-content-paragraphs="1" data-published-at="2026-10-09T19:31:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 03:31</span>
-</div>
-
-### [无分支代码中的分支指令](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Branches in branch-free code</div>
-
-<div class="article-body" data-article-body="true"><p>这里有一个将两个无符号 128 位整数相加的完整 C 函数：<br />现在让我们针对 32 位 RISC-V 进行编译：<br />你可以在 Compiler Explorer 上查看输出，旁边还附带了使用 GCC 以及下文将探讨的 Zicond 扩展进行编译的版本。<br />以下是相关的代码片段：<br />等等，加法里为什么会出现 beq？那是条件分支指令，对吧？<br />编译后的代码就是这样执行加法的；a0 和 b0 是我们输入的最低 32 位字；a1 和 b1 是随后的字。所有值均为无符号，low32() 仅保留最低 32 位，比较操作返回 0 或 1。<br />你能猜到为什么要检查 sum1 == b1 吗？<br />x86 和 AArch64 等 CPU 拥有执行条件移动（cmov）的指令，允许在不使用分支的情况下实现进位传递。<br />但在 RV32 上，甚至用 &lt; 比较两个 64 位整数都会产生分支。<br />我们一直在讨论大整数中的进位传递，但如果你写过常数时间（constant-time）代码，你大概在所有地方都用过类似下面这样的某种实现：<br />如果 bit 的低位为 1，mask 就全为 1，因此该表达式保留 a 并将 b 清零。否则，mask 为零，我们得到 b。<br />纯粹的按位运算，源码中没有任何分支。<br />让我们用 clang 23 为 RV32 编译这段代码：<br />啊啊啊啊啊啊啊，一条 beqz 指令，正在对我们刚刚掩码过的位进行分支跳转。精心编写的按位选择操作就这么白费了。<br />这种情况在 64 位 RISC-V 上同样会发生。<br />你可以在 Compiler Explorer 上查看编译后的代码，其中包含这两个目标架构，以及用于对比的 clang 17、GCC 和 Zicond。<br />为什么要包含 clang 17？因为该分支在版本 15 中存在，在 16 和 17 中消失，而在 18 到 23 中又卷土重来了。真有意思，不是吗？<br />因此，即使你在某个特定的编译器版本下审查了汇编代码且一切看起来都没问题，编译器版本或编译器标志的每一次变动都需要重新进行审查。<br />让我们尝试用 Zig 编写 128 位加法，以及相同的位掩码选择操作：<br />第二个字之后出现了相同的 beq，选择操作也变成了相同的 beqz（Compiler Explorer 代码）。<br />更换源码语言并不能帮我们摆脱这个问题。是的，Rust 也存在同样的问题。<br />现在让我们为其他几个目标架构编译 C 语言示例。<br />我还添加了一个 64 位的 a &lt; b 比较，因为这足以在 RV32 上生成分支。<br />以下是 clang 23 在 -O2 优化级别下生成的条件分支和条件返回指令的数量。<br />和往常一样，所有内容都可以在 Compiler Explorer 上进行验证：<br />计数为零的目标架构是安全的。其他所有架构尽管源代码看起来像是常数时间运行，实际上都存在难缠的侧信道风险。<br />WebAssembly 拥有一条 select (cmov) 指令，因此在模块中看不到明显的条件跳转，但 WebAssembly 编译器随后可以做任何它想做的事。在没有等效原生指令的平台上，我们很可能会得到一个跳转。<br />Cortex-M0 (Thumb-1) 和通用 32 位 PowerPC 没有类似 cmov 的指令，因此它们会产生分支。<br />现在出现了一个令人愉快的惊喜：GCC 16.1 在 RISC-V 上编译这两个示例时都没有分支。它的进位使用 sltu，并且对掩码算术运算保持原样。<br />很酷。但让我们做个小改动：从比较操作中推导掩码。<br />然后……分支又回来了！<br />GCC 现在在 RV32 和 RV64 上都生成了 bgeu（Compiler Explorer）。它在 RV32 上的 64 位比较中也会生成分支。<br />对于位掩码示例，有一个常见的变通方案：在使用掩码之前将其通过一个空的 asm 语句传递。让我们这样做：<br />该汇编不执行任何操作，但它的声明告知编译器它可能会更改 mask。<br />现在，两个版本在 RV32 和 RV64 上编译时都没有分支了。呼，总算松了口气。<br />我们能对加法做同样的操作吗？<br />两次尝试都在 Compiler Explorer 上。<br />坦白讲，对于加法，我不会依赖任何一种内存屏障实验作为修复方案。<br />目前，clang 23 保持了我手写的进位链无分支，但谁知道在接下来的版本中会发生什么。<br />不过，对于 RISC-V 来说是有解决方案的：RISC-V 有一个名为 Zicond 的扩展。<br />让我们使用 -march=rv32imac_zicond 启用它，并再次编译我们的位掩码示例：<br />太棒了，没有跳转。在启用 Zicond 的情况下，上面测试的每种情况都没有分支。<br />Zicond 是 RVA23 配置文件的一部分，但不幸的是，当今使用的许多核心并没有实现它，特别是微控制器。<br />即使它可用，也有一个容易被忽视的重要细节：Zicond 规范仅在同时实现了 Zkt 扩展的情况下，才保证其执行时间与数据无关。<br />编写安全、可移植的代码非常困难。防范侧信道就像清除敏感数据（zeroing secrets）一样容易引火烧身（footgunish）。<br />噢，如果你还没读过的话，Thomas Pornin 的《为什么需要常数时间密码学？》以及《常数时间乘法》页面绝对值得一读。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 03:31 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-oads-release-python-3150-96eff79c1b7bf812" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1148" data-content-paragraphs="1" data-published-at="2026-10-09T17:07:02.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 01:07</span>
-</div>
-
-### [要闻：Python 3.15.0 是 Python 编程语言的最新主要版本](https://www.python.org/downloads/release/python-3150/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Python 3.15.0</div>
-
-<div class="article-body" data-article-body="true"><p>发布日期：2026年10月9日<br />Python 3.15.0 是 Python 编程语言的最新主要版本。与 Python 3.14 相比，该版本包含诸多新特性与优化，凝聚了来自 1,012 位贡献者的 5,643 次提交。<br />Python 3.15 的部分主要新特性与变更包括：<br />关于 Python 3.15 变更的更多详细信息，请参阅《Python 3.15 新特性》（What’s new in Python 3.15）。<br />该问题源于 macOS 27.0 中的一项操作系统行为变更，据信该变更会影响 Tk 图形工具包的所有当前版本，进而波及所有当前 Python 版本中的 tkinter 模块。<br />如果您在 macOS 上依赖基于 Tk 的应用程序（例如 IDLE），您不妨考虑推迟安装 macOS 27.0，直到出现针对 Tk 或 macOS 的变通解决方案，或者先行测试确认您的应用程序工作流程未受影响。请关注 issue #158053 以获取最新进展。<br />为了庆祝全新的 3.15 版本，巴里·华沙（Barry Warsaw）为我们准备了一份礼物！<br />“我萌生了一个想法，想迅速制作一个小巧的 TUI（终端用户界面）文字冒险游戏，带大家领略 Python 3.15 的新特性。在此向大家隆重推出‘whatsnewt’：<br />一款体验 Python 3.15 新特性的 TUI 文字冒险游戏。<br />你在解释器内部某处的‘启动门厅’醒来，一路探索走向‘发布之门’。沿途设有 18 个谜题，每一个都对应着你必须实际操作使用的真实 3.15 特性。你不仅仅是在回答枯燥的问题，而是真正在 Python 3.15 解释器中编写并运行代码。<br />部分谜题需要类型检查器，在这些情况下，答案将由 pyrefly 进行验证（它正是出于这一原因被引入作为依赖项），判定结果将直接引用它的反馈信息。<br />体验该游戏最简便的方式是运行：<br />uvx --python 3.15 whatsnewt<br />没错，里面还有彩蛋。”<br />感谢所有帮助促成 Python 开发及这些版本发布的众多志愿者！请考虑通过亲自参与志愿服务，或通过机构向 Python 软件基金会（Python Software Foundation）进行捐赠来支持我们的工作。<br />衷心感谢 Georgi Ker 和 Marie Nordin 为 Python 3.15 设计徽标！<br />同时，也极其感谢主权技术局（Sovereign Tech Agency）通过主权技术奖学金资助雨果·范·凯梅纳德（Hugo van Kemenade）担任 Python 3.14 和 3.15 的版本发布经理。<br />下载 macOS 安装程序<br />下载 Python 安装管理器<br />下载 XZ 压缩源码包</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-10-10 01:07 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.python.org/downloads/release/python-3150/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-o-substitute-for-the-nhs-47c6f8b679d438f6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="380" data-content-paragraphs="3" data-published-at="2026-10-09T16:13:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-10-10 00:13</span>
-</div>
-
-### [保险模式无法取代国民医疗服务体系（NHS）| 读者来信](https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Insurance model is no substitute for the NHS | Letter</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/7dc17cd3be2c706b0700401a34312114fd03aa58/546_0_6250_5000/master/6250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d93869542f4e747c95d517f1e8caad0f" alt="保险模式无法取代国民医疗服务体系（NHS）| 读者来信" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>苏珊·琼斯（Susan Jones）指出，NHS模式的医疗体系既不需要销售成本，也不需要支付股东利润。</p>
-<p>在10月4日的《跨越分歧共进晚餐》（Dining across the divide）栏目中，年轻的参与者特德（Ted）被引述表达了他“希望废除NHS并以社会保险模式取而代之的想法。该模式在需要时仍将提供免费治疗，但人们将通过保险系统缴费，并自行选择保障水平。这些模式能为患者带来好得多的成效。”</p>
-<p>作为一名退休的保险核保人，我坚决不同意特德的观点。让我们来看看商业的基本逻辑。保险有两种“类型”：第一种是随着时间推移发生概率逐渐增加的事件——例如人寿保险。年纪越大，死亡的概率就越高，覆盖该风险所需的保费也就越多；第二种则是随时间推移发生概率基本保持不变的事件——例如房屋保险。房屋被烧毁的概率对每个人来说都大致相同，其成本也在保单持有人之间平均分摊。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-10-10 00:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 ::::
